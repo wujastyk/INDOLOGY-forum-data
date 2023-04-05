@@ -1,0 +1,43 @@
+From ucgadkw at ucl.ac.uk  Wed Nov 15 12:23:53 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 15 Nov 95 12:23:53 +0000
+Subject: fonts
+Message-ID: <161227021641.23782.6402128685583589058.generated@prod2.harmonylists.io>
+
+Anshuman Pandey said:
+> 
+> 
+> On Tue, 14 Nov 1995 ORACLE at wl.aecl.ca wrote:
+> 
+> > Yes, there is freeware postscript (and may be truetype also) available from
+> > the archive located at Wahingotn State University located in Seattle in USA.
+> > I have used postscript version of these fonts and they are very good. I even
+> > defined a set of Macros to make typing of diacritical chars very easy using
+> > these fonts. You can do the same using the Recorder application under Windows,
+> > but if you want my macro file I can send it free.
+> 
+> The Blackbox archive site - blackbox.hacc.washington.edu - is no longer 
+> available. I am unsure whether it's archives are kept elsewhere or if 
+> they were even transfer as all. Additionally, it is the University of 
+> Washington which is located in Seattle, WA. The "other" is a cross-state 
+> rival.
+> 
+> Regarding the recent threads about Devanagari fonts, I might add that one 
+> very good program for creating and printing Devanagari texts is Avinash 
+> Chopde's ITRANS package. Text is entered in transliterated devanagari, 
+> and then processed into devanagari in Postscript format, and when used with 
+> Frans Velthuis's Devnag Metafont package, into DVI and TeX formats as 
+> well. The ITRANS package as well as the Devnag Metafont package is  
+> available via FTP at ftp://chandra.cis.brown.edu.
+
+The Washington fonts mentioned above are avaliable from the INDOLOGY
+Supplementary Gopher.  See http://www.ucl.ac.uk/~ucgadkw/indololgy.html
+
+Dominik
+
+ 
+
+
+
+
+

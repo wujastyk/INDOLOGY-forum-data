@@ -1,0 +1,25 @@
+From ferenc.ruzsa at ELTE.HU  Wed Mar 22 15:41:53 2006
+From: ferenc.ruzsa at ELTE.HU (Ferenc Ruzsa)
+Date: Wed, 22 Mar 06 16:41:53 +0100
+Subject: Vedic Accents and Unicode
+Message-ID: <161227077695.23782.1651076416819762750.generated@prod2.harmonylists.io>
+
+Friends,
+
+I am not in a position to actively participate in such efforts, but I would 
+like to draw the attention of those who can to the problem of the underring 
+characters. When in a text we have besides Sanskrit e.g. Hindi or Tamil or 
+Pali words as well, it would be very nice to distinguish vocalic r and l 
+(underring) from retroflex r /l (underdot). But in the present Unicode 
+standard (as far as I know) the underring characters are not defined.
+
+Ferenc
+--------------------------------------------------------
+Ferenc Ruzsa, PhD
+associate professor of philosophy
+E?tv?s Lor?nd University, Budapest
+e-mail: ferenc.ruzsa at elte.hu 
+
+
+
+

@@ -1,0 +1,51 @@
+From C.Wooff at liverpool.ac.uk  Tue Apr 16 12:08:07 1996
+From: C.Wooff at liverpool.ac.uk (Chris Wooff)
+Date: Tue, 16 Apr 96 13:08:07 +0100
+Subject: Administrivia
+Message-ID: <161227023831.23782.971934863970801466.generated@prod2.harmonylists.io>
+
+This is a repost of something I've sent to Indology several times
+before. Unfortunately recent events indicate that it is again
+relevant!
+----------------------
+
+
+There has been a spate of people trying to signoff Indology
+and making a mess of it. The list software has trapped most
+of these but one or two have gone to all subscribers. It
+is therefore opportune to reiterate the procedures for
+signing off Indology:
+ 
+1) Requests to leave or join should be sent to:
+     listproc at liverpool.ac.uk
+
+2) Point 1 therefore implies that it is inappropriate to send
+such requests to the Indology list. None of the people reading
+the list can sign you off the list. (I am not a member of the
+list so don't even see such requests unless Dominik passes
+them on).
+ 
+Some network users pay real money for each message they receive.
+They quite rightly feel aggrieved to have to pay for messages
+which shouldn't have been addressed to them.
+ 
+3) Occassionally people's email addresses undergo subtle changes
+and the address they attempt to signoff from is not identical
+to the one they used to join Indology. If a signoff fails 
+then *don't* panic. I see all failed signoffs and will (if at
+all possible) compare your old and new address so I can remove
+you "manually".
+ 
+4) If you find a signoff fails and I don't remove you within a
+   reasonable amount of time then contact me as:
+     indology-request at liverpool.ac.uk
+   and I will remove you.
+
+I hope I can rely on your cooperation in this matter.
+ 
+Chris Wooff (Owner Indology List)
+
+
+
+
+

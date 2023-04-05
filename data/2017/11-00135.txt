@@ -1,0 +1,26 @@
+From tylerwwilliams at gmail.com  Wed Nov 22 03:05:01 2017
+From: tylerwwilliams at gmail.com (Tyler Williams)
+Date: Tue, 21 Nov 17 21:05:01 -0600
+Subject: [INDOLOGY] Devanagari and OS 10.12.6
+Message-ID: <CAHRgzy0vfVeqezSW6-KrhtX0kVsUAgkwbfBYcgcS26g90gX_kw@mail.gmail.com>
+
+Dear colleagues,
+
+Are there any Apple users among us who have experienced problems inputing
+Devanagari while using the Chrome web browser since installing OS 10.12.6
+(Sierra)? The problem seems to be limited to typing conjuncts in this one
+application (but I'd be curious to hear if others are encountering other
+problems). Chrome automatically sets to uft-8 encoding, so the problem is
+somewhere else.
+
+Thanks,
+
+Tyler Williams
+South Asian Languages and Civilizations
+University of Chicago
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171121/4f87e417/attachment.htm>
+

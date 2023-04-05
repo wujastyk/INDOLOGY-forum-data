@@ -1,0 +1,163 @@
+From vidynath at math.ohio-state.edu  Wed Dec 11 15:16:45 1996
+From: vidynath at math.ohio-state.edu (Vidhyanath Rao)
+Date: Wed, 11 Dec 96 10:16:45 -0500
+Subject: Retroflexes (continued)
+Message-ID: <161227027431.23782.7994111768490293069.generated@prod2.harmonylists.io>
+
+
+[Some of the references I need to look up have gone missing from the
+libraries more accessible to me. These relate only to an alternate
+theory of Dravidian influence on Indo-Aryan. So it seems better to
+complete my objection to `retroflexes are due to Dravidians mispronouncing
+OIA' theory, deferring the formulation of an alternate theory to a
+later time.]
+
+How did the Dravidians manage to preserve phonemic value of aspiration,
+even though aspiration is not found in proto-Dravidian?
+
+Colin Masica, `Indo-Aryan languages' states that aspiration is not
+phonemic in Sinhalese and Maldivian. Given the geographic situation,
+these are likely to be most subject to Dravidian influence. On the
+other hand, Pali shows little evidence of loss of aspiration.
+
+So how did Dravidians, who had such a hard time with alveolars because
+they did not exist in their mother tongue, and ended up changing them into
+retroflexes, manage to preserve aspirated stops?
+
+-----------
+
+Finally, I would like to address the argument that North Dravidian may
+not have preserved alveolar stops at the time of the arrival of
+Indo-Aryans because modern North Dravidian languages do not have them.
+This seems to enjoy some vogue, so it seems to worthwhile to address it
+in a public post.
+
+I have already alluded to the weakness of this argument: North
+Dravidian (and most of the Central Dravidian) languages are said
+to have merged n/_n and .n into one phoneme, given as `n' in DEDR.
+Apparently, the retroflex pronunciation of .n is preserved only
+in the cluster .n.t (pronounced as .n.d).
+
+If we wish to conclude that proto North Dravidian did not have alveolars
+because they are not present in modern dialects, we must, a fortiori
+conclude that proto North Dravidian did not preserve retroflex nasal .n.
+This is fatal to the theory that retroflexes in IA are due to
+Dravidian substratum. After all, in Sanskrit, retroflexion of nasal n
+occurs in more contexts than retroflexion of non-nasals.
+
+Incidentally, the fact that North Dravidian (and much of Central Dravidian)
+merges n/_n and .n throws an unexpected light on the statements in
+Aitreya Aranyaka 3.2.6 about .n and .s. It may well have been the North
+Dravidians who were changing the original .n of rks to n! [Incidentally,
+.Rkpraati"saakhya 14.19 mentions mistakes in pronunciation of aspitates.
+But this never did catch on. Why?]
+
+There are a few other minor points: North Dravidian languages show
+different outcomes of -t-, -_t- and -.t-. So no two of them could
+have merged at any point. [The change -_t_t- => -tt- is found in
+South Dravidian also: it is common in colloquial Tamil.] There are
+Central Dravidian languages which have a common outcome for -.t-
+and -_t-, namely Gondi, Pengo, Konda, Manda and Kuwi, with partial merging
+in Kui. But the outcome is palatalized in Pengo, and Manda, and
+partially palatalized in Kuwi. Kui palatalizes -.t-, and partially
+palatalizes -_t-. Konda changes -.t- and -_t- to -_r-, the outcome of
+-_t- in Tamil and Malayalam also. Gondi has several varieties of
+r as the outcomes of -.t- and -_t-. [By palatal, I mean such as c, j, y
+or a further change to s, and not apico-palatals.]
+
+We would need to consider which are more likely to palatalized,
+retroflexed or unretroflexed apicals. It seems to me that the latter would
+be more likely. In that case, we need to consider the possibility of
+loss of intervocalic >retroflex< stops in Dravidian dialects, due to being
+merged with with alveolars into a single non-retroflexed apical series.
+
+Given these considerations, simple assertion that North Dravidian had
+retroflexes but not alveolars is unconvincing. Such an argument needs
+systematic consideration of historical evolution of the phonology of
+Dravidian languages, paying attention to the whole phonemic system.
+To talk about outcomes of -_t- without also considering what
+happened to dentals and retroflexes and the nasals is methodologically
+faulty.
+
+Furthermore, if we want to assert that retroflexes are due to Dravidian
+substratum, we cannot use that conclusion to date the changes in
+Dravidian phonology. That simply begs the question.
+
+Reports of the loss or nonuse of alveolars are also incoorect:
+A minimal pair distinguishing -_n- and -.n- is `pa_ni', dew vs `pa.ni',
+service/work, to bow to (`pa.ni' in the sense of speak, give orders, does
+not seem occur in Modern Tamil). [As Telegu merges, -n/_n- and -.n-, it is
+possible that -_n- is missing in the northernmost dialects of Tamil. But it
+is certainly present in Madurai area, and I think in Trichi area as well.]
+
+Tamil also uses _n to transcribe intervocalic n in English words.
+Thus Germany would be written as `jerma_ni' (`cerma_ni' is the writer
+wishes to stick to the `pure Tamil' alphabet) and not as `jerma.ni'.
+
+It is true that Alveolar t and d are transcribed as .t. But this is
+because Tamil does not preserve -_t- as a stop. It is a two-flap r
+(explaining the transcription R in ITRANS) in the `learned' pronunciation,
+and a simple r in colloquial pronunciation. -_t_t- is _tR in learned
+pronunciation and tt in colloquial. In nt and nd, the required
+assimilation rules then force retroflexes. But, apparently, not
+for everyone.
+
+Just out of curiosity, I checked Tamil novels that I found at the Columbus
+Public Library and selected one (by its cover :-) that I thought was most
+likely to contain trasncriptions of English sentences and words. This was
+`varappirasaatam' by Hemaa Aa_nandatiirta_n. Here is a sample (using
+Anthony Stone's suggestions for transliteration; in particular, :e/:o are
+the *short* vowels):
+    yuu ke_n.t sii truu ta .t:elipo_n
+      (you can't see through the telephone). [p7]
+    paarti mai_nas pip.tii_n iikv:els .tv:e_n.tipaiv
+      (forty minus fifteen equals twenty-five). [p9]
+     :o_n mi_ni.t
+       (one minute) [p11].
+Not only are word final and intervocalic n of English transcribed by _n,
+even nt is being transcribed by _n.t! (But for some reason, the use
+of the digraph _kp is avoided for f).
+
+Interesting side-note: Some varieties of Jaffna Tamil are said to
+pronounce -_t- as a stop. Speakers of these dialects apparently
+prefer to transcribe t and d with _t. A post in the Usenet group
+soc.culture.tamil, that mentioned this gave the example of Tolstoy,
+which was written (in ASCII graphics, which I will not reproduce) as
+`RaalsRaay' (or perhaps `RaalsRai'?). It sounds funny to my ears,
+but then I have never been to Jaffna.
+
+-------
+
+Finally, there seems to be a belief in a `mystical connection' between
+retroflexes and South Asia.
+
+But there is no such mystical connection. By now, most Indologists
+know that some Swedish dialects have retroflex stops. What may not be so
+well known is the fact that retroflexes are also found in some Sicilian
+dialects and in some American Indian languages. The later also
+distinguish dental and retroflex sounds at the phonemic level.
+(`Phonetics', B Malmberg, Dover 1963, pp.41--42.)
+
+-------
+
+To sum up, the objections are
+
+(1) The history of Dravidian phonology is either is ignored or used in
+a piecemeal fashion, and without full attention to factual accuracy.
+
+(2) No explanation is given for the preservation of aspirates by
+the Dravidians who  are said to have been unable to pronounce the apicals,
+even though aspiration too is not found in proto-Dravidian
+
+(3) Appeal is made to some sort of `mystical' connection between
+retroflexes and South Asia, even though retroflexes are found in
+Europe and the New World.
+
+
+-Nath
+Nath Rao (nathrao+ at osu.edu)		614-366-9341
+
+
+
+
+

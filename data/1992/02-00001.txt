@@ -1,0 +1,87 @@
+From akella at BE.AC.ULG.MONTEFIORE  Tue Feb  4 16:50:00 1992
+From: akella at BE.AC.ULG.MONTEFIORE (AKELLA VIJAY BHASKAR R14 PAVELLA)
+Date: Tue, 04 Feb 92 17:50:00 +0100
+Subject: E-mail to India !!
+Message-ID: <161227015224.23782.6345335244490635304.generated@prod2.harmonylists.io>
+
+ 
+
+Hi !
+Here is some info I have about e-mail to India.
+ * The e-mail gateway to India is via Bombay.
+ * It is possible to find out places which have e-mail facility using the
+   whois command. This allows one to search the database which has , or rather
+   ,supposed to have addr of all institutes with e-mail facility in India.
+   I am including the help info on this facility and also a sample session.
+   (which is mainly aimed at pointing out the fact that not all addr are in the
+    DB).
+ 
+Hope this helps.
+ 
+Vijay Akella
+ 
+=============================================================================
+     Online Email directory of ERNET users in India (maintained on sangam)
+ 
+     The whois program examines a central database of registered users  and,
+     based on a user supplied search key, looks up and displays information
+     about all selected users. Display is always truncated to fifty lines.
+     The command
+       whois -h sangam.ernet.in help
+     gets you a copy of this document.
+ 
+SEARCH KEYS
+     All searches are case-insensitive. When searching the database  with  a
+     name  key,  you can  use a few  characters  of the  name instead of the
+     entire word.  This is handy if you are not sure of the exact spelling.
+ 
+     A search key consists of a single word or group of words  contained  in
+     (double) quotes (" ... "). The single word form matches city name.
+ 
+     whois -h sangam.ernet.in bombay    (Lists ernet sites in Bombay)
+     whois -h sangam.ernet.in mad       (All the Madras sites !)
+ 
+     Queries using the form key at site will
+     match user's login name or full name as in /etc/passwd  file.
+ 
+     whois -h sangam.ernet.in joshi at shakti      (All users on shakti matching
+                                                 the pattern 'joshi')
+ 
+     The use of the symbol % in front of a name limits the search
+     to the field containing the login name. Eg:
+ 
+     whois -h sangam.ernet.in %sadanand at shakti
+     (only logins starting with 'sadanand' at shakti)
+ 
+     This will fail to match P Sadanandan, whose login name is ps
+ 
+     Directory outputs associate a mailid with each user, for further
+     enquiry, to retrieve full postal address, phone and Fax numbers.
+     For example, sh287 is the mailid of PKX Thomas as shown below.
+ 
+(sh287) thomas:(Mr. P.K.X. Thomas,NCST,,) <thomas at shakti.ernet.in>
+ 
+     Use !mailid for getting detailed information.
+ 
+     whois -h sangam.ernet.in !sh287
+     (Gives postal address, Phone & Fax numbers of Thomas)
+                    (C-Shell users must use \! instead of !)
+ 
+----------------- sample session ------------------------
+$whois -h sangam.ernet.in mad
+We are sorry that the node shiva.ernet.in has not sent us directory information
+ 
+Node_name 		Address
+imsc.ernet.in	The Institute of Mathematical Sciences : CPT Campus, Taramani :
+                 Madras 600 113
+shiva.ernet.in	No Information
+ssf.ernet.in	School of Mathematics, SPIC Science Foundation :
+                92 G. N. Chetty Road, T. Nagar : Madras - 600 017
+Use key at nodename for Email address of users matching 'key'
+=================================================================
+ 
+
+
+
+
+

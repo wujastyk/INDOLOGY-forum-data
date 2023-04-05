@@ -1,0 +1,82 @@
+From yanom at KSUVX0.KYOTO-SU.AC.JP  Wed Apr  8 00:54:33 1998
+From: yanom at KSUVX0.KYOTO-SU.AC.JP (Michio Yano)
+Date: Wed, 08 Apr 98 09:54:33 +0900
+Subject: navagraha worshipped as deities
+Message-ID: <161227037547.23782.7465250090027134895.generated@prod2.harmonylists.io>
+
+Marianna Kropf wrote:
+>- One question I wish to answer: how far can we find references to a
+>kind of worship of navagraha in the ancient textual sources as it is
+>practiced nowadays? Do these references allow to say something on the
+>beginning of a tradition where the planetary deities are referred to as
+>(secondary) deities?
+>Any hints are welcome.
+
+A couple of years ago I wrote a paper on navagraha worship
+in Sanskrit texts under the tilte:
+`Planet Worship in the {\em Y\={a}j\~navalkyasm\d{r}ti}'.
+Unfortunately this papers is still waiting for publication.
+For your reference, I just cut and paste here a table of contents
+of my paper and titles of Sanskrit texts which I used (in LaTeX format).
+If you need further information I will write to you privately.
+
+I hope the paper is published in a year.
+
+Michio YANO, Kyoto Sangyo University
+yanom at cc.kyoto-su.ac.jp (for private mails)
+
+---------- Table of Contents of M.Yano's forthcoming paper ------
+\section{Graha as Seizer}
+\section{Grahas as Heavenly Bodies}
+        \subsection{Vedic texts}
+        \subsection{Svarbh\={a}nu as an eclipse demon}
+        \subsection{R\={a}hu and Ketu as grahas}
+        \subsection{The oldest reference to planets}
+        \subsection{Nine grahas without fixed order of reference}
+        \subsection{Week day order of grahas}
+\section{Texts on Grahayaj\~na}
+\subsection{The Grahayaj\~na section of the G\d{r}hyas\={u}tras}
+\section{The Graha\'s\={a}nti of the Y\={a}j\~navalkyasm\d{r}ti\/}
+\subsection{The date of the Y\=aj\~navalkyasm\d{r}ti}
+\subsection{Contents of YS 1.295--308}
+
+Abbreviations of Sanskrit Texts used:
+
+AgniP: {\em Agnipur\={a}\d{n}a}
+AV(P): {\em Atharvaveda}, Paippal\=ada recension, digitalized by M.Witzel.
+AV(S): {\em Atharvaveda}, \'Saunaka recension
+AVP: {\em Atharvaveda-pari\'si\d{s}\d{t}ta}, ed.\,by G.M.\,Bolling and J.\,
+von Negelein, Leipzig 1909.
+\=AgnivGS: {\em \=Agnive\'syag\d{r}hyas\=utra}
+\=A\'svGP: {\em \=A\'sval\={a}yanag\d{r}hyapari\'si\d{s}\d{t}a},
+(Bibliotheca Indica ed.)
+\=A\'svGSB: {\em \=A\'sval\={a}yanag\d{r}hyas\=utrabh\={a}\d{s}ya},
+(Adyar Lib.\,ed.\,Appendix)
+BY: {\em B\d{r}hady\={a}tr\={a}}, ed.\,by D.\,Pingree, Government of Tamil Nadu
+1972.
+BaudhGSS: {\em Baudh\={a}yanag\d{r}hya\'se\d{s}as\=utra}
+BaudhDS: {\em Baudh\={a}yana\-dharma\-s\={u}tra}
+BhavPU: {\em Bhavi\d{s}yapur\={a}\d{n}a-Uttara}
+GP:{\em Garu\d{d}apur\={a}\d{n}a}
+HGSS: {\em Hira\d{n}iyake\'sig\d{r}hya\'se\d{s}as\=utra}
+JGS: {\em Jaiminig\d{r}hyas\=utra}
+K\=athS: {\em K\={a}thakasa\d{m}kara\d{n}a}
+Mbh: {\em Mah\={a}bh\={a}rata}
+MGS: {\em M\={a}navag\d{r}hyas\=utra}
+MP: {\em Matsyapur\={a}\d{n}a}
+NM: {\em N\={\i}lamatapur\={a}\d{n}a}
+PadmaP: {\em Padmapur\={a}\d{n}a}
+RV: {\em \d{R}gvedasa\d{m}hit\={a}}
+\'S\=antiK: {\em \'S\={a}ntikalpa}
+VD: {\em Vi\d{s}\d{n}udharmottarapur\={a}\d{n}a}
+VGS: {\em Vaikh\={a}nasa\-g\d{r}hya\-s\={u}tra}
+VYJ: {\em V\d{r}ddhayavanaj\={a}taka\/}, ed. by D.\,Pingree,
+Gaekward Oriental Series, Nos.\,162 and 163 (1976).
+YJ: {\em Yavanaj\=ataka}, ed.\,by D.\,Pingree, Harvard Oriental Series
+No.\,48, 2 vols.\,1987
+YS: {\em Y\={a}j\~navalkyasm\d{r}ti}
+YY: {\em Yogay\=atr\=a}, ed. by Ramacandra Jha, Darbanga 1986.
+
+
+
+

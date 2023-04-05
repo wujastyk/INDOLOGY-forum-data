@@ -1,0 +1,37 @@
+From info at TICONSOLE.NL  Wed Jul  8 19:37:39 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Wed, 08 Jul 98 21:37:39 +0200
+Subject: Sanskrit
+Message-ID: <161227040671.23782.725115045271315698.generated@prod2.harmonylists.io>
+
+Eliot Stern wrote
+
+>"na kazcid indraayudhaM darzyate" should be equivalent to "na kaJcid
+>indraayudham darzayati" "he does not show the rainbow to anybody".
+
+>"daaso bhaaraM haaryate" should be equivalent to the "daasaM (daasena vaa)
+>bhaaraM haarayati" "he  has the servant carry the luggage".
+
+>"raamaH pustakaM daapyate" should be equivalent to "raamaM pustakaM
+>daapayati" "he makes R. give the book".
+
+Finally back to Indology, after the English and German side-walk we took! I'm happy you (Eliot) took the trouble to take the commentaries into the discussion; they can provide another view. With the examples you gave, I start to doubt about {\dn rAma.h pustaka.m dApyate}. Although your first example, {\dn na ka"scid indrAyuDa.m dar"sayate} looks as if here the `nobody' is the subject, whereas it is the indirect object in the active version. So, in 1) there is IO to SU, but in 2) and maybe 3) this is not the case. Is it a possibility that the commentaries, who
+
+>... do not, by the way, make or notice
+>any semantic distinction between the active and passive voice expressions
+
+also fail to analyse the passive causative?
+
+I took my example from K. Rangan: `Some Problems in Tamil Passive Constructions', in {\em Indian Linguistics}, 40-IV, 1979:218-229. He, on his turn, relied on D.E. Johnson: `On relational constraints on grammar', in: {\em Syntax and Semantics}, vol. 8 (eds. Cole, P and J.M. Sadock), New York: Academic Press; pp. 151-178. If the example of Rama and the book fails to show dative raising, then the overall conclusion must be: IO can never act as a subject in IE languages, except for English. Perhaps the only Sanskrit exception then is Baltuch's nobody is shown the rainbow (by him). If this turns out to be a real exception, then there is IO to SU, but on a very limited scale. The commentaries in any case seem not have been aware of it.
+
+Sandra van der Geer
+Leiden, NL
+info at ticonsole.nl
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 2476 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19980708/eb7a4bda/attachment.bin>
+

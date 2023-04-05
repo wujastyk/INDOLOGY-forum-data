@@ -1,0 +1,74 @@
+From Peter_Scharf at brown.edu  Thu Dec 22 06:05:14 1994
+From: Peter_Scharf at brown.edu (Peter_Scharf at brown.edu)
+Date: Wed, 21 Dec 94 23:05:14 -0700
+Subject: The best transliteration scheme for Sanskrit etc.
+Message-ID: <161227018051.23782.5937616250363598605.generated@prod2.harmonylists.io>
+
+At 4:00 pm 18/12/94 Dominik wrote regarding transliteration schemes:
+
+>There is, of course, no such thing, any more than there is a best
+>grammar of Sanskrit, or a best introductory reader, etc. (except
+>that Macdonnell *is* the best grammar, and Lanman *is* the best reader :-)
+
+>There are many, many rational and useful input schemes for Sanskrit,
+>and there is really no ground for judging one better than another.
+>As long as a system is unambiguous, it is good.
+
+Lack of ambiguity is of course exacltly the minimum criterion of a good
+transliteration scheme.  Other criteria are ease of use on a variety of
+systems and transferability across the network.  These qualities were also
+met by Michio Yano's and mine.  Mine in addition has the virtue of
+requiring a single key stroke for each Sanskrit sound.  This makes it
+faster to type with, leaves fewer characters to store and leaves nothing to
+context when it comes to transliterating to another Font.
+
+>If you want to promote one scheme over another (I don't) then you should
+>at the outset make clear whether you are using a 7-bit or an 8-bit
+>or a 16-bit character set, and why you have made this choice.  Then you
+>have to make clear whether your scheme uses di-graphs or tri-graphs
+>to represent single Indic characters.  Finally, you must indicate whether
+>your chosen scheme permits or requires code-switching, and what the
+>code-switch character is.  I.e., is "a" in English language represented
+>by the same code-point (character number) as "a" in Sanskrit, say.
+
+All of this is irrelevant since we are not speaking of anything but what is
+common to all these machines and to the usual roman upper and lower case
+character set.
+
+>when mixing English and Sanskrit you must have a marker to say
+>"here endeth the English and here beginneth the Sanskrit" and vice versa.
+>If none of the characters do double duty (like IISCI) then you don't need
+>to switch codes in this way.
+
+We are speaking of the roman script used exclusively for Sanskrit, not for
+mixing languages.  This is the use required when making a large file of
+Sanskrit Text.  When making data files of Sanskirt text it is unnecessary
+to use a scheme which makes distinctions between English and Sanskrit at
+the expense of the factors I mentioned above under criteria of a good
+transliteration scheme.
+
+My remarks were adressed to promoting adequate and useful input of Sanskrit
+texts in the wake of recent input that left room for improvement.  Let us
+hope that others discern the reasonableness of my suggestions.
+
+>If you intend to distribute texts in bulk, then please make your coding
+>scheme publicly documented, as have the Kyoto group, the Vienna group (CSX)
+>and Peter Schreiner, etc.
+
+Michio Yano has been thoughful to publish his.  I would like to see the CSX
+and Peter Schreiner's.
+
+Peter M. Scharf
+Department of Classics
+Brown University
+P.O. Box 1856
+Providence, RI 02912
+U.S.A.
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,81 @@
+From mmdesh at umich.edu  Thu Mar 21 12:58:39 1996
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Thu, 21 Mar 96 07:58:39 -0500
+Subject: Why not a definitive devnagri font
+Message-ID: <161227023514.23782.48483173862455211.generated@prod2.harmonylists.io>
+
+	The issue of being able to use Devanagari on a network like 
+Indology carries a possible assumption that one may not only be quoting 
+texts using this script, but that one may also wish to communicate by 
+using those languages like Hindi which use Devanagari as their normal 
+script.  While I see the merit of being able to communicate using Hindi 
+or Marathi for a certain group of users of those languages, Indology as a 
+group is well served by using means which are most widely available to 
+all participants.  Here we are interested in discussing issues related to 
+Indological matters, rather than present ourselves as users of specific 
+languages or scripts.  To this extent, I would rather like to see the use 
+of romanization continued.
+	However, I agree with Dominik that a time has indeed come to 
+start using Indian scripts in our western journals and other 
+publications.  Even here, I have a feeling that we must make a 
+distinction between citations or editions of texts and non-western words 
+being discussed in a western language.  While the citations and editions 
+should preferably be in a native script such as Devanagari, individual 
+words being discussed should be romanized to make that discussion 
+accessible to a wider audience.
+	Some recent publications have taken the question of script to 
+another possibility:  using both Devanagari and Roman transcriptions of 
+citations and texts side by side.  Bob Hueckstedt's book on 'iko yaN aci' 
+and Cardona's books have followed this pattern.  Personally I think this 
+leads to unnecessary prolixity and destroys too many trees.  Anyone who 
+can be presumed to read a book in English can be presumed to read 
+Romanized Sanskrit, or one can make a judicious (?) decision to leave all 
+textual citations in Nagari.  I do not see the need to put each citation 
+in both the scripts.
+	Hope this is some food for thought.
+		All the best,
+
+				Madhav Deshpande
+
+On Thu, 21 Mar 1996, Dominik Wujastyk wrote:
+
+> Birgit Kellner said:
+> > 
+> > [...] all sorts of systems (nobody mentioned OS/2
+> > as yet, [...]
+> 
+> I have been using OS/2 as my main platform for several years, and I
+> think it combines the very best qualities of Windows, DOS, and Unix in a
+> single product.  It is very stable (never crashes) and a wonderful
+> platform for communications of all sorts.  A happy customer.
+> 
+> Dominik Wujastyk
+> 
+> 
+> > Hence, I would strongly suggest that, until the
+> > current lcd is replaced by one which allows for Devanagari, let's stick to
+> > the present conventions. 
+> 
+> Yes, indeed.
+> 
+> The issue of Devanagari representation of Sanskrit text is, in any case,
+> not of great importance in contemporary indological scholarship.
+> Indologists are all used to reading and writing books, journals, and
+> indeed entire Sanskrit texts, in romanization.  And historically, of
+> course, Devanagari is not by any means the only script that has been
+> used to record Sanskrit.  It is attractive and "natural" in a way, but
+> romanization also has its advantages for representing certain linguistic
+> and semantic features.
+> 
+> I do think, however, that since Devanagari is now so easy to typeset,
+> some of the journals like BSOAS, JAOS, JRAS, IIJ, etc., might consider
+> admitting the use of Devanagari in some articles, if desired.
+> 
+> Dominik Wujastyk
+> 
+> 
+
+
+
+
+

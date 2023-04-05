@@ -1,0 +1,52 @@
+From krishnaprasadah.g at gmail.com  Tue Aug 30 09:35:27 2016
+From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
+Date: Tue, 30 Aug 16 15:05:27 +0530
+Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0JTGFUZVggc291cmNlIGZpbGVzIGZvciDigJhBZGh5xIF0bWFyxIFtxIF5YeG5h2XigJlwxIHhuYdpbsSreWFwcmF5b2fEgeG5h8SB4bmDIFZpbWFyxZth4bil4oCZ?=
+In-Reply-To: <CAATk=rDcS8VG-cxHtBdWjmENVKbi+-_5b60Ozsge-boS=NDZPw@mail.gmail.com>
+Message-ID: <CAODNnZgdcfXYLh8mQubgwUx6pouGwjT9XpCsZM263424ZycH9A@mail.gmail.com>
+
+Thanks a lot
+
+On Tue, Aug 30, 2016 at 3:03 PM, Nityanand Misra <nmisra at gmail.com> wrote:
+
+> Dear list members
+>
+> For those intersted, the LaTeX source files for the book Adhy?tmar?m?ya?e?
+> <https://www.academia.edu/25018408/Adhy%C4%81tmar%C4%81m%C4%81ya%E1%B9%87e_Ap%C4%81%E1%B9%87in%C4%AByaprayog%C4%81%E1%B9%87%C4%81%E1%B9%83_Vimar%C5%9Ba%E1%B8%A5>
+> <https://www.academia.edu/25018408/Adhy%C4%81tmar%C4%81m%C4%81ya%E1%B9%87e_Ap%C4%81%E1%B9%87in%C4%AByaprayog%C4%81%E1%B9%87%C4%81%E1%B9%83_Vimar%C5%9Ba%E1%B8%A5>
+> p??in?yaprayog???? Vimar?a?
+> <https://www.academia.edu/25018408/Adhy%C4%81tmar%C4%81m%C4%81ya%E1%B9%87e_Ap%C4%81%E1%B9%87in%C4%AByaprayog%C4%81%E1%B9%87%C4%81%E1%B9%83_Vimar%C5%9Ba%E1%B8%A5> are
+> now available under GNU General Public License. The source files are
+> attached with the email and are also available under https://sites.google.
+> com/site/nmisra/ARAPV.zip
+>
+> To compile the book cover and the book PDFs, unzip the ARAPV.zip file and
+> follow the instructions in the steps.txt file.
+>
+> Apart from the GNU GPL comment block, the source files do not have any
+> comments. I currently do not have the time to document, maintain, or
+> improve the source.
+>
+> In the hope that the source files will help people typesetting Sanskrit
+> works in LaTeX,
+>
+> Nityananda
+>
+> --
+> Nity?nanda Mi?ra
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160830/67d3ab36/attachment.htm>
+

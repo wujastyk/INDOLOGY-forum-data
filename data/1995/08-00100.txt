@@ -1,0 +1,33 @@
+From aditya at mail-e1a.megaweb.com  Wed Aug 16 13:52:01 1995
+From: aditya at mail-e1a.megaweb.com (Aditya, the Hindu Skeptic)
+Date: Wed, 16 Aug 95 13:48:01 -0004
+Subject: CSX font on Windows
+Message-ID: <161227020381.23782.13616577880481675282.generated@prod2.harmonylists.io>
+
+On 16 Aug 95   A Burton wrote:
+
+> 	Of course before you start you must configure it to the codes for
+> your particular font (unfortunately there is absolutely no standard).
+> You can use keys which seem logical and the program works for most 
+windows applications.. 
+That is true but I have found a key board assignment by my font
+maker to be more logical than most. I am using Sulekh fonts and
+have to use Compose for only a few characters. They did supply 
+the compose program along with their fonts.
+                          .oooO
+Have a nice day            (  )   Oooo.
+     -----------------------\ (---(   )---------------------------
+                             \_)   ) /
+                                  (_/  http://pages.prodigy.com/FL/aditya
+*************************************************************************
+  Aditya Mishra          | The opinions expressed herein are absolutely *
+Phone/FAX 305-746-0442   | not immutable and might have already changed *
+Internet: aditya at gate.net| by time you read them due to the new evidence*
+Prodigy:  TVDS96A        | or data that has come to my attention.       *
+*************************************************************************
+ 
+
+
+
+
+

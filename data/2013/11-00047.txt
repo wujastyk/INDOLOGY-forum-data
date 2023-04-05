@@ -1,0 +1,91 @@
+From suresh.kolichala at gmail.com  Thu Nov 14 19:53:28 2013
+From: suresh.kolichala at gmail.com (Suresh Kolichala)
+Date: Thu, 14 Nov 13 14:53:28 -0500
+Subject: [INDOLOGY] Brahmin Priestesses
+In-Reply-To: <CAHpShbDUN2t2sfXp1nfKOTpd+JBX+DcEdOYxPLPB1qYOqEgDjQ@mail.gmail.com>
+Message-ID: <CAOXgvip5KKHgMLxJSRzCRQ_S+o4=ufbjZJRCHFrdrmdLL_LXDw@mail.gmail.com>
+
+Dear Whitney,
+
+If we are looking for all possible combinations that could derive *t*
+*?vanti *in Tamil purely based on possible sound transformations, then here
+are the possibilities.
+
+1. Word-initial t- in Tamil could be derived from:  t-, d-, dh-, sth-, sn-
+and c.
+2. Word medial -v- in Tamil could be derived from: p, b, m, v
+3. Final suffix -nti could be arrived at from: -nti, -ndi, -ntya, -ndya
+
+If I feed these possibilities to my program it generates the following
+combinations:
+
+t?manti, d?manti, dh?manti, s?manti, ??manti, ??manti, sn?manti, sth?manti,
+c?manti, t?manti, d?manti, dh?manti, s?manti, ??manti, ??manti, sn?manti,
+sth?manti, c?manti, t?mandi, d?mandi, dh?mandi, s?mandi, ??mandi, ??mandi,
+sn?mandi, sth?mandi, c?mandi, t?mandi, d?mandi, dh?mandi, s?mandi, ??mandi,
+??mandi, sn?mandi, sth?mandi, c?mandi, t?mantya, d?mantya, dh?mantya,
+s?mantya, ??mantya, ??mantya, sn?mantya, sth?mantya, c?mantya, t?mantya,
+d?mantya, dh?mantya, s?mantya, ??mantya, ??mantya, sn?mantya, sth?mantya,
+c?mantya, t?mandya, d?mandya, dh?mandya, s?mandya, ??mandya, ??mandya,
+sn?mandya, sth?mandya, c?mandya, t?mandya, d?mandya, dh?mandya, s?mandya,
+??mandya, ??mandya, sn?mandya, sth?mandya, c?mandya, t?vanti, d?vanti,
+dh?vanti, s?vanti, ??vanti, ??vanti, sn?vanti, sth?vanti, c?vanti, t?vanti,
+d?vanti, dh?vanti, s?vanti, ??vanti, ??vanti, sn?vanti, sth?vanti, c?vanti,
+t?vandi, d?vandi, dh?vandi, s?vandi, ??vandi, ??vandi, sn?vandi, sth?vandi,
+c?vandi, t?vandi, d?vandi, dh?vandi, s?vandi, ??vandi, ??vandi, sn?vandi,
+sth?vandi, c?vandi, t?vantya, d?vantya, dh?vantya, s?vantya, ??vantya,
+??vantya, sn?vantya, sth?vantya, c?vantya, t?vantya, d?vantya, dh?vantya,
+s?vantya, ??vantya, ??vantya, sn?vantya, sth?vantya, c?vantya, t?vandya,
+d?vandya, dh?vandya, s?vandya, ??vandya, ??vandya, sn?vandya, sth?vandya,
+c?vandya, t?vandya, d?vandya, dh?vandya, s?vandya, ??vandya, ??vandya,
+sn?vandya, sth?vandya, c?vandya, t?panti, d?panti, dh?panti, s?panti,
+??panti, ??panti, sn?panti, sth?panti, c?panti, t?panti, d?panti, dh?panti,
+s?panti, ??panti, ??panti, sn?panti, sth?panti, c?panti, t?pandi, d?pandi,
+dh?pandi, s?pandi, ??pandi, ??pandi, sn?pandi, sth?pandi, c?pandi, t?pandi,
+d?pandi, dh?pandi, s?pandi, ??pandi, ??pandi, sn?pandi, sth?pandi, c?pandi,
+t?pantya, d?pantya, dh?pantya, s?pantya, ??pantya, ??pantya, sn?pantya,
+sth?pantya, c?pantya, t?pantya, d?pantya, dh?pantya, s?pantya, ??pantya,
+??pantya, sn?pantya, sth?pantya, c?pantya, t?pandya, d?pandya, dh?pandya,
+s?pandya, ??pandya, ??pandya, sn?pandya, sth?pandya, c?pandya, t?pandya,
+d?pandya, dh?pandya, s?pandya, ??pandya, ??pandya, sn?pandya, sth?pandya,
+c?pandya, t?banti, d?banti, dh?banti, s?banti, ??banti, ??banti, sn?banti,
+sth?banti, c?banti, t?banti, d?banti, dh?banti, s?banti, ??banti, ??banti,
+sn?banti, sth?banti, c?banti, t?bandi, d?bandi, dh?bandi, s?bandi, ??bandi,
+??bandi, sn?bandi, sth?bandi, c?bandi, t?bandi, d?bandi, dh?bandi, s?bandi,
+??bandi, ??bandi, sn?bandi, sth?bandi, c?bandi, t?bantya, d?bantya,
+dh?bantya, s?bantya, ??bantya, ??bantya, sn?bantya, sth?bantya, c?bantya,
+t?bantya, d?bantya, dh?bantya, s?bantya, ??bantya, ??bantya, sn?bantya,
+sth?bantya, c?bantya, t?bandya, d?bandya, dh?bandya, s?bandya, ??bandya,
+??bandya, sn?bandya, sth?bandya, c?bandya, t?bandya, d?bandya, dh?bandya,
+s?bandya, ??bandya, ??bandya, sn?bandya, sth?bandya, c?bandya.
+
+For your laughs only!
+
+Regards,
+Suresh.
+
+PS: I still think *c/sV?mant?* 'Indian rose' is the most plausible
+candidate, as it reasonably explains the variant spellings of *t?vanti *and
+*t?vanti*.
+PPS: I totally agree with you that "a barren woman of the gods" doesn't
+make much sense at all.
+
+
+On Thu, Nov 14, 2013 at 1:44 PM, Whitney Cox <wmcox at uchicago.edu> wrote:
+
+> Equally, and by a set of sound changes essentially identical to those
+> described by Palaniappan, the second element in t?vantikai could be
+> referred to -vandy? ('praiseworthy').  Skt. Devavandy?, I find, occurs in
+> list of 1008 names of the G?yatr? mantra: this slightly obscure place
+> notwithstanding, it also makes better sense semantically: "she who is to be
+> praised by the gods" rather than "a barren woman of [?] the gods", thus "a
+> divine barren woman".
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131114/bc6b59b9/attachment.htm>
+

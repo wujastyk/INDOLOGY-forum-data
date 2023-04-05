@@ -1,0 +1,47 @@
+From alex.watson at ashoka.edu.in  Wed Sep 21 06:30:07 2022
+From: alex.watson at ashoka.edu.in (Alex Watson)
+Date: Wed, 21 Sep 2022 12:00:07 +0530
+Subject: [INDOLOGY] Ligature/conjunct problem with Devanagari MT
+In-Reply-To: <CAASxWBG576yZZ80nqiuWm70zRur0bn9a46EMR7SKeb+NUpXLew@mail.gmail.com>
+References: <CAASxWBG9WA7uhUWg0dNdN0NEvE9sK0jXpfvfr100diLMiJ8N2w@mail.gmail.com>
+ <CAASxWBGy-TMS6BPERwAYjaf_ZcYw=WFkk6pYk5tp0poYrHZ-9w@mail.gmail.com>
+ <CAASxWBG576yZZ80nqiuWm70zRur0bn9a46EMR7SKeb+NUpXLew@mail.gmail.com>
+Message-ID: <CA+H=kyQdrJ0nzVHTZHhT7P-SUW3TFjBc1hrwZbdAigrbObYDKQ@mail.gmail.com>
+
+Dear Colleagues
+
+A question about XeLaTeX and the font Devanagari MT.
+
+In order to produce Sanskrit editions in devan?gar? script with several
+layers of apparatus, I use XeLaTeX.
+
+My font of choice is Devanagari MT, but running XeLaTeX on an input file
+that calls this font does not always produce good ligatures.  It sometimes
+uses a vir?ma under the first consonant instead of joining it with the
+subsequent one.
+
+I have found, with help from Dominic Goodall, the XeTeXglyph numbers for
+almost all of the problematic cases.  For example a correct devan?gar? ddva
+is produced by typing \XeTeXglyph286.  But these are the remaining
+problematic cases I have:
+
+dba
+?na
+?ga
+?ka
+
+Would anyone happen to know what the XeTeXglyph numbers are for these?  Or
+know how I could find out?
+
+Yours
+Alex
+-- 
+Alex Watson
+Professor of Indian Philosophy
+Ashoka University
+*https://ashokauniversity.academia.edu/AlexWatson
+<https://ashokauniversity.academia.edu/AlexWatson>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220921/dea90975/attachment.htm>
+

@@ -1,0 +1,31 @@
+From plamen at ORIENTALIA.ORG  Sun Jan  2 09:46:51 2005
+From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
+Date: Sun, 02 Jan 05 11:46:51 +0200
+Subject: Indology.Net Subdomains
+Message-ID: <161227075646.23782.11855983819221191676.generated@prod2.harmonylists.io>
+
+To celebrate the New 2005 Year, Eurasia Academic Publishers have
+launched free subdomain service in the following formats:
+
+you.indology.net
+yourtext.sacredtexts.org
+you.at.orientalia.org
+
+Please, visit http://www.indology.net/subdomains and reserve your
+subdomain name
+
+Examples: Instead of http://users.primushost.com/~india/ejvs/issues.html
+<http://users.primushost.com/%7Eindia/ejvs/issues.html>
+one can have the short:
+
+http://ejvs.indology.net
+
+Best Regards and Happy New Year!
+
+Plamen Gradinarov
+Ph.D., D.Sc., Assoc. Prof., Publisher
+Eurasia Academic Publishers
+
+
+
+

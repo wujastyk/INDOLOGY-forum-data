@@ -1,0 +1,140 @@
+From hspier.muktabodha at gmail.com  Sat Aug  6 18:44:54 2016
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Sat, 06 Aug 16 14:44:54 -0400
+Subject: [INDOLOGY] Sinhala half nasal plus m
+In-Reply-To: <14FC7947-18A6-4AF8-9C79-27EDC8645C83@illinois.edu>
+Message-ID: <CAPW7aQH0w+-Rm++RE7QTA9ysQSKvbifPhDBAXEjOYmNRpjDL0A@mail.gmail.com>
+
+Unicode has a single character for glyphs in sanskrit devanagari and
+related scripts that use diacriticals in transliteraton such * ? ? ? ? ?*.etc.
+ but Sinhala uses extra characters that are not used in the other
+devanagari or related scripts such as the m with chandra above it that Rolf
+asked about.  If that is not in Unicode then that is a serious fault with
+Unicode because then you can't encode all characters of ISO15919 in
+Unicode.  It may be there but I couldn't find it.
+
+
+There are unicode characters for accents (grave, accute, underline and
+others)  that can be combined with other characters.  This is what the Mac
+allows with the US extended keyboard  So theoretically documents containing
+text with accents added this way should be transferable accross platforms
+as long as each platform uses a unicode font that contains those accents.
+If they don't show up accross platforms its possible this is a font
+problem. or its possible that the rendering software doesn't interpret this
+unicode feature correctly. .Hans are you experiencing problems going from
+Word on Mac to Word on PC, or is it from Word on Mac to publishing software
+on Mac or PC, or  something else?
+
+
+Harry  Spier
+
+
+
+On Sat, Aug 6, 2016 at 12:57 PM, Hock, Hans Henrich <hhhock at illinois.edu>
+wrote:
+
+> What complicates matters is that one can assemble characters such as the
+> ?chandra m? (*m?*) by means of rendering machines, but the outcome is not
+> a single ?glyph?.
+>
+> What do I mean by this?
+>
+> On the Mac, if you have enabled US Extended (or its later successor) and
+> use a Unicode-compatible font such as Times New Roman, you can produce the
+> character by typing in *m* and then type Shift-Option b. But while many
+> ?ordinary? combinations of diacritics plus base character are encoded as a
+> single ?glyph? (i.e., a unitary entity), other combinations such as *m* +
+> Shift-Option b are not. As a consequence, they are unstable across
+> platforms or word-processing applications. In some cases, they do make it
+> across platforms, as long as one doesn?t try to edit; in other cases, they
+> show up as a blank from the start. (I found out about this and related
+> issues when producing the documents from which *The languages and
+> linguistics of South Asia* were printed, especially in exchanging files
+> with my coeditor, Elena Bashir, who uses a PC, and then with the Mouton
+> printers.)
+>
+> This problem is, annoyingly, an issue for many other, more common
+> characters (at least in Indology), such as *??*, i.e. *a* with macron and
+> accent. Not being a Unicode ?geek?, I can?t tell whether this is a problem
+> of the word-processing application, the rendering machine, or an absence of
+> such single glyphs in Unicode. Perhaps some colleagues can enlighten us on
+> this issue.
+>
+> All the best,
+>
+> Hans Henrich Hock
+>
+>
+> On 5 Aug 2016, at 17:23, Harry Spier <hspier.muktabodha at gmail.com> wrote:
+>
+> ISO 15919 has m with the chandra sign above it for this character, but I
+> also could not find this in a unicode font.  Is it possible that there is
+> no unicode slot for this  character.  That would mean that some ISO 15919
+> characters are not in Unicode.
+>
+> Harry Spier
+>
+> On Fri, Aug 5, 2016 at 9:27 AM, Rolf Heinrich Koch <
+> rolfheiner.koch at gmail.com> wrote:
+>
+>> Dear list members,
+>>
+>> there is one Sinhala sign consisting of a half-nasal with following ba,
+>>
+>> like in a-m-ba (mango).
+>>
+>>
+>> Unicode has a half-nasal for n, e. g. pa?dita.
+>>
+>> But I could not figure out the corresponding sign for the half-nasal m.
+>>
+>> Since the anusvara ? is also frequent in Sinhala, I am using ? for
+>> transcribing the half nasal m, e. g. a?ba.
+>>
+>>
+>> My work does not allow the composition of signs with the help of an
+>> additional accent.
+>>
+>>
+>> Anyone came across the Unicode-standard for he half nasal of m?
+>>
+>>
+>> Best
+>>
+>>
+>> Rolf Heinrich Koch
+>>
+>>
+>>
+>>
+>>
+>> www.rolfheinrichkoch.wordpress.com
+>> <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.rolfheinrichkoch.wordpress.com&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=ymLiRDxGRSeCeeK9p05Ce0keYvKLc8rx3xE4i0Z03xk&s=E9pM4PBAS8q-KFnCDNQSJpJLH5Wh_8AZuWf7HbKyp8w&e=>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info
+>> <https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=ymLiRDxGRSeCeeK9p05Ce0keYvKLc8rx3xE4i0Z03xk&s=76toyuRN68tXFThX1_4tM5SkTkrMioY1gPnXaQ4hP4s&e=>
+>> (where you can change your list options or unsubscribe)
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160806/a9c5430e/attachment.htm>
+

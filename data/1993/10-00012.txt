@@ -1,0 +1,42 @@
+From prabhu at rex.cs.tulane.edu  Thu Oct  7 16:13:11 1993
+From: prabhu at rex.cs.tulane.edu (Devaraya Prabhu)
+Date: Thu, 07 Oct 93 11:13:11 -0500
+Subject: Panini's grammar and Boolean logic
+Message-ID: <161227016198.23782.7698402371846648393.generated@prod2.harmonylists.io>
+
+> 
+> 	In the April, 1993 newsletter of Motilal Banarsidass, it
+> states that Rick Briggs (who works for NASA) has argued that Panini's
+> grammar is based on Boolean logic.  I was wondering if anyone was
+> aware where he might have advanced his thesis or if there are any
+> other sources where this same thesis is discussed.  Thanks in
+> advance.
+
+	I'm not sure that I even understand what exactly is meant by the claim 
+"Panini's grammar is based on Boolean logic"!!  However, the following might
+shed some light on issue:
+
+	Backus-Naur Form (BNF) is the most commonly adopted notation for 
+describing the grammars of computer languages (such as Pascal, C..)  According 
+Ingerman(*), this notation is similar to the one employed by Panini in 
+describing the rules of Sanskrit grammar.  No, I have not read the source.
+I am just quoting from the foot-note of a text book..
+
+(*) Ingerman, P.Z. [1967] "Panini-Backus form suggested", Communications
+			   of the ACM, 10:3, 137.
+
+	Best Rgds - dev prabhu
+
+---------------------------------------------------------------------------
+Devaraya Prabhu      				prabhu at cs.tulane.edu  
+Dept of Comp Science
+Tulane University 
+New Orleans
+
+===========================================================================
+ 
+
+
+
+
+

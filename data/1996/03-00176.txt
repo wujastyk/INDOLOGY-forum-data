@@ -1,0 +1,18 @@
+From lusthaus at macalstr.edu  Sun Mar 17 04:31:23 1996
+From: lusthaus at macalstr.edu (lusthaus)
+Date: Sun, 17 Mar 96 04:31:23 +0000
+Subject: New Indologist Web Page
+Message-ID: <161227023419.23782.5789936283167921034.generated@prod2.harmonylists.io>
+
+> Incidentally, in creating web pages, I have run across a few URLs, 
+all in
+> England, which come back "Done.", but without loading any data. One
+> such URL is "http://www.dmu.ac.uk/~pka/guides/jain.html". Would
+> someone please try it and report to me if the site is working? Thx.
+
+My Netscape (2.01) says: "This document contains no data"
+
+
+
+
+

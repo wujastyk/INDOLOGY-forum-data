@@ -1,0 +1,31 @@
+From JHUBBARD at smith.smith.edu  Sat Apr 16 16:13:26 1994
+From: JHUBBARD at smith.smith.edu (JHUBBARD at smith.smith.edu)
+Date: Sat, 16 Apr 94 11:13:26 -0500
+Subject: Transliteration Macros for WP
+Message-ID: <161227016761.23782.8238506839369643001.generated@prod2.harmonylists.io>
+
+Hi. I have a macro that does what you want, sort of. It is part of the HP
+fonts w/ Sanskrit and Japanese diacritics that I put together a few kalpas
+ago and posted to some FTP site or another. One macro will churn through a
+text that contains MY Wordperfect coding scheme for Sanskrit and replace
+them all with their TeX equivalents (this is for Richard Hayes and Dominick
+and other TeXies [I wonder if that is a personality type???]). The other
+version of the macro goes the other way, i.e., from TeX encoding to MY
+idiosyncratic scheme. It takes only a few minutes, however, to use the
+Wordperfect macro editor and change either half of the search-and-replace
+code, so you could use it as a template. Since I no longer  know where that
+FTP site is located, you can get the file from me directly by FTPing to
+jhubbard.smith.edu (131.229.36.90). This site is USUALLY available, but not
+always, so if anybody who knows of such things would like to post the whole
+package to a regular FTP site, be my guest. The whole package, WPSKRIT.EXE,
+is a self- extracting .zip file that contains all of the fonts, .prs files,
+etc. for an HP laser printer and Wordperfect. As noted, the fonts are in my
+own idiosyncratic coding scheme, NOT CS/CSX. 
+
+Jamie Hubbard, Smith College 
+ 
+
+
+
+
+

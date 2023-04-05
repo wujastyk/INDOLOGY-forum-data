@@ -1,0 +1,47 @@
+From kichenas at math.umn.edu  Tue Jun 13 18:15:32 1995
+From: kichenas at math.umn.edu (kichenas at math.umn.edu)
+Date: Tue, 13 Jun 95 13:15:32 -0500
+Subject: TeX for Indology
+Message-ID: <161227019698.23782.16139761109311389395.generated@prod2.harmonylists.io>
+
+
+A question related to Minoura Akio's, and which may 
+interest people working with other languages, is as
+follows: Is there a (La)TeX style file which enables
+the input of Romanized text? All the tools for this are
+present in TeX (macrons, dots over and under letters,...)
+and all that is needed is the definition of an 
+environment which would enable the user to input
+\begin{tamil}
+kaNTanen kaRpinuk k-aNiyai
+\end{tamil}
+and produce the output corresponding to
+{\em ka\d n{}\d t{}a\b n{}e\b n kaRpi\b n{}uk k-a\d n{}iyai}
+
+The user would only need to update the transliteration
+table to suit his/her needs. Such a system
+is implicit in ITRANS, but I do not know of any 
+language-independent, easily customized, set of macros
+for this purpose. This might be combined
+with other useful commands for scholarly articles,
+such as variations on the \footnote command 
+(one such macro has, I think, been written by D. Wujastyk).
+
+Further information on this issue would be useful, and would 
+help separate the issue of fonts from that of transliteration,
+at least as far as TeX users are concerned. Indeed, TeX input
+uses nothing but ASCII characters, and is eminently suitable
+for electronic communication.
+
+
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                kichenas at math.umn.edu
+ 
+
+
+
+
+

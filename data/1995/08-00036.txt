@@ -1,0 +1,30 @@
+From mhcrxlc at dir.manchester-computing-centre.ac.uk  Tue Aug  8 19:44:07 1995
+From: mhcrxlc at dir.manchester-computing-centre.ac.uk (mhcrxlc at dir.manchester-computing-centre.ac.uk)
+Date: Tue, 08 Aug 95 20:44:07 +0100
+Subject: Norman diacritic fonts for Macintosh
+Message-ID: <161227020254.23782.2675195547350849622.generated@prod2.harmonylists.io>
+
+Professor K.R. Norman's diacritic fonts for Macintosh have now been added
+to John Smith's ftp server. They can be obtained by anonymous ftp from:
+bombay.oriental.cam.ac.uk. They are currently to be found at:
+/pub/john/software/fonts/norman/NORM.SEA.HQX.
+
+I understand from Dominik Wujastyk that they will shortly be copied to:
+gopher-server.bcc.ac.uk.
+
+Both the postscript and truetype versions of the fonts Normyn and Mytymes
+are included. (These supersede the older Norman and Mytimes fonts for most
+purposes.)
+
+Lance Cousins
+
+MANCHESTER, UK
+Email: mhcrxlc at dir.mcc.ac.uk
+
+
+ 
+
+
+
+
+

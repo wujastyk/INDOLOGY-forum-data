@@ -1,0 +1,41 @@
+From mcv at WXS.NL  Wed Dec 16 22:00:21 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Wed, 16 Dec 98 22:00:21 +0000
+Subject: The Aryans (again); 19th century discourse.
+In-Reply-To: <3.0.6.32.19981216140809.009352d0@popd.ix.netcom.com>
+Message-ID: <161227043648.23782.6459889497401380560.generated@prod2.harmonylists.io>
+
+SNS <sns at IX.NETCOM.COM> wrote:
+
+>A Question:  Mallory now uses the term Indo-European Stock
+>- does that mean that Indo-European refers to something more than
+>a language family ? or is there something in linguistics about
+>IE-stock - Could someone please explain ?
+
+I haven't seen Mallory use that term, but in any case it's not common
+practice.  I suppose it depends on how one defines a language
+"family" as against a language "stock".  I you take "stock" simply as
+a "family of families", then IE qualifies (since it consists of
+families like Italic, Celtic, Germanic, Indo-Iranian, etc.)  But that
+would make Indo-Iranian a "stock" as well, which would definitely be
+an eccentric usage of the term.  If you take "stock" as a term for a
+group of sufficiently distinct / remote branches, IE qualifies if you
+accept the Indo-Hittite hypothesis (IE would then consist of the
+Anatolian language family on the one hand, and Indo-European "proper"
+on the other).  But what is "sufficiently distinct"?  In
+glottochronology, a "family" was defined as a group of languages
+sharing 26~35% of cognates (corresponding to a separation of 35~45
+centuries), and a "stock" or "phylum" as a group sharing only 14~19%
+of cognates (corresponding to a separation of 55~65 centuries).  But
+glottochronology has been disproved.  We might still take the % of
+cognates as a rule of thumb for distinguishing between families and
+stocks, but the "centuries of separation" are definitely out.
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

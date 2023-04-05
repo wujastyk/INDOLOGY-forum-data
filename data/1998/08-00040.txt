@@ -1,0 +1,70 @@
+From vidynath at MATH.OHIO-STATE.EDU  Tue Aug 11 19:34:19 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Tue, 11 Aug 98 15:34:19 -0400
+Subject: Fortunatov's Law and tolkAppiyar's rules
+Message-ID: <161227041150.23782.8659353154557019569.generated@prod2.harmonylists.io>
+
+I have finally located the book I had in mind. It is V. Labov
+``Principles of linguistic change; vol. 1, internal factors'',
+Blackwell, Oxford UK & Cambridge USA, 1994. The general principle
+(Herzog's P.) that mergers tend to expand at the expense of
+distinctions is discussed in chapter 11, pp. 313--331.
+
+I switched the page references to CDP, due to my sloppy notes. I
+apologize for any confusion this may have caused.
+
+--
+Sudalaimuthu Palaniappan <Palaniappa at AOL.COM> wrote:
+
+>Having been familiar with the scientific method, I am yet to see a clear
+>explanation of why using Pittsburgh dialect situation to draw conclusions
+>about first millennium BC Sanskrit-Dravidian convergence on nasals should be
+>deemed qualitatively different from using Malayalam to draw conclusions about
+>the fate of stops after l/L.
+
+This is hardly the place to discuss the Uniformatarian Principle in
+general or its use in linguistics since the Neogrammarians. Labov has a
+good discussion of the whole thing, with further references, to which I
+refer those not already familiar with the ideas.
+
+>As for Zvelebil's views, they are wrong and outdated.
+
+Both Zvelebil in his `Inroduction to Dravidian lingusitics' and
+DEDR, written well after 1972, maintain that n and _n are allophones
+for Dravidian as a whole. Knowing nothing about North and Central
+Dravidian or non-literary languages of South, I defer to them.
+
+>Kuiper derives Skt. kavaSa (straddle-legged) from Dravidian related to
+>Ta. kavar, kavalai, and kavaTu (fork of legs)  in Aryans in Rig Veda,
+>p.26.  While Kuiper notes the absence of the form kavaz in Dravidian, if
+>one takes into account Stephen Levitt's findings, one can see how a
+>kaval >*kavaz/*kavaL which can lead to kavaSa in Sanskrit and with a
+>dental suffix, one can get kavaTu in Tamil.
+
+There are too many assumptions here for my taste. In any case, kava.sa
+does not mean straddle-legged. Perhaps kava.saa+uuruu does, but that is
+not clear. kava.sya.h occurs as an adjective to dura.h in MS 3.11.1 and
+3, KS 38.6 and 8, VS 20.40 etc, where it seems to mean open.
+
+Can somebody with access to the new Mayrhofer tell us what he has about
+this? [I have access only to KEWA.]
+
+This weak evidence must be set against the following two facts: One, zh
+does not seem to retroflex a following t in Dravidian. [it certainly
+does not in Tamil.] Second, and more serious, is that in MIA, starting
+with Pali, all sibilants merge into s while in syntax we see greater
+convergence with Dravidian, and greater retroflexion in stops. I am yet
+see any explanation of this (other than what I proposed).
+
+---
+>As for the Hindutva folks, their arguments about Indian pre-history are
+>marked by appalling ignorance about the Dravidian side. Of course, they
+>are a lot more sure of their positions than scholars like Deshpande.
+
+I guess there is a modified version of Godwin's law for Indology: If any
+discussion lasts long enough, somebody will mention Hindutva/Parivar etc.
+I thought that we successfully avoided that. Sigh.
+
+
+
+

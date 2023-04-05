@@ -1,0 +1,94 @@
+From k.kupfer at EM.UNI-FRANKFURT.DE  Wed Apr 12 10:51:26 2000
+From: k.kupfer at EM.UNI-FRANKFURT.DE (Katharina Kupfer)
+Date: Wed, 12 Apr 00 12:51:26 +0200
+Subject: [Fwd: [Fwd: Vedic Characters & Unicode]]
+Message-ID: <161227057745.23782.3118835225621649022.generated@prod2.harmonylists.io>
+
+Jost Gippert wrote:
+
+> Christopher Fynn wrote:
+>
+> > > The Vedic signs (double udatta etc.), currently have no representation in the
+> > > Unicode and ISO 10646 standards - though several people have mentioned to me at
+> > > various times that there is a real need for these characters in order to
+> > > represent Vedic texts.
+>
+> It is not clear to me whether Chris Fynn means original (Devanagari) script or
+> transcription here.
+> In the first case:
+> Unicode in its present state (3.0) does contain the Vedic accentuation marks (Svarita
+> and Udaatta) that are necessary (U+0951 and U+0952). I do not see any need for a
+> "double udaatta". Perhaps "double ANudaatta" is meant here? This might be the symbol
+> invented by A. Weber for his edition of Satapathabrahmana. It is highly questionable,
+> though, whether such an invention which has no manuscript basis should be incorporated
+> in a standardized encoding. The same holds true for, e.g., for the hacek-like mark
+> used by L.v. Schroeder in his editions of Kathaka-Samhita and Maitrayani-Samhita.
+>
+> > >
+> > > The only way to see these characters encoded in the Unicode and ISO 10646
+> > > standards is for a formal proposal to encode these characters put forward to the
+> > > Unicode Consortium and/or to ISO/IEC 10646 JTC1/SC2/WG2.  For information on how
+> > > to make such a proposal to the Unicode Consortium see:
+> > > http://www.unicode.org/pending/proposals.html . Making such a proposal to
+> > > ISO/IEC 10646 JTC1/SC2/WG2 should be done through your national standards body.
+> > >
+> > > If  no one else wants to volunteer to do the work of making such a proposal,
+> > > I'm willing to it myself since I'm familiar with the process and am a member of
+> > > BSI IST2, the UK committee represented on ISO/IEC 10646 JTC1/SC2/WG2.  However
+>
+> > > I'm not a Sanskritist and don't have any information on these characters. If any
+>
+> > > subscribers to this list know of source(s) where these characters and their use
+> > > is thoroughly documented (pref. in English) perhaps you could let me know. (A
+> > > photocopy or PDF file of such a source or sources would be even more helpful).
+> > >
+> > > Unless and until these characters are included in the Unicode and ISO 10646
+> > > standards there will be no proper support for them in the Unicode based Indic
+> > > language systems currently being implemented in Windows 2000, Mac OS, X-Windows
+> > > and other operating environments - nor will there be a proper, standards based,
+> > > way of representing such characters in HTML, XML etc.
+>
+> It is true that preparing "official" proposals is the only way to extend the existing
+> standards, and Chris Fynn's offer is highly welcome. On the other hand, lots of
+> preparatory work has already been done in this respect in the course of the TITUS
+> project which aims at preparing a complete collection of Vedic (and other) texts for
+> online retrieval. Cf.
+> http://titus.fkidg1.uni-frankfurt.de/texte/texte2.htm#ved
+> where the texts that are presently available in HTML format (in Latin transcription)
+> are listed.
+>
+> As we cannot expect browsers yet to handle the Unicode-inherent specifics of
+> Devanagari script (block U+0900-7F) correctly, esp. with respect to the production of
+> ligatures and to the positioning of diacritics such as Svarita or Udaatta, one block
+> of the "Private Use Area" of Unicode (U+E900-FF) has been assigned to special
+> Devanagari characters within the TITUS project. Several sample HTML pages of Vedic
+> texts in Devanagari script in Unicode format that use this extension are available
+> under
+> http://titus.fkidg1.uni-frankfurt.de/unicode/alphabet/devatest.htm#links
+> for viewing.
+> To be able to display these texts, a special font is necessary which will be freely
+> downloadable soon (for the time being, please refer to
+> http://titus.fkidg1.uni-frankfurt.de/unicode/unitest2.htm#TITUUT
+> for details).
+> I should strongly recommend not to hurry with a standardization proposal until the
+> text collection of Vedic texts has been finished and until the requirements of
+> handling Devanagari in Unicode have been met by the browser producing industry. Only
+> then we will be able to decide what additonal characters are really necessary to
+> prepare correct web pages containing Vedic texts in Devanagari script in Unicode
+> encoding.
+> Best regards,
+> J.G.
+> --
+> -----------------------------------------------------------------------
+>                          Prof.Dr. Jost Gippert
+>
+>  Vergleichende Sprachwissenschaft  |      tel.     +49- 69- 798 2 8591
+>  Universitaet Frankfurt            |      (sekr.)  +49- 69- 798 2 3139
+>  Postfach 11 19 32                 |      fax.     +49- 69- 798 2 2873
+>  D-60054 Frankfurt                 |       gippert at em.uni-frankfurt.de
+>                      http://titus.uni-frankfurt.de
+> -----------------------------------------------------------------------
+
+
+
+

@@ -1,0 +1,30 @@
+From Scharf at BROWN.EDU  Fri Jul 25 23:58:58 2003
+From: Scharf at BROWN.EDU (Peter M. Scharf)
+Date: Fri, 25 Jul 03 19:58:58 -0400
+Subject: Sanskrit word order sort program
+In-Reply-To: <00c901c350c0$301d37f0$7616893e@zen>
+Message-ID: <161227072989.23782.6478749198358899473.generated@prod2.harmonylists.io>
+
+We have a Sanskrit sort program but have not yet posted it at our
+website.  We have plans to post this and other programs at
+sanskritlibrary.org and will do so soon.  We'll post an announcement
+when it is publicly available.  If you have a Perl environment
+installed, we can send you the program to run locally in the
+meantime.  We conduct sorting in a phonological encoding and
+transliterate to and from it from Harvard-Kyoto, CSX, and Unicode
+encodings.
+Peter Scharf
+--
+**************************************************
+Peter M. Scharf             (401) 863-2720 office
+Department of Classics      (401) 863-2123 dept
+Brown University
+PO Box 1856                 (401) 863-7484 fax
+Providence, RI 02912        Scharf at brown.edu
+http://www.brown.edu/Departments/Classics/Scharf/
+http://sanskritlibrary.org/
+**************************************************
+
+
+
+

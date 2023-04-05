@@ -1,0 +1,47 @@
+From jpo at uts.cc.utexas.edu  Sat May 18 17:47:34 2013
+From: jpo at uts.cc.utexas.edu (Patrick Olivelle)
+Date: Sat, 18 May 13 12:47:34 -0500
+Subject: [INDOLOGY] Query
+In-Reply-To: <1F03033D-90B9-4C0D-A155-AE4A5482E5F8@gmx.de>
+Message-ID: <BC27FD0F-CE86-4EEC-A08A-FA49D9972B00@uts.cc.utexas.edu>
+
+Thanks to Sven and Michael Slouber for their insights. Now I have the rare conjuncts!! Thanks.
+
+Patrick
+
+
+
+On May 18, 2013, at 12:32 PM, Sven Sellmer wrote:
+
+> Dear Patrick,
+> 
+> when in TextEdit:
+> 
+> 1. choose cmd + T
+> 2. go to typography via the gearwheel (down left)
+> 3. open "ligatures"
+> 4. now you may choose between different options.
+> 
+> Best wishes,
+> Sven
+> 
+> Am 18.05.2013 um 19:13 schrieb Patrick Olivelle <jpo at uts.cc.utexas.edu>:
+> 
+>> Friends:
+>> 
+>> Hope someone can help me. Using pages from many months, I have been able to produce uncommon Devan?gar? ligatures by going to "Typography" and invoking the uncommon ligature feature. I think -- and here my memory fails me -- I did it by first going to "Show Character Viewer" and the pressing the "Star" key at the top left. But now when I do this, it simply gives me the option of character sizes. Hope someone out there knows how to get to the uncommon ligatures feature, available both on Pages and TextEdit.
+>> 
+>> Thanks.
+>> 
+>> Patrick
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info
+> 
+
+
+
+
+
+

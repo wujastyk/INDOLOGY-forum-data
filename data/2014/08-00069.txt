@@ -1,0 +1,60 @@
+From hhhock at illinois.edu  Tue Aug 19 15:00:34 2014
+From: hhhock at illinois.edu (Hock, Hans Henrich)
+Date: Tue, 19 Aug 14 15:00:34 +0000
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
+In-Reply-To: <9125525C-BF65-48FE-9646-42DC8F310D33@uni-muenchen.de>
+Message-ID: <060A2137-AB24-4E66-958F-7300A461FFC9@illinois.edu>
+
+Dear Robert,
+
+Thanks for the helpful information. One question: How well do LibreOffice documents work in transmitting documents across platforms, to colleagues using different word processors, and to publishers?
+
+Best wishes,
+
+Hans Henrich
+
+
+
+Hans Henrich Hock
+Professor Emeritus
+Department of Linguistics
+University of Illinois
+4080 FLB, 707 S. Mathews
+Urbana IL 61801
+217.333.0357
+Fax: 217.244.8430
+hhhock at illinois.edu<mailto:hhhock at illinois.edu>
+
+
+
+On Aug 19, 2014, at 9:49, Robert Zydenbos <zydenbos at uni-muenchen.de<mailto:zydenbos at uni-muenchen.de>> wrote:
+
+The best way (by which I mean: the way that gives the esthetically most pleasing results) to use Indic unicode fonts on a Mac is ConTeXt or LaTeX with the XeTeX typesetting engine. XeTeX works with OpenType, TrueType, and just about any other type of font, and it does not depend on the font rendering of OSX.
+
+But for the majority of us, for whom working with the TeX derivatives may be too techie, the great word processing tip is: forget about Word, and use LibreOffice. Available free of cost (http://www.libreoffice.org/), it does much more than everything I require from a word processor / office suite ? AND, just like XeTeX, it uses its own font rendering engine. This means that all the Indic fonts that do not work in other Mac applications (like Linux and Windows fonts) work just fine here.
+
+RZ
+
+
+--
+Prof. Dr. Robert J. Zydenbos
+Institute of Indology and Tibetology
+Department of Asian Studies
+Ludwig-Maximilians-Universit?t Munich
+Germany
+Tel. (+49-89-) 2180-5782
+Fax (+49-89-) 2180-5827
+Web http://zydenbos.userweb.mwn.de/
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140819/edbdcfde/attachment.htm>
+

@@ -1,0 +1,144 @@
+From selvakum at VALLUVAR.UWATERLOO.CA  Mon May 25 22:11:47 1998
+From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
+Date: Mon, 25 May 98 18:11:47 -0400
+Subject: Inscriptions and Dravidian sound changes "y" > "c" and "y" >
+Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists.io>
+
+@
+@At 17:58 24/05/98 EDT, you wrote:
+@ > Please check the chronology of -c- ~ -y- forms in Tamil. Are the-c- forms
+@> older or -y- forms in terms of literary attestation? You  have to examine a
+@> sound change from a number of angles before making generalizations about
+@> others' scholarship. Bh.K. >>
+@>
+@>Fortunately, we can check for the crack-pot theory or hyper-correction in the
+@>case of "matacAn2ai". The word occurs in two inscriptions SII, vol. 5, no. 300
+@>as well as no. 431 which I had mentioned earlier. No. 431 has far fewer
+@>sections missing than no. 300. No. 431 is found in Tirunelveli and no. 300 is
+@>found in Tenkarai near cOzavantAn2, north of Madurai. A comparison of the two
+@>inscriptions makes it obvious that the eulogy portion was composed by a single
+@>person while the actual inscribing was done by different persons at the two
+@>locations.  The inscriptions belong to the period of the famous
+@>cuntarapANTiyan of the 13th century.
+@
+@That is exactly the time, medieval period, for hyperstandard forms to arise.
+@The old change of s>*h>y (in other positions) >0 (initially) was known to
+@writers through loanwords like a:yiram, e:Ni, avai,etc. An underlying y
+@forms were written with s. There are many examples from Tamil also to show
+
+         I've heard that 'aayiram' (meaning thousand in tamil) is a
+         borrowing, presumably from skt.(sahasra). Can someone point to
+         the arguments for this ? The Tamil word for hundred is
+         nURu and, as I understand it, it comes from the verb 'nURuthal'
+         (imperative/infinitive verb 'nURu')
+         meaning 'to split into many parts'. A  related word is 'noRungu'
+         (=crush).
+         Semantically it is 'split > small > many'.
+         Similarly the word 'aayiram', as I understand it, comes from the
+         verbal root' 'aaythal' ( imperative/infinitive verb 'aay').
+         Even today it is used in the sense of 'minutely split/separate'
+         by those who work in the kitchen when they are preparing
+         'keerai' (indian spinach or greens). The standard expression is
+         'keerai aaythal'. Or when they are separating tiny stones from the
+         rice etc. The standard expression is 'aayntu kodu'. The word
+         'aayiram' is semantically almost identical to
+         the word 'nURu' for hundred. 'Minutely split/separate > many'.
+
+         Similarly I don't know how the word ENi = ladder is shown
+         to be a loan word.  I wonder what the arguments are ?
+
+
+@that R > r led later to some r's being represented as R. Hypercorrect forms
+@are generally less systematic and give the impression of a reversal of sound
+@change.
+@
+@
+@
+@>The eulogy portion of 431 in which the word "matacAn2ai" occurs, also has the
+@>words "An2ai" and "yAn2ai" used in other places. Inscription 300 has the
+@>corresponding occurrences of "matacAn2ai" and "yAnai". But the middle section
+@>with the "An2ai" form is missing. The occurrences of the words "An2ai" and
+@>"yAn2ai" are given below.
+@>
+@mataca:nai is clearly a hyperstandard writing. If it was a sound change it
+@should continue into later times.
+@
+@
+@>ucar < uyar (DEDR 646)
+@>vacakkal < vayakkal (DEDR 5258)
+@>vAcal < vAyil (DEDR 5352) -
+@>vicalUr < viyalUr = viyal (DEDR 5404) +Ur
+@>
+@>uyar - to rise                  puRanAn2URu 334.8
+@>vayakku - to tame           akanAn2URu 344.10
+@>vAyil - entrance              puRanAn2URu 350.6
+@>viyalUr - a place             akanAn2URu 97.13
+@>vayal - cultivated field     puRanAn2URu 354.4  (Kannada has both vayal and
+@>bayal(u))
+@The above with -c- are hypercorrect forms. If y became c why not vasal and
+@vasil.
+@
+@
+@>
+@>The forms with -c- are found in inscriptions at least 600 years later than the
+@>literary attestations of -y-. None of the -c- forms discussed above are found
+@>in Classical Tamil. Some of the -y- forms are used even today in formal speech
+@>while some of the -c- forms are considered very substandard. For instance,
+@>literate persons will not use ucar- in colloquial speech. The preferred form
+@>is -y-. -c- and -y- are clearly distinguished. On the other hand, vAcal is
+@>acceptable and vAyil is found in very formal speech. Inscriptions show not
+@>only vacakku, but also, mayakku, and macakku reflecting all the variant
+@>dialectal forms. Todau tiruvicalUr is the name of the town.
+@>
+@What you say proves my point.
+
+
+    How ?
+
+@
+@
+@>The placement of DEDR 5259 Ta. vayiRu belly with an implied *-y- seems to be
+@
+@>correct even though Kannada has basiR. Colloquial Tamil has forms like vakuRu,
+@>vavuRu, but no vacuRu.
+
+     Palaniappan, I've come across both forms 'vasuru paciccaa thaana varuvaan'
+     and 'vavuru paciccaa thaanE varuvaan' ( literally 'if stomach feels
+     hunger, he will come'). The 'u' in 'vasuru' is short
+     and it is difficult to say whether it is 'i' or 'u', as heard.
+     The word 'vaasal' (entrance) is a modification of 'vaayil'. Strict
+     transformation would lead to 'vaasil', but it is not uncommon.
+     For example (1) payiRu becomes pasaRu (= a lentil),
+     (2) mayiRu becomes 'masuru' (hair).
+     etc.
+     The transformation is y > s - as is well known in
+     Tamil. What is the best source for the arguments of
+     K's theory of 'hypercorrection' ?
+@
+@No. -c- is older as I said earlier. Konda and other SCD languages preserve
+@the s form, Konda vasking(velar nasal)'entrails'. You seem to think that the
+@oldest forms are only foound in Tamil in every respect. What is your basis
+@for taking -y- in vayiRu as older? what am I doing again; take a lsesson on
+@comparative Drav phonology? Who cares? Linguistics is not a layman's hobby.
+
+    Palaniappan and Gansesan have been making excellent and detailed comments,
+    and I'm really suprised at Prof. Krishnamurti's unwarranted remarks to
+    their postings in this listserv.
+
+    What is the basis for taking the Konda example as older ('preserve') ?
+
+    Thanks
+
+    C.R.(Selva) Selvakumar
+
+
+    P.S. (1) I'm very glad to see that Palaniappan and Ganesan are recording
+         their thoughts here and I'm sure they will be useful to many
+         sincere researchers.
+
+         (2) I wonder whether anyone else can comment on Palaniappan's
+         observation about omission of Velu Pillai's work.
+
+
+
+

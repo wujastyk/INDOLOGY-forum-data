@@ -1,0 +1,145 @@
+>From shakti!anil Thu Mar 14 12:55:06 1991
+To: shakti!betaal!cse!postmaster (IIT/B CSE),
+         shakti!betaal!dhruv!postmaster (IIT/B CYBER),
+         shakti!betaal!sameer!root (SAMEER),
+         shakti!betaal!postmaster (IIT/B CC),
+         shakti!imtech!postmaster (IMTECH Chandigarh),  (NCST Bombay),
+         shakti!shiva!imsc!root (Mat.  Sci. Madras),
+         shakti!shiva!ssf!root (SPIC Madras), shakti!agni!root (IGIDR),
+        shakti!cdacb!root (CDAC Bangalore), shakti!cdotb!root (CDOT Bangalore),
+         shakti!cdotd!root (CDOT Delhi), shakti!crlbel!root (CRLBEL),
+         shakti!gmrt!root (GMRT Pune), shakti!iimahd!root (IIM Ahmedabad),
+         shakti!iitd!root (IIT/D), shakti!iitk!root (IIT/K),
+         shakti!iitkgp!root (IIT/KGP), shakti!iqbal!root (NASSCOM),
+         shakti!isical!root (ISI Calcutta), shakti!iucaa!root (IUCAA Pune),
+         shakti!jnuniv!root (JNU), shakti!kalyan!root (IIT/K),
+         shakti!kbcscal!root (ISI Calcutta), shakti!ncsd!root (NCSD Bangalore),
+         shakti!netearth!root (IIT/D), shakti!nitie!root (NITIE Bombay),
+         shakti!parcom!root (CDAC Pune), shakti!plasma!root (IPR Ahmedabad),
+         shakti!prl!root (PRL Ahmedabad), shakti!shiva!root (IIT/M),
+         shakti!tifr!root (TIFR CYBER,Bombay),
+        shakti!veccal!root (VEC Calcutta), shakti!vigyan!root (IISc Bangalore),
+         shakti!vikram!root (DoE,Delhi), shakti!yantra!root (CAIR)
+ 
+ X-Organization: National Centre for Software Technology, Bombay, INDIA
+Subject: : Site list update
+-------------------------------------------------------------------------------
+ 
+ Topic: sites
+ Document updated:  March 13, 1991
+Subject: : E-mail sites in India
+===============================================================================
+ National Centre for Software Technology                  Phone: +91(22)6201606
+ Project ERNET                                      Telex: +81(11)78260 NCST IN
+ Gulmohar Cross Road # 9, Juhu               E-mail: postmaster at shakti.ernet.in
+ Bombay - 400 049, India           InfoServer address: infoserv at shakti.ernet.in
+ ==============================================================================
+ 
+                              SITES IN INDIA
+ 
+ TOTAL SITES = 46
+ ------------------------------------------------------------------------------
+ 
+   +============== ADDRESSING INDIAN SITES FROM OUTSIDE INDIA ==============+
+   |                                                                        |
+   |  If you are at a site that can     |   USER at SITE.ernet.in              |
+   |  handle domains                    |                                   |
+   |------------------------------------------------------------------------|
+   |  If you are at a site that can't   |   ...!uunet!UUCP-PATH!USER        |
+   |  handle domains                    |                                   |
+   |------------------------------------------------------------------------|
+   |  Where: UUCP-PATH  - is the uucp path for the site. See list below.    |
+   |         USER       - recipient's mail name on the destination host.    |
+   |         SITE       - recipient's site name on the (ERNET) network.     |
+   |                                                                        |
+   |  Note:  Users using the C-shell under Unix systems may have to quote   |
+   |         the "!" characters in the mail address.  This can be done by   |
+   |         using "\!" in place of "!".                                    |
+   +========================================================================+
+ 
+      Each site is required to have a postmaster who can answer general
+      inquiries about users and hosts at that site.
+ 
+ ------------------------------------------------------------------------------
+ SITE        ORGANISATION/INSTITUTION                 UUCP-PATH
+ ====        ========================                 =========
+ 
+ AHMEDABAD:
+ iimahd      Indian Institute of Management           shakti!iimahd
+ plasma      Institute for Plasma Research            shakti!plasma
+ prl         Physical Research Labs                   shakti!prl
+ 
+ BANGALORE:
+ crlbel      Central Res. Lab., Bharat Elec. Ltd.     shakti!crlbel
+ cdacb       Centre for Development of Advanced Comp. shakti!cdacb
+ cdotb       Centre for Development of Telematics     shakti!vigyan!cdotb
+ csirb       Council for Sci. & Industrial Research   shakti!vikram!csird!csirb
+ ncsd (ncb)  Natl. Ctr. for Software Development      shakti!ncsd, shakti!ncb
+ vigyan      Indian Inst. of Sci. - Comp. Centre      shakti!vigyan
+ vidyut      Indian Inst. of Sci. - EE Department     shakti!vigyan!vidyut
+ vidya       Indian Inst. of Sci. - KBCS Group        shakti!vigyan!vidya
+ yantra      Centre for AI and Robotics               shakti!yantra
+ 
+ BOMBAY:
+ agni        IG Institute of Development Research     shakti!agni
+ betaal      Indian Inst. of Technology - CC I        shakti!betaal
+ cse         Indian Inst. of Technology - CS Dept.    shakti!betaal!cse
+ dhruv       Indian Inst. of Technology - CC II       shakti!betaal!dhruv
+ nitie       Natl. Inst. for Trg. in Industr. Engg.   shakti!nitie
+ sameer      Soc. for Applied Microwave Electronics
+                 Engineering and Research           shakti!betaal!duruv!sameer
+ +shakti     Nat'l. Centre for Software Technology    shakti
+ tifr        Tata Institute of Fundamental Research   shakti!tifr
+ #tifrvax    Tata Institute of Fundamental Research   shakti!tifrvax
+ 
+ CALCUTTA:
+ bose        SN Bose Natl. Ctr. for Basic Sciences    shakti!bose
+ isical      Indian Statistical Institute             shakti!isical
+ kbcscal     Indian Statistical Inst. (KBCS Group)    shakti!kbcscal
+ veccal      Variable Energy Cyclotron                shakti!veccal
+ 
+ CHANDIGARH:
+ imtech      Institute of Microbial Technology        shakti!vikram!imtech
+ 
+ DELHI:
+ aiims       Biotech Dept., AIIMS                     shakti!vikram!aiims
+ cdotd       Centre for Development of Telematics     shakti!vikram!cdotd
+ csird       Council for Sci. & Industrial Research   shakti!vikram!csird
+ iitd        Indian Inst. of Technology- CS Dept. I   shakti!vikram!iitd
+ insdocd     Indian Natl. Sci. Documentation Centre shakti!vikram!csird!insdocd
+ *iqbal      Natl. Assn. of Software & Service Cos.   shakti!vikram!iqbal
+ isidev      Inst. for Studies in Industrial Dev.     shakti!vikram!isidev
+ jnuniv      Jawaharlal Nehru Univ., Phy. Sci. Dept.  shakti!vikram!jnuniv
+ netearth    Indian Inst. of Technology- CS Dept. II  shakti!vikram!netearth
+ vikram      Dept. of Electronics, Govt. of India     shakti!vikram
+ 
+ HYDERABAD:
+ cmch        CMC Limited                              shakti!cmch
+ 
+ KANPUR:
+ kalyan      Indian Inst. of Technology               shakti!vikram!kalyan
+ 
+ KHARAGPUR:
+ iitkgp      Indian Institute of Technology           shakti!iitkgp
+ 
+ MADRAS:
+ imsc        Institute for Maths-Science              shakti!shiva!imsc
+ shiva       Indian Inst. of Technology               shakti!shiva
+ ssf         Spic Science Foundation                  shakti!shiva!ssf
+ 
+ PUNE:
+ gmrt        Giant Metre-Wave Radio Telescope         shakti!gmrt
+ iucaa       Inter-Univ Ctr. for Astronomy & Asphys.  shakti!iucaa
+ parcom      Centre for Development of Advanced Comp. shakti!parcom
+ unipune     University of Poona, CS Department       shakti!unipune
+ 
+ 
+ + Site(s) connected for "news" and e-mail.
+ # Site(s) connected to BITNET as well.
+ * indicates problems accessing this site of late.
+ =======================================================end of document=======
+
+
+
+
+

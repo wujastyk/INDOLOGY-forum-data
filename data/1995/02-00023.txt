@@ -1,0 +1,46 @@
+From janus005 at maroon.tc.umn.edu  Tue Feb  7 14:15:37 1995
+From: janus005 at maroon.tc.umn.edu (janus005 at maroon.tc.umn.edu)
+Date: Tue, 07 Feb 95 09:15:37 -0500
+Subject: wrong LCTL gopher path
+Message-ID: <161227018391.23782.16926098733821876186.generated@prod2.harmonylists.io>
+
+Last week, I announced the Less Commonly Taught Languages Project gopher,
+which presents all US and Canadian colleges and universities that teach
+LCTLs. The path I gave to get to the gopher was wrong. I left off one
+crucial step. The correct path is below. I apologize to all of you who have
+tried and failed to make the connection. Please try us again. (Also
+apologize for cluttering your e-mail boxes and for cross-posting this to as
+many language lists as I know of.)
+
+|
+  +--> University of Minnesota
+    |
+    +--> University of Minnesota Campus Information <<<<====
+       |
+       +--> All the University of Minnesota Gopher Servers
+         |
+         +---> Center for Advanced Research on Language Acquisition
+
+or URL gopher://lctl.acad.umn.edu
+
+Louis Janus
+ Less Commonly Taught Languages Project
+ Center for Advanced Research on Language Acquisition
+ University of Minnesota
+ UTEC--1313 5th Street SE, Suite 111
+ Minneapolis, MN 55414
+ 612/627-1872 (voice)
+ 612/627-1875 (fax)
+-------------------------------
+janus005 at maroon.tc.umn.edu
+             or
+LCTL at maroon.tc.umn.edu
+-------------------------------
+
+
+ 
+
+
+
+
+

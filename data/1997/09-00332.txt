@@ -1,0 +1,35 @@
+From hzhao at SAS.UPENN.EDU  Thu Sep 25 03:56:25 1997
+From: hzhao at SAS.UPENN.EDU (Haiquan Zhao)
+Date: Wed, 24 Sep 97 23:56:25 -0400
+Subject: Shaka and Samvat Era
+Message-ID: <161227032736.23782.7064464087654624002.generated@prod2.harmonylists.io>
+
+> > > I heard that the Shaka Era began in 78 CE, and that one converts from
+> > > Shaka Era to CE by adding 78 or 79,  depending on the month.  But this
+> > > will make, say July 78 CE, fall in year 0 of Shaka Era.  Is this the
+> > > case?
+
+> > Yes, technically.
+
+> Let me put my questions more clear.  If Shaka Era starts in 78CE due to
+> some special event in that year,  then why should that year be year 0
+> rather than year 1?  We were immediately in 1CE after the supposed birth date
+> of Jesus Christ.
+>
+>
+> > > And how to convert between Samvat Era and CE and BCE?
+
+> > Samvat begins 57 years before Christ, so you
+> > would subtract 57 years from a Samvat date to arrive at the B/CE date;
+>
+> I don't know what's the right way to compute,  but I don't think it can
+> be same way for both CE date and BCE date,  since 1 CE immediately follows
+> 1 BCE(i.e. -1 CE) and we miss 0 CE there.  And my above question also
+> applies to Samvat Era.
+>
+> Chuck Zhao
+>
+
+
+
+

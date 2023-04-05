@@ -1,0 +1,42 @@
+From ucgadkw at UCL.AC.UK  Sat Jul 29 13:27:57 2006
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Sat, 29 Jul 06 14:27:57 +0100
+Subject: Love Pavillions
+In-Reply-To: <BAY115-F7B5B872C7A525A3529122A05E0@phx.gbl>
+Message-ID: <161227078191.23782.12265200530572454570.generated@prod2.harmonylists.io>
+
+I don't know, but one place I would think of looking is
+
+   booktitle    = {Love in {South Asia}: A Cultural
+                   History},
+   editor       = {Francesca Orsini},
+   series       = {University Of Cambridge Oriental
+                   Publications},
+   volume       = 62,
+   publisher    = cup,
+   address      = {Cambridge},
+   issn         = {0068-6891},
+   isbn         = 0521856787,
+   year         = 2006,
+
+
+Best,
+Dominik
+
+On Sat, 29 Jul 2006, Harsha Dehejia wrote:
+
+> Friends:
+>
+> Has anyone worked on the Pranay Mandapas (Love Pavillions) in Indian 
+> secular architecture?
+>
+> Is there a Central Asian connection with this?
+>
+> Regards.
+>
+> Harsha V. Dehejia
+>
+
+
+
+

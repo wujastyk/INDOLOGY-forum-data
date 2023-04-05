@@ -1,0 +1,17 @@
+From ges94ahj at STUDSERV.UNI-LEIPZIG.DE  Fri Dec  4 11:41:26 1998
+From: ges94ahj at STUDSERV.UNI-LEIPZIG.DE (jan seifert)
+Date: Fri, 04 Dec 98 12:41:26 +0100
+Subject: need of True Type Devanagari fonts
+In-Reply-To: <36670454.8285D380@uevora.pt>
+Message-ID: <161227043294.23782.277750838040250412.generated@prod2.harmonylists.io>
+
+do you know, that a set of nagaris built in in os 8.5?
+better rechange to mac....
+greetings jan
+(another way: the built ins are tt so you may try to use them on win)
+------------------------------------------------
+end of transmission
+
+
+
+

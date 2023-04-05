@@ -1,0 +1,20 @@
+From ucgadkw at UCL.AC.UK  Wed Sep 13 14:16:51 2000
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 13 Sep 00 15:16:51 +0100
+Subject: Wikner TeX setup
+Message-ID: <161227061593.23782.17318843355064220802.generated@prod2.harmonylists.io>
+
+The CTAN distribution of Charle's Wikner's TeX/Metafont Devanagari
+includes ten bug report files.  Has anyone applied the patches to the
+various files (esp. skt.c and skt.sty)?
+
+It's a bit of work, and if someone's already done it, I'd be grateful for
+a copy.  I could also arranged for the patched files to be mounted at CTAN
+for others.
+
+Best,
+Dominik
+
+
+
+

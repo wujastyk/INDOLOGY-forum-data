@@ -1,0 +1,40 @@
+From jage at loc.gov  Wed Nov 23 14:51:48 1994
+From: jage at loc.gov (jage at loc.gov)
+Date: Wed, 23 Nov 94 09:51:48 -0500
+Subject: Sorting Indic Script
+Message-ID: <161227017898.23782.11166823008011091865.generated@prod2.harmonylists.io>
+
+                                  Wednesday, November 23, 1994
+Indologists,
+     Could anyone point me to a reference on sorting Indic scripts
+(preferably in English)?  Not transliteration but the order of
+entries in dictionaries for languages using Devanagari or other
+South Asian (and Southeast Asian?) scripts.  The order of vowels
+and consonants seems clear enough but I could use some guidance
+on topics such as the following:  
+     1. Are syllables ending with anusvara, anunasika (candrdbindu)
+and Visara interfiled before syllables without these marks? Or is
+there a desired hierarchy among these marks?  For example, using
+N for anusvara, C for candribindu, V for visarga and capital
+letters for long vowels, is this the desired order of these
+made up words?  paNka, paCka, paVka, paNga, paka, pAka.
+     2.  How does avagraha (one or two ofthem) effect sorting?
+     3.  Why are the first two Panjabi consonants last with all
+other Indic scripts (make that "first three" the two silibants
+and the aspirate.)
+     4.  If Punjabi "adhik" doubles the following consonant
+should sorting treat it as another occurence of that consonant?
+     I would not be surprised to learn there are other difficulties
+to further complicate things.  Since I'm not an Indologist this
+may be a case of "fools rush in ..."
+     The above is a purely personal opinion, not the official view
+of any government or any agency of any.
+     Thanks for any references or insights,
+          Regards,
+               Jim Agenbroad ( jage at LOC.gov )
+ 
+
+
+
+
+

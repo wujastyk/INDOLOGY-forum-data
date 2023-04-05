@@ -1,0 +1,54 @@
+From reimann at uclink.berkeley.edu  Wed Sep 11 20:27:31 1996
+From: reimann at uclink.berkeley.edu (Luis Gonzalez-Reimann)
+Date: Wed, 11 Sep 96 13:27:31 -0700
+Subject: Scripts (continued)
+Message-ID: <161227025986.23782.4985889035649396264.generated@prod2.harmonylists.io>
+
+
+
+>        Now my other point was: is that really so difficult for the
+>computer industry to respect other cultural points of view than the
+>anglo-saxon one or is it just bad will? Consider this: there are some email
+>addresses inside our University's LAN I can't write to in correct french
+>because the gateways (Unix based?) do not allow french accentuation (and we
+>are in the heart of the Swiss french-speaking aera). Ridiculous...
+>       I think the computer industry now has to make a big effort of
+>reflection on this point or do we (indologists, french-, german-, hindi-,
+>japanese- etc  speakers) have to do it for them and work on matters that
+>are actually not our primary task?
+
+
+>Francois Voegeli
+>Fac. des lettres
+>Section de langues et civilisations orientales
+>Universite de Lausanne
+>BFSH 2
+>CH-1015
+
+
+I think it was just plain lack of foresight, together with the absence of a
+more global perspective, something that, historically, is very common in
+whatever country is a world power at any given moment (whether it be Spain,
+France, Britain, the U.S., or any other country).  As the ground work for
+the personal computers we use today was laid in the United States, those who
+did it where not thinking beyond the needs of the English language.
+As a native speaker of Spanish, I always found it ridiculous that something
+that is so simple on a typewriter, namely writing accents, or adding a dot
+above or below a letter, becomes an impossible task on a desktop computer.
+I learned from a computer-literate friend of mine that the reason has to do
+with how the ASCII characters were initially established, and that, at this
+point, changing them would be too complicated.  So we need to rely on
+specially designed fonts.
+
+Could someone else throw more light on this?
+
+
+Luis Gonzalez-Reimann
+Department of South and Southeast Asian Studies
+University of California, Berkeley
+
+
+
+
+
+

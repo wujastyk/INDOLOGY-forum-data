@@ -1,0 +1,10 @@
+From adheesh1 at gmail.com  Thu Apr 13 17:47:20 2017
+From: adheesh1 at gmail.com (Adheesh Sathaye)
+Date: Thu, 13 Apr 17 10:47:20 -0700
+Subject: [INDOLOGY] Inability to see romanised (transliterated text with diacritics) Sanskrit in my emails.
+In-Reply-To: <CAFVPNkkFPbSC4EmbBK7Ja606e6Kimb74FhrQ-3_9O9UiMvUBow@mail.gmail.com>
+Message-ID: <A4C05A20-04C2-4484-8945-32A26B1DFF83@gmail.com>
+
+Dear AJ Misra,
+
+You are likely encountering an issue with how your email client is handling the encoding of the messages, reading it as Western European instead of UTF-8. So it may be a matter of fixing your client-side settings.

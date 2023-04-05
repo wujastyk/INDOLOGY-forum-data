@@ -1,0 +1,26 @@
+From wujastyk at gmail.com  Fri Jul 11 18:14:10 2014
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 11 Jul 14 20:14:10 +0200
+Subject: =?utf-8?Q?[INDOLOGY]_SARIT_update:_Su=C5=9Brutasa=E1=B9=83hit=C4=81.?=
+Message-ID: <CAKdt-Cf8u4uspzUMUTznG0yvCgUTpr3x7v6AuDexCx3-ZbM0oQ@mail.gmail.com>
+
+I am pleased to announce the addition of the Su?rutasa?hit? to the SARIT
+library.
+
+   - http://sarit.indology.info/newphilo/navigate.pl?indologica.8
+
+With thanks to the hard work of Tsutomu Yamashita and Yasutaka Muroya.
+
+Furthermore, another major text has been added to the SARIT GIT repository,
+and will be uploaded to the SARIT library in the near future.  Watch this
+space.
+
+Best,
+
+Dominik Wujastyk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140711/9552e9d2/attachment.htm>
+

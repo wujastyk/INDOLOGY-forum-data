@@ -1,0 +1,45 @@
+From mmdesh at UMICH.EDU  Sat Feb 27 22:15:18 1999
+From: mmdesh at UMICH.EDU (Madhav Deshpande)
+Date: Sat, 27 Feb 99 17:15:18 -0500
+Subject: On prana.s.ta versus pra.na.s.ta
+In-Reply-To: <Pine.SOL.4.05.9902271652070.4276-100000@qbert.rs.itd.umich.edu>
+Message-ID: <161227047039.23782.5275089297387017327.generated@prod2.harmonylists.io>
+
+Sorry, my statement about the Paninian rules needs a correction.  P.8.4.36
+(naze.h .zaantasya) prohibits the change of -n- to -.na- when the root
+ends in -.s-, as in the form -prana.s.ta-.  Thus, Panini allows
+pra.nazyati, but not pra.na.s.ta.  I remembered this exception right after
+hitting the 'send' command on my previous message.  Sorry for the
+confusion.
+                        Madhav Deshpande
+
+On Sat, 27 Feb 1999, Madhav Deshpande wrote:
+
+> Hello,
+>
+>         Belvalkar himself seems to have changed his mind between the
+> critical edition and the Banaras edition.  In BG verse 18.72, the critical
+> edition gives the reading -prana.s.ta-, while noting the reading
+> -pra.na.s.ta- as coming from some unspecified mss.  The Banaras edition
+> onthe other hand gives the reading -pra.na.s.ta-, without noting the other
+> reading.
+>         A question was raised as to what would be sanctioned by the
+> grammarians.  Panini lists this root as -.naza- in his Dhaatupaa.tha.
+> Then rule P.8.4.14 (upasargaad asamaase 'pi .nopadezasya) says that the
+> -n- of a root, which is listed with -.n- in the Dhatupaa.tha, changes to
+> -.n- after the r/.r/.s in the Upasarga, even when there is no compounding
+> (asamaase 'pi).  The last condition would then allow forms such as
+> -pra.na.s.ta- (where there is traditionally said to be compounding between
+> pra and na.s.ta) and pra.nazyati (where there is traditionally not
+> supposed to be any compounding).  The form -pra.nazyati- occurs in BG
+> 2.63, and neither the critical edition, nor Belvalkar's Banaras edition
+> cite the variant -pranazyati-.  Thus, from a purely theoretical point of
+> view of Paninian grammar, the form would be -pra.na.s.ta-.  This is,
+> however, not to say anything about the forms of the Ur-Mbh.
+>         Best,
+>                                         Madhav Deshpande
+>
+
+
+
+

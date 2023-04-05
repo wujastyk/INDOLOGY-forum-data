@@ -1,0 +1,35 @@
+From f_ruzsa at ISIS.ELTE.HU  Thu May 13 17:01:14 1999
+From: f_ruzsa at ISIS.ELTE.HU (Ferenc Ruzsa)
+Date: Thu, 13 May 99 19:01:14 +0200
+Subject: Does Purusha will?
+Message-ID: <161227048837.23782.4586465104287697287.generated@prod2.harmonylists.io>
+
+Vidyasankar Sundaresan wrote:
+
+
+> Quality, to an Indian ear, seems to imply guNa,
+> which of course, the sAMkhyan purusha is devoid of, technically. But it is
+a
+> different question whether the purusha is viSishTa or not, which is what
+you
+> are saying. A different word than 'quality' would clear the issue.
+
+A very sensible proposal. I would however suggest translating guNa (in
+sAMkhya contexts only, of course!) differently; say 'aspect' or
+'constituent'. The reasons for this approach: the guNas themselves have
+qualities (e.g. sattvaM laghu prakAzakam, sattva is light and brilliant, SK
+13), and there is no substance that they would qualify: simply the three
+guNas together *are* the material substance, prakRti. And this contradicts
+European (Aristotelian) notions of substance and quality, and also the
+vaizeSika concept of quality (unfortunately also called guNa): dravyAzrayy
+aguNavAn ... iti guNa-lakSaNam (The characteristics of quality: inheres in a
+substance, has no qualities ...; vaizeSikasUtra 16).
+    Though it is generally hazarous to translate one and the same word
+differently, I feel that it cannot be helped. Wherever guNa means "sattva,
+rajas and tamas", it *must not* be translated as quality - it can be left
+untranslated, or a specific term must be selected for the purpose (some more
+ideas: 'factor', 'thread'). In other contexts 'quality' still seems to be
+the best choice.
+    The situation is similar, say, in the case of 'dharma' - it will also
+mean 'quality' quite often, but at other times it wil be 'law' etc.
+

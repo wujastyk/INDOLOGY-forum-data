@@ -1,0 +1,167 @@
+From shrao at IA.NET  Tue Jun  1 03:37:34 1999
+From: shrao at IA.NET (Shrisha Rao)
+Date: Mon, 31 May 99 22:37:34 -0500
+Subject: Gentoo studies (details on SR)
+In-Reply-To: <199905292039.UAA16952@smtp2.polbox.com>
+Message-ID: <161227049795.23782.2760350278702883054.generated@prod2.harmonylists.io>
+
+Dear Indologists:
+
+Pursuant to sentiments expressed recently on this list, this will be my
+last response on this topic; although I generally would prefer to go for
+an extensive point-by-point rebuttal running to several hundred lines if
+necessary, in the present instance I have been rather disappointed by the
+very low standard of the debate, both in terms of scholarship and
+civility, and see no purpose in getting into a long discussion centered
+largely on uninformed quibbles about my character or skills (or alleged
+lack thereof).  I apologize to the list owner and others for making this
+posting longer than a few screens of text, and trust that this will be
+forgiven, since I do not intend to repeat this performance.
+
+To be precise, I will address just one issue: whether it is true, as has
+been held, that the meaning of `nitya' in the RV's `vAchA virUpa nityayA'
+is not consistent, on grounds of philology, with the meaning given to it
+by Sayana and others.
+
+Philology is a fairly accurate science insofar as regular phonological
+correspondences can be established among languages, which can then be used
+to identify individual words in those languages as having a common
+historical ancestor.  But that regularity does not extend to semantic
+correspondences.  Semantic drift can be documented, but cannot be
+predicted precisely enough to say what a particular word in a particular
+context at a particular time must have meant without direct evidence of it
+-- least of all for technical terms that may depart from contemporary
+casual use, and that typically resist normal processes of change.
+Referring to related philosophical texts or texts of the period is an
+attempt to establish that direct evidence, or at least a number of pieces
+of indirect evidence that point to the same conclusion.
+
+Fortunately, ancient India was probably the most literate society of the
+ancient IE world; so direct evidence is in relative abundance, at least by
+comparison to other early IE languages.  On occasion, semantic drift or
+"semantic distance" over a large number of words believed to be "core
+terms" or more "basic" to a language's lexicon is tabulated and used to
+make an argument about how closely related several languages are, e.g.
+whether Hittite separated earlier than Greek did from Sanskrit, etc.
+
+Even then, the results are often contested as being unreliable.
+
+The best method, by far, is to use contextual evidence from texts of
+the same language and period in which the word occurs to constrain
+its meaning.  Of course, with philosophical or other technical
+terms, that can be just as error-prone.
+
+For example, one might try to acquire a better perspective on the early
+meaning of "nitya" in Advaita by looking at its use in the Buddhist texts
+of the Pali canon, which probably broke off contact before later Indian
+commentators on Shankara, etc., appropriated it to their own uses (if you
+believe they changed its meaning in doing so).
+
+In the present instance, the question is what the meaning of the Vedic
+`nitya' is, and this is certainly a question of *philosophy* more than it
+is one of *philology*.  Even to the extent that philology is an aid, it is
+not academically useful to simply assert the pedigree of philology as a
+science, since this does not automatically show what is desired, to wit,
+that the classical commentators have distorted the meaning of `nitya'.
+
+Thus, if one asks if philology could have the strength to overrule the
+classical interpretation (which is pretty unanimous across the board, btw)
+on this point, then the answer has to be no, philology does not, in
+general, have the strength to overrule classical interpretations.  The
+only hard exception to this would be if philologists came across an
+ancient lexicon (and these did exist) that defines philosophical terms.
+If there are an abundance of contemporary or subject-related texts that
+gloss the term differently, or seem to use it very differently, this can
+also be taken as a very strong suggestion that the classical
+interpretation is mistaken.  In the absence of that, philology can point
+to documented uses of a term, but normally cannot exclude other uses,
+unless they're way off base (the philological evidence strongly suggests,
+for example, that `nitya' has never meant "horse").
+
+However, the above is an objection in principle against attempting to
+reject the classical interpretations based on philology.  Philology does
+not, however, reject the classical understanding in this instance (and in
+others).  `nitya' is a nominal derivative of the root ni-, which indicates
+"down, back, in, into, within" and in certain compounds, a negation, cf.
+"down-hearted."  `nitya' is "something that exists within or in itself,"
+from there extending to "innate, native," "one's own" (opp. of ara.na),
+and also "continual, perpetual or eternal," and from there "ordinary,
+usual, invariable, fixed, necessary, or obligatory."  It is even attested
+as meaning "sea or ocean," in its aspect as something of seemingly endless
+expanse.  It can be compared to nija, also from ni-, compounded with the
+root -jan, "to bear or generate," meaning also "innate, native, of one's
+own kind," which also extended to "constant or continual."  ni- has a
+number of IE cognates: Greek e-ni, a variant of en, 'in', found in early
+Greek epic poetry and in eastern Greek dialects, from which come a number
+of technical English terms, e.g. en-cyclopaedic, en-demic, etc.  Also,
+Slavic ni-zu, German nieder, "low", and English nether- (e.g.
+nether-world), and be-neath.  The -tya suffix is perhaps related to Latin
+-tio(n-), which, through French, is realised in English as -tion.
+Philological evidence thus points to an original meaning more like
+"innateness."  This also gels with the word `nitya' as used in other known
+Vedic contexts, e.g., `eshha nityo mahimA brahmaNasya', which would
+meaning "the Brahman's greatness is innate," i.e., not derivative or
+liable to wax and wane.
+
+As it happens in this particular case, the philological evidence I have
+presented does not even come close to rejecting "eternal" as the original
+Vedic meaning.  The classical interpretation is to be preferred to any
+more limited temporal meaning.  The reason is that the association with
+temporality is a secondary development, according to the philological
+evidence.  "Eternal, perpetual etc." developed by association with
+innately sustained existence, not by exaggeration of a more limited
+temporal concept.
+
+In general, based purely on philology/linguistics, no worthwhile scholar
+would say that horizontal comparisons of words with cognates in Greek,
+Avestan, etc., are a necessarily better idea than attempting to derive
+meanings based on vertical comparisons with later development in the
+Sanskrit classical literature.  Neither is very accurate and neither is
+consistently better than the other (there are cases where vertical
+comparisons are totally misleading and horizontal ones are spot on, and
+vice versa).
+
+Examples:  The Skt. word for 'mist' is miha, megha or something like that.
+The closest IE cognate is Latin micturire, "to urinate," i.e., "make a
+mist."  The Skt. meaning is better preserved in Indic reflexes (although I
+don't recall any off the top of my head).  Conversely, `lady' is a higher
+or more respectful term for a woman in Modern English, whereas `woman' has
+been more neutral for a very long time.  Comparison with IE cogates,
+however, reveals that `woman' must come from OE wif-man, "wife of a man,"
+whereas `lady' must come from OE hlaef-dige, "one who kneads dough," i.e.,
+a kitchen servant.  Over time, `lady' has switched registers, but the
+phonological correspondences with other IE languages reveal its true
+origins.
+
+This limitation is true of all languages, not just Sanskrit.  If
+philologists are unable to determine unequivocally the meaning of a
+philosophical term from context, typically they back off to texts of
+similar contemporary or descendant schools or genres with whom it is
+believed a great deal of that context is shared.  Using IE cognates or
+non-technical senses of modern Hindi reflexes would both be methods of
+last resort.
+
+Lastly, `vAchA virUpa nityayA' is not the only Vedic statement of
+relevance in this context; others have been cited as well where the
+meaning of `nitya' is not even called into question because it is not
+used.  It is obvious to me that the rejection of the notion that the
+concept of apaurushheyatva is of Vedic origin, is not based on deep
+understanding of the concept itself, nor of the Vedas, but is only an ad
+hoc back-formation of arguments intended to justify a preconception.
+
+It would also not be remiss of me to observe that "Western" scholarship of
+the Vedas has put its foot wrong on more than one other instance in
+claiming that a certain philosophical concept was not found in the Vedas
+(for instance, esteemed Indologists whose names are well-known on this
+list and outside have claimed that the concepts of rebirth, and of memory
+as a valid source of cognition, are not Vedic in origin; I will not
+elaborate on this to spare them a few blushes, and to keep this
+already-long posting from growing even longer).
+
+Regards,
+
+Shrisha Rao
+
+
+
+

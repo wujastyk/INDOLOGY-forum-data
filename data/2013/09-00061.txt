@@ -1,0 +1,36 @@
+From wujastyk at gmail.com  Wed Sep 25 12:34:45 2013
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 25 Sep 13 14:34:45 +0200
+Subject: [INDOLOGY] SARIT Addition: Setubandha
+In-Reply-To: <CAB3-dzfKHLe1RgRCbW_yd8_kAyBW3vnM2k6Xsccdws37xECxkg@mail.gmail.com>
+Message-ID: <CAKdt-Cc=CAMNVTN1jzuxm3nj5au9JLg2+1_AY=zm_z9fiULUBw@mail.gmail.com>
+
+Dear Madhav,
+
+Good question.
+
+First, you can read the files directly just on the SARIT website, of
+course.   SARIT turns the XML into HTML for you.
+
+But if you want to download the XML and use it some different way, the best
+and easiest converter I know is
+OxGarage<http://oxgarage.oucs.ox.ac.uk:8080/ege-webclient/>.
+Select "documents" and then "TEI P5", on the left, and then whatever you
+want on the right (PDF, HTML, MS Word, LaTeX, epub (Kindle), etc.).  It
+does a pretty good job, and is constantly improving.
+
+One of our plans for SARIT is to build this conversion facility right into
+the SARIT website, so you can just press a button right there beside the
+text and take delivery of whatever format you want.  It is likely to be
+handled by OxGarage, which offers a
+RESTful<https://en.wikipedia.org/wiki/Restful>service (i.e., it can be
+used in the background by other websites).
+
+Best,
+Dominik
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130925/4e41004b/attachment.htm>
+

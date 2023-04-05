@@ -1,0 +1,128 @@
+From antonia.ruppel at gmail.com  Thu Dec 29 17:59:20 2022
+From: antonia.ruppel at gmail.com (Antonia Ruppel)
+Date: Thu, 29 Dec 2022 18:59:20 +0100
+Subject: [INDOLOGY] paratva again
+In-Reply-To: <CAB3-dzfyR6=2wDbtm2__WcHRdQn_Yyf5t2P7sxj7imDL0a+a5Q@mail.gmail.com>
+References: <LO4P265MB4280CF6BCF43B8A1C50E65E4F9E59@LO4P265MB4280.GBRP265.PROD.OUTLOOK.COM>
+ <CAB3-dzcJt8zUngug=yDd3Rx+KHBsYdR1Sj_Osd7iD6xHJBnwPg@mail.gmail.com>
+ <40B0F55A-3310-4A14-A064-0629A604E210@illinois.edu>
+ <bff8e2cc-9764-e915-5152-8daf00da5ce3@lrz.uni-muenchen.de>
+ <7641E107-417F-4D79-893B-2168A213F9F4@austin.utexas.edu>
+ <CAB3-dzfyR6=2wDbtm2__WcHRdQn_Yyf5t2P7sxj7imDL0a+a5Q@mail.gmail.com>
+Message-ID: <CAEjEOsCKBcfw9DGhbk9X4zyczAE12q_bQ5P57WNvi4BiQbs66g@mail.gmail.com>
+
+I was able to open the link on my phone without any issues and would
+recommend this to others (but am getting the same error message when I try
+to open the link on my laptop). The argument contains many links and
+tables; otherwise I'd copy and paste it here. (But please email me if you'd
+like screenshots.)
+
+Tangentially, has anyone been able to download/access the
+Gan?ak?s?t??dhy?y? software recently? I remember using it for my PhD, when
+I felt it was extremely helpful.
+
+Antonia
+
+On Thu, 29 Dec 2022 at 18:36, Madhav Deshpande via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Thanks, Patrick. I am getting the same message.
+>
+> Madhav
+>
+> Madhav M. Deshpande
+> Professor Emeritus, Sanskrit and Linguistics
+> University of Michigan, Ann Arbor, Michigan, USA
+> Senior Fellow, Oxford Center for Hindu Studies
+> Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+>
+> [Residence: Campbell, California, USA]
+>
+>
+> On Thu, Dec 29, 2022 at 6:43 AM Patrick Olivelle via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> When accessing the first link in Robert?s message, I get this warning:
+>>
+>> Malware Detected!
+>> http://math.taralabalu.in/news.php?tp=1901
+>>
+>> Based on The University of Texas at Austin access policies, the web site
+>> you are attempting to access has been blocked because it has been
+>> determined to be a security threat to your computer or the organization's
+>> network. This web site has been associated with malware/spyware.
+>>
+>> If you have questions, please contact the UT Service Desk at +1 (512)
+>> 475-9400 or help at its.utexas.edu, or your departmental help desk, and
+>> provide the codes shown below.
+>>
+>> Your IP: 2603:8080:2a00:6b6f:c1c3:2a87:7bff:d6ef
+>> URL: http://math.taralabalu.in/news.php?tp=1901
+>> Reason: MALWARE
+>> Threat Reason: Researchers or users identified possible threats.
+>>
+>> Patrick
+>>
+>>
+>> On Dec 29, 2022, at 7:03 AM, Robert Zydenbos <
+>> zydenbos at lrz.uni-muenchen.de> wrote:
+>>
+>> Dr Shivamurthy Shivacharaya Mahaswamiji (of Sri Taralabalu Mutt,
+>> Sirigere, Karnataka) has requested me to forward the following link to the
+>> list:
+>>
+>> Panini Sutras: Claim made by the Cambridge University researcher is
+>> illogical, invalid and misleading:
+>> http://secure-web.cisco.com/1s16ZJB7oX2xgv3-qo_rBP9kjb_7uSQSL3VfenUcxDAKHZ9m0LwyulfvfRPIAeAcFkdQmeSRb3HiwNU5VEk4xVhnB-rZHRRgzYDLV_YqO0L40Y7S9QvoWv-A-vShgyVyONxxOXstZ8LHDhhgBy8Ur_Rh88Nl_MNaxPkVZCMYhW7aSxufSVQ4gFRpd9v6Yhj4Xxgp5Eh0U52A8LZiej-vViOUuniw3p2B6JPlcDvl8oPSap1uscJEbDIEc_qEcx1hSPtV6gFtzSeI6XpA0VE9AZgXeaak1ftnMg08C_Tef6FAPz_fgwKaDyl0QrIItvBJim00t5zL6tUuUEMLzwlQVe8Tw5IcOLHiAWF75DXVN7UFcV-rzqEw93W8gJ8JT1oF2bvYBGVcjo2BUyTua707ZXyB6Ml0X0XjrTFfXhvwwRjvrMbs4yJDJyz4GJ8X-V5lecZjl00iUFANp7pNDNDN4g4tp5tMf9Kn_4AI94j-bdWK21j8Pc3FP3JQ9J1rQ8tU0I_J7ShTKzlFkpZ3o-MnXQRqHpj-tHz8YUwgdzgklEL1DnBAeS9SzB3xNmlJvvav2Ho58equKcXq4LVqz4ETt2xY1Ey36TFOW8DLjZzuEJSUReTeSJ9aMKRH9xqMENN9z/http%3A%2F%2Fmath.taralabalu.in%2Fnews.php%3Ftp%3D1901
+>> <https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsecure-web.cisco.com%2F1s16ZJB7oX2xgv3-qo_rBP9kjb_7uSQSL3VfenUcxDAKHZ9m0LwyulfvfRPIAeAcFkdQmeSRb3HiwNU5VEk4xVhnB-rZHRRgzYDLV_YqO0L40Y7S9QvoWv-A-vShgyVyONxxOXstZ8LHDhhgBy8Ur_Rh88Nl_MNaxPkVZCMYhW7aSxufSVQ4gFRpd9v6Yhj4Xxgp5Eh0U52A8LZiej-vViOUuniw3p2B6JPlcDvl8oPSap1uscJEbDIEc_qEcx1hSPtV6gFtzSeI6XpA0VE9AZgXeaak1ftnMg08C_Tef6FAPz_fgwKaDyl0QrIItvBJim00t5zL6tUuUEMLzwlQVe8Tw5IcOLHiAWF75DXVN7UFcV-rzqEw93W8gJ8JT1oF2bvYBGVcjo2BUyTua707ZXyB6Ml0X0XjrTFfXhvwwRjvrMbs4yJDJyz4GJ8X-V5lecZjl00iUFANp7pNDNDN4g4tp5tMf9Kn_4AI94j-bdWK21j8Pc3FP3JQ9J1rQ8tU0I_J7ShTKzlFkpZ3o-MnXQRqHpj-tHz8YUwgdzgklEL1DnBAeS9SzB3xNmlJvvav2Ho58equKcXq4LVqz4ETt2xY1Ey36TFOW8DLjZzuEJSUReTeSJ9aMKRH9xqMENN9z%2Fhttp%253A%252F%252Fmath.taralabalu.in%252Fnews.php%253Ftp%253D1901&data=05%7C01%7C%7C5755644dff0148812e0808dae9a4be4b%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638079191026032136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=6y2%2BHUyWQ3U9it1DyDEfRM6M2mflwCjf1jSxYAM%2Bfto%3D&reserved=0>
+>>
+>> Readers may know the swami as one of the main organizers of the 1997
+>> World Sanskrit Conference in Bangalore and as the developer of the P??inian
+>> computer software Gan?akas?t?adhy?y? (
+>> https://secure-web.cisco.com/11f5WXzzhcXpyExeUa1crlZcyLEjiLQzjvQUBeliqmt1Z3vGlK_h3GEhMFWTtOevvZl3I5ziNppyM87tHEG_eQG1R9sllMFjOwS_-0rgN3PLDV2vz_ed8jzMZR0b8urIUIG_JiSF__0UDrj4VMvfnpohd0FL_SPK_REyVBCv5ADdpFJNiYcfiqvPVNRTiXYJYsd5RVxZZC42qpZ3lQlqtew8B-afnsPGsihhXZBvGj7sCAJmfKi22z5hkMGAX0VppttxljQGf2N-NYRHQS7WZuqwQoqUvA3AdqEJLC7VGchUXtg3C1bUcH3m33lhgzfXy_cNoPHoEPfs4wWzoq78JQerUTOUgVG7dUcPcbNPxUourq7RtKyfE3TRwHJ-6gfsc-SER5daEm3SGK_lepZbGBfGnOmaW8uOlzk9kzW7G3__lUBuu_AcuPIiyYU78LKYTjuMUTKR110n2AXxzc7z3AuzoG3-wI_Xe7gm_ELRR1jZxm_p3x4CiZ4WwUkFRcUyB4LtHaRAqkFPBIrzjGrO5Jy9ZErGsphPrDdQ9ntjqozzwuJwIm2G1Qb5eDdW0xRPCR_xUc7zpUQ2Ct96wWvYcoVbZrXHq3_E92F0p_JFePqsiYZKRn-iAvlWwY5TXwEdE/https%3A%2F%2Fwww.taralabalu.org%2Fpanini%2F).
+>> Using the software, the swami concludes: ?There is no puzzle to crack in
+>> the Panini Sutra ?1.4.2 - vipratis?edhe param k?ryam?.  This Sutra is well
+>> understood in the Indian tradition of grammarians. The researcher only is
+>> misinterpreting it to his convenience.   The traditional understanding of
+>> this Sutra is: ?In the event of a conflict between two rules of equal
+>> strength, the rule that comes later in the grammar?s serial order wins?.
+>> But the researcher tries to reject this meaning.?
+>>
+>> Robert Zydenbos
+>>
+>>
+>>
+>> --
+>> Prof. Dr. Robert J. Zydenbos / ????. ??. ???????? ????????????
+>> Institute of Indology and Tibetology
+>> Department of Asian Studies
+>> Ludwig-Maximilians-Universit?t M?nchen (University of Munich ? LMU)
+>> Germany
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>>
+>> https://secure-web.cisco.com/1PUbCN7BiP9u4GqPS52wBZkKd5gKI3PWBIjWrhJ9FrGa51Q29WoRmqAAU5ksD5Zc04F7PVGnDn3f8hJ-aYbdwZDdlUtWGSCQtHTHwF3kwPyWqV6FGPYR7FYSD-kkNnUu_tSNJxAfz1tNzQlkEz1CFidzv6vZEg-jvVG_pqcrnZkRBxWLtZTLuDbSJIrD09k_7-cEjloHJQK1cS8e_jNN5ezGtgwLPQhLLFx8-80776uihZlPS8a77fnwPbmMtrogIvJKtyYIRwQeYm9HYa-01BiMmYmpDKOOMkD5CuboUdV7T225mBr1X1hcpUe7nZu14aMyPSbRKm4b6Ol8Dj7eZNKxYK9IPh3JH_y3ToMl_yJt0np7k3MNZExwAIwKaMkhkZyMr3Hj3MO8B_CYjnWE33192MdpWHdwHMC4Nba5KLmtM2AXjS6laoxS9cyJPVFQNcPHGNNQJYC9sYjWaEJcPfU-lqkvBj3Vgi_ZlalUIeA0duuS56lq2n4cIxuwtff5hw4lKSt-H7jPDdEwxoLNJah42hnVsGsUSd6PwTuRXQaS8v3SIxLHh3f_ePF2ZSh_I6Uz8xhCTbcoYtOc_BK7LEJs77jbWWLYmw-XQpYtJgBGrs0XbiqsA0gwV7h1JyDx2/https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology
+>>
+>> This message is from an external sender. Learn more about why this <<
+>> matters at https://links.utexas.edu/rtyclf.                        <<
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> https://list.indology.info/mailman/listinfo/indology
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221229/4b89333e/attachment.htm>
+

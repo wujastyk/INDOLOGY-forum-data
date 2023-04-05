@@ -1,0 +1,34 @@
+From selwyn at DTN.NTL.COM  Fri Mar 31 05:53:04 2000
+From: selwyn at DTN.NTL.COM (L.S.Cousins)
+Date: Fri, 31 Mar 00 06:53:04 +0100
+Subject: tech. question, Mac OS 8.6
+In-Reply-To: <MailDrop1.2d7fPPC.1000331132438@hmzm21.ust.hk>
+Message-ID: <161227057530.23782.10255101099744917413.generated@prod2.harmonylists.io>
+
+I have no problem using Sys 8.6 and Word98. But I use
+Normyn/Times_Norman for the font.
+
+Have you checked the keyboard selection - small icon next to the icon
+on the top right you use to change between running programs.
+
+Lance Cousins
+
+>I am also having a problem using the keyboard for the old Indic Times
+>font.  The keyboard actually works fine in my G4 with system 9 as long
+>as I stay in Word 5.1.  However, when I switch to Word 98, then certain
+>keys such as the semicolon and the Indic diacritics no longer work
+>properly.  Are you also using Indic Times with the caps-lock switch for
+>diacritics?  Does anyone know if there are any updated versions of the
+>Mac keboard for this font?  I neglected keeping up with changes in
+>fonts-software because what I used had been working fine until now.
+>
+>David Lawrence
+--
+OXFORD, UK
+
+CURRENT EMAIL ADDRESSES:
+L.S.Cousins at nessie.mcc.ac.uk or selwyn at dtn.ntl.com
+
+
+
+

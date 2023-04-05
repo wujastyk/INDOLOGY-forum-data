@@ -1,0 +1,32 @@
+From C.Wooff at liverpool.ac.uk  Fri Feb 28 13:07:14 1997
+From: C.Wooff at liverpool.ac.uk (Chris Wooff)
+Date: Fri, 28 Feb 97 13:07:14 +0000
+Subject: Administrivia - please read
+Message-ID: <161227028652.23782.14104904841160588103.generated@prod2.harmonylists.io>
+
+We are currently in the process of changing list servers from listproc to listserv. At 
+the moment there is a shadow version of the Indology list of subscribers under 
+listserv. This is there for us test various things. Therefore, at the present time the 
+real version of the list is the one managed by listproc. This has several 
+consequences:
+
+1) You need to advise potential subscribers to use the listproc address. We're 
+starting to see new users trying to subscribe via listserv - this won't get them any 
+email at the present time.
+
+2) Any change in subscription options need to be sent to listproc.
+
+3) Signoff requests must go to listproc. Again, we're seeing existing members of the 
+list using the listserv address. A signoff to listserv will remove you from the shadow 
+but won't stop any emails.
+
+------------------------------------------------------------
+Chris Wooff (C.Wooff at liv.ac.uk, ....mcsun!uknet!liv!C.Wooff)
+Sent with Simeon Version 4.1.1 Beta 1
+
+
+
+
+
+
+

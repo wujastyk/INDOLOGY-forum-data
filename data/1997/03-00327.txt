@@ -1,0 +1,47 @@
+From ucgadkw at ucl.ac.uk  Fri Mar 28 12:57:22 1997
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Fri, 28 Mar 97 12:57:22 +0000
+Subject: Velthuis-for-mac
+Message-ID: <161227029166.23782.17185971658220048956.generated@prod2.harmonylists.io>
+
+Francois Patte has kindly made available a Mac executable for the current
+version of the Velthuis TeX Devanagari (including hyphenation).
+
+This is now available via the INDOLOGY web site, under "Supplementary
+files...".  See file "Devanagari.sea.hqx[.readme]".
+This can also be fetched by ftp directly from
+
+  ftp.ucl.ac.uk:/pub/users/ucgadkw/indology/software
+
+
+
+On Fri, 28 Mar 1997, Patte wrote:
+
+
+> You will find attached with this mail a file "Devanagari.sea.hqx". It is
+> a folder for the use of Velthuis's devanagari with OzTeX on a Mac-Intosh.
+> This contains : - a short note to install
+>            - latest version of preprocessor "devnag" which make hyphenation
+>              avalaible.
+>            - latest version of *.mf and *.tfm files to be run with this version
+>              of the preprocessor.
+>            - dev2e.sty, OT1dn.fd
+> 
+> I hope this will be helpfull for those who run Mac-Intosh.
+> I'll make the same with latest version of "sanskrit's Wikner"
+ 
+
+All the best,
+Dominik
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+
+

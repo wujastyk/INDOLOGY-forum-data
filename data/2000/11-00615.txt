@@ -1,0 +1,86 @@
+From saf at SAFARMER.COM  Thu Nov 30 00:08:40 2000
+From: saf at SAFARMER.COM (Steve Farmer)
+Date: Wed, 29 Nov 00 16:08:40 -0800
+Subject: Genetics issues in ancient India
+Message-ID: <161227064768.23782.4871843459277648746.generated@prod2.harmonylists.io>
+
+Geeta Bharathan writes:
+
+> You might be interested in a recent article:
+>
+> Susanta Roychoudhury et al 2000.
+> Fundamental genomic unity of ethnic India is revealed by analysis of
+> mitochondrial DNA
+> Current Science Vol 79 No 9: 1182-1192.
+>
+> You can download it from:
+> http://www.iisc.ernet.in/~currsci/nov102000/contents.htm
+>
+> I have not read the article in detail, but it seems to be well done.
+> Nevertheless, I would be cautious about making generalizations based on single
+> genes/genomes, including in the European study cited below. It still is one
+> line of evidence, and one that still is fragmentary.
+
+There are now about 15 recent genetic studies of possible
+relevance to migration issues in ancient India. I've collected
+these to write a planned review article early next year. If
+anyone is interested in an overview of the papers, I've posted
+the abstracts of the most important at the following website:
+
+http://www.safarmer.com/genetics
+
+As you'll see if you work through the abstracts, there is very
+wide divergence in these studies. If you turn to the original
+articles, you'll also find numerous sampling problems and
+other methodological difficulties. The temporal resolution of the
+studies isn't normally sufficient to shed much if any light on the
+so-called Aryan migration issue. The paper by Roychoudbury et al.
+may possibly contain some supporting evidence for it (see esp. p.
+1188) in its finding that haplogroup U, which is often
+characterized as a Caucasoid marker, "is more frequent among most
+populations of northern India (Brahmins of Uttar Pradesh, Rajput,
+Muslim) who probably have had more admixture with individuals of
+Caucasoid background through multiple invasions of India in
+historical times than populations of the eastern or southern
+region...." (p. 1188). But other papers, including an earlier
+paper which Roychoudhury coauthored in 1999, point to different
+conclusions. The results, to put it lightly, are all over the block.
+
+It is important to note that mtDNA studies like this may not be
+as relevant to invasion/migration issues as studies of y-chromosome
+polymorphisms, which (in constrast to mtDNA studies) trace male
+and not female lineages. There are only a handful of y-chromosome
+studies so far of India; all of them are extremely small. They
+also come up with directly contradictory results. One of these,
+Bhattacharyya NP, et al., Genome Res. 1999 Aug;9(8):711-9, has
+Roychoudhury as a coauthor. Copies of the original paper can be
+downloaded from:
+
+http://www.genome.org/cgi/content/full/9/8/711
+
+There is of course much interest in seeing what you can or cannot
+say about migrations in historical times using data from both
+mtDNA and y-chromosome polymorphism studies. Most papers, like
+Kivisild et al. (see abstracts in the first link) were designed
+to
+deal with data in distant prehistorical periods but have been
+misused in attempting to interpret the Aryan question. Some of the
+existing papers are contaminated not only by methodological but
+by political/ethnic biases as well. Caveat lector!
+
+The question of what *legitimate* light mtDNA and y-chromosome
+data might -- or might not -- throw on the Aryan issue will be
+discussed by one of the lead members of Cavalli-Sforza's
+group (an expert on y-chromosome and mtDNA issues)
+at a conference at Harvard University this coming May. Unlike most
+of the authors of the papers cited in the abstracts above, he
+is an expert on population biology in historical as well as
+pre-historical periods. It is important to recognize at this
+point that few of the existing papers were designed with
+historical issues like the Aryan question in mind.
+
+Steve Farmer
+
+
+
+

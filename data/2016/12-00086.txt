@@ -1,0 +1,27 @@
+From hspier.muktabodha at gmail.com  Sun Dec 18 00:30:44 2016
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Sat, 17 Dec 16 19:30:44 -0500
+Subject: [INDOLOGY] Entering Unicode devanagari on the Mac
+Message-ID: <CAPW7aQFnjCUGoU8pzjVktDJBNMz08EqMeipNdS0gj8f0X77zwg@mail.gmail.com>
+
+Dear list members,
+
+One of my associates needs to enter devanagari on a Mac. Her word processor
+is Word for Mac I don't know the exact version but both her word for Mac
+and operating system are  about 5 years old.
+
+I thought the most foolproof way of doing this was for her to enter her
+sanskrit in Kyoto-Harvard on the Sanskrit Libraries transcoder to produce
+unicode devanagari and paste this into her word document.
+
+Will this work or is it only in the last few years that Word for Mac will
+work with unicode?
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161217/7fca6bd0/attachment.htm>
+

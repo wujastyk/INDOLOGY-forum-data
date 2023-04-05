@@ -1,0 +1,28 @@
+From kellner at ue.ipc.hiroshima-u.ac.jp  Wed Aug 16 01:37:30 1995
+From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
+Date: Wed, 16 Aug 95 01:37:30 +0000
+Subject: CSX font on Windows
+Message-ID: <161227020345.23782.16823423450227738776.generated@prod2.harmonylists.io>
+
+Madhav Deshpande wrote: 
+>	I have now moved my Madhushree Devanagari font to Windows.  On MS 
+>Word, I have created enough "shortkeys" to make the job entering Nagari 
+>easy.  However, I would like some device at the level of Windows, rather 
+>than be dependent on MS Word.  Any suggestions!
+
+If I may add a constant nagging question (or demand) of mine - I am looking
+for a device in Windows which enables one to allocate whatever characters of
+whatever font to whatever keystroke (alt+whatever, ctrl+whatever) I want. 
+Just a flexible Windows-keyboard-editor. Does such a thing exist?
+
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+ 
+
+
+
+
+

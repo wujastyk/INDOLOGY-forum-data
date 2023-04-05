@@ -1,0 +1,31 @@
+From wujastyk at gmail.com  Sun Jul 19 03:11:45 2020
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sat, 18 Jul 20 21:11:45 -0600
+Subject: [INDOLOGY] Scan tent
+In-Reply-To: <BB26A9E7-6CBA-411D-9628-97D40826B681@safarmer.com>
+Message-ID: <CAKdt-CeUByjnc_xan5KBfgQ6vU5FGNB864DOGP1+tog0kDNvsw@mail.gmail.com>
+
+while we're talking about this, there's a nice free PDF book available on
+best practice in digitizing:
+
+@Book{butt-2018,
+  editor    = {Jody Butterworth and Andrew Pearson and Patrick Sutherland
+and Adam Farquhar},
+  title     = {Remote Capture: Digitising Documentary Heritage in
+Challenging Locations},
+  location  = {Cambridge UK},
+  publisher = {Open Book Publishers},
+  date      = {2018},
+  isbn      = {9781783744756},
+  doi       = {10.11647/obp.0138},
+  url       = {https://www.openbookpublishers.com/product/747},
+  urldate   = {2019-06-16},
+  note      = {Appendices available from \url{
+https://www.openbookpublishers.com/product/747}},
+}
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200718/88112eae/attachment.htm>
+

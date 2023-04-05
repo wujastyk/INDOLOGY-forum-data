@@ -1,0 +1,44 @@
+From mmdesh at UMICH.EDU  Mon Feb 16 18:25:31 1998
+From: mmdesh at UMICH.EDU (Madhav Deshpande)
+Date: Mon, 16 Feb 98 13:25:31 -0500
+Subject: negations and their names
+In-Reply-To: <l03130302b10dd88ebb5d@[141.218.154.129]>
+Message-ID: <161227035731.23782.8988291186130985085.generated@prod2.harmonylists.io>
+
+I have not come across the term paryudAsa-pratizedha in my reading of
+Sanskrit texts.  The etymology of the word paryudAsa makes it clear that
+it refers to exclusion of an item.  At least in the discussions in the
+Sanskrit grammatical texts, it is clear that cases of paryudAsa have a
+positive meaning: abrAhmaNam Anaya "bring someone other than a Brahmin",
+and this does not end with "do not bring a Brahmin".  Within the context
+of Panini's rules, an expression like abrAhmaNa refers to someone other
+than a Brahman, but someone who is similar to a Brahman in other respects
+(cf. na~nivyuktam anyasadRSAdhikaraNe, Panini), e.g. a Kshatriya etc.
+Cases of prasajyapratizedha on the other hand result in a negative result:
+do not do something or other, kriyayA saha yatra na~n.
+                                                Madhav Deshpande
+On Mon, 16 Feb 1998, jonathan silk wrote:
+
+> I recently was warned by Katsura Shoryu that it is incorrect to write a
+> hyphen in the expression Paryudasa- and Prasajya-pratisedha. According to
+> Katsura,  "there is no cp. like 'paryudasa-pratisedha'. 'paryudasa' means
+> 'negation.'"
+>
+> However, I have found the term in Mahavyutpatti 4510; to this Katsura
+> suggests it may be a retranslation from Tibetan. OK. Again, I pointed out
+> that in Frits Staals' Reader in the Skt. Grammarians, p. 496, note 55,  so
+> great an authority as Louis Renou uses the same term. OK. Even Homer nods.
+>
+> QUESTION: does the compound paryudaasa-pratis.edha exist in actual Sanskrit
+> texts? (I would expect that if it comes up, it would be in grammar or
+> logic, but any actual attestation would be of interest. )
+>
+> Much out of my depth, jonathan
+>
+> Jonathan Silk
+> SILK at wmich.edu
+>
+
+
+
+

@@ -1,0 +1,126 @@
+From dcgunkel at gmail.com  Fri Oct 30 11:59:53 2020
+From: dcgunkel at gmail.com (Dieter Gunkel)
+Date: Fri, 30 Oct 20 07:59:53 -0400
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_root_skr=CC=A5=3F?=
+In-Reply-To: <CAB3-dzeXPehK63pJ0F_Aj+HjpJnRDe9dAEXZCHdt207UixW-SQ@mail.gmail.com>
+Message-ID: <CADVOX36OCh9eJK-4k3jbp78aVWGgc8Gtq4b3r6_xGco+09mVXw@mail.gmail.com>
+
+Dear Madhav,
+
+Further evidence for *sk?-* with initial s comes from Rigvedic sandhi,
+where word-final *-s* is retained before forms derived from the root *k?-*.
+Where forms of *k?-* are involved, -*s* is retained even in contexts where
+we do not find "close sandhi" in the Rigveda, e.g. between a direct object
+and a verb: *kani??h? ?ha cat?ras kar?ti* "The youngest said, 'I'll make
+four.'" (4.33.5c).
+
+The same sandhi behavior holds for the bardic family name *k??va-*, where
+the *s* is preserved in the Kanvid name *pr?ska?va-*. Likewise in *kav?-*,
+where Germanic cognates such as present-day German *schauen* 'to look'
+exhibit a root-initial *s*.
+
+For a thorough discussion, you can check this paper:
+
+Hale, Mark. 1990. ?Preliminaries to the Study of the Relationship between
+Sandhi and Syntax in the Language of the Rigveda.? *M?nchener Studien zur
+Sprachwissenschaft* 51:77?96.
+
+All the best,
+
+Dieter
+
+On Thu, Oct 29, 2020 at 6:54 PM Madhav Deshpande via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Hello Hans,
+>
+>      The fact that R?gveda 10.127.3 has *askr?ta* but the Padap??ha has
+> *akr?ta*, probably explains why P??ini did not include a root *skr?*, but
+> only proposed a contextual insertion or augmentation with "*s"*. Best,
+>
+> Madhav
+>
+> Madhav M. Deshpande
+> Professor Emeritus, Sanskrit and Linguistics
+> University of Michigan, Ann Arbor, Michigan, USA
+> Senior Fellow, Oxford Center for Hindu Studies
+>
+> [Residence: Campbell, California, USA]
+>
+>
+> On Thu, Oct 29, 2020 at 3:24 PM Hock, Hans Henrich <hhhock at illinois.edu>
+> wrote:
+>
+>> Addition: A Sanskrit example of *s-*mobile would be the coexistence of a
+>> root *tan-* and a root *stan-, *both meaning ?thunder?
+>>
+>>
+>> Dear Madhav and All,
+>>
+>> There is also *pari-?k?ta-**. *Unfortunately, Mayrhofer could not find
+>> any convincing parallels outside Sanskrit. However, there is a general
+>> phenomenon in Indo-European, called *s*-mobile (the varying presence or
+>> absence of a root-initial * s*). The Wikipedia entry "
+>> https://en.wikipedia.org/wiki/Indo-European_s-mobile? has a useful
+>> summary, as well as some relevant references. (An alternative, but more
+>> speculative explanation would be that in structures like *namask?* the
+>> *s* was reinterpreted as a simplification of earlier *ss* (similar to
+>> *asi* ?you are? for expected * as-si*, not also the Vedic external
+>> sandhi for *-s#st* etc.) and that this led to the notion that there is
+>> an alternative root form *sk?-*.)
+>>
+>> All the best,
+>>
+>> Hans
+>>
+>>
+>> On 29 Oct2020, at 16:58, Madhav Deshpande via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> Dear colleagues,
+>>
+>> In R?gveda 10.127.3 there is a verb form *askr?ta* showing the trace of
+>> the root *skr?*.  The Padap??ha of ??kalya presents this form as *
+>> akr?ta*, indicating that the root *skr? *as an independent root is no
+>> longer recognized. What is going on? Can one presume that forms like
+>> *sa?skaroti* where P??ini prescribes the insertion of "s" are actually
+>> survivals of this earlier root *skr?*.  Please suggest references that I
+>> can look up.
+>>
+>> Madhav M. Deshpande
+>> Professor Emeritus, Sanskrit and Linguistics
+>> University of Michigan, Ann Arbor, Michigan, USA
+>> Senior Fellow, Oxford Center for Hindu Studies
+>>
+>> [Residence: Campbell, California, USA]
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201030/b9d8a40e/attachment.htm>
+

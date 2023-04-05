@@ -1,0 +1,23 @@
+From jds10 at CUS.CAM.AC.UK  Wed Jul 29 16:24:24 1998
+From: jds10 at CUS.CAM.AC.UK (John Smith)
+Date: Wed, 29 Jul 98 17:24:24 +0100
+Subject: CSX+ fonts now available
+Message-ID: <161227041054.23782.8224360741236264140.generated@prod2.harmonylists.io>
+
+A large set of fonts implementing the CSX+ character set is now available
+on my server. Either connect to the URL below and follow the link to
+"fonts", followed by the link to "csx+", or use ftp to connect
+anonymously to bombay.oriental.cam.ac.uk, and then change directory to
+/pub/john/software/fonts/csx+.
+
+Enjoy!
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

@@ -1,0 +1,60 @@
+From msdbaum at MSCC.HUJI.AC.IL  Tue Mar  3 11:02:25 1998
+From: msdbaum at MSCC.HUJI.AC.IL (Daniel Baum)
+Date: Tue, 03 Mar 98 13:02:25 +0200
+Subject: CSX fonts
+Message-ID: <161227036369.23782.9485153546468067465.generated@prod2.harmonylists.io>
+
+Hi,
+
+Apropos moving over to TeX, I have actually used nothing other than TeX to
+write papers etc. with for years. However, it is not a very good file format
+to actually store information in, since the source files look like
+gobbledegook, and sometimes you need to do other things than just reading
+your texts. Also, the Harvard Rigveda is in CSX coding, and I see no reason
+to convert it to anything else, as it is very readable (as long as you solve
+the font problems I have come up against) and TeX accepts CSX coded text
+direct.
+
+DB
+
+
+-----Original Message-----
+From: Anshuman Pandey <apandey at U.WASHINGTON.EDU>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Saturday, February 28, 1998 7:41 AM
+Subject: Re: CSX fonts
+
+
+>On Fri, 27 Feb 1998, Daniel Baum wrote:
+>
+>> The solution in the end was to use the Washington Indic truetype font as
+a
+>> screen font, and then compile the document in TeX using the Washington
+Indic
+>> PK font. Surprisingly the two fonts are coded slightly differently; the
+>> a-acute is in a different place. I simply programmed a macro in my text
+>> editor to do a search and replace before I compile the TeX file, and
+another
+>> afterwards. I will definitely have a look at the alternative TeX fonts
+you
+>> suggested, although I've never used .vf fonts before; is there anything
+I
+>> should know before I start?
+>
+>The reason the TrueType font differs from the METAFONT is because certain
+>character positions are rejected or reserved in Windows, so any character
+>appearing in that position will appear empty. Tom Ridgeway, who made the
+>WNRI TrueType and Postscript fonts, made copies of certain characters in
+>duplicate positions to account for this behavior of Windows. These WNRI
+>fonts really need to be revamped.
+>
+>Here's another suggestion: Move completely over to TeX and your problems
+>will be solved! Ask anyone... :-P
+>
+>Regards,
+>Anshuman Pandey
+>
+
+
+
+

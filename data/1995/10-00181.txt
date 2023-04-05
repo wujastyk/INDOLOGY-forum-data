@@ -1,0 +1,20 @@
+From b9100530 at platinum.anu.edu.au  Thu Oct 19 05:31:14 1995
+From: b9100530 at platinum.anu.edu.au (b9100530 at platinum.anu.edu.au)
+Date: Thu, 19 Oct 95 15:31:14 +1000
+Subject: Is CSX the best solution?
+Message-ID: <161227021349.23782.10123326523094942670.generated@prod2.harmonylists.io>
+
+Another disadvantage of any system that uses the extended character set is
+the very fragile nature of these codes ( i.e. those higher than 127).
+If the document has to be converted from one format to another (say from
+WP to MS Word or from WP5 to WP) then there are always strange results with
+the extended character set.
+
+Adrian Burton
+ANU.
+ 
+
+
+
+
+

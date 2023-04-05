@@ -1,0 +1,33 @@
+From pwyzlic at UNI-BONN.DE  Wed Nov 16 11:45:33 2005
+From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
+Date: Wed, 16 Nov 05 12:45:33 +0100
+Subject: chinese website
+In-Reply-To: <437B2699.22347.D45D0D@mail.sub.uni-goettingen.de>
+Message-ID: <161227077093.23782.10581202237853801265.generated@prod2.harmonylists.io>
+
+On Wed, 16 Nov 2005 12:31:22 +0100
+  "Dr. Reinhard Gr?nendahl" 
+             <gruenen at MAIL.SUB.UNI-GOETTINGEN.DE> wrote:
+>> Yesterday I downloaded a 200+ mb file "fahua.rar" from 
+>>this website, but I have no idea what program will open 
+>>this ".rar" file.  Any suggestions?
+> 
+> This is the compression format of WinRar (see 
+>www.rarlab.com)
+
+For MacOS users: Stuffit Expander can deal with rar 
+archives, too (at least recent Expander versions).
+
+Bye
+Peter Wyzlic
+
+--
+Indologisches Seminar der
+Universit?t Bonn
+Regina-Pacis-Weg 7
+D-53113 Bonn
+Deutschland / Germany
+
+
+
+

@@ -1,0 +1,55 @@
+From info at TICONSOLE.NL  Thu Jul  9 19:33:18 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Thu, 09 Jul 98 21:33:18 +0200
+Subject: double accusatives
+Message-ID: <161227040703.23782.2053204823976598024.generated@prod2.harmonylists.io>
+
+Domique Thillaud `a ecrit:
+
+>Sandra van der Geer wrote
+>>I agree with you in considering one accusative the direct object, and the
+>>other accusative the indirect object, or the dative. As we all know, one
+>>and the same function or kAraka can be denoted by several cases.
+
+>        I can't agree: to take one of both accusatives as a dative is an
+>anchronism, projecting ancient syntax to our own and above all forgiving
+>the pragmatical shift of some verbs.
+
+Honestly speaking, you do the same, with your projecting of computing procedures to Sanskrit, as regards formal and actual places. Never mind; Panini, too, must have been an innovator in his time, as he invented metagrammar. So we can apply modern ideas to the classical languages without insulting the ancient .r.si's and sadhu's.
+
+I can go further: from sentences such:
+>        * vAkyam uvaca rAmam
+>        * dAnaM dadau rAmam
+>we can suppose the personnal accusative being the 'true' direct object, the
+>other one being just a reinforcement of the verb or, better, an unmarked
+>'formal place' where can occur a substitution to precise the actual vAkyam
+>or dAnam (I use here 'formal' and 'actual' with the same meaning as for the
+>parameters of a procedure in computing languages). In fact, the correct
+>sentences must be prefixed by the anaphoric 'idam', the role played by
+>'vAkyam' being to determine the semantical class of this 'idam' and I
+>believe that 'idaM vAkyam' is not here an accusative but the unmarked case
+>of neutral words.
+>        Other opinions?
+
+Interesting point of view! For one reason or the other the vAkyam/dAnam noun phrases cannot be used without a determiner, in your example the non-anaphoric idam. It has nothing to do with the other noun phrase being occupied with a personal name, as when we insert gurum for instance, nothing changes. You explain this different behaviour by assuming a formal and an actual place. Maybe this is  a good explanation.
+
+However, what if the other (in my eyes indirect object) accusative is lacking? I mean, what to think of the clause
+
+idam uvAca rAjA
+
+Now your `true' direct object is missing in this clause, and only the unmarked case of neutral words, nothing more than a reinforcement of the verb is remaining. This is unlikely, as as a rule, true transitives (and vAc- is one, it's even a bitransitive) often have an object. Therefore, I consider the `ida.m vAkyam' part still a direct object (the karman), expressed by the accusative, and the `rAmam' part an indirect object (the sa.mpradAna), expressed by the accusative, too. By the way, is Panini aware of an unmarked case of neutral words just to reinforce the meaning of the verb?
+
+
+>PS (for French readers only): mon professeur de sanskrit m'enseignait de
+>toujours commencer par traduire mot-a-mot vaktum:interpeller et
+>dAtum:gratifier afin de maintenir la transitivite la plus importante
+
+Mais `grativier' avec quoi? Le roi a gratifie le prince avec un chateau (rouge). Alors, le mot `vAkyam' en cet occasion a la function de instrumental?
+
+Sandra van der Geer
+Leiden, NL
+info at ticonsole.nl
+
+
+
+

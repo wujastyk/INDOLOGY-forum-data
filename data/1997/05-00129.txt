@@ -1,0 +1,34 @@
+From vidya at cco.caltech.edu  Wed May 14 17:35:14 1997
+From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
+Date: Wed, 14 May 97 10:35:14 -0700
+Subject: Bhasyas in electronic form
+Message-ID: <161227030246.23782.15443890634406040371.generated@prod2.harmonylists.io>
+
+
+
+On Wed, 14 May 1997, David Dargie wrote:
+
+> Dear list-members,
+> 
+> After many hours of searching databases, I have come to the conclusion that
+> no bhasya (eg. Sankara's Brahma Sutra Bhasya)  material is available in
+> electronic form.  Can anyone confirm or deny that?
+> 
+
+The aNubhAshya on the brahmasUtras by AnandatIrtha (madhva) is available
+as a .gif file and in transliterated (ITRANS) format at the Sanskrit
+Documents List available at
+<ftp://jaguar.cs.utah.edu/private/sanskrit/sanskrit.html>. If you do
+not have a web-browser, you can also connect via ftp. Login anonymously
+and follow the directory structure as indicated above. 
+
+Other than this text, I am not aware of any other bhAshyas in electronic
+form. 
+
+S. Vidyasankar
+
+
+
+
+
+

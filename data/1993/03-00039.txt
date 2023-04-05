@@ -1,0 +1,40 @@
+From D.Wujastyk at ucl.ac.uk  Tue Mar 30 13:56:00 1993
+From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+Date: Tue, 30 Mar 93 13:56:00 +0000
+Subject: New text available
+Message-ID: <161227015770.23782.3593367514972093959.generated@prod2.harmonylists.io>
+
+
+I have just uploaded two new files for general access.  At present these
+files are available for anonymous ftp from
+   ftp.bcc.ac.uk
+in the directory
+   pub/users/ucgadkw/indology
+
+The files are:
+
+1/ Vagbrasa.zip
+   The first five and a bit chapters of the Rasaratnasamuccaya of
+   Vaagbha.ta.  This is an alchemical text.  Here is the readme file:
+
+---------- beginning of vagbrasa readme --------------
+
+The Rasaratnasamuccaya of Vaagbha.ta: machine readable transcription
+====================================================================
+
+This archive contains the following two files:
+
+ Length  Method   Size  Ratio   Date    Time   CRC-32     Name ("^" ==> case
+ ------  ------   ----  -----   ----    ----   ------     ----   conversion)
+  69027  Deflate  25083  64%  19-03-93  12:54  2aa7f785  ^rrs.dn
+ 238785  Deflate  78554  67%  19-03-93  13:02  dbb4c51d  ^rrs.ps
+ ------          ------  ---                              -------
+ 307812          103637  66%                              2
+
+
+rrs.dn  is the machine readable transcription of the Rasaratnasamuccaya,
+        up to 5.23.  Transliterated using the 7-bit scheme of Frans Velthuis.
+
+rrs.ps  is a PostScript image of the 42 pages of the text, ready to print
+        on any PostScript printer.
+

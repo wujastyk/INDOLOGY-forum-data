@@ -1,0 +1,31 @@
+From asg at U.WASHINGTON.EDU  Mon Aug  4 18:01:43 2003
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Mon, 04 Aug 03 11:01:43 -0700
+Subject: Sanskrit word order sort program
+Message-ID: <161227073028.23782.2328179726969910794.generated@prod2.harmonylists.io>
+
+Dear Stephen,
+
+Here is the macro I've been using. You should paste it into a new module in
+the Visual Basic Editor for Excel.
+
+The macro, called SortCodeGenerator, prompts you for the Source and Target
+ranges, and then the Sort type. For Sanskrit, only Sanskrit is necessary.
+Gandhari also requires an absolute sort code.
+
+I aim to streamline the interface at some point, but I'm not there yet. I
+ran the process on 11,000 items the other day, and it took between half and
+one hour to process, on a new P4 2 GHz laptop. Its probably a good idea to
+test it on some smaller chunks to begin with. If I get time I will also add
+Tibetan encoding this month?
+
+Best wishes,
+
+Andrew
+
+
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: SortCodeGenerator.txt
+URL: <https://list.indology.info/pipermail/indology/attachments/20030804/2b785518/attachment.txt>
+

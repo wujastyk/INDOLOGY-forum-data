@@ -1,0 +1,35 @@
+From l.m.fosse at internet.no  Thu Aug 22 17:54:37 1996
+From: l.m.fosse at internet.no (Lars Martin Fosse)
+Date: Thu, 22 Aug 96 19:54:37 +0200
+Subject: typing Sanskrit
+Message-ID: <161227025733.23782.18211954810828452992.generated@prod2.harmonylists.io>
+
+
+
+>Finally, I should like to say *again*, pace Lars M. Fosse's remarks which
+>I consider refutable, that no 7-bit coding scheme for Sanskrit is
+>essentially better than any other, as long as ambiguity is avoided.  And
+>the tools for converting from one scheme to another are so widespread and
+>easy to use, that surely we must ask whether the topic remains
+>interesting?  Might we seriously consider replacing any typing on this
+>topic by typing actual Sanskrit texts (in any coding :-)?
+
+Good grief, Dominik, have I said something refutable, and I don't even
+remember what! Anyway, generally speaking I agree with you. The main thing
+is to type Sanskrit texts, not to quarrel about how to. May I, by the way,
+suggest that all typing of Sanskrit texts should be done with compound
+analysis the way it is done in the TZ-format? Proper compound analysis makes
+the texts fare more valuable for electronic analysis than entering the texts
+in the way they appear in a Sanskrit book or manuscript. It is definitely
+"value added" text entry!
+
+
+Best regards,
+
+Lars Martin
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+From mcv at WXS.NL  Fri Jul 31 15:06:27 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Fri, 31 Jul 98 15:06:27 +0000
+Subject: Fortunatov's Law and tolkAppiyar's rules
+In-Reply-To: <199807311320.JAA24499@math.mps.ohio-state.edu>
+Message-ID: <161227041081.23782.17737313813729006253.generated@prod2.harmonylists.io>
+
+Vidhyanath Rao <vidynath at MATH.OHIO-STATE.EDU> wrote:
+
+>Miguel Carrasquer Vidal <mcv at WXS.NL> wrote:
+>>         *s^ (RUKI)  *k^ (SATEM)
+>> Iran.   s^          s < c
+>
+>Does this mean that in Iranian, s>h and c>s occurred simultaneously,
+>without c becoming a shibilant first? I thought that assibiliztion of
+>c typically went through an `sh' stage first.
+
+In Romance, CE/CI (/ke/, /ki/) first developed to /c^/ ("ch")
+(Italian, Romanian), then to /c/ ("ts") (Old French, Old Spanish),
+then to /s/ (French, Catalan, Portuguese) or to /T/ (Spanish, > s in
+Southern and American Spanish).  There was no stage with /s^/.
+
+On the other hand, in French, Latin CA later became /ke/ > /c^e/ >
+/s^e/ (e.g. "cheval", /s^@val/, Old French still /c^eval/).
+
+We see the same things in Semitic, where PS *c^ developed to /s^/ in
+some languages (Akkadian, Hebrew), to /T/ > /t/, /s/ in others
+(Arabic, Ethiopic, Aramaic).
+
+Other examples can be given from Slavic.
+
+In general the main developments seem to be:
+
+c^ => s^
+   => c => s
+        => T => s
+             => t
+
+>The fundemental question is the historical sequence of the three
+>changes in Iranian, without any two sounds even getting mixed up.
+>I don't see how to do it, if we insist that RUKI-s was always sh in
+>Iranian.
+
+I don't see what else it could have been: it's "sh" in Balto-Slavic
+too.  I see the Iranian developments as:
+
+              1.    2.    3.
+*s         =>    => h  => h
+*sC        =>    =>    => s
+*{ruki}s   => s^ =>    => s^
+*k^        => c^ => c  => s
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

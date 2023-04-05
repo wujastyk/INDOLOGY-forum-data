@@ -1,0 +1,22 @@
+From fushimi at FAS.HARVARD.EDU  Wed Nov 17 00:54:02 1999
+From: fushimi at FAS.HARVARD.EDU (Makoto Fushimi)
+Date: Tue, 16 Nov 99 19:54:02 -0500
+Subject: Ke=?iso-8859-15?Q?=E7agrahaNa by Minoru Hara?=
+In-Reply-To: <383203FF.1EA8@bahnhof.se>
+Message-ID: <161227053712.23782.5067730173115471961.generated@prod2.harmonylists.io>
+
+> Published in *Acta Orientalia*, Copenhagen, probably some 10 years ago
+> (at any rate after 1985).
+
+author = "Hara, Minoru",
+year = "1986",
+title = "The Holding of the Hair(Kesa-grahana).",
+journal = "AcOr 47",
+page = "67--92",
+
+--
+Makoto Fushimi
+
+
+
+

@@ -1,0 +1,52 @@
+From mmdesh at umich.edu  Wed Sep 22 21:56:33 2021
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Wed, 22 Sep 2021 14:56:33 -0700
+Subject: [INDOLOGY] Grep tool for searching on Mac
+In-Reply-To: <CAKdt-Ced9JifcYiKEZ1W6XdD-d52qkgZ9pPvJStvHJM3+QgH=A@mail.gmail.com>
+References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
+ <CAJ3b0o8g-wVSP+GNGxWE1T39K_WAd=RbMqC_=5cfqaMvVe20kw@mail.gmail.com>
+ <6B91CD78-F906-4B80-B60B-811AC7F78CF9@gmx.de>
+ <DE2A8F9E-CCC8-4C7D-9DBC-53E2EF68A74F@wlu.edu>
+ <31186538-ed76-1cbb-73b9-263b762198c9@uni-bonn.de>
+ <CAB3-dzcTfWVCf4e325uzRA_E_oWRtEAHb-9n9bcziTLBQY3sYg@mail.gmail.com>
+ <CAAeqJRDEr0S-BuT4T5qs28jVasdAYOxJZUOhDPaeUdVjDeGRrQ@mail.gmail.com>
+ <A9CEF708-1936-494A-96D6-6EFB1D5B3465@wlu.edu>
+ <CAANHO16H27QT9GH_6UH2FdDQUkrT1cF05KPYC444Uz6x1v8_zw@mail.gmail.com>
+ <CAB3-dzc5PEVqXF2sF2LnFNK-4c96wKg4jMcJKn5hngSH04Nz6w@mail.gmail.com>
+ <CAKdt-Ced9JifcYiKEZ1W6XdD-d52qkgZ9pPvJStvHJM3+QgH=A@mail.gmail.com>
+Message-ID: <CAB3-dzeB3293VP1yT5BWUWL9-JY4=7y0YxhCr9zc_EzdX5OiZg@mail.gmail.com>
+
+Thanks, Dominik.
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Wed, Sep 22, 2021 at 1:31 PM Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+> Madhav, here's a pleasant, short account
+> <https://en.wikipedia.org/wiki/Grep#History> of the history of how Ken
+> Thompson, now 78, wrote grep.  Here's a nice 2019 interview of Thompson
+> himself talking about grep
+> <https://www.youtube.com/watch?v=EY6q5dv_B-o&t=2120s>.  It's lovely that
+> grep gets a round of applause :-)
+> For the slightly braver, there are now command-line tools like ack and ag
+> <https://github.com/ggreer/the_silver_searcher> (and sack and sag
+> <https://github.com/sampson-chen/sack>) that are recursive and blindingly
+> fast.  But grep is still wonderful and probably enough for most purposes.
+>
+> Best,
+> Dominik
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210922/328f8451/attachment.htm>
+

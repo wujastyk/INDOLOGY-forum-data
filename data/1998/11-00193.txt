@@ -1,0 +1,138 @@
+From lmfosse at ONLINE.NO  Mon Nov  9 09:30:16 1998
+From: lmfosse at ONLINE.NO (Lars Martin Fosse)
+Date: Mon, 09 Nov 98 09:30:16 +0000
+Subject: SV: SV: On logic and fuzziness
+Message-ID: <161227042497.23782.10718594631489094361.generated@prod2.harmonylists.io>
+
+
+
+Lars Martin Fosse wrote:
+>
+
+> Having written a thesis with a solid dose of statistics, 
+I would like to second what Artur Karp is >saying here. 
+I often find that scientists/engineers have the attitude that 
+what we do is >"unscientific" because we don't use mathematics. 
+This criticism is sometime relevant in cases where >linguists / 
+philologists actually give arguments made on the basis of numerical calculations. 
+In my >thesis, I have given an account of such attempts in Indology. 
+However, today there is a special >branch of linguistics/philology where 
+advanced statistical methods are applied to numerical problems, 
+>so that the criticism is much less relevant than it would have been 30-40 years ago.
+
+H.M.Hubey wrote:
+
+
+It may be true that (some) scientists/engineers do whatever it is you
+claim they do.
+
+However, my recommendations are a lot simpler (at least for a start). I
+am simply
+asking for a standardization of semantic distance. 
+
+LMF: First of all: I was not referring specifically to linguistics or semantics, although these disciplines are certainly affected by the general problems I try to describe. Now a "standardization of semantic distance" sounds interesting. Could you be more specific here? Are you thinking of the amount of semantic "material" that is common to certain languages (such as: A and B speakers understand 20% of each other's language), or are you talking about the development of a certain root or stem?
+
+
+And that necessitates
+the use of
+the concept of distance. Nobody can go far without it. Once the concept
+of distance
+becomes embedded in linguistics many problems will solve themselves.
+
+LMF: I wish it were that easy. You really owe us a precise definition of such a distance.
+
+>
+> I would like to remind the engineers/scientists  
+among us that linguists and philologists do not 
+>operate in a field where they have the good fortune of dealing with natural laws.
+
+The more difficult a problem is the more powerful the tools must be.
+
+LMF: I couldn't agree more. I think we would all like to adopt that sentence as our morning mantra. It is just finding those tools, and find a way to calibrate them. You see, it is so terribly difficult to experiment with the past. (Not counting Thor Heyerdahl, who has proved beyond a shadow of doubt that people in the old days could sail anywhere in a shoebox).
+
+>Apart from sound laws, which are fairly consistent, everything we deal 
+with is fundamentally chaotic. 
+>When we interpret the past, we are really into a kind of pattern 
+recognition process where we often >have to make interpretations 
+on the basis of incomplete data sets. Historical processes may work 
+>according to statistical principles, but not in the way that dice 
+throwing does. Historical trends >can only be established on 
+the basis of a large number of observed cases, which leaves us with a 
+>classificatory problem: how do we classify an historical event of some kind in 
+such a manner that we >can make a consistent and realistic statistical 
+analysis of it? Here, philology and linguistics come 
+>back to bite the statistician in the tail. Countables have to be defined, and 
+such definitions have >to be made on  philological and linguistic criteria.
+
+Linguistics has been blessed with lots of measurable things so it is in
+much better
+shape than say, psychology or even parts of sociology. If math is good
+enough for them,
+for physicists, engineers and everyone else, it is good enough for
+linguists.
+
+It's irrational to deny it or claim the opposite.
+
+LMF: I couldn't agree more. But as I said, there is a busy little group of linguists just wallowing in computers and statistics, analysing Shakespearean drama by means of clustering techniques and what not. The fact is: Some problems in linguistics and philology are numerical problems, and in the past, philologists have not unfrequently made themselves look silly when handling such problems. However, not ALL problems are numerical, and not EVERYTHING can be quantified. And statistics or maths will not always produce interesting answers to the really interesting questions. 
+
+LMF: Some questions have to be dealt with by other means, and then we are back to our data sets.
+
+The worst that can happen is that at least some of the more farfetched
+claims and
+ridiculous and fuzzy methodologies will be clearly seen for what they
+are. 
+
+LMF: Again, could you please be more specific? What would you call ridiculous and fuzzy methodologies?
+
+Understanding
+is the key to a solution.
+
+LMF: Isn't it always?
+
+First analysis, then synthesis.
+
+LMF: Isn't that what we are doing?
+
+> My assumption is that what goes for linguistics and philology also goes 
+for archaeology (as >testified by Karp) and other disciplines that have 
+a certain "fuzziness". Consequently, all theories >and explanations 
+have to be based on available data sets, which have to be documented. To 
+produce >correct interpretations, you need complete data sets, but since data 
+sets are rarely complete, you >end up with situations where you get several 
+competing interpretations, because incomplete data sets >allow this, just 
+like equations with more than one unknown factor allow for two or more solutions.
+
+One does not need complete sets. Economists are faced with this problem
+and have devised ways to get around it.
+
+LMF: This is an interesting remark. I always thought that linguists/philologists should "read around" in other fields of knowledge to see if they could pick up new ideas to experiment with. My own assumption regarding data sets is that there is a kind of critical limit: When you are past that limit, the data set is basically clear and unambiguous, even it is not entirely complete. (it is like an ordinary puzzle: when you have assembled most of the puzzle, you understand what the motive is, even if you haven't got all the details). Unfortunately, very often we are not even close to that critical limit. If you could offer us a practical remedy, most of us would probably be quite happy.
+
+
+Regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Phone: +47 22 32 12 19
+Fax:      +47 22 32 12 19
+Email: lmfosse at online.no
+
+----------
+Fra:    H.M.Hubey[SMTP:hubeyh at MONTCLAIR.EDU]
+Svar til:       Indology
+Sendt:  09. november 1998 02:20
+Til:    INDOLOGY at LISTSERV.LIV.AC.UK
+Emne:   Re: SV: On logic and fuzziness
+
+<<Fil: ATT00002.txt>>
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 5074 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19981109/bf272f36/attachment.bin>
+

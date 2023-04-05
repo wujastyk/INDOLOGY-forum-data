@@ -1,0 +1,138 @@
+From saf at SAFARMER.COM  Mon May 22 23:07:58 2000
+From: saf at SAFARMER.COM (Steve Farmer)
+Date: Mon, 22 May 00 16:07:58 -0700
+Subject: Vedic Reciters/Wisconsin Card Sorting Test
+Message-ID: <161227058706.23782.13711487489947246553.generated@prod2.harmonylists.io>
+
+Shailendra Raj Mehta writes:
+
+> Moreover, while several individuals might have phenomenal memories, and
+> even normal memories might be cultivated to astonishing degrees, yet, I
+> would like to conjecture that, faithful institutional transmittal requires
+> the creation of formal "memory palaces" and the like.
+
+This is the main point in dispute. I've nearly exhausted my knowledge
+of mnemonics, and I'm sure that everyone is sick of the thread -- I
+expect Dominik to pull the plug any minute. So after this post, I
+don't anticipate having anything further to add to the discussion. (I
+will toss in one new question at the end for others to ponder, however
+-- involving Vedic reciters and the Wisconsin Card Sorting Test --
+that has some potentially deep historical implications.)
+
+Speaking to your conjecture: In China, as suggested earlier, formal
+mnemonics were unknown until Matteo Ricci introduced them at the end
+of the 16th century. As Ricci admitted to his superiors in Rome, his
+attempts to sell those methods to the Chinese was rather a flop.
+Despite the lack of formal mnemonics in China, however, stories of
+phenomenal textual memories were just as common there as in premodern
+India and the West. Indeed, all scholars entering the state
+bureaucracy were expected to know a good cross-section of the
+Confucian classics by heart. This evidence appears to argue against
+your hypothesis.
+
+Even in the West, rote memorization seemed to be far more important
+than the use of "memory palaces" insofar as memorizing textual canons
+was concerned. The main use of memory palaces, going back to
+Greco-Roman times, was for memorization of speeches and sermons, which
+could vary verbally from performance to performance. Great verbatim
+memories for individual texts were common, nonetheless. Giovanni Pico
+della Mirandola (1463-94), for example, was just one of *many* figures
+of his period who according to contemporaries could recite poems
+backwards and forwards after a single hearing. (This is also said of
+countless Chinese reciters.) So far as I can tell, after many years of
+study, Pico's ability arose through much practice in rote
+memorization, without recourse to formal memory aids. Many of Pico's
+near contemporaries (including Erasmus) disparaged "memory palaces" as
+superfluous and too complex to be of practical use -- exactly the
+complaint made by Chinese literati studying Ricci's methods. This
+provides further evidence against the need for such methods in textual
+transmission.
+
+In premodern universities in Europe, individual works from the
+Aristotelian corpus, and sometimes the whole corpus, were regularly
+memorized by students -- again without the use of formal memory
+training. (To appreciate how difficult a task this was, read through
+the _Physics_ or _Metaphysics_ sometime -- these are obscure and
+highly stratified texts and hardly memorable verse.) Professors in the
+university would recite the text word-for-word in class,
+contradictions and all, and then comment on it; if the students could
+afford paper, they would write out the text word-for-word and use that
+as a memory aid. If they couldn't afford the paper -- and many
+couldn't -- they simply memorized it as the teacher crawled along
+(often for months) through the text. After endless commentarial
+discussion, formal debates on "disputed points" would begin from
+memory -- a practice as common in Vedantan or Buddhist scholasticism
+as in Latin or Arabic traditions -- that would further help drive the
+text deep into memory. Again, no formal mnemonics were used -- only
+lots of rote repetition. A single Aristotelian text would typically be
+the subject of many months of classwork. Many scholastics claimed to
+know the whole of the Aristotelian corpus -- several thousand pages of
+small type in modern editions -- by heart.
+
+KA Ericsson's seminal studies showed that memories *become*
+extraordinary simply through long practice: you don't need to use
+formal memory techniques. In the case of "institutional transmittal"
+(to use your words) -- e.g., of the Vedas -- one might argue that
+*after* you thoroughly memorize the basic text it becomes relatively
+easy to produce the modifications of the text that are conventionally
+claimed as mnemonic tools -- Padapatha, Kramapatha, etc. My suggestion
+is that the supposed mnemonic cart may come *after* the
+rote-memorization horse -- not the reverse (pace Staal et al.).
+
+Returning to "memory palaces": their real function in the West may not
+have been to create loci (places) to associate with snippets of text
+but simply to prime neural networks for *later* feats of memory.
+Random memorization of long chains of just about *anything*, including
+thousands of rooms and objects to which you attach verbal labels,
+might do the job.
+
+Before dropping out of this thread myself, I'd like to raise a
+question that takes the discussion in a very different direction. It
+involves a matter that has troubled me for the last decade. Scholars
+normally focus on the *positive* aspects of memorizing canonical texts
+-- on faithful oral transmittal, etc. But an equally important, but
+ignored, question concerns the *negative* neuropsychological and
+cultural consequences in premodern societies of intense memorization
+of texts. A number of studies of famous memonists suggest that the
+construction of extraordinary memories comes at a cost: loss of
+creativity. Many memorists (like Luria's famous subject Sherishevskii)
+apparently perform subnormally when it comes to generalizing
+knowledge, with their deficits arising directly from their continuous
+rehearsal of concrete data. Luria, for example, notes that
+Sherishevskii had difficulty escaping his concrete memories, "making
+it impossible for him to cross that 'accursed' threshold to a higher
+level of thought" (1968: 133). Thompson et al. note something similar
+about Rajan Srinivasan Mahadevan, who on exams tended to paraphrase
+lecturer's words (like thousands of undergraduates I've taught!) and
+had great difficulty creating anything new. The implication is that
+Rajan was drowning in his concrete memories.
+
+Shifting to the historical level, I've always wondered if the typical
+overreliance of scholastic writers on "authority" in general wasn't
+*directly* related to the amount of time they spent memorizing texts.
+Recent studies of neural conditioning (e.g., Michael Merzenich's
+famous experiments involving neural plasticity) would seem to confirm
+this view.
+
+It is not often that historians can test ideas in the laboratory, but
+this may be an exception. Is there anyone on this List who has access
+to virtuoso Vedic reciters (I don't) and is capable of administering
+to them standard neuropsychological batteries, including above all the
+Wisconsin Card Sorting Test? (The Wisconsin Card Sorting Test is a
+standard measure of flexibility in thinking; poor performance on it
+indicates problems in frontal-lobe functioning.) To end my part in
+this thread with a testable prediction: I would predict that anyone
+capable of reciting any one of the four Vedas (or any similar canon)
+verbatim would do subnormally on tests like these. Verification of
+this prediction would have important historical implications, to say
+the least, given the fact that the majority of premodern intellectuals
+spent an inordinate amount of time memorizing texts. (If anyone gets a
+paper out of this into _Science_ or _Nature_ on this, please sneak me
+in as 10th author.)
+
+My best,
+Steve Farmer
+
+
+
+

@@ -1,0 +1,14 @@
+From P.G.Moore at ukc.ac.uk  Thu May 29 10:32:10 1997
+From: P.G.Moore at ukc.ac.uk (pgm)
+Date: Thu, 29 May 97 11:32:10 +0100
+Subject: Internet access to the British Library Catalogue
+Message-ID: <161227030578.23782.17007085940307172252.generated@prod2.harmonylists.io>
+
+Try leaving the last backslash off the URL, which worked for me.
+
+peter moore
+
+
+
+
+

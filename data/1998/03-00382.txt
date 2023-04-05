@@ -1,0 +1,79 @@
+From vidynath at MATH.OHIO-STATE.EDU  Mon Mar 23 16:26:36 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Mon, 23 Mar 98 11:26:36 -0500
+Subject: Origin of retroflexion in IA
+Message-ID: <161227037018.23782.11562212273169875575.generated@prod2.harmonylists.io>
+
+[I was unable to finish editing the following response to Thompson to my
+satisfaction due to other demands on my time. I hope that it is not too
+late.
+
+I have already said much of what follows when I tried to discuss Hock's
+article a little more than a year ago. I am repeating myself to make
+sure that these objections do not get passed over.]
+
+---------------
+
+It seems to me that it is suspect methodology to discuss the origin of
+retroflexion in a piecemeal fashion, limiting ourselves to just RV
+and just t/.t etc contrast.
+
+The most serious objection to appeals to a Dravidian substratum has
+nothing to do with retroflexs at all. Dravidian does not have aspirated
+stops. How come Dravidians, who couldn't tell alveolar nasals from
+retroflex nasals, managed to preserve aspirations so well?
+
+Nor can I see how Hock's objections can be answered by studying the RV.
+As we all know (or should know :-) proto-Dravidian had a three way
+contrast between dental, alveolar and retroflex in non-nasal stops and a
+dental/alveolar vs retroflex contrast in nasal stops (or perhaps it was
+three way in nasal stops as well). So why should Dravidian speakers
+confuse alveolar and retroflex stops?
+
+The only attempts to tackle this explicitly assume that Dravidian
+languages in North and Central India must have evolved in such a way
+that the sounds were reallocated in such a way that a dental vs
+alveolar/retroflex contrast alone remained both in nasal and non-nasal
+series. This is ad-hoc, and, in the humble opinion of a mere
+mathematician, hard to reconcile with the correspondences given in
+DEDR. That is why a few days ago I requested Dravidianologists to give
+a brief synopsis of possible evolution of these sounds in North and
+Central Dravidian, together with some recent references (I have read
+Zvelebil, and am aware of Subramanyam but that I need to get that by ILL).
+I was hoping that Professor Krishnamurthy would respond, may be he
+will when he finds time.
+
+However some of the comments I have heard/read are easily debunked by a
+little spot checking, and makes me wonder about if ``retroflexion is due
+to Dravidian substratum'' has not become a dogma, not susceptible to
+criticisms. One claim was that the distinction between alveolar and
+retroflex nasals is lost in all Dravidian languages. This is a great
+shock to my contemporaries who grew up in Madurai. The field-work
+reported by Zvelebil in the 50's does not indicate any such loss for
+Tamil. Another was the claim that in Tamil people transcribe English n
+by the retroflex .n. This is easily disproved by simple checking. A
+visit to the Columbus Public Library even produced such transcriptions
+as `.tve_n.tifaiv' (in a dialog in a novel). Reports of the death of
+alveolar nasal in Tamil are premature.
+
+[A North Indian listening to a Tamilian would be an interesting scene:
+When a typical Tamilian attempts to say ``bhavana'', he will say
+``bava_na'' (or ``pava_na''). the North Indian will of course hear it as
+``bava.na'', and conclude that Tamilians retroflex all nasals. We cannot
+base our conclusions on such stereotypes, but that is what some of the
+arguments amount to.]
+
+-------
+
+The problem applies with even more force to the sibilants. In many
+Prakrits, the sibilants even fall together. This is rather strange if
+the distinction between the dental and retroflex sibilants was imported
+from Dravidian. We would expect such influences to increase in Prakrits.
+This fact is again ignored in most discussions of this topic that I have
+seen. Evolutionary trends don't get reversed just like that.
+
+----------
+
+
+
+

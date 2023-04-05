@@ -1,0 +1,66 @@
+From brendan.gillon at mcgill.ca  Tue Dec 30 16:27:49 2014
+From: brendan.gillon at mcgill.ca (Brendan Gillon)
+Date: Tue, 30 Dec 14 11:27:49 -0500
+Subject: [INDOLOGY] Sanskrit punctuation
+Message-ID: <54A2D285.8000702@mcgill.ca>
+
+Dear colleagues,
+
+I am writing to get advice for a friend who does not have access to
+Indology. My friend was asking me about punctuating Sanskrit texts.
+
+The principal questions is:
+Is there a reference which gives the general guidelines regarding
+punctuation? If so, what would one recommend?
+
+
+
+MORE DETAILS FOR THOSE INTERESTED:
+
+For anyone who might be interested, I provide in the balance of this
+message the details of the sentence prompting the question. It comes
+from a sentence the Zarkarikaa by Bha.t.ta Jayamizra on the
+Kumaarila's Zlokavaartika:
+
+na caatraiva.m vikalpaniiyam sahipuru.sa.h puurvamakartravastha
+evaasiididaanii.m saavasthotpanaa saa ca tato naavyatiriktaa
+tadutpattiprasafgaaya vyatiriktaa tadaa saiva tatra kaarakabhuuteti
+puru.sa.h puurvavadakaaraka eva tathaa bhoktravasthaayaamapi
+dra.s.tavyam atazca sa eva k.rtanaazaak.rtaagama iti.
+
+The basic frame of the sentence is this:
+  na caatraiva.m vikalpaniiyam [ S1 ... S8 ] iti
+where S1 through S8 are short independent clauses. The question is:
+should any punctuation be used to separate the clauses? And if so,
+what kind of punctuation?
+
+Here is the actual sentence in its parsed version.
+
+na caatraiva.m vikalpaniiyam [ [S1 sa hi puru.sa.h puurvamakartravastha
+evaasiit ] [S2 idaanii.m saavasthotpanaa ] [S3 saa ca tato
+naavyatiriktaa ] [S4 tadutpattiprasafgaaya vyatiriktaa ] [S5 tadaa
+saiva tatra kaarakabhuutaa ] [S6 iti puru.sa.h puurvavadakaaraka eva ]
+[S7 tathaa bhoktravasthaayaamapi dra.s.tavyam ] [S8 atazca sa eva
+k.rtanaazaak.rtaagama ] iti ]
+
+
+A further question is prompted by how to punctuate "iti", where it could 
+be replaced by "evam", as in clause S6 above.
+
+
+-- 
+
+Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+Department of Linguistics
+McGill University                       tel.:  001 514 398 4868
+1085, Avenue Docteur-Penfield
+Montreal, Quebec                        fax.:  001 514 398 7088
+H3A 1A7  CANADA
+
+webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+"stream". From a logical viewpoint this could be avoided if ledmac did
+its processing first, before utfskt sets in, and if utfskt per default
+combined adjacent \Nag-tags into one continuous "stream", but I have no
+idea whether this can be done technically. (It might also lead to
+problems because Devanagari text occupies more space than roman text,
+and the assignment of critical notes to lines in the main text might be
+imprecise if they are computed before Devanagari is processed.)
+
+Oh well ... I would greatly appreciate any hints towards either a
+solution with these two packages, or solutions with other packages - but ideally, with these two, since I'd really like to keep my source files in Unicode.
+
+Thanks, and best regards,
+
+Birgit Kellner
+
+
+
+

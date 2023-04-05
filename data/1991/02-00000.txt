@@ -1,0 +1,20 @@
+From CXEV at CA.MCGILL.MUSICA  Wed Feb  6 00:40:44 1991
+From: CXEV at CA.MCGILL.MUSICA (Richard P. Hayes)
+Date: Tue, 05 Feb 91 19:40:44 -0500
+Subject: Calendar conversion
+Message-ID: <161227014954.23782.4319303118762055965.generated@prod2.harmonylists.io>
+
+
+Some time ago there was some discussion about writing a computer
+program that would convert Samvat dates into their Gregorian
+equivalents. I have no particular need of such a program, but I
+would appreciate any information about the procedure that is used to
+convert between the two calendric systems. Is there a standard
+reference work that explains the conversion process?
+ 
+Richard Hayes
+
+
+
+
+

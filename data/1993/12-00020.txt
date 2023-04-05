@@ -1,0 +1,42 @@
+From Svetislav.Kostic at ff.cuni.cz  Fri Dec 10 17:49:55 1993
+From: Svetislav.Kostic at ff.cuni.cz (Svetislav.Kostic at ff.cuni.cz)
+Date: Fri, 10 Dec 93 12:49:55 -0500
+Subject: naive question
+Message-ID: <161227016412.23782.5607229828110309653.generated@prod2.harmonylists.io>
+
+According to Yannis Haralambous:
+> 
+> 
+> Sorry for annoying you with such a message, but could you please tell me
+> the translation of "awake dream" (<< le r^eve 'eveill'e >>) in Hindi and
+> other Indic languages? please use the standard transliteration because I
+> need to write it in the corresponding scripts.
+> 
+> Many thanks in advance,
+> Yannis Haralambous
+
+
+>  
+Hindi:
+  NP    div^a svapn
+  VP    jag.te hue svapn (sap.n^a) dekh.n^a
+Urdu
+  NP    din k^a kh^ab (Xw^ab)
+  VP    jag.te hue Xw^ab dekh.n^a
+Bengali
+  NP    j^ag^a svapna (read: ja:ga: shopno)
+  VP    jege svapna dekh^a (jege shopno dekha:) 
+  
+Pos mporoume na to leme sta ellinika:
+        xypnoneiro? I ohi?
+     Pollous hairetismus
+   Kostic
+    > 
+> 
+
+ 
+
+
+
+
+

@@ -1,0 +1,73 @@
+From ami01 at rs1.rrz.Uni-Koeln.DE  Sat Dec 31 18:19:42 1994
+From: ami01 at rs1.rrz.Uni-Koeln.DE (Thomas Malten)
+Date: Sat, 31 Dec 94 19:19:42 +0100
+Subject: concordances of classical Tamil texts
+Message-ID: <161227018060.23782.3850466024534396846.generated@prod2.harmonylists.io>
+
+
+INSTITUTE OF INDOLOGY AND TAMIL STUDIES (IITS), KOELN UNIVERSITY, GERMANY
+
+                                                                31.12.94
+
+
+                              ************
+                              ANNOUNCEMENT
+                              ************
+
+The Institute of Indology and Tamil Studies in collaboration with the
+South Asia Institute, Heidelberg (Thomas Lehmann) announces the release
+of the KWIC concordances of the following classical Tamil texts:
+
+        CILAPPATIKARAM
+        CIVAKACINTAMANI
+        KAMPARAMAYANAM
+        KANTAPURANA
+        KURAL
+        MANIMEKALAI
+        NALATIYAR
+        PATINENKIZKANNAKKU
+        PAZAMOZI
+        PERIYAPURANAM
+        TIRUMANTIRAM
+        TIRUVILAIYATARPURANAM
+        VILLIPARATAM
+
+Our information server can be reached by typing:
+
+" gopher gopher at informatik.uni.koeln.de"
+"Institute of Indology ans Tamil Studies (IITS), Koeln University, ../"
+"\BT oTukkalAm \et KWIC Concordances of Classical Tamil Texts"
+
+or via "The South Asia Gopher" at Columbia University
+
+IMPORTANT: Read 00INFO.KWIC first for information on Tamil
+transliteration used on the gopher server. Also for further information
+on the scope and uses of the concordances.
+
+
+**************************************************************************
+* NOTE: The \BT oTukkalAm \et KWIC Concordances of Classical Tamil Texts *
+*  are copyright (c) 1994 IITS, Koeln, and may be used for any bonafide  *
+* non-commercial research purpose.                                       *
+* No part of it may be used for any other purpose without the prior      *
+* written permission of the Institute of Indology and Tamil Studies,     *
+* Koeln, Germany. Accessing the "\BT oTukkalAm \et KWIC Concordances of  *
+* Classical Tamil Texts" constitutes the acceptance of these conditions. *                                                          *
+**************************************************************************
+
+For technical assistance thanks to:
+- Institut fuer Informatik, Universitaet Koeln, Martin Olschewski
+- RRZ der Universitaet Koeln, Andreas Strotmann
+
+* Further information, suggestions and corrections:
+* ami01 at rs1.rrz.uni-koeln.de (Thomas Malten)
+
+-Thomas Malten
+
+***This File is C:\NET\ANNOUNC.KWI, Last update 31.12.94
+ 
+
+
+
+
+

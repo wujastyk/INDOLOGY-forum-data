@@ -1,0 +1,83 @@
+From drdhaval2785 at gmail.com  Mon May 25 16:05:04 2020
+From: drdhaval2785 at gmail.com (Dhaval Patel)
+Date: Mon, 25 May 20 21:35:04 +0530
+Subject: =?utf-8?B?W0lORE9MT0dZXSAxOCDgpI/gpJXgpL7gpJXgpY3gpLfgpLDgpJXgpYvgpLc=?=
+Message-ID: <CADSGPzWU4_dPBffWvXz5ALKQwsiZgy5MgkAu-kHpd20=m=o9hw@mail.gmail.com>
+
+Dear Scholars,
+It gives me immense pleasure to present to you 18 ekaksharakoshas.
+
+In my opinion, serial numbers 16 and 17 are of great importance.
+
+I extend my heartfelt thanks to Mr. Manish Rajpara who has typed many of
+these works. Credits are in the metadata section in the same file.
+
+1. Ek?k?aran?mam?lik? of Vi?va?ambhu
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharanamamalika_vishvashambhu/orig/ekaksharanamamalika.txt
+
+2. Ek?k?ara?abdam?l? of Harit?lar?j?m?tyam?dhava (Version 1)
+https://github.com/sanskrit-kosha/kosha/tree/master/ekaksharashabdamala_madhava
+
+3. Ek?k?ara?abdam?l? of Harit?lar?j?m?tyam?dhava (Version 2)
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharashabdamala_haritalarajamatyamadhava/orig/ekaksharashabdamala.txt
+
+4. Ek?k?aran?mam?l? of Vararuci
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharanamamala_vararuchi/orig/ekaksharanamamala.txt
+
+5. Ek?k?arako?a of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharakosha_agyata/orig/ekaksharakosha.txt
+
+6. Ek?k?aran?mam?l? of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharanamamala_agyata/orig/ekaksharanamamala.txt
+
+7. Ek?k?ar?m?t?k?ko?a of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharimatrikakosha_agyata/orig/ekaksharimatrikakosha.txt
+
+8. Ajir?di-ek?k?aran?mam?l? of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/ajiradiekaksharanamamala_agyata/orig/ajiradiekaksharanamamala.txt
+
+9. Natv?di-ek?k?aran?mam?l? of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/natvadiekaksharanamamala_agyata/orig/natvadiekaksharanamamala.txt
+
+10. Abhidhanadi-ek?k?aran?mam?l? of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/abhidhanadiekaksharanamamala_agyata/orig/abhidhanadiekaksharanamamala.txt
+
+11. Ek?k?arako?a of Pa??itamanohara
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharakosha_panditamanohara/orig/ekaksharakosha.txt
+
+12. Ek?k?aran?mam?l? of K?lid?savy?sa
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharanamamala_kalidasavyasa/orig/ekaksharanamamala.txt
+
+13. Ek?k?arako?am?l? of Su??las?ri
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharakoshamala_sushilasuri/orig/ekaksharakoshamala.txt
+
+14. Ek?k?arako??bhidh?na of Bh?skarapa??ita
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharakoshabhidhana_bhaskarapandita/orig/ekaksharakoshabhidhana.txt
+
+15. Ek?k?arako?a of Unknown Pandita
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharakosha_agyatapandita/orig/ekaksharakosha.txt
+
+16. Sundaraik?k?arako?a of R?jasundaravijayas?ri
+https://github.com/sanskrit-kosha/kosha/blob/master/sundaraikaksharakosha_rajasundaravijayasuri/orig/sundaraikaksharakosha.txt
+
+17. Ek?disa?khy?sa?jn?ko?a of Unknown author
+https://github.com/sanskrit-kosha/kosha/blob/master/ekadisankhyasangyakosha_agyata/orig/ekadisankhyasangyakosha.txt
+
+18. Ek?k?ar?n?mam?l? of Kavi Ratan? v?rabh??a (In R?jasth?n? language)
+https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharinamamala_ratanuvirabhana/orig/ekaksharinamamala.txt
+
+
+
+
+
+
+-- 
+Dr. Dhaval Patel, I.A.S
+Collector and District Magistrate, Surat
+www.sanskritworld.in
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200525/e29e454c/attachment.htm>
+

@@ -1,0 +1,23 @@
+From vasishtha.spier at gmail.com  Sun Dec 18 20:16:32 2022
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Sun, 18 Dec 2022 15:16:32 -0500
+Subject: [INDOLOGY] DLI (Digital Library of India)
+Message-ID: <CAJ3b0o8DL+u-3iJ9_HXO=wqsw7f6-yAPnXCX2c9Nie5RRUj38w@mail.gmail.com>
+
+1) Does anyone happen to know the different old DLI different websites
+addresses .  I'd like to check if Archive.org's wayback machine happened to
+back the DLI up from these websites. Some of these sites had alphabetical
+title lists if I recall correctly.
+
+2)I've just seen this interesting note about an OCR search engine for  the
+DLI project of Martin Gluckman
+The site http://dli.sanskritdictionary.com has complete mirror of Digital
+Library of India. It allows ?deep OCR based searches? within documents
+activated by its own OCR engine <http://ocr.sanskritdictionary.com/>.
+
+Thanks,
+Harry Spier
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221218/874cf386/attachment.htm>
+

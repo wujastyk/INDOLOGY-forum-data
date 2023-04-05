@@ -1,0 +1,9 @@
+From wujastyk at GMAIL.COM  Tue Dec 18 10:15:56 2012
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Tue, 18 Dec 12 11:15:56 +0100
+Subject: SARIT updates
+Message-ID: <161227098276.23782.4804270111805727915.generated@prod2.harmonylists.io>
+
+Users of INDOLOGY's SARIT service will notice that the front page of the
+service changed today.  Instead of being taken straight to "basic search",
+the simple http://sarit.indology.info URL takes you to a SARIT home page.

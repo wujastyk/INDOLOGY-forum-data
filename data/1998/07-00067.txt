@@ -1,0 +1,88 @@
+From kellner at IPC.HIROSHIMA-U.AC.JP  Sun Jul  5 20:22:03 1998
+From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
+Date: Mon, 06 Jul 98 05:22:03 +0900
+Subject: Sanskrit & English (the end)
+Message-ID: <161227040618.23782.9681449465407162246.generated@prod2.harmonylists.io>
+
+Thanks to Jacob Baltuch, Sandra van de Geer and Elliot Stern for
+removing at least bits of my ignorance about English datives.
+
+Just a few minor points regards Sandra van de Geer's reply. Regarding my
+English and German examples
+
+>(a) A friend gave the man a book.
+>(b) The man was given a book by a friend.
+>(c) Ein Freund gab dem Mann ein Buch.
+>(d) Dem Mann wurde von einem Freund ein Buch gegeben.
+
+she wrote:
+
+>In my opinion, b indeed is not exactly the same as d. But there is more: a is not the equivalent in meaning >of b, and c not
+> of d. To stick to the German: `ein Freund' is not necessary the friend of the favoured man (`dem Mann'), > > while `einem
+> Freund' sounds more like a real friend of the man in question (`dem Mann). You see, meaning has changed, so
+> apparently the underlying structures differ a bit.
+
+I agree that (a) and (b) are not equivalent in meaning, but the question
+is whether that affects the syntactical point you are trying to
+make. I shouldn't think so; it seems to me that all relevant differences
+in meaning between these sentence-pairs can be explained pragmatically.
+While these differences may affect other syntactic matters (though I
+can't really think of any at the moment), they do at least not
+affect the issue of dative raising. Also, for clarification, let me add
+that I have no doubts whatsoever that dative raising does not work in
+German; it was the English that I was confused about.
+
+Lastly:
+
+>e) Den Maennern wurden von einem Freund ein Buch gegeben.
+>
+> Ich denke nein. I think e) is not grammatical, while f) is:
+>
+> f) Dem Mann wurden von einem Freund einige Buechern gegeben.
+
+> In f) the books (`einige Buechern') are the subject, in e) the man (`den maennern').
+
+The correct form of f) is "Dem Mann wurden von einem Freund einige
+Buecher gegeben" (that's "Buecher", not "Buechern").
+
+Also, I think what you may have aimed at with your ungrammatical
+sentence e) is the equally ungrammatical sentence
+
+e') Die Maenner wurden von einem Freund ein Buch gegeben.
+
+For if you say "den Maennern", the definite article in the dative case
+already rules out that "maenner" is the subject. Yes, e) is
+ungrammatical, but simply because the plural verb is off (if you correct
+that to the singular "wurde", it becomes grammatical, with "ein Buch" as
+the subject and the dative "den Maennern"); the problem of whether or
+not dative raising is possible does not arise at all. That's because, if
+I understand you correctly, dative raising requires that a noun is put
+into the subject position AND that all markers of the former dative are
+removed. Which in this case includes changing the definite article from
+the dative "den" into the nominative "die". End of digression on how to
+be correctly incorrect.
+
+Anyway, my question is answered, and if it's fine with everyone, I
+shall end this sub-thread now from my end, and withdraw into a dense
+forest populated exclusively with English grammar books.
+
+As for the attachment-issue:
+
+> Is it possible that Netscape is the bad guy (in general, I am AGAINST Microsoft!), as I have a  friend who > also uses
+> Netscape, and she, too, receives the attachments?
+
+If Netscape receives something, something must be sent. Hence there must
+be a sender of that something. Which could be either your computer or
+your server. Also, I have so far never received attachments that were
+NOT sent, but then again, maybe that was simply because noone bothered
+to non-send them -:)
+
+regards,
+--
+birgit kellner
+department for indian philosophy
+hiroshima university
+
+
+
+

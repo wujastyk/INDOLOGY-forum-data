@@ -1,0 +1,43 @@
+From thillaud at UNICE.FR  Wed Dec 24 02:33:25 1997
+From: thillaud at UNICE.FR (Dominique.Thillaud)
+Date: Wed, 24 Dec 97 03:33:25 +0100
+Subject: antarikSa
+In-Reply-To: <2.2.32.19971224001410.00823078@pop3.afn.org>
+Message-ID: <161227034537.23782.13769601559372837299.generated@prod2.harmonylists.io>
+
+>Greetings.
+>
+>Do you know the derivation of the Sanskrit word 'antarikSa', which relates
+>to astronomy?
+>
+>Thank you for your help.
+>
+>Chris Beetle
+
+        To my knowledge, 'antarikSa' has nothing to do with astronomy,
+being just the intermediate space between earth and heaven, currently the
+atmosphere and usually without any star (je croise les doigts).
+        The interpretation given by Mayrhofer (KEWA, sv) is simple and
+credible:
+antar : within, between (cp. Lat. inter)
+IkS- , IkSate : to see
+        the idea being the transparence (in ancient theories of the vision,
+the light comes from the eye).
+
+        The difficulty of the long I in the verb is fallacious: the i in
+antarikSa is the degree zero of a simple laryngeal, IkSate being a
+reduplicated form from a well known (but difficult) root beginning with a
+laryngeal (in Indian terms, alternance i/A). You can found it in Skr. akSi
+: eye and in numerous Eurindian languages, including Lat. oculus and Engl.
+eye.
+        I have no time to give a more precise explanation, but you can
+compare with the two Sanskrit verbs : ajati / Ijati.
+        Hoping that was sufficient,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+
+

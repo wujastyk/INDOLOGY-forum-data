@@ -1,0 +1,60 @@
+From marie-genevieve.guesdon at BNF.FR  Tue Nov 25 13:33:49 1997
+From: marie-genevieve.guesdon at BNF.FR (Marie Genevieve Guesdon)
+Date: Tue, 25 Nov 97 14:33:49 +0100
+Subject: [ADMIN] new listserv options
+Message-ID: <161227033973.23782.11339772713645464924.generated@prod2.harmonylists.io>
+
+>Return-Path: <owner-indology at LISTSERV.LIV.AC.UK>
+>Date:         Mon, 15 Sep 1997 11:04:35 +0100
+>Reply-To: "Dominik Wujastyk (at UCL)" <d.wujastyk at ucl.ac.uk>
+>Sender: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+>From: Dominik Wujastyk <ucgadkw at UCL.AC.UK>
+>Subject:      [ADMIN] new listserv options
+>Comments: To: INDOLOGY discussion group <indology at liverpool.ac.uk>
+>To: INDOLOGY at LISTSERV.LIV.AC.UK
+>
+>The new software running our INDOLOGY group has a couple of options which
+>were not available before.  In addition to being able to choose whether to
+>have INDOLOGY come in as separate emails, or as a digest, you can also
+>choose just to have the subject headers gathered together.  Also, you have
+>new control over the structure of the email headers of the incoming
+>messages; for example you could have them all say INDOLOGY instead of the
+>name of the original sender.  A particularly subversive new feature (could
+>be very tempting sometimes) is that you can instruct listserv not to send
+>you messages with a particular subject line.  In effect, you can censor
+>your own subscription!
+>
+>To find out more, send the message
+>
+>   help
+>
+>to
+>
+>  listserv at liverpool.ac.uk
+>
+>You will receive basic help, plus instructions on how to get more detailed
+>help.  (For example, the message "info refcard" will make listserv send
+>you a useful brief reference card of commands.)
+>
+>
+>All the best,
+>Dominik
+>
+>--
+>Dominik Wujastyk               Wellcome Institute for the History of Medicine
+>email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+><URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+>
+>
+Marie Genevieve GUESDON
+Bibliotheque nationale de France
+Departement des manuscrits, division orientale
+58, rue de Richelieu
+75084 Paris Cedex 02
+tel 33-1-47 03 75 91
+Fax 33-1-47 03 76 65
+e-mail marie-genevieve.guesdon at bnf.fr
+
+
+
+

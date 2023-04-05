@@ -1,0 +1,84 @@
+From r.mahoney at ICONZ.CO.NZ  Mon Mar 13 02:59:30 2006
+From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
+Date: Mon, 13 Mar 06 15:59:30 +1300
+Subject: [Fwd: CBETA P5 XML files]
+Message-ID: <161227077633.23782.3586109510304852360.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+Of interest to some on the list?
+
+
+Best,
+
+ Richard
+
+
+-----Forwarded Message-----
+From: Christian Wittern <wittern at KANJI.ZINBUN.KYOTO-U.AC.JP>
+To: TEI-L at listserv.brown.edu
+Subject: CBETA P5 XML files
+Date: Mon, 13 Mar 2006 11:23:03 +0900
+
+Announcement
+
+The Chinese Buddhist Electronic Text Association (CBETA) is proud to
+announce the immediate availability of a new set of XML files, which
+confirm to the Text Encoding Initiatives (TEI) guidelines and
+schema. The files are available for download at 
+http://www.cbeta.org/xml/download.htm .
+
+The new release of a set of XML files by CBETA is a very significant
+step for the whole project.  For this release, the files have been
+thoroughly checked and updated to confirm to the latest version of the
+TEI Guidelines (P5).  The internal encoding has been converted to
+Unicode; characters that have no equivalent in Unicode are represented
+using the TEI "gaiji" module.  For the first time ever, this is a
+release where every single character is identified in a way that is in
+accordance with international, open standards and thus allows easy
+interchange and handling by all conformant XML tools.  The set of
+files comes with documentation for the extensions made by the CBETA
+project (using the standard TEI ODD extension mechanism) and with
+equivalent schema definitions using the DTD language, the W3C Schema
+language and Relax NG as defined by the ISO. These files are available
+in the link labelled "schema".
+
+All together, the collection of digital files now holds the equivalent
+of about 100 printed volumes.  With this release, they become
+available to every interested researcher in a new format, which opens
+up completely new avenues for investigation.  We hope this will not
+only provide a genuine service to the Chinese Studies and Buddhist
+Studies research communities, but will also be used as a an example
+for the encoding of new texts and as a test bed for tools developped
+to do new interesting things with these texts.  
+
+The download of the texts is available as two bundles (one for the
+texts from the Taisho Tripitaka, Volumes 1-55 and 85, the other from
+the Zokuzokyo "Supplement", covering Volumes 1-5, 7-10 and 54-88) as
+well as individual volumes from these collections.
+
+Any questions might be directed to service (at) cbeta.org or to
+cwittern (at) gmail.com.
+
+With warm regards,
+
+
+Christian Wittern
+
+Advisor, CBETA
+
+ 
+ Christian Wittern 
+ Institute for Research in Humanities, Kyoto University
+ 47 Higashiogura-cho, Kitashirakawa, Sakyo-ku, Kyoto 606-8265, JAPAN
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org
+Littledene      | telephone/telefax (man.): ++64 3 312 1699
+Bay Road        | cellular: ++64 27 482 9986
+OXFORD, NZ      | e-mail: r.mahoney[use"@"]iconz.co.nz
+
+
+
+

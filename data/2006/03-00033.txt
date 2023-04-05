@@ -1,0 +1,27 @@
+From rhayes at UNM.EDU  Thu Mar  9 21:29:46 2006
+From: rhayes at UNM.EDU (Richard P. Hayes)
+Date: Thu, 09 Mar 06 14:29:46 -0700
+Subject: Indian Syllogism
+In-Reply-To: <002c01c643bf$db4b5680$9ab7fea9@skknet.net>
+Message-ID: <161227077584.23782.12828556981736261058.generated@prod2.harmonylists.io>
+
+On Thu, 2006-03-09 at 22:24 +0100, Plamen Gradinarov wrote:
+
+> > If something like modus tollens could be observed in their thinking, we have a straight forward
+> > deductive system at play.
+> 
+> Anvaya-vyatireki is a clear case of modus tollens.
+> 
+> If there is smoke on the hill, then there is fire on the hill.
+> There is no fire on the hill. 
+> Therefore, there is no smoke on the hill.
+
+Perhaps there is no real point in being careful, but I tend to do so
+anyway. The inferential schema used in India can be translated into
+modus tollens, as it can also be translated into set theoretical
+language. Like any translation, there may be some distortions. The
+classical Indian schemata as they were used in India were neither framed
+as something that can be handled by our propositional calculus, as modus
+tollens is, nor was they framed in terms of the relations among sets.
+They were framed in terms of examples of two particular things co-
+existing in a particular locus (anvaya) and in terms of two particular

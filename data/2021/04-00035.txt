@@ -1,0 +1,32 @@
+From wujastyk at gmail.com  Mon Apr 12 20:14:38 2021
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 12 Apr 2021 14:14:38 -0600
+Subject: [INDOLOGY] Updated INDOLOGY website
+Message-ID: <CAKdt-Ces6THjqmptD42edmDPqdO7Mp==R_CQ6NwPPkHFnBCQKw@mail.gmail.com>
+
+The website that supports the INDOLOGY mailman list has been updated.  The
+new website can be viewed at the same address as ever,
+
+   - http://indology.info
+
+The design is deliberately spare, partly as a design choice and partly to
+keep disk-space use to a minimum.
+
+If you prefer to view the former website, you can still see it: the menu
+item is on the right of the screen. It has been renamed old.indology.info,
+and it will not be updated further.
+
+The new website is still a work-in-progress.  As I have time, I am bringing
+materials from the old website on to the new one in a structured way.
+
+You can now vote-up your favourite websites on the "External resources
+<https://indology.info/?page_id=205>" page :-)
+
+Best wishes,
+
+Dominik Wujastyk
+INDOLOGY list <http://indology.info> committee member
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210412/b97a85c8/attachment.htm>
+

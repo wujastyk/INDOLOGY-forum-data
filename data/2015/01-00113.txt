@@ -1,0 +1,31 @@
+From wujastyk at gmail.com  Fri Jan 16 13:44:20 2015
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 16 Jan 15 14:44:20 +0100
+Subject: [INDOLOGY] Administrative message: Bounce / account disabled	messages
+In-Reply-To: <CAKdt-Ceu7zo8faM+O+Viw0McvNRnBi4TCQVVRVHNDv6J6C0wkw@mail.gmail.com>
+Message-ID: <CAKdt-CdOVUdJQaTmvV7d+rih0HiwmAXgpzf9QRVk-8Y1bUd0sQ@mail.gmail.com>
+
+Here's the latest installment of this thrilling saga </irony>.
+
+Apparently there's a spam-filtering service out there called ProofPoint.
+For some unknown reason, ProofPoint erroneously added the IP address of one
+of the servers of EMWD, the company that hosts our INDOLOGY service, to
+their blacklist.  So I think that those of you who had INDOLOGY trouble in
+the last week or so may have been using email systems that in turn used
+ProofPoint (whether you knew it or not).  Anyhow, EMWD wrote to ProofPoint
+and complained, and ProofPoint have unblocked the EMWD IP address.  As I
+said (in vain) once before, things should be okay from now on.
+
+Some more information on this
+<https://discussions.apple.com/thread/5083175?start=0&tstar>.
+
+Best,
+Dominik Wujastyk
+INDOLOGY committee
+?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150116/cf60e61e/attachment.htm>
+

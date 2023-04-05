@@ -1,0 +1,84 @@
+From ambapradeep at GMAIL.COM  Thu Mar 22 16:19:12 2012
+From: ambapradeep at GMAIL.COM (amba kulkarni)
+Date: Thu, 22 Mar 12 21:49:12 +0530
+Subject: Announcement of a Sanskrit Search Engine
+In-Reply-To: <CAFffahBxzp+NPGgrzRzFz1Y_+fuUWmONF3tS3KMwBwyfP0h8tw@mail.gmail.com>
+Message-ID: <161227095688.23782.12937065783808246304.generated@prod2.harmonylists.io>
+
+Dear list,
+
+Greetings on the Nandana n?ma samvatsara?.
+
+The Department of Sanskrit Studies, University of Hyderabad announces
+release of the FIRST Search Engine for Sanskrit -- ???????  available at
+* http://sanskrit.uohyd.ernet.in:8080/searchengine*
+
+This search engine integrates a Sanskrit morphological analyser with the
+basic search engine resulting in better search results.
+
+*Features:*
+
+    The Sanskrit Search Engine ??????? has following search options
+
+     a)   Basic Search:This is a basic search feature where you can search
+a bare string "as it as" .
+     b)  Search with regular expressions:This allows one to search a string
+with various patterns as shown below.
+          i)  str1 AND str2: searches for the instances of both str1 and
+str2 in the same text.
+         ii) str1 OR str2: searches for the instances of either or both
+occurences.
+        iii) str1 +str2: occurences where str2 IS present and optionally
+str1 may be.
+        iv) "str1 str2": literal string "str1 str2"
+
+          In addition you may use the wild characters '?' and '*'.
+
+      c)  Search with morphology enabled: This allows one to search for
+strings with variations in their forms due to inflectional suffixes.
+            E.g. given ??? as a ??????????? (nominal stem) with gender
+?????????? the machine searches occurences of various nominal declensions
+of ??? such as ????? , ?????? etc. allowing the spelling variations (such
+as ???? / ?????) as well.
+
+*Acknowledgment:*
+We acknowledge with thanks the following software tools and corpora used
+for the development of Search Engine.
+
+   a) Lucene a free Search Engine available under GPL at
+http://lucene.apache.org/core/
+   b) A morphological analyser and a generator developed by the consortium
+of 7 institutes led by the Department under the project
+       "Development of Sanskrit computational toolkit and Sanskrit?-Hindi
+Machine Translation system" funded by TDIL programme of DIT(2008-2012).
+   c) Gretil Corpus available at
+http://fiindolo.sub.uni-goettingen.de/gretil.htm
+   d) Critical edition of Mahabharat available at Bhandarkar Oriental
+Research Institute, Pune  http://bori.ac.in/
+   e) Corpus developed by Peter Scharf and available at Sanskrit Library
+http://sanskritlibrary.org/ project.
+   f) Corpus developed by Oliver Hellwig and available at DCS
+http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
+   g) Corpus developed by the Department of Sanskrit Studies, University of
+Hyderabad.
+   h) Corpus developed by the Sanskrit Consortium, funded by TDIL
+programme, DIT(2008-2012).
+
+*Contributors:*
+    Sri Gowri
+    Karunakar
+
+*Guidance:*
+Amba Kulkarni, Head, Department of Sanskrit Studies, University of
+Hyderabad.
+
+*Contact:*
+amrutham.gowri at gmail.com
+kannaiah.chinni at gmail.com
+ambapradeep at gmail.com
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120322/2863e54f/attachment.htm>
+

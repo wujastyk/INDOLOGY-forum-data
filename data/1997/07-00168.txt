@@ -1,0 +1,38 @@
+From jds10 at cus.cam.ac.uk  Tue Jul 29 09:29:09 1997
+From: jds10 at cus.cam.ac.uk (John Smith)
+Date: Tue, 29 Jul 97 10:29:09 +0100
+Subject: Roman fonts for Indian languages
+Message-ID: <161227031676.23782.18005487657310211104.generated@prod2.harmonylists.io>
+
+Many weeks ago I promised to make a set of high-quality freeware fonts
+available for Indian language text in Roman transliteration. I must
+apologise for the long delay in fulfilling this promise: the software I
+had to use to convert from Type 1 PostScript to the various font formats
+people actually need on modern machines turned out to be very flaky, and
+it has taken this long to get acceptable results. (This is very
+disappointing, as I can easily produce attractive accented Type 1 fonts
+that can be freely distributed; it is purely conversion of these to
+TrueType, Mac format, etc. etc. that causes the problems.)
+
+Anyway, the fonts now exist, and can be downloaded via ftp from
+bombay.oriental.cam.ac.uk, directory /pub/john/software/fonts; or you can
+reach them on the web (http://bombay.oriental.cam.ac.uk/index.html; follow
+the "fonts" link). There are two families of fonts: one implements the CSX
+character set, the other the set designed by Professor Norman. Mac and PC
+versions are available for both, including both Type 1 and TrueType
+forms.
+
+I shall probably repeat this announcement later in the year, when fewer
+Indology subscribers are away.
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+
+
+

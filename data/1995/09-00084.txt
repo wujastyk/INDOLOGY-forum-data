@@ -1,0 +1,71 @@
+From GOTOHAYS at macc.wisc.edu  Wed Sep 20 15:53:00 1995
+From: GOTOHAYS at macc.wisc.edu (Terence Hays)
+Date: Wed, 20 Sep 95 10:53:00 -0500
+Subject: Missing Sanskrit Fonts
+Message-ID: <161227020913.23782.7962655321508601591.generated@prod2.harmonylists.io>
+
+Some time ago (10/14/93) the message below was posted to Buddha-L for the
+first time.  Recently I tried to locate the files mentioned in the post and
+found that they were no longer located at the specified site(s).  If you have
+any knowledge as to where these files may be found or where I might obtain
+additional Sanskrit fonts for Windows 3.0, please drop me a note.
+
+Thanks,
+
+Terence Hays
+gotohays at wisc.macc.edu
+
+----------------------------Original message----------------------------
+Dear Colleagues,
+
+A few days ago John Richards <jhr at elidor.demon.co.uk> signalled that he has
+put on the Compuserve the following materials:
+
+1)  a Romanised Sanskrit True Type font for use in PC
+Windows 3.x applications . This font is stored in a zip file that
+ includes not only the True Type Font itself, but a WordPerfect 5.1 for
+Windows Keyboard that reallocates the letters with diacritical marks to
+more natural keys - eg. long "a" to CRTL-A, etc. There is also a file with a
+table of the location of all the special characters, particularly for those who
+do not use WordPerfect, as well as an explanation of the Keyboard for
+ those who do.
+
+2) The Heart Sutra in both Sanskrit and English. It uses the above Sanskrit
+ font for its characters.
+
+
+Now I am writing to let know (especially those who are without an access to
+Compuserve) that the Coombspapers Social Sciences Research Data Bank at ANU
+(access via anon. ftp and/or gopher to the coombs.anu.edu.au node) has now
+received and archived both sets of the John Richards' files:
+
+Files with the font are now stored in the Coombspapers' subdirectory
+/coombspapers/otherarchives/soc-science-software/fonts
+romanised-sanskrit-ttf-inf.txt
+romanised-sanskrit-ttf.zip
+sanskrit-ttf.zip
+
+Files with the Heart Sutra are now stored in the Coombspapers' subdirectory
+/coombspapers/otherarchives/electronic-buddhist-archives/buddhism-general/su
+tras-translations
+heart-sutra-snskrt-eng-dta.zip
+heart-sutra-snskrt-eng-inf.txt
+
+At the same time, I would like to thank John Richards for the generous
+sharing of his valuable software-tools and data with researchers and students
+from all over the world.
+
+
+Yours,
+-==================================================
+Dr T. Matthew CIOLEK           tmciolek at coombs.anu.edu.au
+Coombs Computing Unit, Research Schools of Social Sciences
+and Pacific Studies, Institute for Advanced Studies,
+Australian National University, Canberra, ACT 0200, Australia
+===================================================
+ 
+
+
+
+
+

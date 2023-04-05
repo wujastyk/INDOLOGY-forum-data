@@ -1,0 +1,48 @@
+From wujastyk at GMAIL.COM  Thu Jul  1 16:01:34 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Thu, 01 Jul 10 18:01:34 +0200
+Subject: colophon, explicit, incipit, post-colophon, etc. etc.
+Message-ID: <161227089848.23782.15194860676358513367.generated@prod2.harmonylists.io>
+
+It's all very confusing.
+
+First question: am I right in believing that David Pingree introduced
+the term "post-colophon" into Indian manuscript studies when he wrote
+his catalogue of the Bodleian Chandra Shum Shere jyoti?a collection?
+
+Second: am I right that nobody outside Indological circles (and those
+influenced by indologists in the last few decades) uses the term
+"post-colophon"?
+
+Finally, here's a grid of usages:
+
+Key: Pingree (various catalogues, starting 1984)
+Tripathi: C. Tripathi, Cat. of Jaina MSS at Strasbourg
+Wikipedia: see http://en.wikipedia.org/wiki/Colophon_%28publishing%29 and links.
+X: no special term
+
+
+Description????????????Pingree    ??? Tripathi????     Wikipedia (and
+non-indologists)
+-------------------------------------------------------------------------------------------------
+Final verse
+of text????????????????       X??????????????       X??????????????explicit
+
+iti...sam?ptam???     colophon?     colophon?      X (or colophon?)
+
+sa?vat phrase?      post-            Scribal           colophon
+                                colophon       Remarks
+
+after sa?vat
+phrase                    X                  post-             X
+                                                      colophon
+
+Pratapaditya Pal uses "post-colophon" in his 1978 Arts of Nepal book
+(http://tinyurl.com/37n8f2z), in the same sense as Pingree.  Perhaps
+that's where David got it?
+
+Dominik
+
+
+
+

@@ -1,0 +1,59 @@
+From r.mahoney at ICONZ.CO.NZ  Mon Dec  1 01:58:44 2008
+From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
+Date: Mon, 01 Dec 08 14:58:44 +1300
+Subject: Diacritic for inter-consonantal vocalic r
+In-Reply-To: <977403.52682.qm@web8601.mail.in.yahoo.com>
+Message-ID: <161227084059.23782.8155791272654319799.generated@prod2.harmonylists.io>
+
+Dear Dipak,
+
+On Mon, 2008-12-01 at 00:33, Dipak Bhattacharya wrote:
+
+> Dear Colleagues,
+> Could anyone enlighten me on the following?
+
+> What is the diacritic character for inter-consonntal or
+>  ante-consonantal initial vocalic r in the different Sanskrit fonts
+>  available for computers in the West?
+
+> As is well known since late nineteenth century it has been the practice
+>  in the European continent  to write a subscript ring below -r- for
+>  this allophone. But in the UK quite a few publishers carry on the old
+>  practice of writing a subscript dot below -r- which in the continent,
+>  with most of the publishers, means the trilled allophone of the voiced
+>  retroflex plosive .d. However, even in Germany a few publishers do not
+>  mind using this dot-subscipted the vocalic -r-. This is also the
+>  general practice in India where word-processors are still being
+>  produced with this old diacritical sign. If one likes to print with
+>  the subscript ring one has to produce the character on one's own. I
+>  just like to know the position in the West regarding the available
+>  computer font packages, particularly if authors have to help the press
+>  in developing the character with subscript ring 
+
+If your publisher uses LaTeX then the TIPA package is your friend:
+
+ http://www.ctan.org/tex-archive/fonts/tipa/
+
+Putting a combining ring below any character is merely a case of:
+
+ \textsubring{x}
+
+
+
+Kind regards,
+
+ Richard
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+
+

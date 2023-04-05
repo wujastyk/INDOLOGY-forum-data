@@ -1,0 +1,28 @@
+From pventhb at XS4ALL.NL  Fri Oct  2 09:41:27 1998
+From: pventhb at XS4ALL.NL (Th. de Bruijn)
+Date: Fri, 02 Oct 98 10:41:27 +0100
+Subject: unicode
+Message-ID: <161227041615.23782.14068277610592745773.generated@prod2.harmonylists.io>
+
+Janet Freeman wrote
+
+Within the Word97 Insert>Symbol dialog box is a command button
+labelled Shortcut Key... which allows you to allocate the symbols
+to key combinations.
+
+Regards
+Janet Freeman
+Janet
+
+Dear Indologists,
+
+Thank you Janet Freeman and Agnes Korn for the tips on using the Unicode glyphs and Word97. A few problems remain however and perhaps the list is interested in this (if not, they will have skipped this message altogether). Bigler's UniKey is a nifty program, but not a keyboard remapper, it does not allow you to alter the general keyboard layout under Win95. It only facilitates the insertion of Unicode characters in a more graphical pleasing way than Word's Insert>Symbol dialogue or the Character Map function which dates from Win3.0 and is just as un-userfriendly as it was back then. In my experience UniKey under W95 does not work outside Word97 (have not tried other Unicode compliant editors, but in Wordpad any non-Ansi character appears as a ?). Perhaps switching to W98 might give improvement in this area, but will undoubtedly create other problems.
+
+The suggestion by Janet Freeman is interesting: by combining templates and keyboard definitions one could perhaps build a usable interface for typing in Unicode Sanskrit/Hindi in Word97. Will start working on it.
+
+Thanks for the suggestions, 
+Thomas de Bruijn
+
+
+
+

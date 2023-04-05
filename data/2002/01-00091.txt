@@ -1,0 +1,29 @@
+From zydenbos at LRZ.UNI-MUENCHEN.DE  Thu Jan 24 18:54:43 2002
+From: zydenbos at LRZ.UNI-MUENCHEN.DE (Robert Zydenbos)
+Date: Thu, 24 Jan 02 19:54:43 +0100
+Subject: Is Unicode welcome yet on the list?
+In-Reply-To: <20020124015042.GK16009@deepthought>
+Message-ID: <161227070295.23782.17038992908752292390.generated@prod2.harmonylists.io>
+
+Am Donnerstag 24 Januar 2002 02:50 schrieb Stefan Baums:
+
+> since all the major operating systems and email clients have come to
+> support Unicode by now (even though it might require some
+> configuration), [...]
+
+For the record: the diacritics miraculously and by themselves appeared 
+correctly in my email client KMail 1.2, running under SuSE Linux 7.2. 
+But others evidently still have problems (and although I can read those 
+signs, I do not know how to produce them if I would want to).
+
+Perhaps the experiment has given the list members something to think 
+about and to try out, and we can bring up the subject again in a few 
+months?
+
+RZ
+Institut f?r Indologie und Iranistik
+Universit?t M?nchen
+
+
+
+

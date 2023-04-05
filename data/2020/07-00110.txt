@@ -1,0 +1,11 @@
+From will at tending.to  Wed Jul 15 10:18:48 2020
+From: will at tending.to (Prof. W Tuladhar-Douglas)
+Date: Wed, 15 Jul 20 11:18:48 +0100
+Subject: [INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
+In-Reply-To: <5A17106C-4664-4382-BEA0-26794F165FDB@btinternet.com>
+Message-ID: <235CEA58-4240-4E4D-89A7-B2AAD159112D@tending.to>
+
+Dear Alex and all,
+
+I just did a DNS check  (dig oriental.cam.ac.uk <http://oriental.cam.ac.uk/>), and neither bombay.oriental.cam.ac.uk <http://bombay.oriental.cam.ac.uk/> nor indeed oriental.cam.ac.uk <http://oriental.cam.ac.uk/> apparently still exist. 
+

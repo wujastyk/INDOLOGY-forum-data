@@ -1,0 +1,95 @@
+From koenraad.elst at PANDORA.BE  Fri Jul  7 20:50:27 2000
+From: koenraad.elst at PANDORA.BE (Koenraad Elst)
+Date: Fri, 07 Jul 00 22:50:27 +0200
+Subject: Harappan Deciphered?!
+Message-ID: <161227059678.23782.15428483574836332545.generated@prod2.harmonylists.io>
+
+Friends,
+
+more on the Jha/Rajaram decipherment.  First some more preliminary remarks.
+
+There are already a dozen or so Sanskritic decipherments of the Indus
+script, mostly by Indians who mostly read it as partly remainder-logographic
+but largely already syllabic or alphabetic, vaguely proto-Brahmi.  In the
+last decade, all authors concerned have been subscribers to the OIT, but in
+earlier decades this may have been different (there have been many
+AIT-to-OIT conversions, e.g. among non-decipherers the linguist SS Misra and
+the archaeologist BB Lal).  There are two by Germans, one of them pen-named
+Ushanas,
+and both reading it as entirely logographic; in my opinion far too
+spiritualistic, typically the work of New-Agers who read their
+favourite themes into it.  And there is one by a Portuguese Sorbonne-based
+scholar Jos? Calazans, who has a publishing contract with OUP though for
+some reason the publication has so far failed to materialize; he is
+contract-bound not to show his finished product.  His position
+is that the Aryans originated in Central Asia and invaded India before the
+IVC floruit, becoming one among several constituent populations of the IVC;
+their Vedic religion (possibly represented by the famous "priest-king") was
+distinct from an existing Harappan shamanic religion of which traces are
+visible
+on the seals, e.g. priest(esse)s with animal headgear.  All the same, in his
+view Sanskrit was the dominant IVC language and the one represented on the
+seals.
+
+The Jha/Rajaram decipherment is set in a chronological framework putting the
+Rg-Veda before 3000 BC and the IVC contemporaneous with the Brahmanas,
+Upanishads and Sutras.  This is a rather ambitious (some might use a more
+derogatory term) chronology leading to some problems in the correspondence
+with the archaeological evidence, e.g. spoked wheels in the younger parts of
+the RV hence by 3500 BC or so, long before their appearance in the
+archaeo-record.  The OIT need not push it that far, witness Shrikant
+Talageri's approach of not pinning himself down on any absolute chronology,
+and in debate being provisionally willing to put the RV's later sections in
+the end period of the IVC (he also keeps the Mahabharata war in the mid-2nd
+millennium as against Rajaram's 3139 BC).  Yet, like Talageri and like
+presumably most participants on this list, Jha and Rajaram claim that in
+their chronology they merely go where the evidence is taking them.  In casu,
+the texts on the seals as they understand them correspond contentswise with
+the late-Vedic/Sutra period, and are read with a close eye on the cultural
+or "literary" background.
+
+The point here is not whether the IVC or Vedic society was literate or not;
+whether the Upanishads etc. were passed on orally or written down.  Either
+way, they
+certainly were alive and influential in NW-Indian society at some point.
+Jha and Rajaram claim that the Harappan seals were not commercial documents
+but were religious in nature, hence the fortunate (too fortunate?) situation
+that contentswise they have a lot in common with the largely religious Vedic
+corpus.
+
+Leaving aside the remaining logographic signs, the phonetic mainstream of
+the script would be most comparable with the Semitic scripts.  There is an
+initial vowel sign, like the Aleph, which can represent any vowel: this is
+the omnipresent jar sign.  Vowels following consonants are generally not
+written, so one consonant signs can be read as ka, kaa, ke, ki etc.  There
+is a distant influence from Rao here: he had based his initial guesswork
+about the sound value of the signs on their look-alikes in the Phoenician
+script rather than in Brahmi, on the assumption that the Phoenician script
+(appearing in the mid-2nd millennium) was, so to speak, the eldest daughter
+of the Indus script, in some ways closer to it than the younger Ashokan
+Brahmi.  Quite a number of letters retain the values which had been assigned
+to them by Rao or by other Indian authors who based their readings on
+similarities with Brahmi.  Thus, the crab is [ma], the 5-stroke standing man
+is [ra] or [R] (no Paninian fine phonetic distinctions yet), the standing
+fish is [sha] (also "100", sha-tam), the same standing fish with a little
+roof overhead is [shri].  An obvious weak point is that several sounds have
+more than one sign representing them, though care was taken to avoid cases
+where two such "allographs" appear on the same seal.  The direction of
+writing is not fixed, though more often left-to-right than the reverse, and
+boustrophedon occurs in the not-so-numerous seals containing more than one
+line of text.
+
+Jha and Rajaram also claim that in many cases, the picture and the text on a
+seal correspond directly or obliquely, somewhat like in heraldry where the
+motto and the picture sometimes match (e.g. the coat-of-arms of the Dutch
+province of Zealand shows a lion rising from the waves, with the obliquely
+related motto "Luctor et emergo", "I wrestle and come out on top").  I'll
+collect some examples over the weekend.
+
+All the best,
+
+K. Elst
+
+
+
+

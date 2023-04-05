@@ -1,0 +1,35 @@
+From stone_catend at COMPUSERVE.COM  Thu Apr  2 06:51:26 1998
+From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
+Date: Thu, 02 Apr 98 01:51:26 -0500
+Subject: Indic transliteration draft
+Message-ID: <161227037332.23782.17319235194388982301.generated@prod2.harmonylists.io>
+
+On March 31, 1998, George Baumann wrote:
+
+> 5) Is the representation of Kannada palatal -n- correct?  Isn't the  half
+circle on 
+>the right side necessary?
+>
+> 7) the graph for Kannada retroflex -t- seems to have a circle at the 
+right top, 
+>which isn't necessary. 
+>
+>8) the dental -t- in Oriya could be written a bit better, 
+>perhaps. It  shouldn't be fully closed at the top.
+>
+>10) The graph for Kannada -m- is not quite correct at the base, I  think.
+The same
+> is true of the -v- in Kannada.
+
+These have now been uploaded in corrected forms.
+Thanks,   Tony
+
+Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
+Indic scripts.  
+Email: stone_catend at compuserve.com             Thinking aloud on
+transliteration:
+   http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
+
+
+
+

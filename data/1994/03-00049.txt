@@ -1,0 +1,23 @@
+From ucgadkw at ucl.ac.uk  Tue Mar 22 15:06:24 1994
+From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
+Date: Tue, 22 Mar 94 15:06:24 +0000
+Subject: WIHM library now accessible
+Message-ID: <161227016656.23782.15359957066062984315.generated@prod2.harmonylists.io>
+
+The system group here at University College London report that
+the Wellcome Institute catalogue should now be telnet-able from
+the USA and elsewhere.
+
+I've just had success connecting with the library, starting from
+the Columbia gopher, so I assume it will be fine for everyone else
+too.
+
+
+Dominik
+
+ 
+
+
+
+
+

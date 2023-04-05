@@ -1,0 +1,28 @@
+From magier at COLUMBIA.EDU  Sat Feb 20 15:55:08 1999
+From: magier at COLUMBIA.EDU (David Magier)
+Date: Sat, 20 Feb 99 10:55:08 -0500
+Subject: URL correction - IDSAS
+Message-ID: <161227046678.23782.601391504518719061.generated@prod2.harmonylists.io>
+
+Thanks to the sharp-eyed Christian Novetske for pointing out the error
+in the URLs given for the International Directory of South Asia
+Scholars (and also for SARAI): the ".edu" part was inadvertently
+repeated. The correct urls are:
+
+SARAI:
+
+  http://www.columbia.edu/cu/libraries/indiv/area/sarai
+
+
+INT'L DIRECTORY OF SOUTH ASIA SCHOLARS (IDSAS):
+
+  http://www.columbia.edu/cu/libraries/indiv/area/sarai/directory.html
+
+
+I apologize for this error!
+
+David Magier
+
+
+
+

@@ -1,0 +1,88 @@
+From l.m.fosse at internet.no  Fri Dec  6 18:21:10 1996
+From: l.m.fosse at internet.no (Lars Martin Fosse)
+Date: Fri, 06 Dec 96 19:21:10 +0100
+Subject: "Out of India"
+Message-ID: <161227027386.23782.3241719155867317096.generated@prod2.harmonylists.io>
+
+V. Rao wrote:
+
+>That creates its own set of problems.
+>
+>Large scale migrations are rare events. 
+
+Large scale migrations have occurred quite regularly within Europe and out
+of Europe for the last 3000 years. 
+
+E.g.:
+
+1) Hittites into Asia Minor (3rd millenium B.C.?)
+2) Indo-Aryans into Iran and India (2nd millenium B.C.)
+3) Greek tribes into Greece (2nd millenium B.C.)
+4) Italic tribes into Italy (2nd millenium B.C)
+5) Celtic tribes into France and Britain, followed by
+6) Germanic tribes, reaching Scandinavia possibly 800 B.C.
+7) Germanic tribes into Gaul, Northern Italy, Spain and North Africa (end of
+1st millenium B.C. until about 5-600 C.E.)
+8) Magyar tribes into Hungary (800 C.E)
+9) Norsemen into Northern Britain, Ireland, Hebrides, the Shetlands,
+Iceland, Greenland about 1000 C.E.)
+10) The enourmous transfer of Europeans from Europe to the Americas during
+the last 500 years
+11) The migration of Europeans to Australia during the last 200 years.
+
+Large-scale displacement of people do not happen every day, but they
+certainly do occur.
+
+>I would like to read your thesis. Please let me where you published it.
+
+It will be published in the series Acta Humaniora of the Faculty of Arts of
+Oslo University. I handed it in 4-5 months ago. I don't how far it has come
+in the process.
+
+>There is one issue that I am sure you must have addressed, but which
+>I cannot resist talking about.
+>This is the use of controls. Let me share an experiment
+>I performed a few months back. I took the Mahabharata text from
+>John Smith's files, and looked at the frequency of different types of
+>vipulas in the various parvans. Just for fun, I looked at the cantos of
+>Kumarasambhava (Kale edition) and Raghuvamsa (Nirnayasagar edition)
+>that were in anushtub. To my great surprise (and horror), I found that 
+>Kumarasambhava as closer to Mahabharata (Bhishma and Drona parvans,
+>I did not try this with others) than it was to Raghuvamsa. and the
+>difference was fairly significant: I don't remember the p-values,
+>but were close to 0.05. [This does not prove that Kumarasambhava and
+>Raghuvamsa were composed by different persons. The most serious objection
+>would be that I did not look at Trishtub and Jagati patterns, where
+>Kalidasa conforms to the traditional poetical theory, but Mahabharata does
+>not. Then there is the question of critical edition of Kalidasa]
+
+This is precisely the sort of thing I found, too. Not only should you be
+extremely careful with metrical statistics, but also with distributions of
+linguistic features. For Indological statistics to succeed, you need endless
+patience. There is no quick fix.
+
+>As I understand it, we can't quite call one method more objective
+>than the other. Some methods look for clusters of some particular
+>shape. Others do not for clusters as such, but build trees by
+>joining nearest neighbors into one branch, then replacing them
+>by their average etc. [Out of Africa analysis has the problem of
+>large data-sets, which should not a problem in HLK case.] There does
+>not seem to be any clear agreement as to which method suits a given
+>situation better than others.
+>
+One of the things you have to know about cluster analysis is that it is an
+explorative method, not a method that claims ability to prove anything.
+However, if several different methods (or several sets of criteria) produce
+the same clusters, you may have some reason to think that the elements of
+the clusters really have something in common. But beware of too strong
+conclusions.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+
+
+

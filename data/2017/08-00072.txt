@@ -1,0 +1,204 @@
+From skarashima at gmail.com  Mon Aug 21 01:31:22 2017
+From: skarashima at gmail.com (Seishi Karashima)
+Date: Mon, 21 Aug 17 10:31:22 +0900
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_pa=E1=B9=85gu_/_pa=E1=B9=85ku_[2nd_sending]?=
+In-Reply-To: <8F030E2D-FB37-42A0-9F2B-C3FACD0ED7F3@gmail.com>
+Message-ID: <CAEd5L8i98P_OzWSYyT1F-41QQgBtEDuHsU4MYW_SkQquXf-Qmw@mail.gmail.com>
+
+Dear Dr. Stern,
+Thank you for the information.
+Now I understand why this wrong reading crept into the data. It is
+interesting that Jacobi's edition which I have reads correctly "panku"; see
+the attached photos, while the PDF, taken from the archive.org., reads
+mistakenly "pauku".  His index reads rightly "panka". I am happy to know
+that I have a copy of  the corrected version of Jacobi's dissertation paper.
+With best regards,
+Seishi Karashima
+
+2017-08-21 10:11 GMT+09:00 Elliot Stern <emstern1948 at gmail.com>:
+
+> Dear colleagues,
+>
+> I agree with Seishi Karashima that neither of these passages relate to
+> Sanskrit pa?gu or pa?ku ?lame?, but the original edition indeed reads
+> sayala-mahi | valaya-pauka in the pdf scan available at archive.org. I
+> did not see that Jacobi corrected this reading in the published edition,.
+> but I also do not dispute that pa?klu is correct. I did not consult data
+> input on the internet.* Even the great scholars may have missed
+> typographical errors!*
+>
+> Best wishes,
+>
+> Elliot Stern
+>
+>
+> On 20 Aug  2017, at 20:41, Seishi Karashima <skarashima at gmail.com> wrote:
+>
+> Dear colleagues,
+> Both examples have nothing to do with *pa?ku*~.
+>
+> (1) The first example from the *Paumacariu*:
+> *katth?riya-pa?kuppa?kiu* < *kast?rik?* (?musk?)+ *pa?ka* (?unguent?) + *
+> *ut-pa?kita* (?besmeared?; cf. Naresh Kumar, *Apabhra??a-Hindi Dictionary*,
+> Nehru Nagar 1987: Indo-Vision Private Limited, vol. I, p. 124r, s.v.
+> *uppa?kiya*; cf. also Skt. *pa?kayati* ?besmears?).
+>
+> (2) The second example from the *Sanatkum?racaritam*:
+> Jacobi?s edition (*Sanatkum?racaritam: Ein Abschnitt aus Haribhadras
+> Nemin?thacaritam. Eine Jaina Legende in Apabhra??a*, hrsg. von Hermann
+> Jacobi, M?nchen 1921: Verlag der Bayerischen Akademie der Wissenschaften,
+> p. 37) in fact reads *sayala-mahivalaya-panku* (i.e. -*pa?ku*). Only the
+> input data on the internet reads "*sayala-mahivalaya-pauku*". One must
+> discern "edition" made by the great scholar from "data" input by somebody. *Sayala-mahivalaya-pa?ku
+> *means ?mud in the whole world? (?der Schlamm im ganzen Lande?, *ibid.*,
+> p. 76). However, *pa?ku* is a *nom. sg. masc. form* of *pa?ka *in
+> Apabhra??a.
+>
+> Therefore, both examples quoted here are of *pa?ka*: (1) *pa?ka + u- *(*>
+> pa?ku-*), (2) nom. sg. masc. *pa?ku*.
+>
+> With best regards,
+>
+> Seishi Karashima
+>
+> 2017-08-21 1:51 GMT+09:00 Elliot Stern via INDOLOGY <
+> indology at list.indology.info>:
+>
+>> Thank you for these references, but none of these are pa?ku ?lame?.
+>>
+>> Best wishes,
+>>
+>> Elliot
+>>
+>>
+>> > On 20 Aug  2017, at 08:51, Rolf Heinrich Koch via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>> >
+>> > Besides many quotations in Tamil-literature I know the following two
+>> references in Prakrit (Apabhra??a)-literature:
+>> >
+>> > 1. Svayambhu Paumacariu (Ramastory)
+>> >
+>> > 26.11.3: jo katth?riya-pa?kuppa?kiu  jo ari-karihi ?a ?ohevi sakkiu
+>>
+>> The semantic here is ?mud? or ?slime?.
+>> >
+>> > 2. Sanatkum?racaritam (H. Jacobi)
+>> >
+>> > 546: ...valaya-panku?.
+>>
+>> The edition reads ? valaya-pauku ...
+>> >
+>> > 3.
+>> >
+>> > In Sri Lanka I came across the word pa?ku meaning "share of (land
+>> etc.)".  This is probably of Tamil origin. Codrington: Ancient Land
+>> Tenure...,p. 15.
+>> >
+>> > If the word denotes a share of land, then the etymological discussion
+>> should also think about the 5-ku?i-sized lands (pan-ku?i), and we are back
+>> in the Sanskrit-world.
+>> >
+>> >
+>> > Best
+>> >
+>> > Heiner
+>> >
+>> >
+>> > Am 19.08.2017 um 22:18 schrieb Elliot Stern via INDOLOGY:
+>> >> I would like to draw on the collective manuscript reading experience
+>> of our list members. A Sanskrit word pa?gu is well known in dictionaries
+>> and printed texts. It denotes a ?lame person?. In a passage of the ms of
+>> svadita?kara??  (a palm leaf Malayalam script ms), a commentary on
+>> ny?yaka?ik?, this word appears only as pa?ku with many repetitions in a
+>> long comment on a line in vidhiviveka?.. It is possible to argue that this
+>> reading pa?ku should be corrected to pa?gu, because pa?ku and pa?gu are
+>> both pronounced the same in the Malayalam language (i.e., the k is
+>> pronounced as g). This argument, however, seems weak to me. First, other
+>> words like prasa?ga always appear as expected in the svadita?kara?? ms.
+>> Second, a most likely 16th century devan?gar? ms of ny?yaka?ik? certainly
+>> reads pa?ku in two of the three occurrences of pa?gu later in the
+>> commentary, and probably in all three of them (the first fifty or so folia
+>> of this ms, that would include the passage on which svadita?karra??
+>> comments, are not available). In two of these instances, we see a
+>> correction to pa?gu, but one stands uncorrected. Third, the ms. of
+>> ju?adhva?kara?? (also a palm leaf Malayalam script ms) reads pa?ku a few
+>> times, and also consistently renders words like prasa?ga as expected.
+>> >>
+>> >> I have two questions. First, have you seen the reading pa?ku,
+>> especially in mss not written in South Indian scripts? Second, are there
+>> any etymological or other discussions of the term pa?gu / pa?ku not
+>> referenced in standard works like Burrows' and Emeneau?s DED or the
+>> Turners?  CDIAL?
+>> >>
+>> >> Elliot M.Stern
+>> >>
+>> >>
+>> >>
+>> >> _______________________________________________
+>> >> INDOLOGY mailing list
+>> >> INDOLOGY at list.indology.info
+>> >> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> >> http://listinfo.indology.info (where you can change your list options
+>> or unsubscribe)
+>> >
+>> > --
+>> > www.rolfheinrichkoch.wordpress.com
+>> >
+>> >
+>> >
+>> > _______________________________________________
+>> > INDOLOGY mailing list
+>> > INDOLOGY at list.indology.info
+>> > indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> > http://listinfo.indology.info (where you can change your list options
+>> or unsubscribe)
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170821/4f42a854/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Jacobi1921Sanatkumaracaritap.37.JPG
+Type: image/jpeg
+Size: 527768 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170821/4f42a854/attachment.jpe>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Jacobi1921Sanatkumaracaritaindex.JPG
+Type: image/jpeg
+Size: 579909 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170821/4f42a854/attachment-0001.jpe>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Jacobi1921Sanatkumaracaritacover.JPG
+Type: image/jpeg
+Size: 336681 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170821/4f42a854/attachment-0002.jpe>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Jacobi1921Sanatkumaracaritap.37.pdf
+Type: application/pdf
+Size: 65736 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170821/4f42a854/attachment.pdf>
+

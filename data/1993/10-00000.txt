@@ -1,0 +1,35 @@
+From EVERSON at IRLEARN.UCD.IE  Fri Oct  1 14:00:54 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Fri, 01 Oct 93 14:00:54 +0000
+Subject: Which ISCII actual use?
+Message-ID: <161227016176.23782.3116079239575053298.generated@prod2.harmonylists.io>
+
+Lloyd Anderson of Ecological Linguistics asked me to forward this
+to the INDOLOGY list.
+ 
+Date: 01 Oct 93 01:21 GMT
+From: ECOLING at AppleLink.Apple.COM (Ecological Linguistics,Anderson,PRT)
+ 
+Ecological Linguistics will release later this fall 8-bit script
+systems for most of the Indic scripts on Macintosh, based either on the
+ISCII-88 or the ISCII-91 standard.  We would like to use the code page
+which will yield greatest compatibility with existing implementations,
+whether on DOS or Mactintosh.  The ISCII-88 standard was used in the
+16-bit Unicode and ISO10646, while the ISCII-91 standard is more recent
+official India.  What is actual de facto dominant in India?  Anyone
+replying, please specify the domains of different dominance.
+ 
+Thanks for any help.
+ 
+Lloyd Anderson
+=====
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

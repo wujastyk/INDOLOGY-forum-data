@@ -1,0 +1,64 @@
+normal use.  From your point of view, and for the simple tasks of writing
+and reading messages, nothing has changed, so you don't really need to read
+the rest of this email.
+
+--
+
+... but for those who can't resist :-)
+
+Mail to the normal address, indology at list.indology.info, will go to all the
+members, as always.
+
+Mail to the committee can be sent to indology-owner at list.indology.info,
+again as before.
+
+
+*The Archive*
+
+The archive will look familiar
+<https://list.indology.info/pipermail/indology/>.  We've gone back to the
+traditional display that many of us asked for.  The search facility is now
+right there on the archive page.  The indexes for searching are
+recalculated once a day.  As I write this email, the index hasn't been
+calculated yet, so you can't search yet.  But it will come to life tomorrow.
+
+
+*Settings*
+
+Your personal preferences and your password have been reset to default
+values.  Sorry about that, but it was unavoidable.  So if you want, say, a
+weekly digest, I'm afraid that you will have to go to your control panel
+and set things back to the way you want them.  The address for doing that
+is
+
+   - https://list.indology.info/mailman/listinfo/indology
+
+Once you get to that page, scroll to the bottom and put your email address
+into the last field.  It looks like this:
+
+[image: image.png]
+
+You will then see a page where you can press the Remind button and get your
+new password sent to you.  Then you can go back to the same URL above, and
+log into your personal settings and choose your preferences.  Your personal
+name has also been deleted, so you can add that again if you wish.
+
+I hope you can now resume enjoying the INDOLOGY forum in peace.  If you
+notice any problems, please tell the committee
+<indology-owner at list.indology.info>.
+
+Best wishes,
+
+Dominik Wujastyk
+INDOLOGY list <http://indology.info> committee member
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210407/f7ab4bc5/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image.png
+Type: image/png
+Size: 15983 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20210407/f7ab4bc5/attachment.png>
+

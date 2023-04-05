@@ -1,0 +1,105 @@
+From markus.viehbeck at univie.ac.at  Wed May 15 07:14:06 2019
+From: markus.viehbeck at univie.ac.at (Markus Viehbeck)
+Date: Wed, 15 May 19 09:14:06 +0200
+Subject: [INDOLOGY] Database: Resources for Kanjur & Tanjur Studies (rKTs)
+Message-ID: <007501d50aed$c86be9e0$5943bda0$@univie.ac.at>
+
+Dear colleagues,
+
+ 
+
+Within a new research project at the University of Vienna (Buddhist Kanjur
+Collections in Tibet?s Southern and Western Borderlands, headed by Helmut
+Tauscher, joined by Bruno Lain? and Markus Viehbeck) our online database
+Resources for Kanjur & Tanjur Studies (rKTs) received a substantial makeover
+and now comes with many new features:
+
+https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php
+
+ 
+
+Resources for Kanjur & Tanjur Studies now provides access to searchable
+catalogues as well as images of over 50 (!) Kanjurs, larger canonical
+collections, Tanjurs, and tantric collections (rnying rgyud); further also
+various options to search in e-texts for both Kanjur and Tanjur.
+
+While various tools and resources were integrated (handlists of individual
+collections, a tool for structural comparison of different collections, a
+growing database of secondary literature, Open-Access to our research
+publications), the most pressing functions for anyone working with Tibetan
+canonical literature might be the following three:
+
+1)      Search for a title of any canonical text. Advanced search allows for
+adjusting the level of accuracy and hence to also include title variants:
+https://www.istb.univie.ac.at/kanjur/rktsneu/verif/
+
+The output will provide the bibliographic details of a specific text in a
+given edition as well as a direct link to the source material, including for
+example dual display of both manuscript images and e-text. Other features
+include a link to the English translation in case a text has been translated
+by 84.000 and an interface to share scholarly comments and notes (at the
+bottom of the results? page).
+
+2)      Full text search in different e-text versions of both Kanjur and
+Tanjur. This allows for identifying any part of a canonical text, such as
+quotations. Also here the search mode can be adjusted to the specific needs
+(approximate search, searching for individual lexical units):
+https://www.istb.univie.ac.at/kanjur/rktsneu/ekanjur/
+
+3)      Direct access to manuscript images. Kanjur viewer, Tanjur viewer,
+and Rnying rgyud viewer (accessible in the left menu, under Archives)
+combine catalogue data and images and allow for browsing through the images
+of many canonical collections:
+https://www.istb.univie.ac.at/kanjur/rktsneu/digit/affiche00.php?collc=hemis
+he%7C%27dul+ba+ka%7C1
+
+ 
+
+Given the scope of the archive and the fact that it emerged out of various,
+shifting research interests, some of the data is still in a provisional
+stage and will have to be revised over time. We hope however that already at
+the present stage the database will be of benefit for many Tibetologists,
+Indologists, and researchers on Buddhism.
+
+In case you encounter technical problems with the database, please inform
+Bruno Lain?, the webmaster of the archive, at: bruno.laine at univie.ac.at
+<mailto:bruno.laine at univie.ac.at> .
+
+This archive has become possible through the cooperation of many different
+individuals. In that spirit we are looking forward to receiving your input
+and feedback, notes on interesting manuscript collections, discussions on
+specific scholarly concerns, etc. In order to do so, please contact Helmut
+Tauscher (helmut.tauscher at univie.ac.at <mailto:helmut.tauscher at univie.ac.at>
+) or myself (markus.viehbeck at univie.ac.at
+<mailto:markus.viehbeck at univie.ac.at> ).
+
+ 
+
+Markus Viehbeck, for the Tibetan Manuscript Project Vienna (TMPV)
+
+ 
+
+Dr. Markus Viehbeck
+
+Postdoctoral Researcher, University of Vienna
+
+Associate Member, Cluster Asia & Europe, University of Heidelberg
+
+ 
+
+Institut f?r S?dasien-, Tibet- und Buddhismuskunde, Universit?t Wien
+
+Spitalgasse 2, Hof 2 (Campus)
+
+1090 Vienna, Austria
+
+ 
+
+ 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190515/4cd7cea3/attachment.htm>
+

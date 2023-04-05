@@ -1,0 +1,30 @@
+From ucgadkw at ucl.ac.uk  Thu Jun 29 09:27:49 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Thu, 29 Jun 95 10:27:49 +0100
+Subject: COMMERCIAL EDITIONS ...
+Message-ID: <161227019860.23782.16282865726263659174.generated@prod2.harmonylists.io>
+
+R. Gruenendahl says:
+> 
+> > What methods should be used for editing Sanskrit texts? 
+> 
+> My undogmatic answer to this: I think, the "classical" method provides 
+> a very good orientation, but it should be adapted to the particular 
+> circumstances, i.e. to the manuscript material one has to deal with 
+> in every individual edition project.
+
+Yes.  This is very much the issue addressed by Martin L. West in his
+excellent little book "Textual Criticism and Editorial Technique"
+(Stuttgart: Teubner, 1973), explicitly written to replace Maas's
+"Textkritik" in order to take account of contamination and other
+factors that make Maas's "pure" system inapplicable in so many
+real-world cases.  I always tell my students to read West before doing
+anything with Sanskrit manuscripts.
+
+Dominik
+ 
+
+
+
+
+

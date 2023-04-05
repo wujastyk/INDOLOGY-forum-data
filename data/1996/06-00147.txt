@@ -1,0 +1,53 @@
+From L.M.Fosse at internet.no  Fri Jun 28 07:39:16 1996
+From: L.M.Fosse at internet.no (L.M.Fosse at internet.no)
+Date: Fri, 28 Jun 96 17:39:16 +1000
+Subject: Harvard-Kyoto
+Message-ID: <161227025191.23782.6030040840429563743.generated@prod2.harmonylists.io>
+
+
+Harry Falk wrote:
+
+>good idea to initiate a Vedic bibliography - but using the Harvard-
+>Kyoto transcription would result in a nightmare. Any z in a personal
+>name or non-Skt term would be converted to /s, Jolly would end up
+>as ~nolly etc. The usual aa>A conversion gives similar trouble if
+>you think of Staal or Fujii. It might be advisible to use the Vienna
+>codes or create something new, but any standard which does not lend
+>itself to automatic conversion should be banished.
+
+I agree with Harry Falk. May I suggest the Tuebingen-Zuerich format? It
+allows for easy conversion, and interference with other graphic conventions
+of the kind Hary mentions should be minimal. In the TZ-format, the Sanskrit
+alfabeth looks like this:
+
+a -a i -i u -u .r -r .l -l e ai o au .m .h k kh g gh ;n c ch j jh ?n .t .th
+.d .dh .n t th d dh n p ph b bh m y v r l . /s s h
+
+(Hope I remembered it all!) The advantage with this transliteration method
+is that you're never in trouble when you want to change the graphic
+appearance of the text. Conversion is easy. My own experience with this
+kind of transliteration has been quite excellent.
+
+By the way, Harry, what are the Vienna codes?
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+Dr. art. Lars Martin Fosse
+Haugerudveien 76, Leil. 114,
+N-0674 OSLO Norway
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+
+E-mail: L.M.Fosse at internet.no
+
+
+
+
+
+
+

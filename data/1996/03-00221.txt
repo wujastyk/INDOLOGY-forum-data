@@ -1,0 +1,44 @@
+From ucgadkw at ucl.ac.uk  Wed Mar 20 17:19:55 1996
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 20 Mar 96 17:19:55 +0000
+Subject: Why not a definitive devnagri font
+Message-ID: <161227023511.23782.6890718029371437454.generated@prod2.harmonylists.io>
+
+Birgit Kellner said:
+> 
+> [...] all sorts of systems (nobody mentioned OS/2
+> as yet, [...]
+
+I have been using OS/2 as my main platform for several years, and I
+think it combines the very best qualities of Windows, DOS, and Unix in a
+single product.  It is very stable (never crashes) and a wonderful
+platform for communications of all sorts.  A happy customer.
+
+Dominik Wujastyk
+
+
+> Hence, I would strongly suggest that, until the
+> current lcd is replaced by one which allows for Devanagari, let's stick to
+> the present conventions. 
+
+Yes, indeed.
+
+The issue of Devanagari representation of Sanskrit text is, in any case,
+not of great importance in contemporary indological scholarship.
+Indologists are all used to reading and writing books, journals, and
+indeed entire Sanskrit texts, in romanization.  And historically, of
+course, Devanagari is not by any means the only script that has been
+used to record Sanskrit.  It is attractive and "natural" in a way, but
+romanization also has its advantages for representing certain linguistic
+and semantic features.
+
+I do think, however, that since Devanagari is now so easy to typeset,
+some of the journals like BSOAS, JAOS, JRAS, IIJ, etc., might consider
+admitting the use of Devanagari in some articles, if desired.
+
+Dominik Wujastyk
+
+
+
+
+

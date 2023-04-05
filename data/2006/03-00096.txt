@@ -1,0 +1,84 @@
+From sanjay.kumar at MAIL.MCGILL.CA  Fri Mar 24 13:30:05 2006
+From: sanjay.kumar at MAIL.MCGILL.CA (Sanjay Kumar)
+Date: Fri, 24 Mar 06 08:30:05 -0500
+Subject: Vedic Accents and Unicode
+In-Reply-To: <36A4A8CE-C294-48F6-9A54-F54E371AA766@let.leidenuniv.nl>
+Message-ID: <161227077712.23782.13954972779461401832.generated@prod2.harmonylists.io>
+
+Just a side note:
+
+The vertical line above a letter (??) represents svarita (??????), not udaatta (??????); the latter is never marked and all unmarked letters before ?????? (??) are identified as udaatta.
+
+ 
+
+Sanjay Kumar
+
+Faculty of Religious Studies
+
+McGill University, Montreal, Canada
+
+ 
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Arlo Griffiths
+Sent: March 23, 2006 6:22 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Fwd: Vedic Accents and Unicode
+
+ 
+
+Forwarded on behalf of Kengo Harimoto.
+
+ 
+
+Arlo Griffiths
+
+ 
+
+Begin forwarded message:
+
+ 
+
+> From: Kengo Harimoto <kengoharimoto at mac.com>
+
+> Date: March 23, 2006 10:59:33 AM GMT+01:00
+
+> To: Arlo Griffiths <arlo.griffiths at let.leidenuniv.nl>
+
+> Subject: Re: Vedic Accents and Unicode
+
+> 
+
+>> But in the present Unicode standard (as far as I know) the  
+
+>> underring characters are not defined.
+
+>> 
+
+> 
+
+> They have  COMBINING RING BELOW (unicode 0325/UTF8 CCA5).  I can  
+
+> produce  l? and r? using the latter.  Some fonts, applications, or  
+
+> displaying systems may not display properly, but that's a different  
+
+> issue.
+
+> 
+
+> As for Devanagari Vedic accents, there are at least Unicode 0951  
+
+> (DEVANAGARI STRESS SIGN UDATTA) like in ?? and 0952 (DEVANAGARI  
+
+> STRESS SIGN ANUDATTA) ??.
+
+> 
+
+> -- 
+
+> kengo harimoto
+
+
+
+

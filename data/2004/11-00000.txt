@@ -1,0 +1,72 @@
+From dean_anderson at SACARI.ORG  Mon Nov  1 02:09:49 2004
+From: dean_anderson at SACARI.ORG (Dean Anderson)
+Date: Sun, 31 Oct 04 20:09:49 -0600
+Subject: Devanagari
+In-Reply-To: <DE8ABE54-2B96-11D9-AF66-000A957FD966@let.rug.nl>
+Message-ID: <161227075192.23782.5873764873241648020.generated@prod2.harmonylists.io>
+
+Do the Mac font assignments match any of the ones in the PC/Linux world?
+In other words, are we anywhere near having a good cross-platform layout
+that we might turn into a standard among Indologists?
+
+Dean Anderson
+
+>-----Original Message-----
+>From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of
+>Kengo Harimoto
+>Sent: Sunday, October 31, 2004 5:45 PM
+>To: INDOLOGY at liverpool.ac.uk
+>Subject: Re: Devanagari
+>
+>
+>> I am not aware of the situation with Devanagari input on
+>Linux and Mac
+>> systems.
+>
+>Mac OS X (since 10.0?) comes with Devanagari support.  One has
+>to tell the installer to install Indic languages support upon
+>fresh install, or run the System installer later telling it to
+>install the support.
+>
+>Two Devanagri input methods come with the system: Devanagari
+>QWERTY and Devanagari.  I assume the latter is in accordance
+>with the ISCII keyboard layout.
+>
+>The Devanagari suport has been improving consistently.  The
+>current version of the Mac OS X is 10.3.  I think it has come
+>to the point of being usable by now.
+>
+>Most OpenType unicode fonts work to some degree.  It appears
+>that Apple's OpenType support is not yet perfect.  For
+>example, I don't see conjunct characters on screen.  (In
+>utf-8, I understand that the input stream is something like ka
+>+ viraama + ta for kta.  If a font has that conjunct
+>character, it should appear as kta, but that's not the case
+>with Devanagari OpenType unicode fonts on  OS X.  I see ka +
+>viraama + ta on screen.)
+>
+>The Devanagari fonts provided by Apple (AAT font) better
+>supports conjunct characters.  However, there are still some
+>bugs and not all the ligatures that should be available in the
+>font may not appear on screen.
+>
+>I might also add that keyboard layout presupposes Hindi rather
+>than Sanskrit, so, some commonly used symbols are not easily
+>available.  For example, long vocalic r was not accessible
+>through standard keyboard layout (QWERTY version).  A slight
+>modification to the keyboard layout was necessary.
+>
+>All the Cocoa applications, meaning applications that don't
+>run on Classic Mac OS (<= Mac OS 9.x)[1], support utf-8,
+>including Devanagari.
+>
+>[1] Things are much more complicated, but this is the best
+>simplification I can make with regard to what Cocoa applications are.
+>
+>--
+>kengo harimoto
+>
+
+
+
+

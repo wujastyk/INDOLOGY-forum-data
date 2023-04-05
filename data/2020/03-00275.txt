@@ -1,0 +1,138 @@
+From vasishtha.spier at gmail.com  Mon Mar 30 20:14:26 2020
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Mon, 30 Mar 20 16:14:26 -0400
+Subject: [INDOLOGY] Metrical inconsistencies and tradition
+In-Reply-To: <B46C273E-81C5-4422-8597-D1B745A03C42@fas.harvard.edu>
+Message-ID: <CAJ3b0o8-dDhU-ijFc8z-Mgg+Gs_0C8Yp4tbTxVdgPunakqLK0w@mail.gmail.com>
+
+Since most of us don't have access to libraries right now, would any
+members have a pdf of this to share.
+ Its a topic I've been trying unsuccessfully to find information about for
+years.
+
+Thanks,
+Harry Spier
+
+On Mon, Mar 30, 2020 at 12:14 PM Witzel, Michael via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> See now:
+>
+> *Mieko Kajihara  (Tokyo Univ.) *
+>
+> *The Sacred Verse Sa?vitri? in the Vedic Religion and Beyond. *
+>
+> *Journal of Indological Studies, Numbers 30 & 31 (2018-2019) pp. 1-36. *
+>
+> Cheers,
+> MW
+>
+> On Mar 30, 2020, at 11:50 AM, Dominik Haas via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear Harry,
+>
+> thanks a lot for the reference, didn't know this one! Even the wrong
+> accent is noted there already.
+>
+> Well yes, mantras like these were called G?yatr?s. The matter is a bit
+> complicated though. As far as I have come to understand it, they were
+> called thus because they imitate the famous G?yatr? verse (?gveda III
+> 62.10) or are modified versions of it. But this verse acquired the name
+> ?G?yatr?? rather late (considering its own age), for the first time perhaps
+> in the Taittir?ya-?ra?yaka and then also in later additions the
+> Dharmas?tras (in the Mah?bharata, too, the verse is called G?yatr? several
+> times, especially in the later strata).
+>
+> So the point is that the modified G?yatr?s were perhaps never actually
+> thought to be in the *g?yatr?* metre (not even by its creators, whenever
+> they lived), but were only called G?yatr? because they resemble the verse.
+> I normally use *g?yatr? *for the metre and G?yatr? for the verse (I did
+> not do so in my previous email though). So the modified G?yatr?s are
+> probably not examples for metrical license, i.e., they are not *g?yatr?*
+> verses, even though they are called G?yatr?s.
+>
+> But it could very well be that some commentator explained them to be in
+> the *g?yatr?* metre, but a *g?yatr?* metre with extra syllables etc.
+>
+> Best regards,
+>
+> Dominik
+>
+> __________________
+> *Dominik A. Haas, BA MA*
+> PhD Candidate, University of Vienna
+> dominik.haas at univie.ac.at
+> ORCID 0000-0002-8505-6112
+> <https://urldefense.proofpoint.com/v2/url?u=https-3A__orcid.org_0000-2D0002-2D8505-2D6112&d=DwMDaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=D4CPG7AdYt2M9wvLgDyU9v4FiVY8uLgVd_HKq5xVfGM&s=4wYLpJsXqZ6-txptEoO0vGowbD3AByyEOEnDivti6GE&e=>
+>
+> <https://urldefense.proofpoint.com/v2/url?u=https-3A__univie.academia.edu_DominikHaas&d=DwMDaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=D4CPG7AdYt2M9wvLgDyU9v4FiVY8uLgVd_HKq5xVfGM&s=QEwobD3coXqvrhPOWcwNA-1cR5iU1MqlQFTpaqTwV0Y&e=>
+> follow my work on
+> univie.academia.edu/DominikHaas
+> <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.academia.edu_keypass_ZW5ZRXhKRStPR21EbjZXN2sycGJ3UTJBa3RXRmdzMS8xcUNsZ05BNFM1ST0tLVNHeXJFaks5aVNNTEpRb21BYkVKOFE9PQ-3D-3D-2D-2De24213c0e3c20341d456d6e3cac8b41f86179746_t_QmyD-2DNHD76Sz-2DyeiD0_followings_follow-3Ffollowee-5Fid-3D8049457-26s-3Dfollowing-5Fyou-5Fbundled-5Femail&d=DwMDaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=D4CPG7AdYt2M9wvLgDyU9v4FiVY8uLgVd_HKq5xVfGM&s=bLqhqTPAwCqY9rX-kyFhLuO99pd64sBYsxR3TXVOGFc&e=>
+>
+>
+>
+> On Mon, Mar 30, 2020 at 8:45 AM Dominik Haas via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>>
+>> Perhaps a short note on the modified ?G?yatr?s? in the
+>> Maitr?ya??-Sa?hit?: the creators of these verses simply inserted a certain
+>> deity without too much regard for metre. The non-adjusted accentuation
+>> perhaps also shows that the ?G?yatr?s? in this text are more pieced
+>> together than composed anew (*pracod?y?t* is still accented, even though
+>> it's now the verb of a main clause ? or is there another explanation?).
+>>
+> Thank you for this Dominik.
+>
+> The author in the following link, for the reasons you've mentioned and
+> because the gayatris are  mostly to later deities, argues that this section
+> of the  Maitr?ya??-Sa?hit?:   is interpolated:
+> https://books.google.ca/books?id=X0JUwf2BXVAC&pg=PA57&lpg=PA57&dq=maitrayani+samhita+x.9.1&source=bl&ots=zfBpMv9w-q&sig=ACfU3U2LME_WHFLc9K4mr4lvOD8UVoCkEg&hl=en&sa=X&ved=2ahUKEwiIuojYs8LoAhUImuAKHYHQDPEQ6AEwAHoECAkQAQ#v=onepage&q=maitrayani%20samhita%20x.9.1&f=false
+> <https://urldefense.proofpoint.com/v2/url?u=https-3A__books.google.ca_books-3Fid-3DX0JUwf2BXVAC-26pg-3DPA57-26lpg-3DPA57-26dq-3Dmaitrayani-2Bsamhita-2Bx.9.1-26source-3Dbl-26ots-3DzfBpMv9w-2Dq-26sig-3DACfU3U2LME-5FWHFLc9K4mr4lvOD8UVoCkEg-26hl-3Den-26sa-3DX-26ved-3D2ahUKEwiIuojYs8LoAhUImuAKHYHQDPEQ6AEwAHoECAkQAQ-23v-3Donepage-26q-3Dmaitrayani-2520samhita-2520x.9.1-26f-3Dfalse&d=DwMDaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=D4CPG7AdYt2M9wvLgDyU9v4FiVY8uLgVd_HKq5xVfGM&s=wp_nAROr8ZmmHizUXyUIS26tKLO2dbPIOY-F3LTGoLA&e=>
+>
+> You also asked:
+>  I wonder whether and where they are actually called G?yatr?s?
+>
+> If you do a search of the Muktabodha searchable e-text  digital library
+> for <gAyatrI> you'll see that throughout the tantric literature these types
+> of mantras are called   g?yatr? or g?yatr?matra or  the deity name
+> compounded with  g?yatr?  such as: n?si?hag?yatr?  etc. If I recall
+> correctly they are called  g?yatr? much more often than  g?yatr?mantra.
+>
+> Harry Spier
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+> Michael Witzel
+> Wales Prof. of Sanskrit, Dept. of South Asian Studies, 1 Bow
+> Street, Cambridge, MA 02138, USA
+> ph. 1 - 617 496 2990
+> witzel at fas.harvard.edu
+> www.people.fas.harvard.edu/~witzel/mwpage.htm
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200330/b2beeec4/attachment.htm>
+

@@ -1,0 +1,39 @@
+From hhhock at illinois.edu  Sun Feb 27 00:28:02 2022
+From: hhhock at illinois.edu (Hock, Hans Henrich)
+Date: Sun, 27 Feb 2022 00:28:02 +0000
+Subject: [INDOLOGY] Transliteration font for Mac 11.5.2
+In-Reply-To: <3816B9D6-57D3-4ECF-918C-A1F6235C0268@illinois.edu>
+References: <3816B9D6-57D3-4ECF-918C-A1F6235C0268@illinois.edu>
+Message-ID: <3AE51FA0-3C6D-4675-94E2-49EE4DE5BE2F@illinois.edu>
+
+Dear Friends and Colleagues,
+
+Thanks to those who already responded.
+
+In the meantime I have been able to solve the issue, and I am sharing this in case somebody else might encounter the same problem.
+
+The important thing is not the font (Gandhari Unicode), but the rendering machine ? Easy Unicode. Once that is properly installed it works, even on OS 11.5.2 (?Big Sur?).
+
+All the best,
+
+HHH
+
+
+
+> On 26 Feb2022, at 11:13, Hans <hhhock at illinois.edu> wrote:
+> 
+> Dear Friends and Colleagues,
+> 
+> My computer got infected and had to be rebuilt, with an updated version of the Mac OS. 
+> 
+> Problem: The Gandhari Unicode with its rendering machine disappeared. I was able to install the Gandhari font files, but can?t get the font to appear in the list of fonts that is accessed from the top tool bar and I can?t seem to access the required rendering machine. Further, I understand that the font is no longer supported.
+> 
+> Question: Does anyone have a solution to this problem? Specifically, a font that does the same thing as the old Gandhari Unicode? (I have mainly used the sub- or superscript circle, the subscript ?umlaut? (for the retroflex rhotic of Dravidian), and the nonsyllabicity symbol; but would like to also have access to the full range of diacritics.)
+> 
+> Hoping that some of the Indology members can help me and with all best wishes,
+> 
+> Hans Henrich
+> 
+> (Hans Henrich Hock)
+
+

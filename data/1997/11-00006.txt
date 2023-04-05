@@ -1,0 +1,44 @@
+From apandey at U.WASHINGTON.EDU  Sat Nov  1 22:48:44 1997
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Sat, 01 Nov 97 14:48:44 -0800
+Subject: Bibliography software; cross-platform-ness
+In-Reply-To: <v03110701b0814bf3e02d@[136.152.26.43]>
+Message-ID: <161227033374.23782.7374217902501288900.generated@prod2.harmonylists.io>
+
+On Sat, 1 Nov 1997, B. Reusch wrote:
+
+> [1] Does anyone use a database to store their biblio's -- with different
+> layouts for different purposes, etc. ? If so, how do you get your DB and WP
+> software to cooperate?  Since I'm a Mac user, I'm primarily interested in
+> Mac (AppleEvents, etc.); still, the question is open to the users of all
+> platforms.
+
+There is a program affiliated with TeX called BibTeX which enabkes one to
+store bibliographies in a database. Items are stored using entry fields
+like "book", "manual", "procedings", etc. Under which several variables
+like "title", "author", "edition", "publisher", etc. may be placed. The
+resulting bibliographic database can then be read by TeX and processed
+according to the desired format, ie "Chicago Manual of Style, "MLA", etc.
+
+The database itself, like everything else in TeX, is in plain text format,
+and can thus be ported, like everything else in TeX, across various
+platforms. Features such as accents are supported, but I have not yet
+experimented with non-Roman script packages.
+
+There are numerous bibliographic style packages which format the data
+according to a specific style or convention, but in the case that a
+package for a certain style does not exist, you can create one from the
+primary template. This, however, requires a bit of work.
+
+There is a TeX port for Macintosh called OzTeX. I don't know too much
+about it, but OzTeX is in </tex-archive/systems/mac/oztex/> from the CTAN
+(Comprehensive TeX Archive Network) archive. Further information on BibTeX
+is also available from CTAN in the </tex-archive/biblio/> directory.
+The CTAN sites are <ftp://ftp.tex.ac.uk/> and <ftp://ftp.dante.de/>.
+
+Regards,
+Anshuman Pandey
+
+
+
+

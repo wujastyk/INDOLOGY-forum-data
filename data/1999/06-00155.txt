@@ -1,0 +1,99 @@
+From hhhock at STAFF.UIUC.EDU  Thu Jun 10 17:33:57 1999
+From: hhhock at STAFF.UIUC.EDU (Hans Henrich Hock)
+Date: Thu, 10 Jun 99 12:33:57 -0500
+Subject: Is "Sanskrit" Dravidian ?
+In-Reply-To: <375FE7EF.A364BF66@online.no>
+Message-ID: <161227050149.23782.8716601119745279069.generated@prod2.harmonylists.io>
+
+Not to belabor the obvious, but here goes:
+
+There are good reasons for taking historical linguistics and philology
+seriously, because in many cases that's the only way we can distinguish
+between accidental resemblances and borrowings on one hand and genuine
+cognates or inherited words on the other.
+
+Skt. _saMskRta-_ (stem), nom./acc. sg. _saMskRtam_, is transparently
+derived from the Skt. morphemes _sam-_ 'together, complete(ly)' and
+_(s)kR-_ 'make, do', resulting in the compound meaning 'polished, refined'.
+_SaMskRta-_ thus is differentiated from _praakRta-_ 'basic, natural, etc.'
+and, by implication, 'vernacular, not refined'.  Both the shape and the
+meaning of the word, thus, are explained by derivation from Sanskrit
+morphemes, which themselves are of Proto-Indo-European heritage.  Note
+further that the _-am_ of the word is morphologically complex, consisting
+of the stem suffix _-a-_ and the case ending _-m_, both again of
+Proto-Indo-European heritage (this is what Fosse alludes to by comparing
+the Latin ending _-um_ and the Greek _-on_).  It's similarity to
+_sanmuk/gam_ thus is accidental.
+
+But more than that, although Tam. etc. _saNmuk/gam_ may sound like a
+quintessentially Dravidian word, and its _-am_ certainly is Dravidian, the
+stem is derivable from Sanskrit elements (SaNmukha- < SaT 'six' and mukha-
+'face, head') and not from Dravidian or Austric. Here again, serious
+linguistic research leads us to question assumptions based on superficial
+inspection.
+
+This is not to deny the existence of words of Dravidian or Austric origin
+in Sanskrit.  There has been a lengthy discussion on this issue, both for
+the earliest, Vedic period and for later times; the upshot being that there
+are words which everybody would agree to be of Dravidian or Austric origin
+(e.g. Skt. _laa.ngala-_ 'plough') and others on which opinion is divided.
+(Words of the latter type, of course, cannot be used either for or against
+Dravidian or Austric origin of particular Sanskrit words.)
+
+Significantly, the vast majority of the basic lexical and morphological
+elements of Sanskrit is of Indo-European origin, and the corresponding
+words or morphemes in Dravidian and Austric languages are markedly
+different.  Consider for instance the Dravidian and Sanskrit words for 'I'
+and 'and, also':  naan : aham, -um : ca.  This difference precludes the
+wholesale derivation either of Sanskrit from Dravidian or Austric (Samar
+Abbas's favorite proposal) or of Dravidian or Austric from Sanskrit
+(favored by people like Frawley or Rajaram).
+
+As they say in the vernacular, "facts is facts".
+
+abhivaadaye sarvaan,
+
+Hans Henrich Hock
+
+(asuraa maa bhuumety adhyeyaM vyaakaraNam)
+
+
+>> >
+>> > Samar, why don't you get yourself Colson's Teach Yourself Sanskrit?
+>>Then you
+>> > would immediately know that "Sanskrtam" has nothing to do with
+>>Dravidian, and
+>> > that the ending -am is a very common ending for skt. nouns.
+>> >
+>>
+>> Yes, but Sanskrit is an Indian language.  Maybe it would be more
+>> relevant if -am was a common ending for IE nouns.
+>
+>That, Paul, is precisely the point: -am is the Sanskrit equivalent of
+>Latin -um and
+>Greek -on. The I.E. ending *-om becomes -am in Sanskrit.
+>
+>>
+>>
+>> And many other words are of Austric or other etymology making
+>> up the vast majority of Sanskrit words.
+>
+>Oh dear.
+>
+>Lars Martin
+
+
+Hans Henrich Hock, Director
+Program in South Asian and Middle Eastern Studies
+220 International Studies Building, MC-489
+910 S. Fifth Street
+Champaign IL 61820
+217-265-5016, 217-244-7331
+fax 217-333-6270
+e-mail hhhock at staff.uiuc.edu
+***Visit our website at:
+          http://www.uiuc.edu/providers/psames/
+
+
+
+

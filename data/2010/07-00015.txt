@@ -1,0 +1,37 @@
+From wujastyk at GMAIL.COM  Wed Jul  7 07:32:58 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Wed, 07 Jul 10 09:32:58 +0200
+Subject: etymological trends in Skt vocabulary - article
+Message-ID: <161227089888.23782.9362668878211944365.generated@prod2.harmonylists.io>
+
+Colleagues in this forum might not find this:
+
+Author(s):Hellwig, O.
+Article Title:Etymological trends in the Sanskrit vocabulary
+
+Journal Title:LITERARY AND LINGUISTIC COMPUTING
+ISSN:0268-1145
+Year:2010
+Volume/Issue:VOL 25; NUMBER 1
+Page(s):105-118
+Publication frequency:Quarterly: 4 issues per year
+
+Publisher: Great Britain : Oxford University Press
+Language:English
+Dewey Class:410.285
+LC Class:P98
+BLDSC shelfmark:5276.633430
+
+Abstract:
+
+The article examines how the etymological composition of the Sanskrit
+lexicon is influenced by time and whether this composition can be used
+to date Sanskrit texts automatically. For this purpose, statistical
+tests are applied to a corpus of lexically analyzed texts. Results
+reported in the article may contribute to the diachronic lexicography
+of Sanskrit and help to develop computational methods for analyzing
+anonymous and undated Sanskrit texts.
+
+
+
+

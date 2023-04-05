@@ -1,0 +1,49 @@
+From asg at U.WASHINGTON.EDU  Wed Oct 15 06:05:00 2003
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Wed, 15 Oct 03 15:05:00 +0900
+Subject: Tech> Gandhari Unicode ver. 2.6
+Message-ID: <161227073331.23782.17774328602073290667.generated@prod2.harmonylists.io>
+
+<My apologies for cross posting!>
+
+It has recently come to my attention that Mac OS X.2 now offers Indologists
+and Buddhologists complete Unicode access. For the first time, it seems the
+Gandhari Unicode font works equally on all major platforms (Linux, Mac,
+Windows). To celebrate this milestone I have produced a revised version of
+the Gandhari Unicode font, this time with hinting to improve the on-screen
+display at small point sizes.
+
+The GU font is available from the Early Buddhist Manuscripts Website:
+http://depts.washington.edu/ebmp/software.html#fonts
+
+Thanks to information from Michel Mohr and Toshiya Unebe I have also been
+able to provide details on how to use the Gandhari Unicode font with Mac OS
+X.2. Many additional links for using Unicode fonts with Mac, Linux, and
+Windows are also provided. There are also links to alternative Unicode
+fonts, such as Ulrich Stiehl's URW Palladio HOT, which should also work
+with Mac OS X.2.
+
+I have also fixed a bug in my Devanagari and Bengali Unicode input systems,
+which caused ks.a to decompose. Updated versions of these keyboard files
+are also available from the EBMP fonts page.
+
+Andrew Glass
+
+
+
+The Gandhari Unicode and Times Gandhari Romanization fonts are based on an
+original Postscript font called "Nimbus Roman No9 L" created by
+<http://www.urwpp.de/deutsch/home.htm>URW++ Design and Development
+Incorporated and donated to the free software community under the
+<http://www.gnu.org/copyleft/gpl.html#SEC1>GNU General Public License. The
+Nimbus Roman No9 L font is itself based on the design for Times New Roman
+by Stanley Morison (original trademark holder Monotype corporation). The
+Gandhari fonts have been extended to display the special diacritics
+necessary for Sanskrit and Gandhari and come in Roman, Italic, Bold, and
+Bold Italic styles. For details of the history and codepoints of these
+fonts see
+<http://depts.washington.edu/ebmp/downloads/GUdescription.txt>GUdescription.
+
+
+
+

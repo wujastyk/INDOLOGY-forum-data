@@ -1,0 +1,98 @@
+From mmdesh at umich.edu  Sat Sep 17 10:18:01 2016
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Sat, 17 Sep 16 06:18:01 -0400
+Subject: [INDOLOGY] Bloomfield's Vedic Concordance
+In-Reply-To: <B5946C53-3EB0-4949-B278-DA44C6D1CE5B@fastwebnet.it>
+Message-ID: <CAB3-dzeNioNqczeSauq1G4wJuoVTsos36pEnO1poJ94UTzymrA@mail.gmail.com>
+
+Thanks, Marco.
+
+Madhav
+
+On Sat, Sep 17, 2016 at 3:18 AM, Marco Franceschini <
+franceschini.marco at fastwebnet.it> wrote:
+
+> Dear Madhav and all,
+>
+> the digitization of Bloomfield?s Concordance was part of my MA thesis
+> (2001). In the original file (i.e., the one found by Madhav) a non-Unicode
+> compliant font (MacInd) was used, but later on I created a new version of
+> it using Gandhari Unicode. You can get the file through this link:
+>
+> https://www.dropbox.com/s/gxvjyij2fd4ffwf/Vedic%
+> 20Concordance%20ORI%20UNICODE.rtf?dl=0
+>
+> In the following years, I kept on working on the Concordance and finally I
+> published a considerably enhanced version of it in the Harvard Oriental
+> Series (2007). For obvious copyright reasons, I can?t circulate the HOS
+> file; however, you might want to have a look at the preview uploaded in
+> Academia
+> <https://www.academia.edu/27371779/An_Updated_Vedic_Concordance._2007_>.
+>
+> Best wishes,
+>
+> Marco
+> ---
+>
+> Marco Franceschini
+> ???????????
+> Fixed-term Researcher
+> University of Bologna
+> Department of History and Cultures
+> via Zamboni 33 - 40126 Bologna - Italy
+> marco.franceschini3 at unibo.it
+> ---
+>
+> Il giorno 17/set/2016, alle ore 01:49, Harry Spier <
+> hspier.muktabodha at gmail.com> ha scritto:
+>
+> I made a text file in Harvard-Kyoto transliteration for my own use. Since
+> it is a text file and in a transliteration that doesn't use diacriticals it
+> can be read on any platform without any special fonts installed and can be
+> searched with any text editor or word processor.
+>
+> If anyone wants a copy then let me know.
+>
+>
+> Regards,
+> Harry Spier
+>
+> On Fri, Sep 16, 2016 at 7:15 AM, Madhav Deshpande <mmdesh at umich.edu>
+> wrote:
+>
+>> Hello Indologists,
+>>
+>>      I found a digital version of Vedic Concordance that uses the Macind
+>> font.  I am wondering how I can get a Unicode version.  Also someone had
+>> prepared a Stardict version of Vedic concordance (
+>> bloomfield-vedic-sa.tar.gz
+>> <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fvvasuki%2Fstardict-sanskrit%2Fraw%2Fmaster%2Fsa-head%2Ftars%2Fbloomfield-vedic-sa.tar.gz&sa=D&sntz=1&usg=AFQjCNGtVtaJJBhjebEFF6G4zIJY_9yCYA>),
+>> listed in some old messages, but I am not able to download one.  Any help?
+>>
+>> Madhav Deshpande
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160917/75dd3497/attachment.htm>
+

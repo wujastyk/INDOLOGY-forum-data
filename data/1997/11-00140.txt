@@ -1,0 +1,97 @@
+From bhk at HD1.VSNL.NET.IN  Fri Nov 14 13:43:55 1997
+From: bhk at HD1.VSNL.NET.IN (Bh. Krishnamurti)
+Date: Fri, 14 Nov 97 18:43:55 +0500
+Subject: Roman transliteration of Tamil n's
+Message-ID: <161227033645.23782.16284763119258956215.generated@prod2.harmonylists.io>
+
+Dental n alveolar n are members of the same phoneme. Only in a few cases of
+contrast within Old Tamil they need to be marked separately as n and _n/n'.
+For Proto-Dravidian reconstruction we need only one n. Then we have
+retrroflex N and palatal ~n which must be marked separately.
+Ganesan's postscript is confusing:
+"PS: Of course, Tamil has three l's: l (dental), L (alveolar), z (retroflex)
+     and two r's: r (alveolar) and R (retroflex)".
+There are only two laterals l (alveolar) and L (retroflex); Z witten
+differently  as _l  in Tamil Lexicon, r with two dots below by DEDR and as z
+with subdot by many including me is a retoflex frictionless continuant
+(similar to Midwestern American r). The two r's are: r= alveolar flap or
+single tap; R/_r is an alveolar trill which developed from Proto-Dravidian
+alveolar stop in the intervocalic position. Like Old Tamil,Old Telugu and
+Old Kannada also had two r's but in modern languages there is only one; the
+trill R merged with the flap r. Only Tamil scholars try to distinguish the
+two in reading. In some cases older n_t became n_r in Old Tamil, Old Telugu,
+and the other South-Central Dravidian languages,e.g. Old Tamil muunRu (mdn.
+muuNN.u), Old Telugu muunRu, later muuNDu/muuDu, KonDa muunRi 'three'.
+Bh.Krishnamurti.
+
+At 10:32 13/11/97 -0600, you wrote:
+>       Roman transliteration of dental, alveolar and retroflex n's of Tamil
+>      **********************************************************************
+>
+> There are three n's in Tamil consonants. In regular English typewriter
+> keyboards, dental n is represented as n or n^, alveolar n is represented
+> as n or n2 or n_,  retroflex n is represented by N. The actual choice
+> depends on the user preference. For example, University of Koeln
+> website of Tamil classical texts uses the n, n2, N scheme.
+>
+> The three usual schemes for dental, alveolar and retroflex n's are:
+>     1) n^, n, N
+>     OR
+>     2) n, n2, N
+>     OR
+>     3) n, n_, N
+>
+> Tamil transliterations with just a regular typewriter keyboard
+> will be even more elegant without the use of eyesores, n^ or n2 or n_ .
+> Tamil grammar specifically states where dental n will occur.
+> The dental and alveolar n's are predictable 99% of the time.
+>
+>
+>
+>    For Roman transliteration (and transcribing from Roman to
+>  Tamil script or vice versa in word processing)
+>
+>   Instead of n^, n and N (for example),
+>     we can use just n and N most of the time
+>         with the understanding that
+>          a) 'n' in the beginning of words means dental n,
+>          b) 'n' followed by 't' means dental n.
+>          c) dental n can occur in a few more instances.
+>             Here, dental n will be written explicitly (like n^)
+>             Examples of nonstandard occurence of dental n:
+>               Sanskrit loans like an^uraakam, cin^Ekitan, an^ucitam,
+>               Tamil words like verin^, iyakkun^ar, paaTun^ar
+>        NOTE: (a) and (b) will determine the position of dental n
+>               more than 97% of the time.
+>
+> Algorithom:
+>
+> IF {
+>     n occurs in the beginning of words
+>      .OR.
+>     n is followed by t
+>       .OR.
+>     occasionally, dental n is explicitly needed
+>       in some places like sanskrit loans,}
+>
+>   THEN { n = dental n}
+> ELSE
+>      n = alveolar n
+>
+>
+>  What do you think of this? This way, n and N can be used in most situations.
+> No need to distinguish between dental and alveolar n in Roman transliteration.
+> Only occasionally in a Roman transliterated Tamil text, we will have to use a
+> separate symbol for dental n.
+>
+>  N. Ganesan
+>  nas_ng at lms420.jsc.nasa.gov
+>
+> PS: Of course, Tamil has three l's: l (dental), L (alveolar), z (retroflex)
+>     and two r's: r (alveolar) and R (retroflex).
+>
+>
+
+
+
+

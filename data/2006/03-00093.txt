@@ -1,0 +1,36 @@
+From arlo.griffiths at LET.LEIDENUNIV.NL  Thu Mar 23 11:22:27 2006
+From: arlo.griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
+Date: Thu, 23 Mar 06 12:22:27 +0100
+Subject: Fwd: Vedic Accents and Unicode
+Message-ID: <161227077703.23782.13958779293734071145.generated@prod2.harmonylists.io>
+
+Forwarded on behalf of Kengo Harimoto.
+
+Arlo Griffiths
+
+Begin forwarded message:
+
+> From: Kengo Harimoto <kengoharimoto at mac.com>
+> Date: March 23, 2006 10:59:33 AM GMT+01:00
+> To: Arlo Griffiths <arlo.griffiths at let.leidenuniv.nl>
+> Subject: Re: Vedic Accents and Unicode
+>
+>> But in the present Unicode standard (as far as I know) the  
+>> underring characters are not defined.
+>>
+>
+> They have  COMBINING RING BELOW (unicode 0325/UTF8 CCA5).  I can  
+> produce  l? and r? using the latter.  Some fonts, applications, or  
+> displaying systems may not display properly, but that's a different  
+> issue.
+>
+> As for Devanagari Vedic accents, there are at least Unicode 0951  
+> (DEVANAGARI STRESS SIGN UDATTA) like in ?? and 0952 (DEVANAGARI  
+> STRESS SIGN ANUDATTA) ??.
+>
+> -- 
+> kengo harimoto
+
+
+
+

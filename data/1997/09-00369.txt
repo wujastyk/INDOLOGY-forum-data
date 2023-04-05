@@ -1,0 +1,36 @@
+From Toru.Tomabechi at ORIENT.UNIL.CH  Sun Sep 28 13:50:49 1997
+From: Toru.Tomabechi at ORIENT.UNIL.CH (Toru Tomabechi)
+Date: Sun, 28 Sep 97 15:50:49 +0200
+Subject: Emacs + devanagari
+In-Reply-To: <Pine.A32.3.95.970928123825.66357G-100000@link-1.ts.bcc.ac.uk>
+Message-ID: <161227032798.23782.14662832688801811784.generated@prod2.harmonylists.io>
+
+Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
+
+> In case you have missed the announcement, I am informed that there is a
+> new version of Emacs (v 20.2).  It now has international language support
+> built in as a standard. It supports Devanagari and a lot of other Asian
+> languages and scripts.
+>
+> Dominik
+>
+
+The Devanagari implementation on Emacs 20.2 still has some bugs in
+treatment of avagraha and vocalic r. The implementor privately
+informed me that this will be fixed in the next release (i.e.,
+ver. 20.3).  It seems that the patch to fix this problem has already
+been sent to Richard Stallman, the maintainer of GNU Emacs.
+
+As the re-installation process of Emacs is a somewhat tedious task, it
+would be better to wait the next version.
+
+(I myself am the implementor of the Tibetan language support on GNU
+Emacs 20. I will be glad if the users send me comments about my
+Tibetan implementation.)
+
+Toru Tomabechi
+University of Lausanne
+
+
+
+

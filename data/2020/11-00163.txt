@@ -1,0 +1,38 @@
+From vasishtha.spier at gmail.com  Tue Nov 24 23:05:40 2020
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Tue, 24 Nov 20 18:05:40 -0500
+Subject: [INDOLOGY] Academia.edu and privacy issues
+Message-ID: <CAJ3b0o_T9bHzECpw_WpzU0mTkqQOXnOx+6QuGidG+VAJx6HyTg@mail.gmail.com>
+
+Dear list members,
+I'm sharing this with the list since so many members also use
+Academia.edu.
+
+A while back I had an email exchange with a list member and the same day I
+received an email from Academia.edu highlighting a paper by the list member
+I'd just been emailing.  Today I received an email from a colleague not a
+member of Academia.edu. That email discussed a particular hymn and had the
+hymns name in the email title.  Within 15 minutes of receiving that email,
+I received an email from Academia.edu highlighting an article about the
+hymn I'd just been emailed about.
+
+I use Gmail.  I think this means that if you are a Academia.edu member and
+also a gmail user, then  Academia.edu knows who and when you email someone
+or someone emails you, the title of the email and possibly the contents of
+the email.
+
+As far as I can see looking at the Gmail privacy, Gmail doesn't say they
+don't share email contents and I think  to join Academia.edu you have to
+give them access to your contents list.
+
+I've removed Academia.edu from access to my contacts list and hopefully
+this will solve the problem.
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201124/afa070b2/attachment.htm>
+

@@ -1,0 +1,157 @@
+From klaus.karttunen at HELSINKI.FI  Thu Feb 19 08:55:58 2009
+From: klaus.karttunen at HELSINKI.FI (Klaus Karttunen)
+Date: Thu, 19 Feb 09 10:55:58 +0200
+Subject: frequencies
+In-Reply-To: <eceac9c00902190028g4c9d5f59je545a38d7dd86d41@mail.gmail.com>
+Message-ID: <161227084962.23782.2563093183449010227.generated@prod2.harmonylists.io>
+
+It would be interesting to study the roots of the common Sanskrit  
+dictionaries. The influence of B?htlingk & Roth has been enormous,  
+but there were other sources, notably the famous early Sanskrit- 
+English dictionary edited by H. H. Wilson (1819, 2nd ed. 1831). Long  
+ago I was checking the definition of some ritual terms in various  
+dictionaries and noted that Apte had often copied, in a slightly  
+condensed form, the very words of some longer definitions from  
+Wilson. By the way, Wilson is the dictionary R?ckert is said to have  
+copied by hand as the book was too expensive.
+
+Klaus Karttunen
+
+On Feb 19, 2009, at 10:28 AM, Jan Houben wrote:
+
+> At present, practically all sanskrit lexicographic works published in
+> Europe, India or elsewhere is for up to 90-100% based on the work  
+> done from
+> 1855-1875 by Otto B?htlingk and Rudolph Roth (!)
+> It is well-known that this applies to Monier-Williams' dictionary  
+> (see his
+> own introduction which understates his dependency), but it also  
+> applies
+> to seemingly independent works such as V.S. Apte's Skt-English  
+> dictionary,
+> and to a lesser extent even Taranath Tarkavacaspati's Vacaspatyam  
+> (1873) --
+> which is now being digitized in a project by Varakhedi et al. -- is
+> "contaminated" with hypothetical etymologies of B?htlingk&Roth. Before
+> statistics can be done on sanskrit words we have to answer the  
+> question: on
+> which level? Do we consider bhuutasya independent and different  
+> from bhuute;
+> and from bhavati? On the root-level, rough indications of  
+> frequencies --
+> largely based on B?htlingk's and Roth's indications -- are given in
+> Whitney's Roots ... (grammarians' roots = very rare or  
+> hypothetical; V+ =
+> present in Vedic and later texts; etc.).
+> The primary need for sanskrit studies before or together with a  
+> frequency
+> analysis of words within a certain sanskrit corpus (taking into  
+> account
+> dhaatus and ga.nas) would perhaps be the setting up of a Sanskrit  
+> WordNet,
+> as already exists for Hindi (on the IIT Bombay website,
+> http://www.cfilt.iitb.ac.in/wordnet/webhwn/index.php; sequence  
+> within synset
+> according to relative frequency). On verbal roots to be used in a  
+> Sanskrit
+> WordNet see contribution of M. Kulkarni and P. Bhattacharya to the  
+> second
+> International Symposium on Sanskrit Computatinal Linguistics  
+> accessible
+> through http://www.sanskritlibrary.org/Symposium. Oliver Hellwig's  
+> site (
+> sanskritreader.de) can be used to get (absolute) frequencies of  
+> words --
+> from general, syntactical to technical, from ca to paarada -- in  
+> texts of
+> the very specific domain of rasavidyaa.
+>
+> Jan Houben
+>
+> On Tue, Feb 17, 2009 at 2:31 PM, Dipak Bhattacharya <
+> dbhattacharya2004 at yahoo.co.in> wrote:
+>
+>> A few hours' intensive work with Grassmann's Woerterbuch zum  
+>> Rigveda may
+>> give a picture of the Rgveda regarding frequency. Grassmann also  
+>> notes the
+>> immediately related words. As a source material more spread out in  
+>> time and
+>> space (and not informing the context) will be the VVRI Sa.mhitaa  
+>> Index The
+>> task too will be more time consuming with it. I have no access to  
+>> the new
+>> index by A.Lubotsky's and cannot tell how far and whether at all  
+>> it develops
+>> upon Grassmann.
+>> Kuiper gives some statistics of words of non-Vedic origin in  
+>> Aryans in the
+>> Rigveda, 1991, Amsterdam selectively but with precision, and  
+>> obviously,
+>> often without reference to the parts of speech or context.  
+>> Hoffmann had the
+>> habit of giving statistics relating to the words he dealt with. The
+>> statistics of the adverbial and nominal use with full and comparative
+>> account of the circumstances of occurrence of angiras and angirasva 
+>> (n)t in
+>> the Rgveda was dealt with in Mythological and ritual symbolism,  
+>> Calcutta
+>> 1984. Statistics of the function and employment of the ablative with
+>> pronominals in the Rgveda and Atharvaveda may be found in 'The  
+>> Veds Texts,
+>> Language and Ritual' Groningen 2004: 181--215. Unfortunately I  
+>> have not
+>> access to  most of the works of T.Elizarenkova but her 'An  
+>> approach to the
+>> description of the contents of the Rgveda'(M?langes d'indianisme a  
+>> l m?moire
+>> de Louis Renou) is an imaginative ground work on which a part of  
+>> the desired
+>>  type of statistics can be attempted. Gonda (Epithets in the Rgveda)
+>> evaluates the epithets more qualitatively than quantitatively but  
+>> it can be
+>> used for the desired purpose.
+>> All the statistically surveying studies known to me are mostly  
+>> specific on
+>> meaning, form, mytheme etc and many belong to the level of text- 
+>> study.
+>> But studies dealing with various parts of speech should exist
+>> DB
+>>
+>>
+>> --- On Tue, 17/2/09, Alexandra Vandergeer <geeraae at GEOL.UOA.GR>  
+>> wrote:
+>>
+>> From: Alexandra Vandergeer <geeraae at GEOL.UOA.GR>
+>> Subject: frequencies
+>> To: INDOLOGY at liverpool.ac.uk
+>> Date: Tuesday, 17 February, 2009, 1:27 PM
+>>
+>> Dear Sanskritists,
+>>
+>> Did anyone ever compile a frequency list of Sanskrit nouns, verbs and
+>> adjectives in terms of use per 1000 lemmas?
+>>
+>> Alexandra van der Geer
+>>
+>>
+>>
+>>      Add more friends to your messenger and enjoy! Go to
+>> http://messenger.yahoo.com/invite/
+>>
+>
+>
+>
+> -- 
+> Prof. Dr. Jan E.M. Houben,
+> Directeur d Etudes ? Sources et Histoire de la Tradition Sanskrite ?
+> Ecole Pratique des Hautes Etudes, SHP,
+> A la Sorbonne,45-47, rue des Ecoles,
+> 75005 Paris -- France.
+> JEMHouben at gmail.com
+> www.jyotistoma.nl
+>
+
+
+
+

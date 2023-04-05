@@ -1,0 +1,79 @@
+> >From csr at wipro.com Wed Sep 20 13:05:59 1995
+> Date: Wed, 20 Sep 1995 11:57:55 +0800
+> From: csr at wipro.com (Raghavendra C Swamy)
+> Message-Id: <9509201857.AA03158 at wipro.com.wipro>
+> To: sanskrit at keshav.informix.com
+> Subject: Gita at FTP site.
+> X-Sun-Charset: US-ASCII
+> 
+> priyaH sa.nskritapriyAH,
+> 
+> The files listed at the end of this message are kept temporarily on the
+> anonymous ftp site's tmp/san subdirectory.  To access them type
+> 
+> ftp ftp.uu.net
+> anonymous                   for userid or name
+> your email address          for password
+> cd tmp/san                  change directory
+> dir                         to list the files
+> asc                         to set ascii mode
+> get fn.fext                 to get a file, repeat for others
+> quit                        to exit
+> 
+> Files are kept at least for few days.
+> 
+> Some of the files are also available at ftp ftp.eskimo.com in
+> u/j/jai/Geeta subdirectory.
+> 
+> If you do not have FTP access, please let me know so that I can
+> email text files you want.
+> 
+> Thanks,
+> 
+> Raghavendra Swamy
+> csr at wipro.com
+> 
+> 
+> ***************
+> All files are ascii, unless they have extensions .Z or .gz .
+> 
+> allgita.asc        Text file of types of different Gita-s.
+> allgita.itx        ITRANS input file of types of different Gita-s.
+> allgita.ps         Postscript file of types of different Gita-s.
+>                            Devanagari and English printout
+> bhagavadgita.s     Bhagavadgita in sanskrit transliteration
+> bhagshab.itx       ITRANS input file of sanskrit words' list of
+>                            Bhagavadgita (sanskrit transliteration)
+> bhagshab.ps        Postscript file of sanskrit words' list of
+>                            Bhagavadgita (in Devanagari)
+> bhagvad.itx        ITRANS input file of Bhagavadgita (sanskrit transliteration)
+> bhagvad.ps         Postscript file of Bhagavadgita (Devanagari)
+> gita_meaning.ps    Postscript file of English meaning of Bhagavadgita
+> gita_meaning.tex   LaTeX formatted input of English meaning of Bhagavadgita
+> gita_meaning.txt   Ascii/Text file of English meaning of Bhagavadgita
+> san.itx            ITRANS input file of sanskrit speaking camp experience
+> san.ps             Postscript file of sanskrit speaking camp experience
+> ***************
+> 
+> 
+> 
+
+-- 
+
+Dominik Wujastyk,
+Wellcome Institute,
+183 Euston Road,
+London NW1 2BE.
+
+FAX: +44 171 611 8545
+email: d.wujastyk at ucl.ac.uk
+
+For my PGP public key etc., see my WWW home page:
+http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
+
+ 
+
+
+
+
+

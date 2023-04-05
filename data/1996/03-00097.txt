@@ -1,0 +1,69 @@
+From MDSAAA48 at GIASMD01.VSNL.NET.IN  Sat Mar  9 02:30:32 1996
+From: MDSAAA48 at GIASMD01.VSNL.NET.IN (MDSAAA48 at GIASMD01.VSNL.NET.IN)
+Date: Sat, 09 Mar 96 07:30:32 +0500
+Subject: Changes in INDOLOGY??
+Message-ID: <161227023279.23782.15465280466535154579.generated@prod2.harmonylists.io>
+
+Dear Dominik,
+
+I wholeheartedly endorse the recommendations of Prof. Witzel. The problem
+is analogous to the debate in the USA on the V-chip to control violent TV shows
+not suitable for children. There are all types of printed media; it is for
+the discerning buyer to decide on what magazines he wants to pick up from
+the news stand. So too on the internet newsgroups; the core interest group
+will last out the transient spammers. Regards. Kalyanaraman.
+
+>
+>Dear Dominik,
+>
+>Other than proposed by some, it is not necessary at all to turn Indology 
+>into a closed list in order to solve the problem of spamming, etc. 
+>
+>The following option has not been considered:
+>
+>The usual way to filter spamming out of mailing lists is to install a
+>"filter", a custom script which scans incoming mail for keywords, and
+>rejects a message if one or more keywords are found.Such scripts are very
+>easy to write and install, and many are freely available, as usual, on the
+>Internet. 
+>
+>Such a filter posted on the SmartList mailing list a few months ago. It
+>filters out the us[Aual spamming, including the "Free one-year magazine
+>subscription" messages that are almost the only spamming I've seen on
+>Indology. 
+>
+>These scripts are highly customizable. To solve some of the other problems
+>one could, easily, include such keywords as "khajuraho"/"chaos" ( etc.) to
+>turn away the more inane messages, -- in case it really becomes necessary,
+>though I personally would not advise to do so on the spur of the moment... 
+>
+>
+>So, *no need* to "close" the list, certainly not from a technical point of
+>view. Every mailing list and newsgroup on the Internet has to deal with
+>spamming, etc. but very few of them are moderated. 
+>
+>
+>I think this solves our problem.
+>
+>
+>Best wishes, 
+>
+>M. Witzel
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+
+
+
+

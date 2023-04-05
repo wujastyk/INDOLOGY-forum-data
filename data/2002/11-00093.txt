@@ -1,0 +1,91 @@
+From GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE  Tue Nov 26 07:49:18 2002
+From: GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
+Date: Tue, 26 Nov 02 07:49:18 +0000
+Subject: CSX+ ... and GRETIL
+Message-ID: <161227071783.23782.9161830858526511603.generated@prod2.harmonylists.io>
+
+Dear list members,
+
+
+Ulrich Stiehl's personal score is 1,200 requests for "Itranslator"
+against 10 / 5 for his CSX+ / REE fonts, which leads him to the
+conclusion that "the files available from the GRETIL site ... are
+destined for a minority of approx. 15 indologists worldwide."
+Think of them what you will, but they certainly are busy bees,
+each and every one of them having to visit the GRETIL site an average
+of 26 times a day - if I may throw in a bit of statistics, too.
+
+
+But maybe it's a different ball game altogether. For a start, we
+should distinguish between fonts and encodings: Although I'm
+one of the dinosaurs who, for want of alternatives, use REE
+encoding for certain jobs, I haven't used an REE-based font since
+around 1989, - and, for reasons explained to Ulrich Stiehl on earlier
+occasions, have no intention of doing so in future. And as I infer
+from Dominik Wujastyk's response, there does not seem to be a
+pressing demand for a new CSX+ font either.
+
+
+As for encodings, to me REE - like CSX(+) - is just one way of
+coping with THE congenital defect of the "personal computer": 437,
+the mother of all codepages, was shaped according to the needs of the
+English-speaking parts of the world, and later attempts to patch
+it up may differ in elaborateness, but not in principle. Anyway,
+for the basic needs of GRETIL, one encoding is as good as any
+other, as long as it is unambiguous. As for fonts, if Ulrich Stiehl
+feels called upon to design fonts for REE and CSX+, that's all
+very fine, but it has little to do with GRETIL's three basic
+principles: no frames, no frills, no font packages. And, most
+importantly, it should not be forgotten that GRETIL is only
+intended as a reference tool!
+
+
+The practical reasons why I opted for REE encoding as a
+platform are explained in the introduction:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_ree.htm#Intro
+In addition, CSX(+) not only covers the characters needed for
+Dravidian languages etc., it also provides a much broader basis of
+communication: I have no idea how many of you actually use
+CSX(+), but I have reason to assume that many know how to
+handle it, i.e., convert it to the encoding of choice.
+
+
+It goes without saying that GRETIL cannot cover the entire
+range of encodings used for Indian languages. But as it happens,
+two more were intended to follow shortly, i.e., Kyoto-Harvard (KyH)
+and UTF-8 (Roman). More on this soon to follow in a separate message.
+
+
+
+Best regards
+
+Reinhold Gruenendahl
+
+
+P.S. Please, don't follow up the KyH and UTF-8 links presently
+hidden in the source code of the GRETIL archive pages. Until
+further notice, this will only produce error messages!
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Goettingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+
+

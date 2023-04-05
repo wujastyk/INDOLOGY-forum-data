@@ -1,0 +1,38 @@
+From madhava at CH1.VSNL.NET.IN  Sun Mar 22 18:19:21 1998
+From: madhava at CH1.VSNL.NET.IN (Viktor V. Sukliyan)
+Date: Sun, 22 Mar 98 23:19:21 +0500
+Subject: Re Gurmukhi Alphabetic Order?
+In-Reply-To: <01bd5372$130c6b00$0fcc91d0@cs>
+Message-ID: <161227036974.23782.14433415041473224878.generated@prod2.harmonylists.io>
+
+On   Thursday, March 19, 1998 James E. Agenbroad wrote
+
+<<Could someone tell my why in the Gurmukhi script 'sa' and 'ha' come
+before 'ka' instead at the end as with other Brahmi based scripts? I do not
+plan to interfile Panjabi with other scripts soon; it's just an anomaly
+I'd like to understand if possible.  Thank you.
+
+     Regards,
+          Jim Agenbroad ( jage at LOC.gov )
+     The above are purely personal opinions, not necessarily the official
+views of any government or any agency of any.
+Phone: 202 707-9612; Fax: 202 707-0955; US mail: I.T.S. Dev.Gp.4, Library
+of Congress, 101 Independence Ave. SE, Washington, D.C. 20540-9334 U.S.A.>>
+
+Jim, as I know it'll be historically mistaken to look up origin of
+Gurmukhi script in Brahmi based scripts. It is well-known that sikhs
+gurus invented scripts with purpose to put into code their military and
+business plans.
+Initially they used landA language-code. Gradually it was sanskritisised
+and transformed in Gurmukhi. The cause is that Punjabi was only spoken
+language at that times. Written languages were either Urdu(mostly) or
+Hindi (very less). Bible of Sikhism-Guru Grant Sahib was originally
+compiled in one variety of medieval Hindi. Later on it was rewritten in
+specially designed Gurmukhi and Urdu (of course) to make it easily
+understandable by layman of Gurdwaras.
+
+Viktor Sukliyan.
+
+
+
+

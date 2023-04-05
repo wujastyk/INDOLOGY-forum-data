@@ -1,0 +1,96 @@
+From perichandra at YAHOO.COM  Sun Apr 18 03:30:37 1999
+From: perichandra at YAHOO.COM (Periannan Chandrasekaran)
+Date: Sat, 17 Apr 99 20:30:37 -0700
+Subject: Day is night in Dravidian?
+Message-ID: <161227048131.23782.420286957174326050.generated@prod2.harmonylists.io>
+
+--- Sudalaimuthu Palaniappan <Palaniappa at AOL.COM> wrote:
+> DEDR 3656 has Ta. nAL day, early dawn, forenoon..etc. What DEDR does
+> not list
+> is the word naTunAL, a compound of naTu + nAL  meaning midnight
+> instead of
+> midday. In fact, the following CT usage clearly contrasts naTunAL and
+> pakal
+> (daytime).
+>
+> "naTUnAL yAmattum pakalum tuJcAn2" (puRanAn2URu 189.3)
+There are quite a few other instances of such CT usage also:
+
+"kai amai viLakkam nantu toRum mATTa
+neTu nA OL maNi nikazttiya naTunAL" (mullaipppATTu:49-50)
+
+meaning (n.in2iyar) "... lighting [the torches] held in their hands
+whenever the lamps [fed by oil] die out during the mid might
+signalled by the ringing of the bell with the long tongue..".
+The commentator naccin2Arkkin2iniyar translates naTunAL
+as "naTu yAmam" whre naTu = middle and yAmam = night.
+
+> If we also consider that DEDR 3621 has Ta. naL meaning 'night', we
+> can see
+> that at first the word "nAL" (derived from the root *naL- meaning 'to
+> be
+> dark') must have meant 'night'. Then, how did it come to mean 'day'?
+> Another
+> meaning of "nAL" not listed by DEDR but preserved in Tamil and
+> Malayalam is
+> 'daily lunar asterism' more explicitly referred to as "nALmIn2", a
+> compound
+> of "nAL" and 'mIn2", where "mIn2" is from *min2- to flash, glitter,
+> etc. (See
+> DEDR 4876). It looks like the astronomical knowledge of lunar
+> asterism seems
+> to have formed the basis for naming the whole interval between the
+> corresponding times of successive nights as "nAL".  DEDR 3621 and
+> 3656 have
+> cognates in south, central and north Dravidian subgroups. That means
+> the
+> astronomical observations by Dravidian speakers must have a very
+> ancient
+> history. Comments are welcome.
+>
+> Are there other languages where the word for day is based on the word
+> for
+> night?
+>
+> Regards
+> S. Palaniappan
+>
+
+Actually the word "nAL" itself stands for daily lunar asterism without
+the assistance of teh word "mIn2":
+"nALoTu peyariya vizu marattu" (neTunalvATai 82)
+where the commentator n.in2iyar translates "nAL" as
+"the asterism uttaram" as in "uttaram e2nn2um nALin2 peyar peRRa".
+
+Another classical text uses the words "nAL mIn2" and "kOL mIn2"
+to distinguish between lunar asterisms and planets showing that "nAL"
+means asterism and "kOL" planet:
+"nIl niRa vicumpin2 valan2 Erpu tiritaru
+nAL mIn2 virAya kOL mIn2 pOla" (paTTin2appAlai: 67-68)
+
+meaning "...like the planets, dispersed amidst the lunar asterisms,
+traversing clockwise in the blue sky..".
+
+paripATal:
+"villin2 kaTai makaram mEvap pAmpu ollai
+mathiyam maRaiya varum nAL" (paripATal: 11:9-10)
+commentator parimElazakar says
+ "...on the [aviTTam] asterism when [saturn] aligns with makaram
+ which is next to sagittarius and [rAhu] hides the full moon".
+here nAL = asterism specifically aviTTam.
+
+tolkAppiyam lays down sandhi rules involving words for asterisms:
+
+"nAL mun2 tOnRum tozil nilaik kiLavikku ..." (tolk #247:ezut:uyir may.)
+
+"nAl peyar kiLavi mEl kiLantan2n2a ..." (tolk #331:ezut:puLLi may.)
+
+Regards
+Chandra
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+
+

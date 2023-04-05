@@ -1,0 +1,32 @@
+From narayana at HD1.VSNL.NET.IN  Sat Oct 31 18:54:47 1998
+From: narayana at HD1.VSNL.NET.IN (DEVARAKONDA VENKATA NARAYANA SARMA)
+Date: Sat, 31 Oct 98 23:54:47 +0500
+Subject: Testing devanagari script in e-mail
+In-Reply-To: <01be04fa$c933c1a0$0ecc91d0@cs>
+Message-ID: <161227042141.23782.5841570337620980676.generated@prod2.harmonylists.io>
+
+Yes.  Mr.John Richard also reported that in Outlook Express
+xdvng part did not come out automatically. He says that if
+<PRE> from the .htm file is removed it works. In Eudora light
+ver 3.0.6 and Netscape Message it can be read direcly without
+any clicking of the .htm file and xdvng part also is coming out
+correctly.
+
+regards,
+
+sarma.
+At 12:17 PM 10/31/98 -0600, you wrote:
+>    I do have xdevng installed but it does not  automatically use it. I can
+>copy to Word and change the font then it is ok. I  use  IE 4 with outlook
+>express. -----Original Message-----
+>From:      <narayana at HD1.VSNL.NET.IN>
+>To:      INDOLOGY at LISTSERV.LIV.AC.UK<INDOLOGY at LISTSERV.LIV.AC.UK>
+>Date:      Friday, October 30, 1998 6:34 PM
+>Subject: Testing devanagari      script in e-mail
+>
+>
+>
+
+
+
+

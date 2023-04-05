@@ -1,0 +1,23 @@
+From jacob.baltuch at EURONET.BE  Tue Nov  4 19:11:28 1997
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Tue, 04 Nov 97 20:11:28 +0100
+Subject: m/anusvAra & s/visarga
+Message-ID: <161227033447.23782.4000362637575329391.generated@prod2.harmonylists.io>
+
+>        I'm perhaps stupid but 'h' is a standard notation of breath and it
+>seems to me the real h and the aspirated occlusives are always followed by
+>a vowel, and the visarga never. Hence, why don't use simply 'h' for the
+>visarga ?
+>
+>        IF nextCh IS space OR IN consonants THEN visarga ELSE h END
+
+Hmm, excellent point, thanks.
+
+To be pedantic it is not strictly, stricly true (cf gRhNAti, azvAbhyAm,
+where h is followed by N or bh by y) but it looks like your point still
+stands that I will always be able to restaure visarga from the context.
+The algorithm will be a bit more complicated though.
+
+
+
+

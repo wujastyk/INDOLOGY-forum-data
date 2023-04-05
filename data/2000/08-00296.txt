@@ -1,0 +1,70 @@
+From Martin.Gansten at TEOL.LU.SE  Tue Aug 29 10:38:04 2000
+From: Martin.Gansten at TEOL.LU.SE (Martin Gansten)
+Date: Tue, 29 Aug 00 12:38:04 +0200
+Subject: Bhagavadgita, cognition, Buddhism?
+In-Reply-To: <3.0.6.32.20000829085442.0079be80@pop.lu.se>
+Message-ID: <161227061178.23782.4097434537136275271.generated@prod2.harmonylists.io>
+
+Dear Vidyasankar,
+
+Thank you for your comments. Let me begin with sa.mghaata:
+
+>Sure, there is an expectation of contact between different things in
+>sa.mghaata, but not in the dynamic sense of sensory perception, at least to
+>my ears.
+
+I have to disagree with you there. The most literal sense of sam+han is
+surely dynamic: 'clashing together (hence the meaning 'combat'), joining',
+etc. The meaning 'aggregate' is  only secondary.
+
+Next, cetanaa and dh.rti: Sankara's explanation of dh.rti as 'that by which
+the body and senses, when fatigued, are sustained (dhriyante)' sounds like
+'endurance' to me. And of course that is one possible meaning; but it does
+not strike me as the likely one in this particular context. Equating dh.rti
+with a praa.na also sounds rather far-fetched to me, and not supported by
+text-internal evidence.
+
+The Gita repeatedly juxtaposes dh.rti with words like buddhi, medhaa, and
+cetanaa; cf. 6.25 (cited by yourself), 18.29-35, 18.51. This is not to say
+that dh.rti has no other meaning in the Gita; but when it occurs several
+times in a certain context ('thinking' words), my guess is that it has a
+technical meaning in those passages. And that meaning seems allied to that
+of dhaara.naa, from the same root: focussing on or holding on to a mental
+state.
+
+>dh.rti in 13.6 is to be related only to
+>;sariira or k.setra and its components ... why include only dh.rti as
+>part of k.setra in 13.6, but not the other qualities of 13.7-11
+
+In my view, precisely because dh.rti in 13.6 does *not* denote a character
+trait like k.saanti or sthairya, but rather a link in the cognitive process
+-- which in any case is indisputably part of k.setra.
+
+Re. Ramanuja's reading:
+
+>If the reading were cetanaa-dh.rta.h, this interpretation would hold, as it
+>would have been in apposition to sa.mghaata.h. It seems rather forced for
+>the reading dh.rti.h, which is an independent noun here.
+
+Sorry if I was unclear. R. reads cetanaadh.rti.h as a compound of cetanaa +
+aadh.rti.h = caitanya + aadhaara.h. I agree that this is unlikely, but at
+least it has the merit of attempting to make internal sense.
+
+>It seems out of place because there is no particular connection with
+>saa.mkhya thought.
+
+Not only that; it seems out of place because (with the 'standard'
+interpretation) dh.rti 'endurance etc.' appears to be a mental quality
+(anta.hkara.nadharma, as Sankara says) chosen completely at random, and
+hardly on a par with such fundamental units as 'body' (sa.mghaata) and
+'mind' (cetanaa).
+
+You are right that there may be some clue in Nyaya-Vaisheshika texts;
+thanks for pointing this out.
+
+Regards,
+Martin
+
+
+
+

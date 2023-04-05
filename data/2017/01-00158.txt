@@ -1,0 +1,37 @@
+From francois.patte at mi.parisdescartes.fr  Mon Jan 16 15:32:15 2017
+From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
+Date: Mon, 16 Jan 17 16:32:15 +0100
+Subject: [INDOLOGY] HTML definition of Unicode characters for r and l with "underring"?
+In-Reply-To: <044C4CE033BD474EBE2ACACE8E4B1D940132AAC1BC@UM-EXCDAG-A06.um.gwdg.de>
+Message-ID: <587CE77F.7020406@mi.parisdescartes.fr>
+
+Le 16/01/2017 16:22, Gruenendahl, Reinhold via INDOLOGY a ?crit :
+> Dear list members,
+> I would be much obliged for any information concerning the current HTML
+> definitions for (vocalic) r, R, l, and L, long and short, with underring
+> (not underdot).
+> The definitions I found some years ago (e.g., &#59444; for R-underring
+> and &#59445 for r-underring) do not seem to be valid anymore.
+> I have searched Alan Wood's site, but in vain.
+
+You have combine letters with an under-ring: &#805;  ie: r&#805; or l&#805;
+
+
+-- 
+Fran?ois Patte
+UFR de math?matiques et informatique
+Laboratoire CNRS MAP5, UMR 8145
+Universit? Paris Descartes
+45, rue des Saints P?res
+F-75270 Paris Cedex 06
+T?l. +33 (0)1 8394 5849
+http://www.math-info.univ-paris5.fr/~patte
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 181 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170116/d736147d/attachment.sig>
+

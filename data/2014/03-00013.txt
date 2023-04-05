@@ -1,0 +1,84 @@
+From wujastyk at gmail.com  Mon Mar  3 13:23:00 2014
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 03 Mar 14 14:23:00 +0100
+Subject: [INDOLOGY] 'Joy of Sanskrit' electronic textbook now available
+In-Reply-To: <53147604.3010201@uni-muenchen.de>
+Message-ID: <CAKdt-Cc_+bsoQXiREBKHuhGk5kwx45USVHeyizTWEYi=dfhnmw@mail.gmail.com>
+
+May I suggest, McComas, that you have a look at CreativeCommons.org, and
+choose an appropriate license from there that suits what you want?  It's
+the best way to be totally clear about how stuff gets - or doesn't get -
+shared.
+
+The CreativeCommons licenses are also based on solid legal grounds, so
+there's no ambiguity.  For example, your statement that your book is in the
+Public Domain is probably not what you really mean, and may not even be
+true, even though you said it.
+
+I strongly recommend that you adopt a Creative Commons license.  Did I say
+that already?  :-)
+
+Best,
+Dominik
+
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+,
+University of Vienna
+
+
+On 3 March 2014 13:31, Robert Zydenbos <zydenbos at uni-muenchen.de> wrote:
+
+> McComas Taylor wrote:
+>
+>  Dear Colleagues
+>>
+>> I am delighted to announce that ANU Press has published/The Joy of
+>> Sanskrit: A First-Year Syllabus for Tertiary Students, /written with my
+>> colleague Grazia Scotellaro.  [...]
+>>
+>>
+>> It is freely avaible in the public domain, and runs on Mac, iPads,
+>> iPhones and Android systems. (Windows version is still to come).
+>>
+>
+> I downloaded the ebook and was considering putting it onto my own website
+> for faster download for my students here in Germany -- but then I read the
+> following, which seems to contradict what you write about the public domain:
+>
+> -----
+> All rights reserved. No part of this publication may be reproduced, stored
+> in a retrieval system or transmitted in any form or by any means,
+> electronic, mechanical, photocopying or otherwise, without the prior
+> permission of the publisher.
+> -----
+>
+> I suppose this is the real copyright status (which I can understand,
+> seeing the amount of work that has gone into it). May we redistribute it
+> through other websites, provided we get that permission? In any case I can
+> put the Australian URL on my webpages.
+>
+> RZ
+>
+> --
+> Prof. Dr. Robert J. Zydenbos
+> Institute of Indology and Tibetology
+> Department of Asian Studies
+> University of Munich
+> Germany
+> Tel. (+49-89-) 2180-5782
+> Fax (+49-89-) 2180-5827
+> Web http://zydenbos.userweb.mwn.de/
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140303/99880212/attachment.htm>
+

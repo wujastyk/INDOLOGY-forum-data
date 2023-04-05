@@ -1,0 +1,70 @@
+From dbhattacharya200498 at YAHOO.COM  Sun Dec  4 16:54:06 2011
+From: dbhattacharya200498 at YAHOO.COM (Dipak Bhattacharya)
+Date: Sun, 04 Dec 11 22:24:06 +0530
+Subject: Fw: [INDOLOGY] innovating the decimal system
+In-Reply-To: <1323011019.S.11750.3111.F.H.TmFsYWtlbmR1IGRhcwBbSU5ET0xPR1ldIGlubm92YXRpbmcgdGhlIGRlY2ltYWwgc3lzdGVt.f6-145-71.old.1323011463.20829@webmail.rediffmail.com>
+Message-ID: <161227094650.23782.7637875095428976892.generated@prod2.harmonylists.io>
+
+4 12 11
+Dear Friend,
+
+The file format is not known. So the attachment could not be opened. Still I write the following on the basis of the statement
+in the letter.
+Whether a decimal system is in place can be tested. Without the system of increment of
+the place value (coefficient x digit) by multiples of 10 (ap of the log) a
+numerical system cannot be called decimal in spite of the importance given to
+the number 10 in it. In the Roman numeral system too X is important but, since
+place value has no part to play in it, the Roman numerals do not form a decimal
+system. There is another criterion without which it cannot work, namely, the
+non-positive, non-negative digit that is 0 that is to be used in the number 10.
+The said system is first found in the ?ryabha??yam which, however, has
+ak?aras for digits. But the digits are the objects to be signified. One may conclude that by 499 AD the decimal system existed
+in India. One has to prove that place value with the coefficient of the digit
+increasing from 100 onward with the exponent increasing in ap of the
+series 0,1,2,3,4 etc exists in the said texts to confirm that their system is
+decimal.
+I request forgiveness for the tedious character of the letter. A more sprightly form is welcome.
+
+Best
+DB
+
+
+________________________________
+ From: alakendu das <mailmealakendudas at REDIFFMAIL.COM>
+To: INDOLOGY at liverpool.ac.uk 
+Sent: Sunday, 4 December 2011 8:41 PM
+Subject: [INDOLOGY] Fw: [INDOLOGY] innovating the decimal system
+ 
+
+Note: Forwarded message attached
+
+-- Original Message --
+
+From: alakendu das mailmealakendudas at REDIFFMAIL.COM
+To: INDOLOGY at liverpool.ac.uk
+Subject: [INDOLOGY] innovating the decimal system
+ 
+Follow?Rediff Deal ho jaye!?to get exciting offers in your city everyday. 
+
+To all listed Members and scholars in Indology,
+
+
+In course of my earnest study of Indology, ,I learnt that India of the Rig Vedic age was the first to innovate  decimal system or place-value principle in Mathematics. Taitteriya Upanishads(one of the eleven Upanishads)have references of decimal system.In the "Shukla" version of Yajurveda , we find Medhatithi's verse in the Vajrasaneyi Samhita which speaks of the various powers of ten.Rigveda has evidences of writing 720 as "sapta satati vimsatih" or 1110 as "sahasrani sata dasha"  Thus concepts like place -value , powers of ten dawned upon the Indians of the Rig Vedic age. while the romans could use upto 10 to the power 3 , and the greeks 10 to the power 4, it was quiet natural for the Rig vedic India to imagine 10 to the power 14.
+Rig vedic age existed between 1500 B.C.and 500 B.C. 
+Can anyone enlighten me whether any other civilisation or age pre-dated  the Rig Vedic India in innovating the Decimal system ?
+
+Thanking You
+ALAKENDU DAS
+mailmealakendudas at redifmail.com 
+
+
+
+
+ 
+Follow?Rediff Deal ho jaye!?to get exciting offers in your city everyday. 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20111204/030c0b1f/attachment.htm>
+

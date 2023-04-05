@@ -1,0 +1,62 @@
+From christophe.vielle at uclouvain.be  Thu Oct 10 06:51:30 2013
+From: christophe.vielle at uclouvain.be (Christophe Vielle)
+Date: Thu, 10 Oct 13 08:51:30 +0200
+Subject: [INDOLOGY] "GRETIL ALL" archive, 2013-10-09
+In-Reply-To: <1381342958.1880.13.camel@ubu-desktop>
+Message-ID: <C2B445BD-A186-46AD-B305-D35113D61A13@uclouvain.be>
+
+For globally searching the impressive GRETIL mass of e-texts kindly provided to us by Reinhold Gr?nendahl for personal use, a student of mine recommends the Jedit software (about which, see below). 
+Best wishes,
+Christophe Vielle
+
+D?but du message r?exp?di? :
+
+Pour le moteur de recherche, on peut simplement utiliser l'?diteur (multi-plateforme et
+opensource) Jedit [*], facile ? trouver et ? installer. Il permet la
+recherche dans un dossier complet. Le r?sultat se pr?sente avec nombre
+d'occurrences, nom du fichier, num?ro de la ligne, kwik (key word in context). Ci-joint en
+image la recherche du mot "upani?ad" dans tout le corpus de 404 millions
+de caract?res, et cela prend environ une minute. C'est moins rapide
+qu'en Perl (le langage fait pour la recherche
+documentaire, extr?mement rapide), mais utilisable.
+
+
+
+
+* About Jedit, Wujastyk wrote on Indology list in October 2002: 
+
+The following may not be the full answer, but colleagues tell me that
+Jedit (from www.jedit.com) is very good at suporting Unicode.  My friend
+Gerhard Brey has used Jedit successfully to create XML files containing
+Unicode text of both Roman and Arabic materials.  He tells me that Jedit
+is better than Yudit as a Unicode editor.
+
+I've installed Jedit under Windows 2000, just to play with - it was very
+easy indeed.  Being a Java program, Jedit will run on any platform, Mac,
+Linux, etc., and behave in essentially the same way.  If you load a
+Unicode font (there are now quite a few around) as the default screen
+font, you get a nice system, and it's portable and free.
+
+Jedit can be used for writing TeX files, or anything else.  It has
+built-in syntax highlighting for TeX and many other structured languages
+such as XML, HTML, programming languages, etc.  And it's extensible, and
+apparently has quite a bit of external support from an enthusiastic
+community.
+???????????????????
+Christophe Vielle
+Louvain-la-Neuve
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131010/baa7ee1f/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Screenshot-HyperSearch_Results.png
+Type: image/png
+Size: 152904 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20131010/baa7ee1f/attachment.png>
+

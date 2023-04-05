@@ -1,0 +1,52 @@
+From pslvax!sadhu at UCSD.EDU  Mon Jan 23 15:52:34 1995
+From: pslvax!sadhu at UCSD.EDU (pslvax!sadhu at UCSD.EDU)
+Date: Mon, 23 Jan 95 07:52:34 -0800
+Subject: translating sanskrit, ibm to mac
+Message-ID: <161227018298.23782.10384432305617521183.generated@prod2.harmonylists.io>
+
+
+Namaste distinguished scholars:
+
+I am working on a project for Hinduism Today and would appreciate
+any advice.
+
+Mr. Satya Pal Sharma, of Vedic University, is translating certain
+English texts into
+Sanskrit (and Hindi) using MLS4 (multi lingual scholar),
+a word processor for ibm compatibles that supports Devanagari
+letters.  I have to convert these texts to be readable by a 
+Mac word processor using the Ecological Linguistics Devanagari
+font.  The problem is compounded by the fact that I do not know
+Sanskrit, and Mr. Sharma's English is somewhat limited.
+
+My approach:  have Mr. Sharma type up the alphabet, export to
+ascii, and do a hex dump to see what the ascii numbers are.  Do
+the same thing on the Mac, and compare.  Write a translation
+program between the two sets of numbers.  Then figure out how to
+take a plain ascii file and make a resource fork for it on the Mac,
+so it can be read by the Mac word processor.
+
+The dilema may be that there are half charaters and matras
+in Sanskrit which can be combined with other characters or
+half characters to give a huge number of possible letters.  Mr.
+Sharma tried to explain this to me, but I'm not sure I understood
+it.
+
+One thing that would be helpful would be a complete list of
+all possible Devanagari letters, with their specific names.
+In this way I could get a comprehensive alphabet from both
+word processors, and make sure the translation was precise
+(rather than relying on the pictorial form of the letter, and
+risking an error because of my untrained eye).  Anyone know of
+such a list?
+
+Thanks in advance for any suggestions,
+
+Regards,
+Sadhunathan Nadesan
+ 
+
+
+
+
+

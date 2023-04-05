@@ -1,0 +1,26 @@
+From hspier.muktabodha at gmail.com  Mon Feb 25 01:37:03 2019
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Sun, 24 Feb 19 20:37:03 -0500
+Subject: =?utf-8?Q?[INDOLOGY]_Mahabharata_referenes_in_B=C3=B6htlingk_Roth?=
+Message-ID: <CAPW7aQFX4-WrKrJQ0B+Sf0vC7Mf0YUd-K3+s+s_pcjq9NwM6vw@mail.gmail.com>
+
+Dear list members,
+
+I'm trying to trace some Mahabharata references in  B?htlingk and Roth but
+i"m not clear how to translate their referencing format to whats in the
+GRETIL edition from Muneo Tokunaga revised by John Smith.  The B-R
+references are a digit (book number?) followed by a 5 digit number.  For
+example, in B-R a Mahabharata reference is 3, 16461 but there is no
+03,164.061 in the Tokunaga edition.
+
+Any help in how to translate the B-R references to the Tokunaga verse
+numbering system would be appreciated.
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190224/9d48538b/attachment.htm>
+

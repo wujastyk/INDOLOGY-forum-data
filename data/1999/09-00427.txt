@@ -1,0 +1,63 @@
+From ucgadkw at UCL.AC.UK  Wed Sep 29 23:11:03 1999
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Thu, 30 Sep 99 00:11:03 +0100
+Subject: Fate of NCC
+In-Reply-To: <085725837201b99HAL9000@cwcom.net>
+Message-ID: <161227052618.23782.9721314669190883050.generated@prod2.harmonylists.io>
+
+Prof. Arjunwadkar makes several imporant points.
+
+About the IGNCA:
+The staff at the IGNCA are typing the contents of many ms catalogues into
+a flat-file database (essentially a library catalogue system).  When I
+visited IGNCA last year, I talked a lot about three issues.  1/ using a
+relational model for storing the data; 2/ Accuracy of data input; 3/ The
+importance of having a great deal of input from people who actually know a
+lot about Sanskrit literature.
+
+The data I saw, and I was kindly shown a great deal of printout as well as
+having sessions at the terminal, was voluminous indeed, but rather
+inaccurate, and inconsistent in names and titles.
+
+In other words, it did not reflect the careful editorial standards
+established for the NCC project by Raghavan, to which Prof. Arjunwadkar
+rightly refers.
+
+It is possible that the IGNCA data will be laundered in due course, but it
+will be a very big job to make it as useful as it deserves to be.  I very
+much hope they do undertake it.
+
+So at present, I believe the NCC project is still worth completing, in
+spite of the somewhat similar thrust of the work at the IGNCA, and in
+spite of the fact that many catalogues have appeared since NCC closed its
+files.
+
+Has anyone been to IGNCA more recently, and had a look at the
+catalogue-input work (CATCAT etc.)?
+
+Prof. Arjunwadkar mentions UNESCO.  The bit of that organization which
+would probably be relevant to the NCC is the "Memory of the World"
+project (http://www.unesco.org/webworld/mdm/en/index_mdm.html).  This
+project is already working with the Institute of Asian Studies in Madras.
+However, although it is an excellent project, it is more of a
+publicity program than a financial one.  As far as I know, the MOTW
+programme helps institutions to raise awareness, set standards for work,
+and so forth.  But funds have to be gathered from other sources.  Of
+course, having the UNESCO imprimature would help this fundraising
+enormously.
+
+However, another point is that most of the MOTW projects are concerned
+with orginal source documents.  NCC is a finding aid, not an actual
+manuscript, of course.  Still, perhaps an argument could be made.
+
+Is there another UNESCO program which might be relevant to NCC?
+
+Dominik
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+
+

@@ -1,0 +1,513 @@
+From spb at ntrs.com  Tue Dec  5 03:51:27 1995
+From: spb at ntrs.com (Steve Bonine)
+Date: Mon, 04 Dec 95 22:51:27 -0500
+Subject: RESULT: humanities.language.sanskrit passes 369:24
+Message-ID: <161227021944.23782.2486176600144197459.generated@prod2.harmonylists.io>
+
+                                RESULT
+     unmoderated group humanities.language.sanskrit passes 369:24
+
+There were 369 YES votes and 24 NO votes, for a total of 393 valid votes.
+There was 1 abstain and 16 invalid ballots.
+
+For group passage, YES votes must be at least 2/3 of all valid (YES and NO)
+votes.   There also must be at least 100 more YES votes than NO votes.
+
+There is a five day discussion period after these results are posted.  If no
+serious allegations of voting irregularities are raised, the moderator of
+news.announce.newgroups will create the group shortly thereafter.
+
+Newsgroups line:
+humanities.language.sanskrit	The Sanskrit language and related topics.
+
+Voting closed at 23:59:59 UTC, 4 Dec 1995.
+
+This vote was conducted by a neutral third party.  Questions
+about the proposed group should be directed to the proponent.
+
+Proponent: Shrisha Rao <Shrisha.Rao at launchpad.unc.edu>
+Proponent: Henry Groover <HGroover at Qualitas.com>
+Mentor:    Todd Michel McComb <mccomb at best.com>
+Votetaker: Steve Bonine <spb at ntrs.com>
+
+RATIONALE: humanities.language.sanskrit
+
+Sanskrit is an Indo-European language of ancient origins, like Latin,
+ancient Greek, and Persian. Unlike many other ancient languages, however,
+it has had an unbroken tradition of both literary and everyday usage,
+lasting right up to the present day.
+
+A study of Sanskrit is very useful for those interested in understanding
+Hinduism; it is also important to those who study Paninian linguistics,
+Vedanta, Indology, the development of Indo-European languages and
+cultures, etc. Besides all these, of course, Sanskrit has a vast body of
+prose, poetry, drama, and music, of genuine literary worth, that is of
+much interest to many scholars and amateurs.
+
+There used to be a Sanskrit e-mail discussion group that generated a high
+enough volume of messages to cause it to be shut down because of the
+excessive load it was creating on its host system. The list had about 380
+members who are potential readers of such a newsgroup; it may also be
+safely assumed that there are others who were not on the list, but would
+also like to see such a newsgroup come about.
+
+CHARTER: humanities.language.sanskrit
+
+The newsgroup humanities.language.sanskrit will be a forum devoted to the
+discussion of all matters pertaining to the formal or informal study of
+Sanskrit, both as a literary and scriptural language, and also as a
+language for common use. The newsgroup will not be solely for those
+already knowledgeable about Sanskrit, but will also give those interested
+in it an opportunity to learn by interaction. While there will be no
+restriction on the range of Sanskrit-related topics allowed, those that
+have nothing to do either with Sanskrit itself, or with issues in the
+study of Sanskrit, will be strongly discouraged.
+
+END CHARTER.
+
+humanities.language.sanskrit Final Vote Ack
+
+Voted Yes
+------------------------------------------------------------------------------
+100725.3222 at compuserve.com                                 Clemens Stiglechner
+100734.2313 at compuserve.com                                  Hans-Georg Turstig
+102054.1427 at compuserve.com                             Subbaiah Cherumandanda.
+71125.20 at compuserve.com                                      Miodrag Trajkovic
+72750.3020 at compuserve.com                                          Dan Kinnard
+75240.2021 at compuserve.com                                     Alain-Jean PARES
+95PANDAY at tsunami.scar.utoronto.ca                                 Aruna Panday
+A.Lahiri at sussex.ac.uk                                          Amitabha Lahiri
+A.Raman at massey.ac.nz                                         Anand Venkt Raman
+aas3 at Lehigh.EDU                                     ARATI AMRITLAL SHAH-YUKICH
+abhay at gtenet.com                                                   Abhay Patil
+abhyankn at plk.af.mil                                        Nandakish Abhyankar
+abirami at chemeng.iisc.ernet.in                                  ABIRAMI SUNDARI
+acabral at ax.ibase.org.br                                         Adilson Cabral
+ACHARB at msuvx2.memphis.edu                                   B.N.Narahari Achar
+ACYS152 at chollian.dacom.co.kr                                   choi young shin
+adjg at sour.sw.oz.au                                               Andrew Gollan
+adonde at engineer.mrg.uswest.com                                     Aruna Donde
+ae446 at freenet.carleton.ca                                          Nigel Allen
+ag414 at freenet.carleton.ca                                       Colin R. Leech
+agger at daimi.aau.dk                                       Carsten Kalles| Agger
+aghoshal at eng2.uconn.edu                                        Anindya Ghoshal
+ahudli at iupucs.iupui.edu                                            Anand Hudli
+ajit at everest.tandem.com                                            Ajit Dongre
+akkaraju at corp.cirrus.com                                     Srinivas Akkaraju
+aklujkar at unixg.ubc.ca                                           Ashok Aklujkar
+akr at acsu.Buffalo.edu                                        Ajit K Ranganathan
+akris at loc201.tandem.com                                        krishnamurthy_a
+akroev at oslonett.no                                              Arne Knut Roev
+alderson at netcom.com                                    Richard M. Alderson III
+amagdebu at nyx10.cs.du.edu                                        Andy Magdeburg
+anandar at wipro.com                                             Ananda Rajagopal
+ananthai at ecn.purdue.edu                                     Satish Ananthaiyer
+andrew at golter.demon.co.uk                                     Andrew Hoddinott
+anil at ichips.intel.com                                        Anil M. Paranjape
+apandey at u.washington.edu                                       Anshuman Pandey
+apn at cs.Buffalo.EDU                                             Ajay P Nerurkar
+aq974 at lafn.org                                                    Bon Giovanni
+ARANI at delphi.com                                                Ananth S. Rani
+arsha at epix.net                                              Swami Tadatmananda
+artha at sci.fi                                                   Antti Kivivalli
+arun at datacube.com                                                Arun K Dalmia
+asangli at hawk.stratacom.com                                        Aruna Sangli
+asaraogee at sei-it.com                                             Anil Saraogee
+asdighe at midway.uchicago.edu                                         Amol Dighe
+atin at ie.utoronto.ca                                              Atin Kulkarni
+atul at yamuna.asd.sgi.com                                          Atul Narkhede
+badari at cs.tamu.edu                                          Badarinath Devalla
+badri at sofia.mae.cornell.edu                            Badrinarayanan Seshadri
+baindur at aplcenmp.apl.jhu.edu                                    Satyen Baindur
+bakshia at pictel.com                                               Anupam Bakshi
+bala at falcon.tamucc.edu                                     M.K. Balasubramanya
+balaji at nexus.yorku.ca                                                   Balaji
+baloglou at panix.com                                             George Baloglou
+Barticus at worldnet.att.net                                         Randall Bart
+benwbrum at owlnet.rice.edu                                 Ben William Brumfield
+besch at berlin.snafu.de                                          Bernd Schaefers
+BHARAT at ccvax.ucd.ie                                             Bharat Bhushan
+bill.duke at nashville.com                                              Bill Duke
+bjv at herbison.com                                                 B.J. Herbison
+bluhme at uia.ua.ac.be                                             Hermann.Bluhme
+bmisra at husc.harvard.edu                                            Bijoy Misra
+Bradley.C.Gaylord at att.com               Brad C. Gaylord, bcg at drmail.dr.att.com
+brao at pollux.usc.edu                                                   Bapa Rao
+broman at databank.com                                              Andrew Broman
+cardona at unagi.cis.upenn.edu                                     George Cardona
+careya at PEAK.ORG                                                   Andrew Carey
+carlton at math.mit.edu                                             david carlton
+chande at Glue.umd.edu                                               Vinay Chande
+chandrak at umdnj.edu                                          Arun Chandrakantan
+chasm at ICSI.Net                                              Charles L Hamilton
+chetan at informix.com                                              Chetan Pandya
+clay at m-net.arbornet.org                                      James H.Cuddeback
+cohen at walrus.com                                           Jeffrey David Cohen
+conner at indy.net                                                   Nancy Conner
+crkreddy at tessa.iaf.uiowa.edu                              Ramakrishna R. Chada
+csr at jupiter.wipro.com                                          C.S.Raghavendra
+cvtr at ukc.ac.uk                                              Charlotte Richards
+dakshs2 at rpi.edu                                  Srikanteswara Dakshina Murthy
+dambuel at s850.mwc.edu                                              David Ambuel
+dcell at cftnet.com                                                     Dave Cell
+dchakrav at netserv.unmc.edu                                   Dhruba Chakravarti
+deepa at nstl.com                                                  Deepa Kulkarni
+deepa at tiac.net                                                   Deepa Ganesan
+deshmukh at isip.msstate.edu                         Neeraj Deshmukh - The Falcon
+dgibson at husc.harvard.edu                                Diana Alexandra Gibson
+dhartung at mcs.com                                                Daniel Hartung
+dileep at fireant.ma.utexas.edu                                    Dileep Karanth
+dim at nevanest.spb.su                                               Dimka Shpaer
+dit2 at Lehigh.EDU                                                    DILEK TUZUN
+donkiely at bravo.imagi.net                                             Don Kiely
+dran at cs.albany.edu                                           Paliath Narendran
+dschen at cs.Buffalo.EDU                                            Daniel S Chen
+dshiel at unf6.cis.unf.edu                                          David Shields
+dwaite at aladdin.co.uk                                              Dennis Waite
+dyates at panix.com                                                     Don Yates
+EDFLOYD at vms.cis.pitt.edu                                        Edwin D. Floyd
+elwells at sas.upenn.edu                                             Scott Elwell
+esmae at adacel.com.au                                              Esmae Emerson
+Espen.Ore at hd.uib.no                                                  Espen Ore
+fcp at Traveller.COM                                        Dharman Craig Presson
+flan at io.org                                                     Saira Chhibber
+francois.voegeli at orient.unil.ch                               Francois Voegeli
+francois at sas.ac.uk                                           Francois Quiviger
+fskumud at icomp01.lerc.nasa.gov                                     Kumud Ajmani
+garyt at hpdmlfn.boi.hp.com                                           Gary Thomas
+geert at aie.nl                                              Geert-Jan van Opdorp
+Gerard.Huet at inria.fr                                               Gerard Huet
+Gerard.Thia-Kime at irisa.fr                                     Gerard Thia-Kime
+ghatsb at ttown.apci.com                                                   Shashi
+gkb at ast.cam.ac.uk                                              Girish Beeharry
+gkurup at eng.mc.xerox.com                                       Govinda D. Kurup
+gmadras at engr.ucdavis.edu                                                  Giri
+gnh at hal.com                                                     Gajanana Hegde
+gnosis at brahman.nullnet.fi                                               Gnosis
+gopal at uic.edu                                                    Srihari Gopal
+gpenn+ at andrew.cmu.edu                                              Gerald Penn
+gpoggema at slonet.org                                           George Poggemann
+gt7060b at prism.gatech.edu                               Neeraj Dilipkumar Desai
+gupt9463 at uidaho.edu                                                 Atul Gupta
+gupta at mrspock.mt.att.com                                           Arun Gupta
+HaroldA at eworld.com                                            Harold F. Arnold
+harshan9 at mail.microserve.net                                  Harshan Eppurath
+harsha_sathyamurthy at mentorg.com                            Harsha Sathyamurthy
+hchhaya at ece.iit.edu                                          Harshal S. Chhaya
+hermit at cats.ucsc.edu                                            William R Ward
+HGroover at qualitas.com                                            Henry Groover
+HindSind at aol.com                                                      d.dudani
+hlu at u.Arizona.EDU                                                    Hung J Lu
+HOWARD549 at delphi.com                                                Tom Howard
+hpraghu at genius.tisl.soft.net                                   H.P.Raghunandan
+hvyas at murli.jpl.nasa.gov                                    Hemali Nikhil Vyas
+hw41652 at is1.bfu.vub.ac.be                                        Van Deun Dirk
+ian at oz.net                                                            Ian Gray
+Indu_Mudigonda/OriginNA.ORIGINNA at wing.otb.com           Indu Shekhar Mudigonda
+J.Napier at unsw.edu.au                                               John Napier
+jagan at corp.cirrus.com                                   Jagannadha Chetlapalli
+jalura at COLBY.EDU                                               Jessica A. Lura
+jam7 at Lehigh.EDU                                                JAYAN MOORKANAT
+jan at bagend.atl.ga.us                                                 Jan Isley
+jap at euclid.cfdrc.com                                              Jayesh Patel
+jay at mainelink.net                                                   Jay Jordan
+jbart at zadall.com                                                   John Bartol
+jchokey at leland.Stanford.EDU                             James Alexander Chokey
+jdwhite at unccvm.uncc.edu                                        J. Daniel White
+jford at runet.edu                                                    John M Ford
+jherl at uiuc.edu                                                     Joseph Herl
+jlc at ccr.jussieu.fr                                         Jean-Luc Chevillard
+jm at imagine.pt                                         Jose' Moreira - Portugal
+jonboy at io.org                                                   Trevor Tymchuk
+joseph at cis.ohio-state.edu                                        Sudish Joseph
+jpunnakkal at houston.geoquest.slb.com                     Jagadeesh D. Punnakkal
+kalie at oslonett.no                                             Kaare Albert Lie
+kartha at src.honeywell.com                                                Kartha
+karthik at india.ti.com                                      Karthikeyan Madathil
+kashyap at om.cs.uga.edu                                            Vipul Kashyap
+keb at u.washington.edu                                          Kathleen Bennett
+keutzer at Synopsys.COM                                              Kurt Keutzer
+khare at rintintin.Colorado.EDU                                       Vivek Khare
+kishan_padumane at smtplink.NGC.COM                             Padumane K Kishan
+kravi at cs.ucsb.edu                                          Ravikanth V Kothuri
+kripa at cedar.buffalo.edu                                           Kripa Sundar
+krisna at cs.wisc.edu                                      Krishna Kunchithapadam
+kshapiro at pobox.com                                                Kivi Shapiro
+ksn2 at Lehigh.EDU                                                  Kedar Naphade
+kumthek at bird.Colorado.EDU                                Balakrishna Kumthekar
+kvemala at stratacom.com                                       Badri Kumar Vemala
+KVIRTANE at dodo.jyu.fi                                               K. Virtanen
+kwhemr at inch.com                                                  Kurt Wm. Hemr
+kxp5195 at hertz.njit.edu                                       Krishna Padmasola
+ldd at step.polymtl.ca                                            Louis-D. Dubeau
+Leif.Bergstrom at abc.se                                           Leif Bergstrom
+lfirrantello at BIX.com                                                Mick Brown
+list-votes at dream.hb.north.de                                  Martin Schr"oder
+lpad at chevron.com                                                L. Padmanabhan
+madhv-s at cedar.buffalo.edu                                                 SriG
+magier at columbia.edu                                               David Magier
+mahadev at pyramid.com                                        Mahadeva Mardithaya
+mahoa at acs.bu.edu                                                  Anne Mahoney
+mail07464 at pop.net                                                    B. Reusch
+makag at microsoft.com                                             Makarand Gadre
+malaiya at cs.colostate.edu                                            Y. Malaiya
+malli at wipro.wipsys.soft.net                                   Mallikarjuna Rao
+mandar at everest.radiology.uiowa.edu                             Mandar Pattekar
+mani at srirangam.esd.sgi.com                                    Mani Varadarajan
+manju at chemeng.iisc.ernet.in                                 MANJUNATH SUBBANNA
+mantripragada_sai at amat.com                                   Sai Mantripragada
+march at hookup.net                                                    Paul March
+mas151 at mail.usask.ca                                             Maneesh Saini
+mccomb at best.com                                             Todd Michel McComb
+mehta at mgmt.purdue.edu                                      Shailendr Raj Mehta
+Melissa.Bartlett at Bentley.COM                                  Melissa Bartlett
+menna at iam.unibe.ch                                                 Marco Menna
+merchant at anuxv.att.com                                              s.merchant
+mfx at cs.tu-berlin.de                                           Markus Freericks
+mharriso at indyunix.iupui.edu                                  Michelle Harrison
+mhcrxlc at dir.mcc.ac.uk                                             L.S. Cousins
+mhegde at stratacom.com                                             Madhavi Hegde
+mim8 at Lehigh.EDU                                         Milan Medikeri-Naphade
+mistryg at nexxus.sps.mot.com                                           G. Mistry
+mitra at aecom.yu.edu                                               Joydeep Mitra
+mk0e at Lehigh.EDU                                            Maheendra Kasmalkar
+mmdesh at umich.edu                                              Madhav Deshpande
+mokashi at octopus.parcom.ernet.in                              Krishna V Mokashi
+mpt at mail.utexas.edu                                              michael tandy
+mrachakonda at sbnsw.com.au                           Mallikarjuna Rao Rachakonda
+mtandon at hw.stratus.com                                           Manish Tandon
+mthayer at ix.netcom.com                                           Michael Thayer
+muysers at cginn.cgs.fr                                              Dirk Muysers
+mwdaniel at uiuc.edu                                           Michael W. Daniels
+nilesh at iastate.edu                                         Nilesh Savargaonkar
+nmbrown at indyunix.iupui.edu                                        Nicole Brown
+noack at rain.org                                                William R. Noack
+NTIWARI at VTVM1.CC.VT.EDU                                       Nachiketa Tiwari
+Ollivier.Robert at hsc.fr.net                                     Ollivier Robert
+ota at cs.titech.ac.jp                                                OTA Takeaki
+p-lakhia at students.uiuc.edu                                      Lakhia Purna K
+P.J.Narayanan at IUS4.IUS.CS.CMU.EDU                              P. J. Narayanan
+padma at euch3g.chem.emory.edu                                  D. A. Padmavathi
+pannappa at ecn.purdue.edu                                 Usharani N Pannappalli
+pappuvs at hssc.slg.eds.com                                       Vineet S. Pappu
+paranjap at cae.wisc.edu                                   Amit Prabhas Paranjape
+pat at viminal.me.psu.edu                                       Ravindra Patankar
+paustin at astro.ocis.temple.edu                                       Pam Austin
+pcr at ic.net                                                           phil reed
+Per.Mathisen at pr.uninett.no                                        Per Mathisen
+Peter at pwyz.rhein.de                                               Peter Wyzlic
+ph at anweald.exnet.co.uk                                         Patrick Herring
+phoffman at proper.com                                               Paul Hoffman
+piyush at dekalb.dc.peachnet.edu                                  piyush r bhagat
+pkohli at cc.gatech.edu                                              Prince Kohli
+pmagnone at mi.unicatt.it                                           Paolo Magnone
+potty at me.udel.edu                                                Kesavan Potty
+powers at nt.com                                                      Mike Powers
+powerssh at ucsu.colorado.edu                                      Stephen Powers
+PPalni at micom.com                                            Pranay Singh Palni
+ppatel at lynx.dac.neu.edu                                          Parimal Patel
+pradeep at hal.com                                               Pradeep Saraswat
+prao1 at ford.com                                                    Prashant Rao
+praveen at praveen.is.ge.com                                     Praveen Bhardwaj
+psargent at clark.net                                            Peter L. Sargent
+psista at ecn.purdue.edu                                           Prasad S Sista
+pujar at che.udel.edu                                              Narahari Pujar
+pushkar at mechatro2.ME.Berkeley.EDU                               Hingwe Pushkar
+r0m6887 at tam2000.tamu.edu                               Ravisankar S. Mayavaram
+raghu at baynetworks.com                                          Raghu Yadavalli
+raghu at exemplar.com                                                   Raghu Rao
+rajas at hpwaleu.wal.hp.com                                             Raja Seth
+rakesh at owlnet.rice.edu                                    Rakesh Kumar Agrawal
+ramabhad at ecn.purdue.edu                                  Ramanujam Ramabhadran
+RAMACHANDRA.KAMATH at spcorp.com                               RAMACHANDRA KAMATH
+Ramarao.Chetlapalli at eng.sun.com                            RamaRao Chetlapalli
+ramesh at rs6000.cmp.ilstu.edu                                   Ramesh Chaudhari
+raoul at cssc-syd.tansu.com.au                                        Raoul Golan
+ras7 at Lehigh.EDU                                            RAVISHANKAR SHANKAR
+ravi at hpesravi.fc.hp.com                                             Ravi Koshy
+ravih at falcon.cc.ukans.edu                                       Ravi Hirekatur
+RaviS at bangate.compaq.com                                         Ravi Subbarao
+rbalasub at ecn.purdue.edu                           Ramakrishnan Balasubramanian
+reddyc at chert.CS.ORST.EDU                                         Chandra Reddy
+redmonds at acf2.NYU.EDU                                             Sean Redmond
+rick at bcm.tmc.edu                                             Richard H. Miller
+rim4 at Lehigh.EDU                                                  RITU MALHOTRA
+rlleben at indyunix.iupui.edu                                       Richard Leben
+rmohana at San-Jose.ate.slb.com                               Mohana k. Ramanujam
+robin at physics.rutgers.edu                              Rabindranath Chatterjee
+rosewood at netcom.com                                          Shankar P. Khadye
+rozehnal at praha1.ff.cuni.cz                                   Miroslav Rozehnal
+rpidapa at advtech.uswest.com                              Ramakrishna Pidaparti.
+rsata at ctp.com                                                  Ranga Satagopan
+rufinus at mbe.ece.wisc.edu                                            J. Rufinus
+rwebster at pixi.com                                                Radhe Webster
+s.judd at waikato.ac.nz                                              Stephen Judd
+sai at cybercomm.net                                          Seshadri Narasimhan
+sai at schirf.cs.utah.edu                                Sai Rama Krishna Susarla
+samant at cs.uchicago.edu                                           Tushar Samant
+sameer at cc.gatech.edu                                            Sameer Mahajan
+sasbmt at unx.sas.com                                               Bruce Tindall
+sathya at sybase.com                                           Sathyanarayana C R
+Satyakaama at aol.com                                               Derick Miller
+sdeodha at gaes.griffin.peachnet.edu                            Satish Y. Deodhar
+sdevaraj at csc.com                                              Savithri Devaraj
+seacol at MIT.EDU                                                     cynthia col
+seemc000 at goofy.zdv.Uni-Mainz.de                                     C. Seemann
+senggiap at singnet.com.sg                                           Ho Seng Giap
+setlur at cedar.buffalo.edu                                    Srirangaraj Setlur
+sgk at creighton.edu                                                  Susan Koshy
+shailesh at cair.ernet.in                                          S.R.Chansarkar
+shashi at kbsdec2.tamu.edu                                      Shashikanth Hosur
+ShekharX_Tembhekar at ccm.jf.intel.com                         ShekharX Tembhekar
+shrao at nyx10.cs.du.edu                                              Shrisha Rao
+silanty at dux.ru                                     Silanty Krestovozdvizhensky
+simon at cc.helsinki.fi                                           Julia A M Simon
+singh-rv at cis.ohio-state.edu                                  raj vardhan singh
+sint at oeaw.ac.at                                                Peter Paul Sint
+sisi at m-net.arbornet.org                                          Raju Madhavan
+sista at ecn.purdue.edu                                            Srinivas Sista
+sitaram at watson.ibm.com                                          Dinkar Sitaram
+siva at csgrad.cs.vt.edu                                           Siva P. Challa
+sjoland at ix.netcom.com                                  Peter/Stephen Sjolander
+sjoshi1 at gl.umbc.edu                                               Sanjay Joshi
+sk at dcs.warwick.ac.uk                                              Sara Kalvala
+skalkunte at shiva.com                          Suresh Kalkunte/Shiva Corporation
+skgupta at amsterdam.lcs.mit.edu                                 Sandeep K. Gupta
+skjain at server.uwindsor.ca                                               S Jain
+SNARA at research.gsb.columbia.edu                               Sunder Narayanan
+snizybor at hpcnq30.cup.hp.com                                   Steve Nizyborski
+snk at microsim.com                                                       Shankar
+soni at Papin.HRZ.Uni-Marburg.DE                                 Dr Jayandra Soni
+srao at microcosm.com                                                Srinivas Rao
+srengara at ford.com                                           Sampath Rengarajan
+sridhara at sunflash.eng.usf.edu                                 SRIDHARAN SURESH
+srirag at unm.edu                                               Srikanth Raghavan
+ssane at emerald.tufts.edu                                           Shirish Sane
+SSARKAR at us.oracle.com                                    SSARKAR.US.ORACLE.COM
+ST931690 at PIP.CC.BRANDEIS.EDU                                       JOEL BRYANT
+sterrett at cts.com                                                 Tony Sterrett
+stiles at duke.usask.ca                                              Lewis Stiles
+SueBreish at aol.com                                              Susan J. Breish
+Sujai.Asur at ebay.sun.com                                             Sujai Asur
+sujit at micb.mic.ki.se                                                Sujit Dutt
+susarla.krishna at studentserver1.swmed.edu                    H. Krishna Susarla
+sven at maths.lth.se                                                  Sven Spanne
+SVKRISHNA at ptd.intel.com                      SV Krishna Prasad AL4-58 642-6475
+svm at kozmix.ow.nl                                            Sander van Malssen
+swagata at ccat.sas.upenn.edu                                     Swagata Altekar
+sxs7502 at njit.edu                                                   Ram Prasadu
+tcahill at ccat.sas.upenn.edu                                   Timothy C. Cahill
+thattey at baervan.nmt.edu                                                  anant
+thorinn at diku.dk                                          Lars Henrik Mathiesen
+tmeadow at BearRiver.com                                              Tony Meadow
+trika at ecn.purdue.edu                                           Sanjeev N Trika
+tull at oes.amdahl.com                                        Karthi Krishnaswami
+tulpule at cs.unc.edu                                            Narendra Tulpule
+twpierce at midway.uchicago.edu                                        Tim Pierce
+U28735 at UICVM.CC.UIC.EDU                                           Rajesh Verma
+umesh at infosoft.com                                          Umesh Hiriyannaiah
+upas at research.canon.oz.au                                              Upasana
+us003785 at interramp.com                                   Adolf von Wurttemberg
+uu001d at uhura.cc.rochester.edu                                   Urmen Upadhyay
+uwe at niif.spb.su                                             Valeriy E. Ushakov
+valishye at phoenix.Princeton.EDU                           Rakesh R. Vallishayee
+venka-k at acsu.Buffalo.edu                                  Karthik Venkataraman
+venkates at colos.EECS.Berkeley.EDU                            Venkatesh Gopinath
+venkatp at Synopsys.COM                                        Venkat Puntambekar
+vidya at cco.caltech.edu                                   Vidyasankar Sundaresan
+vidynath at math.ohio-state.edu                                  Vidhyanath K Rao
+vijaypai at ece.rice.edu                                                Vijay Pai
+vinay at coe.wvu.edu                                      Mogulothu Vinay Krishna
+vinnie at Tudor.Com                                                    Vinny Gade
+VIREN_JOGLEKAR at non-hp-sonoma-om1.om.hp.com                      Viren Joglekar
+vivek at owlnet.rice.edu                                      Vivek Sadananda Pai
+vjoshi at spdmail.spd.dsccc.com                                       Vikas Joshi
+vke at cypress.com                                      Venkatesh Elayavalli/DCOM
+vmallam at wilkes1.wilkes.edu                                  Vijay K Mallampati
+vmurthy at informix.com                                         Venkatesha Murthy
+vraman at cas.org                                   Venkat Raman <vraman at cas.org>
+vri at tiac.net                                                        Arun Malik
+watwe at cae.wisc.edu                                            Ramchandra Watwe
+weikmann at bkfug.kfunigraz.ac.at                                 Martin Weikmann
+widenius at cc.helsinki.fi                                         Risto Widenius
+WIKNER at NACDH4.NAC.AC.ZA                                         Charles Wikner
+windeng at durras.anu.edu.au                                     David A. Windsor
+wolfgang at lyxys.ka.sub.org                                      Wolfgang Zenker
+xanthian at qualcomm.com                                          Kent Paul Dolan
+xsvarshney at ccvax.fullerton.edu                                     S. Varshney
+ye00 at Lehigh.EDU                                                     Yesim Erke
+ZLSIIAM at fs1.mcc.ac.uk                                                Avi Misra
+zzzjan_m at sanjose.vlsi.com                                      M S Janardhanan
+
+Voted No
+------------------------------------------------------------------------------
+anandk at hal.com                                            Anand Krishnamoorthy
+benningf at aur.alcatel.com                                Robert F. Benningfield
+bholzm1 at icarus.cc.uic.edu                                       Burt N Holzman
+cls48 at columbia.edu                                   Christopher Lodge Stamper
+csaamw at urc.tue.nl                                               Michiel Wijers
+dballard at ix.netcom.com                                             Don Ballard
+dc at panix.com                                                 David W. Crawford
+dogcow at piglet.merit.net                                    Tom 'moof' Spindler
+giuseppe at imiucca.csi.unimi.it                                       Alex Passi
+jan.coekelberghs at ping.be                                      Jan Coekelberghs
+kim at shell.portal.com                                              Kim DeVaughn
+kmitchel at direct.ca                                              Kevin Mitchell
+lancec at cats.ucsc.edu                                             Lance K. Chun
+MarkMilem at aol.com                                                   Mark Milem
+nelsonk at ix.netcom.com                                               Ken Nelson
+patl at lcs.mit.edu                                           Patrick J. LoPresti
+ryang at gwis2.circ.gwu.edu                                     Glen Patrick Ryan
+shag at emanon.net                                            Dan "Shag" Birchall
+smarry at turing.toronto.edu                                         Smarasderagd
+stainles at bga.com                                                  Dwight Brown
+stick at shepherd.escalade.com                                           J. Stick
+techint at winternet.com                            Technical Intelligence-MN-USA
+tgm at netcom.com                                            Thomas G. McWilliams
+tlawson at email.univpubs.american.edu                             Todd C. Lawson
+
+Abstained
+------------------------------------------------------------------------------
+crouchkp at flidh103.delcoelect.com                              Kenneth P Crouch
+
+
+Votes in error
+------------------------------------------------------------------------------
+95SHARDA at tsunami.scar.utoronto.ca
+   ! No name given
+abdutta at icaen.uiowa.edu
+   ! No name given
+amarjit at lijgate.lij.edu
+   ! No name given
+bhakta at ksc.net.th                                          William G. Benedict
+   ! No vote statement in message
+Bobbledun at aol.com
+   ! No name given
+cvenkata at magnus.acs.ohio-state.edu                Venkatasubramanian A Chitoor
+   ! No vote statement in message
+Girija.Narlikar at GS138.SP.CS.CMU.EDU
+   ! No name given
+Krishnamurthy.Raghunandan at att.com
+   ! No vote statement in message
+KWEGMAN at vax1.miu.edu
+   ! No name given
+moorthy at cs.rpi.edu
+   ! No name given
+NATARAJ at UNIVSCVM.CSD.SCAROLINA.EDU                        Natarajan Sethuraman
+   ! No vote statement in message
+P.Magnone at agora.stm.it
+   ! No name given
+pgj at sparc.sandiegoca.attgis.com
+   ! No name given
+rherwadk at us.oracle.com
+   ! No name given
+sunidh at stat.njit.edu                                          Sunil Kumar Dhar
+   ! No vote statement in message
+Yobero at aol.com
+   ! No name given
+ 
+
+
+
+
+

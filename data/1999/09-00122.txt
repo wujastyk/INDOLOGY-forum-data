@@ -1,0 +1,26 @@
+From chris.eade at ANUGPO.ANU.EDU.AU  Tue Sep  7 07:59:15 1999
+From: chris.eade at ANUGPO.ANU.EDU.AU (Chris Eade)
+Date: Tue, 07 Sep 99 17:59:15 +1000
+Subject: Indian Calendar
+Message-ID: <161227051990.23782.2929676548176026089.generated@prod2.harmonylists.io>
+
+I hope there is someone in the IndolList who knows an Indian calendar
+expert. At "www.kalnirnay.com" there is a nice Indian calendar with data
+valid for Bombay.
+It has a very peculiar feature: every time a ksaya tithi comes along, its
+ending time is 6gh (of 30gh per day) short of its neighbouring tithis; and
+every there is an adhika tithi it is 6gh in excess of its neighbours. This
+betrays itself if you look at the intervals between the successive tithis.
+        For instance, if you look at Sept 99 in "kalnirnay", you find 08.31
+for the end of tithi K11, 06.49 for K12, 29.23 for K13, and 28.16 for K14.
+       Now, 6.49 (K12) minus 08.31 (K11) is 28gh18, and 28.16 (K14) minus
+29.23 (K13) is 28gh53.
+        But 29.23 (K13) minus 6.49 (K12)is only 22gh34, which is integer
+6gh smaller than the intervals that flank it. Presumably there is some
+astrological reason for this.
+        If you know someone who could explain, I would be very much obliged
+to hear from them and be able to get to sleep o' nights.
+
+
+
+

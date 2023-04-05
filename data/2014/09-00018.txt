@@ -1,0 +1,37 @@
+From drdhaval2785 at gmail.com  Thu Sep  4 17:33:50 2014
+From: drdhaval2785 at gmail.com (dhaval patel)
+Date: Thu, 04 Sep 14 10:33:50 -0700
+Subject: [INDOLOGY] Subanta generation machine PHP open source
+Message-ID: <CADSGPzWgxK2hXnfX64qJ-4pB2Cub3q+bYPTMzB_iUo0UZHxMXg@mail.gmail.com>
+
+Dear all,
+Please find attached the test page for a PHP based machine for subanta
+generation according to Siddhanta kaumudi.
+http://lanover.com/lan/sanskrit/subanta.html
+
+The code can be seen at https://github.com/drdhaval2785/sanskrit
+
+The machine gives step by step derivation of words as per prakriyA
+mentioned in Siddhantakaumudi.
+Respected scholars may please have a look at it and suggest corrections
+where the machine is off the correct derivation process.
+Please send corrections off list, so that they can be incorporated.
+
+"Documentation" and "Known Issues" are in progress.
+I am attaching a sample page of 'rAma' derivation for ready reference.
+
+-- 
+Dr. Dhaval Patel, I.A.S
+District Development Officer, Rajkot
+www.sanskritworld.in
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140904/777a85aa/attachment.htm>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140904/777a85aa/attachment-0001.htm>
+

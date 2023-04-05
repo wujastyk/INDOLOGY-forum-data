@@ -1,0 +1,52 @@
+From PA114508 at UTKVM1.UTK.EDU  Wed Aug 23 17:14:02 1995
+From: PA114508 at UTKVM1.UTK.EDU (James L. Fitzgerald)
+Date: Wed, 23 Aug 95 17:14:02 +0000
+Subject: Poverty -Reply
+Message-ID: <161227020663.23782.2761125472143968921.generated@prod2.harmonylists.io>
+
+Since I guess it was my posting that occasioned these two questions, I'll
+respond as to my own use of z for the palatal sibilant.  I am simply
+mimicking the usage of Prof. Tokunaga's transliteration in his electronic
+version of the MBh.  It is simply one way to make regular expression searches
+of the electronic text easier.  His version of the Arthazaastra carries
+the scheme out more fully.  I employ it in e-mail, etc., simply as an inter-
+mediate, pragmatic solution to an annoying technological discrepancy.
+For my own written work I either use a cobbled together set of characters
+and macros in Word Perfect 6.1 or, more satisfactory in terms of the final
+product, a set of specially designed diacritical characters for the
+HPLaserjetIII that I access through the ancient post-processor in FinalWordII
+(a beloved old friend that is aging gracefully, in spite of GUIs, SVGA, etc.)
+If and when the Indological world arrives at some convenient standard for all
+these script-issues I'll join up too as soon as it's easy.
+
+Jim Fitzgerald
+
+
+On Wed, 23 Aug 1995 21:44:04 BST Henry Groover said:
+>I'm also curious about this.  I thought CSX encoding used sh for the first
+>and shh for the second.  The only table I've seen for 7-bit ICSS encoding
+>comes from itrans documentation by Avinash Chopde.
+>
+>- Henry Groover
+>HGroover at Qualitas.com
+>
+>>>> Mani Varadarajan <mani at srirangam.esd.sgi.com> 08/23/95
+>09:28pm >>>
+>As an aside, since when has it become standard to use "Z" for the first
+>"sha" (I forget its technical name) in  transliteration when diacritics are
+>not available? It is a most confusing convention.  Why not use "S" for
+>the first
+>"sha" and "sh" for the second? This is what I have always done, and it
+>has the advantage of not being visually jarring to the reader.
+>
+>Mani
+>
+>
+>
+>
+ 
+
+
+
+
+

@@ -1,0 +1,28 @@
+From mahadevasiva at hotmail.com  Tue May 20 01:18:47 1997
+From: mahadevasiva at hotmail.com (S Krishna)
+Date: Mon, 19 May 97 18:18:47 -0700
+Subject: A correction
+Message-ID: <161227030380.23782.5755310552546737545.generated@prod2.harmonylists.io>
+
+Hi!
+
+This message is w.r.t my earlier posting( Posted on the evening
+of the 19th)....when I said integer, I meant positive number i.e.
+2**n -1 where n is an integer should be interprested as 2**n-1
+where n is a positive number.
+
+   I believe that the mistake has occured in two different places.
+I apologize for the confusion
+
+
+Krishna
+
+
+---------------------------------------------------------
+Get Your *Web-Based* Free Email at http://www.hotmail.com
+---------------------------------------------------------
+
+
+
+
+

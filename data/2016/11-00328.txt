@@ -1,0 +1,119 @@
+From wujastyk at gmail.com  Sat Nov 26 01:52:54 2016
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 25 Nov 16 18:52:54 -0700
+Subject: [INDOLOGY] Sinhala half nasal plus m
+In-Reply-To: <CABEB9qLjty0QgxtETbw9ScJi8pprbg6Ev4GsP7=6mgTVMKa+rQ@mail.gmail.com>
+Message-ID: <CAKdt-CehkCK5eqqbe15VbtL92xV1YHiE3GB+52XGWtOx=Pby-A@mail.gmail.com>
+
+One can look up Unicode chars in various places, such as here:
+https://unicodelookup.com/#latin
+small letter a with tilde/1
+
+It says, e.g.,
+
+??
+? latin small letter a with tilde 0343 227 0xE3 &atilde;
+
+
+?
+--
+Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+?,?
+
+Singhmar Chair in Classical Indian Society and Polity
+?,?
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+?,?
+University of Alberta, Canada
+?.?
+
+South Asia at the U of A:
+
+?sas.ualberta.ca?
+??
+
+
+On 17 November 2016 at 22:12, Dipak Bhattacharya <dipak.d2004 at gmail.com>
+wrote:
+
+> Dear Colleague,
+>
+> Between the nasal vowel eg in French ?en? and the velar n  one has
+> anusv?ra written with a dot over m. The nasal as I learned was
+> represented by a wave above the vowel. Unicode does not furnish the
+> letters. One has to improvise. I use them in MSWord for printing. But
+> they are not Unicode compliant
+>  Best
+>
+> DB
+>
+> On Fri, Aug 5, 2016 at 6:57 PM, Rolf Heinrich Koch
+> <rolfheiner.koch at gmail.com> wrote:
+> > Dear list members,
+> >
+> > there is one Sinhala sign consisting of a half-nasal with following ba,
+> >
+> > like in a-m-ba (mango).
+> >
+> >
+> >
+> > Unicode has a half-nasal for n, e. g. pa?dita.
+> >
+> > But I could not figure out the corresponding sign for the half-nasal m.
+> >
+> > Since the anusvara ? is also frequent in Sinhala, I am using ? for
+> > transcribing the half nasal m, e. g. a?ba.
+> >
+> >
+> >
+> > My work does not allow the composition of signs with the help of an
+> > additional accent.
+> >
+> >
+> >
+> > Anyone came across the Unicode-standard for he half nasal of m?
+> >
+> >
+> >
+> > Best
+> >
+> >
+> >
+> > Rolf Heinrich Koch
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> > www.rolfheinrichkoch.wordpress.com
+> >
+> >
+> >
+> >
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > indology-owner at list.indology.info (messages to the list's managing
+> > committee)
+> > http://listinfo.indology.info (where you can change your list options or
+> > unsubscribe)
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161125/3c8ad0fd/attachment.htm>
+

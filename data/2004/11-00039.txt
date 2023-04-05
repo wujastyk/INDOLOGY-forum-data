@@ -1,0 +1,62 @@
+From dean_anderson at SACARI.ORG  Fri Nov 12 02:24:25 2004
+From: dean_anderson at SACARI.ORG (Dean Anderson)
+Date: Thu, 11 Nov 04 20:24:25 -0600
+Subject: Devanagari
+In-Reply-To: <20041111020204.GD15888@deepthought>
+Message-ID: <161227075288.23782.15268454046434309365.generated@prod2.harmonylists.io>
+
+Dear Stefan,
+
+Thanks for posting that. However I notice your sample does not use many consonant conjuncts -- at least not ones that can't be created using half characters. How good is it at displaying some of the less common, but still widely used conjuncts?
+
+Dean
+
+>-----Original Message-----
+>From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of 
+>Stefan Baums
+>Sent: Wednesday, November 10, 2004 8:02 PM
+>To: INDOLOGY at liverpool.ac.uk
+>Subject: Re: Devanagari
+>
+>
+>> But it uses private/corporate use area of the unicode.  So, while it 
+>> does not pollute the area meant for other scripts, documents 
+>prepared 
+>> with Sanskrit 2003 in mind will not work without that font.
+>
+>Only if a document explicitly uses the PUA codepoints.  On any 
+>system capable of handling OpenType fonts, however, one would 
+>use sequences of the basic Unicode Devanagari characters, and 
+>the OpenType features of the Sanskrit 2003 font will 
+>automatically map from them to the conjuncts in the PUA.  Any 
+>text produced this way (and this is what one gets using any of 
+>the input methods mentioned earlier) will display fine on 
+>other Unicode-Devanagari- capable systems.
+>
+>If, after all this theoretical discussion, anyone should in 
+>doubt whether or not his/her computer can handle Unicode, here 
+>is verse one of the Bhagavadgita in Unicode Devanagari:
+>
+>   ???????????? ???????????? ?????? ????????? ?
+>   ?????? ???????????? ????????? ???? ?
+>
+>If that doesn't look right, it's maybe just your email 
+>program. You could try saving this email to disk, then opening 
+>it in your favourite word-processor (maybe specifying "UTF-8 
+>encoding" explicitly).  Alternatively, have a look at the BBC 
+>Hindi page (which is in Unicode):
+>
+>   http://www.bbc.co.uk/hindi/
+>
+>Best regards,
+>Stefan Baums
+>
+>-- 
+>Stefan Baums
+>Asian Languages and Literature
+>University of Washington
+>
+
+
+
+

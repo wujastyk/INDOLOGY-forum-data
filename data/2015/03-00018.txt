@@ -1,0 +1,117 @@
+From david_buchta at brown.edu  Thu Mar  5 18:31:53 2015
+From: david_buchta at brown.edu (Buchta, David)
+Date: Thu, 05 Mar 15 13:31:53 -0500
+Subject: [INDOLOGY] Fwd: matta-matanga-lilakara dandaka
+In-Reply-To: <A1135F5B-E5F2-449F-8B7A-8DC9A98C8529@uclouvain.be>
+Message-ID: <CAP_RTBC1aXmcMJ=4__pE44+-JJnLKAKfAjX7d2ZjxkADhPwfDQ@mail.gmail.com>
+
+Dear Venetia,
+
+ R?pa Gosv?min uses a *mattam?ta?gal?l?kara *meter in the 11th poem of his
+*Chando'???da?a* in the *Stavam?l? *(pp. 200-203 in the K?vyam?l? 84
+edition, with the discussion of the meter at the end). His commentator,
+Baladeva Vidy?bh??a?a, cites a definition that appears in the
+Pr?k?tapi?gala 2.303 (p. 230 in K?vyam?l? 41), but Baladeva attributes the
+definition to the *V?ttaratn?kara. *Though the meter is not mentioned in
+the *V?ttaratn?kara, *it is discussed in N?r?ya?a Bha??a's commentary
+thereupon (pp. 121-122 in ?arm?'s 1962 edition, Kashi Sanskrit Series 55).
+
+ I should note that the definition considered in these sources does not
+match yours, in that it does not, as *da??aka*s usually do, have two
+initial *na*-s. *Pr?k?tapi?gala *2.303: *yatra repha? para? svecchay?
+gumphita? sa sm?to da??ako mattam?ta?gal?l?kara?.* (Neither the definition
+itself nor the following *ud?hara?a* have intitial *na*-s, so these cannot
+be assumed from larger *da??aka *patterns.) Nor have I seen any discussion
+of subtypes, such as you mention.
+
+ I hope this helps. I have PDFs of all the texts mentioned above if you
+need anything.
+
+Regards,
+David
+
+On Thu, Mar 5, 2015 at 3:31 AM, Christophe Vielle <
+christophe.vielle at uclouvain.be> wrote:
+
+> In Dr. K. K. Geethakumary's *Metre in Sanskrit: A study with special
+> reference to V?tt?vartika of R?map??iv?da,* Calicut, Calicut Sanskrit
+> Series no. 30, 2008,
+> - (pp. 98-99) about the *da??aka*-type of "metres with more than
+> twentysix syllabes per line" it is said that their names "are determined on
+> the basis of the number of Raga?a coming after two Naga?as" - so as no.
+> 6, the L?l?k?ra? presents two Naga?as and twelve Raga?as. Then it is
+> added that in classical literature especially in devotional lyrics and
+> dramas, the upper limit of the number of syllabes has not been prescribed.
+> - (p. 92) a mattebha-vikr??ita metre is given but in this case it is a
+> variety of 19 syllabes/each 4 p?das metre.
+>
+> Cf. differently for the latter in Anundoram Borooah, *A comprehensive
+> grammar of the Sanskrit language, analytical, historical and Lexicographica*l,
+> vol. 10: *Prosody*, Calcutta : T.P. Brothers, 1882 (several reprints;
+> available with the DLI) no. 387 (p. 147) where mattebha-vikr??ita is a
+> variety of 20 syllabes/each 4 p?das metre; the same pp. 159-160 (no. 443)
+> has what you are searching for : the mattam?ta?gal?l?kara as a variety of
+> "other  *da??aka*-s", in which "every foot consists of nine or more
+> middle lights" (with example).
+>
+> Hope it can help,
+> Best wishes,
+> Christophe
+>
+> Le 5 mars 2015 ? 05:03, Venetia Kotamraju <venetia.ansell at gmail.com> a
+> ?crit :
+>
+> Dear list,
+> Does anyone have any information on a particular type of dandaka called
+> the Matta-matanga-lilakara?
+>
+> It consists of four padas which each start with two na-ganas (u u u) and
+> then an unfixed amount of ra-ganas (- u -).
+>
+> I came across it with reference to the Shyamala Dandaka which falls into
+> this category - although the Shyamala Dandaka has five padas rather than
+> four. I am wondering where the name came from (could it be related to the
+> Matangi of Shyamala Dandaka). I would also be grateful if anyone could
+> tell me of any other dandakas that fall into this category.
+>
+> Thank you in advance.
+>
+> Venetia
+>
+> --
+> Venetia Kotamraju
+> +91 997230 5440
+> www.rasalabooks.com
+> www.venetiaansell.wordpress.com
+>
+>
+>  _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+>
+> ???????????????????
+> Christophe Vielle <http://www.uclouvain.be/christophe.vielle>
+> Louvain-la-Neuve
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+David Buchta
+Lecturer in Sanskrit
+Department of Classics
+Brown University
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150305/30af644f/attachment.htm>
+

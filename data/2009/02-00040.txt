@@ -1,0 +1,22 @@
+From acollins at GCI.NET  Mon Feb  9 18:42:35 2009
+From: acollins at GCI.NET (Alfred Collins)
+Date: Mon, 09 Feb 09 09:42:35 -0900
+Subject: SARIT: Search and Retrieval of Indic Texts
+In-Reply-To: <alpine.WNT.2.00.0902071124560.7976@Caraka>
+Message-ID: <161227084791.23782.3244702042195933403.generated@prod2.harmonylists.io>
+
+ Dear Dr. Wujastyk,
+
+Could you explain the SARIT method of entering transliterated Sanskrit in the following way:
+"enter utf-8 characters directly using a suitable keyboard input layout"?
+Is there a site you could direct me to that would show how to enter Sanskrit letters by assigning keyboard strokes to them, not just for SARIT but to type diacritics in Word, etc. I have been typing retroflex t, etc., using a Sanskrit font then selecting characters from a Symbol menu. this is very cumbersome and slow.
+
+Hope my question is clear.
+
+Thanks,
+
+Al Collins
+
+
+
+

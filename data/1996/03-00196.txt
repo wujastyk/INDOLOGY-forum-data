@@ -1,0 +1,31 @@
+From HaroldA at eworld.com  Tue Mar 19 00:25:17 1996
+From: HaroldA at eworld.com (HaroldA at eworld.com)
+Date: Mon, 18 Mar 96 16:25:17 -0800
+Subject: Why not a definitive devnagri font
+Message-ID: <161227023468.23782.12349655654651563128.generated@prod2.harmonylists.io>
+
+
+----------------------------- Begin Original Text
+-----------------------------
+
+I would vote for using the Velthuis transliteration, which is simple, as good
+as
+any, and at least allows those with TeX or ITRANS to get Devanagari out of
+the
+text without too much fiddling.
+
+----------------------------- End Original Text -----------------------------
+
+I agree that trying to use a Devanaagari font would be practically
+impossibly, given the fact that the scholars at each and every university
+seem to have their own fonts and keyboard mappings, not to speak of the chasm
+between Mac and PC users. What is the Velthius transliteration? Could you
+simply post the varNamAla? E.g. a A i I, etc.? (Or is it a aa i ii? )
+Yrs.
+Harold F. Arnold
+
+
+
+
+
+

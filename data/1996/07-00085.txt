@@ -1,0 +1,35 @@
+From WIKNER at nacdh4.nac.ac.za  Mon Jul 22 07:14:05 1996
+From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
+Date: Mon, 22 Jul 96 09:14:05 +0200
+Subject: Wikner's Sanskrit Course
+Message-ID: <161227025379.23782.3721859347317667700.generated@prod2.harmonylists.io>
+
+
+Ralph Bunker <ralphbunker at msn.com> wrote:
+
+> I have downloaded Wikner's Sanskrit Course. It is a 5 Mbyte file that appears 
+> to be the text of instructions that are meant to be processed by a PostScript 
+> interpreter. Is the any commercial software for PCs or Macintoshes available 
+> that will allow me to print it? If so what is its name?
+
+In response to the many complaints that the original file (8 Mbyte) 
+was not viewable on screen, another version (5 Mbyte) was released
+which is; however, there are now many complaints that the latest file
+is unprintable (sigh).
+
+Until such time as the problem is resolved (I have not yet found a VMS
+version of GhostScript 4.0) both files are available at the original
+site: the files that definitely do print are
+ftp://ftp.nac.ac.za/wikner/sktintro.ps600-a4paper-june96-zip
+ftp://ftp.nac.ac.za/wikner/sktintro.ps600-letter-june96-zip
+The are ZIP files, each about 1 Mbyte.
+
+My apologies to you and others, for the confusion and inconvenience.
+
+Charles Wikner
+wikner at nacdh4.nac.ac.za
+
+
+
+
+

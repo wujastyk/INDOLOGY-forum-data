@@ -1,0 +1,29 @@
+From arlogriffiths at hotmail.com  Sat Apr 18 13:00:43 2020
+From: arlogriffiths at hotmail.com (Arlo Griffiths)
+Date: Sat, 18 Apr 20 13:00:43 +0000
+Subject: [INDOLOGY] Sarala Dasa's Oriya Mahabharata
+Message-ID: <AM0PR09MB4388F3D56259B72B8629A33DA5D60@AM0PR09MB4388.eurprd09.prod.outlook.com>
+
+Dear colleagues,
+
+For over 10 years now, I've had on my computer the raw material for the creation of a digital edition of Sarala Dasa's Mahabharata in Old Oriya:
+
+  *   scans of the printed edition
+  *   romanized representation thereof in txt files made by Oriya-literate typists in Auroville
+
+There are problems with the data (some distinctions of the script have not been maintained by the typists, some ak?aras have been systematically misread), but I have never found the time for the thorough proofreading that I had intended to carry out, and am pretty sure it will never happen if it depends on me.
+
+I think the data may nevertheless already be useful in their present form, if they could be processed to TEI and made available through GRETIL. But it would be ideal if some competent scholar (or team of scholars) would volunteer to proofread the data before or after they have been processed to TEI.
+
+I will be happy to send all the material to anyone who comes forward with a credible plan of action.
+
+Best wishes,
+
+Arlo Griffiths
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200418/70991ff8/attachment.htm>
+

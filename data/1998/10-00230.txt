@@ -1,0 +1,32 @@
+From caha at FSS.MUNI.CZ  Mon Oct 26 05:16:12 1998
+From: caha at FSS.MUNI.CZ (Caha Libor)
+Date: Mon, 26 Oct 98 06:16:12 +0100
+Subject: freeware devanagari TTF
+In-Reply-To: <3.0.6.32.19981026102409.00861660@ms19.hinet.net>
+Message-ID: <161227042001.23782.350484708917212761.generated@prod2.harmonylists.io>
+
+On URL http://www.aczone.com/ilkeyb/ or on http://www.paranoia.com/~avinash/
+is demoversion of the Indian Language Keyboard Program with ttf font
+mantra__.ttf. (I think that better for devanagari is TeX and ITRANS).
+
+caha at fss.muni.cz
+
+>
+> Dear Shishtas,
+> I wonder if anyone of you know of any freeware devanagari True Type fonts.
+> We want to be able to offer also devanagari, not only transcription, on our
+> pages - but in such case this font must be downloadable for everybody, thus
+> it must be free.
+> Any help would be greatly appreciated.
+>
+> Regards,
+> Miroslav Rozehnal
+> Center For Buddhist Studies
+> national Taiwan University
+> Taipei, Taiwan, R.O.C.
+> http://ccbs.ntu.edu.tw
+>
+
+
+
+

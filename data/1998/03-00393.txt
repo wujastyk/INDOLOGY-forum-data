@@ -1,0 +1,86 @@
+From ucgadkw at UCL.AC.UK  Mon Mar 23 17:36:48 1998
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Mon, 23 Mar 98 17:36:48 +0000
+Subject: [INFO] Tibetan Extensions to Unicode: TIBEX list (fwd)
+Message-ID: <161227037029.23782.18418547726545529639.generated@prod2.harmonylists.io>
+
+---------- Forwarded message ----------
+Date: Fri, 20 Mar 1998 20:27:12 +0000
+From: Christopher Fynn <cfynn at dircon.co.uk>
+Subject: Tibetan Extensions to Unicode: TIBEX list
+
+
+TIBEX MAIL LIST HELP FILE
+=========================
+
+The public mail list "tibex at unicode.org" is open to anyone who wishes
+to be involved in technical discussions of Tibetan extensions to
+Unicode / ISO10646.
+
+
+1. SUBSCRIBE
+
+You can subscribe to the Tibex public mail list by sending a message to
+the list's "request" address.  The subject line of your message should
+contain the word "subscribe".  The body of the message should contain a
+subscription command, which has the following form:
+
+ subscribe YOUR_ADDRESS tibex
+
+For example, if your e-mail address is "V_WoodHull at whitehouse.gov" you
+would subscribe to the list by sending a note to "tibex-request at unicode.org"
+with the subject line "subscribe" and the contents as follows:
+
+ subscribe V_WoodHull at whitehouse.gov tibex
+
+(Your personal name should not be specified; only your electronic mail
+address is needed for subscription.)  Subscriptions take effect
+immediately, beginning with the next message posted to the list.
+
+
+2. UNSUBSCRIBE
+
+You may remove yourself from the mail list at any time by similarly sending
+an "unsubscribe" message, for example, assuming your address is
+"Leon_Trotsky at whitehouse.gov" you would unsubscribe by sending the following
+message to the same address "tibex-request at unicode.org":
+
+ unsubscribe Leon_Trotsky at whitehouse.gov tibex
+
+
+3. POST MESSAGES
+
+When you wish to post a message to the list itself (i.e., to the
+subscribers), send it to "tibex at unicode.org", NOT to the request
+address, "tibex-request at unicode.org".  The "-request" address is
+only for subscription and unsubscription.
+
+You may respond to posted messages by using your mailer's "reply"
+feature.
+
+
+4. CAVEAT EMPTOR
+
+The subscription mechanism is very literal, and it doesn't know about all
+the aliases by which you may be known.  Therefore when you subscribe please
+make a note of your precise subscription address.  You will not be able to
+unsubscribe without matching the precise address by which you subscribed.
+For example, if you subscribe as "karl_marx at nowhere.com" then you will NOT
+be able to unsubscribe by the name "k.marx at nowhere.com", or by
+"karl_marx at mail.nowhere.com" or any other such mis-matched address.
+
+
+5. NOTES
+
+The mail lists are not serviced by a LISTSERV type of server.  The command
+set of the server is limited to simple requests for addition & removal.
+There is no digest mode.  The list of subscribers is not available.
+Messages are usually archived on a temporary basis, but the archives are
+not currently available for downloading; and there are no plans to make
+them available.
+
+Last revision: 1998-03-13 09:58
+
+
+
+

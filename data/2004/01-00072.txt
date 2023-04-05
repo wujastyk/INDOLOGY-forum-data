@@ -1,0 +1,56 @@
+From ucgadkw at UCL.AC.UK  Thu Jan 29 22:56:48 2004
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Thu, 29 Jan 04 22:56:48 +0000
+Subject: Free critical edition and text comparion tool
+Message-ID: <161227073822.23782.18408139681547860313.generated@prod2.harmonylists.io>
+
+---------- Forwarded message ----------
+Date: Thu, 29 Jan 2004 08:40:59 +0000
+From: "Humanist Discussion Group (by way of Willard McCarty
+    <willard.mccarty at kcl.ac.uk>)" <willard at LISTS.VILLAGE.VIRGINIA.EDU>
+To: humanist at Princeton.EDU
+Subject: 17.579 Versioning Machine 2.0 released
+
+               Humanist Discussion Group, Vol. 17, No. 579.
+       Centre for Computing in the Humanities, King's College London
+                   www.kcl.ac.uk/humanities/cch/humanist/
+                        www.princeton.edu/humanist/
+                     Submit to: humanist at princeton.edu
+
+
+
+         Date: Thu, 29 Jan 2004 08:31:44 +0000
+         From: "Susan Schreibman" <ss423 at umail.umd.edu>
+         Subject: Versioning Machine 2.0 release
+
+Maryland Institute for Technology in the Humanities (MITH) is delighted to
+announce the 2.0 release of the Versioning Machine
+http://www.mith2.umd.edu/products/ver-mach/
+
+The Versioning Machine is software tool designed by a team of programmers,
+designers, and literary scholars for displaying and comparing multiple
+versions of texts. The display environment seeks not only to provide for
+features traditionally found in codex-based critical editions, such as
+annotation and introductory material, but to take advantage of opportunities
+of electronic publishing, such as providing a frame to compare diplomatic
+versions of witnesses side by side, allowing for manipulatable images of the
+witness to be viewed alongside the diplomatic edition, and providing users
+with an enhanced typology of notes.
+
+VM 2.0 has significant improvements over the previous release. Previously it
+was only possible to encode texts according to TEI's parallel segmentation
+method. It is now possible to encode each witness as a separate document
+instance. However, not all of the VM's features work using this method.
+
+VM 2.0 also has enhanced image display features. Previously it was only
+possible to view one image at a time. The Image applet now allows users to
+view all the images in a witness set together. In addition, all VM features
+now work in Netscape 7.0 for PC. And lastly, we have provided users with a
+VM Installer based on lzPack to make the installation process easier.
+
+We welcome your comments and feedback on this product
+<ver-mach-users at dev.umd.edu>
+
+
+
+

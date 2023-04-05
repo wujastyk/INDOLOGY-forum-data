@@ -1,0 +1,68 @@
+From CXBG at CA.MCGILL.MUSICA  Thu Sep  3 20:05:15 1992
+From: CXBG at CA.MCGILL.MUSICA (Brendan S. Gillon)
+Date: Thu, 03 Sep 92 16:05:15 -0400
+Subject: Puzzle about Sanskrit Contruction
+Message-ID: <161227015478.23782.9616593621865411179.generated@prod2.harmonylists.io>
+
+Status: RO
+
+I am looking for data or references which will help me determine
+how English sentences of the following sort are rendered in
+Sanskrit.
+ 
+(1) the cake tastes bitter to Devadatta.
+(2) the lotus smells sweet to Devadatta.
+(3) the hand feels cold to Devadatta.
+(4) the music sounds pleasant to Devadatta.
+(5) the woman looks sad to Devadatta.
+ 
+Below I append what results I have for those are interested in
+the problem.
+ 
+===============================================================
+ 
+One treatment of the sentence in (1), brought to my attention by
+Madhav Deshpande and confirmed by the entry for "svad" in Apte's
+dictionary, is this:
+ 
+(1.1) apuupam ku.tam Devadattaaya svadate.
+ 
+Partial treatments of the sentences in (4) and (5) come from
+sentences I have come across.
+ 
+(4.1) samgiitam ramaniiyam 'sruyate.
+(5.1) strii vi.sa.n.naa d.r'syate.
+ 
+What remains a mystery in these two cases is whether the "to
+Devadatta" part of the English should be rendered by a dative, as
+in (1.1) or with an instrumental. The possibilities are given
+below.
+ 
+(4.1.1) samgiitam ramaniiyam Devadattena 'sruyate.
+(4.1.2) samgiitam ramaniiyam Devadattaaya 'sruyate.
+ 
+(5.1.1) strii vi.sa.n.naa Devadattena d.r'syate.
+(5.1.2) strii vi.sa.n.naa Devadattaaya d.r'syate.
+ 
+Finally, I have no information pertaining to the sentences in (2)
+and (3). In particular, I do not know whether ghraa and sp.r's
+pattern with svad or with d.r's and 'sru. In other words, it is
+not clear how to choose among the following options:
+ 
+(2.1) kamalam ku.tam Devadattaaya jighrati.
+(2.2) kamalam ku.tam Devadattena/Devadattaaya ghraayate.
+ 
+(3.1) p$,im 's%tam Devadattena/Devadattaya sp'-ati.
+(3.2) p$,im 's%tam Devadattena/Devadattaya sp'-yate.
+ 
+Any speculation or data pertaining to this matter will be greatly
+appreciated.
+ 
+ 
+ 
+Brendan S. Gillon
+
+
+
+
+

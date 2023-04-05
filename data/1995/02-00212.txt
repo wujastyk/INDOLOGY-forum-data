@@ -1,0 +1,55 @@
+From rkornman at pucc.Princeton.EDU  Sat Feb 25 05:39:51 1995
+From: rkornman at pucc.Princeton.EDU (Robin Kornman)
+Date: Sat, 25 Feb 95 00:39:51 -0500
+Subject: Indology Research desk
+Message-ID: <161227018721.23782.6556804988172329215.generated@prod2.harmonylists.io>
+
+
+>Hello,
+>        I am currently writing a proposal to make a research platform which
+>an indologist can use for the research and related activities.
+>I would like to know from the list members  what all this piece of software
+>should have and can optionally have. All suggestions and criticisms are most
+>welcome.
+>
+
+Multi-lingual word-processing with the possibility of alphabetization in the
+alphabetical order of each language. Global searches by word in any
+alphabet. A spell-checker keyed to a specific alphabet. Whizz-bang
+multi-lingual indexing. It should be equiped with Big 5 and whatever other
+systems are necessary in order to receive Chinese character announcements
+off of Chinese Bulletin Boards.  Why Chinese?  Because of research in
+Chinese which will become relevant in coming years.  Separating your South
+Asian platform from the needs of Inner Asian studies is not a good idea. For
+example, I am a specialist in Inner Asian texts, but do a lot with Indic
+sources as well. 
+
+You will find one major problem: Sanskrit conjuncts. To computer input the
+Tibetan Buddhist canon we need Tibetan versions of all Sanskrit conjuncts,
+but are having trouble finding a complete list. 
+
+Your platform must be Worldscript compatible or else it will not be useful
+to Mackintosh users such as myself. For example, I would like to get the
+Chinese Language Kit for Mackintosh. But I use Microsoft Word as my
+word-processor. The CLK is based on a Mackintosh font-manager utility in the
+operating system called Worldscript.  But Microsoft Word has decided not to
+be Worldscript compatible in its new versions. The result is that you do not
+get the benefits of variable spacing that are so vital if you are using a
+complicated non-roman alphabet or character system. Eventually I am going to
+have to abandon Microsoft Word, even though I have spent several years
+learning to use it. I will have to abandon it simply because it is not
+perfectly compatible with the font-managers designed by the Mackintosh
+operating system. 
+
+Your platform will have to be able to accept and correctly interpret the
+General Markup System some people use to drive postscript fonts. 
+
+Just a few ideas. I hope this is helpful. 
+
+RObin Kornman
+ 
+
+
+
+
+

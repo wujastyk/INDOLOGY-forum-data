@@ -1,0 +1,130 @@
+From ucgadkw at UCL.AC.UK  Thu Jan 27 12:16:29 2000
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Thu, 27 Jan 00 12:16:29 +0000
+Subject: Descriptive Cataloging of Ancient, Medieval, Renaissance,              and Early-Modern Manuscripts (fwd)
+Message-ID: <161227055558.23782.2353118193506253644.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+In the professional library world there is a "bible" for cataloguers
+called AACR2 ("Anglo-American Cataloguing Rules, 2 edition").  This
+document is the basis of cataloguing practice in many tens of thousands of
+libraries worldwide, and it is extremely influential.
+
+AACR2 contains a lot of general orientation, and promotes a certain view
+of cataloguing.  However, it is centrally concerned with the description
+of printed books, and it does not deal adequately with the cataloguing of
+manuscripts, or even with early printed books (incunabula etc.).  This has
+been recognized for years, and some supplementary documents have been
+circulated in the librarian community which help with these different
+kinds of materials.
+
+At long last, a formal document written at the same level as the AACR2
+manual is nearing completion.  Greg Pass has written a formal set of
+cataloguing rules for manuscript materials.  The draft is available
+online, and I would encourage anybody interested in manuscripts to have a
+look at it.  The document is aimed at professional librarians,
+medievalists, etc. etc. and is bound to have a big influence on the future
+of manuscript catalogues and cataloguing.
+
+I have already been in touch with Greg Pass to note that his guidelines
+lack any reference to non-European manuscripts, especially Asian
+manuscripts.  He readily agreed, and asked for input on this topic.
+
+I have been intending to provide a commentary on his guidelines, but I am
+so short of time that this is difficult.
+
+I would encourage anybody on this list to spread the word about these new
+cataloguing rules.  Especially, please inform any staff you know who have
+responsibility for Indian (or Oriental) manuscript collections.
+
+We have a small window of opportunity here to get some material about
+Asian manuscript issues into these guidelines, which are inevitably going
+to define the field of manuscript cataloguing for decades to come.
+
+Another idea would be simply to ask Greg Pass to rename the guidelines
+DESCRIPTIVE CATALOGING OF ANCIENT, MEDIEVAL, RENAISSANCE, AND EARLY-MODERN
+WESTERN MANUSCRIPTS (i.e., adding "Western").  But this would be a great
+pity, I believe.
+
+Best,
+Dominik
+
+
+---------- Forwarded message ----------
+Date: Wed, 12 Jan 2000 15:01:37 -0600
+From: Gregory A. Pass <passga at SLU.EDU>
+Reply-To: Electronic Access to Medieval ManuscriptS <EAMMS at LS.CSBSJU.EDU>
+To: EAMMS at LS.CSBSJU.EDU
+Subject: Descriptive Cataloging of Ancient, Medieval, Renaissance,
+                    and Early-Modern Manuscripts
+
+As a reminder, I would like to reiterate an announcement made earlier
+concerning a public hearing to be held at the upcoming Midwinter Conference
+of the American Library Association in San Antonio, TX, for comment and
+discussion on the draft document of Descriptive Cataloging of Ancient,
+Medieval, Renaissance, and Early-Modern Manuscripts.  This session is
+sponsored by the Bibliographic Standards Committee of RBMS/ACRL and will be
+held on Friday, January 14, 8-10pm at the Henry B. Gonzalez Convention
+Center, rm. 208.  All are welcome to attend.
+
+==========================
+
+I would like to announce the availability of the draft text for a new set of
+manuscript cataloging standards entitled DESCRIPTIVE CATALOGING OF ANCIENT,
+MEDIEVAL, RENAISSANCE, AND EARLY-MODERN MANUSCRIPTS (also known more
+economically as AMREMM).  These rules are intended as a supplement to
+AACR2 -- similar in scope to Descriptive Cataloging of Rare Books (DCRB) and
+Archives, Personal Papers, and Manuscripts (APPM) -- to allow creation of
+item-level MARC catalog records for pre-modern manuscript materials in
+library on-line public access catalogs as well as in the national
+bibliographic utilities OCLC or RLIN.  The document is available in a
+variety of file formats at URL: <ftp://165.134.156.3/vatican>.  A public
+hearing will be held to invite comment and discussion on these proposed
+cataloging rules at the Midwinter meeting of the American Library
+Association in San Antonio, TX, on Friday, January 14, 2000, from 8:00 pm to
+10:00 pm.  Scheduling and other information can also be found in the RBMS
+Newsletter, pp. 2-3.  All are welcome to attend.
+
+These cataloging rules have been developed under the auspices of Electronic
+Access to Medieval Manuscripts (URL: <http://www.csbsju.edu/hmml/eamms>), a
+project funded by the Andrew W. Mellon Foundation, in cooperation with the
+Bibliographic Standards Committee of the Rare Books and Manuscripts Section
+of the Association of College and Research Libraries, a division of the
+American Library Association, and tested at the Vatican Film Library at
+Saint Louis University.  The Electronic Access project was instituted in
+1996 with the aim of increasing the ability of researchers "to access
+medieval manuscript catalog records, research information, images, text and
+tools" in a more efficient manner through electronic means.  This project
+brought together an international group of manuscript specialists comprising
+catalogers, historians, art historians, and curators from the library and
+academic communities to advise on the formulation of these rules.  These
+rules represent a broad consensus in defining the categories of information
+that an on-line manuscript description should contain and how these records
+should be implemented according to AACR2 in a MARC environment.  It is hoped
+that the combination of record structure and content information that is
+offered will be flexible enough to accommodate a range of scholarly
+manuscript descriptions.
+
+Comments or questions are invited and may be directed to me at the address
+given below.
+
+Thank you.
+
+
+Gregory Pass
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gregory Allan Pass
+Assistant Librarian, Vatican Film Library
+Pius XII Memorial Library
+Saint Louis University
+3650 Lindell Boulevard
+St. Louis, Missouri  63108
+Tel. (314) 977-3096 / Fax (314) 977-3108
+http://www.slu.edu/libraries/vfl
+passga at slu.edu
+
+
+
+

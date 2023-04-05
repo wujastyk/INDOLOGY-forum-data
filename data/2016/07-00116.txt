@@ -1,0 +1,30 @@
+From wujastyk at gmail.com  Fri Jul 15 19:16:00 2016
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 15 Jul 16 21:16:00 +0200
+Subject: [INDOLOGY] Unicode Devanagari on Mac
+In-Reply-To: <CAB3-dzcLV0vnU98XdR5_6criKQwRfD4j=Ax16CwQY490gwPOaw@mail.gmail.com>
+Message-ID: <CAKdt-CdkfokaDm6NR8MzB1ORSNbYP2rgUCR0=9cP5FyCeaPK0w@mail.gmail.com>
+
+The Unicode standard includes non-spacing accents, so you can stack 'em as
+much as you like.
+
+Working out how to type them conveniently will depend on your keyboard
+handler.  Linux comes with many options in this area.  Ibus and m17n
+include ready-made Roman IAST and Devanagari Sanskrit keyboards, but it's
+very easy to make one's own combinations ad libitum for anything not in the
+standard keystroke repertoire.   In the control file, you put what you want
+to type in the left column, and what's meant to show on your screen in the
+right column.
+
+Finally, what stacked accents will look like depends on the font you
+select.  Some fonts handle this more elegantly than others.
+
+Best,
+Dominik
+?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160715/d3049258/attachment.htm>
+

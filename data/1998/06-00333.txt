@@ -1,0 +1,120 @@
+From witzel at FAS.HARVARD.EDU  Mon Jun 22 02:42:42 1998
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Sun, 21 Jun 98 22:42:42 -0400
+Subject: Retroflex sounds
+In-Reply-To: <1.5.4.16.19980621220605.27bfc4c4@hd1.vsnl.net.in>
+Message-ID: <161227040154.23782.9464563188681575425.generated@prod2.harmonylists.io>
+
+Thanks for the clarification!
+
+On Sun, 21 Jun 1998, Bh.Krishnamurti wrote:
+
+> The Australian ex. is not relevant to the problem of
+> retroflexion in IA through diffusion.
+
+Of course. I only mentioned it as parallel development (like in
+Scandinavian, Sardinian). And, just in case that Aust. once had passed
+through India (in the out-of-Africa scheme) and had left a substratum
+there... which particular (retr.) scenario obviously does not work now.
+
+> Incidentally my scenario does not
+> support an entirely internal development of retroflexion within IA. The full
+> transformation of the IA phonological system must have taken about two
+> millennia of contact with Dravidian and perhaps Munda.
+
+I believe in a similar scenario but I  am still at the stage of
+collecting data/proofs. Hence my questions, to go beyond Zevebil 1970
+(Comp.Drav.Phonology)
+
+
+To provide two somewhat "outrageous" scenarios:
+
+(1) If PDrav. _t, .t etc. are securely PDrav. (as also in Zvelebil/DED)
+is there any INTERNAL evidence in PDrav. that they might have developed
+(in *pre*-Proto-Drav.) from various Sandhi positions / particular phonetic
+surroundings.
+
+I gather, not?
+
+
+(2) if  (1) does not work, and waht I also had in mind:  has anyone an
+opinion on:
+
+ Nostratic **t  > PDrav. *.t,  etc.?
+
+A brief check of various sounds/and groups in : Illich-Svitych, Opyt...,
+Moskva 1971-6 follows.
+
+If I understand him correctly, he reconstructs Drav. retroflexes as
+conditioned by *intervocalic position* in Nostratic. I am somewhat
+hampered now as I have left my Russian Dict. in the office.
+
+I am quoting from Illich's dictionary (nith his no.s) , merely adding DED2
+numbers (hopefully correctly), as he only has DED1 page numbers (which I
+don't have here)
+
+        (Afro-Asiatic, AfrAs,  for his, older, Hamito_Semitic)
+        (NB. Nostr. .t, .k,   etc. are of course NOT retroflexes)
+
+Illich-Sv. no. 225 Drav. ke.t^ //  " padat'/to fall"
+**Nostr. .ket^, IE ? keid/k'ad ( O.Isl. hitta,  Skt. zad)
+Drav.   DED2 1124  Tam. ki.ta, Tel. ke.dayu
+
+no. 306 Drav. muu.t  // "konchat's/konec/ to end"
+Nostr. **muda, AfrAs. md, Alt. muda
+Drav. DED2 4922  Tam. mu.ti, Tel. muu.du (Krish. 466)
+
+no . 251 Drav. ne.t/naa.t  // "razyskivat', nakhodit'/ to seek"
+**Nostr. ? lewda", Ural. Lewda"
+Drav. (1. ) *neet   DED2 3766    Tam.  ne.tu,  Kodagu nee".d
+(2) *naa.t  DED2  3637  Tam. naa.tu, Tulu naa.du
+
+no. 205  Drav.  ku.d.d //  "malenkii/ small"
+**Nostr. .ku.t^, AfrAs. q(w).t, k(w).t, kt, Kartv. .ku.t, .ko.t
+Drav. ku.d.d  DED2 1670  Tam. ku.t.tam, Kui  guu.ta, Kurukh  gu.druu,
+Brahui  _ghu.d.du
+(As for Drav.  .d.d in mid-word position (inlaut), he presupposes some old
+suffix *-H : *-.tH > Drav.  .d.d )
+
+no. 194 Drav. ka.t/ka.t.ta //"ukhodit'/to pass through"  :
+Nostr. **.kaLa, IE?, Kartv. .kel, Ural. kad'a, Alt. k'ala Drav. : DED2 no.
+1109 'pass through' etc. Tam. ka.ta etc.
+
+no. 204 Drav. ku.t.t //  "tainyi/secret"
+Nostr. ** .kuLa,  AfrAs. q(w)l,  Kartv. .kwel, Alt. k'ula
+Drav. DED2 1675  Tam. ku.t.tu, Tel gu.t.tu etc.  'secret'
+etc.
+
+no. 79 Drav. ka.n.t  // "samec/man, etc.,"
+Nostr. **ga"ndu   (a" = a + umlaut) , Drav. ka.n.t, Alt. g"andu"
+Drav.  DED2  1173 Tamil ka.n.ta_n, Tel. ga.n.de etc.
+
+no. 301 Drav. mi.n(.t)  // "zhenshchina/samka/ <<promiscuous>> woman"
+Nostr, **min'a", AfrAs. m(j)n, Ural. min'a"
+Drav.   DED2  4858  Kan. mi.n.di <<lusty female>>, Tulu mi.n.di, -- cf.
+Kota mi.n.d.n, Kan. mi.n.d.a; cf.  Brahui min.d; Skt. menaa  from N.
+Dravidian.
+
+no. 86  Drav. *ku.n.ta? //  rather doubtful. "serdce/heart"
+Nostr. **golH^, Kartv. gul-. Alt. gol(^) -
+Georgian gul, Old Uighur qo:l, Mong. gool, AfrAs some Chadian forms
+gur/kor..
+Drav. (?) DED2 1693  Tam. ku.n.ti, Kan. gu.n.dige, Tel. gu.n.de etc.
+
+
+(He has many more  cases of _r, .r,  -l, .l)
+
+Any opinion?   Or is that *too early* to ask?
+
+
+This is important:
+If one accepts the Nostraticists' position, then the Dravidians, too,
+started to retroflex their tongues only *after* entering the
+subcontinent.... as nearly everybody else.
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+
+
+
+

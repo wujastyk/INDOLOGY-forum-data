@@ -1,0 +1,54 @@
+From rolfheiner.koch at gmail.com  Fri Aug  5 13:27:33 2016
+From: rolfheiner.koch at gmail.com (Rolf Heinrich Koch)
+Date: Fri, 05 Aug 16 15:27:33 +0200
+Subject: [INDOLOGY] Sinhala half nasal plus m
+Message-ID: <009601d1ef1d$20bf19e0$623d4da0$@gmail.com>
+
+Dear list members,
+
+there is one Sinhala sign consisting of a half-nasal with following ba,
+
+like in a-m-ba (mango). 
+
+ 
+
+Unicode has a half-nasal for n, e. g. pa?dita. 
+
+But I could not figure out the corresponding sign for the half-nasal m. 
+
+Since the anusvara ? is also frequent in Sinhala, I am using ? for transcribing the half nasal m, e. g. a?ba.
+
+ 
+
+My work does not allow the composition of signs with the help of an additional accent.
+
+ 
+
+Anyone came across the Unicode-standard for he half nasal of m?
+
+ 
+
+Best
+
+ 
+
+Rolf Heinrich Koch
+
+ 
+
+ 
+
+ 
+
+ 
+
+www.rolfheinrichkoch.wordpress.com
+
+ 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160805/56a2bbac/attachment.htm>
+

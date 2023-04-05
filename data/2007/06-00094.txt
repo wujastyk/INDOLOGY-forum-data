@@ -1,0 +1,30 @@
+From P.Friedlander at LATROBE.EDU.AU  Sun Jun 17 08:00:28 2007
+From: P.Friedlander at LATROBE.EDU.AU (Peter Friedlander)
+Date: Sun, 17 Jun 07 18:00:28 +1000
+Subject: Finding Indological full-book PDFs on Google Books
+Message-ID: <161227080580.23782.12746308384479893894.generated@prod2.harmonylists.io>
+
+Dear List members,
+It seems to me that there is an enormous amount of hype that does not match reality in projects like Google Books.
+ 
+I have worked on projects inputing colonial era texts for several years now, 
+it took an enormous number of hours, skill and enthusiasm to input about 9000 pages..
+See (http://www.chaf.lib.latrobe.edu.au/dcd/default.htm)
+To be able to search text meaningfully it needs to be carefully proofread as it is digitised, 
+many of the current projects do not do this, it is time consuming and expensive.
+plus, OCR of diacritical marks, let alone indic scripts, is not straightforward.
+Indeed there is not yet any effective OCR program for Devangari, and 
+So although its amazing what is being done, there is a long way still to go.
+regards
+Peter Friedlander
+____________________________________
+Dr Peter G. Friedlander
+Asian Studies
+La Trobe University, VIC 3086
+Tel: 61 3 9479 2064
+Fax: 61 3 9479 1880
+Email: p.friedlander at latrobe.edu.au
+
+
+
+

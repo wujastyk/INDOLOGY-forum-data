@@ -1,0 +1,73 @@
+From jan.kucera at matfyz.cz  Tue May 31 10:35:58 2022
+From: jan.kucera at matfyz.cz (=?UTF-8?Q?Jan_Ku=C4=8Dera?=)
+Date: Tue, 31 May 2022 11:35:58 +0100
+Subject: [INDOLOGY] Adobe & Devanagari works perfectly fine
+In-Reply-To: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
+References: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAAyHo+E6YABIlxU7G7FJJooBAAAAAA==@matfyz.cz>
+
+I responded to Daniel offline but thank you both for your responses.
+
+ 
+
+A lot of the proper rendering depends on the font indeed. I am looking for things that even fonts are not allowed to do but should be, on Windows commonly exhibited using dotted circles.
+
+ 
+
+Thank you Oliver for the font link! Note that the Chandas font appears to be over 15 years old, with the latest characters coming from Unicode 5.0. For all the later additions such as Vedic signs and tones, the oe/ue/aw and other vowels, private use characters need to be used.
+
+ 
+
+Thanks,
+
+Jan
+
+ 
+
+From: Oliver Frey <ofrey at me.com> 
+Sent: Tuesday, May 31, 2022 11:05 AM
+To: jan.kucera at matfyz.cz; indology at list.indology.info
+Subject: Adobe & Devanagari works perfectly fine
+
+ 
+
+Dear D?niel & Jan, 
+
+ 
+
+just a quick note on D?niel?s last email via Indology:
+
+ 
+
+1. Devanagari on Adobe products works perfectly fine! ? You just need to set the paragraph style correctly:
+
+ 
+
+?> Paragraph Style Options 
+
+?> Justification
+
+?> put ?Composter? on ?Adobe World-Ready Paragraph Composer?
+
+ 
+
+2. Chandas Devanagari most complete font (http://www.sanskritweb.net/cakram/) ? I think
+
+ 
+
+See attached PDF.
+
+ 
+
+Best, oliver
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220531/14ce6aac/attachment.htm>
+

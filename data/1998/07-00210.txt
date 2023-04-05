@@ -1,0 +1,48 @@
+From info at TICONSOLE.NL  Tue Jul 14 20:07:18 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Tue, 14 Jul 98 22:07:18 +0200
+Subject: double accusatives
+Message-ID: <161227040877.23782.8146331375240624549.generated@prod2.harmonylists.io>
+
+George Simpson wrote
+
+>more sound to take case endings seriously and to understand the sanskrit
+>sentence as "he makes him see a book", where we feel no doubt about the
+>direct object character of both "him" and "the book"? And the fact that
+>"darzayati" could (since when?) be used with a dative or genitive shows
+>only that its semantics gradually shifted into the direction of "to show"
+>(i.e. "to give someone something to see") so that it could be used in
+>analogy to verbs like "dA". But that does not entitle us in my opinon to
+>call the accusative "tam" an "indirect object".
+
+The original situation of `rAma.m pustaka.m darzayati' then is like `(he) makes rama - see the book. In other words, rama as the higher object, and the book as the lower object.
+
+However, Boris Oguibenine wrote
+
+>On the other hand a current distinction is between the high
+>transitivity (a book is given or given to see) and the low transitivity
+>("he" is only secondarily affected by the agent). The point is that
+>"pustakam darzayati/dadAti" is a complete utterance, whereas"*tam
+>darzayati/dadAti" is an ellipsed utterance which may be understood
+>adequately, only if an additional information about the object of high
+>transitive verb 
+
+The original situation of `rAma.m pustaka.m darzayati' then is more like `(he) makes the book - (so that) rAma sees (it). Much more difficult to analyse in terms of (apologize) generative grammar, but more satisfactory also. The analysis with rAma as the higher object goes wrong, as then `see the book' as a whole also functions as a direct object. Two direct obects are difficult. So, it looks as if Boris' observation yields the better conclusion.
+
+George Simpson also wrote:
+>therefore I suggest in the case of darzayati a semantic shift from "he
+>makes someone (acc.) see something (acc.)" to "he makes something (acc.)
+>seen=visible to somebody (dat., later also gen.)." That seems to me a
+>better strategy than to jump to the conclusion that an accusative ending
+>can express the role "indirect object".
+
+Of course. Unless you indicate this shift-to-come-in-later-times already by a term like indirect object. As we all observe that there is `some' difference between the two accusatives.
+
+Sandra van der Geer
+Leiden
+The Netherlands
+info at ticonsole.nl
+
+
+
+

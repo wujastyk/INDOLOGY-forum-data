@@ -1,0 +1,241 @@
+From grotebev at UNI-KOELN.DE  Sun Sep 28 16:45:03 1997
+From: grotebev at UNI-KOELN.DE (Tobias Grote-Beverborg)
+Date: Sun, 28 Sep 97 18:45:03 +0200
+Subject: Hindi PC DOS announced
+Message-ID: <161227032800.23782.16799946963359085184.generated@prod2.harmonylists.io>
+
+At 09:58 26.09.97 -0400, you wrote:
+>Tobias Grote-Beverborg wrote:
+>>
+>> Dear Mr. Russell,
+>> I received your mail (press release, article) from H-Asia list, a List
+>> dedicated to Asian Studies. I allowed myself to forward that article to
+>> Indology-List, a list dedicated to Indological studies, as I thought it
+>> would be interesting for the members.
+>
+>Hello Tobias
+>
+>Yes, I thought it was interesting as well, which is why I forwarded it
+>to the Asian Internet Marketing (AIM)list. Alas, my comments were edited
+>out by the moderator, making it appear as though I had written it. I
+>didn't realise how widely quoted the AIM list is!
+>
+>>
+>> At 08:57 25.09.1997 -0400, rrussell at ibm.net wrote:
+>>
+>> >What was presented were not my words.
+>>
+>> Whose words were it then?
+>
+>I'm not aware of the precise author, but my position within IBM allows
+>me to receive press clippings, and that is what it was. I do believe
+>that the source lies within TATA IBM, an Indian joint venture company in
+>the IT field, and I have a contact point for further information.
+>
+>I have pasted the full text of what I received at the bottom of this
+>email, and the contact point is at the bottom of that.
+>
+>> I still have a copy which bears your name on it.
+>>
+>
+>Only because email software puts a sig on the bottom of sent messages :)
+>I wrote a message at the top that suggested this may be of interest to
+>listmembers, that it was a press release from TATA IBM. That was removed
+>by the moderator, hence the confusion since.
+>
+>> If the message isn't yours or if it has been quoted wrongly, please send the
+>> original to me.
+>
+>The original is quoted at the bottom of this note, just as I received
+>it, for your reference. I'm employed by IBM in Australia and have no
+>direct connection with TATA IBM, although my bias is to support IBM's
+>efforts to bring computing skills and resources to all areas in
+>Asia-Pacific (and to make a profit doing it, of course). All comments
+>are mine personally and do not necessarily represent the views of IBM,
+>of course.
+>
+>I was impressed that an effort had been made to rewite PC DOS in a
+>language other than English, although I did note that Hindi, the
+>"official language" was chosen, despite its minority use. Although not
+>spelled out, the full text gives figures for the use of Hindi that makes
+>it clear the bulk of the population are speaking other languages. The
+>release also tries to justify the choice of Hindi when it notes the
+>history of the "official language". I'm encouraged that IBM has a stated
+>policy of encouraging diversity, and also that joint ventures are made
+>with local companies in the countries where they operate, so at least
+>some of the wealth that is created gets to stay in the country of
+>origin. I can't speak for how that is implemented, other than in
+>Australia, where we have a multicultural workforce and a strong
+>identification with our partners in Asia. I hope the implementation in
+>India is not limited by outside interests.
+>
+>
+>> I'm sorry if I have caused any inconvinience to you but I believe that the
+>> net is a platform where mails could be forwarded to others as long as it
+>> doesn't hurt their or the sender's privacy.
+>
+>That's fine, I understand. The fault, if there is any, is that the
+>moderator left my short words of explanation out, making the full text
+>seem to be mine. In his defence, though, it really does read like a
+>press release and would seem very stilted if it were comment! In
+>hindsite I would have done more to make the nature and source of the
+>text apparent. Too late now ;-)
+>
+>
+>> I think the topic is an interesting one and it deserves discussion.
+>> Please, allow me to send you some of the mails I received via INDOLOGY,
+>> I also forwarded your reply to Mr. Palaniappa and me to Indology.
+>> If the discussion doesn't get too big we can continue that way otherwise
+>> let me know about a better solution if you are interested to hang on.
+>
+>Please send me any comments directly attributable to that posting. I'm
+>interested in the discussion, although I'm not a specialist in this
+>area. I'm interested in using the Internet to connect people,
+>particularly people who are otherwise separated by distance from their
+>original homelands. That is a big issue in Australia, where close to
+>half the population was born elsewhere. The promotion of free press and
+>the free flow of information is important to me, although it is clearly
+>easy to distort reality without intention, even when simply quoting a
+>posting from a mailing list.
+>
+>Journalists (as a rule) are trained to check their sources. One area of
+>difficulty with the Internet is that sources are rarely checked, and I
+>am guilty of that as well in this case, as I didn't seek permission from
+>the author. My excuse is that I believed it to be in the public domain,
+>that it was press release promoting a new product. Upon reflection, I
+>can understand that it seems more like cultural imperialism, but there
+>are always many sides to a story.
+>
+>By the way, the moderator of the Asian Internet Marketing List is a Mr
+>Bala Pillai, a Malaysian Tamil living in Australia, and he is certainly
+>very pro-diversity and pro-Tamil language and culture. I sent the
+>clipping to his mailing list knowing that he would understand the
+>context.
+>
+>Thanks for your comments, and best wishes.
+>
+>Regards
+>
+>Robert.
+>
+>--
+>Robert Russell
+>IBM Global Services Internet and Managed Networks
+>rrussell at ibm.net
+>
+>
+>Tata IBM Announces Availability of Hindi PC DOS On Official Language Day
+>
+> New Delhi, September 15, 1997
+>
+> To commemorate the Official Language Day, TATA IBM today announced the
+> availability of the Hindi PC DOS in India.  PC DOS  is the  first and
+>only
+> operating system in Hindi. This landmark effort by IBM is in response
+>to
+> the commitment of the Government of India to promote the Hindi
+>language.
+>
+> In a country where only 5% of the population speaks English, language
+>is
+> the biggest barrier to computer literacy. The Tata IBM initiative will
+> enable the Hindi speaking population of 360 million to have access to
+> computers in their language. This will create a critical mass of
+>computer
+> literate people who will contribute to the growth of India's software
+> developer population.
+>
+> The computer programming profession, today a career choice only of an
+> English speaking minority is now available to the immense Hindi
+>speaking
+> population. IBM's Education Services in India and IIS Infotech today
+> announced that they would provide programming training in Hindi as a
+>new
+> course through their various training centers across the country.
+>
+> Mr. Ravi Marwaha, Managing Director & CEO, TATA IBM says, "IBM is
+>committed
+> to India's information technolgoy development where local language
+>computing
+> is the key issue. We are working closely with third party developers
+>for
+> comprehensive application software development and with hardware
+>vendors
+> for bundling the Hindi PC DOS with new and existing machines.  We want
+>to
+> see the benefits of computerization trickle down to the masses."
+>
+> Mr. Pawan Kumar, President , IBM Global Services India says, "Today,
+>the
+> penetration of computers in India is just one per 1000 population.
+>There is
+> a definite need to increase this ratio. The availability of Hindi PC
+>DOS
+> will increase the usage of computers, both in the office and at home.
+>This
+> will contribute significantly towards meeting the Government's
+>objective of
+> increasing the penetration ten times."
+>
+> According to Mr. Mike Colleary, Director, IBM Emerging Markets
+>(Software),
+> Asia Pacific, "India is a major strategic market and one of IBM
+>Software's
+> fastest growing opportunities. The Hindi PC DOS launch shows IBM's
+>committment
+> growing opportunity. The Hindi PC DOS launch shows IBM's commitment to
+>this
+> to this important emerging country. This tremendous area of opportunity
+>is
+> fueled by the second largest software developer population in the
+>world."
+>
+> IBM has made a conscious decision to port Hindi PC DOS on hardware
+>starting
+> from a PC 386.  By doing so, Hindi PC DOS reduces the cost of computing
+> considerably and allows our customers to use their existing machines.
+>This
+> will also ensure the availability of a computer at a low cost to our
+>Hindi
+> literate population. This gives the Hindi PC DOS enabled machines
+>immense
+> marketing potential and usefulness in the country. Work on application
+> software by individual developers is going on at full steam with IBM's
+> support and encouragement. Office productive packages, database
+>management,
+> spreadsheets and customised user packages will be the first to be
+>developed.
+> It supports all internal and external commands, data and messages in
+>Hindi.
+>
+> September 14th is India's " Official Language Day."  It was initiated
+>by
+> Dr. Rajendra Prasad, the first  President of India in 1950, as a
+>commitment
+> of the Government of India to promote Hindi as the Official Language.
+>The
+> Official Language Act of 1949, which makes the use of Hindi in Central
+> Government Offices mandatory all across the country also resulted from
+>this
+> commitment.
+>
+> For more information contact:
+>
+> Tata IBM Limited
+> Ph: 080 526 2355
+>
+> Tata Information Systems Ltd
+>         TISL Tower
+>         Golden Enclave Airport Road
+>         Bangalore 560017
+>         India
+>
+>         Tel: 91 80 526 2355
+>         Fax: 91 80 526 8344
+>
+>
+>
+
+
+
+

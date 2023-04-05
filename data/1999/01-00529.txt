@@ -1,0 +1,25 @@
+From pfilliozat at MAGIC.FR  Fri Jan 22 12:58:10 1999
+From: pfilliozat at MAGIC.FR (Pierre-Sylvain Filliozat)
+Date: Fri, 22 Jan 99 13:58:10 +0100
+Subject: short "e" and long "E" in Kannada orthography
+Message-ID: <161227045526.23782.5650284535658602568.generated@prod2.harmonylists.io>
+
+>Can somebody tell me when short "e" and long "E" came to be differentiated
+>orthographically in Kannada? Thanks in advance.
+>
+>Regards
+>S. Palaniappan
+
+Long "E" is marked in Kannada script with a separate sign, looking like an
+left-right-inverted 9. This dIrgha sign appears for the first time, to mark
+a long "A", in an incription from Hampi dated 19.5.1561 (see P.-S.
+Filliozat and V. Filliozat, Hampi-Vijayanagar, The Temple of ViThala,Delhi,
+1988: p.81). It is attested for "E" in manuscripts of 18th century, but
+rarely. It became current with printing.
+Vasundhara Filliozat
+
+Pierre-Sylvain Filliozat
+
+
+
+

@@ -1,0 +1,28 @@
+From jacob.baltuch at euronet.be  Mon May 19 17:49:43 1997
+From: jacob.baltuch at euronet.be (jacob.baltuch at euronet.be)
+Date: Mon, 19 May 97 19:49:43 +0200
+Subject: Nines (Was Re: yuga, VarNa and colour)
+Message-ID: <161227030359.23782.17277267725595597114.generated@prod2.harmonylists.io>
+
+>>I think what was meant was that if you start with 99, then 9 + 9 = 18 and 1
+>>+ 8 = 9. I.e., supposedly all numbers that are multiples of nine will "add
+>>down" to nine if you make sums of their component digits till you get to a
+>>single-digit number.
+>
+>That is true, because the sum of the digits of a number that's a multiple
+>of 9 will also be a multiple of 9 (not too hard to see by induction, assume
+>true for N = 9 * p and prove for N + 9)
+
+I'm sorry, don't try this at home :) By trying to keep things simple
+I'm afraid I made things more complicated. If you accept to talk about
+remainders, it's much easier: the remainder of (a0 + ... + aN * 10^N) by
+9 is the same as the remainder of a0 + ... + aN by 9, the proof of which
+is very easy.
+
+
+
+
+
+
+
+

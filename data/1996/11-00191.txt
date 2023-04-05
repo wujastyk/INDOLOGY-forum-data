@@ -1,0 +1,73 @@
+From GILLON at LANGS.Lan.McGill.CA  Wed Nov 20 12:23:31 1996
+From: GILLON at LANGS.Lan.McGill.CA (BRENDAN S. GILLON)
+Date: Wed, 20 Nov 96 12:23:31 +0000
+Subject: Sanskrit Grammar: Passive Causative
+Message-ID: <161227026978.23782.9889073180172087573.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+I am currently teaching a course about the structure of Sanskrit 
+to graduate students in linguistics. The following question was 
+put to me, however, I have not been able to confirm my answer in 
+the standard grammars. I am hoping that someone might be able 
+to confirm my answer, or correct it.
+
+The question pertains to the formation of passive from causatives 
+of verbs which take two objects. To make clear what I have in mind,
+let me set down some examples:
+
+(1.0) Devadatta.h maa.navakam (maa.navake) panthaanam p.rcchati.
+(1.1) Devadatta is asking the boy the way.
+
+Passive is formed only with respect to maa.navaka (the boy), and 
+not with respect to panthaanam (the path).
+
+(2.0) maa.navaka.h Devadattena panthaanam p.rcchyate.
+(2.1) The boy is being asked the way by Devadatta.
+
+(3.0) *panthaa.h Devadattena maa.navakam (maa.navake) p.rcchyate.
+(3.1) *The way is being asked the boy by Devadatta.
+
+Now, consider the causative form of the sentence in (1.0).
+
+(4.0) Hari.h Devadattena maa.navakam (maa.navake) panthaanam pracchayati.
+(4.1) Hari has Devadatta ask the boy the way.
+
+The question is: what are the passive options of the sentence in (4.0)?
+On the general principle that the agent of the basic verb in active
+causative constructions becomes the subject of the passive causative
+construction, I conclude tha the first sentence below is correct. 
+
+(5.0) Devadatta.h Hari.naa maa.navakam (maa.navake) panthaanam pracchyate.
+(5.1) Devadatta is made by Hari to ask the boy the way.
+
+The question is: is it the only version which is correct. 
+Speijer reports that some passive causatives have as their subjects 
+objects of the non-causative version of the verb.
+
+(6.0) vi.sa-kanyayaa Raak.sasena dhaatita.h tapasvii Parvate'svara.h.
+      Rak\d{s}asa had a poison girl kill poor Parvate\'svara.
+		(Mudr. 1: cited in Speijer p. 38)
+
+(Presumably, this sentence is ambiguous.) Do these possibilities 
+extend to verbs with double objects. That is, is the following 
+acceptable?
+
+(7.0) maa.navaka.h Devadattena Hari.naa panthaanam pracchyate.
+
+
+Any help with this question will be greatly appreciated?
+
+
+Thanks in advance.\, 
+
+
+Brendan S. Gillon
+Dept. of Linguistics
+McGill University
+
+
+
+
+
+

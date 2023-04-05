@@ -1,0 +1,105 @@
+From mmdesh at umich.edu  Thu Mar  4 04:24:11 2021
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Wed, 03 Mar 21 20:24:11 -0800
+Subject: [INDOLOGY] Re: -t/-d
+In-Reply-To: <ME2PR01MB2756CC3BEC826FF123AE9BCEDD979@ME2PR01MB2756.ausprd01.prod.outlook.com>
+Message-ID: <CAB3-dze22O8dwYjaNtwi7g6cXEOugWOAMXFjDW4+Y2VS0Q2_UQ@mail.gmail.com>
+
+Dear Mark,
+
+     This divergence goes back to the ?aunak?ya-Catur?dhy?yika [rule
+1.1.10] which reads: *pratham?nt?ni tr?t?y?nt?n?ti ?aunakasya pratij??na? n*
+a* vr?tti?*, "It is a precept of ?aunaka that the words [*padas*] ending in
+the first members of the stop-series, i.e. voiceless unaspirated stops,
+should rather end in the third members, i.e. voiced unaspirated stops. Such
+however, is not the recitational practice." [HOS 52]. So, should a pada end
+as *tat *or *tad* seems to have been a very long debate. The practice of
+the ?aunak?ya-Atharvaveda Padap??ha, as noted in the Atharva-Pr?ti??khya
+reads: *tat iti tak?r?nta? ?aunake*.  This is also the case in the
+manuscripts of the Padap??ha and Ja??p??ha that I used for my edition in
+the *Recitational Permutations of the ?aunak?ya Atharvaveda *[HOS 61].
+Such is also the practice of the RV Padap??ha. But as the rule in the
+?aunak?ya-Catur?dhy?yik? shows, there was a dispute among different
+scholars about this.
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Wed, Mar 3, 2021 at 6:33 PM Mark Allon via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear list members,
+>
+>
+>
+> There seems to be inconsistency in modern Sanskrit grammars as to whether
+> the stems of pronouns and declined forms end in *-d* or *-t*.
+>
+>
+>
+> MacDonnell?s *Sanskrit Grammar for Students* has the stems as *mad,
+> asmad, tvad, yu?mad, ta(d), ya(d)*, listing the abl. forms of the
+> personal pronouns as *mad, tvad, asmad, yu?mad*. Of *tad *he gives the
+> nom. acc. sg. n. as * tad* but lists the abl. sg. as *tasm?t*.
+>
+>
+>
+> Kale?s *Higher Sanskrit Grammar* similarly gives the stems forms in *-d*,
+> has * tad* for nom. acc. sg. n., but abl. *tasm?t*.
+>
+>
+>
+> *Devav???preve?ika* gives all stem and declined forms in *-t*.
+>
+>
+>
+> Whitney?s *Sanskrit Grammar* does not seem to list the stems of the
+> personal pronouns but gives the abl. singulars in *-t* as he does with
+> the dem. sg. *tasm**?t*, *asm?t*.
+>
+>
+>
+> Presumably the *-t* forms are influenced by the rule concerning permitted
+> finals (*k, ?, t, p, ?, n, m* and *?*), but I take this to refer to
+> sandhi in the context of sentence formation.
+>
+>
+>
+> Can we say whether *-d* or *-t* forms are original?
+>
+>
+>
+> Regards
+>
+> Mark
+>
+>
+>
+> Dr Mark Allon
+>
+> Chair, Dept. of Indian Subcontinental Studies
+>
+> The University of Sydney
+>
+> Australia
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list -- indology at list.indology.info
+> To unsubscribe send an email to indology-leave at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210303/db54c73a/attachment.htm>
+

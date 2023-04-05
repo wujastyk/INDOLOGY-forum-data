@@ -1,0 +1,34 @@
+From rajarshi.banerjee at SMGINC.COM  Mon Jan 10 18:11:56 2000
+From: rajarshi.banerjee at SMGINC.COM (Rajarshi Banerjee)
+Date: Mon, 10 Jan 00 13:11:56 -0500
+Subject: Vital Statistics
+Message-ID: <161227055130.23782.1875074540694751977.generated@prod2.harmonylists.io>
+
+RB>Mathematics is less forgiving and we should remember that the world
+>is now using the place value notation which Indians used very early in
+>history. Imagine calculus, engineering, computer/microprocesser design
+>based on roman numerals and its associated algebra.
+>The sanskrit or tamil alphabet is a powerful abstraction, something on the
+>lines of the periodic table of elements or taxonomy in biology.
+
+NG>   The roman letters are preferred over the indian kind and, Indian
+  place value notation in the world. Both for efficiency.
+
+RB>     I am confused. My impression is that the place value notation of
+today was never used by romans. Even Binary     arithmatic in microchips is
+dependant on the place value notation ( scaling up by an order magnitude
+with a bit      shift). I would like to know about other non INdian cultures
+which independantly evolved such a notation. The chinese        abacus would
+be one example but I dont know if that predates such systems in India.
+
+        Even the mordern arabic numerals used through out the world
+resemble and originate from indian numerals.
+
+
+regards
+
+Rajarshi
+
+
+
+

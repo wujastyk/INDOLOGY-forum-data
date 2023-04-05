@@ -1,0 +1,40 @@
+From s.hodge at PADMACHOLING.FREESERVE.CO.UK  Wed Jul 23 02:13:25 2003
+From: s.hodge at PADMACHOLING.FREESERVE.CO.UK (Stephen Hodge)
+Date: Wed, 23 Jul 03 03:13:25 +0100
+Subject: Sanskrit word order sort program ?
+Message-ID: <161227072985.23782.15670366195218249769.generated@prod2.harmonylists.io>
+
+Thanks to all those who replied to my enquiry regarding a Skt sort program.
+I should have specified that I use WindowsXP and encode with Unicode.  Thus
+the CXS+ utilities provided by Dr Smith are less useful to me -- I would
+have to convert to CXS and back again.  Given that my file is 54,000 lines
+long, my poor computer grinds to a halt if I do that via Word.
+
+The option suggested by Andrew Glass sounds potentially useful so I would
+definitely like to have a look at it although I am not sure if I have Excel
+hidden away somewhere on my computer.  Eva de
+Clercq's information sounds potentially the most useful -- particularly the
+ungrade she mentions her colleague is compiling -- I also have need often of
+sorting Mongolian and Tibetan (for which nobody has come up with a sort
+program recently though I suspect that the unique nature of Tibetan
+dictionary word order might defeat even this program).
+
+Eva, maybe the up-grade program you mention would be usable, but if not,
+would your colleague perhaps be interested in devising his/her program in
+such a way as to facilitate Tibetan sorts ? It would be a great service to
+those scholars doing Tibetan lexical work.  If you do not know about the
+unusual
+problems faced by Tibetan I can write in detail but basically the situation
+is that Tibetan sorts on the basis of "head-letters" which may often --
+usually, in fact -- NOT be the first letter.  Thus these words -- grub,
+'grub, bsgrub all have the head-letter G and will be found under G in their
+proper places.
+
+
+Anyway, once again -- thanks to everybody !
+
+Stephen Hodge
+
+
+
+

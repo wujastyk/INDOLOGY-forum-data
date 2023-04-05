@@ -1,0 +1,108 @@
+From kishore at mail.utexas.edu  Thu Dec  5 04:30:42 1996
+From: kishore at mail.utexas.edu (Kishore Krshna)
+Date: Wed, 04 Dec 96 23:30:42 -0500
+Subject: "Out of India"
+Message-ID: <161227027327.23782.5964299670539423689.generated@prod2.harmonylists.io>
+
+At 10:23 PM 12/04/1996 GMT, Vidyanath Rao wrote:
+
+>I have in mind a statement by Witzel (in ``The Indo-aryans of South
+>Asia'', see p.96) that the chronological ordering of the books of Rgveda
+>by Wuest and by Hoffmann agree ``more or less''. I took the Wuest's
+>ranking as given by Witzel (I don't have ready access to Wuest's monograph)
+>and Hoffmann's ranking, leaving out Book 1 (which is missing from the
+>ordering quoted by Witzel), and computed the rank correlation. It comes out
+>to be a mere 0.07 (p-value .440). [Witzel quotes Wuest's ranking in four
+>groups separated by vertical bars. Treating being in the same group as
+>ties, and ignoring within group order improves the rank correlation to
+>only .22, (p-value .290).] [In this example, the p-value is the probability
+>that two random ordering of the books would produce correlation
+>coefficient at least this large.] 
+
+How many pairs of observations did you have for the analysis? If it
+was less than 30 (the central limit theorem threshold) underlying
+assumptions about normality may not hold (for the statistically 
+challenged - you're saying that the observations are centered about 
+the actual value and the likelihood of being farther away from the 
+actual value is low as in a bell-shaped curve). Even if there are 30
+or more observations, I thought there were traditionally 10 books
+in the Rg Veda which means leaving out book 1, you have more than 9
+observations arising from a set of nine books - what is the theoretical
+reasoning here? Wouldn't a Kolmogorov-Smirnov test be better (it's 
+non-parametric which means it doesn't make assumptions like the 
+bell curve above) if the hypothesis is to test differences between
+the two sets of rankings?
+
+>This is the use of controls. Let me share an experiment
+>I performed a few months back. I took the Mahabharata text from
+>John Smith's files, and looked at the frequency of different types of
+>vipulas in the various parvans. Just for fun, I looked at the cantos of
+>Kumarasambhava (Kale edition) and Raghuvamsa (Nirnayasagar edition)
+>that were in anushtub. To my great surprise (and horror), I found that 
+>Kumarasambhava as closer to Mahabharata (Bhishma and Drona parvans,
+>I did not try this with others) than it was to Raghuvamsa. and the
+>difference was fairly significant: I don't remember the p-values,
+>but were close to 0.05. [This does not prove that Kumarasambhava and
+>Raghuvamsa were composed by different persons. The most serious objection
+>would be that I did not look at Trishtub and Jagati patterns, where
+>Kalidasa conforms to the traditional poetical theory, but Mahabharata does
+>not. Then there is the question of critical edition of Kalidasa]
+
+I haven't a clue what anustubh, jagati is and my recollection of vipula
+is minimal. However, what is the theory that suggests that you 
+should be examining these specific entities? Why these specific works and
+those specific parvans? Wouldn't it make more sense to do this across
+all parvans of the Mahabharata to test opinions about interpolations?
+I'm reminded of the gospel that I drill into my students on the first 
+day of my information & analysis class: just because there's a 
+large positive correlation between cranes flying over Sweden and
+the number of babies born in Sweden over a period of years, you
+shouldn't assume that there's an association between the two events.
+The issue of controls is something to be considered later.
+
+>Girish Beeharry <gkb at ast.cam.ac.uk> wrote:
+>>This adds another item to the list of 'I don't understand'; which
+>>algorithms are more 'objective'? Has non-parametric statistics
+>>(eg maximum likelihood) been used in this area?
+
+Sample size must be higher. 
+
+>As I understand it, we can't quite call one method more objective
+>than the other. Some methods look for clusters of some particular
+>shape. Others do not for clusters as such, but build trees by
+>joining nearest neighbors into one branch, then replacing them
+>by their average etc. [Out of Africa analysis has the problem of
+>large data-sets, which should not a problem in HLK case.] There does
+>not seem to be any clear agreement as to which method suits a given
+>situation better than others.
+
+It's a question of theoretical assumptions and what methodological
+assumptions you're willing to live with. Generally, there are 2 types
+of CA: (1) single pass - the analysis goes through the data once 
+in building the trees. The problem is, if there's an early 
+mis-classification there's no chance to correct it. (2) Multiple
+pass - start at random and repeat the process. Takes more time,
+needs higher sample sizes.
+
+>But, I doubt that in the case of small data-sets, the different methods
+>would give widely divergent answers. I don't believe that reanalyzing the
+>HLK data would produce the conclusion that there was a discontinuity
+>between 2000 BCE and 1000 BCE.
+
+Well, in dealing with business data, small samples do result in different
+solutions esp. single vs multiple pass. Since these are exploratory 
+techniques, if possible you should validate the existence of these
+clusters with data that has been held out from the analysis. Most of
+these ideas are pretty elementary stuff for mathematicians and 
+statisticians, but they need to be said:-)
+
+Kishore
+Kishore Krshna
+kishore at mail.utexas.edu
+______________________________________________________________
+
+
+
+
+
+

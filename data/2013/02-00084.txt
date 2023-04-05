@@ -1,0 +1,54 @@
+>From the title page you come to know that it is the second edition of this translation, dated 1728 and published in London. OCR has not been done on this book (for obvious reasons of typeface) so you will have to read it in full to see if it is relevant at all to the interesting question of knowing when the term "Indology" first appeared and why there is this 1765 mention in Google Ngram. It may finally turn out to be a bug due to the unavoidable 2% error on OCRs done by Google and others, but I suspect that there is, fortunately, more to it than a simple computational problem. 
+
+One person who would be very interesting to consult in this matter is Urs App, one of the most - if not the most - prominent specialist on the history of the discovery of South and East Asian thinking and literary works by Europeans. I don't know if Urs is on this list, but if he is, we would be pleased to have his expert opinion on the matter.
+
+Digitally yours,
+
+Dr Fran?ois Voegeli
+
+Senior FNS Researcher
+Institut d'Arch?ologie et des Sciences de l'Antiquit?
+Anthropole, bureau 4018
+Facult? des Lettres
+Universit? de Lausanne
+CH-1015 Lausanne
+    
+
+
+On 19 f?vr. 2013, at 17:18, Malcolm Keating <c.malcolm.keating at gmail.com> wrote:
+
+> Another Google resource is the Ngram viewer, which shows an instance of "Indology" in the English corpus as early as 1852 and 1854. Performing a Google Books search on this time period yields an instance in 1854, in "Types of Mankind: Or Ethnological Resources", selections from the papers of Samuel George Morton, M.D. published by Lippincott, Grambo & Co in Philadelphia. The pertinent passage is this:
+> 
+> "Indology" will protest against profaning the sanctified soil of Indra and Brahma with the mere "tail-race" of a Semitic pond, originally filled by the Nile! Shades of Wilford, Faber, Hales, and the spirit of Edgar Quinet! In Germany, appeal will at once be made to Van Bohlen! In Wales, to Arthur James Johnes, Esq! Does not everybody know, it will be said, that the primordial civilization (unceremoniously kicked out of Ethiopian Mero? by Lepsius,) first dawned upon the Ganges? that Memphis, (if not also Palenque and Copan,) received her holiest Penates at the hands of Siva, Vishnu, Bhairava, Crishna, or any other Indian deity a pundit might invent?
+> 
+> Ngram results: http://books.google.com/ngrams/graph?content=Indology&year_start=1800&year_end=1900&corpus=15&smoothing=3&share=
+> Google book link: http://books.google.com/books?id=X2hAAAAAcAAJ&pg=PA633&dq=%22Indology%22&hl=en&sa=X&ei=ZqQjUf-2L6aFywGz2IGIBQ&ved=0CD0Q6AEwAg#v=onepage&q=%22Indology%22&f=false
+> 
+> Best,
+> Malcolm
+> 
+> Malcolm Keating
+> PhD Candidate, Philosophy
+> University of Texas - Austin
+> 
+> http://sites.google.com/site/cmalcolmkeating
+
+
+
+
+
+Dr Fran?ois Voegeli
+
+Senior FNS Researcher
+Institut d'Arch?ologie et des Sciences de l'Antiquit?
+Anthropole, bureau 4018
+Facult? des Lettres
+Universit? de Lausanne
+CH-1015 Lausanne
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130220/34269dce/attachment.htm>
+

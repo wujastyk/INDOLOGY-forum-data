@@ -1,0 +1,51 @@
+From kamal at link.lanic.utexas.edu  Tue Jan 21 16:53:53 1997
+From: kamal at link.lanic.utexas.edu (Kamal Adhikary)
+Date: Tue, 21 Jan 97 10:53:53 -0600
+Subject: Fonts Question
+Message-ID: <161227027943.23782.13619430114181215310.generated@prod2.harmonylists.io>
+
+Nepali is not a commercial font.  You can get it from the following URL:
+
+http://www.catmando.com/news/janmabhumi/jnmbhumi.htm
+
+
+Kamal
+_______________
+Kamal R. Adhikary, Ph.D.
+Asian Studies,UT, Austin
+Email:kamal at asnic.utexas.edu
+
+On Fri, 17 Jan 1997, Anshuman Pandey wrote:
+
+> 
+> On Fri, 17 Jan 1997, Raghavendra C.S wrote:
+> 
+> > Are there any True-Type or Adobe Devanagari Fonts
+> > available for FREE on internet ?
+> 
+> I remember acquiring a font called PCS Nepali once from an archive site,
+> but I think that it is a commercial font which someone inadvertently
+> placed at the site thinking it was in the public domain. The quality of
+> the font was commendable, but once had to manually create a character map
+> as there was no documentation accompanying it. I've long since deleted it
+> as I've made myself partial to TeX and it's brilliant devanaagarii
+> Metafonts.
+> 
+> Regards,
+> Anshuman Pandey
+> 
+> ---
+> Anshuman Pandey | apandey at u.washington.edu | University of Washington
+> 
+>   "Life is an impossible scheme, and love an imperceptible dream. 
+>    Face the facts, that's what it's always been. Relax. What you 
+>    see is what you've seen, What you get is a new philosophy."
+> 
+> 
+> 
+> 
+
+
+
+
+

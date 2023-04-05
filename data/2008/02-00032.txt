@@ -1,0 +1,78 @@
+From antonio.jardim at GMAIL.COM  Mon Feb 11 23:27:31 2008
+From: antonio.jardim at GMAIL.COM (Antonio Ferreira-Jardim)
+Date: Tue, 12 Feb 08 09:27:31 +1000
+Subject: Buddhacarita 1,1-7 and 25-40, bibliographical hints
+In-Reply-To: <4896FEF35D359441AB2A680756941DDD0281C41F@MAIL2.mcs.usyd.edu.au>
+Message-ID: <161227081926.23782.7787360470345670594.generated@prod2.harmonylists.io>
+
+Dear Mark,
+
+The INBUDS site is a fairly useful resource towards this end with
+Journals arranged in hiragana order with indications as to pdf
+availability:
+
+http://www.inbuds.net/jpn/media/index.html
+
+Another useful resource is the University of Tokyo Digital Repository:
+
+http://repository.dl.itc.u-tokyo.ac.jp/dspace/handle/2261/130
+
+However, I do think that the NationaI Institute of Informatics is the
+resource with the largest scope. If you enter the title of the journal
+in kana in the search screen, you might have some luck:
+
+http://ci.nii.ac.jp/
+
+With regard to the Journals you cite, you can get contents lists
+(only!) via the following sites:
+
+http://sojusha.com/newpage14.htm (BukkyO KenkyU) - old site
+http://kamoeji.jp/kokusai.html (BukkyO KenkyU) - new site
+
+http://www.icabs.ac.jp/publication/2-7-1.html (Journal of the International
+College of Advanced Buddhist Studies)
+
+http://www.lit.nagoya-u.ac.jp/~indo/Site/2FA3F438-C490-45CC-BB71-325E8ECE21D2.html
+(SaMbhASA -  Nagoya Studies in Indian Culture and Buddhism)
+
+I hope that is helpful in some way.
+
+Kind regards,
+
+Antonio Ferreira-Jardim
+University of Queensland
+
+
+On 2/12/08, Mark Allon <mark.allon at usyd.edu.au> wrote:
+> Dear Richard,
+>
+> >
+> >I've just found that courtesy of the National Institute of Informatics
+> >an open access version of this article can be downloaded from here:
+> >
+> >http://ci.nii.ac.jp/cinii/servlet/QuotDisp?LOCALID=ART0007450706&DB=NELS&USELA
+> >NG=en
+> >
+> >Kind regards,
+> > Richard
+>
+> Thanks for the link to this useful resource. Unless I missed them, a quick search showed that several Japanese Buddhist Studies/Indology journals were not listed:
+>
+> Buddhist Studies (Bukky? Kenky?)
+> Journal of the International College for Advanced Buddhist Studies
+> Nagoya Studies in Indian Culture and Buddhism
+>
+> Is there a site that lists all Japanese Buddhist Studies/Indology journals and their access status?
+>
+> Regards
+> Mark
+>
+>
+> Dr Mark Allon
+> Department of Indian Subcontinental Studies
+> University of Sydney
+>
+
+
+
+

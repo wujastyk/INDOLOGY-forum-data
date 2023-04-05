@@ -1,0 +1,41 @@
+From thompson at JLC.NET  Mon Mar  2 15:22:54 1998
+From: thompson at JLC.NET (George Thompson)
+Date: Mon, 02 Mar 98 11:22:54 -0400
+Subject: Retroflexion
+Message-ID: <161227036334.23782.6811176605416587111.generated@prod2.harmonylists.io>
+
+In response to the post of Lars Martin Fosse:
+>
+>Just as part of the general argument, I would like to supply the information
+>that both East Norwegian and West Swedish have produced retroflexion. So
+>have some South Italian dialects. All quite independent of Skt.
+>
+
+Yes, this sort of retroflexion is frequently cited by Hock as well, both in
+the recently cited article and in his valuable book, _Principles of
+Historical Linguistics_.  But to my knowledge all of the examples that are
+cited show these retroflexes as allophonic variants of either dentals or
+alveolars, or even palatals.
+
+It seems to me that reference to such phenomena in other languages would be
+more cogent if one could produce examples of *phonemic* distinctions, not
+just allophonic ones. In Indic languages one can point to minimal pairs
+like
+
+Skt:    pAta ['flight'] vs. pATa ['portion']
+
+        [this is one of Hock's preferred examples]
+
+Hock has not made it clear that such minimal pairs can be found in
+non-Indic languages. Can anyone on the list supply such minimal pairs?
+There is little dispute about the suggestion that retroflexion is an areal
+feature of the SA subcontinent. The question remains, however: how special
+a feature is it?
+
+Thanks in advance
+
+George Thompson
+
+
+
+

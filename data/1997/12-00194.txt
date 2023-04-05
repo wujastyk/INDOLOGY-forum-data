@@ -1,0 +1,76 @@
+From thompson at JLC.NET  Thu Dec 18 20:58:00 1997
+From: thompson at JLC.NET (George Thompson)
+Date: Thu, 18 Dec 97 16:58:00 -0400
+Subject: Delocutives
+Message-ID: <161227034498.23782.11839497412771608040.generated@prod2.harmonylists.io>
+
+In response to Jacob's recent post:
+>
+[snip]
+>
+>It seems in Fr. any utterance can be thought of as an invariable noun when
+>used meta-linguistically as the name of the action of uttering it:
+>"Il commence a m'enerver avec ses je le ferai plus tard" (Doesn't that work
+>in English: "He's getting on my nerves with his I'll do it later"?)
+
+A very good point, and an interesting one. And most of these 'invariable
+nouns' will be nonce-formations which native speakers will not recognize as
+legitimate 'words' [see Jonathan's scepticism, for example].  But my
+Sanskrit examples have been recognized as such within their own
+speech-communities. Consider, just for one example, the *long* history of
+the term 'ahaMkAra' in classical Indian philosophy. This suggests that
+these Skt. forms have more cultural significance than do the typical
+nonce-formations of English or French, which serve the moment and then are
+discarded.
+>>
+[snip]
+>
+>_If_ in Sanskrit you can, like in French, consider the 1st member of those
+>kr compounds to stand for the name of the action of uttering it (thus one
+>could analyze "tvam" in tvamkR as "the _action_ of uttering tvam") then
+>you don't need any special meaning of kR, kR in its usual meaning of "perform"
+>seems to work doesn't it? So, is it sensible to analyze it this (my) way?
+
+Another good point. I agree that, by itself, this delocutive use of the
+verb kR- might not suggest a secondary meaning "to say". But there are
+other factors. Of course among the grammarians the form -kAra is used to
+mark a phoneme, so that 'akAra' = 'the phoneme "a"', 'kakAra' = 'the
+phoneme "k"', etc. There are also cases where the verb kR- alternates
+paradigmatically with verba dicendi like vad- and vac-: e.g., see
+collocations of these verbs with mantra, or in  compounds [mantrakRt vs.
+mantravAdin], or with satya [or in compounds: satyakriyA vs.satyavAda]. I'm
+not suggesting that these forms are delocutive, of course. Just that kR-
+appears in these contexts to look *a lot* like a verbum dicendi. The use of
+the verb kR- in delocutive expressions simply strengthens the semantic link
+with verba dicendi which is evident elsewhere.
+
+>Can
+>one say that in the Vedic example "vaSaT" is the "accusatif" of an invariable
+>noun which designates the action of uttering "vaSaT"? Of course things
+>would be different in composition with verbs meaning say, utter, cf
+>an example mentioned by Dominique, bhoovaadin. What is its precise meaning?
+>Also I'd be curious if bhooH can also enter in composition with kR as say
+>"bhooHkarooti"? I guess that would depend on "bhooH" having an affective
+>content, e.g. the "gurum tvamkarya" of Martin's examples implies a show of
+>disrespect or familiarity. Since "bhooH" seems pretty neutral I wouldn't
+>expect it to have a transitive kR compound but let me ask anyway.
+
+'bhoH' is the form of address that one should use when addressing superiors
+like one's guru. 'bhoH' is not an early term. It is an abbreviated
+*vocative* form of bhavAn, 'your honor' [possibly this itself is also an
+abbreviated form of bhagavAn]. In fact it is attested in compounds with
+both -kAra and -vAdin, but since I am not familiar with the relevant
+passages, I cannot say what the precise significance of these terms is. But
+if you want to get a better understanding of this term check out Manu DZ
+again [2.122ff.], where conventions of direct address are discussed. You
+will find there an interesting range of forms [Skt text available from
+Indology Archives, thanks to M.YANO and Y.IKARI].
+
+I'll send more later. This post is already too long. Jacob, I'll try to
+answer the rest of your questions shortly.
+
+George
+
+
+
+

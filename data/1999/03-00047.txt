@@ -1,0 +1,46 @@
+From WIKNER at NACDH4.NAC.AC.ZA  Fri Mar  5 08:00:33 1999
+From: WIKNER at NACDH4.NAC.AC.ZA (Charles Wikner)
+Date: Fri, 05 Mar 99 10:00:33 +0200
+Subject: Ref. check verse 6.41 Bhagavad Gita
+Message-ID: <161227047193.23782.12860206358583874998.generated@prod2.harmonylists.io>
+
+On Thu, 04 Mar 1999, John Smith <jds10 at CUS.CAM.AC.UK> wrote:
+
+> An optional sandhi for final -n before initial l- is simply to write the
+> -n as an anusvara.
+
+Is there authortity for that?  I had assumed that the use
+of anusvAra here was due to ignorance or font limitations.
+Other applications of torli (P.8.4.60) occur in gItA:
+
+      18:17    imAn lokAn -->    imAMllokAn
+      18:71  SubhAn lokAn -->  SubhAMllokAn
+
+where Ml represents a nasalized-l  (in nAgarI, candrabindu
+above first "l" not previous syllable as often printed).
+
+> It seems fairly clear that the phrases in question
+> are, in pre-sandhi form, sukRtAm lokAn and puNyakRtAm lokAn "the worlds of
+> the doers of what is good" (i.e. "the heavenly realms"). The alternative
+> interpretation (su/puNya-kRtAn lokAn) simply makes no sense: "the
+> well/virtuously made worlds".
+>
+> Whether the confusion is scribal, editorial, or a mixture of both I am
+> unsure, but at some stage the final anusvara has come to be taken as
+> representing -n not -m, and the spelling adjusted accordingly. If the
+> phrases were used in any other case than the accusative plural this would
+> phrases were used in any other case than the accusative plural this would
+> presumably not have happened (or would the scribes/editors have emended
+> *puNyakRtAM lokAH to *puNyakRtA lokAH?).
+
+Translations to hand take puNyakRtAm as genitive plural of
+puNyakRt: worlds of the meritorious (=merit-performers), but
+I see no objection to taking puNyakRtAn as accusative plural
+of bahuvrIhi puNyakRta: worlds prepared for the meritorious/
+created by merit (as dvaita/advaita interpretations).
+
+Regards, Charles.
+
+
+
+

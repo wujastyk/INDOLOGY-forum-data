@@ -1,0 +1,21 @@
+From cfynn at DIRCON.CO.UK  Wed Apr 19 23:43:49 2000
+From: cfynn at DIRCON.CO.UK (Christopher John Fynn)
+Date: Thu, 20 Apr 00 00:43:49 +0100
+Subject: Vedic accents in Unicode
+Message-ID: <161227057865.23782.1894919947633556300.generated@prod2.harmonylists.io>
+
+Michael Everson <everson at EGT.IE> wrote
+
+> A first draft is available at
+> http://www.egt.ie/standards/iso10646/pdf/vedic-accents.pdf
+
+Shouldn't the visarga like characters (jihvaamuuliiya, upadhmaaniiya and
+ardhavisarga)  shown at
+http://ourworld.compuserve.com/homepages/stone_catend/tr4.htm#p7 be included in
+the proposal as well?
+
+- Chris
+
+
+
+

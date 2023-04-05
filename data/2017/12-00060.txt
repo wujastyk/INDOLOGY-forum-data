@@ -1,0 +1,27 @@
+From drdhaval2785 at gmail.com  Sat Dec 16 13:32:47 2017
+From: drdhaval2785 at gmail.com (Dhaval Patel)
+Date: Sat, 16 Dec 17 19:02:47 +0530
+Subject: [INDOLOGY] API for step by step derivation of verb forms
+In-Reply-To: <CADSGPzUHOy-wd3Jj0Z+4jguG1MGh798X4=CFmoFv8MDMBd8vCQ@mail.gmail.com>
+Message-ID: <CADSGPzU5AozEdjfA+26v6=ybO-oZFzWCHGU_Y1ZoC1Rztaa6yA@mail.gmail.com>
+
+For all friends who find the API business too technical, there is now a
+more user friendly way to use the work.
+
+1. Open http://api.sanskritworld.in/#!/default/get_get_prakriya
+2. Enter verbform in SLP1 e.g. Serate / Bavati etc.
+3. Click on Try it Out!
+4. See the Response Body for step by step derivation.
+
+If you are not familiar or comfortable with SLP1, you can transliterate
+back and forth from your favourite transliteration scheme in
+http://www.learnsanskrit.org/tools/sanscript.
+
+P.S. - I personally extend my thanks to Mr. Vishvas Vasuki for drawing my
+attention and interest in flask-restplus and swagger documentation.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171216/2ffa57a9/attachment.htm>
+

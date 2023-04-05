@@ -1,0 +1,113 @@
+From joe at sfbooks.com  Thu Nov 28 09:09:22 1996
+From: joe at sfbooks.com (joe at sfbooks.com)
+Date: Thu, 28 Nov 96 03:09:22 -0600
+Subject: 2nd RFD: soc.history.ancient
+Message-ID: <161227027101.23782.6850692032985380303.generated@prod2.harmonylists.io>
+
+                     REQUEST FOR DISCUSSION (RFD)
+                unmoderated group soc.history.ancient
+
+CHANGES from previous RFD:
+
+The changes are few and would not ordinarily require a new RFD in their own
+right.  However, a combination of the long delay since the 1st RFD, and
+difficulties in fulfilling that RFD's commitments, have led to the decision
+to issue this 2nd RFD.
+
+Material changes are as follows:
+
+The charter's language has been clarified, a little with regard to maps and
+other graphic images, a little with regard to commercial notices, and
+substantially with regard to related newsgroups and the kinds of postings
+considered better posted in them.
+
+The rationale has been expanded with clarification of how the proponents see
+soc.history.ancient as adding to the existing set of relevant newsgroups,
+and with a short summary of why A.D. 700 was chosen as the cutoff date.
+
+Both have been supplemented by the addition of references to a World Wide
+Web site where some past posts can be found, as well as an e-mail address
+for obtaining them.
+
+The real reasons for this RFD, however, are as follows:
+
+First, we had trouble distributing the first RFD to the mailing lists where
+scholarly discussion of ancient history primarily takes place on the nets.
+As a result, in many cases, the RFD only arrived on a given mailing list
+after discussion in news.groups had entirely died out.  Readers of the
+mailing lists were not given the opportunity to participate fully.
+
+Second, in post <4uadnk$oc4 at sloth.swcp.com>, we committed ourselves to a
+straw poll on the subject of moderation.  Responses both in news postings
+and in e-mail to the lead proponent were to be counted.  Unfortunately, the
+lead proponent's computer crashed late in the RFD period, with the result
+that e-mail responses were lost.  News responses were roughly evenly split;
+it's worth noting, again, that people who saw the RFD on the mailing lists
+were unlikely to find out about this straw poll thanks to our lateness in
+sending the RFD.
+
+Finally, we eventually overshot the 90-day limit on proposals, so even
+without these difficulties, this RFD would now be necessary anyway.
+
+We'll try to do better this time.
+
+Perhaps the most contentious topic during the first discussion period was
+moderation.  None of the proponents much wants to propose a moderated group
+at this time; representative posts on this subject include
+<joe-0108960820480001 at stars.pr.mcs.net>, <4ub51u$diq at pulp.ucs.ualberta.ca>
+and  <4u7lvg$di3 at sloth.swcp.com>.  However, if the bulk of opinion in this
+new discussion favours moderation, we will try to work something out.
+Please see post <joe-0308960913120001 at stars.pr.mcs.net> for some remarks
+on how a moderated group might work, if this is important to you.  All of
+the posts referenced in this RFD can also be obtained at web site
+<URL:http://www.tezcat.com/~josephb/past/sha/> or by e-mail from
+<joe at sfbooks.com> or <mmartin at basis.com>.  (The latter are not automatic
+servers!)  To cast a vote in favour of or against moderation without
+posting publicly, please e-mail <joe at sfbooks.com>.
+
+Newsgroup line:
+soc.history.ancient     Ancient history (up to AD 700).
+
+This is a formal Request For Discussion (RFD) for the creation of a
+world-wide unmoderated Usenet newsgroup soc.history.ancient.  This is
+not a Call for Votes (CFV); you cannot vote at this time.  Procedural
+details are below.
+
+RATIONALE: soc.history.ancient
+
+Ancient history already is a topic of much interest on Usenet, where it
+is discussed in multiple newsgroups, and many mailing lists are also
+devoted to it. However, Usenet discussion is often fragmented, and/or
+off-topic in the groups where it occurs. This proposal seeks to create
+an intuitively obvious central place for such discussion.
+
+Existing Usenet newsgroups where ancient history is discussed but is off-
+topic include sci.archaeology and its offshoots; soc.history.medieval; and
+humanities.classics.  Ancient history is at best marginal in sci.archaeology
+the extent that it concerns questions subject to archaeological investigation.
+Recent threads in these groups which are off-topic of marginally so include
+ones about the historicity of Jesus, Josephus' account of Masada, the alleged
+salting of Carthage, Roman legions, Roman cities, Celts and Gypsies, and
+Celtic knowledge (from the classical period).
+
+In soc.history.medieval, where much discussion occurs, ancient history
+is strictly off-topic; the charter defines the group's scope as beginning
+at approximately AD 500.  Yet threads with enormous activity concerning
+ancient Christianity, Rome, and Celts have been common in the group since
+its incepion.
+
+Sci.classics (now becoming humanities.classics) is the most problematic
+case.  The newsgroup's traditions specifically include the history of
+the Greco-Roman world and neighbouring regions as far as India.  All the
+same, sci.classics is not an intuitively obvious place to look for such
+topics and in practice sci.classics has been dominated by linguistic/literary
+discussions which do not fully address ancient historical interests.  Short
+historical questions are usually answered but discussion rarely results.
+
+Soc.history.ancient is likely to be the first place people stop who are
+interested in the ancient world.  The group's charter and FAQ will help
+to direct them to more appropriate newsgroups where these exist.
+Soc.history.ancient should help, for example, improve the visibility of
+humanities.classics.
+
+During the first RFD discussion, questions were raised about the choice

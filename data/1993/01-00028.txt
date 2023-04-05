@@ -1,0 +1,29 @@
+From jhelling at cs.ruu.nl  Wed Jan 27 13:03:06 1993
+From: jhelling at cs.ruu.nl (Jeroen Hellingman)
+Date: Wed, 27 Jan 93 13:03:06 +0000
+Subject: english transliteration using TeX
+Message-ID: <161227015620.23782.16739674736912572847.generated@prod2.harmonylists.io>
+
+
+I have made a program, that can be used to derive scientifical transcription
+of Hindi or Sanskrit typed in Devanagari-TeX transcription in TeX -- it is
+table driven, so you can change the exat transcription you are using, and
+added some macro's as to be able to print circle below or double dot below
+accents -- I have also used this program to change the Devanagari-TeX
+transcription to another, I like better. -- Well, I can also do two accents on
+a letter, i.e., \~{\=a} will do the right thing.
+
+Jeroen
+
+(My replies may get delayed, since I don't read my mail every day)
+
+-- 
+Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
+'t Zand 2                         Phone: +31-3473-73935 (home)
+4133 TB Vianen                    (18.00--21.00 GMT)
+The Netherlands                   Answer in English, German, or Dutch.
+
+
+
+
+

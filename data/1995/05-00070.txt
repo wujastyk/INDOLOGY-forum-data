@@ -1,0 +1,22 @@
+From ucgadkw at ucl.ac.uk  Sun May 14 20:58:25 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Sun, 14 May 95 21:58:25 +0100
+Subject: Would like info on CSX encoding.
+Message-ID: <161227019439.23782.15154071079726304303.generated@prod2.harmonylists.io>
+
+> 
+> 
+> I have tried to get the descriotion of the CSX encoding, with no success.
+> Archie, Veronica and South Asia Gopher give no pointers to it. There is
+> a partial description in the ITRANS package; it also refers to a file
+> called iass.zip whose existence archie and veronica deny.
+
+See ftp.bcc.ac.uk:pub/users/ucgadkw/indology/iias.zip
+
+Dominik
+ 
+
+
+
+
+

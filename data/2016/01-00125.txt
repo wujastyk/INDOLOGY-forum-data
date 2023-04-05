@@ -1,0 +1,195 @@
+From suresh.kolichala at gmail.com  Mon Jan 25 07:44:01 2016
+From: suresh.kolichala at gmail.com (Suresh Kolichala)
+Date: Mon, 25 Jan 16 02:44:01 -0500
+Subject: [INDOLOGY] External Origin of Dravidian
+In-Reply-To: <CAJGj9eaG3iZ5NwUGChygjdMvGOSz0jJ0kaZf=CPaJpYNg0mAqA@mail.gmail.com>
+Message-ID: <CAOXgviqFjVqw-FaPRsPAs=m12tzNTF-K9H_+oZobuL-fs+Tefg@mail.gmail.com>
+
+Dear Hans, Nagaraj, George, Herman and others,
+
+I am overwhelmed by the responses that I have been receiving offline and
+online. Having made a bold proposal,  I guess I have my work cut out. I
+will try to briefly respond to a few of the questions raised here in this
+email, before taking myself off to work on a comprehensive article with
+stronger evidence to back up my proposal.
+
+Hans and George: Thanks for the kind responses. I will contact you
+privately on very interesting points you raised. I believe voicing was
+phonemic in the pre-Dravidian languages, and echo words
+and onomatopoeic words found throughout India are infact retentions from
+these Paleolithic Hunter-Gatherer languages (Ni??dic languages). For
+instance, in Telugu, the following onomatopoeic words, varying only in
+voice, have entirely different meanings: *cakacaka, jagajaga; ka?aka?a,
+ga?aga?a; pa?apa?a, ba?aba?a; pakapaka, bagabaga* etc.
+
+> I thought each reconstructions were done meticulously case by case
+choosing the most plausible root of phonetic change from among those
+required to account for all the available forms.
+
+Nagaraj: On the question of Dravidian reconstruction, you are right about
+the need for meticulous reconstruction to account for all available forms.
+As you know, there have not been comprehensive reconstructions for
+Dravidian. DEDR only lists a set of cognate words, but provides no
+reconstructions. Krishnamurti proposed a few reconstructions for a few
+chosen lexical items and grammatical markers (bound forms) in his 2001 and
+2003 books.  BhK, however, argued that under certain circumstances etyma
+found only in Proto-South Dravidian can be reconstructed for
+Proto-Dravidian. Here is his argument, and I don't agree with it:
+
+"Only four of the Dravidian languages have recorded history and literature
+starting from pre-CE to the 11th century. The available dictionaries of the
+literary languages are extensive, running over 100,000 lexical items in
+each case. The [recorded] vocabulary of the non-literary languages is not
+commensurate . . . Therefore, most of the cognates turn up in the four
+literary languages, of which Tamil, Malayalam and Kannada belong to South
+Dravidian I and Telugu to South Dravidian II. The absence of cognates in
+the other subgroups cannot be taken to represent the absence of a concept
+or a term in Proto-Dravidian. The presence of a name (a cognate) in the
+minor languages and its exclusion in the major languages should lead to a
+significant observation that the cognate could be lost in the literary
+languages, but not vice versa."
+
+Krishnamurti, as far as I know, has been very careful about positing a
+South Dravidian root for Proto-Dravidian. However, there have several
+others who applied Tamil words as a Proto-Dravidian reconstructions,
+without making a convincing argument for such use.
+
+For example, several of the Dravidian proposals for Indus script equate the
+"fish" sign with "star", as the proponents consider the words for 'fish'
+and 'star' as homophones in Proto-Dravidian.  I had earlier argued with
+Parpola (who is a member of this list) and others on the folly of equating
+m?n- 'fish' [DEDR 4885] with mi?-/min-(?) 'to glitter, star, sky' [DEDR
+4876]. I believe these two entries are unrelated etymologically. If you
+look at the entries for DEDR 4876, you notice a retroflex ? in many
+entries, which is somehow absent from Tamil-Malayalam. De-retroflexion of a
+nasal is common in the South-Central, Central and North Dravidian
+languages. That means, an absence of a retroflex in those languages is not
+surprising, but the presence of a retroflex consonant in languages across
+subgroups certainly adds credence to its presence in the proto-language.
+
+4876 *Ta. mi?* flash, glitter, lightning; *mi?mi?i* firefly; *mi??u
+(mi??i-)* to emit lightning, shine, glitter; *mi??al* lightning; bright
+coin; *mi?u?ku (mi?u?ki-)* to glitter, shine, appear bright; *mi?ukku
+(mi?ukki-)* to polish, brighten, beautify, make a display; *mi?ukkam,
+mi?ukkal* polish, brightness, excellence, showiness, show; *m??* star.
+*Ma. minnuka* to flash, shine; *minnal* lightning; *minni* shining; a gem
+in ear-rings; *minnikka* to cause to flash or shine; *minnu*lightning;
+*minukka* to be fine, glitter; *minukkuka* to polish, varnish, make
+glitter; *minukkam* shining, polish; *minu??uka* to glitter; *minuppu*
+ sparkling; *m?n* star. *Ko. minc- (minc-)* to flash, glitter, be dazzling,
+lighten; *mi?n* star. *To.mic- (mi&cangle;-)* to flash, lighten; *mic*
+lightning
+(in songs); *mi?n* star. *Ka. mi?a* glittering, sparkling; *mi?aku, mi?uku* to
+glitter; *n.* glitter; *minu, mini* sparkling, shining; *minuku, minugu* to
+shine, glitter; *n.* lustre, etc.; *mi?cu* to shine, be bright, sparkle,
+glitter, flash, lighten; *n.* shine, lustre, brightness, glitter,
+lightning; *m?n* star. *Ko?. minn- (minni-)* to lighten, flicker.
+*Tu. mi?imi?i* twinkling, glistening, dimly shining; *me??* glitter,
+sparkle; *mi?uku, me?ak?, me?uku* sparkling; *mi?(u)kuni, me?(?)kuni,
+minukuni, me?cuni, mi?cuni* to shine, sparkle, glitter; *me?ci* brightness,
+lightning; (B-K.) *me?ko?i, menk?ri* glowworm. *Te. mi?uku* to glimmer,
+sparkle; *n.* glimmer, glimmering, sparkling; *mi?u?gu, mi?u?gu?u, mi?u?gu,
+mi?u?gu?u* spark of fire, firefly; *min(u)ku* twinkling, twinkle, glitter,
+flash, ray of light; (K. also) *vb.* to glitter, shine; *minuku-minukum-anu,
+minukkuranu* to twinkle; *mincu* a flash of lightning, shining, brilliancy;
+(K. also) *vb.* to shine as lightning, shine; *minna* a gem;
+*minamina* glitter,
+shining. *Pa. minnal* spark. *Ga.* (S.3) *munake* firefly. *Go.* (Tr.)
+*m?nk?* the stars which a stunned, dazed, or liverish man sees; (W. Ph.)
+*minko*, (Mu. Ko.) *mi?ko* firefly; (Mu.) *mi?kom*, (M.) *mi?ko*, (L.)
+*mi?kos* star; (Ma.) *min?konj(i)* (*pl.* *min?kosku*) star, firefly
+(*Voc.* 2842);
+(Tr.) *mi?st?n?*, (W.) *mirs?ln?*, (M.) *mi?k?n?*, (Ph.) *mirs?ln?,
+mirs?lt?n?* to flash, of lightning; (SR.) *mi?c?n?* to flash; (A.) *mi?c-*,
+(Ma.) *mi?s-* to lighten (*Voc.* 2844); (ASu.) *mi?c-* to glitter;
+*mi?cval* lightning;
+(L.) *m??s?, m?rc?* id.; (LuS.) *meershinta* to glitter;
+*meersheetatta* lightning;
+(Mu.) *mir?gul*, (Ma.) *mi??gor?*spark (*Voc.* 2837); (ASu.) *min???* id.
+*Kon?a* (BB) *mirs-* to lighten. *Kuwi* (Su.) *m?ih- (m?ist-), mi?s-* to
+lighten; (Isr.) *m??h- (m??st-)* id., glitter; *m?ispu* lightening; (S.) *mirsi
+mannai* to scintillate; *mrih'nai* to sparkle; (Mah.) *mi?ig-*to shine.
+*Kur. b?nk?* star; *binc?* firefly. *Malt. b?n?ke* star.
+
+Furthermore, mi?- 'to glitter, star, sky' is perhaps related to *vi?*-
+'sky' [DEDR 5396], which also shows a retroflex nasal.  I believe it is
+clearly wrong to rely on Tamil-Malayalam word *mi?* 'flash'*, *to equate
+'fish' with 'star', which is fundamental to many of Parpola's readings of
+Indus seals. I think it is untenable, as the reconstruction for *mi?*-
+'flash', 'light'  should contain a retroflex consonant, and cannot be
+equated with *mi?* 'fish' which has an alveolar nasal. As Hans Hock once
+said, if you want to represent a star, why draw a fish?
+
+Similarly, Parpola says the following in his recent book:
+
+ "The Dravidian languages appear to have spread to central and southern
+India from the area of the Indus Valley. Copper Age cultures of the Deccan,
+which derive from the Early and Mature Harappan cultures of the Greater
+Indus Valley, spread farming and animal husbandry to central and southern
+India, in place of hunter-gathering" (Parpola, Asko (2015). The Roots of
+Hinduism: The Early Aryans and the Indus Civilization. Oxford University
+Press).
+
+If Parpola believes that the Dravidian languages moved recently into
+central and southern India, then, he must agree that they haven't moved
+into "empty" area. We know there have been Paleolithic population living in
+South and Central India for at least 20,000 years. Then, there must have
+been a Dravidian colonization of South India where the pre-existing
+hunter-gatherer population have gone through acculturation and
+language-shift.  Then, the Peninsular Dravidian langugaes must have
+acquired several non-Dravidian features (perhaps some of them are common
+across Indian linguistic area) through the influence of the languages of
+the HG (hunter-gatherer) population. That means, it is possible that
+several archaic features found in Tamil are in fact the archaic features of
+the aboriginal languages. As Herman Tieken had suggested earlier, Tamil
+cannot be the language of the southernmost region of Dravidian migration,
+and at the same time be the most conservative Dravidian language.
+
+Furthermore, Parpola uses Tamil-based reconstructions to argue Dravidian
+roots for words with voiced consonants such as gardabha,  bhekuri/ bekuri
+etc. without convincingly explanation for the word-initial voiced consonant
+in such wide variety of languages. The same Tamil-centric argument is made
+for  kiy?mbu without explaining their presence in several Indian languages
+including East-Indian languages such as Assamese, Bengali and Oriya ( CDIAL
+3465 *k?muka* m. ? Costus speciosus ? lex., ? Colocasia antiquorum ? Bhpr.
+[Cf. *k?vuka* -- m. Car., *k?cuka* -- m. Su?r., *kacu* -- m., *kacv?* -- f.
+lex., *k?l??a* -- m. Npr., also ? a kind of potherb ? Car.: ? Drav. EWA i
+266] B. *k?u* ? Costus speciosus ?, Or. *ka?ka??*, H. *keu??*, *keu?*
+m. *k?mbuka
+-- *see kr?muk? -- .2609 *kacu* f. ? the esculent root of Arum colocasia. ?
+[Cf *kacv?* --f., *k?cuka* -- m. ? Colocasia antiquorum ?, k?muka -- ] A.
+*kasu*, B. *kacu*, H. *kac?*, *kacc?)*. He uses palatalization rule to
+explain *kiy?mbu* > *c?mpu* in Tamil, but by the same token he doesn't
+explain why *kinnara* doesn't become *cinnara* in Tamil.
+
+  I believe many of the features of the Indian linguistic area, commonly
+believed to be originated in Dravidian, in fact belong to the languages of
+pre-Dravidian substrata (for ex: dative subjects, echo words,
+reduplication, compound verbs, datives in -k-/-g- etc.). I also believe all
+the words related to the flora and fauna of mainland India must also belong
+to the aboriginal languages of India (what I call Ni??dic languages). I
+hope to provide a stronger evidence for it in a comprehensive essay on this
+topic.
+
+Regards,
+Suresh.
+
+Nagaraj gaaru: You said "The usages of ???? r?vu are more with /r/ (??)
+than with /?/ (??). As you know, a lot of medieval grammar books on Telugu
+discuss the *r?pha-?a-k?ra-nir?ayamu *in great detail*.* They all include ??vu
+(????) with ?, and not with r (including *appakav?yamu)*. Here is the verse
+listing the words starting with /?/ (??) by T???ap?ka peda-Tirumalac?ryulu,
+son of Annam?c?rya (15-16th century):
+
+?????, ?????, ????, ????, ??????????
+????, ????, ????, ????, ?????,
+????, ????? ????  ?????? ??? ????
+???? ???? ????? ???? ?????  (51)
+By the way, ????? is the oblique form of ?????. "??????? ????? ????? ?????"
+is the complete proverb.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160125/af703c6f/attachment.htm>
+

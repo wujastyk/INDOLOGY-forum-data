@@ -1,0 +1,119 @@
+From mmdesh at umich.edu  Mon Jan 15 22:17:59 2018
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Mon, 15 Jan 18 14:17:59 -0800
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_Pronunciation_of_j=C3=B1?=
+In-Reply-To: <D6828273.4DDA9%lubint@wlu.edu>
+Message-ID: <CAB3-dze3EJ0VdA4jbUqScf2z74BLDnPdDQ3Vjj-afGmoMEg_SQ@mail.gmail.com>
+
+Tim Lubin's account is generally fine.  The typical Marathi pronunciation
+of j? is indeed dny today.  However, in the language of the countryside,
+one also hears "gy?nab?" for J??ne?vara.  The dny pronunciation
+occasionally results into ny for some speakers.
+
+Madhav Deshpande
+
+On Mon, Jan 15, 2018 at 2:07 PM, Lubin, Tim via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Harry,
+>
+> /j?/ is has been a very unstable sequence in India for a very long time,
+> and its varying treatment can be traced in part through Prakrits (see
+> Pischel?s *Prakrit Grammar,* ?88, ?119, ?303).  Already, in A?oka?s
+> edicts we see a simple (very rarely doubled) /n/ (Kalsa in N, Dhauli in E)
+> or /?/ (NW and far south) or /?/ (at Girnar) in forms like *?napayati* or
+> *??apayati*, ?orders? (cf. Sanskrit *?j??payati*), with [n] or [?];  Pali
+> has /?/ (pronounced [ny]) initially and /??/ medially.
+>
+> One can sum up by saying that the initial /j/ has a tendency to disappear,
+> or to survive in a minimal way in western India as an unexploded /d/ ? that
+> is, the beginning of a /j/ = [dzh/ without the fricative which is dropped
+> before the [ny], OR realizing the /j/ with a velar stop instead.
+>
+> The options by region, generally, seem to be [gy] with or without
+> accompanying nasalization much of the Hindi belt, [dny] in Maharasthtra and
+> thereabouts, and either [ny] or [gn]/[kin] in the Tamil sphere, where an
+> epenthetical vowel is inserted to break up the cluster.  This also happens
+> in northwestern India, where we get Ismaili works called *gin?n* (<
+> j??na) from Sindh, Gujarat, and Panjab.
+>
+> What does NOT seem to happen much is what Westerners today most often
+> produce: j + epenthetical vowel + n
+>
+> The regional variation is discussed (too) briefly on p. 78 of:
+> Chatterji, Suniti Kumar. 1960. ?The Pronunciation of Sanskrit?. *Indian
+> Linguistics* 21, 61?82.
+>
+> In my edition of the *N?larudropani?ad *(p. 87), I use the Maharashtrian
+> pronunciation as diagnostic to identify the origin of a particular variant
+> reading in the text:
+> https://www.academia.edu/408391/The_N%C4%ABlarudropani%
+> E1%B9%A3ad_and_the_Paippal%C4%81dasa%E1%B9%83hit%C4%81_A_
+> Critical_Edition_with_Translation_of_the_Upani%E1%
+> B9%A3ad_and_N%C4%81r%C4%81ya%E1%B9%87as_D%C4%ABpik%C4%81
+>
+> I discuss the Prakrit and Tamil reflexes of the j? conjunct a bit here as
+> well (on pp. 425?426):
+> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1720704
+>
+> Best,
+> Tim
+>
+> Timothy Lubin
+> Professor of Religion and Adjunct Professor of Law
+> Chair of the Department of Religion
+> Chair of the Middle East and South Asia Studies Program
+> 204 Tucker Hall
+> Washington and Lee University
+> Lexington, Virginia 24450
+>
+> http://home.wlu.edu/~lubint
+> http://wlu.academia.edu/TimothyLubin
+> http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
+>
+>
+>
+> From: INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> INDOLOGY <indology at list.indology.info>
+> Reply-To: Harry Spier <hspier.muktabodha at gmail.com>
+> Date: Monday, January 15, 2018 at 4:01 PM
+> To: INDOLOGY <indology at list.indology.info>
+> Subject: [INDOLOGY] Pronunciation of j?
+>
+> Dear list members,
+>
+> I've been asked about the pronounciation of the conjunct j? .
+>
+> Coulson writes:
+> "j?a: the pronounciation of this varies wid is that it is a palatalisation
+> so to speak en bloc of an original gn,  In some places, for instance, it is
+> like gya, in others dnya. . . . The point about j? is that it is a palatal
+> isation so to speak en bloc of an original gn.. . . . Perhaps the most
+> approprate of the modern pronunciations to adopt is therefore gnya which
+> (by adding y to gn) thus crudely represent a palatalisation."
+>
+> 1) Is j?a  ever pronounced in India as jnya and if so where?
+>
+> 2) where in India are the different pronounciations Coulson lists (gya,
+> dnya, gnya) located?
+>
+>
+> Thanks,
+>
+> Harry Spier
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180115/796a34d1/attachment.htm>
+

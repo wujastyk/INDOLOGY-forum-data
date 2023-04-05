@@ -1,0 +1,54 @@
+From gkb at ast.cam.ac.uk  Tue Dec  3 10:03:05 1996
+From: gkb at ast.cam.ac.uk (Girish Beeharry)
+Date: Tue, 03 Dec 96 10:03:05 +0000
+Subject: "Out of India"
+Message-ID: <161227027234.23782.4598183035346395134.generated@prod2.harmonylists.io>
+
+Hi,
+
+Thanks for the responses.
+
+Vidhyanath Rao wrote:
+>In cluster analysis, the aim is to study how the different variables
+>or different subjects group together. The results can be displayed
+>as a tree diagram. Closest neighbors are grouped together
+>and joined to a single vertex. Something not more closely related to
+>some compared to the others is left as an isolated twig. Then this
+>process is repeated with each group obtained at this stage. This is the
+>kind of diagram that is found in write-ups of the `African Eve' theory,
+>for example.
+
+>As to the theory behind how `closeness' is measured, I don't quite
+>follow it myself.
+
+Thanks for the above explanation. I too have difficulty in understanding how
+to 'measure' the 'distance' between 'neighbours': I don't understand how to say
+when subjects and variables are close enough. However, this is the heart of the
+whole analysis. 
+
+>It may be worthwhile if Indology courses did require a course in
+>understanding statistics. For example, a rank correlation test on
+>the different attempts to arrange the books of Rgveda in a
+>chronological sequence would be eye opening.
+
+May be Indologist might consider talking to mathematicians! :-) 
+
+Lars Martin Fosse wrote:
+>It should be added that there are several algorithms for cluster analysis
+>that yield somewhat different results. It would be foolhardy simply to
+>produce a cluster analysis and accept the result as authoritative, several
+>attempts with different sets of criteria and different algorithms would have
+>to be done. 
+
+This adds another item to the list of 'I don't understand'; which algorithms 
+are more 'objective'? Has non-parametric statistics (eg maximum likelihood)
+been used in this area?
+
+Bye,
+
+Girish Beeharry
+
+
+
+
+

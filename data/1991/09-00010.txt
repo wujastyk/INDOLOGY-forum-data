@@ -1,0 +1,36 @@
+From ucgadkw at UK.AC.UCL  Fri Sep 13 19:43:23 1991
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Fri, 13 Sep 91 19:43:23 +0000
+Subject: soc.culture.india
+Message-ID: <161227015123.23782.3175255400346299211.generated@prod2.harmonylists.io>
+
+ 
+      i wonder whether these usenet lists also have logs which could be retriev
+  > ed
+      from some site through ftp? i would even prefer to get may information th
+  > at
+      way because then i can go through them with some searches for key words.
+  > i also
+      dislike reading 30 e-mails a day but one never knows what turns up.
+ 
+
+(Sorry about the strange layout of the quoted text above.  We have
+a new Unix system here -- AIX  -- and several old workhorse programs
+like mail seem to have developed little glitches.)
+ 
+Some of the usenet groups are indeed archived, especially those
+which distribute programs, both sources and binaries.  But
+the discussion groups are less likely to be archived, and in the
+case of soc.culture.india I am almost certain that the discussion
+is not archived.  Unless some individual with an exceptionally
+strong hoarding instinct is doing it privately.  The only way
+to find out is to join up and ask the question.
+ 
+Dominik
+ 
+ 
+
+
+
+
+

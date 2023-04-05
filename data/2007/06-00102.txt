@@ -1,0 +1,39 @@
+From silk at HUMNET.UCLA.EDU  Mon Jun 18 15:27:21 2007
+From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
+Date: Mon, 18 Jun 07 08:27:21 -0700
+Subject: Finding Indological full-book PDFs on Google Books
+In-Reply-To: <ddf436400706172117r4db95ec2n9d47c8ca34a26954@mail.gmail.com>
+Message-ID: <161227080619.23782.17534702125704854720.generated@prod2.harmonylists.io>
+
+Clarification:  It has been brought to my attention by Michael Radich 
+that there is more than one scan of Burnouf's Introduction on Google 
+books, so I have been talking about a different scan than others 
+apparently!
+
+compare
+
+http://books.google.com/books?id=XqwFAAAAQAAJ&pg=PA1&dq=burnouf+introduction+indien&num=50&as_brr=1#PPA212,M1
+
+http://books.google.com/books?id=nTYAAAAAYAAJ&pg=PA1&dq=inauthor:burnouf#PPA209,M1
+
+another wrinkle...  JAS
+
+PS:  the clean one is the 1844 edition, it turns out, the problematic 
+one the 1876 edition. I had actually looked for the 1844 one 
+initially but (bad metadata?) could not find it. Ironically, as far 
+as I can see, I can't download the 1844 edition from Google. 
+Displaying my utter ignorance, is it possible to download the entire 
+book from DLI ?
+-- 
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310) 206-8235
+fax:  (310) 825-8808
+silk (at) humnet.ucla.edu
+
+

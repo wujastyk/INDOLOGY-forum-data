@@ -1,0 +1,37 @@
+From Gerard.Huet at inria.fr  Tue Jul 25 11:08:29 1995
+From: Gerard.Huet at inria.fr (Gerard Huet)
+Date: Tue, 25 Jul 95 13:08:29 +0200
+Subject: Sorting sanskrit words in roman transliteration
+Message-ID: <161227020110.23782.17977910332586502512.generated@prod2.harmonylists.io>
+
+With regards to David Dargie's message:
+
+The proposed scheme, of encoding each transliteration code into a unique
+ASCII character in the alphabetical order, will work only if the anusvAra
+is used solely its its "original" role. When the anusvAra is used as a
+substitute for a nasal, the alphabetical order of this nasal ought to be used,
+and this information is context-sensitive. A similar difficulty occurs with
+the visarga, which ought to be sorted as the corresponding sibilant when
+it denotes a sibilant attenuation.
+
+I would thus recommend that roman transliterations use the anusvAra and the
+visarga ONLY when they are original, in which case they have their own
+alphabetical order, between the diphtongs and the consonants. If their
+non-original use is required, this may be effected by a further processing
+pass on the text, by a set of pattern-matching rules looking at some
+context (typically a vowel followed by a nasal followed by a consonant).
+
+Another care must be taken when the roman transliteration scheme uses a 
+notation for the accent, or a notation for the origin of a long vowel
+in a compound word, like in Monier-Williams: such notation ought to be erased
+from the source text before the sorting operation.
+
+It would be nice if indology scholars would agree on a standard non-ambiguous
+one-to-one encoding of devanagari into ASCII characters, from which all usual 
+transliteration schemes could be easily macro-generated in linear time by 
+finite automata transducers available in most computer systems or text editors.
+
+Gerard Huet
+ 
+
+

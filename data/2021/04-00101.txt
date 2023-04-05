@@ -1,0 +1,44 @@
+From mark.allon at sydney.edu.au  Sun Apr 25 04:31:55 2021
+From: mark.allon at sydney.edu.au (Mark Allon)
+Date: Sun, 25 Apr 2021 04:31:55 +0000
+Subject: [INDOLOGY] Journal of Gandharan Buddhist Texts
+Message-ID: <SYAPR01MB2767397A881973396AFC11CEDD439@SYAPR01MB2767.ausprd01.prod.outlook.com>
+
+Dear list members,
+
+We would like to bring to your attention the launch of the electronic Journal of Gandh?ran Buddhist Texts<https://openjournals.library.sydney.edu.au/index.php/JGBT/index>. The main objective of this peer-reviewed journal, which is hosted by the University of Sydney, is to make available ?threshold? editions of Gandh?ran textual materials more quickly and in a dynamic and interactive manner. The journal is in part a response to the enormous amount of new G?ndh?r? and Sanskrit manuscripts and inscriptions from the Greater Gandh?ran region that remain unpublished, and in part a response to the desire to make that material available in a more comprehensive form than is possible in conventional print publications. The editorial board is made up of scholars working in the field: https://gandhari-texts.sydney.edu.au/journal/.
+
+The first three articles provide digital editions of sutras from the Robert Senior collection of Kharo??h? manuscripts:
+
+  1.  *A?atvalak?a?a-sutra (RS22.02), a G?ndh?r? version of the second discourse of the Buddha known in Pali as the Anattalakkha?a-sutta, by Mark Allon, Stephanie Majcher, and Ian McCrabb: https://gandhari-texts.sydney.edu.au/text/a%e1%b9%87atvalak%e1%b9%a3a%e1%b9%87a-sutra/.
+  2.  *Suhadukha-sutra (RS20.01), a G?ndh?r? sutra without an exact parallel, by Joe Marino: https://gandhari-texts.sydney.edu.au/text/suhadukha-sutra/.
+  3.  *Mahapara?aha-sutra (RS20.02), a G?ndh?r? parallel to the Pali (Mah?)-Pari??ha-sutta, by Joe Marino: https://gandhari-texts.sydney.edu.au/text/mahapara%e1%b8%8daha-sutra/.
+
+For these first articles, the framing content for each is minimal with the reader being referred to print publications for further details and analysis. Future articles may be stand-alone publications.
+
+Some of the features and resources provided by the digital editions are:
+
+  *   ability to switch between diplomatic, reconstruction, and hybrid editions
+  *   ability to easily align the edition, English translation and Sanskrit ch?y?
+  *   full glossary
+  *   interactive image and text with a word selected in the edition being highlighted by segments in the image
+  *   ability to reveal the grammatical status, Pali and Sanskrit cognates, etc., of each word by double clicking on each word in the text
+  *   palaeographic report
+  *   ability to export the editions in standards-based formats (TEI, HTML, etc.)
+  *   additional resources such as downloadable colour and infrared images of the manuscript or inscription, images of select reconstructed sections, and related images such as historical images and images of the manuscript in the process of being conserved
+  *   reference to a companion print publication, such as a journal article or a volume in the Gandh?ran Buddhist Text (GBT) series (University of Washington Press). Companion publications may have a DOI link to this electronic publication
+  *   facility for readers? comments/feedback to be added.
+
+The platforms involved are listed here: https://gandhari-texts.sydney.edu.au/people/.
+
+We invite submissions of textual material (manuscripts, inscriptions, etc.) from the Greater Gandh?ran region. Guidelines for submission, with various options for authors to onboard their texts into the journal are available upon application. For further details, contact Mark Allon: mark.allon at sydney.edu.au<mailto:mark.allon at sydney.edu.au>.
+
+Respectfully,
+
+Editors: Mark Allon, Paul Harrison, Richard Salomon
+Management Board: Andrew Glass, Stephanie Majcher, Joe Marino, Ian McCrabb
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210425/c58c0156/attachment.htm>
+

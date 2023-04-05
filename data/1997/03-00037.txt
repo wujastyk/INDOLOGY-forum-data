@@ -1,0 +1,55 @@
+From rsalomon at u.washington.edu  Wed Mar  5 15:53:09 1997
+From: rsalomon at u.washington.edu (Richard Salomon)
+Date: Wed, 05 Mar 97 07:53:09 -0800
+Subject: decipering a colophon
+Message-ID: <161227028744.23782.9911716073833995087.generated@prod2.harmonylists.io>
+
+
+Lists of words used in chronograms are given in:
+	
+	1. P. V. Kane, History of Dharmasastra V, pt.1, pp. 701-3.
+
+	2. G. Bu:hler, Indian Paleography..., 84-6.
+
+	3. D. C. Sircar, Indian Epigraphy, pp. 230-3.
+
+These sources (esp. Sircar, who gives ripu = 6) would seem to support your
+interpretation of the date in question.  I don't find vairi- in any of the
+lists, but it is obviously a synonym of ripu/ari, etc., and hence
+presumably also = 6.
+
+R. Salomon
+
+
+On Wed, 5 Mar 1997, Adrian Burton wrote:
+
+> Indologists,
+> 
+> I have come across the following date mentioned in the colophon of a MS:
+> 
+> ripuvairisaptap.rthvii
+> 
+> 
+> I would have read that this as 1766 VS, but the catalogue for the MS says
+> 1733 VS.  
+> 
+> Can anyone clarify the usage of "ripu" and "vairi" as anka?
+> 
+> Is there any reference book for these usages?
+> 
+> Merci d'avance,
+> Adrian
+> 
+> _______________________________________________________________
+> Adrian Burton                      South and West Asia Centre
+> Adrian Burton at anu.edu.au   Faculty of Asian Studies
+> +61-6-279 8241                   Australian National University
+> 
+> 
+> 
+
+
+
+
+
+

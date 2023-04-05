@@ -1,0 +1,32 @@
+From jhelling at cs.ruu.nl  Wed Dec  1 12:58:38 1993
+From: jhelling at cs.ruu.nl (Jeroen Hellingman)
+Date: Wed, 01 Dec 93 13:58:38 +0100
+Subject: Malayalam fonts
+Message-ID: <161227016377.23782.2076423644689779309.generated@prod2.harmonylists.io>
+
+
+
+Hello,
+
+I am the author of the Malayalam Metafont. A copy of it is available on
+archive.cs.ruu.nl in directory /pub/TEX/FONTS/.
+
+I am currently working on some improvements and porting it to the Macintosh,
+to work in conjunction with OzTeX. This will be made available soon.
+
+Any questions and remarks can be send directly to me, on the below E-mail
+address.
+
+Jeroen Hellingman
+
+-- 
+Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
+'t Zand 2                         Phone: +31-3473-73935 (home)
+4133 TB Vianen                    (18.00--21.00 GMT)
+The Netherlands                   Answer in English, German, or Dutch.
+ 
+
+
+
+
+

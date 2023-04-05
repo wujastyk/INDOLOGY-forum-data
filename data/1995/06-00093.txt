@@ -1,0 +1,69 @@
+From GATUBB at vaxsar.vassar.edu  Fri Jun 16 19:12:02 1995
+From: GATUBB at vaxsar.vassar.edu (Gary Tubb)
+Date: Fri, 16 Jun 95 15:12:02 -0400
+Subject: TeX for Indology
+Message-ID: <161227019732.23782.6351662331336954959.generated@prod2.harmonylists.io>
+
+kichenas at math.umn.edu asked
+> Is there a (La)TeX style file which enables
+> the input of Romanized text? All the tools for this are
+> present in TeX (macrons, dots over and under letters,...)
+> and all that is needed is the definition of an 
+> environment which would enable the user to input
+> \begin{tamil}
+> kaNTanen kaRpinuk k-aNiyai
+> \end{tamil}
+> and produce the output corresponding to
+> {\em ka\d n{}\d t{}a\b n{}e\b n kaRpi\b n{}uk k-a\d n{}iyai}
+
+   I agree with Nath Rao's explanation that for Roman script a simple
+filter may be best.  I would add that because much of my typing is in
+English with chunks of Sanskrit, including proper names that need
+uppercase letters but not italics, I prefer not to use a scheme that
+relies on uppercase letters or that begins a non-English group.  
+   What I find quickest and easiest is simply to type a semicolon before
+any letter that needs a diacritic of any kind.  I use a semicolon
+because it is the easiest non-letter to type (and faster than using a
+control-key code), it does not normally occur before a letter, and it is
+relatively unobtrusive visually.  Then any context-sensitive filter or
+group of macros can be used to convert ";Sa;nkara;sarm;a ;Dhu;n;dhir;aja
+Mu;njat;irtha" into "\'Sa\.nkara\'sarm\=a \d{D}hu\d{n}\d{d}hir\=aja
+Mu\~njat\={\i}rtha" and so on, throughout the entire document.
+   I haven't used it for Tamil, but for Sanskrit there is only one
+frequent ambiguity, which I avoid by typing ;x for the retroflex s and
+reserving ;s for the palatal s.  For the less frequent difficulties
+(word-final velar n and the long r vowel) I simply type in the TeX
+commands myself, rather than spend more time devising shortcuts.
+   As an example of how to do this, the following six-line ex script
+can be used within any vi-type text editor to process a file in the
+course of editing it.  If you use UNIX the same script can be used with
+very slight changes to run either ex or sed on a file directly.  The
+commands determine which type of nasal to use by looking at the
+following consonant, even if an optional-hyphen (\-) command intervenes.
+
+  " Ex script for inserting TeX commands for Sanskrit diacritics.
+  " Type text with semicolon before each character that needs diacritic.
+  " Use ;x instead of ;s for the retroflex sibilant (underdot s).
+  " Long r vowel and word-final velar n must be entered manually.
+  " Run from inside vi by entering ":so <scriptname>" in command mode.
+  " For sed script delete % in each line and change " to # in comments.
+  %s/;\([nN][\\-]*[kg]\)/\\\.\1/g       "overdot for velar nasal
+  %s/;\([nN][\\-]*[cj]\)/\\\~\1/g       "tilde for palatal nasal
+  %s/;\([rlmhtdnxRLMHTDNX]\)/\\d{\1}/g  "all the underdots
+  %s/;i/\\={\\i}/g                      "macron for undotted long i
+  %s/;\([auAIU]\)/\\=\1/g               "macrons for other long vowels
+  %s/;\([sS]\)/\\'\1/g                  "mark for palatal s 
+
+Something similar could be done for Tamil.  If there are too many
+ambiguities you could also use colons or commas in addition to
+semicolons (but probably not a period, which occurs before letters in
+filenames and elsewhere).
+
+     Gary Tubb,
+     Columbia University.
+ 
+
+
+
+
+

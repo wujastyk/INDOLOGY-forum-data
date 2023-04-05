@@ -1,0 +1,42 @@
+From ucgadkw at UK.AC.UCL  Fri Nov 30 13:53:26 1990
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Fri, 30 Nov 90 13:53:26 +0000
+Subject: programs (dates and eras)
+Message-ID: <161227014929.23782.2835339728547566691.generated@prod2.harmonylists.io>
+
+ 
+  > This sounds interesting.  If the tools don't already exist, I wouldn't
+  > mind writing a C programme, given Harry's notes and enough community
+  > interest to test it properly.
+ 
+  > > more important: for some time I dream about a program converting
+  > > oriental dates (vikrama; gupta; hejra etc) into dates of our era, taking
+  > > fully into account that some Hindu dates are "wrong" and proposing
+  > > a range of dates for doubtful data. I am not capable to develop such a
+  > > program. But maybe someone of the group wants to try his luck? I have
+  > > collected articles and books giving all sorts of formulas for such
+  > > conversions, which I could communicate.
+  > > Harry
+  > >
+ 
+
+Brett,
+ 
+I would give my right arm for a program of the type Harry describes.
+To be able to feed in data like "Friday 11 suklapaksa of Asadha, sam
+1617" and have it converted to the European era and verified, and a
+nearest guess made if the thing didn't check (assuming that scribes
+might be more likely to have the day of the week right than the
+tithi).  Please, please go ahead!  Prof. David Pingree is a foremost
+authority on these dating systems, and is well up on issues like where
+Pillai's tables are wrong.  I would be delighted to help by testing,
+or in any other way.
+ 
+Dominik
+ 
+ 
+
+
+
+
+

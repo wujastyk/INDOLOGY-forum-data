@@ -1,0 +1,26 @@
+>> From a strictly phonetic point of view, a development ejective
+>> (glottalized) -> retroflex is rather plausible.
+>
+>Why?
+
+My impression is that /t./ and /t'/ are rather similar in tehir
+acoustic effect (articulation is very different).  I'm afraid I can't
+confirm that with an authoritative quote.
+
+>(Btw accoustically do glottalized and/or retroflexes have lower
+>spectra than the corresponding non-glottalized and say dentals?
+>Just wondering...)
+
+According to Ladefoged ("A Course in Phonetics"), retroflex sounds
+show a "general lowering of the third and fourth formants".
+Unfortunately, no acoustic correlates are given for ejectives.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

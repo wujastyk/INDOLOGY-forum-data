@@ -1,0 +1,40 @@
+From magier at columbia.edu  Fri Oct  6 03:23:19 1995
+From: magier at columbia.edu (David Magier)
+Date: Thu, 05 Oct 95 23:23:19 -0400
+Subject: Q: URL addresses
+Message-ID: <161227021061.23782.3145949207355643069.generated@prod2.harmonylists.io>
+
+> The old one is for the TITUS project on 
+> historical linguistics. I've tried these addresses:
+> 	http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html
+
+I seem to have no trouble connecting to this adress. The server in
+Frankfurt actually re-routes the connection to the new url (with
+watson), so that your browser indicates that you're connected to the
+latter (even though you typed in the former). When I directly type in
+the 'watson' url, again, I have no difficulty connecting to this
+address.
+Perhaps your network's connection to the Domain Name Serv er (DNS) was
+down, and so failed to look up the numerical (IP) address for the
+named host...
+
+> The new address is the one for the Asian Studies Network Information 
+> Center and for the SAGAR journal put out at the University of Texas at 
+> Austin. The addresses I have for those are:
+> 	
+> 	http://asnic.utexas.edu/asnic.html
+> 
+> and 
+> 
+> 	http://asnic.utexas.edu/asnic/sagar/sagar.main.html
+
+Again, I have no trouble connecting to these. Must be something wrong
+with the nextwork or DNS connection at your end.
+
+David Magier
+ 
+
+
+
+
+

@@ -1,0 +1,86 @@
+From d.wujastyk at ucl.ac.uk  Fri Feb  9 00:36:59 1996
+From: d.wujastyk at ucl.ac.uk (d.wujastyk at ucl.ac.uk)
+Date: Thu, 08 Feb 96 19:36:59 -0500
+Subject: New font available with Computer Sanskrit encoding
+Message-ID: <161227022706.23782.14169036308373236914.generated@prod2.harmonylists.io>
+
+
+I have spent some hours recently making up a CS (Computer Sanskrit) version of
+Adobe's font "Utopia".  It is quite a nice font, perhaps a little more of a
+"book-face" than the Bitstream Charter that has been available for some time in
+CS encoding.  
+
+The Utopia font is a professionally designed typeface which has been officially
+released by Adobe Inc. for free distribution.
+
+I have made the following files available:
+
+adobe-utopia-font-CS-encoding-PS-10.zip	
+adobe-utopia-font-CS-encoding-PS-10.readme
+	and 
+adobe-utopia-font-CS-encoding-TTF-10.zip
+adobe-utopia-font-CS-encoding-TTF-10.readme
+	
+by anonymous ftp from
+	ftp.bcc.ac.uk in /pub/users/ucgadkw/indology/software
+
+or via your web browser at URL
+	http://www.ucl.ac.uk/~ucgadkw/indology.html
+(follow the links to INDOLOGY supplementary gopher -- software)
+
+The filenames are long, in order to be explanatory.  I hope this doesn't cause
+any problem downloading the files.  It shouldn't, with modern software.  The
+"10" at the end of the names is a version number: I expect to make minor changes
+from time to time to upgrade these fonts, especially in the area of font
+encoding vector.  The "PS" fonts are PostScript (for any system that supports
+Adobe Type Manager, including Windows, OS/2, Mac etc.); the "TTF" fonts are
+TrueType, for use with raw Windows 3.1 and up, and the Mac.
+
+I am sorry to say that I do not have the time to help anyone with acquiring,
+unzipping, or installing these fonts.  The procedures are not difficult, and are
+well documented in your system manuals.
+
+The *.readme files give brief documentation about the fonts, and explain the
+files to be found in the zip archives.
+
+The CS encoding is documented in other files at the same place as above.  It
+provides a font with the ready-made characters required for working in romanized
+Sanskrit, e.g., a+macron, t-underdot, and so forth.  These extra, accented
+characters are in standard positions, defined by the CS "standard" agreed at the
+Vienna World Sanskrit conference some years ago.
+
+The Sanskrit characters in the CS forumulation ride "piggy back" on the IBM
+code-page 437 extension to the ASCII character set.  I.e., where there is no
+Sanskrit character, expect to find the appropriate cp437 character.
+
+This arrangement is looking increasingly dated.  Especially with these Utopia
+and Bitstream fonts, in PostScript and Truetype format, which are clearly aimed
+at Windows and OS/2 users, etc.  The base character set for Windows is not
+cp437, so characters from a cp437 coded font are sometimes not where Windows
+expects to find them, and Windows programs vary in the elegance (!) with which
+they solve this problem.
+
+I think a discussion, probably at the WSC in Bangalore next year, must be held
+to rethink the encoding issues, and to take account of people's experience using
+these fonts over the last few years.
+
+I would like to hear how people get on with these fonts, and especially whether
+they work okay on a Mac.  I don't have access to a Mac for testing.
+
+Enjoy!
+
+Dominik Wujastyk
+
+
+
+
+
+--
+Dominik Wujastyk
+
+
+
+
+
+
+

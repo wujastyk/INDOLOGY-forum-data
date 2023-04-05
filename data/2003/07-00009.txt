@@ -1,0 +1,65 @@
+From rbm49 at EXT.CANTERBURY.AC.NZ  Sun Jul 13 20:56:34 2003
+From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
+Date: Mon, 14 Jul 03 08:56:34 +1200
+Subject: Preliminary bibliography focused on "Saantideva
+Message-ID: <161227072972.23782.8855450717519915647.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+[I apologise to subscribers to H-Buddhism for cross posting]
+
+Drawing on Gomez[1], Potter[2] and Tsukamoto et al.[3], together with
+my own notes, I have collated a preliminary bibliography focused on
+"Saantideva:
+
+  http://homepages.comnet.co.nz/~r-mahoney/biblio/biblio.html
+
+
+The bibliography is divided into sections:
+
+ 1) Manuscripts & editions
+     http://homepages.comnet.co.nz/~r-mahoney/biblio/bca_ed.html
+
+ 2) Translations
+     http://homepages.comnet.co.nz/~r-mahoney/biblio/bca_trans.html
+
+ 3) Secondary literature
+     http://homepages.comnet.co.nz/~r-mahoney/biblio/bca_second.html
+
+
+It is my hope that these details might form the basis for an accurate,
+up to date database of materials concerning "Saantideva. A form is
+available for the submission of corrections and additions:
+
+  http://homepages.comnet.co.nz/~r-mahoney/biblio/biblio-input.html
+
+If you notice any mistakes in the BibTeX databases, or know of papers
+not included, please do not hesitate to use this form.
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+N.B. the HTML was automatically generated from BibTeX databases using
+`bibtex2html' (http://www.lri.fr/~filliatr/bibtex2html/). In not a few
+cases the HTML less than optimal. The details in the BibTeX databases
+should be given priority.
+
+
+[1] http://homepages.comnet.co.nz/~r-mahoney/biblio/bca_second-bib.html#gomez1999a
+[2] http://faculty.washington.edu/kpotter/
+[3] http://homepages.comnet.co.nz/~r-mahoney/biblio/t-bib.html#tsukamoto1990a
+
+
+--
+Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
+Woodfield Estate |         r.mahoney at comnet.net.nz
+Duncan Road, RD3 | cellular: 0064-25-829-986
+HAMILTON, NZ     | http://homepages.comnet.net.nz/~r-mahoney
+http://homepages.comnet.net.nz/~r-mahoney/pgp_public_key.txt
+
+
+
+

@@ -1,0 +1,64 @@
+From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Sun Feb 27 20:47:32 2011
+From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc CHEVILLARD)
+Date: Sun, 27 Feb 11 21:47:32 +0100
+Subject: default reply behaviour (was: curses)
+Message-ID: <161227091653.23782.12406748013346911079.generated@prod2.harmonylists.io>
+
+Dear Dominik,
+
+
+I am probably a member of 20 mailing lists
+(including many purely Tamil google mailing lists)
+(although I read a very tiny fraction of what is posted on them,
+but I archive the messages
+in order to create linguistic corpora
+for possible future reference on Modern Tamil spontaneous usage)
+and I see that all of them have "reply to the list" as their behaviour
+because that is the normal/standard definition of a mailing list.
+
+Last year, I resisted a suggestion to switch
+to the "reply to the sender" behaviour
+on the [slow trafic] CTamil list for which I am the owner.
+
+Typically,
+less than 1% of list members do mistakes
+on slow trafic mailing lists
+(and it seems never to happen on heavy trafic mailing lists)
+
+It seems the choice for you is between
+being the owner of a very slow trafic mailing list
+and being the owner of a moderately slow trafic mailing list ;-)
+
+Cheers
+
+-- Jean-Luc
+
+
+On 27/02/2011 20:18, Dominik Wujastyk wrote:
+> On 26 February 2011 22:18, Sudalaimuthu Palaniappan<palaniappa at aol.com>wrote:
+> 
+>>
+>> Just now I realized that with the current default reply in the list going
+>> to the original poster, the following response I had sent a few days ago did
+>> not go to the list.
+>>
+> 
+> Can we review this?  It's a change that was made in the default behaviour of
+> the INDOLOGY list, by popular request last year.  It annoys me a lot, but,
+> unlike Muammar al-Gaddafi, I'm perfectly willing to abide by the will of the
+> majority.
+> 
+> The problem we were trying to solve was private replies to colleagues on the
+> list that inadvertently became public.  Perhaps that is a greater danger
+> than the annoyance of posts not going to the list at all.
+> 
+> How do others feel?  Reply to sender, or reply to list at large?
+> 
+> Best,
+> Dominik
+> INDOLOGY committee member
+> 
+
+
+
+

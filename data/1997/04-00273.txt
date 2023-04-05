@@ -1,0 +1,59 @@
+From bpj at netg.se  Mon Apr 14 11:18:35 1997
+From: bpj at netg.se (bpj at netg.se)
+Date: Mon, 14 Apr 97 13:18:35 +0200
+Subject: Call for co-op: webpage on different standards of  transcription/transliteration (2)
+Message-ID: <161227029640.23782.2690002782707543725.generated@prod2.harmonylists.io>
+
+I wrote:
+
+>
+>Dear friends,
+>
+>I'm preparing a webpage dealing with transcription of various scripts and
+>languages, as well as phonetic notation, in ASCII and HTML. Any suggestions
+>and/or pointers to existing standards/proposals/existing habits are most
+>welcome. ALL languages and scripts are of interest.
+>
+>Thank you,
+>
+>Philip Jonsson <bpj at netg.se>
+
+Thanks to everyone who has contributed to this project!
+
+This is an ongoing work. I would especially appreciate any information any
+of you can give on 127-character ASCII-based transliterations of various
+languages and scripts. I intend to present these alongside .gif images of
+the original scripts as well as more traditional transliterations, as well
+as presenting comparative tables of alternative ASCII transliterations of
+the same scripts.
+
+I would also appreciate your help to propagate this request (including the
+original one) on mailing-lists and newsgroups concerned with linguistic
+scholarship, as well as other Internet fora where such transliteration
+schemes are in practical use.
+Again apologies to those who get multiple cross-posted copies!
+
+Please be sure to include my email adress and to point out that responses
+should go directly to me, since I see no point in burdening lists' traffic
+with responses to this request!
+
+Thank you,
+
+Philip Jonsson <bpj at netg.se>
+
+
+
+
+
+*************************************************
+*  B.Philip Jonsson <bpj at netg.se>               *
+*  Editor, Translator (English <-> Swedish),    *
+*  Scholarly font-designer, Web-book designer   *
+*************************************************
+
+
+
+
+
+
+

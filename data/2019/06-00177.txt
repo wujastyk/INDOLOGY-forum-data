@@ -1,0 +1,410 @@
+From danbalogh at gmail.com  Sun Jun 23 15:43:04 2019
+From: danbalogh at gmail.com (=?utf-8?Q?D=C3=A1niel_Balogh?=)
+Date: Sun, 23 Jun 19 17:43:04 +0200
+Subject: [INDOLOGY] ISO15919 and case insensitivity
+In-Reply-To: <5d0e547a.1c69fb81.7e9da.df05SMTPIN_ADDED_MISSING@mx.google.com>
+Message-ID: <CAM0n-bUQJ4RGvs2e7G7fBSzs-Xy2SUsRh26jXnSAyDv0sg4GNg@mail.gmail.com>
+
+Dear Jan, thanks a lot for your comments and for your offer of help. I am
+delighted to learn that ISO15919 is periodically reviewed. I'm also glad
+that you don't consider the use of uppercase for a particular purpose to be
+strictly non-conformant to the standard. I think there is an important line
+of reasoning there, and would like to note in addition that - if we adopt
+this notation after all - we would not be suggesting the modification of
+the standard as a whole, but rather the addition of an option to the
+standard, for use in specific situations where certain aspects of the
+original orthography are desired to be retained. It seems to me that if
+such an option were to be added to the standard, that would not make all
+previously conformant texts non-conformant. I see this as largely analogous
+to the option of strict/simplified nasalisation, where the strict option
+actually involves a normalisation of orthography and precludes
+round-tripping as far as spelling is concerned [?????? > hi?d? > ?????],
+while the simplified option prioritises orthography versus phonetic
+transcription and allows more accurate round-tripping. Would it not be
+possible to add another option to the standard to allow for the distinction
+of initial vowels and final consonants (whether through the use of
+capitalisation, additional marker characters or a combination of both), and
+thus enable accurate round-tripping (pending, of course, the creation of
+conversion routines supporting this notation) in cases where an original
+document uses these in a way different from "standard" orthography?
+All the best,
+Daniel
+
+On Sat, 22 Jun 2019 at 18:16, Jan Kucera via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear All,
+>
+>
+>
+> since this is my first post in the mailing list, I should probably say
+> that I have been a student of Tamil at the Charles University for some time
+> now, as well as computing science, and it is my pleasure getting to know
+> everyone in this list.
+>
+>
+>
+> As a disclaimer for the discussion below, I am a member of the Unicode
+> Consortium and participating in the corresponding ISO/IEC 10646 standard
+> for encoding. I am happy to work with anyone and submit proposals for
+> encoding if needed. While sometimes the process is indeed complicated and
+> lengthy when there are controversies or insufficient evidence, some of the
+> proposals get through fairly quickly. That said, lack of font support has
+> never been a convincing argument for encoding, and I am pretty sure no
+> precomposed characters that can already be composed with combining
+> diacritical marks will be accepted. I am happy to add precomposed glyphs to
+> existing fonts you may be using though, feel free to contact me offline.
+>
+>
+>
+> As for ISO15919, that standard is now undergoing periodical review every 5
+> years, the next one will be in 2022. Again, I would be happy to submit
+> comments to the standard if there is a consensus.
+>
+>
+>
+> D?niel: Unfortunately I can't support making the standard case sensitive.
+> The strong argument there is compatibility - suddenly everyone conforming
+> to the standard will become non-conforming. However, I don't see how you
+> transliterating into Latin script with casing would be non-conforming to
+> the standard. The standard says "casing doesn't matter", not "must be
+> lowercase'. It is just that any automated processing of the text that
+> conforms to the standard wouldn't see a difference, and it might not
+> round-trip (the standard already points out in Annex F that the round-trip
+> situation is not great anyway). As noted by Andrew Ollett, lowercasing is
+> what many algorithms (sadly) use for case insensitive processing. For that
+> reason for example, Unicode never allows a new lowercase version to be
+> encoded as a casing pair to an existing uppercase latter.
+>
+>
+>
+> Rolf Heinrich Koch: As D?niel noted, combining diacritics is the correct
+> way to go in this case. If that is cumbersome to input, a keyboard layout
+> with such keys can be created (again, contact me offline if anyone was
+> interested in that).
+>
+>
+>
+> George Hart: I agree the situation is unfortunate, but also that it is
+> unreasonable to expect all Sanskritists to change their practice. I believe
+> our Sanskrit textbooks (by prof. Zbavitel as well as by prof. Vacek) used ?
+> and ? for example. You can have a font that shows the macrons over normal e
+> and o if and only if the text language is set to Sanskrit. When merging
+> data from two languages I am afraid the best thing to do will be on your
+> side, to pre-process the Sanskrit text before merging.
+>
+>
+>
+> Tyler Williams: Indeed glyph variants are higher-level text features that
+> wouldn't be typically encoded in plain text. You can for example use
+> OpenType features to achieve the desired rendering in the native script. I
+> would be interested in seeing any inscriptions with non-standard
+> orthography that you might have troubles typesetting. I am not aware of any
+> standard that would be covering these in transliteration though
+>
+>
+>
+> Hope this helps and best regards,
+>
+> Jan Ku?era
+>
+>
+>
+> ________________________________________
+>
+> From: INDOLOGY <indology-bounces at list.indology.info> on behalf of D?niel
+> Balogh via INDOLOGY < indology at list.indology.info >
+>
+> Sent: 21 June 2019 13:30
+>
+> To: indology
+>
+> Subject: Re: [INDOLOGY] ISO15919 and case insensitivity
+>
+>
+>
+> Dear All, thanks for your comments about the ISO encoding issue. In hopes
+> of keeping the discussion afloat, here are some responses.
+>
+>
+>
+> Rolf Heinrich Koch's problem seems to relate to the Unicode standard and
+> not to ISO15919 or any other specific encoding system. I have no first-hand
+> knowledge, but I think the unicode consortium can be approached to
+> designate code points for additional Latin letters with diacritical marks;
+> I think, however, that this is a complicated and lengthy process that
+> carries little chance of success since the combination in question seems to
+> be needed only by a very small population of scholars. It is, however,
+> always possible to use a combining diacritic to generate the character m?
+> (or, according to ISO15919, m?). For this, use a regular m followed by the
+> character U+030C (floating caron) or, for the latter, U+0306 (floating
+> breve). Similarly, r and l with circle below (used instead of the IAST
+> underdot to represent vocalic r and l) can only be typed as such a
+> combination.
+>
+>
+>
+> To George Hart's problem, as pointed out by Heinrich, a partial solution
+> is already present. ISO15919 prescribes ? and ? in Sanskrit texts/words of
+> a mixed corpus that includes languages where short and long e/o are
+> distinguished. As a nod to IAST and the widespread practice of
+> Sanskritists, it _allows_ e and o for these long vowels so long as they are
+> used in a Sanskrit-only corpus. I agree that the situation is not ideal,
+> but - rather than persuading Sanskritists to use ? and ? consistently - the
+> way to improve it may be the use of language tagging, so that any segment
+> of transliterated Indic text can be recognised by a computer as belonging
+> to a particular language.
+>
+>
+>
+> For the issues raised by Tyler Williams: I think the first one
+> (alternative glyphs for the same phoneme) is beyond the scope of
+> transliteration and belongs either to a palaeographic description or, if
+> machine readability and indexability are desired, to the sphere of markup.
+> As for the second, I would be interested in some further details, on or off
+> list. Are any vowel m?tr?s other than what would normally represent an ?
+> used in such a way? Could you give some examples, what language, time
+> period, and what does the addition of an extra m?tr? signify? Arlo and I
+> have been thinking about a way of representing one particular case of this,
+> and if there are other related phenomena, then knowing about them would
+> help us propose a solution that can be extended to those.
+>
+>
+>
+> To Andrew Ollett's caution that using uppercase Latin letters for final
+> consonant forms may not be better than adding the transliteration
+> equivalent of a vir?ma (and likewise, uppercase for independent vowels
+> versus a special marker attached to the transliterated vowel), I can only
+> say that I also have no strong argument for this usage. The weak arguments
+> for would run like this: 1. better grapheme-to-grapheme matching between
+> the original script and the transliteration; and 2. actually, easier
+> automated processing in some cases at least, e.g. a basic case insensitive
+> search would still find the expected results in a transliterated text that
+> uses uppercase for these purposes, while the search algorithm would need to
+> be devised to ignore the additional marks for independent vowel and vir?ma.
+> The same applies to downcasing the text for conversion to Devanagari - it
+> should be no problem. I should add that we do want to retain a special
+> vir?ma equivalent for glyphs with an explicit vir?ma, though this is also
+> slightly problematic, e.g. in case of the "proto-vir?ma" comprised of a
+> small dash or arch on top of a subscript final consonant form
+>
+>
+>
+> The very best to everyone,
+>
+> Daniel
+>
+>
+>
+> On Thu, 20 Jun 2019 at 19:00, Andrew Ollett via INDOLOGY <
+> indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+>
+> Dear colleagues,
+>
+>
+>
+> A point of clarification: would the same document ever use both a "halant
+> variant" of a letter (e.g., the final n of the Kannada script) and the
+> standard variant followed by a vir?ma sign? I'm asking because my instinct
+> would be to simply represent the halant variant of a consonant C as C? (or
+> whatever sign you're using for the vir?ma). It's true that the final form
+> of the letter in Kannada doesn't "look like" a regular n with a vir?ma, but
+> then again the letter kh doesn't look like k + h.
+>
+>
+>
+> I'm sure D?niel knows of it, but in case others don't, an article that
+> Arlo co-authored with Bob Hudson, Marc Miyake and Julian Wheatley (BEFEO
+> 103 [2017]: 43?205) includes a discussion of adapting the ISO-15919
+> standards for Pyu, according to which ?V is used for an independent vowel
+> sign and ? is used for the vir?ma. I have been using these conventions for
+> diplomatic transcription. I don't have a strong argument for or against
+> uppercase letters in transliteration, but here are two weak arguments
+> against it: (1) uppercase letters are more likely to cause problems in any
+> automated processing (e.g., replacements or transliteration) especially in
+> mixed-language text; (2) people sometimes use Western capitalization style
+> for transliterated text, and even though the use of this style (e.g., in
+> lists of bibliographic references) will almost never overlap with the
+> epigraphic and codicological applications D?niel has in mind, we might want
+> to avoid certain letters changing their meaning across use-cases. For what
+> it's worth, I often have text in ISO-15919 that I feed into Sanscript to be
+> transliterated into Indic scripts, and I always downcase the text before
+> applying the transliteration.
+>
+>
+>
+> Andrew
+>
+>
+>
+> On Thu, Jun 20, 2019 at 11:50 AM Tyler Williams via INDOLOGY <
+> indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+>
+> Dear D?niel (and Arlo),
+>
+>
+>
+> While I'm afraid that I cannot contribute any answers to your questions, I
+> do want to express support for your effort of finding ways to modify
+> ISO15919 for epigraphical and codicological material. In addition to the
+> issue of initial/full vowels and missing consonant glyphs in manuscripts, I
+> frequently run into problems with transliterating manuscript material
+> (usually vernacular but sometimes Sanskrit) that 1) uses multiple glyphs
+> for the what is ostensibly the same consonant (perhaps the result of
+> unstated phonological rules), or 2) in which vowel matras are used appended
+> to full vowel glyphs to indicate certain sounds (e.g. dipthongs). This is
+> in addition to the numerous challenges posed by transliterating texts
+> copied in the Arabic script, which represents morphological distinctions
+> orthographically through the use of word breaks, diacritical marks, etc.
+>
+>
+>
+> All this to say that, should there be a discussion on proposed changes, I
+> would be happy to contribute (and learn from others).
+>
+>
+>
+> Best,
+>
+> Tyler
+>
+>
+>
+> On Thu, Jun 20, 2019 at 6:54 PM Arlo Griffiths via INDOLOGY <
+> indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+>
+> Dear colleagues,
+>
+>
+>
+> It is possible to obtain some responses to the questions that D?niel asked
+> on our joint behalf? It would be greatly appreciated.
+>
+>
+>
+> Many thanks, and best wishes,
+>
+>
+>
+> Arlo Griffiths
+>
+>
+>
+>
+>
+> ________________________________
+>
+> From: INDOLOGY <indology-bounces at list.indology.info<mailto:
+> indology-bounces at list.indology.info>> on behalf of D?niel Balogh via
+> INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
+>
+> Sent: Monday, June 10, 2019 10:52 AM
+>
+> To: indology
+>
+> Subject: [INDOLOGY] ISO15919 and case insensitivity
+>
+>
+>
+> Dear All,
+>
+> I believe some members of the esteemed community reading this were
+> involved in drawing up the ISO15919 transliteration standard. I would be
+> very happy to correspond with someone, here or off-list, about some generic
+> issues and at the moment one particular question.
+>
+> The generic issues would pertain to using a modified ISO standard in web
+> and hardcopy publications, including some modifications that prevent us
+> from making a "claim of conformance" as per section 2 of the standard.
+> Beyond the practical issue of having to explain to our readers where we
+> deviate from the standard, I see no problem associated with this, but I may
+> be missing something. At any rate, a proliferation of idiosyncratic
+> transliteration systems is not desirable, which leads to the second set of
+> generic issues: by whom and how is the ISO standard maintained at present,
+> and is there any chance of proposing slight modifications/addenda/special
+> cases to it?
+>
+> The particular question right now is this. The standard explicitly says
+> that all transliterations must be case insensitive (Section 8.1 Rule 1).
+> Some of us, however, are thinking of using uppercase Roman characters to
+> transliterate 1. final consonants represented in historic scripts by
+> special "halanta" character forms (instead of the addition of a vir?ma
+> sign), and 2. initial/full vowels.
+>
+> The latter could be made clear using the disambiguation sign already
+> codified in the standard (e.g. transliterating ????? as pra:uga), but we
+> feel that using Roman uppercase for both these phenomena is intuitively
+> similar to the practice of the original script. [Not directly relevant to
+> the question at hand is that we would also introduce an additional symbol
+> for transliterating the explicit vir?ma sign to handle final or conjunct
+> consonants created with such a sign.]
+>
+> We would use this notation for epigraphic material, but as far as I can
+> see it would be equally advantageous in codicology where a diplomatic
+> transliteration is desirable. Unambiguously (and in some cases redundantly)
+> differentiating final vowel forms is useful not only in cases where these
+> are used as a means of text segmentation (e.g. the final consonant of a
+> verse quarter is inscribed using a special form, followed by the initial
+> consonant of the next quarter, without an intervening punctuation sign but
+> with the clear intent of representing the yati in writing), but also where
+> partially legible text precedes or follows a lacuna (e.g. occasionally a
+> legible vowel m?tr? is attached to a lost/illegible consonant, and it is
+> desirable to make it clear in the transliteration that the vowel read is
+> not a full vowel ak?ara).
+>
+> Many thanks in advance for any enlightening comments, and my apologies for
+> going into possibly unnecessary detail on the why and how.
+>
+> Daniel
+>
+> _______________________________________________
+>
+> INDOLOGY mailing list
+>
+> INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+>
+> indology-owner at list.indology.info<mailto:indology-owner at list.indology.info>
+> (messages to the list's managing committee)
+>
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+> _______________________________________________
+>
+> INDOLOGY mailing list
+>
+> INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+>
+> indology-owner at list.indology.info<mailto:indology-owner at list.indology.info>
+> (messages to the list's managing committee)
+>
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+> _______________________________________________
+>
+> INDOLOGY mailing list
+>
+> INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+>
+> indology-owner at list.indology.info<mailto:indology-owner at list.indology.info>
+> (messages to the list's managing committee)
+>
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190623/c087fdd5/attachment.htm>
+

@@ -1,0 +1,92 @@
+From vidynath at MATH.OHIO-STATE.EDU  Sat Nov 15 16:44:38 1997
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Sat, 15 Nov 97 11:44:38 -0500
+Subject: IE and Semitic roots.
+Message-ID: <161227033671.23782.6656505228555189155.generated@prod2.harmonylists.io>
+
+Jacob Baltuch <jacob.baltuch at euronet.be> wrote:
+>I mean the very _fact_ that you can say the root is normally given as CeC
+>shows that the vowel is not intrinsic. If the vowels _were_ intrinsic
+>you would have roots CeC but also roots CoC etc. (Compare with Sanskrit
+>where the vowel is part of the meaning of the root: 'dih' is not the
+>same root as 'duh').
+
+But aren't you comparing oranges and apples? `dih' and `duh' are in
+the zero grade, while CeC is the guna grade of primitive roots.
+Note that the claim that ``all'' roots of PIE were CeC is not quite
+right. Benveniste's root theory holds that the `primitive roots are
+of that form. But such roots may be extended with further phonemes.
+In Late IE, such extended roots are basically independent roots,
+as the meaning of the extended root may not be derivable from the
+basic root and the `meaning' of the extension, if the latter ever
+had any.
+
+There is also the fact that Benveniste's theory has other problems.
+For example, `dih', from PIE `*dheigh', would require a primitive
+root `*dhei'. No such root is in Pokorny-Walde. [The only
+occurrence of such a root is in the dhaatupaa.tha. But it is
+supposedly from the `confusion' of Indian grammarians, and does not
+really exist. Or so said Whitney]. No root `*der' is attested, even
+though extended roots in dr- are there and the word darala in
+Sanskrit. Because of this, not every one buys the theory of
+`primitive' and `extended' roots.
+-----------
+
+>Another puzzling thing are roots which are given with an intrinsic
+>guNa or vRddhi vowel: gai 'sing', sev 'serve', veST 'cover', lok 'see',
+>hve 'invoke'...
+
+These is where I get lost in laryngeal theory. Treatments of
+laryngeals do not get into the nitty-gritty. What we need is a
+history of Sanskrit starting with the `new look PIE'. [Does the new
+Mayhoffer have anything on this?] What follows is simply off the
+top of my head, and probably way off base. I will gladly plead
+amatuerishness.
+
+There are three possibilities to consider. The first is the
+occurrence of forms with unexpected guna grade. The most famous
+being "serate/"sayita. This has zero grade in perfect which is why
+the root is given as "sii. May be there were other roots which
+never took zero grade.
+
+The second is the origin of the roots. Some of the roots given in
+the dhaatupaa.tha with guna/vrddhi/long non-final vowels look like
+denominatives. For example, "slok or go.s.th. The old view was that
+these verbs never existed because they do not occur in extant
+texts. This argument is simply absurd. Just because many of the
+words in GRE vocabulary tests do not occur in the typical reading
+of non-native students does not mean that folks at ETS thought
+these words up and they never existed. Furthermore, no one today
+seems to be willing to defend the view that Panini was a liar. But
+once we accept that these were actually in use, we must admit the
+possibility of denominative roots formed not with ya, but with
+simple thematic inflection. There may also such roots which were
+borrowed from other languages in the Indo-iranian or Indo-Aryan
+periods. These may very well have diphthongs/long vowels. Of course,
+forms such as puujayati, miimaa.msate etc, which are obviously
+derived verbs that have become productive roots, belong to the same
+category.
+
+Roots ending in e/ai are really roots ending in aa, which show a
+glide `y' without/with a shortening of the preceding aa in the
+present stem. I don't know about o/au. Glide v is not that common
+in Indo-Aryan between a's. [Are there really roots ending in au?]
+Of these roots ending in e are the easiest to account for. Take for
+example hve. The IE protoform must be something like
+*ghueH. The thematic stem would have been ghueHe/o. With the
+loss of the laryngeal and insertion of a glide y, and the changes
+e, o -> a, the PIIr form would be *jhwaya- for the present stem.
+Outside, the guna grade will be *jhwaa and the zero grade *jhuu
+from *ghuH. This explains huuta.
+
+I must admit defeat with the roots ending in ai (unless I can
+invoke metathesis selectively). gaayati/giita presents the
+additional problem of non-palatalization of g. I don't see how to
+explain this and glaayati/glaana with basically the same process.
+This must be tied up with the question of roots whose ta-adjective
+has aa in Sanskrit. But the variations datta/-tta, dhita/hita, yaata,
+and the strange uta from vaa (the expected from is uuta) are beyond me.
+
+
+
+

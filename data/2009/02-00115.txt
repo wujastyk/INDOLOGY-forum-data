@@ -1,0 +1,78 @@
+From zysk at HUM.KU.DK  Thu Feb 19 11:05:12 2009
+From: zysk at HUM.KU.DK (Kenneth Zysk)
+Date: Thu, 19 Feb 09 12:05:12 +0100
+Subject: "Visit SANSKNET while you can"
+In-Reply-To: <DC6A62F93770C44B8D2856DA3744EF7C05748AD8@VS1.exc.top.gwdg.de>
+Message-ID: <161227084980.23782.7760707828378498076.generated@prod2.harmonylists.io>
+
+I tried to download the Sanskrit fonts for the website and then read the texts, but it failed. What is the exact procedure?
+
+KZ
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Gruenendahl, Reinhold
+Sent: 19. februar 2009 10:00
+To: INDOLOGY at liverpool.ac.uk
+Subject: "Visit SANSKNET while you can"
+
+Apologies for distracting from more important issues, but this may be the
+window of opportunity for all those who know the SANSKNET project only by
+hearsay (or from the numerous links on the GRETIL main page) to actually
+visit the site:
+ 
+http://sansknet.ac.in/
+ 
+In the last few years it has been more off than on, but yesterday I
+discovered that it is online again. 
+ 
+When there, click "Content" to start a tour through a labyrinth of e-texts.
+This is not the place to dicuss the pros (e.g., range of material) and cons
+(encodings, atomization of texts, layout etc.). There are lots of valuable
+material there, altough it may be difficult to use. Alternatively, you may
+use the GRETIL versions provided for many of these texts (with more to
+follow). They have been converted to romanized Unicode (and alternative
+encodings), reformatted, and supplied with additional material, references,
+etc.
+ 
+Compare, e.g., the Brhadaranyaka-Upanisad on SANSKNET (special fonts
+required)
+http://sansknet.ac.in/upanishads/shankarabhashya/Brhadaranyakopanishad/index.
+htm
+ 
+and the converted version on GRETIL 
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_utf.htm#BrhUp
+ 
+ 
+Regards
+Reinhold Gr?nendahl
+ 
+ 
+ 
+ 
+________________________________________________ 
+ 
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+ 
+37070 Goettingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+ 
+gruenen at sub.uni-goettingen.de
+ 
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+ 
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+ 
+GRETIL e-library:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm
+ 
+
+
+
+

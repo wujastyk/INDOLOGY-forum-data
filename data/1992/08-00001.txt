@@ -1,0 +1,21 @@
+From madhav.deshpande at EDU.UMICH.CC.UM  Thu Aug 13 18:50:08 1992
+From: madhav.deshpande at EDU.UMICH.CC.UM (madhav.deshpande at EDU.UMICH.CC.UM)
+Date: Thu, 13 Aug 92 14:50:08 -0400
+Subject: Manjushree Roman Diacritics Font
+Message-ID: <161227015453.23782.922506277351096904.generated@prod2.harmonylists.io>
+
+        Following the suggestion of Stephen Miller, I have now made
+
+the Manjushree font compatible with the CSX coding.  The CSX codes
+form a subset of characters in Manjushree, which adds many more
+combinations suggested by my colleagues.  I have now developed a
+keyboard driver which makes the task of using this font very simple.
+I hope that with this font, one should be able see texts coded in
+CSX with diacritics without any problem.  The font is now appropriately
+renamed ManjushreeCSX.
+                Madhav M. Deshpande
+
+
+
+
+

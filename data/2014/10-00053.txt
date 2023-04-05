@@ -1,0 +1,68 @@
+From Rupert.Gethin at bristol.ac.uk  Mon Oct 13 18:46:38 2014
+From: Rupert.Gethin at bristol.ac.uk (Rupert Gethin)
+Date: Mon, 13 Oct 14 19:46:38 +0100
+Subject: [INDOLOGY] Digital of edition PTS Pali canon
+In-Reply-To: <543BFFAD.7030807@asia-europe.uni-heidelberg.de>
+Message-ID: <543C1E0E.9020605@bristol.ac.uk>
+
+Dear List,
+
+Apologies for sending essentially the same message twice yesterday: I 
+wanted to send notice about the availability of these files to several 
+lists and inadvertently sent it twice to Indology.
+
+To fill in some more of the background, in the mid 80s the PTS signed an 
+agreement with the Dhammakaya Foundation in Thailand, who basically 
+provided the necessary resources to input the text of the PTS edition of 
+the canon. TEI-XML had yet to evolve and the plan was to produce a 
+CD-ROM package. I think two versions were released in the 1990s and 
+distributed to a number of people. The general verdict was that neither 
+version worked particularly well. Some years went by. Eventually the 
+Council of the PTS came to the conclusion that it was unfortunate that 
+these digital files existed but very few had access to them. The 
+simplest and most efficient way of making them widely available seemed 
+to be to add them to the GRETIL resource. The Dhammakaya files were 
+usable but certainly needed some tidying up. The PTS is extremely 
+grateful to Reinhold Gruenendahl for all the work he has put in in order 
+to make these files more user friendly and accessible. TEI-XML mark up 
+would be a good next stage.
+
+With best wishes,
+
+Rupert Gethin
+
+
+On 13/10/2014 17:37, Birgit Kellner wrote:
+> These files are tremendously valuable, and the PTS, Rupert Gethin, the 
+> Dhammakaya Foundation and Reinhold Gruenendahl deserve our heartfelt 
+> thanks. This is truly a great initiative.
+>
+> Are there any plans to make them available in TEI-XML? That would 
+> increase their utility tremendously.
+>
+> Or, to ask the question differently: Is there any particular reason 
+> why TEI-XML was not chosen from the start?
+>
+> It has its disadvantages, like every markup language and encoding 
+> schema, but it is so widely used now, and much more flexible than HTML.
+>
+> Thanks again,
+>
+> best regards,
+>
+> Birgit Kelner
+>
+-- 
+*Rupert Gethin*
+University of Bristol
+Department of Religion and Theology
+3 Woodland Road
+Bristol BS8 1TB, UK
+
+Email: Rupert.Gethin at bristol.ac.uk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141013/e7cfd612/attachment.htm>
+

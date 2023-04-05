@@ -1,0 +1,25 @@
+From bpj at netg.se  Wed Dec 11 15:43:03 1996
+From: bpj at netg.se (bpj at netg.se)
+Date: Wed, 11 Dec 96 17:43:03 +0200
+Subject: CONLANG: Representing diacritics in 7-bit ASCII
+Message-ID: <161227027433.23782.14341560374545371915.generated@prod2.harmonylists.io>
+
+At 16:07 11.12.1996 +0000, Edmund Grimley-Evans wrote:
+>I see no mention in your report of Latin-1 (an established standard
+>8-bit character set) or SAMPA (http://www.phon.ucl.ac.uk/home/sampa/).
+>These things are worth mentioning.
+
+8-bit was not the subject of this, so the whole ISO 8859 1-9 is out of
+topic, as you would say. Moreover this is not a "report", but a draft
+scheme, which you would have known if you actually read it through -- but
+you can hardly have managed to do that carefully in so short a time as
+since I posted it.
+
+Philip
+
+
+
+
+
+
+

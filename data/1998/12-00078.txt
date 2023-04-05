@@ -1,0 +1,57 @@
+From pventhb at XS4ALL.NL  Thu Dec  3 16:16:18 1998
+From: pventhb at XS4ALL.NL (TB)
+Date: Thu, 03 Dec 98 11:16:18 -0500
+Subject: attachment
+Message-ID: <161227043194.23782.6473914004822461188.generated@prod2.harmonylists.io>
+
+Dear Indologists,
+
+The Indology list has an excellent memory in the form of a searchable
+archive. Look what i found there: my own previous message on
+attachments. The problem is ancient and it is a joke that the Microsoft
+helpdesk can not solve it. My posting presupposes that the sender of the
+unintended attachments uses MS Outlook or Outlook Express as email
+client. The problem is that this program likes to send formatting
+options in email-messages to other users of the program. As I also use
+Windows messaging, Mr Fosse's mails are beautifully laid out. For those
+who read e-mail as it should be: without formatting, plain ASCII, the
+formatting is send in the form of an attached file in RTF-format. The
+producer of attachments should turn the option of sending RTF-files off
+in his Address Book, or in the options tabel of the Internetmail
+service. then he will only send plain ASCII (or ANSI in some cases) as
+email, without attachments.
+
+The suggestion of using more straightforward mail clients like Eudora
+and Pegasus for discussion lists is absolutely useful. Use the fancy
+stuff for private e-mail, it only takes up bandwidth.
+
+Greetings and good luck
+Thomas de Bruijn
+
+This is the archived message:
+
+
+On Sat, 4 Jul 1998 22:42:52 -0500 you wrote:
+knip>
+>Windows Messaging. I write my postings with the Compose >command (Reply
+to
+>Sender), then I send it to outbox, and from there to the server. The
+>attachment may be of the following character
+knip>
+
+To all attachment-valas,
+By default Outlook sends the text of an e-mail-message together with an
+RTF-file of the same as an attachment. You have to specify in your
+Adressbook for each entry that you do not want to send RTF format
+messages. Uncheck the box with this option. This is one of the ways
+Micro$oft makes you aware that you have not bought their stuff. I.m.h.o.
+
+Outlook is one of the worst e-mail clients around, most freeware
+programs such as Eudora Lite and Pegasus are much more easy to use.
+
+
+Thomas de Bruijn
+
+
+
+

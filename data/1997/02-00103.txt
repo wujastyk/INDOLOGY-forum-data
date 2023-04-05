@@ -1,0 +1,108 @@
+From Palaniappa at aol.com  Fri Feb 14 03:27:20 1997
+From: Palaniappa at aol.com (Palaniappa at aol.com)
+Date: Thu, 13 Feb 97 22:27:20 -0500
+Subject: Brhadratha, ancient astronomy and dating of ancient Tamil literature
+Message-ID: <161227028292.23782.13709998502494944608.generated@prod2.harmonylists.io>
+
+Tamil historians and Western scholars have generally based the dating of the
+history of ancient Tamil literature on the Gajabahu synchronism. This refers
+to an episode in the Tamil epic Cilappatikaram where the Srilankan king
+Gajabahu attends a temple inauguration ceremony along with a Cera king
+Cenkuttuvan. But the author of the epic also states that he was also present
+at the ceremony. The scholars consider the fact of Gajabahu and Cenkuttuvan
+being together as  'historical'. However, the scholars consider the author's
+statement of being there as poetic fancy. Others consider the mention of
+Balacarita in a prose passage (which is suspected to be an interpolation) to
+date the epic as later than the incidents mentioned in the epic.  All these
+approaches have not been satisfactory. In fact, Zvelebil states, "One is
+unfortunately forced to admit that, till this very day, the only certainty we
+have with regard to the earliest Tamil literature is that the classical Tamil
+poems are genuine and were composed before Pallava times; more exact dating
+cannot reasonably be attempted, glottochronology and computers
+notwithstanding."(Companion Studies to the History of Tamil Literature,
+p.105)
+
+According to the currently accepted chronolgy, most of the poems were
+composed between 2nd and 3rd centuries C.E. However, I see many problems with
+this dating.
+
+1. Asoka in his edict mentions four Tamil dynasties as outside his empire.
+They are the Cheras, Cholas, and Pandiyas, and "Satiyaputas". The last
+dynasty is supposed to be the 'Atiyar' mentioned in Tamil literature. But
+they were considered as chieftains and not as kings. No Atiyar chief is known
+by name prior to Atiyaman mentioned in the Classical literature. The only
+mention of an ancestor of him is that he gave (introduced) sugarcane (into
+Tamilakam). On the other hand Atiyaman is very well known to Tamil poets. If
+indeed there were Atiyar in Asoka's time, and the lineage continued for
+another 400-500 years (if we accept the dating of Atiyaman as belonging to
+2nd or 3rd century C.E, the Tamil poets would have talked about the Tamil
+land as being shared by the four dynasties instead of three.
+
+2. Tamil poems refer to Telugu and Kannada speakers as vatukar (meaning
+northerners). The people living north of vatukar were called aariyar (arya)
+or by the individual dynastic names.  The poems talk about the wealth of the
+Nandas. The poems also talk about an expedition by the Mauryas who had the
+vatukar  in the lead of the army and how they cleared mountainous roads for
+their chariots to traverse. The poems also talk about the defeat of the Aryan
+kings at some specific places. There is one king called "ariyap paTai kaTanta
+neTunceLiyan" (one who crossed/defeated the Aryan army) who authored one
+poem, according to the colophon. Of the famous Indian kings, I can only think
+of two kings who could have come and fought in Tamilakam, Bindusara and
+Kharavela. Asoka stopped his battles with Kalinga and Samudragupta is later
+than the Tamil poems. Also Kharavela's inscription mentions a confederacy of
+Tamil kings which had lasted for several years. So, who were in fact these
+Aryan kings (apart from Mauryas) whom the Tamils fought if the poems were
+composed around ? 
+
+There are other questions as well which I am not going into. In any case, I
+am suggesting another approach. The colophon of a work says that it was
+composed to instruct an Aryan king "yaaL pirakattan" into the Tamil
+culture/literature. If we can try to identify this northern king, we would
+have another synchronism. While there are several possible reconstructions of
+the Sansrit/Pali/Prakrit original, one name which can be the source is
+"Brhadratha". The naturalization process could have occurred as shown below.
+
+Br > Pira    
+ha > ka
+dra > ta
+tha > ta + n (masculine marker)
+
+Thus one would get "Pirakatatan". Because of Tamil orthogrphy which did not
+distinguish between a pure consonant and a consonant combined with "a" in a
+geminate context, one could have mistaken "Pirakatatan" to be "Pirakattan".
+
+I know the last king of the Mauryan dynasty was called Brhadratha. Were there
+any other kings by that name? The pre-fix "yaaL" in "yaL pirakattan" may mean
+either that the king was well versed in the playing of lute or that he was a
+"gandharva" or a king/prince of Gandhara. (Gandharvas are called "yaaLoor" in
+Tamil.) Was there any king/prince from Gandhara called Brhadratha? Is there
+any information in Sanskrit/Pali/Prakrit/Karoshti sources about a king who
+learnt Tamil who might have been good at playing lute?
+
+If any scholar can provide this information, it can help a lot in getting a
+good fix on the dates of at least some of the Old Tamil poems.
+
+Alternately, there is a poem in Purananuru (no. 229) in which the asterisms
+auguring the death of a Ceral king is described. John Marr gives Kanakasabhai
+Pillai's translation as " On the day of Kuddam (Karttika) when the sun was in
+the sign of Adu (Mesha) at midnight when the asterisms from the first star of
+Mudappanai (Anuradha) to the last star of Kulam (Punarvasu) were visible in
+the sky, and while the asterism which is in the zenith during the first half
+of the month of Pankuni (Phalguni) was declining from the zenith, the eighth
+asterism before it was setting and the eighth asterism after it was rising, a
+brilliant meteor which illumined the whole sky fell towards the
+northeast...."   John Marr quotes Sesha Aiyar according to whom the
+astronomical data could not help us to discover the date of the king's
+demise.  I do not know the details regarding Sesha Aiyar's conclusions. If it
+is due to insufficient information about Tamil terms, can the progress in
+Indology in the past 70 years make it possible for another attempt by someone
+at first understanding the terms first and then applying astronomical
+knowledge to arrive at the date? 
+
+S. Palaniappan
+  
+
+
+
+
+

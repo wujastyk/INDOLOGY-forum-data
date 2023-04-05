@@ -1,0 +1,67 @@
+From fleming_b4 at hotmail.com  Mon May 21 14:49:04 2018
+From: fleming_b4 at hotmail.com (Benjamin Fleming)
+Date: Mon, 21 May 18 14:49:04 +0000
+Subject: [INDOLOGY] IndUni keyboard layouts?
+In-Reply-To: <CAEYKMafXjbqLz1L_R3qU4yPTqiU1J0DK0i6DSPRxfOoPPw76Yg@mail.gmail.com>
+Message-ID: <YTXPR0101MB1453CEFC642AC29C6517C520A4950@YTXPR0101MB1453.CANPRD01.PROD.OUTLOOK.COM>
+
+Dear Elisa,
+
+Thanks you for your message. That is helpful though I find that only about 4 useful diacritical marks come up on the default ABC Extended keyboard: ?, ?, ?, and ? that I can see (I am using a Unicode font). Is there a good tutorial for navigating and/or inputting the diacritics one needs for Sanskrit? It is not self evident, at least to me.
+
+Best,
+Ben
+
+On May 21, 2018, at 10:24 AM, Elisa Freschi <elisa.freschi at gmail.com<mailto:elisa.freschi at gmail.com>> wrote:
+
+Dear Benjamin,
+
+if you use a Mac, you just need to type using a ?US extended? or ?ABC extended? keyboard layout and select a unicode font, like Times or Gentium.
+
+Best,
+
+elisa
+
+On Mon 21. May 2018 at 16:00, Benjamin Fleming via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Dear List,
+
+I am currently trying to update my unicode diacritics input method from the "cut and paste? and or ?autocorrect? input methods I currently use. I was pointed to the IndUni keyboard layouts which I found on John Smith?s web site, however since the instructions are from 2009 I am not finding it easy to adapt to current Mac OS. Is their a better input system than IndUni that people use or have people learned to adapt it to current OS?
+
+Thanks for any input/help!
+
+Best Wishes,
+Ben Fleming
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+--
+Dr. Elisa Freschi
+
+(Tue to Thu)
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Hollandstra?e 11-13, 2nd floor NEW ADDRESS!
+1020 Vienna, Austria
+Phone ++43 (0)1 51581 6433
+Fax ++43 (0)1 51581 6410
+
+
+(Fri to Tue)
+Institute for South Asian, Tibetan and Buddhist Studies
+University of Vienna
+Spitalgasse 2, Hof 2, Eingang 2.1
+1090 Vienna, Austria
+Phone ++43 (0)1 4277 43505
+
+http://elisafreschi.com<http://elisafreschi.com/>
+http://oeaw.academia.edu/elisafreschi
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180521/017b3ce9/attachment.htm>
+

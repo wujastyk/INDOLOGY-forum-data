@@ -1,0 +1,49 @@
+From baums at lmu.de  Mon Aug  4 12:08:53 2014
+From: baums at lmu.de (Stefan Baums)
+Date: Mon, 04 Aug 14 14:08:53 +0200
+Subject: [INDOLOGY] Font with Brahmi characters
+In-Reply-To: <CAKdt-CeVYC1N9CUuvo29bsFYibHjYALqbwfW3peOyzaTcHnULg@mail.gmail.com>
+Message-ID: <20140804120853.GB2504@deepthought>
+
+Dear friends and colleagues,
+
+for those who are interesed, I uploaded a copy of my 2006
+article on the encoding of Br?hm? (from the proceedings of
+the 2003 World Sanskrit Conference) to the following URL:
+
+   http://stefanbaums.com/tmp/baums_2006.pdf
+
+The formal Unicode proposal was submitted on 9 October 2007
+and is available here:
+
+   http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3491.pdf
+
+Brahmi has been an official part of Unicode since version
+6.0.0 (released 11 October 2010). Operating system and font
+support for the rendering of Brahmi is only now beginning to
+catch up.
+
+One important note: My original idea (that I still believe
+in) was for a unified encoding for all premodern variants of
+the Br?hm? script. The Br?hm? codepoints currently included
+in Unicode are recommended for use with ancient Br?hm? from
+the beginnings until about the Gupta period (including the
+systemic variants of Bhattiprolu and Old Tamil Br?hm?).
+Debate is still going on about a possible expansion of the
+Br?hm? block to accommodate Central Asian Br?hm? (the
+special signs for that in my 2006 article and the 2007
+proposal are not currently included in Unicode) and the
+premodern ?transitional scripts.?
+
+All best,
+Stefan Baums
+
+-- 
+Dr. Stefan Baums
+Institute for Indian and Tibetan Studies
+Ludwig Maximilian University of Munich
+
+
+
+
+

@@ -1,0 +1,96 @@
+From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Fri Aug 22 10:04:00 2008
+From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
+Date: Fri, 22 Aug 08 12:04:00 +0200
+Subject: Tamil la-La-Za-ra (Re: Vedic l
+In-Reply-To: <35832AE0-4853-4F18-A741-524425FC3102@brown.edu>
+Message-ID: <161227083312.23782.4501572668208783296.generated@prod2.harmonylists.io>
+
+Peter M. Scharf a ?crit :
+> [....] One I'm a bit uncertain about it the so-called Vedic l, 
+> sometimes called Marathi l, which occurs intervocalically in Rgvedic 
+> dialect for retroflex d. I'm unsure whether this is an approximant 
+> (like l) or a flap like .d (that is the Devanagari d with a dot below 
+> as in Modern Hindi la.dakaa). Gujarati also has intervocalic flap 
+> developing from .d. These flaps are not l's bur r's. The question is, 
+> "Is (or was) the Vedic l a retroflex flap or a retroflex lateral 
+> approximant?
+>
+> [...]
+>
+> One bit of evidence that might settle the question concerns whether 
+> there are cases in Indic of the retroflex lateral approximant 
+> occurring particularly in the intervocalic environment. Is the Tamil 
+> retroflex l exclusively or particularly intervocalic?
+In the case of (Classical) Tamil,
+there is a group of 4 items to be considered:
+
+la (?): transcribed "la" in Tamil Lexicon and popularly called "small 
+la" (ci??a la) {cin_n_a la}
+
+La (?): transcribed "?a" {l.a} in Tamil Lexicon) and popularly called 
+"big la" [periya la]
+
+Za (?): transcribed "?a" {l_a} in Tamil Lexicon (BUT a popular way of 
+writing it in newspapers is "zh") [[This sound is considered by some as 
+unique to Tamil]]
+
+ra (?): transcribed "ra" in Tamil Lexicon and popularly called "small 
+ra" (in order to distinguish it from ?a {r_a} (?, popularly called "big ra")
+
+The Tolk?ppiyam, which is the earliest extant Tamil grammar
+describes these four items in two s?tra-s: TE95 and TE96
+
+V.S.Rajam, in her 1981 Ph.D. dissertation (under the supervision of 
+G.Cardona, U.Pennsylvania)
+translates these two s?tras in the following way:
+
+TE95: "As the front tongue rises and scrapes/brushes the palate,
+rak?ram (r) and Zak?ram (?) -- these two are born (op.cit. p.101)
+
+TE96: "As the edge of the tongue swells and joins the root of the upper 
+teeth
+and (as it) strikes and scrapes/brushes the palate in that region,
+lakaaram (l) and Lakaaram (L) are born (respectively). (op.cit. p.101)
+
+It is quite difficult to know what the original pronunciation of those was,
+at the time of Tolk?ppiyam
+because the technical terms used
+(varu?al "to scrape, to brush"; o??al "to strike")
+are not necessarily well understood nowadays
+and because relying on modern Tamil pronunciation
+for interpreting them is risky:
+some dialects have merged "la" and "La", keeping them separate from "Za"
+whereas other dialects have merged "La" and "Za", keeping them separate 
+from "la"
+(this was already the case in some areas at the time of the 
+viiracoozhiyam (v?rac??iyam)
+a grammar probably dating back to the 11th cent.)
+
+S?tra TE95 is puzzling because
+the same explanation is given for both "ra" and "Za"
+
+Modern linguists usually describe
+"ra" as a tap,
+"Za" as an approximant,
+and "la" and "La" as laterals (see Bh. Krishnamurti, The dravidian 
+languages, 2003, p.62).
+
+All of this brings more questions than answers
+but the topic is quite interesting
+in what it reveals about the genesis of those Tamil texts
+(and we might be able to discuss it more at length next week in Potsdam)
+
+-- Jean-Luc Chevillard
+
+
+P.S. do you know what Renou is referring to
+when he talks
+about the role of the "extr?mit?s de la langue" (jihvaantau)
+in the faulty pronunciation of l
+(See: "Terminologie grammaticale du Sanskrit", p.422,
+jihvaantau "les deux extr?mit?s de la langue": leur r?le dans la 
+prononciation (fautive) de l [R. XIV 27 (785)]. )
+
+
+
+

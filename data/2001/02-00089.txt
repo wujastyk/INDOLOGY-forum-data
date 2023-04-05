@@ -1,0 +1,62 @@
+From malaiya at CS.COLOSTATE.EDU  Tue Feb  6 00:43:44 2001
+From: malaiya at CS.COLOSTATE.EDU (Yashwant Malaiya)
+Date: Tue, 06 Feb 01 00:43:44 +0000
+Subject: --- (Population figures)
+Message-ID: <161227067105.23782.17657752701557177446.generated@prod2.harmonylists.io>
+
+<Francois.Obrist at BCU.UNIL.CH> wrote:
+
+>1991 Census of India :
+>
+>Jains : 3,352,706 = 0.40%
+
+I think that should be a good estimate of the Jain population in
+India, (although I am aware of some scholars questioning the
+accuracy of the count).
+
+The Jain growth rate had dropped quite significantly during
+1981-91 (from 2.31% in prior decade) to 0.46%. It is likely
+that the 2001 population is not much higher.
+
+The same should be true for other affluent, educated communites
+in India that are very urban.
+
+>En fait environ  5 millions d'adherents selon le site suivant :
+>http://www.adherents.com/adh_branches.html#Jainism
+
+I'm sure that the table "Major Branches of Jainism" is quite
+inaccurate.
+
+In 1914 AD, a private enumeration (Bharatavarshiya Digambara Jain
+Directory, a 7 year effort) of Digambaras gave the number 450,584.
+Assuming an  undercount of about 10-15%, they were about 41-43% of
+the Jain  population. I have a copy.
+
+There is a fairly reliable way for estimating the number of Jains
+in North America. A look at the past Jain Directories of North
+America suggests that a certain fraction of all Jains have the
+last name ?Jain?.  Based on the most recent update of the Directory,
+this fraction is 7.6%. If we can count all those with last name Jain,
+we can get an estimate of the Jain population.
+
+a. The 1990 USA census reports that there were 815,447 Indians and
+0.6% (i.e. about 4893) had the last name Jain. This would give about
+64,400 Jains in 1990.
+
+b. Since 1990, the number of Indians and the number of Jains has
+gone up significantly. All individuals with a listed phone number
+(the information is about a year old) can be looked up on some of
+the web directories. In 1999, I found 2039 families/individuals with
+last  name "Jain" listed. Since  there are about 3.12 members per
+family,  that gives 85,600 Jains  in USA in 1999. I believe this
+is a fairly accurate estimate; the  margin of error should not be
+more than a  few percent.
+
+I would add at least another 10-15% to the 1999 estimate to account
+for recent arrival of software professionals in North America.
+
+Yashwant
+
+
+
+

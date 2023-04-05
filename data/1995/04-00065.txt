@@ -1,0 +1,26 @@
+> >>>>From anomaly at MIT.EDU  Mon Mar  6 16:13:40 1995
+> >>>Received: from eos03a.eos.ncsu.edu by eos06a.eos.ncsu.edu
+> (8.6.9/ES13feb95)
+> >>>        id QAA05408; Mon, 6 Mar 1995 16:13:40 -0500
+> >>>Received: from MIT.EDU by eos03a.eos.ncsu.edu (8.6.9/ES13feb95)
+> >>>        id QAA02930; Mon, 6 Mar 1995 16:13:40 -0500
+> >>>Received: from W20-575-15.MIT.EDU by MIT.EDU with SMTP
+> >>>        id AA24594; Mon, 6 Mar 95 16:13:36 EST
+> >>>Received: by w20-575-15.MIT.EDU (5.0/4.7) id AA06825; Mon, 6 Mar 1995
+> >>>16:13:35 -0500
+> >>>Message-Id: <9503062113.AA06825 at w20-575-15.MIT.EDU>
+> >>>To: dhyu at eos.ncsu.edu
+> >>>Cc: anomaly at MIT.EDU
+> >>>Subject: censorship bill
+> >>>Date: Mon, 06 Mar 1995 16:13:34 EST
+> >>>From: Jason K Johnson <anomaly at MIT.EDU>
+> >>>Content-Length: 4057
+>  
+> >>>
+> >>>Simply put, a couple of senators have proposed a particularly heinous
+> piece
+> >>>of
+> >>>legislation titled the "Communications Decency Act of 1995" (Senate Bill
+> S.
+> >>>314).  Basically, the bill would subject all forms of electronic
+> >>>communication

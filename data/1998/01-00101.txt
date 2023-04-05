@@ -1,0 +1,94 @@
+From Palaniappa at AOL.COM  Fri Jan 16 04:21:44 1998
+From: Palaniappa at AOL.COM (Palaniappa)
+Date: Thu, 15 Jan 98 23:21:44 -0500
+Subject: solution to the "kuyava' etymology
+Message-ID: <161227034752.23782.6804846853552892418.generated@prod2.harmonylists.io>
+
+For providing valuable information on "kuyava", I thank  Jan Houben, and Arlo
+Griffiths and especially  Madhav Deshpande for providing important
+clarification in a private communication which is also included in this
+posting.
+
+The reason the name "kuyava" was interesting to me was this. In a Classical
+Tamil poem, a chieftain named "iruGkOvEL" is praised by one of the most famous
+CT poets, kapilar, as belonging to the 49th generation descendant of a king
+who was born in the sacrificial pit of a northern muni and who ruled in
+tuvarai (dvArakA) with a fort made with copper. Strangely, the name iruGkOvEL
+is synonymous with "kuyavan2" both meaning "potter". The Buddhist epic
+maNimEkalai uses "iruGkOvEL" in the sense of "potter". That is why I was
+wondering if what we have in the personal name "kuyava" of RV is a Dravidian
+name for a non-Aryan person. (Even today in Tamilnadu, "vELAr" means potters,
+and "vEL" is a honarary title meaning "chief" given to persons of merit. For
+instance, an actor was given the title "naTikavEL".)
+
+In his communication to me, Madhav Deshpande said, "Looking at the discussion
+so far, I believe the traditional commentators
+are merely guessing when it comes to the meaning/etymology of the name
+kuyava.  On the other hand, the parallel expressions kUyavas/sUyavas are
+clearly derived from ku+yavas and su+yavas, where the etymology seems to
+be transparent.  Geldner's suggestion that kuyava in VS (and Rv) perhaps
+is to be understood as kUya+vaac would require that there be a separate
+item kUya, and kuyava evidently as coming from ku/Uya+va.  However, as far
+as know, there is no separate attestation for kuya/kUya.  What is possible
+is that kuyava (assuming it came from a non-Sanskrit source, and was
+understood as the name of a demon) was subsequently understood as having a
+negative prefix ku, and remainder being yava.  This would be somewhat
+similar to the original asu+ra (with a positive possessive meaning) being
+reinterpreted later as a+sura (with a negative association)."
+
+In light of Deshpande's comments, with some further research, I think I have
+found a solution to the "kuyava" etymology.
+
+Classical Tamil provides a striking parallel to the Vedic material. CT has a
+homonym "kuyam". It means "community of potters" as well as the
+"harvesting/reaping sickle". "kuya" is used as the first member of compounds
+as in "kuyakkuTi" meaning "hamlet of potters".
+
+"kuyam" in the sense of potters occurs in puRanAn2URu 348 as given below.
+
+veNNel ariJar taNNumai verIik
+kaNmaTal koNTa tIntEn2 iriyak
+kaL arikkkuG kuyam...                (puR. 348.1-3)
+
+Translation: "As the bees get scared of the noise of drums by the harvesters
+of white paddy, the honey-filtering potters...".
+
+DED 1468 lists "kuyam" in the sense of "potters" along with "kO". "kO" also
+means "king" as shown by DED 1810. "kuyam" in the sense of harvesting/reaping
+sickle occurs in the following poem.
+
+"kUn2ik kuyattin2 vAynel arintu" (porunarARRuppaTai 242)
+
+Translation: "reaping the paddy with the cutting edge of the curved sickle"
+
+DED 1763 shows that "kuyam" in the sense of "sickle" is derived from the word
+"koy" meaning "to pluck (as flowers), cut, reap, shear(as hair), snip off,
+choose, select. Cognates  of "koy" in the sense of "reap/harvest" occur in all
+the branches of Dravidian. Hence, it must be traced to proto-Dravidian. I
+think the VS "kuyava" in the sense of "harvest" must be derived from this. The
+alternation of radical "o" and "u" is well-known in Dravidian linguistics. So,
+the lost dialect from which this word was borrowed probably had similar
+alternation. (If this etymology is accepted, it may shed some light on the
+geographic range of "o"/"u" variation in Dravidian also.) This etymology
+obviates the need for an artificial insertion of "a" in front of the VS
+"kuyava" to arrive at a positive meaning necessitated by the context (as in
+the nearby "akSita").
+
+If we have "kuyava" as a borrowed word in VS having a positive meaning, the
+interpretation of RV occurrence in (1.103.8 etc.) as meaning "demon causing
+bad harvests" becomes unsupportable. Given the Dravidian words for "potter"
+also meaning "king" (kO) or "chieftain" (vEL), I think the RV "kuyava", which
+occurs in a list of "demons" who in all probability were non-Aryan kings or
+chieftains, can be defensibly equated to the Dravidian word for
+potter/king/chieftain.
+
+I would appreciate any comments on this proposed etymology.
+
+
+Regards
+
+S. Palaniappan
+
+
+
+

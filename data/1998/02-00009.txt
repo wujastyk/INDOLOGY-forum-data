@@ -1,0 +1,45 @@
+From kellner at IPC.HIROSHIMA-U.AC.JP  Sun Feb  1 16:55:55 1998
+From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
+Date: Mon, 02 Feb 98 01:55:55 +0900
+Subject: -vada / -vadin
+Message-ID: <161227035345.23782.1631333661876404963.generated@prod2.harmonylists.io>
+
+jonathan silk wrote:
+>
+> I recently "corrected" the draft of a friend's paper, and suggested that
+> the usage Sarvastivada was correct for the sect, and Sarvastivadin for a
+> follower of said sect. The same for Vibhajyavadin. However, in looking
+> through some sources my friend tells me that the actual usage in texts
+> seems to be inconsistent. Is this possible, grammatically speaking?  In
+> other words, can we take 'Sarvastivadin' as the name of the sect and
+> 'Sarvastivada' is an adjective form (as the 'Mulasarvastivada-vinaya')?
+> Apparently both Frauwallner and Bareau use Sarvastivadin as the name of the
+> sect.
+
+A brief glance at Frauwallner's "Studies in Abhidharma Literature and
+the Origins of Buddhist Philosophical Systems" (SUNY 1995) shows that
+the INDEX has an entry for "Sarvaastivaada/in school", but I could not
+find any passage where Frauwallner uses -vaadin for the school, other
+than in expressions such as "the Abhidharma of the Sarvaastivaadin", but
+he only uses "Sarvaastivaada school" (not "Sarvaastivaadin school"). So
+the INDEX-entry is perhaps a shorthand, in the case of "-vaadin", for
+"school of the Sarvaastivaadin".
+
+Maybe the source of the confusion is Frauwallner's (and maybe also
+Bareau's?) habit of NOT affixing a plural -s to Sanskrit terms, so that
+the plural of Sarvaastivaadin is still "Sarvaastivaadin" (other people
+such as myself would write "Sarvaastivaadins"). In some contexts, this
+may leave the misleading impression that "-vaadin" indeed refers to the
+school or doctrine.
+
+I am not aware of any Sanskrit texts where an occurrence of "-vaadin"
+unambiguously refers to a school a doctrin,
+
+--
+Birgit Kellner
+Department for Indian Philosophy
+Hiroshima University
+
+
+
+

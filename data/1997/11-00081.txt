@@ -1,0 +1,67 @@
+From jacob.baltuch at EURONET.BE  Sat Nov  8 04:47:55 1997
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Sat, 08 Nov 97 05:47:55 +0100
+Subject: Script on excavated terracotta seals from Harappa deciphered              ????
+Message-ID: <161227033528.23782.4389045960418536526.generated@prod2.harmonylists.io>
+
+Luis Gonzalez-Reimann wrote:
+
+>Probably the main difference between Semitic and Indo-European verbal roots
+>is that Semitic roots don't include vowels, whereas Indo-European roots not
+>only do include them, but they also incorporate an elaborate system of
+>vocalic transformations (guNa, vRddhi).
+
+I think you are using "IE" for Sanskrit. As far as I know IE roots
+do not have an intrinsic vowel which then undergoes two degrees of
+lengthening, guNa and vRddhi, but are roots with no intrinsic vowel
+in which the vocalization can take two quantitative degrees (long/short)
+combined with two qualitative degrees (e/o) or of course the reduced
+degree with no vowel, for a total of 5 shapes the root can come in.
+
+The loss of the qualitative distinction in Sanskrit comes I think from
+the collapse of IE *e and *o to Sanskrit a. As to the intrinsic vowel
+of Sanskrit roots I've never quite understood where it came from in IE
+terms (but that's my fault). I mean, it is obvious it is obtained by
+saMprasaaraNa from a semi-vowel. But I didn't know all IE roots _had_ to
+have a semi-vowel. I probably should look into this more carefully some day :)
+
+Anyway, to get back to Semitic and IE:
+
+I'd say the main difference between Semitic and IE roots is that the
+great majority of Semitic roots have three consonants where the great
+majority of IE roots have only 2 consonants (observing however that
+the "consonants" of IE can sometimes be clusters e.g. a root can start
+with cluster /sw-/ whereas in Semitic they are always single consonants.
+
+Otherwise I don't know if there is such a big difference in how
+the roots are treated.
+
+Just like an IE roots has 5 basic forms in which it can be used
+(CeC, Ce:C, CoC, Co:C, CC), Semitic has vocalic patterns which
+are mapped into the root. These vocalic patterns are made of
+a, i, u, a:, i:, u: and (according to the prevailing description)
+gemination of the 2nd root consonant (which gives the so called
+heavy forms) For example from a root CCC you could have forms
+such as Ca:CC, CaCiC, etc. The only difference with IE is that
+in the first case a choice is made from a set of 5 elements, and
+in the second case 2 choices are made from a set of 7 elements.
+Note though that not all possible patterns are used in Semitic.
+In a Hebrew e.g. there's only about 20 to 30 vocalic patterns of
+the root which combined with the use of suffixes and prefixes
+gives the roughly 100 patterns or so according to which all
+adjectives, nouns and verbal forms are formed. (The restriction
+to a, i, u, a:, i:, u: is only valid for proto-Semitic, Arabic
+and some other but not all Semitic languages; for example
+Akkadian, Hebrew, Aramaic, Ethiopian, ... have more than three
+vowel colors which in principle can increase the number of patterns)
+
+One minor difference is that in IE suffixes too can undergo
+vocalic alternance whereas in Semitic they can't.
+
+In any case, Semitic roots do _not_ get used as clusters of
+three consonants with no vowels, but use an intricate system
+of vowel patterns to give rise to the actually occurring forms.
+
+
+
+

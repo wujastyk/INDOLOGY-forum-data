@@ -1,0 +1,80 @@
+From drdhaval2785 at gmail.com  Tue Nov  4 04:28:43 2014
+From: drdhaval2785 at gmail.com (dhaval patel)
+Date: Tue, 04 Nov 14 09:58:43 +0530
+Subject: [INDOLOGY] Sanskrit scans database
+In-Reply-To: <82C3E42590D939418C74DD76B97DDED0374A3907@xm-mbx-04-prod.ad.uchicago.edu>
+Message-ID: <CADSGPzW9C0K0001HAA-o+Po_V9oktiy3b=WzLHorw_nxa4sFDw@mail.gmail.com>
+
+Dear Dr Hellwig,
+Regarding the issue of extracting JPEG / PNG / TIFF pages of good quality
+from PDF, you may have tried Irfanview.
+If not, it is worth trying.
+For benefit of all scholars I am reproducing the s
+
+Steps:
+1. Go to http://www.irfanview.com/
+2. Click on Download Irfanview.
+3. Follow the instruction for installation.
+4. Go once again to http://www.irfanview.com/
+5. Click on Download Plugins / addons
+6. Follow the instruction for installation.
+7. Go to http://downloads.ghostscript.com/public/
+8. Select the latest version of ghostscript suitable for your system. For
+me gs915w32.exe <http://downloads.ghostscript.com/public/gs915w32.exe>
+worked well.
+9. Follow the instruction for installation.
+10. After installation of these three applications, launch irfanview.
+11. Click on File->Open
+12. In files of type -> select *.* (display all files)
+13. Browse to your PDF and open it.
+14. Go to Options -> Multiple images -> Extract all pages.
+15. In  'Save as' set the destination file type (JPEG/PNG/TIFF..... there
+are many more)
+15. Set the destination folder to store images.
+16. Click OK.
+This will extract single pages of JPEG / PNG / TIFF files from PDF.
+
+Hope this helps in your endeavours.
+
+
+
+On Tue, Nov 4, 2014 at 3:13 AM, Matthew Kapstein <mkapstei at uchicago.edu>
+wrote:
+
+>
+> Dear Oliver,
+>
+> Congralutions on the development of this remarkable new research tool.
+>
+> I hope that the scope your innovative work will continue to flourish.
+>
+> best regards,
+> Matthew
+>
+> Matthew Kapstein
+> Directeur d'?tudes,
+> Ecole Pratique des Hautes Etudes
+>
+> Numata Visiting Professor of Buddhist Studies,
+> The University of Chicago
+>
+> ________________________________________
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+Dr. Dhaval Patel, I.A.S
+District Development Officer, Rajkot
+www.sanskritworld.in
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141104/e5df7ab0/attachment.htm>
+

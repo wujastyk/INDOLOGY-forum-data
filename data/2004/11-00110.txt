@@ -1,0 +1,25 @@
+From k.harimoto at LET.RUG.NL  Wed Nov 24 22:55:37 2004
+From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
+Date: Wed, 24 Nov 04 23:55:37 +0100
+Subject: Help on installing fonts on Mac OS 10.3.5
+In-Reply-To: <p06010200bdca80650363@[128.146.41.35]>
+Message-ID: <161227075437.23782.9389748703240693140.generated@prod2.harmonylists.io>
+
+I thought the original question was more than just installing the font.
+  For that, the simplest way (in 10.3) is to just double-click on the
+font file :)  Font Book will open and there will be a button to install
+the font.
+
+As for the Keyboard layout file:
+
+http://216.239.59.104/search?q=cache:p5Y5ACIKpxQJ:www.sandiego.edu/
+theo/risa-l/archive/msg06449.html+ManjushreeCSX&hl=en
+
+answers exactly that question.
+
+--
+kengo harimoto
+
+
+
+

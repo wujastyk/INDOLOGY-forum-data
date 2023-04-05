@@ -1,0 +1,105 @@
+From witzel at FAS.HARVARD.EDU  Mon Mar 15 04:01:57 1999
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Sun, 14 Mar 99 23:01:57 -0500
+Subject: Yet another areal/GENERALITIES
+In-Reply-To: <003f01be6e4e$3682d180$8871fe8c@raol.lucent.com>
+Message-ID: <161227047467.23782.897667063104141049.generated@prod2.harmonylists.io>
+
+Since nobody else is (actively) interested I will be brief:
+
+At 13:52 -0500 3/14/99, Vidhyanath Rao wrote:
+>summary of IE aspectology....
+
+>... objection by Szemerenyi:
+>The distinction in Slavic based on verbal prefixes is not inherited.
+well known. Nor the English progressive forms...
+
+>imperfects of Latin, Armenian, OCS/Bulgarian, Lithuvanian  and Tokharian
+>are not morphologically similar to the Greek-I-Ir imperfect.
+Again well known. But it is clear that  Latin has the new (periphrastic)
+formation with "to become"  (skt. bhuu) in -bam, -bas -bat. As in Germanic
+(-ed; and differently : sing-sang-sung), their verb system has been
+reshaped completely.
+But Latin has the REMNANTS of the s-Aor. in the Latin Perfect, veh : vexi ...
+So what was the pre-Latin system? --QED.
+
+>... the pathway from the former to
+> the latter has not been explained in terms of diachronic syntax.
+
+I suggest  H. Rix, Historische Grammatik desGriechischen. Darmstadt 1976 p.
+192 sqq., or  G. Meiser, Historische Laut- und Formenlehre der lateinischen
+Sprache, Darmstadt 1998, p. 180 sq.
+(NB: Mycenean Greek may still have had  even the Injunctive, Rix p. 228).
+
+>Secondly: The assumption that a stem
+>being usable in the present is equivalent to being atelic,...  does not
+>apply to many (most?) > >languages.
+Not an assumption: Imperfective (atelic!) aspect corresponds in many cases
+to the so-called present stem and is then used for Pres. and Past tense.
+In other cases, one has to study the way present function is expressed
+(reduplication, -ccha etc.). I gave some examples last time. --- On
+similar, *general* grounds it was supposed by some linguists that phonetic
+systems such as  IE  p : ph : b: bh should not exist. Well, what about Skt.
+etc.?? -- Note : "some /most?"   --
+"Universals" cannot be arrived at that simply.
+
+And, actually, the (late) IE verb system is of course much more complicated
+than that of a simple aspect stem opposition. There also is the perfect,
+the stative  (veda  'he knows', zaye 'he lies' etc.) and a bunch of other
+forms.
+
+
+>The presence of
+>such a feature must be demonstrated by syntactical study of complete
+>utterances
+
+As has been done by K. Hoffmann for Vedic (Der Injkunktiv...) (cf. Rix on
+Mycenean)
+
+> or, for reconstructed languages, by diachronic syntax, before
+>we can start partitioning stems.
+
+Well, what about the 600 pp. of examples by Rix et al.? ( Lexikon der idg.
+Verben). They have been 'partioned' in a bunch of IE languages:  Rix et al.
+supply the formal background.
+
+Actual syntax is much more difficult to RECONSTRUCT as we normally cannot
+reconstruct sentences.  Occasionally, formulas allow to do so (e.g. the
+"Semitic" word order: aasiid raajaa..., Es war einmal ein Koenig, ..., etc.)
+Otherwise, on pan-IE comparisons to establish IE syntax, see R. Anttila,
+Historical and compararative linguistcs,  1989, p. 357 sqq.
+
+Actually, Szemereny himself says (Einfuehrung in die vergleichende
+Sprachwissenschaft Darmstadt 1970, p. 213) that the Indo-Iranian-Greek
+system reflects the (late) IE one, "because Latin retains in its perfect
+the old [IE] perfect and the old Aorist, especially clearly the s-Aor. ,
+and so does Celtic; Slavic still has an aorist which mainly continues the
+forms of the old Aor."
+
+In other words, in the later attested languages such as Latin etc., we have
+reduction of the more complex (late) IE apect system. (Almost the same
+words, Szemerenyi p. 310).
+
+>My
+>interest in completives in Indian languages is that here we might be
+>able to see the evolution.
+
+The system is in place in the Rgveda (1500 BC.?);  Prakrit, etc. derive
+from that type of language and have severely reconstructed and reduced
+their verb system, (reflected even in Epic Skt.), (and just like Latin
+did); and they then have built up new categories of their own.
+
+Final comment: it is best to EXPERIENCE the workings of the system in
+action, e.g. in Vedic, then come to "general" conclusions.
+
+
+ ==========================================================================
+Michael Witzel                          Elect. Journ. of Vedic Studies
+Harvard University                  www1.shore.net/~india/ejvs
+---------------------------------------------------------------------------
+my direct line (also for messages) :  617- 496 2990
+home page:     www.fas.harvard.edu/~witzel/mwpage.htm
+
+
+
+

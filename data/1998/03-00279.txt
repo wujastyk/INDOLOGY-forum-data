@@ -1,0 +1,94 @@
+From Palaniappa at AOL.COM  Wed Mar 18 18:34:10 1998
+From: Palaniappa at AOL.COM (Palaniappa)
+Date: Wed, 18 Mar 98 13:34:10 -0500
+Subject: etymology of karN
+Message-ID: <161227036815.23782.15557664120285285744.generated@prod2.harmonylists.io>
+
+In a message dated 98-03-15 06:06:08 EST, you write:
+
+<<        My point of view:
+         Semantically, it seems we have a general meaning "prominent,
+ protuberant": Russian "celo" is also "front" and Greek words give related
+ meanings: "kolophOn" (top, achievement); "keleontes" (vertical weaving
+ loom's uprights). But the meaning "to pierce" is in other words: "kolaptO"
+ (to gash, to peck, to stake out); "kolios", "keleus" (woodpecker).
+ Actually, a metaphor "to pierce"/"to rise up" is known by the French
+ "percer" which can be used for "to become famous" for a man, or "to come
+ up" for a plant.
+         Phonetically there is a difficulty in Greek with the initial stop,
+ the forms excluding a labiovalar ("po", "te" expected); an evolution *qo >
+ Greek ko is just known in the case of a dissimilation by "u": boukolos <
+ *gvou-qolos (cattleman, see gocaraH) against hippopolos (horseman).
+ Possibly, we can imagine a *q(near L) > Gr. k as in *wLqos (vRka) > Gr.
+ lukos (the L in *qL becoming normally "ol" in Greek), but there are other
+ explanations of the difficult word "lukos". Moreover, we don't have never
+ *qe > Gr. ke. Perhaps the easier way would be to suppose a root *kel-,
+ fitting well for the meaning with Latin "celeber" (famous), and to explain
+ karN (*zarN expected) by an labialization induced from "l" (the same thing
+ occuring in Lituanian)???
+         Mythologically, that's easy to understand the hero's name karNa as
+ "famous, out of the common": eldest son of kuntI, despite his obscure birth
+ he is supposed becoming even better than arjuna. The reference to the
+ earrings could be a secondary motivation of the name (his Greek parallel
+ Glaukos bears just a golden plate).
+  >>
+
+Am I right in understanding that the IE etymology is not very satisfactory?
+Before I post the following in Indology, I want to get your view.
+
+There is a Dravidian root kaN- meaning to incise, pierce, cut. The words
+related to this root are given in DED 979. (I do not have DEDR.) Ta. kaNai
+arrow; kaNicci battle-axe, pick-axe, goad, Ka. kaNe, gaNa arrow, Tu. kaNe
+quill of a porcupine; gane' arrow, Go (L) kaNI arrow, Kur. kannA arrow with an
+iron point, Malto kani barb of an arrow. Since all branches of Dravidian are
+represented here, the root should go back to Proto Dravidian.
+
+There is another set of words with the root kaN- meaning "to become
+cylindrical or globular"as in Ta. kaNai cylindrical or globular shape, kaNu
+joint in a bamboo, kaNukkAl  ankle, kaNaikkAl shin, kaNaiyam club; Ma. kaNa
+roller of mills, the cylindrical wood of an oil press, Ko. kaN joint of
+bamboo, To. koN joint of bamboo or cane, Ka. kaN joint in reeds, gaNalu
+knuckle of the fingers, joint or knot in cane or reed, gaNike knot or joint,
+kaNe, kaNi heavy wooden roller which stands upright in the mortar of an oil-
+mill, Te. kanu, kannu joint in cane or reed, Kur. khann place on bamboo or
+cane where side shoot was cut away.
+
+Moreover, the word kaN- is used as a verb also, especially in the compound
+kaNNezuttu meaning incised letters. In my opinion, it is this root which is
+found in the Tamil word kaNakku meaning text as well as accounts/mathematics,
+etc. Till now many have held kaNakku is derived from Sanskrit. Compare gaNaka
+one who reckons , arithmetician MBh. ii , 206 ; xv , 417 ; a calculator of
+nativities , astrologer VS. xxx , 20 R. i , 12 , 7 Katha1s. ; m. pl.N. of a
+collection of 8 stars VarBr2S. xi , 25 ; (%{I})f. the wife of an astrologer
+Pa1n2. 4-1 , 48 Ka1s3. ; (%{ikA}) f. a harlot , courtezan Mn. iv Ya1jn5. i ,
+161 MBh. xiii Mr2icch. &c. ; = %{gaNikA7rikA} q.v. L. ; counting , enumerating
+W. ; apprehension W. However, based on the Dravidian information presented
+here, Sanskrit kaRN seems to be based on Dravidian kaN with an r inserted
+before N. According to Kuiper, "In Sanskrit the tendency to 'naturalize' an
+unconditioned N by inserting an r or R has been common in many periods."
+(Aryans in the Rig Veda, p.70)
+
+With an enunciative 'a' after 'r' one will get "karaNa" meaning a man of a
+mixed class (the son of an outcast Kshatriya Mn. x , 22 ; or the son of a
+S3u1dra woman by a Vais3ya Ya1jn5. i , 92 ; or the son of a Vais3ya woman by a
+Kshatriya MBh. i , 2446 ; 4521 ; the occupation of this class is writing ,
+accounts &c.) a writer,
+scribe W. I think Dravidian kaN- can explain kaRN and karaNa better than the
+IE explanation. You should also note that incising palm leaf is a South Indian
+custom as opposed to writing with ink found in north. Thus Sanskrit karaNa
+scribe cannot be related to Sanskrit kaRN.
+
+What do you think?
+
+What is the IE view of the etymology for gaNaka arithmatician and karaNa
+scribe, accountant?
+
+Thanks in advance.
+
+Regards
+
+S. Palaniappan
+
+
+
+

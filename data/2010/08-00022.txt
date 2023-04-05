@@ -1,0 +1,160 @@
+From ssandahl at SYMPATICO.CA  Wed Aug 11 13:33:47 2010
+From: ssandahl at SYMPATICO.CA (Stella Sandahl)
+Date: Wed, 11 Aug 10 09:33:47 -0400
+Subject: Hiragana and Indic Scripts
+In-Reply-To: <01f301cb386f$13229570$2101a8c0@Dan>
+Message-ID: <161227090142.23782.17794274618381821089.generated@prod2.harmonylists.io>
+
+Dear all,
+A very learned colleague of mine, to whom I forwarded the discussion  
+about the Hiragana etc. scripts, sent me the following which he has  
+allowed me to forward to the Indology list. However, the list  
+rejected the attachment which were the entries in Prof. Waterhouse's  
+forthcoming book. I am sure he'll answer you directly if you contact  
+him off list. His e-mail is: david. waterhouse at utoronto.ca.
+
+Dear Stella,
+
+Thank you for these notes: but they are a little confused. I am  
+attaching short historical notes on hiragana and katakana from the  
+Glossary appended to my forthcoming catalogue of prints by Suzuki  
+Harunobu (1725?-70) in the Museum of Fine Arts, Boston. Both kinds of  
+kana derive from Chinese characters; the connexion with K?kai can be  
+dismissed. I do not know when the present arrangement of kana first  
+came into use; but until the Meiji period the most common arrangement  
+was according to the iroha order: which constitutes a rather silly  
+poem using all the syllables once. Older reference books follow this  
+order.
+
+K?kai studied an advanced form of Buddhist Tantrism in China, and  
+introduced it to Japan for his Shingon school of Japanese Buddhism.  
+In various of its rituals Shingon uses the siddham (Jap. shittan)  
+script, which derives not from devanagari but from an older form of  
+Gupta script. I have several reference books about it. One often sees  
+it in the inscriptions in Japanese graveyards; and Shingon monks have  
+to study it. Unlike Indic scripts, it is written with a brush, which  
+gives it a more cursive character than devanagari. Its early history  
+in Japan is unclear, but its introduction may go back to the time of  
+K?kai (774-835), Saich? (767-822: founder of the Tendai school) or  
+Ennin (794-864: third head of Tendai), all of whom studied in China.
+
+Lastly, I do not see any connexion between kana and musical notation,  
+except that kana themselves are used as a kind of solfa notation, and  
+various other kinds of Chinese and Japanese music notation show the  
+influence of Chinese characters: notably the classical notation for  
+the qin (7-stringed zither).
+
+As you may know, the Korean syllabary, a brilliant invention of 15th- 
+century Korean linguists, was directly influenced by Sanskrit  
+phonology, as well as by Chinese; and the shapes of individual  
+letters mirror the position of the tongue.
+
+
+Yours ever,
+
+David
+
+--
+Stella Sandahl
+ssandahl at sympatico.ca
+
+
+
+On 10-Aug-10, at 5:33 AM, Dan Lusthaus wrote:
+
+> Dear Peter,
+>
+> As you've discovered the orgins of the kana scripts is still  
+> disputed and
+> unclear.
+>
+> Early on, hiragana was considered a script only to be used by  
+> women; men
+> were expected to use kanji (Chinese characters). The idea that  
+> hiragana
+> primarily developed from a cursive form of Chinese characters is  
+> fairly
+> pervasive. See, for instance,
+>
+> http://www.omniglot.com/writing/japanese_hiragana.htm
+> and
+> http://en.wikipedia.org/wiki/Hiragana
+>
+> And legend (along with many uncritical modern works) considers K?kai
+> (774?835), who established the Shingon (= tantra) school in Japan,  
+> to be
+> the creator of the katakana script. There is a poem, or set of gathas,
+> called "Iroha" in Japanese, that offer a summary of the teaching of
+> impermanence from the Nirvana Sutra; the poem employs the full set of
+> katakana, and this poem had been attributed to K?kai who was  
+> believed to
+> have devised it as a clever mneumonic, but more recent scholarship has
+> undermined that legend. See
+>
+> http://en.wikipedia.org/wiki/Iroha
+> and
+> http://tinyurl.com/3xx74ko
+>
+> Note that the order of the syllabary was not always in the current  
+> order,
+> and that the order of appearance in the Iroha was standard for many
+> centuries. Rearrangement to align it with Sanskrit order might have  
+> occurred
+> later as Japanese scholars developed an interest in linguistics and  
+> grammar
+> (under German via Dutch influence) and turned to Sanskrit  
+> prototypes (via
+> Chinese Buddhist translations) to set this out.
+>
+> You are correct that Siddham script, not Devanagri, would have been  
+> familiar
+> to the Japanese. The Sanskrit script studied in China and then  
+> subsequently
+> the rest of E. Asia was primarily Siddham. By the time Devanagri was
+> developed, the transmission to China had been disrupted. K?kai  
+> spent some
+> time in China studying with translators (including Manichaeans), and,
+> because of the tantric interest in mantras and seed syllables,  
+> developed an
+> interest in siddham pronunciation and script (one still finds  
+> siddham used
+> in certain Japanese Buddhist cemeteries, etc.). That is probably  
+> why he
+> comes to be associated with the development of katakana.
+>
+> One largely unexplored but potentially important source for both  
+> hiragana
+> and katakana is Chinese musical notation, especially as developed  
+> during the
+> Tang and Song dynasties. What started as Gongche notation ("?"  
+> g?ng and "?"
+> ch?) using Chinese characters to represent notes, developed into a  
+> cursive
+> form that has many evident overlaps with Japanese kana.
+>
+> On Gongche, see
+> http://en.wikipedia.org/wiki/Gongche_notation
+>
+> For the more relevant musical notation, see
+>
+> Rulan Chao Pian, _Song Dynasty Musical Sources and Their  
+> Interpretation_,
+> Harvard-Yenching, Harvard University Press, 1967, esp. the  
+> illustrations
+> following p. 42 and passim.
+>
+> You may also find the following useful for tracking the history of  
+> East
+> Asian awareness of Sanskrit sounds and scripts:
+>
+> Chaudhuri, Saroj Kumar, _Siddham in China and Japan_, a monograph  
+> published
+> through Victor Mair's Sino-Platonic Papers series. (No. 88, Dec.  
+> 1998).
+>
+> Dan Lusthaus
+>
+
+
+
+

@@ -1,0 +1,50 @@
+From dplukker at inter.NL.net  Mon Feb 19 12:24:27 1996
+From: dplukker at inter.NL.net (dplukker at inter.NL.net)
+Date: Mon, 19 Feb 96 13:24:27 +0100
+Subject: urdu wordprocessing system
+Message-ID: <161227022926.23782.17245637045401363307.generated@prod2.harmonylists.io>
+
+
+>I am looking urgently for a good Urdu wordprocessing system. "Good" means it
+>should be able to handle footnotes and provide a beautiful laser-printout in
+>nastaliq-style (fonts scalable), suitable for publications (I know, I ask
+>for too much!?).
+>
+>Martin Bemmann 
+>
+>
+'Kaatib' is a free-ware, simple Nastaliq-wordprocessor, with scalable 
+fonts. It is, however, not suitable for your ends (no footnotes, no indexing
+etc., and no Roman).
+
+There is a also commercial packet, Global Publisher, for DOS. 
+I have only seen a brochure. It seems to have quite a lot of features 
+(scalable fonts, Nastaliq *and* Roman, Keshidah for extended characters).
+It is, however, rather expensive: cheapest version is L 595,00, versions
+with more fonts L 795,00 and L 1595,00.
+Contact: Inaam Alvi Computers, 1st Floor, Shelozon Centre,
+Main University Road, Gulshan-e-Iqbal,
+Karachi-74300. tel. 4963508, fax 6647815.
+
+UK dealer: Ever Technology Computers, 218 Oldknow Road, 
+Small Heath Birmingham BIO OHY, tel/fax 021-7666966.
+
+Then there is prof. Klaus Lagally's ARABTEX; beautiful Naskh, and
+with all TeX's typesetting capabilities. As far as 
+I know, Lagally is working on the implementation of Nastaliq fonts.
+At this moment Urdu/Nastaliq commands will produce Naskh.
+Contact: Institut fuer Informatik, Univ. Stuttgart,
+Breitwiesenstrasse 20-22, D-8000 Stuttgart 80.
+
+Success, and please keep me informed,
+
+
+
+    Dick Plukker
+    India Institute, Amsterdam
+
+
+
+
+
+

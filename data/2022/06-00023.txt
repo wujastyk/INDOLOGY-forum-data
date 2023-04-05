@@ -1,0 +1,60 @@
+From vasishtha.spier at gmail.com  Thu Jun  2 22:57:53 2022
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Thu, 2 Jun 2022 18:57:53 -0400
+Subject: [INDOLOGY] Indic rendering
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAADHmxfI2pMNDg/91QJAWnFgBAAAAAA==@matfyz.cz>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
+ <CAJ3b0o87C6da15ekD6YjF5J+EHBGFRMhz7pQZQQKQiydWzyooQ@mail.gmail.com>
+ <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAADHmxfI2pMNDg/91QJAWnFgBAAAAAA==@matfyz.cz>
+Message-ID: <CAJ3b0o95htjdTefWK80PEwm5zjJOgJLr=vdzZFY_NHFuE2yDYA@mail.gmail.com>
+
+Jan Kucera wrote:
+
+Harry, you said you have seen printed editions with the Vedic signs, is
+> that something you can easily share or refer to for me to find in a library?
+>
+I was quoting from an email conversation I had a while ago with a
+devanagari font designer so I don't recall the exact editions I was
+referring to.  I think they were of the v?jasaneyi-sa?hit? . But if you
+look at this edition of the  v?jasaneyi-sa?hit?, it will have at least some
+of these vedic signs, showing combination with the bindu.
+https://ia801604.us.archive.org/5/items/in.ernet.dli.2015.292661/2015.292661.Vajasaneyi-samhita.pdf
+(see page 6 etc.)
+
+>
+>
+> What about these signs:
+>
+>
+>
+> Should they also take anusvara/candrabindu? They all seem to already
+> contain a dot.
+>
+I don't know these vedic signs,  but from the names these appear to be
+different forms of the anusvara, so I suspect they don't combine with
+another bindu or candrabindu .
+
+One other thing to note.  The rendering problem with MSWord I noted, i.e.
+the dotted circle put in when a character from the devanagari extensions or
+vedic extensions block is combined with an accent, doesn't occur with the
+Adishila font family.  This is because there is a  work-around you can put
+in a font (which is you put a zero width character at the unicode location
+where the dotted circle should be, so that whenever MSWord (or other
+software) tries to print a dotted circle it prints nothing instead.
+
+Harry Spier
+
+
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220602/9970aae1/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 39183 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220602/9970aae1/attachment.png>
+

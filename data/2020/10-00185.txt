@@ -1,0 +1,228 @@
+From sharonbendor at yahoo.com  Sat Oct 31 12:56:39 2020
+From: sharonbendor at yahoo.com (Sharon Ben-Dor)
+Date: Sat, 31 Oct 20 12:56:39 +0000
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_root_skr=CC=A5=3F?=
+In-Reply-To: <CAB3-dzdTPr17DidLE-OGtSniQRhZv3aYw3ru7vOzSkqw=Q0KyQ@mail.gmail.com>
+Message-ID: <196522705.572006.1604148999719@mail.yahoo.com>
+
+Dear Madhav,
+
+The addition of su? poses quite a few difficulties. Because you mentioned K??ik?v?tti s?tra A 6.1.136, I think it is relevant to point out one of the explanations of the Prad?pa and Uddyota under the Bh??ya on A 6.1.135 vt.7 which offers an unconventional point of view on the matter. There, Kaiya?a says that Pata?jali?s argument ?evamartham eva tarhi ka?tpu?rvagrahan?am? kartavyam? ka?tpu?rvo yatha? sya?t? (Bh III.93.3-4) may alternatively mean that p?rva in A 6.1.135 is used for specifying the stage when su? should be added (k?l?vadh?ra?a) - when ?uk?? begins with the sound k, before the addition of a? or the reduplication. N?ge?a comments that this is Pata?jali?s final opinion on the issue. With this explanation, K?ty?yana?s v?rttikas 5 and 6 on A 6.1.135, or K??ik?v?tti?s s?tra A 6.1.136, are unnecessary. But it does not solve all the difficulties mentioned by the commentators. For example, A 7.2.43 may undesirably be applicable in samsk?????a because there is an a?ga that begins with a sa?yoga and ends with ? (sam sk?+li?).?
+
+In my opinion, the requirement, introduced by K?ty?yana in his v?rttika on A 1.1.66/67, that the preceding and following items must be in an immediate sequence without any other intervening item is unnecessary. As far as I can see, this requirement does not have any purpose and causes many difficulties. In addition, the Bh??ya on A 1.1.57 (Bh 244.10-11) argues that p?rva is used also when there is something in between, as in ?pu?rva? mathura?ya?h? pa?t?aliputram?, and K?ty?yana says ?d?s?t?am a?nantaryam? vyavahite? (A 1.1.7 vt.7-Bh I.59.11).
+
+Yours
+
+Sharon
+
+
+
+
+
+
+
+On Friday, October 30, 2020, 9:30:06 PM GMT+2, Madhav Deshpande via INDOLOGY <indology at list.indology.info> wrote: 
+
+
+
+
+
+Thanks, Hans.? Indeed, that is the sort of difference I am noticing here.? Without a comment, ??kalya renders the askr?ta of the Sa?hit? to akr?ta in the Padap??ha.? This has both historical and theoretical implications. Since we don't have ??kalya's grammar with us, P??ini shows what synchronic grammarians might do with such things.? But for this specific example, I don't remember seeing a particular rule in P??ini that would take us from akr?ta of the Padap??ha to askr?ta?of the Sa?hit? with augmentation of the root with "s".? The closest I find is P.6.1.136, which says that the augment "s" can be attached even when there is intervention by the past tense marker "a" or reduplication of the root. The example of the first is sam-a-s-karot. In RV we have?10.127.03a? n?r u sv?s?ram?askr?ta, though the pre-verb/preposition nis/nir is separated from the verb askr?ta, it is the intended combination nir-a-s-kr?ta?or the base verbal combination ni?karoti/ni?kurute?that explains the "s" in this form.? Perhaps a good example of "s-mobile".
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+
+[Residence: Campbell, California, USA]
+
+
+On Fri, Oct 30, 2020 at 10:29 AM Hock, Hans Henrich <hhhock at illinois.edu> wrote:
+>??
+>??
+> Thanks, Madhav.?
+> 
+> 
+> 
+> 
+> The padap??hakara evidently considered ask?ta?to be anomalous from his synchronic perspective; and P??ini?s treatment too makes synchronic sense. Here as elsewhere we need to remember that the Sanskrit grammatical tradition was synchronic, whereas western approaches to Sanskrit, especially to Vedic, tend to be diachronic.
+> 
+> 
+> 
+> 
+> For historical-comparative linguists this difference, and the different conclusions regarding forms like ask?ta, pari?k?ta, should actually be quite instructive; they raise interesting questions about the development of the language after the ?Ur-?g Veda?. (George Cardona has had interesting things to say in this regard, in reference to metrical issues.)
+> 
+> 
+> 
+> 
+> I hope you are keeping well,
+> 
+> 
+> 
+> 
+> Hans
+> 
+> 
+> 
+> 
+> 
+>??
+>>??
+>> On 29 Oct2020, at 17:53, Madhav Deshpande <mmdesh at umich.edu> wrote:
+>> 
+>> 
+>>??
+>> Hello Hans, 
+>> 
+>> 
+>> 
+>> ? ? ?The fact that R?gveda 10.127.3 has askr?ta?but the Padap??ha has akr?ta, probably explains why P??ini did not include a root??skr?, but only proposed a contextual insertion or augmentation with "s". Best,
+>> 
+>> 
+>> 
+>> 
+>> Madhav
+>> 
+>> 
+>> 
+>>??
+>>??
+>>??
+>>??
+>>??
+>> Madhav M. Deshpande 
+>> Professor Emeritus, Sanskrit and Linguistics
+>> 
+>> University of Michigan, Ann Arbor, Michigan, USA
+>> 
+>> Senior Fellow, Oxford Center for Hindu Studies
+>> 
+>> 
+>> 
+>> 
+>> 
+>> [Residence: Campbell, California, USA]
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>>??
+>> On Thu, Oct 29, 2020 at 3:24 PM Hock, Hans Henrich <hhhock at illinois.edu> wrote:
+>> 
+>> 
+>>>??
+>>>??
+>>>??
+>>> Addition: A Sanskrit example of s-mobile would be the coexistence of a root tan-?and a root stan-, both meaning ?thunder?
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> Dear Madhav and All,
+>>> 
+>>> 
+>>> 
+>>> 
+>>> There is also pari-?k?ta-. Unfortunately, Mayrhofer could not find any convincing parallels outside Sanskrit. However, there is a general phenomenon in Indo-European, called s-mobile (the varying presence or absence of a root-initial??s). The Wikipedia entry "https://en.wikipedia.org/wiki/Indo-European_s-mobile? has a useful summary, as well as some relevant references. (An alternative, but more speculative explanation would be that in structures like namask??the s?was reinterpreted as a simplification of earlier ss?(similar to asi??you are? for expected as-si, not also the Vedic external sandhi for -s#st?etc.) and that this led to the notion that there is an alternative root form sk?-.)
+>>> 
+>>> 
+>>> 
+>>> 
+>>> All the best,
+>>> 
+>>> 
+>>> 
+>>> 
+>>> Hans
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>>??
+>>>>??
+>>>> On 29 Oct2020, at 16:58, Madhav Deshpande via INDOLOGY <indology at list.indology.info> wrote:
+>>>> 
+>>>> 
+>>>>??
+>>>> Dear colleagues, 
+>>>> 
+>>>> 
+>>>> 
+>>>> In R?gveda 10.127.3 there is a verb form askr?ta?showing the trace of the root skr?.? The Padap??ha of ??kalya presents this form as??akr?ta, indicating that the root skr? as an independent root is no longer recognized. What is going on? Can one presume that forms like sa?skaroti?where P??ini prescribes the insertion of "s" are actually survivals of this earlier root skr?.? Please suggest references that I can look up.
+>>>> 
+>>>> 
+>>>> 
+>>>>??
+>>>>??
+>>>>??
+>>>>??
+>>>>??
+>>>> Madhav M. Deshpande 
+>>>> Professor Emeritus, Sanskrit and Linguistics
+>>>> 
+>>>> University of Michigan, Ann Arbor, Michigan, USA
+>>>> 
+>>>> Senior Fellow, Oxford Center for Hindu Studies
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> [Residence: Campbell, California, USA]
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing committee)
+>>>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>>> 
+>>>> 
+>>> 
+>>> 
+>>> 
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing committee)
+>>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>> 
+>>> 
+>> 
+>> 
+>> 
+> 
+> 
+> 
+> 
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+

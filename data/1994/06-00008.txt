@@ -1,0 +1,69 @@
+From vineet at gator.bocaraton.ibm.com  Mon Jun  6 14:08:38 1994
+From: vineet at gator.bocaraton.ibm.com (vineet at gator.bocaraton.ibm.com)
+Date: Mon, 06 Jun 94 10:08:38 -0400
+Subject: your reply
+Message-ID: <161227016879.23782.15122875931244117028.generated@prod2.harmonylists.io>
+
+Dear Mr Dominik,
+
+	Thanks for thw warm welcome. I was not expecting any reply on an
+introduction as such. But I have already received three. That is a nice
+start.
+	
+	Before I answer any of your questions, let me say some thing
+about the environment I worked in. I used a GIST card, developed by 
+C-DAC Pune. I don't know whether you are aware of it or not. So let me 
+put in few words about it. This card allows one to input ISCII (Indian
+version of character set defining codes for various langugaes) into 
+various software as if one is inputting English. Hence, one can process
+devanagri or any other script characters as part of their program. For example,
+I can process Sanskrit words in Turbo C/Prolog. Also one sees these characters
+on the screen. The GIST although should have inbuilt sandhi functions, but
+didn't have them. GIST works only in DOS environmnet. There is no equivalent of
+it for any other platform and neither there is any proposal to do so.
+
+	So as a part of my thesis, a sandhi function was written. If you have 
+GIST then it can be of use to you. I, however, plan to port the analysis
+package on to various platforms and various coding schemes. This is however,
+depending on the time I get.
+	
+	I don't really want to re-write the software on various platfroms. 
+However, I plan to write a scaled down GIST emulator so that the programs
+written can be directly used on all the platforms with various coding
+schemes.
+
+	You could assume that I know nothing about what has been done in the
+west and what methods and work has been done. This is one of the important 
+things, I would like to learn from the list. 
+
+	It is needless to say that I have heard of  any work of Aad Verboom. 
+However, I would love to know of this and the similar works.
+
+	I plan to go back to India in Dec, 94. After that I may or may not
+return. I will in Bangalore too for at least a week. Hoping to meet you in
+person oner there.
+
+	Once again thanks for your reply.
+
+Bye,
+Vineet
+
+------------------------------------------------------------------------
+ Vineet Jain                  TELE/TIE  :  (407) 443-7635 
+ IBM (Dept 1A4A)              FAX       :  (407) 982-6403
+ Internal Zip 5114            INTERNET  :  vinet at gator.bocaraton.ibm.com
+ 1000 NW 51st Street          IBMMAIL   :  USIB5WKZ 
+ Boca Raton, FL 33431         VM email  :  vineet at bcrvmpc2 
+ United States of America     IBM email :  vineet at hobbie.bocaraton.ibm.com
+
+The views expressed are mine and are not that of IBM or anybody else.
+------------------------------------------------------------------------
+
+			     
+			     
+ 
+
+
+
+
+

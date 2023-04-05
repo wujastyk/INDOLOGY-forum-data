@@ -1,0 +1,47 @@
+From cfynn at DIRCON.CO.UK  Wed Oct 21 20:16:03 1998
+From: cfynn at DIRCON.CO.UK (Christopher J Fynn)
+Date: Wed, 21 Oct 98 21:16:03 +0100
+Subject: Newari Script Table
+In-Reply-To: <001301bdfd2c$f641d5e0$3e002fd4@lengqie>
+Message-ID: <161227041934.23782.17825313469680425199.generated@prod2.harmonylists.io>
+
+--
+Christopher Fynn <cfynn at dircon.co.uk>
+
+ Petr Mares wrote:
+
+> Does anybody know about any online transcription table for Nepalese Newari
+> script. I need to transcribe Newari dharani either to IPA or to Devanagari.
+
+> Sincerely
+
+> Petr Mares
+
+Try:
+
+<http://www.indigo.ie/egt/standards/bod/ranjanaa-lipi-varnamaalaa.pdf>
+
+<http://www.indigo.ie/egt/standards/bod/pracalita-nepaal-lipi.pdf>
+
+for transcription,
+
+and
+
+<http://www.indigo.ie/egt/standards/iso10646/pdf/newari.pdf>
+
+<http://www.indigo.ie/egt/standards/iso10646/pdf/nepali.pdf>
+
+for the proposed ISO 10646 encoding standards for the Nepali and Rajana
+scripts.
+
+The first two are large files. You you will need Adobe's Acrobat Reader
+plug-in installed in your browser to view any of them as they are PDF files.
+
+Acrobat Reader is available from
+<http://www.adobe.com/supportservice/custsupport/download.html>
+
+- Chris
+
+
+
+

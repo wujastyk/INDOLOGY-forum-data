@@ -1,0 +1,35 @@
+From wujastyk at GMAIL.COM  Mon Feb  8 15:56:52 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Mon, 08 Feb 10 16:56:52 +0100
+Subject: BitComet as (simpler?) alternative to wget
+In-Reply-To: <E9E6EABDBD59D84AB47B4A12E39AE11DF1627AA8@MEXMBA.ad.wlu.edu>
+Message-ID: <161227088442.23782.2587753316066504581.generated@prod2.harmonylists.io>
+
+In the bash shell I posted a little while ago, the first line should read
+#!/bin/bash,
+not
+#!bin/sh
+as I posted.
+
+I shall be sending ten Euros to each of you who wrote to tell me of this
+error (before today).
+
+corrected version:
+---------- cut here -----------
+
+> #!/bin/bash
+>
+> # fetch Kapadia_Desc.Cat.Govt.Colls.MSS.BORI-Jaina
+> # Literature and Philosophy XIX.1 Svetambara Works_1957
+>
+> for i in {00000001..397..1}
+>        do
+>                wget
+> http://www.new.dli.ernet.in/data/upload/0048/903/PTIFF/$i.tif
+>        done
+> ---------- cut here -----------
+>
+
+
+
+

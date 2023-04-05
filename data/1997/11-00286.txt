@@ -1,0 +1,26 @@
+From ucgadkw at UCL.AC.UK  Tue Nov 25 12:47:56 1997
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Tue, 25 Nov 97 12:47:56 +0000
+Subject: failure to access archives
+In-Reply-To: <3.0.16.19971124145628.3cffa62e@mail.cari.net>
+Message-ID: <161227033945.23782.3817195020587950839.generated@prod2.harmonylists.io>
+
+On Mon, 24 Nov 1997, J Kingston Cowart wrote:
+
+> My attempts to access the INDOLOGY archives at
+> <http://listserv.liv.ac.uk/archives/indology.html>
+> have all failed.
+
+All I can say, I'm afraid, is that the above URL works for me, both with
+Netscape from a PC and with Lynx from a mainframe.
+
+I assume you are not typing "<" and ">".
+
+What error message do you get?
+
+All the best,
+Dominik
+
+
+
+

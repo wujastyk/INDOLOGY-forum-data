@@ -1,0 +1,88 @@
+From hspier.muktabodha at gmail.com  Sat Aug 17 20:40:26 2019
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Sat, 17 Aug 19 16:40:26 -0400
+Subject: [INDOLOGY] EasyUnicode for a Windows computer?
+In-Reply-To: <CAPW7aQEiJeZFMd_o8bVV8z7s8tBwFNAq-PY-qNyR1RGH+60+iA@mail.gmail.com>
+Message-ID: <CAPW7aQEY=TgAsBQpgbwoHM9Zecqcq2Bhm1-sfM=NaYw0VfNM0g@mail.gmail.com>
+
+Correction to my keyboard layout.  It should have read:
+
+ ctrl+a = ?
+
+ctrl+i = ?
+
+ctrl+u = ?
+
+alt+r = ?
+
+alt+ctrl+r = ?
+
+alt+l = ?
+
+alt+ctrl+l = ?
+
+ctrl+n = ?
+
+ctrl+~ = ?
+
+alt+n = ?
+
+ctrl+m = ?
+
+alt+m = ?
+
+ctrl+s = ?
+
+alt+s = ?
+
+Harry Spier
+
+
+
+On Sat, Aug 17, 2019 at 4:28 PM Harry Spier <hspier.muktabodha at gmail.com>
+wrote:
+
+>
+>
+> On Wed, Aug 14, 2019 at 4:50 AM Jan Kucera via INDOLOGY <
+> indology at list.indology.info> wrote:.
+>  . . .
+>
+>> For people who are using their custom shortcuts, would they mind sharing
+>> which shortcuts they use for which characters?
+>>
+>>
+>>
+> For microsoft Word the shortcuts I've set up are:
+> Ctrl+letter for diacritical over the letter
+> Alt+letter for diacritical under the letter
+> Ctrl+Alt+letter for diacriticals over and under the letter
+> Ctrl+~ for ?
+> For me this is the most intuitive and gives:
+>
+>  ctrl+a = ?
+> ctrl+i = ?
+> ctrl+u = ?
+> ctrl+r = ?
+> alt+ctrl+r = ?
+> ctrl+l = ?
+> alt+ctrl+l = ?
+> ctrl+n = ?
+> ctrl+~ = ?
+> alt+n = ?
+> ctrl+m = ?
+> alt+m = ?
+> ctrl+s = ?
+> alt+s = ?
+>
+> Harry Spier
+>
+>>
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190817/dc7147c9/attachment.htm>
+

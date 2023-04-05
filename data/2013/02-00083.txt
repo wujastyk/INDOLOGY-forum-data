@@ -1,0 +1,21 @@
+From francois.voegeli at gmail.com  Wed Feb 20 12:00:27 2013
+From: francois.voegeli at gmail.com (Francois Voegeli)
+Date: Wed, 20 Feb 13 13:00:27 +0100
+Subject: [INDOLOGY] First use of 'Indology'
+Message-ID: <913B800E-B7D4-43CA-9AC5-FF13365975A9@gmail.com>
+
+Dear Malcolm,
+
+You gave a lowest threshold of 1800 to Google Ngram. When I first saw this question raised on the new version of the Indology forum (btw: many-many great THANKS to Dominik and the rest of his team for having proceeded to such a smooth migration of an essential tool for our community), I tried it with a range of 1700 to 1800 and it gave one occurence of "Indology" (mind the case with Ngram) in? 1765: 
+
+http://books.google.com/ngrams/graph?content=Indology&year_start=1700&year_end=1800&corpus=15&smoothing=1&share=
+
+When you look at "Search in Google Books" for 1700-1765 on the bottom left of the above mentioned Ngram page you end up on volume 7 of "The Spectator" dated 1959, which apparently has an article on "Early Indology" on p. 484, but you won't be able to go farther as the material is copyrighted: 
+
+http://books.google.ch/books?id=4PMhAQAAMAAJ&q=%22Indology%22&dq=%22Indology%22&hl=en&sa=X&ei=s68kUfLjF9SFhQfnvIDYCA&redir_esc=y
+
+Now if you come one step back with your browser you will notice that the intermediate Google page mentions two names of seventeenth-eighteenth century gentlemen with links: Richard Steele (1672-1729)  and Joseph Addison (1672-1719). 
+A quick search in Wikipedia will show you that they are cofounders of "The Spectator", but most interesting, if you click on the link for Joseph Addison in Google, you will be redirected to a page where a book by Thomas Burnet (1653?-1715), entitled "De statu mortuorum & resurgentium tractatus", translated in English by Matthias Earbery under the tile "Of the state of the dead and those that are to rise" (I would have translated this title slightly differently) appears in second place and is available on Google Book (apparently no American or European copyright lawyer pursued it that far back in time, or hell?): 
+
+http://books.google.ch/books?id=A4NPAAAAYAAJ&pg=PA75&dq=inauthor:%22Joseph+Addison%22&hl=en&sa=X&ei=3rIkUbytEZH5sgbNooCYDQ&redir_esc=y#v=onepage&q&f=false
+

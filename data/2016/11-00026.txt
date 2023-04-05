@@ -1,0 +1,26 @@
+From hellwig7 at gmx.de  Thu Nov  3 08:31:51 2016
+From: hellwig7 at gmx.de (hellwig7 at gmx.de)
+Date: Thu, 03 Nov 16 09:31:51 +0100
+Subject: [INDOLOGY] Lexicographic order / sentence boundaries
+Message-ID: <1B61C71605AF47E999620D2A50EB49EB@OliverHP>
+
+Dear list members,
+
+1) I am trying to find out by which lexicographic principles Monier-Williams and Cappeller ordered the **meanings** of each word in their dictionaries.
+For instance, MW gives the following first definitions for the lemma aTTa: "a watch-tower; a market, a market-place (...); N. of a Yaksha, ..." ? My question is: Why "a watch-tower; a market..." and not "a market; a watch-tower ..."? Tried to find an explanation in his preface, but was not able to detect it. Does anybody have a citation for this ordering?
+
+2) A while back, I asked for your collaboration in annotating sentence boundaries in a few fragments of Sanskrit texts. Thanks to those who took the time for going through the sentences!
+You find the merged results here:
+http://www.sanskrit-linguistics.org/tmp/annotations.html
+Seems to be more complicated than expected!
+
+Best, Oliver
+
+---
+Oliver Hellwig, SFB 991, University of D?sseldorf 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161103/d21dc51c/attachment.htm>
+

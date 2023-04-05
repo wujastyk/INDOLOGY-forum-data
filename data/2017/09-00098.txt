@@ -1,0 +1,31 @@
+From mehner at sub.uni-goettingen.de  Fri Sep 15 10:26:53 2017
+From: mehner at sub.uni-goettingen.de (Mehner, Maximilian | GRETIL)
+Date: Fri, 15 Sep 17 10:26:53 +0000
+Subject: [INDOLOGY] GRETIL update #483
+Message-ID: <C02B5C9E4F9BD14E998B70B231B0922274C64301@um-excdag-a05.um.gwdg.de>
+
+GRETIL is pleased to be able to report the following addition(s) to its collection:
+
+Texts added:
+Aryasura: Jatakamala (Ed. Hanisch)<http://gretil.sub.uni-goettingen.de/#DSBC_Sa032>
+(Pseudo-)Jonaraja: Rajatarangini<http://gretil.sub.uni-goettingen.de/#JonaRT>: analytic and plain text
+Samkara: Upadesasahasri<http://gretil.sub.uni-goettingen.de/#SamkUpad>
+
+Secondary Resources added:
+Benfey: A Sanskrit-English Dictionary<http://gretil.sub.uni-goettingen.de/#BenfSE>
+Cappeller: A Sanskrit-English Dictionary<http://gretil.sub.uni-goettingen.de/#CappSE>
+
+Texts revised:
+Divyavadana<http://gretil.sub.uni-goettingen.de/#Divyav>
+<http://gretil.sub.uni-goettingen.de/#Divyav>
+Additionally, all dictionary files have been slightly revised, so as to make them available in a suitable format for use with free dictionary software. Since there is no standard format for this, I have chosen xdxf for now (see https://github.com/soshial/xdxf_makedict for format documentation), which is comparatively transparent and easy to convert into other formats. I have been testing these files with GoldenDict (version 1.5) for a couple of weeks now, and while there is certainly room for improvement, the core functionality of quick and easy, offline searching in multiple dictionaries simultaneously seems to work just fine. My testing, of course, cannot be exhaustive, so please do let me know if you do encounter any problems. As with all of GRETIL's files, corrections and suggestions for improvement are much appreciated.
+
+__________________________________________________________________________
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170915/efbdb9c2/attachment.htm>
+

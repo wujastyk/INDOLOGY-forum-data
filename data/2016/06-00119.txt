@@ -1,0 +1,24 @@
+From wujastyk at gmail.com  Sun Jun 19 22:59:16 2016
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 19 Jun 16 16:59:16 -0600
+Subject: [INDOLOGY] Devanagari font adequacy
+In-Reply-To: <CAKdt-CctUoWqDkUJtn_Cqpv1qe3Md3oY9qExrHmW+FPW-YpnRg@mail.gmail.com>
+Message-ID: <CAKdt-CcQGsgv8VCuR0ZtTXt6+eHuXSdH1+DdcuiWT9TVmP723Q@mail.gmail.com>
+
+The issues of fonts, font-layout, Harfbuzz, ICU and whatnot is all well
+described by Behdad Esfahbod here:
+
+   - http://behdad.org/text
+
+Since 2013, XeTeX has had HarfBuzz and Graphite2 and Core Text rendering
+engines built into it <http://www.khaledhosny.org/node/198>, thanks to the
+fine work of Khaled Hosny.
+
+Best,
+Dominik
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160619/ddcddc4e/attachment.htm>
+

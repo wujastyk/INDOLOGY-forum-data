@@ -1,0 +1,22 @@
+From lehmann at alcor.concordia.ca  Sun Aug 25 14:50:38 1996
+From: lehmann at alcor.concordia.ca (Jutta K. Lehmann)
+Date: Sun, 25 Aug 96 09:50:38 -0500
+Subject: Q: Wikner's Sanskrit
+Message-ID: <161227025782.23782.16932974165495876960.generated@prod2.harmonylists.io>
+
+I wish I could help Dr. Hueckstedt with his problem of compiling exe. 
+files for Dr. Wikner's 
+devanagari fonts. I just want to assure him that he is not alone. I am 
+finding that not only am I facing the daunting task of learning TeX/LaTeX 
+(I am experimenting with OzTeX on a Mac LC475) but of learning enough of 
+C programming to compile both the Wikner and the Velthuis "preprocessor" 
+programs on the Mac (not fully understanding what these programs will 
+actually accomplish for me since I have already produced the PK fonts). 
+So - I would repeat Dr. Hueckstedt's anguished cry. Does anyone have 
+experience compiling these programs on a Mac? Any help you can give would 
+be appreciated. 
+
+
+
+
+

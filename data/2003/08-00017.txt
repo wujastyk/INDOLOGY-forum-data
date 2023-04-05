@@ -1,0 +1,24 @@
+From s.hodge at PADMACHOLING.FREESERVE.CO.UK  Thu Aug  7 01:02:04 2003
+From: s.hodge at PADMACHOLING.FREESERVE.CO.UK (Stephen Hodge)
+Date: Thu, 07 Aug 03 02:02:04 +0100
+Subject: Sanskrit word order sort program
+Message-ID: <161227073049.23782.4489519134074518895.generated@prod2.harmonylists.io>
+
+Dear Andrew,
+
+Many thanks.  I'll give it a try once I locate a copy of Excel.
+
+Best wishes,
+Stephen Hodge
+
+> Here is the macro I've been using. You should paste it into a new module
+in
+> the Visual Basic Editor for Excel.
+>
+> The macro, called SortCodeGenerator, prompts you for the Source and Target
+> ranges, and then the Sort type. For Sanskrit, only Sanskrit is necessary.
+> Gandhari also requires an absolute sort code.
+
+
+
+

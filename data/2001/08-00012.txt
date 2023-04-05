@@ -1,0 +1,48 @@
+From ucgadkw at UCL.AC.UK  Sun Aug  5 10:00:19 2001
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Sun, 05 Aug 01 11:00:19 +0100
+Subject: ISO FDIS 15919 approved (fwd)
+Message-ID: <161227069530.23782.8201282137037469767.generated@prod2.harmonylists.io>
+
+Just a note for those who may not quite get what this is about. In 1898
+the World Congress of Orientalists agreed on a transliteration for
+Sanskrit.  The new standard, largely worked out by Tony Stone, is the
+first public, official standard to recognise Indic transliteration.  As a
+public BSI / ISO standard there is *some* chance now that fonts and other
+facilities for doing romanized Sanskrit on computers may get support from
+manufacturers, something that was plain impossible as long as romanized
+Indic wasn't registerd as a public standard.
+
+There are other benefits too, which I won't go into here.
+
+Dominik
+
+---------- Forwarded message ----------
+Date: Sat, 04 Aug 2001 19:47:12 +0100
+From: Dr Anthony P Stone <stone_catend at compuserve.com>
+To: Dominik Wujastyk <ucgadkw at ucl.ac.uk>
+Subject: Re: ISO FDIS 15919 approved (fwd)
+
+Dear Dominik
+
+Many thanks for your other, congratulatory message.
+[...]
+
+Anyway, the answer, which I will send to J Kirkpatrick separately, is that
+it will be published as hard copy, available from National Standards
+Bodies.  I am not in the picture with regard to any possible electronic
+publication by ISO or any National Standards Body.
+
+ISO is particular about copyright.  But I hope it will be possible for me
+to put some pages on the Web about 'How to use ISO 15919'.
+
+Regards,  Tony
+
+Dr Anthony P. Stone, Project Leader for ISO 15919 (Transliteration of
+Indic scripts) under ISO/TC46/SC2/WG14.
+   Thinking aloud on transliteration:
+http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
+
+
+
+

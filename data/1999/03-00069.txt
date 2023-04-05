@@ -1,0 +1,75 @@
+From harryspier at HOTMAIL.COM  Sat Mar  6 23:01:06 1999
+From: harryspier at HOTMAIL.COM (Harry Spier)
+Date: Sat, 06 Mar 99 18:01:06 -0500
+Subject: Grammatical question. Strange case of doubled j's
+Message-ID: <161227047261.23782.2035576790959087694.generated@prod2.harmonylists.io>
+
+Madhav Deshpande wrote:
+
+>        The only way a reading like -Atmajjyotir- with the doubled j
+can
+>be grammatical is through the rules of optional consonantal doubling.
+>Consider Panini's rule 8.4.47 (anaci ca) which says that a consonant of
+>the y-R group (= any consonant, except h), after a vowel, can be
+doubled
+>optionally, if it is not followed by a vowel.  Without getting into
+>interpretational problems of this rule, the rule is applied in a form
+like
+>-sudhyupaasya.h- (from sudhii+upaasya.h) to derive an alternate form
+such
+>as -suddhyupaasya.h-.  The traditional grammarians like Bha.t.toji
+>Diik.sita point out that for this form, with several optional rules of
+>duplication, we can have the following alternatives:
+>                        sudhyupaasya.h  (eka-dham, eka-yam)
+>                        suddhyyupaasya.h (dvi-dham, dvi-yam)
+>                        suddhyupaasya.h (dvi-dham, eka-yam)
+>                        sudhyyupaasya.h (eka-dham, dvi-yam)
+>Cf. Bha.t.toji's Siddhaantakaumudii.
+>
+>        Such optional forms indicate differing habits of pronunciation
+>reflecting regional and other dialects of Sanskrit recorded by Panini.
+>Some of this variation is seen in forms like aatmajjyoti.  In fact the
+>grammarians prescribe far more possibilities of duplication than what
+is
+>attested in the usage of the manuscripts.  And, the reverse is also
+true
+>that manuscripts show occasional duplication which goes beyond the
+rules
+>of grammarians.
+>        Best,
+>                                Madhav Deshpande
+>
+
+Thank you Madhav,
+
+Whitney in his grammar is far more restrictive in describing consonent
+doubling than the above (y-R group optionally after vowel if not
+followed by a vowel).  Whitney's rules are:
+
+227. ch after vowel required.
+228. After r any consonent (except spirant before a vowel) allowed
+     or required.
+     a. some authorities include (h,l, or v) along with r.
+229. First consonent of a group - whether interior, or initial after
+     a vowel of a preceeding word - allowed or required.
+230. Some rules on inserting nasal sounds and vowel fragments.
+230 f. What he calls "one or two cases of yet more doubtful value,
+       see the prAtizAkhyas."
+
+Is what Whitney describes (his sections 227,228 and 229) the common
+occurance of consonent doubling, and those others outside the scope of
+his rules but within the scope of yaR group as described above of
+less common occurance? i.e. is Atmajjyotir actually uncommon?
+
+Regards,
+
+
+Harry Spier
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+
+

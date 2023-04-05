@@ -1,0 +1,44 @@
+From satyanad.kichenassamy at univ-reims.fr  Thu May 19 11:44:54 2022
+From: satyanad.kichenassamy at univ-reims.fr (Satyanad Kichenassamy)
+Date: Thu, 19 May 2022 13:44:54 +0200
+Subject: [INDOLOGY] Tamil initial vowels with vowel signs
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAKk00mCOvHtHtzXr+f5X62kBAAAAAA==@matfyz.cz>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAKk00mCOvHtHtzXr+f5X62kBAAAAAA==@matfyz.cz>
+Message-ID: <20220519134454.6b16543fd4275bd55861ddbb@univ-reims.fr>
+
+On Thu, 19 May 2022 11:22:46 +0100
+Jan Ku?era <jan.kucera at matfyz.cz> wrote:
+
+> Dear all,
+> 
+>  
+> 
+> has anyone come across a Tamil orthography where a vowel sign would be attached to an initial vowel, presumably most likely it would be A or AA, e.g. ???
+
+Dear Jan,
+
+The convention for writing ????????? for isolated vowels is the same for isolated or final vowels: one should append the appropriate short vowel to the long vowel. For a, i, u, e, o, this gives ?? ?? ?? ?? and ??). For ai and au, the forms are ?? and ??. This is prescribed in ?????????????, ?????????????, ??-??. The examples I gave are found in the examples on the same page in the edition published by the ????????????? ??????????????????, 1979, with ??????????????????'s commentary.
+
+I hope this helps,
+
+         Satyanad K.
+> 
+>  
+> 
+> Thank you and best regards,
+> 
+> Jan
+> 
+
+
+-- 
+**********************************************
+Satyanad KICHENASSAMY
+Professor of Mathematics
+Laboratoire de Math?matiques de Reims  (CNRS, UMR9008)
+Universit? de Reims Champagne-Ardenne
+F-51687 Reims Cedex 2
+France
+Web: https://www.normalesup.org/~kichenassamy
+**********************************************
+

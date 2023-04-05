@@ -1,0 +1,93 @@
+From y.r.rani at mail.utexas.edu  Sun Jan 28 03:03:07 1996
+From: y.r.rani at mail.utexas.edu (y.r.rani at mail.utexas.edu)
+Date: Sat, 27 Jan 96 21:03:07 -0600
+Subject: Field trip to India: HELP!
+Message-ID: <161227022440.23782.3646791946532343791.generated@prod2.harmonylists.io>
+
+Beatrice,
+Last spring H-ASIA had quite a long thread discussing this very topic.
+You can access their archives.  If this type of internet jargon is
+difficult to understand, perhaps  Frank Conlon <conlon at u.washington.edu>
+can help you.  Nonetheless, there is a copious amount of info concerning
+the very topic about which you inquired in the  H-ASIA Fileserver.
+
+**************
+Below is an extract from the Welcome letter that is sent out
+when a subscription is opened.  Section 10 explains how to obtain the LOG
+files  from the listserv at msu.edu
+Hope this helps.
+
+    WELCOME TO THE H-ASIA DISCUSSION LIST (1.1)  Jan. 30, 1995
+
+                  The Asian Studies List of H-NET
+
+         To send material for posting on H-ASIA, post it to:
+
+             H-ASIA at msu.edu
+
+     10. H-ASIA Fileserver
+
+     The H-ASIA Fileserver is on line and houses:
+
+       Logs of the weekly file of messages.  In future it may
+       also house book reviews, teaching materials, descriptions
+       of tools, techniques, and computer software and hardware,
+       and other materials of interest to scholars of Asia.
+
+       Note:  The H-Asia fileserv is  located at both
+       msu.edu and uicvm.uic.edu
+       To obtain a list of available documents, send a note to
+       Listserv at uicvm.uic.edu or listserv at msu.edu with the
+       following command:
+           Index H-ASIA
+       To obtain a specific document, send Listserv the command
+           GET filename filetype
+       Thus, to obtain this document (entitled "H-ASIA Welcome")
+       from the fileserver, send a note to Listserv with the
+       command
+           GET H-ASIA Welcome
+
+     Contributions to the archive are welcome, and should be sent
+     as files to H-ASIA at uicvm.uic.edu or listserv at msu.edu
+
+     Any  subscriber may obtain a list of the items in the H-ASIA
+     Fileserver by sending this message to
+     Listserv at uicvm.uic.edu or listserv at msu.edu
+
+           INDEX H-ASIA
+
+      All H-ASIA messages are stored in weekly logs.  The Log for
+      April 1994, week 4 is H-ASIA LOG9404D and the Log for May,
+      1994, Week 1 is H-ASIA LOG9405A.  Subscribers wishing to
+      receive a log or any other fileserver document should send
+      a message to:
+      Listserv at uicvm.uic.uicvm or listserv at msu.edu
+
+     GET H-ASIA filename   [eg GET H-ASIA LOG9404D]
+
+    HOW TO SEARCH the H-ASIA logs for key words YYYY and ZZZZZ
+      (You may limit the search to any dates you want, for
+      example, 6 May to 29 Aug 1994.
+
+       send this form below to LISTSERV at uicvm.uic.edu or
+         LISTSERV at msu.edu
+       ----do not send this line---
+
+      //ListSrch JOB Echo=no
+      Database Search DD=Rules
+      //Rules DD *
+     Search YYYY and ZZZZZ in H-ASIA from 6 May 94 to 29 Aug 94
+     index date.8 sender.30 subject.40
+     print
+     /*
+     //  EOJ
+
+
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,59 @@
+From MDSAAA48 at giasmd01.vsnl.net.in  Thu Oct 19 08:44:08 1995
+From: MDSAAA48 at giasmd01.vsnl.net.in (DR.S.KALYANARAMAN)
+Date: Thu, 19 Oct 95 08:44:08 +0000
+Subject: Is CSX the best solution?
+Message-ID: <161227021345.23782.13117297538247891725.generated@prod2.harmonylists.io>
+
+On Thu, 19 Oct 1995, John Richards wrote:
+> copying/pasting it into the dialog box. But both these methods are
+> slow and cumbersome for more than the odd word. (I speak, of course,
+> as must be obvious, as a PC Windows user.)
+
+> There is also the advantage that text CAN be typed in direct, without
+> the use of either ALT-numeric-key or Templates/Macros. At times, and in
+> some circumstances, and for computer-beginners, this can be quite a
+> considerable advantage.
+> 
+> I can see the advantages of the CSX system, in its fulness and, not
+> least in the fact that it is now becoming quite widely accepted (by
+> myself as much as by others), but I am not sure that this issue has been
+> widely discussed, and it might be useful to throw it open for review.
+>  
+Why go through the keyboard or phonetic interfaces?
+
+I designed and a new york publisher has brought out a CD-ROM with 1500+
+fonts for all South asian language scripts incuding Sanskrit. The design
+features are:
+
+ANSI character set for all the glyphs required.
+
+Windows (e.g. MS Word 6.0 has a feature Insert, Symbol) brings up the
+chart on the document screen. User can point and click on the desired glyph,
+as in hand-writing. The clicked glyph zooms and pops out and enters the 
+document. There is built-in intelligence to align the diacritical glyphs
+at correct locations of the preceding principal glyph.
+
+This provides the foundation for the next key design feature: portability,
+the fonts are usable ON ALL APPLICATIONS CURRENTLY USED FOR ENGLISH, e.g.
+dbase, spreadsheed, graphics, internet etc. This was presented in an
+international conference on applicationof information technology for south
+asian languages of the computer society of india; I was the keynote speaker.
+
+Ease of use is so pronounced with direct graphical user interface that even
+an ASCII based ISCII standard phonetic keyboard is eliminated.
+
+For further details, contact Scanrom Publications, New York; 
+73760,1005 at compuserve.com; tel. 1-516-295-2237, 1-800-269-2237; fax. 
+1-516-295-2240
+
+Dr. S. Kalyanaraman
+Indus Sarasvati Research Centre,
+20 Warren Road, Mylapore, Madras 600004, India
+tel. 91-44-493-6288; fax. 91-44-499-6380; email: 
+mdsaaa48 at giasmd01.VSNL.net.in
+ 
+
+
+
+
+

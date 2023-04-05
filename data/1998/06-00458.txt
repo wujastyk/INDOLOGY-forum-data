@@ -1,0 +1,39 @@
+From jds10 at CUS.CAM.AC.UK  Tue Jun 30 10:30:41 1998
+From: jds10 at CUS.CAM.AC.UK (John Smith)
+Date: Tue, 30 Jun 98 11:30:41 +0100
+Subject: Word processing
+In-Reply-To: <3598B8D7.777AE61D@urz.uni-heidelberg.de>
+Message-ID: <161227040416.23782.6097522387517218990.generated@prod2.harmonylists.io>
+
+On Tue, 30 Jun 1998, Martin Bemmann wrote:
+
+> Dear list members,
+>
+> we are planning to switch from DOS to Windows (95) for our publication
+> projects. Currently we are working with WordPerfect 5.1 (DOS) using the
+> fonts and keyboard drivers of Prof. Emmerick.
+> A ttf-font and keyboard layout (Caraka) is also available for
+> WordPerfect vor Windows. Are there other systems recommendable esp. for
+> Word for Windows?
+> We need diacritical marks for romanized Brahmi/Kharosthi/Sarada and
+> Sogdian/Partian/Bactrian. The font should have a times-roman like
+> layout.
+
+If you can supply me with a list of exactly what characters you want, and
+preferably exactly where you want them to go (what positions they should
+have in the encoding), I can supply you with suitable high-quality
+freeware fonts. (This is on the assumption that all the diacriticals you
+require are either standard ones -- e.g. macron, breve -- or easily
+created from standard ones -- e.g. underring, underdieresis.)
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

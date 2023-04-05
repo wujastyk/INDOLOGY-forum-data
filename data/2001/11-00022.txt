@@ -1,0 +1,75 @@
+From GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE  Thu Nov 15 17:29:17 2001
+From: GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE (GRUENENDAHL)
+Date: Thu, 15 Nov 01 17:29:17 +0000
+Subject: Notes on GRETIL
+Message-ID: <161227069924.23782.16093043117565769175.generated@prod2.harmonylists.io>
+
+Dear list members,
+
+please note that the Goettingen Register of Electronic Texts in
+Indian Languages (GRETIL) now registers c. 100 e-texts in
+Tamil:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Tamil
+
+This includes most e-texts of the "Project Madurai" provided in
+TSCII (Tamil Script Code for Information Interchange) encoding.
+The only alternative encoding I can presently offer for these
+texts is CSX (Classical Sanskrit eXtended) because the earlier
+version of Ronald E. Emmericks encoding ("REE"), the GRETIL default,
+does not include diacritics for Dravidian languages.
+
+As stated in my introduction, I had intended to confine GRETIL
+to e-texts in encodings based on Latin script, at least for a start.
+These encodings can be swapped with relative ease, once
+"diacritics" have been determined. However, converting encodings
+based on Indian scripts, especially for Dravidian languages, is an
+entirely different matter, as a look at a random TSCII file will
+show:
+http://www.tamil.net/projectmadurai/pub/pm0009/tirmdr3.tsc
+
+Now, in view of some comments I saw fit to get this problem out
+of the way as soon as possible. Dravidists are called upon to
+suggest further additions.
+
+As stated in the introduction, GRETIL is "cumulative" and
+"under construction" - this probably being a permanent state.
+Basically, I follow the categories of the GRETIL index from top
+to bottom. That's why some categories towards the end of the list
+still look quite empty.
+
+If you have any suggestions or additions, please let me know.
+
+Thanks to Jean-Luc Chevillard, Harunaga Isaacson and Birgit Kellner
+for their contributions.
+
+
+Best regards
+
+R. Gruenendahl
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+37070 Goettingen
+Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+*********************************************************************
+
+
+
+

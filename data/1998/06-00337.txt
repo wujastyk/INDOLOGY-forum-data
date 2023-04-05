@@ -1,0 +1,65 @@
+From bhk at HD1.VSNL.NET.IN  Sun Jun 21 18:08:54 1998
+From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
+Date: Sun, 21 Jun 98 23:08:54 +0500
+Subject: Retroflex sounds
+Message-ID: <161227040143.23782.6168262673158697798.generated@prod2.harmonylists.io>
+
+At 11:04 21/06/98 -0400, you wrote:
+>The Australian example has been mentioned. Well, unfortunately, their
+>retroflexes are not that old either:
+>
+>A. Capell, The history of Australian languages: A first approach,  in:
+>S.A. Wurm, Australian linguistic studies, Australian National University
+>1979,  p. 435, 437 regards them as secondary, derived from  *r+ cons.
+>
+>(just as some presuppose for parallel developments in IA and Dravidian).
+>
+>
+>NB could the Drav. scholars on the list please provide some recent
+>information on this problem?
+>
+>
+>Bh.Krishnamurti wrote (june 21):
+>
+>.>>>.. Dravidian had both *_t and *.t basically in
+>a large no of morphmes. It is true that in sandhi also _t and .t develop
+>from l+t, and .l+t. <<<
+>
+>You you please elaborate on this and the preceding question? What do Drav.
+>specialists think, these days, about the age of this sandhi effect and
+>about the age of Drav. retroflexes in general?
+>
+>
+>
+>===========================================================================
+>Michael Witzel                       witzel at fas.harvard.edu
+
+I forgot to mention. Drav retroflexes are as old as PD, maybe 3000 BCE. The
+PD phonemes are: p t _t .t c k, m n .n ~n, l .l, r .z, w y H (a laryngeal)=
+17 consonants; i e a o u (long and short)= 10 vowels. Alveolars and
+retroflexes do not occur word initially. This distributional characteristic
+is partly reflected in IA also, e.g no initial .n, .l, and .s. Through sound
+change, initial  *_t (=*_r) .t, .d, l, *.l, *.z occur word initially in
+South Central Drav languages. PD has contrastive minimal pairs for:
+
+Initial: t-
+Medial: t : _t : .t
+also:   tt : _t_t; .t.t
+post-nasal : nt: n_t: .n.t
+             ntt: n_t_t: .n.t.t
+Finally : no obstruent occurs; only sonorants occur
+
+Alveolar and retroflex stops have the same distribution as the other
+obstruents except that they do not occur word-initially.
+
+There is no evidence to derive the alveolars and retroflexes as secondary
+phonemes.
+Bh.Krishnamurti
+H.No. 12-13-1233, "Bhaarati"
+Street 9, Tarnaka
+Hyderabad 500017
+Telephone:40-7019665
+
+
+
+

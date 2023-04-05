@@ -1,0 +1,142 @@
+From palaniappa at AOL.COM  Tue Nov 20 01:29:01 2012
+From: palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Mon, 19 Nov 12 20:29:01 -0500
+Subject: old tamil
+Message-ID: <161227098050.23782.3362227161070727847.generated@prod2.harmonylists.io>
+
+
+
+Dear JLC,
+
+
+
+
+
+Thanks for pointing out the Tirumu?aika??apur??am (TMKP) usage. In this case, it refers to a specific pa? (melody) and not a pa? in general. If we assume the author of TMKP was Um?pati Civam, then he was a contemporary of Nacci??rkki?iyar (14th century) whose commentary I referred to in my post. We do not know who influenced whom or if both were just following somebody else. In any case, it is Nacci??rkki?iyar who makes the explicit equivalence of CT k?maram and the specific pa? C?k?maram as found in the 14th century usage. Nacci??rkki?iyar's interpretation has been the basis for interpreting the occurrence of k?maram in the T?v?ram also as a specific melody, which is really not warranted. 
+
+
+Now check what VMS says with respect to Tev. 6.28.4 
+????????? ?????????????? (??????)
+
+will be wandering singing melody-types.
+[[?????? - ????????; ?????????; ?? ; i.e. poetic licence which consists in the shortening of a word by one or more letters at the beginning; the name of particular melody-type is used to denote all melody-types.]]
+
+
+Now look at 4:78.9
+?????? ??????? ???????
+
+I have not learnt musical compositions
+[[?????? may also mean ???????? one of the melody-types]]
+
+
+
+Now look at Tev. 4.79.5
+
+?????? ?????????????
+I have not learnt music (cf. verse of previous decade).
+
+
+In all three instances, the meaning is a general one and not a specific melody.
+
+
+The interpretation of k?maram as derived from C?k?maram is not really warranted. Cik?maram pa? (considered by many as equivalent to the r?ga N?dan?makriy?) has nothing extraordinary going for it to be generalized as a signifier for pa?s in general. It is not the basic scale of Tamil music. It is not even a scale with seven notes. Unfortunately, this equivalence of k?maram with C?k?maram has been uncritically accepted by many including the late musicologist, V.P.K. Sundaram who considered it to be equivalent to ?uddha Dhany?si. (If Sundaram had really looked at the usage of k?maram, which he described as  a melody that expresses passionate love, he would have noted that according to Kampa? (6.36.158) R?va?a got his sword from ?iva after he sang k?maram. This refers to the episode when he tried to lift Kail??a and  ?iva punished him by pressing down his toe. R?va?a pleaded for mercy singing with the guts of his hand as strings.) If one were to accept the k?maram-C?k?maram equivalence, going by the use of k?maram in Tamil texts, one would think that it represented the ideal mellifluous speech of women, melody sung by ?iva, the music made by bees, melody played by lutes, etc. 
+
+
+
+As for the use of the word 'silly', I am sorry it upset you. But it will make sense if one imagines a Carnatic vocal music concert in which the musician is doing a r?ga improvisation  in Kaly??i. If one tells the connoisseurs in the audience that the singer is singing ?r?r?ga wonderfully (na???ka ir?kam p??uki??r vs. na???ka ?r?r?kam p??uki??r), one can only imagine how one will be treated by them. It is in this sense, K??i-C?k??i pair is not an appropriate analogue to k?maram-C?k?maram pair, although many think so and superficially it seems to be so. I guess Umapati Civam's use underlines the separation between the non-music and music traditions of Tamil by the 14th century, even though he was dealing with a musical situation in his text. But then the story itself is about the loss of the T?v?ram musical tradition and the hymns being re-set to music by a P??ar woman. 
+
+
+Regards,
+Palaniappan
+
+
+
+
+-----Original Message-----
+From: Jean-Luc Chevillard <jean-luc.chevillard at univ-paris-diderot.fr>
+To: INDOLOGY <INDOLOGY at liverpool.ac.uk>
+Cc: palaniappa <palaniappa at aol.com>
+Sent: Sun, Nov 18, 2012 8:55 pm
+Subject: Re: [INDOLOGY] old tamil
+
+
+Dear  SP,
+
+you write
+
+
+<QUOTE SP>
+
+"This interpretation of /k?maram/ as /c?k?maram/ is as silly as
+  equating the word /r?ga/ with /?r?r?ga/, a specific melody, and 
+reflects these commentators' ignorance of epigraphic evidence of the use 
+of the word /k?maram/.
+
+</QUOTE SP>
+
+How would you comment on the use of K?maram
+in the Tirumu?aika??apur??am?
+in this verse:
+
+????????? ??????? ??????????? ??????????? /
+?????? ???????? ???????? ??????????????? /
+??????? ??????????? ??????????? ???????? /
+???????? ?????????? ????????? ?????????? (42)
+
+o???ku? k?nt?ra pa?camattuk k?rira???m /
+na????a c?rna??a p??aikku navi??uraikkil /
+ku???ta pu?an?rmaik kira???ku? k??umicai /
+o???kak k?marattuk ko???kap p???i??r (42)
+
+
+This is part of the enumeration where ka??a?ai-s are attributed to the 
+various pa?-?
+
+See the translation by Karen Pechilis Prentiss
+in the /International Journal of Hindu Studies 5, 1 (April 2001)
+where this verse is translated on pp. 40-41.
+
+See also the pages 212-213 inside the 1947 book /Y?? N?l/
+by Vipul?nanta Cuv?mika?
+(published by the Karantai Tami? Ca?kam).
+where he reproduces a section of
+Tirumu?aika??apur??am.
+
+He later discusses two ka??a?ai-s for c?k?maram
+on p. 235-236.
+
+That seems to mean that Vipul?nanta Cuv?mika?
+accepts the equation between "c?k?maram"
+and "k?maram".
+
+(is this not parallel to the fact that the same place can be referred to 
+as K??i and as C?k??i?)
+
+I suppose that means that all of that is open for discussion.
+
+I would like to comment that usings words such as "silly" and 
+"parroting" does not belong in an academic discussion. These words are 
+unnecessarily aggressive or insulting. :-(
+
+It is enough to say that one disagrees with other people's interpretations.
+
+Thanks for the many interesting insights which your post contains
+
+-- Jean-Luc Chevillard (CNRS, UMR 7597)
+  (currently in Pondicherry, at the EFEO center)
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20121119/4267306f/attachment.htm>
+

@@ -1,0 +1,67 @@
+>From the announcement file:
+
+        What's new in release 3.7?
+        Actually babel 3.7 is very much like the later releases of
+        babel 3.6 (from 3.6k onwards). The concept of language
+        attributes is new in this release. And support for a number of
+        languages has been added. Here is a list of the changes since
+        babel 3.6j:
+        - Shorthands are expandable again. The disadvantage is that
+          one has to type '{}a when the acute accent is used as a
+          shorthand character. The advantage is that a number of other
+          problems (such as the breaking of ligatures, etc.) have
+          vanished.
+        - Two new commands, \shorthandon and \shorthandoff have
+          been introduced to enable to temporarliy witch off one or more
+          shorthands.
+        - Support for typesetting Sanskrit in transliteration will
+          be made available in a later release of babel 3.7.
+        - Support for typesetting Kannada, Devnagari and Tamil will
+          be made available in a later release of babel 3.7.
+        - Support for typesetting Greek has been enhaced. Code from
+          the kdgreek package (suggested by the author) was added
+          and \greeknumeral has been added.
+        - A language attribute has been added to the \mark...
+          commands in order to make sure that a greek header line comes
+          out right on the last page before a language switch.
+        - Support for typesetting Basque is now available thanks to
+          Juan Aguirregabiria.
+        - Support for typesetting Serbian with latin script is now
+          available thanks to Dejan Muhamedagi'c and Jankovic
+          Slobodan.
+        - Support for typesetting Hebrew (and potential support for
+          typesetting other rigth-to-left written languages) is now
+          available thanks to Rama Porrat and Boris Lavva.
+        - Hyphenation pattern files are now read inside a
+          group; therefore any changes a pattern file needs to make to
+          lowercase codes, uppercase codes and category codes are kept
+          local to that group. If they are needed for the language, these
+          changes will need to repeated and stored in \extras...
+        - Support for typesetting Latin is now available, thanks to
+          Krzysztof Konrad .Zelechowski.
+        - The concept of language attributes is introduced. It is
+          intended to be used for giving the user some control over the
+          use of the features a language definition file provides. It's
+          first uses are for the Greek language, where the user can select
+          to use the \pi o\lambda\upsilon\tau o\nu\kappa\acute{o}
+          (``Polutoniko'' or multiaccented) Greek way of typesetting
+          texts, and for the Latin language where both modern and
+          medieval Latin are supported.
+          These attributes wil possibly find wider use in future
+          releases.
+
+
+Reinhard Zierke
+for the CTAN team
+
+***************************************************************
+
+--
+------------------------ Richard Mahoney -------------------------
+78 Jeffreys Rd                                      +64-3-351-5831
+Christchurch                                           New Zealand
+--------------- mailto:rbm49 at csc.canterbury.ac.nz ----------------
+
+
+
+

@@ -1,0 +1,66 @@
+From yanom at CC.KYOTO-SU.AC.JP  Thu Dec  1 01:54:49 2005
+From: yanom at CC.KYOTO-SU.AC.JP (Michio Yano)
+Date: Thu, 01 Dec 05 10:54:49 +0900
+Subject: Decoding date in Sanskrit verse
+Message-ID: <161227077165.23782.5503445702977570828.generated@prod2.harmonylists.io>
+
+Dear List,
+
+>Sake gajatrimunibhUmimite tu varshe rAmAdrinAgaSaSacihnamite tapasye
+>pakshe site sutaSaSAnkatithau jnavAre vyAkhyA samAptimagamadvibudhaikavandyA 
+
+The date is interpreted as:
+
+Year: Zaka 1738, Vikrama 1873
+Month: Tapasya = PhaalguNa
+PakSa: ZuklapakSa
+Tithi: sutaZaZAnka ??
+Vaara: Wednesday
+
+Only tithi gives problem.
+According to my pancanga program the date falls in the half month listed below.
+Wednesday is either tritiiya or dazamii.
+If the tithi is given in two digits we have to interpret it as dazamii (10).  
+Now I wonder whether suta can mean zero.
+
+
+ ==============================================================================
+1817  2 17 Mon|Saka 1738|V.S.1873        Phalguna   Suklapaksa  1 Satabhisaj
+ ==============================================================================
+1817  2 18 Tue|Saka 1738|V.S.1873        Phalguna   Suklapaksa  2 P-bhadrapada
+ ==============================================================================
+1817  2 19 Wed|Saka 1738|V.S.1873        Phalguna   Suklapaksa  3 U-bhadrapada
+ ==============================================================================
+1817  2 20 Thu|Saka 1738|V.S.1873        Phalguna   Suklapaksa  4 Revati
+ ==============================================================================
+1817  2 21 Fri|Saka 1738|V.S.1873        Phalguna   Suklapaksa  5 Asvini
+ ==============================================================================
+1817  2 22 Sat|Saka 1738|V.S.1873        Phalguna   Suklapaksa  6 Bharani
+ ==============================================================================
+1817  2 23 Sun|Saka 1738|V.S.1873        Phalguna   Suklapaksa  7 Krttika
+ ==============================================================================
+1817  2 24 Mon|Saka 1738|V.S.1873        Phalguna   Suklapaksa  8 Rohini
+ ==============================================================================
+1817  2 25 Tue|Saka 1738|V.S.1873        Phalguna   Suklapaksa  9 Mrgasira
+ ==============================================================================
+1817  2 26 Wed|Saka 1738|V.S.1873        Phalguna   Suklapaksa 10 Ardra
+ ==============================================================================
+1817  2 27 Thu|Saka 1738|V.S.1873        Phalguna   Suklapaksa 11 Punarvasu
+ ==============================================================================
+1817  2 28 Fri|Saka 1738|V.S.1873        Phalguna   Suklapaksa 12 Pusya
+ ==============================================================================
+1817  3  1 Sat|Saka 1738|V.S.1873        Phalguna   Suklapaksa 13 Aslesa
+ ==============================================================================
+1817  3  2 Sun|Saka 1738|V.S.1873        Phalguna   Suklapaksa 14 Magha
+ ==============================================================================
+1817  3  3 Mon|Saka 1738|V.S.1873        Phalguna   Suklapaksa 15 P-phalguni
+ ==============================================================================
+
+
+Michio Yano
+yanom at cc.kyoto-su.ac.jp
+http://www.kyoto-su.ac.jp/~yanom/
+
+
+
+

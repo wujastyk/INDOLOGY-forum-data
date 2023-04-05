@@ -1,0 +1,53 @@
+From ucgadkw at ucl.ac.uk  Fri Sep 22 15:04:06 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Fri, 22 Sep 95 15:04:06 +0000
+Subject: SOFTWARE FOR DEVANAGARI AND ROMANIZED SANSKRIT
+Message-ID: <161227020945.23782.13149374374505160045.generated@prod2.harmonylists.io>
+
+pgm said:
+> 
+> 
+> I'm sure this is well-worn territory on this list, but on the
+> other hand computer software changes so rapidly that one season's
+> recommendations may not apply when the same old questions get
+> asked in the next.
+> 
+> My question is about the availability of Windows or DOS-based
+> software for sanskrit text. In particular are there programs
+> which convert devanagari to romanized (though probably not
+> vice versa)?  Basically, however, I would much appreciate
+> hearing from anybody with strong recommendations for a
+> particular package.
+
+There is quite a lot of relevant stuff available via the INDOLOGY web
+page or gopher.  Try
+        http://www.ucl.ac.uk/~ucgadkw/indology.html,
+or just ftp to
+        ftp.bcc.ac.uk:/pub/users/ucgadkw/indology
+where you will find directories /software and /texts.  The first has
+some nice CSX-compliant roman fonts in both truetype and postscript
+versions.
+
+Dominik
+
+
+--
+
+Dominik Wujastyk,
+Wellcome Institute,
+183 Euston Road,
+London NW1 2BE.
+
+FAX: +44 171 611 8545
+email: d.wujastyk at ucl.ac.uk
+
+For my PGP public key etc., see my WWW home page:
+http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
+
+
+ 
+
+
+
+
+

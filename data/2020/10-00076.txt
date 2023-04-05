@@ -1,0 +1,150 @@
+From LubinT at wlu.edu  Wed Oct 14 23:50:43 2020
+From: LubinT at wlu.edu (Lubin, Tim)
+Date: Wed, 14 Oct 20 23:50:43 +0000
+Subject: [INDOLOGY] Six calamities
+In-Reply-To: <4879F211-E1EA-4C71-9089-B8603AAB87A5@wlu.edu>
+Message-ID: <633FE0EE-043C-42BF-919A-A85DAF0CA653@wlu.edu>
+
+Dear all,
+
+A quick follow-up note with a couple of typos corrected in the passages I cited (for those who care, see below) plus some further references to Sanskrit sources from Ludwig Sternbach, Juridical Studies in Ancient Indian Law, Part I (MLBD, 1965), pp. 55?58:
+
+9  Vis Major
+A. There existed praesumptio juris ac de jure that the depositary
+was always responsible for the loss, destruction, or damage
+of the object deposited i.e., that he did not exercise the diligentia
+quam suis rebus. Only if the loss, destruction, or damage were
+caused by vis major this praesumptio had not to be applied. This
+is clear from K?ty (593) wher[e] we read:
+
+nik?iptam yasya yat ki?cit tat prayatnena p?layet,
+daiva-r?ja-k?t?d anyo vin??as tasya k?rtyate
+
+(Also quoted in SC 179, VyPr 282, VyS 87)
+The non-responsibility on the part of the depositary in
+case of loss, destruction, or damage of the object deposited
+caused by vis major was very clearly regulated in Y (2.66).
+We read there na d?pyo 'pah?ta? ta? tu r?ja-daivika-taskarai?
+(Also quoted m ViR ad Y 2.68, SC 179, VRK 88,
+NrP 24, SV 266, VyPr 281, VyU 80, VyM 85, VT 558,
+VyS 87, AP 254.26)
+We find here the most typical examples of vis major, i.e.
+the act of king (r?j?), the act of God destiny, fate (daiva, deva),
+and the act of thieves ( taskara). Every plundering, by the
+forces of a king (foreign king), etc.?was an act of king, every
+cataclysm (caused by water, fire, etc.)?was an act of God,
+and every loss caused by the act of men (robbers, thieves)?
+as an act of thieves.
+Some sources of law, such as N (II.9), Brh (XII.10)
+and Katy, (593/4 ), enumerate as vis major r?jadaiva only,
+others, such as Mn (VIII.189) and almost identically N (XII.12)
+mention stealing by thieves (caura), destruction of
+things by water (jala) or burning by fire (agni). Certainly
+this, rather casuistic, enumeration, is Identical with that quoted
+above. The most casuistic enumeration of vis major is
+found in K ( 177/ 13?17) were we read "Whenever forts,
+or country parts are destroyed by enemies, or wild tribes,
+whenever villagers, merchants, 01 herds of cattle are subjected
+to the inroads of invaders, whenever the kingdom Itself is destroyed,
+whenever extensive fires or floods bring about entire
+destruction of v1llages or partly destroy Immovable properties,
+movable properties having been rescued before, whenever
+the spread of fire, or rush of floods is so sudden that even movable
+properties could not be removed, or whenever a ship
+laden with commodities is either sunk or plundered (by
+pirates), deposits lost in any of the above ways shall not be
+reclaimed.? In reality it was not a casuistic enumeration
+of cases of vis major, but rather an interpretation of r?jadaiva.   [etc.]
+
+Best,
+Tim
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of INDOLOGY <indology at list.indology.info>
+Reply-To: "Lubin, Tim" <LubinT at wlu.edu>
+Date: Wednesday, October 14, 2020 at 6:42 PM
+To: Johannes Bronkhorst <johannes.bronkhorst at unil.ch>, Madhav Deshpande <mmdesh at umich.edu>
+Cc: INDOLOGY <indology at list.indology.info>
+Subject: Re: [INDOLOGY] Six calamities
+
+Dear Madhav, Johannes, et al.
+
+Fire is indeed included (alongside flood/water) as a disaster or (from the point of view of property loss) an ?act of God? or ?force majeure.?   Thus the Artha??stra 4.3.1?2: [1] daiv?ny a??au mah?bhay?ni: agnir udaka? vy?dhir durbhik?a? m??ik? vy?l?? sarp? rak???si, iti.  [2] tebhyo janapada? rak?et.
+?1. There are eight great dangers arising from fate: fire, water, disease, famine, rats, vicious animals, snakes, and demons. 2 He [the king? or his Collector (sam?hart?]?] should protect the countryside from these.? (trans. Olivelle 2013: 228; see his note on p. 629).?
+I seem to recall similar lists in the N?ti literature, though I cannot lay my hand on a particular passage at the moment.
+
+But this sort of list has been received in the Javanese tradition.  For example, a manuscript entitled A???da?a Vyavah?ra (Perpustakaan Nasional, Jakarta, L. 882) quotes a Sanskrit stanza:
+
+de?abha?gabh?y?t tyakta? kr?ta? [read: hr?ta?] taskarap?rthivai[?] |
+agnidagdha? jalanoda? pa?casadara?a? smr?ta? || ff. 2v2?3  [read: ? pa?cas?dh?ra?a??]
+What is abandoned from fear of destruction of the country, what is seized by thief or prince, what is burnt by fire, [or] what is carried off by water ? this is known as ?the five common [perils].?
+This is glossed in Old Javanese prose (ff. 2v3?3r1):
+ka[li?anya], dr?vya ika? sa?ke? rundahni? de?a, kanimitan pra? kati?gal ika? de?adr?vya, tinitipak?n salviranya, pa?u kuna?, dr?vya pinet i? task?ra mali?, dr?vya pinet de sa? prabh?, katunv i? ap?y, dr?vya keli ri? ve, kah?l?m kuna?, ika ta sahacihna, tan yogya kat?mpuhan? ri? pana?gapi, titipan kal?bu ri? pa?casadhara?a, ?a[ranya].
+This means: Property that, on account of disorder in the locality, because of war, is abandoned, property of the locality of all types that is placed in trust, or cattle; property taken by a robber [or] thief, property taken by the king, [property] burnt by fire, property carried off by water or sunken ? for things with these characteristics the receiver should not be liable; it is called ?a deposit sunk in the five common [perils].?
+
+This classification gets applied in Old Javanese prose format to entrusted goods at various points in the famous lawbook (14th c.-ish?) edited by Jonker (1885):
+
+Ku??ra M?nava 8 :
+d?ve titipan, yen pinet denira sa? amava bh?mi, yen colo??n deni? mali?, yen bahak?n deni? vo?, yen katunon, yen keliya ri? ba?u, yen hila?a katahurag deni? gu?i? pra?, tan v?na? iku palakun?n denika? atitip, apan kapa?cas?dh?ra?a arane.
+[In the case of] property that has been put on deposit ? if it is taken by the ruler, if it be stolen by a thief, if it be robbed by someone, if it is burnt up (katunon) [or] if it be carried away by water, if it disappear by being scattered in the heat of war ? if the depositor asks for it back, he or she has no entitlement [to it], for these are known as ?the five common [perils]?
+
+KM 211: ri? titipan kati?gal, ak?ra?a deni? de?a rusak binabak deni? vo?, geger deni? ratu apra? pa?a ratu, i?alap i? mali?, katunon , keli ri? ba?u, tan pa??lenana ka? tinitipan yen ma?kana, pan kapa?cas?dh?ra?a arane, li?ira sa? pa??ita vruh i? ?gama.
+Regarding a deposit abandoned because of a village destroyed [and] plundered by men, [lost] in tumult on account of a king at war with kings, taken by a thief, burnt up, carried off by water, what was deposited need not be replaced if it is so, for these are known as ?the five common [perils]? according to scholars knowledgeable in scripture.
+
+Likewise KM 95.  Cf. K?ty?yana Sm?ti 178, 601 and B?haspati Sm. 11.4 for other Sanskrit parallels.
+
+Best,
+Tim
+
+
+Timothy Lubin
+Jessie Ball duPont Professor of Religion and Adjunct Professor of Law
+204 Tucker Hall
+Washington and Lee University
+Lexington, Virginia 24450
+American Council of Learned Societies fellow, 2020?21
+National Endowment for the Humanities fellow, 2020?21
+https://lubin.academic.wlu.edu/<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flubin.academic.wlu.edu%2F&data=02%7C01%7CLubinT%40wlu.edu%7C2e1fda046b9a47a55d0308d870926c1e%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637383121466704518&sdata=BcP0Ec2JnizFhdyu1Z%2BBNxyhkqNAHDzhe7iHi74b%2FeQ%3D&reserved=0>
+http://wlu.academia.edu/TimothyLubin<https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwlu.academia.edu%2FTimothyLubin&data=02%7C01%7CLubinT%40wlu.edu%7C2e1fda046b9a47a55d0308d870926c1e%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637383121466714479&sdata=LMNl9z6G1VnkZo9EbKCczFRnEhUUIoIZbMhk2IogQr8%3D&reserved=0>
+https://ssrn.com/author=930949<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fssrn.com%2Fauthor%3D930949&data=02%7C01%7CLubinT%40wlu.edu%7C2e1fda046b9a47a55d0308d870926c1e%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637383121466714479&sdata=MI7ddtlIVUfXl3fARzDvZyXMw3PMpfs2DV3aDT9U8GA%3D&reserved=0>
+https://dharma.hypotheses.org/people/lubin-timothy<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdharma.hypotheses.org%2Fpeople%2Flubin-timothy&data=02%7C01%7CLubinT%40wlu.edu%7C2e1fda046b9a47a55d0308d870926c1e%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637383121466724433&sdata=9fbHOUI%2B3HPP1%2BaGOXVb2kVXKiPSEMir9TK4bwIIQlA%3D&reserved=0>
+
+
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of INDOLOGY <indology at list.indology.info>
+Reply-To: Johannes Bronkhorst <johannes.bronkhorst at unil.ch>
+Date: Wednesday, October 14, 2020 at 3:09 PM
+To: Madhav Deshpande <mmdesh at umich.edu>
+Cc: INDOLOGY <indology at list.indology.info>
+Subject: Re: [INDOLOGY] Six calamities
+
+I raise a similar question about the sparsity of epidemics in early literature, in ?Plagues and Brahmins? (Zysk felicitation volume, Brill 2021; has just come out).
+
+Johannes Bronkhorst
+
+
+
+On 14 Oct 2020, at 19:58, Madhav Deshpande via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Having experienced terrifying wildfires in California, I wonder why this list of ???s did not include something like ??????.  Were such wildfires not that common in ancient India?
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+
+[Residence: Campbell, California, USA]
+
+
+On Wed, Oct 14, 2020 at 9:47 AM Christophe Vielle via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Thank you much, dear Peter, for the reference.
+Now I can add the following article  by F. Wilhelm in IT, precisely on the topic ("Calamities - a dharma problem?) :
+http://www.asiainstitutetorino.it/Indologica/volumes/vol23-24/vol23-24_art38_WILHELM.pdf<https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.asiainstitutetorino.it%2FIndologica%2Fvolumes%2Fvol23-24%2Fvol23-24_art38_WILHELM.pdf&data=02%7C01%7CLubinT%40wlu.edu%7C2e1fda046b9a47a55d0308d870926c1e%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637383121466724433&sdata=ugg%2FnwHegr0x%2BkpEiBtLrmgGW13cZjY6muuyTkXKATg%3D&reserved=0>
+Anyway, the ?loka below (also quoted in a commentary to the final stanza of M?lavik?gnimitra, according to Wilhelm) must be earlier than its occurrence in the K?tyakalpataru and V?ramitrodaya digests.
+bw
+Christophe
+
+Le 14 oct. 2020 ? 12:05, Peter Wyzlic via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> a ?crit :
+
+Am 14.10.2020 um 11:42 schrieb Christophe Vielle via INDOLOGY:
+
+

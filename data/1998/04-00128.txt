@@ -1,0 +1,33 @@
+From ucgadkw at UCL.AC.UK  Wed Apr  8 14:21:11 1998
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 08 Apr 98 15:21:11 +0100
+Subject: Vaishesikasutra E-text
+In-Reply-To: <l03130300b14841ca3156@[141.218.154.129]>
+Message-ID: <161227037556.23782.9835134143378455015.generated@prod2.harmonylists.io>
+
+On Wed, 1 Apr 1998, jonathan silk wrote:
+
+> Perhaps I misunderstood this, but I downloaded the Vaishesikasutra E-text
+> and tried to read it with a CSX font, without success (I mean it was
+> garbled). Is a CS font different from a CSX font?
+
+I set Netscape to use a CSX PS font (options, general preferences, fonts),
+and pointed it at the VS, and the text came up with all the proper
+diacritics etc.
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
+Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
+  the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
+Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
+London NW1 2BE, England.
+
+First Rule of History:
+  History doesn't repeat itself -- historians merely repeat each other.
+
+
+
+

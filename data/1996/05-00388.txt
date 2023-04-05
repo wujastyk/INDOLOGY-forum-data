@@ -1,0 +1,78 @@
+From ucgadkw at ucl.ac.uk  Wed May 29 16:10:03 1996
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 29 May 96 16:10:03 +0000
+Subject: Old Tamil grammar (fwd)
+Message-ID: <161227024862.23782.17335710482259102885.generated@prod2.harmonylists.io>
+
+If you are able to help with the following query, please respond to the
+sender directly, since I don't think he is a member of INDOLOGY.
+DW.
+
+---------- Forwarded message ----------
+Date: Wed, 15 May 1996 10:59:09 +1000
+From: Peter White <pwhite at opennet.net.au>
+To: D.Wujastyk at ucl.ac.uk
+Subject: Old Tamil grammar
+
+
+
+I am conducting a net search for a teacher colleague regarding some old
+tamil grammar. Please reply through this address or personally to Paul
+Modini Locked bag 88 Strawberryhills NSW 2012.
+
+"To specialists in Old Tamil linguistics and literature: request for information
+
+I seek information as to the syntactic role played by two forms of a
+pronominal/adverbial nature in Old Tamil.  I am interested in making a
+comparison between either of these forms and a certain particle which seems
+to function pronominally in Old Korean and Old Japanese.
+
+I am interested in knowing whether *i*n in Ai*nku*run*u*ru 401-5 and *itu
+in Na*r*ri*nai 323-11, Kalittokai 61-9 and 82-23 and Pu*ran*a*n*u*ru 208-3
+(these five being the only "pronominal"/"adverbial" examples) occur in
+constructions which can be interpreted, like i constructions in OK and OJ,
+as appositional constructions.
+
+(1) illustrates the OK construction with i:
+
+(1)     han   put'y*odu  k*urat  hasyan                i
+        all      buddhas     thus     do (PERF ATT)  PRN
+        'all the buddhas who have done thus'.
+
+On my analysis, i in (1) stands for put'y*odu, and is used instead of a
+second mention of put'y*odu.   As far as OJ is concerned, I have
+reconstructed the following (the asterisk indicates that the construction
+is not actually attested):
+
+(2)     *ma          no      hana      matsu              i             ni
+          interval ATT   flower   wait (ATT)     PRN      in
+          'in the interval (i.e. while) I wait for the flowers'.
+
+Here, on my analysis, i stands for ma, and is used instead of a second ma.
+
+Constructions (1) and (2) may be represented in a unified way as: (NPj ...
+prnj)NP, where the identical subscripts are used to indicate an anaphoric
+relation between the NP and the pronoun i.
+
+[For the purpose of electronic production using Microsoft, and in order to
+use underlining for the purpose of citing linguistic forms (in accordance
+with ordinary usage), in romanising Tamil words I have had to modify
+somewhat drastically the Madras University Tamil Lexicon system: in place
+of the diacritics an asterisk is used before the letter in question.
+Similarly, the system of romanisation used for the Korean example is that
+of the source, except that, for the purpose of electronic production using
+Microsoft, an asterisk is used, before the letter in question, in place of
+the McCune-Reischauer system's breve mark. Thus an asterisk has another
+function here than the usual ones of indicating an ungrammatical form or a
+reconstructed form.]
+Kindest regards
+peter
+
+
+
+
+
+
+
+
+

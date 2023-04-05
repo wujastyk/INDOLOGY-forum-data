@@ -1,0 +1,52 @@
+From mmdesh at UMICH.EDU  Mon Nov 29 23:54:10 2004
+From: mmdesh at UMICH.EDU (Madhav Deshpande)
+Date: Mon, 29 Nov 04 18:54:10 -0500
+Subject: THANKS FOR THE HELP:  installing fonts on Mac OS 10.3.6
+Message-ID: <161227075455.23782.18291904080098891561.generated@prod2.harmonylists.io>
+
+Dear Indologists,
+
+     Eureka! Eureka!!  It finally worked.  I want to thank everyone who sent in instructions on how to install fonts and especially the keyboards on Mac OS X.  The keyboards proved to be a major headache.  Evidently, as soon as copied my old keyboards to the desktop of the OS X, it could not read their contents, and converted them into zero KB empty files.  So installing these empty keyboard layouts, even with the suffix .rsrc,  in the Library folder was having no effect.  Finally, and only by accident, I was looking at the size of these files and realized that on the OS X desktop they appeared with zero KB, while on my old OS 9 computer they showed their true size.  Then I added the .rsrc suffix to the keyboard files while they were still on the old OS 9 machine, and after connecting the two machines, I copied these files directly into the Library folder.   And it worked.   I don't have any idea why the OS X desktop was treating these files as empty files.  Some of you who may still be having this problem may find some solution in the procedure I followed.  In any case, my new 20 inch i-Mac G5 is now up and running with Madhushree and ManjushreeCSX fonts and keyboards, and I can use it for editing my old files, rather than merely watching DVDs on it.  Best wishes,
+
+Madhav Deshpande
+
+
+-----Original Message-----
+From: Indology on behalf of Hans Henrich Hock
+Sent: Fri 11/26/2004 1:35 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject:      Re: Help on installing fonts on Mac OS 10.3.5
+ 
+Double clicking the font file doesn't always work; hence my
+suggestions.
+
+Hans Henrich Hock
+
+---- Original message ----
+>Date: Wed, 24 Nov 2004 23:55:37 +0100
+>From: Kengo Harimoto <k.harimoto at LET.RUG.NL>
+>Subject: Re: Help on installing fonts on Mac OS 10.3.5
+>To: INDOLOGY at liverpool.ac.uk
+>
+>I thought the original question was more than just
+installing the font.
+>  For that, the simplest way (in 10.3) is to just
+double-click on the
+>font file :)  Font Book will open and there will be a button
+to install
+>the font.
+>
+>As for the Keyboard layout file:
+>
+>http://216.239.59.104/search?q=cache:p5Y5ACIKpxQJ:www.sandie
+go.edu/
+>theo/risa-l/archive/msg06449.html+ManjushreeCSX&hl=en
+>
+>answers exactly that question.
+>
+>--
+>kengo harimoto
+
+
+
+

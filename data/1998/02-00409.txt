@@ -1,0 +1,61 @@
+From msdbaum at MSCC.HUJI.AC.IL  Tue Feb 24 12:54:14 1998
+From: msdbaum at MSCC.HUJI.AC.IL (Daniel Baum)
+Date: Tue, 24 Feb 98 14:54:14 +0200
+Subject: CSX fonts
+Message-ID: <161227036074.23782.12668130232252395271.generated@prod2.harmonylists.io>
+
+Hello,
+
+I am trying to put together a suite of programs with which to write my
+doctoral thesis on Vedic linguistics.
+
+My computer is a Pentium II 233, and it has both Windows 95 (Hebrew version)
+and RedHat Linux 5.0.
+
+What I need to do is to use the Harvard electronic RigVeda, and the
+metrically restored version, which is in a kind of CSX coding, as well as a
+few other e-texts. I need to take examples from these and put them in a
+database, and thence into TeX, probably with Itrans, to do the actual
+writing at some time in the future.
+
+My problem is that I can't seem to find a font that works in all the
+programs I am trying to use, for whatever reason.
+
+I have tried converting all the texts to Titus coding under W95. This
+worked, up to a point. I could load the texts into a text editor, and export
+examples to the database. However on my system, for whatever reason, any
+paragraph which contains characters above ascii 224 won't print. In any case
+TeX etc. need the CSX coding, so I think this is probably not an option.
+
+Now, I have an unusual problem caused by the Hebrew Windows, in that some of
+the high characters appear as Hebrew in most programs. The exception to this
+are some simple text editors, but this probably means that I will have to
+work under Linux, which is my personal preference anyway.
+
+Under Linux, The Washington Indic fonts do not display the letter e-acute or
+a-acute, either in their Truetype or Type 1 varieties. I have checked using
+Character Map and its Linux equivalent (xfd). Xfd shows these letters to be
+actually missing, while character map under W95 shows them to be there. This
+is very bizarre, as the Truetype font is exactly the same file under both
+operating systems.
+
+What I would really like to do is use xemacs, with a hypertext extension
+called Hyperbole, and TeX. This will work very well if I can only get those
+two letters to display in the Washington font.
+
+Does anyone have any idea what is going on?
+
+Sorry for the length of this message, and thank you all very much,
+
+
+Daniel Baum,
+
+The Department of Linguistics,
+
+The Hebrew University of Jerusalem,
+
+Israel.
+
+
+
+

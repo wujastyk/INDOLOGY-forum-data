@@ -1,0 +1,85 @@
+From saf at SAFARMER.COM  Fri Aug 11 02:20:38 2000
+From: saf at SAFARMER.COM (Steve Farmer)
+Date: Thu, 10 Aug 00 19:20:38 -0700
+Subject: "Rajaram the scientist"
+Message-ID: <161227060871.23782.9379575167901976353.generated@prod2.harmonylists.io>
+
+A little expanded data on N.S. Rajaram's non-popular writings:
+
+I've pointed out that Rajaram's boasts (in the ironically titled
+"Sword of Truth" Webpage) that "For more than ten years, he was
+one of America's best-known workers in Artificial Intelligence
+and Robotics" have been *vastly* inflated. This is noteworthy
+since those claims are linked in his autobiographical profile to
+similar claims concerning his "decipherment" of Harappan -- which
+we're told is "the most important breakthrough of our time in the
+study of Indian history and culture."
+
+http://www.swordoftruth.com/swordoftruth/archives/byauthor/navaratnarajaram/articles.html
+
+Today I read all the articles ascribed to Rajaram in the two big
+AI bibliographical databases noted in earlier posts. The object
+was to doublecheck to make sure that the footnotes didn't contain
+any substantial references missed in the bibliographies. The most
+comprehensive of those databases turns out to be the "ISI Web of
+Science," which is only available via a major research libraries.
+The Collection of Computer Science Bibliographies (on the Web)
+catches one earlier paper from 1980.
+
+All but one of the papers/notes listed in those bibliographies
+were published in InTech and ISA Transactions -- two trade
+journals issued by the Instrument Society of America, with which
+Dr. Rajaram was affiliated. Rajaram's footnotes list four other
+papers/notes that don't show up in the online bibliographies. Two
+of these un-indexed papers were published in a defunct trade
+monthly, _Robotics Engineering_, which I haven't seen. Two other
+un-indexed papers refer to contract work or conference proceedings.
+
+A bio at the end of a very short InTech report from April 1986
+credits Rajaram with being the "author of 15 papers on robotics
+and AI as well as the book _Design of Expert Systems on the
+Personal Computer_." The Reference Librarian at the Stanford
+Engineering Library couldn't find a book by this title in the
+Stanford Library, combined University of California library
+systems (checked via Melvyl), the Library of Congress, or
+international research library networked database known as RLIN
+(Research Libraries Information Network) and the World Catalog
+(OCLC). (RLIN and OCLC are what they use to check for
+Interlibrary Loan.) Maybe Rajaram wrote the book but it was never
+published. Maybe it was privately printed. Unless the Engineering
+Reference Librarian and RLIN and OCLC are in error -- which I
+doubt -- the book hasn't left a trace. Someone else can check if
+they want.
+
+Another InTech bio following a one-and-a-half-page nontechnical
+story from April 1987 credits Rajaram with "over 20 articles" --
+five more than the previous year -- and says that he is writing a
+book entitled _Intelligent Manufacturing Systems_. Maybe these
+new papers were contract reports or conference proceedings, which
+would explain why they aren't indexed in the science
+bibliographies. I assume that this book was never finished (and,
+of course, that happens). In any event, like the earlier book
+title, this one doesn't show up in the Library of Congress, RLIN,
+or World Catalog (OCLC). Rajaram could have changed the title, of
+course, but no technical books under any other title are credited
+to him in the RLIN or World Catalog (OCLC) either, so far as I
+can tell.
+
+To sum up, following this more careful search: Before Rajaram
+started writing rightwing books on Indian history he *did* do
+engineering work in robotics and expert systems. His papers list
+him as being in the Dept. of Industrial Engineering at the U. of
+Houston until around 1992. But to claim that in the 80s he was
+"one of America's best-known workers in Artificial Intelligence
+and Robotics" -- putting him in a class with Sejnowski, McCarthy,
+the Churchlands, Rumelhart, McClellan, Arbib, Feldman,
+Feigenbaum, Winograd, Hinton, Munro, Jordan, Charniak, Winston,
+and other workers in that period. -- goes *WAY* over the top.
+
+Further on Rajaram's scientific ideas, refer again to:
+
+http://home.ica.net/~roymanju/Rajaram.htm
+
+
+
+

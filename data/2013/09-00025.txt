@@ -1,0 +1,38 @@
+From wujastyk at gmail.com  Wed Sep 11 14:49:26 2013
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 11 Sep 13 16:49:26 +0200
+Subject: [INDOLOGY] New Bibliography of EDMAC, LEDMAC and eLEDMAC Editions
+Message-ID: <CAKdt-CfksL=FuOJHLNbDYgsU4DKboXLWTUSDoOZWNbmg4RAHZA@mail.gmail.com>
+
+Dear friends and EDMAC, LEDMAC and eLEDMAC users,
+
+As one of the original authors of EDMAC (with John Lavagnino), I used to
+keep track of editions that had been typeset with the software.  Nowadays,
+from time to time I become aware of new EDMAC-related work going on, or a
+new book published, but I long ago lost track of the big picture.
+
+I've just created a new Zotero group, where you may make a bibliographical
+entry for a book you have typeset with EDMAC, LEDMAC, eLEDMAC or
+derivatives.  This may give your work a little added exposure, since it
+will be Googled.  It will be very nice for the community at large to see an
+ever-growing list of critical editions done with TeX.  Finally, it may
+serve as a resource for helping each other: if you are doing an eLEDMAC
+edition of a Sanskrit text, for example, you could look up other similar
+editions and either look at them for inspiration, or contact their authors
+for advice.
+
+The Zotero group is open to all, and you can add your own entries without
+formality.  The URL is:
+
+   -
+   http://www.zotero.org/groups/critical_editions_typeset_with_edmac_ledmac_and_eledmac
+
+Best wishes,
+Dominik Wujastyk
+Univ. of Vienna.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130911/4cf53244/attachment.htm>
+

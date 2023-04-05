@@ -1,0 +1,94 @@
+From aklujkar at unixg.ubc.ca  Thu Jul  1 01:20:17 1993
+From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
+Date: Wed, 30 Jun 93 18:20:17 -0700
+Subject: Indic sorting, e-texts, earthquakes
+Message-ID: <161227015959.23782.18058277223649048556.generated@prod2.harmonylists.io>
+
+        1.  A while ago there was an inquiry on the Indology network
+regarding a paper in preparation on computerized alphabetic sorting
+according to the order found in Indic scripts. Mr. Wakankar was mentioned
+as the co-author of the paper.  I do not have the paper,but I happen to
+have an address for Mr. Wakankar. Perhaps a letter to him will result in
+the acquisition of the (published or unpublished) paper. Here is the
+address:  Mr. Lakshman Shridhar Wakankar,  64 Budhwar Peth, Ganapati Chowk,
+Opposite Kaware Cold-drink House, Lakshmi Rd., Pune 411002. 
+        2. Mr. Wakankar developed a very elegant Naagarii font called
+Shridhar, mainly for the IBM-type computers.  This is one of the many
+excellent laser fonts developed in India.  The Indian fonts are costly (I
+do not have any precise recent information worth reproducing here, but I
+have seen many books and booklets beautifully  printed on the computer) and
+few users of the Indology network are likely to go for them, given the
+variety that is already available outside India.  However, as the font work
+done in India has not received the mention it deserves on the Indology
+network, I am taking this opportunity to mention it. No survey of fonts
+would be complete without taking into account the excellent work
+(especially in terms of shapes of letters) done by Indian computer
+specialists (often with equipment that was behind the times). With the
+reported vigorous entry of Apple Computers in India, we should try to
+gether as much information as possible about computer work of Indological
+significance that is being carried out in India.  
+        3. As early as 1972 I had suggested to the organizers of the first
+world Sanskrit conference that an agency which would facilitate the flow of
+Indological research work information for Indian scholars as well as for
+scholars active outside India should be set up (I had also suggested that
+the work of manuscript listing/cataloguing should be immediately switched
+to computers -- computers of the type the airlines had then begun to use.).
+There is a considerable information gap, particularly in the area of Jain
+studies and research published in the vernacular languages of India.  It
+would now be most economical to establish such an agency in the form of an
+e-mail network.  We should do everything in our power to make e-mail
+facilities available to a select Indological centres in India and request
+the centres to undertake, in return, primarily the responsibility of
+providing bibliographic (including manuscript-related) information. 
+        4. While the Sanskrit and Prakrit scholars at Indian institutions
+of higher learning have hardly caught up with the computer age (and some
+are unfortunately not even willing to consider how computers will assist
+their and their institutions' work), the Jain monk-scholars, in my
+experience, have shown a very progressive attitude. They are collaborating
+with their lay computer experts and producing many important tools of
+research. (I should perhaps be able to write more on this in a report I am
+thinking of publishing on my tours for manuscripts in India). The
+Sharadaben Chimanlal Educational Research Centre, "Darshan,  Opposite
+Ra akpur Society, Shahibag, Ahmedabad 380 004, has about 100,000 Prakrit
+gaathaas computerised , besides large sections of Jain aagama works and
+bibliographies of writings on Jainism.  It recently computer- published 3
+vol.s of Jambuvijayaji s catalogue of Patan mss. and is said to have an
+IBM-compatible program for Naagar^ sorting. Muni Jinendra-vijaya, whose
+work is guided out of Jamnagar, Saurashtra, Gujarat, is in the process of
+compiling a cumulative list of manuscripts in known or catalogued Jain
+collections. The person assisting him on the computer side is: Mr. Mahendra
+Modi, Galaxy Printers, Alankar Chambers, Dhebar Chowk, Rajkot 60 001. Mr.
+Modi was looking for a Naagari sorting program for the Macintosh and may
+have prevailed upon some computer programmer by now to develop one for him
+and for the Muni's work. 
+        5. We also had a discussion on the Indology network regarding the
+dissemination of e-texts.  While it would be convenient to have certain
+standards and uniformity in the preparation of such texts, I think, the
+most important thing is to have them in electronic format.  I personally do
+not find it as time-consuming to change them from one format to another as
+to type them into the computer.  Therefore, the important thing at this
+time is to have a list of what is available in computerized form. I myself
+have several texts (mostly concerning the grammarian-philosopher
+Bhart.r-hari) which I cannot share at present. Even the preliminary
+checking has not yet been completed, and the format is that of my font disk
+UBC INDIC 1985 or UBC INDIC 1988 (depending on when the input was done). 
+It will be extremely confusing for me to change to other formats before my
+editions of the computerized works are published. 
+        6. There was an inquiry from Irene Joshi concerning accounts and
+depictions of earthquakes. One rather well-known historical account is that
+found in the Junagadh inscription  of Rudra-daaman. I am sure Prof. Richard
+Salomon, who is at the same institution as Irene Joshi, can give precise
+bibliographic references.  It  is conventional in Buddhist accounts to
+speak of the shaking of the earth whenever a significant event in the life
+of a/the Buddha takes place. Perhaps the experts of Buddhist art can
+provide information on where such events are depicted.  A third possibility
+is isolated passages in the Raaja-tara.ngi.nii text series of Kashmir. 
+..
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,30 @@
+From JHUBBARD at smith.smith.edu  Thu Jul 22 15:21:11 1993
+From: JHUBBARD at smith.smith.edu (JHUBBARD at smith.smith.edu)
+Date: Thu, 22 Jul 93 11:21:11 -0400
+Subject: New files for ftp
+Message-ID: <161227016006.23782.13901331965304121982.generated@prod2.harmonylists.io>
+
+Are my fonts CSX?? NO, and for that reason, I would not advise anybody to
+even bother with them, unless, of course, you are a DOS WordPerfect user (
+or some similar situation). You will have to do some sort of global search
+and replace to translate to my encoding, and then you will be stuck with it
+(though I provide a macro to go from my encoding to TeX!!). I am in the
+process of preparing 3 Truetype/Adobe CS fonts, which I hope to upload soon
+. 
+
+  More from the read.me file on my encoding scheme: 
+
+ASCII LOCATIONS:    
+The locations in upper ASCII that I have used for these
+codes are a horrible hodge-podge of thought-out-in-the-past-but-
+can't-remember-the-reason-anymore, never-had-a-reason-in-the-first-place, 
+and the like. 
+
+Jamie Hubbard, Smith College
+
+ 
+
+
+
+
+

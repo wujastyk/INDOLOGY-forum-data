@@ -1,0 +1,71 @@
+From ucgadkw at UK.AC.UCL  Mon Oct 21 14:19:35 1991
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Mon, 21 Oct 91 15:19:35 +0100
+Subject: using Devanagari or transliteration
+Message-ID: <161227015152.23782.3268026524112843792.generated@prod2.harmonylists.io>
+
+
+The extraordinary advances in computer technology over the last few
+years have meant that it is now possible to do very nice Devanagari on
+most of the machines that members of this group use for writing.
+ 
+In fields like Arabic or Greek, it is de rigeur that the language
+is written in its own script.  To publish an entire Arabic text in
+transliteration would be (I am told) quite unacceptable.
+ 
+I suspect that Sanskritists are so comfortable with romanized
+texts for two reasons:
+ 
+1) The transliteration scheme set up in 1894
+by the Transliteration Committee of the Geneva Oriental Congress was
+excellent, and mostly uncontroversial (see MW's intro, p.xxx).  In
+most respects it has remained unchanged for almost a century.
+ 
+2) Since Sanskrit has always been written in the local script,
+it seemed justifiable  that European and American Sanskritists
+write the language in their own script too.
+ 
+Against this, however, one can say that Devanagari has been the
+dominant script in use for Sanskrit for several hundred years.
+While there are many Sanskrit MSS in Sarada, Bengali, Telugu
+and other scripts, they are *far* outnumbered by those in
+Devanagari (including its variants such as the script of
+Jaina scribes, Nandinagari, etc.)
+ 
+Furthermore, the vast majority of Indians find it hard to read
+extended passages of Sanskrit in romanization; for Indians,
+brought up with Devanagari as a first or second script, it
+is far more natural to read Sanskrit in that script.  I would
+go so far as to say that any author genuinely interested in
+reaching an Indian readership with Sanskrit-related writings
+should think seriously of using Devanagari.
+ 
+So, I put it to you.  Now that we can all do Devanagari relatively
+painlessly, should we make a point of changing our professional
+practice, and using Devanagari for Sanskrit, as the rule rather
+than the exception?
+ 
+I realize that this would mean making heavy demands on our
+journal and book publishers.  But a) most of us can produce
+our own high-resolution output directly from our machines,
+and b) typesetters and printers may have to drag themselves
+into the 20th century before it's over!  I know that I have
+software technology on my desk that most typesetters
+don't even know exists, but there is no reason why this should
+be so.  There are at least two commercial typesetting companies
+in Britain (probably more) founded by academics from the
+humanities/computing community to meet exactly this need.  These
+people know exactly what is available at the cutting edge of
+computer typesetting and the setting of multilingual text.  I
+expect there are such companies in the USA too.
+ 
+Opinions please!
+ 
+Dominik
+ 
+ 
+
+
+
+
+

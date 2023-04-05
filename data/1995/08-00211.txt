@@ -1,0 +1,32 @@
+From hgroover at qualitas.com  Wed Aug 23 20:39:16 1995
+From: hgroover at qualitas.com (Henry Groover)
+Date: Wed, 23 Aug 95 16:39:16 -0400
+Subject: Poverty -Reply
+Message-ID: <161227020658.23782.16010523806446386241.generated@prod2.harmonylists.io>
+
+I'm also curious about this.  I thought CSX encoding used sh for the first
+and shh for the second.  The only table I've seen for 7-bit ICSS encoding
+comes from itrans documentation by Avinash Chopde.
+
+- Henry Groover
+HGroover at Qualitas.com
+
+>>> Mani Varadarajan <mani at srirangam.esd.sgi.com> 08/23/95
+09:28pm >>>
+As an aside, since when has it become standard to use "Z" for the first
+"sha" (I forget its technical name) in  transliteration when diacritics are
+not available? It is a most confusing convention.  Why not use "S" for
+the first
+"sha" and "sh" for the second? This is what I have always done, and it
+has the advantage of not being visually jarring to the reader.
+
+Mani
+ 
+
+
+ 
+
+
+
+
+

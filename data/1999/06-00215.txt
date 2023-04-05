@@ -1,0 +1,24 @@
+From lmfosse at ONLINE.NO  Fri Jun 11 11:54:37 1999
+From: lmfosse at ONLINE.NO (Lars Martin Fosse)
+Date: Fri, 11 Jun 99 13:54:37 +0200
+Subject: CSX+ fonts & cross-platform email exchange
+Message-ID: <161227050277.23782.9090273809146895385.generated@prod2.harmonylists.io>
+
+> Also, Windows98 with Word really does not like some of the encodings (with
+> ASCII codes directly above 128); the printer often goes mad from them
+> (irregular spacing etc.).
+> Of course no sane person would use Windows - if he has the choice. It seems
+> many of us do not have.
+> Any solution?
+>
+
+Like you, I have for various reasons to use a Windows-PC, although my
+experiences with the Mac are much better when it comes to handling our kind of
+material. I have heard nice things about Linux. Have any of you had any
+experience with the use of Linux as an operating system?
+
+Lars Martin Fosse
+
+
+
+

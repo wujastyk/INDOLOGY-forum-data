@@ -1,0 +1,66 @@
+From jacob.baltuch at EURONET.BE  Fri Jul 17 21:41:28 1998
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Fri, 17 Jul 98 22:41:28 +0100
+Subject: An old question
+Message-ID: <161227040945.23782.11919498758133708143.generated@prod2.harmonylists.io>
+
+Robert Zydenbos wrote:
+
+>> Here's a simple test which you may or may not find relevant
+>> to your purpose: a language that has native speakers has
+>> an *independant* phonology.
+>
+>> Similarly for Sanskrit. People speak it with a Marathi,
+>> or a Bengali or a Kannada or some other accent. No such thing as
+>> a "Sanskrit accent" in the 20th century. (This should allow me to
+>> rephrase my question about Sanskrit in a simplistic way: Until
+>> when was there such a thing as a "Sanskrit accent"? When did
+>> Sanskrit cease to be a language with an independant phonology?)
+>
+>This is actually begging the question. The phonemics of literary
+>Dravidian languages like Telugu gand Kannada was thoroughly
+>Sanskritised, and thus they do not have a completely "independent
+>phonology". One could also ask where Marathi etc. phonology comes
+>from.
+
+That's not the "in/dependence" I had meant. I meant something quite
+circular: I understand the independence of a phonology to be that
+feature that only the phonology of a language that has native speakers
+possesses. Logically I was just saying: a good way to tell if a language
+has native speakers is to see if it has native speakers. That's because
+I was not aiming at a logically tight definition but was trying to elicit
+recognition of a something that was I thought basically clear to everyone.
+
+Ok, "test" is not so good. I should've said: "A simple way to get a feel
+for the difference between a language that has native speakers and one
+that doesn't is..."
+
+For example I might say: a good way to get a feel for what "green" is to
+look at grass. To which some will probably answer: "But how do you know
+that the grass is green?".
+
+So by that "definition" of independence the phonology of literary Kannada
+as spoken by a native speaker (assuming there is such a thing) who would
+have acquired those Sanskritized features the same way they've acquired
+any other feature of their language would be as independent of Sanskrit
+as it is of Basque.
+
+On the other hand the phonology of a language spoken as a non-native
+language by someone would be dependent on the phonology of their native
+language. That in fact could be (almost) the definition of speaking a
+language as a non-native speaker, or we would not be talking about a
+non-native speaker, but a bilingual, i.e. someone who'd have mastered
+that language, for all intents and purposes, like a native speaker.
+Almost, because there's more to mastering a language than just mastering
+its speech habits, but in fact in practice this is so difficult to acquire
+thru non-native acquisition that it can almost be taken as a test. Again,
+I agree, completely circular. In fact all "definitions" of "native speaker"
+I can come up with are either circular or too restrictive or ad hoc or
+impossible to verify effectively. In practice though, this is no problem at
+all. Everyone seems to be able to tell who is what for English, French or
+Hindi. It's only when we start talking about Latin or Sanskrit that some
+people seem to start having problems.
+
+
+
+

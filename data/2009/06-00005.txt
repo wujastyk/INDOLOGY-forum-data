@@ -1,0 +1,44 @@
+From d.wujastyk at UCL.AC.UK  Mon Jun  1 17:14:52 2009
+From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
+Date: Mon, 01 Jun 09 19:14:52 +0200
+Subject: Sanskrit IAST data entry tool
+In-Reply-To: <BAY117-W75EC50196BC750E9AFA95A5510@phx.gbl>
+Message-ID: <161227086610.23782.4886907518934805183.generated@prod2.harmonylists.io>
+
+You may find something helpful here:
+
+   http://www.ebmp.org/p_dwnlds.php
+
+On Fri, 29 May 2009, JAGANADH GOPINADHAN wrote:
+
+>
+> Dear friends
+> Which is the best tool to data entry Sanskrit text in IAST from(Unicode).
+> e.g Text with diacritics. (A????gah?daya)
+> Please provide the name of font and tool can be used to enter Devanagari text in the above given format.
+>
+>
+>
+> _____________________________________________________________________________________________________
+> JAGANADH.G
+> LINGUIST
+> HDG-LTS
+> C-DAC
+> VELAYAMBALAM
+> THIRUVANANTHAPURAM
+> P-H+91 9895420624
+> E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.com
+> http://sabdabodha.googlepages.com
+> www.malayalammorph.blogspot.com
+> www.malayalamresourceceter.org
+>
+>
+>
+>
+> _________________________________________________________________
+> Planning the weekend ? Here?s what is happening in your town.
+> http://msn.asklaila.com/events/
+
+
+
+

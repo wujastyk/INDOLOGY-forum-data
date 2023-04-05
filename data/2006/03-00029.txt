@@ -1,0 +1,43 @@
+From plamen at ORIENTALIA.ORG  Wed Mar  8 12:33:24 2006
+From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
+Date: Wed, 08 Mar 06 13:33:24 +0100
+Subject: Indian Syllogism
+Message-ID: <161227077567.23782.5305129548770043798.generated@prod2.harmonylists.io>
+
+I believe the way we arrive at the universal (and apodictic) character of the invariable concomitance (vyapti) has nothing to do with the Indian inferential mechanism, in the same way as the way we arrive at the universality of "All men are mortal" is not part of the Aristotelian syllogism. Our certitude that the major premise is true is arrived at by means of practice, experience (both ordinary and extraordinary), or authority. There is no whatsoever difference between
+
+Universal affirmative:
+
+All men are mortal
+Socrates is a man
+.:. Socrates is mortal
+
+and
+
+All dhumavan paksas are vahniman
+Parvato dhumavan
+.:. Parvato vahniman
+
+Both are perfect examples of deductive reasoning.
+
+Particular affirmative:
+
+Some mortals are men (the condition being zoon politikon)
+Socrates is a mortal (zoon politikon)
+.:. Socrates is a man
+
+and
+
+Some vahniman paksas are dhumavan (the upadhi being wet indhanam)
+Parvato vahniman (where the fuel is wet)
+.:. Parvato dhumavan
+
+Best regards,
+Plamen
+
+Indian Logic Forum - http://nyaya.darsana.org
+Nyaya Experts Registry - http://www.darsana.org/experts.html
+
+
+
+

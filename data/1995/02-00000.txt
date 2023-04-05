@@ -1,0 +1,92 @@
+From magier at columbia.edu  Wed Feb  1 12:19:28 1995
+From: magier at columbia.edu (David Magier)
+Date: Wed, 01 Feb 95 07:19:28 -0500
+Subject: indexes of periodicals
+Message-ID: <161227018350.23782.12713586670767918307.generated@prod2.harmonylists.io>
+
+Raffaele Torella suggested that it would be valuable to have a gopher
+accessible set of indexes of the contents of Indological Journals. I
+definitely agree that this would be a valuable resource. Let me 
+mention some existing resources that might partially fill this need:
+
+a) The annual print publication, The Bibliography of Asian Studies is
+an excellent source of indexing and has very strong South Asian
+content. It's main drawback has been the long delays in publication.
+Right now it seems to be getting closer to being completely up to date
+(issues for 1987 and 1988 came out recently), but the actual catch-up
+may still be years away. Meanwhile, under a hefty grant from the NEH,
+they are in the final stages of producing a cumulative edition on
+CD-ROM which would cover approx. 20 years of data in a user-friendly
+searchable form. My understanding from the publishers (The Association
+for Asian Studies) is that this product will come out probably during
+1995 (with annual cumulated updates thereafter), and will be
+inexpensive and marketed for individual scholars.
+
+b) The other major listserv that provides good scholarly info on India
+(and all of South Asia), mostly on history but with good participation
+from many other disciplines of interest to Indologists, is called
+H-ASIA. The South Asia editor of H-ASIA is Prof. Frank Conlan
+(historian from University of Washington, conlan at u.washington.edu). He
+has announced that H-ASIA will begin posting tables of contents of
+issues of a number of South Asian journals (presumably including at
+least some of great interest to Indologists), and that the number of
+journals covered in this informal fashion will depend upon the members
+of the listserv who volunteer to contribute. This service is not an
+index, of course, but as the compiler of The South Asia Gopher, which
+contains many bibliographical resources and indexes of South Asia
+material, I have volunteered to archive all the H-ASIA
+table-of-contents postings on the SAG and to make that archive into a
+keyword index. I believe this proposal is being considered by the
+H-ASIA membership. To subscribe to the H-ASIA listserv, send this
+email message via INTERNET to LISTSERV at uicvm.uic.edu:
+
+      SUB H-ASIA firstname surname school
+
+      Example:  SUB H-ASIA Chris Smith Marshall Univ.
+
+c) A large number of South Asian journals are included in the database
+of the CARL UNCOVER bibliographical index. This service, available
+free online, uses scanning to input tables of contents from something
+like 30,000 journals on all topics from all over the world. Users can
+connect to this service and conduct keyword searches to locate entries
+for particular articles, and it is even possible to purchase a
+full-text copy of many articles by entering a credit card number and
+having the article delivered to you by FAX. UNCOVER can be accessed by
+connecting by telnet to pac.carl.org, and select the service called
+PAC.
+
+d) The South Asia Gopher contains a wide variety of bibliographic
+tools and indexes to South Asian information. To connect to the SAG,
+simply gopher to: <gopher.cc.columbia.edu 71>; and then navigate down
+through the menus as follows (Be sure to use port 71):
+CLIO Plus/SELECTED TOPICS/South Asia.
+
+If you have gopher client software, use the following pointer ('bookmark'):
+	Type=1
+	Name=The South Asia Gopher
+	Host=gopher.cc.columbia.edu
+	Port=71
+	Path=1/clioplus/scholarly/SouthAsia
+
+---------OR, YOU MAY USE TELNET:
+
+Simply telnet to: <columbianet.columbia.edu>. Once connected to
+Columbianet, select the menu item marked "CLIO Plus." Within that menu,
+you'll find an item on the list labelled "SELECTED TOPICS: Internet
+Resources By Subject" Select that one, and within it you'll find the South
+Asia Gopher! 
+
+---------OR YOU MAY USE THE WORLD WIDE WEB:
+
+If you use MOSAIC or Lynx or other web-browser, use this URL: 
+     gopher://gopher.cc.columbia.edu:71/11/clioplus/scholarly/SouthAsia
+
+
+QUESTIONS, PROBLEMS or SUGGESTIONS?
+please contact David Magier                 magier at columbia.edu
+ 
+
+
+
+
+

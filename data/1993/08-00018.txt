@@ -1,0 +1,60 @@
+From ami01 at rs1.rrz.Uni-Koeln.DE  Thu Aug 19 08:08:37 1993
+From: ami01 at rs1.rrz.Uni-Koeln.DE (Thomas Malten)
+Date: Thu, 19 Aug 93 10:08:37 +0200
+Subject: None
+Message-ID: <161227016040.23782.13639247386615811649.generated@prod2.harmonylists.io>
+
+
+
+   INSTITUTE OF INDOLOGY AND TAMIL STUDIES, KOELN UNIVERSITY, GERMANY
+
+                                                             19.08.93
+
+
+
+                              ANNOUNCEMENT
+
+
+The Institute of Indology and Tamil Studies has installed an Internet
+Gopher Information Server at linus.informatik.uni-koeln.de.
+
+It can be reached by typing:
+
+"gopher linus.informatik.uni-koeln.de"
+
+The Gopher is to provide access to the data of the "Thesaurus of Tamil
+Texts" (TTT), a project by the Institute of Indology and Tamil Studies,
+Koeln University in collaboration with the Dept.of Indology, South Asia
+Institute, Heidelberg University. TTT consists of the major classical
+Tamil texts starting with Sangam literature. All the texts are also
+indexed cumulatively.
+
+The texts on the Gopher Server will be expanded continuously.
+
+As of today, 19.08.93, the following materials are available:
+
+- Index of Sangam Literature
+
+- Complete Ascii Word List of Sangam Literature (200K)
+
+- Akananuru text
+
+- Preliminary version of Kambaramayana Index
+
+We shall install a catalogue of the Tamil Library of this Institute
+shortly, as well as a Tamil dictionary based on the Madras Tamil
+Lexicon.
+
+
+* Further information, suggestions and corrections:
+* ami01 at rs1.rrz.uni-koeln.de (Thomas Malten)
+
+
+
+-Thomas Malten
+ 
+
+
+
+
+

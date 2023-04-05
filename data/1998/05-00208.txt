@@ -1,0 +1,68 @@
+From mcv at WXS.NL  Sun May 10 19:32:54 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Sun, 10 May 98 19:32:54 +0000
+Subject: Horse argument revisited
+In-Reply-To: <199805101834.OAA17682@math.mps.ohio-state.edu>
+Message-ID: <161227038467.23782.3403398073146353404.generated@prod2.harmonylists.io>
+
+Vidhyanath Rao <vidynath at MATH.OHIO-STATE.EDU> wrote:
+
+>Second: David Anthony is certain that Sredny Stog (sp?)
+
+'Srednij' using the official Akademija Nauk transcription (where <j>
+is English y).  But sredni or sredny are acceptable in English.
+
+>culture used
+>bits to control horses, based on evidence of tooth wear from a horse
+>found there. However, Arrian and other Hellenistic sources clearly that
+>the bit was unknown in India at the time of Alexander. Their description
+>of Indian horse control mechanism indicates the use of a dropped nose
+>band. This is supported by references to `nasor yama.h' [note the dual:
+>nasor must mean `at the >nostrils<'] and horses bound at the nose [for
+>true bits, the band(s) would be higher up.] This is known from 2nd
+>millennium BCE Near East for horses and 3rd for asses/hemiones. If
+>Indo-Aryans and their ancestors had unbroken association with
+>domesticated horse, why did they give up the bit for the inferior
+>nose band control? Without answering this question, the argument
+>based on a"sva as put forth by M. Vidal  cannot be conclusive.
+
+The argument indeed does not necessarily imply unbroken association
+with _domesticated_ horses, just with horses.
+
+>BTW, I remember Lehman saying somewhere in ``Theoretical Bases of
+>Indo-European'' that `ek'uo' cannot be pre-IE and might be a loan! This
+>is apparently a consequence of his views on the history of velars (or
+>tectals) in IE. In particular, he gave the impression that he considers
+>the sequence k'u strange. [What about the word for dog?]. I don't really
+>understand `internal reconstruction', and would appreciate any comments
+>of this `heresy' of Lehman. [Of course, the Greek hipppos is strange
+>from the viewpoint of IE history, and the i is already there in Myc.]
+
+The *k^u in *ek^uo- is, as you say, also found in *k^uon-, *k^un-
+"dog", which is not likely to be a loanword in PIE.  The combination
+of *k^ or *k with *w (as opposed to the single labio-velar *kw) is a
+rare one, but it does occur in some other words as well (*kuapno-
+"smoke" [Grk. kapnos, Lat. vapor, Lith kvapas], *kuatH- "to seethe,
+boil, ferment" (Skt. kvath-, Lat. caseus > cheese, Russ kvas, etc.).
+
+There is no need from "internal reconstruction" to think that PIE
+*ek^wos is a borrowing, but if it is, a ready source can be found in
+Proto-Yeniseian *ku?s- "horse", Proto-Dagestanian *kwaccwV "mare"
+(unlike Altaic, Yeniseian and NE Caucasian *are* plausible candidates
+for being descended from the Ur-inhabitants of the steppe, c.
+8000-5000 BC, before the Indo-Europeans moved in).  In any case, the
+word predates the domestication.
+
+Greek <hippos> (Myc. i-qo) is curious, and must surely descend from a
+form with preposed *y- (*yek^wos > *yik^wos, by vowel assimilation),
+cf. Tocharian B yakwe, A yuk.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

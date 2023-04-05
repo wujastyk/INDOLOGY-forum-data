@@ -1,0 +1,30 @@
+From JHUBBARD at smith.smith.edu  Thu May 13 20:05:01 1993
+From: JHUBBARD at smith.smith.edu (JHUBBARD at smith.smith.edu)
+Date: Thu, 13 May 93 16:05:01 -0400
+Subject: Diacritics for Word Perfect
+Message-ID: <161227015819.23782.11745670568054926305.generated@prod2.harmonylists.io>
+
+Hi. I have a set of Times Roman fonts w/ diacritics needed for Sanskrit
+and 
+
+
+
+
+(and Japanese), a WordPerfect .pfs file for 5.0 and 5.1, screen fonts, and
+a macro to aid input. You are welcome to all of it. I also have a student
+working on creating a TimesRoman and Helvitica diacritic fonts for True Type
+and Adobe Type I. These latter fonts, when finished, will be in the CS code
+system endorsed by the Sanskritists. All will be freely available. Give me a
+few days and I will try to upload the HP fonts to an FTP site someplace.
+Jamie Hubbard, Smith College
+
+PS. The code points for the HP fonts are my own wierd creations, so you will
+have to do some search-and-replace to use them. I include an easily modifiable
+(but slow) Word Perfect macro to help out.
+
+ 
+
+
+
+
+

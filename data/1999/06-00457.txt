@@ -1,0 +1,31 @@
+From jds10 at CAM.AC.UK  Tue Jun 22 13:51:07 1999
+From: jds10 at CAM.AC.UK (John Smith)
+Date: Tue, 22 Jun 99 14:51:07 +0100
+Subject: ACII, ISCII, Unicode [was: CSX+ fonts &c]
+In-Reply-To: <Pine.A41.4.05.9906220917040.135662-100000@rs8.loc.gov>
+Message-ID: <161227050898.23782.8991968079472790668.generated@prod2.harmonylists.io>
+
+On Tue, 22 Jun 1999, James E. Agenbroad wrote:
+
+> > > What is the meaning of the acronym ACII?
+> >
+> > "Alphabetic Code for Information Interchange".
+>
+> Is this equivalent to ASCII, the American national standard for
+> information interchange or its international counterpart, ISO 646?
+
+No, it refers to an eight-bit system in which the bottom half is seven-bit
+ASCII and the top half is seven-bit ISCII. This is the normal deployment
+of ISCII.
+
+John Smith
+
+--
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223
+335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

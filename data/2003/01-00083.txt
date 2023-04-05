@@ -1,0 +1,49 @@
+From rbm49 at EXT.CANTERBURY.AC.NZ  Fri Jan 24 18:43:05 2003
+From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
+Date: Sat, 25 Jan 03 07:43:05 +1300
+Subject: HTML version of Monier-Williams Lexicon Available
+Message-ID: <161227072099.23782.12732594853980530714.generated@prod2.harmonylists.io>
+
+Dear INDOLOGY colleagues,
+
+[I apologise to H-Buddhism colleagues for cross posting]
+
+An HTML version of the Monier-Williams Sanskrit-English Lexicon has
+been released.
+
+The lexicon can be accessed at:
+
+ http://homepages.comnet.co.nz/~r-mahoney/mw_dict/mw_dict.html
+
+A compressed archive of the whole lexicon is available at:
+
+ http://homepages.comnet.co.nz/~r-mahoney/mw_dict/mw_dict_all_current.tar.gz
+
+A README with installation instructions is available at:
+
+ http://homepages.comnet.co.nz/~r-mahoney/mw_dict/README
+
+
+I would like to thank those who have made this possible.
+
+
+Regards,
+
+ Richard Mahoney
+
+
+N.B. The files provided are strictly for scholarly reference. Any
+commercial use is explicitly excluded. The copyright remains with the
+University of Cologne.
+
+
+--
+Richard Mahoney    |  E-mail: rbm49 at ext.canterbury.ac.nz
+78 Jeffreys Road   |          r.mahoney at comnet.net.nz
+Fendalton          |  Telephone: 0064-3-351-5831
+CHRISTCHURCH 8005  |  Cellular: 0064-25-829-986
+NEW ZEALAND        |  http://homepages.comnet.co.nz/~r-mahoney
+
+
+
+

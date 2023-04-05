@@ -1,0 +1,32 @@
+From ersand at hum.ku.dk  Wed Apr 13 09:43:24 2016
+From: ersand at hum.ku.dk (Erik Reenberg Sand)
+Date: Wed, 13 Apr 16 09:43:24 +0000
+Subject: [INDOLOGY] Problems with DLI-downloader
+Message-ID: <20C9C90FBA5B324CB8E52340A5BD38C53E9CD8F6@P1KITMBX07WC04.unicph.domain>
+
+Dear colleagues,
+
+For the last couple of days I have been having problems downloading from DLI via DLI v.5.9. Whatever title I try to download it comes out saying "Not found". Does anybody have an explanation?
+
+Regards
+
+Erik
+
+
+
+
+Erik Reenberg Sand
+Lektor
+Institut for Tv?rkulturelle og Regionale Studier
+Karen Blixens Vej 4
+Bygning 10.4.15
+DK-2630 K?benhavn S
++45 51 30 26 99
+ersand at hum.ku.dk
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160413/41e2c010/attachment.htm>
+

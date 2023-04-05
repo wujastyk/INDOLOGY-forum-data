@@ -1,0 +1,50 @@
+>?From THRASHER at MAIL.LOC.GOV 26 1993 Mar GMT 08:57:08
+Date: 26 Mar 1993 08:57:08 GMT
+From: ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV>
+Subject: RE: INDIAN INSTITUTE'S ADDRESS
+
+In Message Thu, 25 Mar 93 16:01:35 GMT, 
+  ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV> writes: 
+  
+>          Does any  member of the network know from experience what version 
+>          of the address of the Indian Institute, Oxford 
+>          (indinst at uk.ac.ox.vax) will succeed in getting a  message  to  it 
+>          from the U.S.? 
+  
+Alone in the Internet, the British JANET network uses "big-endian" 
+addressing: i.e., 
+    Me at universe.world.country.town.house. 
+The rest of civilization uses little-endian conventions: 
+    Me at house.town.country.world.universe. 
+  
+The above address "indinst at uk.ac.ox.vax" is in JANET big-endian format.  If 
+you turn it around: "indinst at vax.ox.ac.uk" you have a proper Internet 
+address which should work.  If it doesn't, then the reason is local to your 
+computer or mail gateway, and not a problem with the address.  (About five 
+years ago a lot of USA mail computers still didn't know about "uk" as 
+an email domain: there's no excuse for that today.) 
+  
+Best wishes 
+Dominik 
+---------------- 
+Dominik Wujastyk                                  d.wujastyk at ucl.ac.uk 
+                                                       +44 71 611 8467 
+  
+  
+  
+------------------------------------------
+THIS IS A REPLY TO THE ABOVE MESSAGE
+SUBJECT OF THE REPLY: REPLY                         
+------------------------------------------
+          Thanks for the several responses.  The  one that Dominik gives in 
+          the  latest message, and  which several others  have  also  sent, 
+          seems to work. 
+           
+          Allen Thrasher 
+          thrasher at mail.loc.gov                                             
+ 
+
+
+
+
+

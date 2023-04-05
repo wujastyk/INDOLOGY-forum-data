@@ -1,0 +1,45 @@
+From glhart at berkeley.edu  Thu Jun 20 15:33:10 2019
+From: glhart at berkeley.edu (George Hart)
+Date: Thu, 20 Jun 19 11:33:10 -0400
+Subject: [INDOLOGY] ISO15919 and case insensitivity
+In-Reply-To: <AM0PR09MB358792163704CEEFDB9BFB99A5E40@AM0PR09MB3587.eurprd09.prod.outlook.com>
+Message-ID: <E00C4134-D599-4123-A219-1D57D0D13BBB@berkeley.edu>
+
+In light of the fact that Dravidian languages have both short and long e and o, it would be helpful to many scholars who use texts in Tamil, Malayalam, Telugu and Kannada if Sanskrit e and o were marked with a macron (?, ?) in standard transliteration. The lack of such indication causes all sorts of problems when quoting from those languages, especially since they all often use Sanskrit words intermixed with native ones. George Hart
+
+> On Jun 20, 2019, at 9:24 AM, Arlo Griffiths via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear colleagues,
+> 
+> It is possible to obtain some responses to the questions that D?niel asked on our joint behalf? It would be greatly appreciated.
+> 
+> Many thanks, and best wishes,
+> 
+> Arlo Griffiths
+> 
+> 
+> From: INDOLOGY <indology-bounces at list.indology.info <mailto:indology-bounces at list.indology.info>> on behalf of D?niel Balogh via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>>
+> Sent: Monday, June 10, 2019 10:52 AM
+> To: indology
+> Subject: [INDOLOGY] ISO15919 and case insensitivity
+>  
+> Dear All,
+> I believe some members of the esteemed community reading this were involved in drawing up the ISO15919 transliteration standard. I would be very happy to correspond with someone, here or off-list, about some generic issues and at the moment one particular question.
+> The generic issues would pertain to using a modified ISO standard in web and hardcopy publications, including some modifications that prevent us from making a "claim of conformance" as per section 2 of the standard. Beyond the practical issue of having to explain to our readers where we deviate from the standard, I see no problem associated with this, but I may be missing something. At any rate, a proliferation of idiosyncratic transliteration systems is not desirable, which leads to the second set of generic issues: by whom and how is the ISO standard maintained at present, and is there any chance of proposing slight modifications/addenda/special cases to it?
+> The particular question right now is this. The standard explicitly says that all transliterations must be case insensitive (Section 8.1 Rule 1). Some of us, however, are thinking of using uppercase Roman characters to transliterate 1. final consonants represented in historic scripts by special "halanta" character forms (instead of the addition of a vir?ma sign), and 2. initial/full vowels.
+> The latter could be made clear using the disambiguation sign already codified in the standard (e.g. transliterating ????? as pra:uga), but we feel that using Roman uppercase for both these phenomena is intuitively similar to the practice of the original script. [Not directly relevant to the question at hand is that we would also introduce an additional symbol for transliterating the explicit vir?ma sign to handle final or conjunct consonants created with such a sign.]
+> We would use this notation for epigraphic material, but as far as I can see it would be equally advantageous in codicology where a diplomatic transliteration is desirable. Unambiguously (and in some cases redundantly) differentiating final vowel forms is useful not only in cases where these are used as a means of text segmentation (e.g. the final consonant of a verse quarter is inscribed using a special form, followed by the initial consonant of the next quarter, without an intervening punctuation sign but with the clear intent of representing the yati in writing), but also where partially legible text precedes or follows a lacuna (e.g. occasionally a legible vowel m?tr? is attached to a lost/illegible consonant, and it is desirable to make it clear in the transliteration that the vowel read is not a full vowel ak?ara).
+> Many thanks in advance for any enlightening comments, and my apologies for going into possibly unnecessary detail on the why and how.
+> Daniel
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190620/0899c137/attachment.htm>
+

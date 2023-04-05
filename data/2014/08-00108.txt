@@ -1,0 +1,111 @@
+From jean-luc.chevillard at univ-paris-diderot.fr  Sat Aug 23 02:30:49 2014
+From: jean-luc.chevillard at univ-paris-diderot.fr (Jean-Luc CHEVILLARD)
+Date: Sat, 23 Aug 14 04:30:49 +0200
+Subject: [INDOLOGY] Origin of the term "Indology"
+Message-ID: <web-141604447@univ-paris7.fr>
+
+Dear Peter,
+
+you might want to see the diagram obtained
+when you add a fourth term to the list,
+as seen in:
+
+"https://books.google.com/ngrams/graph?content=indologie%2Cindianisme%2C%C3%A9tudes+indiennes%2C+civilisation+indienne&case_insensitive=on&year_start=1800&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t4%3B%2Cindologie%3B%2Cc0%3B%2Cs0%3B%3Bindologie%3B%2Cc0%3B%3BIndologie%3B%2Cc0%3B.t4%3B%2Cindianisme%3B%2Cc0%3B%2Cs0%3B%3Bindianisme%3B%2Cc0%3B%3BIndianisme%3B%2Cc0%3B%3BINDIANISME%3B%2Cc0%3B.t4%3B%2C%C3%A9tudes%20indiennes%3B%2Cc0%3B%2Cs0%3B%3B%C3%A9tudes%20indiennes%3B%2Cc0%3B%3B%C3%89tudes%20indiennes%3B%2Cc0%3B%3B%C3%89tudes%20Indiennes%3B%2Cc0%3B.t4%3B%2Ccivilisation%20indienne%3B%2Cc0%3B%2Cs0%3B%3Bcivilisation%20indienne%3B%2Cc0%3B%3BCivilisation%20indienne%3B%2Cc0%3B%3BCivilisation%20Indienne%3B%2Cc0%3B%3BCIVILISATION%20INDIENNE%3B%2Cc0"
+
+
+The fact that "civilisation indienne" has more hits that "indianisme",
+which has more hits that "indologie", which has more hits than "?tudes 
+indiennes" will probably be self-explanatory to those who are familiar 
+with the French Academic landscape, and know about the ICI (Institut 
+de Civilisation Indienne), with the BEI (Bulletin d'?tudes Indiennes, 
+etc.)
+
+
+As one who was an eye-witness of the closing down, in the early 
+nineties, of the "section 40" of the CNRS (Centre National de la 
+Recherche Scientifique), I am well aware of the possible consequences 
+(in the administrative realm) of statements concerning the inexistence 
+of a word (or of a combination of words).
+
+
+What will happen to the EPHE is someone starts to explain, 
+/doctement/, that:
+
+"Les sciences philologiques n'existent pas r?ellement"
+
+(http://www.ephe.sorbonne.fr/recherche/section-des-sciences-historiques-et-philologiques/)
+
+"Les sciences religieuses n'existent pas r?ellement"
+
+(http://www.ephe.sorbonne.fr/recherche/section-des-sciences-religieuses/),
+
+etc.
+
+-- Jean-Luc Chevillard (CNRS, Paris, UMR7597 [HTL],
+   currently in Pondicherry for the CTSS)
+
+
+
+On 22/08/2014 22:53, Peter Wyzlic wrote:> Dear all,
+> 
+> if you take Google's ngram research tool (that takes the materials at 
+> Google Books as basis) and look for "indianisme", "indologie", "?tudes 
+> indiennes" with search options "Language=French", "Date Range=1800-2000" 
+> you get the following graph:
+> 
+> URL: <http://goo.gl/8bAhmd>
+> 
+> So, in the majority of sources the red line with "indianisme" prevails. 
+> Of course, Google's text recognition isn't perfect, and it may occur 
+> that the language is wrongly assigned. But it shows a trend, 
+> nevertheless. You may click at the date ranges at the bottom to view the 
+> links in Google Books where the search terms can be located.
+> 
+> All the best
+> 
+> Peter Wyzlic
+> 
+> --
+> Institut f?r Orient- und Asienwissenschaften
+> Bibliothek
+> Universit?t Bonn
+> Regina-Pacis-Weg 7
+> 53113 Bonn
+> 
+> Am 22.08.2014 um 18:07 schrieb Matthew Kapstein <mkapstei at uchicago.edu 
+> <mailto:mkapstei at uchicago.edu>>:
+> 
+>> David Smith has asked that I post the following on his behalf:
+>>
+>> A quick look at gallica.bn.fr <http://gallica.bn.fr> shows that in the 
+>> Mercure de France, 15 May 1925, P. Masson-Oursel, in a section headed 
+>> "Indianisme", notes in a footnote to p. 250 that the death of F. 
+>> Lac?te is "une perte cruelle pour l'indologie".
+>>
+>> David Smith
+>> Retired Reader in South Asian Religions
+>> Lancaster University
+>> UK
+>> d.smith at lancaster.ac.uk <mailto:d.smith at lancaster.ac.uk>
+>>
+>>
+>>
+>> Matthew Kapstein
+>> Directeur d'?tudes,
+>> Ecole Pratique des Hautes Etudes
+>>
+>> Numata Visiting Professor of Buddhist Studies,
+>> The University of Chicago
+>>
+>> ___________
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> http://listinfo.indology.info
+> 
+> 
+
+
+
+
+

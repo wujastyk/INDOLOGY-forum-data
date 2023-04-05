@@ -1,0 +1,24 @@
+From hellwig7 at gmx.de  Mon Dec  9 19:33:30 2019
+From: hellwig7 at gmx.de (Oliver Hellwig)
+Date: Mon, 09 Dec 19 20:33:30 +0100
+Subject: [INDOLOGY] Jatakas
+Message-ID: <83783f88-aab5-a654-47fd-b55756393e1f@gmx.de>
+
+Hi Chris,
+
+thanks for sharing this, it's a really great resource.
+Do you consider to release the source data at some point in the future?
+They could be highly interesting for all kinds of computational
+research, especially since there is so much (manually annotated?)
+information linking individual text passages, and text passages with
+their translations.
+
+Best, Oliver
+
+---
+Oliver Hellwig, IVS Z?rich
+
+
+
+
+

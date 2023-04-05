@@ -1,0 +1,20 @@
+From gkb at ast.cam.ac.uk  Fri Feb  9 08:54:00 1996
+From: gkb at ast.cam.ac.uk (Girish Beeharry)
+Date: Fri, 09 Feb 96 08:54:00 +0000
+Subject: WARNING
+Message-ID: <161227022728.23782.1104567704158479460.generated@prod2.harmonylists.io>
+
+Hi,
+
+>Surely this is a joke? I can't even imagine how to design a virus
+>like the one described.
+
+I checked this one out with our computer managers. Apparently its a well known
+hoax! It might be done if one finds a way to jump directories.
+
+Girish
+
+
+
+
+

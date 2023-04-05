@@ -1,0 +1,27 @@
+From C.Wooff at liverpool.ac.uk  Tue Nov 23 12:52:49 1993
+From: C.Wooff at liverpool.ac.uk (Chris Wooff)
+Date: Tue, 23 Nov 93 12:52:49 +0000
+Subject: Disk quota
+Message-ID: <161227016347.23782.2195910955426751558.generated@prod2.harmonylists.io>
+
+I administer the Indology list. All rejected mail which can't get
+delivered to any of you gets sent back to me so that I am aware of
+possible problems. I'm getting a lot of mail rejected by sites which
+implement 'quotas' on their systems. This means that the site rejects all
+mail messages to users whose mailbox size exceeds some locally defined
+limit.
+
+If you are at one of these sites then can you please try to ensure that
+you leave sufficient space for incoming mail. By talking to your local
+Computer Centre staff you may even be able to have this limit increased.
+The consequences of doing nothing are that *any* mail to you (not just
+from Indology) will not be delivered. In addition by addressing problems
+with your quotas you will help reduce the cost of managing the Indology
+list.
+
+Thank you for reading this message.
+
+Chris Wooff (C.Wooff at liverpool.ac.uk)
+ 
+
+

@@ -1,0 +1,26 @@
+From AKR at BROWNVM.brown.edu  Tue Jan 26 19:56:48 1993
+From: AKR at BROWNVM.brown.edu (Ajit Ranade)
+Date: Tue, 26 Jan 93 14:56:48 -0500
+Subject: english transliteration using TeX
+Message-ID: <161227015615.23782.14368095191300510388.generated@prod2.harmonylists.io>
+
+         Dear Devanagari TeX Users and others:
+
+         How does one get English transliterations (with
+         diacriticals) using TeX?  I would prefer a TeX based
+         solution (since I am sure WordPerfect and other Mac
+         based solutions exist).  Needless to add, I know how to
+         typeset Devanagari fonts (using Devanagari TeX).  But
+         it's the rendering in English i.e. with all the
+         diacriticals that Sanskrit requires -- which is what I
+         am looking for.  (I suspect it is similar to typing
+         Spanish, or Norwegian etc i.e. all Roman script
+         languages with their graves and accents.)  Dominik, I
+         aplogize if this query is hopelessly naive!  Are the
+         accents supported in plain (or La)TeX adequate for
+         Sanskrit?  Thanks for any response.. Ajit Ranade
+
+
+
+
+

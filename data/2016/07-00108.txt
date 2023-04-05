@@ -1,0 +1,45 @@
+From mehner at sub.uni-goettingen.de  Fri Jul 15 12:46:23 2016
+From: mehner at sub.uni-goettingen.de (Mehner, Maximilian | GRETIL)
+Date: Fri, 15 Jul 16 12:46:23 +0000
+Subject: [INDOLOGY] GRETIL update #474, correction
+Message-ID: <C02B5C9E4F9BD14E998B70B231B092225CA723A7@UM-EXCDAG-A06.um.gwdg.de>
+
+The correct link for the "Download All" function is:
+
+http://gretil.sub.uni-goettingen.de/gret_utf.htm#Index
+
+Thanks to Rolf Heinrich Koch and Petra Kieffer-P?lz for pointing out!
+
+On 15 July 2016 at 13:11, Mehner, Maximilian | GRETIL <mehner at sub.uni-goettingen.de<mailto:mehner at sub.uni-goettingen.de>> wrote:
+GRETIL is pleased to be able to report the following changes:
+
+Additions:
+Puggalapannatti<http://gretil.sub.uni-goettingen.de/#Puggalap>: PTS/Dhammakaya edition, annotated and plain text
+Yamaka, I-II<http://gretil.sub.uni-goettingen.de/#Yamaka>: PTS/Dhammakaya edition, annotated and plain text
+Sanskrit works restored:
+Bhagavata-Purana<http://gretil.sub.uni-goettingen.de/#BhagP>, Skandha 3 (numbering corrected)
+Pali works restored:
+Dhammasangani<http://gretil.sub.uni-goettingen.de/#Dhamsan>: PTS/Dhammakaya edition, annotated and plain text
+Patthana<http://gretil.sub.uni-goettingen.de/#Patthana>: BJT edition
+Samantapasadika, V & VII<http://gretil.sub.uni-goettingen.de/#Samantp>: PTS/Dhammakaya edition, annotated and plain text
+Khuddakapatha<http://gretil.sub.uni-goettingen.de/#Khuddp>: PTS/Dhammakaya edition, annotated and plain text
+Works refiled:
+Sukasaptati<http://gretil.sub.uni-goettingen.de/#Suksapt> from Kavya<http://gretil.sub.uni-goettingen.de/#Kavya> to Narrative Literature<http://gretil.sub.uni-goettingen.de/#Akhyana>
+
+As a new feature you can now download GRETIL's whole archive
+for each language/language family in UTF-8 at:
+http://gretil.sub.uni-goettingen.de/gret_utfneu.html#Index
+These packages will be updated with every announcement, in case you have been
+missing updates, or are rebuilding your personal collection.
+
+__________________________________________________________________________
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160715/3c630729/attachment.htm>
+

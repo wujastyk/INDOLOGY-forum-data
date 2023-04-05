@@ -1,0 +1,128 @@
+From witzel at FAS.HARVARD.EDU  Thu Jan 24 04:04:23 2002
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Wed, 23 Jan 02 23:04:23 -0500
+Subject: Any suggestions!
+In-Reply-To: <B8746E45.1AC5%ghart@socrates.berkeley.edu>
+Message-ID: <161227070276.23782.3545237914777078652.generated@prod2.harmonylists.io>
+
+I think none of the suggestions made so far really covers the real extent
+of the phenomenon.
+
+* It occurs in Madhav's Maharastrian MS (Nagari) of the 1820s.
+
+* but similar things happen in South Indian MSS (for phonetically reasons,
+it is said)
+
+* however, the same phenomenon can already be seen in a Maitrayani Samhita
+MS of c. 1566 (the oldest available, from Gujarat)  which has been
+adequately described and analyzed by A. Lubotsky, Indo-Iranian Journal 25,
+1983, 167-179,  nearly 20 years ago!
+
+(He also uses another old MS that comes from near Nasik, Maharastra; now at
+Poona, Vaidika Samshodhana Mandala; and recitation from Nagpur imported
+there from Nandurbar/Nasik around 1916).
+
+Importantly, the Maitr. MSS mostly come from Saurastra and to some extent
+from N. Maharastra. The tradition of Maitr. recitation (still alive in
+1870) is,  just as that of its bearers, the Modha /Pancoli Br., a local one
+of Gujarat which goes back to the Maitraka  (etc.) dynasty of c. 400 CE.
+
+No chance of southern influence on this old tradition, and certainly not on
+the  Maitr. MSS from  1550 onwards.
+
+But parallel, as so often, to similar cases in the South :  (as Prof.
+Orelskaya reports from her Gujarat and Tanjore MSS; note also, the same
+cases, unconnected,  in  Malayalam),  -- though once  could speculate about
+the Maratha-Tanjore connection, or the Gujarati Samaveda -Tamil one.
+
+                                                     ****
+
+
+So what do we get? Certainly not calligraphy.  Nor a simple "local feature"
+of  "orthography" (such as the long-retained, OLD  Kashmiri  s'ch for cch
+(in Vedic AND  Class. texts!).
+
+Rather:  clearly, a strictly regulated phonetic situation, where
+
+* double consonant (esp. before another cons.) is avoided
+
+* media+ media is    written tenuis  + media
+(like in Madhav's Ms: zraatdha for zraaddha, batdha for baddha)
+
+but we find  (answer to HH. Hook!)  even     d + y  =  t + y    or k + h
+
+Lokesh Chandra JaimBr  1950: p., xvi sq  (thus based on Malayalam/Grantha
+MSS) also has such cases which "outnumber the usual ones".
+
+Lubotsky has already given the proper explanation  20 years ago :
+
+                         implosive before plosive ...
+
+                (and some voiced cons., such as resonant : y, etc. )
+
+Note Lubotsky's description of the first cons. as almost inaudibale on the
+tapes (p.,176).
+
+
+                                                   ****
+
+
+The question still to be answered is this one:
+
+How to write an implosive? Avestan has a character for  an  implosive t.
+But Nagari etc. doesn't.  So, the  choice of  t before d is quite logical.
+
+(Of course, the Pratiszakhyas already discuss such 'implosive'  items; long
+discussion by Whitney in his AV Prat., see now Madhav's new ed. + transl.+
+comm. in HOS  52, 1997).
+
+The interesting point here rather is that *non-Vedic*  MSS also have such
+features...
+
+
+                                                               ****
+
+
+Finally, exceptions like Madhav's one time "prasiddha not prasitdha" are to
+be expected under the increasing influence of common North/West Indian
+traditions, -- what I call the Poona-Benares axis of the past few centuries.
+
+It has progressively pushed back local, sometimes quite archaic
+orthographies (such as in Kashmir, with Upadhmaniya/Jihvamuliya etc.),
+which survive now only in some pockets.
+
+The influence of the Poona-Benares  kind of spelling, a real orthography
+thus (and "normal" in all our Skt. editions, often AGAINST the MSS), is
+progressively seen in Gujarat after c. 1700 and after 1850 even in
+Kashmir...
+
+
+>On 1/23/02 5:52 AM, "marina orelskaya" <m_orelskaya at YAHOO.COM> wrote:
+>
+>> Sanskrit MS produced in
+>> Gujarat about the same time and also with some MSS in
+>> Tamilnad (Tanjore and Chennai) transliterated from the
+>> Grantha and Telugu scripts into Devanagari .... The peculiarity
+>> of writting 'ddha' as 'tdha' and even as 'tddha' (at
+>> random) is quite common to all of these. Moreover, the
+>> MS from Gujarat has been published by the Maharaja
+>> Gaekwad Royal Court in Vadodara by a native of Pune
+>> with the same 'tdha' in many places.
+>>
+>> --- Madhav Deshpande <mmdesh at UMICH.EDU> wrote:
+>>> While editing a Sanskrit manuscript produced in the
+>>> Marathi area around
+>>> 1824 A.D., I find that the copyist consistently
+>>> writes sitdham for Skt.
+>>> siddham.
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+
+
+

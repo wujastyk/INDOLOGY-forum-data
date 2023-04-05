@@ -1,0 +1,205 @@
+From camillo.formigatti at bodleian.ox.ac.uk  Fri Jan 10 12:49:58 2020
+From: camillo.formigatti at bodleian.ox.ac.uk (Camillo Formigatti)
+Date: Fri, 10 Jan 20 12:49:58 +0000
+Subject: [INDOLOGY] help with inscription
+In-Reply-To: <DM6PR11MB40592B39ECB2B62A825EA8ADA1380@DM6PR11MB4059.namprd11.prod.outlook.com>
+Message-ID: <LO2P265MB0304463C24776F9F61D5FB2B8E380@LO2P265MB0304.GBRP265.PROD.OUTLOOK.COM>
+
+Dear Matthew,
+
+I?ve reread the inscription (checking against Dimitrov?s tables of old Bengali) and now I believe that you can even read su-, so I?d tend to agree with Nataliya?s reading. However, I?m not fully convinced of the ?rta ligature, if we want to read -rta, first of all we?d have to expect the usual reduplication of the plosive after repha in Bengali manuscripts, i.e. ?rtta, which is not readable in the inscription. Moreover, that aksara does not really look like ?ta to me, but again as you say, whoever wrote it did not master the language and script fully.
+
+Best wishes,
+
+Camillo
+
+________________________________
+Dr Camillo A. Formigatti
+John Clay Sanskrit Librarian
+
+Bodleian Libraries
+The Weston Library
+Broad Street, Oxford
+OX1 3BG
+Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
+Tel. (office): 01865 (2)77208
+www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
+
+GROW YOUR MIND
+in Oxford University?s
+Gardens, Libraries and Museums
+www.mindgrowing.org<http://www.mindgrowing.org/>
+
+From: Matthew Kapstein <mkapstei at uchicago.edu>
+Sent: 10 January 2020 12:14
+To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk>; Nataliya Yanchevskaya <markandeia at gmail.com>; indology at list.indology.info
+Subject: Re: [INDOLOGY] help with inscription
+
+Thank you,Camillo,
+
+I am quite certain that Nataliya?s reading is precisely what was intended in the text, though the su is badly formed and the i in kirtaye partly obliterated.
+
+best,
+Matthew
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>>
+Sent: Friday, January 10, 2020 12:41:56 PM
+To: Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>>; Nataliya Yanchevskaya <markandeia at gmail.com<mailto:markandeia at gmail.com>>; indology at list.indology.info<mailto:indology at list.indology.info> <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: RE: [INDOLOGY] help with inscription
+
+
+Dear Matthew,
+
+
+
+I believe it reads as follows:
+
+
+
+[siddham] nama? kalki [for kalk??] vijayat [for vijayet?] ]k?rttaye ||
+
+
+
+Best wishes,
+
+
+
+Camillo
+
+
+
+________________________________
+
+Dr Camillo A. Formigatti
+
+John Clay Sanskrit Librarian
+
+
+
+Bodleian Libraries
+
+The Weston Library
+
+Broad Street, Oxford
+
+OX1 3BG
+
+Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
+
+Tel. (office): 01865 (2)77208
+www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
+
+
+
+GROW YOUR MIND
+
+in Oxford University?s
+
+Gardens, Libraries and Museums
+
+www.mindgrowing.org<http://www.mindgrowing.org/>
+
+
+
+From: Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>>
+Sent: 09 January 2020 13:32
+To: Nataliya Yanchevskaya <markandeia at gmail.com<mailto:markandeia at gmail.com>>; indology at list.indology.info<mailto:indology at list.indology.info>
+Subject: Re: [INDOLOGY] help with inscription
+
+
+
+Thank you, Nataliya,
+
+
+
+Your suggestion seems plausible to me on both paleographical and contextual grounds. Let?s see what others think.
+
+
+
+best,
+
+Matthew
+
+
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+
+________________________________
+
+From: Nataliya Yanchevskaya <markandeia at gmail.com<mailto:markandeia at gmail.com>>
+Sent: Thursday, January 9, 2020 1:49:39 PM
+To: Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>>; indology at list.indology.info<mailto:indology at list.indology.info> <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: Re: [INDOLOGY] help with inscription
+
+
+
+Dear Matthew,
+
+It seems that the first syllable with a ligature is -lki; the part after "vijaya" is probably "sa" (but "su" would make more sense ? hard to see though).
+
+The whole thing looks like: nama? kalki-vijaya-suk?rtaye ("sa" and "ta" are written almost like in Bengali, as well as "e" in "ye").
+
+Is it possible in this case?
+
+Just my two cents, I hope a specialist in paleography will do better.
+
+Best wishes,
+
+Nataliya
+
+
+
+
+
+
+
+On Thu, Jan 9, 2020 at 6:29 AM Matthew Kapstein via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Dear friends,
+
+
+
+I am wondering if some of those who are better paleographers than I might help me to read this. It comes from a Tibetan manuscript and so may not make coherent sense, as it is a Tibetan attempt to write Sanskrit.
+
+
+
+
+
+What I see is:
+
+na ma? ka? chche? vi ja ya bh?? [or t??] p? d? ya//
+
+
+
+The three syllables marked with interrogation are the ones that are giving me trouble. It is a line of homage addressed perhaps to a teacher named lha mthong lo tsA ba bshes gnyen rnam rgyal, whose proper name, in a calque back translation into Sanskrit, would be
+
+mitra-vijaya. His title lha mthong lo tsA ba ("translator from Lha mthong") would not normally be put into Sanskrit, but there's no fixed rule that it should not. However, the identification is not certain and, in any case, Tibetan teachers typically had several variant names.
+
+
+
+thanks in advance for your suggestions,
+
+Matthew
+
+
+
+Matthew Kapstein
+Directeur d'?tudes,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200110/fb7796af/attachment.htm>
+

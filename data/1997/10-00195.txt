@@ -1,0 +1,46 @@
+From apandey at U.WASHINGTON.EDU  Wed Oct 22 19:47:00 1997
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Wed, 22 Oct 97 12:47:00 -0700
+Subject: Indian computing?
+In-Reply-To: <v01530509b07294136d88@[195.74.194.46]>
+Message-ID: <161227033246.23782.11976036217734105720.generated@prod2.harmonylists.io>
+
+On Tue, 21 Oct 1997, Jacob Baltuch wrote:
+
+> 1. Does anyone know of places on the net where I can find the various
+>    official specs relevant to computing & Indian languages (ISCII, etc.)
+
+Perhaps you could try finding these specification at the Unicode homepage:
+<http://www.unicode.org>. I do recall seeing the ISCII specs somewhere,
+but I can't remember the site off the top of my head. I'll dig around for
+it and get the URL to you.
+
+>
+> 3. What's the 8-bit standard that has the characters needed for translit-
+>    teration (letters with macrons, underdots, overdots, etc.)? (Incidentally
+>    does Unicode make room for such characters? where do I find the Unicode
+>    spec?)
+
+There is no 8-bit "standard" for the transliteration of Indic script as
+of yet. There is a working group of the International Standards
+Organization which is currently developing a standardized 8-bit
+transliteration. The working group is actually an electronic discussion
+forum called "conv-dev". You can join the group by sending a subscribe
+message to <majordomo at elot.gr>, with subject "subscribe conv-dev".
+
+There is the Classical Sanskrit/Classical Sanskrit eXtended (CS/CSX)
+8-bit encoding. The documentation and DOS screen drivers for CS/CSX are
+found in the INDOLOGY archives in the file "iass_documentation.zip".
+
+> 2. Is there a reference book for computing & Indian languages (I'm thinking
+>    of something along to lines of what Ken Lunde's "Understanding Japanese
+>    Information Processing" is for Japanese)
+
+As far as I am aware there is no such text for Indian languages.
+
+Regards,
+Anshuman Pandey
+
+
+
+

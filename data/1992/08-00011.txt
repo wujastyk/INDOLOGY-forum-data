@@ -1,0 +1,27 @@
+From ucgadkw at UK.AC.UCL  Tue Aug 25 14:24:40 1992
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Tue, 25 Aug 92 15:24:40 +0100
+Subject: Proven Success of the ManjushreeCSX font
+Message-ID: <161227015468.23782.3734463400118960141.generated@prod2.harmonylists.io>
+
+
+This is a very nice example of how a common coding scheme can help
+us all in dealing with Sanskrit texts.  The text Madhav has on his
+mac started life on a DOS PC, then went onto an OS/2 PC, then lived for
+a while on a Unix machine.  Now he has a perfectly legible, fully
+accented text on his Mac.
+ 
+Long live the CSX scheme!
+ 
+Perhaps a committee at the next IASS meeting in Australia could
+consider adding some of Madhav's "Paninian" characters to the
+official set?  Or perhaps some positions in the set should be left
+intentionally blank to allow for customization?
+ 
+Dominik
+ 
+
+
+
+
+

@@ -1,0 +1,64 @@
+From dermot at grevatt.force9.co.uk  Wed Apr 27 09:39:14 2016
+From: dermot at grevatt.force9.co.uk (dermot at grevatt.force9.co.uk)
+Date: Wed, 27 Apr 16 10:39:14 +0100
+Subject: [INDOLOGY] a i and ai
+In-Reply-To: <82B9A9C5-4115-474D-BBD4-CFA9B32FD376@uclouvain.be>
+Message-ID: <572088C2.2944.68AC09@dermot.grevatt.force9.co.uk>
+
+Dear Christophe,
+
+The usual practice in roman script is to separate the two vowels with a space, showing that 
+they are not a diphthong but belong to two different syllables. E.g.
+
+ mana + indriya- = mana indriya-
+
+I don't think that looks strange. You can see it for instance in Edgerton's Bhagavadgita 
+(Harvard U. Press, 1952) ch 2 verse 9c: na yotsya iti govindam (na + yotsye + iti).
+
+By the way, what distinguishes the separate vowels from the diphthong in nagari is not the 
+space (which isn't always marked in manuscripts) but the fact that the second vowel (in your 
+case the i) is written with a character, not with a stroke added to a consonant character. This 
+makes a space possible, though not necessary. Indeed, such hiatus can occur within a word, 
+which is rare in Sanskrit (e.g. pra'uga "the forepart of the shafts of a chariot; triangle"), but 
+common in Prakrit. Here, it would be very odd to write a space, since it's within a word. I've 
+marked the hiatus with an apostrophe, but Monier-Williams does it with diaeresis/tr?ma (two 
+superscript dots).
+
+I hope that solves your doubts quicker than Arjuna's.
+
+With best wishes,
+
+Dermot
+
+On 27 Apr 2016 at 10:59, Christophe Vielle wrote:
+
+Dear List,
+is there a way in Roman script for distinguishing in a compound the result of -a + vowel other 
+than a which could be i =  a i, with hiatus, from the diphthong ai resulting from a/a + e/ai ?
+ex. mana + indriya- = manaindrya- (?) beside manasa + aindriya = manasaindriya
+In n?gar? script I find written mana indrya- with a space put between the two members, but it would 
+look strange in Roman script. 
+Any suggestion welcome.
+Best wishes,
+Christophe Vielle
+
+
+
+-------------------
+Christophe Vielle
+Louvain-la-Neuve
+
+
+-- 
+Dermot Killingley
+9, Rectory Drive,
+Gosforth,
+Newcastle upon Tyne NE3 1XT
+Phone (0191) 285 8053
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160427/d0d03ac0/attachment.htm>
+

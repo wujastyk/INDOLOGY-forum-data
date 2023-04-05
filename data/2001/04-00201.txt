@@ -1,0 +1,63 @@
+From giravani at JUNO.COM  Sat Apr 14 13:21:22 2001
+From: giravani at JUNO.COM (Narayan R.Joshi)
+Date: Sat, 14 Apr 01 14:21:22 +0100
+Subject: Phonemes
+Message-ID: <161227069240.23782.18419310848278643504.generated@prod2.harmonylists.io>
+
+REF:My message about NAgarI script dated March 31. It was pointed out that
+the message shows no awareness of what a phoneme is, or of distinctive
+segmentation.One cannot write everything in the short message written
+comparing Roman (R-) and NAgarI (N-)scripts. Here is more about awareness-
+Phonology is the study of sound system of language:the rules that govern
+pronunciation and distribution of sounds for a chosen language.Phonetics
+is the analysis of actual speech sounds related to production and
+articulation of sounds. Phonemics is the analysis of the relationships
+among phonetic sounds.A phoneme is a family of sounds, which functions in a
+language to signal a difference in meaning.The fact that 'pat' and 'bat'
+differ in meaning, demonstrates that /p/ and /b/ are phonemes in English.A
+phoneme, by itself, is meaningless. It cannot be described as sound either,
+for a phoneme can be actualized as one of several different sounds.These
+variants of the phoneme are called allophones, and the sound themselves
+phones.Thus a phoneme is a family of different phones which can be
+interchanged without affecting our recognition of meaning.Phonemic
+classification is useful because it recognizes only the significant
+differences among phones.Words are physically one continuous motion but are
+psychologically a series of discrete units called segments.A single segment
+is sometimes represented by a variety of spellings characteristic of the
+language under discussion.A phonemic alphabet is justified because in that
+system one symbol uniquely represents one segment. Segments are composed of
+smaller units called distinctive features. The vowels and consonants follow
+one another in speech and are called segmental phonemes. Supra-segmental
+phonemes make use of stress and pitch. The English word 'sit'consists of 3
+phonemes. The word 'sought' also consists of 3 phonemes. So phoneme is not
+necessarily a single letter in English. The 'th'in 'thigh'is a different
+phoneme from 'th' in 'thy'.
+ These definitions do not contradict my understanding of N script(syllabic)
+versus R script(alphabetic).It is said that N writing system is
+phonemically over-precise and phonetically imprecise. The ancient Indian
+grammarians were aware of this fact and hence they never confused the
+alphabet with the phonology.My original question was about the reasons of
+choosing the path by the ancient Indians of syllabic writing in N instead
+that of alphabetic linear writing like R.Some say Brahmi was alphabetic and
+some say it was syllabic, I do not know. Again N script of Sanskrit is not
+syllabic in the strict sense that it represents syllables by means of
+unitary syllabic signs.It is syllabic in the quite different sense that it
+represents syllables by means of non-unitary signs.These non-unitary signs
+are derived from graphemes representing phonemes by attaching to them
+diacritical markings of different spatial orientations.The markings are
+simple and consistent in nature and easier to master by associative memory
+than to remember the unrelated members of the one hundred percent syllabic
+system.Since the N syllabes are derived by rules of combination and
+pronunciation, there is no limit on their number.Theoretically all possible
+combinations of vowels and consonants are allowed. The N graphemes are not
+letters in the sense of English that  either singly or in combination
+represent phonemes.They singly and uniquely represent phonemes without
+implying the modern phonemic theory.I am ready to give credit of
+development of this unique N script to the elephant riders
+(labeled "Dravidians")from the east of Khyber pass rather than the horse
+riders(labeled "Aryans")from the west of Khyber pass until somebody
+produces a contrary evidence. Thanks.
+
+
+
+

@@ -1,0 +1,43 @@
+From martingansten at gmail.com  Mon Mar 18 07:42:46 2019
+From: martingansten at gmail.com (Martin Gansten)
+Date: Mon, 18 Mar 19 08:42:46 +0100
+Subject: [INDOLOGY] Non-standard sandhi
+In-Reply-To: <CAB3-dzf3uDErZpt9EQyGz7EzsQ-xQNnO75=RAkRrJPaNZG2R8A@mail.gmail.com>
+Message-ID: <a34595c9-6090-d2fc-c1db-3a23b60f4380@gmail.com>
+
+Thanks to Madhav Deshpande, Andrey Klebanov and Harry Spier for their 
+(off-list) replies to my question, confirming that the sandhi /e + a > a 
+a/ is indeed non-standard. Madhav wrote:
+
+> I have not seen another example exactly like this, and have not come 
+> across a traditional rule to deal with this.? I wonder how hybrid this 
+> text is, or whether there are manuscript variants for this particular 
+> passage.? One thing I noticed is that if we keep the presumed 
+> pre-sandhi reading of "sahite asya," the meter does not work, and 
+> neither does it work with the regular sandhi "sahite 'sya."? The meter 
+> does seem to work with "sahita asya".? The last syllable of "sahita" 
+> needs to be metrically light.? So I suppose some sort of metrical 
+> compulsion may have resulted in this irregularity.? Just a thought.
+
+The work in question is a largish one (~550 stanzas) and written in 
+perfectly grammatical, sometimes even elegant Sanskrit in a variety of 
+metres, with no particular suggestion of being hybrid, and the witnesses 
+I have seen (two of the work itself, and half a dozen of another work 
+quoting the verse in question) all agree on the reading of this passage.
+
+Harry raised the same point about the metre (sv?gat?), but it wouldn't 
+be difficult to rephrase the p?da so as to conform to both metre and 
+standard sandhi (e.g., tena v?pi sahite 'sya ca labdhis). So I am left 
+with the impression that Y?davas?ri must have considered his choice of 
+sandhi in this case unproblematic, although he usually follows the 
+stardard rule /e + a > e [']/.
+
+Thanks again,
+Martin
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190318/dc58b3aa/attachment.htm>
+

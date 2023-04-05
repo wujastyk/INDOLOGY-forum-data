@@ -1,0 +1,45 @@
+From d.wujastyk at UCL.AC.UK  Tue Aug  3 18:47:00 2010
+From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
+Date: Tue, 03 Aug 10 19:47:00 +0100
+Subject: [Devnag-general] Xindy modules for Hindi and Marathi (fwd)
+Message-ID: <161227090090.23782.15416372580366510550.generated@prod2.harmonylists.io>
+
+For those of you interested in indexing Indian languages,...
+
+---------- Forwarded message ----------
+Date: Sun, 1 Aug 2010 20:46:51 +0200
+From: Zdenek Wagner <zdenek.wagner at gmail.com>
+Reply-To: General mailing list for Devnag project
+    <devnag-general at lists.sarovar.org>
+To: general xindy announcements and discussions
+    <xindy-discuss at lists.sourceforge.net>,
+     General mailing list for Devnag project <devnag-general at lists.sarovar.org>
+
+
+Hi all,
+I have updated the modules for Hindi and Marathi. Since the previous
+release a few small bugs were found and fixed. Marathi rules now exist
+also in transliteration and a module with merge rules for nuktas was
+developed. Documentation was updated, the transliteration script is
+documented via POD. Feedback still required, mainly from a Marathi
+native speaker. Addition of Nepali support requires help of a Nepali
+native speaker.
+
+In order to be compatible with xindy it was decided to license the
+package under GLP V2+.
+
+The URL of the package is http://icebearsoft.euweb.cz/xindy-devanagari/
+
+-- 
+Zden?k Wagner
+http://hroch486.icpf.cas.cz/wagner/
+http://icebearsoft.euweb.cz
+
+_______________________________________________
+Devnag-general mailing list
+Devnag-general at lists.sarovar.org
+http://lists.sarovar.org/cgi-bin/mailman/listinfo/devnag-general
+
+
+
+

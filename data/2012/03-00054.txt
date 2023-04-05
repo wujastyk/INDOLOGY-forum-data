@@ -1,0 +1,41 @@
+From wujastyk at GMAIL.COM  Thu Mar 22 06:53:05 2012
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Thu, 22 Mar 12 07:53:05 +0100
+Subject: Fw: Devnagari
+In-Reply-To: <1332387306.82423.YahooMailNeo@web193205.mail.sg3.yahoo.com>
+Message-ID: <161227095680.23782.17103764129589202051.generated@prod2.harmonylists.io>
+
+If you want your audience to see the fonts or layout of something you
+write, you have to send a bitmap or PDF (with embedded fonts).  There are
+many screen-capture or screen snapshot programs that make this quite easy.
+Otherwise, if you just write an email and send it, target machines will
+likely as not interpret and change what you send, adapting the text to
+their locally available fonts, etc.
+
+DW
+
+
+
+On 22 March 2012 04:35, Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>wrote:
+
+>
+>   ----- Forwarded Message -----
+> *From:* Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>
+> *To:* dipak bhattacharya <dbhattacharya2004 at yahoo.co.in>
+> *Sent:* Thursday, 22 March 2012 8:48 AM
+> *Subject:* Devnagari
+>
+> Sent experimentally
+> ??????? Mangal
+> ???????  Arial Unicode MS
+>
+> DB
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120322/361e77d3/attachment.htm>
+

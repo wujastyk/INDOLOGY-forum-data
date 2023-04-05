@@ -1,0 +1,18 @@
+From roheko at T-ONLINE.DE  Sat Dec  5 13:57:29 1998
+From: roheko at T-ONLINE.DE (Rolf Koch)
+Date: Sat, 05 Dec 98 14:57:29 +0100
+Subject: devanagari ttf font win31/95/98
+Message-ID: <161227043360.23782.12536986262082833370.generated@prod2.harmonylists.io>
+
+Please have a look into the paper: Udayana and VAsavadattA according to
+the Avazyaka tradition in INDOLOGICA TAURINENSIA vol. 21/22 (1995-96),
+pp. 188-92. This devanagari print is based on my devanagari-ttf font. If
+you like it, please contact me privately. It is free. Just copy the font
+into the directory windows\fonts and find out the keyboard layout by
+yourself.
+contact:
+roheko at t-online.de
+
+
+
+

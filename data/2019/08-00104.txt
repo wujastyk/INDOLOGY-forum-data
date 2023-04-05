@@ -1,0 +1,204 @@
+From ambapradeep at gmail.com  Mon Aug 19 16:31:28 2019
+From: ambapradeep at gmail.com (Amba Kulkarni)
+Date: Mon, 19 Aug 19 22:01:28 +0530
+Subject: [INDOLOGY] 6th International Sanskrit Computational Linguistics Symposium: Call for Demonstrations
+In-Reply-To: <CADvMYTa-8d_Y_Cg=iDr-NEA2RB8peQexp_0Q7Qpzed3BPX==TQ@mail.gmail.com>
+Message-ID: <CAFffahCV5QRKq57uEsQxWiLYg=5nmbBYB=OjoMbuBgwqaVDfOA@mail.gmail.com>
+
+*Apologies if you have received multiple copies of this email*
+*Please consider contributing demos and distribute to your colleagues who
+may be interested*
+
+------------------------------------------------------------------------------------------------------
+
+6th International Sanskrit Computational Linguistics Symposium (6th ISCLS)
+
+Indian Institute of Technology Kharagpur, West Bengal, India -- 721302
+
+October 23-25, 2019
+
+Website: https://iscls.github.io/
+
+Convenor: Pawan Goyal, IIT Kharagpur
+
+------------------------------------------------------------------------------------------------------
+
+*Call for demonstrations*
+
+Dear Colleagues,
+
+
+We are inviting a short writeup to be considered for demo session on
+various aspects of Computational Linguistics and Digital Humanities related
+to Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit,
+etc at 6th ISCLS.
+
+*Important Dates:*
+
+Submission Deadline: September 5th, 2019
+
+Notification of Acceptance: September 10th, 2019
+
+
+You are requested to submit your small writeup on demo through
+
+
+Email to: pawang.iitk at gmail.com (Pawan Goyal)
+
+Subject of the email: Demo submission for ISCLS
+
+The writeup should be sent as a PDF file (100-300 words), describing your
+system briefly, along with a link if available.
+
+
+The areas of interest include, but are not limited to:
+
+
+** Sanskrit Computational linguistics: with extensions to related ancient
+Indian languages (Vedic, Pali, Prakrits)*
+
+Digital lexicons, thesauri and wordnets
+
+Computational phonology and morphology
+
+Syntactic analysis
+
+Prose order normalisation
+
+Parsing
+
+Structural semantics
+
+Machine Translation
+
+Automatic analysis of Sanskrit corpus
+
+Machine Learning approaches to computational processing
+
+Navya Ny?ya technical language processing and semantic analysis
+
+Information extraction
+
+** Sh?stric Sanskrit texts and computation*
+
+Computer modeling and simulation of Paninian and other traditional grammars
+
+Theories of ??bdabodha and Sanskrit computational processing
+
+** Sanskrit digital libraries management:*
+
+Tools for acquisition & maintenance of Sanskrit digital corpus
+
+Library crawlers or search tools in Sanskrit corpus
+
+Incorporation of grammatical information in Sanskrit corpus
+
+Automated tools for evaluation of Sanskrit poetry, e.g., meter
+recognition/verification, ala?k?ra identification, ?le?a analysis
+
+Software tools for phylogenic studies, intertextuality management,
+establishment of critical editions, and other philological applications
+
+OCR recognition of romanized Sanskrit as well as ancient Indian scripts
+
+Digital cataloguing of manuscripts
+
+Digital font creation, rendering of phonetic features, etc.
+
+Encoding procedures and workflows
+
+Presentation and transformation of TEI data
+
+Named entity recognition
+
+Collaborative annotation and editing
+
+Alignment of text with images (including manuscripts)
+
+User interface design
+
+** Misc computer applications relevant to Sanskrit:*
+
+Software tools for teaching Sanskrit
+
+Sanskrit speech recognition and synthesis
+
+Social media applications for Sanskrit dissemination
+
+*Programme Committee *
+
+Stefan Baums (University of Munich)
+
+Laxmidhar Behera (IIT Kanpur)
+
+Pawan Goyal (IIT Kharagpur)
+
+Brendan Gillon (McGill University)
+
+Olivier Hellwig (University of Zurich)
+
+G?rard Huet (Inria Paris)
+
+Amba Kulkarni (University of Hyderabad)
+
+Malhar Kulkarni (IIT Bombay)
+
+Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)
+
+Andrew Ollett (Harvard University, Cambridge, MA)
+
+Dhaval Patel (Ahmedabad)
+
+Ganesh Ramakrishnan (IIT Bombay)
+
+Peter Scharf (IIIT Hyderabad)
+
+Srinivasa Varakhedi (KKSU, Ramtek)
+
+K Varalakshmi (Osmania University, Hyderabad)
+
+
+Web Chair: Amrith Krishna, IIT Kharagpur
+
+
+Previous Editions:
+
+INRIA Paris Rocquencourt (2007),  Brown University, USA (2008), University
+of Hyderabad, India (2009), JNU, Delhi, India (2010) and IIT Bombay (2013)
+------------------------------------------------------------------------------------------------------
+
+Regards,
+
+Pawan Goyal
+Assistant Professor
+Department of Computer Science and Engineering
+Indian Institute of Technology Kharagpur,
+West Bengal, India -- 721302
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+-- 
+
+? ?? ?????: ?????? ????? ??????: ll
+Let noble thoughts come to us from every side.
+- Rig Veda, I-89-i.
+
+Professor & Head
+Department of Sanskrit Studies
+University of Hyderabad
+Prof. C.R. Rao Road
+Hyderabad-500 046
+
+(91) 040 23133802(off)
+
+http://scl.samsaadhanii.in <http://sanskrit.uohyd.ac.in/faculty/amba>
+http://sanskrit.uohyd.ac.in/scl
+http://tdil-dc.in/scl <http://sanskrit.uohyd.ac.in/scl>
+http://sanskrit.uohyd.ac.in/faculty/amba
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190819/1ade707e/attachment.htm>
+

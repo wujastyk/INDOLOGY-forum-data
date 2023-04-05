@@ -1,0 +1,48 @@
+From mmdesh at umich.edu  Wed Nov 22 03:19:49 2017
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Tue, 21 Nov 17 19:19:49 -0800
+Subject: [INDOLOGY] Devanagari and OS 10.12.6
+In-Reply-To: <CAHRgzy0vfVeqezSW6-KrhtX0kVsUAgkwbfBYcgcS26g90gX_kw@mail.gmail.com>
+Message-ID: <CAB3-dzfqnndr6JW7Mv+=oqknt14KX97kSKz057uh=-9a35Bt7A@mail.gmail.com>
+
+Hello Tyler,
+
+     Yes, I have encountered the same problem with DevanagariQWERTY
+keyboard with the new Apple OS.  Often I find that typing the "f" key twice
+one can get the conjunct.  This is a problem and I hope the next update
+will take care of it.  We need to inform Google about this.
+
+Madhav
+
+On Tue, Nov 21, 2017 at 7:05 PM, Tyler Williams via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear colleagues,
+>
+> Are there any Apple users among us who have experienced problems inputing
+> Devanagari while using the Chrome web browser since installing OS 10.12.6
+> (Sierra)? The problem seems to be limited to typing conjuncts in this one
+> application (but I'd be curious to hear if others are encountering other
+> problems). Chrome automatically sets to uft-8 encoding, so the problem is
+> somewhere else.
+>
+> Thanks,
+>
+> Tyler Williams
+> South Asian Languages and Civilizations
+> University of Chicago
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171121/84e5d2c2/attachment.htm>
+

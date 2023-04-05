@@ -1,0 +1,55 @@
+From sellmers at GMX.DE  Sun Apr  1 20:57:12 2012
+From: sellmers at GMX.DE (Sven Sellmer)
+Date: Sun, 01 Apr 12 22:57:12 +0200
+Subject: Query
+In-Reply-To: <459ED781-E61E-4611-BEF3-B0D9CCA18469@uts.cc.utexas.edu>
+Message-ID: <161227095839.23782.15547511298210129994.generated@prod2.harmonylists.io>
+
+Dear Patrick,
+
+I am not sure about the first problem, but if you would like to get a three letter conjunct (g+?+vi) then I am afraid this might just not be possible on the Mac.
+
+As far as ?+g is concerned, this works in Textedit (preinstalled Mac text editor) after activating the "Additional conjuncts" option in the submenu "Typography" of the ?+T menu. I would suppose in Page should be a similar way to add less frequent compounds, but I don't use this program.
+
+Best wishes,
+Sven
+
+-------- Original-Nachricht --------
+> Datum: Sun, 1 Apr 2012 15:28:21 -0500
+> Von: Patrick Olivelle <jpo at UTS.CC.UTEXAS.EDU>
+> An: INDOLOGY at liverpool.ac.uk
+> Betreff: [INDOLOGY] Query
+
+> Dear Computer Wizards:
+> 
+> Here is a problem that, I hope, a wizard out there can solve. I am using a
+> MAC (OS 10.7.3) and trying to type Devan?gar? on "Pages" with the
+> Devanagari-QWERTY keyboard and Tahoma font. It works beautifully, except for a
+> few annoying problems.
+> 
+> 1. for the conjunct "?v" and "?v" the Qwerty functions well. I can
+> even write well "?vi" and "?vi". But when these come immediately after
+> another letter, for example "?" or "g" -- the ligature between the two
+> letters break down, and we have "?" with a vir?ma followed by "v". However,
+> if the same conjunct is preceded by TWO letters, the ligature remains
+> intact!! This seems like witchcraft perpetrated on me who need these ligatures
+> preceded by just one letter!!!
+> 
+> 2. Another big problem with the Devanagari-QWERTY is the it is unable to
+> form a proper ligature of the guttural nasal "?" and a following "k" or
+> "g", even though it does perfectly the ligature between the nasal and the
+> conduct "k?". Go figure!! 
+> 
+> Any help in overcoming these problems would be deeply appreciated by an
+> ignoramus in Texas.
+> 
+> Thanks.
+> 
+> Patrick
+-- 
+Empfehlen Sie GMX DSL Ihren Freunden und Bekannten und wir
+belohnen Sie mit bis zu 50,- Euro! https://freundschaftswerbung.gmx.de
+
+
+
+

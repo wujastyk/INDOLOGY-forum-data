@@ -1,0 +1,156 @@
+From christophe.vielle at uclouvain.be  Mon Sep  4 11:04:19 2017
+From: christophe.vielle at uclouvain.be (Christophe Vielle)
+Date: Mon, 04 Sep 17 13:04:19 +0200
+Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0gUml2ZXIg4KSV4KS+4KSv4KSV4KWB4KSf4KWA?=
+In-Reply-To: <A4EBEA55-93B4-4DEE-90FA-6D7B329F5075@aol.com>
+Message-ID: <E1E350D3-B5EC-4C27-AC89-7BA47EE222E7@uclouvain.be>
+
+Dear Palaniappan,
+
+the date (which can be estimated only relatively) and place of Dak?i??vartan?tha are indeed still open to discussion. I take the opportunity of your remark for reviewing my notes on the question.
+
+The dating to the 12th century given by Pollock (World Philology, p. 118 - https://books.google.be/books?hl=fr&id=lbMyBQAAQBAJ&dq=Dak?i??vartan?tha&q=Daksinavartanatha#v=onepage&q=Dak?i??vartan?tha&f=false )
+is not really supported (there is a reference, ibid. fn. 18 p. 353, to Unni 1987 [see below], but the latter pp. 40-41 proposes a dating from the 13th to the 15th c.). 
+
+The place Tiruvala?cu?i [Thiruvalanjuli, also near Kumbakonam] given by Ajay K. Rao 2014 (your reference) was suggested by T. Ga?apati ??str? in his preface to the 1919 Trivandrum Sanskrit Series (no. 64) edition of the Meghasa?de?a with Dak?i??vartan?tha's Prad?pa (following the name of ?iva called Dak?i??vartan?tha in the sanctuary there, see: http://www.archive.org/details/MeghadutaWithTheCommentaryOfDaksinavartanatha ). 
+Unithiri 1976 (see below) suggests another Tiruvala?cu?i? in Kerala (Thrissur District), with the idea that D would be the Sanskritised form of a Malayalam place-name [Tiru +] "vala?cuzhi (dak?i?a = valam, 'right' + ?varta = cuzhi, 'whirlpool')". (Unni 1987, pp. 34-38, in discussing these suggestions even adds a third, Keralan also, Tiruvala?cu?i place, but he does not accept the Keralan ones and keeps the idea of the name Dak?i??vartan?tha as referring to the peculiar name of ?iva in the Tamil tradition linked to Tiruvala?cu?i near Kumbakonam). As we have seen, D gives the Sanskrit name of his place of origin (which could correspond to Tiruvi?aimarutt?r" [Thiruvidaimaruthur] near Kumbakonam, and thus close to the shrine of his name-deity according to N. P. Unni), for which you make now another suggestion of interpretation (Tiruppu?aimarut?r [Thiruppudaimaruthur], Ambasamudram taluk in Thirunelveli Distr. - http://tnmurals.org/Tiruppudaimaruduur.html : mural paintings in the temple).
+
+As for the relative dating, according to T. Ga?apati ??str? the date of D must be between the 12th c. (since D quotes the lexicon of Ke?avasv?min [ed. TSS 23, 29, 31, 1913] dated by Ga?apati ??str? to the 12th c. - but this lexicon belongs probably rather to the 2nd part of the 13th c. according to Madhukar M. Patkar, History of Sanskrit Lexicography, 1981, p. 97) and Aru?agirin?tha's time  (contemporary of  Mallin?tha, early 15th century).
+Examining the peculiar relationships between Dak?i??vartan?tha's Prad?pa and P?r?asarasvat?'s Vidyullat?, S.K. De (intr. to his critical ed. of the poem, 1957, p. xxxi fn. 92 ; cf. also 1957 below, pp. 51-52) presumes that D is prior to P. This is also the opinion of Unni with a few more arguments (1987, pp. 52-53, cf. 2016 below). But Unithiri, who has made a closer comparison between the two (1976: "It is to be noticed that in almost all cases [when D differs from P in readings] D[a]k[?i??vartan?tha] notes the variant readings which are those  of P[?r?a]s[arasvat?] and in most cases those of P[a]r[ame?va] also, indicating thereby that Dk corrects the traditionally accepted readings for his own reasons" ? about 20 such occurrences) has suggested the reverse (1975, p. viii; cf. also Iyer 1965, stressing on the differences between the Kerala textual tradition of P?r?asarasvat?/Parame?vara, on the one hand, and the one of Dak?i??vartan?tha/Mallin?tha on the other).
+
+Having myself several reasons to place P in the first part of the 14th c. (he must be close to Payy?r Bha??a Parame?vara 'I', fl. c. 1330, whose Sumanorama?? criticizes the Vidyullat? in a manner letting think that the two authors were very near in time and place), it would mean that D would belong either to to middle/second part of the 14th c. (close to both Mallin?tha and Aru?agirin?tha ? there is some connexion between them by their respective choices of names: A and M inspired by/having studied with D?) if he comes after, or to 2nd part of the 13th c. if he come before. I am at the moment of my examination rather inclined to place D after P.
+
+References:
+? K. Chattopadhyaya, ?Dak?i??vartan?tha and his Commentary on the Meghad?ta?, Mahamahopadhyaya Kuppuswami Sastri Commemoration Volume [C. Kunhan Raja ed.], Madras [c. 1935], pp. 17-24: https://archive.org/stream/in.ernet.dli.2015.201063/2015.201063.Kuppuswami-Sastri#page/n27/mode/2up 
+? S. K. De, ?Some Commentators on the Meghad?ta?, Annals of Oriental Research Institute (Madras), Centenary Number 13, 1957, (Sanskrit Section), pp. 49-64
+https://archive.org/stream/in.ernet.dli.2015.97583/2015.97583.Annals-Of-Oriental-Research--University-Of-Madrascentenary-Numbervol13#page/n259/mode/2up
+? S. Venkitasubramonia Iyer, ?The Meghasande?a tradition in Kerala?, Vishveshvaranand Indological Journal 3/1, 1965, pp. 60-68.
+? N.V.P Unithiri, ?Dak?i??vartan?tha?s commentary on Meghasa?de?a?, Journal of the Kerala University Oriental Research Institute & Manuscripts Library 20/1, 1975, pp. 13-20; Id. ?Dak?i??vartan?tha ? commentator on K?lid?sa?s poems: his provenance?, Vishveshvaranand Indological Journal 14, 1976, pp. 216-222; 
+? N.P. Unni, Meghasande?a (an assessment from the South), Delhi : Bharatiya Vidya Prakashan, 1987, pp. 33-65; Id., Highways and Byways in Sanskrit Literature, Delhi : New Bharatiya Book, 2012, vol. 1, pp. 181-191, 232-238 [retyping of the previous one; on Dak?i??vartan?tha, same pages as in 1987 also in N.P. Unni, Meghasande?a of K?lid?sa with the commentaries Prad?pa of Dak?i??vartan?tha, Vidyullat? of P?r?asarasvat?, Sumanorama?? of Parame?vara, edited with an elaborate introduction,
+Delhi : Bharatiya Vidya Prakashan, 1987, again retyped in Id. ed. Meghasande?a of K?lid?sa (text and translation) with Twelves Sanskrit Commentaries, Veliyanad: Chinmaya International Foundation, 2016, pp. 42-69 ? the text of the introduction of Unni in Meghasande?a of K?lid?sa with the Commentary Prad?pa of Dak?i??vartan?tha, Delhi : Nag Publishers, 1984, is slightly different, sometimes more extended, than the 1987 version - the latter can be seen as the "revised" one since it is the one which has been thereafter reproduced; I couldn't check Unni's article [probably = the text of the 1984 ed. intr.] "Dak?i??vartan?tha: A commentator of K?lid?sa", Sri Jagannatha Jyothi - Journal of Indology 1/2 (Puri), 1984, pp. 94-106).
+
+P.S. 
+1. the wrong statement made by T. Ga?apati ??str? (1919) that Mallin?tha quotes "Aru??chalan?tha" (= Aru?agirin?tha) ? the n?tha to whom both Mallin?tha and Aru?agirin?tha refer being samely Dak?i??vartan?tha only ? is slavishly repeated by De 1957, p. 51, and should be ignored.
+2. Here is the available portion of  the text of Dak?i??vartan?tha's D?pik? on Raghuva??a 6.59  as quoted by Unni 1984, p. 10, 1987, p. 37 (2016, p. 44): p???yade?e k?yaku??ti k?pi nad? vidyate | 
+3. Editions of Dak?i??vartan?tha's D?pik?s on both the Raghuva??a and the Kum?rasambhava is something reallly needed: Unni is himself relying on, respectively, the KUML transcripts T.220 and T.216 (the first one was lost when I once tried to consult it).
+
+Best wishes,
+Christophe
+
+
+Le 1 sept. 2017 ? 09:04, Sudalaimuthu Palaniappan <Palaniappa at aol.com> a ?crit :
+
+> Thank you Christophe. I stand corrected regarding the name K?yakku?i. Here is the location of the village Achamthavilthan https://www.google.com/maps/place/Achamthavilthan,+Tamil+Nadu+626137,+India/@9.3406345,77.5745443,13.98z/data=!4m5!3m4!1s0x3b06c40d59b23ce7:0xefcca7727b8ad986!8m2!3d9.4368458!4d77.6643502. 
+> 
+> The river K?yakku?i is not marked in the map, even at maximum zooming. (In contrast, one can see Vaippar can be seen further to the south.) But the satellite map shows a possible dry bed with potential water flows when there is heavy rain on the mountains to the west of Rajapalaiyam. Also see http://wikimapia.org/#lang=en&lat=9.466122&lon=77.574162&z=15&m=b&show=/19005235/?????????-???.
+> 
+> It is really surprising that such an insignificant river (probably unknown to people from outside the immediate area) is mentioned by a person from a far-away Tiruvi?aimarut?r. (One source says Dak?i??vartan?tha is from Tiruvala?cu?i near Kumpak??am. See https://books.google.com/books?id=70uvBAAAQBAJ&pg=PT37&lpg=PT37&dq=Dak?i??vartan?tha&source=bl&ots=fJgek3fYnA&sig=IuQZUkdGSskYUIqSsIMN43p3VXU&hl=en&sa=X&ved=0ahUKEwiXnqHGtYPWAhWj6oMKHRveCIIQ6AEIRTAH#v=onepage&q=Dak?i??vartan?tha&f=false ) If the name K?yakku?i is indeed mentioned in the commentary, and if Dak?i??vartan?tha?s place is still open, a possible candidate is Tiruppu?aimarut?r, the southern ?arjuna? location. (See https://www.google.com/maps/@9.8155248,77.8396093,8.27z)
+> 
+> One source dates Dak?i??vartan?tha to 12th century. See https://books.google.com/books?id=9P3lDAAAQBAJ&pg=PA118&lpg=PA118&dq=Dak?i??vartan?tha&source=bl&ots=6hFyoz8A9b&sig=XbHCimb93_96S5HpUkD63FXetXk&hl=en&sa=X&ved=0ahUKEwjdqvSko4PWAhUB7oMKHf5OBUcQ6AEIRzAH#v=onepage&q=Dak?i??vartan?tha&f=false. In the 12th century, the P???iyas were in Madurai. Even if Dak?i??vartan?tha lived in the 14th or 15th century, there was no headquarters of the P???iyas on the K?yakku?i river. Two places associated with the P???iyas were Ukkira? K???ai (https://www.google.com/maps/@9.8155248,77.8396093,8.27z) and Te?k?ci (https://www.google.com/maps/@9.8155248,77.8396093,8.27z) Both are nowhere near the K?yakku?i river.
+> 
+> I think this K?yakku?i river is a red herring as far as identifying Uraga is concerned.
+> 
+> Regards,
+> Palaniappan
+> 
+>> On Aug 31, 2017, at 11:02 AM, Christophe Vielle <christophe.vielle at UCLOUVAIN.BE> wrote:
+>> 
+>> There is a K?yaku??/"Kayakudi" river in Tamil Nadu, more precisely in the Pandya country. See:
+>> 
+>> The imperial gazetteer of India, W.W. Hunter, vol. 1, 1885, p. 12:
+>> https://archive.org/stream/imperialgazette01huntuoft#page/12/mode/2up
+>> 
+>> Achandavilt?n. ? Town in Srivilliputtur t?luk, Tinnevelli District, Madras Presidency. Lat. 9 29' n., long. 77 42' e. ; population (1881), 2765 ; houses, 544. Situated on the left bank of the Kayak?di river.
+>> 
+>> http://www.angelfire.com/nc2/achamthavilthan/about.htm
+>> 
+>> "Achamthavilthan" ,  means "the lord has removed the fear from the minds of the people".  There is a small story behind this.
+>> 
+>> There is a river in between the two parts of the village.  People have to go to other side of the river to buy Vegetables and other items. Once a pragrent lady has gone to other side to buy some items. On return, due to sudden rainfall there was a heavy water in the river and she has prayed to the Lord Venkatesa Perumal and he made the way for her. Due to this the people of this village has changed the name as "Achamthavilthan".
+>> 
+>> 11km from there, the same  river (a tributary of the Vaippar river/stream, which flows between the Vangai and the Tamraparni) is also linked to the Madavar Vilagam Vaidyanathar temple in Srivilliputhur (now Virudhunagar District):
+>> 
+>> https://en.wikipedia.org/wiki/Madavar_Vilagam_Vaidyanathar_temple
+>> http://temple.dinamalar.com/en/new_en.php?id=686
+>> The lord also said that as the spring healed her wounds and quenched her thirst, the stream would be known as Kayakudi Aaru.  Those having a dip in the river would be free of all fears of life and attain all comforts in life.
+>> 
+>> This should be the river to which refers the South-Indian commentator Dak?i??vartan?tha (who himself originated from some village called Mah?rjuna, identified with the "region called Madhy?rjuna which is the Sanskritised form of the popular name of Tiruvi?aimarutt?r" [Thiruvidaimaruthur] near Kumbakonam, according to N. P. Unni).
+>> 
+>> Why Dak?i??vartan?tha says that [the supposed Pandyan capital] N?gapuram is on the border of this river? Maybe because at the time of the late Pandyas (from the second third of the 14th c. onwards, after the establishment of the Sultanate of Madurai), their real capital was no longer in Madurai (even if they never stopped in their inscriptions to symbolically present themselves as the true rulers of Madurai); "they found themselves restricted to their more southern possessions" (K.A. Nilakanta Sastri, The Pandyan Kingdom, 1929, p. 217) in the regions of Srivilliputur, Tenkasi and Tirunelveli.
+>> 
+>> I am not sure that more historical importance has to be ascribed to this possibly "new" location of N?gapura by Dak?i??vartan?tha, who is a rather fanciful commentator. 
+>> 
+>> Best wishes,
+>> Christophe Vielle
+>> 
+>> Le 29 ao?t 2017 ? 23:27, Sudalaimuthu Palaniappan <palaniappa at aol.com> a ?crit :
+>> 
+>>> If the question is really about the river mentioned by a commentator, there is no river in Tamil Nadu called K?yaku??. If one considers the possibility that this name is a translation of some Tamil name, one has to allow for ?losses in translation?. According to Monier Williams, k?ya also means "assemblage , collection , multitude SaddhP.? This seems to be a synonym of sa?gha (perhaps referring to the legendary Tamil assembly in Madurai) or a translation of ?Ta. K??al?, another name of the city of Madurai. 
+>>> 
+>>> If it was related to the city called uraga, there was a discussion in Indology earlier such as
+>>> http://list.indology.info/pipermail/indology_list.indology.info/1999-March/016494.html 
+>>> 
+>>> I was not able to navigate and get to all the posts from this link. You may want to do a search on ?uraga? and look at the posts.
+>>> 
+>>> Regards,
+>>> Palaniappan
+>>> 
+>>>> On Aug 29, 2017, at 9:32 AM, Christophe Vielle via INDOLOGY <indology at list.indology.info> wrote:
+>>>> 
+>>>> The name of this river is reminding of 'K?yal', the name of the emporium in the delta of the Tamraparni (Tinnevelly District) referred to by Marco Polo (https://ebooks.adelaide.edu.au/p/polo/marco/travels/book3.21.html - cf. K?lkhoi emporion, Ptolemy Geogr. 7, 1, 10). But the Tamil word k?yal ('backwater, mouth of a stream") is far from the meaning of "Curve of the body" (ku?? is found in several words for/names of "curving" rivers). The T?mrapar??  herself is described by K?lid?sa in 4.50 (53  crit. ed. Goodall & Isaacson).
+>>>> This explanation of N?ga(/Uraga)-pura as a city on the border of the K?yaku??  river in the  P???ya country was already made by  Dak?i??vartan?tha  (13th-14th c.) in his unpublished d?pik? on the Raghuva??a according to N. P. Unni (Highways and Byways in Sanskrit Literature, Delhi: New Bharatiya Book Corporation, 2012, p. 159, who relies on a KUML transcript-manuscript). It is in this case (like in other) the source of  Aru?agirin?tha (contemporary of  Mallin?tha, early 15th century - the latter who also sometimes uses Dak?i??vartan?tha has possibly misread his source here or, as you guess, his text has been later corrupted), himself followed by  N?r?ya?a Pa??ita.
+>>>> The commentary of Vallabhadeva could be useful here, but I have not Goodall & Isaacson edition at hand.
+>>>> On his side, the commentator Hem?dri says: urag?khyasyeti kalpit?rtham.
+>>>> Best wishes,
+>>>> Christophe Vielle
+>>>> 
+>>>> Le 28 ao?t 2017 ? 21:34, Krishnaprasad G via INDOLOGY <indology at list.indology.info> a ?crit :
+>>>> 
+>>>>> Dear all
+>>>>> 
+>>>>> In Raghuvamsa 6th Canto and Verse 58 or 59 
+>>>>> ???????????? ?????? ???? first foot says about Nagapura or Uragapura 
+>>>>> Mallinatha explains as ??????????????????????????? but this seems to be a mistake as Kanouj is on the North of India , whereas the poet in further verses clearly places it on the south. 
+>>>>> 
+>>>>> And on further search I found Arunagirinatha and Narayana in the commentary to the above mentioned verse give the details as the place  in the bank of the river ???????
+>>>>> ?????????? ??????? ??? ??? ??????? ??????? ???? ???????????...
+>>>>> 
+>>>>> Does any one knows about this river or its modern name kindly inform.
+>>>>> 
+>>>>> I also believe that even Mallinatha has written ??????? as the name is not famous that must be due to ??????????? scribal error occurred
+>>>>> Thanks
+>>>> Correction :
+>>>> Not ??????? 
+>>>>> _______________________________________________
+>>>>> INDOLOGY mailing list
+>>>>> INDOLOGY at list.indology.info
+>>>>> indology-owner at list.indology.info (messages to the list's managing committee)
+>>>>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>>> 
+>>>> ???????????????????
+>>>> Christophe Vielle
+>>>> Louvain-la-Neuve
+>>>> 
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing committee)
+>>>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>> 
+>> 
+>> ???????????????????
+>> Christophe Vielle
+>> Louvain-la-Neuve
+>> 
+> 
+
+???????????????????
+Christophe Vielle
+Louvain-la-Neuve
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170904/ccd7b1d6/attachment.htm>
+

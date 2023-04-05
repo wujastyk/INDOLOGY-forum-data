@@ -1,0 +1,48 @@
+From kichenas at math.umn.edu  Thu Nov 30 00:12:16 1995
+From: kichenas at math.umn.edu (kichenas)
+Date: Thu, 30 Nov 95 00:12:16 +0000
+Subject: new translations
+Message-ID: <161227021862.23782.1263656069724723949.generated@prod2.harmonylists.io>
+
+Further to Gary Tartakov's comment on translations, it may be useful to
+point out that in practice, the internal consistency of the texts usually
+enables one eventually to figure out what the author really meant. It is
+quite interesting to do this for poems of the Sangam, some of which are
+rather short with little contextual information (from a colophon) but
+which can be given a single correct interpretation. There are of course
+many other examples. The translation itself further requires of course
+using to the fullest the capacities of the target language, which leads to
+issues already raised e.g. by B. Kellner. 
+
+All things considered, there are only three possibilities: 
+either one satisfactory interpretation has been achieved
+or the text is deliberately ambiguous
+or we must admit that we lack enough arguments to conclude what
+the author originally meant. It seems desirable that a translation make clear
+which of the above applies to it, and that a critical apparatus, if
+provided, should explain why. That is what the better editions accomplish,
+and there are many of those.
+
+I don't think most of those who tried their hand at translating would
+call the result `easily achieved,' but was it supposed to be? Contextual
+problems always have to be coped with, even with technical literature---as
+anyone who tried to read ancient mathematical treatises, or even
+contemporary scientific works in a field other than his/her own, knows
+well. 
+
+Perhaps the term `scientific translation' should be replaced by `rigorous
+translation' lest it may suggest a (pointless) opposition between
+`scientific' and `literary' pursuits. 
+
+                                Satyanad Kichenassamy
+                                School of Mathematics  
+                                University of Minnesota
+                                E-mail: kichenas at math.umn.edu
+ 
+
+ 
+
+
+
+
+

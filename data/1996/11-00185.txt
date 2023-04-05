@@ -1,0 +1,246 @@
+From ucgadkw at ucl.ac.uk  Wed Nov 20 10:12:55 1996
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 20 Nov 96 10:12:55 +0000
+Subject: Diffusion of Sanskrit (was Re: The Coming of the Greeks) <fwd> (fwd)
+Message-ID: <161227026971.23782.2008884816816627085.generated@prod2.harmonylists.io>
+
+
+This is a summary of a discussion that has been going on in the
+sci.archaeology group recently, which  Joe Bernstein thought -- rightly, I
+think -- would be of interest here in INDOLOGY.
+
+I'm not sure how to coordinate this discussion: perhaps INDOLOGISTS should
+join the sci-archaeology debate if they wish to participate.  On the other
+hand, this is bread-and-butter stuff for us too.
+
+Dominik Wujastyk
+
+---------- Forwarded message ---------- 
+Date: Sun, 17 Nov 1996 08:56:20-0600 
+From: Joe Bernstein <joe at sfbooks.com> 
+Subject: Diffusion of Sanskrit (was Re: The Coming of the Greeks)  
+
+
+In article <56lmr8$b1p at reaper.uunet.ca>, sshankar at waterloo.border.com wrote:
+
+>Miguel Carrasquer Vidal wrote:
+>> 
+>> Indo-Iranians from Central Asia came into Iran and India somewhere in
+>> the 2nd millennium.  Given that Indo-Iranian is closely connected to
+>> languages in Europe (Greek especially), their ultimate origin must be
+>> (Eastern) Europe.
+
+(Just before we get any further...  I'm not current on I-E origins stuff,
+but hadn't understood it to be *quite* that simple!)
+
+> Do you know of  any archeaological evidence for the "movement of  
+>Indo-Iranians into Iran & India" ??
+> Recent studies seem to question the validity of the "IE movement into
+> India" theories.
+
+I've yet to see such studies unconnected to places with names like "Vedic
+Research Institute"; in particular, I've seen a spectacularly unconvincing
+paper by one David Frawley (presumably still findable on the Web, where I
+first saw it).  (Also, in the distant past, various articles assuming or
+claiming to support the <Mahabharata> chronology appeared in the <Journal
+of Indian History>.)  I will appreciate any better references you can
+provide.  The rest of this post proceeds on what I know, which
+unfortunately derives from a lot of careful study years ago, plus rather
+less, and less careful, recent reading.
+
+There are lots of disagreements over how *many* Indo-European speakers
+arrived in India, in particular (or South Asia more generally:  in this
+post, I'm awake as to which I use, thanks), or about *how* these speakers
+arrived.  Some months ago, Moin Ansari and I debated these issues at some
+length on this newsgroup, and I'm cc'ing him on this post partly to let
+him know the topic's back.
+
+But there is very little doubt that such people *did* arrive in India, and
+around the time Mr. Carrasquer Vidal says (though maybe the 3rd millennium
+BC is a possibility).
+
+Several lines of evidence converge on this, and there doesn't seem to be a
+lot of room left for disagreement.  When I last studied the subject in
+detail (1986-7), the main arguments that held water were still the
+19th-century linguistic and textual ones (e.g., the similarity between
+Avestan Persian and Vedic Sanskrit, or the tendency for the older texts to
+use further-west place names).  While these were good enough to persuade
+me the movement happened, I wasn't terribly confident about much more than
+that.  (Mr. Ansari, by the way, disagrees strenuously with me on the
+validity of the other older arguments, but he can make his own case.)
+
+Recent evidence appears to make it much clearer.  First of all, Asko
+Parpola's belief that the Indus Valley Civilisation's language was a
+Dravidian language is now persuading quite a few people who had been
+skeptical; I understand he's close to a translation of the seals.  (Mr.
+Ansari's references are much likelier to be current than mine, here.) 
+Much the most plausible way to explain the subsequent disappearance of
+Dravidian languages from that area is by positing a migration from the
+northwest, not one from the southeast.
+
+Second, there's evidence for that migration.  See the interim site report
+on Harappa, in particular (Meadow 1991 below).  In the chapter which John
+Lukacs worked on, there is an unequivocal assertion of significant
+population changes in the centuries prior to 800 B.C.  The people who
+worked on this chapter have my respect, and their methods are as carefully
+scientific as I can imagine a way to be; I haven't had the opportunity to
+read it yet, but I'm inclined (reluctantly, I might add) to assume they're
+correct.
+   In addition (somewhat older argument here, but germane), there's more
+general "touchy-feely" evidence of the pottery-styles sort of some sort of
+migration southeast.  Notable stylistic traits in pottery show this
+direction of diffusion.  I'm thinking in particular of the appearance of
+fine grey wares.  It's also worth considering Pirak Damb (Jarrige 1979),
+where there are clear Central Asian affinities in the post-Harappan
+population's material culture.  Some summary of the "grey ware - Sanskrit"
+equation may be found in Gaur 1983 (though this has to be read with care,
+as Gaur was not entirely free to speak his mind there).
+
+I'm not sure what else goes into the shift in opinion.  Ten years ago,
+there was a general sense in South Asian archaeology of an opening, a
+sense that much of the standing interpretation of that archaeology was
+simply wrong and needed revising.  One of the things that grew out of that
+was, of course, the opening for claims (e.g.) that Sanskrit (or for that
+matter the human race) originated in India.  But there was also a lot of
+work being done trying to replace the flawed conclusions of the past with
+better ones.  Unfortunately, my brief opportunity to watch that work
+happen ended; in the past eight years, I haven't even found a library
+where I can read <Puratattva>.
+   I have, however, found a number of supporting references.  Ghosh 1989
+is a full-blown encyclopaedia of Indian archaeology.  This has been
+supplemented by a number of books from Dilip Chakrabarti synthesising the
+archaeology of specific regions (I'm sure of both Bangladesh and West
+Bengal, but there may be more; no references handy, sorry); I believe
+there's been similar regional work in Pakistan, which Mr. Ansari can
+perhaps confirm or deny.
+   In addition, a full-blown synthesis of protohistorical and early
+historical archaeology has appeared, cited below as Allchin 1995.  This
+contains two different discussions of the "Aryans", quite at odds with
+each other.  But the contributors (again trustworthy, George Erdosy and F.
+R. Allchin) leave no doubt that the fact of Aryans arriving is settled.
+
+I'm sorry that this is the best I can offer.  Mr. Ansari and I were
+supposed to go back to the libraries after our last debate ran its course,
+revise our respective opera, and come back here in the spring.  I believe
+he's ready now, but I'm not:  shame on me.
+
+All the same.  His case for a full-blown "Aryan invasion" with all the
+blood and gore that implies is stronger than I then gave it credit for,
+though I continue to prefer a model more analogous to that by which
+Spanish became the dominant language of Mexico (say), or perhaps less
+violent than that.  Much of my evidence for this has to do with pottery
+sequences and such from sites which I don't believe Mr. Ansari is that
+familiar with*, just as much of his "invasion" evidence has to do with
+sites I don't know well.  But either way, there doesn't seem to be any
+room left to deny that Sanskrit came from elsewhere.
+
+While this post is rather less confident than my ones in the prior debate,
+by the way, it's got something those generally didn't.  I now have my
+bibliography on this stuff stored where I post from:  so this one has
+REFERENCES.  These follow.
+
+Joe Bernstein
+
+*  Some of what I mean by this:  At least as of 1987, I was pretty firmly
+convinced:  that the dish-and-bowl assemblage which characterises
+protohistoric pottery in the region had originated in the Doab, based
+partly on Sahi 1978; that the Black-and-Red pottery technique had been
+learnt from the south (common sense, see H. Singh 1982); that the first
+settlers in UP other than the mysterious Ochre-Coloured Pottery folks were
+from the hills south of the Doab (I'm having trouble finding a good
+reference for this; try G. R. Sharma in Kenoyer X below, if Sharma has an
+article there); and that both rice and iron (Chakrabarti 1977 on the
+latter) reached the Doab from Bengal.  On top of all this, I was
+confident, on the basis of Erdosy 1985 and other sources, that the
+urbanisation of the region was more or less independent of, and prior to,
+the arrival of the Vedic Aryans.  Ultimately, my argument was that they
+just didn't matter that much.  How much of this I can still sustain
+remains to be seen.
+
+Items referenced in this post:
+
+Allchin 1995:  THE ARCHAEOLOGY OF EARLY HISTORIC SOUTH ASIA:  THE
+EMERGENCE OF CITIES AND STATES, by F. R. Allchin, with contributions from
+George Erdosy, R. A. E. Coningham, D. K. Chakrabarti, and Bridget
+Allchin.  (Erdosy has since changed his name to Muhammad Usman Erdosy,
+according to the preface.)  Cambridge:  Cambridge, 1995.
+
+Chakrabarti 1977:  "Distribution of iron ores and the archaeological
+evidence of early iron in India" by Dilip K. Chakrabarti.  JOURNAL OF THE
+ECONOMIC AND SOCIAL HISTORY OF THE ORIENT 20:  166-84.  I am quite aware
+that this topic has remained controversial; at the time I wrote my paper,
+*this* paper still looked good to me, and I haven't had the opportunity to
+catch up or reassess my judgement then.. My apologies for lacking full
+references to Chakrabarti's books on Bangladesh etc.  I've seen them in
+the library of Northwestern University, and I'd look them up there now if
+this computer would allow that, but at the moment it won't.
+
+Erdosy 1985:  "Settlement archaeology of the Kausambi region" by George
+(now Muhammad Usman) Erdosy.  MAN AND ENVIRONMENT 9:  66-79.
+
+Gaur 1983:  EXCAVATIONS AT ATRANJIKHERA, by R. C. Gaur.  Delhi:  Motilal
+Banarsidass, 1983.
+
+Ghosh 1989:  AN ENCYCLOPAEDIA OF INDIAN ARCHAEOLOGY, edited by A. Ghosh. 
+New Delhi:  Munshiram Monoharlal, 1989.  Two volumes, one with entries on
+topics, the other with entries on sites.  (I've seen this cited as also
+appearing in Leiden:  E. J. Brill, 1991, as AN ENCYCLOPAEDIA OF ANCIENT
+INDIA, but have not seen this edition.)
+
+Jarrige 1979:  FOUILLES DE PIRAK, by Jean-Francois Jarrige, Marielle
+Santoni, Jean-Francois Enault, et al.  Paris:  Diffusion de Boccard, 1979.
+
+Meadow 1991:  Meadow, Richard H., ed. 1991. Harappa Excavations 1986-1990:
+A  Multidisciplinary Approach to Third Millennium Urbanism. Monographs in 
+World Archaeology No. 3. Prehistory Press. Madison, WI.  (Entry from Ben
+Diebold)
+
+Sahi 1978:  "New light on the life of the Painted Grey Ware people as
+revealed from excavations at Jakhera (Dist. Etah)" by M. D. N. Sahi.  MAN
+AND ENVIRONMENT 2:  101-3.
+
+H. Singh 1982:  HISTORY AND ARCHAEOLOGY OF BLACK-AND-RED WARE
+(CHALCOLITHIC PERIOD) by H. N. Singh.  Delhi:  Sundeep Prakashan, 1982.
+
+Additional items for which I have references handy, which seem likely to
+be of interest (credit to Ben Diebold and Moin Ansari for these, except
+for King 1984, Lal 1984 and Shaffer 1981):
+
+Clark, John E. and William J. Parry 1990  " Craft Specialization and
+Cultural Complexity." Research in Economic Anthropology, vol. 12, pp:
+289-346. (from Moin Ansari.  I haven't yet looked for this, but the title
+certainly relates to the topics of current discussions of Harappan civ)
+
+Michael Jansen `Forgotten Cities of the Indus' 1993 or 1994 - (from
+Moin Ansari; apparently a good introductory book; the Jansens have been
+central to recent work systematically re-examining the records of the
+Mohenjo-daro digs)
+
+Old Problems and New Perspectives in the Archaeology of South Asia
+edited by J.M.Kenoyer, Wisconsin Archaeological Reports Vol 2, 1989. [from
+conference in 89] (from Moin Ansari)  Nope, the conference was in 1986 or
+1987, I was there.  Lots of good stuff here.  If there's an article by G.
+R. Sharma or R. C. Gaur there, check it for material on the earliest
+settlers of the Doab.
+
+Kenoyer, Jonathan Mark. 1991a. "The Indus Valley Tradition of Pakistan 
+and Western India." Journal of World Prehistory. 5:4:331-385. (from Ben
+Diebold:  I've skimmed it; a good solid basic article on the Harappan civ;
+at first glance not much about Aryans)
+
+King 1984:  "Some archaeological problems regarding Gangetic cultures in
+early historical India" by Anna King.  In STUDIES IN THE ARCHAEOLOGY AND
+PALAEOANTHROPOLOGY OF SOUTH ASIA, ed.. Kenneth A. R. Kennedy and Gregory L.
+Possehl, pp. 109-19.  New Delhi:  Oxford & IBH, 1984.  Forcefully presents
+the case against invasions during the first millennium BC in the Doab and
+adjacent regions.
+
+Lal 1984:  SETTLEMENT HISTORY AND RISE OF CIVILIZATION IN GANGA-YAMUNA
+DOAB:  FROM 1500 B. C. - 300 A. D. by Makkhan Lal.  Delhi:  B. R., 1984. 
+Though strongly bound by the old consensus, this is still a superb
+synthesis of knowledge on the subject as of its date, and includes the
+first substantial settlement survey done in north India (I believe M.
+Rafique Mughal's work in the Cholistan area of Pakistan preceded, but am
+not that familiar with that).
+
+Lukacs, John R. 1992. "Dental Paleopathology and Agricultural 

@@ -1,0 +1,42 @@
+From ucgadkw at UCL.AC.UK  Wed Dec 20 13:34:56 2000
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 20 Dec 00 13:34:56 +0000
+Subject: PDF (was publication of IASS papers on CDROM)
+In-Reply-To: <3A400C50.4B75A239@anthosimprint.com>
+Message-ID: <161227065696.23782.8337011084036527078.generated@prod2.harmonylists.io>
+
+On Wed, 20 Dec 2000, Gunthard Mueller wrote:
+
+> What I personally envisage as feasible would be this kind of scenario.
+
+[description of migrating-on-demand of data from obsolete formats]
+
+
+In 1977/78 typed two chapters of the Kumarasambhava into machine-readable
+format.  I used an IBM card punch machine.  I also wrote lots of programs,
+and typed some other texts.
+
+I vividly remember running (literally) to the computer centre in Oxford in
+the late 1980s, when I heard that they were about to discard their last
+card-reader.  I managed to hand my shoe-boxes of cards in to the
+conversion service just days before they stopped accepting cards.  As it
+was, the main card reader had already been shut down, and my cards had to
+be partly entered by hand, and header-footer cards had to be punched with
+a hand stencil.
+
+The data I rescued from imminent loss is now on 5.25 floppies.  I cannot
+read them either now.
+
+I don't believe anybody who thinks data migration is simple, easy, or not
+a major problem.  Preserving computer data is a dynamic, costly process
+which requires pro-active management.
+
+Cf. http://www.clir.org/cpa/abstract/pub63.html
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+
+

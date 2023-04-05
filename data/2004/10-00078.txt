@@ -1,0 +1,95 @@
+From asg at U.WASHINGTON.EDU  Sun Oct 31 19:51:45 2004
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Sun, 31 Oct 04 11:51:45 -0800
+Subject: Devanagari
+In-Reply-To: <Pine.GSO.4.21.0410311000150.20181-100000@harper.uchicago.edu>
+Message-ID: <161227075179.23782.5630139223619675235.generated@prod2.harmonylists.io>
+
+The situation with Devanagari has improved enourmously in the last
+couple of years. The basic requirements are three-fold:
+     1. Operating system support
+     2. a Devanagari font
+     3. a means to input values in this font
+         3a. a keyboard mapping utility
+         3b. a conversion utility
+It is important to note that as long as the operating system support is
+there, any unicode devanagari font will work with any keyboard input system.
+
+
+1. Operating System:
+Correct rendering of Devanagari unicode fonts is partly dependent on
+support from the operating system. This support is available in Windows
+XP, Linux, and Max OS X.2. Users of Windows 2000 are able to use this
+font if they have installed a recent version of Microsoft Office, i.e.,
+Office XP, or Office 2003. Or otherwise obtained the required dll file.
+Older versions of Mac OS can use Devanagari if the appropriate language
+pack has been installed.
+
+
+2. Font:
+As Stefan Baums recently mentioned on this list, Ulrich Stiehl has
+compiled a list of 'all' conjuncts that occur in Sanskrit and Pali. This
+was then used as the basis for a comprehensive Devanagari font, called
+Sanskrit 2003 by Omkarananda Ashram. There are other Devanagari fonts
+out there but this is the only one I know which is really suitable for
+Sanskrit owing to the extensive coverage of conjuncts. The appearance of
+Sanskrit 2003 is fairly classic, but not quite as elegant as Arial
+Unicode. However, Arial Unicode lacks many conjuncts and even contains a
+few errors.
+Both Arial Unicode and Sanskrit 2003 are OpenType fonts which will work
+on Windows XP, Linux, and Max OS X.2 or later.
+
+The Sanskrit 2003 font can be obtained for free directly from the
+Omkarananda Ashram:
+http://www.omkarananda-ashram.org/Sanskrit/sanskrit2003.zip
+
+The Arial Unicode font was distributed with Microsoft Office 2000, and
+is not freely available.
+
+More options and reviews of Devanagari fonts can be found here:
+http://www.travelphrases.info/gallery/Fonts_Devanagari.html
+
+
+2a. Keyboard Input:
+I have written a Keyboard input system for Unicode encoded Devanagari
+which allows the user to type transliteration and get the correct
+Devanagari sequence.
+The keyboard system I wrote will work for any Unicode encoded Devanagari
+font, but only work on a Windows system. I have no plans to make it work
+for other platforms, however, I am happy to share the source code of
+this keyboard with anyone who is able use it to this end.
+
+This keyboard program can be obtained from my web page:
+http://depts.washington.edu/ebmp/downloads/Devanagari-2.2.exe
+
+There is also an input guide:
+http://depts.washington.edu/ebmp/downloads/Devanagari-Keyboard.pdf
+
+Windows 2000 and XP also support Sanskrit input using a built-in
+Sanskrit keyboard, however, this departs entirely from the QWERTY
+standard, and so requires dedicated study. This keyboard is also not
+well documented. However, I do know some who are using this system quite
+happily. The end result is the same regardless of which input system one
+uses.
+I am not aware of the situation with Devanagari input on Linux and Mac
+systems.
+
+
+2b. Conversion Utility:
+John Smith has made a conversion utility which will converts a text file
+from transliteration (UTF-8) to Devanagari (UTF-8), this program is
+available from his website:
+ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/ur2ud.exe
+
+I am planning to write an MS Word macro which will convert selected text
+in transliteration (UTF-8) to Devanagari (UTF-8). I will make this
+available from my website when it is ready.
+
+
+
+Andrew Glass
+Seattle
+
+
+
+

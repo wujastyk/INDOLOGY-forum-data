@@ -1,0 +1,22 @@
+From POWERS at AC.GRIN.EDU  Thu Mar 17 02:11:11 1994
+From: POWERS at AC.GRIN.EDU (C John Powers)
+Date: Wed, 16 Mar 94 21:11:11 -0500
+Subject: Devanagari Fonts
+Message-ID: <161227016633.23782.298080327038583193.generated@prod2.harmonylists.io>
+
+The best laser devanagari font I've seen for the Mac is called Jaipur and was 
+developed at University of British Columbia, and I understand that it may be 
+obtained through Dr. Ashok Aklujkar. It's easy to use, and has all the major 
+letter combinations. Another font (bitmap) was developed by John Roberts at 
+U. of Virginia. It's not as elegant as Jaipur, but it has some useful 
+combinations if one is doing Hindi.
+
+John Powers
+Grinnell College
+powers at grin1.bitnet
+ 
+
+
+
+
+

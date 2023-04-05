@@ -1,0 +1,26 @@
+From mani at srirangam.esd.sgi.com  Mon Mar  4 19:59:13 1996
+From: mani at srirangam.esd.sgi.com (mani at srirangam.esd.sgi.com)
+Date: Mon, 04 Mar 96 11:59:13 -0800
+Subject: New TeX fonts for Indian languages
+Message-ID: <161227023181.23782.7928235395466852407.generated@prod2.harmonylists.io>
+
+
+One of the problems with Velthuis's otherwise excellent
+Devanagari font is the lack of hyphenation tables.  This 
+makes it very difficult to typeset Devanagari text that
+is visually very long, either due to samAsa or sandhi,
+since right-justification now becomes an impossibility
+due to word wrap.  The ornate, samAsa laden literature
+exemplified by Bana's ``kAdambari'', for example, just 
+does not look right when typeset using this font.
+
+Has anyone else encountered this problem? If someone
+has a solution, I would love to hear it.
+
+Mani Varadarajan
+mani at sgi.com
+
+
+
+
+

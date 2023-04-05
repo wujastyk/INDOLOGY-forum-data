@@ -1,0 +1,148 @@
+From mkapstei at uchicago.edu  Fri Feb  6 16:02:59 2015
+From: mkapstei at uchicago.edu (Matthew Kapstein)
+Date: Fri, 06 Feb 15 16:02:59 +0000
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_The_word_k=C4=81rik=C4=81_in_the_title_of_works?=
+In-Reply-To: <CAOuG4CaOks782QFbfRzs4PbqvsZ0T=mm3LTO9Jny0DY4T8JWOQ@mail.gmail.com>
+Message-ID: <82C3E42590D939418C74DD76B97DDED0374E1401@xm-mbx-04-prod.ad.uchicago.edu>
+
+Dear Philipp,
+
+I do not have the reference to Wezler, and I do not know about the particular case
+of the S??khyak?rik?, but it is quite clear from the Tibetan transcriptions of the Sanskrit
+titles of works in which k?rik? is used that this usage is not "modern". Here are the instances
+from the Tibetan canons, as retrieved by searching the University of Vienna's useful site on
+Kanjur studies:
+https://www.istb.univie.ac.at/kanjur/xml3/xml/index.php
+
+all best,
+Matthew
+
+--KANJUR--
+
+
+
+
+rKTS-K947<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif2.php?id=947>      saddharmasm?tyupasth?nak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif2.php?id=947>
+
+
+--TANJUR--
+
+rKTS-T46<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=46>        gu??paryantastotrapadak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=46>
+
+rKTS-T61<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=61>        k?lap?j?mah?catu?kak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=61>
+
+rKTS-T585<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=585>      tattvak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=585>
+
+rKTS-T1518<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=1518>    ?rya-anantamukhanirh?radh?ra??vy?kh?nak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=1518>
+
+rKTS-T1827<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=1827>    [?ryavajravid?ra??karam??uk?rikarmavidhi.]<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=1827>
+
+rKTS-T3131<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3131>    abhisamay?la?k?ra-n?ma-praj??p?ramitopade?a??strak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3131>
+
+rKTS-T3133<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3133>    ?ryapa?cavi??atis?hasrik?praj??p?ramitopade?a??str?bhisamay?la?k?rak?rik?v?rttik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3133>
+
+rKTS-T3141<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3141>    abhisamay?la?k?rak?rik?praj??p?ramitopade?a??stra??k? prasphu?apad?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3141>
+
+rKTS-T3146<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3146>    abhisamay?la?k?rak?rik?v?tti ?uddhamat?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3146>
+
+rKTS-T3154<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3154>    ?ryapraj??p?ramit?sa?grahak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3154>
+
+rKTS-T3155<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3155>    ?ryapraj??p?ramit?sa?grahak?rik?vivara?a<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3155>
+
+rKTS-T3169<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3169>    praj??-n?ma-m?lamadhyamakak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3169>
+
+rKTS-T3170<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3170>    yukti?a??ik?k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3170>
+
+rKTS-T3172<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3172>    ??nyat?saptatik?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3172>
+
+rKTS-T3173<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3173>    vigrahavy?vartan?k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3173>
+
+rKTS-T3181<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3181>    prat?tyasamutp?dah?dayak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3181>
+
+rKTS-T3191<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3191>    catu??ataka??stra-n?ma-k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3191>
+
+rKTS-T3193<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3193>    hastav?laprakara?ak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3193>
+
+rKTS-T3200<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3200>    madhyamakah?dayak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3200>
+
+rKTS-T3214<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3214>    tarkamudgarak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3214>
+
+rKTS-T3229<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3229>    madhyamak?la?k?rak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3229>
+
+rKTS-T3239<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3239>    nir?k?rak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3239>
+
+rKTS-T3244<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3244>    sugatamatavibha?gak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3244>
+
+rKTS-T3280<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3280>    ?ik??samuccayak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3280>
+
+rKTS-T3325<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3325>    ?rya??listambakak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3325>
+
+rKTS-T3359<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3359>    mah?y?nas?tr?la?k?rak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3359>
+
+rKTS-T3362<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3362>    dharmadharmat?vibha?gak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3362>
+
+rKTS-T3394<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3394>    tri??ik?k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3394>
+
+rKTS-T3395<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3395>    vi??atik?k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3395>
+
+rKTS-T3427<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3427>    abhidharmako?ak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3427>
+
+rKTS-T3429<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3429>    abhidharmako?a??strak?rik?bh??ya<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3429>
+
+rKTS-T3461<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3461>    vinayak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3461>
+
+rKTS-T3462<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3462>    ?ryam?lasarv?stiv?di?r?ma?erak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3462>
+
+rKTS-T3463<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3463>    ?ryam?lasarv?stiv?di?r?ma?erak?rik?v?ttiprabh?vat?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3463>
+
+rKTS-T3464<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3464>    tri?atak?rik?vy?khy?na<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3464>
+
+rKTS-T3466<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3466>    ?rama?apa?c??atk?rik?pad?bhismara?a<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3466>
+
+rKTS-T3469<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3469>    nid?napudgalasa?grahak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3469>
+
+rKTS-T3472<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3472>    vinayapra?nak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3472>
+
+rKTS-T3517<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3517>    saddharmasm?tyupasth?nak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3517>
+
+rKTS-T3547<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3547>    pram??av?rttikak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3547>
+
+rKTS-T3579<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3579>    sarvaj?asiddhik?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3579>
+
+rKTS-T3580<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3580>    b?hy?rthasiddhik?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3580>
+
+rKTS-T3581<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3581>    ?rutipar?k??k?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3581>
+
+rKTS-T3582<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3582>    any?pohavic?rak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3582>
+
+rKTS-T3583<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3583>    ??varabha?gak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3583>
+
+rKTS-T3601<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3601>    tattvasa?grahak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3601>
+
+rKTS-T3609<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3609>    vibhaktik?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3609>
+
+rKTS-T3628<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3628>    pi??anivartananirde?ak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3628>
+
+rKTS-T3905<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3905>    madhyamak?vat?rak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3905>
+
+rKTS-T3915<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3915>    sugatamatavibha?gak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3915>
+
+rKTS-T3917<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3917>    prat?tyasamutp?dah?dayak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3917>
+
+rKTS-T3934<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3934>    vajracchedik?y?? praj??p?ramit?y?vy?khy?nopanibandhanak?rik?<https://www.istb.univie.ac.at/kanjur/xml3/xml/verif3.php?id=3934>
+
+
+Matthew Kapstein
+Directeur d'?tudes,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150206/57a079b2/attachment.htm>
+

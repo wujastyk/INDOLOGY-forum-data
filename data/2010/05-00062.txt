@@ -1,0 +1,81 @@
+From hwtull at MSN.COM  Mon May 17 21:46:31 2010
+From: hwtull at MSN.COM (Herman Tull)
+Date: Mon, 17 May 10 17:46:31 -0400
+Subject: Help with keyboard
+In-Reply-To: <op.vcva1qnhcvbgtz@tapti>
+Message-ID: <161227089599.23782.11282102328019528742.generated@prod2.harmonylists.io>
+
+I am a big fan of Baraha.  When I first made the shift to Windows 7, Baraha 
+produced the infamous boxes, etc.  However, I think I caused the problem by 
+changing the settings in the "Region and Language" area of the control panel 
+(something that I think was required in XP, but apparently not in Windows 
+7).  I set everything back to default, and Baraha started to work. 
+Incidentally, I use Baraha Direct, and type directly into Word 2007.
+
+I realize Windows and Word are for those of us trapped in this world of 
+nescience, but they do have great utility, and I find that with them (and 
+Baraha) I am able to easily produce serviceable devanagari.
+
+Herman Tull
+Princeton, NJ
+
+--------------------------------------------------
+From: "J?rgen Neuss" <juergen.neuss at FU-BERLIN.DE>
+Sent: Monday, May 17, 2010 4:54 PM
+To: <INDOLOGY at liverpool.ac.uk>
+Subject: Re: [INDOLOGY] Help with keyboard
+
+> dear kenneth and others,
+>
+> i recently tried to install anything i know regarding diacritics, from
+> gandhari-unicode to baraha, on the windows 7 computer of one of my
+> students. I learned, to my surprise, that nothing worked at all with w7,
+> even though different programs use different approaches to override the
+> standard windows keyboard layout. i could neither find a solution nor the
+> reason for this, nor any kind of workaround. i simply failed. i decided to
+> avoid w7 for myaself, [as long as possible] and told my student to do the
+> same. she now uses xp again - and no problem at all with either of the
+> approaches tried in vain on w7.
+> so i can only recommend to downgrade to xp, as long as one cannot use
+> another os with suitable software available.
+> if anyone has a solution for the w7 problem, i also would be grateful for
+> detailed information.
+>
+> sorry, if some of you find this response lengthy and useless, what it in
+> fact is.
+>
+> cheers
+>
+> juergen
+>
+>
+>
+> Am Mon, 17 May 2010 20:56:07 +0200 hat Kenneth Zysk <zysk at hum.ku.dk>
+> geschrieben:
+>
+>> I just acquired a new computer with Windows 7. I downloaded Gandhari 
+>> Unicode fonts and tried, but failed, to download the Keyman keyboard 
+>> layout. Can someone kindly tell me how to acquire the necessary keyboard 
+>> accessory for the Gandhari Unicode fonts with Windows 7.
+>> Many thanks in advance.
+>> Best,
+>> Ken
+>> Kenneth Zysk
+>> Department of Cross-Cultural and Regional Studies
+>> University of Copenhagen
+>> Artillerivej 86
+>> DK-2300 Copenhagen S    Denmark
+>>  Email: zysk at hum.ku.dk
+>>
+>
+>
+> -- 
+> __________
+> J?rgen Neu?
+>
+> http://userpage.fu-berlin.de/~jneuss/
+> 
+
+
+
+

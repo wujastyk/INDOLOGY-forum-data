@@ -1,0 +1,32 @@
+From hellwig7 at gmx.de  Wed Aug 29 05:23:26 2018
+From: hellwig7 at gmx.de (Oliver Hellwig)
+Date: Wed, 29 Aug 18 07:23:26 +0200
+Subject: [INDOLOGY] Sandhi and compound splitting model
+Message-ID: <7c6322b7-ebbb-dde4-424e-5613839226ff@gmx.de>
+
+Dear all,
+
+Sebastian Nehrdich and I have developed a machine learning model that 
+splits Sandhis and compounds in "raw" Sanskrit text.
+
+You find further details, model, code and the data it was built with 
+(~600.000 lines of Sanskrit text from the DCS) at
+https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp
+
+The pdf in the github directory contains further technical information.
+
+If you know researchers who work on this topic and may be interested in 
+the model or the data, it would be great if you could forward this mail 
+to them.
+
+Oliver
+
+---
+Oliver Hellwig
+IVS Zurich / SFB 991, D?sseldorf
+
+
+
+
+
+

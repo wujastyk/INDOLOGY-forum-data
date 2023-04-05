@@ -1,0 +1,48 @@
+From mjslouber at SMCM.EDU  Wed Oct 31 15:44:41 2012
+From: mjslouber at SMCM.EDU (Slouber, Michael J.)
+Date: Wed, 31 Oct 12 15:44:41 +0000
+Subject: Improvements on La Tex?
+In-Reply-To: <639C5822-0086-4110-9C96-44B316315B3C@gmail.com>
+Message-ID: <161227097881.23782.7578855434333563786.generated@prod2.harmonylists.io>
+
+Dear Jonathan and others,
+
+Many critical editors now use the recently updated LaTeX package "eledmac" along with XeLaTeX to be able to typeset with Mac fonts.  Here are a few useful links:
+
+The package itself:  <http://www.ctan.org/pkg/eledmac>
+The users listserv:   <https://lists.berlios.de/mailman/listinfo/ledmac-users>
+The list archive:       <https://lists.berlios.de/pipermail/ledmac-users/>
+Many useful posts: <http://cikitsa.blogspot.com/search/label/XeLaTeX>
+Some sample files: <http://www.garudam.info/category/xetexledmac/>
+Many useful tips:    <http://www.djdekker.net/ledmac/>
+
+Best of luck,
+
+Michael Slouber
+Visiting Assistant Professor
+Religious Studies
+St. Mary's College of Maryland
+http://garudam.info<http://garudam.info/>
+
+
+
+On Oct 31, 2012, at 11:15 AM, Jonathan Edelmann wrote:
+
+Dear All,
+
+I use Mac and I've started to work with La Tex for the purpose of noting variants in texts.  I find La Tex a bit non-user-friendly, and I'm wondering if someone could recommend a good website for Indologist, Sinologist, etc. who are making critical editions, or (preferably) if anyone knows a better program that will allow for multiple footnote bars, margin notes, etc.
+
+Sincerely,
+Jonathan Edelmann
+
+
+Jonathan B. Edelmann, Ph.D.  Assistant Professor of Religion
+Mississippi State University Department of Philosophy and Religion
+449 Hardy Road Etheredge Hall
+Mississippi State 39762
+Work Phone (662) 325-9363 Home Phone (662) 268-8314
+University Website<http://www.philosophyandreligion.msstate.edu/faculty/edelmann.php> | Book<http://ukcatalogue.oup.com/product/academic/pn/neuroscience/9780199641543.do?sortby=pubDateDescend> | Email Address<mailto:je374 at msstate.edu>
+
+
+
+

@@ -1,0 +1,62 @@
+From ridgeway at EDU.WASHINGTON.HACC.BLACKBOX  Wed Oct 23 17:13:04 1991
+From: ridgeway at EDU.WASHINGTON.HACC.BLACKBOX (Thomas B. Ridgeway)
+Date: Wed, 23 Oct 91 10:13:04 -0700
+Subject: Romanization and Nagari output
+Message-ID: <161227015158.23782.792370337284354463.generated@prod2.harmonylists.io>
+
+
+Dear partners,
+  Jonathan Silk writes (in part):
+> . . .  the great advantage of Romanization is
+> that it enables easy analysis: we can split words, even break
+> compounds with hyphens, capitalize names, use italics and bold, etc.
+> It is true that one can use bold, italic and underlined Devanagari,
+> but at least for me it makes sometimes a rather odd impression (not
+> bold but the other types of odd fonts).In very many cases this is
+> more than enough reason to use Roman script.
+> Another problem in which I have no suggestions but only questions
+> concerns trading data and OCR.  The technology to input Nagari
+> in a number of different ways certainly exists.  BUT, for example,
+> Madhav Deshpande's beautiful Chiwriter Devanagari produces ASCII
+> code which is, as far as I know, still unconvertable to Romanized
+> Skt, and vice versa.  I do not know what kind of code the Nagari
+> programs for the Mac produce, but isn't it likely we will
+> encounter the same problems?
+  These are excellent points, with whose sensibilities I agree entirely,
+but which do not, I believe, bear on the matter as to whether one should
+print one's hardcopy output in Devanagari.  [I am skipping over JS's
+comments on Buddhism/Sanskrit as I have no opinion; regarding OCR: no data
+which originates from a computer transcription should have to be scanned---
+the original data file should be made available].
+  *Many* of the systems currently available for output of devanagari
+do so in association with an input method or encoding system which
+substantially reduces the *data* value of the encoded text: i.e. it
+is in a proprietary system-specific form, it records vowel marks and
+consonant marks on separate lines, . . .  For representation as data
+a reasonable Romanization, or any other essentially phonetic transcription
+system, is much to be preferred.
+  Ahem.  There is nothing to say, however, that the data cannot be entered
+in a reasonable form, perhaps even the proposed CSX [Classical Sanskrit
+Extended] encoding system, then converted to the form appropriate for
+the software which will produce the printed copy.  It is, for instance,
+perfectly feasible to adapt the recently available as freeware Nagari
+font of Frans Velthuis for use with CSX encoding.  If nobody else
+does it first, I will endeavor to do so by Christmas, as an exercise for
+writer.
+ 
+cheers,
+Tom
+ 
+--
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Thomas Ridgeway, Director,
+Humanities and Arts Computing Center/NorthWest Computing Support Center
+35 Thomson Hall, University of Washington, DR-10
+Seattle, WA 98195   phone: (206)-543-4218            *  Ask me about  *
+Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+

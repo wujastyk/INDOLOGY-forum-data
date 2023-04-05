@@ -1,0 +1,24 @@
+From fsnow at INAME.COM  Tue Nov 18 07:48:45 1997
+From: fsnow at INAME.COM (Frank Snow)
+Date: Mon, 17 Nov 97 23:48:45 -0800
+Subject: Problem with Norman Fonts
+Message-ID: <161227033768.23782.17046885168975598253.generated@prod2.harmonylists.io>
+
+The Norman font uses #160 for lowercase t with dot under. This is where
+Windows expects the non-breaking space to be. AFAIK, there is no good
+solution other than to switch to a different font encoding.
+
+Frank Snow
+fsnow at iname.com
+
+
+-----Original Message-----
+From: Francois Voegeli <l50948 at SAKURA.KUDPC.KYOTO-U.AC.JP>
+
+>It seems that the latest version of Word in the Office suite does not
+>recognize the non-breakable space when I use these fonts, a thing which
+>has very bad side effects.
+
+
+
+

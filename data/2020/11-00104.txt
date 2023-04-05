@@ -1,0 +1,125 @@
+From prajnapti at gmail.com  Sat Nov 21 19:11:47 2020
+From: prajnapti at gmail.com (Dan Lusthaus)
+Date: Sat, 21 Nov 20 14:11:47 -0500
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_vekura=C3=B1ja?=
+In-Reply-To: <6c30f9c3-7ac8-80d7-7844-b64eaa431914@gmail.com>
+Message-ID: <707B9B52-E6F0-4609-88C0-7595EB0E7370@gmail.com>
+
+Dear Artur and Rolf,
+
+This may or may not be helpful.
+
+Ta? ki? ma??asi assal?yana,idha va?ava? gadrabhena sampayojeyyu?. Tesa? sampayogamanv?ya kisoro j?yetha. Yo so va?av?ya gadrabhena kisoro uppanno siy?, so m?tupi sadiso pitupi sadiso, assoti vattabbo, gadrabhoti vattabbo'ti.
+Vekura?j?ya hi1 so bho gotama, assataro hoti. Ida? [PTS Page 154] hissa bho gotama, n?n?kara?a? pass?mi. Amutra ca panes?na?2 na ki?ci n?n?kara?a?3 pass?m?ti. 
+Ta? ki? ma??asi assal?yana, idhassu dve m??avak? bh?taro saudariy?, eko ajjh?yako upan?to, eko anajjh?yako anupan?to. Kamettha br?hma?? pa?hama? bhojeyyu? saddhe v? th?lip?ke v? ya??e v? p?hune4 v?ti?
+?
+1. Ku??a?hi-machasa? ,kum?ra??upihi-sy? 
+2. Amutra ca pana - s?na?,sy? 
+3. N?n?k?ra?a?-s?mu. 
+4. P?hu?e-s?mu.[PTS 5.] Apa?ibh?no-[PTS]
+
+Three English Translations:
+
+?What do you think about this, Assal?yana? Suppose a mare were mated with an ass and as a result a foal were born of this mating. Would that foal of the mare and the ass be like the mother and also like the father, and should it be called ?horse? and also ?ass???
+?Because of its crossed birth, good Gotama, it is a mule. This good Gotama, is a difference that I see for it, but elsewhere, for the others, I see no difference at all.?
+
+(Tr. I.B. Horner)
+?
+
+14. ?What do you think, Assal?yana? Suppose a mare were to be mated with a male donkey, and a foal were to be born as the result. Should the foal be called a horse after the mother or a donkey after the father?? 
+?It is a mule, Master Gotama, since it does not belong to either kind. [154] I see the difference in this last case, but I see no difference in either of the former cases.? 
+
+(Tr. Bhikkhu Bodhi)
+?
+
+?What do you think, Assal?yana? ?
+Ta? ki? ma??asi, assal?yana, 
+
+Suppose a mare were to mate with a donkey, and she gave birth to a mule. 
+idha va?ava? gadrabhena sampayojeyyu?, tesa? sampayogamanv?ya kisoro j?yetha; 
+
+Would that mule be called a horse after the mother or a donkey after the father?? 
+yo so va?av?ya gadrabhena kisoro uppanno, siy? so m?tupi sadiso pitupi sadiso, ?asso?tipi vattabbo ?gadrabho?tipi vattabbo?ti?
+ 
+?It?s a mule, as it is a crossbreed. 
+?Ku??a?hi so, bho gotama, assataro hoti. 
+
+I see the difference in this case, 
+Ida? hissa, bho gotama, n?n?kara?a? pass?mi; 
+
+but not in the previous cases.? 
+amutra ca panes?na? na ki?ci n?n?kara?a? pass?m??ti.
+
+(Tr. Bhikkhu Sujato)
+
+==
+Note that SuttaCentral, following the PTS footnote, replaces Vekura?j?ya hi with ku??a?hi.
+ku??a+hi. PTS P-E-Dict.: ?ku??a = bent, crooked?
+
+In the Madhyama-?gama preserved in Chinese, the corresponding passage seems to elide the troublesome term and reads:
+
+???????????????????????????????????????????????????????????????
+
+?????????????????????????????????????????????????????????
+
+The World-Honored One said: ?M??avaka (transliterated ??; a brahmin youth)! What do you think? If someone has a herd of many ?? cao ma(1), and there is one ?father? ass, and the cao ma and father ass mate, because of that mating, subsequently a colt is born, what do you say? Is it considered an ass or considered a horse??
+
+The m??avaka A-she-he-luo-yan-duo-nan replied: ?Gautama! If a horse and an ass mate, and because of that mating subsequently a colt is born, I don?t say it is an ass, and I don?t say it is a horse. Gautama, I only say it is a mule ? luo (2).
+?
+
+(1) ?? cao ma = (MW) ?va?aba m. (also written va?ava, ba?ava, ba?aba) a male horse resembling a mare (and therefore attracting the stallion)? ? but here, it seems to be used to mean ?mare.? Lit. cao means ?grass? and ma means ?horse.?
+
+(2) ? luo = ?A mule, which is the result of mating a mare with a donkey.?
+
+That suggests either the non-Pali version of this ?gama had already eliminated the term, or the translator(s) glossed it (as did Bhikkhu Bodhi).
+
+best,
+Dan
+
+> On Nov 21, 2020, at 12:12 PM, Rolf Heinrich Koch via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Tip 2:
+> 
+> Neumann, Die Reden Gotama Buddhos (Majjhimanik?ya), vol II, p. 705 (n. 228) reads
+> vekura?j?ya = vekuranv?ya=vaikriy?nvay?ya and translates:
+> Because of crossing (vekura?j?ya) it is a mule.
+> 
+> Heiner
+> 
+> 
+> Am 21.11.2020 um 15:36 schrieb Artur Karp via INDOLOGY:
+>> Dear List, 
+>> 
+>> I am working on a translation of the Pali Assalayana-sutta into Polish. 
+>> 
+>> And - the problem, with the term vekura?ja. It appears in the text only once, meaning - according to the context - possibly 'hybrid; crossbreed'. But - I would like to be sure. The term is missing from Rhys-Davids and Stede's dictionary, nor is it to be found (in some Sanskrit form) in the Monier-Williams' dictionary.
+>> 
+>> Any tips - please?
+>> 
+>> With anti-pandemic greetings,
+>> 
+>> Artur Karp
+>>  
+>> 
+>> 
+>>  <https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>	Wolny od wirus?w. www.avast.com <https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+>> 
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+>> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> -- 
+> Dr. Rolf Heinrich Koch
+> www.rolfheinrichkoch.wordpress.com <http://www.rolfheinrichkoch.wordpress.com/>_______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201121/128db07f/attachment.htm>
+

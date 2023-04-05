@@ -1,0 +1,37 @@
+From JHUBBARD at smith.smith.edu  Sat Jan 16 19:01:06 1993
+From: JHUBBARD at smith.smith.edu (JHUBBARD at smith.smith.edu)
+Date: Sat, 16 Jan 93 15:01:06 -0400
+Subject: Pali canon on disk?
+Message-ID: <161227015594.23782.1742160795909479497.generated@prod2.harmonylists.io>
+
+The project to put the PTS materials onto disk is quite far along. In fact, 
+the input has been entirely finished (tho I haven't seen the whole thing, 
+reports have it that that includes tranlsations, texts, and even journal 
+articles). the project was begun some time ago, mainly initiated by Robert
+Thurman, Lew Lancaster, and myself. After several rounds of denials at the
+US NEH, Lew was able to interest the Dhammakay foundation in Thailand in the
+project. Under the direction of Ven. Mettanando, some hundreds of monks 
+virtuously typed in the whole thing (two versions, checked against each other).
+The proofing is going on now. The original intent was to publish the corpus 
+on CD-ROM through the Scholar's Press, the publishing house of the American
+Academy of Religion. We have also agreed upon following the TEI guidlelines
+for tagging, at least minimally in the initial production run and more fully
+as time goes by. Alas, there are numerous "upper-level" snags that have come
+up, mostly regarding the publishing, cost, PROTECTION DEVICES!!!, rights, etc.
+etc. I feel strongly that the international Buddhist and academic community
+will be best served by an open system, distributed at low cost. But I am only 
+a small cog in a large machination. I am sorry that I cannot say more at this
+point, but perhaps, if folks are interested, we could begin a grass-roots 
+effort to outline interface needs (which platforms? what kind of indexing?
+Sanskrit<-->Pali cross-indices? phrase marking? what kinds of problems have
+you encountered on other CD-ROM text bases?), and most important, getting the
+material out the door. Although I am sometimes frustrated in the "process", 
+it shouldn't be too long now (maybe we can even put some TeX stuff in for
+Dominik and other TeXies). 
+
+Jamie Hubbard
+
+
+
+
+

@@ -1,0 +1,23 @@
+From yanom at ksuvx0.kyoto-su.ac.jp  Wed Nov 16 01:47:23 1994
+From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
+Date: Wed, 16 Nov 94 10:47:23 +0900
+Subject: RAMAYANA & MAHABHARATA e-texts
+Message-ID: <161227017832.23782.15536769158019907511.generated@prod2.harmonylists.io>
+
+>  Query: how would you think it best to retranscribe the '..' '.'
+>notation?  Possibly replace '..' by space and leave '.' as it is?
+I will convey your message to Muneo Tokunaga, but changes of such 
+kind are better made by the user himself.
+
+> Also: in the Mahabharata ';' (semicolon) is sometimes used as a
+>middle-of-line divider in addition to doing duty as 'hiatus' marker.
+Tokunaga has put this mark in order to analyse meter of the epics.
+His very interesting paper will soon appear.
+
+Michio YANO
+ 
+
+
+
+
+

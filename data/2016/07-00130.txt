@@ -1,0 +1,242 @@
+From hhhock at illinois.edu  Sun Jul 17 02:47:55 2016
+From: hhhock at illinois.edu (Hock, Hans Henrich)
+Date: Sun, 17 Jul 16 02:47:55 +0000
+Subject: [INDOLOGY] Unicode Devanagari on Mac
+In-Reply-To: <CAB3-dzdNn4qCGATJ0HSmPM5dLretPbbDyxEzte1U=9+sZwY5yA@mail.gmail.com>
+Message-ID: <4B567F6E-8C5E-49F7-833A-9850270F59B7@illinois.edu>
+
+Thanks to everybody involved in this thread. I had delayed upgrading my operating system from Mavericks as long as I had to take care of the huge job of putting together and editing the South Asia volume; evidently, that was a good decision.
+
+Now that I?m thinking of upgrading, I will profit from the discussion by making sure to keep my current version of Word active. At the same time, the prospect of being able to use Office 360 for working with Nagari is attractive. Using Text Editor makes document layout just about impossible, and the options in Open Office or Apple?s own word processor are much more limited than those in Word.
+
+All the best,
+
+Hans
+
+
+On 16 Jul 2016, at 21:37, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+
+Thanks, Steven, for this suggestion.  Fortunately, I still have Office 2011 version on my laptop and I can create a document in it.  I created a test document in Word 2011, with stacked diacritics like ???, and it worked fine.  Then, when I opened that test document in Office 360, the stacked diacritics survived on the previously entered text, but Office 360 would not allow me to enter new characters with stacked diacritics.  So, obviously something did change in Office 360.  On the positive side, Office 360 now allows entering Unicode Devanagari with Devanagari QWERTY keyboard, something that was not possible on Office 2011.  You lose some and you gain some.
+
+Madhav
+
+On Sat, Jul 16, 2016 at 10:14 PM, Lindquist, Steven <slindqui at mail.smu.edu<mailto:slindqui at mail.smu.edu>> wrote:
+Dear Madhav,
+
+Can you downgrade?  This sounds like a problem with Office 360. Complex characters work fine in Word 2011 w/ El Capitan.
+
+Generally speaking, unicode, Word, and Apple always have had a very rocky relationship (my understanding is that it's mainly the fault of Microsoft and, with just about every major update, there is some new problem).  I always delay upgrading Word and, when I do, I always retain the older working version for quite some time afterward just in case (I never updated to 360 because nightmare stories about garbled documents appeared rather quickly after the release).
+
+Best,
+
+Steven
+
+
+From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>>
+Date: Saturday, July 16, 2016 at 6:14 AM
+To: Valerie Roebuck <vjroebuck at btinternet.com<mailto:vjroebuck at btinternet.com>>
+Cc: Indology <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: Re: [INDOLOGY] Unicode Devanagari on Mac
+
+Another happy discovery yesterday was that OpenOffice for Mac is able to display characters with multiple markings like ???, ???, ???, r???? etc.  So, if one is writing something that needs characters with such multiple markings on Mac, it is possible to do a document in OpenOffice and save it as a pdf to preserve these character-markings.  I hope someday MS Word for Mac will be able to do that.  At least, for now, we can happily do Unicode Devanagari on MS Word for Mac.
+
+Madhav Deshpande
+
+On Sat, Jul 16, 2016 at 1:41 AM, Valerie Roebuck <vjroebuck at btinternet.com<mailto:vjroebuck at btinternet.com>> wrote:
+Yes, It took me a while to work that out. I was on the phone to a baffled person at Apple trying to explain about my Sanskrit diacritics no longer working when the penny suddenly dropped.
+
+Valerie J Roebuck
+Manchester, UK
+
+On 16 Jul 2016, at 03:38, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+
+Hello Hans,
+
+     Evidently the ABC Extended Keyboard on El Kapitan operating system is the same as the US Extended Keyboard on Maverick and older operating systems, with just a different name.
+
+Madhav
+
+On Fri, Jul 15, 2016 at 8:49 PM, Hock, Hans Henrich <hhhock at illinois.edu<mailto:hhhock at illinois.edu>> wrote:
+Have you tried the US Extended keyboard, Madhav?
+
+I use Times New Roman, which works very well with unicode
+
+All the best
+
+Hans
+
+Sent from my iPhone
+
+On Jul 15, 2016, at 16:25, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+
+Hans,
+
+     Just tested your suggestions with ABC Extended keyboard layout, and this does work in TextEdit and in Gmail, but not in MS Word.  I tried to copy and paste from EextEdit into Word, and the Word was not able to show the stacking of three diacritics like ???.  Glad to know that such combinations are possible at least on some platforms.  Thanks, Hans, for solving one of my long-standing problems.  With best wishes,
+
+Madhav
+
+On Fri, Jul 15, 2016 at 5:15 PM, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+Hello Hans,
+
+     Which keyboard-layout are you using to produce these characters?
+
+Madhav
+
+On Fri, Jul 15, 2016 at 5:05 PM, Hock, Hans Henrich <hhhock at illinois.edu<mailto:hhhock at illinois.edu>> wrote:
+Dear Madhav,
+
+Though there may be some limitations on stacking, it is possible to produce the following symbol on the Mac (still system 10.9.5): ???. The first diacritic (the macron) is accessed by typing option a + a; the other two diacritics by entering shift-option n and shift-option e AFTER having typed assembled the basic ? character. This post-character shift-option input procedure doesn?t seem to be well advertised; I more or less stumbled upon it in some university?s instructions for its faculty.
+
+There is one concern, however: While ? and the like is treated as a single glyph in unicode and thus transfers well between unicode-compatible platforms, more complex character, such as ??, ??, or ???, are not single glyphs and may therefore not transfer across platforms. We ran into this problem in producing the documents from which the new South Asia volume in the series World of Linguistics have been printed, and the only thing that we could do was submit a pdf-version indicating the desired character shape.
+
+I hope this helps.
+
+Cheers,
+
+Hans
+
+
+On 15 Jul 2016, at 13:13, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+
+This is a question as to how to get multiple markings on the same vowel sign.  In my pre-Unicode diacritics font Manjushree-CSX, I had included, for instance, the sign for vowel "a" with three markings, length, nasality and accent.  This is necessary to represent P??inian procedures accurately. P??ini deals with eighteen varieties of "a, i, u, ?" etc. differing in length, accent and nasality. Is there a way to do this with unicode fonts and keyboards?
+
+Madhav Deshpande
+
+On Fri, Jul 15, 2016 at 11:48 AM, Jeffery Long <dharmaprof108 at yahoo.com<mailto:dharmaprof108 at yahoo.com>> wrote:
+The ABC Extended keyboard on the Mac is good for all diacritical marks.  Combining the option key with a gives the macron: ?, ?, etc.  Option + x = underdot: ?, ?, etc.  Option + w = overdot: ?.  Option + e = accent mark: ?.  Tilde is of course option + n: ?.
+
+All the best,
+Jeff
+
+Dr. Jeffery D. Long
+Professor of Religion and Asian Studies
+Elizabethtown College
+Elizabethtown, PA
+
+https://etown.academia.edu/JefferyLong<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1VJEOLJS6-5FX-5FMdMqodqGIhkfEOTkmXRyYwPMRnUrprv3wMOuz12eiA52y-2D0UWtJA8jJ3kWbe1Qwpyc4e0BNjysmOX7X6iUqMjr4FHAO-5FaNm2Umoffb1HIWORn63y-2D6FTfovo6nJCJaN4v5NJC-2D0ylZoe47KxnJgy1SqGvjNAtYcJJbX574l9HaNz3duzIH3ym0-5FfC7iQT1j9WPF3RQcFc9Q_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fetown.academia.edu-5FJefferyLong-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DYagCM8dZ-5FgDvqjiw-2DMcJbrsUfV-5FXl0PCFzk6YHa8q6w-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=bRAr0_wZPzrcYmNfZ2IJT0Zq-Kk86sb26pGToU7_qB4&e=>
+
+Series Editor, Explorations in Indic Traditions: Theological, Ethical, and Philosophical
+Lexington Books
+
+Consulting Editor, Sutra Journal
+http://secure-web.cisco.com/1RX8fLCEnEOXJoXmHLPtsA2NBvpvncjne47kL11hVc8iZmSdFT6Hr4QgEVbi1Mdws35IZpnYzdt8TlnHqTDC-QZfCkiUIx5JMLEtcixhzDtRFqZ4Rg5yPGZYp5bhC6uHO47UqSzoV4_PCI2BQtJ3L8iCitPbeMVSY4fHnhnnzh4wJ2F57XxkA5pDJD6jrq9m2Ks2WiZesjXB8AqVp9NMpbQ/http%3A%2F%2Fwww.sutrajournal.com<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1HBfC298acBuBxx879kaEpayCI4l-5FbOjQ9Xjun-2DIOAkhcIeus9VORUVj1y4NdhQl9FH5K-5FYwjWStzVpc0qgMjMzhb8oLQfJEj6qndG9PHd-5F6NShO7RS2Zaa-2DeZnho0PIcKTR6R6UmJZ-2DiJU60Zwx-5FscaKoppJp-2Dwg2-5F-5FFd8OxEPzl08vDTBPG3UA6KhNcbYIPyoC60Gu4T7vZSc2eoSKbQA_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Fwww.sutrajournal.com-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DExcaZS6eGdslahK3iDsKt1PiYGcdIz8vfw5hWVR-5FskM-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=qxhYat20Q9COh0rEnq08kvuLYw5ljfpvSNlwtiddPLg&e=>
+
+"One who makes a habit of prayer and meditation will easily overcome all difficulties and remain calm and unruffled in the midst of the trials of life."  (Holy Mother Sarada Devi)
+
+
+
+On Friday, July 15, 2016 9:17 AM, Jonathan Silk <kauzeya at gmail.com<mailto:kauzeya at gmail.com>> wrote:
+
+
+Maybe indeed I'm missing something but the Asian Extended keyboard (made, if I am not wrong, by Nobumi Iyanaga) works perfectly for diacritics, no mess, no fuss.
+
+Jonathan
+
+On Fri, Jul 15, 2016 at 2:47 PM, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+David,
+
+     The old Easy Unicode keyboard-layout does work on my Mac that has the latest operating system and the latest MS Office 360.  Try reinstalling the keyboard file, if you have it.  If not, I can send it to you.  Best,
+
+Madhav
+
+On Fri, Jul 15, 2016 at 8:44 AM, David Mellins <dmellins at gmail.com<mailto:dmellins at gmail.com>> wrote:
+Yes, This is true, but have you found a convenient way to enter the full range  of diacritica for Romanized Sanskrit without having to resort to Emoji/Latin/favorites inserts?
+
+This is not the worst thing in the world, but slower than the old Easy Unicode or Dev Unicode keyboards.
+
+David
+
+Sent from my iPhone
+
+On Jul 15, 2016, at 8:37 AM, Dominik Wujastyk <wujastyk at gmail.com<mailto:wujastyk at gmail.com>> wrote:
+
+I'm shocked.  I don't pay much attention to the Mac world, but I've been typing Devanagari into everything on my computer for many years (Linux).  I had no idea that this wasn't possible or easy on a Mac.  Wow.  And the Mac used to be the byword for multilingual support.  I'm glad it's okay now, at least.
+
+Dominik
+
+--
+Professor Dominik Wujastyk*<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1kTDCD9Hs00EWzl0wenUpTwL0Sfq6CGMZFXNm6m8C95HeqndXspOXA4sIrI-5Fn9OPTUcLjgHMl-5FeCrT6Fo8xj6z2d6ltNC7JsPHms1OI1SWjnG9GDAOAKu9nhJURIfke9tZgO-2DV07kdtPAxRS2L1seqz4-2DzS9KXfcA-5FXNDmOWVwDrmRv2hhAe1MiyMwmPw3LiVc8LuYnXgrhL7XJE7t-2De4yA_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Fualberta.academia.edu-5FDominikWujastyk-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DVkNDEhP-2DcwLPNOBCeZSJaRJkykHSANxTBIK7Ds7uPU0-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=-S4o1wUgAibpguA30ENoBO8lAdALDL0AQxc73d6zVtc&e=>
+Singhmar Chair in Classical Indian Society and Polity
+Department of History and Classics<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1C-5FQza1v9JKO7QwllmbYegxUMAhPUpSEfSyYa0WKQ2Xw0mr9q537OXnkk33Fi5krJYSgbFYbgEWiNhr6q6-2DQA36bduGP3pc3C6bspdEtJJMhgF9z8y2vB3EcqMvSrATFcM2sU69k7WTRqrviGLULfpSUiGyHdu20XSNQ9HCVM1Dnb5AeJk-5F-5F-5FsCYk9mQDdmvLsGuF3JVlXYxd9nU-5FFWX2Aw_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Fhistoryandclassics.ualberta.ca-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DECM3aha2fPQPORQYguSb31JPV9N-5FiTAfe03-2De9bVV-5Fs-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=Vnt32LkJLC9R0HPALGf3bwhs1nYTGLnLG33jl_hT4yI&e=>
+University of Alberta, Canada
+
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1iEHe9edTNJ4PL3NExSzs-5FAkfha95HOh85KImo48X9abIFvddjiwYUReAQEMSRklfqd2HWMz1yBYVWZ62-5FJ3dXTq0vFSXt-2DoHE65W3r53cID39Qoo77ZTX4kC-5F7b-2DvNHi-2DThMZffQDhqFW1oKF5I7YB3MVjD-2Dl76hIS8Y2Dxi-2Dy-2Dbs92EpSqVrQYwnkIHnoCMA5aVIbegKZtCLOzckjmgUQ_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fmail.google.com-5Fmail-5Fu-5F0-5Fgoog-2D5F1525257691-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253D03wVF-2DckGU1T4gINV4DreQ6wodOnraImUwHWDzfg-2Dmc-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=UcLMfTI0OEgEvZTbbgNLufYoKwOPs2Z6m78Df2XHYws&e=>
+?sas.ualberta.ca?<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1Xt0MVoBXzkFhiHV0nw6O0OXAQk0XZ0br-2DgOdKSH-5FLwX8YCHtjyNl0Pj0kLTThihh6smuIFftHcY4HBHh3WPs5N594L7niWEyoCHAbiChSytPbhoBRYyhLjtG6-2DNchQExKc5Fg25X-2DzXohDDSGzlRyN3jDFSZqvyb-5FP2lWH2pe9xlt-5F9I-2Dqz9hMysQMX66YIDHn1AlwU0FyDobNgQUAm4sA_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Fsas.ualberta.ca-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DTdfHd8QUDldFuWNngOLieZB3FyRQe5gBNLgSjDvM1tk-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=E24ZrZFvzer4Pg3ZNcNlxZw7EoK3w8Uo8NjMPP5aRVs&e=>
+
+
+On 15 July 2016 at 12:58, Madhav Deshpande <mmdesh at umich.edu<mailto:mmdesh at umich.edu>> wrote:
+Dear Indologists,
+
+     To my happy surprise, I found that with the combination of the latest version of Microsoft Office 360 for Mac and the latest Mac Operating System OS X El Capitan, it is now possible to directly enter Unicode Devanagari in a Word document with the Devanagari - QWERTY keyboard layout.  Previously, I had to enter Unicode Devanagari in something like TextEdit and then copy and paste into a Word document, but was not able to edit it in the Word document.  The new development of software has happily changed that situation.  Hope this information will be of use to some of you.  Best,
+
+Madhav Deshpande
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1B58OT7BuR07eZaNCf3k-2DIr52ajftvGC622wloOpq4wjtSf9R14gkO6vpaJqN2vwtNqCLao01an1ZFkStabX8DnEOKGgsXsICAMnH6epAjFM3EdNvhIrlwg8O2oJwA9-2D59l6dGytPNTxH9vu7-5F101KwDq85yIu6PlqWXnAHrYzbrsTzj4nV7SkDfsmhz5KyybSOxcjaEzU0FlpiN1cok89g_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Flistinfo.indology.info-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253Djlv1re0QfTE0sr7J-2DCvAm-2Drbzoie1Dv8KvNmEQ7oPk4-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=PsdULfj3CaiTnENrUIX2BUiQA__eYBfGzPtdqzSk14o&e=> (where you can change your list options or unsubscribe)
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1B58OT7BuR07eZaNCf3k-2DIr52ajftvGC622wloOpq4wjtSf9R14gkO6vpaJqN2vwtNqCLao01an1ZFkStabX8DnEOKGgsXsICAMnH6epAjFM3EdNvhIrlwg8O2oJwA9-2D59l6dGytPNTxH9vu7-5F101KwDq85yIu6PlqWXnAHrYzbrsTzj4nV7SkDfsmhz5KyybSOxcjaEzU0FlpiN1cok89g_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Flistinfo.indology.info-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253Djlv1re0QfTE0sr7J-2DCvAm-2Drbzoie1Dv8KvNmEQ7oPk4-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=PsdULfj3CaiTnENrUIX2BUiQA__eYBfGzPtdqzSk14o&e=> (where you can change your list options or unsubscribe)
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1B58OT7BuR07eZaNCf3k-2DIr52ajftvGC622wloOpq4wjtSf9R14gkO6vpaJqN2vwtNqCLao01an1ZFkStabX8DnEOKGgsXsICAMnH6epAjFM3EdNvhIrlwg8O2oJwA9-2D59l6dGytPNTxH9vu7-5F101KwDq85yIu6PlqWXnAHrYzbrsTzj4nV7SkDfsmhz5KyybSOxcjaEzU0FlpiN1cok89g_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Flistinfo.indology.info-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253Djlv1re0QfTE0sr7J-2DCvAm-2Drbzoie1Dv8KvNmEQ7oPk4-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=PsdULfj3CaiTnENrUIX2BUiQA__eYBfGzPtdqzSk14o&e=> (where you can change your list options or unsubscribe)
+
+
+
+--
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://secure-web.cisco.com/1CS7rRoxE1KSDyDZCaFQCYgEncchWOA46xGBkfViV13Y3zO7S4A1ewIsI4d_mKAtHR6BhM0w-2eNU_nt1XJb2uZiHYGbGaQ4cXNSCU4siXfpGICXXm07X0-TFwHYXuIaKFngiw1Dq3v8Bk6UAQOsm3KYXYphdi2hqBQKkJbIDQspIdq9WeV-oLfQXIpZ8O6mVNpRctDkCidUIrqINNFFEpg/http%3A%2F%2Fwww.buddhismandsocialjustice.com%2Fsilk_publications.html<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_12jr7SozYOdC6WH4smCPhE4CEPIJXne9qy-5Fj0GRa5HqMZoNRikipkrsIRSZRmgstLWIruxFi6k1gr2qISoEEsKR5m-5FKkuhinZxTvweR9LR8-5FIe2Mxazax3LVyRqxVQGQTgCKDAFfrJJqC6l7zfo-5FGtbcechtqgAGRlMfjfJaOXzJvHaoxzKb7OnYgyBaAZINdCWlKx3xokuii3X9y8u-2DQLw_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Fwww.buddhismandsocialjustice.com-5Fsilk-2D5Fpublications.html-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253DnC9F48SxawJChKKQgOfcJ3kmyyvm3FjYx9D51jdmEa4-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=8muHlKassX84HIS9CA_LbDb3w-5rJQlWYmZixnt_0ak&e=>
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info <https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1B58OT7BuR07eZaNCf3k-2DIr52ajftvGC622wloOpq4wjtSf9R14gkO6vpaJqN2vwtNqCLao01an1ZFkStabX8DnEOKGgsXsICAMnH6epAjFM3EdNvhIrlwg8O2oJwA9-2D59l6dGytPNTxH9vu7-5F101KwDq85yIu6PlqWXnAHrYzbrsTzj4nV7SkDfsmhz5KyybSOxcjaEzU0FlpiN1cok89g_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Flistinfo.indology.info-5F-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DkvsIBXKe62TChM5mYI-2DiXv2Qwd2YwrXeVE2HFlMXUzY-2526s-253Djlv1re0QfTE0sr7J-2DCvAm-2Drbzoie1Dv8KvNmEQ7oPk4-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=PsdULfj3CaiTnENrUIX2BUiQA__eYBfGzPtdqzSk14o&e=> (where you can change your list options or unsubscribe)
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=https-3A__secure-2Dweb.cisco.com_1n-5FcRjiAJHgNJlDpB9UmrQqF6w9iG17OhQTmc3wZkhDRvcdjMEFSZYCmMUtf7aaDbsnJTpq75qrOdSoa8egb1G36dK4SWtdiwIyGd29RW5HgjEhO9DOFy-5FWnGuiWELT9BPKkx7vkxAKy2-5FlImh4zmn6fL3wVqMm8NIAaWrba4s8Rahfmbm8inYKzj0JhlcFQgbLEhzA2ng1pI6WrrWgQE-5FQ_https-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttp-2D3A-5F-5Flistinfo.indology.info-2526d-253DCwMFaQ-2526c-253D8hUWFZcy2Z-2DZa5rBPlktOQ-2526r-253DyKOAMu7Fm-5FW5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q-2526m-253DCYijZWrtIRB50NRxGD25ws9gnPBMu9NInotz7Vgkd3M-2526s-253Dv-5Fikob-5FCw6wXp0-2DCI0vYKXLESyp4q7tQ-2DuMnsFGkp-2D0-2526e-253D&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=JpU0hYmx7agwpFZ75nIVWW_KnL_2NYp2V-FWaOyC1Tw&e=> (where you can change your list options or unsubscribe)
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=XT0ByelreMArI6hx8FR-582jnJrbKfuYbrLk-B6rk5c&s=dZtjGGJ77ftqilESIQ-5J6AlGRkTWBVKChYEL_7e520&e=> (where you can change your list options or unsubscribe)
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160717/cf178ed8/attachment.htm>
+

@@ -1,0 +1,197 @@
+From athr at loc.gov  Mon Aug 19 16:03:59 1996
+From: athr at loc.gov (Allen Thrasher)
+Date: Mon, 19 Aug 96 12:03:59 -0400
+Subject: bhagavadgita in Russian
+Message-ID: <161227025669.23782.15734812173967046757.generated@prod2.harmonylists.io>
+
+On Sun, 18 Aug 1996, Hans G. Tuerstig wrote:
+
+> Does anyone know whether there exists a translation of the Bhagavadgita
+> into Russian?
+> Thanks.
+> Hans-Georg Tuerstig
+> 
+
+OCLC shows the following trans. of the BG and trans. of or books on the
+Mbh.  I have eliminated those which I could see were clearly translations
+of other parts excluding the BG.
+
+Allen Thrasher
+Library of Congress
+
+ACCESSION: 24068623
+    TITLE: Kniga o Bkhishme :
+           otdel "Bkhagavadgita," kn. VI, gl. 13-24. Kniga o poboishche 
+           palitsami : kn. XVI /
+  EDITION: Izd. 2.
+    PLACE: Ylym :
+PUBLISHER: Ashkhabad,
+     YEAR: 1981     
+ PUB TYPE: Book
+   FORMAT: 289 p. ; 23 cm.
+   SERIES: Makhabkharata ; 7, ch. 2
+           Mahabharata. Russian. Selections ; vyp. 7, kn. 2.
+    NOTES: Translation of selections from Bhagavadgita and of Mausalaparvan.
+           At head of title: Akademiia nauk Turkmenskoi SSR.
+ALT TITLE: Bhagavadgita. Russian. Selections.
+    OTHER: Smirnov, B. L. (Boris Leonidovich)
+           Turkmenistan SSR ylymlar akademiiasy.
+           Mahabharata. Mausalaparvan. Russian. 1981.
+           Kniga o poboishche palitsami.
+
+ 
+
+ACCESSION: 31976863
+    TITLE: Makhabkharata.
+    PLACE: Sankt-Peterburg :
+PUBLISHER: "Nauka",
+     YEAR: 1992     
+ PUB TYPE: Book
+   FORMAT: 646 p. : ill. ; 22 cm.
+    NOTES: On leaf preceding t.p.: Rossiiskaia akademiia nauk. Ordena 
+           Trudovogo Krasnogo Znameni Institut vostokovedeniia.
+           Includes bibliographical references and indexes.
+     ISBN: 5020273295
+ALT TITLE: Mahabharata. Drona parva. Russian.
+    OTHER: Kalianov, V. I.
+           Institut vostokovedeniia (Rossiiskaia akademiia nauk)
+
+ Next Record 
+
+
+ACCESSION: 28761175
+    TITLE: Makhabkharata.
+    PLACE: Leningrad :
+PUBLISHER: Izd-vo "Nauka", Leningradskoe otd-nie,
+     YEAR: 1976     
+ PUB TYPE: Book
+   FORMAT: 590 p., [12] leaves of plates.
+   SERIES: Akademiia nauk SSSR. Literaturnye pamiatniki.
+    NOTES: IU Microform Master no. 91-1231/1.
+           Includes bibliographical references.
+           Microfilm. Moskva : Vsesoiuznaia gos. biblioteka inostrannoi lit-
+           ry, 1991. 1 microfilm reel ; 35 mm.
+ALT TITLE: Mahabharata. Udyogaparva. Russian.
+
+ 
+ACCESSION: 28067364
+   AUTHOR: Neveleva, S. L. (Svetlana Leonidovna)
+    TITLE: Makhabkharata :
+           izuchenie drevneindiiskogo eposa /
+    PLACE: Moskva :
+PUBLISHER: "Nauka," Glav. red. vostochnoi lit-ry,
+     YEAR: 1991     
+ PUB TYPE: Book
+   FORMAT: 226 p. ; 22 cm.
+    NOTES: "Nauchnoe izdanie"--Colophon.
+           Title on p. 226: Mahabharata.
+           At head of title: Akademiia nauk SSSR. Institut vostokovedeniia.
+           Summary in English.
+           Includes bibliographical references (p. 213-[225]).
+     ISBN: 5020167401 :
+  SUBJECT: Mahabharata.
+    OTHER: Mahabharata.
+
+ Next Record 
+
+
+ACCESSION: 24401106
+    TITLE: Makhabkharata /
+    PLACE: Moskva :
+PUBLISHER: Izd-vo Akademii nauk SSSR,
+     YEAR: 1950     
+ PUB TYPE: Book
+   FORMAT: v., plates ; 23 cm.
+   SERIES: Akademiia nauk SSSR. Literaturnye pamiatniki.
+ALT TITLE: Mahabharata. Russian
+    OTHER: Kalianov, V. I.
+
+ Next Record 
+
+
+(Record for Mbh trans. as whole:)
+
+ 
+
+ACCESSION: 19734733
+    TITLE: Makhabkharata :
+           chetyre skazaniia /
+    PLACE: Moskva :
+PUBLISHER: Izd-vo Khudoshch. lit-ra,
+     YEAR: 1969     
+ PUB TYPE: Book
+   FORMAT: 189 p. : ill. ; 20 cm.
+   SERIES: Narodnaia biblioteka
+    NOTES: Slovo predaniia / S. Lipkin -- Makhabkharata. Skazanie o syne 
+           Reki, o rybachke Satiavati i o tsare Shantanu -- Skazanie o 
+           Savitri, o zhene predannoi i liubiashchei -- Skazanie o 
+           chudesnykh sergakh i pantsire -- Skazanie o prikliucheniiakh 
+           piati bratev i ikh zheny.
+ALT TITLE: Mahabharata. Selections. Russian
+    OTHER: Lipkin, Semen Izrailevich.
+
+ Next Record 
+
+
+ACCESSION: 17069559
+    TITLE: Sozhzhenie zmei :
+           skazanie iz indiiskogo eposa Makhabkharata /
+    PLACE: Moskva :
+PUBLISHER: Gos. izd-vo khudozh. lit-ry,
+     YEAR: 1958     
+ PUB TYPE: Book
+   FORMAT: 148 p. : ill. ; 21 cm.
+
+ Next Record 
+
+
+
+ACCESSION: 13511972
+    TITLE: Makhabkharata.  Ramaiana /
+    PLACE: Moskva :
+PUBLISHER: Khudozh. lit-ra,
+     YEAR: 1974     
+ PUB TYPE: Book
+   FORMAT: 605 p., [15] leaves of plates (some col.) : ill. ; 21 cm.
+   SERIES: Biblioteka vsemirnoi literatury. Seriia pervaia ; t. 2
+    OTHER: Grintser, P. A. (Pavel Aleksandrovich)
+           Ramaiana.
+
+ Next Record 
+
+ACCESSION: 13307852
+    TITLE: Makhabkharata /
+  EDITION: 2-e perer. izd.
+    PLACE: Ashkhabad :
+PUBLISHER: Izd-vo Akademii nauk Turkmenskoi SSR,
+     YEAR: ? 1959 9999
+ PUB TYPE: Book
+   FORMAT: v. ; 23 cm.
+    NOTES: At head of title vol. <1>- : Akademiia nauk Turkmenskoi SSR.
+           l. Dve poemy iz III knigi.
+ALT TITLE: Mahabharata. Russian
+    OTHER: Smirnov, B. L. (Boris Leonidovich)
+           Turkmenistan SSR ylymlar akademiiasy.
+
+ Next Record 
+
+ACCESSION: 3026243
+   AUTHOR: Ilin, G. F. (Grigorii Fedorovich)
+    TITLE: Starinnoe indiiskoe skazanie of geroiakh drevnosti Makhabkharata 
+           /
+    PLACE: Moskva :
+PUBLISHER: Izd-vo Akademii nauk SSSR,
+     YEAR: 1958     
+ PUB TYPE: Book
+   FORMAT: 139 p. : ill., map ; 20 cm.
+   SERIES: Nauchno-populiarnia seriia
+  SUBJECT: Mahabharata.
+    OTHER: Mahabharata.
+
+
+
+
+
+
+
+

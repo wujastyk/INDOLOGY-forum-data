@@ -1,0 +1,73 @@
+From poo at GIASMD01.VSNL.NET.IN  Fri Nov 12 14:39:41 1999
+From: poo at GIASMD01.VSNL.NET.IN (RM.Krishnan)
+Date: Fri, 12 Nov 99 19:39:41 +0500
+Subject: Query: Etymology of sanskrit "aham - part 2"
+Message-ID: <161227053539.23782.18320278408447749913.generated@prod2.harmonylists.io>
+
+At 11/10/99 8:13:00 AM, Mr.Didier wrote:
+>Thanks to all of you for your helpfull and very various responses,
+>and for the bibliography and the links.
+>
+>it is very interesting for me to see that many different hypothesis
+>can be followed and the comparaison with dravidian languages is
+>very  interesting.
+
+I am continuing with the second part.
+
+--------------------------------Quote
+Before we move on to third person pronouns, we need to know that Tamils divide all animate and inanimate
+things into two classes, viz., uyarthinai, the high class, and AhRinai, the low class.  The former comprises all
+rational beings (like human beings, celestials and God) and the latter all the rest. We indicate the natural gender
+ and the number only for the rational beings, and for the irrational beings we refer only the number. So we have 5
+grammatical genders (which are products of natural gender and number: AnbAl (masculine singular), peNbAl
+(feminine singular), palarbAl (masculine, feminine or epicene plural), onRanbAl (irrational singular), palavinbAl
+(irrational plural).
+
+As indicated early, there are pronouns and pronominal termination of a sentence. Here we first look into the
+third person pronominal terminations.: masculine singular - An, he; feminine singular - AL, she; epicene plural -
+Ar, they; irrational singular - thu, it; irrational plural - vai, they.  Third person nominative terminations An, AL
+and Ar might have stood as pronouns in earlier times; but today, they do not stand alone as third person
+pronouns. (However oblique base pronouns have become reflexive pronouns, viz., thAn - he, she, it, himself,
+herself, itself and thAm - they, themselves.) Modern third person demonstrative pronouns always indicate the product
+of the demonstratives and the grammatical genders. For example, when you join a (remote demonstrative)
+and an (shortened form of An for the masculine singular gender), the third person frontal pronoun is obtained
+with an automatic insertion of v, viz., avan. Likewise, all other pronouns may be obtained as given below.
+
+Remote third person pronouns
+avan, he           avan, his                    avar, they       avar, their
+avaL, she         avaL, her
+athu, that         athan, its                    avai, those      avai, their
+Proximate third person pronouns
+ivan, he            ivan, his                     ivar, they        ivar, their
+ivaL, she          ivaL, her
+ithu, this           ithan, its
+
+There are also double plural forms of third person pronouns. These are obtained by adding a plural suffix -kal
+to the singular pronouns and used for addressing respectable persons. Nominative: thAngaL, they, themselves; Oblique
+Base: thangaL, their, of themselves. ThAngaL and thangaL are also used in the second person in the
+sense of 'your honour', and 'of your honour' respectively, when addressing persons worthy of high degree of reverence.
+
+------------------------------------------Unquote
+
+Now we come to aham. In my opinion, this is related to the Tamil first person pronouns yAn and yAm. The
+prenominal terminations corresponding to these pronouns are An and Am and their vowel variations On/Om,
+En/Em. Am can easily become aham while pronouncing. Incidentally, it has often been suggested in many
+languages, the word for affirmation is the same as or quite related to the first person pronoun. In Tamil, the
+affirmation is by the word 'Am' and in Hindi and other north Indian languages 'hA(ng/)m'. We also say 'Ahum
+- it will become' for affirmation.
+
+I end with my oft repeated statement (i.e. one of my stellingen, if there is anybody Dutch, he/she would understand):
+
+Considering the north Indian languages (together with Sanskrit) and the European languages as two branches
+of a single Indo-European tree is only a first step. Most probably, the Dravidian languages form an earlier
+branch of the same tree.
+
+It is always illuminating to bring in Dravidian parallel along with Indo - European terms (especially so for
+Sanskrit), since Tamilology is a significant part of Indology.
+
+With regards,
+RM.Krishnan
+
+
+
+

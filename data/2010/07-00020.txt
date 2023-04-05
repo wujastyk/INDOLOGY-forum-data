@@ -1,0 +1,42 @@
+From dbhattacharya200498 at YAHOO.COM  Wed Jul  7 15:30:26 2010
+From: dbhattacharya200498 at YAHOO.COM (Dipak Bhattacharya)
+Date: Wed, 07 Jul 10 21:00:26 +0530
+Subject: Access to Updated Vedic Concordance
+In-Reply-To: <4C34837D.9080807@uni-bonn.de>
+Message-ID: <161227089898.23782.9284557524374318558.generated@prod2.harmonylists.io>
+
+Thanks! This seems to work
+Best 
+DB
+
+--- On Wed, 7/7/10, Peter Wyzlic <pwyzlic at UNI-BONN.DE> wrote:
+
+
+From: Peter Wyzlic <pwyzlic at UNI-BONN.DE>
+Subject: Re: [INDOLOGY] Access to Updated Vedic Concordance
+To: INDOLOGY at liverpool.ac.uk
+Date: Wednesday, 7 July, 2010, 1:39 PM
+
+
+Valerie J Roebuck schrieb:
+> I am in the same position, after replacing my obsolescent computer. I used to own the updated version of Bloomfield's Vedic Concordance in a searchable version in Nisus Writer. When I looked to replace it from the same site, <http://www.people.fas.harvard.edu/~witzel/VedicConcordance/ReadmeEng.html>, I found that there was no version for Mac OS X, though the versions for Windows and Mac Classic were still there. Does anyone know a version that would run on my Mac
+You may try Masato Fujii's transcript of the Concordance which comes in simple plain text format:
+URL: <http://www.zinbun.kyoto-u.ac.jp/~mfujii/shiryo/concordance.txt>
+
+It should run with every operating system.
+
+Hope it helps
+Peter Wyzlic
+
+-- Institut f?r Orient- und Asienwissenschaften
+Bibliothek
+Universit?t Bonn
+Regina-Pacis-Weg 7
+D-53113 Bonn
+
+
+
+
+
+
+

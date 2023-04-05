@@ -1,0 +1,119 @@
+From ph2046 at COLUMBIA.EDU  Sat Feb 16 17:52:15 2008
+From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
+Date: Sat, 16 Feb 08 12:52:15 -0500
+Subject: Digital Kielhorn
+In-Reply-To: <47B618BE.8050203@univie.ac.at>
+Message-ID: <161227082006.23782.10511379385218982703.generated@prod2.harmonylists.io>
+
+Hi all,
+
+  A few comments on some of the issues/questions raised on this thread:
+
+1. About DJVU files.
+
+Timothy Lubin wrote:
+>many are in DjVu, which can be viewed by streaming on-line but I 
+>have not found any way to download those
+
+This may be a function of the web-browser you are using; some 
+browsers insist on plug-in streaming options while some other 
+browsers (or bulk-downloaders) can give you download options.
+
+There are also different means for converting DJVU files to PDF, 
+either using the "Print" interface of a stand-alone reader writing to 
+a post-script file (with a "distiller" to convert post-script to 
+PDF), or some plug-ins that do this within a browser.  See for 
+example:
+
+http://www.print-driver.com/howto/converting/convert_djvu_file_to_pdf.htm
+
+2. About Digital Libraries
+
+Dominik Wujastyk wrote:
+>  This is an interesting idea, but the problem of needing a librarian 
+>(and a salary) still arises.  Also, as soon as one starts putting 
+>even modest numbers of PDF books together, one starts to eat up very 
+>large amounts of disk space, and bandwidth.
+
+Disk-space is cheap ... a lot cheaper than *shelf-space* (at least in 
+Manhattan), and internal-networks (say, within a university) can be 
+effectively unlimited (so long as there is no video-streaming).  As 
+for administering it, eventually "digital librarian" and "digital 
+preservation" positions will have to become a reality as libraries 
+commit to electronic delivery models (such already exist for many 
+journals & ILL departments).
+
+3. Regarding peer-to-peer distribution:
+
+Birgit Kellner wrote:
+>>  I sometimes think that Bittorrent might be relevant to our 
+>>situation. Distributed, low-overhead, free...
+>>
+>... but requiring a significant number of file sharers to be online 
+>(otherwise, the download will just not exist), and, as a 
+>file-sharing protocol, perhaps already on its way out, as file 
+>sharing gets increasingly criminalized by the entertainment industry 
+>and at least some US universities and internet providers already per 
+>default block the ports that Bittorrent might use or find other ways 
+>to lock out file sharing.
+
+Actually, bittorrents can function with only 1 "seed" ... which is 
+how they are initially "seeded".  The only requirement is a 
+suffiently large pool of users commited to hosting all the files. 
+Since most image-only (i.e. not etext, but digital photocopies) 
+ebooks range from 5Mb to 100Mb (compared to video files which range 
+from 300Mb to 5-10Gb -- the more commonly shared files), there is no 
+reason why an individual computer could not serve up a dozen or more 
+ebooks at a time.
+
+    As for ISPs, obviously Universities can place whatever 
+restrictions they wish on the end-users of their systems.
+    Commercial ISPs are a different story, since the major ones like 
+to boast "high-speed, unfettered access to the internet" (or some 
+such jargon), and ISPs that have blocked bittorrent ports have been 
+(and in some cases currently *are* being sued by end-users).  The 
+bittorrent *hosting* ISPs are also another story since many-to-many 
+peer-to-peer sharing technology is *not* technically illegal 
+(one-to-one P2P *was*, hence the death of Napster), and the RIA has 
+yet to devise a way to make it illegal that does not completely kill 
+"Fair Use".  Consequently, they have instead resorted to intimidation 
+techniques, threatening ISPs with lawsuits (i.e., costly legal 
+defense expenses).  A recent example was such an action by the CRIA 
+(Canada) against a major UK bittorrent host.
+    Consequently, many Bittorrent hosts have moved to the FSU ("Former 
+Soviet Union") or other "anarchy-friendly" (as someone described 
+them) countries, where bittorrent activity is far from dead.  There 
+are, as well, a large number of rapidshare e-book trading communities 
+flourishing there as well, and if you can read Russian you can find 
+quite a large number of Indological books on some of those lists as 
+well.
+
+>I doubt that (as a caricature) your 55-year-old Indologist in his 
+>tweedjacket has the energy, time, patience, interest and 
+>technological knowledge to become a file sharing nomad, constantly 
+>keeping himself up to date as to which protocols, ports and software 
+>to use :-)
+>  (I definitely do wear my sceptic's hat today ...)
+
+yes, but presumably the same hypothetical scholar might have trouble 
+changing the ribbon in his/her Smith-Corona typewriter.
+
+Accessing digital resources is no different (IMO) from accessing 
+print resources -- you still have to know what you are doing, whether 
+it is using a library catalog (OPAC or otherwise), citation index, or 
+photocopier.
+   If you drive a car and something stops working, you can: a) fix it 
+yourself, b) call someone else who knows how to fix it, or c) just 
+give up and resign your self to walking.  All technology is 
+inscrutable until you take the time to learn how to use it.
+
+Perhaps this is a "transitionary" time for scholars as well as libraries (!)
+
+(I'm wearing my "confrontational hat" today)  : -)
+
+Paul Hackett
+Columbia University
+
+
+
+

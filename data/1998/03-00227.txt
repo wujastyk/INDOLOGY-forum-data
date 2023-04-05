@@ -1,0 +1,26 @@
+From GANESANS at CL.UH.EDU  Mon Mar 16 20:45:27 1998
+From: GANESANS at CL.UH.EDU (N. Ganesan)
+Date: Mon, 16 Mar 98 14:45:27 -0600
+Subject: Software for scanning of Indian rarities?
+Message-ID: <161227036714.23782.12670155304460314807.generated@prod2.harmonylists.io>
+
+OCR for Indic scripts can be developed in stages.
+As a first step, OCR can be developed for Tamil.
+Because Tamil has a minimal set of consonants,
+- no separate symbols for voiced consonants -
+it will be far more easier to develop OCR for Tamil.
+In addition, tamil has no cluster letters in orthography.
+
+So, with the least number of symbols to be recognized
+by OCR, Tamil will be a natural choice to develop and test
+OCR software. For the same reason, Printing and Typewriting
+came to Tamil far earlier than other Indian languages.
+
+Once Tamil  OCR is field-tested, Nagari OCR will be easier
+to develop.
+
+N. Ganesan
+
+
+
+

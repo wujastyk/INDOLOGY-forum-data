@@ -1,0 +1,27 @@
+From jim at KHECARI.COM  Fri Dec 17 09:27:52 2010
+From: jim at KHECARI.COM (James Mallinson)
+Date: Fri, 17 Dec 10 09:27:52 +0000
+Subject: making diacritics (on my Mac)
+In-Reply-To: <BLU155-W651B188FE314A155494415A5160@phx.gbl>
+Message-ID: <161227091136.23782.4548358757916564127.generated@prod2.harmonylists.io>
+
+On 17 Dec 2010, at 03:58, Arlo Griffiths wrote:
+
+>
+> I am also looking for a way to make the candrabindu on top of an m.  
+> Is there any simple way to do so or must one work with specific  
+> Indological fonts and keyboards?
+
+Dear Arlo and others,
+
+I can't give you a simple answer to your other questions, but on my  
+setup on my Mac, in which I use an easily downloadable keyboard layout  
+called Asian Extended, alt+m produces m with a candrabindu above it.
+
+All the best,
+
+Jim
+
+
+
+

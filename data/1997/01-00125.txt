@@ -1,0 +1,47 @@
+From bpj at netg.se  Wed Jan 22 13:57:02 1997
+From: bpj at netg.se (bpj at netg.se)
+Date: Wed, 22 Jan 97 15:57:02 +0200
+Subject: Devanagari fonts for the Mac
+Message-ID: <161227027972.23782.3792979430091776657.generated@prod2.harmonylists.io>
+
+At 18:31 21.1.1997 +0000, Raynald Prevereau wrote:
+>Thanks to all of you who replied to my message regarding the availablility
+>of Devanagari fonts for the Mac. I now have several options to choose from.
+>Thank you all.
+>
+>Raynald
+
+You will find a useful free utility for typing with special characters and
+fonts at:
+
+http://www.sil.org/computing/silkey.html
+
+For those of you that use Windows there is a similar program at the same
+site, which is well worth a look-around in any case.
+
+It takes a bit of simple programming to make Silkey work. If anybody needs
+a hand I'll be happy to help.
+
+
+__                     __  ___   __ ___ __
+|_) |_  * | * __       (_ /_|| * (_ /_| (_ *
+|   | ) | | | |_)            |     \
+              |
+B.Philip Jonsson <bpj at netg.se>
+
+              _        _    .             _ _
+|| Gate gate paragate parasamgate bodhi svaha ||
+
+"Peace is not simply the absence of war.
+It is not a passive state of being.
+We must wage peace, as vigilantly as we wage war."
+(XIV Dalai Lama)
+
+"A coincidence, as we say in Middle-Earth"
+
+
+
+
+
+
+

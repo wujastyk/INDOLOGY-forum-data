@@ -1,0 +1,94 @@
+From tyler.g.neill at gmail.com  Fri Nov  9 10:58:08 2018
+From: tyler.g.neill at gmail.com (Tyler Neill)
+Date: Fri, 09 Nov 18 11:58:08 +0100
+Subject: [INDOLOGY] Cologne online Sanskrit dictionaries new interface (also for Pune, Apte, etc.)
+In-Reply-To: <CADbR+Y89poCYrV2SXnLR1R6XgeDF+CX440Ad+MmgmghvffJw6A@mail.gmail.com>
+Message-ID: <CADbR+Y9yBPeAyOgkPEgEe1jd-BzR94eGhwHRq__00uaDhOiwfg@mail.gmail.com>
+
+Dear all,
+
+It has come to my attention over the past year or so that the new interface
+for Cologne's dictionary tool may not be very well known, although it
+represents in my opinion quite a healthy leap forward in coverage and
+usability. For example, I searched the Indology list archive but couldn't
+find any mention of it at all. Does anyone perhaps know a reason why this
+development happened so quietly?
+
+Prof. Karin Preisendanz has given me permission to share the below
+exchange, which may hopefully be of some instructional use to others, as
+well.
+
+Kind regards,
+Tyler Neill
+
+---------- Forwarded message ---------
+From: Tyler Neill <tyler.g.neill at gmail.com>
+Date: Thu, Nov 8, 2018 at 11:06 AM
+Subject: Re: Pune dictionary online
+To: Karin Preisendanz <karin.preisendanz at univie.ac.at>
+
+
+Dear Prof. Preisendanz,
+
+You are correct, there is such a website. It is the Cologne one, most
+commonly associated with the Monier-Williams dictionary.
+
+The trick is to notice at the top of the home page ?
+http://www.sanskrit-lexicon.uni-koeln.de/ ? the link to "Dec 2017", "new
+display".
+
+What this gives is:
+http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/simple-search/v1.0/list-0.2s.html
+
+Then, in the "Dictionary" box where the page defaults to "MW", simply
+change the code there, either by clicking with the drop-down menu or by
+typing. The desired Pune dictionary is accessed with the code "PD". (Two
+editions of Apte are also available, although my preferred digital
+interface for that remains the trickier-to-use Chicago website, which
+nevertheless allows not only a single-entry view
+<http://dsalsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:4467.apte>
+but also a page view
+<http://dsalsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?p.3:226.apte>
+.)
+
+You'll notice that the search box even features auto-completion while one
+types. I think you'll agree, this already useful resource has now become
+significantly more powerful. For whatever reason, however, awareness of the
+new interface remains low. I think I will forward our exchange on to the
+Indology list, if you don't mind. I read it daily and also just now
+searched the archive, but I haven't yet seen any trace of a proper
+announcement.
+
+With kind regards,
+Tyler
+
+On Thu, Nov 8, 2018 at 4:26 AM Karin.Preisendanz <
+karin.preisendanz at univie.ac.at> wrote:
+
+> Dear Mr. Neill,
+>
+> I dimly remember that at our last project meeting you mentioned an
+> online Sanskrit dictionary that comprises most of the currently
+> available fascicles of the Pune dictionary. I have had a closer look at
+> Martin Gluckman's Sanskrit Dictionary now, but obviously it does not
+> consider this dictionary. Could you please give me the relevant
+> information or correct my memory?
+>
+> With many thanks and best regards,
+>
+> Karin Preisendanz
+>
+> --
+> Karin Preisendanz
+> Institut f?r S?dasien-, Tibet- und Buddhismuskunde
+> Universit?t Wien
+> Spitalgasse 2-4, Hof 2, Eingang 2.1
+> A-1090 Wien
+> ?sterreich
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181109/94753cb2/attachment.htm>
+

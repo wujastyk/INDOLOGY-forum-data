@@ -1,0 +1,94 @@
+>?From THRASHER at MAIL.LOC.GOV 18 1994 Aug GMT 10:14:10
+Date: 18 Aug 1994 10:14:10 GMT
+From: "MAIL.TMCIOLEK" <THRASHER at MAIL.LOC.GOV>
+Subject: TAOISM, SHAMANISM, HINDUISM ET
+
+------------------------------------
+AUTHOR: MAIL.TMCIOLEK               
+------------------------------------
+-------------------------------------------------------------          
+BELOW ARE THE DISTRIBUTION LIST ENTRIES THAT THIS MESSAGE              
+WAS SENT TO BUT CANNOT BE REPLIED TO:                                  
+                                                                       
+asialib at info.anu.edu.au                                      
+socsci-www-gopher-news-l at coombs.anu.edu.au                   
+asia-www-gopher-news-l at coombs.anu.edu.au                     
+zenbuddhism-l at coombs.anu.edu.au                              
+taoism-studies-l at coombs.anu.edu.au                           
+-------------------------------------------------------------          
+                                                                       
+Received: from ANU.ANU.EDU.AU by MAIL.LOC.GOV 
+        (Soft-Switch Central V4L380P3); 17 Aug 1994 20:09:10 GMT 
+Received: from info (info.anu.edu.au) by anu.anu.edu.au (4.1/SMI-4.1) 
+        id AA05717; Thu, 18 Aug 94 10:04:41 EST 
+Received: from coombs.anu.edu.au by info (4.1/SMI-4.1) 
+        id AA05060; Thu, 18 Aug 94 10:08:11 EST 
+Message-Id: <9408180008.AA05060 at info> 
+Received: from Y150.203.147.14" by coombs.anu.edu.au with SMTP 
+        (1.37.109.8/16.2) id AA06997; Thu, 18 Aug 1994 09:58:46 +1000 
+X-Sender: tmc407 at coombs.anu.edu.au 
+Mime-Version: 1.0 
+Content-Type: text/plain; charset="us-ascii" 
+Date: Thu, 18 Aug 1994 11:11:47 +0100 
+To: taoism-studies-l at coombs.anu.edu.au, zenbuddhism-l at coombs.anu.edu.au, 
+        asia-www-gopher-news-l at coombs.anu.edu.au, 
+        socsci-www-gopher-news-l at coombs.anu.edu.au, 
+        BUDDHA-L at ULKYVM.LOUISVILLE.EDU, asialib at info.anu.edu.au 
+From: T. Matthew Ciolek <tmciolek at coombs.anu.edu.au> 
+Subject: Taoism, Shamanism, Hinduism etc changes in the Coombspapers Data Bank 
+  
+Dear Colleagues, 
+  
+(Apologies for any cross-posting) 
+  
+Six (6) Asian Religions subdirectories within the Coombspapers Social Sciences 
+Research Data Bank at the ANU (available via ftp/gopher/www from 
+coombs.anu.edu.au) have now changed their location. They have been taken out 
+of their original place in the area called 
+/coombspapers/otherarchives/electronic-buddhist-archives/, their overall 
+directory name was changed from "other-asian-religions" to 
+"asian-religions-archives" and their placement within the Coombspapers 
+anonymous ftp archive is now as follows: 
+  
+DIRECTORY:  /coombspapers/otherarchives/asian-religions-archives 
+Subdir:     /asian-religions-general 
+Subdir:     /hassidism 
+Subdir:     /hinduism 
+Subdir:     /shamanism 
+Subdir:     /sufism 
+Subdir:     /taoism 
+  
+All relevant gopher links on the Coombsquest Gopher (coombs.anu.edu.au) have 
+also been modified to reflect the change in the ftp path and thus all six 
+subdirectories continue to be conveniently reacheable via the following gopher 
+pointer: 
+  
+Name=Other Asian Religions 
+Type=1 
+Port=70 
+Path=1/ResearchFacilities/BSF/OtherReligions 
+Host=cheops.anu.edu.au 
+  
+Please adjust your pointers/records accordingly.   At the same time please note, 
+that the path and other access details of the Coombspapers' Electronic Buddhist Archives 
+themselves remain unchanged. 
+  
+  
+- with many regards - 
+  
+-================================================== 
+Dr T. Matthew CIOLEK           tmciolek at coombs.anu.edu.au 
+ANU Social Sciences Information Systems Administrator, 
+Coombs Computing Unit, Research School of Social Sciences, 
+Australian National University, Canberra, ACT 0200, Australia 
+ph +61 (0)6 249 0110             fax: +61 (0)6 257 1893 
+=================================================== 
+  
+  
+  
+ 
+
+
+
+
+

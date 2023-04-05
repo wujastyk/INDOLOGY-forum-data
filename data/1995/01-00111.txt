@@ -1,0 +1,22 @@
+From yanom at ksuvx0.kyoto-su.ac.jp  Wed Jan 18 15:16:27 1995
+From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
+Date: Thu, 19 Jan 95 00:16:27 +0900
+Subject: Kyoto-su ftp shut-down
+Message-ID: <161227018241.23782.13388889321485773361.generated@prod2.harmonylists.io>
+
+To those who are interested in Pancanga program.
+
+I am very sorry that the unix machine of my university
+in which I have another account is now under repair and
+the repair work does not go well because the earthquacke
+has shut off the transportation. Please waite for a couple
+of days to get access to my ftp directory.
+
+Michio YANO
+ 
+ 
+
+
+
+
+

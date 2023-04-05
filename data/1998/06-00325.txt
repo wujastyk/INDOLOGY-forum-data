@@ -1,0 +1,43 @@
+From info at TICONSOLE.NL  Sun Jun 21 13:31:35 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Sun, 21 Jun 98 15:31:35 +0200
+Subject: REtroflex sounds
+Message-ID: <161227040119.23782.18088874564323505572.generated@prod2.harmonylists.io>
+
+----------
+Jacob Baltuch wrote:
+
+>The southern Italian and Sardinian retroflexes seem to be
+>allophones of /l/ since the posters were saying they only occur as
+>geminates.
+
+Well, this is almost true indeed. In Sardinian, the spelling dd for the
+geminate .d.d indeed occurs instead of the Latin double ll. For
+example, `sa bidda' instead of `ipsa villa' (caseless Latin) for
+`the village'. Lone-words from Italian after contact with Genova and
+Pisa preserve the Italian spelling and pronunciation, for example,
+`bellu' for `bello' (good, good-looking).
+But there is also a retroflex voiced d, which is non-geminate, namely after
+an n. This retroflex is written either dh, or simply d. Example: `su mundhu'
+or `su mundu' for `ipsu mundu' (caseless Latin).
+
+>In any case the examples adduced so
+>far also seem to contrast with the Indian example in that they are
+>not a system involving a whole series of phonemes of the language.
+>I would imagine such isolated features would, for the sake of economy,
+>tend to get simplified out of the system (even if it is the case that
+>they are phonemic).
+
+There you have a point. Indeed, the Sardinian retroflex system
+does not include any other sound than the retroflex d, and, if
+you like, also a retroflex n, but only in combination with the retroflex
+d (this is of course a samdhi phenomenon).
+
+Sandra van der Geer
+Leiden
+The Netherlands
+info at ticonsole.nl
+
+
+
+

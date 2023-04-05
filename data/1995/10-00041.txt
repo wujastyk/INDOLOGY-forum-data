@@ -1,0 +1,26 @@
+From bhagavam at ccwf.cc.utexas.edu  Fri Oct  6 17:33:37 1995
+From: bhagavam at ccwf.cc.utexas.edu (manu bhagavan)
+Date: Fri, 06 Oct 95 12:33:37 -0500
+Subject: Q: URL addresses
+Message-ID: <161227021092.23782.18409034771639429610.generated@prod2.harmonylists.io>
+
+In addition to the URL just posted in Kamal's address, I think the one 
+posted below will also work if the slash between asnic and htl is 
+corrected to a <.>. So:
+http://asnic.utexas.edu/asnic.html
+
+Manu Bhagavan
+
+
+On Fri, 6 Oct 1995 Reganch at aol.com wrote:
+
+> I have also tried the address http://asnic.utexas.edu/asnic/html and received
+> the error message "unknown addressee."
+>  
+> 
+ 
+
+
+
+
+

@@ -1,0 +1,18 @@
+From jrgardn at EMORY.EDU  Tue Apr 11 13:28:22 2000
+From: jrgardn at EMORY.EDU (John Robert Gardner)
+Date: Tue, 11 Apr 00 09:28:22 -0400
+Subject: Erratim (Re: Vedic Characters & Unicode)
+In-Reply-To: <Pine.GSO.4.05.10004110908170.80-100000@jet.cc.emory.edu>
+Message-ID: <161227057720.23782.14156726879930849193.generated@prod2.harmonylists.io>
+
+On Tue, 11 Apr 2000, John Robert Gardner wrote:
+
+> was IS 13194:1991 (which is out of synch with Unicode 1.0, though unicode
+> is a superset of ISCII:1991).  Alas, Annex G is expressly excepted from
+> ISCII-1991.
+
+expressly excepted from Unicode, that is, not from ISCII:1991  -- sorry.
+
+
+
+

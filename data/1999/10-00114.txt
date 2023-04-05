@@ -1,0 +1,124 @@
+From poo at GIASMD01.VSNL.NET.IN  Tue Oct 19 13:12:22 1999
+From: poo at GIASMD01.VSNL.NET.IN (RM.Krishnan)
+Date: Tue, 19 Oct 99 18:12:22 +0500
+Subject: Q: intervocalic -k- preserved as intervocalic -g-
+Message-ID: <161227052873.23782.11174477976191160359.generated@prod2.harmonylists.io>
+
+At 10/18/99 10:44:00 AM, you wrote:
+>Dear Dr. N. Ganesan,
+>
+>Are you sure agasti is derived from Drav. akatti?  Rather tan the reverse or
+>both from a third language?  As for the seemingly derived name Agastya, Eric
+>Pirart (Les forces du mal dans la Rgvedasamhita, Journal Asiatique 1998/2,
+>if I'm not mistaken) explains it as a loan from Iranian, a-gast-, "without
+>foul smell, without sin, impeccable".
+>
+>Yours sincerely,
+>Koenraad Elst
+>http://members.xoom.com/KoenraadElst/
+Dear Dr.Koenraad Elst,
+
+We move on to my part no.2.
+
+So what is the etymology of the name 'Agastya'?
+
+There are a number of names similar to 'Agastya' in the other Indo-European languages, like Augustus, Augustinus,
+Augustanus, Augustulus in Latin, Augusti in Germanic, Augustine in English etc. These have been natural names in
+Europe even before the Christian Era. If we look at the Latin name 'Augustus', the meaning appears to be 'consecrated
+or venerable.'
+
+In the Bloomsbury Dictionary of Word Origins, John Ayto suggests the following:
+
+August [OE] The month of August was named by the Romans after their Emporer (63BC -14AD). His name was
+Caius Julius Caesar Octavian, but the Senete granted him the honorary title Augustus in 27BC. This connoted
+'imperial majesty,' and was a specific use of the adjective 'augustus' -{ 'magnificient, majestic' (source of Englist
+august [17])}; it may derive ultimately from the verb 'augere'-[ 'increase' (from which English gets auction and
+ augment)].
+
+Now we come to Tamil. Unfortunately, many Indologists do not consider the Dravidian words when looking for
+similarity with and tracing the etymology of  Indo-European words. There is much to benefit from doing so. In my
+deeply held view, considering the North Indian languages (together with Sanskrit) and the European languages as
+two branches of a single Indo-European tree is only a first step. Most probably, the dravidian languages form an
+earlier branch of the same tree.
+
+In Tamil, the verb 'akai -thal', as per "The Comprehensive Etymological Dictionary of the Tamil Language"
+vol-1,part -1, has meanings 'to sprout; to thrive, flourish, grow well, as vegetation; to blossom, to expand. ('thal' in
+the rendering is an infinitive end). Incidentally, 'k' in the Tamil word 'akai-thal' has to be pronounced as 'g' due to
+positional rules, as suggested earlier by N.Ganesan.
+
+There are also equivalent words in other Dravidian Languages.viz., MalayaLam - aga, Kannada- age, Telugu - Agu,
+ThuLu - aggE etc;
+
+As you can see, there is a similar meaning of 'increase' for  the Latin word. One beauty of the Latin and Dravidian
+sources is that there is no need to split the word un-naturally to fit a supposed myth.
+
+Why do I say that this is a probable derivation? Because, there are a few more natural words in Tamil with a similar
+meaning of blossom,expand,increase,extend etc. For example,
+
+akalthal(v) - to extend, to expand, to spread, to widen,to broaden, to get into greatness, to enlarge
+akaram - town in an agricultural tract (meaning extended field); originally a place where mostly brahmins live
+akattuthal(v) - to open wide
+akaRRuthal (v) - to widen, to broaden, to extend,to increase,
+akappu - height
+akaRci - breadth
+akaRRam - width,expanse
+Arththi - mountain ebony tree, widely prevalent in ancient tamil nAdu. This is a broad tree with intense branches,
+                and blossoms intensely. This is also a royal floral insignia of the Cholas.
+Al - Typical Indian Banyan tree, prevalent largely in the north India during ancient times.
+
+ In Tamil, as in other Indian languages, vowels and consonants are not always explicitly written. They are rendered
+in a combined fashion. (i.e. there are consonant-vowel combinations with explicit glyphs.) Also vowels are of two
+types, long and short. (For example, 'A' is long and 'a' is short. We say 'a' is lengthened to 'A' and both are related).
+Now, let there be three consonants c1, c2 and c3. and three short vowels v1,v2 and v3. A word can be of this form
+[(c1v1)(c2v2)(c3v3)....]. .It is often a practice in Tamil to coin a new rendering of the word formation (but with the
+same meaning) by dropping (c2v2) and lengthening v1 to V1. For example, [(pa)(ku)(thi)] means divided portion and
+hence quotient, half, etc. By dropping (ku) and lengthening a to A, we get [(pA)(thi)]; Similarly mikuthi(remainder)
+becomes mIthi. peyar (name) becomes pEr. makan (son) becomes mAn etc. This type of changed rendering is not a
+one way process. There can be a reverse process. i.e. [(c1V1)(c3v3)] can become [(c1v1)(c2v2)(c3v3)....].
+
+Now I come to my central arguement.  Athan is proper name in general use in ancient times. Athan has the same
+meaning as suggested to 'Augustus' - foremost person, venerated person, person with virtuous quality etc. The
+following are the typical names in Tamil and dravidian languages.
+
+Athan azici, Athan ungan, Athan Ori - names of petty kingdoms in Sangam literature.
+CEralAthan, celvak katungkO vAziyAthan - names of cEra emporers in Sangam literature.
+
+Athappa, Athayya are proper names in modern Kannada.
+Athan is a proper name in modern MalayaLam.
+Athappan, Aththappan, saththappan are proper names in modern Tamil.
+AthikAn, AthikAtu are proper names in modern Telugu.
+
+Athamangalam, AthanUr are place names in modern Tamil nadu.
+
+Athan has been a prefix or a suffix in many old Tamil names. The root is 'aku' (meaning:to sprout; to thrive, flourish,
+grow well, as vegetation; to blossom, to expand.) 'aku' can turn into 'akai' quite easily.
+
+The etymology is  aku - A - Aku. This is similar to paku-pA and miku - mI
+
+'Athan' and 'akathan' are two renderings with same meaning. 'akathan' in Tamil would quite naturally change into
+'akathyan' and further drop 'n' when moving into Sanskrit; and finally turn into 'akasthya > agastya'.
+
+Before I conclude, I should perhaps place other parallel words.
+
+Athan - man (in Tamil), Admi in Hindi and Urdu, Adam in Hebrew and a host of other languages.
+Athan - body, spirit and self (in Tamil), Atman (in sanskrit), atmaya (in sinhalese) attan (in pAli), atta (in prakrit),
+ahma
+(gothic), atum(Old German).
+
+I am not suggesting that one has come from the other. I am only suggesting that by including the dravidian languages
+in
+the search we get better results; and perhaps we may come to a revision of our outlook/dogma.
+
+With regards,
+RM.Krishnan.
+
+Note:
+
+Regarding the derivation from Iranian sources as to 'without smell' and 'without sin' etc, I would like to raise a
+question; does the meaning appear to be so in other Indo-European languages? Is there a name similar to 'Agastya' in
+Iranian? Why should one insist on smell being not present? what is so significant about it? Is having smell a sin?
+When all rishis are supposed to be without sin, why should Agastya be designated as sin-free? I am not very clear.
+
+
+
+

@@ -1,0 +1,210 @@
+From wujastyk at gmail.com  Fri Oct 23 21:00:23 2020
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 23 Oct 20 15:00:23 -0600
+Subject: [INDOLOGY] Mosquitoes
+In-Reply-To: <EA30AE52-D31F-4D6D-9921-E201ED380989@safarmer.com>
+Message-ID: <CAKdt-CcdycxXNEjvrA+xQ+wb2yBES8DVnCTJFETar0_-9Z1f4g@mail.gmail.com>
+
+What Dan and others say is quite right.  Ayurvedic literature works with
+various etiologies: humoral, environmental, seasonal, karmic, etc., with
+contagion only faintly referenced.  Ken Zysk and Rahul Peter Das have both
+written about contagion in the classical texts, while one can also point to
+the contagious transmission of syphilis mentioned by Bh?vami?ra in his
+*Bh?vaprak??a* (16 cent.).
+Having a medical system that explains disease in terms of individual
+constitutions raises a difficulty for physicians when faced with finding an
+explanatory model for epidemic disease (janapadoddhva?sa), where everyone
+comes down with the same symptoms in spite of being different people.  In
+this case, the explanation is that the shared environment is blighted.
+(Caraka offers a chapter that has much in common with the Hippocratic
+treatise "Airs, Waters, Places" as Zysk has discussed.)  And one of the
+elements in that blight is mosquitoes.  In my essay "Models of Disease in
+Ayurvedic Medicine" I go into this and give more detail (pp. 46-8 of the
+published version).
+
+Best,
+Dominik
+
+--
+
+   - Das, R. P. (2000). ?Notions of ?contagion? in Classical Indian Medical
+   Texts.? Contagion: Perspectives from Pre-modern Societies, pp. 55?78.
+   - Wujastyk, D. (2017). ?Models of Disease in Ayurvedic Medicine.? (ed.)
+   Jackson M.*The Routledge History of Disease*, pp. 38?53. Routledge:
+   Abingdon. DOI: 10.4324/9781315543420. Draft copy at
+   https://www.academia.edu/25517629/.
+   - Zysk, K. G. (2000). ?Does Ancient Indian Medicine Have a Theory of
+   Contagion?? (ed.) Conrad L. I. & Wujastyk D.Contagion: Perspectives from
+   Pre-modern Societies, pp. 79?95. Ashgate: Aldershot, Burlington USA,
+   Singapore, Sydney.
+
+--
+Professor Dominik Wujastyk
+<https://apps.ualberta.ca/directory/person/wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+On Fri, 23 Oct 2020 at 12:35, Steve Farmer via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Hi  Jim,
+>
+> I?ve been asked whether I know of any studies of mosquitoes or other
+> disease-carrying insects in Indian literature. I don?t, and a search of the
+> indology archive reveals nothing either. I would be very grateful for any
+> suggestions.
+>
+>
+> I take it you?re looking for premodern references of the sort that Dan?s
+> email provides, copied below. But NB his correct suggestion that none of
+> these link disease transmission to mosquitoes or other insects. That only
+> came following Sir Patrick Manson?s work in China in the late 1870s on
+> mosquitoes as a vector for human filariasis,  Charles Finlay?s early work
+> on yellow fever in Cuba starting in 1881 ? which initially was widely
+> ridiculed ? and finally Ronald Ross?s work in the Indian Medical Service in
+> the 1890s, which definitively identified the malarial parasite in the gut
+> of mosquitoes transmitting the disease.
+>
+> For that work in 1902 Ross received the second Nobel Prize in Physiology
+> and Medicine. A great account by Ross of his work on mosquitoes and malaria
+> ? and his life in India as well, where he was born ? is found in his
+> massive (and wonderfully eccentric) 1923 memoirs, which you can find
+> scanned in online here:  *https://tinyurl.com/yxo7taao
+> <https://tinyurl.com/yxo7taao>*
+>
+> The strictly medical literature on mosquitoes, India, and many of these
+> other diseases for obvious reasons is massive. A PubMed key word search I
+> made this morning on India, mosquitoes, and malaria ? leaving aside all
+> other mosquito-transmitted viruses now known (e.g., Zika, West Nile
+> virus, Chikungunya virus, dengue, yellow fever, etc.) ? came up with over
+> 4000 titles, going back to an 1899 article in the *Indian Medical Gazette*
+> entitled ?The Extermination of Mosquitoes,? which refers to Ross?s
+> revolutionary work.
+>
+> This paper and many other early papers on related themes are now scanned
+> in and available at PubMed. Google scholar, which covers papers in
+> non-medical journals as well, will give many thousands more.
+>
+> In the Victorian era ? due to the obvious importance of yellow fever and
+> malaria to the Empire ? discussions of malaria, in later periods
+> mosquitoes, and related political issues were a recurrent theme in British
+> literature.  For a fine account of that literature, see Jessica Howell?s
+> new book from Cambridge U. Press (2019), *Malaria and Victorian Fictions
+> of Empire. *
+>
+> Her substantial bibliography starts on p. 202. That, and a good bit of her
+> book as a whole, is available via Amazon. Go to *https://tinyurl.com/yybqhfjf
+> <https://tinyurl.com/yybqhfjf>*
+>
+> Cheers,
+> Steve
+>
+> The Systems Biology Group
+> Palo Alto, CA
+>
+> On Oct 23, 2020, at 7:54 AM, Dan Lusthaus via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear James, et al.,
+>
+> The idea of disease had not yet included the discovery of germs (there
+> were occasional theories from Greece, Rome, Medieval Islamic medicine about
+> infectious ?seeds? that could be transmitted by contact or through the air,
+> but identifying actual germs awaited the 19th c in the west), so in ancient
+> and medieval India the belief was that disease was more likely to be caused
+> by an imbalance of the three do?as, demons, bad hygiene, or immodest
+> lifestyle, but not by germ transmission. So mosquitos and snakes ? one
+> causing temporary discomfort, and the other more dangerous because of
+> lethal venom ? were not considered disease transmitters per se.
+>
+> There is a stock phrase repeated numerous times in Buddhist texts,
+> initially in the Nik?yas as examples of painful adversities, and in later
+> texts, such as Asa?ga?s Abhidharmasamuccaya, with a slightly expanded list,
+> as examples of r?pic impingement.
+>
+> One such example from the Majjhima-nik?ya:
+>
+> Sabb?sava Sutta [Skt: Sarva-?srava] (MN 2 / MN i 6 )
+>
+> Katame ca, bhikkhave, ?sav? pa?isevan? pah?tabb?? Idha, bhikkhave, bhikkhu
+> pa?isa?kh? yoniso c?vara? pa?isevati: ?y?vadeva s?tassa pa?igh?t?ya,
+> u?hassa pa?igh?t?ya, ?a?samakasav?t?tapasar?sapasamphass?na? pa?igh?t?ya,
+> y?vadeva hirikop?nappa?icch?danattha??.
+>
+> And what are the defilements that should be given up by using?  Take a
+> mendicant who, reflecting properly, makes use of robes:  ?Only for the sake
+> of warding off cold and heat; for warding off the touch of flies,
+> mosquitoes, wind, sun, and reptiles; and for covering up the private
+> parts.?
+> (Bhikkhu Sujato tr.)
+>
+> ?What taints, bhikkhus, should be abandoned by using? Here a bhikkhu,
+> reflecting wisely, uses the robe only for protection from cold, for
+> protection from heat, for protection from contact with gadflies,
+> mosquitoes, wind, the sun, and creeping things, and only for the purpose of
+> concealing the private parts.
+> (Bhikkhu Bodhi tr.)
+>
+> And what, monks, are the cankers to be got rid of by use? (1) In this
+> teaching, monks, a monk, wisely reflective, uses a robe simply for warding
+> off the cold, for warding off the heat, for warding off the touch of
+> gadfly, mosquito, wind and sun, creeping things, simply for the sake of
+> covering his nakedness.
+> (I.B. Horner tr.)
+>
+> [?]
+>
+> Pa?isa?kh? yoniso sen?sana? pa?isevati: ?y?vadeva s?tassa pa?igh?t?ya,
+> u?hassa pa?igh?t?ya, ?a?samakasav?t?tapasar?sapasamphass?na? pa?igh?t?ya,
+> y?vadeva utuparissayavinodanapa?isall?n?r?mattha??.
+>
+> Reflecting properly, they make use of lodgings:  ?Only for the sake of
+> warding off cold and heat; for warding off the touch of flies, mosquitoes,
+> wind, sun, and reptiles; to shelter from harsh weather and to enjoy
+> retreat.?
+> (Sujato)
+>
+> ==
+> But one is expected to tolerate these sorts of pains and adversities, so
+> they are not thinking of them as occasions for contracting lethal diseases
+> ? the snakes have venom, which of course they acknowledge, but the texts
+> also advocate tolerating snake bites as well.
+>
+> ==
+> Asa?ga, Abhidharmasamuccaya:
+>
+> Gokhale ed., p. 2:
+> ki?lak?a?a? r?pam / r?pa?a lak?a?a? r?pam / tad dvividham / spar?ena
+> r?pa?a? prade?ena r?pa?a? ca / spar?ena r?pa?a? katamat /
+> karacara?ap????a?asrada??a??to??ak?utpip?s?ma?akada??asarpav??cik?d?n??
+> spar?ena vy?b?dhanam / prade?ena r?pa?a? katamat / de?ena r?pa?a mida?
+> ceda? ca r?pameva? caiva? ca r?pamiti pra?ihit?pra?ihitacetovitarke?a
+> pratibimbacitr?k?rat? //
+>
+> What is the characteristic (laksana) of matter? Change is the
+> characteristic of matter. It has two forms: change in contact and change in
+> localization. What is change in contact? It is the alteration caused by
+> contact by a hand, a foot, a stone, a weapon, a stick, cold, heat, hunger,
+> thirst, a mosquito, a gadfly, a snake, a scorpion, etc. What is change in
+> localization? It is the imagination of form, through determined or
+> undetermined mental conception, as such and such or some such other form.
+> (W. Boin-Webb?s English tr. of W. Rahula?s French tr.).
+> ==
+>
+> The Su?ruta-sa?hit? describes five types of mosquitos, but only considers
+> them to cause local pain, not transmit disease, though the bite of one of
+> the five is considered similar to the bite of lethal insects).
+>

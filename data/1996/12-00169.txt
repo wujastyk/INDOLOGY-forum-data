@@ -1,0 +1,26 @@
+From everson at indigo.ie  Thu Dec 12 10:28:36 1996
+From: everson at indigo.ie (everson at indigo.ie)
+Date: Thu, 12 Dec 96 11:28:36 +0100
+Subject: CONLANG: Re: Representing diacritics in 7-bit ASCII
+Message-ID: <161227027482.23782.15179150934304917503.generated@prod2.harmonylists.io>
+
+At 00:16 12.12.96, Marion Gunn wrote:
+>I disagree. (As someone with over 7 yrs of archives to search & sort) I
+>believe that putting diacritics in front would make sorting impossible.
+>Marion Gunn
+
+It is also incompatible with ISO 10646.
+
+--
+Michael Everson, Everson Gunn Teoranta
+15 Port Chaeimhghein ?ochtarach; Baile ?tha Cliath 2; ?ire (Ireland)
+Guth?in:  +353 1 478-2597, +353 1 283-9396
+http://www.indigo.ie/egt
+27 P?irc an Fh?ithlinn; Baile an Bh?thair; Co. ?tha Cliath; ?ire
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+From drdhaval2785 at gmail.com  Fri Oct 16 04:45:24 2015
+From: drdhaval2785 at gmail.com (dhaval patel)
+Date: Fri, 16 Oct 15 10:15:24 +0530
+Subject: [INDOLOGY] SanskritAccent - an accent generator
+Message-ID: <CADSGPzVDgDMmUDak_7aMgZLA7K60cZYcu5mvU9cezEaSALGh0w@mail.gmail.com>
+
+Dear all,
+
+We are happy to present before you our project SanskritAccent - a
+computational simulation of ?????????s.
+
+*Expected outcome* -
+1. The code converts an unaccented word into accented version with help of
+?????????s.
+e.g. ????? -> ??????.
+2. The code also shows the ????????? responsible for the accent (in this
+case ????????? ???????????? ).
+
+
+*Source code* - https://github.com/drdhaval2785/SanskritAccent/
+*Online testing* -
+http://www.sanskritworld.in/sanskrittool/SanskritAccent/accent.html
+
+
+
+*N.B.* -
+1. Currently we have considered only ?????????s. ?????????, ????????? and
+???????????? are not incorporated as of yet.
+2. Bug reports are welcome at
+https://github.com/drdhaval2785/SanskritAccent/issues.
+3. We have relied on three books - (1) zAntanava's phiTsUtras by F.
+Kielhorn (2) svarasiddhAntacandrikA of zrInivAsayajvan and (3)
+siddhAntakaumudI with subodhinI commentary.
+4. Current version is version 1.0.1 (
+https://github.com/drdhaval2785/SanskritAccent/releases/tag/v1.0.1)
+
+*Sample image* -
+
+[image: Inline image 4]
+
+Thaking you,
+
+Dr. Dhaval Patel, I.A.S and Shivakumari Katuri
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151016/b3a1a2f3/attachment.htm>
+

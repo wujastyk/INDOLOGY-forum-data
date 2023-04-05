@@ -1,0 +1,36 @@
+From d.wujastyk at gmail.com  Tue Jun  5 12:38:21 2018
+From: d.wujastyk at gmail.com (Dagmar Wujastyk)
+Date: Tue, 05 Jun 18 14:38:21 +0200
+Subject: [INDOLOGY] Shared histories of yoga and Ayurveda in the 20th century
+Message-ID: <CAEhxeU2j7O_Bd228iy4R-yEt8oPLDz17EAz1T79vN3veQdLb4w@mail.gmail.com>
+
+Dear colleagues,
+
+I am pleased to announce the launch of the Ayuryog project's timeline on
+the shared histories of yoga and Ayurveda in the 20th century, which you
+can find on the project website at http://ayuryog.org/timeline . The
+timeline was created by Suzanne Newcombe.
+
+One of the major aims of the Ayuryog project is to explore the
+entanglements of yoga and Ayurveda. As a resource to visualize these
+entanglements in the twentieth century, we are pleased to present an
+interactive timeline of key events linked to the entanglement of yoga and
+Ayurveda from the colonial period to the present.
+
+Any summary of key events and dates is always incomplete. If you?d like to
+suggest additions and corrections to the timeline, please get in touch!
+
+We used a Drupal plugin for this, and have found the technical details of
+the plugin somewhat limiting (for example, we can't go back any further
+than the 19th century). Nevertheless, it's a start and will hopefully prove
+useful.
+
+With kind regards,
+
+Dagmar Wujastyk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180605/30aa2f8d/attachment.htm>
+

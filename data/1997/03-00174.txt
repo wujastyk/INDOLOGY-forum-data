@@ -1,0 +1,40 @@
+From l.m.fosse at internet.no  Fri Mar 14 16:26:23 1997
+From: l.m.fosse at internet.no (Lars Martin Fosse)
+Date: Fri, 14 Mar 97 17:26:23 +0100
+Subject: New Free Devanagari TrueType Font.
+Message-ID: <161227028938.23782.3831801634627769176.generated@prod2.harmonylists.io>
+
+At 02:54 14.03.97 GMT, you wrote:
+>
+>This message was posted on alt.humanities.language.sanskrit. It is posted
+>here as the font may be of use to INDOLOGY members.
+>
+>Regards,
+>Anshuman Pandey
+>University of Washington
+>apandey at u.washington.edu
+>
+....
+>
+>I have created a TrueType Font for Sanskrit, which you can download for
+>free at the following address:
+>
+>http://www.geocities.com/Athens/9145
+>
+>You will also find further information there.
+>
+
+I note of warning! I downloaded and installed this font, and then tried to
+read the doc-files into Word6 for Windows. Since then, all letters are
+printed more or less above each other. In order to get a readable text on or
+off screen, I have to define a distance of 4 points between each letter.
+Something is wrong, and I have not been able to solve the problem yet.
+Anyone out there witha similar problem?
+
+Lars Martin Fosse
+
+
+
+
+
+

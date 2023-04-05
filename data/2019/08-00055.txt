@@ -1,0 +1,41 @@
+From hspier.muktabodha at gmail.com  Wed Aug 14 01:32:46 2019
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Tue, 13 Aug 19 21:32:46 -0400
+Subject: [INDOLOGY] EasyUnicode for a Windows computer?
+In-Reply-To: <CAPx9OfJ=dy-xhCx+9g4u7_e_YwkDKy+axpt6zamteYjEQGwqJA@mail.gmail.com>
+Message-ID: <CAPW7aQH0ggXWybkhL7Sx_ziqBNnNpMYBM9mju4WYB8Ofj_2uzw@mail.gmail.com>
+
+Dear Anya,
+For Word on Windows you can define shortcut keys. Just go to the insert
+symbols menu and press "shorcut key" and then define what you want for
+letters with diacriticals.  I used Alt + the character for diacritical
+under the letter and ctrl+ the character for diacritical above the letter.
+Alt+ctrl + the character if there is a diacritical above and below the
+character, and a few others for the nasals.
+Harry Spier
+
+On Tue, Aug 13, 2019 at 8:16 PM Anya Golovkova via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear all,
+>
+> In addition to James Hartzell's question regarding EasyUnicode for ipad, I
+> would ask if there is a way to use this keyboard layout on a non-Mac
+> computer.
+>
+> Many thanks!
+> Anya
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190813/0f5b332e/attachment.htm>
+

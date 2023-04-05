@@ -1,0 +1,88 @@
+From n-iyanag at ppp.bekkoame.or.jp  Tue Oct 22 02:40:47 1996
+From: n-iyanag at ppp.bekkoame.or.jp (n-iyanag at ppp.bekkoame.or.jp)
+Date: Tue, 22 Oct 96 11:40:47 +0900
+Subject: Prof. Tokunaga's message (Copyright and etiquette)
+Message-ID: <161227026527.23782.6331778501908435441.generated@prod2.harmonylists.io>
+
+Dear Indologists,
+
+First, I would like to repeat Jonathan Silk's words, who wrote:
+
+>.................I cannot imagine that there is any Sanskritist or
+>Indologist in the world -- and certainly not on this list -- who does not
+>have the highest appreciation for Prof. Tokunaga's tremendous
+>efforts to input the *entire* MBh and R, in the first place, (and for
+>this, as one says in Hebrew, dayenu -- this would have been enough), but
+>to exercise (now, as the Buddhists say) not only his prajnaa but his
+>karu.naa in making available to us all the fruits of his labors.
+>
+
+This is exactly what I think.
+
+That said, I would like to point out that the copyright law and the
+etiquette are two different things. The copyright law is a social
+thing, a law having its history, having been made necessary mainly
+because of some economical and industrial reasons. It seems to be
+evolving quickly, but as all laws, it is conservative, and certainly
+must be changed to be adapted to the current situation of "information
+revolution". The law can be different for each country, and everybody
+is not supposed to know all its details. Personally, I tend to think of it
+as "a necessary evil" -- I personally think that we should make our
+efforts for a more freedom in the information circulation.
+
+On the other hand, the etiquette is also a social thing, but it is at the
+same time a personal thing. It is not because we can be object of a lawsuit
+that we should not copy things from others works and not recognize it
+explicitely. Everybody is supposed to be aware of the etiquette. We
+should have more freedom as far as the law is concerned, but we should be
+more strict in regard to the etiquette...
+
+Of course, I know that all this is somewhat "idealist"... The
+"necessary evil" is necessary as far as we live in our "imperfect
+world". But I think that it is important to be aware of the difference of
+the law and the etiquette.
+
+Dr. Dominik Wujastyk wrote about the "GNU public license spirit". I
+don't know if the GNU public license is really valid from the strict
+point of view of the copyright law. But I heard that the GNU public
+license has been made possible because of the somewhat "revolutionary
+and beatnick spirit" of some UNIX programmers...
+
+Anyway, the copyright statement put at the top of Prof. Tokunaga's
+files, reproduced here by Dr. Wujastyk, is very interesting:
+
+>
+> ====================================================================
+> | These files are copyrighted by Prof. Muneo Tokunaga.             |
+> | They may be freely distributed and used for scholarly purposes,  |
+> | but anyone wishing to use the files for commercial purposes must |
+> | apply to the copyright holder for permission to copy the file.   |
+> ====================================================================
+>
+
+I would tend to think that to avoid misunderstandings such as that
+happened to Prof. Tokunaga, it would be good to add to that statement
+something like this:
+
+"Anyone wishing to modify their entire contents [of the files] in any
+way and make the result *publicly available*, must apply to the
+copyright holder for permission to do so."
+
+Again, in my feeling, this kind of thing should not be "juridical thing"
+-- but a statement like this could avoid many misunderstandings...??
+
+Just my 2 yen...
+
+Best regards,
+
+Nobumi Iyanaga
+Tokyo,
+Japan
+
+
+
+
+
+
+
+

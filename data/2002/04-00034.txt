@@ -1,0 +1,27 @@
+From sbaums at GMX.NET  Fri Apr 12 17:01:34 2002
+From: sbaums at GMX.NET (Stefan Baums)
+Date: Fri, 12 Apr 02 19:01:34 +0200
+Subject: sanskrit text
+In-Reply-To: <004101c1e240$85f4ecd0$b731e40c@c1526004a>
+Message-ID: <161227070863.23782.12582877067587733986.generated@prod2.harmonylists.io>
+
+On Friday, 12 April 2002, Andrew Glass wrote:
+
+> This is because the software that reads Devanagari encoding with virama and
+> displays conjuncts only shipped with these versions on the windows platform.
+
+Plus you need an OpenType font containing mappings from Unicode code
+point combinations to conjunct glyphs, and one such is the _new_ Arial
+Unicode that comes with Office XP (not sure whether it is also
+included in mere Windows XP).
+
+Stefan
+
+--
+Stefan Baums
+Asien-Instituttet
+K?benhavns Universitet
+
+
+
+

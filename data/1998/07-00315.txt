@@ -1,0 +1,56 @@
+From vidynath at MATH.OHIO-STATE.EDU  Thu Jul 30 17:46:26 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Thu, 30 Jul 98 13:46:26 -0400
+Subject: Retroflexion in IA
+Message-ID: <161227041068.23782.9332832009194392619.generated@prod2.harmonylists.io>
+
+A bad case of poison ivy on my left hand made typing painful. That,
+with other demands, delayed my replies quite a bit. I hope that it is
+not too late pick up the thread again.
+
+George Thompson <thompson at JLC.NET> wrote:
+
+>In deference to the 2k rule I will try to respond briefly, and only to one
+>or two points at a time:
+
+The recommended way around the 2k rule is to have a private discussion.
+Setting up a temporary mailing list seems overkill. Perhaps the posters
+can mail their posts privately to all interested people. I volunteer to
+collect the messages and send a digest to Dominik to post on the
+Indology page for posterity (if it is interested :-). For now, I will
+limit myself to just the first point.
+
+>>In general, if two groups, one which distinguishes two sounds and
+>>another which does not but depends on context etc to differentiate
+>>words, interact, the typical outcome is for the sounds to merge.
+
+>but in this case I fail to see why the merging of all n's would be the
+>necessary outcome of convergence.
+
+I based this on something I read about dialect interactions. My laziness
+in keeping a notebook has come back to haunt me: I cannot locate the
+book where I read it. [This was specifically about Pittsburg dialect.]
+The basic argument is as follows: Dialect A distinguishes two phonemes P
+and Q. Dialect B does not. Speakers of B rely on context etc. to tell
+the words apart. This works even if P and Q are pronounced differently.
+But speakers of A rely only on the sound and have trouble understanding
+B-speakers. With repeated interaction, A-speakers start relying on context
+to tell words apart. So the difference between P and Q becomes irrelevant.
+
+Given the distributional peculiarities in Dravidian, the same argument
+should work for n. In Dravidian, n occurs word-initially and before t;
+_n everywhere else. Sanskrit anu would come out a_nu. If Sanskrit speakers
+hear it as a.nu, then the anu vs a.nu distinction is lost. The same
+works in reverse. [I don't know PDr lexion, so I will use Tamil.] Tamil
+pa_ni and pa.ni will come out the same from Sanskrit speaker's mouth. In
+both cases, the speakers must rely on context to distinguish the words,
+leading to the irrelevance of the phonemic distinctions.
+
+>Yes, the RUKI rule is older than PIA, affecting Iranian as much as Indic.
+
+So the only question now is the pronunication:-) Or how substratum can
+cause sounds that did not exist in it.
+
+
+
+

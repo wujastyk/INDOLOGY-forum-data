@@ -1,0 +1,23 @@
+From will.sweetman at gmail.com  Fri Oct 31 00:50:25 2014
+From: will.sweetman at gmail.com (Will Sweetman)
+Date: Fri, 31 Oct 14 13:50:25 +1300
+Subject: [INDOLOGY] bulk downloading and assembly from DL
+In-Reply-To: <D078088E.F625%lubint@wlu.edu>
+Message-ID: <5452DCD1.5020906@gmail.com>
+
+There seem to be a number of apps designed to download from the DLI - 
+I've tried a couple and not sure which one Tim means, but the one 
+available at the link below has worked pretty well for me on a Mac:
+
+http://dli-downloader.blogspot.dk/2013/04/fast-dli-downloader-tool-to-download.html 
+
+
+Cheers
+
+Will
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+From cln4 at COLUMBIA.EDU  Sat Mar 27 01:48:45 1999
+From: cln4 at COLUMBIA.EDU (Christian Lee Novetzke)
+Date: Fri, 26 Mar 99 20:48:45 -0500
+Subject: Question on Jnaneshvari
+In-Reply-To: <19990326195135.21145.qmail@hotmail.com>
+Message-ID: <161227047722.23782.10579926199060691425.generated@prod2.harmonylists.io>
+
+Harry Spier,
+
+This is strange.  If you have a chance, check _The Jnaneswari_ edited with
+satIp and translated by R.S. Lokapur, published by Nishant Prakashan,
+Belgaum, 1997.  Here the order is the same as you have found it in Pradhan
+and Lambert.  However, in a note about these two verses Lokapur writes, "In
+the accepted text of the Bhagavadgita this sloka [rudrANAm...] is numbered
+23 and vedAnAm... is 22.  In K [_Jnaneshwari_.  P.N. Kulkarni, ed.  Shivaji
+University, Kholapur.  1993.]  and many other Mss also this standard order
+(i.e. the slokas and the relevant ovIs) is maintained." (571)  I checked in
+a few other places.  The order in these translations with commentary all
+have these two shlokas in the same order as they are found in the Gita,
+i.e. 22=vedAnAm and 23=rudrANAm:
+
+_Jnaneshwari_.  Bhagwat, R.K., trans.  1979.  Madras:  Samata Books.  He
+uses Bhide's version (see below) of the Jn for his translation.
+
+_Jnaneshwar's Gita_.  Swami Kripananda, trans.  1989.  Albany:  SUNY.  I'm
+not sure this is even a translation.  The preface says that Kripananda does
+to the Jn was Bly did to Kabir.  The puzzling thing is that as Bly reworded
+Tagore's version, K. supposedly rewords Pradhan and Lambert's version.
+However, K. doesn't use the same *order* of those two verses that P and L
+use.
+
+_Jnaneshwari_.  Yardi, M.R., trans.  1991.  Pune:  Bharatiya Vidya Bhavan.
+Of the two (or one?) translators above, Yardi is most explicit about the
+issues concerning recensions of the Jn text.  His translation is based on
+N. Sakhare's _Sartha Jnaneshwari_, which is the text accepted most by
+Warkaris.  It is interesting that, as he says in his own words, "In the
+absence of such a critical edition" he should choose the edition "which is
+accepted by a majority of the Warkaris."  (xvi)  Yardi does note that S.N.
+Banhatti of the Bhandarkar Institute did complete a critical edition of the
+Jn up to the 12th chapter.  If you have a friend in Pune, maybe see if you
+can have someone check this, probably to be found as _Shri Jnanadevi
+(Adhyaya barava)_, Pune, 1967.  I would imagine it conforms to the Gita's
+order.
+
+In addition, one Marathi version of the _Jnaneshwari_ that is generally
+considered authoritative, the _Sartha Jnaneshwari_ edited with commentary
+by S.V. Dandekar (1986, Swananda Prakashan, Pune) keeps the Gita's order of
+the two shlokas, as does Bhide's very popular pocket version of the
+_Jnaneshwari_ with satIp, first issue in 1928, most recent in 1998.
+Dandekar draws his version from an old manuscript he found and believed to
+be authoritative.
+
+So Lokapur, and Pradhan and Lambert, seem to be the only two who keep this
+inversion of verses 22 and 23.  Lokapur says he uses, as his title page
+reads, "Text as adopted by V.K. Rajwade".  V.K. Rajwade and S.V. Dandekar
+(just mentioned above), both Warkaris involved in creating critical
+editions of the works of Marathi sants, each believed to have found the
+oldest manuscript available of the Jn.  So Lokapur is pointing out that he
+used Rajwade's rather than Dandekar's manuscript.  Perhaps Pradhan and
+Lambert also used Rajwade's text?  I don't own their version so I can't
+check.
+
+My guess then is that the inversion occurs in the manuscript found by
+Rajwade and hence all translations based on Rajwade's manuscript contain
+the inversion (except for, curiously,  Kripananda's version).  On the other
+hand, all versions based on Dandekar's version have the verses in the same
+order as they appear in the Gita.  As to other versions culled from old
+manuscripts, I hear there are at least two others, but I don't know
+anything about them.  This also should indicate that there is no "Marathi
+original" really, but just opinions about which version is the Marathi
+original.
+
+I hope this is helpful and I haven't confused the issue.  I've got a cold
+so I have a lot of time to kill sitting in my New York apartment.
+
+Christian Novetzke
+Columbia University
+
+
+At 02:51 PM 3/26/99 EST, you wrote:
+>In the english translation of the Jnaneshvari.  (translated from the
+>Marathi by V.G. Pradhan and edited by H.M. Lambert) in chapter 10
+>between Jnaneshwars verses 203 and 208 are inserted verses 22 and 23 of
+>the Bhagavad Gita (from Radhakrishnan's translation)  but they are in
+>the reverse order that they appear in the Bhagavad Gita proper.  This
+>makes them agree with Jnaneshwar's verse commentary as written in this
+>edition.
+>
+>Could someone possibly tell me. If verses 204 through 208 in this
+>translation agree with the Marathi original.  And also in the Marathi
+>original are the sanskrit verses from the Bhagavad Gita usually inserted
+>and if so is it usual to reverse verses 22 and 23 in chapter 10.
+>
+>Thank You
+>
+>Harry Spier
+>Get Your Private, Free Email at http://www.hotmail.com
+>
+>
+>
+>
+
+
+
+

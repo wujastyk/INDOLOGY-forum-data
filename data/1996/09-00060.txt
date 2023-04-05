@@ -1,0 +1,38 @@
+From Gerard.Huet at inria.fr  Wed Sep 11 13:26:18 1996
+From: Gerard.Huet at inria.fr (Gerard Huet)
+Date: Wed, 11 Sep 96 15:26:18 +0200
+Subject: Scripts
+Message-ID: <161227025970.23782.6094689235067600310.generated@prod2.harmonylists.io>
+
+Voila qu'on cause franc,ais dans le poste, maintenant!
+/What a surprise to hear french in this forum!
+
+Les rosbifs voudraient qu'on traduise, je ne sais quoi leur repondre
+/Dominique Thillaud's transaction, in a nutshell, is that languages exist
+before their writing conventions, and thus one should not expect revelations
+from the writing forms. He gives funny interpretations of various 
+transcriptions of the pra.nava (Om etc) to push his point. I see no reason 
+however to translate in english other people's transactions in full.
+
+Je m'excuse d'ailleurs vis-a-vis de mes correspondants francophones de faire
+cette traduction partielle sans leur autorisation
+/Then Francois Voegeli remarks, in connection to roman transcription of
+sanskrit, that actually an international convention was agreed upon at the
+Xth Orientalist Congress in Geneva in 1894, involving a modest amount of
+diacritics. He then remarks that it should not be a terribly difficult task
+for computer scientists to implement this convention.
+
+This is indeed an important new (to me) information on this transcription
+topic: what is exactly this convention, is it obsolete or is it close to
+actual indologist usage, what is the distance between this convention and
+say ITRANS, does it propose solutions to vedic letters and accents, does
+it work to the extension of devanagari to hindi, etc etc.
+Waiting for informed opinions on these topics
+/En esperant que les personnes bien informees se manifesteront
+
+Gerard Huet
+
+
+
+
+

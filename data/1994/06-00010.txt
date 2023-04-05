@@ -1,0 +1,37 @@
+From vineet at gator.bocaraton.ibm.com  Mon Jun  6 15:05:29 1994
+From: vineet at gator.bocaraton.ibm.com (vineet at gator.bocaraton.ibm.com)
+Date: Mon, 06 Jun 94 11:05:29 -0400
+Subject: Vineet Jain's programs to analyse Sanskrit texts.
+Message-ID: <161227016881.23782.424810696828218932.generated@prod2.harmonylists.io>
+
+Greetings,
+> 
+>      I would like to hear more about Vineet Jain's computer programs to
+> do syntactic and semantic analysis.  What sort of input do these programs use
+> and what sort of output do they provide?  Vineet, can you provide some more
+> details? 
+
+The program takes in input as a sentence/word. The words are syntactically
+analyzed and for each word, it generated all the possible forms based on the
+syntax. Assocaited with each word, a predefinad list of grammatical attributes,
+based on the type, is outputted. This can be displayed or passed on to the
+semantic analysis phase. The semantic analysis phase based on the
+akansha and yogita, tries to find out which of the possible forms of each word
+goes with forms of other words. This could lead to multiple or single
+possible form. This information is then displayed in the Sabdabodha format
+of Vyakarna, Nyaya and Mimamsa.
+	This output can be further taken up to do discourse analysis, as was
+the case with toy program of Vedic analysis.
+
+
+>      Thanks.
+>                                                Madhav Deshpande
+>  
+> 
+
+ 
+
+
+
+
+

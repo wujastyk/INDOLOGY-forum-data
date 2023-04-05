@@ -1,0 +1,24 @@
+From hanneder at INDOLOGIE.UNI-HALLE.DE  Mon Jan 28 11:01:08 2002
+From: hanneder at INDOLOGIE.UNI-HALLE.DE (Juergen Hanneder)
+Date: Mon, 28 Jan 02 12:01:08 +0100
+Subject: Is Unicode welcome yet on the list?
+In-Reply-To: <20020124015042.GK16009@deepthought>
+Message-ID: <161227070335.23782.1519580605501231294.generated@prod2.harmonylists.io>
+
+Just another confirmation to the Unicode question. In my LinuX-system
+the diacritics were displayed like expected (I am working within the rather
+primitive e-mail system of Emacs (rmail) and just had to switch from
+my CSX font to a UTF font).
+
+Since I think that every move into the direction of Unicode is useful
+I would be quite interested to know which system you were using and
+how the diacritics were accessed from the keyboard, in other words
+a "HOWTO" for the end user.
+
+Regards
+
+Juergen Hanneder
+
+
+
+

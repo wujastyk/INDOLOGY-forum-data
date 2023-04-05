@@ -1,0 +1,54 @@
+From camillo.formigatti at bodleian.ox.ac.uk  Fri Sep 22 12:58:39 2017
+From: camillo.formigatti at bodleian.ox.ac.uk (Camillo Formigatti)
+Date: Fri, 22 Sep 17 12:58:39 +0000
+Subject: [INDOLOGY] Once again on the origin of zero: the date of the Bakhshali manuscript (or manuscripts?)
+In-Reply-To: <1505920488.S.7144.11858.f4-234-222.1506082131.28367@webmail.rediffmail.com>
+Message-ID: <0C647B6E904DBB4BAD3A28D522DC731523BCF7C0@MBX05.ad.oak.ox.ac.uk>
+
+Dear Alakendu,
+
+Thanks a lot for taking time to do some research on this topic!
+
+I paste below the quote you mention, since you sent it in a separate file:
+
+"The Sumerians' system passed through the Akkadian Empire to the Babylonians around 300 B.C. There, Kaplan agrees, a symbol appeared that was clearly a placeholder ? a way to tell 10 from 100 or to signify that in the number 2,025, there is no number in the hundreds column. Initially, the Babylonians left an empty space in their cuneiform number system, but when that became confusing, they added a symbol ? double angled wedges ? to represent the empty column. However, they never developed the idea of zero as a number.
+
+Zero in the Americas
+
+Six hundred years later and 12,000 miles from Babylon, the Mayans developed zero as a placeholder around A.D. 350 and used it to denote a placeholder in their elaborate calendar systems. Despite being highly skilled mathematicians, the Mayans never used zero in equations, however. Kaplan describes the Mayan invention of zero as the "most striking example of the zero being devised wholly from scratch.""
+
+
+If I'm allowed to be honest, I don't understand what I have to decide. It seems that you don't understand my point again, as the Babylonians already had a way to denote zero in a positional system in the 2nd millennium BC, and unsurprisingly they left a blank space between the digits?as Kaplan already says in the quote, but without mentioning any date. Then he simply says that in 300 BC the Babylonians developed a symbol, but this doesn't change the fact that the blank space was also a placeholder for zero. Moreover, the quote clearly states that "Six hundred years later and 12,000 miles from Babylon, the Mayans developed zero as a placeholder around A.D. 350 and used it to denote a placeholder in their elaborate calendar systems."
+
+So, there's nothing to decide, as far as I understand. It could also be that I'm missing something that you are implying and if this is the case, I apologize.
+
+Best wishes,
+
+Camillo
+
+
+
+________________________________
+From: mailmealakendudas at rediffmail.com [mailmealakendudas at rediffmail.com]
+Sent: Friday, September 22, 2017 1:08 PM
+To: Camillo Formigatti
+Cc: elisa.freschi at gmail.com; indology at list.indology.info
+Subject: Re: [INDOLOGY] Once again on the origin of zero: the date of the Bakhshali manuscript (or manuscripts?)
+
+
+Camillo,
+Sorry for replying late,but I took some time to have a deeper look into the history of
+the Babylonian concept of zero.
+
+I enclose a qoute from Mathemetician Robert Kaplan ...and
+leave the rest for you to decide.
+
+ALAKENDU DAS.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170922/3c4c0230/attachment.htm>
+

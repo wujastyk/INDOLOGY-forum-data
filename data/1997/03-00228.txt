@@ -1,0 +1,32 @@
+From WIKNER at nacdh4.nac.ac.za  Tue Mar 18 11:56:12 1997
+From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
+Date: Tue, 18 Mar 97 13:56:12 +0200
+Subject: ANNOUNCE: article on vedic accents
+Message-ID: <161227029015.23782.14111532034776679440.generated@prod2.harmonylists.io>
+
+
+ANNOUNCE: Article on Vedic Accents.
+
+In designing the SKT-series of Devanagari fonts, I found it 
+very difficult to get hold of basic information regarding
+Vedic accentuation (both the symbols and their significance).
+The information that I have managed to gather is presented 
+in a short article which discusses the accent changes that 
+arise in continuous speech (sa.mhitaa), their pronunciation, 
+and the various systems of notation.  It is available at:
+
+   ftp://ftp.nac.ac.za/wikner/accents.ps600-march97
+
+It is a 100-kbyte Postscript file that runs to six pages.
+
+Comments, corrections, additions, etc. are most welcome.
+
+Regards,
+Charles Wikner.
+wikner at nacdh4.nac.ac.za
+18-March-1997
+
+
+
+
+

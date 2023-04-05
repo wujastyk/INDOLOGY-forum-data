@@ -1,0 +1,29 @@
+From wujastyk at GMAIL.COM  Sun Oct  3 17:36:27 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Sun, 03 Oct 10 19:36:27 +0200
+Subject: SARIT service faulty
+In-Reply-To: <AANLkTi=afRZ4_n5Hrpck6t3W46Pjnf761Usq+HyS_XVb@mail.gmail.com>
+Message-ID: <161227090352.23782.13038558117000984099.generated@prod2.harmonylists.io>
+
+The SARIT service has been repaired and seems to be working fine again now.
+
+Many thanks to Patrick Mc Allister, who sorted the problem out.
+
+Dominik
+
+
+On 3 October 2010 17:08, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+> There is currently a fault with the SARIT.indology.info search and
+> indexing service.  We are actively investigating the problem and will
+> announce resumed service as soon as possible.  In the meantime, my apologies
+> for the loss of service.
+>
+> Dr Dominik Wujastyk
+> SARIT, INDOLOGY.
+>
+>
+
+
+
+

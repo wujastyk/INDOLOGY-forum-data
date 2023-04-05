@@ -1,0 +1,49 @@
+From jds10 at CUS.CAM.AC.UK  Thu Mar  4 09:44:27 1999
+From: jds10 at CUS.CAM.AC.UK (John Smith)
+Date: Thu, 04 Mar 99 09:44:27 +0000
+Subject: Ref. check verse 6.41 Bhagavad Gita
+In-Reply-To: <19990303184629.16867.qmail@hotmail.com>
+Message-ID: <161227047170.23782.5461476790199831608.generated@prod2.harmonylists.io>
+
+On Wed, 3 Mar 1999, Harry Spier wrote:
+
+> Belvalkar (1962) in this verse reads "...puNyakRtAM lokAn"
+> and notes "puNyakRtAMllokAn" as a variant (M in this case represents
+> chandrabindu).
+>
+> Van Buitenen reads "...puNyakRtaMl lokAn".
+>
+> Could someone tell me what the B.O.R.I. critical edition reads?
+
+The BORI ed. has puNyakRtAMl lokAn. But this is a fascinating little
+textual mystery, as it happens. Of the 10 occurrences of the phrase in the
+text of the MBh, five are spelt with candrabindu + l, five with anusvara.
+There are also 8 occurrences of sukRtAMl lokAn (and none of the equivalent
+form using anusvara). What is going on here?
+
+An optional sandhi for final -n before initial l- is simply to write the
+-n as an anusvara. In this single case, the sandhis of final -n and final
+-m are thus identical. It seems fairly clear that the phrases in question
+are, in pre-sandhi form, sukRtAm lokAn and puNyakRtAm lokAn "the worlds of
+the doers of what is good" (i.e. "the heavenly realms"). The alternative
+interpretation (su/puNya-kRtAn lokAn) simply makes no sense: "the
+well/virtuously made worlds".
+
+Whether the confusion is scribal, editorial, or a mixture of both I am
+unsure, but at some stage the final anusvara has come to be taken as
+representing -n not -m, and the spelling adjusted accordingly. If the
+phrases were used in any other case than the accusative plural this would
+presumably not have happened (or would the scribes/editors have emended
+*puNyakRtAM lokAH to *puNyakRtA lokAH?).
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

@@ -1,0 +1,127 @@
+From l.m.fosse at easteur-orient.uio.no  Mon Jun 21 09:09:58 1993
+From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
+Date: Mon, 21 Jun 93 14:09:58 +0500
+Subject: Indian musical theory
+Message-ID: <161227015896.23782.14211448417155383349.generated@prod2.harmonylists.io>
+
+>Lars--
+>
+>I have been away for some time and just found your message.  You might have 
+>your student contact Prof. Stephen Slawek, Music Dept., MBE 3.210, University
+>of Texas, Austin, Texas 78712, USA.
+>
+>Richard
+> 
+
+Thank you! I have already got another address, which I gave to my student,
+but I'll let him have this one too.
+
+Since you asked to keep you informed about the progress of my work, let me
+use this opportunity to tell you that everything is going according to plan
+so far. I have begun to write the first couple of chapters of my thesis
+(which will partly deal with the history of statistics in Sanskrit
+philology, partly discuss methodological problems). The next year will be
+crucial, because I shall then have to do my pilot study. If the pilot study
+breaks down due to practical of theoretical problems, I'm in deep trouble.
+I not, the future still looks reasonably bright. I plan to participate at
+the IX. Sanskrit World Congress in Melbourne, perhaps I will see you there!
+
+Best regards,
+
+Lars Martin 
+
+P. S.: In case you are interested, I give you the abstract of the paper I
+would like to present in Melbourne (if they accept it!)
+
+               IS THERE A FUTURE FOR STATISTICS IN INDOLOGY?
+                            Lars Martin Fosse
+
+Statistical methods have been used in philological studies  since the
+1880's . Within the field of modern languages  in particular, a great
+number of studies based on such techniques have been published during the
+last hundred years.  Statistics have been very successful in clarifying
+authorship problems. Although these techniques  can never prove an
+hypothesis, they give a mathematically defined estimate of  how probable
+(or improbable) a given hypothesis is.  Multivariate techniques enable the
+scholar to evaluate a large number of criteria and to draw conclusions with
+a high degree of probability even on the basis of relatively small samples,
+as is shown in O'Donnell's study of The O'Ruddy.  
+        Despite the obvious usefulness of statistics in studying and
+clarifying a number of textual, linguistic or philological problems, the
+method has never really gained acceptance in indological circles.  In the
+period  from 1880 till 1905, a number of studies were published  by  among
+others H. Edgren, C. R. Lanman and E. V. Arnold where descriptive
+statistics were used, the most well known work being Arnold's Vedic  metre
+in its historical development.  The next major attempt at using statistics
+in an indological context was made by Walter Wust, who in 1928 published
+his Stilgeschichte und Chronologie des Rigveda.  He gives no mathematical
+evaluation of the  numbers  he has compiled , and the conclusions are not
+supported  by reference to statistical theory. The philological part of the
+study was criticized  by Edgerton, but an informed statistical discussion
+had  to wait until A. S. C. Ross published his  article "Philological
+Probability  Problems"  in the Journal of the  Royal Statistical Society in
+1950. In the Discussion on the Paper,  P. A. P. Moran, B. Babington-Smith
+and J. Gillis offer solutions to the numerical material provided by Wust
+based on proper statistical principles. Wust's intuitive conclusions were 
+by and large supported by  the statisticians.  It is, however, debatable
+whether Wust actually managed  to say something about the relative age of
+the Rigvedic books, or  whether he  was  merely able to group them
+according  to certain numerical principles. Pavel Poucha's attempt in the
+'forties to deduce the relative age of the Rigvedic hymns on a hymn-by-hymn
+basis has  already been rejected by Gonda on philological grounds. It
+should be added that the numerical principles used by Poucha can at best be
+described as naive. But his basic perception that the Rigvedic books all
+contain both old and young material is most probably correct, and  since
+some books  probably contain more ancient material than others,  this may
+create a false impression of  books having been edited at different times.
+        In the fifties and sixties a small number of works  appeared where
+certain statistical figures were presented. Most notable are the three
+articles by R. Morton Smith on the stories of Amba, Sakuntala and Nala in
+the Mahabharata.  Significance testing was not applied.  It was only with
+T. R. Trautmann's study of the Arthashastra  that more sophisticated
+methods were introduced.  However, the statistical part of Trautmann's work
+was unfavourably reviewed  by Sternbach, who objected  to the limited 
+amount of discriminators used  by  Trautmann. Trautmann's study is
+certainly not devoid of merit, although a more comprehensive choice of
+discriminators would  have  given it greater significance.  As it is,
+Trautmann's work needs confirmation. Since Trautmann, no major statistical
+studies have been published within the field of Indology apart from M. R.
+Yardi's work on the Mahabharata and the Ramayana.
+        The general impression conferred by earlier statistical studies 
+within the field of Indology is one of numerical naivity. The techniques
+used are quite rudimentary, and there has been no proper discussion of what
+the numbers actually mean. Establishing a set of numbers (with or without
+significance testing or the use of other techniques) is only part of the
+job. Interpreting the numbers is a different matter.  This calls for a
+milieu of scholars well versed in statistical theory as well as Indology. 
+It also calls for the establishment of large  electronic corpora of
+Sanskrit texts available to all. Such corpora already exist within  other
+philological fields, e.g. modern languages, biblical studies, ancient Greek
+etc.  They serve as the basis for linguistic, literary and  stylistic
+studies.  Furthermore, there is a need for a uniform format for the
+registration of Sanskrit texts.  It is particularly important that
+compounds be  dissolved. A  common system of markup (tagging)  for
+grammatical and stylistic features  would be a great advantage.  This would
+facilitate the exchange of files enabling scholars with different
+objectives to  profit from the work of others.  It would  then be possible
+to conduct large scale statistical studies of Sanskrit texts and to develop
+statistical techniques adapted to the special requirements of Indology. 
+
+
+Lars Martin Fosse
+Department of East European
+and Oriental Studies
+P. O. Box 1030, Blindern
+N-0315 OSLO Norway
+
+Tel: +47 22 85 68 48
+Fax: +47 22 85 41 40
+
+E-mail: l.m.fosse at easteur-orient.uio.no
+
+ 
+
+
+
+
+

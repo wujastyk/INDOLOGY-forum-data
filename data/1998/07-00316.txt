@@ -1,0 +1,44 @@
+From vidynath at MATH.OHIO-STATE.EDU  Thu Jul 30 17:48:17 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Thu, 30 Jul 98 13:48:17 -0400
+Subject: double accusatives
+Message-ID: <161227041070.23782.15540523859442165234.generated@prod2.harmonylists.io>
+
+Sandra van der Geer <info at TICONSOLE.NL> wrote:
+
+>As we all observe that there is `some' difference between the two
+>accusatives.
+
+But the real question is which is the `higher object' or whatever you
+want to call it. In effect, the question is the precise semantics of
+``dar"sayati''.
+
+Boris Oguibenine wrote
+
+>The point is that "pustakam darzayati/dadAti" is a complete utterance,
+>whereas "*tam darzayati/dadAti" is an ellipsed utterance.
+
+But it is precisely this that I am unsure of. If dar"sayati means `make
+somebody see something', ``pustakam dar"sayati'' is incomplete. ``Make
+see the book'' is no less incomplete than ``show him''. We cannot
+analyze the syntax of a language based on translations to another, or
+even a latter stage of the same language.
+
+To give an example: In English, one says ``Milk the cow'' with milking
+being something one does to the cow. In Modern Tamil, the typical
+expression is ``paal ka_ra'', literally ``extract the milk'', with milk
+as the object. There is a difference in the semantics of `milk' vs
+`ka_ra', which makes for a difference in the passive. We cannot say that
+the ablative is raised to the subject in ``cow is being milked'' because
+in Tamil, the active is ``[maa.t.tiliruntu] paal ka_rakkiraan''. [I
+deliberately chose this example because it is interesting to read the
+Mahabhashya on double accusatives from this angle.]
+
+The basic problem is that the definition of `direct object' depends on
+the precise semantics of the verb. When semantics changes, the syntax
+may or may not change in step [compare yaj]. We need to keep this in
+mind before looking at passivization.
+
+
+
+

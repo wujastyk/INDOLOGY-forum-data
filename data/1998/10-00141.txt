@@ -1,0 +1,72 @@
+From khofmann at ZEDAT.FU-BERLIN.DE  Thu Oct 15 18:12:22 1998
+From: khofmann at ZEDAT.FU-BERLIN.DE (Katja Hofmann)
+Date: Thu, 15 Oct 98 20:12:22 +0200
+Subject: "The Tale of the Indo-European Horse Sacrifices."
+Message-ID: <161227041844.23782.2713584320430310846.generated@prod2.harmonylists.io>
+
+Miguel Carrasquer Vidal wrote:
+>
+> "Dominique.Thillaud" <thillaud at UNICE.FR> wrote:
+>
+> >>Dear Friends
+> >>
+> >>Hope somebody can help!
+> >>
+> >>I'd like to read a paper by Wendy Doniger, "The Tale of
+> >>the Indo-European Horse Sacrifices." in Incognita (Leiden)
+> >>1:1-15, 1990.
+> >>
+> >>I've done a library search for the journal 'Incognita' at
+> >>a few institutions, but without luck.  So, if anybody does
+> >>know where I might be able to get my hands on the paper,
+> >>I'd really appreciate it.
+> >
+> >Well, I think no such journal exists, because "incognita" is just the Latin
+> >word for "ajnAtA". Probably, you must contact somebody at Leiden.
+>
+> I'm in Amsterdam, where the publication is also "incognita".
+>
+> But the on-line catalog of the Leiden U. Libr. yields:
+>
+> Incognita : international journal for cognitive studies in the
+> humanities. -
+> Vol. 1, nr. 1 (1990) - vol. 2, nr. 2 (1991). - Leiden : Brill,
+> 1990-1991. - 25 cm
+> Verschijnt 2 per jaar. - Niet verder verschenen.
+> ISSN 0923-7135 = Incognita (Amsterdam)
+>
+> I'm sorry, I only have access to the Amsterdam (UvA) U. Libr., so I
+> can't help the original poster in a more practical way.
+>
+> =======================
+> Miguel Carrasquer Vidal
+> mcv at wxs.nl
+> Amsterdam
+
+I am at Berlin here the journal is not "incognita"!
+The Staatsbibliothek Berlin holds "Incognita":
+[ Database: Zeitschriftendatenbank | Search Query: ft: Incognita |
+Limits: None | Results: 2 items ]
+ND: 1060537
+JT: Incognita
+ST: international journal for cognitive studies in the humanities
+PP: Leiden
+PU: Brill
+PB: 1990
+PE: 1991
+PD: 1.1990 - 2.1991; damit Ersch. eingest.
+SS: 0923-7135
+CY: nl
+CC: 200
+
+BER   1a         1.1990 - 2.1991 : Zsn 77830
+and three other german libraries too:
+NIE   7          1.1990 - 2.1991 : ZA 74917 / FMAG
+NRW   61         1.1990 - 2.1991 : LS / phi z i 385
+NRW   Jason      1990-1991
+
+Saluti, Katja Hofmann
+
+
+
+

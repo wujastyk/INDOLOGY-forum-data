@@ -1,0 +1,112 @@
+From yaap at XS4ALL.NL  Sat Jun 12 13:49:10 1999
+From: yaap at XS4ALL.NL (Jaap Pranger)
+Date: Sat, 12 Jun 99 15:49:10 +0200
+Subject: CSX+ fonts & cross-platform email exchange
+In-Reply-To: <199906120720.JAA27458@smtp4.xs4all.nl>
+Message-ID: <161227050355.23782.13263229811355185211.generated@prod2.harmonylists.io>
+
+Robert Zydenbos <zydenbos at BIGFOOT.DE> wrote:
+
+>Perhaps you could try UUencoding? See whether the mailer software
+>which you use offers that option.
+
+Eudora Light (Mac) has the AppleDouble option, it does the same
+trick, UUencoding is available. I will try.
+
+>The surest way would probably be to send data in an archive. There
+>are compatible Mac and PC archivers for ZIP and LZH formats (and
+>perhaps other formats too), and besides reducing the size of the data
+>package that is sent, the archive works as a protective envelope
+>around the data. I used to do this regularly years back when sending
+>texts between a Mac in Canada (using MacLha, a Japanese program
+>available free of cost) and a PC in the Netherlands (using Lha.exe,
+>idem ditto) by modem. It should work via the internet too. Because
+>archives are not recognised by mailer software as documents, they are
+>sent as binary files, and therefore mysterious transformations like
+>those which you have experienced will not occur.
+
+Actually I was thinking in this direction already, but I'm not too
+familiar with all the encoding and compression formats. Thanks a lot!
+I will try and let you know, but unfortunately that won't be
+before late next week as I'm short of fursat right now.
+
+Another probable solution I had in mind is to write a "transliteration
+table" for use in Eudora that reverses the re-encoding of text.
+But that doesn't seem like a very elegant solution to me. A general
+text converter might be better.
+
+>An alternative could be to send texts in RTF format, because RTF
+>files are basically plain ASCII files. But this will not be so secure
+>as sending archives.
+
+No, this didn't work, RTF's are recognised as text files by Eudora
+and are converted.
+
+
+
+
+Ferenc Ruzsa <f_ruzsa at ISIS.ELTE.HU> wrote:
+
+>Of course no sane person would use Windows - if he has the choice.
+>It seems many of us do not have.
+
+Hmmm, I tend to agree with you in the spirit, but how dare you say
+such a thing in plain public in a war prone environment?  ;-)
+
+
+
+
+
+Lars Martin Fosse <lmfosse at ONLINE.NO> wrote:
+
+>I have heard nice things about Linux. Have any of you had any
+>experience with the use of Linux as an operating system?
+
+No experience, but as an OS it should be OK. The lack of an easy user
+interface is an other story. However, within a year from now we may
+expect to see Apple's flavour of Unix (Mac OS X Consumer), including
+the trusted graphical user interface.
+
+
+
+
+
+John Smith <jds10 at CAM.AC.UK> wrote:
+
+>Typically, text handling on a Unix machine is done in plain text files,
+>using a typesetter such as TeX for printed copy. CSX can be made to work
+>in this configuration (I use it as a matter of course); CSX+ would just
+>take a bit of extra effort. But more PC-like word processors and other
+>similar "application" software have now started to appear, so that route
+>is also available; the existing CSX+ fonts should work fine with these
+>packages.
+
+Can you easily exchange Tex documents with Windows and MacOS
+users?  I guess you can, but please tell.
+
+Sure, TeX is quite powerful and nice as a typesetting program. But as
+far as I can see it takes a -lot of extra- effort, and also it is not very
+transparent when it comes to editing text. Also the overhead of all the
+software components, font utilities, and knowledge you need. This
+may be acceptable for compositors, but in word processing this extra
+effort should (and soon can) be kept under the hood.
+
+I hope and pray the suffering will come to an end within one or two years
+when native Unicode operating systems with real Unicode based word
+processors and database applications should be in place.
+
+BTW, John, last year in Conv-Dev you mentioned ACII.  You said: "ACII
+is the name used for the full 8-bit character set comprising 7-bit ASCII
+in the lower half and 7-bit ISCII in the upper half."
+Is this charset in use anywhere? I can't imagine reasonable Nagari
+coming out from a 7-bit subset.
+
+Thanks all,
+
+Jaap Pranger
+
+--
+
+
+
+

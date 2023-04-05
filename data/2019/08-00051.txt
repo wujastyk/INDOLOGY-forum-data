@@ -1,0 +1,70 @@
+From c.malcolm.keating at gmail.com  Tue Aug 13 23:15:36 2019
+From: c.malcolm.keating at gmail.com (Malcolm Keating)
+Date: Wed, 14 Aug 19 07:15:36 +0800
+Subject: [INDOLOGY] Easy unicode for ipad? (James Hartzell)
+In-Reply-To: <mailman.48.1565712002.1388.indology_list.indology.info@list.indology.info>
+Message-ID: <CAF2ecWsKMXFvwb_xxb87Gr4dc6o1C4ytydUu5Bgha+Wz3vKvGQ@mail.gmail.com>
+
+Dear James,
+While perhaps not "easy," here is what I have done:
+
+I opened up the IAST
+<https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
+in my browser and went to Settings > General > Keyboards and opened up the
+Text Replacement dialog <https://support.apple.com/en-sg/HT202178>. It was
+a bit tedious, but using copy-paste, I set up a system of shortcuts which
+would allow me to type, for instance, .s and have the iPad replace it with
+?.
+
+There are two important limitations to this approach, if you want to follow
+it:
+
+   1. You can't set up 'S and 's for ? and ?, but instead you must have a
+   distinct shortcut like '^s for ?. This is because text replacement is not
+   case-sensitive. If you want to be able to type capital letters, you'll need
+   a different shortcut.
+   2. You need to have spaces between the shortcuts. For instance, if I
+   want to type "Bha??a" I can't just type "Bha.t.ta" if my shortcut is .t as
+   the iPad only recognizes the shortcut when it is entered as "Bha .t .t a."
+   This means that composition is slower.
+
+I'm not sure why Apple has decided not to enable the ABC-Extended keyboard
+on iPads, and so far I haven't encountered a third-party app that allows
+IAST typing on the OS. If anyone has solved this problem, let me know!
+
+Best,
+Malcolm
+
+
+> ---------- Forwarded message ----------
+> From: James Hartzell <james.hartzell at gmail.com>
+> To: indology at list.indology.info
+> Cc:
+> Bcc:
+> Date: Tue, 13 Aug 2019 08:41:17 +0200
+> Subject: [INDOLOGY] Easy unicode for ipad?
+> Hello
+>
+> Has anyone found a way to type Sanskrit diacritics in MS-Word on the Ipad?
+>
+> So far my attempts have been fruitless.
+>
+> Cheers
+> James
+>
+>
+
+-- 
+-- 
+Malcolm Keating
+Yale-NUS College | Assistant Professor | Humanities Division (Philosophy) |
+malcolm.keating at yale-nus.edu.sg
+
+Office hours may be scheduled here: https://malcolmkeating.youcanbook.me
+Academic website: http://www.malcolmkeating.com/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190814/4aad5c63/attachment.htm>
+

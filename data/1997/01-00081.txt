@@ -1,0 +1,24 @@
+From avillarr at is.dal.ca  Fri Jan 17 22:09:55 1997
+From: avillarr at is.dal.ca (avillarr at is.dal.ca)
+Date: Fri, 17 Jan 97 19:09:55 -0300
+Subject: Devanagari for the Mac
+Message-ID: <161227027898.23782.12777799531239101187.generated@prod2.harmonylists.io>
+
+>Dear indologists,
+>Can anyone please tell me where to find a good set of devanagari fonts for
+>the Mac? I know about the TeX fonts, since I used to work with Tex a few
+
+The Kaanchi fonts are not bad, they can be found at:
+
+http://babel.uoregon.edu/yamada/fonts/hindi.html
+
+good luck,
+
+A. Villarroel
+
+
+
+
+
+
+

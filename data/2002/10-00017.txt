@@ -1,0 +1,38 @@
+From rbm49 at EXT.CANTERBURY.AC.NZ  Sun Oct  6 19:34:44 2002
+From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
+Date: Mon, 07 Oct 02 08:34:44 +1300
+Subject: Scanning of devanagari
+In-Reply-To: <000001c26d48$7f0a9cb0$7e824382@Winston>
+Message-ID: <161227071440.23782.12000989487810630380.generated@prod2.harmonylists.io>
+
+Dear Lars,
+
+On Sun, Oct 06, 2002 at 04:56:02PM +0200, Lars Martin Fosse wrote:
+
+> Are any of you familiar with scanning software that handles devanagari
+> (or for that matter other Indic scripts).
+
+I am not sure if it can be trained to recognise Devanagari, but Clara
+OCR is certainly worth considering.
+
+While Clara is developed on 32-bit Intel running GNU/Linux, I can run
+it on FreeBSD 4.7-RC. Apparently it has been ported to OS/2 and
+MS-Windows. Details are available from:
+
+ http://www.claraocr.org/
+
+
+Regards,
+
+ Richard
+
+
+--
+Richard Mahoney            e-mail: rbm49 at ext.canterbury.ac.nz
+78 Jeffreys Road                    telephone: +64-3-351-5831
+Christchurch                         cellular: +64-25-829-986
+NEW ZEALAND          http://homepages.comnet.co.nz/~r-mahoney
+
+
+
+

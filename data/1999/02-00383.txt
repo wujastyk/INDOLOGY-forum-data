@@ -1,0 +1,12 @@
+From erpet at COMP.CZ  Sun Feb 21 20:33:49 1999
+From: erpet at COMP.CZ (Petr Mares)
+Date: Sun, 21 Feb 99 21:33:49 +0100
+Subject: Word splitting & hyphenation conventions              inromantransliteration
+In-Reply-To: <36CFACFD.360BC1A0@ipc.hiroshima-u.ac.jp>
+Message-ID: <161227046728.23782.6324870914382769709.generated@prod2.harmonylists.io>
+
+> Thank you for the clarification; you meant that the encoding of the
+> *target* natural language in which end-user products will be available
+> poses problems, I (mis)understood you to refer to the *medium*
+> (programming) language.
+>

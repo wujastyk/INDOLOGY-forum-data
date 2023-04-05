@@ -1,0 +1,57 @@
+From shimj at USA.NET  Mon Aug 28 14:56:04 2000
+From: shimj at USA.NET (JAEKWAN SHIM)
+Date: Mon, 28 Aug 00 14:56:04 +0000
+Subject: [Re: Inputting Sanskrit Dictionary(Bon-wa Daijiten)]
+Message-ID: <161227061157.23782.13448875731586451943.generated@prod2.harmonylists.io>
+
+To say exactly, What I have done was based on the Bon-wa Daijiten to collect
+words, and is not the same with that. My <list of words> is quite different
+from Bon-wa Daijiten in many points, but rather looks similar with Hirakawa's
+Chinese-Sanskrit Dictionary(1997), which is also based on Bon-wa Daijiten. 
+
+please see my sample.(http://phaidrus.hihome.com)
+
+I basically agree with Dr.Hodge but I wonder if my work need a permission from
+them. I couldn't come up with copyright law in this case well. But If I need a
+permisstion, I'll try. 
+I'am looking for the way everybody can use this free.
+
+
+Many thanks,
+Jaekwan Shim
+Dept. of Philosophy
+Kangnung National Univ.
+South Korea
+
+
+
+
+
+
+
+Stephen Hodge <s.hodge at PADMACHOLING.FREESERVE.CO.UK> wrote:
+Jaekwan Shim wrote:
+
+I almost finished the inputting of the Sanskrit-Chinese(Japanese)
+Dictionary(Kan-yaku Taisho Bon-wa Daijiten by Unrai Wogiwara and
+Naoshiro
+Tsuji) in computer.(100,198 line / 2,947page-letter size / 2.2Mbite).
+*********
+This sounds a very useful and worthwhile project.  However there is
+one big problem.   As far as I know the Bon-Wa Jiten is still
+copyrighted.   As I understand the situation, unless you have explicit
+permission from the publishers, it will be illegal under international
+copyright law to publish this electronically -- I assume Korea is a
+signatory to this law.   You could be liable to claims of very
+substantial damages.
+
+Best wishes,
+Stephen Hodge
+
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1
+
+
+
+

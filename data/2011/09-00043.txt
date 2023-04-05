@@ -1,0 +1,148 @@
+From dbhattacharya200498 at YAHOO.COM  Mon Sep 12 18:17:57 2011
+From: dbhattacharya200498 at YAHOO.COM (Dipak Bhattacharya)
+Date: Mon, 12 Sep 11 23:47:57 +0530
+Subject: =?utf-8?Q?Fw:_Re:_[INDOLOGY]_[INDOL_OGY]_accen_ted_=C5=9AB__fil______________es_in_Unic_ode=3F?=
+Message-ID: <161227093854.23782.7359095874616972431.generated@prod2.harmonylists.io>
+
+
+
+
+12 09 11
+
+This is in continuation. I checked
+for the Gop. Br. with Gretil.
+
+Dr. Griffiths is right. ?There are two inputs, one by Arlo Griffiths
+and another by Oliver Hellwig. I am almost unacquainted with the transcription marks
+in the former, which are nevertheless fully explained, ?while the diacritics in the latter are more
+user friendly for me as they are easily transferable to the Devnagari in an
+Indian processor. But while Griffiths? text is complete Oliver Hellwig?s ?easily
+transformation worthy text? ends at GB 1.3.6. I am seeking
+a programme that can easily transform Griffiths? text into Devnagari. Any hint
+from colleagues will be welcome.
+
+Best
+
+DB
+
+
+--- On Mon, 12/9/11, Dipak Bhattacharya <dbhattacharya200498 at yahoo.com> wrote:
+
+From: Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>
+Subject: Re: [INDOLOGY] [INDOL OGY] accen ted ?B fil es in Unic ode?
+To: INDOLOGY at liverpool.ac.uk, "Arlo Griffiths" <arlogriffiths at HOTMAIL.COM>
+Date: Monday, 12 September, 2011, 4:02 PM
+
+
+
+12 09 11
+
+Dear Friends,
+
+That is encouraging but, I do not know why, the version?I
+downloaded runs up to v?todh?v?t
+
+?GpBr_1,3.6. 
+
+I do not know if there is any incompatibility on any side
+that has prevented a complete downloading. There is a Bengali transl. by T. N. Adhikari,
+but that does not serve my purpose. I expect to get a copy of H. C. Patyal?s
+translation. There is also a possibility of the R. L. Mitra edition being
+reprinted. That will remove the difficulties. Even then a complete text on the
+internet will be useful. I am checking again with Gretil. 
+
+Best
+
+DB????????? 
+
+--- On Mon, 12/9/11, Arlo Griffiths <arlogriffiths at HOTMAIL.COM> wrote:
+
+From: Arlo Griffiths <arlogriffiths at HOTMAIL.COM>
+Subject: Re: [INDOLOGY] [INDOL OGY] accen ted ?B fil es in Unic ode?
+To: INDOLOGY at liverpool.ac.uk
+Date: Monday, 12 September, 2011, 1:57 PM
+
+
+
+
+
+
+The file I have submitted to GRETIL for the Gopathabr?hma?a (based on the edition by D. Gaastra, with some corrections from various sources) should, barring any oversights on my side, be complete.
+
+Best wishes,
+
+Arlo Griffiths
+EFEO/Jakarta
+
+
+
+Date: Mon, 12 Sep 2011 17:30:55 +0530
+From: dbhattacharya200498 at YAHOO.COM
+Subject: Re: [INDOLOGY] accented ?B files in Unicode?
+To: INDOLOGY at liverpool.ac.uk
+
+
+
+The same holds good for the Gopatha-Br?hma?a and the two
+V?jasaneya-Sa?hit?s. A M?dhyandina-Samhit? with Hindi commentary is available
+but more valuable will be the text with Uva?a and Mah?dhara. The Gopatha-Br?hma?a
+has been kindly made available by Gretil but it is incomplete. I have only a
+J?v?nanda Vidy?s?gara edition which is not very dependable and is already 12
+decades old. The two critical editions are out of print. 
+
+The K??va ?.B. is available in print with S?ya?a?s
+commentary but not with Gretil.
+
+Best
+
+DB 
+
+
+
+--- On Mon, 12/9/11, Lindquist, Steven <slindqui at MAIL.SMU.EDU> wrote:
+
+From: Lindquist, Steven <slindqui at MAIL.SMU.EDU>
+Subject: [INDOLOGY] accented ?B files in Unicode?
+To: INDOLOGY at liverpool.ac.uk
+Date: Monday, 12 September, 2011, 8:46 AM
+
+In a similar vein, does anyone know if there is a downloadable transliterated unicode version of the ?atapatha Br?hma?a (accented, in either recension)?? I am aware of GRETIL's version of M (no accents), JR Gardner's vedavid.org version, and the TITUS accented version of M (which is what I often use, but it is not downloadable as far as I can tell; K is listed as in preparation).
+
+I hadn't searched for this in a long time, but in doing so now I was pleased to find that archive.org has a full scan of Eggeling's
+ translation.
+
+Best,
+
+Steven
+
+
+
+STEVEN LINDQUIST, PH.D.
+ASSISTANT PROFESSOR
+DIRECTOR OF ASIAN STUDIES
+_____________
+Department of Religious Studies
+Southern Methodist University
+PO Box 750202 | Dallas | TX | 75275
+http://faculty.smu.edu/slindqui
+
+
+
+From: "Gruenendahl, Reinhold" <gruenen at SUB.UNI-GOETTINGEN.DE<mailto:gruenen at SUB.UNI-GOETTINGEN.DE>>
+Reply-To: "Gruenendahl, Reinhold" <gruenen at SUB.UNI-GOETTINGEN.DE<mailto:gruenen at SUB.UNI-GOETTINGEN.DE>>
+Date: Mon, 12 Sep 2011 08:11:35 +0200
+To: Indology <INDOLOGY at liverpool.ac.uk<mailto:INDOLOGY at liverpool.ac.uk>>
+Subject: [INDOLOGY] AW: [INDOLOGY] Harvard Rigveda files in Unicode?
+
+Harvard Rigveda files in Unicode can be downloaded from this website:
+http://www.detlef108.de/Rigveda.htm <http://www.detlef108.de/Rigveda.htm>
+RG
+
+ 	
+	 	   		   
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110912/3aeffb61/attachment.htm>
+

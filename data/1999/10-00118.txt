@@ -1,0 +1,23 @@
+From ucgadkw at UCL.AC.UK  Wed Oct 20 08:44:38 1999
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 20 Oct 99 09:44:38 +0100
+Subject: Sharada Script Translation
+In-Reply-To: <007d01bf1926$61dd2dc0$39ccaec7@ix.netcom.com>
+Message-ID: <161227052890.23782.5825081956407207836.generated@prod2.harmonylists.io>
+
+See
+        Walter Slaje, Sarada: deskriptiv-synchrone Schriftkunde zur
+Bearbeitung kaschmirischer Sanskrit-Manuskripte [Indische Schriften, Band
+1] (Reinbek: Wezler, 1993).
+
+No PC fonts are known to me, though it wouldn't be hard to make them using
+METAFONT, working perhaps from one of the existing Devanagaris (Wikner or
+Velthuis).
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+
+

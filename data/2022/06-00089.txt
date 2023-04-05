@@ -1,0 +1,29 @@
+From wujastyk at gmail.com  Fri Jun 17 18:18:10 2022
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 17 Jun 2022 20:18:10 +0200
+Subject: [INDOLOGY] Nagari conversion
+In-Reply-To: <0fc1462b-e9cb-82fc-6fe8-720f52698f60@gmx.de>
+References: <2f45ae32-0d83-9b1d-593a-0d3f2cd976ee@gmx.de>
+ <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
+ <0fc1462b-e9cb-82fc-6fe8-720f52698f60@gmx.de>
+Message-ID: <CAKdt-CdKtLhx-ZEe9rQkagqXCj_ohezX2V_pwLwe+1avZVTJOQ@mail.gmail.com>
+
+The https://aksharamukha.appspot.com/converter service can take a
+multi-page PDF or image file.  But it does a less good job than
+https://sri.auroville.org/projects/sanskrit-ocr/
+
+On Thu, 9 Jun 2022 at 17:16, Oliver Hellwig via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Thanks a lot, Harry, for explaining the technical background. This
+> definitely explains the strange encoding. For the time being, re-OCRing
+> it seems to be one manageable approach (already pointed out by Tim
+> Cahill), so I will try the Google cloud SDK which works in the
+> background of SanskritCR.
+>
+> Best, Oliver
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220617/2056727d/attachment.htm>
+

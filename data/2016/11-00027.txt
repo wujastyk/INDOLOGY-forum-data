@@ -1,0 +1,70 @@
+From slaje at kabelmail.de  Thu Nov  3 09:37:20 2016
+From: slaje at kabelmail.de (Walter Slaje)
+Date: Thu, 03 Nov 16 10:37:20 +0100
+Subject: [INDOLOGY] Lexicographic order / sentence boundaries
+In-Reply-To: <1B61C71605AF47E999620D2A50EB49EB@OliverHP>
+Message-ID: <CALoZ1nXm=3+1+my6x8QcKmgmAGOEs3ON3tdeSvStWJVZWgr11A@mail.gmail.com>
+
+I think the answer is simple. Monier's dictionary is basically a
+translation of Boehtlingk's PW, as Dr Dimitrov has pointed out only
+recently. One of the consequences thereof is that Monier has also adopted
+Boehtlingk's order of meanings, which generally depict the chronological
+sequence and related textual categories of his sources. In the present
+case, evidence for the first meaning of a??a ("watch-tower") was found by
+him in the R?m?ya?a, the second in Hemacandra's Abhidh?nacint?ma?i. A close
+perusal of Boehtlingk's prefaces to his own dictionaries (PW & pw) and the
+principles he followed will possibly clarify also the matter as far as
+Monier-Williams' plagiarism is concerned. He might however have left an
+information about the way he structured the order of meanings in his
+preface.
+
+Kind regards,
+WS
+
+-----------------------------
+Prof. Dr. Walter Slaje
+Hermann-L?ns-Str. 1
+D-99425 Weimar
+Deutschland
+
+
+
+2016-11-03 9:31 GMT+01:00 <hellwig7 at gmx.de>:
+
+> Dear list members,
+>
+> 1) I am trying to find out by which lexicographic principles
+> Monier-Williams and Cappeller ordered the **meanings** of each word in
+> their dictionaries.
+> For instance, MW gives the following first definitions for the lemma aTTa:
+> "a watch-tower; a market, a market-place (...); N. of a Yaksha, ..." ? My
+> question is: Why "a watch-tower; a market..." and not "a market; a
+> watch-tower ..."? Tried to find an explanation in his preface, but was not
+> able to detect it. Does anybody have a citation for this ordering?
+>
+> 2) A while back, I asked for your collaboration in annotating sentence
+> boundaries in a few fragments of Sanskrit texts. Thanks to those who took
+> the time for going through the sentences!
+> You find the merged results here:
+> http://www.sanskrit-linguistics.org/tmp/annotations.html
+> Seems to be more complicated than expected!
+>
+> Best, Oliver
+>
+> ---
+> Oliver Hellwig, SFB 991, University of D?sseldorf
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161103/663063cd/attachment.htm>
+

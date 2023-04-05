@@ -1,0 +1,75 @@
+From hspier.muktabodha at gmail.com  Fri Aug  5 22:23:48 2016
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Fri, 05 Aug 16 18:23:48 -0400
+Subject: [INDOLOGY] Sinhala half nasal plus m
+In-Reply-To: <009601d1ef1d$20bf19e0$623d4da0$@gmail.com>
+Message-ID: <CAPW7aQHywxxcyFnj2-5C3LN5cuNdgOe5+z83Q3+M1TxL-P6aUQ@mail.gmail.com>
+
+ISO 15919 has m with the chandra sign above it for this character, but I
+also could not find this in a unicode font.  Is it possible that there is
+no unicode slot for this  character.  That would mean that some ISO 15919
+characters are not in Unicode.
+
+Harry Spier
+
+On Fri, Aug 5, 2016 at 9:27 AM, Rolf Heinrich Koch <
+rolfheiner.koch at gmail.com> wrote:
+
+> Dear list members,
+>
+> there is one Sinhala sign consisting of a half-nasal with following ba,
+>
+> like in a-m-ba (mango).
+>
+>
+>
+> Unicode has a half-nasal for n, e. g. pa?dita.
+>
+> But I could not figure out the corresponding sign for the half-nasal m.
+>
+> Since the anusvara ? is also frequent in Sinhala, I am using ? for
+> transcribing the half nasal m, e. g. a?ba.
+>
+>
+>
+> My work does not allow the composition of signs with the help of an
+> additional accent.
+>
+>
+>
+> Anyone came across the Unicode-standard for he half nasal of m?
+>
+>
+>
+> Best
+>
+>
+>
+> Rolf Heinrich Koch
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> www.rolfheinrichkoch.wordpress.com
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160805/8cb9fef7/attachment.htm>
+

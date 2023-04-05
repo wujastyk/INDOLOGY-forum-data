@@ -1,0 +1,56 @@
+From JHUBBARD at ernestine.smith.edu  Mon Jan  9 13:20:29 1995
+From: JHUBBARD at ernestine.smith.edu (Jamie Hubbard)
+Date: Mon, 09 Jan 95 09:20:29 -0400
+Subject: Sktfont.pc
+Message-ID: <161227018124.23782.6501727232999927514.generated@prod2.harmonylists.io>
+
+
+> > > can anybody please advice me on which fonts can be used for Sanskrit
+> > > transliteration on a PC with WP?
+> > > Thank you, Jens Braarvig.
+> 
+> You do not say if you want it for WP (WordPerfect?) for DOS or for
+> Windows. There are several good Sanskrit TTF fonts for Windows, but I
+> know of nothing satisfactory for WordPerfect for DOS.
+
+If you are looking for WordPerfect 5/5.1 for DOS, I have created some
+fonts, HP Laserjet II printer files, macros, etc. that are available
+from Dominick's FTP server listed below (among other places) as
+WPSKRIT.EXE (a self-extracting .zip file). I should update the
+package soon (i.e., Real Soon Now), as I have put together WP6.0
+files and changed a few things to make the printer files also work
+for HP4 printers (the built in scalable fonts demanded a more precise
+point size calculation than WP5.1 provided). The fonts are not
+CS/CSX, but I believe I included macros to translate back and forth.
+Good luck, 
+
+Jamie Hubbard, Smith College
+
+> 
+> One of the good TTF format fonts is available easily by FTP on
+> 
+> ftp.bcc.ac.uk
+> 
+> directory
+> 
+> /pub/users/ucgadkw/indology
+> 
+> The files name is
+> 
+> wnri-PSandTT.zip
+> 
+> All the best
+> 
+> John
+> 
+> ---
+> John Richards
+> Stackpole Elidor (UK)
+>  
+> Jamie Hubbard, Smith College
+ 
+
+
+
+
+

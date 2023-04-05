@@ -1,0 +1,82 @@
+From wujastyk at GMAIL.COM  Thu Sep 13 15:24:53 2012
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Thu, 13 Sep 12 17:24:53 +0200
+Subject: Dates of Vaasi.ska
+In-Reply-To: <10A8CE82-99CB-468E-A0A2-F27C015FE8C4@GMAIL.COM>
+Message-ID: <161227097241.23782.15943161191887069556.generated@prod2.harmonylists.io>
+
+The chapter
+
+@INCOLLECTION{golz-dati,
+  author = {Karl-Heinz Golzio},
+  title = {Zur Datierung des Ku???a-K?nigs Kani?ka I},
+  booktitle = {Bauddhas?hityastabak?val?: Essays and Studies on Buddhist
+Sansrkti
+    Literature Dedicated to Claus Vogel by Colleagues, Students, and
+Friends},
+  year = {2008},
+  pages = {79--91},
+  editor = {Dragomir Dimitrov and Michael Hahn and Roland Steiner},
+  publisher = {Indica et Tibetica Verlag},
+  address = {Marburg},
+}
+
+was recently brought to my attention by my colleague Philipp Maas.  Golzio
+surveys the early work on the problem of K's date, and also discusses the
+key findings arising from the discovery of the Rabatak inscription and its
+interpretation by Joe Cribb and others (incl. Sims-Williams and Salomon),
+and the reinterpretation of the colophon of the Yavanajataka by Harry Falk
+(Golzio refers also to the challenge to Falk's view articulated by
+Bracey<http://www.kushan.org/essays/chronology/falk.htm>).
+On p.89, Golzio sketches the remaining problems that surround the dating of
+V?si?ka, that sits uncomfortably in contradiction to several sources.
+
+Best,
+Dominik
+
+
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+,
+University of Vienna,
+Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+1090 Vienna, Austria
+and
+Adjunct Professor,
+Division of Health and Humanities,
+St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
+Project <http://www.istb.univie.ac.at/caraka/> | home
+page<http://www.academia.edu/DominikWujastyk>|
+PGP <http://wujastyk.net/pgp.html>
+
+
+
+
+On 13 September 2012 10:53, Francois Voegeli <francois.voegeli at gmail.com>wrote:
+
+> Dear All,
+>
+> Could anyone send me the exact or approximate dates of the rule of the
+> Ku.sana king Vaasi.ska, with some bibliographical references on this date.
+> More generally: what is the more up-to-date work on the chronology of the
+> Ku.sanas.
+>
+> Many thanks in advance,
+>
+> Dr Fran?ois Voegeli
+>
+> Senior FNS Researcher
+> Institut d'Arch?ologie et des Sciences de l'Antiquit?
+> Anthropole, bureau 4018
+> Facult? des Lettres
+> Universit? de Lausanne
+> CH-1015 Lausanne
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120913/f5de37aa/attachment.htm>
+

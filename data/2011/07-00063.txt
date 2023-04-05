@@ -1,0 +1,30 @@
+From hellwig7 at GMX.DE  Tue Jul 19 14:58:12 2011
+From: hellwig7 at GMX.DE (Oliver Hellwig)
+Date: Tue, 19 Jul 11 15:58:12 +0100
+Subject: Citations in the Sanskrit corpus (II)
+Message-ID: <161227093197.23782.3606123487421425725.generated@prod2.harmonylists.io>
+
+Dear list,
+
+as an addition to the last update of the DCS, I uploaded a tutorial that 
+describes how groups of strongly citing texts can be detected in the Sanskrit 
+corpus using methods from Digital Humanities. Details and data are accessible 
+at
+
+	http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?
+contents=tech_cit_001
+
+
+Best,
+
+Oliver Hellwig
+-------------------
+PD Dr. Oliver Hellwig
+South-Asia Institute, University of Heidelberg
+Im Neuenheimer Feld 330
+69120 Heidelberg
+Germany
+
+
+
+

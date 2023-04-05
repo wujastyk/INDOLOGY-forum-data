@@ -1,0 +1,52 @@
+From jpeterso at UNI-OSNABRUECK.DE  Fri Jan 25 09:05:04 2002
+From: jpeterso at UNI-OSNABRUECK.DE (John Peterson)
+Date: Fri, 25 Jan 02 10:05:04 +0100
+Subject: implosive pronunciation of t
+Message-ID: <161227070305.23782.1494417910727158217.generated@prod2.harmonylists.io>
+
+Michael Witzel wrote:
+
+> However, I simply use the traditional Avestan/South Asian terms. There is
+> some infighting going on whether Munda (or Khmer for that matter) has
+> ingressives. I don't think so. They are of the quality of English "yepp"
+> for "yes", thus plosives without the release (explosion), i.e.
+non-plosives.
+
+I don't believe that Munda has implosives, either:
+I think we have to differentiate here somewhat, at least in the case of
+Munda. In northern Munda languages such as Santali, we have a
+post-glottalized stop of the type "yepp" in English. These are non-released,
+voiceless stops produced (almost) simultaneously with a glottal  stop. This
+is also found in the Kiranti languages. The glottal stop is only audible
+when the next word (or syllable) is pronounced, if it is heard at all.
+
+The situation in Kharia (and perhaps other south Munda languages) is
+entirely different, although perhaps historically of the same origin. Here
+we have PRE-glottalized, VOICED stops, as in the copula "ai?j" (the "j" is
+actually a voiced palatal stop (upside down "f", for  those familiar with
+IPA), not an affricate). The stop itself is also not released here, and the
+effect is quite different from that of post-glottalized stops. When the
+pre-glottalized stop is released in Kharia, the air flows inward, and what
+one hears is a homorganic nasal, in other words "ai?(j)ny". This is termed
+(unfortunately) "implosive" by Pinnow and many others, but is in fact quite
+different from canonical implosives, which are not pre-glottalized. This is
+probably also the reason that e.g.  Banerjee (1894), in his grammar of
+Kharia, often gives forms such as "ainy" for the copula, as the homorganic
+nasal is more easily heard than the non-released stop.
+
+John
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Peterson
+FB 7, Sprachwissenschaft
+Universitaet
+D-49069 Osnabrueck
+Germany
+Tel: (+49) 541-969-4252
+Fax: (+49) 541-969-4256
+Email: jpeterso at uni-osnabrueck.de
+Homepage: http://www.southasiabibliography.de/
+
+
+
+

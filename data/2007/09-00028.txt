@@ -1,0 +1,34 @@
+From glhart at BERKELEY.EDU  Tue Sep  4 19:40:55 2007
+From: glhart at BERKELEY.EDU (George Hart)
+Date: Tue, 04 Sep 07 12:40:55 -0700
+Subject: Use of Devanagari for Sanskrit
+In-Reply-To: <1IRkz0-0KNGgC0@fwd34.aul.t-online.de>
+Message-ID: <161227081133.23782.3209886896222051080.generated@prod2.harmonylists.io>
+
+In a draft about unicode Eric Muller has written "By the eleventh  
+century, the modern script known as Devanagari was in ascendancy in  
+India proper as the major script of Sanskrit literature."  This seems  
+wrong to me -- certainly, in South India grantha, Telugu, Malayalam  
+and Kannada scripts  continued to be used for Sanskrit into the 20th  
+century and, to some extent, are still used (e.g. by priests in the  
+Murugan temple in Concord, CA).  I would be interested in getting  
+some feedback on this matter -- when and where did Devanagari become  
+standard for Sanskrit?  I would guess that it begins fairly early in  
+the North and only reaches South India in the 20th century.  Many  
+years ago, I purchased 2 large collections of Sri Vaisnava books from  
+the estates of two devotees who had passed away (their children had  
+no use for them, sadly).  The books, all of which were published in  
+the first half of the 20th century, include perhaps 1/3 Sanskrit  
+texts.  Of these about 1/10 are in devanagari, 75% are in Telugu  
+script and 15% are in grantha.  The collections also include a large  
+number (30%) of Tamil books printed in Telugu script -- which enables  
+one to write Sanskrit phonemes which are not represented in the Tamil  
+script.  The rest are Tamil books in Tamil script, with Sanskrit  
+(quoted and used liberally by commentators) generally in grantha.  It  
+is worth remembering that after 1100 or so, the majority of Sanskrit  
+writers have been South Indians -- at least that is what I have  
+read.  George Hart
+
+
+
+

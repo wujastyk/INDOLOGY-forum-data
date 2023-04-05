@@ -1,0 +1,45 @@
+From ph2046 at COLUMBIA.EDU  Wed May 19 11:32:31 2010
+From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
+Date: Wed, 19 May 10 07:32:31 -0400
+Subject: AW: [INDOLOGY] OCR for Romanized Sanskrit with Diacritics
+In-Reply-To: <AANLkTikegzH2oKHe_9cLsj7vrcVMI4916txjzUXALQSo@mail.gmail.com>
+Message-ID: <161227089632.23782.8275732768012626613.generated@prod2.harmonylists.io>
+
+At 6:32 PM +0200 5/18/10, Kellner, Birgit wrote:
+>
+>ABBYY finereader, though not cheap, is the best product I know 
+>(http://www.abbyy.com/). I use it regularly to produce searchable 
+>PDFs from scanned secondary literature, with the text underlying the 
+>image (this can also be done with Acrobat, but ABBYY is more 
+>accurate).
+
+I would agree with Birgit on this point.  I have had great succes 
+with ABBYY working with diacritic characters and, most recently, with 
+Devanagari -- see:
+
+http://www.columbia.edu/~ph2046/RnD/Hackett/SktComp.html
+
+Eventually, it is my hope to make both my diacritic & Devanagari 
+recognition files for ABBYY freely available for others to use.
+
+also, at 10:59 AM +0200 5/19/10, Dominik Wujastyk wrote:
+>I did some simple tests this morning, and I was startled at how bad the
+>results were.  I scanned a page of a Brill book on indology at 300dpi.
+...
+>After selecting and copying all the text from the resulting PDFs, and
+>examining them in a plain-text editor (UTF8-aware), the results were
+>dreadful.  Many, many errors, and certainly no diacritcal marks.
+
+Part of the problem with the poor results that you experienced is 
+certainly due to the fact that you were working with 300 dpi scans. 
+This is too low of a resolution for OCR.  You need a minimum of 400 
+dpi for decent OCR accuracy.
+
+Best,
+
+Paul Hackett
+Columbia University
+
+
+
+

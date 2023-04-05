@@ -1,0 +1,168 @@
+From reimann at berkeley.edu  Mon Mar 21 00:06:37 2016
+From: reimann at berkeley.edu (Luis Gonzalez-Reimann)
+Date: Sun, 20 Mar 16 17:06:37 -0700
+Subject: [INDOLOGY] The Sun as the "21st" CORRECTION
+In-Reply-To: <CALoZ1nXdZME32n9oVo8tRFi3-mA7woKC-5JtcOQSPh00GazAdw@mail.gmail.com>
+Message-ID: <56EF3B0D.5030204@berkeley.edu>
+
+I resend the post with a correction. In the fourth paragraph I had 
+written "facing West," when it should read "facing East." It's corrected 
+below, so please delete the previous message.
+_____
+
+Apologies for a longish post.
+
+Dear Walter,
+
+The celestial equator is simply the projection of the terrestrial 
+equator onto the celestial sphere. Equator means equalizer of day and 
+night (http://www.etymonline.com/index.php?term=equator), which is a 
+reference to the two equinoxes. When the sun crosses the celestial 
+equator, which happens twice a year, day and night are of equal length. 
+When it crosses the equator from south to north, it is the spring 
+equinox (March 21st), and when it crosses it again from north to south, 
+it is the autumnal equinox (sept. 22nd).
+
+Now, if you want to divide the year in two on the basis of the celestial 
+equator, each half of the year is the period between equinoxes, so one 
+half includes spring and summer (Mar. 21 to Sept. 22), while the second 
+half is made up of fall and winter (Sept. 22 to Mar. 21). But that 
+doesn't correspond to the uttar?ya?a and the dak?i??yana. The uttar?ya?? 
+goes from the winter solstice to the summer solstices, and the 
+dak?i??yana from the summer solstice to the winter solstice. In other 
+words, for the ayanas the division of the year in two is made along the 
+line of the solstices, not along the line of the equinoxes.
+
+In any case, to say that the Ekavi??a day is the (celestial) equator 
+makes no astronomical sense. The Ekavi??a is one day of the year, 
+whereas the (celestial) equator is a great circle of 360 degrees. If you 
+wanted to define the ekavi??a with reference to the celestial equator, 
+you'd have to say it is the day on which the sun, in its apparent 
+movement throughout the year, reaches its highest distance to the north 
+of the celestial equator. In astronomical terms, that is the day when 
+the sun reaches its maximum northern declination.
+
+But understanding the uttar?ya?a and the dak?in?yana doesn't require all 
+these complicated visualizations of celestial circles. Ancient observers 
+of the sky didn't look at it in those terms. For them, it was an 
+observable phenomenon that is easy to track. You watch the sunrise every 
+day for a year facing East, and notice how the sunrise point moves along 
+the horizon as days proceed. There are two maximum points, one when the 
+sunrise point is farthest to the left (North) along the horizon, and the 
+other when it is farthest to the right (South). Those two points are the 
+solstices. That is where the terms uttar?ya?a and dak?in?ya?a come from. 
+During the uttar?ya?a, the sun rises more to the left/North (uttara) 
+every day until the Summer solstice. Then it reverses its movement and 
+starts rising every day further to the right/South (dak?i?a) until it 
+reaches the Winter solstice.
+
+That is why the Ekavi??a is the day of the summer solstice.
+
+And when the AB says: "By means of the performance of this day, the gods 
+had raised the Sun up to the heavens," that's probably a reference to 
+the fact that at the summer solstice thew sun reaches its highest 
+altitude above the horizon at midday. After that, the maximum altitude 
+of the sun at noon gradually decreases.
+
+Cheers,
+
+Luis
+___
+
+
+On 3/19/2016 12:20 AM, Walter Slaje wrote:
+> Dear Luis,
+>
+> the translational usage of "equator" ("dividing the year (into two 
+> equal parts)") in contexts related to uttar?ya?a and dak?i??yana is 
+> generally short for "celestial equator".
+> See https://en.wikipedia.org/wiki/Solstice.
+>
+> Regards,
+> Walter
+>
+> -----------------------------
+> Prof. Dr. Walter Slaje
+> Hermann-L?ns-Str. 1
+> D-99425 Weimar
+> Deutschland
+>
+> Ego ex animi mei sententia spondeo ac polliceor
+> studia humanitatis impigro labore culturum et provecturum
+> non sordidi lucri causa nec ad vanam captandam gloriam,
+> sed quo magis veritas propagetur et lux eius, qua salus
+> humani generis continetur, clarius effulgeat.
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+>
+>
+>
+> 2016-03-18 23:44 GMT+01:00 Luis Gonzalez-Reimann <reimann at berkeley.edu>:
+>
+>     Dear James,
+>
+>     Although this isn't the subject of your question, I think it is
+>     important to consider that the Ekavi??a day in the AB is quite
+>     certainly the summer solstice, and not the "equator."
+>
+>     Luis
+>     _____
+>
+>     On 3/18/2016 2:28 AM, James Hartzell wrote:
+>>     Dear Colleagues
+>>
+>>     I?ve come across two references in the Br?hma?as to the Sun as
+>>     ?the twenty-first? ?
+>>
+>>     ?B 6.7.1.1 <http://6.7.1.1>: ?? It (the plate) is round, for he
+>>     (the Sun) is round. It has twenty-one knobs, for he is the
+>>     twenty-first. He wears it with the knobs outside, for the knobs
+>>     are his (the Sun's) rays, and his rays are outside." (Eggeling
+>>     1894:265),?
+>>     and
+>>     AB 4.18: "They perform the ceremonies of the Ekavi??a day, which
+>>     is the equator, dividing the year (into two equal parts). By
+>>     means of the performance of this day, the gods had raised the Sun
+>>     up to the heavens. This Ekavi??a day on which the Div?k?rtya
+>>     mantra (was produced) is preceded by ten days, and followed by
+>>     ten days, and is in the midst (of both periods). On both sides it
+>>     is thus put in a Vir??: (the number ten). Being thus put in a
+>>     Vir?? (in the number ten) on both sides, this (Ekavi??a, i.e. the
+>>     Sun) becomes not disturbed in his course through these worlds."
+>>     (Haug 1977:288-289).
+>>
+>>     Does anyone have other references to the Sun as the 21st, and any
+>>     other explanations for this other than these two Brahmana
+>>     explanations?
+>>
+>>     Cheers
+>>
+>>     James Hartzell, PhD^(2x)
+>>     Center for Mind/Brain Sciences (CIMeC)
+>>     The University of Trento, Italy
+>>
+>>
+>>     _______________________________________________
+>>     INDOLOGY mailing list
+>>     INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>     indology-owner at list.indology.info
+>>     <mailto:indology-owner at list.indology.info>  (messages to the list's managing committee)
+>>     http://listinfo.indology.info  (where you can change your list options or unsubscribe)
+>
+>
+>     _______________________________________________
+>     INDOLOGY mailing list
+>     INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>     indology-owner at list.indology.info
+>     <mailto:indology-owner at list.indology.info> (messages to the list's
+>     managing committee)
+>     http://listinfo.indology.info (where you can change your list
+>     options or unsubscribe)
+>
+>
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160320/13deb7bf/attachment.htm>
+

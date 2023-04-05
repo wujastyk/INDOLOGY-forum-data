@@ -1,0 +1,87 @@
+From nlpdept at YAHOO.CO.IN  Wed Sep 27 10:27:18 2006
+From: nlpdept at YAHOO.CO.IN (Srinivasa Varakhedi)
+Date: Wed, 27 Sep 06 11:27:18 +0100
+Subject: Workshop on Parsing English: A Paninian view.
+In-Reply-To: <000c01c6dc74$d8701920$a8c809c0@ifpindia.org>
+Message-ID: <161227078312.23782.8198846167822591480.generated@prod2.harmonylists.io>
+
+Dear Members,
+   
+  Here is an announcement of a Workshop from Hyderabad central University, India. Interested persons may contact concerned people. The document followes....
+   
+    Department of Sanskrit Studies
+  University of Hyderabad
+   
+  A National workshop on 'Parsing English: A Paninian view'
+   
+  Duration: One Week (13th Nov, 2006  - 18th Nov, 2006)
+  No  of Participants: 30
+   
+  Eligibility Criterion:
+  NLP Researchers, Computational Linguists working in the area of NLP.
+   
+  Objective:
+  The workshop aims at looking at different existing English parsers from Paaninian view point, and provide a uniform format for producing the output of these parsers based on Paninian Grammar  
+  a) to facilitate comparison of different parsers,
+  b) for easy plugging-in of these parsers to a Machine Translation System, and 
+  c) a shabdabodha interface for easy understanding of English sentences.
+   
+  Area and Scope:
+  A good number of parsers for English language are available. But they follow  different formalisms. The native format of these parsers is largely governed by the formalisms they follow. In case of Statistical parsers it is governed by the annotations they use. However, there is a growing trend of producing the output in Dependency Format also. But there is no unique or standard Dependency format. Therefore, even if the outputs are in the dependency format, it is not possible to compare them automatically.
+   
+  We believe that Paaninian grammar, which is also described as the first Dependency grammar,  has the potential to provide a standard or guidelines to present the output. These guidelines will be helpful in presenting different parsers outputs in an uniform format.
+   
+  In this workshop we plan to look at various  cases where the English parser outputs differ and look at them from Paaninian Grammar point of view in order to provide a standard.
+   
+  Modality and the Outcome:
+  The Grammarians will present their theory in brief to prepare a ground for common terminology for the discussion. There will be intense dialogs/discussions among the NLP researchers and the Grammarians on the problems mentioned above.  It is expected that at the end of the workshop, NLP researchers will have solutions to some of their problems, better understanding of some of issues involved, and at the same time the Sanskrit Grammarians will have many more issues to seek the answers for, within their discipline.
+   
+   
+   
+   
+  Sanskrit Scholars available for discussions:
+  Prof. K. V. Ramkrishnamacharyulu, Vice Chancellor, J R Sanskrit University, Jaipur
+  Prof. Lalit Kumar Tripathi, Rashtriya Sanskrit Sansthan, Allahabad
+  Dr. Srinivas Varkhedi, Rashtriya Sanskrit Vidyapeetha, Tirupathi
+   
+   
+  How to Apply:
+  Interested scholars are requested to send their CV to the undersigned preferably by email before 10th October, 2006.
+   
+  Amba Kulkarni
+  Head,
+  Department of Sanskrit Studies,
+  School of Humanities,
+  University of Hyderabad,
+  Hyderabad 500 032
+   
+  email: apksh at uohyd.ernet.in or ambapradeep at gmail.com
+  Telephone: 040 23133300(O)
+                9440893578(M)
+             040 23001978(R)
+   
+  Note: Accommodation and food will be provided to the outstation participants in the university guest house. No TA will be provided.
+   
+  Organizers
+   
+  Department of Sanskrit Studies
+   
+  in association with
+   
+  Center for Applied Linguistics and Translation Studies, and
+  Department of Telugu
+   
+  University of Hyderabad
+  Hyderabad
+   
+  (An NLPAI activity)
+
+
+ 				
+---------------------------------
+ Find out what India is talking about on  - Yahoo! Answers India 
+ Send FREE SMS to your friend's mobile from Yahoo! Messenger Version 8. Get it NOW
+
+
+
+

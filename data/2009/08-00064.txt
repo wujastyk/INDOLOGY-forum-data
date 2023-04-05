@@ -1,0 +1,30 @@
+From ph2046 at COLUMBIA.EDU  Fri Aug 21 15:47:01 2009
+From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
+Date: Fri, 21 Aug 09 11:47:01 -0400
+Subject: devanagari for the mac
+In-Reply-To: <BAY114-W3842738C9A9041E1B303C7DBFC0@phx.gbl>
+Message-ID: <161227087414.23782.15579406230454634916.generated@prod2.harmonylists.io>
+
+At 11:26 AM -0400 8/21/09, Herman Tull wrote:
+>  Can the Mac version be used in such a way that devanagari text can 
+>be entered directly from the keyboard
+
+Macintosh computers running the latest software (with full 
+"International" configuration) are fully capable of rendering Unicode 
+Devanagari characters via several keyboards.  As long as the default 
+fonts are installed, you just need to enable the keyboard(s) by going 
+to "System Preferences" --> "International" --> "Input Methods" and 
+selecting ("checking") one or more Devanagari keyboards.
+
+You then just need a word-processing software that is 
+Unicode-compliant (FYI, Microsoft Word is *NOT*), such as Apple's 
+"Pages" or "TextEdit", or some free editors such as "Bean".
+
+regards,
+
+Paul Hackett
+Columbia University
+
+
+
+

@@ -1,0 +1,121 @@
+From mnstorm at MAC.COM  Sat Nov 29 09:53:57 2008
+From: mnstorm at MAC.COM (Mary Storm)
+Date: Sat, 29 Nov 08 15:23:57 +0530
+Subject: Compatible Font for Macs and PCs...
+In-Reply-To: <AFBD7106-C9DF-4D81-982E-22CAFB384DD7@kcl.ac.uk>
+Message-ID: <161227084033.23782.10259888405351487060.generated@prod2.harmonylists.io>
+
+Dear Will,
+
+Thank you so much!!! I am in business. Most of the time I don't feel  
+as if I am utterly computer illiterate, but this had me flummoxed.
+
+Now I just need to do a lot of typing...
+
+I am very grateful,
+Mary
+
+Mary Storm, Ph.D.
+Academic Director
+North India Arts and Culture
+and
+Himalayan Buddhist Art and Architecture
+SIT Study Abroad
+School for International Training
+www.sit.edu
+
+Mobile +91 98106 98003
+F-301 Lado Sarai
+2nd Fl
+New Delhi 110030  India
+
+On 29-Nov-08, at 2:41 PM, Will Rasmussen wrote:
+
+> Dear Mary,
+>
+> I have been using Gandhari Unicode Roman for several years on my  
+> Macs (through several OSX upgrades) and it works very well. However,  
+> I remember having a terrible time getting it up and running at  
+> first. I am very ignorant about the 'behind the scenes' workings of  
+> fonts, and indeed about pretty much everything else to do with  
+> computers, but someone in the IT Department here advised me to  
+> install (and actually installed for me!) something called Easy  
+> Unicode Keyboard. Whenever I use Gandhari Unicode Roman font, I must  
+> first switch to the Easy Unicode Keyboard. (You can access all this  
+> keyboard stuff by opening 'System Preferences' and then opening  
+> 'International', in the top 'Personal' row of icons. There is also  
+> an icon for this in the menu next to the clock.)
+>
+> For obtaining Easy Unicode Keyboard, see the following site, which  
+> recommends Andrew Glass' Gandhari Unicode Font (to whom I offer  
+> abundant thanks).
+> http://depts.washington.edu/ebmp/downloads/EUreadme.txt
+>
+> The following site is helpful for downloading and using the  
+> keyboard, from what I can gather, but again, I am not the person to  
+> advise you further on actually installing and operating it.
+> http://depts.washington.edu/ebmp/easyunicode.php
+>
+> Please forgive me if all of this information is quite beside the  
+> point, as your problem may be much more complicated both than this  
+> and than I would comprehend!
+>
+> In any case, please accept my 'Good luck!' from a Mac commiserator!
+>
+>
+> Best wishes,
+>
+> Will
+>
+> --
+>
+> Dr Will Rasmussen
+> Matilal Lecturer in Indian Philosophy
+> Department of Philosophy
+> King's College London
+> 160 The Strand, London WC2R 2LS
+>
+> Tel. 020 7848 2757
+> Email: will.rasmussen at kcl.ac.uk
+>
+>
+>
+>
+> On 29 Nov 2008, at 08:19, Mary Storm wrote:
+>
+>> Yes, I tried Gandhari Unicode and it won't work. I think the problem
+>> is OS X, but that has now been out on the market for a while. . . so
+>> somebody has surely tackled this problem for Macs.
+>>
+>> Mary Storm
+>>
+>>
+>>
+>> On 29-Nov-08, at 1:14 PM, Valerie J Roebuck wrote:
+>>
+>>> Are you sure? I tried Gandhari Unicode when trying to process some
+>>> documents on my husband's Mac with OS X , and I couldn't even get it
+>>> to produce a lower case anusvAra M. (When I used the thing that's
+>>> supposed to let you find non-standard characters, it put in a rather
+>>> messy upper case one instead). I would like to know this, because I
+>>> have been happily using the Norman fonts on my ancient Mac Classic
+>>> for many years, with Pop Char for when I need to find a particularly
+>>> obscure character, and am dreading the day (surely not far off) when
+>>> I have to get a modern Mac with OS X.
+>>>
+>>> Valerie J Roebuck
+>>>
+>>> At 10:22 pm -0800 28/11/08, Andrew Glass wrote:
+>>>> Dear Mary,
+>>>>
+>>>> The Gandhari Unicode font has all the signs you will need. It also
+>>>> works well on a MacBook when using a modern word processor like
+>>>> Mellel.
+>>>>
+>>>> http://andrewglass.org/fonts.php
+>>>>
+>>>> Andrew
+
+
+
+

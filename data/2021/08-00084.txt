@@ -1,0 +1,151 @@
+From mmdesh at umich.edu  Mon Aug 30 00:49:11 2021
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Sun, 29 Aug 2021 17:49:11 -0700
+Subject: [INDOLOGY] Sanskrit linguistics
+In-Reply-To: <799C507C-EB06-49AE-A90D-0C00C5220358@illinois.edu>
+References: <E31D3A12-F15B-4C31-A9D7-857F2F4D11CC@comcast.net>
+ <799C507C-EB06-49AE-A90D-0C00C5220358@illinois.edu>
+Message-ID: <CAB3-dzd0k=yPgHKGY9=HRPQob74OrArtZiweyt=d2yTkpv1Pkg@mail.gmail.com>
+
+Hello Hans,
+
+     I have lost track of some of the relevant old publications, but I
+remember that some of the occurrences of ? in Sanskrit were accounted for
+by Fortunatov's law regarding the IE l+dental changing to retroflex in
+Sanskrit, and some others may be what Thomas Burrow called spontaneous
+retroflexes. Are some of your examples [other than *ruki *and *o?t? >
+a?t? *?eight?,
+covered by these theories?
+     The other indication to suggest the instability of ?/? is the
+discussion in the Aitareya-?ra?yaka about whether the RV Sa?hit? was
+a?ak?ra/a?ak?ra or sa?ak?ra/sa?ak?ra. The ?ra?yaka says that the M????keya
+version of the RV was sa?ak?ra/sa?ak?ra, and that ??kalya followed
+M????keya in this respect. But the discussion itself indicates that there
+may have been other reciters whose Sa?hit? was a?ak?ra/a?ak?ra.
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Sun, Aug 29, 2021 at 1:55 PM Hock, Hans Henrich via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Colleague,
+>
+> Even as early as the Rig Veda there is evidence, both for * ?* occurring
+> after a-vowels and for *s* occurring after * i-* and *u-*vowels. See the
+> evidence further below.
+>
+> What made the distribution of *s* and *?* unpredictable is the fact that
+> Proto-Indo-Iranian *?*, the source of Skt. *?* is of two sources. One if
+> the development of earlier *s* to *?* after ?RUKI? (i.e. *r-*sounds, *u-*sounds, velars,
+> and *i-*sounds; in the case of the vocalic sounds, both syllabic and
+> nonsyllabic); the other was the development of PIE **?* to *?* before
+> obstruent. Examples are * nis- > ni?* ?down? and *o?t? > a?t? *?eight?.
+>
+> As the second example shows, the second of these changes introduced *?* after
+> *a-*vowels and thus made the RUKI outcome of *s* opaque and hence
+> contrastive (consider e.g. Skt. *asta-* ?thrown? beside *a???(u) *?8?,
+> with *s* and *?* contrasting after * a-*vowel.
+>
+> This contrastiveness, in turn, made it possible for analogical processes
+> to extend *?* into contexts after *a-*vowels (as in * pary-a-?asvajat*)
+> as well as for borrowings and the like with *?* after *a-*vowels and *s* after
+> ?RUKI? to be adopted without further adjustment.
+>
+> All the best,
+>
+> Hans Henrich Hock
+> Linguistics and Sanskrit (emeritus)
+> University of Illinois
+>
+> Contrastiveness of retroflex sibilant in Sanskrit
+>
+> Unpredictable occurrences after *a-*vowels in the RV
+>
+> ????ha ?invicible?
+>
+> ??atar? ?more beneficial? (1.183.4)
+>
+> kav??a (PN) (534.12)
+>
+> c???a ?H?her? (923.13)
+>
+> j?l??a ?healing? (1.43.4 in compound)
+>
+> ca???la ?Knauf der Opfers?ule? (1.162.6)
+>
+> v??a? (ritual call) (passim)
+>
+> Note also
+>
+> parya*?*asvajat (pluperf.) ?embraced?
+>
+> Contrastive and unpredictable examples after *a-*vowels in later Vedic
+>
+> m???a ?bean?
+>
+> m??sa ?moon, month?
+>
+> bh??- ?speak?
+>
+> bh?s- ?shine?
+>
+> jha?? ?large fish?
+>
+> Some Post-Vedic examples after *a-*vowels
+>
+> ka?- ?rub, scratch?
+>
+> kas- ?go, move? (DhP)
+>
+> la?- ?desire? (MBh etc.)
+>
+> Dental sibilant (*s*) after *i-* and *u-*vowels in Vedic
+>
+> ?b??sa ?cleft, gap? (RV)
+>
+> k?st? ?singer? (RV)
+>
+> k?sindha ?trunk? (AV)
+>
+> Some examples of ental sibilant (*s*) after * i-* and *u-*vowels in
+> Post-Vedic
+>
+> kisalaya ?sprout, shoot?
+>
+> kusuma ?flower?
+>
+> bisa ?shoot, sucker?
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> On 23 Aug2021, at 14:11, Jim Ryan via INDOLOGY <
+> INDOLOGY at list.indology.info> wrote:
+>
+> Hi,
+>
+> A question: I go back to a memory (possibly incorrect) of hearing from a
+> linguistics teacher at UW (long ago) that the retro-flex "?" in Sanskrit
+> was "barely phonemic." A  former student who had studied, through his Ph.D.
+> exams, historical linguistics at UCLA focusing on Indo-European (maybe also

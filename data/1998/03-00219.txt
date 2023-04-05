@@ -1,0 +1,20 @@
+From madhava at CH1.VSNL.NET.IN  Sun Mar 15 17:25:11 1998
+From: madhava at CH1.VSNL.NET.IN (Viktor V. Sukliyan)
+Date: Sun, 15 Mar 98 22:25:11 +0500
+Subject: Software for scanning of Indian rarities?
+In-Reply-To: <3.0.2.32.19980315204339.006873c0@hd1.vsnl.net.in>
+Message-ID: <161227036678.23782.15479603845451084926.generated@prod2.harmonylists.io>
+
+Does anybody out there know about availibility of software for
+OPTICAL CHARACTER RECOGNITION (OCR) of Indian fonts(Devanagari,
+Bengali etc) for purpose of scanning Indian texts with further
+conversion them in text files?
+It is known that we have this facility for european languages.
+What about Indian languages?
+
+With best regards
+Viktor Sukliyan.
+
+
+
+

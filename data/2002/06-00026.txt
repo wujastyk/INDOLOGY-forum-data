@@ -1,0 +1,37 @@
+From christoph.emmrich at URZ.UNI-HEIDELBERG.DE  Fri Jun 28 08:29:02 2002
+From: christoph.emmrich at URZ.UNI-HEIDELBERG.DE (Christoph Emmrich)
+Date: Fri, 28 Jun 02 10:29:02 +0200
+Subject: Devanagari Software
+Message-ID: <161227071114.23782.1727661115815709794.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+On behalf of a colleague who does not have access to this list I would
+like to ask for advice regarding the following questions:
+
+1) Is there any OpenSource OCR Software available for Sanskrit written
+in Devanagari or transliteration ?
+2) If yes, does this Software allow to add more Glyphes to meet
+different fonts ?
+3) Is there any OpenSource Editor for Sanskrit available which maps
+Devanagari to Transliteration 1-1 and which exports to Word, especially
+for the representation of conjuncts?
+4) What kind of Software is available to support Analysis and
+Translation from Sanskrit to English or German?
+
+Thank you very much in advance,
+Christoph Emmrich
+
+--
+
+Classical Indology
+South Asia Institute
+University of Heidelberg
+Im Neuenheimer Feld 330
+69120 Heidelberg - Germany
+Tel.: 06221-54-6303
+Fax: 06221-54-6338
+
+
+
+

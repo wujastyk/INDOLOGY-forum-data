@@ -1,0 +1,42 @@
+From alexpassi at GMAIL.COM  Mon Dec  1 11:42:04 2008
+From: alexpassi at GMAIL.COM (Alex Passi)
+Date: Mon, 01 Dec 08 12:42:04 +0100
+Subject: Compatible Font for Macs and PCs...
+In-Reply-To: <1228018110.6762.2.camel@localhost>
+Message-ID: <161227084064.23782.4094813100553976020.generated@prod2.harmonylists.io>
+
+One more item: if you are using an extended US-Keyboard on Mac OS X-5  
+and a Unicode font such as Palatino (comes with the system), there are  
+built-in combination keys for Skt. diacritics (for both capital and  
+lowecase letters)
+
+OPT-w + letter = overdot
+OPT-x  + letter = underdot
+OPT-e  + letter = accented letter (as in ?iva)
+OPT-a  + vowel = long vowel
+OPT-a + r long vowel r.
+OPT-n + n of course yields palatal n.
+I'm not sure about anunasika. You can probably compose it with the non- 
+spacing character??  .
+
+Alex Passi
+
+On 30/11/2008, at 5:08 AM, Richard Hayes wrote:
+
+On Sat, 2008-11-29 at 13:49 +0530, Mary Storm wrote:
+
+> Yes, I tried Gandhari Unicode and it won't work. I think the problem
+> is OS X, but that has now been out on the market for a while. . . so
+> somebody has surely tackled this problem for Macs
+
+I was unable to get Gandhari Unicode to work in OpenOffice on a Linux
+platform. Fortunately, plenty of other Unicode fonts work quite well.
+
+-- 
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+
+

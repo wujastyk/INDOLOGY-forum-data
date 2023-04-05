@@ -1,0 +1,57 @@
+From emstern at NNI.COM  Sun Jul  5 19:47:10 1998
+From: emstern at NNI.COM (Elliot Stern)
+Date: Sun, 05 Jul 98 15:47:10 -0400
+Subject: English in Re: Sanskrit
+In-Reply-To: <359E6C72.662C6FB8@ipc.hiroshima-u.ac.jp>
+Message-ID: <161227040562.23782.11283171600095476350.generated@prod2.harmonylists.io>
+
+Birgit Kellner wrote:
+
+>(a) A friend gave the man a book.
+>(b) The man was given a book by a friend.
+>
+>How do I know that "the man" in (b) does NOT function as a dative? In
+>the analogous German examples
+>
+>(c) Ein Freund gab dem Mann ein Buch.
+>(d) Dem Mann wurde von einem Freund ein Buch gegeben.
+>
+>this is easy to figure out because of the definite article "dem", (using
+>proper names
+>in the examples is not such a good idea, by the way, because this point
+>gets obliterated). So the question is: How can it be known that (b) is
+>not the exact syntactic equivalent of the German sentence (d), but
+>actually exhibits loc raising?
+
+We can probably see that "The man" in sentence (b) does not function as a
+dative, and that (b) is not the exact syntactic equivalent of the German
+sentence (b) by substituting an appropriate personal pronoun for "The man":
+
+(b') He was given a book by a friend.
+
+By contrast, if we substitute an appropriate personal pronoun for "the man"
+in (a), we get:
+
+(a') A friend gave him a book.
+
+or
+
+(a'') A friend gave a book to him.
+
+When we now look back at (a) and (b), it is easier to see that the dative
+or indirect object "the man" in (a) is raised to nominative or subject in
+(b).
+(Please pardon some terminological imprecision here; it is years since I
+have studied generative grammar, etc.).
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+telephone: 215 747 6204
+
+
+
+

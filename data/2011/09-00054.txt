@@ -1,0 +1,64 @@
+From hwtull at MSN.COM  Sat Sep 17 15:00:54 2011
+From: hwtull at MSN.COM (Herman Tull)
+Date: Sat, 17 Sep 11 11:00:54 -0400
+Subject: transliteration
+In-Reply-To: <4E7086D7.9080908@danielstender.com>
+Message-ID: <161227093892.23782.10750903019313853960.generated@prod2.harmonylists.io>
+
+Thanks for the reference to Scharf & Hyman; this is a fabulous work.
+
+Unfortunately, two mysteries for the Harvard Kyoto transliteration 
+convention remain, namely the long vowel "r" (? / ? transliterated as "q" by 
+Scharf and Hyman and also, Wujastyk, but as "RR" by others) and the short 
+vowel "l" (? /?  transliterated as "L" by Scharf and Hyman and also, 
+Wujastyk, but by others as "lR").
+
+I realize that H-K has been superseded by other conventions, but it is 
+useful (because of its simplicity) for student e-mails, and also because it 
+is used in the on-line Monier Williams dictionary 
+(http://gandhari.org/a_mw.php and 
+http://www.sanskrit-lexicon.uni-koeln.de/monier/).
+
+Incidentally, the on-line MW uses the "RR" (long vowel "r"; ? / ?) and "lR" 
+conventions (short vowel "l"; ? /?).
+
+Any further insights into this would be greatly appreciated.
+
+Herman Tull
+
+-----Original Message----- 
+From: Daniel Stender
+Sent: Wednesday, September 14, 2011 6:49 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: [INDOLOGY] transliteration
+
+Generally most comprehensive dealing with different transliteration schemes 
+and recently available
+online: Scharf/Hyman's "Linguistic issues encoding Sanskrit"
+http://sanskrit1.ccv.brown.edu/tomcat/sl/-/pub/lies_sl.pdf
+
+Greetings,
+Daniel Stender
+
+Am 12.09.2011 21:47, schrieb Herman Tull:
+> I am doing some work with transliteration schemes, and I notice that in 
+> some documentation of the
+> Harvard Kyoto system the long vowel ?r? is denoted as ?q?; other sources 
+> have it as ?RR.?  Does
+> anyone have any information on which is correct?
+>
+> Additionally, has anyone had the experience of choosing or being asked to 
+> choose one of the non-IAST
+> systems (e.g., Velthius, Harvard Kyoto, ITRANS) for traditionally 
+> published works?
+>
+> Herman Tull
+> Princeton, NJ
+
+-- 
+http://www.danielstender.com/granthinam/
+GPG key ID: 1654BD9C 
+
+
+
+

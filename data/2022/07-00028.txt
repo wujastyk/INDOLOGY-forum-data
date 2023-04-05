@@ -1,0 +1,34 @@
+From vasishtha.spier at gmail.com  Mon Jul  4 00:12:32 2022
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Sun, 3 Jul 2022 20:12:32 -0400
+Subject: [INDOLOGY] Muktabodha digital library search function and google
+ chrome
+Message-ID: <CAJ3b0o-NhacwRaMNCbO2+ttRA73+5cNpoNKJWKuFV07MRUTf2Q@mail.gmail.com>
+
+Dear list members,
+Google chrome has recently changed its default behavior and this has
+affected the search function of the Muktabodha  digital library (at least
+on my computer).
+
+When you use the search engine of the Muktabodha searchable etext
+collection this opens a new tab to post the results but it appears that the
+default behavior of google chrome now blocks this. If your google chrome is
+set to allow pop-ups then you don't need to make any changes.
+
+Otherwise if this occurs on your computer,  do the following.
+In google chrome:
+1) click on the three dots in the upper right hand corner.
+2) click on settings
+3) click on privacy and security
+4) scroll down to "site settings" and click on it.
+5)scroll down to "pop-ups and redirects" and click on it.
+6) scroll down to "allowed to send pop-ups and redirects" and click on "ADD"
+7) In "Add a site"  add muktalib7.com
+
+This should fix the problem.
+
+Harry Spier
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220703/8f431023/attachment.htm>
+

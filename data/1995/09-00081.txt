@@ -1,0 +1,32 @@
+From dplukker at inter.NL.net  Tue Sep 19 21:20:21 1995
+From: dplukker at inter.NL.net (dplukker at inter.NL.net)
+Date: Tue, 19 Sep 95 23:20:21 +0200
+Subject: Q: Titus URL?
+Message-ID: <161227020905.23782.17788974711144922942.generated@prod2.harmonylists.io>
+
+I have had trouble lately linking from our Centre's web page to the page 
+>for the TITUS Project for Historical Linguistics. The address I have for 
+>that page is:
+>	http://www.rz.uni_frankfurt.de/home/ftp/pub/titus/public_html
+>
+>Have I got the wrong address, or is the problem something else?
+>
+>Thanks for any help,
+>Bob Hueckstedt
+>
+
+The URL I just (23.00 h.) succesfully linked to is:
+
+        http://watson.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html
+
+Yours,
+
+    Dick Plukker
+    India Institute, Amsterdam
+
+ 
+
+
+
+
+

@@ -1,0 +1,100 @@
+From CXEV at CA.MCGILL.MUSICA  Thu May 23 12:47:20 1991
+From: CXEV at CA.MCGILL.MUSICA (Richard P. Hayes)
+Date: Thu, 23 May 91 08:47:20 -0400
+Subject: Sanskrit Syntax Sangha
+Message-ID: <161227015014.23782.676625033878256981.generated@prod2.harmonylists.io>
+
+Status: RO
+
+Brendan Gillon and Richard Hayes were very pleasantly surprised by
+the recent interest in a Sanskrit Syntax Discussion Group. As we
+mentioned in our original announcement in December 1990, we have
+been exchanging ideas and observations about Sanskrit Syntax for
+some time now and are eager to have the participation of others.
+ 
+We have been working on the translation of a text, and as part of
+that project, we have decided to do a grammatical analysis of
+each of its sentences. As a pilot project to this research,
+Gillon did an analysis of a random sample of 300 prose classical
+Sanskrit sentences, looking primarily at constituency. Since
+then, we have parsed over 450 from another text. The results, we
+feel, have been well worth the effort. At the same time, many
+interesting issues have arisen, both syntactic and semantic as
+well as ranging from the somewhat theoretical to the not so
+theoretical.
+ 
+Here is a list of some of the topics.
+ 
+1. Constituency
+This topic has been looked into by Gillon, following up ideas of
+Staal's from his book on Sanskrit Syntax and Universal Grammar.
+Gillon would be happy to pass on a synopsis of his observations,
+now based on a corpus of almost a 1,000 sentences, as well as a
+sample of sentences which are problematic for the hypothesis he
+is exploring.
+ 
+2. Anaphora
+Here, we have been discussing "tat", especially in what we have
+concluded is its function as an indefinite pronoun. Gillon has
+been suggesting that the function served by indefinite noun
+phrases in English, in constructions commonly known by the term
+"donkey sentences", a term due to Peter Geach (a philosopher who
+has looked at Medieval European philosophers had to say about
+quantification in natural language). Gillon has had the chance to
+discuss the problem in some detail with Kamaleshwara
+Bhattacharya.
+ 
+3. Asamartha Compounds
+We have also put together data on asamartha compounds. One of the
+interesting cases of these compounds, totally unexpected by us,
+is the configuration in which the modifying element external to
+the compound is an adverbial, modifying in a adjectival like
+fashion an element subordinate in the compound. We thought it
+would be interesting to see what observations and reactions
+people would have to such compounds, certain totally unexpected
+from expectations which would normally accrue to the standard
+examples.
+ 
+4. Copular Predication
+We have had some discussion about the greater semantic
+flexibility of the copula in Sanskrit.
+ 
+5. Particles
+We are attending to the syntax and semantics of a number of
+particles. Over the past thirty years or so, an interesting
+literature has grown up on the syntax and semantics of particles
+in other languages. We are interested in seeing if equally good
+accounts can be provided for their counterparts in Sanskrit.
+ 
+Any particle is of interest. The ones which have caught our
+attention are: "api", "eva", "iti", and "punar".
+ 
+We have given the most amount of thought to "eva", cataloguing
+its various uses and referring to some of the recent literature
+on "only" in English, due to Geach, Horn, Partee, Shanon,
+McCawley, and others.
+ 
+ 
+If you are still interested and have a preference for one of the
+issues mentioned above, or if you want to suggest a topic dearer
+to your heart, then let us know.
+ 
+ 
+A discussion group on Sanskrit syntax is probably not destined to
+become enormous, so there will be no need to coordinate the
+discussion through a LISTSERV. Perhaps the most efficient way of
+seeing to it that all messages get to all participants would be for
+all messages to be sent initially to one person, who could then
+forward them to the others. If this arrangement does not sound
+sensible, we are open to other suggestions. Meanwhile, let's try it.
+ 
+Please send all messages intended for this group to Richard Hayes,
+and he will send them on.
+ 
+Brendan Gillon <gillon at epas.utoronto.ca>
+Richard Hayes <cxev at musica.mcgill.ca>
+
+
+
+
+

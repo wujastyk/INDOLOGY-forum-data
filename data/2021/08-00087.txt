@@ -1,0 +1,130 @@
+From vasishtha.spier at gmail.com  Mon Aug 30 18:51:06 2021
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Mon, 30 Aug 2021 14:51:06 -0400
+Subject: [INDOLOGY] 27 new tantric etexts added to the Muktabodha digital
+ library
+Message-ID: <CAJ3b0o-tWiuM6okQj=A5hu7F=tgd_Ot0z7bZk8w8yiZ2Y9BTtA@mail.gmail.com>
+
+ Dear list members,
+
+I am pleased to announce on behalf of the Muktabodha Indological Research
+Institute:
+
+* 1) 27 new etexts have been added to the searchable e-text library of
+Muktabodha.*
+(See details in this email below with brief descriptions of the contents by
+Mark S.G. Dyczkowski).
+
+* 2) New features have been added to the searchable e-text library*
+a) All texts are now viewable and downloadable as text files in unicode
+devanagari.
+b) Because the library has a large number of paddhatis, a  new subject
+category of "paddhati" has been added to aid users in locating these when
+they list the texts by subject category.
+
+The digital library can be reached from either the Muktabodha website
+www.muktabodha.org or directly from:
+https://muktalib7.com/DL_CATALOG_ROOT/digital_library_secure_entry.htm
+
+*3) The newly added etexts are:*
+
+1) ?c?ras?ratantra NGMCP manuscript no: 3-325 Reel No. B 116/8
+contains
+a) 4 chapters of the ha?haprad?pik? by sv?tm?r?ma
+b) The ?c?ras?ratantra which teaches a form of extreme kaulism called
+cin?c?ra .
+c) A tract called samay?c?ra of almost three hundred verses which outline
+the worship of the goddess samay? .
+d) A hymn to a goblet of wine used in this Kaula ritual.
+e) ul?kakalpa - This teaches various magical acts making use of the body
+parts of crows
+
+2) The aja?apramat?siddhi by Utpaladeva with a v?tti by Haribha??a ??str?
+from volume 34 of the KSTS series
+
+3) akul?gamatantra NGMCP manuscript no: 1-9 Reel No. B 115/6 T
+his is wrongly catalogued as the akul?gamatantra. This short tantra is
+actually called the yogas?rasamuccaya and considers itself to be an
+akul?gama. This tantra deals with yoga and is largely concerned with the
+movement of the breath and the breaking through of the inner fetters that
+bind the Yogi.
+
+4) am?te?atantram NGMCP manuscript no. pra - 285 Reel No: B25/4
+am?te?vara is another name for m?tyunjaya , a popular Bhairava who is still
+extensively worshipped throughout the subcontinent.
+
+5) v?ru?apaddhati? from IFP transcript no: T00055
+Also called ?tm?rthap?j?padddhati?. This is one of the most detailed but
+concise works on siddh?nta ritual and practice. Composed by varu?a?iv?c?rya
+from the major ?aivasiddh?nt?gamas.
+
+6) bhairavastava also called ?ivastuti by abhinavagupta taken from the
+final appendix of the nityakarmavidhi? published in 1917 .
+
+7) candr?valokanam IFP transcript no: T00788
+A short tract on yoga as taught by mahe?vara to matsyendran?tha.
+
+8) devip?j? published in Mumbai 1927.
+Contains: durg?p?j?, mah?r?j??stava, ?r?mada 'lak?ye?var?parapary?yas?hi
+bhadarar?pabhav?n?v?kyama?jar?, and sarasvat?stuti
+
+9) ga?ak?rik? with commentary ratna??k? by bh?vasarvaj?a published Baroda,
+1920
+Presents the main features of pa?upata yoga.
+
+10) gaurik??calik?tantram by mantramah?deva published Calcuta, 1921
+This belongs to a class of tantras, concerned with potions and spells to
+cure illness.
+
+11) k?l?gnijaj?avidhi NGMCP ms no: 1696/2203 reel no: B 178/36
+
+12) kala??rcanavidhi of siddhalak?m?dev? NGMCP ms. no: 159, reel no: A
+1232/17
+
+13) kriyo????amah?tantrar?ja? printed by caukhamb? k???ad?sa ak?dam? 1954
+A trantra concerning magic rites and mantras used to control others, and
+conversly, ways of protecting oneself from them.
+
+14) kul?nanda(tantram) from "Kaulaj??nanir?aya and some minor texts of the
+school of Matsyendranatha" Calcutta 1934
+
+15) li?g?rcanatantram IFP transcript T00937
+A tantra dealing with the worship of the li?ga.
+
+16) madhyap??hap?j?vidhi NGMCP ms. no: 1062, reel no: A 245/10
+
+17) mah?guhyak?l?vidh?nam NGMCP ms no: 2048, reel no: B 139/3
+
+18) mah?lak?m?d?pad?na vidhi? NGMCP ms. no: 1571, reel no: A 246/2
+
+19) maj?lak?m?p?j? vidhi? NGMCP ms. no: 1696/2310, reel no: B 375/47
+
+20) mah?y?gakrama by bh?skarar?ya published by Asthana Vidwan K. P.
+Narayana Sastry, 1946
+Concerns the liturgical application of the teachings of the bh?vanopani?ad
+. Though presented as an upani?ad, is in fact a Kaula text of the ?r?vidy?
+school. The liturgy is the worship of the goddess tripurasundar? and her
+attendants as deployed in the ?r?cakra.
+
+21) mah?lak?m?p?j?viddhi? NGMCP ms. no: 2690, reel no: 154/10
+
+22) m?tyu?jayakalpa NGMCP ms. no: 4-286, reel no: A 172/6
+
+23) siddhilak?m?devy?rcana NGMCP ms. no: 1373, reel no: v 199/13
+
+24) siddhilak?m?ko?y?hutidinak?tya NGMCP ms. no: 1365, reel no: A 250/1
+
+25) siddhilak?m?yut?k?aram?l?mamantra NGMCP ms. no: 1397, reel no: v 199/90
+
+26) siddhilak?m? ?r?mika NGMCP ms. no: 1399, reel no: v 199/9
+
+27) ugraca???p?j?paddhati NGMCP ms. no: 1696/979, reel no: B 177/22
+
+Thank you,
+
+Harry Spier
+on behalf of the Muktabodha Indological Research Institute
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210830/9f05af59/attachment.htm>
+

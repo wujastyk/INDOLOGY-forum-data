@@ -1,0 +1,49 @@
+From Royce.Wiles at ANU.EDU.AU  Tue May 25 04:17:04 1999
+From: Royce.Wiles at ANU.EDU.AU (Royce Wiles)
+Date: Tue, 25 May 99 15:17:04 +1100
+Subject: prsthamatra and nandinagari
+Message-ID: <161227049342.23782.6261900768545238369.generated@prod2.harmonylists.io>
+
+>1. When and where was the prsthamatra-vocalization for
+>nagari-manuscripts in use and when was it last used for that script?
+>2. When and where was nandinagari used in manuscripts?
+
+I don't know anything about Nandinagari, even pRSThamAtrA is hardly ever
+mentioned. Two "citations" below.
+
+The oldest Jain palmleaf manuscripts from Rajasthan and Gujarat give only
+pRSThamAtrA ie. 12th-13th centuries. However in later manuscripts (I have
+photocopies from dated manuscripts of 1545 and 1616 CE) it is possible to
+find scribes using both pRSThamAtrA and the conventional representations of
+e side by side, sometimes both styles in the same word. Later manuscripts I
+suspect come to have only the conventional style of e, but there was a long
+period of overlap when both forms were in use, at least in Jain MSS centres
+(Rajasthan and Gujarat).
+
+Given the conservative nature of Jain scribal traditions (I have not used
+MSS from other traditions) I think it would be unwise to try to date a
+NAgarI manuscript solely by the presence of pRSThamAtrAs or not.
+
+
+1.     Chandrabhal Tripathi.1975. Catalogue of the Jain manuscripts at
+Strasbourg.
+mentions prsthamatra-s in passing in the introduction (but I don't have the
+book with me so can't cite the precise page, maybe it is only in a footnote
+anyway).
+
+
+2.      H. R. Kapadia says only this:
+
+The combination of e with a consonant comes to [sic] writing an oblong line
+raised upon the horizontal stroke of a consonant. This is called a mAtrA.
+This may be optionally written as a karNa to the right of the consonant and
+touching the horizontal stroke of the consonant so that it may not be
+mistaken as a karNa of the preceding consonant, if any. In the latter case
+such a karNa is called pRSThamAtrA, paDimAtrA, paDImAtrA or pratimAtrA.
+
+H. R. Kapadia. 1939. A detailed exposition of the Nagari, Gujarati and Modi
+scripts. ABORI 19 (1939) 386-411 p. 406-407.
+
+
+
+

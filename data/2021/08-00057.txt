@@ -1,0 +1,103 @@
+From mmdesh at umich.edu  Mon Aug 23 19:52:35 2021
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Mon, 23 Aug 2021 12:52:35 -0700
+Subject: [INDOLOGY] Sanskrit mnemonics?
+In-Reply-To: <2e8e295392bd252fd63d89248b44d5d7@univie.ac.at>
+References: <CAEjEOsB0js6-XxGOq_S7NDrSZc6v5+BgnrKWeXZ3zpCk8xu3ag@mail.gmail.com>
+ <trinity-d8112cff-6889-431b-a80b-b47ae34b88d0-1629482190714@msvc-mesg-gmx002>
+ <2e8e295392bd252fd63d89248b44d5d7@univie.ac.at>
+Message-ID: <CAB3-dzeUuc01YUJ+P4S28vu4m2EFNwZoVoTXM1P9d51=_pJs7w@mail.gmail.com>
+
+It depends upon how narrowly or widely one defines the word "mnemonic".
+There are a good deal of aids for memorization in Sanskrit, especially in
+various ??stras and for the Vedic reciters. One such device is used in
+helping memorize P??ini's A???dhy?y?. For each P?da, there is a string that
+includes the first words of rules 1, 20, 40, 60 etc. and the number of
+rules in the final odd lot. For example, the string for the first P?da is:
+????????????????????????:????????????????????. There are 32 such strings
+for the entire A???dhy?y?. One is expected to memorize the entire
+A???dhy?y?. But to find the numerical place of any given rule, if one
+begins reciting with that rule, very quickly one hits one of the location
+markers in one of these strings, and then it is an easy calculation.  My
+senior classmate in Pune, Mr. S.L. Athlekar used to do this in a split
+second, and then he taught his 8 year old daughter to do this. So this was
+a very efficient system.
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Mon, Aug 23, 2021 at 12:34 PM Christian Ferstl via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear all,
+>
+> are there really no other mnemonics or are they perhaps too childish to
+> post them on this list?  I also like to use the verse r?mo r?jamani?
+> etc., but rather in order to recall the order and numbering of
+> vibhaktis.
+> Is there a common word for "mnemonic" in Sanskrit?
+>
+> Christian
+>
+>
+> Am 20.08.2021 19:56, schrieb sellmers--- via INDOLOGY:
+> > Dear Antonia,
+> > I use the verse r?mo r?jamaniH ... for the masc.sg. forms of the -a
+> > declension.
+> > Best wishes,
+> > Sven
+> >
+> > Am 20.08.21 um 19:26 schrieb Antonia Ruppel via INDOLOGY
+> >
+> >  Von: "Antonia Ruppel via INDOLOGY" <indology at list.indology.info>
+> > Datum: 20. August 2021
+> > An: "Indology" <indology at list.indology.info>
+> > Cc:
+> > Betreff: [INDOLOGY] Sanskrit mnemonics?
+> >
+> > Dear all,
+> >
+> > Whenever I've learnt a language in a classroom setting, we'd get
+> > mnemonics to help us remember word forms or uses. (I am thinking of
+> > things like 'after si, nisi, num, ne, all the ali's fly away', or 'If
+> > one shwa by another is hounded, the first is silent, the second
+> > sounded.')
+> >
+> > Do any of you have any such mnemonics (no matter how silly - or dare I
+> > say: the sillier, the better?) for Sanskrit? So far I only have
+> > minuscule things like reminding students of Har*e* K???a (for
+> > the vocative of i-stems), and also verses like
+> >
+> > gurureva gatirgurumeva bhaje guru?aiva sah?smi namo gurave |
+> > na guro? parama? ?i?urasmi gurormatirastu gurau mama p?hi guro
+> > ||
+> >
+> > If you have anything you use that works well with your students, I'd
+> > be grateful if you were willing to share it. I'll happily sum up
+> > everything I get in an email to the List.
+> >
+> > Many thanks, as always,
+> >     Antonia _______________________________________________ INDOLOGY
+> > mailing list INDOLOGY at list.indology.info
+> > https://list.indology.info/mailman/listinfo/indology
+> >
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > https://list.indology.info/mailman/listinfo/indology
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210823/b6f77dcf/attachment.htm>
+

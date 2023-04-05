@@ -1,0 +1,51 @@
+From k.harimoto at LET.RUG.NL  Thu Nov 11 01:22:48 2004
+From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
+Date: Thu, 11 Nov 04 02:22:48 +0100
+Subject: Devanagari
+In-Reply-To: <000001c4c6d3$e6ac57f0$7eee3e80@LIFEBOOK>
+Message-ID: <161227075271.23782.3916446596666975505.generated@prod2.harmonylists.io>
+
+> The reason I asked my original question was because it seemed best to
+> start at the most fundamental level in trying to solve the problem with
+> the Macs and then move "up" from there. This is at the level of
+> encoding. Correct me if I'm wrong but I believe the Sanskrit 2003 font
+> is, technically speaking, not actually a "unicode" font because it does
+> not support the standard unicode language assignments for the upper
+> values. It takes advantage of the larger font size of the unicode
+> standard to overwrite other languages with Sanskrit ligatures and then
+> utilizes the widespread software support for the unicode standard to
+> display the characters in common programs. This is a good solution and
+> one we also used in the bad old days when we only had 256 slots
+> available.
+
+I looked inside the Sanskrit 2003 and it is indeed to some degree true.
+  But it uses private/corporate use area of the unicode.  So, while it
+does not pollute the area meant for other scripts, documents prepared
+with Sanskrit 2003 in mind will not work without that font.  This does
+not seem very good.
+
+> The reason I mention all of this is that the problem with Macs may be
+> due to the Mac also using some of those higher values for Mac "special
+> characters" that don't correspond to the PC/Linux values. This was
+> something we had to watch out for in the early days as well.
+
+Does it suffice to say that the document prepared on my Mac looks fine
+on my PC as well (except for the fact that Windows demands LF/CR for
+line ending :)?  Document encodings and rendering of  the data (where
+fonts are involved) appear to be very well separated, following the
+spirit of unicode on both Windows and OS X.  Let us hope that people
+will not start using "special" fonts.
+
+I actually do not see the Mac problem here.   The only major problem
+would be that OS X does not support rendering using OpenType font very
+well yet.
+
+Oh, I again was only talking about OS X native apps.  Classic Mac OS or
+Carbon apps, including MS Word, is entirely a different issue.
+
+--
+kengo harimoto
+
+
+
+

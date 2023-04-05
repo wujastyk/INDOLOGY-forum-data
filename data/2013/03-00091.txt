@@ -1,0 +1,9 @@
+From wujastyk at gmail.com  Wed Mar 20 16:38:31 2013
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 20 Mar 13 17:38:31 +0100
+Subject: [INDOLOGY] personal bibliography of indology books and articles
+Message-ID: <CAKdt-CdoOedRVc6G4O=V6CWY73j6LOYkDZVseEBDbrWKRQePKA@mail.gmail.com>
+
+Like many of us, over the years I've built up a large personal bibliography
+of research publications.  The format of my stuff is
+Bibtex<http://en.wikipedia.org/wiki/Bibtex>

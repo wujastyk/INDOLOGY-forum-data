@@ -1,0 +1,33 @@
+From m.gluckman at anu.edu.au  Tue May  2 14:23:43 2017
+From: m.gluckman at anu.edu.au (Martin Gluckman)
+Date: Tue, 02 May 17 16:23:43 +0200
+Subject: [INDOLOGY] A novel Sanskrit input tool for Mac
+Message-ID: <CA+wUuzPYS-5yy1khwC4aGKtRbzs53pbVJkksM65bg3=XRB975A@mail.gmail.com>
+
+Dear Friends,
+
+I wished to share a tool we've made to input Sanskrit on a Mac. Various
+scripts as well as basic accents are supported along with an input method I
+personally found to be very easy to learn.
+
+https://itunes.apple.com/us/app/sanskrit-writer-lite/id1171037573?mt=12
+
+Due to restrictions of the Mac App store the full version (which allows the
+typing of Sanskrit anywhere) is forced to use an editor so you have to
+copy/paste but even so it should be useful to many of you (who use Mac).
+
+In the near future the full version will be available for download (not
+from the app store but from a separate site).
+
+I hope this tool is as useful to students and scholars out there as we have
+found in our work.
+
+Warmest wishes,
+
+Martin
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170502/6c865375/attachment.htm>
+

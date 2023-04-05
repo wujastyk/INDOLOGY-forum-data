@@ -1,0 +1,70 @@
+From wujastyk at gmail.com  Thu Apr 30 04:24:12 2020
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 29 Apr 20 22:24:12 -0600
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_dy=C5=AB_and_similar_ligatures?=
+In-Reply-To: <LO2P265MB0112FAD8B3E30E67F39AFD91FEAC0@LO2P265MB0112.GBRP265.PROD.OUTLOOK.COM>
+Message-ID: <CAKdt-Ccp08UCG45hrfQBDCDuSeKkdBckCzLAb0NhYmxmZ4OF2Q@mail.gmail.com>
+
+Try the font called "Sanskrit 2003".  Or "Murty Sanskrit".
+
+Best,
+Dominik
+--
+Professor Dominik Wujastyk
+<https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+On Tue, 28 Apr 2020 at 04:43, John Lowe via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> I am trying to write words like dy?tam in n?gar? in MS Word (using Keyman)
+> but I end up without the ligature: it seems that whenever d is followed by
+> consonant+u/?/?, the d ends up followed by vir?ma. This affects things like
+> dy?, ddh?, etc. I will type the n?gar? here, but your systems may well
+> correct it:
+>
+> ???????, -?????-, -??????-
+>
+> When followed by -a-, the ligatures dy, db, ddh, etc come out correctly,
+> but they split (into d-vir?ma-y etc) as soon as another vowel follows.
+>
+> Even if I copy and paste the correct ligature from e.g. the Cologne
+> dictionary, it splits when pasted.
+>
+> Can anyone recommend a solution to this problem? My font selection seems
+> to default to Nirmala or Kokila when writing in n?gar?, but perhaps there
+> is a better Unicode font out there that has a wider range of ligatures?
+>
+> I prefer not to use Word, but in this case there is no choice...
+>
+> Thanks for any suggestions,
+> John
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200429/88f543c0/attachment.htm>
+

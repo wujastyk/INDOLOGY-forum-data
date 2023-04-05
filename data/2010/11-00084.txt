@@ -1,0 +1,27 @@
+From hellwig7 at GMX.DE  Thu Nov 25 22:06:32 2010
+From: hellwig7 at GMX.DE (Oliver Hellwig)
+Date: Thu, 25 Nov 10 22:06:32 +0000
+Subject: New version of DCS
+Message-ID: <161227090891.23782.11580196685394788801.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+a new version of the Digital Corpus of Sanskrit is available at
+http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/. The website now supports
+Devanagari output, which can be selected at the help center (follow the link
+"Help" and check Devanagari output). The Devanagari mode is marked by a
+(very) small green button just below the main menu.
+
+
+Best regards,
+Oliver Hellwig
+
+------------------
+PD Dr. Oliver Hellwig
+SAI, University of Heidelberg
+Im Neuenheimer Feld 330
+69120 Heidelberg, Germany
+
+
+
+

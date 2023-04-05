@@ -1,0 +1,75 @@
+From glhart at berkeley.edu  Sat Mar 14 03:47:31 2015
+From: glhart at berkeley.edu (George Hart)
+Date: Fri, 13 Mar 15 20:47:31 -0700
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
+In-Reply-To: <C9E741E6-59D7-4B3C-B599-8E7B582525F3@inria.fr>
+Message-ID: <E237BB15-03DC-489A-A495-DB426360998D@berkeley.edu>
+
+The implementation of Tamil on the Mac had several problems on Snow Leopard and Lion (as I remember).  These were fixed in Mavericks.  It is possible that the problem with Devanagari arises because people are not running the latest Mac OS.  George Hart
+  
+> On Mar 13, 2015, at 4:34 PM, G?rard Huet <gerard.huet at INRIA.FR> wrote:
+> 
+> I think Pr Hock is right, it is a platform problem.
+> 
+> The devanaagarii rendering of the OSX rendering engine is incorrect in the handling of halant in several corner cases.
+> For instance, the conjunct consonant cCr is incorrectly handled. You may check by this test <http://sanskrit.inria.fr/cgi-bin/SKT/sktgraph?lex=MW&st=t&us=f&cp=t&text=tacchrutvaa&t=VH&topic=&mode=g>. When you look at the source of the page, you see the UTF8 encoding of tacCrutvA as:
+> &#x0924;&#x091A;&#x094D;&#x091B;&#x094D;&#x0930;&#x0941;&#x0924;&#x094D;&#x0935;&#x093E;
+> corresponding to: tc,C,rut,v
+> noting "," for virama, and clearly the second virama is incorrectly handled.
+> 
+> I sent an anomaly report on this problem at the official Apple site [http://www.apple.com/fr/macosx/feedback/ <http://www.apple.com/fr/macosx/feedback/>] on January 28th 2007. It was never acknowledged nor fixed,
+> through the successive versions of OS X. The rendering of this example is wrong also on my iPhone. So it looks that they fixed Peter's bug but not mine on the iPhone OS?
+> 
+> GH
+> 
+> 
+> Le 13 mars 2015 ? 23:09, "Hock, Hans Henrich" <hhhock at illinois.edu <mailto:hhhock at illinois.edu>> a ?crit :
+> 
+>> Here is an almost immediate confirmation of my hunch that this is a platform issue. While the message showed the vir?ma on my iPhone, it does not do so on my MacBook Air. 
+>> 
+>> Go figure ?
+>> 
+>> Hans Henrich
+>> 
+>> 
+>> On 13 Mar 2015, at 13:34, Peter Scharf <scharfpm7 at gmail.com <mailto:scharfpm7 at gmail.com>> wrote:
+>> 
+>>> Dear indologists,
+>>> We noticed a quirk in the display of puur.n virAma (i.e. in the Sanskrit Library phonetic ascii encoding pUrR = KH pUrN) in Devanagari and wonder whether anyone has seen this display properly in a webpage with the proper characters.  Here is the Devanagari qwerty input:
+>>> 
+>>> ????? This is p U r f N
+>>> ?????? This is p U r f N f
+>>> 
+>>> As you can see they are identical.
+>>> 
+>>> ???????? This is p U r f N f f f
+>>> Finally the virAma displays, but it should not require three virama characters to do so.
+>>> Thanks for your help.
+>>> Yours,
+>>> Peter
+>>> 
+>>> *************************
+>>> Peter M. Scharf
+>>> scharfpm7 at gmail.com <mailto:scharfpm7 at gmail.com>
+>>> *************************
+>>> 
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>> http://listinfo.indology.info <http://listinfo.indology.info/>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> http://listinfo.indology.info
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150313/247efee0/attachment.htm>
+

@@ -1,0 +1,51 @@
+From stone_catend at COMPUSERVE.COM  Mon May  3 20:35:07 1999
+From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
+Date: Mon, 03 May 99 16:35:07 -0400
+Subject: Malayalam virama
+Message-ID: <161227048463.23782.17919919736483590659.generated@prod2.harmonylists.io>
+
+In connection with the development of an International Standard on Indic
+transliteration, there are some points about the Malayalam virama on which
+I should like to appeal to list members for help. 
+
+As I understand it, the Malayalam virama (which looks like a free-standing
+breve) has the  following special uses in writing Malayalam language, apart
+from its 'normal' use of removing the inherent vowel:
+
+it turns the preceding vowel into half-u in the situations (a), (b) -
+
+(a) final in a word, after the vowel 'u', always;   
+
+(b) final in a word, after the inherent 'a'; except as in (c), (d) -
+
+(c) if the word is a single consonant with its inherent vowel + virama,
+then the virama has its normal meaning; 
+
+(d) final ya+virama means y + "half-i" (in pronunciation).
+
+(e) medial ya + virama also means y + "half-i", equivalent to the old
+cillu-ya [pure consonant form of 'y'].
+
+Questions:
+
+(1) Is there any case where a single consonant with its inherent vowel +
+virama means the word formed of that consonant + half-u?
+
+(2) Is the half-u present in any other Dravidian language, where it is not
+distinguished in its usual script, but shown when the language is written
+in Malayalam script?       If so, which method is used to show half-u?
+
+(3) Are the cases (a) - (e) correct and exhaustive (taking into account
+both the old and new  styles of writing)?
+
+Many thanks,   Tony Stone
+
+Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
+Indic scripts.  
+Email: stone_catend at compuserve.com             Thinking aloud on
+transliteration:
+   http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
+
+
+
+

@@ -1,0 +1,39 @@
+From jage at loc.gov  Wed Jun 26 19:09:58 1996
+From: jage at loc.gov (James E. Agenbroad)
+Date: Wed, 26 Jun 96 15:09:58 -0400
+Subject: Conjuncts List Errors
+Message-ID: <161227025171.23782.14933111130433075775.generated@prod2.harmonylists.io>
+
+                                  Wednesday, JUne 26, 1996
+Indic Scripts Computerizers,
+     I'm sending this note to three lists (Indology, Unicode(tm) and
+ISO10646) as the surest way to reach most of the people who have
+copies of my list of Devanagari conjunct consonant combinations
+published in Bulletin 38 (1991) of the International Association of
+Orientalist Librarians (IAOL).  A careful reader has detected ten 
+errors.  Using the published item numbers the following are the
+correct versions.  Here I use a period before a letter for a dot
+before a letter and an apostrophe for a dot above a letter.  Except
+where given the original citations of sources are correct.
+     89. g+.na
+    250. .T+.ta
+    272. .TH+.tha  MWG
+    274. .TH+tha  ISO
+    353. T+ka+ra
+    460. D+v+r+ya
+    473. n+k+.sa
+    515. N+dh+r+ya
+    585. f+TA (i.e., ph+nukta+ta)
+          that should be lower case f+ta
+    706. r+'n+k+.s+ma
+
+     I regret any inconvienence this may have casued.
+     Regards,
+          JIm Agenbroad ( jage at LOC.gov )
+     The above are purely personal opinions, not necessarily the
+official views of any government or any agency of any.
+
+
+
+
+

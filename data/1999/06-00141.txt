@@ -1,0 +1,23 @@
+From yaap at XS4ALL.NL  Thu Jun 10 04:15:30 1999
+From: yaap at XS4ALL.NL (Jaap Pranger)
+Date: Thu, 10 Jun 99 06:15:30 +0200
+Subject: CSX+ fonts & cross-platform email exchange
+Message-ID: <161227050099.23782.6655743976153736049.generated@prod2.harmonylists.io>
+
+Windows and Mac versions of the CSX+ fonts seem to have
+identical encodings, in contrast to what is usual.
+
+Data based on CSX+ fonts, when exchanged across platforms
+through email, gets scrambled due to the usual automagical
+MIME re-encoding.
+
+Any workarounds for this problem?
+
+
+Jaap Pranger
+
+--
+
+
+
+

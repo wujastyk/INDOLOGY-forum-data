@@ -1,0 +1,48 @@
+From ucgadkw at UCL.AC.UK  Mon Apr  9 10:03:06 2007
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Mon, 09 Apr 07 11:03:06 +0100
+Subject: Squiggly Underline in Critical Editions
+In-Reply-To: <46180B0A.4070806@univie.ac.at>
+Message-ID: <161227079896.23782.18349420440300280911.generated@prod2.harmonylists.io>
+
+>> should underlines (squiggly or other) be considered characters at
+>> all?  I think of them as additional information added above the
+>> character level (e.g., by a Word processors underline function or
+>> an HTML tag).  As such, I am not convinced that they should be
+>> part of Unicode at all.  Also, if underlining is handled as a
+>> graphical device above the character level, then the problem that
+>> Dominik mentioned (oscilloscope effect) would not occur.
+
+It's a good point.  Thinking about document structure, i.e., XML tagging, 
+then what the text's editor wishes to express, the aakaankshaa, is that a 
+certain substring of the text has some particular feature.  The "right" 
+way to express this would be simply with begin-end tags:
+
+  Twas <DoubtfulReading>Brollig</DoubtfulReading>, and the slithy toves...
+
+or even
+
+   Twas Br<DoubtfulReading>o</DoubtfulReading>llig, and the slithy toves...
+
+Everything after this is a matter of mere implementation.  I don't think 
+there's any right or wrong at the implementation level, just efficiency or 
+the opposite.
+
+In my Metarules book, this is how the implementation worked.  I simply 
+marked up the pieces of text with begin/end tags.  (In my case, I was 
+marking wrong characters whose appearance could be explained by erroneous 
+transliteration from Sarada to Devanagari.)  It was TeX that "decided" to 
+implement the printed output by selecting a particular font.  It would 
+also be possible for TeX to do a standard wavy-underlining, just as 
+OpenOffice does.  It doesn't really matter how the document rendering 
+engine manages this.
+
+So I would agree that under-squiggle characters should not be part of a 
+Unicode character set.  But they can certainly be part of a font. 
+(Remember, Unicode does not define fonts, but character sets.)
+
+D
+
+
+
+

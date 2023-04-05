@@ -1,0 +1,31 @@
+From ami01 at rs1.rrz.Uni-Koeln.DE  Thu Jan  5 17:24:39 1995
+From: ami01 at rs1.rrz.Uni-Koeln.DE (Thomas Malten)
+Date: Thu, 05 Jan 95 18:24:39 +0100
+Subject: announcement of concordances of Tamil texts (correction)
+Message-ID: <161227018093.23782.13759818540919452209.generated@prod2.harmonylists.io>
+
+
+A mistake has crept into our earlier announcement of
+KWIC concordances of Classical Tamil Texts
+regarding the  address of our information server:
+
+for
+
+" gopher gopher at informatik.uni.koeln.de"
+         ^^^^^^^
+read
+
+"gopher informatik.uni-koeln.de"
+
+-Thomas Malten
+------------------------------------------------------------------------------
+Institute of Indology and Tamil Studies, Pohligstr.1, 50969 Koeln, Germany
+Tel 0221/4705340 Fax 0221/4705151 email ami01 at rrz.uni-koeln.de
+-------------------------------------------------------------------------------
+
+ 
+
+
+
+
+

@@ -1,0 +1,81 @@
+From magier at columbia.edu  Wed Feb  1 21:40:16 1995
+From: magier at columbia.edu (David Magier)
+Date: Wed, 01 Feb 95 16:40:16 -0500
+Subject: Taking proper care when in search of data
+Message-ID: <161227018362.23782.5888719909606554067.generated@prod2.harmonylists.io>
+
+> It is perhaps not altogether
+> unnecessary to mention here, for the benefit of everyone, that it is
+> EXTREMELY UNWISE to enter confidential data such as one's credit card
+> number on any form of electronic system, such as the internet.   There is
+> no way to control access to this information, and the possible  results are
+> not happy to contemplate.  We should all beware.
+
+I agree with Jonathan's note of caution, though I would mention that
+at this point in time many large corporations are already conducting
+literally millions of dollars in sales business on the internet in
+exactly this fashion, with, apparently, some degree of transaction
+security built in to their operations. I've personally done at least half
+of my Christmas gift shopping at various internet malls and shops (on
+the retail side), and the UNCOVER system is used as a commercial
+document delivery service by hundreds of libraries around the US,
+each of which has its patrons enter their credit card numbers to
+purchase full text copies of articles. I certainly don't want to be
+any sort of advertisement for UNCOVER, and I have always been cautious
+and skeptical of things like this. But I do note the large numbers of
+businesses (who must take care of security because they have so much
+more to lose) operating on the net on the one hand, and customers
+already using it this way on the other.
+David Magier
+ 
+
+Original-Received:  from ellis.uchicago.edu by 
+                   midway.uchicago.edu for indology at liverpool.ac.uk Wed, 1 Feb 
+                   95 17:01:54 CST
+PP-warning: Illegal Received field on preceding line
+Received: (selindqu at localhost) by ellis.uchicago.edu (8.6.9/8.6.4) id RAA27602 
+          for indology at liverpool.ac.uk; Wed, 1 Feb 1995 17:01:36 -0600
+Date: Wed, 1 Feb 95 17:01:35 CST
+From: steven edward lindquist <selindqu at midway.uchicago.edu>
+To: indology at liverpool.ac.uk
+Subject: Re: Taking proper care when in search of data...
+Message-Id: <CMM.0.90.4.791679695.selindqu at ellis.uchicago.edu>
+
+Both David and Jonathon have brought up the issue of security concerns and
+the Internet.  While not related to Indology, I would like to clarify some of
+these issues for the benefit of the group.  Having worked in computers and
+dealt with security concerns, I should tell you that *no* email is secure
+unless one bothers to encrypt it before sending it (which requires the person
+on the other end to be able to translate it).  Now, this is next to
+impossible (and extremely time-consuming) for someone to do.  If you are
+purchasing via the Internet, do not send sensitive information via email. 
+Companies (who know what they are doing) carry out sensitive transactions
+with either (a) encrypted mail or (b) have something like a WWW site setup
+the encrypts the information entered.  Entering info, in say a WWW site
+dialogue box, is somewhat more secure though it should be noted that a
+network specialist, if that person had evil intentions, could be watching you
+do it.  Companies  also have various other security precautions, which most
+Universities do not.  The rule of thumb about email is to treat it like it
+was post-card.  What you write, accept the fact that someone may see it.
+
+While "hacking" sensitive information from email is not *extrememly*
+difficult, it is also not very common at all.  I don't want to make you
+paranoid, just to make you aware.  I tend to send just about anything via
+email, except those things which could cause financial problems.  Think of it
+like your social security number... people could find out a lot of personal
+information from it, but what is the likelihood?
+
+-s
+
+---------
+Steven E. Lindquist
+Dept. of South Asian Lang. & Civ.
+University of Chicago
+selindqu at midway.uchicago.edu
+---------
+ 
+
+
+
+
+

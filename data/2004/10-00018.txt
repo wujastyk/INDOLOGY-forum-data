@@ -1,0 +1,79 @@
+From lmfosse at CHELLO.NO  Sun Oct 10 15:10:34 2004
+From: lmfosse at CHELLO.NO (Lars Martin Fosse)
+Date: Sun, 10 Oct 04 17:10:34 +0200
+Subject: SV: Question about writing Sanskrit without breaks between words
+In-Reply-To: <60D386B60521234BB917967801F3A30F01C24BB0@lsa-m4.lsa.adsroot.itcs.umich.edu>
+Message-ID: <161227075048.23782.3176498723038480307.generated@prod2.harmonylists.io>
+
+For Greek inscriptions, see the following web site:
+
+http://www.csad.ox.ac.uk/CSAD/Images.html
+
+For ancient Virgil manuscripts, see this web site:
+
+http://vergil.classics.upenn.edu/images/images.html
+
+As you will see, it is hard to see a space between any of the words. The
+same applies to ancient boustrophedon inscriptions. I can't vouch for
+Aramaic, but writing a text without separating the words is not something
+unique to Indic texts.
+
+Lars Martin
+
+ 
+
+From: 
+Dr.art. Lars Martin Fosse 
+Haugerudvn. 76, Leil. 114, 
+0674 Oslo - Norway 
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250 
+Mobile phone: +47 90 91 91 45 
+E-mail: lmfosse at chello.no 
+
+
+ 
+
+> -----Opprinnelig melding-----
+> Fra: Indology [mailto:INDOLOGY at liverpool.ac.uk] P? vegne av 
+> Madhav Deshpande
+> Sendt: 10. oktober 2004 15:54
+> Til: INDOLOGY at liverpool.ac.uk
+> Emne: Question about writing Sanskrit without breaks between words
+> 
+> Dear Colleagues,
+> 
+> 
+>   A question arose in one of my Sanskrit classes, and perhaps 
+> some of you may have some sugestions to shed light on it.  
+> The notion of putting gaps between the words of a Sanskrit 
+> text is pervasive in printed Sanskrit materials, but is 
+> rather non existent in Sanskrit manuscripts.  The printing 
+> technology, a colonial importation to the subcontinent, 
+> brought along with it English-based notions of putting gaps 
+> between the words in print.  Since the Sanskrit manuscripts 
+> are written without any such gaps, any attempt to break up a 
+> text into its constituent words provides only one possible 
+> way of reading the text.  Looking back at even the Ashokan 
+> inscriptions, the first readable texts in Indian history, one 
+> finds the same thing.  The lines of text run without any 
+> breaks between words.  Since the common scholarly view today 
+> is that the Brahmi and the Kharosthi scripts of Ashokan 
+> inscriptions were developed by modifying the Aramaic 
+> characters, the question that arises in my mind is whether 
+> the idea of running a text without word-breaks is also 
+> inherited from Aramaic writing.  It is also clear that the NW 
+> corner of the Indian subcontinent was familiar with greek 
+> writing (called the yavana script in Panini).  Was Greek 
+> written in those days without word-breaks?  So the question 
+> is whether the notion of writing a text without breaks in a 
+> continuous format is an importation from Greek or Aramaic 
+> ways, or, as is equally likely, simply a result of the 
+> notions of Sanskrit grammarians about Sandhis being a natural 
+> part of language.  Any suggestions?  Best,
+> 
+> 
+> Madhav Deshpande
+
+
+
+

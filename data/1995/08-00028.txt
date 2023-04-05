@@ -1,0 +1,42 @@
+From ucgadkw at ucl.ac.uk  Mon Aug  7 12:03:33 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Mon, 07 Aug 95 12:03:33 +0000
+Subject: Indology Web Page
+Message-ID: <161227020239.23782.8825348921793198957.generated@prod2.harmonylists.io>
+
+Mehta, Shailendra said:
+> Dominik,
+> 
+> Given the exponential rise in traffic on Indology, I was wondering if it were
+> possible to put together all the postings of a given week and to mail it in one
+> message to those individuals who wish to cut down on the mail volume ?
+
+This is one of the facilities already supported by the listserv software
+we use for INDOLOGY.  Send a message "help set" to
+"listserv at liverpool.ac.uk" and you will receive instructions about how
+to tell listserv to save up INDOLOGY messages and post them to you as a
+digest.
+
+I used to read INDOLOGY in this form myself for a while, and it is
+extremely convenient.  It makes INDOLOGY much less intrusive, and much
+more like a little magazine.  But I found the downside was that it was
+harder to respond to individual messages, since they are embedded in the
+single INDOLOGY "issue", and you have to copy, cut, paste, and whatnot,
+rather than just hitting the "r" key to reply to a particular point.
+Swings and roundabouts.
+
+> Alternatively, is it possible to post on a timely basis one single file WEB
+> serverfor each month's messages ? Either way, it would be a big help and would
+> allow interested souls like myself follow the discussions offline.
+
+Sorry, this is beyond my technical ability at the moment.  A good idea,
+though!
+
+Dominik
+
+ 
+
+
+
+
+

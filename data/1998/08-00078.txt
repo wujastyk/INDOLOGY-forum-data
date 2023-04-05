@@ -1,0 +1,53 @@
+From vsundaresan at HOTMAIL.COM  Thu Aug 27 09:05:21 1998
+From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
+Date: Thu, 27 Aug 98 02:05:21 -0700
+Subject: Implications of iti and ca.
+Message-ID: <161227041223.23782.1152578924081614894.generated@prod2.harmonylists.io>
+
+How final is the word "iti" in Indian philosophical writing, especially
+when the author is quoting earlier material? For example, take the two
+structures -
+
+1. SrUyate hi, "sentences a, b, c" iti | "sentence d" iti ca |
+2. "sentences a, b ..." iti | "sentences i, ii .." ityAdi SrutibhyaH |
+
+In case 1, does the first iti serve to completely exclude sentence d
+from the Sruti category represented by a, b and c? To my eyes, this
+seems not only correct, but also reinforced by the use of "iti ca," so
+that sentence d is set apart from a, b and c. Is this a valid reading?
+
+How about case 2? Is the set of sentences a, b etc. similarly demarcated
+from the set i, ii etc.? It seems to me that some of the sentences
+included under the set a, b etc. could be from Sruti. However, the
+author clearly considers every sentence in the set i, ii etc. to be
+Sruti, and seems to separate the two sets this way because the latter
+set validates the former set, which is part of his siddhAnta.
+
+This would have implications for whether a text which is the source of
+the quotation is to be considered as Sruti or not. One example over
+which there is such a controversy is the Agama-prakaraNa of the
+gauDapAda kArikAs.
+
+How about a more general case, where example 1 above is modified to read
+as follows?
+
+1A. uktam hi, "sentences a, b, c" iti | "sentence d" iti ca |
+
+The more general "uktam" in place of "SrUyate" seems to have suddenly
+removed the importance of attaching a sense of finality to the "iti".
+
+Or, should one expect all quotations between the "uktam" and the first
+"iti" to be from the same author/text? Does one have to supply an
+implicit "AcAryaiH" or something similar, to go with "uktam"? Then, is
+the sentence d again set apart by the use of "iti"?
+
+I would appreciate pointers from the Sanskrit experts on the list.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+
+

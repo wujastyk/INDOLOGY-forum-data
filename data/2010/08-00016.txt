@@ -1,0 +1,24 @@
+From phmaas at ARCOR.DE  Tue Aug 10 12:21:47 2010
+From: phmaas at ARCOR.DE (Philipp Maas)
+Date: Tue, 10 Aug 10 14:21:47 +0200
+Subject: Sorting Paragraphs
+Message-ID: <161227090119.23782.10084031536868170415.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+I am currently preparing a glossary of Sanskrit terms in transliteration,
+for which I would like to use a software that sorts paragraphs automatically
+in a sequence according to the Sanskrit alphabet. I am working with a
+Unicode font and a Windows operating system. The software (share- or freeware
+preferred) should be RTF compatible in order to preserve the font formats of
+the original file.
+
+Any suggestions?
+
+With many thanks in advance and best regards,
+
+Philipp Maas
+
+
+
+

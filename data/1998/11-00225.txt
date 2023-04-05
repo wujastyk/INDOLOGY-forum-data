@@ -1,0 +1,85 @@
+From mcv at WXS.NL  Tue Nov 10 08:59:37 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Tue, 10 Nov 98 08:59:37 +0000
+Subject: Paired Horse and PIE breakup
+In-Reply-To: <19981109223852.27382.qmail@hotmail.com>
+Message-ID: <161227042547.23782.10251015006492145928.generated@prod2.harmonylists.io>
+
+"N. Ganesan" <naga_ganesan at HOTMAIL.COM> wrote:
+
+>   The rate of language change in preliterate societies is
+>   usually high, rather than "extremely slowly".
+>   In subsaharan Africa, thousands of  nonliterary languages/dialects
+>   in the Bantu family exist because they did not develop writing.
+>   Writing definitely has a conservative effect.
+
+But only on the surface.  Underneath it, language keeps changing.
+Writing did not stop English from udergoing the Big Vowel Shift...
+Of course in those days, literacy figures were low.  I'm not sure
+what the effect is/will be on rate of language change of modern
+generalized literacy (in most parts of the world, anyway), but maybe
+because of TV linguists won't have to worry too much about that.
+
+The existence of a writing standard certainly does tend to exaggerate
+the "punctuated equilibrium" aspect of language change.  Look at
+Latin and the Romance languages.  For centuries, Classical Latin was
+the official language of the Roman Empire, and although one can see
+the language slowly developing during that time, the changes were
+relatively minor.  Even after the fall of the Roman Empire Latin
+remained in use unchanged as the written standard.  But when the
+first Romance texts appear in the period 900-1200, the changes [from
+Latin and between one Romance variety and another] are major and
+abrupt.  How much of this sudden change is apparent only, and how
+much of it is real?   Had the changes slowly accumulated, masked by
+the existence of a conservative writing standard for a thousand
+years, or did the rate of change really increase after the fall of
+the Roman Empire?  Probably both.  Language change isn't always
+gradual, but it isn't always as abrupt as the change from one writing
+standard to another appears to show.
+
+>   Could Hittite, being an IE language, innovated faster in a
+>   1000 years or so? Then a 3000-2500 B.C. PIE breakup from
+>   Pontic-Caspian would certainly become possible.
+
+Certainly.  [I think that Hittite is actually the more archaic
+language, and that it were the others that innovated].
+
+Still, the differences between Hittite/Anatolian and the other IE
+languages are very considerable.  Hittite shows no sign of feminine
+gender, only animate/inanimate, no dual, no special declension for
+the o-stems, a genitive that in Luwian is still adjectival in
+character, a simple dative/locative case in -i, an allative case in
+-a, an instrumental in -it, no special forms for the dat/loc., ins. &
+abl. cases in the plural (no sign of the *-bh- and *-m- suffixes we
+see elsewhere), a pronominal gentive in -l, a pronominal infix -eda-
+(vs. -sm- in Sanskrit and other lgs.), a simple verbal system with
+only present and past tenses, with no sign at all of aspect/tenses
+like the imperfect, aorist, perfect, pluperfect, future, or of moods
+like the optative and conjunctive.  No distinction between thematic
+and athematic conjugations, but instead a fundamental difference
+between active (-mi) and stative/deponent (-hi, -ha) verbs, mirroring
+the animate/inanimate distinction in the nominal system.
+
+Those are pretty big differences, and I find them almost impossible
+to reconcile with an IE breakup between 3000-2500, considering that
+we already have Hittite and Mycenaean Greek texts a millennium later,
+c. 1500 ~ 1000 BC (and that the Rgveda was probably composed
+somewhere in that same period).
+
+*Almost* impossible, of course.  Language change *is* unpredictable.
+But if you ask me for an estimate (give or take a thousand years) of
+how long Greek and Hittite had been diverging at the time of our
+first records (say 1500 BC), I have to say that 3 ~ 4000 years seems
+more likely than 1 ~ 2000 years.  I'd say the latter figure (1 ~ 2000
+years) fits the divergence between Mycenaean Greek and Vedic Sanskrit
+better.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

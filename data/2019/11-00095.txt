@@ -1,0 +1,82 @@
+From andrew.ollett at gmail.com  Fri Nov  8 20:19:46 2019
+From: andrew.ollett at gmail.com (Andrew Ollett)
+Date: Fri, 08 Nov 19 14:19:46 -0600
+Subject: [INDOLOGY] Script tables
+In-Reply-To: <0a350b3a-79bb-9485-580f-3b2910c56d5f@gmail.com>
+Message-ID: <CAANHO15p0uu4pBD8s-661Vc7T9syNMNVB_8Nde8tGAP1LV3s5A@mail.gmail.com>
+
+I want to thank everyone who responded to my query (Matthew Kapstein, Arlo
+Griffiths, Tyler Williams, Roland Steiner, Marco Franceschini, Stefan
+Baums, and Rolf Heinrich Koch) for the extremely valuable suggestions,
+which included a few tools, like Archetype, I hadn't known existed. I can
+also mention that, if you can't or don't want to use costly proprietary
+software, some of the preprocessing steps that Marco Franceschini described
+can be done in free and open-source tools like ImageMagick.
+
+On Sun, Nov 3, 2019 at 4:55 AM Rolf Heinrich Koch via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Matthew,
+> if you want to construct any script or devanagari *font *(eg .ttf) for
+> using in word documents:
+> Very important is to work with vector based images.
+> In the Nineties I produced some different styled Devanagari fonts with the
+> help of the Windows app TypeFoundry.
+> This app no longer exists. Today the app FontCreator is available, which
+> works similar.
+> You make a scan of the desired letters, import to FontCreator. There it
+> will be converted into a vector image.
+> Now you will be able to make minor changes to the letter. You can also
+> assign the letters to any keyboard key.
+> When you are finished the app will produce a .ttf font for the
+> windows/font folder.
+> Of course you can also use this font for a script table.
+>
+> Heiner
+>
+>
+> Am 03.11.2019 um 11:38 schrieb Roland Steiner via INDOLOGY:
+>
+> Dear Andrew,
+>
+> You could also contact Dragomir Dimitrov who produced several script
+> tables:
+>
+> -- The Bhaik?uk? Manuscript of the Candr?la?k?ra. Study, Script Tables,
+> and Facsimile Edition. By Dragomir Dimitrov. Cambridge, Mass., London:
+> Harvard University Press 2010 (Harvard Oriental Series. 729).
+>
+> -- "Tables of the Old Bengali Script (on the basis of a Nepalese
+> manuscript of Da??in's K?vy?dar?a), in: ?ikhisamuccaya?. Indian and Tibetan
+> Studies. Ed. by Dragomir Dimitrov, Ulrike Roesler and Roland Steiner. Wien:
+> Arbeitskreis f?r tibetische und buddhistische Studien, Universit?t Wien
+> 2002 (Wiener Studien zur Tibetologie und Buddhismuskunde. 53), pp. 27-78.
+>
+> Best,
+> Roland
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+> -- www.rolfheinrichkoch.wordpress.com
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191108/1fb0d353/attachment.htm>
+

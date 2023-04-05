@@ -1,0 +1,128 @@
+From matthew.scarborough at cantab.net  Fri Jul  3 15:59:34 2020
+From: matthew.scarborough at cantab.net (Matthew Scarborough)
+Date: Fri, 03 Jul 20 15:59:34 +0000
+Subject: [INDOLOGY] Online Indo-European Etymological Dictionary?
+In-Reply-To: <1f545447-ddef-d017-40cd-8eced0e839dc@uni-bonn.de>
+Message-ID: <c7a20423928ed23b293d7051366bef55@cantab.net>
+
+With respect, Pokorny's dictionary is notoriously out of date and should
+be used nowadays with only with extreme caution. The current standard
+references are unfortunately not online in digital form, although .pdfs
+of them exist online if you know - not wanting to openly advocate mass
+book piracy - what I will here euphemistically call the right places to
+look. 
+
+For verbs and verbal stems: 
+
+ 	* LIV: Rix, Helmut, Martin Joachim K?mmel, Thomas Zehnder, Reiner Lipp
+& Brigette Schirmer. 2001. _Lexikon der indogermanischen Verben: Die
+Wurzeln und ihre Prim?rstammbildungen (2e Aufl.)._ Wiesbaden: Reichert
+Verlag.
+
+A selection of roots that form nominal stems (not fully complete, but
+very comprehensive of the roots that it does cover): 
+
+ 	* NIL: Wodtko, Dagmar, Britta Irslinger & Carolin Schneider. 2008.
+_Nomina im Indogermanischen Lexikon_. Heidelberg: Winter Verlag.
+
+For pronouns and particles: 
+
+ 	* LIPP: Dunkel, George. 2014. _Lexikon der indogermanischen Partikeln
+und Pronominalst?mme. Band 1: Einleitung, Terminologie, Lautgesetze,
+Adverbialendungen, Nominalsuffixe, Anh?nge und Indices. Band 2:
+Lexikon_. Heidelberg: Universit?tsverlag Winter.
+
+Of course, as this is the Indology list, you may already know of
+Mayrhofer's dictionaries specifically for Vedic and Sanskrit (there are
+scans of these currently on archive.org,
+cf.https://archive.org/search.php?query=mayrhofer). 
+
+ 	* Mayrhofer, Manfred. 1992-2001. _Etymologisches W?rterbuch des
+Altindoarischen (3 vols.)_ Heidelberg: Carl Winter Universit?tsverlag.
+
+	* 
+
+Mayrhofer, Manfred. 1956-1980. _Kurzgefa?tes etymologisches W?rterbuch
+des Altindischen._ Heidelberg: Carl Winter Universit?tsverlag. 
+
+Finally, if you have institutional access, the dictionaries in Brill's
+Indo-European Etymological Dictionaries Series have online versions,
+although currently the series is currently limited to individual
+languages and branches and does not allow searching entries by root
+etymon. https://dictionaries.brillonline.com/iedo 
+
+For Middle and Modern Indo-Aryan to Sanskrit, I would echo Eric's
+previous suggestion of the digital version of Turner's _Comparative
+Dictionary of the Indo-Aryan Languages_ on UChicago's digital
+dictionaries of South Asia website.
+https://dsalsrv04.uchicago.edu/dictionaries/soas/ 
+
+I hesitate to add to all of this that over the last year or two I've
+been writing a series of blog posts on my own website aimed at general
+audiences outlining the main Indo-European etymological resources
+currently available, although I haven't gotten to the Indo-Aryan and
+Iranic language sub-families yet.
+https://consultingphilologist.wordpress.com/indo-european-etymological-dictionaries/.
+The  TL;DR version of the Indo-Aryan one would be, use the
+aforementioned dictionaries of Mayrhofer and Turner in conjunction with
+the most up-to-date root dictionaries of the LIV, NIL, and LIPP.
+
+Apologies for the length of this email and only being tangentially
+helpful with the requested 'online' Indo-European etymological
+dictionaries, but I felt I would be remiss to not point these resources
+out since while Pokorny's dictionary is readily available in many
+different online versions, it is no longer a reliable reference work. If
+you need help accessing the other more recent IE root dictionaries I've
+mentioned here, please do not hesitate to contact me off list. 
+
+All very best wishes, 
+
+Matthew
+
+---
+Dr M. J. C. Scarborough
+Research Associate in Indo-European Comparative Linguistics
+DLCE, Max Planck Institute for the Science of Human History
+
+Contract Lecturer (Classics)
+Department of the Humanities, MacEwan University
+
+?? ??????? ?????? ???? ???????? ??? ??????.
+- Socrates in Pl. Phae. 244a 
+
+On 2020-07-03 10:38, Peter Wyzlic via INDOLOGY wrote:
+
+> Am 03.07.2020 um 12:29 schrieb Dean Michael Anderson via INDOLOGY: 
+> 
+>> Is there an online Indo-European Etymological Dictionary? 
+>> 
+>> Thanks,
+> 
+> There is, e.g., an online version of Pokorny's dictionary: 
+> URL: <https://indo-european.info/pokorny-etymological-dictionary/index.htm>
+> 
+> Title of the print version: Indogermanisches etymologisches W?rterbuch / by Julius Pokorny (Bern et al., 1959-1969, in two volumes, the last edition known to me is the 4th edition, 2002).
+> 
+> Hope it helps
+> Peter Wyzlic
+> 
+> -- 
+> 
+> Universit?t Bonn
+> Institut f?r Orient- und Asienwissenschaften
+> Bibliothek
+> Br?hler Str. 7
+> D-53119 Bonn
+> Tel.: 0228/73-62436
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200703/cb125a44/attachment.htm>
+

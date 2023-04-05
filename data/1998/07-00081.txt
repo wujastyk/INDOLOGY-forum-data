@@ -1,0 +1,49 @@
+From Palaniappa at AOL.COM  Mon Jul  6 20:47:39 1998
+From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Mon, 06 Jul 98 16:47:39 -0400
+Subject: Fortunatov's Law and tolkAppiyar's rules
+Message-ID: <161227040620.23782.1946996272372085252.generated@prod2.harmonylists.io>
+
+In a message dated 98-07-06 12:50:43 EDT, vidynath at MATH.OHIO-STATE.EDU writes:
+
+<< I would disagree with this.
+
+ First of all, change of l occurs in other contexts as well:
+ kal vs ka_tka (_t = _r, the alveolar two-tap of modern school Tamil),
+ nuul vs nuu_tpaa, nuu_tpu (spinning) etc. This can be seen in Tamil
+ borrowings from Sanskrit: kalpanaa => ka_tpa_nai, alpa => a_tpam etc.
+
+ Secondly, in Tamil, l+t => _t_t, but Fortunatov's law says that
+ lt => .t, without compensatory lengthening of the previous vowel
+ (palta => pa.ta etc). It is this aspect that I find most mysterious
+ about this law. Most other changes seems to preserve heavyness of vowels. >>
+
+These objections are easily answered.
+
+To answer the second objection first:
+
+There is no need for doubling of _t or T all the time. In fact, I had shown
+examples where the doubling does not occur. They were:
+
+iyal + tEr > iya_tEr
+
+nAL + tO_tum > nATO_tum
+
+Moreover, from the point of view of pronunciation, Sanskrit intervocalic -T-
+is closer to Tamil -TT- than Tamil intervocalic -T- which is closer to
+Sanskrit -D-.
+
+As for the first objection, certainly l at the end of the first word
+(nilaimozi) may change into _t  (and L may change into T) when the second word
+(varumozi) begins with k, c, or p also. But there is an important difference
+between these consonants and t. k, c, and p remain as they are. But t changes
+either into _t or T. That is why tolkAppiyar gave special rules 1.150 and
+1.151 to deal with the dentals. So, there is a qualitative difference between
+other hard consonants and t in the beginning of the second word.
+
+Regards
+S. Palaniappan
+
+
+
+

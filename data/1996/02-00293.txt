@@ -1,0 +1,26 @@
+>?From P.Friedlander at wellcome.ac.uk 27 96 Feb EST 14:03:00
+Date: 27 Feb 96 14:03:00 EST
+From: P.Friedlander at wellcome.ac.uk
+Subject: re: UniCode
+Reply-To: P.Friedlander at wellcome.ac.uk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+I am wondering about using UniCode compliant software for 
+Hindi/Sanskrit/Panjabi.
+Does anyone have experience of using Gamma's UniType software for these 
+languages and if so what do they think of them. Or do you know of any othe 
+UniCode compliant software for these languages? All comments would be very 
+welcome.
+Dr Peter G. Friedlander
+Cataloguer of Hindi and Panjabi Manuscripts
+Wellcome Institute for the History of Medicine
+183 Euston Road
+London NW1 2BN
+England
+e-mail: P.Friedlander at wellcome.ac.uk
+
+
+
+
+

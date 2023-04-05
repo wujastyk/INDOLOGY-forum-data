@@ -1,0 +1,101 @@
+From A.Griffiths at LET.LEIDENUNIV.NL  Wed Jun 18 06:32:01 2003
+From: A.Griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
+Date: Wed, 18 Jun 03 08:32:01 +0200
+Subject: Vedic accent marks and anusvaras
+In-Reply-To: <20030617213225.GA777@deepthought>
+Message-ID: <161227072907.23782.9110270726448640281.generated@prod2.harmonylists.io>
+
+Here are a few references for a start:
+
+[on various aspects of accents etc. in ;Saaradaa]
+von Schroeder, Leopold
+1892. Die Kaa.thaka-Handschrift des Dayaaraam Jotsii in ;Sriinagar und ihre
+Accente. In: ZDMG 46, 427--431.
+1896. Zwei neuerworbene Handschriften der k. k. Hofbibliothek in Wien mit
+Fragmeneten des Kaa.thaka. Sitzungsberichte der philosophisch-historischen
+Classe der kaiserlichen Akademie der Wissenschaften (Wien). 133:11
+1898. Die T?binger Ka.tha-Handschriften und ihre Beziehung zum
+Taittiriiya-Aara.nyaka. Sitzungsberichte der philosophisch-historischen
+Classe der kaiserlichen Akademie der Wissenschaften (Wien). 137:4.
+
+[on other systems]
+Witzel, Michael
+1974. On Some Unknown Systems of Marking the Vedic Accent. In:
+Vishveshvaranand Indological Journal [Vishva Bandhu Commemoration Volume]
+12, 472--502.
+1983. Anunaasika in Medieval Veda tradition. In: IIJ 25, 180.
+
+The only regional tradition that I can say anything about is Orissa.
+    White YV: According to Caland, 1926--1939. The ;Satapatha-Braahma.na in
+the Kaa.nviiya Recension. Lahore. [reprint: Delhi 1983.], p. 23, the one
+Oriya ms. of the ;SBK used by him was unaccented (the new edition by
+Swaninathan does not seem to use Orissa mss. at all). If my impression is
+not incorrect, B.R. Sharma has not himself seen any mss. from Orissa for his
+edition of the Kaa.nva-Sa.mhitaa: 1988--99. Kaa.nva Sa.mhitaa with the
+Padapaa.tha and the Commentaries of Saaya.naacaarya and Aanandabodha. 4
+vols. Pune: VSM. See pp. IIIf., VII--IX, XIV--XVI of vol. I. I have no idea
+whether accented mss. of the WYV exits in Orissa. I believe no information
+on this is provided in the available catalogs of the Orissa State Museum and
+the Parija library of Utkal Univ.
+    SV: (numerically) accented sa.mhitaa mss. exist (samples available on
+photographs in my possession).
+    RV: no information available to me.
+    AV: no mss. of the Paippalaada Sa.mhitaa are accented, though the
+;Saaradaa ms. from Kashmir does show a very few accented portions (according
+to the Ka.tha system).
+
+As to anunaasikas in Oriya script: 'regular' anunaasikas (roughly V shaped
+element with dot in it) with dot have been seen by me in the one
+Pa;ncavi.m;sa Braahma.na ms. that is in possession of the Orissa State
+Museum (photographed by me). The Paippalaada Sa.mhitaa mss. do not use this
+sign, but occasionally have -:n. (i.e. velar nasal plus viraama) for
+anunaasika (see Witzel 1983 --- the information there given that the same
+writing habit is found in the Kashmir ;Saaradaa ms. of PS is to my knowledge
+incorrect).
+
+Arlo Griffiths
+
+
+
+
+
+
+> From: Stefan Baums <baums at U.WASHINGTON.EDU>
+> Reply-To: Indology <INDOLOGY at liverpool.ac.uk>
+> Date: Tue, 17 Jun 2003 14:32:25 -0700
+> To: INDOLOGY at liverpool.ac.uk
+> Subject: Vedic accent marks and anusvaras
+> 
+> Dear Vedicists,
+> 
+> is there a recent source of comprehensive information on Vedic
+> accent marking systems (i.e., apart from the familiar Rgvedic
+> one), and on the apparently wide array of different anusvara signs
+> that seem to be used in Yajurveda texts?  With the former at
+> least, appendix III of Macdonell's Vedic Grammar for Students
+> helps, and so does Altindische Grammatik I pp. 281ff. and
+> references, but surely something must have been published since.
+> 
+> I am also trying to get an overview of the manuscript tradition of
+> accented Vedic texts, particularly whether any of them are
+> preserved in what can be considered non-modern (= not modern
+> Indian "national") scripts, apart from Sarada.
+> 
+> Finally, I would like to refer to Annex G of Indian Standard
+> 13194:1991 (= ISCII-91), "Extended character set for Vedic."
+> Annex G has been omitted from the version that was available on
+> the Internet for a while, and the authoritative printed standard
+> (issued by the Bureau of Indian Standards) seems to be unavailable
+> here.  Is it possible that some Indology member has a copy?
+> 
+> Many thanks in advance,
+> Stefan Baums
+> 
+> --
+> Stefan Baums
+> Asian Languages and Literature
+> University of Washington
+
+
+
+

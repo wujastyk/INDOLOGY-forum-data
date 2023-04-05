@@ -1,0 +1,92 @@
+From sibal at lily.ho.att.com  Tue Dec 17 20:41:25 1996
+From: sibal at lily.ho.att.com (sibal at lily.ho.att.com)
+Date: Tue, 17 Dec 96 15:41:25 -0500
+Subject: Transliteration schemes - minimizing ambiguity
+Message-ID: <161227027658.23782.7249227546272851504.generated@prod2.harmonylists.io>
+
+
+This is an issue I would like to raise with respect to 
+designing transliteration schemes. I have very recently
+joined this list, so if this is a thread that has been
+covered before do let me know.
+
+I would suspect that most transliteration schemes often
+use sequences of (7-bit) ASCII characters to represent a 
+character in the native language. In general, this could 
+lead to ambiguities of representation if the sequence of
+ASCII characters can be broken into subsequences of
+ASCII characters - where each subsequence is also a
+representation of a character in the native language.
+
+More generally, ambiguities result if any substring 
+in a word of transliterated text can be generated
+from more than one sequence of characters in the 
+native language.
+
+Ambiguities are most problematic for the reader, but
+can also strain machine reverse transliterators, making the code
+bulky and slow. Indeed, it is the latter problem, that got
+me thinking on this issue...
+
+In ITRANS (a transliteration scheme for Indian languages 
+devised by Avinash Chopde), for example, such confusions 
+are often resolved by introducing explicit break characters. 
+
+While transliteration schemes are driven by other objectives,
+such as phonetic goodness of fit, there are still several
+degrees of freedom, and choices are made, but in what looks
+like a heuristic fashion. For example, Velthuis' scheme, 
+ITRANS, and GTRANS (transliteration schemes for Indian Languages)
+all appear to have a tacit objective of minimizing ambiguities.
+
+My question is whether this objective can be formalized to yield
+a solid design technique? Mathematical machinery (perhaps using 
+abstract algebra), could be used to find the best transliteration
+scheme (or at least provide hints and suggest properties of a good
+transliteration scheme). Degrees of freedom in representing a 
+character, classes of policies, etc.,  can be engineered into 
+the model as constraints, and the best scheme(s) that minimizes 
+or eliminates ambiguities could be found.
+
+
+Such an approach could also yield all possible ambiguities for a
+given transliteration scheme succinctly, which could be used as
+as a sanity check before it is formally standardized. It could 
+also provide a "correctness proof" of the transliteration scheme; 
+i.e., make sure that all ambiguities are "taken care of".
+
+If there is any such work out there, I would like to know about
+it. We are planning on designing a generalized transliteration
+tool in Java/script for Indian languages, that accepts multiple 
+transliteration schemes and reverse transliterates them to ISCII -
+a character encoding standard for Indian language documents.
+[These are further used to "automatically" generate glyph codes
+for various fonts, so they can be viewed in their native script.]
+Since many folks have their own schemes, a utility that takes
+an ISCII document and transliterates it back to a user-specified
+transliteration scheme s/he is comfortable with, will also aid a 
+community of users that use different transliteration standards. 
+(The nice thing about stds is that there are so many of them :-)
+Designing such tools is greatly simplified if transliteration 
+schemes are not "ambiguous".
+
+Of course, it is possible that this formal approach to designing
+transliteration schemes doesnt get one very far. Perhaps the 
+problem is too unstructured to make it amenable to any sort of 
+useful analysis, or the fruits of labor are few... 
+I dont know yet... does anyone out there?
+
+Sandeep.
+
+--
+Sandeep Sibal
+AT&T Laboratories
+Phone: (908) 949-6277
+Email: sibal at att.com
+WWW: http://weed.arch.com.inter.net/~sibal/
+
+
+
+
+
+

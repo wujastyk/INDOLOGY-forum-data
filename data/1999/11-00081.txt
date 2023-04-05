@@ -1,0 +1,58 @@
+From Palaniappa at AOL.COM  Sun Nov  7 09:49:13 1999
+From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Sun, 07 Nov 99 04:49:13 -0500
+Subject: Tamil Studies
+Message-ID: <161227053343.23782.7992259244460666107.generated@prod2.harmonylists.io>
+
+In a message dated 11/6/99 6:19:55 PM Central Standard Time,
+s.hodge at PADMACHOLING.FREESERVE.CO.UK writes:
+
+> Just one more enquiry.  Does anybody know of a Tamil-Sanskrit or
+>  (better) Sanskrit-Tamil dictionary.  My assumption is that if any such
+>  work exists it would be pre-modern.
+
+
+The Madras University Tamil Lexicon might be of use to you. The lexicon was
+prepared when Tamil scholarly establishment was highly Sanskritic in its
+outlook (1930s) . As a result, for any Tamil word, if a Sanskrit word could
+be thought of as even remotely similar phonologically, they made sure they
+listed it at least with a question mark. Since the lexicon has English
+transliterations for all Tamil entries and their assumed source words,  it
+should be convenient for you to use with the standard transliteration key. As
+a preliminary guide to go from Sanskrit to Tamil, one has to remember that in
+Tamil k stands for Sanskrit k, kh, g, and gh. Similarly for c, T, t, and p.
+Letters such as r, l will not occur in the word-initial positions. Their
+Tamil equivalents will begin with a prothetic vowel -- a, i, or u. S- > c- .
+-j- or -s- or -S- > -c- or -y-.  There are other transformation rules also.
+Often, there is no one-to-one mapping. For instance, b- > v- or sometimes p-.
+(Others may be able to suggest references on loan phonology.) You may be
+familiar with many consonant cluster simplification rules to go from Sanskrit
+to Prakrit and you can use them to generate possible Tamil forms and see if
+they can be located in the Tamil lexicon. Parpola has noted in his 1983
+article, "The Pre-Vedic Background of the Zrauta Rituals" in "Agni", "The
+most characteristic feature of the Prakrit languages in comparison with
+Sanskrit is the simplification of the consonant clusters through
+assimilation, anaptyxis, and  similar processes. This seems to be mainly due
+to the adaptation of Indo-Aryan to the Dravidian pattern of their mother
+tongue by the first bilingual generations who initiated the Aryanization of
+Dravidian North India. Dravidian has originally no initial consonant clusters
+and in the middle of the word only double consonants and clusters of
+homorgonic nasal+voiceless stop (Zvelebil 1970, 76f.) The phenomenon is
+paralleled by the changes of Sanskrit loanwords in Tamil, which has preserved
+the proto-Dravidian phonology very faithfully (e.g. Tamil tottiram<sic>:
+Sanskrit stotram)." Actually Ta. tOttiram < Skt. stotra. You can find this in
+the Tamil lexicon entry for tOttiram.
+
+The following may also be of interest to you.
+
+Yaska's Nirukta and Nighantu with transliteration and translation into Tamil.
+Preface in English.
+
+by Ramanujatatacarya, Agnihotram.
+
+Regards
+S. Palaniappan
+
+
+
+

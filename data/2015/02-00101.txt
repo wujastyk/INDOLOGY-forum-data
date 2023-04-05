@@ -1,0 +1,165 @@
+From dermot at grevatt.force9.co.uk  Thu Feb 12 14:28:42 2015
+From: dermot at grevatt.force9.co.uk (dermot at grevatt.force9.co.uk)
+Date: Thu, 12 Feb 15 14:28:42 +0000
+Subject: [INDOLOGY] Examples of very ambiguous devanagari Sanskrit	sentences
+In-Reply-To: <0A2A111C-3B8A-4D46-9422-5A0A9D2286B0@verizon.net>
+Message-ID: <54DCB89A.17703.12BC7A7@dermot.grevatt.force9.co.uk>
+
+Dear Elliot,
+
+Thank you for your comments. Thanks also to Camillo Formigatti for his precise (though 
+necessarily incomplete) observations on indications of word division in manuscript practice.
+
+As you point out, I was wrong to say that    /  fulfils the requirement (Harry Spiers's, 
+not mine) of a sentence that is ambiguous in devanagari but not in roman. 
+
+With best wishes,
+
+Dermot
+,
+On 10 Feb 2015 at 15:02, Elliot Stern wrote:
+
+Dear Dermot,
+
+You are of course right that my response was not on target. Some of the earlier responses 
+led me away from the specific focus of your question.
+
+I don't see, however, that Martin Gansten's response met your requirement:
+
+sa mene na and sam enena are distinct in the usual roman transcription, but they are also 
+distinct in the usual printed devanagari:
+
+
+   
+
+In case your system doesn't read this devanagari, here is the same as transcribed into 
+roman:
+
+sa mene na samenena
+
+Cheers!
+
+Elliot
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+United States of America
+telephone: 215-747-6204
+mobile: 267-240-8418
+emstern at verizon.net
+
+
+    On 09 Feb 2015, at 09:34, dermot at grevatt.force9.co.uk wrote:
+
+    Dear Elliott,
+    
+    Thank you for your contribution below. But that example (?sveto) is ambiguous whether 
+    you
+    write it in roman or devanagari. The original request was for sentences that are 
+    ambiguous in
+    devanagari but not in roman. Martin Gansten's example from BU 4.3.1, sa mene na / 
+    sam
+    enena, fulfils the requirement, because the space between sa and mene can be written 
+    in
+    roman though not in devanagari. But Matthew Kapstein's example ekonAviMzati / eko 
+    nA
+    viMzati doesn't fulfil the requirement, because the spaces can be written in devanagari 
+    as
+    well as in roman.
+    
+    I notice that you follow the practice of only writing spaces in roman where they are 
+    possible in
+    devanagari, e.g. dhavatityekasmadeva rather than dhavatity ekasmad eva. As far as I 
+    know
+    this is a fairly recent practice; the older practice is to write spaces in roman where they 
+    are
+    possible--that is, wherever a letter doesn't belong to two words because of sandhi. I 
+    have
+    sometimes been rebuked for following this practice, on the grounds that I should 
+    transcribe
+    the devanagari exactly. But the practice of writing spaces in devanagari is itself 
+    relatively
+    recent. I haven't any firm evidence, but I understand it came in with printing, around 
+    1800. So
+    the demand to write spaces in roman only where they would be written in devanagari is 
+    not
+    supported by ancient tradition. The rule for both is the same: write spaces where you 
+    can.
+    
+    This means that in devanagari, though less often than in roman, editors of texts make
+    judgments which guide the reader to one or other way of understanding the utterance: 
+    e.g. sa
+    mene na or sam enena in BU 4.3.1. This is not a matter of variants in the text itself, but 
+    only
+    two ways of interpreting it, since the text is neither of the above, but only samenena.
+    
+    If anyone can help with more precise observations, I'd be grateful.
+    
+    Dermot Killingley
+    
+    On 8 Feb 2015 at 16:40, Elliot Stern wrote:
+    
+    Here's an example as explained in nyayakaika:
+    
+    yatha ?sveto dhavatityekasmadeva vakyadarthadvayamavagamyate ?suklo nirektiti ca
+    kauleyaka ito druta gacchatiti ca
+    
+    
+    
+    Elliot M. Stern
+    552 South 48th Street
+    Philadelphia, PA 19143-2029
+    United States of America
+    telephone: 215-747-6204
+    mobile: 267-240-8418
+    emstern at verizon.net
+    
+    
+    On 08 Feb 2015, at 15:25, Matthew Kapstein <mkapstei at uchicago.edu> wrote:
+    
+    well, there's always the famous prahelikaa verse:
+    ekona vi?sati stria snanartha sarayu gata | vi?sati pratiyata ca eko
+    vyaghrea bhakita
+    
+    where it all changes if you read:
+    eko na
+    
+    Matthew
+    
+    Matthew Kapstein
+    Directeur d'?tudes,
+    Ecole Pratique des Hautes Etudes
+    
+    Numata Visiting Professor of Buddhist Studies,
+    The University of Chicago
+    
+    
+    _______________________________________________
+    INDOLOGY mailing list
+    INDOLOGY at list.indology.info
+    http://listinfo.indology.info
+    
+    
+    --
+    Dermot Killingley
+    9, Rectory Drive,
+    Gosforth,
+    Newcastle upon Tyne NE3 1XT
+    Phone (0191) 285 8053
+
+
+
+-- 
+Dermot Killingley
+9, Rectory Drive,
+Gosforth,
+Newcastle upon Tyne NE3 1XT
+Phone (0191) 285 8053
+
+
+
+
+
+

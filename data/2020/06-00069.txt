@@ -1,0 +1,282 @@
+From christophe.vielle at uclouvain.be  Thu Jun 11 11:57:20 2020
+From: christophe.vielle at uclouvain.be (Christophe Vielle)
+Date: Thu, 11 Jun 20 13:57:20 +0200
+Subject: [INDOLOGY] Fwd:  once again, a scan? + QJMS listing + Question DLI mirrors
+In-Reply-To: <FB102E3F-28AA-4ACE-B336-BFFE6CD094D2@uclouvain.be>
+Message-ID: <109FA2DE-D7FF-4ADC-935B-5B12ABEC342A@uclouvain.be>
+
+Curiously, the DLI mirror at https://dli.sanskritdictionary.com <https://dli.sanskritdictionary.com/>
+has sometimes more than through the DLI on Archiv.
+
+Taking the DLI url given by the "Sanskrit Dictionary" DLI mirror, and trying to use it on Archiv, it sometimes does not work, example:
+QJMS 3, 1912-13
+https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQETnJBQjF1dWI1aTQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQETnJBQjF1dWI1aTQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670181027&sdata=B%2Bd%2BJaC59SXRN3V%2FES%2BMUycVwhZNVffmQSlhUa3uZEg%3D&reserved=0>
+where original DLI (identifier) url is given as:
+
+http://www.new.dli.ernet.in/handle/2015/280678
+However, 
+
+https://archive.org/details/in.ernet.dli.2015/280678 <https://archive.org/details/in.ernet.dli.2015/280678>
+
+will give something strange:
+
+in.ernet.dli.2015
+by Huxley Aldous <https://archive.org/search.php?query=creator%3A%22Huxley+Aldous%22>
+
+Is there an explanation?
+
+Christophe
+
+> D?but du message r?exp?di? :
+> 
+> De: Christophe Vielle via INDOLOGY <indology at list.indology.info>
+> Objet: R?p : [INDOLOGY] once again, a scan? + QJMS listing
+> Date: 11 juin 2020 ? 13:36:56 UTC+2
+> ?: Jonathan Silk <kauzeya at gmail.com>
+> Cc: Indology List <indology at list.indology.info>
+> R?pondre ?: Christophe Vielle <christophe.vielle at uclouvain.be>
+> 
+> Dear Jonathan,
+> 
+> it happens that I just checked the availability of the QJMS online (see listing below), and I think that you can find more of the English version of Lac?te's work, see:
+> 
+> vol. 5, 1914-15
+> https://archive.org/details/in.ernet.dli.2015.56096/page/n173/mode/2up <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56096%2Fpage%2Fn173%2Fmode%2F2up&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670111070&sdata=11dmexFE17KU2AmnUGrBNG7tPv8i6JD7O%2F%2F5uPm%2BdK0%3D&reserved=0>
+> [p. 164-205] = ? p. 51-92
+> 
+> vol. 13, 1922-23
+> https://archive.org/details/in.ernet.dli.2015.367510/page/n377/mode/2up <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367510%2Fpage%2Fn377%2Fmode%2F2up&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670121063&sdata=8ZNVeEvDY3%2FxG6N3opoQ5ggWEvXiNYMRfNnX49QTSYo%3D&reserved=0>
+> = p. 93-148
+> 
+> vol. 14, 1923-24
+> https://archive.org/details/in.ernet.dli.2015.56105/page/n371/mode/2up <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56105%2Fpage%2Fn371%2Fmode%2F2up&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670121063&sdata=zOywM0APoxmjri4YIlTyqiFT1BtP2lQFSjIfOKgnRBg%3D&reserved=0>
+> = p. 149-228
+> 
+> Unfortunately, vol. 4, 1913-14 which should have the first 50 pages is missing
+> 
+> BW
+> Christophe
+> 
+> Quarterly Journal of the Mythic Society
+> 
+> 1, 1909-10
+> 
+> https://archive.org/details/in.ernet.dli.2015.202552 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.202552&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670131057&sdata=Q5D%2BvAEjhZnHaFhrSz4X6rwP4ZpISQ4aY7ZTNdhaieM%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.283650 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.283650&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670131057&sdata=qQUs0ywzZ%2FaiYhX4AaCHA8szbApLZW9fQC7SdsFOLLI%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQESGR5YWFwdjFmRVk <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQESGR5YWFwdjFmRVk&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670141051&sdata=jJ7ee%2FMpfXoS2VHrDGHvZ3Oqs%2FtIxmMvnn7JDjU2f80%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEX2dzWWF4S1VGWFE <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEX2dzWWF4S1VGWFE&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670141051&sdata=QNC66vph%2Fsn9xbTr%2Brf%2BX1jiDKiUSh1OCMS41Vb3t2Y%3D&reserved=0>
+> 1 (2-4), 1910
+> 
+> https://archive.org/details/in.ernet.dli.2015.534115 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.534115&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670141051&sdata=mU8vaWlPnUY%2BhwBzGqIMugTcuWmwsGZ9gNrdVvoBqj4%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQESFZldEk1ajA2bzA <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQESFZldEk1ajA2bzA&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670151045&sdata=vzvzq42FjikB36BxMcTOCH%2FF7%2BrZb0%2FP2ANWe%2B7SXfA%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEOEVxdVd6RVJXaWM <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEOEVxdVd6RVJXaWM&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670151045&sdata=OsijPQBAYiTGUd9137tmIKN5zJdhT%2FEREyYDUpOmfpQ%3D&reserved=0>
+> 2, 1910-11
+> 
+> https://archive.org/details/in.ernet.dli.2015.283652 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.283652&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670161041&sdata=nszAjsU1HpZnO5DKi1ZpWbQt4KGjrSB6Im2iehmciYY%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.56095 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56095&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670161041&sdata=pjTNxHpQF%2FA4Hn2rqCDpIctvrL%2BvbD0%2F768QGC1%2Faxo%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.44461 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.44461&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670171035&sdata=TVVPrSatEEbC987YD91GS6sIXCetiqq1nPsWrMFbSlU%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEclVLOU5sM011TGM <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEclVLOU5sM011TGM&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670171035&sdata=9zx24kSI6KP9RwK%2BNeUvhHKtx9BlazMsM7lk9hXKjdw%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEbk1PUEJYSk8xcTQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEbk1PUEJYSk8xcTQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670181027&sdata=CDeJs0ygcfp0CizZAdsvUSGmvYoSxYHCW9Tif6OLIj0%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEdXluQ0FabWRuNk0 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEdXluQ0FabWRuNk0&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670181027&sdata=3ea4dVKP%2BEx2mfhUBpjIrjTsZQeF%2B6rhCjW18%2B0WOD4%3D&reserved=0>
+> 3, 1912-13
+> 
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQETnJBQjF1dWI1aTQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQETnJBQjF1dWI1aTQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670181027&sdata=B%2Bd%2BJaC59SXRN3V%2FES%2BMUycVwhZNVffmQSlhUa3uZEg%3D&reserved=0>
+> 4, 1913-14
+> 
+>  
+> 5, 1914-15
+> 
+> https://archive.org/details/in.ernet.dli.2015.56096 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56096&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670191023&sdata=7V5WB0X30qPGpRj%2FGgib0yr4ZQIGR7DnGUCpPz2uACw%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEZ3NvZUg5MVpxQTg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEZ3NvZUg5MVpxQTg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670191023&sdata=PMtW8XDr9BW7JYCqxcHlcDzKvTr9XDVr%2Fs61YkYb9RM%3D&reserved=0>
+> 6, 1915-16
+> 
+> https://archive.org/details/in.ernet.dli.2015.56097 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56097&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670201017&sdata=%2BVhAkWfW25Ya%2ByRPhcQPkNib1h5l1N3BkFdGz3PDM6g%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEdkMxRnhwQ0FTbDA <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEdkMxRnhwQ0FTbDA&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670201017&sdata=X0FXtXuniRonhoIvJpP7BaUPlbN3iAKx6RU1dlnHe3E%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEbHFNeUtfNWlJbjA <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEbHFNeUtfNWlJbjA&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670211010&sdata=YyDXzJ%2BqDCglrFFe5EjiKvA9m1kJR7Y6EJPnZmaMa%2FE%3D&reserved=0>
+> 7, 1916-17
+> 
+> https://archive.org/details/in.ernet.dli.2015.56098 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56098&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670211010&sdata=7Ih7RKj%2BI6WQMo6xN0r%2BXK1qsgkXofgMi7iHyXtom7o%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.92871 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.92871&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670221010&sdata=fD0R0K%2Bf3DyfVbTGOhe8jSNlJCYnZSdpxGVgY7fdSak%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEN1I3czU2VW1oNGs <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEN1I3czU2VW1oNGs&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670221010&sdata=waxRUcnya0ICD2A1xuDp4umAe7MZKvQ%2Fzeu1iQhs%2B54%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEVkFSLThqc3JxaFU <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEVkFSLThqc3JxaFU&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670231003&sdata=FWffEir2QQcp6VPzIGN3ij2uCRXv5Gb8Fv4T7FbfSeM%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEZ0lLcjBCZnlKSDg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEZ0lLcjBCZnlKSDg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670231003&sdata=fEVdd%2BuyumOQtUb9D9eBPP%2BliWzUXpPmDehYW%2ByKJWI%3D&reserved=0>
+> 8, 1917-18
+> 
+> https://archive.org/details/in.ernet.dli.2015.56099 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56099&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670240993&sdata=DdEf4YNyZkfhqEwGs41ibD%2F4%2BQlQXvip0LVJ6BzhcIY%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEUl84bWVFdExmSkU <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEUl84bWVFdExmSkU&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670240993&sdata=jiEChk%2F663951BTake8Y1ZKms8V0ll55m4oIuLeuiQ4%3D&reserved=0>
+> 9, 1918-19
+> 
+> https://archive.org/details/in.ernet.dli.2015.56100 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56100&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670240993&sdata=NPL0IKhmDKR9Lj%2F%2BPGqYxw8lJWBE4TNYp09qw5Ihd%2FM%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEX1BxTVVWb0cxb28 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEX1BxTVVWb0cxb28&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670250986&sdata=7fsYnc5hTNPqN0eEFEeL9FQmghZay2PMB3dMdtLBsyU%3D&reserved=0>
+> 10, 1919-20
+> 
+> https://archive.org/details/in.ernet.dli.2015.56102 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56102&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670250986&sdata=OnwAtZVFgxj2BV%2Fev%2BdpL49%2F82vo0r78ZH2k6G6HudY%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQESXJhSWtXTHljWWc <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQESXJhSWtXTHljWWc&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670260982&sdata=1eAZNEmclgxRAhXM6ghNUdKEg9175E%2FvNqqYSkQAjUY%3D&reserved=0>
+> 11, 1920-21
+> 
+> https://archive.org/details/in.ernet.dli.2015.56103 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56103&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670260982&sdata=ARWzvx8qfwgamvPEtHa29nA1CMJ7mZX%2FSz6fj9aawX8%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEbnh1c0dRcU1Ec1k <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEbnh1c0dRcU1Ec1k&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670270977&sdata=yc0WtA%2B6ZgwKDHStZ0tleKmmy%2BZ%2BIvhU%2FhDmJX8kH7o%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEX3FjS0Q4aE9qOU0 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEX3FjS0Q4aE9qOU0&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670270977&sdata=JywUbMsu2MfNgR%2FVygGbOu47N%2FSn9PBlPJqDrrCLb3k%3D&reserved=0>
+> 12, 1921-22
+> 
+> https://archive.org/details/TheQuarterlyJournalOfTheMythicSociety_201512 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2FTheQuarterlyJournalOfTheMythicSociety_201512&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670270977&sdata=HQ5gA%2B1DBRICZQudlG3gwBnX4ah4nqjte3FEb6CLVn8%3D&reserved=0>
+> 13, 1922-23
+> 
+> https://archive.org/details/in.ernet.dli.2015.367510 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367510&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670280971&sdata=oSpHQLJcNCu89ZoZhS%2FD4b1PU0BTSGmGgbZ5c4FkTkQ%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.56104 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56104&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670280971&sdata=8YLYiwHcInvlT51aHd5woUbg8j7OhP93e22HONv7qz0%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQER0xQNlQ4R0Ruam8 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQER0xQNlQ4R0Ruam8&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670290969&sdata=HqNBaVcX3V5WgWx8jJTLcGQfZxYdK%2FRDsYNcpArMcWg%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQENGduamlLSHctdU0 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQENGduamlLSHctdU0&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670290969&sdata=hGvaA16bdOjY5ra4%2FxB9ONETYj7LF%2FB43GUwGr%2BCJEw%3D&reserved=0>
+> 14, 1923-24
+> 
+> https://archive.org/details/in.ernet.dli.2015.56105 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56105&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670300956&sdata=9eGhDchFeWq68xgLueHoev2uD2H7WI5ZiHqeCqrDrlg%3D&reserved=0>
+> 15,1924-25
+> 
+> https://archive.org/details/in.ernet.dli.2015.56106 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56106&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670300956&sdata=UL9kn%2Bmz3FPirXMFhk%2FpVncApapW3U7Bq%2F4W%2BljqOqY%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQERTlvSFhpT3BnTXc <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQERTlvSFhpT3BnTXc&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670310956&sdata=PuUBPpA6ikWhmWM84QwxKq9dSKzjJAOka1Ds8v6u2RA%3D&reserved=0>
+> 16, 1925-26
+> 
+> https://archive.org/details/in.ernet.dli.2015.367511 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367511&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670310956&sdata=KTcyKfya0cUySGtKQ68VXlJFct5mTwmf6FygfcbVixA%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEdDFERHFnNW1CaTg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEdDFERHFnNW1CaTg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670310956&sdata=EOuFbmwjnBsgBKk1IrFW9tIWcGwa7RqAV7eF6OwlprU%3D&reserved=0>
+> 17, 1926-27
+> 
+> https://archive.org/details/in.ernet.dli.2015.56107 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56107&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670320948&sdata=YgCbjNvaVCK%2Bq2PpstHeVVOepEnN%2Fs1HV9aeHBpi9pE%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.367507 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367507&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670320948&sdata=SoP%2FKLZ9lXUI1hYy174Zjh3DDKQksyv0LESTTRetCX0%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEVVpXTkJqQ1VvaXc <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEVVpXTkJqQ1VvaXc&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670330942&sdata=dMnqtdGuux8z5vJ27JtD%2Fud7sWF2gbM4bDgHLnANiWM%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEUEZHanQ3dUVHQUU <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEUEZHanQ3dUVHQUU&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670330942&sdata=Nk8lV82CxWVtszh21qNgoUPjca63ptsldtFB7nZbWjk%3D&reserved=0>
+> 18, 1927-28
+> 
+> https://archive.org/details/in.ernet.dli.2015.56108 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56108&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670340940&sdata=ZDt2FV775or0Wl4zNP0XFNqTQu3fCj3hKFcWZDM1dIg%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.367512 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367512&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670340940&sdata=J8t%2BzbJpqDCuLXonJg2kqh8OGUyuo9J6qamkxKDCJ0E%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEOVhkUVdGSi1MX3c <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEOVhkUVdGSi1MX3c&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670350934&sdata=gZW8dCbo33b8vRyZzng%2F%2BsONLGxCbNl0kMUvaX97Vhw%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEUjhrNk5TeUdUSjg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEUjhrNk5TeUdUSjg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670350934&sdata=S6G2Kwzg1cHwHbCDzwst2vCFEKt%2F4QNPX11w4uyoPSA%3D&reserved=0>
+> 19, 1928-29
+> 
+> https://archive.org/details/in.ernet.dli.2015.367513 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367513&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670350934&sdata=HSB4uQ4tWM2axRqHg%2Fl5OBHYzvBvJOP7jcwqYM3pt%2BI%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.56109 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56109&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670360923&sdata=qbjXIO9MZYdR89nz1mLNS0bd%2Ba51GRk5g3MwPpmgo50%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQERF91WGhEZ1FJUXc <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQERF91WGhEZ1FJUXc&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670360923&sdata=YH57dQb6d4K4ozc6Ow7aPSSrwUypmFmmM1Pt7bf0klY%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEV01WY0tJOEh3dEk <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEV01WY0tJOEh3dEk&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670370917&sdata=zmiL6RTe2DqqP%2FTyAap4Ajx6AIMcTiUnb0ICej6xiio%3D&reserved=0>
+> 20, 1929-30
+> 
+> https://archive.org/details/in.ernet.dli.2015.56110 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56110&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670370917&sdata=YC29wdIqYO66BXGtzs6OEWBSQ2uAvJJCEnkK6cL9sNE%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.367509 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.367509&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670380907&sdata=URvkhfJyp7pfE2A8nzXoyZINDj6HQcSmpY1Q5Ecm9ug%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEam54dVp6TU5NS3c <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEam54dVp6TU5NS3c&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670380907&sdata=whfs0jTSJIW464IxffzNSQ%2B6c8GjjvKO5TnpnJxomv0%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEZHZDcUhPUkFoS0E <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEZHZDcUhPUkFoS0E&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670390909&sdata=3JUYig%2FDn1XuCuDyJ42%2BRK7pkcWXnBEXh8VDXdAYNzo%3D&reserved=0>
+> 21, 1930-31
+> 
+>  
+> 22, 1931-32
+> 
+> https://archive.org/details/in.ernet.dli.2015.56111 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56111&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670390909&sdata=g7t5ETYCz8JZ4L4wWuPA6yusBOy%2BXbC0EHOMeNwL7%2FQ%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.53140 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.53140&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670400899&sdata=LehcsHKXjNU3rMYcJhUJVmpftOrh4SFrCcgxcLU8bhg%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQESDRzbEpHSzVFTzA <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQESDRzbEpHSzVFTzA&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670400899&sdata=Cqc%2F1bREZ9PAxYuJ7sEMvNdZL2KHEM1jmrfZb%2BPKRBQ%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQES0JQeGI1bF8yOTQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQES0JQeGI1bF8yOTQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670400899&sdata=lEMK%2FDWbkYXZ3ZFTJrf%2FuO6uTSvcU51r2kMc%2FKZA1b8%3D&reserved=0>
+> 23, 1932-33
+> 
+> https://archive.org/details/in.ernet.dli.2015.56113 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.56113&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670410896&sdata=fdyIVx6meRpmBciIE9BTS9uh8qd7mlGTmRzZGc9gdy4%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEVXdvNExiaHNYaTQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEVXdvNExiaHNYaTQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670410896&sdata=BL0IZaW%2Fd3b%2FdkG6vMLGebmbETfhph8pMx7SyczVRVY%3D&reserved=0>
+> 24, 1933-34
+> 
+> https://archive.org/details/in.ernet.dli.2015.443367 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.443367&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670420888&sdata=tm0Flvecs%2FaicWy6oSw1vIttiSCDtkOOHDRdyKAu%2FME%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEU3VSN0FYblVWWDg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEU3VSN0FYblVWWDg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670420888&sdata=zfip5ZXb5WEMc6%2FNBICE0YBjXC8sdpN9nAQnxTxF4AM%3D&reserved=0>
+> 25, 1934-35
+> 
+>  
+> 26, 1935-36
+> 
+> https://archive.org/details/in.ernet.dli.2015.107886 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.107886&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670430884&sdata=aDw%2BVTSvOxLqAioEANhgDvIsZzjUPf8HjV7A8%2BrBJxA%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.533999 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.533999&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670430884&sdata=fbYGnbzFMdIt1f51ExsK2PngZ9hl7gUO1BsIDX%2BoKqw%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEUEFtc0IxUHVKaTg <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEUEFtc0IxUHVKaTg&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670430884&sdata=FVS7SAxTKVKe1ibBonK2kSJp1226frvSHk0Gx086ofM%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEUUhxMTJhcVRvbkk <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEUUhxMTJhcVRvbkk&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670440881&sdata=LPY54h9JLIjBzjBeJrd4xql%2BRplGNwM3TPXGz%2Bpx78A%3D&reserved=0>
+>  
+> 27
+> 
+> 28
+> 
+> 29
+> 
+> 30
+> 
+>  
+> 31, 1939-40
+> 
+> https://archive.org/details/in.ernet.dli.2015.106065 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.106065&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670440881&sdata=XwoYAKOCyvwGqScB3kNKUE20Xf0DpG3AKByR%2BPWBaHM%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.92868 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.92868&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670450879&sdata=ZlXwzcUGnqusW3pvgAXdv7v2xhS2C%2FFSlnQx6l1zTYI%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEYWp2MWpJWnRXMXM <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEYWp2MWpJWnRXMXM&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670450879&sdata=WHUxIE%2BAhKv2Z9G3Oigp7Tv%2BM4kVyv0J98pFfP8jBkk%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEZ1FTVmF5ZTdoejQ <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEZ1FTVmF5ZTdoejQ&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670460867&sdata=cw%2FQZ3iRPf5XR0y4Ckqpd022hJORLUGKIN95mTtZLmQ%3D&reserved=0>
+> 32, 1941
+> 
+> https://archive.org/details/TheQuarterlyJournalOfTheMythicSociety <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2FTheQuarterlyJournalOfTheMythicSociety&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670460867&sdata=gowJbsbKJk6G0pACt24mDO1xo29vCi1YPfxDXUPg1oo%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.106071 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.106071&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670460867&sdata=AjkDfxgWZfkMz4tk2Q5LyXX4sXPkvAfFjOPbOsChYYU%3D&reserved=0>
+> https://archive.org/details/in.ernet.dli.2015.529738 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.529738&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670470866&sdata=jk0%2Be9Kn8O2cctW1%2FNljbOK61kxgPuQV%2F3RgrbZ7Fw4%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEeFNZUk5UQmJZVFE <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEeFNZUk5UQmJZVFE&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670470866&sdata=RdmW7UQMI8yQ%2Fwt%2F9bSe1exUFN69%2BL83N3tKMkEDU1A%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQERHhXUmFKbHRhMlU <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQERHhXUmFKbHRhMlU&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670480855&sdata=GMrQTKxScBIkRll81TbNoGMYHU8zxaxb9IWdqOXVdL0%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEX3BKVWdKdHdaZnM <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEX3BKVWdKdHdaZnM&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670480855&sdata=YtcseKpVyuh9qrWFcAibYk%2Fe%2BgUdQRMkFBilYZsczHM%3D&reserved=0>
+> 33
+> 
+>  
+> 34
+> 
+>  
+> 35
+> 
+>  
+> 36
+> 
+>  
+> 37, 1946
+> 
+> https://archive.org/details/in.ernet.dli.2015.92870 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.92870&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670490845&sdata=HLBx%2B13tKiDNlevS2ZW8n%2BoZBqPwP25n1bKrXobfu10%3D&reserved=0>
+> https://dli.sanskritdictionary.com/bookpage.php?Id=0B7JhzNLs-FQEem1EQjdheWd2Q0E <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdli.sanskritdictionary.com%2Fbookpage.php%3FId%3D0B7JhzNLs-FQEem1EQjdheWd2Q0E&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670490845&sdata=lrPKBU7aN9HvLVg5FaUpa5vg%2FPoKvkCzIFug%2BWL%2B2fU%3D&reserved=0>
+>  
+> +
+> 
+> https://catalog.hathitrust.org/Record/000054487 <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcatalog.hathitrust.org%2FRecord%2F000054487&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670500845&sdata=IqFJqkkL0Xn%2FQXUaGCAe4dYo31Iv55paATn5hkW1b54%3D&reserved=0>
+> 
+> 
+>> Le 11 juin 2020 ? 12:14, Jonathan Silk via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> a ?crit :
+>> 
+>> Dear Friends
+>> I wonder if anyone might have a copy of A.M. Tabard's English translation of the Introduction (?) to Lac?te's Essai sur Gu???hya et la Br?hatkath?  (Bangalore: Bangalore Press, 1923). I believe this first appeared in the Quarterly of the Mythic Society 1913-1914, but except for the first 10 pages I could not find the latter online anywhere either, and our library has neither, seemingly. I do have the French, but for the sake of completeness it would be nice to see the English if someone might have it.
+>> 
+>> With very best thanks in advance, Jonathan
+>> 
+>> -- 
+>> J. Silk
+>> Leiden University
+>> Leiden University Institute for Area Studies, LIAS
+>> Matthias de Vrieshof 3, Room 0.05b
+>> 2311 BZ Leiden
+>> The Netherlands
+>> 
+>> copies of my publications may be found at
+>> https://leidenuniv.academia.edu/JASilk <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fleidenuniv.academia.edu%2FJASilk&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670500845&sdata=WT5tZ4MPz89wVubQI94kFQXFCPSgxKRx%2Ferv10WE0dk%3D&reserved=0>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info (messages to the list's managing committee)
+>> https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&amp;data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7b189d12ce674328219008d80df069ff%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274673502273998&amp;sdata=uE4S7NOqmq3JrgJA5UcoyHStq0Q7LCeeRpNA1jSvSiI%3D&amp;reserved=0 (where you can change your list options or unsubscribe)
+> 
+> ???????????????????
+> Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+> Louvain-la-Neuve
+> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&amp;data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C7e7342bf1dcd4941650508d80dfbdc0b%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637274722670540826&amp;sdata=eQ9BHTubNzA1hssuBa5qScsMqoGmSugX3zkZ76XPV7g%3D&amp;reserved=0 (where you can change your list options or unsubscribe)
+
+???????????????????
+Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+Louvain-la-Neuve
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200611/4f085a88/attachment.htm>
+

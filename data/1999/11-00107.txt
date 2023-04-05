@@ -1,0 +1,47 @@
+From lmfosse at ONLINE.NO  Tue Nov  9 14:36:41 1999
+From: lmfosse at ONLINE.NO (Lars Martin Fosse)
+Date: Tue, 09 Nov 99 15:36:41 +0100
+Subject: SV: SV: Query: Etymology of sanskrit "aham"/ I
+Message-ID: <161227053390.23782.5676975269448293446.generated@prod2.harmonylists.io>
+
+Sergei Schmalz [SMTP:schms060 at MAIL.UNI-MAINZ.DE] skrev 09. november 1999 14:24:
+>     As far as Latin and Greek words for "I" are concerned, it is not at all
+> a must that they are the
+> "predecessors" of "aham". What's the (logical) proof for that?
+
+I am afraid that the connection between the two is standard knowledge. The
+problem is how we account for the differences. According to Szemerenyi, we can
+reconstruct the word for I as
+
+eg(H)om / egoo (where oo represents a long o).
+
+A particle -om/-on occurs in several Indo-European languages and is attached to
+various words. Szemerenyi, however, believes the "Bedeutungstraeger" here is
+-em/-om, and that eg(H) is a particle that is prefixed to the pronoun *em.
+(Notice that there is an -m- in the first person of the word as well). Others
+see the relationship between
+egoo/eg(H)om to the *em-/m- of the other cases as an archaic feature. In that
+case, we may have a kind of suppletivism. If the "Bedeutungstraeger" is eg(H)-
+and -om/-on a particle (compare tvam < tu +om) , then it is tempting to suggest
+that the original word was egHom, which in Skt. gives *azham > aham, whereas
+forms like egoon could be explained by metathesis: egHom > egoHm, giving Greek
+egoon and Latin egoo (the last nasal is lost in Latin, see e.g. *homoon >
+homoo.)
+
+Just a suggestion. Others may chip in and correct me.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone/Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+
+
+

@@ -1,0 +1,227 @@
+From reimann at berkeley.edu  Sat Mar 19 01:56:40 2016
+From: reimann at berkeley.edu (Luis Gonzalez-Reimann)
+Date: Fri, 18 Mar 16 18:56:40 -0700
+Subject: [INDOLOGY] Revolving wheel in ancient Indian literature
+In-Reply-To: <ACA897BA-AB66-4220-B048-4796501E4F76@gmail.com>
+Message-ID: <56ECB1D8.4080900@berkeley.edu>
+
+Thanks, Mak.
+
+The ideal year of 360 days was carried over into the Puranic system of 
+kalpas, also known as days of Brahm?. A year of Brahm? lasts for 360 of 
+his days (along with their 360 nights). The duration of a kalpa in human 
+years is based on this year of 360 days. So is the 100-years duration of 
+Brahm?'s life, which, in turn, continues with the Vedic (already present 
+in the R?gveda) notion of 100 years as the ideal human lifetime.
+
+Luis
+_____
+
+On 3/18/2016 5:48 PM, Bill Mak wrote:
+> As far as the number 360 and the months are concerned, it should be 
+> noted that there is the idea of s?vanam?sa or "civil month", which is 
+> an ideal month consisted of exactly 30 days. Hence, 12 civil months 
+> would make up an ideal year of 360 days. This notion is suggested in 
+> most older jyoti?a texts, from Veda?gajyoti?a to Yavanaj?taka though 
+> not necessarily spelt out explicitly and is not known to be applied in 
+> any known calendar in India. Hence, among the uniquely Indian four 
+> types of months, one finds beside saura (solar, c. 30.5 days), c?ndra 
+> (synodic, c. 29.5 days), n?k?atra (sidereal, c. 27.3 days), but also 
+> s?vana (30 days). Kum?raj?va (4th century) in his description of the 
+> Indian (Vedic) months gave the values of these four months which are 
+> identical to VJ. YJ 79.11 gives definition of s?vanam?sa (tri??addin?? 
+> s?vanam?sa) and the lord of the year system in YJ 79.54 suggests also 
+> a year consisted of 360 days.
+>
+> Bill Mak
+>
+> -- 
+> Bill M. Mak, PhD
+> Associate Professor
+>
+> Institute for Research in Humanities, Kyoto University
+> Yoshidahonmachi, Sakyo-ku, Kyoto, Japan 606-8501
+> ?606-8501 ??????????
+> ???????????
+>
+> email: mak at zinbun.kyoto-u.ac.jp <mailto:mak at zinbun.kyoto-u.ac.jp>
+> Tel:+81-75-753-6961
+> Fax:+81-75-753-6903
+>
+> copies of my publications may be found at:
+> http://www.billmak.com
+>
+> On 2016/03/19, at 6:54, Jean-Michel Delire wrote:
+>
+>> I agree about the very common division of the year into 360 days (and 
+>> nights), plus 5 additive days (sometimes called epagomenoi). It also 
+>> existed in Ancient Egypt. On the other hand, the 12 months are not 
+>> the 28 days months, which are sideral months (the moon passes through 
+>> all the constellations/naksatras in about 27,5 days), but the synodic 
+>> months during which the moon goes from one relative position to the 
+>> sun - by instance a full moon - to the next similar position, through 
+>> last quarter, new moon and first quarter. The synodic duration, of 
+>> 29,5 days approximately, is much closer to 30 days. This was already 
+>> known by the Vedanga Jyotisa, although the duration of the year is 
+>> 366 days in that case.
+>>
+>> Jean Michel Delire, University of Brussels
+>>
+>>
+>>> That's true Dominik, but we must consider that any tradition that 
+>>> counts
+>>> the days in a year ends up with 360 days, a good divisible number, plus
+>>> 5. It happens in Mesoamerican calendars, where those "extra" days are
+>>> considered negative or empty. They are called /nemontemi/ in Nahuatl.
+>>>
+>>> So a symbolical year of 360 plus days doesn't automatically mean that
+>>> its origin is Mesopotamian. 360 can easily be divided by 12 to give 12
+>>> months, and this can be correlated with the 27/28 days in a lunar
+>>> cycle/month. It is not a perfect fit, which is why most calendars 
+>>> end up
+>>> being soli-lunar, with either extra months or days. But 360 is a good
+>>> symbolical number in a decimal system in addition to its importance 
+>>> as a
+>>> sexagesimal one.
+>>>
+>>> Luis
+>>> _____
+>>>
+>>> On 3/18/2016 12:17 PM, Dominik Wujastyk wrote:
+>>>> The reference to 360 spokes is a sexagesimal number expressed in
+>>>> decimal.  This certainly points to the mathematical traditions of
+>>>> Mesopotamia.
+>>>>
+>>>> --
+>>>> Professor Dominik Wujastyk* 
+>>>> <http://ualberta.Academia.edu/DominikWujastyk>
+>>>> Singhmar Chair in Classical Indian Society and Polity
+>>>> Department of History and Classics
+>>>> <http://historyandclassics.ualberta.ca/>
+>>>> University of Alberta, Canada
+>>>>
+>>>> On 18 March 2016 at 08:52, George Thompson <gthomgt at gmail.com 
+>>>> <mailto:gthomgt at gmail.com>
+>>>> <mailto:gthomgt at gmail.com>> wrote:
+>>>>
+>>>>    Hello all,
+>>>>
+>>>>    Madhav's passage is RV 1.164.11.  By chance, I've been looking at
+>>>>    this hymn today.
+>>>>
+>>>>    George Thompson
+>>>>
+>>>>    On Fri, Mar 18, 2016 at 9:04 AM, Madhav Deshpande
+>>>>    <mmdesh at umich.edu <mailto:mmdesh at umich.edu> 
+>>>> <mailto:mmdesh at umich.edu>> wrote:
+>>>>
+>>>>        The idea of a rotating wheel of time goes all the way back to
+>>>>        the Rigveda: dv?da??ra? na hi taj jar?ya vavarti cakram pari
+>>>>        dy?m ?tasya (don't have the textual ref at hand).  The idea of
+>>>>        the spokes of the wheel going up and down is referred to in
+>>>>        Sanskrit lit in many places with expressions like
+>>>>        cakra-nemi-krama and cakr?rapa?kti.
+>>>>
+>>>>        Madhav Deshpande
+>>>>
+>>>>        On Fri, Mar 18, 2016 at 8:42 AM, Artur Karp <karp at uw.edu.pl 
+>>>> <mailto:karp at uw.edu.pl>
+>>>>        <mailto:karp at uw.edu.pl>> wrote:
+>>>>
+>>>>            Dear List,
+>>>>
+>>>>            Mahabharata I, 29. 2-5 and Sumangalavilasini
+>>>>            (Buddhaghosa's commentary to Mahaparinibbana-sutta)  VI,
+>>>>            26  contain images of a revolving wheel (with 360?
+>>>>            spokes), guarded by figures with swords in hands, and by
+>>>>            two serpents. Vi?vakarma/Vissakamma is mentioned as the
+>>>>            wheel's constructor.
+>>>>
+>>>>            Is that - or similar - image present somewhere else in the
+>>>>            ancient Indian literature?
+>>>>
+>>>>            Thanks in advance for your comments -
+>>>>
+>>>>            Artur Karp
+>>>>
+>>>>            South Asian Studies Deptt (emeritus), University of
+>>>>            Warsaw, Poland
+>>>>
+>>>>            _______________________________________________
+>>>>            INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>>>            <mailto:INDOLOGY at list.indology.info>
+>>>> indology-owner at list.indology.info 
+>>>> <mailto:indology-owner at list.indology.info>
+>>>>            <mailto:indology-owner at list.indology.info> (messages to
+>>>>            the list's managing committee)
+>>>> http://listinfo.indology.info (where you can change your
+>>>>            list options or unsubscribe)
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>        --
+>>>>        Madhav M. Deshpande
+>>>>        Professor of Sanskrit and Linguistics
+>>>>        Department of Asian Languages and Cultures
+>>>>        202 South Thayer Street, Suite 6111
+>>>>        The University of Michigan
+>>>>        Ann Arbor, MI 48104-1608, USA
+>>>>
+>>>>        _______________________________________________
+>>>>        INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info> 
+>>>> <mailto:INDOLOGY at list.indology.info>
+>>>> indology-owner at list.indology.info 
+>>>> <mailto:indology-owner at list.indology.info>
+>>>>        <mailto:indology-owner at list.indology.info> (messages to the
+>>>>        list's managing committee)
+>>>> http://listinfo.indology.info (where you can change your list
+>>>>        options or unsubscribe)
+>>>>
+>>>>
+>>>>
+>>>>    _______________________________________________
+>>>>    INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info> 
+>>>> <mailto:INDOLOGY at list.indology.info>
+>>>> indology-owner at list.indology.info 
+>>>> <mailto:indology-owner at list.indology.info>
+>>>>    <mailto:indology-owner at list.indology.info> (messages to the list's
+>>>>    managing committee)
+>>>> http://listinfo.indology.info (where you can change your list
+>>>>    options or unsubscribe)
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>>> indology-owner at list.indology.info 
+>>>> <mailto:indology-owner at list.indology.info> (messages to the list's 
+>>>> managing committee)
+>>>> http://listinfo.indology.info (where you can change your list 
+>>>> options or unsubscribe)
+>>>
+>>>
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info (messages to the list's managing 
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options 
+>> or unsubscribe)
+>
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160318/3af48f9a/attachment.htm>
+

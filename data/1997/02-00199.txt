@@ -1,0 +1,22 @@
+From magier at columbia.edu  Sat Feb 22 14:20:03 1997
+From: magier at columbia.edu (David Magier)
+Date: Sat, 22 Feb 97 09:20:03 -0500
+Subject: IJTS: Nina Fonts for Devanagari
+Message-ID: <161227028469.23782.8117307785931801130.generated@prod2.harmonylists.io>
+
+> We have just posted the new encoding for the Nina Fonts for
+> Devanagari on the 
+> *International Journal of Tantric Studies*. It can be seen at: 
+> 
+> http://www.shore.net/ijts/nina.html
+
+That URL is in error. It should be:
+
+http://www1.shore.net/~india/ijts/nina.html
+
+David Magier
+
+
+
+
+

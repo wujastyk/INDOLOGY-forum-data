@@ -1,0 +1,43 @@
+From gor05 at rz.uni-kiel.d400.de  Thu Feb 16 11:34:11 1995
+From: gor05 at rz.uni-kiel.d400.de (gor05)
+Date: Thu, 16 Feb 95 11:34:11 +0000
+Subject: "APABHRAMSA SYNTAX
+Message-ID: <161227018584.23782.169980479837998191.generated@prod2.harmonylists.io>
+
+Hello fellow Indologists!
+
+I am currently working on my doctorate on historical syntax in the Indo-
+Aryan languages and have run into a problem that I was hoping someone out 
+there in the list could help me with.
+What I'm interested in finding out is this: in Classical Sanskrit, the PPP-
+construction for the perfect normally has the agent in the instrumental, 
+although this can also appear in the dative or genitive, although this is 
+much more seldom. For example: mayA kaTaH kRtaH, or seldom: mama/mahyam 
+kaTaH kRtaH.
+The same is also true with the gerundivum ('participium 
+necessitatis'): one normally says mayA kaTaH kartavyaH, but it is also 
+allowed to say mama/mahyam kaTaH kartavyaH. As with the PPP, this is very 
+seldomly used. Panini's rules as to which verbs take which case seem to 
+have lost their validity early on.
+I have also noticed that the same seems to hold true for (early) Pali texts 
+(such as the MahAvagga).What I wanted to know is whether in Apabhramsa these 
+constructions are as seldomly used with the genitive / dative as they are in 
+Skt/Pali, or whether they - especially with the gerundive - appear more often 
+with the genitive or dative than in Skt., as for example in Hindi:
+mujhe (dative) kuch karnA hai - I have to do something. As I don't know any 
+Apabhramsa, I am completely dependent on secondary literature. So far, all 
+I have found is G. Tagare's: Historical Grammar of ApabhramSa, which doesn't 
+seem to deal with syntax very much.
+If there is enough interest, I'd be glad to post a summary. Please send any 
+replies directly to me.
+
+Thanks in advance!
+
+John Peterson, Kiel, Germany
+email: gor05 at rz.uni-kiel.d400.de
+ 
+
+
+
+
+

@@ -1,0 +1,24 @@
+From jkcowart at io-online.com  Mon Apr 14 19:51:07 1997
+From: jkcowart at io-online.com (J. Kingston Cowart)
+Date: Mon, 14 Apr 97 12:51:07 -0700
+Subject: Universally applicable diacriticals
+Message-ID: <161227029663.23782.13027797589992413615.generated@prod2.harmonylists.io>
+
+Philip Johnson wrote:
+
+
+>I'm preparing a webpage dealing with transcription of various scripts and
+>languages, as well as phonetic notation, in ASCII and HTML.
+
+I wonder if anyone is thinking of a way to create software by which one
+might universally apply all possible diacriticals to any existing font?
+
+It would be a formidable undertaking--and a most welcome development. 
+
+J. Kingston Cowart
+San Diego, California  
+
+
+
+
+

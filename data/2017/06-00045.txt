@@ -1,0 +1,80 @@
+From rmahoney at fastmail.com  Thu Jun  8 20:55:24 2017
+From: rmahoney at fastmail.com (Richard Mahoney | Indica et Buddhica)
+Date: Fri, 09 Jun 17 08:55:24 +1200
+Subject: [INDOLOGY] Issues with Sanskrit 2003 font
+In-Reply-To: <8A61884E-618E-4C67-B1E5-3F3EBACA6ADA@austin.utexas.edu>
+Message-ID: <20170609085524.000064d7.rmahoney@fastmail.com>
+
+
+I'd be curious, does viewing your material with another font resolve
+the placement? Say:
+
+Annapurna SIL
+http://software.sil.org/annapurna/
+
+
+Annapurna SIL, a new font for Devanagari script
+https://www.sil.org/about/news/annapurna-sil-new-font-devanagari-script
+
+
+
+Best, Richard
+
+
+
+On Thu, 8 Jun 2017 19:52:30 +0000
+"Olivelle, J P via INDOLOGY" <indology at list.indology.info> wrote:
+
+> You are absolutely right. I have the same problem and do not know how
+> to resolve it. Any insights gratefully accepted.
+> 
+> Patrick
+> 
+> 
+> 
+> > On Jun 8, 2017, at 9:01 AM, Madhav Deshpande via INDOLOGY
+> > <indology at list.indology.info> wrote:
+> > 
+> > Dear Colleagues,
+> > 
+> >      I have been using the Sanskrit 2003 unicode Devanagari font
+> > for some time, and have noticed that for some characters, the
+> > anusv?ra almost merges with characters like sign for short "i".
+> > Here are a few sample lines:
+> > 
+> > 
+> >      Am I alone in seeing these problems, or is this happening only
+> > on Mac computers, and not on Windows?  I have written to
+> > Omkarananda Ashram about this and I am hoping to hear from them. If
+> > someone has a solution to this font problem, I would appreciate
+> > hearing it.  
+> > 
+> > Madhav Deshpande
+> > Ann Arbor, Michigan, USA
+> > 
+> > 
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > indology-owner at list.indology.info (messages to the list's managing
+> > committee) http://listinfo.indology.info (where you can change your
+> > list options or unsubscribe)  
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee) http://listinfo.indology.info (where you can change your
+> list options or unsubscribe)
+
+
+
+--
+                              Richard Mahoney | INDICA ET BUDDHICA
+                         Littledene  Bay Road  Oxford  New Zealand
+                    T: +64-3-312-1699 | www.indica-et-buddhica.org
+
+
+
+
+

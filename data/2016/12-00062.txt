@@ -1,0 +1,119 @@
+From rmahoney at fastmail.com  Wed Dec 14 08:47:26 2016
+From: rmahoney at fastmail.com (Richard Mahoney | Indica et Buddhica)
+Date: Wed, 14 Dec 16 21:47:26 +1300
+Subject: [INDOLOGY] article search
+In-Reply-To: <C2A9275E-D7D6-4968-8F8F-B35548C59CA7@googlemail.com>
+Message-ID: <20161214214726.00000272@fastmail.com>
+
+Dear Andrey,
+
+I've just run a search through IeB Scholia ~ Zeitschriftendatenbank
+(ZDB) and there seem to be copies in the stacks in Germany and Japan.
+I've copied the German holdings below ...
+
+
+On Wed, 14 Dec 2016 17:29:07 +0900
+Andrey Klebanov <andra.kleb at gmail.com> wrote:
+
+> Dear members of the list, 
+> 
+> I would be very grateful if anyone could possibly help me to access
+> the following article, which I have so far failed to locate in my
+> local library or online: Hazra R.C (1948), Ga?apati Worship and
+> Upapur??as Dealing with it. In: Journal of the Ganganath Jha Research
+> Institute 5 (1949), 263-276
+> 
+> Thank you very much in advance!
+> 
+> best,
+> Andrey
+
+
+ZDB-ID	3004041
+
+Corporate name	
+Corporate name or jurisdiction name as entry element: Ganganatha Jha
+Research Institute
+
+Relator term: VerfasserIn
+
+Title	
+Title: Journal of the Ganganatha Jha Research Institute
+
+Imprint	
+Place of publication, distribution, etc.: Allahabad
+
+Date of publication, distribution, etc.: 1943-1970
+
+Imprint	
+Place of production, publication, distribution, etc.: Allahabad
+
+Date of production, publication, distribution, etc.: 1943-1970
+
+Dates	
+Dates of publication and/or sequential designation: 1.1943 - 26.1970
+
+Succeeding	
+Title: Journal of the Ganganatha Jha Kendriya Sanskrit Vidyapeetha
+
+Holdings	
+Institute (Abbr.): SBB-PK Berlin
+
+Journal run: 1.1943/44; 2.1944/45,2/3; 3.1945/46,3/4; 4.1946/47,2;
+5.1947/48; 6.1948/49,2-4; 7.1949/50,1; 8.1950/51 - 26.1970
+
+Holdings	
+Institute (Abbr.): BSB Muenchen
+
+Journal run: 5. 1947/48 - 26. 1970
+
+Journal run: 5. 1947/48 - 26. 1970
+
+Holdings	
+Institute (Abbr.): SUB+Uni Hamburg
+
+Journal run: 5.1947/48 - 21.1965
+
+Holdings	
+Institute (Abbr.): UB Marburg
+
+Journal run: 1.1943 - 26.1970
+
+Holdings	
+Institute (Abbr.): ULB Halle
+
+Journal run: 1.1943/44 - 26.1970
+
+Holdings	
+Institute (Abbr.): UB Tuebingen
+
+Journal run: 1.1943/44 - 26.1970
+
+Holdings	
+Institute (Abbr.): FU Berlin
+
+Journal run: 1.1943 - 26.1970
+
+Holdings	
+Institute (Abbr.): UB Heidelberg
+
+Journal run: 1.1943 - 26.1970
+
+Holdings	
+Institute (Abbr.): UB Muenster
+
+Journal run: 1.1943 - 26.1970
+
+
+
+
+
+--
+                              Richard Mahoney | INDICA ET BUDDHICA
+                         Littledene  Bay Road  Oxford  New Zealand
+                    T: +64-3-312-1699 | www.indica-et-buddhica.org
+
+
+
+
+
