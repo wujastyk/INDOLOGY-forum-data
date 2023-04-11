@@ -116,12 +116,12 @@ impl<'a> Iterator for CharTokenIter<'a> {
             }
 
             let slice = &self.input[self.byte_offset..self.byte_offset + bidx - skipped_bytes];
-            //println!("{:?}", self.stemmer.stem(slice.to_lowercase().as_str()));
+            let lowercased_slice = slice.to_lowercase();
             let token = Token::from_str(
-                slice,
+                lowercased_slice.as_str(),
                 self.char_offset,
                 self.position,
-                self.lemmatizer.get_key(slice).unwrap_or(&slice.to_string()),
+                self.lemmatizer.get_key(lowercased_slice.as_str()).unwrap_or(&lowercased_slice),
             );
             self.char_offset = self.char_offset + slice.chars().count() + 1;
             self.position += 1;
@@ -132,11 +132,12 @@ impl<'a> Iterator for CharTokenIter<'a> {
 
         if self.byte_offset < self.input.len() {
             let slice = &self.input[self.byte_offset..];
+            let lowercased_slice = slice.to_lowercase();
             let token = Token::from_str(
-                slice,
+                lowercased_slice.as_str(),
                 self.char_offset,
                 self.position,
-                self.lemmatizer.get_key(slice).unwrap_or(&slice.to_string()),
+                self.lemmatizer.get_key(slice).unwrap_or(&lowercased_slice),
             );
             self.byte_offset = self.input.len();
 
@@ -160,7 +161,7 @@ impl<'a> Tokenizer<'a> for WhitespaceTokenizer {
 #[inline]
 fn is_whitespace(input: &(usize, (usize, char))) -> bool {
     let (_, (_, c)) = *input;
-    c.is_whitespace()
+    c.is_whitespace() || c.is_ascii_punctuation()
 }
 
 #[test]

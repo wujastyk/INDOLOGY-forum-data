@@ -40,85 +40,87 @@ fn filter_and_tokenize_file(file_path: PathBuf, lemmatizer: Lemmatizer) {
         let mut filtered_file: Vec<&str> = Vec::new();
 
         for line in lines.iter() {
-            let line = line.trim();
-            if line.is_empty() {
+            let mut trimmed_line = line.trim();
+            if trimmed_line.is_empty() {
                 continue;
             }
-            if line.starts_with(['>', '\n']) {
+            if trimmed_line.starts_with(['>', '\n']) {
                 continue;
             }
-            if line.starts_with("--") {
+            if trimmed_line.starts_with("--") {
                 continue;
             }
-            if line.starts_with("From ") {
+            if trimmed_line.starts_with("From ") {
                 continue;
             }
-            if line.starts_with("From: ") {
+            if trimmed_line.starts_with("From: ") {
                 continue;
             }
-            if line.starts_with("To: ") {
+            if trimmed_line.starts_with("To: ") {
                 continue;
             }
-            if line.starts_with("Cc: ") {
+            if trimmed_line.starts_with("Cc: ") {
                 continue;
             }
-            if line.starts_with("Date: ") {
+            if trimmed_line.starts_with("Date: ") {
                 continue;
             }
-            //if line.starts_with("Subject: ") { continue; }
-            if line.starts_with("Message-ID: ") {
+            if trimmed_line.starts_with("Subject: ") {
+                trimmed_line = &trimmed_line[9..];
+            }
+            if trimmed_line.starts_with("Message-ID: ") {
                 continue;
             }
-            if line.starts_with("Message-Id: ") {
+            if trimmed_line.starts_with("Message-Id: ") {
                 continue;
             }
-            if line.starts_with("In-Reply-To: ") {
+            if trimmed_line.starts_with("In-Reply-To: ") {
                 continue;
             }
-            if line.starts_with("Reply-To: ") {
+            if trimmed_line.starts_with("Reply-To: ") {
                 continue;
             }
-            if line.starts_with("Received: ") {
+            if trimmed_line.starts_with("Received: ") {
                 continue;
             }
-            if line.starts_with("Return-path: ") {
+            if trimmed_line.starts_with("Return-path: ") {
                 continue;
             }
-            if line.starts_with("Phone ") {
+            if trimmed_line.starts_with("Phone ") {
                 continue;
             }
-            if line.starts_with("Tel: ") {
+            if trimmed_line.starts_with("Tel: ") {
                 continue;
             }
-            if line.starts_with("Tel. ") {
+            if trimmed_line.starts_with("Tel. ") {
                 continue;
             }
 
             // filter out the attachments related lines
-            if line.contains("was scrubbed...") {
+            if trimmed_line.contains("was scrubbed...") {
                 continue;
             }
-            if line.starts_with("Name: ") {
+            if trimmed_line.starts_with("Name: ") {
                 continue;
             }
-            if line.starts_with("Type: ") {
+            if trimmed_line.starts_with("Type: ") {
                 continue;
             }
-            if line.starts_with("Size: ") {
+            if trimmed_line.starts_with("Size: ") {
                 continue;
             }
-            if line.starts_with("Desc: ") {
+            if trimmed_line.starts_with("Desc: ") {
                 continue;
             }
-            if line.starts_with("URL: ") {
+            if trimmed_line.starts_with("URL: ") {
                 continue;
             }
 
-            filtered_file.push(line);
+            filtered_file.push(trimmed_line);
         }
 
         let tokenized_file = WhitespaceTokenizer
-            .tokenize(&filtered_file.join("\n"), lemmatizer)
+            .tokenize(&filtered_file.join(" "), lemmatizer)
             .collect::<Vec<Token>>();
 
         //filtered_lines
@@ -131,11 +133,10 @@ where
     P: AsRef<Path>,
 {
     let file = fs::File::open(filename)?;
-    let mut lines: Vec<String> = io::BufReader::new(file)
+    let lines: Vec<String> = io::BufReader::new(file)
         .lines()
         .map(|line| line.unwrap())
         .collect();
-    lines.sort();
 
     Ok(lines)
 }
@@ -147,7 +148,7 @@ fn tokenize_file() {
         "../generate-en-language-tools/flexionary-forms-and-lemmas/lemmas.txt",
     );
 
-    filter_and_tokenize_file(PathBuf::from("/home/claudius/workspace/repositories/git/github.com/wujastyk/INDOLOGY-forum-data/data/1990/11-00000.txt"), lemmatizer);
+    filter_and_tokenize_file(PathBuf::from("/home/claudius/workspace/repositories/git/github.com/wujastyk/INDOLOGY-forum-data/data/_test/01-00003.txt"), lemmatizer);
 }
 
 // time cargo build --bin text-data-to-index-cards --target-dir ./target --release --target x86_64-unknown-linux-musl
