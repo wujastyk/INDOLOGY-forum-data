@@ -1,19 +1,10 @@
-From bihanisarkar at googlemail.com  Thu Feb  9 15:12:36 2017
-From: bihanisarkar at googlemail.com (Bihani Sarkar)
-Date: Thu, 09 Feb 17 15:12:36 +0000
-Subject: [INDOLOGY] Devipurana (2)
-In-Reply-To: <CAMOCTf9j=QAM9Oc3fQ5033-uHG233bCCAFEzwAJNuwaKbLQrNg@mail.gmail.com>
-Message-ID: <CABC99BShrAWY2L96ay_tk0Fc=t-UNzSCkOdSRsdjcCMZ6bL6Pg@mail.gmail.com>
-
+[INDOLOGY] Devipurana (2)
 Dear Mr. Rosati,
-
 I have the Bengali edition of the *Dev?pur??a* you are referring to. The
 verse 39.6 fully quoted runs thus (without removing the doubled consonants
 used by the editor):
-
 *sarvvak?masusiddhyartha? r?jati vedaparvvate |*
 *yajed bhaum?tjamjo dev?? k?m?khye girikandare ||*
-
 The reference to the sacred site of K?m?khy? in Assam is embedded in a
 longer descriptive enumeration of various sacred sites of goddesses
 contained within 39.2-39.21 ('*brahma?? pu?kare dev??.plav? hel?
@@ -22,7 +13,6 @@ edition, hence I am unable to check if this rather interesting little
 passage on what seem to be important ??kta* p??ha*s of the time is included
 in it. If it is not, let me know and I can scan the passage from the
 Bengali edition for you.
-
 I would interpret Bhaum?tmaja as "a descendent of [king] Bhauma", in which
 Bhauma, according to royal genealogical myths of K?mar?pa from the fourth
 to the twelfth centuries CE, seems to refer to the alternative name of
@@ -35,91 +25,12 @@ site of K?m?khya for the authorization of their political power, see
 J.E.Shin, "Changing Dynasties, Enduring Genealogy: A Critical Study on the
 Political Legitimation in early Mediaeval K?mar?pa". I attach the article
 herewith.
-
 I do hope this may be of some help.
-
 With best wishes,
 Bihani Sarkar BA, M.Phil, D.Phil (Oxon),
 British Academy Postdoctoral Research Fellow in Sanskrit
 Christ Church College
 Oriental Institute,
 Oxford University
-
 On Tue, Feb 7, 2017 at 1:16 PM, Paolo Eugenio Rosati via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear list,
->
-> I am looking for a couple of references from the *Devipurana*.
->
-> I found---throughout secundary literature---some references that probably
-> derived from this edition:
->
-> *Dev?pur??a*, ed. with a Bengali translation by Pancanana Tarkaratna.
-> Calcutta, 1928.
->
-> while I have got (thanks to the list!) this edition:
-> *Dev?pur??a*. Kumar, Sharma P. (ed.) 1976. *Dev? Pur??am*. New Delhi: Sri
-> Lal Bahadur Shastri Kendriya Sanskrit Vidyapeeth.
->
-> Actually I do not know if the two eds are based on different mss, but I
-> was unable to find out verse (39.6) that should says:
->
-> *yajed ... devIM kAmAkhye girikandare *(Van Kooij 1972, 32n3---based on
-> Bengali trans.)
->
-> although some scholars wrote that in this verse should also be a reference
-> to the son of Bhumi (earth goddess) and cited the Kumar ed. (v.
-> 39.6b)---but in Kumar ed. there is the verse that speak of Kamakhya neither
-> it speak about a "Bhauma".
->
-> The second part that I am looking for is a so-called* Appendix 1 list 7*
-> (cit. in Dehejia 1986, Yogini Cult and Temples), although in her
-> bibliography it is not cited any *DP *ms or edition. Thus, I imagine this
-> appendix was somewhere through the Kumar ed. (or maybe not) or perhaps she
-> confused with another text?!
-> Dehejia wrote that in this list were enumerated 64 devi-pithas from which
-> depend on the two *yogini *lists of the *Kalikapurana *(Chs. 54 and 63,
-> in B. Shastri [1991] 2008).
->
-> I wish someone could help in find out the verse and the appendix that I
-> was unable to find out from Kumar ed. of *DP*.
->
-> Best wishes,
-> Paolo
->
-> --
-> Paolo E. Rosati
-> Oriental Archaeologist
-> PhD candidate in "Civilizations of Asia and Africa"
-> South Asia Section
-> Dep. Italian Institute of Oriental Studies/ISO
-> 'Sapienza' University of Rome
-> *https://uniroma1.academia.edu/PaoloRosati/
-> <https://uniroma1.academia.edu/PaoloRosati/>*
-> paoloe.rosati at uniroma1.it
-> paoloe.rosati at gmail.com
-> Skype: paoloe.rosati
-> Mobile: (+39) 338 73 83 472
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170209/d815b926/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: ShinNarakaJAIH272011red.pdf
-Type: application/pdf
-Size: 3052166 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20170209/d815b926/attachment.pdf>
-

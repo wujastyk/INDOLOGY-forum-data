@@ -1,38 +1,27 @@
-From Palaniappa at AOL.COM  Thu Jun 25 01:36:37 1998
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Wed, 24 Jun 98 21:36:37 -0400
-Subject: Retroflex sounds
-Message-ID: <161227040266.23782.14042375288863530244.generated@prod2.harmonylists.io>
-
+Retroflex sounds
 In a message dated 98-06-23 19:29:06 EDT, thompson at JLC.NET writes:
-
 << I will
  repeat my earlier appeal to the list: "Could someone explain to me why a
  proto-Dravidian language with such a three-fold distinction COULD NOT HAVE
 INFLUENCED early IA in such a way as to induce a dental-retroflex
 distinction?" >>
-
 I do not have access to Hock's paper. But from what I see in Tamil, the
 reinterpretation of alveolar as dental or retroflex should be easily
 understandable. Consider the following. (R here represents alveolar t)
-
 oTTikkiraTTi < oRRaikkiraTTi
 oTTUkkEL < oRRukkEL
 tITTu < tIRRu
 kazaTTu < kazaRRu
-
 ottai < oRRai
 kazattu < kazaRRu
 pattu < paRRu
 tottu < toRRu
-
 I also have questions about Vidyanath's position that one does not confuse the
 phonemes in one's primary language. Is there any sociolinguistic evidence for
 this position? How do most Malayalis pronounce certain original Tamil sounds
 correctly while many Tamils do not? If they were part of the same language
 community at one time, at some point in time some people must have started to
 confuse different phonemes.
-
 In a lighter vein, just compare the Tamil enunciation of the famous actors
 Sivaji Ganesan and his son Prabhu. Sivaji Ganesan is well known for his
 enunciation but Prabhu's confusion between retroflex and alveolars (n2 vs N)
@@ -42,10 +31,5 @@ of Tamil to his studying in a convent school. In fact, in recent years, the
 pronunciation of Tamil by public performers like actors, public speakers, and
 debaters (of the paTTimanRam kind) has become so horrible that the linguistic
 change seems to have accelerated a lot.
-
 Regards
 S. Palaniappan
-
-
-
-

@@ -1,26 +1,12 @@
-From MAILER-DAEMON at columbia.edu  Tue Nov 16 03:02:42 1993
-From: MAILER-DAEMON at columbia.edu (Mail Delivery Subsystem)
-Date: Mon, 15 Nov 93 22:02:42 -0500
-Subject: Returned mail: Service unavailable
-Message-ID: <161227016326.23782.4342079397514172156.generated@prod2.harmonylists.io>
-
+Returned mail: Service unavailable
    ----- Transcript of session follows -----
 While talking to mail.liv.ac.uk:
->>> DATA
 <<< 554 Syntactically invalid address for from field 'David Magier <magier at columbia.edu> for John Hawley'
 554 indology at liverpool.ac.uk... Service unavailable
-
    ----- Unsent message follows -----
-Received: by merhaba.cc.columbia.edu id AA15956
   (5.65c+CU/IDA-1.4.4/HLK for indology at liverpool.ac.uk); Mon, 15 Nov 1993 22:02:42 -0500
-Date: Mon, 15 Nov 93 22:02:39 EST
-From: David Magier <magier at columbia.edu> for John Hawley
-To: indology at liverpool.ac.uk
-Subject: re: Vedic Studies
-Message-Id: <CMM.0.90.4.753418959.magier at merhaba.cc.columbia.edu>
-
+re: Vedic Studies
 [[Posted for Prof. John S. Hawley]]
-
 In response to the posting by V. Siddharth dated 14 November on the
 Vedic Studies initiatives as Columbia, a brief clarification of the
 facts would seem to be in order. Mr. Siddharth is correct that there
@@ -31,7 +17,6 @@ discussions are not complete, but still under way. The name, nature,
 teaching and research focus, and exact academic location of the
 proposed center are yet to be determined, as is any final agreement
 between the Foundation and the University.
-
 A separate but potentially related University Seminar on "The Veda and
 its Interpretation" has been instituted as of this fall. The Columbia
 University Seminars are a rubric under which scholars and professional
@@ -46,14 +31,6 @@ Brief reports on the first two meetings of the Seminar are available
 upon request from Mr. Timothy Lubin, Seminar Rapporteur, University
 Seminar on the Veda and its Interpretation, 606 Dodge Hall, Columbia
 University, New York, NY 10027, USA.
-
 John S. Hawley
 Director
 Southern Asian Institute, Columbia University
-
- 
-
-
-
-
-

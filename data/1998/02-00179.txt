@@ -1,9 +1,4 @@
-From mmdesh at UMICH.EDU  Fri Feb 13 23:03:11 1998
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Fri, 13 Feb 98 18:03:11 -0500
-Subject: a Srauta question
-Message-ID: <161227035660.23782.15293615515878162669.generated@prod2.harmonylists.io>
-
+a Srauta question
 Dear Indologists,
         I am reading a text which refers to a Kalpa text in 16 adhyAyas
 beginning with the words athaitasya samAmnAyasya.  As far as I know, this
@@ -12,7 +7,3 @@ is the first sUtra of the ASvalAyana-Srauta-sUtra, but this sutra has only
 the same words and has sixteen adhyAyas?
         All the best,
                                         Madhav Deshpande
-
-
-
-

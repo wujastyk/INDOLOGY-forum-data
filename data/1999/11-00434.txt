@@ -1,23 +1,11 @@
-From Gerard.Huet at INRIA.FR  Tue Nov 30 16:58:55 1999
-From: Gerard.Huet at INRIA.FR (Gerard Huet)
-Date: Tue, 30 Nov 99 17:58:55 +0100
-Subject: Hypertext Sanskrit Dictionary released
-Message-ID: <161227054086.23782.9281584186913863821.generated@prod2.harmonylists.io>
-
+Hypertext Sanskrit Dictionary released
 Namaste.
-
 I released today the current version of my sanskrit-french dictionary.
 It is available in ps and pdf formats, as previously, but this time there
 is also an experimental HTML version, fully indexed for easy browsing.
 Everything is downloadable from my indology web page, at URL
         http://pauillac.inria.fr/~huet/SKT/indo.html
 where you can find instructions.
-
 Enjoy!
 Comments and corrections appreciated, as usual
-
 Gerard
-
-
-
-

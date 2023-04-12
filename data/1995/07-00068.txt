@@ -1,24 +1,6 @@
-From vidynath at math.ohio-state.edu  Wed Jul 12 15:47:06 1995
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Wed, 12 Jul 95 11:47:06 -0400
-Subject: Critical Editions
-Message-ID: <161227020006.23782.3426069042956988259.generated@prod2.harmonylists.io>
-
-
+Critical Editions
 V. Rao:
->I agree with the last two sentences. But not the first. Keith, in his
->re-edition of Aitreya Aaranyaka, says flat out that no major changes
->from Mitra's edition were found. The re-edition of .Rgvidhaana in
->``Vedic Tantrism'' does not seem be such a great improvement over Meyer's (?)
->edition.
-
 C. Minkowski:
->And yet Bhat finds his work a great improvement over Meyer's edition.  His
->text-critical notes show that there are (at least) two recensions of the
->Rgvidhana, that these differ from one another substantially (whole passages
->in one not found in the other), and that he found the "original" far from
->easy to restore for about half the text.
-
 I no longer have access to Meyer's edition. So I will go by what
 Bhat says in his introduction. Excluding the phala"sruti, Bhat's
 edition has 731 stanzas. Meyer's edition has 15 more (no, I did not
@@ -26,39 +8,24 @@ leave out a zero). Bhat regards the manuscripts Bo2 and Ta and
 the printed (commerical?) edition Bo1 as belonging to the shorter
 recension; this is also what the commentary Cm comments on. The
 manuscript Ba is supposed to belong to the longer recension.
-
 Here is a break-down of the 15 extra stanzas in Meyer's edition:
     3 after 2.131 and 3 after 2.132, found in one (out of three)
 	 manuscripts used by Meyer, and which included in the text anyway.
-	 
 	 4 after 3.161, found the margins of the manuscripts (how many?)
 	 used by Meyer and put inside brackets in the edition. These four
 	 are also found in Ba.
-	 
 	 1 after 3.18 found in Ba.
-	 
 	 1 after 4.44ab, apparently not found in any other manuscripts.
-	 
 	 2 after 1.87, also found in Bo1, Bo2 and Ta, but not in Ba.
 	 The commentary comments on one more "sloka than Bhat's text,
 	 but whether it is one of these 2 is not stated.
-	 
 	 1 after 4.121ab, also found in Bo1 and Bo2; also possibly in
 	 the commentary.
-	 
 This is the evidence for the existence of a longer and shorter
 recensions.
-
 I won't comment on the emendations made by Meyer because I don't have
 his edition in front of me (and his introduction was Latin to me :-^)
-
 C.M.:
->  Note also in Aithal's Vedalaksana
->that there are five or so different texts with Rgvidhana in their title and
->many many unedited manuscripts in the catalogues.  Of course catalogues
->only cover a fraction of the manuscripts that exist.  So redoing the
->edition was no waste of time and more useful work could still be done.
-
 There are two different statements in Bhat's inroductory material
 about longer and shorter versions of .Rgvidhaana. The first is on
 p.~16 and on p.~152, where reference is made to Jye.s.ta or B.rhad
@@ -68,41 +35,22 @@ have slightly less than 500 stanzas (meter?). [Bhat's edition has
 65 "slokas of general nature in the beginning, 337 "slokas on the
 tenth mandala and khilas there and 17 "slokas at the end of general
 matter.]
-
 Of course, it would be nice to know if there is any overlap between
 B.rhad .Rgvidhaana and the .Rgvidhaana in 4 chapters + phala"sruti.
 But Bhat did not do that. He simply edited the latter. 
-
 Incidentally, he also says that this is also known as the Ka.ni.s.ta
 .Rgvidhaana. Of Aithal's five types (excluding the versions in the
 Puraa.nas), one is category consists of those whose version is
 unknown, one is B.rhad, one is Ka.ni.s.ta, and one is 4 chapters
 version. 
-
 C.M.:
->As for Keith, he did find variants in the AA, but in his *judgment* they
->were not worth recording.   That he enitrely dismisses the value of the
->readings of the Buhler MS from Kashmir makes this judgment suspicious.  It
->would not be the first time that Keith was peremptory.  Yet his judgment
->does serve as a counterexample to the suggestion that editors of texts must
->feel a pressure to "improve" texts in order to justify their work.
-
 Of course, Keith records (or at least he says that he does) all readings
 of the Buehler MS, even the ones he regarded as copying errors. So it
 is possible to check if his judgement is valid in the case of this MS.
-
 Keith lived in another era, with different demands on academics and
 different expectations of publications. Note also that I did not say
 ``must feel a pressure...'', but ``may feel ...''. The point I wish to
 make is that such pressures, if felt, must be actively resisted, and
 that such resistance must have the express support of the academic
 community at large.
-
-
 Nath Rao (natharao+ at osu.edu)		614-366-9341
- 
-
-
-
-
-

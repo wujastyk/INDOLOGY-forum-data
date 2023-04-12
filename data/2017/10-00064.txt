@@ -1,45 +1,23 @@
-From cchl2 at cam.ac.uk  Tue Oct 10 11:36:35 2017
-From: cchl2 at cam.ac.uk (Charles Li)
-Date: Tue, 10 Oct 17 12:36:35 +0100
-Subject: =?utf-8?Q?[INDOLOGY]_V=C4=81kyapad=C4=ABya_manuscript_now_online?=
-In-Reply-To: <mailman.912.1507582516.29043.indology_list.indology.info@list.indology.info>
-Message-ID: <e1018e6b-cd22-422f-28d0-d4969922680d@cam.ac.uk>
-
+=?utf-8?Q?[INDOLOGY]_V=C4=81kyapad=C4=ABya_manuscript_now_online?=
 Dear everyone,
-
 As part of my doctoral project, I commissioned the digitization of a 
 microfilm of a V?kyapad?ya manuscript (Prak?r?ak??da) held at the 
 Bodleian in Oxford. It's a paper manuscript in Telugu script. The 
 digital images are now online at the Digital Bodleian website, available 
 here:
-
 http://digital.bodleian.ox.ac.uk/inquire/p/809a5212-276f-487f-96ca-17a7d939ac1b
-
 I've also done a diplomatic transcription of the Dravyasamudde?a 
 section, from folio 37 verso, line 2, to folio 41 verso, line 2, and 
 this transcription is available here:
-
 https://saktumiva.org/wiki:dravyasamuddesa:09-oxford
-
 Each page break (rendered as a big orange "L") is a link that takes you 
 to the the corresponding digital image. I've checked the transcription a 
 few times, but there are bound to be mistakes still; please let me know 
 if you find any. The transcript can also be viewed in Telugu script by 
 using the tools on the right-hand side of the page, or alternatively, 
 like this:
-
 https://saktumiva.org/wiki:dravyasamuddesa:09-oxford?upama_script=telugu
-
 I haven't yet found a Telugu font that supports the old-style 
 post-consonantal reph (valapagilaka); does anyone know of such a font?
-
 Have an awesome day,
-
 Charles
-
-
-
-
-
-
-

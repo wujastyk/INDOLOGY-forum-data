@@ -1,40 +1,19 @@
-From Royce.Wiles at ANU.EDU.AU  Sun May  7 03:19:15 2000
-From: Royce.Wiles at ANU.EDU.AU (Royce Wiles)
-Date: Sun, 07 May 00 13:19:15 +1000
-Subject: History of Hindi 'to'
-Message-ID: <161227058305.23782.17225116062488837312.generated@prod2.harmonylists.io>
-
+History of Hindi 'to'
 According to MacGregor (The Oxford Hindi-English dictionary, sv.) the
 origin from Sanskrit tatas is doubtful, and Hindi "to" may have an ancestor
 in Sanskrit tAvat.
-
 However, the entry in Turner's Comparative Dictionary of the Indo-Aryan
 languages  for tatas (paragraph 5639) seems more supportive than that for
 tAvat (parag. 5804) (you may be able to hunt up more discussion from the
 articles Turner cites).
-
 The Apabhramsa-Hindi dictionary of Naresh Kumar (1987) lists under "to" the
 Hindi meanings: usa ke bAd and taba, bhI and provides citations from two
 Apabhramsa works (KIrtilatA (1,2,8) and the Paumacariu (1, 3, 9)). He
 thinks "to" is from Sanskrit tatas + api, which seems a bit off the mark.
 An interesting Jain Sauraseni usage is "jahA .... to ... " in conditional
 sentences (eg. KArtikayAnuprek.SA, 29).
-
 You will need to explore the linguistic literature on "Old Hindi" (ie. Old
 Western Rajasthani etc. or whatever you want to call those languages),
 rather than attempt to jump straight back to Sanskrit from modern Hindi
 without intervening stages. There can certainly be other influences in
 Hindi than Sanskrit.
-
-
->I am researching the conjunction/discourse marker 'to' in modern Hindi and
->would like to have a feel for the historical background.I have been unable
->to find much help so far. Does anyone out there have any suggestions? Does
->'to' descend from Sanskrit 'tatas' or 'tavas' or rather 'tu'? Does it have
->more than one root? Is the saying true that 'tu' was often used to satisfy
->metrical requirements in verse? Any ideas?
->                        Terry Varma
-
-
-
-

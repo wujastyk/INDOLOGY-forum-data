@@ -1,32 +1,14 @@
-From hellwig7 at gmx.de  Wed Mar 27 11:47:44 2019
-From: hellwig7 at gmx.de (Oliver Hellwig)
-Date: Wed, 27 Mar 19 12:47:44 +0100
-Subject: [INDOLOGY] Rigveda padas
-In-Reply-To: <mailman.35.1551459602.13541.indology_list.indology.info@list.indology.info>
-Message-ID: <5af7f0d3-75ed-ece7-0d9e-b222fdcf8d7c@gmx.de>
-
+[INDOLOGY] Rigveda padas
 Dear all,
-
 not sure if this is useful for anybody, but you can find the pada-split
 text of the RV along with the lexical analysis of each pada (not text
 line) here:
-
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/rigveda
-
 With a modest amount of programming one could, for instance, perform
 queries such as: "Show all stanzas where the second word in pada b is
 agni" etc.
-
 Error levels are described in the readme. If you find any other
 systematic (or unsystematic) errors in the data, I would be glad to get
 a hint.
-
 Best, Oliver
-
----
 Oliver Hellwig, IVS Z?rich/SFB 991 D?sseldorf
-
-
-
-
-

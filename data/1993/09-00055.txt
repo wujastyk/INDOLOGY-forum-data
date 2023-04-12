@@ -1,15 +1,5 @@
-From ucgadkw at ucl.ac.uk  Wed Sep 29 18:04:53 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Wed, 29 Sep 93 19:04:53 +0100
-Subject: Windows Devanagari (was: Re: false subscription attempts)
-Message-ID: <161227016172.23782.7680558003591941725.generated@prod2.harmonylists.io>
-
+Windows Devanagari (was: Re: false subscription attempts)
 On Sep 29,  5:22pm, Jitendra Khare wrote:
-
-> 
-> Does anybody know of any windows software/or any other which can print
-> devanagari fonts? Thanks. Jitendra Khare
-
 There are such fonts, all commercial as far as I know.  There are many
 hidden problems in using Devanagari with Windows.  Firstly, is it for
 Hindi, Marathi or Sanskrit.  In the latter case the large number of
@@ -20,18 +10,9 @@ also the question of whether your WP program can read and use the
 information in a PostScript AFM file, or its TrueType analogue, and
 whether that metric file does indeed contain useful kerning and
 ligaturing information.
-
 I don't use Windows, so I can't help more.  I use TeX which is free,
 and excellent.  The Devanagari font looks very nice (to me), and there
 is a very full set of conjunct characters.  Input is *not* WYSIWYG:
 you type a simple romanization, and TeX turns it into Devanagari
 at the time of composition, before printing or previewing.
-
 Dominik
-
- 
-
-
-
-
-

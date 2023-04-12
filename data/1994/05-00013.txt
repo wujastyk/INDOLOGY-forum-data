@@ -1,43 +1,18 @@
-From D.Wujastyk at ucl.ac.uk  Wed May 18 15:47:17 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Wed, 18 May 94 09:47:17 -0600
-Subject: Fw: Indian fonts
-Message-ID: <161227016836.23782.4526715851316117570.generated@prod2.harmonylists.io>
-
+Fw: Indian fonts
 I thought this might be of interest.
 Dominik
-
-------------------------------
->From: avinash at bronze.lcs.mit.edu (Avinash Chopde)
->Newsgroups: comp.fonts
->Subject: All Indian Language Fonts. (was Re: KANNADA FONTS, PLEASE?)
->Date: 16 May 1994 17:54:13 -0400
->Organization: Just a Guest Here.
->Lines: 35
->Message-ID: <2r8q25$28q at bronze.lcs.mit.edu>
->References: <94133.070032U40200 at uicvm.uic.edu>
->Reply-To: avinash at avid.com
->NNTP-Posting-Host: bronze.ai.mit.edu
->Keywords: Commercial, PostScript Type 1, TrueType.
-
 In article <94133.070032U40200 at uicvm.uic.edu>
  Tonse.N.K.Raju <U40200 at uicvm.uic.edu> writes:
->I wish to buy Kannada Fonts for IBM. Any help in this regard
->will be gretly appreciated.
-
 For reasonably priced, good quality PostScript Type 1 or TrueType
 indian language fonts contact:
     Mr. Shrikrishna Patil
     21647 Rainbow Drive
     Cupertino, CA 95014-4826
-
     Fax:   (408) 255 6443
     Voice: (408) 446 9144
-
 Fonts cost from $35 to $50 each, multiple font packages are sold at a
 discount. These fonts can be used in any Mac System 7.x or MS-Windows 3.x
 application.
-
 And, I can personally vouch for this 78 year old artist, in fact I am
 working with him to develop some easier text-entry mechanisms for indian
 languages.
@@ -45,23 +20,12 @@ Many marathi language publications in the US and Canada make use of his
 fonts.
 If you have any questions regarding his fonts, call him up or send me
 e-mail.
-
 And, just so this post is not full of commercial info, if you are looking
 for freeware fonts, refer to the FAQs of comp.fonts and soc.culture.indian.
 Telugu is available for TeX, though Kannada specifically is not.
-
 Note: Though I am currently working with Mr. Patil, I have no commercial
 interest in the sale of his fonts.
---
-----
 Avinash Chopde
 avinash at acm.org
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

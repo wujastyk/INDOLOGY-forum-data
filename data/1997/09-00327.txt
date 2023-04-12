@@ -1,30 +1,18 @@
-From grotebev at UNI-KOELN.DE  Wed Sep 24 10:40:25 1997
-From: grotebev at UNI-KOELN.DE (Tobias Grote-Beverborg)
-Date: Wed, 24 Sep 97 12:40:25 +0200
-Subject: Hindi PC DOS announced
-Message-ID: <161227032714.23782.7863941707065068462.generated@prod2.harmonylists.io>
-
+Hindi PC DOS announced
 The following forwarded message may be of interest:
-
 Hindi PC DOS announced
 **************************************************************************
-
-From: Rob Russell <rrussell at ibm.net>
-
 New Delhi, September 15, 1997
-
  To commemorate the Official Language Day, TATA IBM today announced the
 availability of the Hindi PC DOS in India.  PC DOS  is the  first and only
 operating system in Hindi. This landmark effort by IBM is in response to
 the commitment of the Government of India to promote the Hindi language.
-
 In a country where only 5% of the population speaks English, language is
 the biggest barrier to computer literacy. The Tata IBM initiative will
 enable the Hindi speaking population of 360 million to have access to
 computers in their language. This will create a critical mass of computer
 literate people who will contribute to the growth of India's software
 developer population.
-
 The computer programming profession, today a career choice only of an
 English speaking minority is now available to the immense Hindi speaking
 population. IBM's Education Services in India and IIS Infotech today
@@ -37,14 +25,12 @@ developers for comprehensive application software development and with
 hardware vendors for bundling the Hindi PC DOS with new and existing
 machines.  We want to see the benefits of computerization trickle down to
 the masses."
-
 Mr. Pawan Kumar, President , IBM Global Services India says, "Today, the
 penetration of computers in India is just one per 1000 population. There is
 a definite need to increase this ratio. The availability of Hindi PC DOS
 will increase the usage of computers, both in the office and at home. This
 will contribute significantly towards meeting the Government's objective of
 increasing the penetration ten times."
-
 According to Mr. Mike Colleary, Director, IBM Emerging Markets (Software),
 Asia Pacific, "India is a major strategic market and one of IBM Software's
 fastest growing opportunities. The Hindi PC DOS launch shows IBM's
@@ -52,7 +38,6 @@ committment growing opportunity. The Hindi PC DOS launch shows IBM's
 commitment to this to this important emerging country. This tremendous area
 of opportunity is fueled by the second largest software developer
 population in the world."
-
 IBM has made a conscious decision to port Hindi PC DOS on hardware starting
 from a PC 386.  By doing so, Hindi PC DOS reduces the cost of computing
 considerably and allows our customers to use their existing machines. This
@@ -64,23 +49,14 @@ support and encouragement. Office productive packages, database management,
 spreadsheets and customised user packages will be the first to be
 developed. It supports all internal and external commands, data and
 messages in Hindi.
-
 September 14th is India's " Official Language Day."  It was initiated by
 Dr. Rajendra Prasad, the first  President of India in 1950, as a commitment
 of the Government of India to promote Hindi as the Official Language. The
 Official Language Act of 1949, which makes the use of Hindi in Central
 Government Offices mandatory all across the country also resulted from this
 commitment.
-
 Cheers
-
 Rob.
-
---
 Robert Russell
 IBM Global Services Internet and Managed Networks
 rrussell at ibm.net, rob at apic.net
-
-
-
-

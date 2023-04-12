@@ -1,15 +1,4 @@
-From falk at zedat.fu-berlin.de  Fri Jun 28 15:11:45 1996
-From: falk at zedat.fu-berlin.de (falk at zedat.fu-berlin.de)
-Date: Fri, 28 Jun 96 17:11:45 +0200
-Subject: Harvard-Kyoto
-Message-ID: <161227025189.23782.1535235480180296409.generated@prod2.harmonylists.io>
-
-> 
->  If it worked, and if the
-> Harvard-Kyoto transcription is adequate [and if a set of standard keywords
-> can be settled upon], perhaps I can venture into the beginnings of a Vedic
-> bibliography for Indology.
->
+Harvard-Kyoto
 good idea to initiate a Vedic bibliography - but using the Harvard-
 Kyoto transcription would result in a nightmare. Any z in a personal
 name or non-Skt term would be converted to /s, Jolly would end up
@@ -18,10 +7,3 @@ you think of Staal or Fujii. It might be advisible to use the Vienna
 codes or create something new, but any standard which does not lend
 itself to automatic conversion should be banished.
 Harry
-
-
-
-
-
-
-

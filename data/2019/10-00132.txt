@@ -1,54 +1,30 @@
-From mkapstei at uchicago.edu  Wed Oct 16 08:09:10 2019
-From: mkapstei at uchicago.edu (Matthew Kapstein)
-Date: Wed, 16 Oct 19 08:09:10 +0000
-Subject: [INDOLOGY] Thakkana again
-In-Reply-To: <CANS3gun+EiVUFyMYqUxBtxsXB2eaEKapbougL4f66fNPnQ3W0w@mail.gmail.com>
-Message-ID: <DM6PR11MB37728C5B60D661E751972EF5A1920@DM6PR11MB3772.namprd11.prod.outlook.com>
-
+[INDOLOGY] Thakkana again
 Dear all,
-
 It is not plausible that the Tibetan translator arbitrarily contradicted the reading  zakuna, if that was indeed the reading of the text that was used, UNLESS it was well know to have been, or at minimum the pandit with whom he was working explained this to have been, an epithet of Thakkana - in that case, it would have been considered a legitimate substitution.
-
 Once again, we know that the Tibetan translator was familiar with Thagana as a possibility, because he uses this in the final verses. I was, like some of you, surprised to see a humilific name for a king, for which reason I leaned toward the Thakka-na/sgrib med explanation, but I do think now that sgrib byed is preferable. (By the way, Peter, this would transpose to sgrib par byed pa, not sgrib pa byed pa, which may change the 900-to-1 calculation.)
-
 In the case of the mahAsiddha Thagana, as in many mahAsiddha names, the humilific
 is of course what is to be expected - and indeed his hagiography seeks to explain it. (Because he was a compulsive liar, he finally attained liberation by realizing the falseness of appearances - I will abstain here from commenting on current politics with this in mind....) In any case, the siddha Thagana is said to have been a low-caste Bengali.
-
 Probably I will have nothing more to add to this thread, but maybe I'm lying....
-
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info> on behalf of P?ter-D?niel Sz?nt? via INDOLOGY <indology at list.indology.info>
 Sent: Wednesday, October 16, 2019 1:30 AM
-To: indology at list.indology.info <indology at list.indology.info>
-Subject: Re: [INDOLOGY] Thakkana again
-
+Re: [INDOLOGY] Thakkana again
 Dear friends,
-
 Perhaps I'm missing something, but prof. Slaje's argument would work only with the assumption that the verse/text was mediated through ??rad? only and no other script until the printed form. I am completely unfamiliar with the manuscript history of this text. Moreover, I am looking at an 11th c. ??rad? ms. right now (do we have anything slightly earlier?): while ccha and stha are clearly different, they are not _that_ different and I can see how in a hurried hand they could've been confused.
-
 As for sgrib byed/med, a Tibetan could have thought that such an inauspicious word is not apposite for a ma?gala/pratij?? verse, but perhaps it is nothing more than a psychological slip: while sgrib byed and sgrib med occur more or less at the same rate (quick grep through the Bstan 'gyur yields 68 vs 67), a search for sgrib pa med pa vs sgrib pa byed pa yields 919 to 1.
-
 Best wishes,
 Peter
-
-
 On Tue, Oct 15, 2019 at 12:09 PM Roland Steiner via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Let me add a comment right now.
-
 That ?r?macchakuna? cannot be corrupted from ?r?matthakkana? is of
 course completely correct. My original consideration was that ?akuna
 could have been a reading in a direct or indirect source of the verse
 (which is not to be emended text-critically then), but I had lost the
 focus on this in the further discussion.
-
 Walter's idea that the author could have replaced the negatively
 connoted sthagana with a positively connoted ?akuna, is very worth
 considering. Something similar could have happened in the course of
@@ -56,19 +32,9 @@ the transmission of the Tibetan translation. It is conceivable that
 sgrib byed was held to be inappropriate for a name (and therefore to
 be a potential textual corruption) and was replaced by sgrib med
 (perhaps in the sense of an?vara?a "free from destruction", or similar).
-
 Best,
 Roland
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191016/3a18618e/attachment.htm>
-

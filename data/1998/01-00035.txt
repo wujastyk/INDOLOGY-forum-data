@@ -1,20 +1,5 @@
-From Royce.Wiles at ANU.EDU.AU  Tue Jan  6 00:13:35 1998
-From: Royce.Wiles at ANU.EDU.AU (Royce Wiles)
-Date: Tue, 06 Jan 98 11:13:35 +1100
-Subject: jogayara in Samavayanga-suttam?
-Message-ID: <161227034608.23782.11278786648121604283.generated@prod2.harmonylists.io>
-
->In the Ardha-Magadhi dictionary the only source cited for the item
->yogaayaara (= yogaacaara) is Sama 1, which according to my understanding of
->the abbreviations means Samavaayaanga-suttam. In the edition I have (Jaina
->Agama Series 3), however, that term is not listed in the extensive index.
->Am I making some mistake somewhere, or what *is* the story here?  This is
->apparently (if it exists) the only occurence of the term in (at least
->canonical?) Ardha-Magadhi, so I am eager to track it down. Any help much
->appreciated!
-
+jogayara in Samavayanga-suttam?
 Hi Jonathan
-
 I don't have the Illustrated Ardha-Magadhi dictionary (1924, 1977) here
 with me (which I presume is the dictionary you are citing) but I remember
 that for some texts it did use the old Dhanapatisimha editions (referring
@@ -25,33 +10,22 @@ However if the source for the citation is the 1918 (Agamodaya Samiti)
 edition [by Anandasagara] that's another matter. There is a very useful but
 rare dictionary of the Agamodaya Samiti editions of the texts AND
 commentaries published as:
-
 Alpaparicitasaiddhantikasabdakosah.
 Surat : Sresthi-Devacandalalabhai-Jainapustakoddharakosa, 1954-79. 5 v.
-
 Unfortunately I only have access here to v.1, v.3-5 and of course v.2
 contains just the entries needed now - ka to jho - so I can't check for
 you. Have you thought of checking Vijayarajendra's Abhidhanarajendrah
 1910-25 (7 v.)? The Library at ANU has managed to misplace v.s 3 and 4, and
 v. 3 is just the one needed.
-
 The Jain Visva Bharati (Ladnun) edition of the Jain 'canon' (1974-89) is
 also well indexed. The first volume of the index -- published separately as
 'Agama sabdakosa' in 1980  --- covers all the Anga texts but lists nothing
 like jogaayaara.
-
 Although I hesitate to suggest it in case its a wild-goose chase, I have
 occasionally been helped by two other sources (admittedly mostly
 Digambara):
-
 Jainendra siddhanta-kosa / Jinendra Varni. 1970-73. 4 v.
 Jaina-laksanavali : Jaina paribhasika sabda-kosa / Balacandra
 Siddhantasastri. 1972-79. 3 v.
-
 Best of luck.
-
 Royce
-
-
-
-

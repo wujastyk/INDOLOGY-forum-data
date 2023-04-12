@@ -1,39 +1,12 @@
-From magier at columbia.edu  Fri Sep 30 21:06:09 1994
-From: magier at columbia.edu (David Magier)
-Date: Fri, 30 Sep 94 17:06:09 -0400
-Subject: statistical data
-Message-ID: <161227017474.23782.16450403684567704094.generated@prod2.harmonylists.io>
-
-> 1. Names of towns and cities in India with their longitudes and
->    latitudes.
-
+statistical data
 I too would be very interested in discovering such a database, of the
 same type as the Geographic Names Server at University of Michigan
 (which unfortunately only covers North America). Please let me know if
 you find anything of this sort.
-
-> 2. Demographic data, by state, on:
-> 
->    tribes, their names, and number of people in each,
->    castes (subcastes), their names, and number of people in each,
->    languages, their names, and number of people in each.
->    dialects of each language, their names, and number of people in each.
-
 This kind of demographic information, of course, is to be found in the
 Census of India. Latest figures would be found in the 1991 Census,
 whose volumes and results are still being issued.
-
->    other social and cultural characteristics such as:
->    number of different dress styles, cuisines, etc.
-
 Can't think of any one central source for this sort of varied
 information...
-
 David Magier
 magier at columbia.edu
- 
-
-
-
-
-

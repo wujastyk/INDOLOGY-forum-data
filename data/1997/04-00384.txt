@@ -1,20 +1,11 @@
-From zydenbos at flevoland.xs4all.nl  Sun Apr 20 04:47:00 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Sun, 20 Apr 97 03:47:00 -0100
-Subject: `Conversational Sanskrit' vs `Real Sanskrit'
-Message-ID: <161227029836.23782.1834593107176166678.generated@prod2.harmonylists.io>
-
-
+`Conversational Sanskrit' vs `Real Sanskrit'
 Replies to msg 18 Apr 97: indology at liverpool.ac.uk
 (vidynath at math.ohio-state.edu)
-
- voe> Subject: Re: `Conversational Sanskrit' vs `Real Sanskrit'
-
+ voe> Re: `Conversational Sanskrit' vs `Real Sanskrit'
  voe> (3) Technical and scholarly writing in English uses the passive more
  voe> often than colloquial talk, either in English or Tamil. Tamilians
  voe> seem to have no trouble with this. Why should they have trouble with
  voe> passive in Sanskrit?
-
 Because they are native Tamil-speakers and not Sanskrit-speakers. For more or
 less the same reason why they have problems with the past tense of Hindi
 transitive verbs, as I already mentioned. (See also Suniti Kumar Chatterjee on
@@ -27,9 +18,6 @@ following fragment, by a native Tamil speaker, after which I will not continue
 about this subject. Apart from specific history, all he says about Tamil holds
 good for Kannada too. This is reportedly from P.T.Srinivasa Iyengar's "History
 of the Tamils: from the earliest times to 600 A.D":
-
----begin quote---
-
 As he imported the seven cases of Sanskrit into Tamil, Agattiyanaar is also
 responsible for importing the passive voice from Sanskrit. The passive is a
 definite inflection which all verbs, transitive or intransitive, undergo in
@@ -63,12 +51,4 @@ Tamil, has, in our days, become very fashionable in written Tamil, because we
 have learnt to think in English (which revels in passive forms) and write in
 Tamil. This barbarous form in "pa.du" mars every page of the Tamil translation
 of the Bible, and unfortunately the Tamil composition of Pandits."
-
----end quote---
 - RZ
-
-
-
-
-
-

@@ -1,27 +1,11 @@
-From steiner at MAILER.UNI-MARBURG.DE  Mon Dec 20 09:30:17 1999
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Mon, 20 Dec 99 10:30:17 +0100
-Subject: [q] iissara & iisvara
-In-Reply-To: <19991219235906.5168.qmail@hotmail.com>
-Message-ID: <161227054563.23782.1191313591408872428.generated@prod2.harmonylists.io>
-
+[q] iissara & iisvara
 On 19 Dec 99, at 15:59, N. Ganesan wrote:
-
-> In the sanskritization of iiza/iiSa/iissara to iizara, how is the
-> "v" in iizvara added?
 It is not added: Skt. ii"svara > Pkt. issara (Skt. -"sv- > Pkt. -ss-;
 assimilation) [or: iisara].
 Formation: Skt. ii"s- ``ruling" + Suffix -(t)vara/-(t)vala  (cf. i-
 tvara ``going"; kar-vara ``work"; vid-vala ``intelligent"; gah-vara
 ``deep; depth"; bhaas-vara ``shining"; etc.)
-
-> Are there instances where initial i/I/e gets dropped in IA?
 In enclitics, e.g.: Paali va (Skt. iva and eva), ti (iti), daani
 (idaaniim); perhaps fixed sandhi forms.
-
 With kind regards,
 Roland Steiner
-
-
-
-

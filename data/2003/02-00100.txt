@@ -1,18 +1,7 @@
-From Martin.Gansten at TEOL.LU.SE  Tue Feb 25 14:44:20 2003
-From: Martin.Gansten at TEOL.LU.SE (Martin Gansten)
-Date: Tue, 25 Feb 03 15:44:20 +0100
-Subject: jaya = 108?
-In-Reply-To: <005e01c2dcda$a410a250$f1b68283@tibet.univie.ac.at>
-Message-ID: <161227072382.23782.17409259083756754362.generated@prod2.harmonylists.io>
-
+jaya = 108?
 I have never seen this explanation of 'jaya' before; but the assignment of
 the value 8 and 1 to ja and ya, respectively (according to the rule aGkAnAM
 vAmato gatiH) follows the well-known kaTapayAdi system: consonants are
 arranged in series beginning with k, T, p, and y, where the first letter in
 a series has the value 1, the second the value 2, etc.
-
 Martin Gansten
-
-
-
-

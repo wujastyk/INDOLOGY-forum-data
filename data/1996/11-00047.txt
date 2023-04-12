@@ -1,9 +1,4 @@
-From mmdesh at umich.edu  Mon Nov  4 21:22:57 1996
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Mon, 04 Nov 96 16:22:57 -0500
-Subject: Syntax of `yabh'
-Message-ID: <161227026712.23782.11352613300803404587.generated@prod2.harmonylists.io>
-
+Syntax of `yabh'
 	I think there is no grammatical answer to this question, but there
 may be other answers, "in the heat of things" as they say.  Consider the
 Kaama"saastra warning : raticakre prav.rtte tu na "saastram na ca
@@ -14,24 +9,4 @@ anaar.sa usage of Sanskrit.  The banter comes from a layer of Sanskrit
 which, if it stands for women's Sanskrit, would be an interesting register
 of non-standard Sanskrit.
 	Madhav Deshpande
-
 On Mon, 4 Nov 1996, Vidhyanath K. Rao wrote:
-
-> 
-> The recent discussion has reminded of a question I had, but never tried
-> to answer: Datupathas specify `yabh' to be parasmaipada. I vaguely
-> remember the line from asvamedha banter to be `na me kascana yabhate',
-> where it was not clear if `me = mama' or `= mahyam'. Does anybody know
-> the case that `yabh' takes?
-> 
-> Thanks
-> -Nath
-> 
-> 
-> 
-
-
-
-
-
-

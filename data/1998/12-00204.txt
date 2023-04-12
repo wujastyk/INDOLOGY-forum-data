@@ -1,9 +1,4 @@
-From roheko at T-ONLINE.DE  Wed Dec  9 14:03:49 1998
-From: roheko at T-ONLINE.DE (Rolf Koch)
-Date: Wed, 09 Dec 98 15:03:49 +0100
-Subject: devanagarifont SANSKRITA keyboard layout
-Message-ID: <161227043454.23782.11851725741415054828.generated@prod2.harmonylists.io>
-
+devanagarifont SANSKRITA keyboard layout
 The number of total characters possible under windows ANSI standard is
 the same as under DOS: 224, due to the number of possible combinations
 in a 8-bit byte, minus the 32 nonprinting control characters.
@@ -21,7 +16,3 @@ help (catchword: producing a SHORTCUT).
 This should help you.
 Greetings
 roheko at t-online.de
-
-
-
-

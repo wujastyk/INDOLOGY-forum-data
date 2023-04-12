@@ -1,52 +1,12 @@
-From scharfpm7 at gmail.com  Sat Jan 19 07:03:44 2019
-From: scharfpm7 at gmail.com (Peter Scharf)
-Date: Sat, 19 Jan 19 12:33:44 +0530
-Subject: [INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
-In-Reply-To: <CALoZ1nX_g4-Qfv21-g_EDVh36YC+Krc8Xh7wieeWESq0obrc0w@mail.gmail.com>
-Message-ID: <CAO-4jUkzew2UGn1dkOsNmvLKKOpsE3OSyUgR7dAf-DQ2mkKSwQ@mail.gmail.com>
-
+[INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
 I checked the declension of *adas* and sarva (f.) on the Sanskrit Heritage
 site by going to the dictionary and clicking on the gender identifier.  The
 paradigms are correct.  What do you find incorrect and where?
 Yours,
 Peter
-
 On Fri, Jan 18, 2019 at 11:47 PM Walter Slaje via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Certainly a welcome development, but
->
-> > this wonderful grammatical analysis
->
-> really calls for a thorough revision before activating it. The very few
-> searches I could make yielded inexplicable, in parts unbelievably wrong
-> results. Anyone may see for themselves if they just test the declension of
-> "adas", "idam", "ubhaya" (displaying dual forms, but no fem.), "sarv?"
-> (fem.), "dos / do?an", "ana?uh", "asthi", and many more. In the hands of
-> Sanskrit beginners who lack grammatical training this database will do
-> more harm than good. I can only warn against its use until it has seen a
-> very careful revision by experts.
->
-> Kind regards,
-> WS
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--- 
 *******************
 Peter M. Scharf
 scharfpm7 at g <peter.scharf at univ-paris-diderot.fr>mail.com
 *******************
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190119/aca13221/attachment.htm>
-

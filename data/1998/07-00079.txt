@@ -1,36 +1,12 @@
-From info at TICONSOLE.NL  Mon Jul  6 12:25:48 1998
-From: info at TICONSOLE.NL (T.I. Console)
-Date: Mon, 06 Jul 98 14:25:48 +0200
-Subject: Sanskrit
-Message-ID: <161227040600.23782.15905054083672509410.generated@prod2.harmonylists.io>
-
+Sanskrit
 Harold Arnold wrote:
-
->How about: "The ocean had tea dumped into it by the revolutionaries?" "The
->ocean" is clearly the subject here, but I won't even begin to try to
->analyse the phrase "into it by the revolutionaries"
-
 Neither do I. I cannot escape the impression that your, rather unrealistic, example might have the following underlying structure,
-
 A2)  `x - to_have dumped - tea - into the ocean - by the revolutionaries'
-
 which on its turn has the underlying active structure
-
 A1) `the rev. - to_dump - tea - into the ocean'
-
 After A2, the ocean has been raised to specifier position SPEC of I (subject position), leaving a trace in the form of the correlated neutral pronoun `it'. Finally, there is a chain `ocean - it', with `ocean' indeed in a subject position, but with the remaining loc phrase still in place. `it' has substituted `ocean'. I cannot see this as an example of LOC to SUBJECT.
-
 A3) the ocean - had have dumped - tea - into it(self) - by the revolutionaries
-
 Sandra van der Geer
 Leiden, NL
 info at ticonsole.nl
 http://www.ticonsole.nl/science/index.htm
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 1820 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980706/c60670ae/attachment.bin>
-

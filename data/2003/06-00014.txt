@@ -1,10 +1,4 @@
-From Scharf at BROWN.EDU  Mon Jun  9 17:43:52 2003
-From: Scharf at BROWN.EDU (Peter M. Scharf)
-Date: Mon, 09 Jun 03 13:43:52 -0400
-Subject: Nirukta - second pari/si.s.ta
-In-Reply-To: <l03130302bb060a145462@[130.104.243.146]>
-Message-ID: <161227072832.23782.15974774002645671446.generated@prod2.harmonylists.io>
-
+Nirukta - second pari/si.s.ta
 Both Lakshman Sarup's edition of Nirukta and Bhadkamkar's edition
 (Bombay Sanskrit and Prakrit Series LXXXV) of Nirukta with Durga's
 commentary contain both parisistas.  Sarup's edition does not contain
@@ -16,7 +10,6 @@ him as early as 1st...but no later than 13th c.  Kunhan Raja before
 600 and Eivind Kahrs (Indian Semantic Analysis, p. 14): 6th c.  A
 closer examination of the relationship of the 2nd parisista with
 other texts would probably contribute to its dating.
---
 **************************************************
 Peter M. Scharf             (401) 863-2720 office
 Department of Classics      (401) 863-2123 dept
@@ -26,7 +19,3 @@ Providence, RI 02912        Scharf at brown.edu
 http://www.brown.edu/Departments/Classics/Scharf/
 http://sanskritlibrary.org/
 **************************************************
-
-
-
-

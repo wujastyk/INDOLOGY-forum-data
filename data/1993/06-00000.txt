@@ -1,9 +1,4 @@
-From yanom at JPNKSUVX.EARN  Tue Jun  1 01:04:06 1993
-From: yanom at JPNKSUVX.EARN (yanom at JPNKSUVX.EARN)
-Date: Tue, 01 Jun 93 01:04:06 +0000
-Subject: Issues in the creation and dissemination of Sanskrit e-texts
-Message-ID: <161227015842.23782.3322819904824033341.generated@prod2.harmonylists.io>
-
+Issues in the creation and dissemination of Sanskrit e-texts
 The topic concerning the 'level of perfection of e-texts' which
 was just posted by Dominik is quite significant.
 First of all he pointed out the difference of nature between
@@ -11,7 +6,6 @@ e-texts and traditionally printed texts.  All the e-texts will
 never attain their real perfection, being, as it were, always
 on the way to perfection.  Thus it is the level of accuracy that
 counts.
- 
 In his discussion of the 'level of perfection', however, Dominik
 seems to have put more weight to quantitative aspect of the
 'level' than to qualitative aspect. By mentioning 'seriousness'
@@ -22,7 +16,6 @@ according to the texts as well as according to the purpose of
 those who use e-texts.
 Since I am not good at writing English quickly, Let me give
 my own example.
- 
     When I typed the Brihandsamhita --- the text now open for
 general use is far from being perfect.  After I publicized it
 my students found hundreds of errors.  I am preparing a better
@@ -40,15 +33,7 @@ MA thesis on the Utpala's glosses on the text.  More than 5000
 Sanskrit words with glosses have been registered by her as e-text.
 It really helps when we read the Brihatsamhita with Utpala's
 commentary.
- 
     So if the same text are input two times or three times by
 different scholars with different purposes, it would not be a
 sheer loss of time.
- 
 Michio YANO
- 
-
-
-
-
-

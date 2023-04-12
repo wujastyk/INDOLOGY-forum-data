@@ -1,12 +1,5 @@
-From baums at U.WASHINGTON.EDU  Thu May 21 01:44:41 2009
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Wed, 20 May 09 18:44:41 -0700
-Subject: textual sequence
-In-Reply-To: <10EBE4E2-BF7C-4FA2-A2A9-D1C13F438F27@t-online.de>
-Message-ID: <161227086339.23782.6303843857952551997.generated@prod2.harmonylists.io>
-
+textual sequence
 Dear Petra,
-
 in G?ndh?r? commentary manuscripts (1st c. BCE to 2nd c. CE), root
 verses are identified at the beginnig of commentary sections by
 their first p?da, and prose root texts by their first few
@@ -16,7 +9,6 @@ their root status) interspersed. The root text is nowhere quoted
 in full, neither before nor after the commentary, which probably
 means that readers were supposed to know it by heart and just
 needed their memory jogged.
-
 Over on the Pali side, I think that if you look at the Niddesa,
 the original order is for a full quotation of a root verse to
 follow the commentary as you describe. Each of the commentary
@@ -31,15 +23,8 @@ that is presumably the more original one of the two. One could
 further compare the Ud?na and similar texts, where the root verse
 likewise follows the explanatory prose, introduced by a linking
 phrase ?atha kho bhagav? ... ima? ud?na? ud?nesi ... .?
-
 All best wishes,
 Stefan
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

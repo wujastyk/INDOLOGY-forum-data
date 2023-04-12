@@ -1,16 +1,10 @@
-From lehmann at alcor.concordia.ca  Mon Oct 21 14:58:48 1996
-From: lehmann at alcor.concordia.ca (Jutta K. Lehmann)
-Date: Mon, 21 Oct 96 09:58:48 -0500
-Subject: Re John Smith's Mahaabhaarata
-Message-ID: <161227026511.23782.12216497117247459767.generated@prod2.harmonylists.io>
-
+Re John Smith's Mahaabhaarata
 This will serve as a reply to Harold Arnold, Beatrice Reusch, Joel 
 Tatelman and other "Mac users in a PC world" who have asked for more 
 information on converting Prof. Tokunaga's voluminous files to a Mac font 
 format. Let me say in advance that I agree with Beatrice that a manual 
 search and replace would take some time and patience (the Rg Veda would 
 no doubt be a nightmare). 
-
 The first thing to consider is the particular font you wish to use (e.g. 
 Normyn, Mytimes, Madhushree, Indic Times etc.). The task is to translate 
 the source coding (in this case Tokunaga's system) into the keyboard 
@@ -19,7 +13,6 @@ a letter-by-letter "search and replace" with your word processor. A much
 quicker method is to use a search and replace utility such as Torquemada 
 (the one I happen to use). The following information from the ReadMe file 
 will explain better than I can:
-
 "Torquemada is a Macintosh bulk search and replace utility. It
 operates on files of type 'TEXT' and incorporates a number of
 features to facilitate the wholesale revision of text. Among these
@@ -30,21 +23,12 @@ files can be deployed at once, yielding a total of 640 search and
 replace strings. Under System Seven, up to 32 set files and up to 128
 text files can be dropped on the program's icon; each set will be run
 against each text file in an unattended batch."
-
 Once you have set up your parameter, the program does its thing in a 
 matter of seconds (Yes, the whole of the Mahabharata in a matter of 
 seconds - unbelievable!).
-
 Version 1.1.0 is still freeware although the author has also developed a 
 commercial version. Unfortunately, I cannot remember the site where I 
 downloaded this, but it should still be available on one of the Info-Mac 
 sites, at Stanford, or at the Merit Archive.
-
 Hope this helps.
-
 Julian Woods
-
-
-
-
-

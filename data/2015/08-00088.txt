@@ -1,17 +1,10 @@
-From will.sweetman at gmail.com  Tue Aug 11 00:03:24 2015
-From: will.sweetman at gmail.com (Will Sweetman)
-Date: Tue, 11 Aug 15 12:03:24 +1200
-Subject: [INDOLOGY] Texts and bodily metaphors
-Message-ID: <CAMw=p+scp+kw5k04BCnPfmyp-SpeJ0cRBftXHcp0xinoWwWMKg@mail.gmail.com>
-
+[INDOLOGY] Texts and bodily metaphors
 Dear all
-
 I'm working on some early European accounts of the Vedas including what I
 think is the very first reference to the Vedas in a European text. This was
 published in Couto's *Da Asia,* but is in fact taken from another work
 written by an Augustinian friar Agostinho de Azevedo in 1603. Azevedo (in
 my translation) says that the Brahmins:
-
 "have many books in their Latin, which they call Gered?o which contain
 everything they are to believe, and all the ceremonies they are to perform.
 These books are divided into bodies [corpos], limbs [membros] and joints
@@ -20,12 +13,10 @@ into four parts, and these further into fifty-two parts in the following
 manner: six which they call Xastra, which are the bodies, eighteen which
 they call Purana, which are the limbs, twenty-eight called Agamon which are
 the joints."
-
 This formulation, with variations, is repeated in many subsequent European
 sources. The terms for the divisions (corpos,membros, articulos), which are
 not so often repeated, have usually been translated more literally as
 bodies, members and articles (or articulations).
-
 I'm curious as to whether anyone is aware of an Indian source which uses
 these metaphors. I'm aware, of course of the Ved??gas, but I think the six
 here are clearly meant to be the ??stras/dar?anas. This may indicate some
@@ -35,13 +26,5 @@ writer may be following rather than immediately assuming error or
 invention, so I'd welcome any leads and/or comments on translating membros
 as limbs and articulos as joints. "Articles" for the latter seems to me to
 be a particularly unilluminating translation.
-
 Best
-
 Will
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150811/9e1e02ed/attachment.htm>
-

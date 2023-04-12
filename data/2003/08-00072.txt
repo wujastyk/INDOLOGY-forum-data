@@ -1,92 +1,52 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Fri Aug 29 21:56:05 2003
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
-Date: Sat, 30 Aug 03 09:56:05 +1200
-Subject: [acmuller@GOL.COM: RESOURCE> Jeffrey Hopkins'              Tibetan-Sanskrit-English Dictionary (Montano)]
-Message-ID: <161227073175.23782.11137117650483432269.generated@prod2.harmonylists.io>
-
+[acmuller@GOL.COM: RESOURCE> Jeffrey Hopkins'              Tibetan-Sanskrit-English Dictionary (Montano)]
 Dear Colleagues,
-
 This may be of interest.
-
-
------ Forwarded message from Charles Muller <acmuller at GOL.COM> -----
-
-From: Charles Muller <acmuller at GOL.COM>
 Sender: H-NET Buddhist Scholars Information Network <H-BUDDHISM at H-NET.MSU.EDU>
 Reply-to: H-NET Buddhist Scholars Information Network <H-BUDDHISM at H-NET.MSU.EDU>
-To: H-BUDDHISM at H-NET.MSU.EDU
-Subject: RESOURCE> Jeffrey Hopkins' Tibetan-Sanskrit-English Dictionary
+RESOURCE> Jeffrey Hopkins' Tibetan-Sanskrit-English Dictionary
  (Montano)
-Date: Sat, 16 Aug 2003 19:38:43 +0900
 X-Mailer: Mew version 3.1 on Emacs 21.2 / Mule 5.0 (SAKAKI)
 X-Spam-Score: -1.2 (-)
 X-Spam-Status: No, hits=-6.7 required=3.0
         tests=APPROVED_BY,AWL,BAYES_01,IN_REP_TO,REFERENCES
         version=2.55
 X-Spam-Level:
-
-From: "Andres Montano" <amontano at virginia.edu>
-Subject: Jeffrey Hopkins' Tibetan-Sanskrit-English Dictionary available for downloading
-Date: Sat, 16 Aug 2003
-
-
+Jeffrey Hopkins' Tibetan-Sanskrit-English Dictionary available for downloading
 Dear H-Buddhism members:
-
 A digital version of Jeffrey Hopkins' Tibetan-Sanskrit-English Dictionary is
 now available for free download on several formats. Even though the
 dictionary is an unfinished product and many entries still need to be
 revised, it is a useful resource for scholars working with Tibetan sources.
-
 The formats available are:
-
 1. Tomeraider format. You can download tomeraider from www.tomeraider.com.
 You can find Jeffrey Hopkins' dictionary on www.memoware.com by searching
 for "Jeffrey Hopkins Dictionary". This version allows easy browsing of the
 dictionary in Tibetan alphabetical order. Tomeraider runs on most platforms
 including handheld devices like pocket-pc's and palmPilots. The display is
 done in the wylie transliteration scheme.
-
 2. Using the Tibetan Translation Tool. This Java tool takes Tibetan language
 passages - which can be cut and pasted in, typed in Wylie transliteration,
 or typed in Tibetan script - and divides the passages up into their
 component phrases and words, and displays corresponding dictionary
 definitions. Runs also on most platforms including handheld devices as
 pocket-pc's.
-
 See http://www.people.virginia.edu/~am2zb/tibetan/
-
 * You can use the Translation Tool to access on-line databases (which
 include the latest version of both Jeffrey Hopkins' Dictionary and the
 Rangjung Yeshe Tibetan-English Dharma Dictionary).
-
 * You can also download Jeffrey Hopkins' Dictionary into your hard-drive and
 access it through the Tibetan Translation Tool running locally.
-
 I exhort other Tibetan dictionary writers who want to give on-line access to
 their dictionaries through the Translation Tool to write me off the list.
-
 Please forward this message to students and scholars not on this list who
 may find this information useful.
-
         Andres Montano
         Graduate Student
         Religious Studies Dept, University of Virginia
-
------ End forwarded message -----
-
-
 Best regards,
-
  Richard Mahoney
-
-
---
 Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
 Woodfield Estate |         r.mahoney at comnet.net.nz
 Duncan Road, RD3 | cellular: 0064-25-829-986
 HAMILTON, NZ     | http://homepages.comnet.net.nz/~r-mahoney
 http://homepages.comnet.co.nz/~r-mahoney/records/rbm_cv.html
-
-
-
-

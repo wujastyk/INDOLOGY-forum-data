@@ -1,37 +1,11 @@
-From jds10 at CUS.CAM.AC.UK  Mon Feb  8 09:50:13 1999
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Mon, 08 Feb 99 09:50:13 +0000
-Subject: Use of avagraha
-In-Reply-To: <19990207184703.8236.qmail@hotmail.com>
-Message-ID: <161227046042.23782.14161245863698637654.generated@prod2.harmonylists.io>
-
+Use of avagraha
 On Sun, 7 Feb 1999, harry spier wrote:
-
-> Some western editions of Sanskrit texts occasionally use avagraha (or
-> double avagraha where appropriate) to indicate the assimilation of a
-> final a or A into a preceeding a or A.  In examining nine western
-> editions of the Bhagavad Geeta, it was seen that eight of them did this,
-> but none were self-consistent (the same word combinations sometimes
-> having an avagraha inserted and sometimes not).  Is this a modern or
-> western edition use of avagraha?  Is it more correct not to use avagraha
-> in this manner?
->
-> Any guidelines from professional Sanskritists would be greatly
-> appreciated.
-
 Avagraha to indicate vowel-sandhi is not favoured in modern scholarly
 practice, which restricts it to indicating loss of initial "a" (with
 double avagraha for the much rarer case of loss of initial long "A"). This
 is equally true of Indian and western editions.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

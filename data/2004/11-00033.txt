@@ -1,21 +1,3 @@
-From k.harimoto at LET.RUG.NL  Thu Nov 11 02:51:44 2004
-From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
-Date: Thu, 11 Nov 04 03:51:44 +0100
-Subject: Devanagari
-In-Reply-To: <20041111020204.GD15888@deepthought>
-Message-ID: <161227075275.23782.12460924217671257220.generated@prod2.harmonylists.io>
-
-> Only if a document explicitly uses the PUA codepoints.  On any
-> system capable of handling OpenType fonts, however, one would use
-> sequences of the basic Unicode Devanagari characters, and the
-> OpenType features of the Sanskrit 2003 font will automatically map
-> from them to the conjuncts in the PUA.
-
+Devanagari
 Indeed. I confirmed.  No need to worry.
-
--- 
   ?????? ???????
-
-
-
-

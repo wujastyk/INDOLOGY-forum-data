@@ -1,47 +1,21 @@
-From karp at uw.edu.pl  Thu Nov 24 19:37:56 2016
-From: karp at uw.edu.pl (Artur Karp)
-Date: Thu, 24 Nov 16 20:37:56 +0100
-Subject: [INDOLOGY] Diacriticals in unicode, single or multiple glyphs
-In-Reply-To: <CAPW7aQG8e3bF=HR03DKHoSbaXAkr9w1rgatWUiRCGQ-9Yj3ugA@mail.gmail.com>
-Message-ID: <CALNcvFvZ+=3beHoGaLKnn0N6BNg_96O42Chgzp-CQpxvjzzRyQ@mail.gmail.com>
-
+[INDOLOGY] Diacriticals in unicode, single or multiple glyphs
 Dear Colleagues
-
-
 Wikipedia is known for its amiguities and blunders.
-
-
 In ISO 15919 (SA languages) e/o with macron-over (?/?) appear in the
  Dravidian languages:
-
-
 *Tamil, *
-
-
 *??*  ke
-
 ??       k?
-
-
  *??*   ko
 *??*     k?
-
 *Kannada*
-
 *? *e
-
 *? *?
-
 *?*  o
-
 *?*  ?
-
 *Malayalam*
-
 ? e
-
 *?* ?
-
 *?*
 *? *
 o
@@ -50,11 +24,4 @@ o
 ?
 T
 ?hanks,
-
 Artur Karp?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161124/e4229c4a/attachment.htm>
-

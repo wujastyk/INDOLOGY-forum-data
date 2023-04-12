@@ -1,9 +1,4 @@
-From selvakum at VALLUVAR.UWATERLOO.CA  Thu Apr 30 20:45:24 1998
-From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
-Date: Thu, 30 Apr 98 16:45:24 -0400
-Subject: Telugu history
-Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylists.io>
-
+Telugu history
 @
 @Mr. Ganesan:
 @I have no statistical studies on which literary Dravidian language  has been
@@ -16,10 +11,8 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
 @and mey which correspond to praaNa and praaNi, veeRRumai is translated from
 @vibhakti, tokai from samaasa, and  uvamai is upama; kaappiyam is itself a
 @tadbhava of kaavyam whatever Tamil purists may say.
-
     May I know the arguments why the above are from sanskrit to tamil and
     not from tamil to sanskrit ?
-
 @tadbhava of kaavyam whatever Tamil purists may say. Is there any Tamil
 @classic which is devoid of the influence of Sanskrit langauge? Of course
 @not, because that was not a political problem then.
@@ -30,12 +23,10 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
 @literary Dravidian languages. Nativizing Sanskrit names into Tamil, like
 @neTunceZiyan, aaRmukam, etc. is a recent trend which has political origins
 @and overtones.
-
     It is possible that some are from skt to tamil or as calque but not all.
     For example I would be quite interested to know why you consider
     aaRumukam as a translation of SaNmukam. It is probably the otherway
     around. I would be surprised if SaNmukam means same as aaRumukam.
-
 @
 @What does it matter which language has more of Sanskrit or less of Sanskrit?
 @As a linguist, I see this kind of inquiry itself is political. English, the
@@ -45,7 +36,6 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
 @said, Telugu has greater accommodative power of foreign borrowings without
 @creating tadbhavas than the other modern Indian languages and he said it
 @deserved to be the official language of India.
-
     I don't know the metrics for measuring the 'accomodative power
     of foreign borrowings', but Tamil can and does borrow verbs, nouns,
     and adjectives from English with such tremendous ease that it
@@ -57,18 +47,13 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
     is mostly prevalent in urban 'middle-class' 'conversational
     tamil'. I'm not claiming that this 'phenomenon' is somehow
     exclusive to Tamil. Just to show that it has the 'ability' to borrow.
-
-
     Borrowing pattern: verb -> verb+'paNNu'.
                                Example: 'drive' paNNu (=drive)
-
                        noun -> no change but accepts 'vERRumai' endings
                                Example: 'house'ai kaNdu pidiccEn (I found the
                                          house)
-
                        adjective -> adjective + aa
                                 Example: avan 'tall'aa iruntaan ( = He was tall)
-
                        syntax-alloy -> Many different patterns. Just one
                                        example: 'If he gives two years
                                        guarantee'nna paravayillai
@@ -76,29 +61,21 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
                                        (=If he gives two years guarantee, then
                                         it is allright otherwise we don't
                                         need it )
-
-
 @
 @Purity of a language is a myth. All languages borrow including Tamil.Do
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
    No problem here. The problem is some people assert that it is a one-way
    traffic from Sanskrit to Tamil and other indian languages.
    Or even if they don't say it is 'one-way' traffic, they will cite examples
    only or mostly from sanskrit to other languages.
    There are many myths and some are to do with Sanskrit.
-
 @different degrees matter? How? Borrowing is one of the ways of enriching a
 @language. Purism of any language is a pathological state of some of its
 @speakers who wanted to banish foreign elements from the language for
 @political purposes. No languge has benefitted by such attitudes; on the
 @contrary such languages have suffered in the long run.
-
     I've other questions on your posting, but may be I'll raise them later.
-
     selvaa
-
-
 @Best regards, Bh. K.
 @end
 @Bh. Krishnamurti
@@ -109,7 +86,3 @@ Message-ID: <161227038020.23782.10337510516299333435.generated@prod2.harmonylist
 @Telephone (R)(40)701 9665
 @E-mail: <bhk at HD1.VSNL.NET.IN>
 @
-
-
-
-

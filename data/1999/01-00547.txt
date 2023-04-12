@@ -1,16 +1,4 @@
-From mgansten at SBBS.SE  Sat Jan 23 16:49:29 1999
-From: mgansten at SBBS.SE (Martin Gansten)
-Date: Sat, 23 Jan 99 17:49:29 +0100
-Subject: Hindu new years day
-Message-ID: <161227045572.23782.16048350512831420030.generated@prod2.harmonylists.io>
-
->> Obviously this is a survival from the time when these sankrantis really did
->> coincide with the solstices.
->
->Is there a source for the last sentence?  I would think that
->the Sakranti could relate to the declination of the sun at an
->intermediate latitude.
-
+Hindu new years day
 This isn't clear to me. How would they relate? The ayanas are the northern
 and southern course of the sun. Irrespective of where you are on the globe,
 the sun will be observed at the northern tropic at summer solstice (around
@@ -20,10 +8,5 @@ course the terms 'summer' and 'winter' are so dependent), nor would they
 change with time. The sankrantis, however, do change; in Balabhadra's time,
 they would have taken place some 5 days earlier than today, owing to
 precession (ayanamsha).
-
 Best regards,
 Martin Gansten
-
-
-
-

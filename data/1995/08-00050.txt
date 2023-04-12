@@ -1,19 +1,12 @@
-From jdunne at husc.harvard.edu  Thu Aug 10 18:30:24 1995
-From: jdunne at husc.harvard.edu (John Dunne)
-Date: Thu, 10 Aug 95 14:30:24 -0400
-Subject: Miscellaneous ??s
-Message-ID: <161227020286.23782.6052404307434596584.generated@prod2.harmonylists.io>
-
+Miscellaneous ??s
 In reply to Robert Hueckstedt's request, I will offer a few comments on
 his paragraph on Buddhist philsophy. I should preface my comments with the
 recognition that such summaries can never satisfy the more pecayune
 interests of specialists, but careful wording may avoid much of their more
 indignant wrath. 
-
 I do not mean to imply that `Buddhologists' are academic piranhas, but as
 a specialist in the field, I have witnessed the occasional feeding frenzy.
 I hope that in my comments below, I too do not become overly zealous. 
-
 If Dr. Hueckstedt is relying on secondary sources, the difficulty of his
 task is compounded by the gulf between the available secondary sources and
 the current understanding of these issues among specialists. That is, most
@@ -21,23 +14,14 @@ of the sources available now have been superceded, often by many years,
 but the research and literature that supercedes them is not yet available
 in a work that would be accessible to the non-specialist. This problem may
 disappear within the next year or two. 
-
 To move on to my suggestions, I will excerpt lines from the paragraph and 
 offer my comments below each:
-
-
-> Buddhism encompasses four major, mutually differing schools and many
->minor ones. 
-
 Historically, Indian Buddhist philosophers do not seem to have a clear 
 notion of Buddhist philosophical `schools' (vaada) prior to the sixth 
 century, and the codification of the so called `four schools' may not 
 have occurred until the seventh or eigth centuries. Hence, you may wish 
 to avoid any anachronism by saying: "Buddhism encompasses various 
 philosophical views that were later typified as the `four schools.'
-
-> All of them agree on atheism, that no God created the world.
-
 Here I have a quite minor comment. Despite the appositive, this phrase
 might lead a reader to think that Buddhists did not believe in gods,
 whereas gods were important figures in Buddhist literature and practice.
@@ -45,18 +29,11 @@ Hence, you might say, "Although Buddhists believed in various realms of
 existence teeming with gods, demons and assorted spirits, they denied that
 any god could be omniscient, omnipotent, or the Creator. In this sense,
 they are `atheist.'
-
->The M?dhyamikas' conclusion is one of radical non-existence. 
-
 This statement would probably not be well received by many contemporary
 specialists. You might say `The madhyamakas employ a radical critique of
 essentialism, whereby they deny the existence of any ultimate entities
 whatosever. Their claims might be reduced to a form of extreme
 relativism.'
-
-> The Yogaacaaras' conclusion is one of complete subjectivism -- there is 
->only the subject, no object.
-
 Again, this would probably not be well received. Yogaacaraa philosophers
 specifically state that their goal is to negate subject-object duality. 
 Their procedure is to deny that any object exists in the way that it is
@@ -77,7 +54,6 @@ philosophers would be willing to attribute some non-dual properties
 state of the field does not allow any conclusive discussion of this point.
 Indeed, the various philosophers identified as `yogaacaara' do not agree
 on many such points. 
-
 I do not envy you the task of writing a single line to convey the overall 
 conclusion of yogaacaara philosophy, but your statement might be modified 
 to read: `The conclusion of Yogaacaara is one that might be called 
@@ -85,7 +61,6 @@ to read: `The conclusion of Yogaacaara is one that might be called
 subject and external objects are seen to be fictions based on events 
 within the mind-stream itself as a result of dispositions created by 
 past actions and relations with other mind-streams.'
-
 It is important to note that some contemporary authors would vehemently
 reject the notion that any Yogaacaara denied external objects. On their
 account, the word `idealism' should be replaced by `phenomenalism.' My own
@@ -94,11 +69,6 @@ feeling is that a phenomenalist interpretation of standard yogaacaara
 in many cases directly refuted by some texts. This is a point of
 considerable dispute. Again, it is possible that there was no agreement
 among the Yogaacaara philosophers themselves. 
-
-
-> The conclusion of the Vaibh?.sikas is just the opposite -- direct
->realism, there is only the form > (\it{r?pa}<what is this??>), no subject. 
-
 I think that there are some secondary sources that could easily mislead
 one on this point, but in the usual sources of Vaibhaa.sika views (the
 _Abhidharmako"sa_ and its _bhaa.sya_), the author Vasubandhu clearly
@@ -127,11 +97,6 @@ which is perhaps sufficiently vague to avoid most misunderstandings. The
 real problem here is that Vasubandhu was not explicit enough to warrant 
 any such appellation in his discussions on perception, while his 
 discussions of language tend more toward conceptualism.
-
-
->The Sautraantikas' conclusion is often called indirect realism: there is
->something out there, but only phenomenally so. 
-
 This is my area of specialization, so I could probably quibble endlessly. 
 But fortunately, I think that most scholars would probably agree that the
 `Sautraantika' account of sense-perception could be called indirect
@@ -151,7 +116,6 @@ Indeed, Sautraantika philosophy explicitly denies the ultimate validity of
 the conceptualist position. Hence, we must conclude that they essentially
 espouse a unique form of radical nominalism (one that is surprisingly
 coherent). 
-
 I put the term `Sautraantika' in quotes because it is unclear whether 
 anyone was a `Sautraantika' in the fullest sense of the term. For most 
 philosophers, Suatraantika philosophy seems to entail a form of 
@@ -160,10 +124,6 @@ Sautraantikas, but at points they make it clear that a certain (possibly
 phenomenalist!) interpretation of yogaacaara is their final position. The 
 lone candidate for pure Sautraantika-ism is the obscure S"ubhagupta, a 
 little known and extremely terse author.
-
-
->Of course, the debates are more interesting than the conclusions. 
-
 Forgive me for saying so, but this comment seems slightly gratuitous. For
 instance, one of the conclusions drawn by Dignaaga, Dharmakiirti and their
 philosophical inheritors is the exclusion (apoha) theory of meaning. This
@@ -173,15 +133,9 @@ statement applies only to those who share your tastes or predilections I
 only wish to suggest that you not prejudice your reader against these
 materials. This is probably not your intention, but it might easily be
 interpreted in that fashion. 
-
 In any case, I hope that these comments have been helpful (or at least 
 not overly tiresome).
-
 Best wishes,
-
 John Dunne
 Study of Religion
 Harvard University
- 
-
-

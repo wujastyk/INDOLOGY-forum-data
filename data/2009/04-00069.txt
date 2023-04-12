@@ -1,15 +1,7 @@
-From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Sun Apr 12 21:15:30 2009
-From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
-Date: Sun, 12 Apr 09 23:15:30 +0200
-Subject: What happened when Brahmins became native Tamil speakers?              (Re: "kaapya-" ...
-In-Reply-To: <cc9.4d9b1fa9.37139f7e@aol.com>
-Message-ID: <161227085801.23782.857755393449237803.generated@prod2.harmonylists.io>
-
+What happened when Brahmins became native Tamil speakers?              (Re: "kaapya-" ...
 Dear SP,
-
 I agree that the fact that inscriptions use "n" or "?" is not a 
 significant issue. I just mentionned it for the sake of completion;
-
 Regarding your two earlier posts (the first one dated 14 Aug 1999 and 
 the second one dated 10 Aug 2006),
 they contain indeed a lot of interesting data, some of which seems to be 
@@ -17,203 +9,51 @@ interpretable using the "v?ddha vs. yuvan" distinction which was evoked
 at the beginning of the thread and commented upon by Professor Cardona:
 in 
 <http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0904&L=indology&D=1&O=D&F=P&P=4372>.
-
 You write (in your 1999 post [converted to Unicode, hopefully without 
 mistakes])
-
 <BEGIN QUOTE: SP: Aug 1999>
 There are three Classical Tamil poets from Madurai with the following 
 names: p?l?ciriyar napp?la??r, p?l?ciriyar na???ma??r, p?l?ciriya? 
 c?nta? ko??a??r
-
 Regarding each of these U. V. Saminataiyar  suggests they were probably 
 teachers of children, based on Ta. p?la < Skt. b?la (ca?kak?lap 
 pulavarka?, p.342-3). The Tamil Lexicon also interprets it in the same 
 manner.
-
 However, a study of Tamil inscriptions reveals that p?l?ciriya? is a 
 variant of Tamilized p?r??arya, ie., one who belonged to the lineage of 
 par??ara/?r?.
-
 An inscription, SII vol. 17, no. 598, of the period of Kulottunga Chola 
 II (12 th century) gives three variants of the same name as:
 p?r?ciria?, p?r??r?a?, p?l??r?a?
-
 When considered along with other names in the inscription, it is obvious 
 that it is a gotra name. There are other inscriptions which give the 
 variant p?l?ciria?. Another inscription gives the variant p?r?carian.
-
 This will help us correctly interpret the name of another CT poet 
 "maturai i?amp?l?ciriya? c?nta? k?tta??r". UVS intreprets the name as 
 teacher c?nta? k?tta? who was originally from the place called i?amp?l 
 and later
 settled in Madurai. The correct interpretation should be, "c?nta? 
 k?tta?, the young  one of the lineage of par??ara/?r?".
-
 We have other poets with part of the names derived from gotra names such as:
-
 maturai i?a?kaucika??r (kau?ika) ,
-
 ko/??ima?kalam v?tu?i na?c?nta??r (v?dh?la) ,
-
 k?cipa? k?ra??r (k??yapa) ,
-
 ka?ampa??rc c???iliya??r (????ilya),
-
 ta?k?l ?ttir?ya? ce?ka??a??r (?treya)
-
 Similarly, CT poet k?????u e?iccil?r m??ala? maturaikkkumara??r and 
 m??ala ma?aiy?? of Cilappatik?ram were brahmins of the m??ala gotra 
 which is one of the gotras listed by Chitralekha Gupta in "The Brahmanas 
 of India., 1983, p.117. Similarly, tolk?ppiya? probably belonged to 
 k?pi/k?pya gotra. Both m??ala? and k?ppiya? occur in inscriptions.
-
 <END QUOTE: SP: Aug 1999>
-
 Do I understand you correctly if I say that you think that the "v?ddha 
 vs. yuvan" distinction (i.e. "g?rgya" vs. "g?rgy?ya?a"), could be 
 expressed in Tamil, AT LEAST in the cases WHEN it was felt NECESSARY, by 
 making use of /tol/ ("ancient, senior") and /i?am/ ("young, junior") 
 components of the long names.
-
 In that case, the forms you quote, /i?amp?l?ciriya?/ and 
 /i?a?kaucika??r/ are the Tamil equivalent of /yuvan/ forms.
-
 Similarly, /tolk?ppiya?/ could be the Tamil equivalent of a /v?ddha/ form.
-
 Is this what you mean?
-
 Best wishes
-
--- Jean-Luc Chevillard
-
-
 Sudalaimuthu Palaniappan a ?crit :
->  
-> Dear JLC,
->  
-> In my opinion, the use of dental n vs. alveolar n2 as in SII v8, no.196 is  
-> not a significant issue. As you know, there are many case where in the  
-> same inscription, the same name occurs with both variants. For kAppiyan2 with  
-> alveolar n2, see SII 19, nos. 62, 63, and 335.
->  
-> Two of my earlier posts that may be related to this issue are.
->  
-> _http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind9908&L=INDOLOGY&P=R2624&I=-3_ 
-> (http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind9908&L=INDOLOGY&P=R2624&I=-3) 
-> _http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0608&L=INDOLOGY&P=R479&I=-3_ 
-> (http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0608&L=INDOLOGY&P=R479&I=-3) 
->
->  
-> In the names of Classical Tamil (CT) poets and the persons they sung about, 
->  some seem to have only gotra component while others have gotra as well as 
-> given  names while others have some or all of the following: names of the 
-> name of  original region, name of original town/village, (qualified) name of 
-> gotra,  current town/village, father and given name. 
->  
-> So we have AmUrk koutaman2 cAtEvan2Ar and kOtaman2Ar as well as cellUrk  
-> kOcikan2 kaNNan2Ar and maturai iLaGkoucikan2Ar. The need for the use of given  
-> name might have been based on how well-known the person was in the literary 
->  circles. Consider the case of the title kAviti discussed by pErAciriyar. 
-> We have  CT poets, iLampullUrk kAviti, kiTaGkil kAvitik kIran2 kaNNan2Ar, and 
-> AvUrk  kAvitikaL cAtEvan2Ar. Thus what tolkAppiyar says is a general rule. 
-> But  depending on the 'branding' of the individual person, the minimal  
-> number of referential terms/names/titles one needs to specifically identify a  
-> person could have varied and the gotra-derivative name can be in the middle 
-> or  at the end in literary usage. The case of the inscriptional usage might 
-> be  slightly different since the inscriptions were legal documents and one  
-> needs to have more formal identification.
->  
-> This could have been probably similar to the current popular  usage of 
-> 'kalaiJar' which while in general could mean any artist (honorific), it  
-> specifically refers to the present Chief Minister Karunanidhi. I guess in the  
-> northern context it is similar to 'Panditji' which referred to Jawaharlal  
-> Nehru. 
->  
-> Regards,
-> Palaniappan
->  
->  
-> In a message dated 4/12/2009 4:57:56 A.M. Central Daylight Time,  
-> jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR writes:
->
-> Dear  SP,
->
-> yes I remember of the discussions concerning "kApya" on  Indology,
-> notably in March and April 1997 (twelve years ago).
->
-> I am  aware of the existence of the poets (K?ppiya? C?nta??r, K?ppiy???
-> uk  
-> K?ppiya??r) and grammarians (Tolk?ppiya?, Palk?ppiya?) which you  
-> mentionned, and one could also add to the list the poet Ve???rk  
-> K?ppiya?, who is mentionned as a member of the Middle Ca?kam in the  
-> initial section of the commentary to the /Ka?aviyal e??a I?aiya??r  
-> Akapporu?/.
->
-> One of the important studies (written in Tamil) where  the origin and 
-> formation of the name Tolk?ppiya? is discussed is the 1904  article 
-> ("I?aicca?kam") by M. Raghava Aiyangar, which is found on pp.  88-101 
-> inside the 1938 collection of his articles (/?r?yccit Tokuti/,  reprint: 
-> Tanjore Tamil University, 1984) . The most relevant page for the  current 
-> discussion might be p.97, where he connects Tamil and Sanskrit  sources.
->
-> What I was trying to do, while starting the present thread,  was to 
-> acquire a more precise idea of what may have happened when Brahmins  
-> became native Tamil speakers, after migrating to Tamil Nadu. And the  
-> gotra-related vocabulary seemed to be a very important component on  
-> which to concentrate.
->
-> Transparent flexional/morphological  derivations (such as are seen in 
-> Sanskrit) were becoming "opaque" in the  new linguistic context and those 
-> brahmins had to make choices regarding  the way they should be publicly 
-> addressed or referred to in the  Tamil-speaking world (i.e. the /Tami? 
-> k??u nallulakam/).
->
-> One of the  parameters for which I would like to have a more clear 
-> understanding is  the order of the components, inside names which have 
-> several  components.
->
-> For instance, in the Anbil South-Indian Inscription to  which you refer 
-> in your message (SII 8n no.196)
-> [found "on a pillar  lying in front of the Vighnesvara Temple ..."], the 
-> component "k?ppiyan"  (spelt with a dental "n" and not an alveolar "?") 
-> is found 5 times, and  each time it is the first component in a long 
-> name, all the long names  ending with the coordinating particle "-um" so 
-> that we have the  sequence:
->
-> -- k?ppiyan va?uka? ka?att?n v?[ciri]yum
->
-> -- k?ppiyan  centan m[?]?amu?aiy?num
->
-> -- k?ppiyan centan muci?i...nmaliyum
->
-> --  k?ppiyan centan c[o]matevanum
->
-> -- k?ppiyan va?ukan t?motiranum
->
-> On  the other hand, in the literary sources mentionned before, the 
-> "k?ppiya?"  component comes last (see K?ppiy???uk K?ppiya??r, Ve???rk 
-> K?ppiya?), the  exception being K?ppiya? C?nta??r.
->
-> There are rules in the Tolk?ppiyam  concerning the order of components in 
-> long names (see for instance TC41c,  as per the s?tra numbers inside the 
-> /C???varaiyam/) but I am not sure they  are sufficient for 
-> understanding/explaining all that we meet with in  literature and in 
-> inscriptions.
->
-> This is certainly a vast field for  which a complete answer cannot be 
-> obtained on a mailing  list.
->
-> However, pointers to articles (and books) concerning the "syntax"  of 
-> long names in India are welcome.
->
-> Best wishes to all
->
-> --  Jean-Luc Chevillard (Paris)
->
->
->   
-
-
-
-

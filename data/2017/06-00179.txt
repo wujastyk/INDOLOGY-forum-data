@@ -1,81 +1,10 @@
-From dominic.goodall at gmail.com  Wed Jun 21 10:04:31 2017
-From: dominic.goodall at gmail.com (Dominic Goodall)
-Date: Wed, 21 Jun 17 17:04:31 +0700
-Subject: [INDOLOGY] Mathematical Treasure: The Cambodian Zero
-In-Reply-To: <10A71D78-4424-4198-8EE4-D054C4E44694@ephe.sorbonne.fr>
-Message-ID: <22207D90-51AB-4702-B5C7-484A91D8463D@gmail.com>
-
+[INDOLOGY] Mathematical Treasure: The Cambodian Zero
 It's perhaps worth pointing out that Dominique Soutif's doctoral thesis, defended at Paris III in 2009, seems to be a little more up-to-date on this matter.  Dominique Soutif there corrected a consistent misreading of the last digit in these various dates and established that they all in fact read 604.
-
 In his thesis (Organisation religieuse et profane du temple khmer du VIIe au XIIIe si?cle. Volume I : Les biens du dieu, p. 18), he says:
-
 ? En effet, ses premi?res repr?sentations connues apparaissent simultan?ment au Cambodge ? Trapeang Prei et ? Sumatra ? Palembang en 604 ?aka, soit 682/683 de notre ?re. ? 
-
 I don?t have it beside me, but I think that the same points are also covered in this article of his of 2008 published in the Cambodian journal Siksacakr: ? D?nombrer les biens du dieu ; ?tude de la num?ration du khmer ancien (vie-xiie si?cle ?aka) ?, Siks?cakr 8, p. 51-80 [paru en 2010 ; traduction khm?re, p. 172-206].
-
 Dominic Goodall
-
-> On 21-Jun-2017, at 11:43 AM, Andrea Acri via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> The zero (annotated as a dot or small circle in the tens position) is also used in three Sriwijayan inscriptions from Sumatra from the same time (605?608 shaka / 682?687 CE). This is 2 centuries earlier than the "Gwalior zero". See:
-> 
-> SRIWIJAYA AND THE FIRST ZEROS
-> Anthony Diller
-> Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 68, No. 1 (268) (1995), pp. 53-66
-> http://www.jstor.org/stable/41493264 <http://www.jstor.org/stable/41493264>
-> 
-> NEW ZEROS AND OLD KHMER
-> Anthony Diller
-> Mon-Khmer Studies 25, 1996, pp. 125-132
-> http://sealang.net/sala/archives/pdf8/diller1996new.pdf <http://sealang.net/sala/archives/pdf8/diller1996new.pdf>
-> 
-> ? PROPOS DE L'ORIGINE DES CHIFFRES ARABES
-> G. C?d?s <https://www.cambridge.org/core/search?filters%5BauthorTerms%5D=G.%20C%C5%93d%C3%A8s&eventCode=SE-AU>
-> BSOAS 6/2, 1931, pp. 323-328
-> DOI: https://doi.org/10.1017/S0041977X00092806 <https://doi.org/10.1017/S0041977X00092806>
-> 
-> 
-> Andrea Acri
-> 
-> Sent from my iPhone
-> 
-> 
-> Sent from my iPhone
-> On 21 Jun 2017, at 04:32, Dominik Wujastyk via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> 
->> Here is a nice presentation of the evidence:
->> 
->> Frank J. Swetz (The Pennsylvania State University), "Mathematical Treasure: The Cambodian Zero," Convergence (October 2015) - See more at: http://www.maa.org/press/periodicals/convergence/mathematical-treasure-the-cambodian-zero#sthash.8llx0OXX.dpuf <http://www.maa.org/press/periodicals/convergence/mathematical-treasure-the-cambodian-zero#sthash.8llx0OXX.dpuf>
->> ?
->> 
->> --
->> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>?,?
->> Singhmar Chair in Classical Indian Society and Polity?,?
->> Department of History and Classics <http://historyandclassics.ualberta.ca/>?,?
->> University of Alberta, Canada?.?
->> South Asia at the U of A: ?sas.ualberta.ca? <http://sas.ualberta.ca/>??
->> 
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
->> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
->> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
 Dominic Goodall
 ?cole fran?aise d'Extr?me-Orient,
 19, rue Dumas,
 Pondicherry 605001
-Tel. +91 413 2334539
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170621/0666adfb/attachment.htm>
-

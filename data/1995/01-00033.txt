@@ -1,16 +1,7 @@
-From magier at columbia.edu  Mon Jan  9 14:13:25 1995
-From: magier at columbia.edu (David Magier)
-Date: Mon, 09 Jan 95 09:13:25 -0500
-Subject: True Type Punjabi Fonts
-Message-ID: <161227018121.23782.13187324227954767613.generated@prod2.harmonylists.io>
-
-> to purchase True Type Punjabi fonts.
-
+True Type Punjabi Fonts
 A fine annotated listing of a wide variety of free and commercially
 available Indic language fonts can be found on The South Asia Gopher,
 in the following path:
-
   TEACHING Resources on South Asia
      Inventory of Language Materials (ILM)
         South Asian Language Computer Fonts
-

@@ -1,38 +1,5 @@
-From kabalen at MAIL.JPS.NET  Tue May 12 20:26:54 1998
-From: kabalen at MAIL.JPS.NET (Paul K. Manansala)
-Date: Tue, 12 May 98 12:26:54 -0800
-Subject: Horses (China)
-Message-ID: <161227038624.23782.17306341827771846196.generated@prod2.harmonylists.io>
-
+Horses (China)
    Wolfgang Behr <w.behr at EM.UNI-FRANKFURT.DE>
->wrote:
-
-> At 08:37 11.05.98 -800, Paul Kekai Manansala wrote:
->
-> | Some studies on crania in Xinkiang have followed the same
-> | erroneous path as the interpretation of the Kennewick remains.
-> | That is, they have interpreted anything that doesn't fit into
-> | typical northeast Mongoloid as "Caucasoid" or "Pre-Caucasoid."
-> | Most of the remains associated with Xinkiang and also the Siberian
-> | "Caucasoids" are related to modern Southern Mongoloid/Pacific
-> | types that once were very common in Northeast and Central Asia.
->
-> Would you please be so kind as to provide some references for these
-> claims? In the series of craniometric studies published by the
-> physical anthropologist Han Kangxin during the late 80ies and early
-> 90ies by  (cf. Xinjiang Shehui Kexue, 6 [1985]: 61-71; Kaogu Xuebao 3
-> [1990}: 371-390; Xiyu Yanjiu 2 [1992]: 3-23; Wenwu Tiandi 5[1992]:
-> 44-47; see also his book on the subject: _Sichouzhilu gudai jumin
-> zhongzu renleixue yanjiu_, Wulumuqi: Xinjiang Renmin [1994]) there
-> are quite detailed comparisons with _Southern_ Mongoloid types, but
-> they are found definitely _not_ to be related with the Xinjiang mummies
-> (see esp. 1990 388 seq.). Even the more balanced study of seven skulls
-> from Xinjiang and Qinghai by Djuric-Srejic & Nikolic ("Odlike lobanja
-> drevnih skeleta is provincije Sin-Jang u Kini" ["Characteristics of
-> skulls of ancient skeletons from the province of Xinjiang in China"],
-> Srpski Arhiv za Celokupno Lekarstvo 124 [1996] 5-6: 124-9) found that
->
-
 I'm aware of the last article, and the analysis of the author is
 simply Kennewick-style mishmash.  For those unfamiliar with
 Kennewick, it involves claims by certain anthropologists that crania
@@ -43,18 +10,9 @@ Caucasoid. However, any familiar with the topic knows that the term
 "Sundadont" was originally constructed to describe Southern Mongoloid
 dentition.  You find other scholars also using this Sundadont pattern
 now to suggest ancient Siberians were "Pre-Caucasoid."
-
->         (a)  "among the studied skulls there was no case showing
->               Mongoloid characteristics"
-
 He is referring only to "typical Mongoloid" features, and even here
 he is incorrect.  The skulls do show features like prognathism and
 broad nasal bones which are "Mongoloid" characteristics
-
->         (d)  one of the allegedly "European" type skulls showed
->              East Mediterranean (rather than Northern European)
->              characteristics
-
 Not really.  The suggestion is that they show "Primitive Caucasoid"
 characteristics.  For example, a steep mandible is somehow mentioned
 as a "Caucasoid" characteristic.  However, steep mandibles hardly a
@@ -63,19 +21,10 @@ some contemporary and modern Southeast Asian/Pacific populations.
 Another error is claiming palatine torus is a "Caucasoid"
 characteristic.  The highest rates of palatine torus occur among
 Eskimos and Polynesians.
-
->
-> In any case, if you find physical anthropological data problematic (which
-> they certainly are in many respects), what are you going to do about the
-> DNA analysis by Francalacci (J. of Indo-European Studies 23 [1995]: 385-
-> 398) who concludes that "the sequence amplified from the ancient Xinjiang
-> corpse is more likely related to continental European lineages"?
-
 There are about 100 mummies and many other remains.  There is also
 abundant genetic evidence that modern and ancient residents of
 Xinkiang are closely related to East Asian types.   Here are a few to
 look over:
-
   AUTHOR:  Mizuki M; Ohno S; Ando H; Sato T; Imanishi T; Gojobori T;
 |                Ishihara M; Ota M; Geng Z; Geng L; Li G; Kimura M; Inoko H
 |      ADDRESS:  Department of Ophthalmology, Yokohama City University School
@@ -83,25 +32,18 @@ look over:
 |        TITLE:  Major histocompatibility complex class II alleles in Kazak
 |                and Han populations in the Silk Route of northwestern China.
 |       SOURCE:  Tissue Antigens (VSV), 1997 Nov; 50 (5): 527-34
-
  AUTHOR:  Li HJ; Liu DX; Li L; Liu ZG; Qing F; Lo SL; Kang QS; Chen J;
 |                Chang YQ; Xie DS; et al
 |        TITLE:  Hemoglobinopathies in Xinjiang.
 |       SOURCE:  Hemoglobin (G57), 1986; 10 (4): 435-49
-
-
 However, I need  to warn that there are many problems with bias in genetic studies
 There is a distinct racial element in all these studies that cannot
 be ignored.  The roots are old and more submerged now, but they still
 certainly exist. The Kennewick conflict is just one very prominent
 sign of this problem.
-
 I've pasted two abstracts relating to Sundadonty and palatine torus
 that will clear us some of these mispresentations of "Caucasoid"
 traits.
-
-----from Medline---
-
 AUTHOR:       Haydenblit R
 |      ADDRESS:  Department of Biological Anthropology, University of
 |                Cambridge, United Kingdom.

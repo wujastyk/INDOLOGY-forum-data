@@ -1,44 +1,21 @@
-From ucgadkw at UCL.AC.UK  Sat Mar 17 20:57:16 2001
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sat, 17 Mar 01 20:57:16 +0000
-Subject: Upgrade to Prof. Yano's web-based Pancanga program
-Message-ID: <161227068415.23782.3633665947124867554.generated@prod2.harmonylists.io>
-
+Upgrade to Prof. Yano's web-based Pancanga program
 Prof. Yano's extraordinarily useful and sophisticated web-based tool for
 calculating various Indian eras and dates is located at
-
         http://www.kyoto-su.ac.jp/~yanom/pancanga/index.html
-
 Prof. Yano has written to announce an upgrade to the program, and he has
 most generously made his algorithms publicly available.
-
 Dominik
-
----------- Forwarded message ----------
-Date: Sat, 17 Mar 2001 19:18:18 +0900
-From: Michio YANO <yanom at cc.kyoto-su.ac.jp>
-Subject: pancanga
-
+pancanga
 Dear Dominik,
-
 I have been working for upgrading the Perl version of pancanga
 program.
-
 There are several new features as you will see.
-
 I have decided to make the source script of the perl version
 open to the public.
-
 [...]
 I will appreciate if you announce about our new version.
-
 With best wishes,
-
 Michio YANO                    Tel +81-75-705-1781
 Faculty of Cultural Studies    Fax +81-75-705-1799
 Kyoto Sangyo University        e-mail: yanom at cc.kyoto-su.ac.jp
 Kyoto 603-8555 Japan           http://www.kyoto-su.ac.jp/~yanom/
-
-
-
-

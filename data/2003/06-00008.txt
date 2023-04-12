@@ -1,24 +1,12 @@
-From wmcox at UCHICAGO.EDU  Fri Jun  6 13:38:02 2003
-From: wmcox at UCHICAGO.EDU (Whitney Cox)
-Date: Fri, 06 Jun 03 08:38:02 -0500
-Subject: possible virus warning
-Message-ID: <161227072821.23782.17903954126586444988.generated@prod2.harmonylists.io>
-
+possible virus warning
 Dear Friends,
-
 Checking my email today, I was surprised to see a message from myself with a
 subject line that I myself had written, viz. "Prakrit realization in Grantham",
 a posting that I had sent to the list some two months back.
-
 On inspection, the message proved to be from "wmcox at bellatlantic.net" (an email
 address I have never had), and was the first part of my posting, along with a
 link to a .EXE file.  I can only presume that this is a virus.  If you've
 received the message, please delete it.  I'm baffled as to how this could have
 occured, and I sincerely apologize if anyone's system has been damaged.
-
 Yours,
 Whitney Cox
-
-
-
-

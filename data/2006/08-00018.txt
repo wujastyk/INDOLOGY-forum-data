@@ -1,20 +1,7 @@
-From athr at LOC.GOV  Mon Aug 14 22:29:24 2006
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Mon, 14 Aug 06 18:29:24 -0400
-Subject: OCLC/WorldCat online for free
-Message-ID: <161227078231.23782.14022278637709409937.generated@prod2.harmonylists.io>
-
+OCLC/WorldCat online for free
 A lot of university libraries are scanning many tables of contents, which would pull in a lot of what you want.  I don't think anyone is doing it in a consolidated database, though.  My institution now often has a link to online tables of contents provided by the publisher, as well as to the publisher's biographical sketch of the author.  
- 
 Allen
-
->>> jkirk at SPRO.NET 08/14/06 5:53 PM >>>
-
 What I'd like to know, and please pardon me if I should know but don't:
 is there any online library database that lists the titles of book chapters 
 and of titles & authors in anthologies?
 Joanna Kirkpatrick
-
-
-
-

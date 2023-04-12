@@ -1,14 +1,7 @@
-From wujastyk at GMAIL.COM  Wed Aug  4 11:11:10 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Wed, 04 Aug 10 13:11:10 +0200
-Subject: Golden Dictionary
-Message-ID: <161227090093.23782.18019662124986731374.generated@prod2.harmonylists.io>
-
+Golden Dictionary
 Manuel Batsching's very useful blog post,
-
    -
    http://flammschild.blog.uni-heidelberg.de/2010/07/28/the-golden-dictionary/
-
 draws attention to the Golden Dictionary <http://goldendict.org/> software
 that runs on Windows and Linux (so far).  Following Batsching's notes, I
 installed GD easily, and found it to be every bit as useful and easy to use
@@ -22,21 +15,13 @@ http://sarit.indology.info), so that word-searches in Golden Dictionary can
 return contextualized results from searching the entire Sanskrit text
 library in SARIT (large amounts of smrti, artha, purana, ayurveda, and
 Buddhist tantra text).
-
 Apologies for duplication for those of you who already follow the
 Flammschild blog, but I thought this important enough to draw to the
 attention of the INDOLOGY readers at large.
-
 Best,
 Dominik Wujastyk
-
---
 Institut f?r S?dasien-, Tibet- und Buddhismuskunde
 Universit?t Wien
 Spitalgasse 2-4, Hof 2, Eingang 2.1
 A-1090 Vienna
 Austria
-
-
-
-

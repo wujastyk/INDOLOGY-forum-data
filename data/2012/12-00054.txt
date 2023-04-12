@@ -1,31 +1,15 @@
-From suresh.kolichala at GMAIL.COM  Thu Dec 20 17:18:34 2012
-From: suresh.kolichala at GMAIL.COM (Suresh Kolichala)
-Date: Thu, 20 Dec 12 12:18:34 -0500
-Subject: Improved DEDR Search
-Message-ID: <161227098326.23782.368121816486543521.generated@prod2.harmonylists.io>
-
+Improved DEDR Search
 Dear all,
-
 The Dravidian Etymological Dictionary (1961; revised in 1984) is a landmark
 contribution of Burrow and Emeneau to the study of Dravidian
 linguistics. Here is a modest attempt to provide an improved interface to
 search this Dictionary. This search allows using extended regular
 expressions for search term as well as the meaning, besides allowing
 filtering by the four main subgroups of Dravidian:
-
 http://kolichala.com/DEDR/search.php
-
 My friend Periannan Chandrasekaran and I have plans to work on providing
 Proto-Dravidian reconstructions to many of these entries. We would like to
 work on this ambitious project, slowly and methodically.
-
 I appreciate any feedback from the scholarly community.
-
 Regards,
 Suresh.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20121220/ea0ec7e8/attachment.htm>
-

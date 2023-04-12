@@ -1,58 +1,40 @@
-From spb at ntrs.com  Tue Dec  5 03:51:27 1995
-From: spb at ntrs.com (Steve Bonine)
-Date: Mon, 04 Dec 95 22:51:27 -0500
-Subject: RESULT: humanities.language.sanskrit passes 369:24
-Message-ID: <161227021944.23782.2486176600144197459.generated@prod2.harmonylists.io>
-
+RESULT: humanities.language.sanskrit passes 369:24
                                 RESULT
      unmoderated group humanities.language.sanskrit passes 369:24
-
 There were 369 YES votes and 24 NO votes, for a total of 393 valid votes.
 There was 1 abstain and 16 invalid ballots.
-
 For group passage, YES votes must be at least 2/3 of all valid (YES and NO)
 votes.   There also must be at least 100 more YES votes than NO votes.
-
 There is a five day discussion period after these results are posted.  If no
 serious allegations of voting irregularities are raised, the moderator of
 news.announce.newgroups will create the group shortly thereafter.
-
 Newsgroups line:
 humanities.language.sanskrit	The Sanskrit language and related topics.
-
 Voting closed at 23:59:59 UTC, 4 Dec 1995.
-
 This vote was conducted by a neutral third party.  Questions
 about the proposed group should be directed to the proponent.
-
 Proponent: Shrisha Rao <Shrisha.Rao at launchpad.unc.edu>
 Proponent: Henry Groover <HGroover at Qualitas.com>
 Mentor:    Todd Michel McComb <mccomb at best.com>
 Votetaker: Steve Bonine <spb at ntrs.com>
-
 RATIONALE: humanities.language.sanskrit
-
 Sanskrit is an Indo-European language of ancient origins, like Latin,
 ancient Greek, and Persian. Unlike many other ancient languages, however,
 it has had an unbroken tradition of both literary and everyday usage,
 lasting right up to the present day.
-
 A study of Sanskrit is very useful for those interested in understanding
 Hinduism; it is also important to those who study Paninian linguistics,
 Vedanta, Indology, the development of Indo-European languages and
 cultures, etc. Besides all these, of course, Sanskrit has a vast body of
 prose, poetry, drama, and music, of genuine literary worth, that is of
 much interest to many scholars and amateurs.
-
 There used to be a Sanskrit e-mail discussion group that generated a high
 enough volume of messages to cause it to be shut down because of the
 excessive load it was creating on its host system. The list had about 380
 members who are potential readers of such a newsgroup; it may also be
 safely assumed that there are others who were not on the list, but would
 also like to see such a newsgroup come about.
-
 CHARTER: humanities.language.sanskrit
-
 The newsgroup humanities.language.sanskrit will be a forum devoted to the
 discussion of all matters pertaining to the formal or informal study of
 Sanskrit, both as a literary and scriptural language, and also as a
@@ -62,13 +44,9 @@ in it an opportunity to learn by interaction. While there will be no
 restriction on the range of Sanskrit-related topics allowed, those that
 have nothing to do either with Sanskrit itself, or with issues in the
 study of Sanskrit, will be strongly discouraged.
-
 END CHARTER.
-
 humanities.language.sanskrit Final Vote Ack
-
 Voted Yes
-------------------------------------------------------------------------------
 100725.3222 at compuserve.com                                 Clemens Stiglechner
 100734.2313 at compuserve.com                                  Hans-Georg Turstig
 102054.1427 at compuserve.com                             Subbaiah Cherumandanda.
@@ -438,9 +416,7 @@ xsvarshney at ccvax.fullerton.edu                                     S. Varshne
 ye00 at Lehigh.EDU                                                     Yesim Erke
 ZLSIIAM at fs1.mcc.ac.uk                                                Avi Misra
 zzzjan_m at sanjose.vlsi.com                                      M S Janardhanan
-
 Voted No
-------------------------------------------------------------------------------
 anandk at hal.com                                            Anand Krishnamoorthy
 benningf at aur.alcatel.com                                Robert F. Benningfield
 bholzm1 at icarus.cc.uic.edu                                       Burt N Holzman
@@ -465,14 +441,9 @@ stick at shepherd.escalade.com                                           J. Stic
 techint at winternet.com                            Technical Intelligence-MN-USA
 tgm at netcom.com                                            Thomas G. McWilliams
 tlawson at email.univpubs.american.edu                             Todd C. Lawson
-
 Abstained
-------------------------------------------------------------------------------
 crouchkp at flidh103.delcoelect.com                              Kenneth P Crouch
-
-
 Votes in error
-------------------------------------------------------------------------------
 95SHARDA at tsunami.scar.utoronto.ca
    ! No name given
 abdutta at icaen.uiowa.edu
@@ -505,9 +476,3 @@ sunidh at stat.njit.edu                                          Sunil Kumar Dha
    ! No vote statement in message
 Yobero at aol.com
    ! No name given
- 
-
-
-
-
-

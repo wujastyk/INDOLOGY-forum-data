@@ -1,11 +1,5 @@
-From bpj at netg.se  Fri May  2 10:13:53 1997
-From: bpj at netg.se (bpj at netg.se)
-Date: Fri, 02 May 97 12:13:53 +0200
-Subject: ASCII and HTML transliteration of Avestan script
-Message-ID: <161227030044.23782.16576329766766514952.generated@prod2.harmonylists.io>
-
+ASCII and HTML transliteration of Avestan script
 Dear listmembers,
-
 some time ago a request to this list by George Thompson brought to my
 attention the fact that there existed no scheme for transliterating the
 Avestan script in ASCII. In response to this I have developed the 7-bit
@@ -19,7 +13,6 @@ with the scheme. There is also a sample text at the end of the message. The
 pronunciations are given according to the Kirshenbaum system of phonetic
 transcription, except for my use of +j and +w to indicate palatalization
 and labialization respectively.
-
 I give my thanks to George for his help with working out the shortcomings
 of initial drafts of the ASCII scheme. Needless to say I remain solely
 responsible for any remaining deficiencies. Your comments and criticisms
@@ -27,20 +20,13 @@ are welcome. Please repost this scheme to other potentially interested
 mailinglists, newsgroups and individuals as you see fit. Apologies for the
 length of this post, wc will hopefully be seen as motivated by the nature
 of the content.
-
 Best wishes,
-
 Philip
-
 *******************************************************************************
-
  Proposal for an
  ASCII and HTML transliteration of Avestan script
-
  Draft 2, 1.5.1997 NEW!
-
  by B. Philip Jonsson <bpj at netg.se>
-
   ASCII     HTML              Pronunciation. Comments.
   case      not case
   sensitive sensitive
@@ -68,7 +54,6 @@ Philip
   q         q                 exact pronunciation unknown,
                               possibly /q/ or /G/,
                               or implosive /g/. Rare.
-
   Q         gh                /Q/ (voiced velar fricative.)
   c         c                 /tS/
   j         j                 /dZ/
@@ -78,14 +63,12 @@ Philip
   D         dh                /D/
   T         't                exact pronunciation unknown,
                               ejective /t/ or implosive /d/.
-
   p         p                 /p/
   f         f                 /F/ (bilabial.)
   b         b                 /b/
   B         w (bh)            /B/ (bilabial fricative.)
   G         '?g   '&ntilde;g  /N/ (velar nasal), mostly
                               found before h.
-
   J         '?y   '&ntilde;y  /N+j/
   W         '?v   '&ntilde;v  /N+w/
   n         n                 /n/
@@ -93,11 +76,9 @@ Philip
   ~         ?     &ntilde;    nasalization of preceding vowel
                               _and_ nasal consonant homorganic
                               with the following stop.
-
   m         m                 /m/
   M         'm                exact pronunciation unknown,
                              /m+j/ or /hm/ (voiceless /m/)
-
   Y         ?     &yuml;      /j/ Confused with y in the
                               manuscripts
   ii        ii                /Ij/
@@ -115,13 +96,10 @@ Philip
   Z         zh                /Z/
   C         'sh               /S+y/ Confused with sh and
                               ? in the manuscripts
-
   y(/R)     y / 'zh           /Z+y/ Confused with ? in
                               the manuscripts.
-
   h         'h                /h/ Note the apostrophe in
                               the HTML transliteration!
-
 *************************************
 *      AVESTAN TRANSLITERATION      *
 *                                   *
@@ -136,7 +114,6 @@ Philip
 *  Devised by B.Philip Jonsson      *
 *                <bpj at netg.se>      *
 *************************************
-
 (pa n&m i yazd&)
 1: a$^m vohU...(1 u 3).
 frauuarAne mazdaiiasnO zaraHuStriS vIdaEuuO ahura-TkaE$O, hAuuan at e a$aone
@@ -148,25 +125,15 @@ yasnAica vahmAica x$naoHrAica frasastaiiaEca. 3: yaHA ahU vairiiO zaotA
 frA-mE mrUtE,
 aHA ratuS a$ATcIT haca frA a$auua vIDuu% mraotU. a$^m vohU...(3).
 yaHA ahU vairiiO...(2).
-
 4: frastuiiE humatOibiiascA hUxtOibiiascA huuarStOibiiascA m&HBOibiiascA
 vax^DBOibiiascA varStuuOibiiascA, aibigairiiA daiHE vIspA humatAcA hUxtAcA
 huuarStAcA, paitiriciiA daiHE vIspA duSmatAcA duZUxtAcA duZuuarStAcA. 5:
 f^rA v@ rAhI am^$A sp^~tA yasn^mcA vahm^mcA f^rA manaGhA f^rA vacaGhA f^rA
 CiiaoHanA f^rA aGhuiiA f^rA tanuuascIT KaXii% uStan^m. 6: staomI a$^m,
 a$^m vohU vahiSt^m astI uStA astI uStA ahmAi hiiaT a$Ai vahiStAi a$^m(3)!
-
 *******************************************************************************
-
-
 *************************************************
 *  B.Philip Jonsson <bpj at netg.se>               *
 *  Editor, Translator (English <-> Swedish),    *
 *  Scholarly font-designer, Web-book designer   *
 *************************************************
-
-
-
-
-
-

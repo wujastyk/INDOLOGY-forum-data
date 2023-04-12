@@ -1,51 +1,5 @@
-From bhk at HD1.VSNL.NET.IN  Sun Jun 14 18:39:56 1998
-From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
-Date: Sun, 14 Jun 98 23:39:56 +0500
-Subject: Draft transliteration scheme on the Web
-Message-ID: <161227039808.23782.16092879293513802175.generated@prod2.harmonylists.io>
-
+Draft transliteration scheme on the Web
 At 10:49 13/06/98 EDT, you wrote:
->In a message dated 98-06-13 04:29:00 EDT, stone_catend at COMPUSERVE.COM writes:
->
-><< Among the many transliterations of this letter, scholars now seem to use
-> three in particular: l_macr-b, r_dia-b, z_dot-b.   As well as the fricative
-> aspect, the Malayalam and Tamil pronunciations sound something like 'r' and
-> 'l', respectively.    Hence z_dot-b has three advantages:   (1) dot-b
-> matching retroflexes, (2) z suggesting a fricative, (3) no problem about
-> the r/l aspect. >>
->
->As a person who has to constantly deal with the pronunciation of this letter,
->I can say the following. My name in the Tamil version has this letter. It is
->transliterated in my name with "l" which is a very common practice. In my
->business card, to elicit a pronunciation as close to the original as possible
->from Americans, I use a nickname using "r". In my postings on Indology, I use
->the scheme set up by someone as "z". Personally, I do not see any difference
->between the correct pronunciation of this letter by Tamils and Malayalis.
->(There are many Tamils who mispronounce it as retroflex L. However, I think we
->should go by the pronunciation considered correct by the Tamils.)  Many
->Malayalis and Tamils do transliterate this with "zh" which I consider to be an
->arbitrary scheme.
->
->My preference would be to stick with the transliteration scheme of the Tamil
->Lexicon (which uses l_macr-b) for the following reasons.
->
->1. There is a considerable amount of scholarly work related to Tamil where
->they have used it. Even many Dravidian Linguistic Association publications
->(eg. The History of the Grammatical Theories in Malayalam) use it.
->
->2. Having two sub dots with r may lead to confusion between this letter and
->the r_macr-b used in Tamil and Malayalam. In many books printed in India when
->the printing is not very good the two dots merge into a macron. I have
->encountered this many times.
->
->3. Using "z" seems to be very arbitrary.
->
->So, my vote is for l_macr-b.
->
->Regards
->
->S. Palaniappan
-
 The latest book on Drravidian: The Dravidain Languages, published by
 Routledge, edited by Sanford Steever uses z <subdot> for the Dravidian
 retroflex ficative.The Tamil Lexicon transcription is archaic. Bh.K.
@@ -54,7 +8,3 @@ H.No. 12-13-1233, "Bhaarati"
 Street 9, Tarnaka
 Hyderabad 500017
 Telephone:40-7019665
-
-
-
-

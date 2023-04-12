@@ -1,24 +1,12 @@
-From Sfauthor at aol.com  Tue Apr  2 21:17:47 1996
-From: Sfauthor at aol.com (Sfauthor at aol.com)
-Date: Tue, 02 Apr 96 16:17:47 -0500
-Subject: Fonts/Apple, Adobe and Netscape
-Message-ID: <161227023635.23782.12545778197303980896.generated@prod2.harmonylists.io>
-
+Fonts/Apple, Adobe and Netscape
 I ran across this the other day. Of course, it will be some time before we
 hold the phal in our hands. . .
-
-------------------------------
-
 The following JOINT release was moved over the wire by Adobe on Monday,
 February 26, 1996.
-
 Adobe, Apple and Netscape to Collaborate on New Internet Font Technology
-
 Collaboration to Establish the Standard For High-Quality, High-Performance
 Fonts on the Web; Companies to Submit Proposal to Industry Standards
 Organizations
-
-
     MOUNTAIN VIEW, California--February 26, 1996--Adobe Systems Incorporated,
 Apple Computer, Inc., and Netscape Communications Corporation (NASDAQ: ADBE,
 AAPL, NSCP) today announced that they will work together to define and
@@ -35,19 +23,14 @@ to be seen.
     With Adobe's long-standing leadership in developing digital type,
 Netscape's leadership in open Internet software, and Apple's font expertise
 as the inventors of TrueType, users will benefit from:
-
  --Anti-aliased type for higher screen quality for both large and small type
 sizes
-
  --Embedded, compressed fonts for fast performance over 14.4 kilobit/second
 modem connections and font fidelity
-
  --Progressively rendered fonts which enable the screen to display text
 immediately
-
  --Font subsetting which improves performance because only the characters
 needed will be downloaded.
-
     This new Web font technology exploits technology already under
 development as part of Adobe's Acrobat "Amber" Plug-in for Netscape
 Navigator. The new font technology will be supported in the next version of
@@ -77,9 +60,3 @@ adapt these technologies to the World Wide Web, a medium which is growing
 rapidly in importance to the customers we serve. Apple's goal is to bring the
 ease of use and multimedia richness for which the Macintosh is known to the
 emerging Internet platform."
-
-
-
-
-
-

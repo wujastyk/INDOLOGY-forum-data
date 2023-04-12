@@ -1,19 +1,6 @@
-From pwyzlic at UNI-BONN.DE  Tue May  6 21:54:46 2008
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Tue, 06 May 08 23:54:46 +0200
-Subject: Mahabhasya now available in Intratext version
-In-Reply-To: <E4F6F36F6B0C7B409966C9B72424581401F15857@ECLUST2-VS4.adsroot.itcs.umich.edu>
-Message-ID: <161227082557.23782.17168496242035317359.generated@prod2.harmonylists.io>
-
+Mahabhasya now available in Intratext version
 Am 06.05.2008 um 23:03 schrieb Deshpande, Madhav:
-
-> I tried setting the character-encoding to UTF-8 on Firefox and  
-> Opera, the two browsers I have on my Mac, but it does not seem to  
-> be doing the trick on either browser.  Must be something else I  
-> need to do.
-
 The same effect appears with Firefox on my Linux box.
-
 When I open the source code of the HTML page (start page) I see e.g.
 "Mah&Auml;?bh&Auml;?&aacute;&sup1;&pound;ya" for  
 "Mah?bh??ya" (mahAbhAzya). That means, no UTF code but some  
@@ -23,14 +10,7 @@ on).  If this shows up correctly on other systems, there must happen
 something behind the scenes that works differently depending on the  
 platform of the browser. Perhaps some kind of scripting code, or so,  
 I guess. Does it work with Internet Explorer on Windows?
-
 All the best
 Peter Wyzlic
-
---
 Peter Wyzlic
 pwyzlic at uni-bonn.de
-
-
-
-

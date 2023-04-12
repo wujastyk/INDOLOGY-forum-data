@@ -1,9 +1,4 @@
-From selvakum at VALLUVAR.UWATERLOO.CA  Mon May 25 22:11:47 1998
-From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
-Date: Mon, 25 May 98 18:11:47 -0400
-Subject: Inscriptions and Dravidian sound changes "y" > "c" and "y" >
-Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists.io>
-
+Inscriptions and Dravidian sound changes "y" > "c" and "y" >
 @
 @At 17:58 24/05/98 EDT, you wrote:
 @ > Please check the chronology of -c- ~ -y- forms in Tamil. Are the-c- forms
@@ -25,7 +20,6 @@ Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists
 @The old change of s>*h>y (in other positions) >0 (initially) was known to
 @writers through loanwords like a:yiram, e:Ni, avai,etc. An underlying y
 @forms were written with s. There are many examples from Tamil also to show
-
          I've heard that 'aayiram' (meaning thousand in tamil) is a
          borrowing, presumably from skt.(sahasra). Can someone point to
          the arguments for this ? The Tamil word for hundred is
@@ -43,11 +37,8 @@ Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists
          rice etc. The standard expression is 'aayntu kodu'. The word
          'aayiram' is semantically almost identical to
          the word 'nURu' for hundred. 'Minutely split/separate > many'.
-
          Similarly I don't know how the word ENi = ladder is shown
          to be a loan word.  I wonder what the arguments are ?
-
-
 @that R > r led later to some r's being represented as R. Hypercorrect forms
 @are generally less systematic and give the impression of a reversal of sound
 @change.
@@ -91,17 +82,13 @@ Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists
 @>dialectal forms. Todau tiruvicalUr is the name of the town.
 @>
 @What you say proves my point.
-
-
     How ?
-
 @
 @
 @>The placement of DEDR 5259 Ta. vayiRu belly with an implied *-y- seems to be
 @
 @>correct even though Kannada has basiR. Colloquial Tamil has forms like vakuRu,
 @>vavuRu, but no vacuRu.
-
      Palaniappan, I've come across both forms 'vasuru paciccaa thaana varuvaan'
      and 'vavuru paciccaa thaanE varuvaan' ( literally 'if stomach feels
      hunger, he will come'). The 'u' in 'vasuru' is short
@@ -120,25 +107,14 @@ Message-ID: <161227039162.23782.6812334864311761330.generated@prod2.harmonylists
 @oldest forms are only foound in Tamil in every respect. What is your basis
 @for taking -y- in vayiRu as older? what am I doing again; take a lsesson on
 @comparative Drav phonology? Who cares? Linguistics is not a layman's hobby.
-
     Palaniappan and Gansesan have been making excellent and detailed comments,
     and I'm really suprised at Prof. Krishnamurti's unwarranted remarks to
     their postings in this listserv.
-
     What is the basis for taking the Konda example as older ('preserve') ?
-
     Thanks
-
     C.R.(Selva) Selvakumar
-
-
     P.S. (1) I'm very glad to see that Palaniappan and Ganesan are recording
          their thoughts here and I'm sure they will be useful to many
          sincere researchers.
-
          (2) I wonder whether anyone else can comment on Palaniappan's
          observation about omission of Velu Pillai's work.
-
-
-
-

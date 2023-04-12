@@ -1,68 +1,25 @@
-From ucgadkw at UCL.AC.UK  Wed Apr  4 08:46:51 2007
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Wed, 04 Apr 07 09:46:51 +0100
-Subject: Pischel
-In-Reply-To: <46132DEF.1000509@arts.usyd.edu.au>
-Message-ID: <161227079839.23782.12318659782234421071.generated@prod2.harmonylists.io>
-
+Pischel
 I installed alternatiff I bring up a page of the book and save the 
 location (right click, l[ocation])
-
 I open a command-line session and run the Cygwin version of the utility 
 WGET on the location.
-
 When that completes, I have the book on my hard disk as a series of tiff
 files, one per page.
-
 I run tiff2pdf (also in Cygwin) on the directory, turning all the tiffs to 
 pdfs
-
 I run pdftk (http://www.accesspdf.com/pdftk/) on the directory, turning 
 all the pdfs into one big pdf of the book.
-
 I've automated most of this for myself.
-
 The process is a bit home-made, but the results are excellent.  I have a 
 growing personal digital library of valuable books as PDF files.
-
-
 Since the DLI directory structure is open, one can open an ftp or http 
 session in a browser and roam around the books that way.  It's still all 
 tiff files, but if WGET is not available one could fetch the files one at 
 a time.  It would be very labour intensive.  E.g., go to
-
   http://www.new.dli.ernet.in/data_copy/upload/0075/479/PTIFF/
-
 for the Pischel files.
-
--- 
 Dr Dominik Wujastyk
 Senior Research Fellow
 University College London
 http://www.ucl.ac.uk/histmed
-
-
-
 On Wed, 4 Apr 2007, Mark Allon wrote:
-
-> Dear Dominik,
->
-> You mentioned in a recent Indology list posting that one could download 
-> Pischel's grammar from www.dli.ernet.in. I cannot see how to do this. Have 
-> you done it?
->
-> Regards
-> Mark
->
->
-> Dr Mark Allon
-> Department of Indian Subcontinental Studies
-> MacCallum Brennan Building A18
-> University of Sydney
-> Australia
->
->
-
-
-
-

@@ -1,32 +1,16 @@
-From wujastyk at gmail.com  Thu Apr 10 18:28:03 2014
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Thu, 10 Apr 14 20:28:03 +0200
-Subject: [INDOLOGY] Fwd: Yahoo's Blunder Impacts Mailing Lists Worldwide
-In-Reply-To: <9192990a9502aaaba8fe550d4e695935@clientarea.emwd.com>
-Message-ID: <CAKdt-CfEtTKqhXHOvBQNVQTbP9MkjDha3cdvJY10J_A+s2Ng6w@mail.gmail.com>
-
+[INDOLOGY] Fwd: Yahoo's Blunder Impacts Mailing Lists Worldwide
 Dear colleagues,
-
 The INDOLOGY forum runs on software called Mailman.  It seems that a
 potential pro?blem has recently arisen that affects Yahoo mail users.  See
 the message below.
-
 We are not acting on this information immediately, but please be alert for
 yahoo-related problems, and inform the INDOLOGY committee <
 indology-owner at list.indology.info> if you see a problem.
-
 Best,
 Dominik Wujastyk
 INDOLOGY committee
-
-
-
----------- Forwarded message ----------
-Date: 10 April 2014 20:05
-Subject: Yahoo's Blunder Impacts Mailing Lists Worldwide
-
+Yahoo's Blunder Impacts Mailing Lists Worldwide
 Dear Client:
-
 Yahoo initiated a terrible policy change to their mail servers recently
 that impacts every single mailing list software in use, not just Mailman.
 If any Yahoo.com user posts to your list, they will cause those list
@@ -34,24 +18,12 @@ members whose ISP/ESP provider is using DMARC (Hotmail, Gmail, Bellsouth,
 etc) to bounce the poster's message which can in turn cause the list to
 remove these members from the list for excessive bounces. The problem is
 with Yahoo. You can read more about it at:
-
 http://www.pcworld.com/article/2141120/yahoo-email-antispoofing-policy-breaks-mailing-lists.html
-
 https://wordtothewise.com/2014/04/brief-dmarc-primer/<http://www.pcworld.com/article/2141120/yahoo-email-antispoofing-policy-breaks-mailing-lists.html>
-
 We recommend the following:
-
 1. Resubscribing those list members that were recently removed.
-
 2. Prevent any Yahoo.com subscriber from posting to your list until they
 subscribe with another non-Yahoo email address. There is no telling when
 Yahoo will fix this or if they ever will.
-
 Again this issue only affect those lists where *Yahoo.com* users are
 allowed to post to the list.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140410/3db76ae4/attachment.htm>
-

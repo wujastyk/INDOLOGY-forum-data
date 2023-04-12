@@ -1,11 +1,5 @@
-From tyler.g.neill at gmail.com  Fri May 12 11:21:31 2017
-From: tyler.g.neill at gmail.com (Tyler Neill)
-Date: Fri, 12 May 17 13:21:31 +0200
-Subject: [INDOLOGY] alternative solution for directly accessing Unicode diacritics on Mac
-Message-ID: <CADbR+Y-0oDG3-TRhmr3ox_8CX+E-arp8Y6Adgc4p6YANUc8WNw@mail.gmail.com>
-
+[INDOLOGY] alternative solution for directly accessing Unicode diacritics on Mac
 Dear all,
-
 in addition to Prof. Deshpande's solution with Ukelele, I'd like to suggest
 one more ready-made option for easily and directly accessing Unicode
 combining diacritics on Mac (as opposed to correctly displaying the results
@@ -14,47 +8,20 @@ Unicode
 <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=uniipakeyboard#f5738dec>
 keyboard
 layout.
-
 As a strange example:
-
 t??  (t with under-circle and macron)
-
 Produced by typing with the "IPA Unicode" layout:
-
 t
 @2 (adds the under-circle) ('COMBINING RING BELOW' (U+0325))
 &% (adds the macron) ('COMBINING MACRON' (U+0304))
-
 Thus also, quickly and easily: r?? l??.
-
 These are the useful combinations for Classical Sanskrit (i.e., what a
 pre-installed layout like "US/ABC Extended" cannot do), but the
 possibilities are almost endless (for which, use either the documentation
 PDF provided on the download page or else the Mac "Keyboard Viewer"). I
 don't yet know whether this is any sort of a solution for Vedic accents
 etc. but I would be very curious to hear from those who try.
-
 Hope this helps!
-
 Best wishes,
 Tyler
-
-
 Madhav Deshpande mmdesh at umich.edu
-> Thu May 11 12:02:11 EDT 2017
-> Previous message (by thread): [INDOLOGY] Font?
-> Next message (by thread): [INDOLOGY] Font?
-> Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
-> Hello Friends,
->      I have now added R?, L? and ? (besides r?,  r??, l?, and ?) to my
-> MMDUnicode.keylayout for Mac.  I have attached the changed version.  Have
-> not been able to add long versions of R? and L?, but they don't occur in
-> the initial position anyway, and so that should not be an issue.  Try it
-> out and see if it works for you.
-> Madhav
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170512/04ae068a/attachment.htm>
-

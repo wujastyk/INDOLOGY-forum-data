@@ -1,17 +1,6 @@
-From hellwig7 at GMX.DE  Wed Apr 16 17:13:19 2008
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Wed, 16 Apr 08 18:13:19 +0100
-Subject: OCR
-Message-ID: <161227082355.23782.7299775903041150630.generated@prod2.harmonylists.io>
-
+OCR
 Dear members of the list,
-
 you find a new release of my Sanskrit/MIA-OCR software at 
 www.sanskritreader.de. Follow the link "Software" to get to the download 
 area.
-
 Best, O. Hellwig
-
-
-
-

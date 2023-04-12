@@ -1,11 +1,5 @@
-From kichenas at s5.math.umn.edu  Thu Sep 15 05:20:58 1994
-From: kichenas at s5.math.umn.edu (Satyanad Kichenassamy)
-Date: Thu, 15 Sep 94 00:20:58 -0500
-Subject: Aryans and Dravidians
-Message-ID: <161227017239.23782.3196381333292025689.generated@prod2.harmonylists.io>
-
+Aryans and Dravidians
 This is in answer to the question raised by Stephen Phillips.
-
 1. First of all, the oldest strata of Tamil literature
 (tentatively dated 300 BC-200 AD, figures to be taken with caution)
 show the existence of an independent cultural life in Tamil,
@@ -14,7 +8,6 @@ As someone else already pointed out, there does not seem to be
 any contestation of the fact that Tamil and Sanskrit are unrelated.
 (See Burrow and Emeneau's Dictionary).
 Borrowings in both directions have been known for some time.
-
 2. This literature has developed by integrating slowly Northern
 elements, with the consequence that it was possible to have
 access to most intellectual currents without using anything
@@ -26,28 +19,22 @@ of his papers under the title `Laghu Prabandhah') to see
 the place of Tamil sources in modern Indology. There are examples
 of Tamil works where a Sanskrit translation has been passed as
 the original. 
-
 3. Tamil-speaking regions and their sphere of influence have 
 also contributed many writers who expressed themselves in Sanskrit,
 while they were well-aware of a related literature in Tamil,
 to which they occasionally made reference. It should not be 
 believed that Tamil literature was developed only by 
 non-Brahmins, since there are famous counter-examples.
-
-
 It is because Tamil literature has preserved a certain degree
 of independence that we may now infer that it stems from a
 source which has slowly imbibed conceptions of another.
-
 Over and above the question of the level of violence involved in this
 transformation, we must note that Tamil sources, 
 because they do not duplicate
 material in other languages, have been and will be an invaluable
 source of insight.
-
 The reader who wishes to see for him/herself may want to learn 
 more about the following works
-
 * For philosophical literature:
      Tirumantiram (by TirumUlar): one of the earliest treatises of
 Saiva Siddhanta
@@ -56,39 +43,25 @@ containing refutations of other doctrines
      Civa-n~An'a Botham, C'iva-n~An'a cittiyAr, ...: 
 these texts of the S'aiva Siddhanta include a study of other
 doctrines as well.
-
 * For musicology:
      CilappatikAram, by ILankO-v-at'ikaL (incudes glimpses of 
 a remote ancestor of modern Karnatic music)
-
 * For poetry:
      PuRanAnURu, AkanAnURu: two of the oldest anthologies.
      TirukkuRaL: arguably the most famous work in Tamil
-
 * For mysticism:
      TiruvAcakam: contains the experience of MANikkavAcakar
      The poetry of the AzhvArs
-
 * A famous epic:
      Kampa-rAmayaNam: A well-known study by VVS Aiyar compares 
 this to the Sanskrit original.
-
 Many of the above have been translated into English or French, at
 least once; but as one may infer from the difficulties in datation,
 much remains to be done. As usual, there is no substitute for
 first-hand information.
-
 We hope that these few lines will encourage more people to read
 about Tamil literature and its specific contribution to Indian
 culture.
-
                                    Satyanad Kichenassamy
                                    School of Mathematics
                                    University of Minnesota
-
- 
-
-
-
-
-

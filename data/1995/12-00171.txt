@@ -1,27 +1,15 @@
-From garzilli at HULAW1.HARVARD.EDU  Tue Dec 19 00:51:56 1995
-From: garzilli at HULAW1.HARVARD.EDU (garzilli at HULAW1.HARVARD.EDU)
-Date: Mon, 18 Dec 95 19:51:56 -0500
-Subject: JOURNAL OF SOUTH ASIA WOMEN STUDIES -- Vol. 1, No. 1 (ISSN 1085-7478)
-Message-ID: <161227022198.23782.11484152026643224831.generated@prod2.harmonylists.io>
-
+JOURNAL OF SOUTH ASIA WOMEN STUDIES -- Vol. 1, No. 1 (ISSN 1085-7478)
 You can find the first issue of the *JOURNAL  OF  SOUTH  ASIA  WOMEN  
 STUDIES* on our web pages:
-
 http://www.shore.net/~india/jsaws/
-
 *I would like to remind you that you can search our web space by keyword.*
 The link to the search page is found on the Index to each issue.
-
 You can also download this issue in ASCII format from our FTP server:
-
 ftp://ftp.shore.net/members/india/
-
 On our FTP server you can also find fonts, keyboard softwares and macros 
 for the Indian alphabets.
-
                ---------------------------------------------
 IN THIS ISSUE:
-
 - NOTE FROM THE EDITOR
 - A DEB....
 - PAPERS: * A Tribute to Mahatma Gandhi: His Views on
@@ -30,7 +18,6 @@ IN THIS ISSUE:
             Solution of Dowry Problem in India? *, by
             Subhadra Chaturvedi
 - NEW TITLES
-
 ABSTRACTS:
 In her paper Dr. Kapadia offers a survey of an
 aspect of Gandhi's thought which has not exhaustively been
@@ -43,11 +30,3 @@ Ms. Chaturvedi offers a statistic of the reported crimes against
 women in India, and especially against brides. She also gives her legal
 point of view on women's inheritance and on the Indian National
 Perspective Plan for women 1988-2000 A.D.
-
-
- 
-
-
-
-
-

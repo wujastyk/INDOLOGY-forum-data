@@ -1,15 +1,3 @@
-From wujastyk at gmail.com  Tue Oct 22 06:59:15 2019
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 22 Oct 19 00:59:15 -0600
-Subject: [INDOLOGY] Norbert Preining on typesetting Tibetan
-Message-ID: <CAKdt-CdjiXQ14SLaamk9HQU+jQhEA=5-1OQfRK-3CR1YUTt9zw@mail.gmail.com>
-
+[INDOLOGY] Norbert Preining on typesetting Tibetan
 https://www.preining.info/blog/2019/10/pleasures-of-tibetan-input-and-typesetting-with-tex/
-
 Sent from Android phone
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191022/001f80f0/attachment.htm>
-

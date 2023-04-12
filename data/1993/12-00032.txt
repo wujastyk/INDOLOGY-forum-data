@@ -1,9 +1,4 @@
-From jhelling at cs.ruu.nl  Thu Dec 16 14:24:11 1993
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Thu, 16 Dec 93 14:24:11 +0000
-Subject: Oriya fonts
-Message-ID: <161227016430.23782.8352924473843469754.generated@prod2.harmonylists.io>
-
+Oriya fonts
   > 
   > Has anyone heard of TeX or PS fonts for Oriya?
   > Please reply to me by email - I have had to unsubscribe during
@@ -11,8 +6,6 @@ Message-ID: <161227016430.23782.8352924473843469754.generated@prod2.harmonylists
   > 
   > David Stampe <stampe at uhunix.uhcc.hawaii.edu>, <stampe at uhunix.bitnet>
   > Dept. of Linguistics, Univ. of Hawaii/Manoa, Honolulu HI 96822
-  
-  
   Yes, CDAC has them -- two versions -- PostScript type 1, which will come
   with their ISM manager for Indic scripts if you order it. (These fonts are
   also use in most Oriya newspapers -- atleast it is the same as in the
@@ -20,23 +13,12 @@ Message-ID: <161227016430.23782.8352924473843469754.generated@prod2.harmonylists
   Woodhead Road, Holmfirth, HUddersfield HD7 1PR, tel 0484 686396, fax 0484
   687320 (reminder: in the U.K.) I have never seen a TeX font for Oriya, only
   heard a roumor somebody was working on it.
-  
   Success, and keep me informed about it. If you get PostScript fonts, I will
   be able to make them work with TeX -- at least if you have a Mac or a
   postscript printer.
-  
   Best Wishes,
-  
   Jeroen
-
---
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
 't Zand 2                         Phone: +31-3473-73935 (home)
 4133 TB Vianen                    (18.00--21.00 GMT)
 The Netherlands                   Answer in English, German, or Dutch.
- 
-
-
-
-
-

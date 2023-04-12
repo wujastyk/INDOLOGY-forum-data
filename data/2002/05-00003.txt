@@ -1,16 +1,8 @@
-From athr at LOC.GOV  Wed May  1 18:33:01 2002
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Wed, 01 May 02 14:33:01 -0400
-Subject: ALA/LC Romanization tables on the web
-Message-ID: <161227070980.23782.3597108247632918988.generated@prod2.harmonylists.io>
-
+ALA/LC Romanization tables on the web
 The scanned text of the 1997 edition of the ALA-LC (American Library
 Association/Library of Congress) Romanization Tables is now available as
 PDF files on the Cataloging Policy and Support Office Web site at URL
 <http://lcweb.loc.gov/catdir/cpso/roman.html>.
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Southern Asia Section
@@ -24,7 +16,3 @@ fax 202-707-1724
 athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library
 of Congress.
-
-
-
-

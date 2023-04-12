@@ -1,31 +1,13 @@
-From shrao at IA.NET  Sat Mar 20 15:20:49 1999
-From: shrao at IA.NET (Shrisha Rao)
-Date: Sat, 20 Mar 99 09:20:49 -0600
-Subject: Looking for an out-of-print book
-Message-ID: <161227047648.23782.16095170747310450680.generated@prod2.harmonylists.io>
-
+Looking for an out-of-print book
 Martin Gansten <mgansten at SBBS.SE> wrote:
-
-
-> I have been trying to locate a copy of the following title, published by
 the
-> S?dasien-Institut, Heidelberg:
->
-> Jyotisa : das System der indischen Astrologie [Jyotisa : the system of
-
-
 The Research Libraries Information Network (RLIN), which by experience
 I have learned is a good place to look for such material, gives the
 following information:
-
 Author:         Turstig, Hans-Georg.
-
  Title:          Jyotisa : das System der indischen Astrologie /
-
  Published:      Wiesbaden : Steiner, 1980.
-
  Subjects:       Hindu astrology.
-
  ======= Locations =========
                  Stanford University Libraries; University of California,
                    Berkeley; Library of Congress; Emory University;
@@ -33,15 +15,6 @@ University
                    of Michigan; Columbia University Libraries; Cornell
                    University; New York Public Library; University of
                    Pennsylvania Libraries
-
 Hope this works for you.
-
 Regards,
-
 Shrisha Rao
-
-> Martin Gansten
-
-
-
-

@@ -1,73 +1,37 @@
-From mahadevasiva at HOTMAIL.COM  Sun May 17 23:55:58 1998
-From: mahadevasiva at HOTMAIL.COM (S Krishna)
-Date: Sun, 17 May 98 16:55:58 -0700
-Subject: Music related questions
-Message-ID: <161227038814.23782.15852221471651401065.generated@prod2.harmonylists.io>
-
+Music related questions
 I would like to thank Vidyasankar and D.V.N.Sarma for their comments
 ...I however have a few comments myself.
-
->At 02:13 PM 5/16/98 PDT, Vidyasankar writes:
->>Most padams of pre-Tyagaraja and post-Tyagaraja composers start with
 the anupallavi and then lead into the pallavi. >>
-
 Do Post-Tyagaraja composers compose that way? I have seen padams of
 SvAthi tirunAl and other composers who seem to follow the format of
 pallavi, anupallavi and caraNam with a lot of rigor..
-
-
->>
->>1. The pallavis of such compositions do not offer great opportunity
 for musical elaboration in the form of sangatis. For example, the
 musical structure of elani dayaradu (in balakakamaya) is like that.>>
-
-
 Hmmm..isn't this true of kr*ti pallavis generically in athANa? i.e
 . "anupama guNAmbudhi" by tyAgarAja also has an equally quick and
 difficult to sing pallavi, infact singing the starting sangati
 at the end of the pallavi( with the notes "sa ni ni sa ni ni sa..)
 is quite an achievement in itself...
-
   Even if compositions by  composers from a later stage are taken( by
 this time the sangatifying tendency was in full bloom)the compositions
 in athANa are such that not many sangatis can be sung e.g. zrI
 mahAgaNapatim bhaje'ham by jayacAmarAjEndra woDeyAr.
-
-
 <<2. The pallavi acts mainly as a refrain, and sangatis are avoided even
 if they are possible.>>
-
 Would this be all that common?..Afterall, the padam is crucial for dance
 performances and one does find a fair tendency of sangatifying
 in various padams i.e. Brinda's rendering of various padams..
-
  As you suggested, if a krti is musically simple( sangatiless)
 and is wordy/emphasizes a lyric, it would be useful for a harikathA
 point of view...(I will come back to this later in the post)
-
 <<As forpre-Tyagaraja composers like Puranadaradasa or Annammayya,
 theircompositions have been retro-fitted into the mature kRti format
 thatmusicians have become used to, although it did not exist in their
 own times.>>
 TRue, and the fifteen odd sangatis that we find in "vAtApi gaNapatim"
 may or may not meet dIkSitar's approval:-)
-
 D.V.N.Sarma:
-
 <<I would like to add that in "bAlakanakamaya" the
->anupallavi consists of invocation (saMbOdhana). Keeping
->saMbOdhana at the end of sentence is not natural for
->conversational telugu. Usually it is at the beginning of the
->sentence. (Ofcourse there are exceptions to this in metric
->poetry). But for the bhAva to come out naturally the conversational
->structure and intonation  will be of great help. Both of
->these are satisfied by starting with anupallavi. The dhAtu
->starts with madhya sthAyi pancama with a general upward trend
->reaches the tAra madhyama near the beginnig of pallavi and
->then has a general trend of going down reaching madhya shaDja
->at the end of the pallavi. This is in agreement with the
->speech intonation of a sentence starting with saMbOdhana.>>
-
 This is an interesting point; however tyAgarAja seems to have used the
 sambOdhana at the end of the sentence frequently...as random examples,
 we have "nenaruncarA! na paini cAla......zrirAma!"
@@ -77,7 +41,6 @@ addresses his own heart/himself i.e. O manasA!" all have the sambOdhana
 at the end of the pallavi e.g. "rAmabhakti samrAjyam"(zuddhabangaLa),
 "nidhi cAla sukhama?"(kalyANI), "sangItajnAnamu bhaktivinA"( dhanyAsi)
 etc....
-
 The feature that you pointed out i.e. the rising trend in notes ( in the
 pallavi in this case) seems to be a feature common in the anupallavi of
 tyAgaraja kr*tis. In addition, since much of the singing was done by
@@ -93,7 +56,6 @@ solely for the purpose of making a point and "reaching out" to the
 audience..In turn this tradition seemed to have been so popular that
 people follow this tradition down to this day and sing the anupallavi
 first instead of the pallavi....
-
   I myself came accross this feature in a program where a performer
 started his performance with "praNavasvarUpa vakratuNDam"( from
 vAtapi gaNapatim) refering to "Om" and "gaNapati" in a fairly high
@@ -105,15 +67,7 @@ itself and is in fairly simple language thus making it meaningful to the
 audience; infact this seems to have been the very reason why tyAgarAja
 made it the first kr*ti in the prahlAda bhakti vijayamu, an opera i.e.
 "a good begining is half the game"....
-
   I would appreciate all comments...
-
 REgards,
 Krishna
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

@@ -1,25 +1,8 @@
-From jacob.baltuch at infoboard.be  Thu Apr 10 20:34:26 1997
-From: jacob.baltuch at infoboard.be (jacob.baltuch at infoboard.be)
-Date: Thu, 10 Apr 97 22:34:26 +0200
-Subject: saMbuddhi rhythm (question)
-Message-ID: <161227029539.23782.6038132221772365941.generated@prod2.harmonylists.io>
-
+saMbuddhi rhythm (question)
 Would something like (say) 'mAdhava, pravishanti!'
 (Madhav, they're going in!) normally scan:
-
  'mAdhava | pravishanti!'
    G  L L     L L  G  L
-
 or
-
  'mAdhava pravishanti!'
    G  L G   L L  G  L
-
-
-
-
-
-
-
-
-

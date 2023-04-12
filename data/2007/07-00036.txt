@@ -1,44 +1,17 @@
-From ucgadkw at UCL.AC.UK  Thu Jul 12 17:11:19 2007
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 12 Jul 07 18:11:19 +0100
-Subject: Unicode font
-In-Reply-To: <BAY103-F225822907D86AD351C0505B9060@phx.gbl>
-Message-ID: <161227080861.23782.574612208813946383.generated@prod2.harmonylists.io>
-
+Unicode font
 all the keystrokes are mapped out and ready-made for Windows, Mac, and 
 Linux.  They are downloadable from the same web page from which you 
 (presumably) got the font itself.  See
-
    http://bombay.indology.info
-
-
 NB everyone: the fonts have changed their names, after a friendly 
 complaing about trademarks from the foundry that "owns" the names "Times" 
 etc.  The fonts themselves haven't changed, and there is no technical 
 reason for getting the newly named ones.
-
 As ever, enormous thanks to John Smith for his selfless work in making all 
 this software so excellent, and so free.
-
 Dominik
-
--- 
 Dr Dominik Wujastyk
 Senior Research Fellow
 University College London
 http://www.ucl.ac.uk/histmed
-
-
-
 On Mon, 9 Jul 2007, Amy Langenberg wrote:
-
-> I have recently downloaded an Indic Unicode font called Times_IndUni, so that 
-> I can transliterate Sanskrit terms using the correct diacriticals. 
-> Unfortunately, I am having trouble figuring out the key-strokes for 
-> everything I need and wondered if anyone had, by chance, compiled a list of 
-> key-strokes for entering diacriticals (macrons, etc.) for said font.
->
-
-
-
-

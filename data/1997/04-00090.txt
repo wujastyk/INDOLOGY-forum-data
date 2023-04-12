@@ -1,19 +1,9 @@
-From vidynath at math.ohio-state.edu  Fri Apr  4 18:46:34 1997
-From: vidynath at math.ohio-state.edu (Vidhyanath Rao)
-Date: Fri, 04 Apr 97 13:46:34 -0500
-Subject: Rig Veda, ta'ntra, nUl, and sUtra
-Message-ID: <161227029375.23782.10683177951113559749.generated@prod2.harmonylists.io>
-
+Rig Veda, ta'ntra, nUl, and sUtra
 Vidyasankar Sundaresan <vidya at cco.caltech.edu> wrote:
-> Isn't there a language-czar somewhere in an Indian govt. office whose job
-> is to coin such terms for use in Hindi? I wonder what they have come up
-> with. 
-
 This brings up something that has been bothering me. In which language
 did the word `antarraaSTriya' originate as the translation of
 `international' and did this use of antar have antecedents in that
 language?
-
 The reason why I don't think that this is natural in Hindi is this:
 One dictionary (I think `Oxford') translates `antarjaata' as `innate',
 `endogamous', and `antarjaatiya' as `intercaste'. Another, 
@@ -23,8 +13,3 @@ for `antarjaatiya vivaah' with the meaning given as `endogamous marriage'
 [I am not kidding.] And Raghu Vira's English-Hindi dictionary
 suggests `antar' to form claques of both `endo' and `inter'.
 Very confusing.
-
-
-
-
-

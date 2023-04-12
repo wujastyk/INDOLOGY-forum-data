@@ -1,16 +1,4 @@
-From tantrapl at hektor.umcs.lublin.pl  Thu Aug 22 14:00:37 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Thu, 22 Aug 96 16:00:37 +0200
-Subject: typing Sanskrit
-Message-ID: <161227025729.23782.13970011080608054405.generated@prod2.harmonylists.io>
-
-
- 
-> Leslaw's system  "BO" seems just as good as any other 7-bit scheme.  I
-> think it is probably better to decide which side of a letter your accents
-> will appear -- BO has accent-markers on the left and on the right of
-> letters, which makes automatic parsing much more fiddly.  
-
+typing Sanskrit
 I don't quite understand. 1) You don't have to put diacritical marks BEFORE
 writing a letter (which goes against normal practice), 2) you don't have to use
 capital letters inside a word (which leaves you possibilities of using
@@ -22,50 +10,20 @@ advantages some other systems lack.
 new people who are learning Sanskrit with the help of a computer and have to 
 memorise strange sequences of keys to type a letter and a diacritical mark.
 If you mean computerwise it's all the same so the better for BO.
-
 Also, I did not write about accents. It has definitely not been my idea to
 put their marks on the left and on the right of letters! We don't have to use
 them that often but if you have to then put them right after the letter.
 It's natural to do it that way.
- 
-> However, Peter Schreiner's transliteration scheme is very similar to BO in
-> general principle, and more fully worked-out.  In addition, there is a
-> significant corpus of work in Peter's coding, which makes it worthwhile to
-> develop conversion tables for moving in and out of his scheme (to TeX, for
-> example).
 It's nice to know somebody had similar ideas. I don't know Peter Schreiner's
 transliteration. Could somebody advise me please where in the net could I
 read a good presentation of it.
- 
-> Finally, I should like to say *again*, pace Lars M. Fosse's remarks which
-> I consider refutable, that no 7-bit coding scheme for Sanskrit is
-> essentially better than any other, as long as ambiguity is avoided.  And
-> the tools for converting from one scheme to another are so widespread and
-> easy to use, that surely we must ask whether the topic remains
-> interesting?  
 Again, for a computer it may be all the same. It is not so for a man,
 especially for those who are not both computer specialists and Sanskrit 
 scholars ;-)
-
 Might we seriously consider replacing any typing on this
-> topic by typing actual Sanskrit texts (in any coding :-)?
 Didn't got the allusion. BO is meant not for eliminating devanagari. It is
 meant for electronic (and typed) texts where you mix latin script words with
 words from Sanskrit. I also think devanagari has some disadvantages in
 electronic presentations of text.
-
 That's all this time
 				Leslaw 
-
- 
-> 
-> 
-> 
-> 
-> 
-
-
-
-
-
-

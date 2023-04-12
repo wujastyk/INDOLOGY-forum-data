@@ -1,24 +1,8 @@
-From Sfauthor at AOL.COM  Tue Dec 19 18:39:37 2000
-From: Sfauthor at AOL.COM (Brian Akers)
-Date: Tue, 19 Dec 00 13:39:37 -0500
-Subject: PDF (was publication of IASS papers on CDROM)
-Message-ID: <161227065640.23782.100252774185883056.generated@prod2.harmonylists.io>
-
+PDF (was publication of IASS papers on CDROM)
 In a message dated 12/19/00 1:06:25 PM, gm at ANTHOSIMPRINT.COM writes:
-
->Reason for its virtual disappearance: usability.
-
 I agree. TeX is completely unsuited for a production environment (ordinary
 mortals struggling with deadlines).
-
 BTW, Apple's upcoming OS X removes the current limit of 256 fonts.
-
-
---------------------
 Brian Dana Akers
 www.pipeline.com/~sfauthor/
 sfauthor at aol.com
-
-
-
-

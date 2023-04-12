@@ -1,16 +1,8 @@
-From suresh.kolichala at gmail.com  Wed Aug 10 14:13:02 2016
-From: suresh.kolichala at gmail.com (Suresh Kolichala)
-Date: Wed, 10 Aug 16 10:13:02 -0400
-Subject: [INDOLOGY] Sinhala half nasal plus m
-In-Reply-To: <CAPW7aQH0w+-Rm++RE7QTA9ysQSKvbifPhDBAXEjOYmNRpjDL0A@mail.gmail.com>
-Message-ID: <CAOXgvip-KiqNK+Ga-ihPDcwYMfz9MNqFKONPx56zW36ihe_cAA@mail.gmail.com>
-
+[INDOLOGY] Sinhala half nasal plus m
 Dear Rolf and others,
-
 Sorry for a late response, but I just saw this thread. Since I have some
 experience with Unicode as a member of the Unicode Consortium, Here are my
 quick remarks:
-
    1. Please don't use ? for transcribing the half nasal. ? is used for
    anusv?ra in ISO-15919. Sinhala should be using ISO-15919, not IAST. ? is
    not used in ISO-15919.
@@ -27,12 +19,5 @@ quick remarks:
    the ordinary English Text (which follows ASCII standard). Unicode is an
    international standard, and almost all the applications and operating
    systems developed in the last decade should fully support it.
-
 Regards,
 Suresh.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160810/ef901552/attachment.htm>
-

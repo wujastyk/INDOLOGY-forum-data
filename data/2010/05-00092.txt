@@ -1,35 +1,13 @@
-From pwyzlic at UNI-BONN.DE  Wed May 19 23:12:15 2010
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Thu, 20 May 10 01:12:15 +0200
-Subject: Accessing Journal Asiatique?
-In-Reply-To: <3AF9B038A6B07641B36C799ED4EBB0D713E319AE69@ITCS-ECLS-1-VS3.adsroot.itcs.umich.edu>
-Message-ID: <161227089664.23782.12059125180457187372.generated@prod2.harmonylists.io>
-
+Accessing Journal Asiatique?
 Am 20.05.2010 um 00:45 schrieb Deshpande, Madhav:
-
-> Does anyone know of a website that allows downloading individual articles from Journal Asiatique?  Any help will be appreciated.  Best,
-
-
 Concerning current volumes: the online edition is distributed by the Belgian publisher Peeters
-URL: <Indology <http://poj.peeters-leuven.be/content.php?url=journal.php&code=JA>
 One needs a subscription, of course, to get the articles.
-
 Older volumes can be fetched completely from the Biblioth?que Nationale (covering 1822 to 1938)
-URL: <http://gallica.bnf.fr/> or, more specific, 
-URL: <http://gallica.bnf.fr/ark:/12148/cb34348774p/date.r=journal+asiatique.langFR>
-
 Some volumes, maybe not all from those in the public domain, are also available from Google Books, try
-URL: <http://books.google.com/books?q=editions:BSBBSB10248871>
-
 Hope it helps
 Peter Wyzlic
---
 Institut f?r Orient- und Asienwissenschaften
 Bibliothek
 Universit?t Bonn
 Regina-Pacis-Weg 7
 53113 Bonn
-
-
-
-

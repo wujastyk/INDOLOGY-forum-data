@@ -1,9 +1,4 @@
-From dbhattacharya2004 at YAHOO.CO.IN  Fri Jun  5 17:56:21 2009
-From: dbhattacharya2004 at YAHOO.CO.IN (Dipak Bhattacharya)
-Date: Fri, 05 Jun 09 23:26:21 +0530
-Subject: here,              here (was: Re: What Devanagari text would you most like as an              e-text_
-Message-ID: <161227086717.23782.1417883721583995023.generated@prod2.harmonylists.io>
-
+here,              here (was: Re: What Devanagari text would you most like as an              e-text_
 The necessity was never denied by me. All said, on the supposition that producing?the online version of texts, on which I am no expert, is an expensive and laborious job,?the claim for not-easily-available multi-volume works is greater than that of easily available and cheap-by-Western-standard works whatever acuteness of its necessity for particular projects. Again, there is absolutely no message of underestimating of the work with G?ndh?r? manuscripts. Every sane Indologist wishes them the best.
 DB
 ?
@@ -11,23 +6,8 @@ DB
 ?
 ?
 ?
-
---- On Fri, 5/6/09, Stefan Baums <baums at U.WASHINGTON.EDU> wrote:
-
-
-From: Stefan Baums <baums at U.WASHINGTON.EDU>
-Subject: Re: here, here (was: Re: What Devanagari text would you most like as an e-text_
-To: INDOLOGY at liverpool.ac.uk
-Date: Friday, 5 June, 2009, 10:39 PM
-
-
+Re: here, here (was: Re: What Devanagari text would you most like as an e-text_
 Dear Dipak Bhattacharya,
-
-> Coordinating printed Dictionaries reasonably saves time. But the
-> Gandhari mss have not themselves been coordinated, an absurd
-> prosposition till a critical index is prepared, a work that
-> requires hard manual labour, a case by case inductive procedure.
-
 just briefly. With the G?ndh?r? material we were facing a special
 chicken?and?egg situation in that the ambiguities of the writing
 system, the fragmentation of the manuscripts etc. made it arguably
@@ -35,7 +15,6 @@ more important than for better?preserved Sanskrit texts to have a
 grammar and dictionary to help in their decipherment, but then of
 course a grammar and dictionary would have to be based on a
 decipherment of the material in the first place, as you mention.
-
 Our solution to this problem was preparing transliterations of the
 complete corpus of G?ndh?r? texts (both published and not) to the
 best of our abilities here and now. This goal has been mostly
@@ -58,19 +37,12 @@ the sort ?what happens to OIA i in closed syllable when preceded
 by a palatal,? with full statistics), and then there is the
 complete catalog of texts and the bibliography, so it is not only
 still less but also quite a bit more than a dictionary already.
-
 In addition to the benefits given by Andrew and Stephen,
 digitizing BHSD would then allow us to integrate it into our
 overall system so one can seamlessly navigate back and forth
 between G?ndh?r? and BHS entries.
-
 All best,
 Stefan
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-

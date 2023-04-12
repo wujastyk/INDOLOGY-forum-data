@@ -1,27 +1,9 @@
-From f_ruzsa at ISIS.ELTE.HU  Thu Jun 10 19:34:36 1999
-From: f_ruzsa at ISIS.ELTE.HU (Ferenc Ruzsa)
-Date: Thu, 10 Jun 99 21:34:36 +0200
-Subject: CSX+ fonts & cross-platform email exchange
-Message-ID: <161227050274.23782.3637427313286943800.generated@prod2.harmonylists.io>
-
+CSX+ fonts & cross-platform email exchange
 Also, Windows98 with Word really does not like some of the encodings (with
 ASCII codes directly above 128); the printer often goes mad from them
 (irregular spacing etc.).
 Of course no sane person would use Windows - if he has the choice. It seems
 many of us do not have.
 Any solution?
-
 Ferenc
-
 Jaap Pranger wrote:
-
->Windows and Mac versions of the CSX+ fonts seem to have
->identical encodings, in contrast to what is usual.
->
->Data based on CSX+ fonts, when exchanged across platforms
->through email, gets scrambled due to the usual automagical
->MIME re-encoding.
-
-
-
-

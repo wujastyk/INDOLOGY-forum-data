@@ -1,16 +1,9 @@
-From birgit.kellner at UNIVIE.AC.AT  Mon Jan  8 00:19:48 2001
-From: birgit.kellner at UNIVIE.AC.AT (birgit kellner)
-Date: Sun, 07 Jan 01 19:19:48 -0500
-Subject: Yogacara idealism
-In-Reply-To: <F41ouuN5bjeBSk1MZeA0000f2f9@hotmail.com>
-Message-ID: <161227066375.23782.2271790444052392024.generated@prod2.harmonylists.io>
-
+Yogacara idealism
 First a general remark concerning Satya Upadhya's message on Buddhist
 pramANa, SautrAntika and YogAcARa, which might also be of interest
 considering Stephen Hodge's comment about there being a problem taking
 DharmakIrti to be a YogAcArin; further below a few more specific remarks
 (or rather quibbles).
-
 The problem, hinted at by Chattopadhyaya, how pramANa-tenets can be
 advanced by an idealist arises only when being an idealist is taken to
 mean that a philosopher is to advance only idealistic arguments about
@@ -31,7 +24,6 @@ like "idealist" or "representationalist" to specific tenets or
 arguments rather than to the philosophers that hold or advance them -
 Tibetan doxographical assertions, which are interesting in their own
 rights, nonwithstanding.
-
 This means that it is of course possible to rely on tenets found in
 DharmakIrti's works in order to find out what YogAcAra is and what it
 isn't, or rather what it can be and cannot be - one simply has to be
@@ -43,14 +35,7 @@ it is considered as necessary by Satya Upadhya to concentrate on this
 argument for an examination of whether or not YogAcAra can be
 considered as "idealism". John has indicated a couple of better
 starting-points in his message.
-
 Here come a few more specific remarks:
-
->> >The most important interpreter of Dignaga is Jinendrabudhi, without whose
->> >detailed commentary on the main work of Dignaga (Pramana samuccya), it
->> >would
->> >be practically incomprehensible for modern scholars.
-
 Jinendrabuddhi is the only one whose commentary on DignAGas PS has
 been transmitted. Arguing that he is *therefore* the most important
 interpreter of DignAga is quite a stretch - philosophically speaking,
@@ -60,10 +45,6 @@ of a text without reading a certain commentary, this does not mean
 that one has to accept all philosophical interpretations of that
 commentary, nor that these interpretations are particularly important
 either historically or philosophically.
-
->>Most popular among commentars of Dharmakirti are
->> >Vinitadeva and Dharmatottara.
-
 Most populare where, when, and with whom? Dharmottara's importance for
 the development of the Buddhist epistemological tradition
 nonwithstanding, I fail to see the crucial importance of VinItadeva,
@@ -73,31 +54,11 @@ scepticism by (guess whom) Dharmottara. Arriving at an idea about the
 philosophical impact of DharmakIrti's writings on the basis of
 VinItadeva's commentary seems a quite futile undertaking to me,
 given the character of VinItadeva's work.
-
->> Dharmottara, who belongs roughly to the next
->>century,
->> >is more scholastic. For understanding his commentary we have often to
->> >depend
->> >on a subcommentary written on it called the
->> >"Nyayabindu-tika-tippani"--often
->> >referred to briefly as "tippani"--by somebody whose name is controversial
->> >but who is probably a junior contempory of Dharmottara.
-
 Actually, the TippanI is only transmitted for a part of the first
 chapter of the NyAyabinduTIkA, so we cannot depend on it for reading
 Dharmottara's NyAyabinduTIkA on the whole. What *we* rely on most in
 case of problematic passages is the sub-commentary of Durvekamizra,
 entitled "DharmottarapradIpa".
-
->> >
->> >These then are the interpreters of Dignaga and Dharmakirti, on whom we
->>have
->> >to depend. It is therefore not of little interest to note that that none
->>of
->> >them finds it permissible to assert outright that the discussion of the
->> >pramanas on the part of the Masters is fully consistent with their
->> >idealism.....
-
 These are by no means the only interpreters of DignAga and
 DharmakIrti, nor are they necessarily the most competent ones for all
 contexts and purposes. Furthermore, I would like to know on what basis
@@ -115,14 +76,7 @@ that this my message is fully consistent with English grammar, yet I would
 consider it permissible to do so (provided that it were necessary, and
 provided, of course, it really were fully consistent with English grammar
 :-)).
-
----
 Best regards,
-
 Birgit Kellner
 Institute for Tibetan and Buddhist Studies
 Vienna University
-
-
-
-

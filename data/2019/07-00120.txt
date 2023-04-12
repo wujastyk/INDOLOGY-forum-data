@@ -1,29 +1,15 @@
-From francois.patte at mi.parisdescartes.fr  Sat Jul 27 17:45:28 2019
-From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
-Date: Sat, 27 Jul 19 19:45:28 +0200
-Subject: [INDOLOGY] grammar question
-Message-ID: <ad8c243a-7556-c9f3-4709-50ed40f845a5@mi.parisdescartes.fr>
-
+[INDOLOGY] grammar question
 Bonjour,
-
 There is a construction ablative + na with numerals:
 ek?n na vi??ati? for 19
-
 Is this kind of construction exists in other circumstances? And, if yes,
 what is the meaning?
-
 I came accross this sentence:
-
 tena ??abh?n na prast?ra?
-
 which comes as a conclusion after:
-
 tata ??abhasya adhast?t ?a?jo deyatven?s?t? sa copary agre vartate?
 (tena ??abh?n na prast?ra? |)
-
 Thank you for some lights...
-
--- 
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -32,12 +18,3 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
-
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: signature.asc
-Type: application/pgp-signature
-Size: 195 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20190727/cefda6ee/attachment.sig>
-

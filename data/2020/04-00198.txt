@@ -1,12 +1,5 @@
-From dnreigle at gmail.com  Sun Apr 12 20:43:33 2020
-From: dnreigle at gmail.com (David and Nancy Reigle)
-Date: Sun, 12 Apr 20 14:43:33 -0600
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_K=C4=81lacakra_etexts=3F?=
-In-Reply-To: <CAMGmO4+WLKJqaJnPyk7bHw=NTQV8-3vSZmepj1bxR_WTRWzcZA@mail.gmail.com>
-Message-ID: <CAPAZekY-HCZP2DeNc3JSAC_U+wm4_VTFbKS2k7oCghEPCvTy4g@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_K=C4=81lacakra_etexts=3F?=
 Dear Jonathan, and all,
-
 Thank you for this information about these wonderful electronic resources
 for canonical Tibetan materials. It will be helpful for anyone searching
 for "K?lacakra etexts" and finding this thread, as it is helpful to me.
@@ -15,7 +8,6 @@ all be manuscript Kangyurs) only the Stog Palace one was accessible through
 its Indian reprint (1975-1980), I pretty much ignored the other ones due to
 their inaccessibility. I have now checked the colophons of these at the
 first link you gave.
-
 The Ulaanbaatar and Shey Kangyurs, like the Stog Kangyur, have the Shong
 ston revision of the Soman?tha and 'Bro translation of the
 *K?lacakra-tantra*. The colophons of the London and Tokyo Kangyurs were not
@@ -23,7 +15,6 @@ given, but I assume that like the others of the Them spangs ma group, they
 have the Shong ston revision. Likewise, the Phugbrag Kangyur has the Shong
 ston revision, as do all the other Kangyurs whose colophons are shown at
 the link you gave.
-
 So although the *K?lacakra-tantra* had been translated into Tibetan several
 times, we only had the Shong ston revision and the Jonang revision in the
 known Kangyurs. Then among the hoard of manuscripts recently discovered at
@@ -35,7 +26,6 @@ pioneering translation in the full sense of the word, which is why it was
 superseded by better translations that came later. It nonetheless has value
 in sometimes helping to determine the correct original readings in Sanskrit
 manuscripts.
-
 The *Vimalaprabh?* commentary on the *K?lacakra-tantra* fared even better
 in the Drepung finds. Not only the first ever translation of it by
 Bhadrabodhi and Gyi jo was found, but also an early translation of it by
@@ -43,7 +33,6 @@ Tsa mi Sangs rgyas grags, an ethnic Tibetan or Tangut who spent many years
 in India and is said to be the only Tibetan to have become an up?dhy?ya in
 an Indian monastery. These are found in volumes 1-4 of *Dus 'khor phyogs
 bsgrigs chen mo*.
-
 We would expect that the translation of the *Vimalaprabh?* found in most of
 the Tengyurs would be the Shong ston revision of the Soman?tha and 'Bro
 translation, like their translation of the *K?lacakra-tantra* found in most
@@ -55,18 +44,9 @@ revision, and the remaining three chapters are the Jonang revision. This is
 also true for the Co-ne Tengyur, and the *Vimalaprabh?* as found in the
 Der-ge, Lithang, and Urga Kangyurs. The full Shong ston revision is found
 in the Peking and Narthang Tengyurs.
-
 Great to learn of your project (openphilology.eu), with its current focus
 on the *Mah?ratnak??a* collection and the eventual goal of full
 digitization of the Tibetan corpora. Wishing you well with it.
-
 Best regards,
-
 David Reigle
 Colorado, U.S.A.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200412/670e6f0c/attachment.htm>
-

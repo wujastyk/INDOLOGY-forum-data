@@ -1,10 +1,4 @@
-From christophe.vielle at uclouvain.be  Mon Jan  6 15:07:25 2020
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Mon, 06 Jan 20 15:07:25 +0000
-Subject: [INDOLOGY] A piece of insolence
-In-Reply-To: <631D9FE2-CBC6-48E7-9C61-607D527A10DF@uclouvain.be>
-Message-ID: <76136BFA-A9BF-4409-B3C3-363F512930D3@uclouvain.be>
-
+[INDOLOGY] A piece of insolence
 Many thanks to Suganya Anandakichenin for providing me with noteworthy additional occurrences of the stanza:
 ? at the beginning of the Ma?iprav?la work M?nikkam?lai of Periyav?cc?? Pi??ai (ca 13th c.), with the variant in d "tasm?d br?hma?a-daivatam" and where the word br?hma?a is understood as a synonym of ?c?rya.
 ? in Ved?nta De?ika's commentary (T?tparyacandrik?) on R?m?nuja?s G?t?bh??ya 18.15:
@@ -15,19 +9,11 @@ iti
 a quotation for which the editor gives in footnote the reference to Vihagendrasa?hit? 22.15.
 I have no access to the latter text for checking the version of the stanza (see Vihagendrasam?hita? [Vihake?ntira samhita?; cutarcan?a mantra ca?stram], ed. A?. Vi?rara?kavan [A. Veeraraghavan], Tanjore Sarasvati Mahal Series [Tan?ca?vu?r Caracuvati Maka?l vel?iyi?t?t?u] no. 465, 2005). However, Veda?nta Des?ika mentions a sam?hita? with this title in his Pa?n?cara?traraks?a? (ed. D. Aiyangar and T. Venugopalacharya, Adyar Library Series no. 36, p. 23; cf. Gonda, Medieval Religious Literature in Sanskrit, A History of Indian Literature 2/1, 1977, p. 106) [I owe this latter reference to Ewa De?bicka-Borek]. So, even if the Vihagendra- is not an early p??car?tra sa?hit? (not mentioned in Schrader's or Matsubara's books; I have not Smith's ones at hand), like Periyav?cc?? Pi??ai it should precede Ved?nta De?ika by at the least more than one hundred years.
 So these sources point to the 12th century ?r?vai??ava milieu for a possible origin of the stanza.
-
 Best wishes,
-
 Christophe
-
 Le 3 janv. 2020 ? 17:14, Christophe Vielle via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> a ?crit :
-
 Dear list,
-
 in reading the auto-biography of the Kerala social reformer V.T. Bhattathiripad (1896-1982) born in a Nambudiri brahmin family (My Tears, my Dreams - Kanneerum Kinaavum, New Delhi: Oxford UP, 2013, translated from the Malayalam), sprinkled with Sanskrit verses (from the author's memory) in approximative transliteration (unfortunately I have not yet the original, with correct Sanskrit, version), I come across the following ?loka (p. 27, corrected):
-
 daiv?dh?na? jagat sarva?  mantr?dh?na? tu daivatam |
 tan mantra? br?hma??dh?na?  br?hma?o mama daivatam ||
-
 with the author's comment "I don't know which idiot made up this verse in Sanskrit".
-

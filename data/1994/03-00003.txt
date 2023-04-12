@@ -1,9 +1,4 @@
-From samuels at ucsu.Colorado.EDU  Wed Mar  2 02:18:54 1994
-From: samuels at ucsu.Colorado.EDU (SAMUELS JEFFREY)
-Date: Tue, 01 Mar 94 19:18:54 -0700
-Subject: Map Program
-Message-ID: <161227016591.23782.10620464623148883678.generated@prod2.harmonylists.io>
-
+Map Program
 	While I was browsing around on the internet, I came 
 across a map program (EPI MAP) that might be of interest 
 to some of you.  Included in the map program are maps 
@@ -20,17 +15,9 @@ vital part of the program that was purposefully left out.
 appended the list of the mapping directory which provides 
 a brief, one line description of each file.  If you have 
 any questions, please feel free to contact me.
-
 		Jeff Samuels
 		samuels at ucsu.colorado.edu
-
-
----------------------------------------------------------
-----
-
-
 EPIMAP INDEX OF FILES
-
 Directory pub/msdos/mapping/
  Filename   Type Length   Date    Description
 ==============================================
@@ -125,13 +112,3 @@ topov300.zip  B  125323  930310  3-D topographic map
 plotting program
 vmap120.zip   B  343425  930127  Draws outline maps on 
 many map projections
-
-
-
-
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Fri Oct  4 03:31:25 1996
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Fri, 04 Oct 96 12:31:25 +0900
-Subject: Mahaabhaarata upgraded
-Message-ID: <161227026292.23782.592257074807882553.generated@prod2.harmonylists.io>
-
+Mahaabhaarata upgraded
 Prof. M. Tokunaga has upgraded his e-text of the Mahaabhaarata.
 I have replaced the older files in my ftp site by the new ones
 which Prof. Tokunaga calls version 1_1. 
@@ -18,15 +13,11 @@ compressed by the standard unix command `compress', thus you should
 `uncompress' them.  Those without .Z are ordinary text files, thus
 you can directly read them, although some (like m12.1_1) are of huge
 size.
-
 Let us thank again Prof. Muneo Tokunaga!
-
 Michio YANO
 Kyoto Sangyo University
 yanom at ksuvx0.kyoto-su.ac.jp
 yanom at cc.kyoto-su.ac.jp (for private mails)
-
-------------------- FILES -----------------------------
 -rw-rw-r--  1 yanom      996333 Oct  4 11:50 m1.1_1
 -rw-rw-r--  1 yanom      375097 Oct  4 11:48 m1.1_1.Z
 -rw-rw-r--  1 yanom      104968 Oct  4 11:51 m10.1_1
@@ -63,8 +54,3 @@ yanom at cc.kyoto-su.ac.jp (for private mails)
 -rw-rw-r--  1 yanom      208067 Oct  4 11:35 m8.1_1.Z
 -rw-rw-r--  1 yanom      458359 Oct  4 11:52 m9.1_1
 -rw-rw-r--  1 yanom      170106 Oct  4 11:36 m9.1_1.Z
-
-
-
-
-

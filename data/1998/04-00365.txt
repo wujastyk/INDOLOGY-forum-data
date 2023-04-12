@@ -1,14 +1,8 @@
-From brao at USC.EDU  Wed Apr 29 16:31:00 1998
-From: brao at USC.EDU (Bapa Rao)
-Date: Wed, 29 Apr 98 09:31:00 -0700
-Subject: Telugu history
-Message-ID: <161227037998.23782.8593233403488962484.generated@prod2.harmonylists.io>
-
+Telugu history
 It is true that, approximately until 1000 A.D., there wasn't evidence of
 significant govenrment sponsorship of Telugu, though there are a number of
 very early copper grant documents etc. in Telugu, indicating that some
 government business was conducted in Telugu.
-
 However, I don't see a causal link between the advent of Muslim rule and
 the "easing of Sanskrit pressure," circa 1000 A.D. At least in Telugu, the
 first major government-sponsored literary project in Telugu, namely the
@@ -16,14 +10,12 @@ translation of the Mahabharata, was a manifestation of deliberate
 government policy to indigenize itself; the government at that time was a
 product of marriage between the Western, Kannada-speaking Chalukya dynasty
 and the Southern Chola dynasty.
-
 During the Kakatiya empire, there was a great deal of literary activity in
 Telugu, but there was no Muslim connection within the empire till the very
 last, under Prataparudra. Since the North was firmly under the Delhi
 Sultanate at that time, the argument that fleeing northern brahmin pandits
 contributed to the Sanskrit element of Telugu would make some sense here,
 on the face of it.
-
 The indigenization and Telugization process appears to have been a natural
 progression for any multigenerational regime, intended mainly for practical
 reasons, to achieve better integration between the rulers and the ruled.
@@ -33,17 +25,14 @@ contest between Gunaadhya and Sarva-varma (my memory may be inaccurate here
 as to names etc.), which ended with the former abandoning Sanskrit and
 writing an opus in "paisaachi" (which might have been old Telugu or one of
 the related tribal languages) is indicative of this.
-
 Coming to Muslim rulers, there is some indication that the Bahmani Golconda
 rulers participated to some extent in this indigenization process, no doubt
 aided by their proximity to, and rivalry with the contemporary Vijayanagar
 empire. The last ruler of Golconda, Quli Qutb Shah (known as Taneshah) was
 known to be quite an accomplished poet in Telugu.
-
 Under the Nizam's rule, official relationship with Telugu was one of benign
 neglect at best. The nizams at no time saw themselves as Telugu people, and
 displayed little interest in working with it or promoting it.
-
 So much for official interaction with Telugu. As for influences on common
 vocabulary, well, Telugu has always been (IMO, like English) very open to
 foreign imports, be they Sanskrit or Persian. Though Telugu grammarians
@@ -56,38 +45,5 @@ setting it up as a morality play with arbitrary "hero" and "villain"
 foreign languages, we will be missing out on valuable insights into the
 nature of the language and the natural forces that shape cultural
 accumulation.
-
 Bapa Rao
-
-
 N. Ganesan wrote:
-
-> I was under the impression:
-> > The reason for excessive use of Sanskrit words in Telugu,
-> > a Dravidian language, when compared to Tamil, is that all the Hindu
-> > arts and Sanskrit pundits took refuge in Telugu Desam.
-> > Especially during the Muslim rule of the North
-> > and in Vijayanahgar kingdoms.
-> > That had the effect of increase in number of Sanskrit words
-> > used in Telugu, neglecting "acca telugu" words (original Telugu).
->
-> Uday Reddy, reddy at reddy.cs.uiuc.edu wrote back:
-> +Well, actually, I think the Muslim rule in the North helped the
-> +Dravidian languages, in that the pressure of Sanskrit eased.  (It also
-> +helped the North Indian languages the same way.)  Almost all the big
-> +kingdoms before 1000 AD, Satavahana, Chalukya and Rashtrakuta promoted
-> +Sanskrit or Prakrit.  There was NO patronage for Telugu.  (Kannada
-> +fared a little better somehow.)  But after 1000 AD, things changed and
-> +Telugu developed enormously.  Basically, there was no Sanskrit
-> +imperialism after the Muslims came into India.
->
-> Uday is a native Telugu from AP.
->
-> Any thoughts?
->
-> Regards,
-> N. Ganesan
-
-
-
-

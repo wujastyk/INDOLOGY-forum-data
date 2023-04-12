@@ -1,38 +1,6 @@
-From Max.Nihom at oeaw.ac.at  Thu May  4 12:43:02 1995
-From: Max.Nihom at oeaw.ac.at (Max.Nihom at oeaw.ac.at)
-Date: Thu, 04 May 95 14:43:02 +0200
-Subject: Sanskrit mangalas in Indonesian texts
-Message-ID: <161227019338.23782.14429616135106306996.generated@prod2.harmonylists.io>
-
->Friends on the list who work on Sanskrit in Indonesian texts:
->        A student of music here has brought me a text about Gamelan music
->based on a palm leaf manuscript in Indonesian which has an unmistakeably
->Sanskritic beginning.  It reads: om awighnam astu nama siddham.  A few
->lines later it reads:  "om sidhingastu nama ciwaya."  I know nothing about
->Sanskrit in Indonesia.  avighnam astu is clear enough.  The question is:
->what is this "Nama Siddham ?"  nama for namaH is clear, but what of siddham
->? nama ciwaya suggests that dative with namaH is still possible, although
->siddhiM astu suggests that case endings have in general lost some of their
->distinctions.
->        Any immediate reactions ?  Any reference works to turn to ?
->Thanks,
->C. Minkowski,  Cornell
->
-> 
->
->
-
+Sanskrit mangalas in Indonesian texts
 On the formula om awighnam astu namah siddham, see M. Klokke, Tantri reliefs 
 on Javanese Candi, Leiden, 1993, p. 49 note 30: "This is a salutory formula 
 often preceeding a text". It does not seem to have any necessary connection 
 to grammatical treatises.
-
-
 Max Nihom, Vienna
-
- 
-
-
-
-
-

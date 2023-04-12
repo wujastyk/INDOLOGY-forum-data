@@ -1,35 +1,11 @@
-From birgit.kellner at UNIVIE.AC.AT  Thu Mar 11 16:10:28 2004
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Thu, 11 Mar 04 17:10:28 +0100
-Subject: a sloka to be identified
-In-Reply-To: <Pine.WNT.4.58.0403112008460.7680@Anat-lws119.ucl.ac.uk>
-Message-ID: <161227074055.23782.7149023174336163722.generated@prod2.harmonylists.io>
-
+a sloka to be identified
 Dominik Wujastyk wrote:
-
->Sheldon has improved my translation, for which many thanks:
->
->
->
->> te.saa.m uktau pramaa.na.m ca maduktau na katha.m bhavet /
->> tasmaat subhaa.sita.m graahyam iti sarvatra ni"scita.m //
->>
->>
->
->          Their statements carry weight; why shouldn't mine?
->          Therefore in every case it's clear that whatever is
->          well said (= well argued) should be accepted.
->
->Dominik
->
->
 For what it's worth, I went through files on my harddisk, or rather, had
 a search program speed through them. Nothing turned up in (in comparison
 to Dominik's text) earlier NyAya texts like the NyAyabhUSaNa or the
 NyAyamaJjarI, or the NyAyabhASya; I ran searches for "uktau" and
 "subhASita" respectively, to be on the safe(r) side of potential typos
 in the files.
-
 As for the translation, I had thought along similar lines in terms of
 construction, but in slightly different terms. The first half calls into
 question, and implicitly rejects, that the weight (authority,
@@ -42,21 +18,13 @@ case, it seems more plausible to me that the author of the verse,
 whoever it was, would emphasise that this principle is obvious, or
 clear, or known, everywhere, and not necessarily that it is clear in
 every case.
-
 This would be my suggestion, of course very hypothetical as I don't know
 the context (where, for instance, do the duals in the first half come
 from? What's with the strange position of "ca"? Metri causa?):
-
 "Their statements carry weight; why shouldn't mine? Therefore [i.e.
 because it is unreasonable to accord weight to statements on the basis
 of the speaker] what is well said should be accepted -  this is
 ascertained/clear everywhere [so don't even think about arguing with me
 any further]." (or: "as is ascertained/clear everywhere")
-
 Best regards,
-
 Birgit Kellner
-
-
-
-

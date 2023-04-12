@@ -1,18 +1,4 @@
-From juvvadi at allegra.att.com  Tue Oct 24 15:15:42 1995
-From: juvvadi at allegra.att.com (juvvadi at allegra.att.com)
-Date: Tue, 24 Oct 95 11:15:42 -0400
-Subject: Documentation on ISCII
-Message-ID: <161227021418.23782.13822630851689789107.generated@prod2.harmonylists.io>
-
-
+Documentation on ISCII
 I was told that there was a discussion on ISCII representation. Can anybody
 send me some documentation on ISCII representation.
-
 Ramana
-
- 
-
-
-
-
-

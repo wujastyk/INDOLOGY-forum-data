@@ -1,14 +1,5 @@
-> this null value. From perhaps as early as the third century AD the Mayans
-> also used place-value and zero, but with the base twenty. But it does
-> indeed seem to have been the Indians who first combined these key elements
-> together to form the basis of the arithmetic system that has come down to
-> the modern world.
->
-
 The full text is here:
 http://cikitsa.blogspot.com/2010/04/origins-of-zero.html
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies,
 University of Vienna,
@@ -19,70 +10,4 @@ Project <http://www.istb.univie.ac.at/caraka/> | home
 page<http://www.academia.edu/DominikWujastyk>|
 PGP <http://wujastyk.net/pgp.html> | Free Dropbox account
 <https://www.dropbox.com/referrals/NTIzNzI2MTY5>
-
-
-
-
 On 4 December 2011 20:19, Jean-Michel Delire <jmdelire at ulb.ac.be> wrote:
-
-> Dear member(s),
->
-> I certainly agree that India was the first place where the decimal
-> enunciation of numbers went so far as to give names to long series of
-> powers of ten But, I would add the following remarks : 1? enunciation does
-> not necessarily mean notation, so that one is still far away from a
-> positional decimal system when one says "sahasrani sata dasha" instead of
-> writing 1110; actually, in this example, the 1's are not enunciated and it
-> is the names of the powers of ten that specify the value, not the position,
-> and 2? it is only when the "1's" are enunciated, the "0" added and the
-> names of the powers of ten dropped that we have a real positional decimal
-> enunciation like 'one one one zero'. This happened in India in the first
-> centuries AD, especially in the astronomical works named siddhantas, which
-> enunciated 304, by instance, as tri sunya catur or as loka kha veda. By so
-> doing, they replaced the numerals by number-words, so useful for metric
-> (and thus verbal) facility, reminiscent of the numerals. And, even so, one
-> cannot really ensure that the system was purely decimal for danta is
-> sometimes used for 32 (and other single words for other two figures
-> numbers).
->
-> Hoping this helps,
->
-> J.M.Delire,
-> Lecturer on 'Science and Civilization in India - Sanskrit texts' at the
-> IHEB (University of Brussels)
->
-> >To all listed Members and scholars in Indology,
-> >
-> >
-> > In course of my earnest study of Indology, ,I learnt that India of the
-> Rig Vedic age was the first to innovate  decimal system or place-value
-> principle in Mathematics. Taitteriya Upanishads(one of the eleven
-> Upanishads)have references of decimal system.In the "Shukla" version of
-> Yajurveda , we find Medhatithi's verse in the Vajrasaneyi Samhita which
-> speaks of the various powers of ten.Rigveda has evidences of writing 720 as
-> "sapta satati vimsatih" or 1110 as "sahasrani sata dasha"  Thus concepts
-> like place -value , powers of ten dawned upon the Indians of the Rig Vedic
-> age. while the romans could use upto 10 to the power 3 , and the greeks 10
-> to the power 4, it was quiet natural for the Rig vedic India to imagine 10
-> to the power 14.
-> >                                                Rig vedic age existed
-> between 1500 B.C.and 500 B.C.
-> >                          Can anyone enlighten me whether any other
-> civilisation or age pre-dated  the Rig Vedic India in innovating the
-> Decimal system ?
-> >
-> >  Thanking You
-> >  ALAKENDU DAS
-> > mailmealakendudas at redifmail.com
-> >
-> >
-> >
-> >
-> >
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20111205/bf4cbc5a/attachment.htm>
-

@@ -1,29 +1,20 @@
-From witzel at FAS.HARVARD.EDU  Wed Mar  3 20:46:46 1999
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Wed, 03 Mar 99 15:46:46 -0500
-Subject: Yet another areal/GENERALITIES
-Message-ID: <161227047161.23782.16748477786817441523.generated@prod2.harmonylists.io>
-
+Yet another areal/GENERALITIES
 Now that all grammatical categories have been nicely muddled up in the
 discussion of a lot of Japanese and some Sanskrit, it is perhaps better to
 return to this aspect (sorry, side) of the question.  Since details are too
 numerous, I dividide this into two messages.
-
 In colloquial parlance, we tend to confuse tenses with aspects, and aspect
 with  'type of action' of verbs  (Aktionsart). These are *three* different
 things.  Sorry, I was too brief last time; I assumed more general
 understanding of the verb system.
-
 In detail: Many languages have an ASPECT system,  not (our English type)
 TENSES, such as present, past, future, perfect etc.
-
 Those which do *not* have a *grammaticalized* aspect system (such as
 English, Hindi, modern Japanese) have tenses (but they *can* have
 Aktionsarten -- I don't think there is a general Engl. expression; see
 further below) .
 Other, e.g., 'Aspect' languages,  do not need tenses, since they can make
 the same distinctions by  using aspect or Aktionsart functions and forms.
-
 Aspect languages usually distinguish the GRAMMATICAL CATEGORIES
 imperfective ('not completed' action) and perfective ('completed' action).
 Obviously, some verbs primarily fit only one  aspect:  you can sit, eat, be
@@ -32,11 +23,9 @@ Obviously, some verbs primarily fit only one  aspect:  you can sit, eat, be
 have inchoative action > perfective aspect ('I left', which again you
 cannot do 'forever'). And there are other, more specialized cases ('to
 flash')
-
 In Vedic these two CATEGORIES still are fairly well distinct:
 *imperfective aspect   =  expressed by the GRAMMATICAL  FORM present stem,
 *perfective aspect   =    aorist stem  (cf. below, DETAILS)
-
 Many if not most Vedic verbs (see below) follow either category, as per
 their meaning (sit :: arrive/leave), by using the bare ROOT as present ::
 aorist  (thus, root present, Panini's no. 2) or root aorist.
@@ -47,28 +36,22 @@ been).  Here, Skt. (and similarly Latin, Germanic) even resorts to two
 different verbs to make the distinction, and both forms are directly from
 the root.  -- Or cf. the cases I used last time  a- ga-ccha-t ::  a-gan(t).
 (< IE  *e-gwm-sk'e-t :: *e-gwem-t).
-
 The problem arises when you want to use these verbs in the other aspect.
 Thus,  agan(t) 'he made a step, went forth' :: a-ga-ccha-t 'continued to go
 forth, went '. Note that in this case the present stem (with  past tense
 agacchat) is specially characterized by the Indo-European inchoative -sk'e-
-> Skt. -ccha- (yacchati, icchati, prchati < *prk'-sk'eti > posco, forschen
 etc.)  You need -ccha- to express continuing action. gam-a-ti is not a
 Vedic Present (but subjunctive aorist "he will go", a small difference!)
-
 In the same way, you need a special suffix (s-Aor. for example)  in verbs
 which fall into the action types (Aktionsart) such as durative:   stau-ti
 'he praises' ('forever')  :: a-stau-S-It  'he finished praising (just now)'
 <<NB: the 'just now' (sub-)function is not IE but a Vedic development, see
 below ) .  >>
-
 The IE aspect system is clear if one compares other IE languages (see, e.g.
 gam : ga-cch, in Skt., Avestan, Greek, Armenian, Latin, etc., see the
 recent compendium : H. Rix (et. al.), Lexikon der indogermanischen Verben.
 Die Wurzeln und ihre Primaerstammbildungen. Wiesbaden 1998.
 600 pp. of examples leave no doubt about this basic distinction.
-
-
 That not all verbs in Vedic follow the  IE  root aor . versus  specially
 designated pres. stem,  or, conversely, root present :: specially
 designated aorist  distinction clearly any more, is no great  wonder: quite
@@ -80,7 +63,6 @@ Goto, C. Werba etc.); similarly, we have different present stems for about
 :: bharati  'carry'! Here we can even speculate on the 'meaning' (gramm.
 function) of the reduplication: continue to carry, and you will bring
 something.
-
 The continuants / remnants of this aspect division (Pres. ::  Aor. stems)
 are clear enough in the various IE languages in order to support an
 original PIE aspect division. It is quite another question as to what was
@@ -90,27 +72,17 @@ new living injunctives, new 'double' subjunctives) and Classical/Epic  (no
 subjunctives, injunctives used), within a time span of c. 1000 years.  A
 reconstruction of the  "pre-Vedic"  based  on such items would yield a
 confusing system.
-
 I hope this clarifies the terms & limits of the present discussion.
-
 MW
-
  ==========================================================================
 Michael Witzel
         witzel at fas.harvard.edu
 Wales Professor of Sanskrit
-
 Dept. of Sanskrit & Indian Studies,
 Harvard University                              www.shore.net/~india/ejvs
 2 Divinity Avenue                               (Electronic Journal of
 Vedic Studies)
 Cambridge MA 02138, USA                 (Harvard Oriental Ser., Opera Minora)
-
 phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496 8571
----------------------------------------------------------------------------
 my direct line (also for messages) :  617- 496 2990
 home page:     www.fas.harvard.edu/~witzel/mwpage.htm
-
-
-
-

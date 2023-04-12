@@ -1,82 +1,8 @@
-From rubberjoel at SAFE-MAIL.NET  Tue Nov 16 20:52:55 2004
-From: rubberjoel at SAFE-MAIL.NET (Joel Bordeaux)
-Date: Tue, 16 Nov 04 15:52:55 -0500
-Subject: Devanagari
-Message-ID: <161227075358.23782.3119546960372867152.generated@prod2.harmonylists.io>
-
+Devanagari
 Hello. I'd like to check out this font, please.
 And thanks very much for your generous offer.
 My address is jeb2104 at columbia.edu
 best,
 Joel Bordeaux
-
--------- Original Message --------
-From: John Huntington <huntington.2 at OSU.EDU>
 Apparently from: owner-indology at LISTSERV.LIV.AC.UK
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: Devanagari
-Date: Tue, 16 Nov 2004 13:30:16 -0500
-
-> Valerie's message leads me to what is probably a rash move.
->
-> However several years ago (maybe ten), I had a then new graduate
-> student who was struggling with transcribing Newar ligatures for
-> Sanskrit into Romanization.  I wrote for her use a simple Mac font
-> with most of the half letters and so on. We then had material that we
-> both could read and worked on the transliteration together. However,
-> it was based on a rather elegant Devanagari calligraphy book (Which I
-> cannot tell you the name of because I have given it to my son to work
-> with for a Hindi project). The font look rather nice as the original
-> glyphs were done in illustrator and then coded into a font in
-> Fontmaker.  It does not follow any formal keyboard system but was
-> based on the same key calls as SAsiadiacritic which I also produced
-> and which I understand has found fairly wide spread Mac usage.
->
-> If any of you want to try the font, please send me a message with
-> your e-mail address in it, I will send you a copy of the font and the
-> coding sheet for the key calls. Warning not all of the subscribed,
-> and superscribed aspects of a  ligature show up well on the screen,
-> but they print very well on a postscript (or emulator) printer.
->
-> If you find any missing components, please let me know and I see what
-> I can do about adding them over the winter holidays (If I stay in
-> Columbus)
->
-> John
->
->
-> >I have been following the correspondence about Devanagari with
-> >interest and increasing frustration.   Isn't there anyone else who,
-> >like me, just wants a Mac font (or set of fonts) with all the
-> >ligatures for correct Sanskrit?
-> >
-> >I don't see why I should have to buy OS X (and probably a new
-> >computer to run it on) just to try what sounds like yet another Hindi
-> >font.  I'm not bothered about Unicode, cross-platform compatibility
-> >and all the rest of it, so long as I can print out Sanskrit teaching
-> >materials with accuracy.    (Vedic accent marks would be nice, but I
-> >can manage without them.)
-> >
-> >At least one good Sanskrit (free) font has been available for PC for
-> >at least 10 years now.  Why is there apparently nothing for Mac,
-> >apart from the very expensive commercial ones?
-> >
-> >Valerie J Roebuck
-> >Manchester, UK
-> >
-> >
-> >At 7:12 pm -0800 11/11/04, Stefan Baums wrote:
-> >
-> >>the Unicode text only specifies the basic letters.  The number of
-> >>conjuncts used in displaying the text is entirely up to the font.
-> >
-> >.....
-> >
-> >>Most of the Unicode Devanagari fonts currently available cater to
-> >>the modern languages and lack some of the conjuncts that we would
-> >>like to have for Sanskrit.
-> >...
-
-
-
-
+Re: Devanagari

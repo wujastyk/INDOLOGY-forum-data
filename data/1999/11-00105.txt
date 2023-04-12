@@ -1,40 +1,16 @@
-From lmfosse at ONLINE.NO  Tue Nov  9 11:52:23 1999
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Tue, 09 Nov 99 12:52:23 +0100
-Subject: SV: Query: Etymology of sanskrit "aham"/ I
-Message-ID: <161227053386.23782.6446035164884097951.generated@prod2.harmonylists.io>
-
+SV: Query: Etymology of sanskrit "aham"/ I
 Pascale Didier [SMTP:pad at FTO.DE] skrev 09. november 1999 10:57:
->
-> i am looking for the etymology of the sanskrit (or pali) word
-> "aham"= I.
-
 aham is etymologically related to Latin ego and Greek egoon. The Skt. form goes
 back to an earlier form *egHom, where the H represents a laryngeal.
-
->
-> further i would have a question to the instrumental Form of "aham":
-> maya.
->
-> Does this instrumental Form from aham "maya" have any
-> etymology relation to the substantiv "maya = illusion"?
-
 There is no connection between mayaa "by me" and  maayaa "illusion". It is
 simply part of the paradigm of the first person pronoun. You will find more
 details about these paradigms in e.g. Szemerenyi's Introduction to Historical
 Linguistics.
-
 Best regards,
-
 Lars Martin Fosse
-
 Dr. art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
 Norway
 Phone/Fax: +47 22 32 12 19
 Email: lmfosse at online.no
-
-
-
-

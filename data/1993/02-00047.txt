@@ -1,27 +1,12 @@
-From ucgadkw at ucl.ac.uk  Thu Feb 18 12:43:34 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Thu, 18 Feb 93 12:43:34 +0000
-Subject: list of Sanskrit text-in-computer projects
-Message-ID: <161227015714.23782.9473573814592912227.generated@prod2.harmonylists.io>
-
-
-
+list of Sanskrit text-in-computer projects
 I've just arranged for a list of such projects to be emailed
 to INDOLOGY.  I hope you won't find it too long.  It contains
 information from all over the world about what Sanskrit texts
 are available in machine-readable form.
-
 The list is derived from the new gopher service on the topic
 of machine-readable text projects, which is at guvax.georgetown.edu.
 If you don't have a gopher client ... get one (ho ho ho!) ... but
 you can contact the Georgetown information by ordinary ftp to 
 the same address.  (You just don't get the same overview and 
 ease of access.)
-
 Dominik
- 
-
-
-
-
-

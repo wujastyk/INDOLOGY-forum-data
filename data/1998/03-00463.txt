@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Fri Mar 27 16:56:47 1998
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Fri, 27 Mar 98 11:56:47 -0500
-Subject: Sanskrit Retroflexes
-In-Reply-To: <19980327154704.17503.rocketmail@send1a.yahoomail.com>
-Message-ID: <161227037191.23782.17744937107795884193.generated@prod2.harmonylists.io>
-
+Sanskrit Retroflexes
         Suggestions for Dravidian role in the development are discussed in
 a paper "Retroflexion in Sanskrit" by D.H. Killingley.  This paper was
 published in the Proceedings of the First International Conference of
@@ -15,7 +9,3 @@ enough to send me a copy.  The discussion of phonetic motivations in the
 emergance of Sanskrit retroflexion is worth reading.
         All the best,
                                         Madhav Deshpande
-
-
-
-

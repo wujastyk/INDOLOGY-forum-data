@@ -1,32 +1,21 @@
-From zydenbos at flevoland.xs4all.nl  Sun Apr 20 03:16:12 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Sun, 20 Apr 97 02:16:12 -0100
-Subject: Sandhi in `real' Sanskrit vs `conversational' Sanskrit
-Message-ID: <161227029834.23782.17543754394826424819.generated@prod2.harmonylists.io>
-
-
+Sandhi in `real' Sanskrit vs `conversational' Sanskrit
 Replies to msg 18 Apr 97: indology at liverpool.ac.uk
 (vidynath at math.ohio-state.edu)
-
  voe> From: Vidhyanath Rao <vidynath at math.ohio-state.edu>
-
  voe> The editor's introduction in the HSS I referred to earlier notes
  voe> that in some verses attributed to Bhart.rhari, sandhi is
  voe> occasionally not applied at the caesura. In the Kaavyas, sandhi
  voe> is applied between the padas, but not always in puraa.nas.
-
 Which is one reason why some modern authors call the language of the puraa.nas
 "corrupted" because of "errors in sandhi". But whether these are really to be
 considered "errors" is debatable in some cases, and could indeed reflect a
 manner of thinking about prosody that relaxes the application of sandhi rules
 in favour of a more natural pronunciation of verses instead of considering the
 metrical verse the unit of pronunciation.
-
  voe> In Tamil, for novels, prose works expounding some aspect of
  voe> Tamil literature or cilture etc, sandhi is applied only for
  voe> word/morpheme groups that form a whole, like words forming
  voe> a compound verb.
-
 Well, I suggest that you watch the behaviour of the suffix "-ku" and of words
 like "inta". And when do "words form a whole"? It may be that in contemporary
 Tamil prose, written sandhi is largely, though not completely, limited to the
@@ -34,10 +23,6 @@ internal sandhi of compounds (though I call it "internal" here, we could debate
 over whether "words forming a compound verb" is an instance of internal or
 external sandhi). Unambiguous external sandhi is very much there in Kannada
 (both loopasandhi and aade;sasandhi), besides internal sandhi.
-
-> (If by "all" you also mean languages outside India: French is an obvious
-> example of a language with written sandhi.)
-
  voe> Between articles and associated nouns, between (some) prepositions
  voe> and
  voe> associated nouns etc. Do you mean to say that sandhi is applied in
@@ -46,30 +31,16 @@ external sandhi). Unambiguous external sandhi is very much there in Kannada
  voe> verb? My reading of French is for the most part limited to math
  voe> papers, but I don't even remember sandhi being applied in
  voe> print between adjective and the noun.
-
 Adjective and noun?
         - nouveau livre
         - nouvel arbre
-
 Perhaps you should go through some linguistic literature to see how linguists
 use the term 'sandhi', and that sandhi has not much to do with objects and
 verbs.
-
-> It is of course true that sandhi in
-> these languages has less far-reaching consequences, but it is there.
-
  voe> `less far-reaching' is to put it mildly.
-
 Are you suggesting, in your criticizing of other sandhis, that only Sanskrit
 has the "full variety", and that other languages (French, Italian, Portuguese,
 Tamil, Kannada, what else? Irish is another good one) do not have "real"
 sandhi? But then, who owns sandhi and decides what real sandhi is? (This is a
 rhetorical question, mind you. I am just being nasty. Ignore it.)
-
 - RZ
-
-
-
-
-
-

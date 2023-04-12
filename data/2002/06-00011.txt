@@ -1,29 +1,20 @@
-From GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE  Tue Jun 11 09:39:28 2002
-From: GRUENEN at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
-Date: Tue, 11 Jun 02 09:39:28 +0000
-Subject: Input of e-texts - some suggestions
-Message-ID: <161227071084.23782.14486823834758180901.generated@prod2.harmonylists.io>
-
+Input of e-texts - some suggestions
 Dear list members,
-
 roughly half a year after the introduction of the Goettingen Register
 of Electronic Texts in Indian Languages (GRETIL) I would like to
 express my thanks to all contributors of e-texts and, at the same
 time, invite further contributions. It should be noted that these
 contributions are in no way expected to comply with the suggestions
 made below.
-
 Anyway, here are some points that I have come to find useful in my own
 work as well as in preparing files from various sources for GRETIL.
 Perhaps they can serve as a starting point for a discussion.
-
 -   FORMAT: Assuming that the aim of the text input is to provide a
     scholarly reference aid for a given text, rather than an exercise
     in piety, I consider transliteration in a PLAIN TEXT FILE
     preferable to any other format such as PDF, RTF, HTML etc.,
     which may turn out practically useless for the said purpose,
     especially when combined with non-Latin scripts.
-
 -   ENCODING: No matter which encoding is used in transliteration,
     it should be
     -  FREE FROM ANY AMBIGUITY (that may, e.g., arise from employing
@@ -37,7 +28,6 @@ Perhaps they can serve as a starting point for a discussion.
     nor will "global" marketing strategies for long prevent the rise
     of new encoding systems, making today's one-size-fits-all
     solution just another item of electronic mythology.
-
 -    REFERENCE SYSTEM: This is perhaps the most neglected aspect in
      the majority of e-texts one comes across. And yet, with the
      computer's well-known limitation to one screenful of text at a
@@ -90,41 +80,25 @@ Perhaps they can serve as a starting point for a discussion.
            ........  florin ........  // XY_n,n.n //
            Here again, everything is fine as long as it is
            UMAMBIGUOUS.
-
 *******************************************************************
-
 These suggestions have gradually emerged from my own practice. I
 would be interested to hear what others have to say about this.
-
-
 Finally, let me again point out that contributions to GRETIL are in
 no way expected to comply with these suggestions!
-
-
 Best regards
-
 Reinhold Gruenendahl
-
 ********************************************************************
-
 Dr. Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 Fachreferat sued- und suedostasiatische Philologien
 (Dept. of Indology)
-
 37070 Goettingen, Germany
 Tel (+49) (0)5 51 / 39 52 83
 Fax (+49) (0)5 51 / 39 23 61
 gruenen at mail.sub.uni-goettingen.de
-
 FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
 In English:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
-
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
-
-
-
-

@@ -1,12 +1,5 @@
-From James_Fitzgerald at BROWN.EDU  Sat Aug 29 04:33:09 2009
-From: James_Fitzgerald at BROWN.EDU (Fitzgerald, James)
-Date: Sat, 29 Aug 09 00:33:09 -0400
-Subject: Font/Print Problems
-In-Reply-To: <4A98616D.40402@wfu.edu>
-Message-ID: <161227087500.23782.11967904348671498694.generated@prod2.harmonylists.io>
-
+Font/Print Problems
 Hi Jarrod,
-
 When I first switched to Unicode years ago (using MS's own Arial Unicode
 font) while using Windows 2000 and probably Word 2000 I had a similar
 problem, even with on-screen display. Someone instructed me to go to
@@ -17,16 +10,10 @@ mention of in general discussions. It solved my problems then and I must
 resort to it very now and then, when opening old .doc files, some .rtfs,
 etc. But as I said, in my cases the extra spacing showed up/shows up on
 the screen as well as in print.
-
 All the best, Jim
-
------Original Message-----
-From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Jarrod L
 Whitaker
 Sent: Saturday, August 29, 2009 8:00 AM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Font/Print Problems
-
+Font/Print Problems
 Dear List:
 I have just started experiencing some problems with character spacing
 when I print to various printers on VISTA Office 2007. I use Titus
@@ -39,23 +26,12 @@ Sanskrit and English, but all in Titus Cyberbit Basic). I just upgraded
 to a new computer with VISTA and Office 2007. Is any one else
 experiencing this problem? Thoughts? Is it a problems with new VISTA
 printer drivers? Office 2007?
-
 JLW
-
 *Jarrod L. Whitaker, Ph.D.*
 Assistant Professor, South Asian Religions
-
 Wake Forest University
 Department of Religion
 PO Box 7212
 Winston-Salem, NC, 27109
 Email whitakjl at wfu.edu
-Tel: 336.758.4162
 Fax: 336.758.4462
-
-
- 
-
-
-
-

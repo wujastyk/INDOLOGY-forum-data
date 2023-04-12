@@ -1,13 +1,4 @@
-From mgansten at SBBS.SE  Sat Jan 23 14:56:27 1999
-From: mgansten at SBBS.SE (Martin Gansten)
-Date: Sat, 23 Jan 99 15:56:27 +0100
-Subject: Hindu new years day
-Message-ID: <161227045568.23782.3693106380590607960.generated@prod2.harmonylists.io>
-
->Doesn't the Uttarayana in traditional Hindu astrology begin
->with Jan. 14th (Pongal/makara sankrAnti)? If correct, it is
->like the difference between mesha sankrAnti and vernal equinox.
-
+Hindu new years day
 Yes, you're right; apparently my previous statement was too hasty -- at
 least partially. Balabhadra's Horaratna (a 17th century work, but based on
 older sources) mentions that 'some' use tropical calculations to determine
@@ -15,10 +6,5 @@ the ayanas, but that this should not be done for ordinary purposes, such as
 determining auspicious times. Here, Makara/Karka sankranti is used instead.
 Obviously this is a survival from the time when these sankrantis really did
 coincide with the solstices.
-
 Best regards,
 Martin Gansten
-
-
-
-

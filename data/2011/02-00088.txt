@@ -1,52 +1,20 @@
-From lubint at WLU.EDU  Sun Feb 27 20:55:09 2011
-From: lubint at WLU.EDU (Lubin, Tim)
-Date: Sun, 27 Feb 11 15:55:09 -0500
-Subject: default reply behaviour (was: curses)
-In-Reply-To: <AANLkTimPbP+XRzfrT0kHdCGARRNiytZ6W9sbAOu0_OJH@mail.gmail.com>
-Message-ID: <161227091655.23782.1307487873047499819.generated@prod2.harmonylists.io>
-
+default reply behaviour (was: curses)
 Hitting "reply-all" to reply to all (i.e., to the list) does not seem a terrible inconvenience to me, and if it saves some people the embarrassment (in some cases, grave embarrassment and harm; in some cases trivial but repeated embarrassment), it might be deemed worthwhile.   It seems to me that such unintended broadcasts used to be very frequent.
-
 If we do switch back, I suggest that others might do as I do ? instruct one's email program to funnel all messages from INDOLOGY into a separate folder.  Most programs have the facility of doing that I think.  It then becomes less likely that one would forget that the message was not a personal one.
-
 P.S., like Eliot, I replied to Patrick deliberately off-list, and for the same reason.
-
 Tim
-
-
------Original Message-----
-From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik Wujastyk
 Sent: Sunday, February 27, 2011 2:18 PM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: [INDOLOGY] default reply behaviour (was: curses)
-
-
+Re: [INDOLOGY] default reply behaviour (was: curses)
 On 26 February 2011 22:18, Sudalaimuthu Palaniappan <palaniappa at aol.com>wrote:
-
->
-> Just now I realized that with the current default reply in the list going
-> to the original poster, the following response I had sent a few days ago did
-> not go to the list.
->
-
 Can we review this?  It's a change that was made in the default behaviour of
 the INDOLOGY list, by popular request last year.  It annoys me a lot, but,
 unlike Muammar al-Gaddafi, I'm perfectly willing to abide by the will of the
 majority.
-
 The problem we were trying to solve was private replies to colleagues on the
 list that inadvertently became public.  Perhaps that is a greater danger
 than the annoyance of posts not going to the list at all.
-
 How do others feel?  Reply to sender, or reply to list at large?
-
 Best,
 Dominik
 INDOLOGY committee member
-
 !SIG:4d6aa391185711731119178!
-
-
-
-
-

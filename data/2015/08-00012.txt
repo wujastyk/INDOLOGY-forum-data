@@ -1,16 +1,7 @@
-From mrinalkaul81 at gmail.com  Mon Aug  3 05:21:27 2015
-From: mrinalkaul81 at gmail.com (Mrinal Kaul)
-Date: Mon, 03 Aug 15 10:51:27 +0530
-Subject: [INDOLOGY] Diacritical Sanskrit Problem in OS Yosemite
-In-Reply-To: <D1E4F220.1F42D%lubint@wlu.edu>
-Message-ID: <CAJz4T_5Rxgzd2emJ3h+EqN=CUEAP=a+vwoVy-Chmq=zvwOrTOg@mail.gmail.com>
-
+[INDOLOGY] Diacritical Sanskrit Problem in OS Yosemite
 Sincere thanks to Dr Tim Lubin for solving my problem.
-
 Best wishes.
-
 Mrinal
-
 ********************************
 Mrinal Kaul
 Manipal Centre for Philosophy and Humanities (MCPH)
@@ -19,69 +10,6 @@ Alevoor Road
 Manipal, Udupi 576104
 Karnataka, INDIA
 *********************************
-Tel: +91-820-2923567 (O)
 https://manipal.academia.edu/MrinalKaul
 e-mail: mrinal.kaul at stx.oxon.org
-
-
 On 3 August 2015 at 10:31, Lubin, Tim <LubinT at wlu.edu> wrote:
-
-> I use (a customized version of) the EasyUnicode keylayout on a Mac running
-> Yosemite, with no problem.  Are you sure that you were not putting the file
-> in the wrong folder.  Keylayout files (which appear in that upper right
-> corner) should go in the keylayout folder, not the fonts folder ? whatever
-> keylayout you were using before should still work, if you just reinstall it
-> in the right place:
->
-> Macintosh HD > Library > Keyboard Layouts
->
-> Timothy Lubin
-> Professor of Religion and Adjunct Professor of Law
-> Washington and Lee University
-> Lexington, Virginia 24450
->
-> http://home.wlu.edu/~lubint
-> http://wlu.academia.edu/TimothyLubin
-> https://twitter.com/TimothyLubin
->
-> ?
->
-> From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Mrinal
-> Kaul <mrinalkaul81 at gmail.com>
-> Date: Monday, August 3, 2015 at 10:15 AM
-> To: Indology List <indology at list.indology.info>
-> Subject: [INDOLOGY] Diacritical Sanskrit Problem in OS Yosemite
->
-> Dear Friends,
->
-> Just yesterday I had to reformat my Mac and I discovered that I have
-> shifted from OS Maverick to OS Yosemite. While on Maverick I was using a
-> Unicode keyboard option (on the right corner up there) that I had manually
-> put in the Fonts folder (inside the System folder), however this does not
-> seem to work with Yosemite. I do not want to use US International PC option
-> for writing diacritics. Is there some better, easy and straightforward
-> method to solve this problem? I would appreciate any help.
->
-> Best wishes.
->
-> Mrinal Kaul
->
-> ********************************
-> Mrinal Kaul
-> Manipal Centre for Philosophy and Humanities (MCPH)
-> Dr. TMA Pai Planetarium Complex
-> Alevoor Road
-> Manipal, Udupi 576104
-> Karnataka, INDIA
-> *********************************
-> Tel: +91-820-2923567 (O)
-> https://manipal.academia.edu/MrinalKaul
-> e-mail: mrinal.kaul at stx.oxon.org
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150803/5804dc5f/attachment.htm>
-

@@ -1,9 +1,4 @@
-From c722773 at SHOWME.MISSOURI.EDU  Fri Sep 19 21:00:11 1997
-From: c722773 at SHOWME.MISSOURI.EDU (Rahul Arora)
-Date: Fri, 19 Sep 97 16:00:11 -0500
-Subject: Help Wanted
-Message-ID: <161227032662.23782.9881992029277115325.generated@prod2.harmonylists.io>
-
+Help Wanted
 i am working on a project to convert romanised english to devanagari.we
 have a book of about 800 pages , written in sanskrit, which we have
 translated into romanised english using special characters,from the
@@ -12,7 +7,3 @@ english book to devanagari font without using the keyboard. if anyone
 knows anything about it please help us out.
 thanks
                                                         rahul arora
-
-
-
-

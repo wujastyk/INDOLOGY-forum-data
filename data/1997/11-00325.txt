@@ -1,26 +1,16 @@
-From GANESANS at CL.UH.EDU  Thu Nov 27 00:42:02 1997
-From: GANESANS at CL.UH.EDU (N. Ganesan)
-Date: Wed, 26 Nov 97 18:42:02 -0600
-Subject: IITS - Univ. of Koeln Website
-Message-ID: <161227034029.23782.5394602484036859898.generated@prod2.harmonylists.io>
-
+IITS - Univ. of Koeln Website
   Tamil Text Thesaurus
   ********************
-
 It is really great to see the Tamil Text Thesaurus back
 on-line. The URL is http://www.uni-koeln.de/phil-fak/indologie/index.e.html
 and it is listed on the Indology homepage under Institution's
 home pages too.
-
 Useful in searching for a word in a sangam text or to find out
 comparative passages in different works.
-
 There are problems in that the files are not properly linked.
-
 tolkAppiyam, patineNkIzk kaNakku, pazamozi, tirukkuRaL,
 cilappatikAram, maNimEkalai, cIvaka cintAmaNi are correctly
 installed.
-
 However,
 a) cangkam texts are not linked.
 b) tiruvAcakam, tEvAram are not there
@@ -33,16 +23,13 @@ f) Instead of villi pAratam, tiruviLaiyATal purANam
    some other string other than what one looks for shows up!
 g) tirumantiram, tiruviLaiyATal, periya purANam, kanta purANam,
    tEmpAvaNi are not available.
-
 Hope these errors can be corrected. Can Dr. T. Malten,
 Mr. T. Grote-Beverborg or Dr. U. Niklas look into this, please?
 This site offers great treasures for those genuinely
 interested (both professionals and non-professionals)
 in all the 2200 years of Tamil literature.
-
 We are waiting for the Online Tamil Lexicon to become alive
 again.
-
 I think both Univ. of Koeln & Inst. of Asian studies, Madras
 can join together to bring out lot of Tamil literature.
 For example
@@ -51,52 +38,26 @@ coming out for decades. Also, a list of Tamil palmleaf/paper
 manuscripts in Eurpean libraries. I know Univ. of Chicago
 and Roja Muttaiya Research Library, Madras are working
 on Saiva Siddhanta NuuRpatippuk Kazakam collections etc.,
-
 b) Grammars like nannuul, taNTiyalangkaaram, viiracOziyam,
 mAran akapporuL, ..
-
 c) tiruppukaz, edition by V. S. Chengalvaraaya Pillai
-
 d) Important pirapantams like nantik kalampakam,
 kuRRaalak kuRavanji, Pillaip perumAL aiyangkaar's
 ashTap pirapantam,iRaiyanaar kaLaviyal, kalingattup
 paraNi, tanjaivaaNan kOvai, ...
-
 e) Sanskrit translations (centuries old) like
 perungkatai, kaatampari, naiTatam, irakuvamicam
 (Raghuvamsam) by aracakEcari, a King of Jaffna.
-
 f) Commentaries like ParimElazakar's kuRaL
 comm., Cenavaraiyar, Naccinarkkiniyar, Peraciriyar,
 iLampuuraNar,
-
 g) nighaNTus like tivaakaram (9th century) ..
-
 h) Saiva 12 tirumuRais, Azvaar's naalaayirap pirapantam,
-
 i) Collected works of Kumarakuruparar, Tayumaanavar,
 Vallalar, Paaratiyaar, Paaratitaacan, ..
-
 j) Important talapuraaNams like Kaanjip puraaNam,
 pazaiya tiruviLaiyaatal, cEtu puraanam, kuRRaalat talapuraaNam, ..
-
 & so on.
-
 Happy thanksgiving,
 N. Ganesan
 nas_ng at lms420.jsc.nasa.gov
-
-
-
-
-
-
-
-
-
-
------ End Included Message -----
-
-
-
-

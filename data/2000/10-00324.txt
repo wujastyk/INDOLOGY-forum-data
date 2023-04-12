@@ -1,15 +1,6 @@
-From rajarshi.banerjee at SMGINC.COM  Fri Oct 20 21:32:32 2000
-From: rajarshi.banerjee at SMGINC.COM (Rajarshi Banerjee)
-Date: Fri, 20 Oct 00 17:32:32 -0400
-Subject: A chess piece
-Message-ID: <161227062776.23782.15773302144755549969.generated@prod2.harmonylists.io>
-
+A chess piece
 The picture at <http://sarasvati.simplenet.com/Chessmen.jpg> has the caption
 "A probable ancestor of the game of chess (in terracotta, from Lothal)."
 The head looks like a cows to me
 the neck shape could be misleading because all the peices are elongated
 vertically.
-
-
-
-

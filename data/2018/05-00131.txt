@@ -1,23 +1,11 @@
-From fleming_b4 at hotmail.com  Mon May 21 15:04:37 2018
-From: fleming_b4 at hotmail.com (Benjamin Fleming)
-Date: Mon, 21 May 18 15:04:37 +0000
-Subject: [INDOLOGY] IndUni keyboard layouts?
-In-Reply-To: <AB942CDF-28FB-40A3-A8F9-CADE9AAC9450@gmail.com>
-Message-ID: <YTXPR0101MB145362D7FD3CBE8316E7FB3FA4950@YTXPR0101MB1453.CANPRD01.PROD.OUTLOOK.COM>
-
+[INDOLOGY] IndUni keyboard layouts?
 Dear Dan,
-
 Thanks. I now have it figured out, was only missing the ? and have everything figured out now.
-
 Best,
 Ben
-
 On May 21, 2018, at 11:01 AM, Dan Lusthaus <prajnapti at gmail.com<mailto:prajnapti at gmail.com>> wrote:
-
 Hi Ben,
-
 You don?t need an additional input system beyond what the Mac already has (but needs to be activated). The key to easy diacritical input on a Mac is to use the ABC Extended keyboard layout, instead of the regular English keyboard. That can be added from the System Preferences menu under Keyboard.
-
 Then, you can type option-x + [any letter] to place an underdot under it: ? ? ? ? etc.
 option-a places a macron over any letter - ? ? ? etc.
 option-w places an overdot over any letter - ? ? etc
@@ -25,44 +13,22 @@ option-n + n = ?
 option-e + [any letter] places forward slash - ? ?, etc.
 option-u + [any letter] places an umlaut over the letter - ? ? etc.
 and much more.
-
 The [any letter] can be a capital or lower case. ?gveda (option-x + r) or ?g Veda (option-x + shift-r); ?iva (option-e + shift-s), etc.
-
 This is a system-wide setting, so it works in any program: not just Word, but any program in which you can type. Word processor, email, text, etc. Easy once you get the hang. You won?t need to copy-and-paste autocorrect entries in Word - you?ll be able to type them directly into the autocorrect dialogue with the proper diacriticals.
-
 Until you remember all the combinations, you can turn on ?Show Keyboard Viewer? from the keyboard layout menu that will appear in the upper right. When you press the option key it will highlight in orange the activated diacriticals.
-
 Diacriticals are still something of a problem on PCs, but not a Mac.
-
 The following might help you set it up.
 https://apple.stackexchange.com/questions/120938/wheres-the-us-international-keyboard-on-os-x-10-9-mavericks
-
 There might be a better tutorial out there, but this will get you started.
-
 good luck.
 Dan
-
-
 On May 21, 2018, at 9:59 AM, Benjamin Fleming via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
 Dear List,
-
 I am currently trying to update my unicode diacritics input method from the "cut and paste? and or ?autocorrect? input methods I currently use. I was pointed to the IndUni keyboard layouts which I found on John Smith?s web site, however since the instructions are from 2009 I am not finding it easy to adapt to current Mac OS. Is their a better input system than IndUni that people use or have people learned to adapt it to current OS?
-
 Thanks for any input/help!
-
 Best Wishes,
 Ben Fleming
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180521/50f1dea1/attachment.htm>
-

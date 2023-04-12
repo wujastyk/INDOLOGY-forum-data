@@ -1,13 +1,6 @@
-From abbas at IOPB.RES.IN  Thu Dec  3 18:12:24 1998
-From: abbas at IOPB.RES.IN (Samar Abbas)
-Date: Thu, 03 Dec 98 13:12:24 -0500
-Subject: Urdu speakers
-In-Reply-To: <2A626AC1645@soas.ac.uk>
-Message-ID: <161227043186.23782.2739811062655618336.generated@prod2.harmonylists.io>
-
+Urdu speakers
   To answer this question, one must first define `Urdu'. The famlly tree
 of Urdu is given below:
-
                    Arabic   Persian    Turkic
                         \      |       /
                          Zaban-e-Urdu (`Urdu') ca.1000 AD
@@ -23,14 +16,11 @@ of Urdu is given below:
                               Khari Boli
                         or Nagari Hindi `High Hindi'
                              (ca. 1900s )
-
-
   Urdu is a contraction of `Zaban-e-Urdu' (`Language of the Camp') which
 arose in the camps of Mahmud of Ghazni in the 10th century as a common
 language of the Turkic, Afghan, Arab and Persian ghazi liberators. At this
 stage, it only contained Islamicate words (Arabic, Persian, Turkic,
 Pashto) and was only written in Arabic.
-
     When these persons established the Hindustani Califate of Delhi (which
 lasted for almost 1000 years and is one of the greatest empires the world
 has seen), this langauge became de facto national language of the Islamic
@@ -46,7 +36,6 @@ Prakrits in Hindustan (Braj, Kannauji etc.) and became in fact the mother
 tongue of most Hindustanis (somthing English has not done). It is the most
 liberal langauge as far as vocabulary is concerned, and only English has a
 source as wide.
-
    In the 19th century the British encouraged Brahman fundamentalists who
 enforced the Prakrit Nagari script for the use of Hindustani (which till
 then had been always written in the Perso-Arabic script). This Nagari
@@ -61,7 +50,6 @@ it is only spoken by a very small percentage of the population, who prefer
 Hindustani. This Hindustani is still predominantly written in the Arabic
 script, but smaller fractions use Devanagari (Khari Boli dialect), Roman
 (Christians and Britishers), Bengali etc.
-
   Sometimes the simplified Urdu called Hindustani is also referred to as
 Urdu, but technically Urdu is the pure Islamicate language without the
 pre-Islamic influence. So the number of speakers of Urdu is practically
@@ -73,27 +61,11 @@ would understand some Old Anglo-Saxon since it is the presursor of
 English, so similarly practically every North Indian (and most South
 Indians at that) understands some Zaban-e-Urdu since it is the presursor
 of his/her mother tongue, Hindustani.
-
  Thus there is only a linguistic definition of Urdu, no such thing as an
 `official definition'. Official definitions have very little meaning esp.
 in South Asia; thus the official national langauge of India is Khari Boli,
 a Sanskritised version of Hindustani,; but it is to all effects and
 purposes a dead language (despite official support and the money wasted in
 propagating it).
-
 Samar
-
 On Wed, 2 Dec 1998, Lalita du Perron wrote:
-
->  Following on from the messages on the number of Urdu speakers in
-> various countries, I am puzzled as to what is the 'official' or indeed
-> accepted definition of an 'Urdu speaker'.
->
-> Lalita du Perron
-> Dept of South Asian Studies
-> SOAS, University of London
->
-
-
-
-

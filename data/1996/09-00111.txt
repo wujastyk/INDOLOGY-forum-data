@@ -1,9 +1,4 @@
-From tantrapl at hektor.umcs.lublin.pl  Mon Sep 16 20:13:36 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Mon, 16 Sep 96 22:13:36 +0200
-Subject: typing Sanskrit an other Indian languages
-Message-ID: <161227026083.23782.5623898421442582901.generated@prod2.harmonylists.io>
-
+typing Sanskrit an other Indian languages
 I would like to answer Sundaresan Vidyasankar but first I would like to
 say something of a more general nature. 
 1) I agree the idea of a discussion on Roman script presentation
@@ -25,63 +20,15 @@ would be to decide on the matter  I think it would be better conducted in
 the framework of the INDOLOGY list. (I do not know the program of the
 Conference and this is the reason I think the participants may not be ready
 for discussion on the problem and may decide on experts).
-
 And now for Sundaresan Vidyasankar letter (BTW thank you for comments)
-> I agree that it is useful to have Roman script transcription of Indic
-> languages for computer screens. However, I think we must remember that the
-> computer screen is, for all purposes, a different medium than paper. This
-> has implications for some of the points below.  
 Let me add it is inconvenient to type on an ordinary tapewriter as well.
 Still ...
-
-> 
-> > II) What features should such a system of transcription possess?
-> > I think it should:
-> > 
-> > 1) be close to traditional (especially internationally accepted) systems of
-> > transcription for languages in question.
-> 
-> This may be desirable, but here it is important to remember that the
-> traditional system of transcription is meant for printed matter. Computers
-> being more than a medium to present text, it is conceivable that a scheme
-> evolved for computer screens differs widely in some repects from the
-> accepted transliteration schemes. 
 Agreed. However, I would like it happen in an organized, rational way.
- 
-> > * It would be no major problem if the same sounds were rendered by
-> > different sets af signs in different languages (that is their respective
-> > systems of transcriptions) especially when the languages are either very
-> > different or spoken by people who leave far away from one another. You can
-> > always mark the language the word belong to in case of doubt eg. skr.
-> > 
-> > 2) It should not go against internationally accepted conventions of using
-> > Roman script (like usage of capital letters). Let us not get mistaken by
-> > names like INTRANS which are rather expression of aspiration (and tool of 
->   ^^^^^^^^^^^^^^^^^^^^
-> 
-> You are talking of ITRANS, I suppose. 
 I was talking about general trend in new names formed with "inter",
 "continental", "logy" etc. The names suggest some qualities which are not
 always generaly ascribed to the objects of reference. It is obvious I cannot
 prove any intentions of the creators of names. I am simply noticing
 impressions their creation gives.
-   
-> > promotion) than real respect for international conventions.
-> 
-> I beg to differ, especially on the use of capital letters. If an entire
-> text is to be transcribed, there is no reason why conventions of Roman
-> script should be strictly adhered to. The Roman script becomes simply a
-> convenient medium to present a text in a non-European language. 
-> 
-> Conventions regarding the use of capital letters are not uniform. In
-> English, one does not use the capital letter to begin every noun. In
-> German, I still see the use of capital letters for every proper and common
-> noun. I don't know how it is in Swedish or some other European language,
-> but I can generally identify that a scientific paper is by an author from
-> Europe, if it uses capital letters in words like "Sulphuric Acid" or
-> "Carbon", even in the middle of a sentence. These words would not be
-> capitalized by British, Indian and American authors, unless they occur at
-> the beginning of the sentence. 
 It is true that some of the national conventions differ. However, I think
 the majority of national conventions (and perhaps all in Latin script) accept
 that:
@@ -90,45 +37,14 @@ that:
 Of course, I remember the international convention for Sanskrit et al. but
 I think one should respect the ways of majority. As for "A" meaning long "a"
 I think it is also less convenient than "aa".
-
-> Given these differences in conventions among the traditional users of
-> Roman script, I see nothing problematic with using capital letters for
-> transcription, especially if there are easy software solutions that
-> convert the transcribed text to an Indic script. These conventions are
-> still ad-hoc, but the governing motive is ease of use, rather than any
-> ambition for self-promotion. 
 They are not so easy to learn and they differ largely from other conventions 
 what in the whole context makes them problematic.
-
-> I can easily write "ISa", "Ananda", "tIrtha", "maTha" and so on. You
-> simply mark the language as Sanskrit or Hindi or whatever else, and cease
-> to expect European conventions for the use of the Roman script.
 Let me notice what you call "European conventions" is observed in both of
 Americas, partly Africa, Australia and partly Asia. The capital letter means 
 a lot for many people eg. God and god very often suggest different notions.
- 
-> This peculiar use of capital letters, if accepted on a popular level, will
-> just become another convention for computer-oriented use of the Roman
-> script for Indic languages. There is no reason why transliteration
-> conventions developed in the context of print media should restrict those
-> developed for computer screens. 
 They should be taken into account while forming new conventions for
 computers. It is a question of convenience in a larger context.
-> For the sake of continuity, the existing
-> conventions may be taken as normative, but need not become prescriptive.
 True.
-
-> > 4) It should be relatively easy to type for many people (and not only to
-> > a few martyrs who produce devanagari electronic texts and differ largely
-> > in their ways; my high regards and thanks to them for their benedictine work) 
-> 
-> The use of capital letters satisfies this criterion too, does it not?
 Yes, it is. However, this is only one of the criteria.
-
 Regards,
 	Leslaw Borowski
-
-
-
-
-

@@ -1,12 +1,6 @@
-From dsalmon at SALMON.ORG  Sat Nov  4 21:34:24 2000
-From: dsalmon at SALMON.ORG (David Salmon)
-Date: Sat, 04 Nov 00 13:34:24 -0800
-Subject: [ADMIN] HTML Based Email (AOL 6.0)
-Message-ID: <161227063569.23782.9503397635643887167.generated@prod2.harmonylists.io>
-
+[ADMIN] HTML Based Email (AOL 6.0)
 Not to belabor a dead horse, but, to change horses in midstream, I
 respectfully submit that you are backing a dead horse.
-
 I am not advocating HTML email.  Nor am I insensitive to those with older
 equipment or slow and expensive connections to the internet.  Although I am
 located 200 miles from Silicon Valley, I am in a rural mountainous area and
@@ -16,7 +10,6 @@ not even an issue any longer among software designers; I saw it recently
 described as "old-fashioned."  It will not be long before others, like AOL,
 drop the option to turn off HTML and simply assume everyone has it and can
 use it.  The internet juggernaut is not going to halt.
-
 By the way, there is no way to ensure that archived digital information will
 be retrievable, whatever its format.  I looked into archiving judicial
 records in digital format a few years ago and found that there simply is no
@@ -27,9 +20,4 @@ format is strictly temporary, at this point, whatever the form in which you
 keep the data.  For the immediate future, at least, there is no alternative
 to periodically updating one's equipment and transferring the old data into
 the new forms.
-
 David
-
-
-
-

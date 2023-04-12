@@ -1,39 +1,19 @@
-From baums at lmu.de  Mon Aug  4 12:14:47 2014
-From: baums at lmu.de (Stefan Baums)
-Date: Mon, 04 Aug 14 14:14:47 +0200
-Subject: [INDOLOGY] Font with Brahmi characters
-In-Reply-To: <53DEB143.1040708@gmail.com>
-Message-ID: <20140804121447.GC2504@deepthought>
-
+[INDOLOGY] Font with Brahmi characters
 Dear Will,
-
-> I recently heard about Google Noto fonts
-
 I had a go at the Noto Brahmi font, and basic support is
 there, but not complete. (I had the same experience with the
 Noto Kharoshthi font.) In the following sentence, for
 instance
-
    ?????????????????????????????????????????????
-
 (the beginning of Girnar Rock Edict 1 in Br?hm? script),
 vowel signs and anusv?ra are correctly attached to base
 consonants, but pa + vir?ma + ra is not correctly combined.
-
 Still, it is good to see this sort of broad support for
 Br?hm? and Kharo??h? emerging, and when the missing
 rendering functionality is added, the Noto fonts should be
 very useful.
-
 All best,
 Stefan
-
--- 
 Dr. Stefan Baums
 Institute for Indian and Tibetan Studies
 Ludwig Maximilian University of Munich
-
-
-
-
-

@@ -1,13 +1,6 @@
-From BANKS at UK.AC.OXFORD.VAX  Tue Jul  9 17:05:00 1991
-From: BANKS at UK.AC.OXFORD.VAX (BANKS at UK.AC.OXFORD.VAX)
-Date: Tue, 09 Jul 91 17:05:00 +0000
-Subject: IBM fonts
-Message-ID: <161227015081.23782.11056587173940870683.generated@prod2.harmonylists.io>
-
-
+IBM fonts
 I am posting a message I sent directly to Stuart Lee in case it's of
 any use to anyone else:
- 
 "Stuart, I saw David Gellner just now and he told me that he uses a
 specially modified version of Chiwriter.  The modifications were done by
 Gunthart Muller (I hope I've spelled that right).  It writes in Roman, Roman-
@@ -20,17 +13,10 @@ have the whole lot transposed into Devanagari.  Gunthart was in Oxford
 a phone number: (010 49) 71 21 42 886.  This is his office - according to
 DG the secretary doesn't speak much English but is used to people requesting
 Gunthart from the English-speaking world!"
- 
 I can't vouch for the accuracy of any of this (being a Macintosh-user, where
 these things are simpler), but if there are any problems I can go back to
 David Gellner (who isn't on this list) and try and find out more.  David
 remembers paying just over L100 (direct from Gunthart) a couple of years
 ago.
- 
 Marcus Banks
 ISCA, Oxford
-
-
-
-
-

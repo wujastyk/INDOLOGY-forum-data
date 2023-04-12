@@ -1,22 +1,7 @@
-From kxp5195 at hertz.njit.edu  Tue Jan  2 08:52:53 1996
-From: kxp5195 at hertz.njit.edu (kxp5195 at hertz.njit.edu)
-Date: Tue, 02 Jan 96 13:52:53 +0500
-Subject: request: references for pancaanga/ephemeris calculations
-Message-ID: <161227022245.23782.8543102236312341414.generated@prod2.harmonylists.io>
-
-
-
+request: references for pancaanga/ephemeris calculations
 I am thinking of rewriting Prof Yano's pancaanga program with some
 modifications. I would appreciate if someone can give me the
 references for pancaanga calculations, both from the various
 siddhaantas, and also from modern ephemerides.
-
 Thanks in advance and best wishes to all for a Happy new year.
-
 Krishna Padmasola
- 
-
-
-
-
-

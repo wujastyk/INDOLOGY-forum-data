@@ -1,12 +1,5 @@
-From mmdesh at umich.edu  Sun Jul 19 03:00:33 2020
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Sat, 18 Jul 20 20:00:33 -0700
-Subject: [INDOLOGY] Pronounciation and transliteration of Marathi
-In-Reply-To: <CAJ3b0o9T4htqm7oJAYUW13A3f7jQHd49UY+wzgQugBBoS5ig8Q@mail.gmail.com>
-Message-ID: <CAB3-dzeMYkEEubFxtEC-CtkM=Ej_t05TnULWsutEihZqdorACQ@mail.gmail.com>
-
+[INDOLOGY] Pronounciation and transliteration of Marathi
 Dear Harry,
-
      Only the letters ?, ?, and ? have alternative pronunciations, dental
 and alveolar.  These are not optional pronunciations, but they occur in
 definite words and definite combinations, but these differences are not
@@ -15,46 +8,11 @@ speaker for which ones are pronounced where.  Even the native persons know
 this difference intuitively, but are not taught analytically in Marathi
 schools.  That makes it difficult for non-native speakers to figure this
 out.
-
 Madhav
-
 Madhav M. Deshpande
 Professor Emeritus, Sanskrit and Linguistics
 University of Michigan, Ann Arbor, Michigan, USA
 Senior Fellow, Oxford Center for Hindu Studies
-
 [Residence: Campbell, California, USA]
-
-
 On Sat, Jul 18, 2020 at 4:30 PM Harry Spier via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear list members,
-> I need to provide a transliteration scheme to transliterate marathi hymns
-> for english speakers to chant.  What I need is a list of those Marathi
-> devanagari letters that have two pronounciations and what those
-> pronounciations are.  For example in Marathi ? is pronounced in some
-> contexts as ja and in others as za . I need to know the pronounciations for
-> the other Marathi letters with two pronounciations.
->
-> Also I have contradictory information about which letters have two
-> pronounciations.  One source says its ? ? ? ? , another source (the wiki
-> page on Marathi phonology https://en.wikipedia.org/wiki/Marathi_phonology)
-> says its:  ?  ? ? ?
->
-> Thanks,
-> Harry Spier
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200718/af2d8f16/attachment.htm>
-

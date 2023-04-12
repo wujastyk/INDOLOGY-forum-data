@@ -1,18 +1,7 @@
-From ZYSK at ACFcluster.NYU.EDU  Wed Jul 14 20:35:00 1993
-From: ZYSK at ACFcluster.NYU.EDU (ZYSK at ACFcluster.NYU.EDU)
-Date: Wed, 14 Jul 93 15:35:00 -0500
-Subject: here's a PS file of a Sanskrit text
-Message-ID: <161227015984.23782.7892211763701227708.generated@prod2.harmonylists.io>
-
+here's a PS file of a Sanskrit text
 Dom,
 I tried the file you sent, after extracting and saving it as santext.zip.
 When I used the uudecode program on santext.zip, I kept getting
 the error input message "text.zip". Nothing else happened. What
 did I do wrong?
 Ken
- 
-
-
-
-
-

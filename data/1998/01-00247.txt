@@ -1,15 +1,8 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Sat Jan 24 06:30:11 1998
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Sat, 24 Jan 98 00:30:11 -0600
-Subject: Languages ( was : Yiddish translation of Gita
-In-Reply-To: <34C963D1.E16E84E5@concentric.net>
-Message-ID: <161227035047.23782.14957148765375523040.generated@prod2.harmonylists.io>
-
+Languages ( was : Yiddish translation of Gita
 I couldn't help but note the following from the Chronicle of Higher
 Education for this past week, there is a website for Yiddish books, a
 collection of some 44,000 titles--gleaned from some 1.4 million, 22,000 of
 which are held at the center initiating the searchable resource.
-
 INFORMATION TECHNOLOGY
            Yiddish Book Center Announces Plan to Digitize Its
            Collections By GOLDIE BLUMENSTYK
@@ -24,13 +17,11 @@ titles, and then to use those electronic "masters" to make the works
 available to libraries, scholars, and students in electronic and print
 formats.  The Center hopes to have its World-Wide Web site
 (http://www.yiddishbookcenter.org) operating soon.
-
            Copyright (c) 1998 by The Chronicle of Higher Education
            http://chronicle.com
            Date: 01/23/98
            Section: Information Technology
            Page: A25
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 John Robert Gardner      Obermann Center
 School of Religion         for Advanced Studies
@@ -40,7 +31,3 @@ http://vedavid.org       http://www.uiowa.edu/~obermann/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is ludicrous to consider language as anything other
 than that of which it is the transformation.
-
-
-
-

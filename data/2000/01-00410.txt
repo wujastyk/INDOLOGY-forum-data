@@ -1,47 +1,11 @@
-From jean.fezas at WANADOO.FR  Thu Jan 27 08:33:09 2000
-From: jean.fezas at WANADOO.FR (Jean Fezas)
-Date: Thu, 27 Jan 00 09:33:09 +0100
-Subject: varNa question
-In-Reply-To: <390AC379FFD2D21193130008C70D353876B85A@irene.um.be>
-Message-ID: <161227055554.23782.9450159454802154455.generated@prod2.harmonylists.io>
-
+varNa question
 At 16:45 26/01/00 +0100, you wrote:
->Dear list members,
->
->I've got to make a small work about the system of varNa in India. While
->trying to collect some data, I found 2 sources with 2 very different
->statements.
->One says that, for a given crime, a shudra was punished more heavily than a
->vaishhya, himself more than a kshhatrya (with a reference to Manu smRti).
->The second source says the opposite, that the punishment was in relation
->with the responsability, i.e., a vaishhya would receive a punishment twice
->as heavy as a shudra, and a kshhatrya twice as heavy as a vaishhya.
->
->Now, in Mahabharata,the eldest brother among pandavas, Yudhistir was asked
->to do a justice for a crime which involved four people from four different
->varNa. He gave the severest punishment possible to the one who was from
->BhramaN varNa since he was the most knowledgeble among the four to know what
->is right and wrong. Whereas he gave the least punishment to the person from
->shudra varNa because he was uneducated and was least likely to plan for that
->crime.
->
->I would like to know which source is right (maybe both?) and possibly get
->more textual references.
->In advance thank you.
->
->Dr. Eric Robert
-
-
 Dear Eric,
-
 To solve the problem, we have to forget some "prejug?s" (exemplified for 
 instance by Louis Dumont reproducing Bougl?'s mistake on the subject) : it 
 is not true that the punishment of the Brahmin is ALWAYS lighter than the 
 punishment of the zUdra). We must analyze the kind of offence involved :
-
-
 The relevant smRti text is Gautama dharma-sUtra chapter 12  :
-
 12.1.   A zUdra who intentionally reviles twice-born men by criminal abuse, 
 or criminally assaults them with blows, shall be deprived of the limb with 
 which he offends.
@@ -83,9 +47,7 @@ responsibility falls) on the herdsman and on the owner of the field.
 12.25.  Two for each goat or sheep.
 12.26.  If all is destroyed, (the value of) the whole crop (must be paid 
 and a fine in addition).
-
 (Standard translation : G. B?hler, Sacred Books of the East)
-
 This text shows that :
 a) [sUtra 1-13] Some offences are punished according to the varNa because 
 they are connected with the respective status of the offender and the 
@@ -98,7 +60,6 @@ the substantiation of hierarchy and, as such, must be proportional to the
 distance between the protagonists.
 *Except sU 4-6, which are connected with the transgression of a taboo (the 
 access to the Veda) by a zUdra.
-
 b) [15-17] Some offences are punished according to the varNa of the 
 offender, without taking into account the varNa of the offended, such is 
 the case of sU. 15-17: the higher the status of the offender, the heaviest 
@@ -109,43 +70,30 @@ fact, this system is the same as the one applied to "religious"
 transgressions : it is a general rule that eating forbidden food or 
 drinking forbidden drinks results in much heavier sanctions for a Brahmin 
 than for a zUdra...)
-
 c) The other offences [18 sqq] are punished without taking into account the 
 status of the culprit, because they do not involve problems of hierarchy. 
 If an animal is causing some damage, the sanction is the same, whatever the 
 status of the person responsible.
-
-
 Many parallel passages are found in the smRti literature for the (a) 
 category [see the synopsis of parallel passages of B?hler's edition of Manu 
 sub Mn. 8.267-284]; it is the same for (c).
-
 (b) category  --- to my knowledge --- appears only in Gaut and Mn. 8.337-338.
-
 Gaut.
 12.15.  aSTApAdyaM steya-kilbiSaM zUdrasya.
 12.16.  dviguNottarANItareSAM prativarNam.
 12.17.  viduSo 'tikrame daNDa-bhuyastvam.
-
 Mn.
 8.337           aSTApAdyaM tu zUdrasya steye bhavati kilbiSam/
                  SoDazaiva tu vaizyasya dvAtriMzat kSatriyasya ca//
 8.338           brAhmaNasya catuH-SaSTiH pUrNaM vApi zataM bhavet/
                  dvi-guNA vA catuH-SaSTis tad-doSa-guNa-vid dhi san//
-
 This shows, incidentally, how much the 8th book of Manu relies on Gautama's 
 text*. The absence of a rule prescribing a heavier punishment for the 
 higher varNas in case of theft in later smRtis seems to imply that this 
 rule was only theoretic (or "moral", i.e. a theft committed by a Brahmin 
 had heavier "unseen" consequences than a theft committed by a zUdra). Hence 
 the decision of Yudhisthira, whom we know as an impersonalization of dharma.
-
 *Manu also adds empty rhetorics to Gautama, see 8.336 "Where another common 
 man would be fined one kArSapaNa, the king shall be fined one thousand; 
 that is the settled rule"
-
 J.F.
-
-
-
-

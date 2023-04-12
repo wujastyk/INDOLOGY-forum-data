@@ -1,68 +1,45 @@
-From tubb at uchicago.edu  Mon Jun  3 14:00:31 2013
-From: tubb at uchicago.edu (Gary Tubb)
-Date: Mon, 03 Jun 13 09:00:31 -0500
-Subject: [INDOLOGY] Call for Papers: COLDOC 2013
-Message-ID: <51ACA17F.6050409@uchicago.edu>
-
+[INDOLOGY] Call for Papers: COLDOC 2013
 The following message is forwarded to the list by request:
-
-
 Dear(s) colleague(s),
-
 Please find following the call for papers of COLDOC 2013, the conference of
 doctoral laboratory MoDyCo Nanterre.
 This might interest some of PhD students and young researchers in
 Linguistics.
 Could you share this information?
-
 Best regards,
-
 The COLDOC 2013 Organization Committee
-
-
-
 *******************************************
 ******************************************
 *****************************************
 COLDOC2013: Genres in Written and Oral Productions
-
 CALL FOR PAPER N?2
-
 ******************************************
 *
 *
 Linguistic Field(s): Computational Linguistics; Discourse Analysis;
 Historical Linguistics; Sociolinguistics; Text/Corpus Linguistics; ...
-
 Call Deadline: 15-June-2013
 (Submissions will be done using the
 EasyChair<https://www.easychair.org/conferences/?conf=coldoc2013>
   platform.)
 *
 *
-
-Date: 13-Nov-2013 - 14-Nov-2013
 Location: Nanterre, France
 Contact Person: Organization Committee
 Web Site: http://coldoc2013.wordpress.com/
-
 *****************************************
 *
 *Call for paper*
-
 *? Si les genres n?existaient pas et si nous n?en avions pas la ma?trise,
 qu?il nous faille les cr?er pour la premi?re fois dans le processus de
 parole, qu?il nous faille construire chacun de nos ?nonc?s, l??change
 verbal serait quasiment impossible ?
-
 (Bakthine, ?Esth?tique de la cr?ation verbale?, 1984)*
-
 COLDOC 2013 aims to examine the notion of genre in a multidisciplinary
 approach and to illustrate the variety of both theoretical and practical
 problems it raises. We seek to articulate different perspectives on gender
 issues and to contribute to identify an essential category for
 interpretation.
-
 Although it has long remained been considered to taxonomic approaches, the
 issue of genre categorisation sees new developments thanks to the interest
 it has raised in various humanities disciplines, gradually integrating
@@ -70,7 +47,6 @@ different aspects in their definitional approaches: contexts of utterance,
 medium (written or spoken), language norms, social practices, etc. (see S.
 Branca, ? Types, modes et genres entre langue et discours ?, Langage et
 Soci?t? n?87, p. 5 -24, mars 1999).
-
 This renewal is also expressed by the fact that the studies less
 systematically seek to define it through production rules or classificatory
 categories, but rather try to examine the question of genre through the
@@ -79,7 +55,6 @@ studies tend to focus on the addressee's point of view: horizons of
 expectations, habits, cultural pre-conceptions, cognitive framework,
 communication circuit, etc. The genre is then modeled as a set of
 constraints or necessary conditions of meaning.
-
 COLDOC 2013, bringing contributions from diverse backgrounds, aims to
 review the state of the art and the diversity of work on genres. Relying on
 theoretical and applied propositions, COLDOC 2013 aims to suggest new
@@ -90,11 +65,9 @@ researchers in general linguistics, corpus linguistics, diachronic
 linguistics, sociolinguistics, didactic, computational linguistics (written
 or speech) and, more generally, any area that would be interested in the
 study of genres for itself or as a category of analysis.
-
 Several issues - solely as examples - can be considered as sources of
 inspiration. These issues, both theoretical and practical, highlight the
 variety of possible approaches in the study of written and oral genres:
-
 - Why categorize according to genres? How should boundaries between genres
 be established?
 - How should genres be defined, formalized and modeled?
@@ -105,8 +78,3 @@ operations? (describe, summarize, tell)?
 - What are the sociolinguistic instantiations of genre?
 - How can usage, variety and language registers linguistic variables become
 genre-specific so
-
-
-
-
-

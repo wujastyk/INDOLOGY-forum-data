@@ -1,25 +1,10 @@
-From vidya at cco.caltech.edu  Mon Aug 19 03:23:33 1996
-From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
-Date: Sun, 18 Aug 96 20:23:33 -0700
-Subject: Website for information on the Indian Parliament.
-Message-ID: <161227025654.23782.1572286856288986130.generated@prod2.harmonylists.io>
-
-
+Website for information on the Indian Parliament.
 There were two recent discussions about ministers in India and the 
 languages listed in the Indian Constitution. The following website 
 might be useful in the future for such enquiries. 
-
 http://alfa.nic.in, is a site devoted to the Indian Parliament and 
 the Indian Constitution, maintained by the National Informatics Centre. 
 There are a few obvious spelling mistakes, but otherwise the site is 
 quite useful. There is also a link containing the debates of the 
 Indian Constituent Assembly when the Indian Constitution was being written. 
-
 S. Vidyasankar
-
-
-
-
-
-
-

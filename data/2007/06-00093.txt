@@ -1,22 +1,6 @@
-From jneuss at ARCOR.DE  Sun Jun 17 08:40:45 2007
-From: jneuss at ARCOR.DE (JN)
-Date: Sun, 17 Jun 07 10:40:45 +0200
-Subject: Finding Indological full-book PDFs on Google Books
-In-Reply-To: <61B1A7B85B73F44B9DBCB9F16C8D1C820175C505@EXCHANGE.ltu.edu.au>
-Message-ID: <161227080582.23782.13980247243342875344.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 Am Sun, 17 Jun 2007 10:00:28 +0200 hat Peter Friedlander  
 <P.Friedlander at LATROBE.EDU.AU> wrote:
-
-> Dear List members,
-> (...)
-> To be able to search text meaningfully it needs to be carefully  
-> proofread as it is digitised,
-> many of the current projects do not do this, it is time consuming and  
-> expensive.
-> plus, OCR of diacritical marks, let alone indic scripts, is not  
-> straightforward.
-
 what do you mean by straightforward? diakritical marks are usually not  
 recognized by any of the standard (office) ocr software products such as  
 finereader etc.
@@ -35,19 +19,10 @@ demonstrates.
 the OCR I mentioned reads devanagari and transcribes it according to  
 sanskrit phonology into roman characters with diacritical marks. the  
 program is freely available at: http://www.sanskritreader.de/ (> software).
-
 cheers
-
 jn
-
-_________________
 J?rgen Neu?, M.A.
-
 Freie Universit?t Berlin
 Institut f?r die Sprachen und Kulturen S?dasiens
 K?nigin-Luise-Str. 34 a
 D-14195 Berlin
-
-
-
-

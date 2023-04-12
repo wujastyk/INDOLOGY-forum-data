@@ -1,24 +1,10 @@
-From ucgadkw at UCL.AC.UK  Sat Nov 22 04:55:11 2003
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sat, 22 Nov 03 04:55:11 +0000
-Subject: New Devanagari / Malayalam / Kannada fonts for Tex and Omega and              Linux
-Message-ID: <161227073493.23782.17808943220953381261.generated@prod2.harmonylists.io>
-
+New Devanagari / Malayalam / Kannada fonts for Tex and Omega and              Linux
 For Postscript translations of the Velthuis MF files for Devanagari, with
 implementations for LaTeX and for Omega/Lambda, see
         http://sarovar.org/projects/devanagari/
-
 See
         http://sarovar.org/projects/malayalam/
         http://sarovar.org/projects/kannadatex/
-
 for Malayalam Linux and TeX, and for Kannada TeX.
-
-
-
 Best,
 Dominik
-
-
-
-

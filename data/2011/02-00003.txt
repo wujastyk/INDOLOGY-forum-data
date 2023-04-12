@@ -1,17 +1,5 @@
-From mjslouber at BERKELEY.EDU  Tue Feb  1 15:00:12 2011
-From: mjslouber at BERKELEY.EDU (Michael Slouber)
-Date: Tue, 01 Feb 11 16:00:12 +0100
-Subject: Offline Sanskrit Resources
-Message-ID: <161227091392.23782.7575548700885229320.generated@prod2.harmonylists.io>
-
+Offline Sanskrit Resources
 Dear Dr. Hegarty,
-
 There are a lot of offline resources.  You can start with the GRETIL e-library <http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm> for scanned books including Whitney's grammar and roots.  For dictionaries you could start with the HTML version of Monier-Williams available at Indica et Buddhica <http://repositorium.indica-et-buddhica.org/>.  That can be used in a web browser even when offline.  Many more resources are privately circulated.
-
 Best,
-
 Michael
-
-
-
-

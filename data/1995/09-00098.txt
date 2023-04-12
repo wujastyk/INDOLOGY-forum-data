@@ -1,20 +1,8 @@
-From CXEV at MUSICA.MCGILL.CA  Fri Sep 22 09:26:15 1995
-From: CXEV at MUSICA.MCGILL.CA (Richard P Hayes)
-Date: Fri, 22 Sep 95 05:26:15 -0400
-Subject: buddha-l
-Message-ID: <161227020937.23782.634390462670020611.generated@prod2.harmonylists.io>
-
+buddha-l
 Jim Hartzell asked:
-
->Does someone have the subscriber information for Buddha-L ?
->I understand there is also an indexing command one can insert in the
->subscription order so that there is a bit of control over what
->material one receives.
-
 Send the following two lines to listserv at ulkyvm.louisville.edu:
 sub buddha-l Jim Hartzell
 set buddha-l index
-
 The index setting results in your getting a daily message with a
 list of all the messages distributed to buddha-l subscribers during
 the past twenty-four hours. Each message listed has an index number,
@@ -27,11 +15,4 @@ about five messages a day, most of them brief. At times traffic on the
 list does get much heavier. It is difficult to predict (without the
 aid of a good astrologer or oneiromancer) when buddha-l will explode
 into prolixity; when it does, you'll be grateful for the index option.
-
 Richard Hayes <cxev at musica.mcgill.ca>, owner of buddha-l
- 
-
-
-
-
-

@@ -1,28 +1,13 @@
-From skjain at server.uwindsor.ca  Wed Jul 12 23:30:40 1995
-From: skjain at server.uwindsor.ca (S Jain)
-Date: Wed, 12 Jul 95 19:30:40 -0400
-Subject: Urdu and other script fonts (fwd)
-Message-ID: <161227020012.23782.18265160197857589188.generated@prod2.harmonylists.io>
-
+Urdu and other script fonts (fwd)
 [re. jwalkup's query re. Devanagari fonts.
 Perhaps the following be of some interest to you.]
-
----------- Forwarded message ----------
-Date: Wed, 5 Jul 1995 00:40:47 BST
-From: Frances Pritchett <fp7 at columbia.edu>
-To: Members of the list <indology at liverpool.ac.uk>
-Subject: Re: Urdu and other script fonts
-
+Re: Urdu and other script fonts
 <deleted text>
-
 I take this opportunity to forward the FONTS list from the South Asia 
 Gopher maintained here at Columbia, and to solicit further comments and 
 feedback from everyone who uses the list, so it can be kept up to date.
-
 Regards,
 Fran Pritchett
-
-
        = = = = = = = = = = = = = = = = = = = = = = = = = = =
        I N V E N T O R Y   O F
        L A N G U A G E
@@ -36,23 +21,17 @@ Fran Pritchett
        Year of publication:  annual, with frequent updates
        May be copied or distributed without permission.
        Comments and suggestions are welcomed by the editor.
-
        = = = = = = = = = = = = = = = = = = = = = = = = = = =
        C O M P U T E R   S C R I P T   F O N T S
        Editor for Fonts:  Frances Pritchett,
               Columbia University <fp7 at columbia.edu>
        For general information about ILM, see:
               INTRODUCTION TO ILM
-
        IMPORTANT NOTE:  The editor has not tried out these fonts and
        does not vouch for any of their claims.  This information has
        been compiled as a public service only.
-
        --Last updated:  May 1995--
-
        = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 AUTHOR:  Aklujkar, Prof. Ashok <aklujkar at unixg.ubc.ca>, Department of
         Asian Studies, Univ. of British Columbia, Vancouver, B.C.,
         Canada V6T 1Z2.  Phone 604-822-5185 or 604-274-5353.  Fax 604-
@@ -73,8 +52,6 @@ COMMENT:  "Avanti was made by me in 1985 (slightly improved in 1988)
         Language*.  The diskette also includes the Roman fonts "Ganga"
         and "Sindhu" which can be used for transliteration of most
         literary languages of South Asia" (--Author).
-___
-
 AUTHOR:  Bryant, Dr. Kenneth E. <ken.bryant at mtsg.ubc.ca>, Department
         of Asian Studies, 1871 West Mall, Univ. of British Columbia,
         Vancouver, B.C., Canada V6T 1W5.  Phone 604-822-5185 or 604-
@@ -91,8 +68,6 @@ COMMENT:  "The two fonts, sold as a package, come in Regular, Bold,
         Jaisalmer; it includes a very large number of conjuncts for
         Sanskrit which can only be accessed through dead key
         combinations.  Extensive documentation"  (--Author).
-___
-
 AUTHOR:  C-DAC, Center for Development of Advanced Computing, Pune,
         India.
 LANGUAGE:  Assamese, Bengali, Gujarati, Hindi, Kannada, Kashmiri,
@@ -111,8 +86,6 @@ COMMENT:  A strikingly fine set of TrueType fonts for all the Indian
         different types of computers.)  Characters are encoded using
         the Government of India standard, ISCII.
 INFORMATION:  James Nye <jnye at midway.uchicago.edu>, 312-702-8430
-___
-
 AUTHOR:  Chopde, Avinash <avinash at acm.org>
 LANGUAGE:  "ITRANS":  Bengali, Hindi, Marathi, Sanskrit, Tamil,
         Telugu, etc.
@@ -127,8 +100,6 @@ COMMENT:  .zip for DOS, .tar.Z for Unix.  A set of programs for
         optionally integrates with TeX; a formatter is included that
         outputs PostScript directly.  CS encoding will soon be added
         as a supported input coding scheme.
-___
-
 AUTHOR:  Courtney, David <tabalji at aol.com>
 LANGUAGE:  Hindi, Sanskrit
 PRICE:  $25
@@ -141,8 +112,6 @@ COMMENT:  "A Truetype font.  The package contains extensive
         combinations.  The real strength of the script is its
         orientation towords DTP applications that revolve around
         traditional Hindustani musical notation" (--Author).
-___
-
 AUTHOR:  De, Dr. Prasun K.
 LANGUAGES:  Sanskrit:  "Devnagari"; Bengali:  "Bangalekhon";
         transliteration:  "Vedalipi"
@@ -158,9 +127,6 @@ COMMENT:  These are TrueType and Postscript scalable laser fonts that
         Debashish Banerji).
 INFORMATION:  Debashish Banerji <hal_computer at earthlink.net>.  Phone
         818-362-6313.
-
-___
-
 AUTHOR:  Deshpande, Dr. Madhav <mmdesh at umich.edu>, Department of Asian
         Languages and Cultures, 3070 Frieze Building, Univ. of
         Michigan, Ann Arbor, MI 48109.  Phone 313-747-2159.
@@ -178,8 +144,6 @@ COMMENT:  "The print quality of the Devanagari fonts approximates the
         looks like Times-Roman.  All three fonts are of the best
         publishing quality if used with a high resolution laser
         printer" (--Author).
-___
-
 AUTHOR:  Ecological Linguistics <ecoling at applelink.apple.com>, PO Box
         15156, Washington DC 20003.  Phone 202-547-7678.
 LANGUAGE:  Bengali, Gujarati, Hindi, Kannada, Malayalam, Punjabi,
@@ -194,8 +158,6 @@ COMMENT:  "We specialize in complex alphabets and, for Macintosh,
         'best foreign language fonts' by one of the two largest
         Macintosh users groups for two years running.  Used by major
         academic institutions for publishing" (--Author.)
-___
-
 AUTHOR:  Flyn, Christopher J. <cflyn at sahaja.demon.co.uk>.
 LANGUAGE:  Tibetan
 MAINTAINER:  Dr. T. Matthew Ciolek <tmciolek at coombs.anu.edu.au>, ANU
@@ -211,8 +173,6 @@ OPERATING SYSTEM:  The "TibKey" software is a Tibetan keyboard
         emulator program for Windows 3.1x and Tibetan `Modern'
         TrueType font.  Documentation (a total of 14 files, 390Kb) is
         included.
-___
-
 AUTHOR:  Govindaraj, Dr.
 LANGUAGE:  Tamil
 PRICE:  Free
@@ -223,8 +183,6 @@ ACCESS:  Available via anonymous FTP from:
                 /system.extensions/font/type1
                 /palladam2.1.sit.hqx
 OPERATING SYSTEM:  Macintosh
-___
-
 AUTHOR:  Goyal, Ashok <goyal at bnr.ca>, Vaishnav Books Ltd.
 LANGUAGE:  Hindi, Gujarati, Sanskrit
 MAINTAINER:  Digitron Computers, Toronto, Canada.  Phone 905-454-3620.
@@ -232,8 +190,6 @@ MAINTAINER:  Digitron Computers, Toronto, Canada.  Phone 905-454-3620.
         3L3.
 PRICE:  $199
 OPERATING SYSTEM:  Windows
-___
-
 AUTHOR:  Hart, Prof. George.
 LANGUAGE:  Hindi, Tamil
 PRICE:  Free; these fonts are now entirely in the public domain.
@@ -245,14 +201,10 @@ ACCESS:  Available via anonymous FTP from:
                 /indianfonts.sit.hqx
 OPERATING SYSTEM:  Macintosh
 INFORMATION:  Ravinder Bhumbla <rbhumbla at UCSD.EDU>
-___
-
 AUTHOR:  Hellingman, Jeroen <jhelling at cs.ruu.nl>
 LANGUAGE:  Malayalam
 PRICE:  Free
 OPERATING SYSTEM:  TeX/Metafont
-___
-
 AUTHOR:  Humanities and Arts Computing Center.
 LANGUAGE:  Tamil
 MAINTAINER:  Humanities and Arts Computing Center, Univ. of
@@ -262,8 +214,6 @@ ACCESS:  Available via anonymous FTP from:
         ymir.claremont.edu:  [TEX.BABEL.Tamil]*.*
 OPERATING SYSTEM:  itrans (source in this post) or C + TeX with
         included preprocessor
-___
-
 AUTHOR:  Inaam Alvi Computers.
 LANGUAGE:  Bengali, Gujarati, Gurmukhi, Hindi, Urdu
 MAINTAINER:  Artistic Computers, 601 8th Ave., 2nd floor, New York, NY
@@ -272,8 +222,6 @@ OPERATING SYSTEM:  Runs on PCs in DOS.
 COMMENT:  Expensive but elegant; individuals can buy stripped-down
         versions of fonts actually designed for newspaper use.  Good
         technical support.
-___
-
 AUTHOR:  InPros (Intellectual Property Solutions) <info at inpros.com>,
         Box 57-2141, Houston, TX 77257-2141; phone 713-465-2967 (fax,
         voice mail, and fax-on-demand).
@@ -289,8 +237,6 @@ COMMENT:  Fonts are said to be high-quality and inexpensive.
         Other languages and fonts are continuously being added.  "It
         is our intention to create a data base of files that can be
         printed in Hindi and other languages" (--Authors).
-___
-
 AUTHOR:  ITR (Indian Typographical Research) Graphic Systems Pvt. Ltd.
         Mailing address:  Hari-Vitthal Chambers, 64 Budhwar Peth,
         Ganapati Chowk, Laxmi Road, Pune 411 030, India.  For
@@ -309,8 +255,6 @@ COMMENT:  "Mukund Gokhale, Art Director of ITR, showed me truly varied
         Thunder, Fancy...and Hari, which I saw in December 1994 and
         which was one of the most simple and beautiful Nagari fonts I
         have so far seen" (--Ashok Aklujkar <aklujkar at unixg.ubc.ca>).
-___
-
 AUTHOR:  Kalyanasundaram, Dr. K. <kalyan at icphp1.epfl.ch>, Institute of
         Physical Chemistry, Swiss Federal Institute of Technology, CH-
         1015 Lausanne, Switzerland.  Phone:  41-21-693 3622.  Fax:
@@ -321,8 +265,6 @@ PRICE:  Free
 ACCESS:  "Please send a request to the author via email, stating the
         operating system to be used and the form for emailing
         (unencoded or binary)"  (--Author).
-___
-
 AUTHOR:  Kumar, Ashwini <kumar at duck.ncsc.org>.
 LANGUAGE:  Hindi, Malayalam, Tamil, Telugu, etc.
 MAINTAINER:  H&M Enterprises, 8304 N.W. 113 Terrace, Oklahoma City, OK
@@ -330,8 +272,6 @@ MAINTAINER:  H&M Enterprises, 8304 N.W. 113 Terrace, Oklahoma City, OK
 OPERATING SYSTEM:  PC/XT,AT
 COMMENT:  Bilingual word processor for IBM PC/XT and AT as well as
         clones.
-___
-
 AUTHOR:  Kushwaha, Ramesh <Ramesh.Kushwaha at um.cc.umich.edu>, Medcom,
         3757 Helen Ave., Ypsilanti, MI 48197.  Phone 313-434-1970.
 LANGUAGE:  Hindi:  "Vernmala"
@@ -340,8 +280,6 @@ OPERATING SYSTEM:  Outline, scaleable, True Type Font that can be used
         on any software supported under Microsoft Windows 3.1 or any
         Macintosh system.  Postscript Type 1, Type 3, Encapsulated
         Postscript or Bitmapped fonts can also be generated.
-___
-
 AUTHOR:  Lagally, Prof. Klaus, <lagally at informatik.uni-stuttgart.de>,
         Institut fuer Informatik, Zeige mir deine Uhr,
         Breitwiesenstrasse 20-22, 70565 Stuttgart, Germany.  Phone
@@ -357,22 +295,16 @@ OPERATING SYSTEM:  LaTeX, macro package plus METAFONT sources
 COMMENT:  Uses Arabic-style Naskh fonts; Persian-style Nastaliq fonts
         under development.  Limited support for Biblical Hebrew
         (vowelized), Ugaritic Cuneiform (inquire).
-___
-
 AUTHOR:  Linguist's Software, Box 580, Edmonds, WA 98020-0580.  Phone
         206-775-1130.  Fax 206-771-5911.
 LANGUAGE:  Gujarati, Hindi, Punjabi, Sanskrit
 PRICE:  $99.95 each
 OPERATING SYSTEM:  Windows.
-___
-
 AUTHOR:  Linotype-Hell, Bath Road, Cheltenham, Gloucestershire,
         England GL53 7LR.  Phone 024-222-2333.
 LANGUAGE:  Bengali, Gujarati, Malayalam, Tamil
 PRICE:  substantial
 OPERATING SYSTEM:  Mac, MS-DOS, etc.
-___
-
 AUTHOR:  Monotype Typography Ltd., Perrywood Business Park, Salfords,
         Redhill, Surrey RH1 5JP, England.  Phone 44-0737-76-5959.  Fax
         0737-76-9243, 0737-76-0942.  Contact: Ian Bezer or Julie
@@ -390,24 +322,18 @@ OPERATING SYSTEM:  "Monotype seems to have packages which provide the
 COMMENT:  "These fonts are *really* good.  This is what has been used
         for major publishing (including newspapers) all over Asia
         since the twenties." (--Dominik Wujastyk)
-___
-
 AUTHOR:  Mukkavilli, Lakshmankumar and Lakshmi <lzk60 at css.amdahl.com>,
         915 Almaden Avenue, Sunnyvale, CA 94086.
 LANGUAGE:  Telugu
 ACCESS:  Available via anonymous FTP from:
         blackbox.hacc.washington.edu:  /pub/tex/telugu (temporary)
 OPERATING SYSTEM:  Metafont and TeX
-___
-
 AUTHOR:  Multi-Lingual Scholar, Gamma Productions, Ind., 710 Wilshire
         Blve, Suite 609, Santa Monica, CA 90401.  Phone 213-394-8622.
 LANGUAGE:  Hindi, Urdu, etc.
 OPERATING SYSTEM:  IBM
 COMMENT:  This company aspires to cover an enormous number of
         languages worldwide, including South Asian language fonts.
-___
-
 AUTHOR:  Patel, Vijay K. <patelvk at metronet.com>.  Phone 817-292-6412.
 LANGUAGE:  Gujarati, Hindi, Sanskrit, Tamil
 PRICE:  $24.95 plus $2.00 S/H.
@@ -416,8 +342,6 @@ COMMENT:  "These fonts are TrueType Scaleable fonts; they will work
         with Windows and require any Windows wordprocessor.  For
         Macintosh, they require System 7.0 and work with any Macintosh
         software"  (--Author.)
-___
-
 AUTHOR:  Patil, Shrikrishna <SAPatil at aol.com>, 21647 Rainbow Drive,
         Cupertino, CA 95014-4826.  Phone:  408-446-9144.  Fax:  408-
         255-6443.
@@ -435,17 +359,12 @@ COMMENT:  "Many Marathi publications in the US and Canada use these
         nearly perfect.  At least, I can say this for Kannada, perhaps
         one of the most difficult languages to set on a keyboard" (--
         Tonse.NK.Raju <U40200 at UICVM.CC.UIC.EDU>).
-
-___
-
 AUTHOR:  Rahman, Anisur, 722 N. 13th Street #505, Milwaukee, WI 53233.
         Phone 414-223-3152.
 LANGUAGE:  Bengali
 PRICE:  $0, copyrighted
 ACCESS:  use archie, sgaon.zip Sonar Gaon
 OPERATING SYSTEM:  Windows 3.0
-___
-
 AUTHOR:  ScanRom Publications <73760,1005 at compuserve.com>,
         <fejb at aol.com>, P.O. BOX 72, Cedarhurst, N.Y. 11516.  Phone:
         516-295-2237.  Fax:  516-295-2240.  Toll free in the U.S.
@@ -487,16 +406,12 @@ COMMENT:  "The keyboard layouts for these fonts follow the ISCII
         Tamil, which I haven't found elsewhere, and Malayalam.  They
         are also very nice in appearance...at least the ones that I
         accessed" (--Jim Gair <jwg2 at cornell.edu>).
-___
-
 AUTHOR:  Scharf, Peter M. <Peter_Scharf at brown.edu>.  Dept. of
         Classics, Brown Univ., PO Box 1856, Providence, RI 02912.
 LANGUAGE:  Hindi, Sanskrit
 OPERATING SYSTEM:  Mac; bit-map screen font, transliteration system
 COMMENT:  Designed for easy typing of all-ASCII character sets; can be
         adapted for inputting to other fonts
-___
-
 AUTHOR:  Singh, Jasbir <jasbir at maboli.com>, Maboli Systems, Inc., P.O.
         Box 3629, Wise, VA 24293.
 LANGUAGE:  Punjabi:  "AnandpurSahib Lippi," "Jhelum Lippi"
@@ -505,7 +420,6 @@ OPERATING SYSTEM:  Mac, Windows
 COMMENT:  Price includes one TrueType font, manuals and templates,
         postage.  Professional package has both fonts, extras, two
         Punjabi games.  Both versions can be used with *all* software.
-___
 AUTHOR:  Softech Creations.
 LANGUAGE:  Tamil.
 TITLE:  Tamil Kalvi Software.
@@ -516,8 +430,6 @@ SOURCE:  Softech Creations, 2910 Brightwater Lane, Abingdon, MD 21009.
 OPERATING SYSTEM:  PostScript (TrueType) Windows/Macintosh.
 COMMENT:  The font uses traditional Tamil typewriter keyboard layout.
         Keyboard templates are provided.
-___
-
 AUTHOR:  Srinivasan, Dr. K.
 LANGUAGE:  Tamil
 PRICE:  $40 (shareware), $0 for non-profit use
@@ -527,8 +439,6 @@ ACCESS:  Available via anonymous FTP from:
         nic.switch.ch:  /mirrors/msdos/editor/adami91.zip
 OPERATING SYSTEM:  DOS; Windows
 COMMENT:  Stand-alone word processor.
-___
-
 AUTHOR:  Thadani, Rahul Bhagwan <umthadan at cc.umanitoba.ca>
 LANGUAGE:  Gujarati, Hindi, Marathi
 ACCESS:  Contact author at 19 Laval Drive, Winnipeg R3T 2X8, Canada;
@@ -538,8 +448,6 @@ COMMENT:  "I have developed 5 Hindi (Sanskrit, Marathi) and 2 Gujarati
         TrueType fonts that can be easily installed and used with any
         Windows or Mac word processor, without any additional hardware
         or software" (--Author).
-___
-
 AUTHOR:  Velthuis, Frans J. <velthuis at rc.rug.nl>, Nyensteinheerd 267
         9736 TV,     Groningen, The Netherlands.
 LANGUAGE:  Hindi, Marathi, Nepali, Sanskrit, etc. (Devanagari font)
@@ -553,8 +461,6 @@ ACCESS:  Available by anonymous FTP as `devnag' and supporting files
         ftp.shsu.edu:  /tex-archive/language/devanagari
         labrea.stanford.edu:  /pub/tex/incoming
 OPERATING SYSTEM:  TeX, C, METAFONT source
-___
-
 AUTHOR:  Vishnu, Meenan <mvishnu at bbcr.uwaterloo.ca>.
 LANGUAGE:  "All Indian languages"
 MAINTAINER:  Ethno Multimedia, Toronto, Canada.
@@ -565,21 +471,7 @@ COMMENT:  "The fonts are ok, but there is no keyboard--you have to
         languages like Kannada.  The people are nice; but the price
         (around $90) is too much, and the effort is not worth it" (--
         Tonse.NK.Raju <U40200 at UICVM.CC.UIC.EDU>)
-
-___
-
 LANGUAGE:  Urdu
 MAINTAINER:  Amir Aslam (?) <usgaaaax at gsusgi2.gsu.edu>
 ACCESS:  Call 1-800-308-8883 for information, free catalogue
-___
-
 = = = = = = = = = = = = = = = = = = = = = = = = = = = +
- 
- 
-
- 
-
-
-
-
-

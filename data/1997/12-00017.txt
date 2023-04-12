@@ -1,29 +1,8 @@
-From chibbard at POBOX.UPENN.EDU  Wed Dec  3 14:30:44 1997
-From: chibbard at POBOX.UPENN.EDU (Chris Hibbard/E. Stern)
-Date: Wed, 03 Dec 97 09:30:44 -0500
-Subject: bodhi- correction
-In-Reply-To: <34852450.53A1@oeaw.ac.at>
-Message-ID: <161227034154.23782.202931768157251067.generated@prod2.harmonylists.io>
-
->Dear Mr. Gardner,
->
->Unfortunately, I am not very familiar with Vedic literature and language. But
->maybe it could be helpful to link bodhi in those cases to bhU (cf. for
->instance Whitney's Roots and Monier-Williams sub bhU; ) rather than to budh.
->
->Best wishes,
->Horst Lasic
-
+bodhi- correction
 MacDonell's (larger) *Vedic Grammar* cites bodhi' as a root aorist
 imperative 2nd singular active of either bhuu or budh (#505 c and note 3 on
 page 370).
-
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
 USA
-
-
-
-

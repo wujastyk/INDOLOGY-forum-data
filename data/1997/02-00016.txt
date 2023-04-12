@@ -1,31 +1,14 @@
-From jb.tuemmers at uni-koeln.de  Tue Feb  4 10:51:06 1997
-From: jb.tuemmers at uni-koeln.de (=?utf-8?Q?Johannes_B=2E_T=C3=BCmmers_MA?=)
-Date: Tue, 04 Feb 97 11:51:06 +0100
-Subject: Font problems under Word7
-Message-ID: <161227028137.23782.15298353400246684062.generated@prod2.harmonylists.io>
-
+Font problems under Word7
 Dear Members,
-
 I start to have difficulties while searching for any strings of letters
 (say 'ddh' or 'one' etc; so, nothing special) in a document where I use
 the Times New Roman Diacritics fonts ('tmsdiakr.ttf' and
 'tmsdiaku.ttf'). This is under Word7 and Win95. With other documents,
 where I don't use these fonts, there seem to appear no problems at all
 while searching or replacing. 
-
 Does anybody have a clue?
-
 Any hints apprechiated!
-
 J. Tuemmers
-
--- 
 Johannes B. Tuemmers
-
 jb.tuemmers at uni-koeln.de
 http://www.uni-koeln.de/phil-fak/indologie/jtjt2.htm
-
-
-
-
-

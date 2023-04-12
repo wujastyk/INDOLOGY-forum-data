@@ -1,29 +1,6 @@
-From narayana at HD1.DOT.NET.IN  Sat Dec  5 16:57:54 1998
-From: narayana at HD1.DOT.NET.IN (DEVARAKONDA VENKATA NARAYANA SARMA)
-Date: Sat, 05 Dec 98 21:57:54 +0500
-Subject: devanagari ttf font win31/95/98
-In-Reply-To: <36693BC9.5F406DE1@t-online.de>
-Message-ID: <161227043368.23782.15506124527856256856.generated@prod2.harmonylists.io>
-
+devanagari ttf font win31/95/98
 I will be obliged if you can send me the font.
 Thanking you.
-
 regards,
-
 sarma.
-
 At 02:57 PM 12/5/98 +0100, you wrote:
->Please have a look into the paper: Udayana and VAsavadattA according to
->the Avazyaka tradition in INDOLOGICA TAURINENSIA vol. 21/22 (1995-96),
->pp. 188-92. This devanagari print is based on my devanagari-ttf font. If
->you like it, please contact me privately. It is free. Just copy the font
->into the directory windows\fonts and find out the keyboard layout by
->yourself.
->contact:
->roheko at t-online.de
->
->
-
-
-
-

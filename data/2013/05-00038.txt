@@ -1,31 +1,10 @@
-From pwyzlic at uni-bonn.de  Sun May 12 17:31:59 2013
-From: pwyzlic at uni-bonn.de (Peter Wyzlic)
-Date: Sun, 12 May 13 19:31:59 +0200
-Subject: [INDOLOGY] Unicode Devanagari font that functions in InDesign?
-In-Reply-To: <0BE2894C-56EB-4C84-A2BD-2328EE98C597@columbia.edu>
-Message-ID: <94FEFE5D-7BFC-4106-80E8-F04A9EA059D5@uni-bonn.de>
-
-
+[INDOLOGY] Unicode Devanagari font that functions in InDesign?
 Am 12.05.2013 um 19:00 schrieb Paul Hackett:
-
-> Does anyone know of a Unicode Devan?gar? font that functions under Adobe's InDesign?  I have been unable to locate one either for free or for sale.
-> 
->   All of the available Unicode Devan?gar? fonts that I have found and attempted to use (Devanagari Sangam, e-Nagari, Devanagari MT, JanaHindi, Nakula, Sahadeva, Sakal Bharati, etc.) break up conjuncts and misplace preceding vowels in documents under InDesign.
-
 This blog describes how to make work Devanagari in InDesign CS 6, URL: <http://blogs.adobe.com/vikrant/2012/05/indesign-cs6-indic-support-and-preferences/>. Maybe it helps.
-
 All the best
 Peter Wyzlic
-
---
 Institut f?r Orient- und Asienwissenschaften
 Bibliothek
 Universit?t Bonn
 Regina-Pacis-Weg 7
 53113 Bonn
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130512/dec27a69/attachment.htm>
-

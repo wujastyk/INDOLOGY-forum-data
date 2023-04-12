@@ -1,14 +1,8 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Thu Jan  4 16:56:38 1996
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Fri, 05 Jan 96 01:56:38 +0900
-Subject: "Blaue Blumen", lexicographers and textual battlefields (re:         translation)
-Message-ID: <161227022268.23782.3047748000245385357.generated@prod2.harmonylists.io>
-
+"Blaue Blumen", lexicographers and textual battlefields (re:         translation)
 As a reply to both M. Witzel's and J. Houben's postings on translation, a
 collection of relevant quotations with a few remarks, again, predominantly
 on the translation of shaastra-texts (which is the only thing I am not
 completely, but only partly ignorant of): 
-
 "...Der Gelehrte hat einen totalen Sieg errungen. Auf dem philologischen
 Schlachtfeld liegen die Textkoerper, zerschlagen und entseelt, schoen in
 einer Reihe geordnet, neben einem Schutthaufen von inneren Widerspruechen,
@@ -16,7 +10,6 @@ Missverstaendnissen, Verderbnissen. Ueber dem Totenfeld aber leuchtet in der
 Ferne in positivistischer Abstraktheit die romantische blaue Blume des
 Ursprungs" (Paul Hacker, Zur Methode der geschichtlichen Erforschung der
 anonymen Sanskritliteratur des Hinduismus, ZDMG 111/2, 1961, 483-492). 
-
 	The initial requirement for translation to meet the "original intent" of
 the texts rests on several presuppositions, or at least, asks for further
 specifications (I am sure, more could be enumerated): 
@@ -53,9 +46,6 @@ maybe even in contradiction, with his initial statements. Add to which, in
 the case of man.gala-verses, the possibility of them having been added
 later, again, changes the interpretational framework (e.g. the infamous
 man.gala-verses of Dharmakiirti's Pramaan.avaarttika). 
-
---------
-
 "Non-literalness is...no more a guarantee of fidelity in translation than is
 mere literalness. For true faithfulness is neither directly nor inversely
 proportional to any undifferentiated concept of literalness _per se_:
@@ -64,7 +54,6 @@ As a criterion, either positive or negative, the concept of literalness thus
 proves to be something of an irrelevance." (David Seyfort Ruegg, Translating
 Buddhist Philosophical Texts, Asiatische Studien/Etudes Asiatiques 46/1,
 1991, 367-391). 
-
 	Paul Hacker has - in my opinion - convincingly shown that the principle of
 lexical equivalence is at odds with the idea of consequent literal
 translation, by which he means that the same word of the source-language is
@@ -82,7 +71,6 @@ German _Aequivalenz_ and the English _equivalence_ are, er, not
 equivalence is not a constant, and by no means the same for different types
 of texts, has lead to an enormous growth of types of equivalences - in 1986,
 M. Snell-Hornby counted about 58 different types of equivalence. 
-
 	Now, it seems that both Witzel and Houben find it regrettable that a
 mechanical procedure of translation is not possible - simply replacing one
 construction/expression for another - in all cases. Houben suggests that "if
@@ -103,7 +91,6 @@ business of a lazy lexicographer, but still, producing a translation of a
 concrete text is not the same as producing a dictionary (Hacker, in his
 article on "philologische Begriffsforschung", specifically makes a point in
 confining lexicography to the level of deSaussure's "langue"). 
-
 	A first attempt at engaging in discussions on translation, thus, would have
 to clarify whether we would like to discuss "philologische
 Begriffsforschung" a la Hacker, that is, discuss individual terms and what
@@ -111,15 +98,6 @@ to do about them when translating into different languages, or whether we
 would like to discuss the process of textual translation, its underlying
 assumptions, its purpose, what general criteria we can agree on and what
 other criteria we will eternally fight about. 
-
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

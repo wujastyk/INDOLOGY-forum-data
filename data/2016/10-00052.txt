@@ -1,46 +1,21 @@
-From christophe.vielle at uclouvain.be  Thu Oct  6 14:52:29 2016
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Thu, 06 Oct 16 16:52:29 +0200
-Subject: [INDOLOGY] Date of Sankara (again)
-Message-ID: <D6CA3F59-DF20-47FA-920A-E8495FD33850@uclouvain.be>
-
+[INDOLOGY] Date of Sankara (again)
 Dear list,
-
 a traditional example of the ka?apay?di system of expressing numbers through letters is : 
-
 ?c?ryav?gabhedy? = 1434160
-
 The example can be found e.g. in N. V.  P. Unithiri "Astronomy and Mathematics in Medieval Kerala with special Reference to Nila Valley", in Id. ed. Indian Scientific Traditions (Prof. K. N. Neelakanthan Elayath Felicitation Volume), Calicut University Sanskrit Series no. 19, 2003 (rev. ed. 2006), p. 45
 https://archive.org/details/IndianScientificTraditionsK.N.NikanthaElayathFelicitationVolumeUnithriN.V.P.Articles
-
 I did not pay attention to this example (to be understood: ?c?ryav?g abhedy?, which could be translated "the voice of the ?c?rya [has become] indivisible/which cannot be broken"), until I came across the following statement by Kolatteri Sankara Menon ("Director of Ayurveda, Travancore, and Curator for the Publication of Ayurveda, Jyotisha and Malayalam Manuscripts") in the introduction of his ed. of Bhadanta's Nagarjuna's Rasa Vaiseshika Sutra with the commentary of Narasimha (The Sr? Vanchi S?tu Lakshm? Series no. 8, Trivandrum: Governement Press, 1928), p. 19:
-
 "The Ahargana '?c?ryav?gabhedy?' which, according to the Katapayadi system of notation prevalent in Kerala, denotes the 1434160th day from the beginning of the Kali Era is considered to be an important date in the life history of Sankara who had attained at that time such a high degree of recognition and importance that his words were accepted as incontrovertible authority by all classes of people."
-
 Now I see that this chronogram indicating the Kali year 3926/27 is taken into account for establishing the date of Sankara by at least the two great historians of the literature of Kerala (in Malayalam), i.e. Ulloor S. Parameswara Aiyer,  K?ralas?hityacaritra?, 5th ed. 1990 [1st ed. 1953], vol. 1, p. 112,
 and Vadakkumkur Rajarajavarma, K?ral?yasa?sk?tas?hityacaritram, rev. 2nd ed. 1997, vol. 1, pp. 184, 187. 
 Also K. V. Sarma, A History of the Kerala School of Hindu Astronomy, Hoshiarpur, 1972, p. 7 fn. 2 : "[a] day [...] on which ?a?kar?c?rya introduced certain reforms" https://archive.org/details/KeralaSchoolOfAstronomy The year (= 825/26 AD *) corresponds with the one of the beginning of the kollam ("Malayalam") era, for which it has therefore served as a historico-legendary explanation (among several other ones). But reviewing those ones, the historian K. Padmanabha Menon (A History of Kerala, vol. 4 [1937], p. 268) admits that "the origin of the Chronogram [...] is itself shrouded in obscurity." At least, it was in existence independently of the scholarly better known traditional dates of AD 788-820 for Sankara's birth and death (about which see Harimoto ref. below ? 2.2.), to which it is close (**).
-
 The chronogram date is not discussed nor quoted in the good critical surveys of the Sankara dating problem by Govind Chandra Pande (Life an Thought of ?a?kar?c?rya, Delhi, 1994, cf. pp. 41-54), K. Harimoto (2006, available at https://www.academia.edu/4152114/The_Date_of_?a?kara_Between_the_C??ukyas_and_the_R???rak??as ), and, more surprisingly (since he was traditionally educated in Kerala), K. Kunjunni Raja (in Adyar Library Bulletin 24, 1960, pp. 125-148.: http://www.dli.ernet.in/handle/2015/99499 ).
-
 I would be interested by any supplementary reference related to this chronogram and its discussion.
-
 Best wishes,
-
 Christophe Vielle
-
-
 (*) The precise date is given in this on-line article at https://fr.scribd.com/document/14147548/Epoch-3101CE-and-Indian-Chronology as "Kalidinam 1434160, 25 August 825 CE, 1st day of Solar Kany?, Mah?navami, M?lam nak?atram."
 Note that the online tool at http://www.usvishakh.net/php/kaligreg.php converts this Kali day in "Gregorian date = 825 August 29 (Friday)"
 (**) Padmanabha Menon ibid. adds the following noteworthy archival information: "The date of his birth according to the Slokas in a manuscript volume in the possession of one Govinda Bhattar of Belgaum is Vibhava Varsha Kali year 3889 (A.D. 787) and that of his death, full moon in Vaik??i Kali year 3921 (A.D. 819)."
-
 ???????????????????
 Christophe Vielle
 Louvain-la-Neuve
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161006/4e64cd4d/attachment.htm>
-

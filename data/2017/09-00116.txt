@@ -1,24 +1,11 @@
-From wujastyk at gmail.com  Sun Sep 17 21:55:59 2017
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sun, 17 Sep 17 15:55:59 -0600
-Subject: [INDOLOGY] Fwd: Auto-discard notification
-In-Reply-To: <mailman.274.1505563324.1467.indology_list.indology.info@list.indology.info>
-Message-ID: <CAKdt-CeyQyat6NJ032xva6zrNM74ktvF6yKdm+m0=+Ckhe5RxA@mail.gmail.com>
-
----------- Forwarded message ----------
-From: Agathe Keller <kelleragathe600 at gmail.com>
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk>, Takao
+[INDOLOGY] Fwd: Auto-discard notification
 Hayashi <ganaka at kyoto.zaq.ne.jp>
-Cc: Indology List <indology at list.indology.info>
 Bcc:
-Date: Sat, 16 Sep 2017 14:01:07 +0200
-Subject: Re: [INDOLOGY] Once again on the origin of zero: the date of the
+Re: [INDOLOGY] Once again on the origin of zero: the date of the
 Bakhshali manuscript (or manuscripts?)
 Dear Camillio, Dear all,
-
 Thank you indeed for telling us a bit more of the context of your work and
 the general decision to go public about it.
-
 Just to specify things, contents wise, since there is a textual continuity
 between the recto and verso of folio 16, and since there is a mathematical
 continuity between the verso of folio 16 and the recto of folio 17 (the
@@ -33,7 +20,6 @@ wrong but in Hamburg, at the center for Manuscript Studies, I recall that
 they had a kind of unobstrutive infra-red reading technique that could
 reveal the contents of ink pigments? so such techniques exist and could
 tell us more about the BM as well.
-
 The BM is unique in the history of mathematics in South Asia because it was
 unearthed and not found and preserved in a library collection. So it would
 be fascinating if it, itself testifies to a process of continuous copy! Of
@@ -41,13 +27,11 @@ course we would all love to be able to contextualise the texts we work on:
 who used them, who made them, etc. Even more so for a text that is in
 itself a historical artifact and not a late copy of an older text. For this
 reason, I would really like to know on what basis you think that :
-
 The content of the Bakhshali manuscript is similar to the type of texts
 that Buddhist merchants would have needed to study (and possibly use as
 reference) for their daily trading activities. It includes very practical
 mathematical examples and equations, such as how to compute the loss in
 weight of a quantity of impure metal in the process of refining it, etc.
-
 because actually many of the general procedures and problems found in the
 BM have echoes in problems and procedures found in the highbrow scholarly
 mathematical chapters of later sanskrit siddh?ntas. As any historian of
@@ -58,17 +42,8 @@ the language used in the BM precisely point rather to a scholarly context?
 But i confess my ignorance on the milieus of buddhist merchants on the silk
 road, (the Dunhuang manuscripts I know of all have mathematical texts in
 chineese), and would be happy for any lights on this topic!
-
 All this said, I do find shocking the Bodleian?s choice of a press release
 before the publication of a peer reviewed article?
-
 yours
-
 Agathe Keller
 CNRS-Universit? Paris Diderot
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170917/d6b1569b/attachment.htm>
-

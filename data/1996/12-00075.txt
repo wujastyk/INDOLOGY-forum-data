@@ -1,23 +1,5 @@
-From l.m.fosse at internet.no  Wed Dec  4 19:08:53 1996
-From: l.m.fosse at internet.no (Lars Martin Fosse)
-Date: Wed, 04 Dec 96 20:08:53 +0100
-Subject: Humorous Aside
-Message-ID: <161227027311.23782.16290284367095717678.generated@prod2.harmonylists.io>
-
+Humorous Aside
 Alec McAllister wrote:
-
->>Part of the new deal we in my opinion need with "practical life" is to
->>develop a rapport or common understanding - if you like: a common language -
->>between the theoretical and the practical guys.
->
->Heard yesterday in a radio interview with a scientist on Jan Mayen
->Island: "Theory is when you understand everything but nothing works.
->Practice is when everything works, but you don't understand why. In
->this research station, we combine theory with practice: nothing
->works, and we don't understand why."
->
->Now there's a common language that we can all speak!  :-)
-
 This is of course very much an engineer's language. After a couple of years
 as a senior executive officer in the translation section of a Norwegian
 ministry, I can assure you that it doesn't matter one bit if nothing works
@@ -27,7 +9,6 @@ loose. As for their political overlords, they are quite happy if nothing
 works as long as they can blame their political opponents. In fact, the
 opposition is positively delighted if nothing works. That gives them a lot
 of ammunition in the political struggle. 
-
 Part of the new deal between the practical and the theoretical guys should
 therefore not be that the latter promise to solve all problems. It should
 rather be that they do *not* solve the problems, but avoid solving them in
@@ -36,13 +17,5 @@ blame the government, and the leaders of the various ministries can blame
 the press (or vice-versa). A well-engineered flop with a credible excuse is
 vastly superior to a nice, tidy success that nobody cares about. I think
 intellectuals have something to offer here that few can emulate.
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
-
-
-

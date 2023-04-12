@@ -1,18 +1,4 @@
-From stephen.miller at computing-services.oxford.ac.uk  Sat Jan 21 12:45:55 1995
-From: stephen.miller at computing-services.oxford.ac.uk (stephen.miller at computing-services.oxford.ac.uk)
-Date: Sat, 21 Jan 95 12:45:55 +0000
-Subject: Indology FAQ
-Message-ID: <161227018283.23782.3119185097159909780.generated@prod2.harmonylists.io>
-
->It was recently suggested by Adrian Burton that an INDOLOGY FAQ, posted
->once a month, could help to cut down on some of the repetitive
->administrative traffic that gets posted to INDOLOGY by having such
->details as how to unsubscribe (send "unsub indology" to
->"listserv at liverpool.ac.uk"), the aims of INDOLOGY, that the aryans came
->from outside india, how to get INDOLOGY sent in digest format, and
->whatnot.
->
-
+Indology FAQ
 My Two Pennies Worth: when you see messages such as unsub / signoff or the
 plea for someone to take them off the list, more bandwidth is taken up by
 people relying to the list to tell such people how to unsub / signoff that
@@ -27,19 +13,7 @@ used for''... Either leave the chore to the List Administrator (which is
 why such people should receive annual bonuses in precious metals) or take
 it on yourself and mail personally to the person in question and keep the
 list out of it.
-
-
-
 Stephen Miller
 National Academic Typesetting Service
 Oxford University
-
 stephen.miller at oucs.ox.ac.uk
-
-
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From pesch at indoger.uzh.ch  Thu May  8 08:06:05 2014
-From: pesch at indoger.uzh.ch (Peter Schreiner)
-Date: Thu, 08 May 14 10:06:05 +0200
-Subject: [INDOLOGY] Narasimhapurana
-Message-ID: <536B3AED.5000902@indoger.uzh.ch>
-
+[INDOLOGY] Narasimhapurana
 As a belated result of the T?bingen Purana Project a digitalized version 
 of the Narasimhapurana is now available from the homepage of the 
 Department of Indology at Z?rich 
@@ -11,19 +6,9 @@ Department of Indology at Z?rich
 with an index to the content of this Purana (as originally planned for 
 the Purana Project and published for the Brahmapurana). The dates of the 
 accompanying files are correct; it has been a long story, now history.
-
 Peter Schreiner
-
--- 
 Peter Schreiner
 Chemin des Boracles 94
 CH-1008 Jouxtens-M?zery
-
 Tel./Fax +41-21-6350365
 email: pesch at indoger.uzh.ch
-
-
-
-
-
-

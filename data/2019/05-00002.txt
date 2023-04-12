@@ -1,18 +1,11 @@
-From tylerwwilliams at gmail.com  Thu May  2 10:19:54 2019
-From: tylerwwilliams at gmail.com (Tyler Williams)
-Date: Thu, 02 May 19 15:49:54 +0530
-Subject: [INDOLOGY] South Asian typography
-Message-ID: <CAHRgzy2FR+-MnFqo9xkOAJ4XT+N85yQ-TVgnMZZCAd5TJTO2Lw@mail.gmail.com>
-
+[INDOLOGY] South Asian typography
 Dear colleagues interested in South Asian typography,
-
 In case you have not already seen it: Scroll.in ran a story a few days ago
 that provides a succinct overview of the current scene in commercial South
 Asian typography
 <https://scroll.in/magazine/919214/even-in-the-world-of-fonts-few-people-cared-for-indian-languages-until-now>.
 You will find a few familiar names here from the Indological community as
 well as several new ones who are doing good work.
-
 In particular, it provides an introduction to the work of the Indian Type
 Foundry <https://www.indiantypefoundry.com/> and EkType
 <https://ektype.in/font-family.html>, both of which have developed
@@ -23,7 +16,6 @@ Asian scripts, and across South Asian scripts and the Latin script. (Anyone
 who has tried to typeset a document in both Latin and a South Asian script
 knows how time-consuming this can be when fonts do not match up in terms of
 weight, kern, tracking, etc.)
-
 Though many of their fonts are proprietary, each has several fonts that are
 open source. I have recently begun experimenting with the Jaini
 <https://github.com/EkType/Jaini> calligraphic font developed by EkType,
@@ -32,13 +24,6 @@ which is (loosely) based on the script used in a 1503 copy of the
 they will be more easily recognized by contemporary readers unfamiliar with
 earlier orthography.) Several other gems can be found on the Indian Type
 Foundry and EkType websites.
-
 Regards,
 Tyler Williams
 University of Chicago
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190502/55c35fd1/attachment.htm>
-

@@ -1,17 +1,9 @@
-From kevinryan at fas.harvard.edu  Thu Mar 10 16:38:54 2016
-From: kevinryan at fas.harvard.edu (Kevin M. Ryan)
-Date: Thu, 10 Mar 16 11:38:54 -0500
-Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0gRXhhbXBsZShzKSBvZiDigJjhuaNyL+Ckt+CljeCksOCljeKAmQ==?=
-In-Reply-To: <CAB3-dzewSfkh+HQCGu1Z++HaY5MO+EfZs-eVTg7HwUYGkQ7+fw@mail.gmail.com>
-Message-ID: <56E1A31E.1090607@fas.harvard.edu>
-
+=?utf-8?B?UmU6IFtJTkRPTE9HWV0gRXhhbXBsZShzKSBvZiDigJjhuaNyL+Ckt+CljeCksOCljeKAmQ==?=
 Hello Madhav,
-
 Thank you for this clarification; of course you're right, and for that 
 reason, aju?ran is surely the best "textbook" example. At any rate, I 
 took the question to be about attested forms, regardless of etymological 
 correctness.
-
 "Genuine," as you've demonstrated as much as anyone, can be problematic. 
 Natural languages and orally transmitted texts evolve. If these 
 instances of e.g. pari?rita? are of modern provenance, then we can 
@@ -25,104 +17,6 @@ variation, such as a misapplication of RUKI, such non-standard
 attestations have linguistic value, as they do in texts like the RV, 
 which is of course replete with such variants. In this case, I don't 
 know the first thing about it, but it looks interesting.
-
 Best,
 Kevin
-
-
-
-
 On 3/10/16 10:03 AM, Madhav Deshpande wrote:
-> Hello Kevin,
->
->       Of the instances of "?r" that you have collected from GRETIL, the
-> ?gvedic instance of aju?ran is the only one that appears to be a genuine
-> instance, while the other occurrences appear to be orthographic variants
-> for an original "?r,"  rather than being genuine occurrences of "?r".
-> In any case, it is good to know that there is at least one genuine
-> occurrence of "?r" in the form aju?ran.
->
-> Madhav Deshpande
->
-> On Thu, Mar 10, 2016 at 8:42 AM, Kevin M. Ryan
-> <kevinryan at fas.harvard.edu <mailto:kevinryan at fas.harvard.edu>> wrote:
->
->     Dear Nityanand,
->
->     Here are a few items I found in the GRETIL corpus:
->
->     aju?ran (RV 1.71.1c)
->     pari?rita? (3x), pari?rayati (1x), mi?ram (?atapatha Br?hma?a)
->     zu?r??am???n?m (Bh?gavata Pur??a 1.1.13)
->
->     It could also in principle be found across a word boundary, when a
->     word is left to stand with final ? (e.g. jyoti? rajas, Nirukta).
->
->     Best,
->     Kevin
->
->
->     On 3/10/16 5:07 AM, Nityanand Misra wrote:
->
->         Dear list
->
->         In Ulrich Stiehl?s list of 807 conjuncts attested in Sanskrit, the
->         two-consonant conjunct ??r? (????) is listed as the 786th entry (third
->         from left in last line of page 4 of the PDF under
->         http://www.sanskritweb.net/sansdocs/mathe.pdf
->         <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sanskritweb.net_sansdocs_mathe.pdf&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=NqkhTuN1wmPpoGV7HfN9h9sjzhrforkotCX8AEc5N5k&m=T1yGJ4gkH2cWr1p5tJNmgNB9XLFojdwa1DNLjqiV7hM&s=uiqXFlvyBBXF5bZD0pXg1ZaS4jKsh2xZmOPYoIwiJRY&e=>
->         <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sanskritweb.net_sansdocs_mathe.pdf&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=NqkhTuN1wmPpoGV7HfN9h9sjzhrforkotCX8AEc5N5k&m=I2YYnpny_JHcilQBv0xpTkUgPu2gNjPwORPDYANfhnY&s=HkqxA0_r_eDluRij4xM7zMHZVLLHzba0JOX-99c58Ac&e=>).
->
->         I have been unable to trace any word in which this conjunct
->         would occur
->         in Sanskrit.
->
->         Prefix and infix expression search on Advanced search on Monier
->         Williams, V?caspatyam, and ?abdakalpadruma? yielded no result
->         (except
->         for ???????? in M-W which has the three-syllable conjunct k?r)
->
->         Does anybody know of an example of a word or verse/sentence in
->         which the
->         usage of this conjunct is attested?
->
->         Thanks, Nityanand
->
->
->
->         _______________________________________________
->         INDOLOGY mailing list
->         INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
->         indology-owner at list.indology.info
->         <mailto:indology-owner at list.indology.info> (messages to the
->         list's managing committee)
->         http://listinfo.indology.info
->         <https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=NqkhTuN1wmPpoGV7HfN9h9sjzhrforkotCX8AEc5N5k&m=T1yGJ4gkH2cWr1p5tJNmgNB9XLFojdwa1DNLjqiV7hM&s=Bm3XURQC4JzKdARZpjQ41rD8N09HWV7qc7CcULhadhg&e=>
->         (where you can change your list options or unsubscribe)
->
->
->     _______________________________________________
->     INDOLOGY mailing list
->     INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
->     indology-owner at list.indology.info
->     <mailto:indology-owner at list.indology.info> (messages to the list's
->     managing committee)
->     http://listinfo.indology.info
->     <https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=NqkhTuN1wmPpoGV7HfN9h9sjzhrforkotCX8AEc5N5k&m=T1yGJ4gkH2cWr1p5tJNmgNB9XLFojdwa1DNLjqiV7hM&s=Bm3XURQC4JzKdARZpjQ41rD8N09HWV7qc7CcULhadhg&e=>
->     (where you can change your list options or unsubscribe)
->
->
->
->
-> --
-> Madhav M. Deshpande
-> Professor of Sanskrit and Linguistics
-> Department of Asian Languages and Cultures
-> 202 South Thayer Street, Suite 6111
-> The University of Michigan
-> Ann Arbor, MI 48104-1608, USA
-
-
-
-
-

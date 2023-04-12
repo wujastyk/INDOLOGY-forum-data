@@ -1,25 +1,7 @@
-From Gerard.Huet at inria.fr  Fri Jan 18 16:15:01 2019
-From: Gerard.Huet at inria.fr (=?utf-8?Q?G=C3=A9rard_Huet?=)
-Date: Fri, 18 Jan 19 17:15:01 +0100
-Subject: [INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
-Message-ID: <4493E283-29C0-4F25-98EA-B3E60CB58348@inria.fr>
-
+[INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
 Dear indologists,
-
 This is to announce an upgrade of the Sanskrit Heritage site <https://sanskrit.inria.fr/>, connecting its reader assistant segmenter/tagger to Pr Kulkarni?s dependency parser. It is now possible to invoke her parser from the Heritage reader interface, whenever the number of remaining solutions is not too high. This facility is also available from its corpus manager.
-
 Here is an example. Search for entry k?ka <> in the dictionary. You will see on its entry page <https://sanskrit.inria.fr/DICO/20.html#kaaka> a reference to the citation k?ka??k??ra??p?tv??kokila??na?bhavati <https://sanskrit.inria.fr/cgi-bin/SKT/sktgraph.cgi?corpmode=reader&text=kaaka.h+k.siiram+piitvaa+kokila.h+na+bhavati&t=VH&cpts=0%2C%7BNouc%7D%2C%7Bkaakas%7D%2C%7Bt%7D%7C30%2C%7BRoot%7D%2C%7Bbhavati%7D%2C%7Bt%7D&corpdir=Heritage_citations&sentno=158>. If you click on it, you wind up in the Sanskrit Segmenter interface listing the relevant segmentation. Now a new action is proposed, mentioning UoH Analysis Mode. Click on its green tick sign. This will transport you to an interface page listing the padap??ha. Click on the Submit button. You are now facing the sa?s?dhan? analyser, listing its possible parses. Selecting the root p? in the p?tv? column gives the intended parse, which may now be displayed as a dependency graph like this <https://sanskrit.inria.fr/cgi-bin/scl/SHMT/prog/interface/show_selected_parse.cgi?filename=/private/tmp/SKT_TEMP/./tmp_in14680/&sentnum=1&start=0&outscript=IAST>. 
-
 This facility is still in an experimental phase. It works for not too complex sentences given in prose order. For poetry, it is possible to use the padap??ha interface to reorder the components by giving manually the prose order. 
-
 Many thanks to Pr Kulkarni for providing this wonderful grammatical analysis tool, and for her assistance in adapting it to the Sanskrit Heritage Web services.
-
 G?rard Huet
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190118/4a58f497/attachment.htm>
-

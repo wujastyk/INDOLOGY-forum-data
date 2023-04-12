@@ -1,9 +1,4 @@
-From magier at COLUMBIA.EDU  Mon Jun 18 11:08:07 2007
-From: magier at COLUMBIA.EDU (David Magier)
-Date: Mon, 18 Jun 07 07:08:07 -0400
-Subject: Finding Indological full-book PDFs on Google Books
-Message-ID: <161227080610.23782.7038791889005663080.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 Dear All,
 another angle on mass digitization projects (perhaps less true of Google 
 than of other, unnamed mass projects whose name begins with a large number) 
@@ -19,10 +14,8 @@ original materials and content as part of the effort of preserving
 knowledge for future generations. In the rush to digitize, many people 
 (certainly the general public) have lost sight of what for us is a basic 
 mantra:
-
   "Digitization is a wonderful medium for DISSEMINATION. It is not a method 
 of long-term PRESERVATION."
-
 For the latter, one must use conservation techniques to extend the life of 
 the book, and/or duplication of the content onto a proven long-term storage 
 medium (and format) that will be usable many generations into the future. 
@@ -34,7 +27,6 @@ well as archival-quality preservation photocopying onto acid-free paper
 many hundreds of years). Does anyone really believe that the thousands of 
 books being digitized now are going to still be usable, as current-standard 
 PDFs on their hard drives or CD-ROMs, even 50 years from now??
-
 Digital file content can (and some probably will) be carried forward in 
 usable formats into the future only by very active, very expensive, and 
 ONGOING permanent intervention via constant "refreshment" of the data into 
@@ -48,7 +40,6 @@ content are lost forever). Tt is really only the most commercially valuable
 content that will continue to get the digital preservation investment 
 needed to refresh the data and keep the content viable. Do we really 
 believe that our indological books fall into that category?
-
 I'm a strong advocate of digitization and dissemination, but I am 
 constantly fighting against a widespread, general misunderstanding under 
 which people feel that once a book as been digitized we can rest easy: it 
@@ -57,70 +48,9 @@ what happens to books getting digitized, I feel scholars everywhere must
 take much more active notice of the distinction between digitization and 
 preservation, and must make sure that appropriate attention is given to the 
 latter, even if it is so much less "sexy" than the former.
-
 David Magier
 South Asia Librarian
 Columbia University
-
 and
-
 President, Center for South Asia Libraries
-
---On June 17, 2007 9:00:46 PM -0700 Jonathan Silk <silk at humnet.ucla.edu> 
 wrote:
-
-> Dear  Tim,
->
-> Just a quick note: I do understand the logic that something can be better
-> than nothing. But I think the concern is that if one is going to do
-> something, it should be done right (not as much as a philosophical stance
-> as a practical one). And if something is done by Google, even if badly,
-> is it then likely that it will be done later better? Is it not a case of
-> bad coin driving out good?
->
-> Then, specifically:
->
->> .  I did look at the pages Jonathan mentioned, and although several
->> had distortions along the left edge of the pages, they were quite
->> legible.
->
-> Page 211--left side distorted, but yes, legible
-> 212: approximately 1/5 of the [right side of the] page missing because it
-> was placed on the scanner at a diagonal--to me, this does not count as
-> 'quite legible'
-> 213 more or less = 211
-> 214 --the page was moved during scanning, such that a large part of the
-> right side is indeed not legible.
->
-> All of these problems and worse can be found throughout the whole
-> book--at a very rough guess about every second or third page has this
-> type of trouble, which almost systematically leaves part of the text
-> legible-- the rate of trouble is astonishing (and far beyond that even of
-> the old Indian reprints, or the work of even sloppy student assistants).
-> I would not fear contradicton to say that  as now available Burnouf's
-> book is unreadable in the Google version. And this does not even address
-> the issue of huge portions of some books missing, the book scanned not
-> being the book catalogued (e.g., who in the Google group would scan PW
-> when  their records indicate that they already have it? yet, as I said,
-> it is not PW at all...) etc
->
-> Sorry--my quick note was not so quick. With this, I'm done with this
-> topic, with the wish that those of us with a professional interest in a
-> relatively narrow field might profitably discuss (in future, in a
-> different forum?) how to prepare the relatively limited corpus of key
-> materials we all are likely to find useful to have on our hard-drives.
->
-> JAS
-> --
-> Jonathan Silk
-> Department of Asian Languages & Cultures
-> Center for Buddhist Studies
-> UCLA
-> 290 Royce Hall
-> Box 951540
-> Los Angeles, CA 90095-1540
-> phone: (310) 206-8235
-> fax:  (310) 825-8808
-> silk (at) humnet.ucla.edu
->
->

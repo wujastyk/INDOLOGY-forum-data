@@ -1,9 +1,4 @@
-From jage at loc.gov  Wed Jun 26 20:57:16 1996
-From: jage at loc.gov (James E. Agenbroad)
-Date: Wed, 26 Jun 96 16:57:16 -0400
-Subject: Conjuncts Errors #2
-Message-ID: <161227025173.23782.17434224624237022780.generated@prod2.harmonylists.io>
-
+Conjuncts Errors #2
                                       Wednesday, June 26, 1996
 The earlier email had two errors:  353. T+kh+ra
 and it didn't get sent to the ISO10646 list.  Can someone in Unicode
@@ -11,8 +6,3 @@ forward it to that list?  Thanks and apologies,
      Jim Agenbroad ( jage at LOC.gov )
      The above are purely personal opinions, not necessarily the
 official views of any government or any agency of any.
-
-
-
-
-

@@ -1,25 +1,12 @@
-From wujastyk at GMAIL.COM  Sun Mar 28 12:42:46 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Sun, 28 Mar 10 14:42:46 +0200
-Subject: A misconception regarding the PDF format (Re: Text processing              in Unicode
-In-Reply-To: <4BAD26DD.7070304@univ-paris-diderot.fr>
-Message-ID: <161227089059.23782.90732941252960487.generated@prod2.harmonylists.io>
-
+A misconception regarding the PDF format (Re: Text processing              in Unicode
 Very impressionistically - I haven't done any real test testing - my
 experience is that if I use Unicode for my source file, then I get a Unicode
 PDF.  So I can cut-and-paste and get all the diacritics.  And if I do "save
 as" plain text from PDF, I get a plain text file that's correctly Unicode
 too.
-
 I'm using XeTeX.
-
 Best,
 Dominik
-
 PS Zdenek Wagner has done successful but still experimental work on getting
 TeX + Velthuis Devnag => searchable Devanagari PDFs.
 Cf. http://sarovar.org/projects/devnag/
-
-
-
-

@@ -1,16 +1,5 @@
-From a018967t at BC.SEFLIN.ORG  Sun Feb 14 03:28:25 1999
-From: a018967t at BC.SEFLIN.ORG (=?utf-8?Q?Aditya=2C_the_=5D-=5Bindu__=24kepti=C2=A2?=)
-Date: Sat, 13 Feb 99 22:28:25 -0500
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-In-Reply-To: <199902132020.BAA12518@mbg.vsnl.net.in>
-Message-ID: <161227046307.23782.4928598875306658428.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 On 14 Feb 99,  Robert Zydenbos wrote:
-> A Pakistani visiting professor of Urdu at Heidelberg mentioned in a
-> lecture that the oldest mss. of Tulasi Dasa's Ramayana (in so-called "Old
-> Hindi") are written in Urdu script. Has anybody looked into the matter
-> sufficiently to confirm whether this is so?
-
 I may not hold an academic position in Indology but I have studied Hindi at
 Sahityaratna level and have enough first hand knowledge about Tulsidas
 and all his works and feel very frustrated that some one would even
@@ -18,7 +7,6 @@ mention such  a possibility on the basis of a Pakistani professor. This is the
 kind of ridiculous insinuations that have resulted in the allegations about the
 lack of honesty and integrity on this list  recently about Christians and
 missionaries having ulterior motives.
-
 I know that Tulsidas did not write any manuscript in Urdu script and  3 or 4
 original manuscripts in Tulsidas' own handwriting are still available.
 Therefore even if some one else had written Ramchartimanas (Not
@@ -26,14 +14,12 @@ Ramayan which was written by Valmiki in Sanskrit and not by Tulsidas in
 Urdu) in Urdu script, it could not be the oldest manuscript by any stretch of
 imagination. The Pakistani scholar does not even seem to know the
 difference between Ramayan and Ramcharitmanas.
-
 Urdu and HIndi are essentially the same languages grammatically except
 that those who write in Urdu seem to prefer vocabulary derived from
 Persian or Arabic even if vernacular local word is available. I must admit
 that many Hindi writers have also made it a point to coin or use Sanskrit
 word in their works but they have not become popularly accepted and
 Tulsidas was not one of them.
-
 Urdu is not a native language of  even Pakistan and secession of
 Bangladesh was the primarily a result of the imposition of Urdu by the
 Muslim leadership raised in UP or Bombay. The Urdu speakers of Pakistan
@@ -45,10 +31,5 @@ were left with no capable leadership after 1947 since they left to take over
 most the government jobs in Pakistan. The leaders who went to Pakistan
 could never be accepted by the local citizenry and are still suspect of
 disloyalty.
-
 The muslim leadership in India is still harping on special status for Urdu in
 UP, Hyderabad and Delhi.
-
-
-
-

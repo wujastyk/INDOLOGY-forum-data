@@ -1,37 +1,20 @@
-From jlc at CCR.JUSSIEU.FR  Thu May 20 10:34:46 1999
-From: jlc at CCR.JUSSIEU.FR (Jean-Luc CHEVILLARD)
-Date: Thu, 20 May 99 12:34:46 +0200
-Subject: Sugarcane (kan2n2al)
-In-Reply-To: <19990520001617.86757.qmail@hotmail.com>
-Message-ID: <161227049094.23782.7020915941842431806.generated@prod2.harmonylists.io>
-
+Sugarcane (kan2n2al)
 A 17:16 19/05/99 PDT, vous avez ?crit :
->Dear Dr. Jean-Luc,
->
->Does 'paravai' in akam 44.16
->    *pazam pal nellin2 pal kuTi paravai*
->      refer to the land/field or not? Thanks.
->
-
 Dear Dr. Ganesan, I would like to oblige ...,
 but (un)-fortunately, I am not a native speaker of CT  :-)
-
 All I can say is that
-
 *C.E. Ramachandran, in his 1974 book _Ahananuru in its historical setting_,
   gives a draft translation of Akam-44, that is rather imprecise 
   but reads like this:
  <<[...] azhumpil of perum-pUT-cen2n2i has thick forests, tanks in which
   elephants rest, and many households having stocks of old paddy.
   The town is known for its ever increasing prosperity. [...]>>
-
 *VMS, in an unpublished translation, kept in the French Institute Library,
   translates the same lines as:
  <<[...] never ceasing income like azhumpil (a place in pANTiya country) [15]
   old paddy in abundance, dense and spreading population [16]
   deep tanks in which elephants immerse themselves for bathing [17]
   and a deep forest for defence [17] [...]>>
-
 As you know, we are lucky to have these texts because Sangam literature
 was rescued in XIXth cent. by people like UVS (you remember chap.88
 in his autobiography: "en2n2a pirayOcan2am?", don't you?).
@@ -48,13 +31,11 @@ on the relationship between DED (and DEDR) and TL. A dictionnary
 for a classical language (like CT) is a tool that is COMPILED.
 It does not substitute itself to the primary data
 (which should be critical editions and translations?) ...
-
 As regards "paravai", I have been able to find only TWO occurrences
 in the whole Sangam corpus. The second one is naRRiNai 378-4:
  "[...] teN kaTal
  "muzhaGku tirai, muzhavin2 pANiyin2, paipaya,
  "pazham puN uRunarin2, paravaiyin2 Alum"
-
 I know of 3 translations:
 *[A] G.Hart (1979:105, Princeton)
   <<The crashing waves of the cool sea // move in measured time //
@@ -69,27 +50,14 @@ I know of 3 translations:
   <<the roaring waves of the clear sea, like the time scale of the drum
    slowly & slowly sound, groaning like people of chronic suffering,
    in the wide expanse>>
-
 I do not know which one you will prefer. "Wide expanse" seems fitting. 
-
 Coming back to Tevaram, the word "paravai" occurs 43 times there.
  If we remove the 10 occurrences in the phrase "paravaiyuL maNTaLi" (7-96),
  we still have 33 to examine, but I do not have time now to do that. 
  We hope to release the Tevaram-concordance-cum-english-gloss next year
  (it will be Digital Tevaram 2000!) on a CD-Rom.
  I hope you can wait till that time :-)
-
 One last point: you asked
-
->How does VMS translate "curakkum pun2al cUz taru kAzi"?
-
 Answer:  <<K. which is surrounded by gushing water>>
-
 I hope this is useful.
 Regards.
-
--- Jean-Luc CHEVILLARD (Paris)
-
-
-
-

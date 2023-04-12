@@ -1,22 +1,12 @@
-From jage at LOC.GOV  Thu Mar 19 20:30:54 1998
-From: jage at LOC.GOV (James E. Agenbroad)
-Date: Thu, 19 Mar 98 15:30:54 -0500
-Subject: Gurmukhi Alphabetic Order?
-Message-ID: <161227036862.23782.6795861898215416937.generated@prod2.harmonylists.io>
-
+Gurmukhi Alphabetic Order?
                                        Thursday, March 19, 1998
 Could someone tell my why in the Gurmukhi script 'sa' and 'ha' come
 before 'ka' instead at the end as with other Brahmi based scripts? I do not
 plan to interfile Panjabi with other scripts soon; it's just an anomaly
 I'd like to understand if possible.  Thank you.
-
      Regards,
           Jim Agenbroad ( jage at LOC.gov )
      The above are purely personal opinions, not necessarily the official
 views of any government or any agency of any.
 Phone: 202 707-9612; Fax: 202 707-0955; US mail: I.T.S. Dev.Gp.4, Library
 of Congress, 101 Independence Ave. SE, Washington, D.C. 20540-9334 U.S.A.
-
-
-
-

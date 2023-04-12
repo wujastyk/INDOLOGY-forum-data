@@ -1,10 +1,4 @@
-From Steiner at MAILER.UNI-MARBURG.DE  Thu Mar  4 09:46:32 1999
-From: Steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Thu, 04 Mar 99 10:46:32 +0100
-Subject: Ref. check verse 6.41 Bhagavad Gita
-In-Reply-To: <19990303184629.16867.qmail@hotmail.com>
-Message-ID: <161227047173.23782.7195310684117601113.generated@prod2.harmonylists.io>
-
+Ref. check verse 6.41 Bhagavad Gita
 The critical edition by S. K. Bevalkar (Poona: BORI 1945) reads ["Ml" 
 in this cases represents l + chandrabindu]:
 [...] puNyakRtAMl lokAn [...]
@@ -12,7 +6,3 @@ Variant readings: puNyakRtAM lokAn ["ZaradA version"; some mss
 of the "DevanAgarI Composite Version"; two mss of the "Grantha 
 Version"; RAmAnuja?s, ZaNkara?s and Dhanapati?s commentaries] ; 
 puNyatamAMl lokAn [ms of the "KazmIrI Version"].
-
-
-
-

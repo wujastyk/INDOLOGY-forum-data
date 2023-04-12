@@ -1,12 +1,4 @@
-From madhav.deshpande at um.cc.umich.edu  Mon Mar 14 15:50:18 1994
-From: madhav.deshpande at um.cc.umich.edu (madhav.deshpande at um.cc.umich.edu)
-Date: Mon, 14 Mar 94 10:50:18 -0500
-Subject: TT Font designer
-Message-ID: <161227016625.23782.3010389592651075877.generated@prod2.harmonylists.io>
-
+TT Font designer
 There is a Windows version of Fontographer which can be used to design
 TrueType fonts.
                 Madhav Deshpande
- 
-
-

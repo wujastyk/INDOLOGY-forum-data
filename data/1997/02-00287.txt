@@ -1,10 +1,4 @@
-From ucgadkw at ucl.ac.uk  Thu Feb 27 16:48:46 1997
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 27 Feb 97 16:48:46 +0000
-Subject: Mechandising electronic texts
-Message-ID: <161227028610.23782.9642588419160946465.generated@prod2.harmonylists.io>
-
-
+Mechandising electronic texts
 This is a serious development.  The e-texts of the Mahabharata and
 Ramayana (at least, probably others) are explicitly copyrighted, and the
 copyright explicitly notes that these files are free *for scholarly
@@ -16,29 +10,17 @@ that the company is only charging for the cost of the media, and the cost
 of postage and distribution.  If the cost really is 20DM, then this sounds
 like what is happening, and it is probably to be treated as inocuous.
 150DM is more than the cost of postage or the medium.
-
 I stress again the importance of adding a COPYRIGHT statement to any files
 you make publicly available.  This does not mean the files can't be freely
 copied for scholarly purposes, but it provides some means of trying to
 ensure that the person who did the work of creating the files has a
 legitimate claim on any serious profits that might some time be made from
 them.
-
 In the present case, I can only suggest that the copyright holders of the
 files being distributed should write to the errant company, and try to
 negotiate royalty terms.  If that fails, the sue the pants off them!
-
 All the best,
 Dominik
-
---
 Dominik Wujastyk               Wellcome Institute for the History of Medicine
 email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
 <URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
-
-
-
-
-
-
-

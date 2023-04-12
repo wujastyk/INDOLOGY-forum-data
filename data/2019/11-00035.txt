@@ -1,21 +1,9 @@
-From franceschini.marco at fastwebnet.it  Sun Nov  3 10:50:19 2019
-From: franceschini.marco at fastwebnet.it (Marco Franceschini)
-Date: Sun, 03 Nov 19 11:50:19 +0100
-Subject: [INDOLOGY] Script tables
-In-Reply-To: <CAANHO17Da=zTtieS+0bhT4ZmAenZ6JVgSyLHx5VmeguMRS6eag@mail.gmail.com>
-Message-ID: <B8320368-12B6-443E-B112-FD7721DC5D3E@fastwebnet.it>
-
+[INDOLOGY] Script tables
 Dear Andrew,
-
 it is several years now that I am working on a vast repertoire of all the graphemes/conjuncts/clusters/ligatures that are found in manuscripts written in the Grantha script. Basically, what I am building is a huge table including thousands of small pictures taken from a group of selected manuscripts. The pictures that I am using are of different provenance and quality, so I wrote a Photoshop ?action? (basically, a series of commands which can be run routinely) to standardize all the "technical? parameters of the pictures ? resolution, brightness, contrast, dimensions, etc. After that, I apply a dimming effect (which can be obtained using the ?Level? command in Photoshop) to have the letters clearly legible and, at the same time, to preserve the context in which they appear. The work is still in progress, but the output of this process can be seen in the table on pp. 86-105 of this article published by Giovanni Ciotti and me three years ago: 
-
 https://www.degruyter.com/downloadpdf/books/9783110479010/9783110479010-004/9783110479010-004.pdf <https://www.degruyter.com/downloadpdf/books/9783110479010/9783110479010-004/9783110479010-004.pdf>
-
 With best wishes,
-
 Marco
----
-
 Marco Franceschini
 ???????????
 Senior Assistant Professor
@@ -25,25 +13,3 @@ marco.franceschini3 at unibo.it <mailto:marco.franceschini3 at unibo.it>
 https://www.unibo.it/sitoweb/marco.franceschini3/en <https://www.unibo.it/sitoweb/marco.franceschini3/en>
 http://unibo.academia.edu/MarcoFranceschini <http://unibo.academia.edu/MarcoFranceschini>
 www.associazioneitalianadistudisanscriti.org <http://www.associazioneitalianadistudisanscriti.org/>
----
-
-
-> Il giorno 03 nov 2019, alle ore 05:12, Andrew Ollett via INDOLOGY <indology at list.indology.info> ha scritto:
-> 
-> Dear list members,
-> 
-> I was wondering whether anyone has experience drawing up "script tables," representating the characters used either in a given document (say a manuscript or inscription) or in a collection of documents. I realize that a lot depends on whether the table will be printed or published online (e.g., the use of color images), but I'm interested in recommendations for producing suitable images. (I'm aware of the very useful charts, adapted from B?hler?s Indische Palaeographie, that D?niel Balogh posted on this list some time ago.)
-> 
-> Andrew
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191103/30ae28cf/attachment.htm>
-

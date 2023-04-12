@@ -1,27 +1,9 @@
-From poo at GIASMD01.VSNL.NET.IN  Mon Oct 30 16:49:14 2000
-From: poo at GIASMD01.VSNL.NET.IN (RM. Krishnan)
-Date: Mon, 30 Oct 00 22:19:14 +0530
-Subject: SV: SV: SV: Kinship systems
-In-Reply-To: <006601c040c3$9320bad0$d85abcc3@tigertech>
-Message-ID: <161227063303.23782.10738018575166792599.generated@prod2.harmonylists.io>
-
+SV: SV: SV: Kinship systems
 At 10:43 AM 10/28/00 +0100, you wrote:
-
->Can you tell me when do the words "Saivam"   and  "VaiNavam" occur in the
->Tamil literature. For example do they occur in the Prabhandam or Nayanmar
->works itself? or do they occur much later?
->
->As far as I can see these words are the Tamil translations of the English
->words Saivism and Vaishnavism. But the Tamil texts themselves were unaware
->of 'ism's. But still it would be interesting to know when do these two words
->in the sense of 'isms's appear in the Tamil texts
-
 Dear Mr Vijayaraghavan,
-
 Even though you chose not to reply to the questions I raised (regarding
 customs common to Dravidians) in my earlier mail, I am still responding to
 satisfy your curiosity.
-
 The words 'Saivam' and 'VaiNavam' are Sanskrit rendering of the wholly
 Tamil concepts. The Tamil rendering could be 'Sivam' and 'ViNNavam'.  [The
 word 'Sivan' does not have any high sounding meaning. It is just the red
@@ -32,12 +14,9 @@ interpreted in the simplest way.] Saivam as a religion is also termed as
 'Siva neRi' or 'Saiva neRi'. As a literature term,  'Saiva vAthi' is known
 to be used in the second century epic MaNimekalai.  See the
 27th  kAthai  ('Samayak kaNakkar Tham ThiRam kEtta kAthai')  86th line
-
 Saiva vAthi
-
 en2Ravan2 than2n2ai vittu iRaivan2 Isan2 en2a
 nin2Ra Saiva vAthi nEr patuthalum
-
 It goes further to describe the Saiva Siddhantham .  Philosophical concepts
 are also discussed by MaNicka Vasakar, whose time was conclusively
 established as late 3rd century by MaRaimalai AtikaL  MaNicka vAsakar
@@ -47,41 +26,33 @@ Authoritative earliest Saiva Agama work is thirumanthiram by thirumoolar
 (5th century AD) who is predated to thiru nAvukku arasar and thiru njAn2a
 sambanthar by at least 150 to 200 years. Oft-quoted pA from thirumanthiram
 where there is an explicit reference to the word 'siva lingkam' is as follows:
-
 uLLam perungkoyil Un2utampu Alayam
 vaLLal pirAn2Arkku vAy kOpura vAsal
 theLLath theLivArkkuc cIvan2 civalingkam
 kaLLap pulan ainthum kALA maNi viLakkE!
-
 Now coming to vaiNavam, the term VaishNava in the tamilized form
 'VaittaNavan' is used by PeriyAzvAr (8th Century AD). Please see Divya
 Prabhandam  435.
-
 'van2maiyaan2athu un2 kOyilil vAzum
 vaittaNavan2 en2n2um van2mai kaNtAyE'
-
 So one does not have to wait for the English to introduce us to the 'isms'.
 We seemed to have been the earlier proponents. Incidentally, if you are
 looking for the tribal practice of Saivam and VaiNavam and not
 philosophical interpretations, then it goes still earlier to at least 5th
 -7th century BC.  Tholkappiyam speaks of the ThiNai life in various regions
 in nURpA 951 (akath thiNai iyal),
-
 MAyOn2 mEya kAtuRai ulakamum
 cEyOn2 mEya maivarai ulakamum
 vEnthan2 mEya thImpun2al ulakamum
 varuNan2 mEya perumaNal ulakamum
 mullai kuRinjci marutham neythal en2ac
 colliya muRaiyaal collavum patumE
-
 (sEyOn as a concept is considered to be prior to Sivan and Murugan. and
 combines both attributes, if the earliest tamil scholars' interpretation is
 accepted) Further in puRath thiNai iyal (nURpA 1006), there is one more
 reference to thirumAl:
-
 mAyOn2 mEya man2perunj ciRappin2
 thAvA vizuppukaz pUvai nilaiyum
-
 I am  not quoting kataic cangam literatures, since they come much after
 tholkAppiyam. (Incidentally Sangam literature is not devoid of
 philosophical discussions. Pleas read the wonderful book in Tamil ' ulakath
@@ -91,11 +62,9 @@ variously referred to in the sangkam works; Often enough there are more
 references to thiruMAl. (even balarAman is referred to) in these works.
 There is also a poem  composed during kaLappALar times ( 3rd century AD)
 quoted by the respected Tamil scholar Mayilai seen2i vEngkatasamy
-
 iruLaRu thikiriyootu valampurith thatakkai
 oruvan2ai vENta iru nilam kotuththa
 nanthi maalvarai cilampa nanthi
-
 where there is an unmistakable reference to mAl. Archeological experts have
 also found Sivalingkams in kutimallam, kazAththUr, kutumiyAn malai
 belonging to 2nd century BC. ( Please see C.R. Srinivasan: Kanchipuram
@@ -103,7 +72,6 @@ through the ages, agam kala pragasam, Delhi 1979, page 232; also see the
 same author in Story of Buddism, P 243). Satavagana kings (SatakarNi) were
 known to be Saivaites. Similarly SilappathikAram clearly establishes
 senguttuvan to be an ardent devotee of SivA.
-
 VaithIkam entered into the Tamil Country around 3rd Century BC.  It merged
 somewhat with the local practices of old Saivam and VaiNavam  and gained
 large acceptance only during Pallava times. Even earliest pallava was
@@ -112,14 +80,8 @@ century AD) that organized translations of indigenous tamil works into
 Sanskrit was done and originals were lost due to foolish practices. (Please
 read 'Thamizaka varalARum paNpAtum/ by vE. thi. Cellam, maNivAsakar
 pathippakam, 8/7 cingkar theru, pArimunai, chennai 600 108, published in 1995)
-
 Recently Sudalaimuthu Palaniappan showed a reference to a translation work
 (700 love poems) during HAlA SatakarNi. We don't know the whereabouts of
 the original love poems. Sad indeed.
-
 With regards,
 IrAma. ki
-
-
-
-

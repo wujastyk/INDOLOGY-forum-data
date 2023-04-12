@@ -1,42 +1,14 @@
-From bpj at netg.se  Thu Nov  7 16:55:07 1996
-From: bpj at netg.se (bpj at netg.se)
-Date: Thu, 07 Nov 96 18:55:07 +0200
-Subject: Jaataka reference
-Message-ID: <161227026749.23782.16962285452214729438.generated@prod2.harmonylists.io>
-
+Jaataka reference
 At 22:53 6.11.1996 +0000, George Fowler wrote:
->Hello,
->
->Does anyone know of software that adds Sanskrit diacritics to Word For
->Windows (6.0) documents?
->
->Thanks,
->George Fowler
->--
->email: minding at world.std.com
-
 I could make such a set of fonts according to your wishes, though not until
 spring. In the meantime check out
-
 http://titus.uni-frankfurt.de/
-
 Regards
-
 B.Philip Jonsson <bpj at netg.se>
-
 Aphobon ho theos -- Anaistheton ho thanatos
 To agathon eukteton -- To deinon euekkartereton
 (Diogenes of Oinoanda -- not the one in the amphora!)
-
 Gomba lamai 'sjaylkjiyl | 'Yiyla tsjargyu mi'duq |
 'Magom` dsjambai 'sjaylray` | 'Yiyla khorkhor dsjaydsjung ||
 (Sang'yang Gjatso -- Dalai Lama VI)
-
 "A coincidence, as we say in Middle-Earth"
-
-
-
-
-
-
-

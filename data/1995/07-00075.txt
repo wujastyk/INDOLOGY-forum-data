@@ -1,9 +1,4 @@
-From GKIBB at CUNYVM.CUNY.EDU  Thu Jul 13 03:15:02 1995
-From: GKIBB at CUNYVM.CUNY.EDU (gopal iyer)
-Date: Wed, 12 Jul 95 23:15:02 -0400
-Subject: tom coburn's query on email in India
-Message-ID: <161227020014.23782.2823378675276362574.generated@prod2.harmonylists.io>
-
+tom coburn's query on email in India
 With reference to Tom Coburn's query on email in and from India,
 a useful source is the South Asia Gopher itself.  There is a
 listing of ERNET sites in India provided and I believe that there
@@ -12,7 +7,6 @@ not aware of any in Mussorie.  It may be possible to go
 to an educational institution, identify the relevant authorized
 person (this may be the hardest part), get on to his/her
 email account, and telnet from there.
-
 When I was in Madras last December, I noticed some private
 commercial businesses that allowed you to get on to an ERNET
 account and connect all over from there.  These seemed to be
@@ -21,12 +15,5 @@ those who are not familiar, this a private commercial enterprise
 that lets you have mail box and allows you access to facilities
 such as UPS, etc.)  I never got to use one of these in Madras
 but some others on the list may have done so.
-
 Gopal Iyer  (GKIBB at CUNYVM.CUNY.EDU)
 Baruch College - CUNY
- 
-
-
-
-
-

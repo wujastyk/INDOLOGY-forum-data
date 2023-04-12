@@ -1,9 +1,4 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Tue Sep 26 00:16:23 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Tue, 26 Sep 95 00:16:23 +0000
-Subject: introduction of printing in India/scribal habits
-Message-ID: <161227020949.23782.4733448743856833395.generated@prod2.harmonylists.io>
-
+introduction of printing in India/scribal habits
 While reading on textual criticism of the New Testament and textual
 criticism in Tibetan Studies (i.e. research on the transmission of the
 Kanjur), I suddenly found myself asking when printing, i.e. mechanically
@@ -11,7 +6,6 @@ producing multiple copies of a text from one single original, was first
 introduced on the Indian sub-continent. By "printing", I refer not only to
 the printing presses of the industrial age, but also to pre-industrial ways
 of reproducing texts (e.g. equivalents to Tibetan woodblock-printing). 
-
 Another, bolder question refers to the specific environment of professional
 scribes in ancient India. 
 It struck me how much details we know about the scribal transmission of the
@@ -31,15 +25,6 @@ simple questions for a palaeographist, but during my brief sojourn in the
 Indological universe, I have never had the pleasure of meeting a "true"
 palaeographist, and neither have I come across any in-depth literature which
 would have provided answers to these questions. References, please....
-
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

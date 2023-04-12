@@ -1,13 +1,6 @@
-From jpo at austin.utexas.edu  Thu Jun 29 15:58:50 2017
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Thu, 29 Jun 17 15:58:50 +0000
-Subject: [INDOLOGY] Query
-Message-ID: <7E976B28-0A80-47D7-B423-2E61F1F44BFC@austin.utexas.edu>
-
+[INDOLOGY] Query
 Dear All:
-
 This is a question about preparing an index to each half-verse of a text using the first p?da (prat?ka). I have done many of these over the years, and I always used the proper word-ending at the end of each p?da, even though, because of Sandhi, the original may not have had that ending.
-
 So:
 ?? ?????????????????
 would appear as: ?? ????????????????:
@@ -16,17 +9,5 @@ And:
 as:
 ??????? ?? ?????????:
 Now I am questioning this practice, because the reason for an index is to identify a verse that one already knows. So why not give it in the Index just as it appears in the verse ? Sandhi and all??
-
 What do you all think?
-
 Patrick
-
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170629/3addf2fc/attachment.htm>
-

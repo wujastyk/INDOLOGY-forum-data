@@ -1,19 +1,5 @@
-From jds10 at CUS.CAM.AC.UK  Thu Nov  6 10:31:13 1997
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Thu, 06 Nov 97 10:31:13 +0000
-Subject: Question on bhRgus
-In-Reply-To: <971106015414_1895070025@emout07.mail.aol.com>
-Message-ID: <161227033497.23782.1328506203877317037.generated@prod2.harmonylists.io>
-
+Question on bhRgus
 On Thu, 6 Nov 1997, Sudalaimuthu Palaniappan wrote:
-
-> In the Buddhist texts, the term "bhaggava" is used to denote "potters".
-> Pali-English Dictionary gives the Sanskrit equivalent as "bhArgava" derived
-> from "bhRgu". Apparently, the Sanskrit form in this meaning occurs in MBh.
-> 1.190.47; Saddhp. 191 sq.,  and MVastu III.347. Obviously the MBh reference
-> is not from the critical edition. Are there other references where bhArgavas
-> are linked to potters? Thanks in advance.
-
 The MBh ref. in the critical edition is 1.182-185. The Pandavas return
 after Draupadi's svayamvara to tell Kunti what has happened: they enter
 "bhArgavasya nivezanam"/"bhArgavakarmazAlAm" and say "Look what we got!",
@@ -21,15 +7,8 @@ and Kunti replies without looking up, "Make sure you all share it!". The
 commentator Nilakantha (on the variant reading "bhArgavavezma tat" at
 crit. ed. 1.181.40) glosses this as "kulAlagRham" - "potter's house" - and
 this has been accepted by the translators Ganguli and van Buitenen.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

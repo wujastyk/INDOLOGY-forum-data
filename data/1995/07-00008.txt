@@ -1,11 +1,6 @@
->?From P.Friedlander at wellcome.ac.uk 04 95 Jul EDT 10:33:00
-Date: 04 Jul 95 10:33:00 EDT
-From: P.Friedlander at wellcome.ac.uk
-Subject: Font Encoding
-Reply-To: P.Friedlander at wellcome.ac.uk
+Font Encoding
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 A recent survey of educational institutions in the UK on how they dealt with 
 diacritical marks found that there were, and this is no surprise, no common 
 standards in use. One place even replied that they avoided buying materials 
@@ -21,9 +16,3 @@ do this? If there are already well known surveys of encoding usage please
 tell me where they are. But if, as I suspect, there are not then should not 
 one be compiled?
 Peter Friedlander 
- 
-
-
-
-
-

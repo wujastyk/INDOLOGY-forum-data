@@ -1,16 +1,10 @@
-From s._kalyanaraman at mail.asiandevbank.org  Wed Feb 15 08:03:43 1995
-From: s._kalyanaraman at mail.asiandevbank.org (s. kalyanaraman)
-Date: Wed, 15 Feb 95 08:03:43 +0000
-Subject: A. Villarroel's query
-Message-ID: <161227018538.23782.10673015711681098635.generated@prod2.harmonylists.io>
-
+A. Villarroel's query
 Mr. Lance Cousins raises a very valid point that lexical sources may derive from
 vernacular languages (this evokes the 'bhaaSaa' reference attributed to 
 PaaNini!). I agree that it will certainly be useful to give Pkt. and Skt. 
 references. Let me attempt to present some cognate etyma and references which I 
 can readily lay my hands on. A semantic cluster may be presented with the 
 following examples: 
-
 kaal = irrigation channel; streamlet; cf. carayuvum palakaalinOTiyum 
 (Kampa-raamaayaNam. NaaTTup. 60; Tamil); kaalaankarai = inlet to lands, lakes 
 etc. (Tamil. local usage); kaalaaRu = rivulet, stream (tEvaaram. 1227,3; Tamil);
@@ -34,7 +28,6 @@ emanates?) (KonkaNi); kallola = large wave, billow; kallolinii = a river:
 svarloka kallolini tvam paapam tirayaadhunaa mama bhavavyaalaa valiiDhaatmanah 
 (Gangaa Laharii, 50). cf. Rgveda ii.28.5: khaa = fountain, well; sa 
 raayaskhaamupa srjaa grNaanah 'nadiinaamaitat'; khaamrtasya 'nadeem'.
-
 Lexemes of South Asian languages are an important source of information on 
 patterns of semantic evolution in many spoken tongues (bhaaSaa) across the 
 sub-continent. It may also be reasonable to assume that many of these lexemes 
@@ -43,7 +36,6 @@ course, arguable that some information may be lost by translations: e.g., the
 English 'meaning' for the technical term: 'trench' may evoke variant 'images' in
 an English-speaker and in a Tamil-speaker (say as a trench around a fort or as a
 dug inlet to a field). 
-
 The common phonemic-strand across the kaal etc. morphemes in many tongues, can 
 be discerned: the core phonemic consonants may be : kh, l In the neural networks
 formed by the south asian-semantic-social-contract, the phonemes are likely to 
@@ -59,49 +51,16 @@ sparingly used; to complement text-based semantic analyses, it may be
 appropriate to draw upon discernible, common, comparative, phonemic and semantic
 strands/structures/clusters across languages. 
 s._kalyanaraman at ctlmail.asiandevbank.org
-
-     
-
-
-______________________________ Reply Separator _________________________________
-Subject: Re: A. Villarroel's query
+Re: A. Villarroel's query
 Author:  indology at liverpool.ac.uk at INTERNET
-Date:    14/02/1995 10:23 AM
-
-
 s._kalyanaraman writes:
-
->     I read with interest George Cordona's comment re: the earliest
->     Sanskrit term for canal/trench.
-
 There may well have been a number of terms.
-
 In Pali:
 At Dhs-a 269 mahaamaatikaa seems to be used (in a simile) to mean a 'great
 irrigation channel'.
 According to CPD udaka-magga means: 'a canal; the inlet and outlet of a tank'.
-
-> What are the other possible ancient terms for canal/trench?
->     Pkt. khalla, khAla = canal, creek, trench; Skt. khalla id.; kAl, kAlve
->     = water-course, channel, brook (Kannada); kAva = gutter; kAl-vA =
->     river mouth, irrigation channel (MalayALam); kAl, kAl-vAy = irrigation
->     channel (Tamil); kaZHi = ebbing brook (MalayALam), backwater (Tamil);
->     kaRna = canal (KonDa); karna = irrigation channel (Kuwi)
-
 Have you references to confirm khalla in Skt and Pkt ? Or do they only
 occur in lexical sources which may derive from the vernacular languages?
-
 Lance Cousins.
-
 MANCHESTER, UK
 Telephone (UK): 0161 434 3646
-
-
- 
-
- 
-
-
-
-
-

@@ -1,28 +1,15 @@
-From d.keown at goldsmiths.ac.uk  Thu Nov 10 17:19:21 1994
-From: d.keown at goldsmiths.ac.uk (d.keown at goldsmiths.ac.uk)
-Date: Thu, 10 Nov 94 17:19:21 +0000
-Subject: Journal of Buddhist Ethics Publication News
-Message-ID: <161227017778.23782.6961506905197203225.generated@prod2.harmonylists.io>
-
 Journal of Buddhist Ethics Publication News
-
+Journal of Buddhist Ethics Publication News
 (Apologies for any cross-postings)
- 
 The Journal of Buddhist Ethics is pleased to announce the publication of the
 following two items:
- 
 - - - - - - - - - -
 Item 1)
- 
 Research Paper:
- 
 A BUDDHIST ETHIC WITHOUT KARMIC REBIRTH?
- 
 Author: Winston L. King
 Publication Date: November 10th, 1994
- 
 ABSTRACT
- 
       Is a viable and authentic Buddhist ethic possible without the
 prospect of rebirth governed by one's karmic past? This paper explores
 traditional and contemporary views on karma with a view to determining
@@ -39,93 +26,58 @@ rebirth for Buddhist ethics in the West. The notion of "social
 given critical consideration. The conclusion is that a doctrine of
 karmic rebirth is not essential to a viable and authentic Buddhist
 ethic in the West.
- 
 ABOUT THE AUTHOR
- 
 Winston L. King is Emeritus Professor, Vanderbilt University
- 
 - - - - - - - - - -
 Item 2)
- 
 Bulletin:
- 
 SCHOLARLY BOOKS ON BUDDHIST ETHICS AND ETHICS-RELATED TOPICS
 PUBLISHED IN THE 1990s
- 
 This bulletin contains synopses of fourteen books published on Buddhist Ethics
 and Ethics-related topics in the 1990s.
- 
 - - - - - - - - - -
- 
 RETRIEVAL INSTRUCTIONS
- 
 Material published by the Journal of Buddhist Ethics may be read and retrieved
 via the World Wide Web, Gopher, or anonymous FTP.
- 
 1) WORLD WIDE WEB ACCESS
 A hypertext version is available via the following URL's:
- 
 http://www.cac.psu.edu/jbe/jbe.html
 http://www.gold.ac.uk/jbe
- 
 2) GOPHER ACCESS
 An ASCII text version is available from
- 
 Penn State University's Gopher:
-Type:           1
 Host:           ftp.cac.psu.edu
 Port:           70
 Selector:       1/jbe
- 
 or Goldsmiths' Gopher:
-Type:           1
 Host:           scorpio.gold.ac.uk
 Port:           70
 Selector:       1/jbe
- 
 or Coombsquest  Gopher:
- 
-Type:           1
 Host:           cis.anu.edu.au
 Port:           70
 Selector:      ftp:coombs.anu.edu.au@/coombspapers/otherarchives/
 electronic-buddhist-archives/buddhism-general/e-journals/jbe/
- 
 (please note  misleading wrap-around in the path listed above)
- 
 3) ANONYMOUS FTP ACCESS:
 An ASCII text version is available from
- 
 *USA  site:
 ftp.cac.psu.edu in
         the directory /pub/jbe or
- 
 *UK  site:
 ftp.gold.ac.uk
         in the directory /pub/jbe
- 
 *AUSTRALIA site:
 coombs.anu.edu.au
         in the directory
 /coombspapers/otherarchives/electronic-buddhist-archives/buddhism-general/
 e-journals/jbe
- 
 (please note misleading wrap-around in the path listed above)
- 
- 
 If you have difficulty in obtaining any item please contact the Journal's
 Technical Editor Dr. Wayne R.Husted (jbe-ed at psu.edu).
-
 *************************************************
 Damien Keown <d.keown at gold.ac.uk>
 Department of Historical & Cultural Studies
 University of London, Goldsmiths
 London UK, SE14 6NW                                                    
 *************************************************
-
- 
-
-
-
-
-

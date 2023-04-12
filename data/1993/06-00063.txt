@@ -1,32 +1,17 @@
-From ridgeway at blackbox.hacc.washington.edu  Tue Jun 29 23:29:15 1993
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Tue, 29 Jun 93 16:29:15 -0700
-Subject: update to outline fonts inventory on blackbox
-Message-ID: <161227015950.23782.15848577503092021403.generated@prod2.harmonylists.io>
-
+update to outline fonts inventory on blackbox
 I have today added to the pub/indic/outlines directory on
 blackbox.hacc.washington.edu two additional fonts:
    a) a prototype Velthuis Nagari
    b) a Greek font (yes! it is an indological language) based on
       Levy's metafont greek.
-
 As noted in the file UPDATES, the Nagari font is not actually usable
 at this point; there are some severe problems involved in encoding
 and possibly division of the font into 2 parts which I do not now,
 and may never, have the time to deal with.  I am making it available
 so that anyone with the requisite degree of interest may attempt a
 solution without having to start from zero.
-
 cheers,
 Tom
-
 NB: these files may be copied via (and only via) anonymous ftp:
     if you do not know how to do 'anonymous ftp' please contact
     a computer-support person at your institution for information.
--- 
- 
-
-
-
-
-

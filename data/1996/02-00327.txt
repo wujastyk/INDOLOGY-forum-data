@@ -1,42 +1,23 @@
-From ucgadkw at ucl.ac.uk  Thu Feb 29 11:13:03 1996
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 29 Feb 96 11:13:03 +0000
-Subject: Indology list , inquiry about digest version .
-Message-ID: <161227023086.23782.8454048838246153166.generated@prod2.harmonylists.io>
-
-
+Indology list , inquiry about digest version .
 International Buddhist Research and Information Center said:
-> Is there a digest version of the list ?
-
 Yes. In fact, the listserv software that INDOLOGY uses has quite a
 number of nice features that you might want to know about (like being
 able to turn INDOLOGY on and off when you are away for a few days,
 without having to unsubscribe completely, etc.).
-
 If you send the message
         help
 to the address
         listserv at liverpool.ac.uk
 you get information about the various controls that the software offers.
-
 The main command for this sort of thing is "set".  If you send the
 message
         help set
 to the above address, you get a response which includes how to tell
 INDOLOGY to send you not separate messages, but periodical
 newsletter-like groupings of messages.
-
 To get INDOLOGY digested, what you do is send the message
         set indology mail digest
 to the address
         listserv at liverpool.ac.uk
-
 Best wishes,
 Dominik Wujastyk
-
-
-
-
-
-
-

@@ -1,11 +1,5 @@
-From harryspier at HOTMAIL.COM  Mon Feb  7 01:22:48 2000
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Sun, 06 Feb 00 20:22:48 -0500
-Subject: Realisation of anusvAra in vedic recitation
-Message-ID: <161227055762.23782.15741738943156472131.generated@prod2.harmonylists.io>
-
+Realisation of anusvAra in vedic recitation
 Dear list members:
-
 I have two recitation tapes of the Rudram.  They follow the same text to the
 letter. (The chanting book that accompanies one of these tapes states that
 the text is from the Krishna Yajur Veda).  The two tapes follow the musical
@@ -14,75 +8,52 @@ syllables mid-tone, and svarita high tone. (see Madhav Deshpande's posting
 of Jan. 19, 2000 Re: Vedic Accent in Taittiriya samhita).  However the two
 tapes realize anusvAra before s,z,S,r and h in two completely different
 manners.
-
-
 In the following any accent signs will follow the syllable they apply to.
 Svarita is indicated by ' sannatara by _
-
 Tape A:
 AnusvAra before sibilants,r, and h is realized as the sound [gum] ( the one
 case in the Rudram of anusvAra resulting from sandhi of final n after A and
 before a vowel is also realized as [gum]) There are the following
 exceptions:
-
 Namakam section 1.
 ... higU'msIH_ purU'Sam_ jaga't |  i.e. [gUm]
 ahIgi'mzca_ sarvA"njambhayant_ ... i.e. [gim]
-
 Tape B:
 AnusvAra before sibilants,r, and h is realized as the sound [ga] ( the one
 case in the Rudram of anusvAra resulting from sandhi of final n after A and
 before a vowel is also realized as [ga]) There are the following exceptions
 :
-
 Namakam section 1.
 ... higu'sIH_ purU'Sam_ jaga't |  i.e. [gu]
 ahIgu'zca_ sarvA"njambhayant_ ... i.e. [gu]
-
 Namakam section 3.
 nama'H sRkA_vibhyo_ jighAgu' sadbhyo ... i.e. [gu]
-
 Namakam section 10.
 yAste' sa_hasrago' he_tayo_ ... i.e. [go]
-
 Namakam section 11.
 teSAgo' shasryo ja_neva_ ... i.e. [go]
 ...divago' ru_drA ...        i.e. [go]
 ...bhUyAgo sazca_ ...        i.e. [go]
 ...vi_zva bhe"Sa jo_yaM zi_vAbhi' marzanaH | i.e. [M]
-
 Camakam section 1
 ... parugu' Si ca me_ ... i.e. [gu]
-
 Camakam section 11
 ... sa_ptavigo' zatizca me_ ... i.e. [go]
 ... STAvigo' zatizca me_ ...    i.e. [go]
 ... dvAtrigo zacha me_ ...      i.e. [go]
 ... zaTtrigo' zacha me ...      i.e. [go]
-
 Wayne Howard in "Vedic Recitation in Varanasi" mentions something similar
 but it is for the mAdhyandina yajurveda recitation and not for the
 taittirIya samhita school. See page 123: "Another distinguishing feature of
 this recitation [mAdhyandina] is the pronunciation of anusvAra before z,S,s,
 and r as ghuM."
-
 Could any list members clarify for me the realization of anusvAra in vedic
 recitation.  Particularily as it applies to the krishna yajur veda and can
 they give me the explanation for the differences in the realization of tape
 A and tape B I've summarized above.
-
 Many thanks in advance,
-
 Harry Spier
 371 Brickman Rd.
 Hurleyville, New York
 USA 12747
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

@@ -1,20 +1,9 @@
-From reusch at UCLINK.BERKELEY.EDU  Sat Feb  8 23:38:23 2003
-From: reusch at UCLINK.BERKELEY.EDU (B. Reusch)
-Date: Sat, 08 Feb 03 15:38:23 -0800
-Subject: Fwd: Diacritical Fonts and Unicode Page [Mac]
-Message-ID: <161227072213.23782.17350520757219770906.generated@prod2.harmonylists.io>
-
-From: Nobumi Iyanaga <n-iyanag at ppp.bekkoame.ne.jp>
-Date: Sat Feb 8, 2003  7:51:53  AM US/Pacific
-Subject: Update of Asian Diacritical Fonts and Unicode Page [Mac]
-
+Fwd: Diacritical Fonts and Unicode Page [Mac]
+Update of Asian Diacritical Fonts and Unicode Page [Mac]
 Hello,
-
 I would like to annouce that I updated my web page entitled "East Asian
 Diacritical Fonts and Unicode". Here are some excerpts from that page:
-
 =========
-
 Now that Unicode begins to be used very largely in personal computing
 environment and Internet, it becomes important to be able to convert to
 Unicode files that have been created using "legacy codes". In general,
@@ -26,17 +15,12 @@ issues, please see my other web page "Unicode and MacOS, and Code
 converters"). But this becomes very hard when the texts to be converted
 use non standard fonts for transliteration of Asian languages, such as
 Times_Norman or Hobogirin, which have vowels with macron, etc.
-
 Tables of correspondences
-
 This is why I created tables of correspondences for some of the most
 used fonts among scholars...
-
 =========
-
 Now, you can download from my page conversion tables for the following
 fonts:
-
 Appeal                                  (you can download the font itself)
 BharatiTimes
 Hobogirin
@@ -46,25 +30,15 @@ MyTimes
 Normyn
 Times_Norman
 TimesCSXPlus TTF
-
 You will find also MacPerl converters for files written in these fonts
 into Unicode; and some other conversion tools and tips.
-
 I hope this will be useful for some of you.
-
 The URL is:
 <http://www.bekkoame.ne.jp/~n-iyanag/researchTools/
 diacriticalfontsandunicode.html>
-
 Best regards,
-
 Nobumi Iyanaga
 Tokyo,
 Japan
-
 P.S.  I will post this message to H-Buddhism, PMJS and Nisus mailing
 list.  Please excuse me if you receive it more than once.
-
-
-
-

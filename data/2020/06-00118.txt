@@ -1,68 +1,18 @@
-From jean-luc.chevillard at univ-paris-diderot.fr  Mon Jun 15 13:53:03 2020
-From: jean-luc.chevillard at univ-paris-diderot.fr (Jean-Luc Chevillard)
-Date: Mon, 15 Jun 20 15:53:03 +0200
-Subject: [INDOLOGY] unicode grantha fonts
-In-Reply-To: <e8484d14-4a57-7625-ac96-f98423e5da38@mi.parisdescartes.fr>
-Message-ID: <576af5f2-fffb-03ba-159b-29092a5124bc@univ-paris-diderot.fr>
-
+[INDOLOGY] unicode grantha fonts
 Cher Fran?ois Patte,
-
 voici, gr?ce ? Vinodh Rajan, un lien qui devrait r?pondre ? votre attente
-
 <QUOTE Vinodh Rajan>
 Hi Jean-Luc,
-
 [...]
   You can download it directly from Google's repository in Github.
-
 https://github.com/googlefonts/noto-fonts/tree/master/phaseIII_only/unhinted/otf/NotoSansGrantha 
-
-
 https://github.com/googlefonts/noto-fonts/tree/master/phaseIII_only/unhinted/otf/NotoSerifGrantha 
-
-
-
 [...]
-
 You can always use Aksharamukha to convert Devanagari or IAST to Unicode 
 Grantha.
-
 http://aksharamukha.appspot.com/describe/Grantha
-
 V
-
 </QUOTE>
-
 Amicalement
-
--- Jean-Luc Chevillard (in M?ssen)
-
-
 https://twitter.com/JLC1956
-
-
 On 15/06/2020 10:28, Fran?ois Patte via INDOLOGY wrote:
-> Bonjour,
-> 
-> Can we found fonts for grantha (otf, ttf) coded in unicode according to
-> the unicode grantha chart?
-> 
-> I know a font: e-tamil-grantha which is coded according to the unicode
-> bengali chart, it would be better to have a font with grantha at its
-> right place.
-> 
-> Thank you.
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-> 
-
-
-
-
-
-

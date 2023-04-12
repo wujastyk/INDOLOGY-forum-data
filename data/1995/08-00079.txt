@@ -1,41 +1,21 @@
-From ucgadkw at ucl.ac.uk  Tue Aug 15 14:10:13 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 15 Aug 95 15:10:13 +0100
-Subject: CSX and OS/2
-Message-ID: <161227020339.23782.3955881082407388318.generated@prod2.harmonylists.io>
-
+CSX and OS/2
 Juergen Hanneder has kindly made available the files in
 the archive csx-os2.zip which facilitate the use of CSX fonts
 within OS/2 and the TeX environment.  Anyone using any of these
 platforms will find useful materials here.  Juregen's readme is as
 follows:
-
-
--------------------------------------------------------------------
 The files included in this package facilitate the use of Sanskrit with
 Emacs, AucTeX and Emtex (LaTeX2e) under OS2 by using the Classical
 Sanskrit Extended 8-bit character set.  The Installation and usage is
 described in the documentation, which can be produced by running
 LaTeX2e on install.ins and then two times on indology.drv.
-
 The article in tex-os2.tex may give a general idea. 
-
 All files are free software according to the GNU General Public Licence.
--------------------------------------------------------------------
-
 The archive may be retrieved from the INDOLOGY supplementary gopher,
   gopher-server.ucl.ac.uk, 
 or from the WEB site via 
   http://www.ucl.ac.uk/~ucgadkw/indology.html,
 or by plain old ftp from
   ftp.bcc.ac.uk:/pub/users/ucgadkw/indology.
-
 Thanks, Juergen,
-
 Dominik
- 
-
-
-
-
-

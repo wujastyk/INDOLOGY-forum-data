@@ -1,23 +1,9 @@
-From hspier.muktabodha at gmail.com  Thu Apr  2 21:45:56 2015
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Thu, 02 Apr 15 17:45:56 -0400
-Subject: [INDOLOGY] Accessing the NGMCP title list
-Message-ID: <CAPW7aQGZNbtnYLeEvm+jPmFvuR0GQiPnpdK7YsQc_sGi+UHHtQ@mail.gmail.com>
-
+[INDOLOGY] Accessing the NGMCP title list
 Dear list members,
-
 I tried to access the NGMCP catalogue title list through this link from
 their website:
 http://catalogue.ngmcp.uni-hamburg.de/
-
 but it gives me "page unavailable".  Is there another link to the title
 list that works.
-
 Thanks,
 Harry Spier
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150402/fed0e622/attachment.htm>
-

@@ -1,26 +1,11 @@
-From hellwig7 at gmx.de  Wed Mar  4 14:24:24 2020
-From: hellwig7 at gmx.de (Oliver Hellwig)
-Date: Wed, 04 Mar 20 15:24:24 +0100
-Subject: [INDOLOGY] Vedic treebank
-Message-ID: <c31e9a39-2544-07f2-fadc-19163c7248e9@gmx.de>
-
+[INDOLOGY] Vedic treebank
 Dear all,
-
 for those interested in Vedic syntax: There is now a treebank of ~4,000
 text lines from Vedic metrical and prose text; hopefully growing in the
 future.
-
 The paper describing the treebank, the treebank itself and additional
 material such as syntactic labeler using (flat) deep learning can be
 found here:
 https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec
-
 Best, Oliver
-
----
 Oliver Hellwig, IVS Z?rich
-
-
-
-
-

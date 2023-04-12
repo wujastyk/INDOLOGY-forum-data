@@ -1,15 +1,5 @@
-From mahadevasiva at HOTMAIL.COM  Sat Mar 14 05:06:51 1998
-From: mahadevasiva at HOTMAIL.COM (S Krishna)
-Date: Fri, 13 Mar 98 21:06:51 -0800
-Subject: Indian Philosophy and Mathematics
-Message-ID: <161227036654.23782.18007287157444842982.generated@prod2.harmonylists.io>
-
+Indian Philosophy and Mathematics
 Dr Antreas Hatzipola asks:
->
->1. Which was the role of the Indian Philosophy (Brahmanism)
->in great S. Ramanujan's Mathematics?
-
-
 AFAIK, Ramanujan was a deeply religious person who brought in his family
 diety, nAmagiri,( the consort of narasimha in nAmakkal) into
 every mathematical discussion...one of his early feats( not an original
@@ -20,7 +10,6 @@ something like the Mc Laurin series expansion of
 be : "nAmagiri said so"/"nAmagiri appeared to me in my dream and wrote
 it on a blackboard"( The last statement also occurs in some of his
 theorems in number theory)
-
   I don't think ( based on my perusal of "The Man who knew Infinity",
 "The collected letters and papers of Ramanujan" and S.R.Ranganathan's
 book on Ramanujan) that he directly used  Hindu philosophy in any of his
@@ -29,12 +18,7 @@ mystical significance of certain series e.g.N= (2**n) -1; for n=1
 , we get N=1 i.e. God, for n=2, we get N=3 i.e. the trinity, n=3, N=7
 (saptarsi) etc etc. but this seems to be a simple interpretation instead
 of any new mathematical truth.
-
-
->
->2. Are there influences of Indian Philosophies on Modern Mathematical
 Theories/inventions?
-
 I am not a  mathematician professionally, but have a very healthy
 interest in mathematics and specially in number theory. As a result of
 perusing papers,I have therefore seen very few SPECIFIC MENTIONS of
@@ -47,22 +31,12 @@ office of :-) Albert Einstein and tried to get Einstein to read it;
 Einstein went thru it once or twice and returned it as being a little
 too complex for him to understand and being outside his field of
 expertise.
-
   I am speculating here, but there COULD be some related work ( in this
 context)by one Dr Erakkal Chandy George Sudarshan, a prof at UT Austin,
 AFAIK. I remember reading in a newspaper report some 7-8 years ago that
 he was deeply influenced by Hinduism in both his personal
 and professional life; but then newspapers aren't the best sources for
 scientific research.
-
 Hoping to help,
 Krishna
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

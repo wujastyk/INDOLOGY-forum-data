@@ -1,17 +1,4 @@
-From dom at uclblr.iisc.ernet.in  Sun Feb 19 09:54:39 1995
-From: dom at uclblr.iisc.ernet.in (Dominik Wujastyk)
-Date: Sun, 19 Feb 95 09:54:39 +0000
-Subject: ascii encoding for Vedic?
-Message-ID: <161227018627.23782.13280430552154482822.generated@prod2.harmonylists.io>
-
+ascii encoding for Vedic?
 CSX was designed to have all the accent/vowel combinations necessary for
 Vedic.  I would be grateful to hear of any shortcomings.
-
 Dominik
-
- 
-
-
-
-
-

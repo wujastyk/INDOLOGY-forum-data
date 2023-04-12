@@ -1,38 +1,22 @@
->?From P.Friedlander at wellcome.ac.uk 25 95 Jul EDT 13:50:00
-Date: 25 Jul 95 13:50:00 EDT
-From: P.Friedlander at wellcome.ac.uk
-Subject: re: Sorting Devanagari text
-Reply-To: P.Friedlander at wellcome.ac.uk
+re: Sorting Devanagari text
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 The sorting of Devanagari text into dictionary order is a subject I had to 
 address in work I have done on creating catalogues of Hindi manuscripts.
-
 I also translated the text into an artificial third party transliteration 
 where I found that each 'letter' in the sort needed to represent three 
 aspects of the letter, the sort sequences of: its base value, initial vowel 
 or consonant, a mAtrA value and a nasality value. Using these values for 
 each aksara in the Devanagari a sort string can be generated which can be 
 sorted normally.
-
 I wrote a Turbo Pascal utility program that sorts Hindi text in Devanagari 
 (Typed in a Devanagari font called MaharastriMedium from BrahmiType) into 
 dictionary order. If anyone else happens to use this font and wants to sort 
 Hindi (and *maybe* it would work for Sanskrit) text I'd be happy to make the 
 utility available to them.
-
 However, it is clear that sorting Sanskrit may present more difficulties, as 
 mentioned by Gerard Huet, than sorting Hindi.
-
 Also as we all seem to use different Devanagari fonts (and encodings) and 
 different Roman transliteration font encodings it seems that the problem of 
 how to sort Devanagari will be around for a long time!
-
 Peter Friedlander
- 
-
-
-
-
-

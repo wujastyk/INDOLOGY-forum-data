@@ -1,32 +1,12 @@
-From ucgadkw at UCL.AC.UK  Sat Sep 20 09:25:15 1997
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sat, 20 Sep 97 10:25:15 +0100
-Subject: Help Wanted
-In-Reply-To: <Pine.A41.3.95q.970919155421.143432A-100000@sp2n17.missouri.edu>
-Message-ID: <161227032676.23782.2016175296211063520.generated@prod2.harmonylists.io>
-
+Help Wanted
 On Fri, 19 Sep 1997, Rahul Arora wrote:
-
-
->  we are looking for a way so that we can convert this romanised english
-> book to devanagari font without using the keyboard. if anyone knows
-> anything about it please help us out.  thanks
-
 This is easily done using TeX or LaTeX together with the Devanagari font
 and pre-processor by Charles Wikner.  See the INDOLOGY file archives
 (via http://www.ucl.ac.uk/~ucgadkw/indology.html) and the Comprehensive
 TeX Archive Network (CTAN) at ftp://ftp.tex.ac.uk under
 tex-archive/languages
-
-
 All the best,
 Dominik
-
---
 Dominik Wujastyk               Wellcome Institute for the History of Medicine
 email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
 <URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
-
-
-
-

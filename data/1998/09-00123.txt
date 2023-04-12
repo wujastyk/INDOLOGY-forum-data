@@ -1,24 +1,16 @@
-From kalyan99 at NETSCAPE.NET  Mon Sep 28 16:28:02 1998
-From: kalyan99 at NETSCAPE.NET (Dr.S.Kalyanaraman)
-Date: Mon, 28 Sep 98 09:28:02 -0700
-Subject: [Devi-mahatmya] and writing diacriticals in ASCII
-Message-ID: <161227041496.23782.2804974536548420694.generated@prod2.harmonylists.io>
-
+[Devi-mahatmya] and writing diacriticals in ASCII
 Tim Cahill wrote: [snip]> Finally, note that in giving names and titles I
 dispense with diacritical> conventions, hoping that we all can supply these in
 cases such as> Ramayana, Markandeya Purana and the like. I urge others to
 consider> following suit, since reading things like kRSNa tires my eyes. (Of
 course,> for textual passages we have no choice...)>
-
 A comment on writing Indian scripts using email text. While Harvard and Kyodo
 have a joint convention using capitals for sounds such as N R S T...
 I have found a simpler method and less of a strain on the eyes. Following the
 earlier transliteration practices of affixing diacritical marks on tops of the
 english alphabet, I sugges the following simple rule (which I have used for
 the entire Indian Lexicon at the Sarasvati web):
-
 Affix the diacritical following the english alphabet.
-
 For example, 
 A can be written as a_
 S as s.
@@ -27,15 +19,6 @@ N as n.
 T as t.
 R as r.
 A half-nasal Hindi haa:n as ha~_ Tamil ZH as r..
-
 Best regards,
 Kalyanaraman
-
-
-
-____________________________________________________________________
 More than just email--Get your FREE Netscape WebMail account today at http://home.netscape.com/netcenter/mail
-
-
-
-

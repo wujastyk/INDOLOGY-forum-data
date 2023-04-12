@@ -1,16 +1,6 @@
-From Ev.DeClercq at RUG.AC.BE  Tue Jul 22 08:16:20 2003
-From: Ev.DeClercq at RUG.AC.BE (Eva De Clercq)
-Date: Tue, 22 Jul 03 09:16:20 +0100
-Subject: Sanskrit word order sort program ?
-Message-ID: <161227072978.23782.12334556762680282243.generated@prod2.harmonylists.io>
-
+Sanskrit word order sort program ?
 I have a macro for word to sort that works for CSX+. The person that wrote
 this macro is currently finishing a newer "teachable" version in which you
 first yourself enter the order of the characters you wish to sort. This
 should work on any language and font.
-
 Eva De Clercq
-
-
-
-

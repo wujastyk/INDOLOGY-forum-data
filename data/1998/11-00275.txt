@@ -1,62 +1,12 @@
-From hart at POLBOX.COM  Thu Nov 12 00:54:50 1998
-From: hart at POLBOX.COM (Artur Karp)
-Date: Thu, 12 Nov 98 01:54:50 +0100
-Subject: Horses and chariots again.
-In-Reply-To: <366211f4.105718323@mail.wxs.nl>
-Message-ID: <161227042642.23782.17091997964791186022.generated@prod2.harmonylists.io>
-
+Horses and chariots again.
 At 23:30 11.11.98 GMT, you wrote:
->Artur Karp <hart at POLBOX.COM> wrote:
->
->>While commenting on PSl >v^e^za< (I do not know how to use standard ASCII
->>characters to produce diacritical marks necessary to represent sounds in
->>Slavic languages; in this case ^ should be reversed and imagined not before
->>but over e and z) - meaning "tower" in modern Czech, Slovak and Polish - V.
->>Machek [Etymologicky slovnik jazyka ceskeho, Praha 1971] makes an
->>interesting remark that connects >wegh< with sleds:
->
->See also Old Norse <vo,g> "lever", pl. <vagar> "sledge", <vo,gur>
->"litter, stretcher, bier".
->
->The root *wegh- is also occasionally connected with aquatic means of
->transportation, as in Skt. vahitra-.  English "weigh" and "way" are
->neutral as to the means, and only imply that something is carried
->from A to B.  German/Dutch bewegen "to move" is even less specific.
->Still, the fact that so many words in this family refer specifically
->to *veh*icles and *wagg*ons does seem to imply an original meaning
->like "to carry using some means of transportation (stretcher,
->sledge)" as opposed to plain *bher- "to carry"
->
->For what it's worth, Gamq'relidze and Ivanov mention a Finno-Ugric
->root *weGe- ~ *wiGe- "to carry, to bring".
->
->
->=======================
->Miguel Carrasquer Vidal
->mcv at wxs.nl
->Amsterdam
->
->
-
-------------------------------------------------------------------
-
 Also for what it's worth - Machek [ESJC, pp. 685, 688] would want to see
 reflexes of two IE roots here:
-
 *weg'h - "to go (using means of transportation); to convey by cart or sled"
-
 *wegh - "to move (rapidly)" [akin to G. >bewegen<]
-
-
 He connects the All-Slavic >veslo< - "paddle, oar" - not with *weg'h (as is
 commonly accepted, veslo <-- *vez-slo), but with *wegh (veslo <-- *veg-slo,
 -slo being a suffix used to create words denoting tools).
-
 The meaning of >veslo< wouldn't then be "instrument of conveying", but
 rather "instrument of moving".
-
 A. Karp
-
-
-
-

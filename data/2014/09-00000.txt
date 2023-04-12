@@ -1,32 +1,9 @@
-From gruenen at sub.uni-goettingen.de  Mon Sep  1 10:03:49 2014
-From: gruenen at sub.uni-goettingen.de (Gruenendahl, Reinhold)
-Date: Mon, 01 Sep 14 10:03:49 +0000
-Subject: [INDOLOGY] GRETIL update #443
-Message-ID: <044C4CE033BD474EBE2ACACE8E4B1D949C6B5575@UM-excdag-a02.um.gwdg.de>
-
-
+[INDOLOGY] GRETIL update #443
 GRETIL is pleased to be able to report the following addition(s) to its collection:
-
-
 Angirasa-Smrti: plain text / text with pada markers / pada index:
 http://gretil.sub.uni-goettingen.de/gretil.htm#Angirasas
-
-
 Cumulative pada index of metric Dharma texts: Angirasa-Smrti added:
 http://gretil.sub.uni-goettingen.de/gretil.htm#DharmaPI
-
-
-
-__________________________________________________________________________
-
 "GRETIL is intended as a cumulative register of the numerous download sites for electronic texts in Indian languages." (from the 2001 "mission statement")
-
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
-
 http://gretil.sub.uni-goettingen.de/gretil.htm
-
-
-
-
-
-

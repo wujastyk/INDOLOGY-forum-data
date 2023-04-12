@@ -1,23 +1,14 @@
-From EVERSON at IRLEARN.UCD.IE  Fri Sep 17 18:57:05 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Fri, 17 Sep 93 18:57:05 +0000
-Subject: Report on Unicode Proposed Encoding for Tibetan and Sinhalese
-Message-ID: <161227016144.23782.11787014752226448857.generated@prod2.harmonylists.io>
-
+Report on Unicode Proposed Encoding for Tibetan and Sinhalese
 Everson Gunn Teoranta
 15 Port Chaeimhghein I/ochtarach
 Baile A/tha Cliath 2, E/ire
 +353 1 478-2597
 everson at irlearn.ucd.ie
- 
 17.ix.93
- 
- 
 The Unicode Consortium
 1965 Charleston Avenue
 Mountain View, CA 94043
 USA
- 
 Upon review of Unicode Technical Report #2, the Preliminary Draft
 Proposals for Tibetan and Sinhalese encoding, I offer below the
 following recommendations. The chief recommendation is that both
@@ -26,21 +17,15 @@ encoding for Brahmi-derived scripts in order to facilitate transfer of
 texts written in the Sanskrit and Pali languages to the other
 Brahmi-derived scripts in which these two languages are commonly
 written.
- 
 I trust that these comments will be of use. Thank you for giving me the
 opportunity to review this material.
- 
      Michael Everson
      Director
- 
 cc: Rick McGowan
 cc: Tibetan Language Committee, Lhasa
- 
 REPORT ON UNICODE PROPOSED ENCODING FOR TIBETAN AND SINHALESE
- 
 1.0 Tibetan and Sinhalese scripts should have ISCII-parallel encodng to
 support the Sanskrit and Pali languages.
- 
 1.1 The corpus of Sanskrit and Pali literature is enormous (estimated
 to be larger than all of Classical Greek and Latin combined). Sanskrit
 in particular occupies a unique position among world languages in that
@@ -57,7 +42,6 @@ and Pali), and the Unicode Draft Proposal for Khmer suggests that
 either Thai-parallel encoding or ISCII-parallel encoding might be
 appropriate "for political reasons". (I favour ISCII for Khmer because
 its script is so Brahmi-conformant.)
- 
 1.2 ISCII-parallel encoding facilitates text transfer. Because Sanskrit
 stands in the unique position of being the _only_ language in the world
 which is/has been commonly written in _more than ten_ scripts, the
@@ -77,7 +61,6 @@ considered an _a priori_ advantage for Sinhalese, as both Sinhalese and
 Tamil are used in Sri Lanka.) For Sanskrit and Pali, the whole body of
 traditional literature could (and should) benefit from the same
 facility.
- 
 1.3 ISCII-parallel encoding does not impede processing in Tibetan or
 Sinhalese. Obviously the most important use made of the Tibetan and
 Sinhalese scripts is to write Tibetan and Sinhalese. The arguments
@@ -102,7 +85,6 @@ syllable-by-syllable basis. "Natural" sorting order is of no particular
 utility for Tibetan; I give below in an appendix Hannah's summary of
 Tibetan sorting rules and an example of the sort of the letter KA in
 Das' dictionary.
- 
 1.4 Sorting Sanskrit and Pali is simpler with ISCII-parallel encoding.
 The significant advantage of ISCII-parallel encoding for Tibetan and
 Sinhalese is that only one sorting algorithm will need to be written
@@ -125,7 +107,6 @@ words; LHA is an exception in that it is used in Tibetan but not
 Sanskrit (Hannah 1912:18). Precomposed initial vowels (A, AA, I, II, U,
 UU etc.) might not be used for the Tibetan language itself, but are
 necessary for painless reversible script transfer
- 
 1.5 The relation of Tibetan TSEG to Sanskrit requires more
 investigation. Reversible transfer of text between ISCII-conformant
 Sinhalese and the other ISCII-conformant scripts presents no problem.
@@ -138,7 +119,6 @@ have the TSEG appear as a presentation form. In order to see if this is
 feasible, I am going through my Tibetan dictionary taking down Sanskrit
 words so that I can compare the two. At first glance it looks as though
 a virama solution could work for Sanskrit in Tibetan script.
- 
 Another possible solution involves adding an invisible TSEG character
 to the rest of the ISCII-conformant scripts to make them compatible
 with Tibetan-script encoded Sanskrit texts (the unused first codepoint
@@ -153,7 +133,6 @@ vowels and consonants would be represented accurately in parallel. The
 implications for multi-script publishing, glossaries, and databases
 which could be transparently accessed with a script filter, and so
 forth, makes it well worth investigating this matter further.
- 
 1.6 Multi-script publishing of Sanskrit and Pali is a significant
 concern. Scripts do not exist in a vacuum, and have no value in
 themselves except insofar as they are used. It can be easily seen that
@@ -167,7 +146,6 @@ envision a simple script filter utility that could that transliterate
 and display text on CD-ROM _without reencoding_ the text for languages
 like Sanskrit or Serbocroation which are commonly written in multiple
 scripts.
- 
 On 1 July 1993, Ashok Aklujkar (aklujkar at unixg.ubc.ca) said on the
 Indology list:
 "While the Sanskrit and Prakrit scholars at Indian institutions of
@@ -192,11 +170,9 @@ Galaxy Printers, Alankar Chambers, Dhebar Chowk, Rajkot 60 001. Mr.
 Modi was looking for a Naagari sorting program for the Macintosh and
 may have prevailed upon some computer programmer by now to develop one
 for him and for the Muni's work."
- 
 Prakrit dialects are closely related to Sanskrit and Pali and Jain
 literature would benefit from implementation of ISCII-encoding of the
 Tibetan and Sinhalese scripts as well.
- 
 On 15 September 1993 Michael Witzel (witzel at husc3.harvard.edu) said on
 the Indology list:
 GOOD NEWS FROM THAILAND for all interested in Buddhism and Indian
@@ -207,7 +183,6 @@ in the spirit of the teaching and propagation of Buddhism. All those
 interested in receiving a copy of the text should write to: Nicolas C.
 Wood, c/o Dattajivo Bhikkhu, The Dhammakaya Foundation, Pathumthani
 12120 Thailand; or send an e-mail message c/o witzel at husc3.harvard.edu.
- 
 I have not as yet received an answer as to what format these texts are
 encoded in,, but it will certainly be available in ISCII at some stage.
 It seems to me that it would be contrary to Unicode principles to make
@@ -220,7 +195,6 @@ as the Pali Tipit.aka (the Theravada Buddhist Canon, comparable to the
 Judeo-Christian Bible but closer to the size of the Encyclopaedia
 Britannica) could be made available, eventually, in a format which
 could be read by anyone with an appropriate script filter.
- 
 I urge the members of the Unicode Consortium to discuss the question of
 Sanskrit and Pali encoding with their colleagues in Tibet and Sri
 Lanka. I am forwarding a copy of this report to the Indology list
@@ -236,36 +210,27 @@ encoding Tibetan and Sinhalese. I am sure that such proposals have been
 submitted previously, but as I have not seen any I thought it best to
 do so. I will also have looked a little more thoroughly at TSEG and
 hope to offer some examples for discussion.
- 
 I look forward to further discussions of these points.
- 
   Michael Everson
- 
 References:
 Das, Sarat Chandra. 1902, 1976. _A Tibetan-English dictionary, with
 Sanskrit synonyms._ Rev. and edited under the orders of the Government
 of Bengal by Graham Sandberg and A. William Heyde. Delhi : Motilal
 Banarsidass.
- 
 Hannah, Herbert Bruce. 1912, 1985. _A grammar of the Tibetan language,
 literary and colloquial._ With copious illustrations, and treating
 fully of spelling, pronunciation and the construction of the verb, and
 including appendices of the various forms of the verb. Delhi: Motilal
 Banarsidass.
- 
 Appendix on Tibetan sorting (Hannah 1912:55-57):
- 
 [I have tried to follow the traditional transliteration of Tibetan for
 Hannah's Tibetan examples and have modernized the format somewhat. For
 7-bit transmission, I use _ for MACRON BELOW, * for DOT BELOW, / for
 MACRON ABOVE, and @ for DOT ABOVE. Syllable boundary is represented by
 a hyphen. The hardcopy is set in Tibetan as well as transliteration]
- 
 "#23. Use of the Tibetan Dictionary
- 
 The following appears to be the way in which the words in a Tibetan
 dictionary (TSHIG-M_DSOD_) are arranged.
- 
 1. According to the order of the KA/-LI, or Consonantal Series of the
 KA-KHA, regarded as Initials, or as they are sometimes called, Root
 letters, with the inherent vowel-sound of A. The first thing,
@@ -273,66 +238,42 @@ therefore, that the student has to do, when he wants to look up a word,
 is to ascertain what its initial letter is.
   Then the words under each consonant, beginning for instance with KA,
 are arranged thus:
- 
 2. The simple consonant, e.g. KA.
- 
 3. The simple consonant with subjuncts like H_A, WA-ZUR, or
 S at A-LOG-KHA, e.g. LWA-BA 'woollen blanket'
- 
 4. The simple consonant with affixes, single and double, for the order
 of which is as amongst themselves, see #16. [Order is GA, GA-SA, N at A,
 N at A-SA, DA, NA, BA, BA-SA, MA, MA-SA, H_A, RA, LA, SA)]
- 
 5. Next, according to the foregoing order as regards their consonants,
 words qualified by the vowel-signs GI-GU [I], SHABS_-KYU [U],
 H_KREN at -BU [E], S_NA-RO [O], in that order.
- 
 6. Simple consonant qualified by YA-B_TAGS_ alone.
- 
 7. YA-B_TAGS_ words in all orders down to 5, inclusive.
- 
 8. Simple consonant qualified by RA-B_TAGS_ alone.
- 
 9. RA-B at TAGS@ words in all orders down to 5, inclusive.
- 
 10. Simple consonant qualified by HA-B_TAGS_ alone.
- 
 11. HA-B_TAGS_ words in all orders down to 5, inclusive.
- 
 12. Simple consonant qualified by LA-B_TAGS_ alone.
- 
 13. LA-B_TAGS_ words in all orders down to 5, inclusive.
- 
 14. Foreign or other special words formed with the Reversed letters.
- 
 15. Words with the Prefixes GA, DA, BA, MA, and H_A in that sequence,
 and each sequence arranged according to the foregoing orders.
- 
 16. Consonant qualified by RA-M_GO.
- 
 17. RA-M_GO words according to foregoing orders.
- 
 18. Consonant qualified by LA-M_GO.
- 
 19. LA-M_GO words according to foregoing orders.
- 
 20. Consonant qualified by SA-M_GO.
- 
 21. SA-M_GO words according to foregoing orders.
- 
 22. No words with LA, as an Initial, and having any Superposed letter
 like RA or SA, need be looked for under LA. They will only be found
 under the head of the Superposed letter. Words in LA, however, are
 found with qualifying vowel-signs, and such words may be looked up
 under LA.
- 
 N.B. Csoma de Ko"ro"s's Dictionary is differently arranged." [This is
 the arrangement of Das' Dictionary, however.]
- 
 First syllables of the letter KA in Das' dictionary to illustrate sort
 order. In traditional transliteration. I have tried to be complete but
 cannot guarantee that this list is free of errors, either mine or Das'.
- 
 ka
 kak
 kako
@@ -674,15 +615,7 @@ b_s_kyed_
 b_s_kyod_
 b_s_krad_
 b_s_krun
- 
 ==========
- 
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
-
-
-
-
-

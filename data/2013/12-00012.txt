@@ -1,16 +1,8 @@
-From audrey.truschke at gmail.com  Sat Dec  7 22:48:47 2013
-From: audrey.truschke at gmail.com (Audrey Truschke)
-Date: Sat, 07 Dec 13 14:48:47 -0800
-Subject: [INDOLOGY] Sanskrit Dictionary App for iPhone and iPad
-Message-ID: <CAKq175obPDfxMDyJ6Bsr=AvD2uw=ubKUQzhLUPxAH5U+xn6zUA@mail.gmail.com>
-
+[INDOLOGY] Sanskrit Dictionary App for iPhone and iPad
 Dear Indology Folks,
-
 This announcement comes courtesy of Harpreet Singh at Harvard. Exciting
 news!
-
 *ANNOUNCEMENT: Sanskrit Dictionary App for **iPhone and iPad*
-
 Our national nightmare of lugging around Monier-Williams is finally over.
  We have just released a Sanskrit dictionary app for iPhone and iPad. The
 app, developed in the Harvard Innovation Lab, combines three major
@@ -22,14 +14,6 @@ keyboard.  Once downloaded, the app does not require internet access to
 operate. Special thanks to the faculty in Harvard's Department of South
 Asian Studies for their encouragement and support during the app's
 development.
-
 More Information: http://www.tinyurl.com/sanskrit-app
-
 If you missed the announcement about classical Hindi app for iOS and
 Android, you can learn about it here: http://tinyurl.com/hindi-app
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131207/26949e9e/attachment.htm>
-

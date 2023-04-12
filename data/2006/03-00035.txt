@@ -1,23 +1,8 @@
-From plamen at ORIENTALIA.ORG  Thu Mar  9 21:24:31 2006
-From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
-Date: Thu, 09 Mar 06 22:24:31 +0100
-Subject: Indian Syllogism
-Message-ID: <161227077582.23782.6143395034916616670.generated@prod2.harmonylists.io>
-
-> If something like modus tollens could be observed in their thinking, we have a straight forward
-> deductive system at play.
-
+Indian Syllogism
 Anvaya-vyatireki is a clear case of modus tollens.
-
 If there is smoke on the hill, then there is fire on the hill.
 There is no fire on the hill. 
 Therefore, there is no smoke on the hill.
-
 The absence of probandum (sAdhyAbhAva) here is contrapositively regarded as the vyApya (pervaded), while the absence of probans (sAdhanAtyaya) is correctly intuited in the third instance of parAmarZa as the vyApaka (pervading).
-
 Best regards,
 Plamen
-
-
-
-

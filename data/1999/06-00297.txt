@@ -1,49 +1,33 @@
-From thompson at JLC.NET  Mon Jun 14 18:02:05 1999
-From: thompson at JLC.NET (George Thompson)
-Date: Mon, 14 Jun 99 14:02:05 -0400
-Subject: Jamshid
-In-Reply-To: <v04011701b38ad0299b71@[128.174.52.170]>
-Message-ID: <161227050547.23782.5626940995133024815.generated@prod2.harmonylists.io>
-
+Jamshid
 While it is true that *zarathuStra* is generally understood as 'possessing
 old camels' [e.g., by Kellens & Pirart in their edition of the Old Avestan
 texts], others [notably Humbach in his edition and Mayrhofer in his volume
 on Old Iranian names] have continued to express reservations against this
 interpretation.
-
 The problem is that the theta in the name Zarathustra is assumed to have
 replaced the t with tilde underneath:
-
 zarath - uStra  < zarat~ -uStra
-
 As Humbach argues, the transformation from -th- to -t~- is expected in Late
 Avestan but *not* in early Avestan. Humbach speculates that the name of the
 prophet may indicate dialect mixture in Old Avestan texts, and the presence
 of another Iranian dialect distinct from Old Avestan which may well have
 been Z's 'mother tongue.'
-
 So, it seems that the interpretation of Zarathustra's name remains open.
 Humbach suggests three possibilities, which briefly are:
-
 1. possessing old camels
-
 2. possessing yellow camels [cf. Avest. *zairi* = Skt. *hari*]
-
 3. possessing furious camels [Avest. zar- = Skt. hR- [hRNIte], to be angry]
-
 As for Ahura MazdA, *mazdA* of course corresponds to Skt. *medhA'*, both
 meaning 'wisdom'. However, the folk etymology, Ahura MAyA, for Ahura MazdA,
 caught my eye, because in fact the word *mAiiA* is attested in Avestan,
 with the same meaning as Skt *mAyA'*. It occurs only once [in Z's Gathas],
 and it is directly associated with Vohu Manah, 'Good Mind', while MazdA
 occurs in the previous line [though not Ahura].
-
 So I take the folk etymology, Ahura MazdA = Ahura MAyA, as a response to
 Vedic associations between the words *a'sura* and *mAyA'* [fairly common].
 And there is the possibility that the same or similar association was made
 in Avestan [this cannot be claimed for sure because the term unfortunately
 occurs only once].
-
 In any case, one point may be worth the list's attention: the concept of
 mAyA seems by no means to be a unique development of the South Asian
 culture area. The Vedic Aryans appear to have brought this idea with them
@@ -51,5 +35,4 @@ as an inheritance from the common Indo-Iranian period. That at least
 appears to be suggested by the evidence, as I see it. Likewise for the
 culture concept mantra, for example, which is as deeply rooted in Avestan
 as it is in Vedic.
-
 Also, I do not think that Avestan words should be viewed as 'mleccha'

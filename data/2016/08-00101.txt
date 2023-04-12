@@ -1,77 +1,33 @@
-From jpo at austin.utexas.edu  Thu Aug 11 12:17:10 2016
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Thu, 11 Aug 16 12:17:10 +0000
-Subject: [INDOLOGY] Query
-In-Reply-To: <D3D15DD7.2AEEB%lubint@wlu.edu>
-Message-ID: <5CC6C300-CA54-4296-B3BC-5AC36F2553F8@austin.utexas.edu>
-
+[INDOLOGY] Query
 Thank you so much, Tim. This is exactly what I needed. We still have to find out why Skanda is called tilakasv?min, but the identity is clearly established, and clearly the Vulgate and Vij??ne?vara are wrong in their reading here. Thanks again.
-
 Best,
-
 Patrick
-
-
-
 On Aug 10, 2016, at 9:50 PM, Lubin, Tim <LubinT at wlu.edu<mailto:LubinT at wlu.edu>> wrote:
-
 Patrick
-
 V?caspati?s Bh?mat? on Brahmas?tra begins with some ma?galam  verses, one of which reads:
-
 m?rta??a-tilakasv?mi-mah?ga?apat?n vayam  I
 vi?vavandy?nnamasy?ma? sarvasiddhividh?yina?  || 4
-
 This parallels Vij??ne?vara?s "?ditya-skanda-ga?apat?n?m?
-
 Govind?nanda's Ratnaprabh?vy?khy? on BrS 3.3.1 is similarly introduced:
-
 m?rta??a? dhv?ntan???ya tilakasv?mina? mude |
 vighne?a? vighnavidhvastyai pra?am?mi muhurmuhu? ||
-
 Yours,
-
 Tim
-
 Timothy Lubin
 Professor of Religion and Adjunct Professor of Law
 Chair of the Department of Religion
 Washington and Lee University
 Lexington, Virginia 24450
-
 http://home.wlu.edu/~lubint
 http://wlu.academia.edu/TimothyLubin
 http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
 ?
-
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Patrick Olivelle <jpo at austin.utexas.edu<mailto:jpo at austin.utexas.edu>>
-Date: Wednesday, August 10, 2016 at 5:55 PM
-To: indology <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: [INDOLOGY] Query
-
+[INDOLOGY] Query
 In the Y?j?avalkya Sm?ti (1.290 ? but 1.294 in Vij??ne?vara?s enumeration and 1.292 in Apar?rka?s) we have the verse:
-
-
 ?dityasya sad? p?j?? tilakasv?minas tath? |
-
 mah?ga?apate? caiva kurvan siddhim av?pnuy?t ||
-
 My critical edition has the reading ?tilakasv?minas? following the Malayalam mss. and Vi?var?pa?s commentary. Vij??ne?vara and Apar?rka (as also all the Vulgate manuscripts) read ?tilaka? sv?minas?. Vij?? explains tilakam as: ?dityaskandaga?apat?n?m anyatamasya sarve??? v? tilaka? svar?anirmita? r?pyanirmita? v? kurgan. So he takes ?tilaka? as a forehead mark (ornament) made out of gold or silver and, probably, attached to a statue of one of these gods.
-
 If, however, Vi?var?pa is correct, and the verb kurvan has a single object ?p?j?m?, then we have the compound ?tilakasv?minas?, which nicely parallels ?mah?ga?apate??.
-
 My query is, has anyone seen the epithet ?tilakasv?min? applied to Skandia. I?d be much obliged for any comments on this.
-
 With thanks and best wishes,
-
 Patrick
-
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160811/d444246a/attachment.htm>
-

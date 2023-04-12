@@ -1,24 +1,10 @@
-From D.Wujastyk at ucl.ac.uk  Thu Sep  2 16:42:33 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 02 Sep 93 16:42:33 +0000
-Subject: Fw: TEI for Buddhist Text Database??
-Message-ID: <161227016114.23782.3890363173681401337.generated@prod2.harmonylists.io>
-
-
+Fw: TEI for Buddhist Text Database??
 This message from Christian Wittern was originally to the Text Encoding
 Initiative group, but I thought it might be of interest here in
 INDOLOGY.  I forward it with Christian's permission:
-
-------------------------------
-From: christian wittern <g53150 at SAKURA.KUDPC.KYOTO-U.AC.JP>
 Tue, 20 Jul 1993 19:22:11 CDT
-To: Multiple recipients of list TEI-L <TEI-L at UICVM.EARN>
-Subject: TEI for Buddhist Text Database??
-
-
-
+TEI for Buddhist Text Database??
 Hello,
-
 At the shaping stages for a large text database project, which eventually
 might include the whole Buddhist Canon in Chinese in several hundred
 volumes, I'm trying to establish if the TEI-Guidelines are applyable
@@ -38,20 +24,9 @@ for our project and need some advice.
    code such texts?
 4. Are there any complete examples of TEI conformant coded texts, which
    could be studied for reference.
- 
 Any help would be appreciated,
- 
 Christian Wittern,
- 
 Kyoto
- 
 International Research Institute for Zen-Buddhism,
 Hanazono College
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
- 
-
-
-
-
-

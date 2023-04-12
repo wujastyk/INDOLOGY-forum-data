@@ -1,39 +1,20 @@
-From sns at IX.NETCOM.COM  Tue Jan 19 23:18:32 1999
-From: sns at IX.NETCOM.COM (SNS)
-Date: Tue, 19 Jan 99 17:18:32 -0600
-Subject: need info....
-Message-ID: <161227045407.23782.12782242549858123601.generated@prod2.harmonylists.io>
-
+need info....
 Here's a request for info...
 Please respond directly to Dr.Kak
-
 =================================================================
-
-
 yamAtArAjabhAnasalagAm
-
 The word is a mnemonic and it gives all the
 combinations of guru and laghu syllables. Let laghu be
 0 and guru be 1, then we get
-
 0111010001
-
 and in combinations of 3 you are able to count all triplets.
 It is supposed to  have been used in the medieval (or perhaps
 ancient) times to remember all triple meters.
-
 Would you know a textual reference to this mnemonic? And
 could you pass this note on to someone who would? I would
 be willing to exchange reliable information with a copy
 of my new book.
-
 -Subhash Kak
 kak at ee.lsu.edu
-
 www.ee.lsu.edu/kak
-
 ==================================================================
-
-
-
-

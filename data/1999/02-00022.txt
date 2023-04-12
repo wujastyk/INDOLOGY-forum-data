@@ -1,41 +1,19 @@
-From george9252 at MSN.COM  Wed Feb  3 03:19:35 1999
-From: george9252 at MSN.COM (George Cronk)
-Date: Tue, 02 Feb 99 22:19:35 -0500
-Subject: Ontology of Ramanuja
-Message-ID: <161227045918.23782.13432774296353501302.generated@prod2.harmonylists.io>
-
+Ontology of Ramanuja
 Here is an excerpt from my SIX CLASSICS OF EASTERN PHILOSOPHY (Harcourt
 Brace 1998).  This document is written in Word 97.  It is my rendition of a
 portion of Ramanuja's SHRI-BHASHYA, in which he is criticizing Shamkara's
 "metaphysical idealism."  Ramanuja seems to be supporting a realist
 metaphysics and epistemology against Shamkara's alleged idealism.  Hope you
 can read it on your computer system.
-
 Dr. George Cronk
 Bergen Community College
 Paramus, NJ (USA)
-
------Original Message-----
-From: Martin Gansten <mgansten at SBBS.SE>
-To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
-Date: Tuesday, February 02, 1999 3:41 PM
-Subject: Re: Ontology of Ramanuja
-
-
+Re: Ontology of Ramanuja
 Dan,
-
 Thank you. I am trying to get hold of Gupta's book.
-
->In short, the world as acit has reality apart from consciousnesses because
->the  ultimate cause of materiality is Brahman, which is also the ultimate
->cause of consciousness (cit). Both cit and acit are produced from the same
->ultimate cause, while each operates within the causal dynamics of its own
->sphere.
-
 The reason I asked if this was your own opinion is that I find it a little
 difficult to reconcile with passages like the following (from the
 Vedarthasamgraha, ?17b, as translated by van Buitenen):
-
 "The individual soul is itself ensouled by Brahman, for the soul is a
 modification of Brahman because it constitutes His body, as appears from
 another sruti: '...whose body is the soul' etc. The *non-spiritual entities*
@@ -43,18 +21,13 @@ in the generic structures of a god, a man etc. *are modifications of this
 same individual soul* -- which is a modification of Brahman himself --
 because they constitute the soul's body. Consequently all these entities are
 ultimately ensouled by Brahman."
-
 Here, acit appears to be a modification of Brahman only mediately, by virtue
 of being a modification of the jiva (cit) which in turn is an immediate
 modification of Brahman. This model appears to me to have ramifications
 quite different from those of a model where cit and acit both evolve
 immediately from Brahman and exist independently of each other.
-
 Best regards,
 Martin Gansten
-
-
-
 begin 666 RamaReal.doc
 MT,\1X*&Q&N$`````````````````````/@`#`/[_"0`&```````````````!
 M````/P``````````$ ``00````$```#^____`````#X```#_____________
@@ -832,7 +805,3 @@ M````````````````````````````````````````````````````````````
 ?````````````````````````````````````````````
 `
 end
-
-
-
-

@@ -1,17 +1,5 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Tue Nov 15 10:49:42 1994
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Tue, 15 Nov 94 19:49:42 +0900
-Subject: Disk quotas
-Message-ID: <161227017821.23782.17746644585832486480.generated@prod2.harmonylists.io>
-
+Disk quotas
 Thank you for your warning.  I deleted more
 than hundred mails in order to get a room
 for new mail messages.
-
 Michio YANO
- 
-
-
-
-
-

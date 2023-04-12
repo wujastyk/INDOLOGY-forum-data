@@ -1,14 +1,8 @@
-From Gerard.Huet at INRIA.FR  Tue May 23 17:38:26 2000
-From: Gerard.Huet at INRIA.FR (Gerard Huet)
-Date: Tue, 23 May 00 19:38:26 +0200
-Subject: Mnemonics in Ancient India
-Message-ID: <161227058743.23782.1191858555921234573.generated@prod2.harmonylists.io>
-
+Mnemonics in Ancient India
 Re I don't think any language can be called inherently ambiguous, unless such
 a claim is based on some quantitative measure of, say, numbers of
 homonyms. Certainly Sanskrit is not any more inherently ambiguous than
 other languages.
-
 Well, the fact that Sanskrit insists on phonetic assimilation, through the
 use of sandhi, which glues all the words within a phonetic stream, poses an
 extra
@@ -20,7 +14,3 @@ recite
 the words backward in an english or french sentence you will not get extra
 information, but in Sanskrit you certainly do.
 GH
-
-
-
-

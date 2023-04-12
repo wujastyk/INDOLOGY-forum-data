@@ -1,12 +1,5 @@
-From k.harimoto at LET.RUG.NL  Tue Oct 12 15:27:30 2004
-From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
-Date: Tue, 12 Oct 04 17:27:30 +0200
-Subject: Yogasutras
-In-Reply-To: <5.0.2.1.2.20041012165032.00c128b0@cassandre.fltr.ucl.ac.be>
-Message-ID: <161227075074.23782.14068703815621303456.generated@prod2.harmonylists.io>
-
+Yogasutras
 The classic would still be:
-
 @BOOK{woods:hos,
    author =      "James Houghton Woods",
    title =       "Yoga-system of {P}ata{\~n}jali",
@@ -17,13 +10,6 @@ The classic would still be:
    address =     "Delhi",
    edition =     "3rd. reprint",
 }
-
 This includes translations of the Bhaa.sya and the .Tiikaa (of
 Vaacaspati).
-
---
 kengo harimoto
-
-
-
-

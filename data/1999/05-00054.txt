@@ -1,32 +1,11 @@
-From vsundaresan at HOTMAIL.COM  Wed May  5 01:32:13 1999
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Tue, 04 May 99 18:32:13 -0700
-Subject: Samkhyan terminology (was Re: A text dealing with Ayurveda)
-Message-ID: <161227048514.23782.14628207024672940059.generated@prod2.harmonylists.io>
-
+Samkhyan terminology (was Re: A text dealing with Ayurveda)
 Ferenc Ruzsa <f_ruzsa at ISIS.ELTE.HU> wrote:
-
-> > in [GB] 7.4 ... Note the explicit reference to a samyoga between avidyA
-> > and avyakta. So this is not classically sAMkhyan after all.
->To me it is not clear, why the equation ahaMkAra-vAsanA = avidyA or its
->connection with the avyakta would be specifically vedAntic; could it not be
->sAMkhyan (or even Buddhistic) as well?
-
 It is neither, because the same passage proceeds to label this eight-fold
 prakRti as 'aiSvarI mAyASakti'. I must also point out that Sankara gives
 avidyA a crucially causal function here, as he labels ahaMkAra (which is
 avidyAsaMyuktam avyaktam) as pravRtti-bIjam. Compare the sUtrabhAshya where
 Sankara describes avyakta as avidyAtmaka, bIjaSakti, parameSvara-ASraya,
 mAyAmaya etc.
-
->However it may be, zaGkara here seems to be clear about the purpose of his
->otherwise rather forced reinterpretation: "tanmAtram ucyate na sthUlA,
->'bhinnA prakRtir aSTadhA' iti vacanAt", i.e. he has to take the terms in an
->unusual sense, because they must be the eight prakRtis. And it is the SK 3
->and the commentarial tradition on it that defines the eight prakRtis as
->those tattvas that produce other tattvas according to the saMkhyan story of
->creation.
-
 Yes, the explanation seems forced, which is why Sankara seems to sound "more
 sAMkhyan" than the gItA here. However, you have to understand Sankara's
 comments on chapter 7 as an introduction to what he is going to say in
@@ -42,7 +21,6 @@ an inference, but he gives it a non-sAMkhyan, non-buddhist color, by
 simultaneously introducing ISvara. He proceeds to contast this 'lower
 prakRti' (the nature of the kshetra) with the 'higher prakRti' of ISvara,
 which is the nature of the kshetrajna.
-
 Thus, Sankara is equating the list of eight in 7.4 with the list of eight in
 13.5, and this is driven more by the internal logic of the text he is
 commenting upon, rather than the sAMkhya kArikAs. Verses 7.4 and 13.5 give
@@ -52,7 +30,6 @@ text of the gItA. One must also take into account that according to
 Sankara's commentary on the gItA, the word sAMkhya means different things in
 different places. All in all, it seems to me that Sankara is giving his
 readers new wine (advaita vedAnta) in an old bottle (sAMkhya terminology).
-
 Now, leaving Sankara aside, the question is one of the relative date of the
 kArikAs (i.e. ISvarakRshNa) vis-a-vis the bhagavad gItA. Which is earlier?
 And here we step into the realm of opinion. After a lot of discussion, we
@@ -62,14 +39,6 @@ sAMkhya kArikAs themselves presume a long prehistory of sAMkhya theorizing.
 I daresay that some of this pre-classical sAMkhya was more akin to the
 sAMkhya presumed in the gItA, than to what we know through the sAMkhya
 kArikAs and commentaries.
-
 Regards,
 Vidyasankar
-
-
-_______________________________________________________________
 Get Free Email and Do More On The Web. Visit http://www.msn.com
-
-
-
-

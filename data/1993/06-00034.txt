@@ -1,9 +1,4 @@
-From giuseppe at imiucca.csi.unimi.it  Sun Jun 20 13:38:40 1993
-From: giuseppe at imiucca.csi.unimi.it (carlo della casa)
-Date: Sun, 20 Jun 93 15:38:40 +0200
-Subject: true type for sanskrit reply
-Message-ID: <161227015893.23782.1064611790586440966.generated@prod2.harmonylists.io>
-
+true type for sanskrit reply
 for Lars Martin Fosse and David Nelson
 Will send the fonts through the mail as soon as I can. No need to mail diskettes
 We do not have any e-texts currently available that I know of - Giacomo Ferrari at Pisa was working on the Veda, but that was years ago... will check that out.
@@ -11,12 +6,5 @@ Alex Passi
 Universita' di Pisa, 
 Dipartimento di Linguistica
 Via Santa Maria 36, Pisa.
-
 Fax +39-50-44100
 Home address Via XX settembre 22, Milano.
- 
-
-
-
-
-

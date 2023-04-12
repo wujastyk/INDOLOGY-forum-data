@@ -1,9 +1,4 @@
-From jh at cubsps.bio.columbia.edu  Mon Apr 17 14:32:07 1995
-From: jh at cubsps.bio.columbia.edu (Jim Hartzell)
-Date: Mon, 17 Apr 95 10:32:07 -0400
-Subject: Computerized dictionaries
-Message-ID: <161227019140.23782.3963741031116699534.generated@prod2.harmonylists.io>
-
+Computerized dictionaries
 	Has anyone found a good program that interfaces with the PC version
 of Wordperfect and is suitable for recording vocabulary/terms in an 
 index-able format.  The program would need to be able to handle Sanskrit
@@ -20,9 +15,3 @@ characters.  Has anyone solved this already while still using Wordperfect?
 and inexpensive solutions.
 Thanks in advance,
 Jim Hartzell		jh at cubsps.bio.columbia.edu
- 
-
-
-
-
-

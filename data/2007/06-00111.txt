@@ -1,37 +1,12 @@
-From ph2046 at COLUMBIA.EDU  Mon Jun 18 17:24:26 2007
-From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
-Date: Mon, 18 Jun 07 13:24:26 -0400
-Subject: Finding Indological full-book PDFs on Google Books
-In-Reply-To: <p06240801c29c5ce1ccf9@[75.3.227.229]>
-Message-ID: <161227080627.23782.8877562402433769148.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 At 9:12 AM -0700 6/18/07, Jonathan Silk wrote:
->one does not need the full Acrobat to do this. There is a nifty little program
-
 great utility, Jonathan.  Thanks for the link (I have the full 
 version of Acrobat, so I sometimes forget what features are missing 
 in the "Reader").
-
->the question of the utility of time spent replacing pdf pages,
-
 True. Although I would argue that it's *still* faster than scanning 
 the original oneself.  But this leads me to a bigger issue, which 
 David Magier raised.
-
 At 7:08 AM -0400 6/18/07, David Magier wrote:
->one must use conservation techniques to extend the life of the book, 
->and/or duplication of the content onto a proven long-term storage 
->medium (and format) that will be usable many generations into the 
->future. This latter category includes microfilm (chemical/physical 
->studies say microfilm, properly produced and stored, will last and 
->be readable -- without any technology other than a lens -- up to 500 
->years from now), as well as archival-quality preservation 
->photocopying onto acid-free paper (which, properly bound, creates a 
->new copy of the book that should last many hundreds of years). Does 
->anyone really believe that the thousands of books being digitized 
->now are going to still be usable, as current-standard PDFs on their 
->hard drives or CD-ROMs, even 50 years from now??
-
 Certainly, but I don't think anyone would be foolish enough to think 
 that today's media will still be readable in the long-term or even 
 medium-term future.  I agree with you, in principle about the 
@@ -39,14 +14,7 @@ distinction, but don't think the issue should be one of
 "digitization" vs. "preservation", for precisely the same reason that 
 they're not comparable. Nonetheless, the first *can* be leveraged 
 into the second.
-
->the impact of the digitization process on fragile original books and 
->manuscripts.
     <snip>
->As librarians, we are concerned about preserving original materials 
->and content as part of the effort of preserving knowledge for future 
->generations.
-
 sure.  but students destroy books everyday by repeated photocopying 
 and libraries themselves likewise "destroy" books everyday ... by 
 which I mean binding and re-binding books which destroys their 
@@ -66,7 +34,6 @@ be clean, readable and useable, as opposed to much of what is still
 being produced to this day by conventional photographic means. 
 Anyone who has ever attempted to get a clean, readable image off of 
 microfilm knows exactly what I mean.
-
    The issue of data migration is not a small one and I am not trying 
 to trivialize or downplay the concerns you raise, but the simple fact 
 is that one needs to think about digital library issues in a much 
@@ -76,7 +43,6 @@ preservation" departments in libraries, with knowledgeable, trained
 staff (trained in *both* library and IT fields), rather than 
 relegating the job to often non-uniform (and often ad hoc) "tech 
 support" staff.
-
 It's one thing to complain about Google and other, perhaps less 
 reputable organizations taking on these tasks, but if librarians and 
 their institutions aren't willing to step up and take the challenge, 
@@ -87,9 +53,7 @@ meta-data is shoddy on most of these items, but so was (and still
 anyone would have argued that the retrospective conversion of card 
 catalogs should be held until the data was verified and corrected. 
 The situation with all this e-data seems comparable.
-
 This is why -- speaking as a researcher now rather than a librarian 
--- I maintain my own digital archive of books.  I take what I can 
 find on the web, download it, proof it for errors, retrieve the 
 original if need be, selectively re-scan pages, catalog and archive 
 for my own personal use.  It is my hope that someday there will be a 
@@ -102,48 +66,9 @@ this process be influenced in a more positive direction, since it
 seems clear that such digitization initiatives will take place with 
 or without input from the academic community.  I think "with" would 
 be better.
-
 Sorry if this has turned into a long-winded rant, but I feel these 
 *are* important issues that you raise, David, and think they really 
 need to be discussed.
-
 Paul Hackett
 Columbia University
-
-
-
-
-
-
 At 9:12 AM -0700 6/18/07, Jonathan Silk wrote:
->In re:
->
->>   you could just download only the pages that are corrupted in the 
->>Google version and replace them with the DLI Hyderbad images (I 
->>think you would need the "Full" version of Acrobat to do this, not 
->>just the reader).
->
->Leaving aside the question of the utility of time spent replacing 
->pdf pages, one does not need the full Acrobat to do this. There is a 
->nifty little program (sorry this time! Mac only :-) ) called 
->"Combine PDFs" which allows one to, as the web site says, "Drop some 
->PDF or picture files on the application or the main window. Reorder 
->or remove pages as you want. Enter some meta information like the 
->Title and save the new PDF."
->
->http://www.monkeybreadsoftware.de/Freeware/CombinePDFs.shtml
->
->It's nice and easy to use!  JAS
->--
->Jonathan Silk
->Department of Asian Languages & Cultures
->Center for Buddhist Studies
->UCLA
->290 Royce Hall
->Box 951540
->Los Angeles, CA 90095-1540
->phone: (310) 206-8235
->fax:  (310) 825-8808
->silk (at) humnet.ucla.edu
->
->

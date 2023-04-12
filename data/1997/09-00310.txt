@@ -1,29 +1,10 @@
-From ucgadkw at UCL.AC.UK  Sun Sep 21 14:22:06 1997
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sun, 21 Sep 97 15:22:06 +0100
-Subject: TeX and Babel.
-In-Reply-To: <Pine.OSF.3.96.970920190736.16245D-100000@saul3.u.washington.edu>
-Message-ID: <161227032687.23782.5816021732783025331.generated@prod2.harmonylists.io>
-
+TeX and Babel.
 On Sat, 20 Sep 1997, Anshuman Pandey wrote:
-
-> Speaking of TeX, Dominik, I recall that you once told me that you knew of
-> someone working on a Devanagari hyphenation pattern for Babel. Do you
-> happen to know what became of this project, and who was taking the brave
-> step?
-
 The person is Jun Takashima, who also developed the Kannada metafont and
 preprocessor.  Jun is a member of this list, so he may be able to let us
 know how things have progressed.
-
 All the best,
 Dominik
-
---
 Dominik Wujastyk               Wellcome Institute for the History of Medicine
 email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
 <URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
-
-
-
-

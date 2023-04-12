@@ -1,19 +1,6 @@
-From poo at GIASMD01.VSNL.NET.IN  Fri Nov 12 14:39:37 1999
-From: poo at GIASMD01.VSNL.NET.IN (RM.Krishnan)
-Date: Fri, 12 Nov 99 19:39:37 +0500
-Subject: Query: Etymology of sanskrit "aham - part 1"
-Message-ID: <161227053542.23782.18167397996630656259.generated@prod2.harmonylists.io>
-
+Query: Etymology of sanskrit "aham - part 1"
 At 11/10/99 8:13:00 AM, Mr.Didier wrote:
->Thanks to all of you for your helpfull and very various responses,
->and for the bibliography and the links.
->
->it is very interesting for me to see that many different hypothesis
->can be followed and the comparaison with dravidian languages is
->very  interesting.
-
 What follows is a long posting on 'aham'. I have split it into two.
-
 Instead of a novice like me adumbrating on the etymology of the Sanskrit word 'aham' comparing to the  Tamil
 pronouns, I thought it would be worthwhile to paraphrase a great Tamilologist. I am refering to G.Devaneyan
 (also called pAvANar - bard), Ex-Reader and Head, Dept. of Dravidian Philology, Annamalai University as given
@@ -21,28 +8,21 @@ in "The primary classical language of the world ". I have also included in some 
 short re-phrasings. This book, presently out of print, was published through private sources. Efforts of pAvANar
 in Tamil philology and etymology are immense and the  Indologists, especially the western ones,  have barely
 scratched his contributions let alone delve into them.
-
-----------------------------------------quote
 Deictic sounds in Tamil are three, viz., A, I (not to be pronounced as aye; actual pronunciation is like in Germanic
 languages other than English -Krishnan) and  U. These are also the primary long vowels. There are corresponding short
 vowels a, i and u.
-
 A or a is the remote demonstrative.
 I or i is the proximate demonstrative.
 U or u is the frontal demonstrative.
-
 All the three demonstrative sounds have originated, as per Tamil traditions, only as oral pointers. With the
 exception of the frontal demonstrative, which has become obsolete, all others are performing their functions in modern
 Tamil. (Apparently the pronouns have arisen out of the demonstratives. Excepting MalayALam, other Dravidian
 languages like Tamil, Telugu and Kannada also have the pronominal terminations of finite verbs in
 their modern rendering. In MalayALam, there is no such termination. So in every Tamil sentence you look for the
 pronoun and a confirmation through the pronominal ending.  - Krishnan).
-
 First person personal pronouns:
-
 Here the proximate demonstrative ' I ' changes over to a related vowel 'E'. The monosyllabic word E has a meaning
 of elation, elevation, erection, looking upward etc to express egoism, the most natural trait of human character.
-
 Singular            Singular                  Plural              Plural              Double plural      Double plural
 Nominative       Oblique base       Nominative    Oblique base  Nominative          Oblique base
 I st stage
@@ -54,7 +34,6 @@ yAn, I               en,my                       yAm, we       em, our          
  3 rd stage
 nAn, I               nan, my                    nAm, we       nam, our           nAngaL, we         nangaL, our
                                                          (Inclusive)    (Inclusive)          (Inclusive)           (Inclusive)
-
 (yAn and yAm exclude the party addressed and nAn and nAm include the same.) The nominative En and Em
 have become extinct, except as pronominal terminations of finite verbs, the former being common to both
 colloquial and poetic, and the latter restricted to poetic usage. yAn and yAm have become obsolete and highly
@@ -62,10 +41,7 @@ literary; and the oblique base nan extinct in Tamil, though preserved in Telugu 
 forms of personal pronouns are obtained by adding a plural suffix -kal to the singular pronouns and used for addressing
 respectable persons. The nominatives EngaL, has become extinct, and the forms yAngaL and nangaL obsolete. The
 form nAngaL is misused in the place of yAngaL.
-
-
 Second Person personal pronouns:
-
 Singular            Singular                  Plural                Plural               Double Plural   Double Plural
 Nominative      Oblique base          Nominative     Oblique base   Nominative      Oblique base
 I st stage
@@ -76,7 +52,6 @@ I st stage
 nIn, thou           nin, thy                     nIm, you      nim, your           nIngaL, thou      ningaL, thy
 4 th stage
 nI, thou             un, thy                     nIyir, you      um, your            nIngaL, thou      ungal, thy
-
 As the person addressed is in front of the speaker, the frontal demonstrative naturally formed the base of the
 second personal pronoun. There is reason to infer or suppose that there was an intermediate stage between the
 first and the third, with the forms yUn, thou and yUm, you. The nominatives Un, Um, nUn, nUm, and the oblique
@@ -88,13 +63,6 @@ formed by the addition of ar, the rational plural suffix of the third person, as
 the operation of the principle of harmonic sequence of vowels.  nIvir is an anomalous form of nIyir,
 and both of these have contracted into nIr, which has replaced nIm in the colloquial speech almost all over Tamilnadu.
 The nominatives UngaL and nUngaL have become extinct, and NingaL is preserved in Malayalam.
-
--------------------------------------Unquote
 Continued in the second part
-
 With regards,
 RM.Krishnan
-
-
-
-

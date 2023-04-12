@@ -1,33 +1,16 @@
-From mark.mcclish at northwestern.edu  Fri Oct 22 16:21:44 2021
-From: mark.mcclish at northwestern.edu (Mark McClish)
-Date: Fri, 22 Oct 2021 16:21:44 +0000
-Subject: [INDOLOGY] Khalatze inscription
-In-Reply-To: <CANAKvp1CTOqPqEROTWTtq-C8EKmzMHiWPthY5gLX4EjYcCYWug@mail.gmail.com>
+[INDOLOGY] Khalatze inscription
 References: <CANAKvp1CTOqPqEROTWTtq-C8EKmzMHiWPthY5gLX4EjYcCYWug@mail.gmail.com>
-Message-ID: <F9A3538B-2094-4609-8765-E1C33DA6FAD3@northwestern.edu>
-
 Thanks, Rich and Quentin, for lending your expertise. I?ll communicate to my colleague the uncertainty around the reading and dating, as well as the rich contextual information about the location and possible history of the inscription, which is very useful. It?s a happy coincidence that you?ve both just been working on it!
-
 Best,
 Mark
-
 On Oct 22, 2021, at 12:39 AM, quentin devers <qdevers at gmail.com<mailto:qdevers at gmail.com>> wrote:
-
 Hi Richard, Hi Mark,
-
 Thanks a lot for the forward, it is nice to see this picture that I wasn't aware of. I can't be of help of course for the reading of the inscription, but I'm happy to share any information I have on the context, location, etc.
-
 The inscriptions were at the bridge over the Indus near Khaltse (https://goo.gl/maps/izHtu7pg72YKipMv6<https://urldefense.com/v3/__https://goo.gl/maps/izHtu7pg72YKipMv6__;!!Dq0X2DkFhyF93HkjWTBQKhk!B-HTjGjxvgERjBBBZOEYkuS175qUQdL9Rx8rw63G3bSC4BI2kEZAYu6avPLFmrZNASHXb2DLQQ$>). A lot of the rocks have been destroyed in the last three decades, and as far as I've seen none of the Brahmi inscriptions have survived. There were several of them reported by Francke, as well as a bunch of Tibetan inscriptions left by soldiers of the Ngari Skorsum armies that conquered western Ladakh and Gilgit in the 11th century. These Tibetan inscriptions are found in several places along the Indus and others rivers, are most typically at the location of crossing sites, and are associated with a clear military context (soldiers were posted to guard the bridges, and had a lot of time to carve their names and ranks on the rocks). I mention this context because in Ladakh, the Brahmi and Kharoshti inscriptions are largely found at the same strategic crossing sites where we find the later Tibetan military inscriptions. This has made me wonder if these pre-Tibetan inscriptions, usually presented elsewhere as having been made by merchants and pilgrims, couldn?t in part also have been made by soldiers of whichever entity was in charge of guarding these bridges before the Tibetans came.
-
 More to the point of the possible time period of the Brahmi inscriptions at Khaltse, in the article with Richard we included pictures of two tamga-looking petroglyphs near Alchi and near the Indus-Zanskar confluence in Ladakh that are a bit like those on Kushan coins. And there?s been Kushan ceramic found on fortress sites in the western part of Ladakh.
-
 Not sure this helps a lot, but I'm here if needed for anything about the sites in the field.
-
 Best,
-
 Quentin
-
-
 [http://images.math.cnrs.fr/IMG/jpg/CNRSfilaire-grand.jpg]
 Quentin DEVERS
 Permanent Researcher
@@ -36,44 +19,22 @@ French Institute of Pondicherry (IFP/USR3330) / Research centre for East Asian c
 French National Centre for Scientific Research (CNRS)
 ladakharchaeology.com<https://urldefense.com/v3/__http://ladakharchaeology.com__;!!Dq0X2DkFhyF93HkjWTBQKhk!B-HTjGjxvgERjBBBZOEYkuS175qUQdL9Rx8rw63G3bSC4BI2kEZAYu6avPLFmrZNASHNV0z0cw$>
 instagram.com/ladakharchaeology<https://urldefense.com/v3/__http://instagram.com/ladakharchaeology__;!!Dq0X2DkFhyF93HkjWTBQKhk!B-HTjGjxvgERjBBBZOEYkuS175qUQdL9Rx8rw63G3bSC4BI2kEZAYu6avPLFmrZNASE68j0NCw$>
-
-
-
-
 On Thu, 21 Oct 2021 at 22:57, Richard G. Salomon <rsalomon at uw.edu<mailto:rsalomon at uw.edu>> wrote:
-
     HI Mark,
-
     As it happens, I discussed this inscription briefly on the first page of an article ("Kharo??h? and Br?hm? Inscriptions from Ladakh") which is about to be published in Bulletin of the Asia Institute 30, pp. 93-111.
     But I was not aware of the image of the inscription published in Neve's book, and had worked only from Francke's eye copy and J-Ph. Vogel's discussion.
     Seeing now the original in the photograph in Neve, the eye copy looks to me to be pretty accurate. I agree with your colleague that the third and last character are very uncertain, as is the early dating. .
     Concerning that, in the new article I say "Such an early inscription in Ladakh would be unexpected, but not impossible."
-
     Regarding the marks above the inscription, it is pretty clear that they are not related to it and have no orthographic significance. For further comments on them, I would refer you to my co-author,
     Quentin Devers, whom I have copied on this message.
-
     Rich
-
     On Thu, Oct 21, 2021 at 8:33 AM Mark McClish via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
         Dear colleagues,
-
         I am posting the following on behalf of a colleague who is not a member of the list. It concerns an inscription from Khalatze (image attached). He contacted me to confirm Francke?s claim that it is Maurya period Br?hm? and reads "Bharad[v]ayasa? (which Francke renders in Sanskrit as bharadv?jasya). I can make out bha ra ? ya sa in early Br?hm? in the first five characters, but the third and the sixth are unclear to me, as also whether the marks above the name have any orthographic value.
-
         The image is taken from
-
         Neve, Ernest F. Beyond the Pir Panjal: Life Among the Mountains and Valleys of Kashmir. London: T. Fisher Unvin, 1912, plate 35.
-
         And Francke discusses it in
-
         Francke, A.H. ?Historische Dokumente von Khalatse in West-Tibet (Ladakh).? Zeitschrift der Deutschen Morgenl?ndischen Gesellschaft 36 (1907A): 583?614.
-
         Any comment on Francke?s reading or help beyond what I can see would be most appreciated.
-
         Best,
         Mark
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20211022/79dfe010/attachment.htm>
-

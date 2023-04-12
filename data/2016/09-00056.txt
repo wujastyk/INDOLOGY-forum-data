@@ -1,12 +1,5 @@
-From mkapstei at uchicago.edu  Tue Sep  6 07:40:53 2016
-From: mkapstei at uchicago.edu (Matthew Kapstein)
-Date: Tue, 06 Sep 16 07:40:53 +0000
-Subject: [INDOLOGY] Question on Diacritical Marks
-In-Reply-To: <mailman.5144.1473146690.13775.indology_list.indology.info@list.indology.info>
-Message-ID: <82C3E42590D939418C74DD76B97DDED047BBAD2E@xm-mbx-06-prod>
-
+[INDOLOGY] Question on Diacritical Marks
 Just a small note:
-
 The reference to Chinese earlier in this thread seems to have been mistaken. Tonal accents are
 not used to facilitate character recognition. The syllable 'ji' in Pinyin transcription, for instance, may
 receive four tonal accents, but even each tonal variation corresponds to many different Chinese
@@ -16,16 +9,8 @@ script' would render Sinological scholarship totally inaccessible to those outsi
 Wade-Giles or other) transcriptions, without tonal accents, at least provide outsiders with an 
 approximation. I think something similar holds in the case of Indic phonology, though in this
 case the problem is less complicated than in Chinese.
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-
-_________
-
-
-
-

@@ -1,21 +1,10 @@
-From dominic.goodall at gmail.com  Tue Jul 28 04:45:20 2015
-From: dominic.goodall at gmail.com (Dominic Goodall)
-Date: Tue, 28 Jul 15 10:15:20 +0530
-Subject: [INDOLOGY] Does anyone know of Sanskrit works that use 2nd-syllable	rhyming?
-Message-ID: <DEDD3566-5211-4632-B0D4-896D2E9D6C6E@gmail.com>
-
+[INDOLOGY] Does anyone know of Sanskrit works that use 2nd-syllable	rhyming?
 A late reaction to an earlier thread.
-
 Setting aside the question of dating, which is so often contentious, I am always *amazed* when people tell me that they are not convinced that the Bh?gavatapur??a is a Southern production.  The work is full of Southern touches, many of which have been pointed out by a variety of scholars over the last century.  Yes, ok, there are also Northern touches, but why should that be surprising for a Southern work ?  The South seems always long to have been more conscious of the North than the North has been of the South.  It is full, for example, of rather long-standing Northern sacred toponyms (Tenkasi = ?Benares of the South?; Madurai = Mathur?, etc.; and, of course Southern rivers are regularly equated with the Ga?g? and Yamun?), whereas there are no old instances of a ?Northern? K??c? or ?r?ra?gam or Chidambam, nor of the "K?ver? of the North?. 
-
 Or are there ?
-
 Similarly, the high literary style of the Bh?gavata, involving, in some parts, a high concentration of Vedic archaisms seems sometimes to be mentioned as though it were a factor that might suggest high antiquity and a provenance somewhere in the North.  But at what time in any part of the Sanskritic world would Vedic literature not have been prestigious and accessible to Veda-knowers seeking to write in a consciously archaising style?
-
 But what about an element of style that not nearly as many authors would have been similarly motivated to copy ?
-
 Second-syllable rhyming, in which just the consonant of the second syllable of each verse-quarter is rhymed, is abundantly present in post-Sangam Tamil literature and ubiquitous (or, if not, at least pretty nearly so) in the devotional literature of the ??v?rs and N?ya?m?rs, while being extremely rare in Sanskrit verse composition.  An example will make this clear:
-
 BhP_10.31.001/1 jayati te 'dhika? janman? vraja? ?rayata indir? ?a?vad atra hi
 BhP_10.31.001/3 dayita d??yat?? dik?u t?vak?s tvayi dh?t?savas tv?? vicinvate
 BhP_10.31.002/1 ?aradud??aye s?dhuj?tasatsarasijodara?r?mu?? d???
@@ -24,25 +13,10 @@ BhP_10.31.003/1 vi?ajal?pyay?d vy?lar?k?as?d var?am?rut?d vaidyut?nal?t
 BhP_10.31.003/3 v??amay?tmaj?d vi?vato bhay?d ??abha te vaya? rak?it? muhu?
 BhP_10.31.004/1 na khalu gop?k?nandano bhav?n akhiladehin?m antar?tmad?k
 BhP_10.31.004/3 vikhanas?rthito vi?vaguptaye sakha udeyiv?n s?tvat?? kule
-
 I had long thought that this argument, expressed in 1996, would be a clincher, at least for the devotional verses in which second-syllable rhyming occurs, for proving Southernness, since I don?t know of any other Sanskrit works that use this feature.
-
 But Sanskrit literature is vast, hence this appeal:
-
 Does anyone know of any other Sanskrit works that use such 2nd-syllable rhyming?
-
-
-
 Dominic Goodall
 ?cole fran?aise d'Extr?me-Orient,
 19, rue Dumas,
 Pondicherry 605001
-Tel. +91 413 2334539
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150728/ced00760/attachment.htm>
-

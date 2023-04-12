@@ -1,29 +1,13 @@
-From D.Wujastyk at ucl.ac.uk  Fri May  6 23:18:06 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 06 May 94 17:18:06 -0600
-Subject: Machine readable text of the Yogasutras
-Message-ID: <161227016825.23782.16253031445240387224.generated@prod2.harmonylists.io>
-
-
+Machine readable text of the Yogasutras
 Some months ago, Ashok Aklujkar generously made available to us all his
 machine readable transcription of the Paatanjala Yogasuutras.  These files
 have been available for some time at the site
 "blackbox.hacc.washington.edu", courtesy of Tom Ridgeway.
-
 I have now made a copy of Ashok's text available at "ftp.bcc.ac.uk" in the
 directory public/users/ucgadkw/indology and also at Liverpool for retrieval
 by email in the normal way (send a message "help" to
 "listserv at liverpool.ac.uk" to find out more).
-
 Enjoy, thanks to Ashok.
-
 Dominik
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

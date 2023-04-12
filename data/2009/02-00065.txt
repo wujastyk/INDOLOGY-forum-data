@@ -1,18 +1,9 @@
-From opfallon at YAHOO.COM  Sat Feb 14 10:47:42 2009
-From: opfallon at YAHOO.COM (Oliver Fallon)
-Date: Sat, 14 Feb 09 02:47:42 -0800
-Subject: Macdonell and Whitney Grammars
-In-Reply-To: <INDOLOGY%200902140000191599.0C72@LISTSERV.LIV.AC.UK>
-Message-ID: <161227084849.23782.1265677462773876166.generated@prod2.harmonylists.io>
-
+Macdonell and Whitney Grammars
 Dear Reinhold and others,
-
 Thank you very much for your help with this question.
 The underlying text of the Internet archive version of Macdonell's Sanskrit Grammar for Students (http://www.archive.org/details/sanskritgrammarf014425mbp) is so inaccurate as to be virtually worthless. The DjVu version is not much use for extraction and processing.
-
 The underlying text of the GRETIL scans of Whitney (http://opac.sub.uni-goettingen.de:80/DB=1.20/SET=2/TTL=1/SHW?FRST=1) is very accurate. However there are still some problems:
 I am interested in creating a fully marked up xml file of this text. Much of the romanised Sanskrit comes out with spacing between individual letters which may have to be manually removed and some of the N?gar? is included which will also need deletion (see pasted section below randomly selected: p. 244, ?647 a,b).
-
 b . Root H b h ? bear (given with Vedic accentuation):
 strong stem-form, fspq" b ? b h a r ; weak, ? ^ J b i b h ? (or b ? b h ? ) .
 b ? b h a r m i b i b h ? v ? s b i b h ? m ? s b ? b h r e b i b h ? v ? h e b i b h ? m ? h e
@@ -21,66 +12,9 @@ b ? b h a r t i b i b h ? t ? s b ? b h r a t i b i b h ? t ? b ? b h r ? t e b 
 c . The u of h u (like that of the class-signs n u and u : see below,
 6 9 7 a ) is said to be omissible before v and m of the endings of 1st du.
 and p l . : thus, j u h v ? s , j u h v ? h e , etc.; but no such forms are quotable.
-
 In the first line above, 'H' is the remnant of N?gar? 'bh?'
 In the second line 'fspq"' seems to be the remnant of N?gar? 'bibhar' etc.
-
 Has any markup already been done on this? If so that would be useful in creating a fully marked up file.
-
 Oliver Fallon
-
 http://www.claysanskritlibrary.org/volume-v-78.html
 http://independent.academia.edu/OliverFallon/Papers
-
-
-> There is so much to learn here, though not necessarily with
-> regard to the
-> original question. I still have to figure out what
-> recommends the "Internet
-> Archive" DjVU image files and their unusable
-> "Full Text" alternatives, when
-> there is a GRETIL e-book with a fully searchable background
-> text,
-> standardized diacritics (Whitney) in accented and
-> unaccented versions
-> (Whitney's "Roots"), bookmarks for
-> navigation, etc.
-> 
-> This brings me back to the original question:
-> 
-> "Does anyone on the list have information on the
-> availability of ETEXTS" of
-> the said works, other than these?
-> 
-> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil_elib/Whi889__Whitney
-> _SanskritGrammar.pdf
-> 
-> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil_elib/Whi885__Whitney
-> _Roots-ACCENTED.pdf
-> 
-> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil_elib/Whi885__Whitney
-> _Roots-UNACCENTED.pdf
-> 
-> [For more go here
-> 
-> http://opac.sub.uni-goettingen.de/DB=1.20/LNG=EN/
-> 
-> and enter "Whitney", "Macdonell", etc.,
-> 
-> or click the "All titles" button in the left
-> frame.]
-> 
->  
-> 
-> Cheers,
-> 
-> Reinhold Gr?nendahl
-> 
->  
-
-
-      
-
-
-
-

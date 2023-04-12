@@ -1,46 +1,23 @@
-From hhhock at illinois.edu  Fri Mar 13 19:07:40 2015
-From: hhhock at illinois.edu (Hock, Hans Henrich)
-Date: Fri, 13 Mar 15 19:07:40 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
-In-Reply-To: <76EE23C9-0F48-4643-80D4-BDE7CC40901D@gmail.com>
-Message-ID: <4D428A33-6F5B-45E8-93B6-C1C5B4ACCE0E@illinois.edu>
-
+=?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 Could this be a platform problem? The two qwerty inputs look different on my iPhone, with the second showing a vir?ma
-
 Best wishes
-
 Hans Henrich
-
 Sent from my iPhone
-
 On Mar 13, 2015, at 13:35, Peter Scharf <scharfpm7 at gmail.com<mailto:scharfpm7 at gmail.com>> wrote:
-
 Dear indologists,
 We noticed a quirk in the display of puur.n virAma (i.e. in the Sanskrit Library phonetic ascii encoding pUrR = KH pUrN) in Devanagari and wonder whether anyone has seen this display properly in a webpage with the proper characters.  Here is the Devanagari qwerty input:
-
 ????? This is p U r f N
 ?????? This is p U r f N f
-
 As you can see they are identical.
-
 ???????? This is p U r f N f f f
 Finally the virAma displays, but it should not require three virama characters to do so.
 Thanks for your help.
 Yours,
 Peter
-
 *************************
 Peter M. Scharf
 scharfpm7 at gmail.com<mailto:scharfpm7 at gmail.com>
 *************************
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 http://listinfo.indology.info
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150313/b4247556/attachment.htm>
-

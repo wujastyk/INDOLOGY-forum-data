@@ -1,43 +1,18 @@
-From hhhock at illinois.edu  Wed Aug 19 13:59:09 2015
-From: hhhock at illinois.edu (Hock, Hans Henrich)
-Date: Wed, 19 Aug 15 13:59:09 +0000
-Subject: [INDOLOGY] Hindi v Sanskrit
-In-Reply-To: <CAJGj9ebW4YohgOEtjY17PHGJVf9VJwJmu81by9HW=QBJTU6ipw@mail.gmail.com>
-Message-ID: <8EB1B4C0-8B38-473B-AEE7-BD7EA065E4D3@illinois.edu>
-
+[INDOLOGY] Hindi v Sanskrit
 Dear Professor Nagaraj Paturi,
-
 The use of the verb ?be? in Vedic and later Sanskrit is complex. If the subject and tense can be determined from context, it may be omitted. If that is not the case, or if there is a special modality, it will normally be supplied. So you may get things like sa? r?j? (asti) ?he is (a/the) king?, aham r?j? (asmi) ?I am king?; but only r?j? asmi, not plain r?j?; further, you will need to use ?be? if you want to express non-indicative modality, as in (sa?) r?j? sy?t. (There are also genre-based differences. For instance in Vedic Prose there is the common construction of the type tad (?) asya dugdha? bhavati with stative function: ?that is milked/obtained for him?. Here ?be? seems to be required and, interestingly, in the optative you typically get sy?t not bhavet.) The fact that ?be? can be omitted under certain conditions is inherited from PIE, and there has been a fairly extensive discussion of this issue, commonly under the heading ?nominal sentences?.
-
 In (early) Dravidian, of course, you have a different strategy, namely to put personal agreement markers on predicate nominals. And that has no counterpart in Vedic or later Sanskrit.
-
 So, I would say that the similarities between Sanskrit and (early) Dravidian are superficial; their overall predicate syntax differs considerably.
-
 All the best,
-
 Hans Henrich Hock
-
-
 On 19 Aug 2015, at 01:29, Nagaraj Paturi <nagarajpaturi at gmail.com<mailto:nagarajpaturi at gmail.com>> wrote:
-
 Dear Prof. Kulkarni,
  copula : Can this be point of distinction between Dravidian and Indian IE languages? Vedic, Sanskrit and Prakrits too have the copula-less NP-NP sentences. Malayalam has the copula aaNu in affirmative NP-NP sentences. The negative forms of the affirmative NP-NP sentences in almost all Dravidian languages have copula (kaadu/kaanu/kaavu type). This evidence in negative sentences leads to the consideration of Ak (Tamil) Agu(Kaannada) Agu (Telugu) derived copula in the 'ground structure' of the copula-less surface structures. Does this descriptive consideration have a historical implication for pre-historic Dravidian syntax?
-
 Bhartrihari in VP calls the copula-less NP-NP sentences in Sanskrit as 'as'rutakriyAvAkya'. At some places he uses expressions such as kriyAs which are s'rutA or as'rutA. This implies that for Bhartrihari 'kriyA' (asti/bhavati type) does exist in these sentences in an  as'rutA form.
-
 Can the Vedic Sanskrit Prakrit NP-NP structure be considered as Dravidian influence?
---
 Prof.Nagaraj Paturi
 Hyderabad-500044
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150819/7cd15087/attachment.htm>
-

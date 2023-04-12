@@ -1,17 +1,10 @@
->?From dom at vigyan.iisc.ernet.in 18 94 Dec EST 20:56:06
-Date: 18 Dec 94 20:56:06 EST (Sun)
-From: dom at vigyan.iisc.ernet.in
-Subject: The best transliteration scheme for Sanskrit etc.
-
-
+The best transliteration scheme for Sanskrit etc.
 There is, of course, no such thing, any more than there is a best 
 grammar of Sanskrit, or a best introductory reader, etc. (except
 that Macdonnell *is* the best grammar, and Lanman *is* the best reader :-)
-
 There are many, many rational and useful input schemes for Sanskrit, 
 and there is really no ground for judging one better than another.
 As long as a system is unambiguous, it is good.  
-
 If you want to promote one scheme over another (I don't) then you should
 at the outset make clear whether you are using a 7-bit or an 8-bit
 or a 16-bit character set, and why you have made this choice.  Then you
@@ -24,20 +17,10 @@ then when mixing English and Sanskrit you must have a marker to say
 "here endeth the English and here beginneth the Sanskrit" and vice versa.
 If none of the characters do double duty (like IISCI) then you don't need
 to switch codes in this way.
-
 Etc.
-
 So let us all enjoy the wide variety of input schemes for Sanskrit, and 
 use the many tools available for switching from one to another.
-
 If you intend to distribute texts in bulk, then please make your coding
 scheme publicly documented, as have the Kyoto group, the Vienna group (CSX)
 and Peter Schreiner, etc.
-
 Dominik
- 
-
-
-
-
-

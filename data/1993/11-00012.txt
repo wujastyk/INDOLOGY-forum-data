@@ -1,5 +1,5 @@
 #From indology-request at liverpool.ac.uk Mon Nov  8 09:08:09 1993
-#Subject: letter
+#letter
 #
 #Dear Professor Pollock,
 #what a pleasure to receive your letter. How are you? I hope
@@ -40,6 +40,3 @@
 # 
 #
 #
- 
-
-

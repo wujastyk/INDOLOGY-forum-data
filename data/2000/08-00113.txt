@@ -1,22 +1,5 @@
-From saf at SAFARMER.COM  Wed Aug  9 03:07:09 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Tue, 08 Aug 00 20:07:09 -0700
-Subject: New Website on Rajaram's Decipherments
-Message-ID: <161227060798.23782.6699197017630076470.generated@prod2.harmonylists.io>
-
+New Website on Rajaram's Decipherments
 Michael Witzel wrote:
-
-> Just like S. Farmer,
->
-> http://www.safarmer.com/horseseal/update.html
->
-> I have put my notes on N.S. Rajaram on the web today.
->
-> My paper deals with many of the aspects of Rajaram's and Jha's "decipherment"
-> of the Indus inscriptions.
->
-> http://www.people.fas.harvard.edu/~witzel/R&J.htm
-
 My own webpage on the Rajaram "horse" business, referred to by
 Michael above, now has crosslinks to his article (as his does to
 mine), so they form a pair.  Some minor editorial changes have
@@ -24,9 +7,4 @@ also been added today. To see the updated version, if you've
 already loaded it, hit "refresh" or "reload" when you open the
 page. Otherwise your browser will simply reload the old version
 from its cache memory.
-
 saf
-
-
-
-

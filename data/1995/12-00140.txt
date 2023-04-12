@@ -1,38 +1,15 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Wed Dec 13 16:32:30 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Thu, 14 Dec 95 01:32:30 +0900
-Subject: grammaticality (was old/new translations)
-Message-ID: <161227022120.23782.2574929220871304715.generated@prod2.harmonylists.io>
-
+grammaticality (was old/new translations)
 At he risk of unduly repeating myself - 
-
 No doubt that a translation of a vocative with "you are my man", or
 something along these lines, is wrong. This was quoted as one instance of
 grammatically incorrect translation, by M. Witzel, who, throughout his
 recent "let's come back to the initial discussion"-posting, stresses
 grammatical correctness as a primary goal or prerequisite for translations. 
-
 I would agree with Stephen Phillips that grammar is "not quite the constant 
 that might be supposed". But to explain better what I already tried to
 explain many times before, consider his example: 
-
->mahati vAyau udbhUta-rUpa-abhAvasya, kusume
->saurabhA-abhAvasya, guDe tiktatva-abhAvasya vA na
->cakSur-AdinA grahaH, api tu yogya-anupalabdhyA so 'numIyate\ |
->
->Concerning air as a gross element (and not the atoms), there is an absence
->of manifest color, but that is not grasped by the visual organ.  Rather, we 
->know this through inference based on the fact that color is in no way 
->perceived and that we would perceive it if it were present in air.  Similarly 
->concerning an absence of a fragrance in a flower and the absence of bitter 
->taste in sugar.  (CLASSICAL INDIAN METAPHYSICS, p. 261)
 {...}
->Arguably, I may have taken too many liberties here, 
->with insufficient effort to mirror the Sanskrit syntax.  Nevertheless, I would 
->argue that the translation captures literally GaGgeza's meaning.
-
 The problems I see in that translation: 
-
 -       translating "there is an absence of manifest colour, but that..."
 misplaces the emphasis. The main statement of the original text is "the
 absence of manifest colour is not grasped by the visual organ". There is no
@@ -42,7 +19,6 @@ artificial introduction "concerning..." becomes superfluous - "the absence
 of...in air, when it is a gross element (and not when it has atomic form).."
 does the job. Also, the "concerning..." obliterates the fact that the
 original enumerates three cases with precisely the same syntactic form. 
-
 -       Ignorant of the immediate context, it is hard to say whether the
 three cases (absence of manifest colour in air, fragrance in a flower and
 bitter taste in sugar) are located at the same level, or whether the first
@@ -57,7 +33,6 @@ middle of the statements to its very end. This "moving" also results in an
 obvious violation of the original: AdinA (cakSurAdinA) is left untranslated,
 because "Adi" refers to smell and taste, which have, at this point, not yet
 been introduced in the translation. 
-
 -       "based on the fact that color is in no way perceived and that we
 would perceive it if it were present in air" is a nonsensical translation
 for "yogyanupalabdhyA". Obviously, the translator tried to clarify the
@@ -66,12 +41,10 @@ translation, but then, that's not a translation, but a clear-cut
 explanation/interpretation. Moreover, "yogyanupalabdhi" is a technical term,
 and this technicality should be preserved in the translation - explain the
 rest in foot-notes, if necessary. 
-
 The problem of this translation, thus, is not that it insufficiently
 "mirrors" the syntax, as Stephen Phillips feared, but that it does not
 capture the progress of the argument and, in general, represents a
 commentarial re-phrasing rather than a genuine translation. 
-
 In view of this example, I would consider "correct grammar" to be a matter
 of the respective function of linguistic items rather than a simply formal
 requirement. If a genitive fulfills the function of the logical subject of a
@@ -82,10 +55,6 @@ source-language, it is legitimate to add corresponding adverbs in the
 target-language, if the latter lacks a tense with a corresponding function.
 Again, what Witzel terms "correct grammar" could be rephrased as
 "appropriateness in pragmatic preconditions". 
-
->Moreover, grammar is not quite so important as some would make out, in 
->another way, too: people commonly understand ungrammatical constructions.  
-
 This is an altogether different understanding of "correct grammar" than the
 one M. Witzel applied: He referred to a "relational grammaticality", viz.,
 that the grammar of the translation shall not violate the grammar of the
@@ -93,19 +62,9 @@ original. Searle et al., however, refer to grammaticality as a property of
 one, and only one language, not in relation to another - the sentence "you
 are my man" is grammatical in English, but not grammatically correct as a
 translation of the Vedic vocative _viira_. 
-
 As for further discussions, it would probably be useful to specify
 text-types - Navya-Nyaaya-translation is just not as susceptible to the same
 translation-problems as Vedic Hymns...
-
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

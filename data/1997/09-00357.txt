@@ -1,9 +1,4 @@
-From roheko at CLASSIC.MSN.COM  Fri Sep 26 20:20:01 1997
-From: roheko at CLASSIC.MSN.COM (Rolf Heinrich Koch)
-Date: Fri, 26 Sep 97 20:20:01 +0000
-Subject: VBA searching machine
-Message-ID: <161227032771.23782.16840178815026920396.generated@prod2.harmonylists.io>
-
+VBA searching machine
 Hi,
 I am programming VBA modules that search in the TOKUNAGA-Mahabharata files for
 certain words you are looking for. The module looks not only for the term you
@@ -12,7 +7,3 @@ of sandhi too have to realzed. At the end the module should give you a list
 with all stanzas in your actual Winword-window. Are there anybody doing the
 job together with me?
 Heiner
-
-
-
-

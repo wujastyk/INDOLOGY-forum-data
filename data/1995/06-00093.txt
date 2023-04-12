@@ -1,21 +1,5 @@
-From GATUBB at vaxsar.vassar.edu  Fri Jun 16 19:12:02 1995
-From: GATUBB at vaxsar.vassar.edu (Gary Tubb)
-Date: Fri, 16 Jun 95 15:12:02 -0400
-Subject: TeX for Indology
-Message-ID: <161227019732.23782.6351662331336954959.generated@prod2.harmonylists.io>
-
+TeX for Indology
 kichenas at math.umn.edu asked
-> Is there a (La)TeX style file which enables
-> the input of Romanized text? All the tools for this are
-> present in TeX (macrons, dots over and under letters,...)
-> and all that is needed is the definition of an 
-> environment which would enable the user to input
-> \begin{tamil}
-> kaNTanen kaRpinuk k-aNiyai
-> \end{tamil}
-> and produce the output corresponding to
-> {\em ka\d n{}\d t{}a\b n{}e\b n kaRpi\b n{}uk k-a\d n{}iyai}
-
    I agree with Nath Rao's explanation that for Roman script a simple
 filter may be best.  I would add that because much of my typing is in
 English with chunks of Sanskrit, including proper names that need
@@ -40,7 +24,6 @@ course of editing it.  If you use UNIX the same script can be used with
 very slight changes to run either ex or sed on a file directly.  The
 commands determine which type of nasal to use by looking at the
 following consonant, even if an optional-hyphen (\-) command intervenes.
-
   " Ex script for inserting TeX commands for Sanskrit diacritics.
   " Type text with semicolon before each character that needs diacritic.
   " Use ;x instead of ;s for the retroflex sibilant (underdot s).
@@ -53,17 +36,9 @@ following consonant, even if an optional-hyphen (\-) command intervenes.
   %s/;i/\\={\\i}/g                      "macron for undotted long i
   %s/;\([auAIU]\)/\\=\1/g               "macrons for other long vowels
   %s/;\([sS]\)/\\'\1/g                  "mark for palatal s 
-
 Something similar could be done for Tamil.  If there are too many
 ambiguities you could also use colons or commas in addition to
 semicolons (but probably not a period, which occurs before letters in
 filenames and elsewhere).
-
      Gary Tubb,
      Columbia University.
- 
-
-
-
-
-

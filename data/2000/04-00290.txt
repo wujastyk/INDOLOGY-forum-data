@@ -1,28 +1,18 @@
-From prasad_velusamy at HOTMAIL.COM  Sat Apr 29 01:49:24 2000
-From: prasad_velusamy at HOTMAIL.COM (Prasad Velusamy)
-Date: Fri, 28 Apr 00 18:49:24 -0700
-Subject: Fwd: [infitt]  OCR
-Message-ID: <161227058171.23782.8992893991473646212.generated@prod2.harmonylists.io>
-
+Fwd: [infitt]  OCR
 Because of least number of letters and no clustered consonants,
 OCR is prgressing. Got this forwarded from the list today:
 Int. Forum for Information Technology in Tamil [INFITT].
-
------------------------------
 Dear friends:
-
 Tamil computing is implemented generally in two ways:
 i) adapting existing shrink-wrap softwares written for the larger
 English market with Tamil fonts and suitable keyboard editors;
 ii) a very native environment with dedicated softwares where
 everything from pull-down menus and all commands are in Tamil.
-
 Former procedure is the way currently >99% of all Tamil materials
 are processed or handled. There has been only a handful of softwares
 of the second kind. Padhami of Chennai Kavigal/Manoj Annadurai
 was an early one. Windows 2000 based on Unicode with Tamil support
 will allow many new softwares of the second kind.
-
 Recently several people have been working on Tamil OCR, though
 we haven't yet any working version available. Three years ago,
 I tried to use the existing OCR package OmniPage Pro to see if it
@@ -37,13 +27,11 @@ Tamil. So complete working of Tamil OCR could not be achieved.
 Since I was working with an commercial copy of the software, I
 even wrote emails to the software company, asking if they could
 relax the above restrictions of the training mode. No responses.
-
 Recently I was pleased to hear from the software professional
 Mr. Gopalrao Thukaram of USA (one of Project Madurai volunteer and
 one associated with the Tamil website <www.thinnai.com>) on his
 successes in similar Tamil OCR using existing OCR packages.
 I quote below excerpts from his email:
-
  >>
  > I have been trying various commercially available ocrs for
  > training them for Tamil. The best I have seen is FineReader
@@ -63,20 +51,12 @@ I quote below excerpts from his email:
  > (with training  included). Time consuming part was scanning
  > not the ocring.
 <<
-
 ABBYY is a Russian software establishment and they do provide a
 demo version of their OCR software for trials (works on PCs).
 If someone wants to try these out, please contact Mr. Thukaram
 <gthukaram at hotmail.com> for details. If it can save time, we
 can request him to provide us with a copy of the training files
 that he has generated.
-
 So, there still appears to be a fast route to Tamil OCR.
-
 [snip]
-________________________________________________________________________
 Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
-
-
-
-

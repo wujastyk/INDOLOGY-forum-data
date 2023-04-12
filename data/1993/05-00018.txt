@@ -1,26 +1,9 @@
-From D.Wujastyk at ucl.ac.uk  Wed May 12 15:53:24 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Wed, 12 May 93 15:53:24 +0000
-Subject: Diacritics for Word Perfect
-Message-ID: <161227015817.23782.5482682259165378090.generated@prod2.harmonylists.io>
-
+Diacritics for Word Perfect
 In Message Wed, 12 May 93 09:45:19 BST,
   NEIS at automation.university-library.cambridge.ac.uk writes:
-
->
->CSX = ?
-
 Computer Sanskrit Extended.  See the documentation in the file
 iass.zip (or some such) available from the listserv or by
 ftp from ftp.bcc.ac.uk:pub/users/ucgadkw/indology.
-
 Dominik
-----------------
 Dominik Wujastyk                                  d.wujastyk at ucl.ac.uk
                                                        +44 71 611 8467
- 
-
-
-
-
-

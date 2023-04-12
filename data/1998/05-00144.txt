@@ -1,21 +1,7 @@
-From dargie at CLTR.UQ.EDU.AU  Thu May  7 22:14:29 1998
-From: dargie at CLTR.UQ.EDU.AU (David Dargie)
-Date: Fri, 08 May 98 08:14:29 +1000
-Subject: computers and Indology
-In-Reply-To: <Pine.OSF.3.96b.980507130434.3829A-100000@saul10.u.washington.edu>
-Message-ID: <161227038342.23782.10678655871011176250.generated@prod2.harmonylists.io>
-
+computers and Indology
 On Thu, 7 May 1998, Anshuman Pandey wrote:
-
-> > 7) Saw elegant fonts for about 400 symbols used in Indus writings
-> > developed by Prof. Parpola. If used widely, many can suggest;
-> > may speed up the cracking the script, language.
->
-> Aid in decipherment? How?
-
 Obviously, one benefit is that of instant recognition of a character or
 word once it has been recognised initially by a computer.
-
 As far as decipherment is concerned, I believe that a statistical
 methodology may help. For example, from my research it is clear that from
 a statistical point of view, `function' words invariably occur quite
@@ -26,19 +12,12 @@ paradigm. A similar method may be applied to the phonology and grammar of
 the Indus script. Of course, all of this processing could be achieved by
 hand, but it is better done by a machine while the user sips a cup of tea.
 :)
-
 My PhD research consists of an authorship analysis of samples of texts
 attributed to Shankara. I hope to show compelling statistical evidence why
 some of the Shankara attributions are more dubious than others. My trusty
 computer is an indispensible tool in this project.
-
 Regards
-
 David Dargie
 Centre for Language Teaching and Research
 University of Queensland
 Australia
-
-
-
-

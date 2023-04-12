@@ -1,17 +1,8 @@
-From birgit.kellner at UNIVIE.AC.AT  Sat Dec 23 17:45:17 2000
-From: birgit.kellner at UNIVIE.AC.AT (birgit kellner)
-Date: Sat, 23 Dec 00 12:45:17 -0500
-Subject: Questions on Indian idealism
-In-Reply-To: <F148ylJc0xvlUQ9cAgj00004b79@hotmail.com>
-Message-ID: <161227065826.23782.1295400942916648832.generated@prod2.harmonylists.io>
-
+Questions on Indian idealism
 Wednesday, December 20, 2000, 5:50:40 PM, Satya Upadhya wrote:
-
--->> i have read the original works neither in the original Sanskrit, neither
 SU> have i read the whole of them in translation. I have only read parts of them
 SU> in translation, and also the criticism of these books by more modern modern
 SU> scholars.
-
 Considering the list of works you mention, which covers some of the
 most important (and most difficult) works of Buddhist epistemologists,
 and given the list of scholars you mention, I once again strongly
@@ -22,12 +13,9 @@ the ideas articulated in the texts *without* consulting the original
 Sanskrit (or Tibetan). In other words, reading Stcherbatsky may tell
 you a great deal about what Stcherbatsky thought, but not necessarily
 a great deal about what DharmakIrti thought.
-
--->> you keep saying that the Yogacara does not deny external material
 SU> objects/external reality. Could you give some sources for this (modern
 SU> sources i mean)? [ kindly do not give me online sources as i have found that
 SU> many of them are not reliable.]
-
 You have not read carefully enough what I wrote. I pointed out that
 two of the instances you cite in support of the thesis
 "only ideas are real" are ill-chosen, because the statements they make
@@ -42,7 +30,6 @@ any rate, it is important to
 be careful in choosing one's textual support for statements made about
 Indian philosophers - yours were not carefully chosen. This is all I
 have to contribute to this thread.
-
 SU> My understanding of the argument is that
 SU> according to this law "we never know an object as distinct from the
 SU> sensations or ideas. Whatever is known is known as identical with the
@@ -51,7 +38,6 @@ SU> Indian Philosophy.) Dharmakirti himself says the following (as quoted in
 SU> Madhva's "Sarvadarsanasangraha"): "The object known as blue and the
 SU> knowledge thereof are identical, because of the law of their being
 SU> invariably known as inseparable."
-
 Let me try to state, in simple terms, why the sahopalambhaniyama-inferences as presented
 in this form does not state that "only ideas are real" and let me
 assume, for the sake of argument, that no additional assumptions over
@@ -67,7 +53,6 @@ reality or existence of external entities is not per se incompatible
 with the sahopalambhaniyama-inference. It may be possible to derive a
 denial of some sort of external reality from other passages in
 DharmakIrti's texts, but not from this one.
-
 The problem in Chattopadhyaya's summary and interpretation of the
 sahopalambhaniyama-inference as you give it lies, I think, in an overly vague usage
 of the terms "know" and "object". The sahopalambhaniyama-inference
@@ -80,11 +65,8 @@ manner is so important. I have not read Chattopadhyaya's book, but the
 passages you quote suggest to me that he (?) subscribes to a style of
 translation and approach to interpretation not unlike that of
 Stcherbatsky, and consequently problematic in similar respects.
-
--->> i had mentioned these by name because they are fairly renowned and it is
 SU> not so easy to dismiss away their claims (as would be in the case of some
 SU> modern scholar of whom few have heard about).
-
 Dismissing claims is, or should be, done not on the basis of the authority of the
 ones who make them, but by examining the factual basis for their
 claims in the original texts. Believe me, dismissing claims by
@@ -93,29 +75,19 @@ instance dismissing claims by a more "modern" scholar like Takashi
 Iwata, whose sahopalambhaniyama-study is a must-read for anyone who is
 seriously interested in this inference (though, unfortunately for
 some, it is written in German).
-
 SU> Here is a more modern souce: "Kumarila Bhatta's refutation of the dreaming
 SU> argument" by John A. Taber (in Studies in Mimansa (ed. R.C. Dwivedi) Motilal
 SU> Banarsidas Publishers.  New Delhi, 1994). In this article, Kumarila's
 SU> refutation of Vasubandhu's views (as recorded in the "Vimsatika"), is
 SU> presented by Taber.
-
 I fail to see why this "more modern source" would have any
 significance for the interpretation of the sahopalambhaniyama-inference
 in particular as well as to the examination of DharmakIrti's views in
 general.
-
 On the whole I think this thread is becoming rather unproductive,
 which is why I shall not contribute any more unless more substantive
 arguments are presented,
-
----
 Best regards,
-
 Birgit Kellner
 Institute for Tibetan and Buddhist Studies
 Vienna University
-
-
-
-

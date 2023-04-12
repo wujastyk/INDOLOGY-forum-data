@@ -1,43 +1,18 @@
-From bpj at netg.se  Thu Jan 23 16:00:19 1997
-From: bpj at netg.se (bpj at netg.se)
-Date: Thu, 23 Jan 97 18:00:19 +0200
-Subject: Devanagari fonts for the Mac
-Message-ID: <161227027997.23782.6825757425510110315.generated@prod2.harmonylists.io>
-
+Devanagari fonts for the Mac
 At 13:24 23.1.1997 +0000, Patricia Meredith Greer wrote:
->Can someone tell me if there is a site to download the KayMan program
->for a PC?  Thanks!
->Patricia Greer
-
-
 Sure, you will find that, too somewhere under:
-
 http://www.sil.org/computing/
-
 It is _KeyMan_, with an E, btw. Actually it is possible to use the same
 rule-files with these two programs, if they are written with this in
 mind... Neat!
-
-
-__                     __  ___   __ ___ __
 |_) |_  * | * __       (_ /_|| * (_ /_| (_ *
 |   | ) | | | |_)            |     \
               |
 B.Philip Jonsson <bpj at netg.se>
-
               _        _    .             _ _
 || Gate gate paragate parasamgate bodhi svaha ||
-
 "Peace is not simply the absence of war.
 It is not a passive state of being.
 We must wage peace, as vigilantly as we wage war."
 (XIV Dalai Lama)
-
 "A coincidence, as we say in Middle-Earth"
-
-
-
-
-
-
-

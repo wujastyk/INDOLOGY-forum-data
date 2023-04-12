@@ -1,21 +1,13 @@
-From aklujkar at INTERCHANGE.UBC.CA  Tue Sep  5 16:50:03 2000
-From: aklujkar at INTERCHANGE.UBC.CA (Ashok Aklujkar)
-Date: Tue, 05 Sep 00 09:50:03 -0700
-Subject: Colophon verse
-In-Reply-To: <E13WJw4-0003cl-00@mailhub1.liv.ac.uk>
-Message-ID: <161227061399.23782.3721630171533012370.generated@prod2.harmonylists.io>
-
+Colophon verse
 Both the verse bhagna-p.r.s.tha ... and the verse having yadi ;suddham
 a;suddha.m vaa .. as its second half commonly occur in mss. If you look at
 ms. catalogues in which the concluding parts of each ms. are reproduced or
 at manuscript-based editions in which the concluding parts of mss utilized
 by the editor are reproduced, you will find many occurrences of the verses.
-
 The verses are frequently written in a corrupt form (diminishing our
 confidence in the scribe or telling us that the scribe was really tired
 when he came to that point in the ms.!). They routinely have some variants;
 e.g. yatnena for putravat.
-
 In almost all the versions I have seen of the first verse, there is a
 disjunction of thought in the first half of the verse and the second, but
 that disjunction can easily be overcome on the strength of the context. The
@@ -32,7 +24,6 @@ gone missing. Another less likely possibility is that the verse was
 originally written by a scribe or copyist whose command of verse
 composition in Sanskrit was limited. Leaps of thought are not uncommon in
 'vernacular Sanskrit' writings.
-
 If Professor Deshpande has suggested his emendation
 (>griivaasthirad.r.s.tir ... read: -asthirad.r.s.tir->} seriously, it
 should be typed as ... griivo 'sthira... However, an emendation at this
@@ -43,23 +34,9 @@ it expresses the strain involved in focusing one's sight. The ms. reading
 griivasthiira reproduced by Arlo Griffiths is essentially correct. Less
 than ideally written mss. quite commonly drop the visarga before
 conjunctions such as pr and sth.
-
 bhagna is obviously not to be taken in a very literal sense. Its use in the
 verse is similar to the use of 'break' in English expressions such as
 'back-breaking work.'
-
->TULVA/TULII/TULAA< reported by Mr. Jogesh Panda should probably be tuuli
->or tuulii, primarily standing for the painting/drawing/writing brush (=
->our pen) and secondarily for writing instrument in general, perhaps
->including the stylus. tuulikaa occurs in the compositions of Kaalidaasa
->etc. in the sense of a painting brush (unmiilita.m tuulikayeva citram --
->Kumaara-sa.mbhava 1.32).
-
 The commonly attested first half of the second verse is: yaad.r;sa.m
 pustaka.m d.r.s.ta.m taad.r;sa.m likhita.m mayaa /
-
 ashok aklujkar
-
-
-
-

@@ -1,15 +1,8 @@
-From wujastyk at gmail.com  Tue Jun 15 22:20:04 2021
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 15 Jun 2021 16:20:04 -0600
-Subject: Searching for an article by Prof. Chintaharan Chakraborty
-In-Reply-To: <CAKdt-CfftT7qx49DD9iJ2Ro=k1z0tBXxXLnB7OtwJgD3-Wgxjg@mail.gmail.com>
+Searching for an article by Prof. Chintaharan Chakraborty
 References: 	 <CAKdt-CfftT7qx49DD9iJ2Ro=k1z0tBXxXLnB7OtwJgD3-Wgxjg@mail.gmail.com>
-Message-ID: <CAKdt-CemE6zSWqudr7_xMM05zSBFLjyqWESaxzUtru1d1r3fEw@mail.gmail.com>
-
   Chakravarti, Chintaharan. ?Value and Importance of Manuscripts in Olden
 Times.? *Journal of the Royal Asiatic Society of Bengal (Letters),*  XVI,
 no. 2 (1950): 253?262.
-
 @Article{chak-1950,
   author           = {Chintaharan Chakravarti},
   date             = {1950},
@@ -21,40 +14,3 @@ no. 2 (1950): 253?262.
   volume           = {XVI},
   note             = {Author's name sometimes spelled Chakraborty},
  }
-
->
-> Thanks again for the pointers to this.
->
-> Dominik
-> --
-> Professor Dominik Wujastyk
-> <https://apps.ualberta.ca/directory/person/wujastyk>
-> ,
->
-> Singhmar Chair in Classical Indian Society and Polity
-> ,
->
-> Department of History and Classics
-> <http://historyandclassics.ualberta.ca/>
-> ,
-> University of Alberta, Canada
-> .
->
->
-> South Asia at the U of A:
->
-> sas.ualberta.ca
->
-> SSHRC research: The Su?ruta Project <http://sushrutaproject.org>
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210615/50d5af70/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: 1950 JRASB Value and importance of manuscripts in olden times.pdf
-Type: application/pdf
-Size: 2479960 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20210615/50d5af70/attachment.pdf>
-

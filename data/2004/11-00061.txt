@@ -1,30 +1,17 @@
-From ferenc.ruzsa at ELTE.HU  Mon Nov 15 08:42:39 2004
-From: ferenc.ruzsa at ELTE.HU (Ferenc Ruzsa)
-Date: Mon, 15 Nov 04 09:42:39 +0100
-Subject: Devanagari
-Message-ID: <161227075337.23782.4190052405561430734.generated@prod2.harmonylists.io>
-
+Devanagari
 For Ms Word users only:
-
 I have written a small macro (100 lines) that converts the selected text (in 
 roman characters, Unicode encoding, e.g. Times IndUni or Gandhari Unicode 
 font) to Unicode Devanagari (e.g. Arial Unicode MS or Sanskrit 2003). Of 
 course it is slow, on my system 2500 characters / sec.
-
 It has been tested for Microsoft Word 2002 (running under Windows XP Home 
 Edition), but it uses fairly standard Visual Basic programming only, so 
 probably it works with other versions as well.
 I have no homepage, but I would be pleased to send it in e-mail to anybody. 
 (If some of you could host it on their homepage, that would be wonderful).
-
 Greetings,
 Ferenc
---------------------------------------------------------
 Ferenc Ruzsa, PhD
 associate professor of philosophy
 E?tv?s Lor?nd University, Budapest
 e-mail: ferenc.ruzsa at elte.hu 
-
-
-
-

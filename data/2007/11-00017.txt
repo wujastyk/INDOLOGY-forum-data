@@ -1,55 +1,31 @@
-From gruenen at MAIL.SUB.UNI-GOETTINGEN.DE  Tue Nov  6 14:08:50 2007
-From: gruenen at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
-Date: Tue, 06 Nov 07 15:08:50 +0100
-Subject: Vilocana on Visvanatha's Sahityadarpana?
-In-Reply-To: <46DD6C29.8539.1829F57@mail.sub.uni-goettingen.de>
-Message-ID: <161227081487.23782.13945146382810393248.generated@prod2.harmonylists.io>
-
+Vilocana on Visvanatha's Sahityadarpana?
 The question I posed a while ago can now be answered as follows:
-
 What the Sansknet e-text of the Sahityadarpana refers to as "Vilocana" is in fact 
 Bhattacarya Srimahesvara Tarkalamkara's [=Mahesvarabhatta's] commentary, 
 called "Vijnapriya". The erroneous title "Vilocana" may have been inspired by that of 
 Anantadasa's commentary, viz., "Locana".
-
 Both commentaries are available from Sansknet in separate files for each of the ten 
 Paricchedas of the Sahityadarpana. However, the  mula text contains no references 
 to the letter numbering used in the commentary files, which renders the coordination 
 of mula text and commentaries virtually impossible.
-
 The version now available on GRETIL integrates these files according to the printed 
 edition published by Bharatiya Buk Karporesan 1998:
-
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#VisvSd_comm
-
 (presently Paricchedas 1-3; to be continued).
-
-
 Greetings
 Reinhold Gr?nendahl
-
-
-
 ********************************************************************
-
 Dr. Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 Fachreferat sued- und suedostasiatische Philologien
 (Dept. of Indology)
-
 37070 G?ttingen, Germany
 Tel (+49) (0)5 51 / 39 52 83
 Fax (+49) (0)5 51 / 39 23 61
 gruenen at mail.sub.uni-goettingen.de
-
 FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
 In English:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
-
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
-
-
-
-

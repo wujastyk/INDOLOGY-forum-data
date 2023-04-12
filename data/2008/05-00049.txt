@@ -1,22 +1,11 @@
-From r.mahoney at ICONZ.CO.NZ  Fri May 16 01:31:18 2008
-From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
-Date: Fri, 16 May 08 13:31:18 +1200
-Subject: RESOURCE UPDATE> INDOLOGY: Resources for Indological Scholarship              :: RSS Feed
-Message-ID: <161227082645.23782.15128442124494951609.generated@prod2.harmonylists.io>
-
+RESOURCE UPDATE> INDOLOGY: Resources for Indological Scholarship              :: RSS Feed
 Dear Colleagues,
-
 I've recently set up an RSS 1.0 feed for the main INDOLOGY web site:
-
  http://indology.info/
-
 To subscribe to this feed please point your web browser or feed reader
 at this address:
-
  http://indology.info/rss1.xml
-
 When browsing the INDOLOGY site you should also be seeing an RSS icon
 in your web browser's URL address line (Firefox, Opera &c.). I've also
 added a link marked with the same icon at the bottom right hand corner
 of each page.
-

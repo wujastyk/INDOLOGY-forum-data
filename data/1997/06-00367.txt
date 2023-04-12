@@ -1,24 +1,10 @@
-From thillaud at unice.fr  Fri Jun 27 12:46:29 1997
-From: thillaud at unice.fr (Dominique.Thillaud)
-Date: Fri, 27 Jun 97 14:46:29 +0200
-Subject: filters
-Message-ID: <161227031283.23782.1279063135799082718.generated@prod2.harmonylists.io>
-
+filters
 	I inform some of you that new mailing handlers (as example Eudora
 Light 3.0.21) have filters you can use to send automatically to the trash,
 mailings coming from certain persons.
 	Hoping to help,
 Dominique
-
 PS: for someone who use many pseudonyms, you must make an entry for each
 new one (or use as criterium a http address present in the text).
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-
-
-
-

@@ -1,17 +1,10 @@
-From L.S.Cousins at NESSIE.MCC.AC.UK  Mon Apr 12 08:16:50 1999
-From: L.S.Cousins at NESSIE.MCC.AC.UK (L.S.Cousins)
-Date: Mon, 12 Apr 99 09:16:50 +0100
-Subject: Update 4 to Pali Canon online
-Message-ID: <161227047996.23782.10836986313657450854.generated@prod2.harmonylists.io>
-
+Update 4 to Pali Canon online
 The fourth update to the machine-readable version of the Sinhalese edition
 (BJT) of the Pali Canon from SLTP (IBRIC) is now available from the Journal
 of Buddhist Ethics (JBE) sites in the U.K. and U.S. (There is some work
 still in progress on this; so those interested may want to check back later
 to see if anything has been added.)
-
 Details of changes in this update:
-
 The whole of the  Vinaya-pi.taka has been proof-read once. SIL standard
 references (for use with concordancing programs) have been added. Thirty
 eight later Pali works are now available, including eleven grammatical
@@ -21,19 +14,13 @@ new readme files shortly. All proofread files have been gone through again
 and Anguttara-nikaaya), using a method of error detection suggested by
 Frank Snow whereby impossible combinations in Pali were identified. This
 has corrected some 5,000 errors overall in these files.
-
 As before the files are available from the JBE websites:
-
 http://www.gold.ac.uk/jbe/jbe.html
 http://jbe.la.psu.edu/palicanon.html
-
------------------------------
 Details of previous updates:
-
 Update 3 :
           The only change was that the whole of the  Sa.myutta-nikaaya was
 proof-read once.
-
 Update 2:
          One volume of the Vinaya (BJT Vol 1/PTS Vol IV) and the whole of
 the  Diigha-nikaaya and the Majjhima-nikaaya were proof-read once. The
@@ -41,20 +28,12 @@ versions of the Mahaaniddesa and Cuu.laniddesa were partially
 spell-checked. Further missing pages in the Kathaavatthu were added. All
 the PTS page numbering was completed, including the the four postcanonical
 texts. Some 30,000 errors were identified and corrected  in different texts.
-
 Update 1:
         Missing sections in the Diigha-nikaaya, Jaataka and Kathaavatthu
 were added. A revised version of AN was included. There was some additional
 PTS page numbering in the Khuddaka-nikaaya. Amendments were made to the
 Mahaaniddesa. Small numbers of errors in various texts were corrected.
-
 Lance Cousins
-
 MANCHESTER, UK
-
 CURRENT EMAIL ADDRESS:
 Email: L.S.Cousins at nessie.mcc.ac.uk
-
-
-
-

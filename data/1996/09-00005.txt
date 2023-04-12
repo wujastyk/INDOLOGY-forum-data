@@ -1,9 +1,4 @@
-From thompson at jlc.net  Mon Sep  2 23:37:23 1996
-From: thompson at jlc.net (thompson at jlc.net)
-Date: Mon, 02 Sep 96 19:37:23 -0400
-Subject: compound analysis in e-texts
-Message-ID: <161227025874.23782.7861243327462845496.generated@prod2.harmonylists.io>
-
+compound analysis in e-texts
 Gail Coelho has put her finger on the point precisely, by reminding us of
 the elegant arrangement of the devanagari characters according to a
 remarkable phonological analysis [into kulas, according to points and
@@ -16,10 +11,3 @@ perhaps, in the case of the padapATha].  Perhaps the fact that, for
 BhartRhari, the basic linguistic unit was the sentence [vAkya] rather than
 the word, is also reflected in the devanagari script.
 George Thompson
-
-
-
-
-
-
-

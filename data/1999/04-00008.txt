@@ -1,11 +1,5 @@
-From athr at LOC.GOV  Fri Apr  2 14:12:13 1999
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Fri, 02 Apr 99 09:12:13 -0500
-Subject: zAnta rasa
-Message-ID: <161227047813.23782.17430294271246709570.generated@prod2.harmonylists.io>
-
+zAnta rasa
 One can start with the following books specifically on the subject:
-
 ACCESSION: 17504259
    AUTHOR: Masson, J. Moussaieff (Jeffrey Moussaieff), 1941-
     TITLE: Santarasa and Abhinavagupta's philosophy of aesthetics /
@@ -20,9 +14,7 @@ PUBLISHER: Bhandarkar Oriental Research Institute,
            Bibliography: p. [179]-188.
   SUBJECT: Abhinavagupta, -- Rajanaka.
     OTHER: Patwardhan, M. V.
-
  Next Record
-
 ACCESSION: 15018076
    AUTHOR: Jhingana, Kanana.
     TITLE: Nirguna santakavya mem santa rasa /
@@ -42,9 +34,7 @@ medieval Hindi
            Hindi poetry, Hindi -- 1500-1800 -- History and
 criticism.
            Sublime, The, in literature.
-
  Next Record
-
 ACCESSION: 6864104
    AUTHOR: Seetharamiah, Mysore Venkatadasappa, 1910-
     TITLE: Kannada sahityadalli santarasa /
@@ -59,9 +49,7 @@ PUBLISHER: Karnataka Visvavidyalaya,
            Bibliography: p. [96]-98.
   SUBJECT: Kannada literature -- History and criticism.
            Quietude in literature.
-
  Next Record
-
 ACCESSION: 3572019
    AUTHOR: Bhattacharya, Shashthi Prasad.
     TITLE: Santa rasa and its scope in literature /
@@ -84,9 +72,7 @@ of the
   SUBJECT: Sanskrit poetry -- History and criticism.
            Poetics.
            Rasas.
-
  Next Record
-
 ACCESSION: 133358
    AUTHOR: Masson, J. Moussaieff (Jeffrey Moussaieff), 1941-
     TITLE: Santarasa and Abhinavagupta's philosophy of aesthetics,
@@ -100,11 +86,8 @@ PUBLISHER: Bhandarkar Oriental Research Institute,
            Bibliography: p. [179]-188.
   SUBJECT: Abhinavagupta, -- Rajanaka.
     OTHER: Patwardhan, M. V. joint author.
-
-
 And also it will be treated in  these general histories of Sanskrit
 poetics:
-
 ACCESSION: 3568155
    AUTHOR: Gerow, Edwin.
     TITLE: Indian poetics /
@@ -120,10 +103,7 @@ technical
      ISBN: 3447017228 :
   SUBJECT: Indic poetry -- History and criticism.
            Poetics.
-
-
 Next record
-
 ACCESSION: 126317
    AUTHOR: De, Sushil Kumar.
     TITLE: History of Sanskrit poetics.
@@ -140,9 +120,7 @@ Studies in
   SUBJECT: Sanskrit poetry -- History and criticism.
            Sanskrit language -- Metrics and rhythmics.
 ALT TITLE: Studies in the history of Sanskrit poetics
-
 Next record
-
 ACCESSION: 1043332
    AUTHOR: Kane, Pandurang Vaman, 1880-
     TITLE: History of Sanskrit poetics.
@@ -159,15 +137,8 @@ Devanagari
 [397]-446.
   SUBJECT: Poetics.
            Sanskrit poetry -- History and criticism.
-
-
-
 Sincerely,
-
 Allen Thrasher
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Southern Asia Section
@@ -180,10 +151,5 @@ U.S.A.
 tel. 202-707-3732
 fax 202-707-1724
 email: athr at loc.gov
-
 The opinions expressed do not necessarily represent those of the
 Library of Congress.
-
-
-
-

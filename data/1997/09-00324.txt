@@ -1,32 +1,19 @@
-From mahadevasiva at HOTMAIL.COM  Wed Sep 24 17:07:19 1997
-From: mahadevasiva at HOTMAIL.COM (S Krishna)
-Date: Wed, 24 Sep 97 10:07:19 -0700
-Subject: Hindi PC DOS announced
-Message-ID: <161227032721.23782.11664070980633657659.generated@prod2.harmonylists.io>
-
+Hindi PC DOS announced
 Sorry for the nitpick, but I notice some very interesting( and
 inconsistent) logic being used here....
->
->Hindi PC DOS announced
-> To commemorate the Official Language Day, TATA IBM today announced the
 availability of the Hindi PC DOS in India.  PC DOS  is the  first and
 only operating system in Hindi. This landmark effort by IBM is in
 response tothe commitment of the Government of India to promote the
 Hindi language.
->
->
 In a country where only 5% of the population speaks English, language
 ithe biggest barrier to computer literacy. The Tata IBM initiative
 willenable the Hindi speaking population of 360 million to have access
                      -------
->
-
 I don't think I"m terribly off the mark when I say that the majority
 i.e. atleast 85% those who understand English can also read and write
 it....while 360 million can understand Hindi, what is the proportion of
 the people who can read and write Hindi?( and can thereby use
 whatever software is available in Hindi..)
-
 Also, pls note that learning a computer language is not all that
 difficult, I've seen that is infinitely easier for people to learn how
 to write code than learning to write/speak grammatical English..one look
@@ -35,7 +22,6 @@ I mean...so what is all this talk about not knowing English being an
 impediment for not being able to programme?..if people can watch a James
 Bond movie and understand it, I suppose they know enough English to
 write code.....
-
  As for the world of programming being made open to 360 million people,
 in a place where many of these 360 million people don't get 2 square
 meals a day, does IBM really think that this would lead to a spate of
@@ -65,8 +51,6 @@ your helicopter and bring home what you need to...Can you give me a
 better way to solve the food-shortage problem, you old idiot?":-),:-)..
 this was meant as a joke, but IBM and the GOI seem all ready to
 implement this in India......
-
-
  I am also curious to know as to what kind of *grammar* would be used by
 software which would be developed in Hindi. A statment like RUN( at the
 end of a program) may make sense to an English speaker, but would the
@@ -74,31 +58,19 @@ corresponding "dauDO" make sense to a Hindiwallah?( or for that matter
 in any other Indian language)...other choices in Hindi would be
 "Shuru karo"( start), "karo"(do) etc..not a whole lot better than
 "dauDO"....
-
->Note this is just note the kind of program that would apper
->computers in their language. This will create a critical mass of
 computer literate people who will contribute to the growth of India's
 software developer population.
-
 Given the fact that most of the software industry is located in
 Bangalore, wouldn't it be good idea to get things going in Kannada?The
 critical mass, I'm sure can be achieve faster then, I'd think....or is
 this the GOIs effort to bring to fructification Bharatiyars song wherein
 we find "Malayalam girls singing Telugu songs" and by analogy "Kannada
 speakers programming in Hindi":-)
-
-
-
-
->
->September 14th is India's " Official Language Day."  It was initiated
 by Dr. Rajendra Prasad, the first  President of India in 1950, as a
 commitmentof the Government of India to promote Hindi as the Official
 Language. TheOfficial Language Act of 1949, which makes the use of Hindi
 in Central Government Offices mandatory all across the country also
 resulted from this commitment.
->
-
 It was *initiated*( in the most literal sense) by Rajendra
 Prasad....AFAIK, the bill for introducing Hindi as the national language
 was introduced by Gopalaswamy Iyengar and was voted upon....I believe
@@ -116,13 +88,6 @@ language of many people; so what do those poor souls do? Getting
 non-Hindi speakers to choose between programming/any thing else  in
 English or Hindi is like getting a person to choose between the devil
 and the deep blue sea.
-
 Regards,
 Krishna
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

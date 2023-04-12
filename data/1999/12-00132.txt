@@ -1,14 +1,8 @@
-From jds10 at CAM.AC.UK  Thu Dec  9 11:04:43 1999
-From: jds10 at CAM.AC.UK (John Smith)
-Date: Thu, 09 Dec 99 11:04:43 +0000
-Subject: Transliteration fonts: "extra" characters
-Message-ID: <161227054366.23782.4797068650132626515.generated@prod2.harmonylists.io>
-
+Transliteration fonts: "extra" characters
 A lot of people use my Norman and CSX+ fonts. Each of these encodings
 gives access to a wide range of accented characters useful for work with
 Indian languages in transliteration, but from time to time I receive a
 request for some special "extra" character.
-
 I have decided to meet these requests by creating a set of supplementary
 fonts. These will use the same underlying typefaces as the existing ones,
 so that printed output will not show any discontinuities. To emphasise
@@ -20,7 +14,6 @@ The CARB fonts will retain the normal ASCII characters in the first 128
 slots, so it would be possible to continue typing "normal" text in them,
 but to access the more conventional accented characters you would have to
 switch back to Norman/CSX+.
-
 If there are special characters that you would like to be able to use,
 please let me know. When I have a list of people's requirements, I intend
 to release a set of fonts in perhaps a week or ten days from now.
@@ -28,15 +21,8 @@ to release a set of fonts in perhaps a week or ten days from now.
 time to time, as I receive further requests, I will make new versions; but
 it is obviously sensible to try to accommodate as many requirements as
 possible in the first release.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

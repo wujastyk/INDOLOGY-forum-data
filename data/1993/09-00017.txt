@@ -1,22 +1,8 @@
-From NEIS at automation.university-library.cambridge.ac.uk  Thu Sep  2 16:28:00 1993
-From: NEIS at automation.university-library.cambridge.ac.uk (NEIS at automation.university-library.cambridge.ac.uk)
-Date: Thu, 02 Sep 93 16:28:00 +0000
-Subject: India office OPAC?
-Message-ID: <161227016112.23782.6229236149103637017.generated@prod2.harmonylists.io>
-
-
+India office OPAC?
 For those who wish to see the hundreds of libraries other than the
 British Library which are now online might I recommend a simple dip 
 into a display version of hytelnet. It does not let you connect
 to things but it may whet your appetite to get the program, and it
 might give you up-to-date information you want...
-
 telnet access.usask.ca
 hytelnet
-
- 
-
-
-
-
-

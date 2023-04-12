@@ -1,21 +1,13 @@
-From s._kalyanaraman at mail.asiandevbank.org  Mon Feb 27 07:51:05 1995
-From: s._kalyanaraman at mail.asiandevbank.org (s. kalyanaraman)
-Date: Mon, 27 Feb 95 07:51:05 +0000
-Subject: Semantic clustering technique in South Asian dictionary
-Message-ID: <161227018745.23782.160789643061241096.generated@prod2.harmonylists.io>
-
+Semantic clustering technique in South Asian dictionary
      Re: Semantic clustering technique in South Asian comparative, etymological 
      dictionary of S. Kalyanaraman
-
      I have been asked to give an example of 'semantic clustering' which I claim
      to be a unique method of compiling comparative etyma for South Asian       
      languages.   
- 
      The etyma related to mukha = mouth, face (Rgveda) will continue to be a    
      bone of contention among the proponents of the so-called Indo-Aryan,       
      Austro-Asiatic (Munda) and Dravidian language streams, each claiming       
      'ancient' status. 
-       
      Burrow and Emeneau's Dravidian etyma include: muukku nose (Tamil); 
      mukku nose (Telugu); muucuucu to smell (Telugu); muka- id. (Tamil); 
      mukam face, mouth (Tamil); mogamu id. (Telugu); muum face (Pengo); 
@@ -23,49 +15,40 @@ Message-ID: <161227018745.23782.160789643061241096.generated@prod2.harmonylists.
      (Kolami); mudra face (Maltese); muun~ju to suck (penis) (KoDagu); 
      mokku bow, obeisance (Kannada); moqtre to bend (head)(Maltese); moqe 
      to eat (Maltese); mOvaay chin, beard (Tamil)
-     
      Turner's Indo-Aryan etyma include: mukha entrance (Skt.); mouth, face 
      (Skt.Pali); muha id. (Prakrt); muy, mui face (Gypsy); muh, mu~h 
      (Hindi); mucha mustache (Sindhi); mo~-ch hair on face (Awadhi); 
      muhanaa river mouth (Bengali); mukhya pertaining to face of mouth 
      (Atharva veda); chief (Taittiriiya samhitaa); mukhiyaa village headman 
      (Nepali); muuka dumb (Vaajasneyi samhitaa); muuga id. (Pali)
-     
      Is it really possible to isolate the substratum phoneme: (m-k) from its    
      inherent 'meaning' or 'image' related to: 
-
                      beak, nose, mouth, chin, mustache, face. 
-
      moco goco = mustache (goco = beard); moca, mukha = mouth; mocon = mouth    
      of animal; moToc = watering mouth; dumukhia = having two mouths; paRak     
      moca = foul mouthed; mu~ = nose; mu~ get = to cut off nose; samuk = before 
      one's face; mukha mukhi, mu~ha~ mu~hi~ = face to face; modabila =          
      to face, to bring; cha=mua~u = to show one's face; mukhia = a leader       
      (Santali)
-   
      Munda languages provide the firm foundation to link the linguistic 
      unity of South Asia in such substantive 'images' as I have tried to 
      demonstrate in my dictionary. An excellent treatise is FBJ Kuiper's        
      Pro-Munda words in Sanskrit, excerpts of which I have appended in the      
      dictionary.
-
      I think I have proved that Burrow and Emeneau's work is an aberrant,       
      erroneous construct of a artificial family; most of their etyma (over 4,000
      out of 5,000) really belong with the rest of the family of languages of    
      South Asia.
-     
      If artists contend that the most distinguishing feature of a person 
      that strikes a beholder is the nose, the phoneme (m-k) seems to be an 
      adequate sound representation of the asscciated image or face of a 
      person. If this is so, Burrow and Emeneau may be proved right. 
-
      I believe, that it is not necessary to establish 'ancestry' for a word. If 
      it is found across scores of languages spread across vast distances, and   
      authenticated in very, very ancient literary texts and epigraphs, it does  
      not really matter which phonetic variant came first, despite Mayrhoffer and
      Burrow/Emeneau disagreeing. What is more important are the 'images'        
      associated with or evoked by the phonemic variants of a language-family.   
- 
      Philologists who, presently, agree with Mayrhoffer (who traces it to muh,  
      muha of Afghan, Caucasusian) or Burrow/Emeneau may will find in the South  
      Asian comparative, dictionary thousands of such 'imageable' words, and see 
@@ -74,11 +57,5 @@ Message-ID: <161227018745.23782.160789643061241096.generated@prod2.harmonylists.
      (mustache) on surface-level, superficial grammatical divergences 
      between the so-called Indo-Aryan, so-called Munda and so-called 
      Dravidian tongues].          
-
-     
      Dr. S. Kalyanaraman 20/7 Warren Road, Mylapore, Madras 600-004, India
      Tel. 91-44-493-6288; Fax. 91-44-499-6380.
-
- 
-
-

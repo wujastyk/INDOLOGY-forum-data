@@ -1,19 +1,5 @@
-From Steiner at MAILER.UNI-MARBURG.DE  Tue Feb 16 10:31:27 1999
-From: Steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Tue, 16 Feb 99 11:31:27 +0100
-Subject: Reference check on line of Bhagavad Gita.  Variation or errata
-In-Reply-To: <19990216085532.7373.qmail@hotmail.com>
-Message-ID: <161227046404.23782.7440582318436771511.generated@prod2.harmonylists.io>
-
+Reference check on line of Bhagavad Gita.  Variation or errata
 On 16 Feb 99, at 3:55, Harry Spier wrote:
-> In Van Buitenen's book the last line of verse 28 is (I'm
-> transliterating in HK convention):
-> dRSTvemAn svajanAn kRSNa yuyutsUn samavasthitAn ||
-> [...]
-> Does anyone know if the line in Van Buitenen's book is an accurate
-> rendition of the BORI critical edition? Is this a genuine variation
-> or errata?
-
 The line is identical with the wording adopted by Bevalkar in his
 critical edition of 1947. In his critical apparatus he gives the
 following variant readings:
@@ -21,7 +7,3 @@ dRSTvemAn : dRSTvemaM : dRSTvaitaan : dRSTvA saM- (sic) :
 dRSTvaivaM; svajanAn : sujanAn : svajanaM; yuyutsUn : yuyutsuM
 : yuddhAya; samavasthitAn : samupasthitaM : samavasthitaM :
 samupasthitaan.
-
-
-
-

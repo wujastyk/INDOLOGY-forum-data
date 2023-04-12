@@ -1,18 +1,10 @@
-From caf57 at cam.ac.uk  Fri Jul  4 07:11:32 2014
-From: caf57 at cam.ac.uk (C.A. Formigatti)
-Date: Fri, 04 Jul 14 08:11:32 +0100
-Subject: [INDOLOGY] Corrections in Manuscripts
-In-Reply-To: <mailman.53.1404403219.31260.indology_list.indology.info@list.indology.info>
-Message-ID: <c63865fb896568c295adc84450e602ff@cam.ac.uk>
-
+[INDOLOGY] Corrections in Manuscripts
 Dear Dr Montelle,
-
 Besides the seminal work by Janetr suggested by Prof. Slaje and the two 
 Gujarati works suggested by Dr Patel, it is worth having a look at 
 Murthy's Introduction to Manuscriptology. According to Murthy (p. 109), 
 "In a context, letter/s or word/s may have to be omitted. [...] 
 sometimes, yellow pigment or turmeric is smeared over such portion."
-
 This technique was very widespread, but judging from the manuscripts in 
 our Cambridge collection (a fair sample of 1600 mss) I have the 
 impression that it was applied more often on paper manuscripts, whereas 
@@ -20,70 +12,10 @@ in the case of palm-leaf manuscripts other techniques were more often
 employed -- for instance, expunction, deletion or erasing of the 
 relevant aksaras or of an entire passage. Yet we do not have any 
 quantitative study.
-
 Another very useful book that you can consult on the topic of 
 corrections is of course
-
 Einicke, Katrin:
 Korrektur, Differenzierung und Abk?rzung in indischen Inschriften und 
 Handschriften / Katrin Einicke. - Wiesbaden : Harrassowitz, 2009.
-
 Best wishes,
-
 Camillo Formigatti
-
-> Dear All,
-> 
-> I have been considering the ways in which scribes made corrections in
-> the manuscripts they were copying, specifically in numerical tables.
-> Of course, there are a variety of practices that (some are neater than
-> others!). One way of interest is the use of what appears to be (in the
-> colour copies of manuscripts I have) a yellowish paste or paint (an
-> early version of modern day ?white-out? or ?twink??) which can
-> then written over.
-> 
-> I attach a couple of examples. (The first example it has been used
-> along several successive values in the third row, and in the second an
-> entire column as well as individual entries.)
-> 
-> Does anybody know more about this technique? What was the substance
-> used? How widespread is this? Where can I read more about this?
-> 
-> With best wishes,
-> 
-> Clemency
-> 
-> Dr Clemency Montelle
-> 
-> http://www.math.canterbury.ac.nz/~c.montelle/ [1]
-> 
-> Department of Mathematics and Statistics
-> 
-> University of Canterbury | Te Whare Wananga o Waitaha
-> 
-> Private Bag 4800, Christchurch 8140
-> 
-> NEW ZEALAND
-> 
-> ph +64 3 364 2267
-> 
-> fax +64 3 364 2587
-> 
-> This email may be confidential and subject to legal privilege, it may
-> not reflect the views of the University of Canterbury, and it is not
-> guaranteed to be virus free. If you are not an intended recipient,
-> please notify the sender immediately and erase all copies of the
-> message
-> and any attachments.
-> 
-> Please refer to http://www.canterbury.ac.nz/emaildisclaimer for more
-> information.
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://list.indology.info/mailman/listinfo/indology_list.indology.info
-
-
-
-
-

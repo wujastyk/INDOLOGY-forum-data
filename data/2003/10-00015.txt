@@ -1,34 +1,16 @@
-From steiner at MAILER.UNI-MARBURG.DE  Fri Oct 10 11:21:37 2003
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Fri, 10 Oct 03 13:21:37 +0200
-Subject: help with identifying a metre
-In-Reply-To: <3.0.6.32.20031010125605.008592d0@pop.lu.se>
-Message-ID: <161227073298.23782.9116465028307487093.generated@prod2.harmonylists.io>
-
+help with identifying a metre
 As I already wrote Jonathan Silk off-line, the four lines are indeed composed in the Aaryaa
 metre (with minor defects):
-
 v = short syllable or 1 maatraa
 - = long syllable or 2 maatraa-s
-
 mama bhavatu mara.na.m maatu sthitasya dharme vizuddhabhaavasya /
 v v v v v [!] / v v - / - -  // v - v / - - / v - u / - - / -
-
 na tu jiivitena kaarya.m sajjana<jana>dhikk.rtena mama //
 v v - / v - v / - - // - v v / <v v> - / v / - v v / -
-
-
 svargasya dharmalopo yato bhavati jiivitena ki.m tena /
 - - / v - v / - -  //  v - v / v v - / v - v / - - / -
-
 mama mara.nahetunaa vai budhaparibhuutena dhikk.rtena //
 v v v v / v - v / - -  // v v v v / - - / v / - v - [!] / -
-
 or to be analysed as : v v v v / v - v / - -  // v v v v / - - / v  - v / -  - / [!] (Giiti)
-
 With kind regards,
 Roland Steiner
-
-
-
-

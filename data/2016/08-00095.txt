@@ -1,69 +1,29 @@
-From hhhock at illinois.edu  Wed Aug 10 17:26:25 2016
-From: hhhock at illinois.edu (Hock, Hans Henrich)
-Date: Wed, 10 Aug 16 17:26:25 +0000
-Subject: [INDOLOGY] Sinhala half nasal plus m
-In-Reply-To: <CAOXgvioOkjaUqDJFmsppqTWQozaPT7PnTfF-u7QWcodYHx3k9g@mail.gmail.com>
-Message-ID: <0EA5226F-ECBE-48F5-A4C6-55F51F6CBF13@illinois.edu>
-
+[INDOLOGY] Sinhala half nasal plus m
 Thanks, Suresh.
-
 A few things?
-
 1. Your B? did survive in the message that I received.
-
 2. I?m not so sure whether it will survive (across platform) if incorporated in Word document (Apple?s Pages is, I believe, readable only on Macs; I don?t know about Open Office).
-
 3. So here?s perhaps the most important question: What word processing applications are fully Unicode-compliant or, to use a double negative, are not non-Unicode applications? (The font that I am using, the old war horse Times New Roman, is Unicode-compliant, as far as I can tell.)
-
 Cheers,
-
 Hans
-
 On 10 Aug 2016, at 12:08, Suresh Kolichala <suresh.kolichala at gmail.com<mailto:suresh.kolichala at gmail.com>> wrote:
-
 Thanks, Hans. Combined Characters such as m? should survive through multiple transmissions across different platforms, as long as the applications utilized are fully compatible with Unicode.
-
 Technically speaking, I believe the problems you have had with your wonderful volume are not really single-glyph characters vs. multi-glyph characters, but Unicode vs. non-Unicode. As you may know, the standard for extended Latin characters predates Unicode. For example, ISO 8859-1 includes many commonly used symbols for Indological transliteration such as  ?, ?, ?, ?, ?, ?, ?, ?, ?, ? was first published in March 1985. Many non-Unicode applications support these extended Latin characters, and therefore you find them survive through multiple transmissions (Unicode is compatible with these Latin extensions as well).
-
 However, many of the new characters added for the Unicode standard, will not survive through the use of non-Unicode applications, whether they are single glyph or multi-glyph. For example, ? (Latin Capital Letter B with dot above) is a single glyph character, but I am pretty sure it will not survive transmission through non-Unicode applications (let's see how many find ? in their emails correctly).
-
 Alas, until the computing world rids itself of all pestiferous non-Unicode applications, perhaps, we will have to deal with the headaches of diacritics!
-
 Suresh.
-
-
 On Wed, Aug 10, 2016 at 11:46 AM, Hock, Hans Henrich <hhhock at illinois.edu<mailto:hhhock at illinois.edu>> wrote:
 Thanks, Suresh.
-
 Would that things were that simple. The proper transcription, m?, with candra, but no bindu, can be produced through what are called rendering machines; but when sending files back and forth between different platforms for the volume The languages and linguistic of South Asia, we found that this character, as well as characters such as ??, did not always survive intact but instead showed up as blanks. Unlike single-glyph characters, these are not stable. We therefore always made sure to add a pdf version, so that messed-up characters could be restored.
-
 All the best,
-
 Hans
-
-
 On 10 Aug 2016, at 09:13, Suresh Kolichala <suresh.kolichala at gmail.com<mailto:suresh.kolichala at gmail.com>> wrote:
-
 Dear Rolf and others,
-
 Sorry for a late response, but I just saw this thread. Since I have some experience with Unicode as a member of the Unicode Consortium, Here are my quick remarks:
-
   1.  Please don't use ? for transcribing the half nasal. ? is used for anusv?ra in ISO-15919. Sinhala should be using ISO-15919, not IAST. ? is not used in ISO-15919.
   2.  I don't know what work/application you need this symbol for, but the use of combining diacritical marks are very common in Unicode, and widely used for Indological purposes, as Hans pointed out.
   3.  m? should serve your purposes for representing the labial prenasalized consonant ? (U+0DB9 SINHALA LETTER AMBA BAYANNA)
   4.  In the world of Unicode, nobody should be bothering about individual glyphs. If you work requires it, then, it is perhaps using an outdated technology. Abandon it :).
   5.  If you use Unicode, it should not matter whether you are using a Mac, PC or any other publishing software. The text should be as transportable as the ordinary English Text (which follows ASCII standard). Unicode is an international standard, and almost all the applications and operating systems developed in the last decade should fully support it.
-
 Regards,
 Suresh.
-
-
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160810/e752333e/attachment.htm>
-

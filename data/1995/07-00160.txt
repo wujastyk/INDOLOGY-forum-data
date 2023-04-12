@@ -1,36 +1,17 @@
-From ucgadkw at ucl.ac.uk  Fri Jul 28 17:45:01 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 28 Jul 95 17:45:01 +0000
-Subject: Web page again
-Message-ID: <161227020152.23782.9903281823179749848.generated@prod2.harmonylists.io>
-
-
+Web page again
 A big thank you to those of you who have given me feedback on the
 INDOLOGY web page.  It seems to have pleased everyone, which is nice.
-
 For me it is a bit like a tar-baby, though, and I keep fiddling,
 rearranging, and adding things.  It will probably settle down after a
 few weeks, but at the moment its layout and content change fairly
 often, though not very radically.  So keep checking.
-
 If you have a URL you think should be included, let me know.  My aim is
 to make the tree of INDOLOGY's other URL's have as steep a gradient as
 possible.  That's not very clear is it.  What I mean is that as few URLs
 should point to as many useful services as possible: the thing should
 branch out sharply.
-
 A known problem is that when retrieving John Smith's programs, the
 browser tries (and fails) to execute them rather than downloading them
 as text.  Or is this just an artefact of my browser?  Anyone?
-
 Thanks again,
-
 Dominik
-
-
- 
-
-
-
-
-

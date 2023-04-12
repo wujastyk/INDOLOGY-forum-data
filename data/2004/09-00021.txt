@@ -1,16 +1,10 @@
-From Gerard.Huet at INRIA.FR  Wed Sep  8 16:57:36 2004
-From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
-Date: Wed, 08 Sep 04 18:57:36 +0200
-Subject: Release of Sanskrit platform
-Message-ID: <161227074918.23782.8817162396776648852.generated@prod2.harmonylists.io>
-
+Release of Sanskrit platform
 This is to announce the Sept 8th release of my Sanskrit computational
 linguistics platform,
 available at http://pauillac.inria.fr/~huet/SKT/
 The verbal morphology is now complete, for the present system (present,
 imperfect,
 optative, imperative), passive, perfect, future and aorist.
-
 This may be tested at
 http://pauillac.inria.fr/~huet/SKT/DICO/grammar.html
 where you submit the root (in Velthuis transliteration form) and the
@@ -18,13 +12,11 @@ present class.
 E.g.: bhuu 1, as 2, m.rj 2, han 2, haa 3, hu 3, daa 4, su 5, p.r 6, yuj
 7, k.r 8, j~naa 9,
 namas 10, etc.
-
 Conversely, a lemmatiser (at
 http://pauillac.inria.fr/~huet/SKT/DICO/index.html#stemmer)
 attempts to tag inflected words.
 Try for instance apibat, akaar.siit, dudoha, vaahyate, etc (clicking on
 Verb).
-
 An experimental segmenter/tagger is also available. It will segment
 simple sentences, verb final, such as maarjaarodugdha.mpibati,
 analysing the required sandhi.
@@ -37,7 +29,6 @@ and to decompose compounds. It is able to correctly analyse forms such
 as
 ihehi (iha-aa-ihi = come here), and adhiiye (I learn, with sandhi
 duplicating the i).
-
 The current syntax of recognized phrases is N*.(1+V) with V=(P+1).R
 that is a list of noun forms followed optionally with a verb, where a
 verb is optionally a
@@ -52,7 +43,6 @@ prati, pratini, prativi, pratisam, pratyaa, pratyut, prani, pravi,
 pravyaa, praa, vi, vini, vini.h, viparaa, vipari, vipra, vyati, vyapa,
 vyava, vyaa, vyut, sa, sa.mni, sa.mpra, sa.mprati, sa.mpravi, sa"mvi,
 sam, samava, samaa, samut, samudaa, samudvi, samupa.
-
 Full lists of declined forms are available as downloadable free
 linguistic resources.
 The first one comprises 135,000 declined nouns (it includes pronouns,
@@ -62,7 +52,6 @@ forms). The second one
 comprises 74,000 conjugated root forms. These data bases are available
 in pdf format and
 XML (given with a DTD).
-
 This work is still in a very preliminary form, since it has not been
 tested yet on real
 corpus. I beg the indulgence of the reader, since many mistakes and
@@ -81,14 +70,8 @@ are missing. On the other hand, I generally generate both active
 (aatmanepada) forms, so report non attested forms only when they do not
 make sense
 semantically.
-
 All these tools are available one click away from the Sanskrit
 dictionary index, at
 http://pauillac.inria.fr/~huet/SKT/DICO/
 Enjoy
-
 Gerard Huet
-
-
-
-

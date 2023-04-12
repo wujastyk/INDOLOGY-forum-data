@@ -1,29 +1,5 @@
-From Francois.Patte at MATH-INFO.UNIV-PARIS5.FR  Tue May 16 09:46:49 2000
-From: Francois.Patte at MATH-INFO.UNIV-PARIS5.FR (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
-Date: Tue, 16 May 00 11:46:49 +0200
-Subject: Devanagari font for LaTeX
-Message-ID: <161227058563.23782.12037687915251132192.generated@prod2.harmonylists.io>
-
+Devanagari font for LaTeX
 Toke Lindegaard Knudsen wrote:
-
-> Dear members of the Indoloy list,
->
-> I usually use LaTeX to prepare documents and I am thus wondering whether a
-> devanagari font for LaTeX is available.  If so, how can I obtain it?
->
-> Thank you very much.
->
-> Sincerely,
-> Toke Lindegaard Knudsen
-
 On every CTAN site, follow:  /language/devanagari/distrib/
-
-
--- Fran?ois Patte. UFR de math?matiques et informatique.
 45 rue des St P?res. 75270 Paris Cedex 06
-Tel: 01 44 55 35 59 -- Fax: 01 44 55 35 35
 http://www.math-info.univ-paris5.fr/~patte
-
-
-
-

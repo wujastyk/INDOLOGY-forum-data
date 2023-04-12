@@ -1,10 +1,2 @@
-From glhart at BERKELEY.EDU  Tue Mar 27 18:15:45 2012
-From: glhart at BERKELEY.EDU (George Hart)
-Date: Tue, 27 Mar 12 11:15:45 -0700
-Subject: Font
-Message-ID: <161227095764.23782.3759622172478454946.generated@prod2.harmonylists.io>
-
+Font
 I have found the Devanagari - QWERTY "Input Source" (System Preferences, Languages and Text) on the Mac to work quite well.  It uses "f" as a ????? and makes it easy to type the ligatures in Sanskrit, including ???, which is missing in some implementations.  It has the enormous advantage of producing the standard unicode encoding and being built into the operating system.  Unfortunately, Word for the Mac and Adobe's Creative Suite do not handle Indian unicode.  For the Mac, one must use a program like Nisus or other cocoa-based application. It's also worth noting that Indian unicode does not work properly in pdf's, as it does not allow copying or searching.  One should be careful, I think, before using custom fonts (encodings) for Devanagari or other Indian scripts, as in a few years anything one writes will be unreadable by anyone else -- and the system used may become obsolete on anything but an old computer (like, for example, MacWrite documents on OS 9).    It is certain that Unicode documents will retain their currency, or at least be easily convertible to the latest standard.  George Hart
-
-
-

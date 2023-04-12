@@ -1,75 +1,40 @@
-From palaniappa at aol.com  Fri Jan  9 05:20:59 2015
-From: palaniappa at aol.com (palaniappa at aol.com)
-Date: Fri, 09 Jan 15 00:20:59 -0500
-Subject: [INDOLOGY] N. Ganesan's Dravidian etymologies for Indo-Aryan and Dravidian words meaning 'crocodile'
-In-Reply-To: <14acd1daf4d-5ced-523a@webstg-m01.mail.aol.com>
-Message-ID: <14acd236e99-5ced-5256@webstg-m01.mail.aol.com>
-
-
-
-
-
+[INDOLOGY] N. Ganesan's Dravidian etymologies for Indo-Aryan and Dravidian words meaning 'crocodile'
 DearIndologists,
- 
 Sorry, all thediacritics in my earlier post did not come through right. So I am resending thepost.  I apologize for the lengthof this post. I summarize its contents first. Those who are interested in thedetails can read further.
- 
 In multipleInternet posts N. Ganesan has mentioned an article of his entitled, "A Dravidian Etymology for Makara - Crocodile," published by the International School of Dravidian Linguistics in2011.  (See Attachment 1 for the article.) In this article, Ganesan offersnew etymologies for words meaning crocodile such as Sanskrit makara, Sanskrit nakra/n??kra,Tamil mutalai, and Tamil vi???a??
 kar/i???a??
 kar. As far as I can see,the article seems to have serious flaws from the viewpoints of linguistics andphilology. While usually an article of such a nature might not receive any seriousattention from scholars, the fact that it is said to be published byInternational School of Dravidian Linguistics suggests that it undergo scrutinyby scholars. 
- 
 In thediscussion below, I point out some of the problems I see in the article and Iwould appreciate any comments from the members of this list. 
----------------------------------------------------------------------------------------
- 
 Etymology forSanskrit makara
 Dravidian EtymologicalDictionary (Revised edition, abbreviated as DEDR) entry 4952 gives thefollowing words for crocodile.
- 
 4952 Ta.mutalai, muta???ai, mucali crocodile. Ma. mutala. Ko. moca???.Ka. mosa???e, masa???e. Ko???. mosale. Tu. mosa?????, mudal??, muda?????,m??dal??. Te. mosali. Kol. (Kin.) moseli. Pa. m??ca. Kon???a(BB) m??di, m??di. Kur. (BB) b??ca. Malt. boce. / Cf.Skt. (lex.) m??cala- crocodile; (lex.) musali-house-lizard; alligator; Pkt. muduga- = gr??havi??esa-.
- 
 Based on the aboveentry, Bh. Krishnamurti has given  * m??c- / *moc-V??? as the Proto-Dravidian form for the wordfor crocodile.  (Dravidian Languages, 2003, p. 13). 
- 
 However, on p.7 ofhis article, Ganesan states, "The Proto-Dravidian root for makara is *mokaray- a verbal noun from the verb, *mok-/*mo??
 ku- 'to eat greedily in large mouthfuls, eat voraciously,devour, gobble, swallow' (DEDR 5127+4897)." 
- 
 DEDR entries 4897and 5127 are given below.
- 
 4897 Ta.mukku (mukki-) to eat in large mouthfuls; mokku (mokki-), mokki-tti???-to eat greedily in large mouthfuls. Ka. mukku to eat in a certainmanner, put any dry grain, etc., into the mouth with the hollowed hand andgobble; mukku???, mukku???e mouthful of water for rinsing the mouth, rinsingthe mouth, cleaning the teeth; mukku???isu to rinse the mouth, spit out,abandon, reject. Tu. mukkuni to gobble, swallow, devour; mukk??vunito over-feed (tr.); mukkele voracious man; mukkuli, mukku???imouthful of any liquid; mukkuliyuni, mukku???iyuni to gargle or rinse themouth. Te. bokku to eat greedily, stuff the mouth and eatvoraciously, gobble. Kui muka (muki-) to cast food into the mouthwith the hand; mukal mouthful; mukal giva to rinse out the mouth,take a mouthful, gargle. Kuwi (Isr.) buk- (-it-) togobble, swallow. Cf. 5127 Ma. m??kuka. 
- 
 5127 Ma. m??kuka,m??ntuka to drink, sip; m??yikka to give to sip; m??val a gulp. Kur.m??xn?? to eat (anything except cooked rice); pass. or refl. m??xrn??;m??xta'??n?? to cause or allow someone to eat. Malt. m??qe to eat(as meat or fruit). ? Ta. moci (-pp-, -tt-) to eat; m??ntu (m??nti-)to eat, drink, experience, enjoy Cf. 4897 Ta. mukku. 
- 
 I do not understandhow Ganesan could get the Proto-Dravidian 'root' *mo???ku- from theseentries.
- 
 Having postulated *mok-/*mo??
 ku- from DEDR 5127 and 4897, Ganesan states:
- 
 "The Dravidian verb, mok-/mo??
 k- transformsto moc-/mo??c- in south Dravidian languages." 
- 
 As far as I know,there has been no basis for such a context-free transformation mentioned in anywork on comparative Dravidian phonology. (Moreover, as one can see above inDEDR 4592, the words for 'crocodile' in north Dravidian languages, Kurukh andMalto, also have -c- and not -k- in DEDR 4952.)
-   
 Then Ganesan goes onto say:
- 
 "HenceKannada and Telugu have mosale or mosali (< *mokaray), and Tamil andMalayalam derives its mosale> motalai > mutalai from thesame verbal root, mok- with -r- > -l- alternation in theSouth." 
- 
 Ganesan has notpresented any evidence of -oka- transforming to -oca- or -osa- in south Dravidian languages. So,in my opinion, Ganesan has not provided an acceptable Dravidian etymology thatsupposedly explains Sanskrit 'makara' as well as Tamil mutalai. 
- 
- 
 Etymologyfor nakra/n??kra
 Ganesan also hasgiven an etymology for Indo-Aryan words for gharial, the long-snoutedcrocodile. 
- 
 On p. 4 of hispaper, Ganesan says, " The god ??iva in Tamil bhakti texts of the firstmillennium, is extolled as either nakkar or vi???a??
 kar indicating ??iva???snudity and his virile lingam in particular. These epithets for ??iva andhis lingam have origin in the names for gharial crocodile (Section 3.0). When vi???a??
 kuis used, it indicates the naked bhik????????ana youth going rounds in thestreets and attracting women: ma???aika??? t?????um talai kai ??nti vi???a??
 kar??kittirivatu e????????? (Tevaram 7.6.1)." 
- 
 The interpretationof Tamil vi???a??
 kar as indicating a naked ??iva is simply not valid according to Tamilphilology.  Indeed thetext quoted by Ganesan is translated by V. M. Subramanya Iyer in the Digital T??v??ramedition (from EFEO, Pondicherry) as "what is the reason for wandering from house to house,assuming a beauteous form and asking alms, " where he translates vi???a??
 kar as'beauteous form??? (http://tinyurl.com/p7vg2wl).  That vi???a??
 karis not naked is shown by T??v??ram 7.36.3, another verse by Cuntarar, the sameperson who authored the verse quoted by Ganesan too. In this verse translatedby V. M. Subramanya Iyer, Vi???a??
 kar is explicitly described as wearing aloin-cloth as given below (http://tinyurl.com/nbns4gt).
- 
 You are pure in your eyes, mouth andbody, you wear a sewn loin-cloth, give up dancing along with p??y in thecremation-ground, areyou a mad person? Ourmaster! Civa???,who is known by the name of ??ra???iya vi???a??
 kar in Pai??????li surrounded by averdant garden which has mast wood trees, cool and green delight of the woods,and lotus flowers growing in the moats into which water flows.
- 
 So there is noconnection between nudity and vi???a??
 kar as claimed by Ganesan. 
- 

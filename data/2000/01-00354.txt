@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Sat Jan 22 16:13:18 2000
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Sat, 22 Jan 00 11:13:18 -0500
-Subject: Vedic accent in taittiriya samhita
-In-Reply-To: <388A0E42.33@del3.vsnl.net.in>
-Message-ID: <161227055450.23782.11593895316353443462.generated@prod2.harmonylists.io>
-
+Vedic accent in taittiriya samhita
 Bharat Gupta has given a good description of the musicalized recitation of
 the TS and the microtonal gaps between different notes.  There is no doubt
 that the current recitation of the TS, especially in south India, is far
@@ -37,70 +31,5 @@ by three notes in the Saaman recitation.  Thus, the RV (and possibly the
 YV and AV accents as well) were originally not musicalized at all.
 However, with the loss of accents in the classical language, the
 musicalization of Vedic recitation steadily progressed over time.
-
                                 Madhav Deshpande
-
 On Sat, 22 Jan 2000, Bharat Gupt wrote:
-
-> > but rather "Today what
-> > would a Brahmin priest of the taittiriya samhita school call the accent
-> > marked by a vertical line above the syllable and chanted by him as a high
-> > note, and what would he call the unmarked syllable chanted by him as a
-> > midnote?"
-> > In other words "Is the naming of the accents in the introduction of this
-> > chanting book an error?"
-> >
-> > Many thanks in advance,
-> >
-> > Harry Spier
->
-> >
-> > [Krishna Kalale]  The letter with a vertical line on top - is known as
-> > udAtta (high note)
-> > The letter unmarked is svarita (middle note)  and the letter with a
-> > horizontal line (like a minus sign) below it is known as anudAtta.
-> >    (lower note)
-> > Krishna Kalale
->
-> Broadly speaking the Anudaatta, Udaatta and Svarita svaras of Rgveda paatha and the
-> Saam, including the Taittiriiyapratitshaakhya, as heard today, can be equated with Ni,
-> Sa, and Ri of the North Indian Kafi scale (Kharaharapriya of the Karnataka melas).  This
-> means that Horizontal line in written text indicates the Anudaatta, unmarked is Udaatta
-> and the vertical line marked is Svarita.  This is  contrary  to  what is found written
-> in the book mentioned by Prof. Spier.
->
-> All the modern scholars and recorders of Vedic chants from Fox- Strangways (1914) have
-> noted that in musical pitch Svarita today is higher than Udatta. Not only the vertical
-> line indicates it but in some recitation tradition the reciter raises his head up to
-> indicate the rise of pitch of Svarita and brings it down to indicate Anudaataa.
->
-> The saying "samaahaarah svaritah", has often led to the belief that Svarita lies in
-> between the Udaatta and Anudaatta. Hence it has also been interpreted as the circumflex
-> note, in which the pitch rises and then falls down even to Anudaatta. But that is only
-> part of the general tradition of rendering in Indian singing, recitation or paatha,
-> Vedic or Laukika.  The notes are always used not by jumping from one to another but with
->  a glide. These glides becomes gamaka and other alankaaras in secular music.
->
-> The point of pitch to which the Svarita goes is the definitional location of the svara
-> called svarita and this pitch is higher than that of Udaatta.
->
-> The Paniniya "samaahaarah svaritah" is to be understood not in terms of the pitch of the
-> note in comparison to the pitch of Udaatta, but in terms of the musical interval on the
-> scale, that is to say, that while Udaatta is a four s'ruti(microtonal interval) note,
-> Anudaata is a two s'ruti note, the Svarita is a three s'ruti note. The example as above,
-> Sa, Ni and Ri respectively.
->
-> It may also be noted that Abhinavagupta has elaborated on the samaahaar by explaining
-> the s'ruti intervals.
->
-> For a very detailed survey of nearly a hundred years of research and recording of chants
-> , it may be useul to refer to THE SAMAN CHANTS BY GH TARLEKAR, 1985 Indian Musical
-> Society, Baroda and a review of it by me in Journal of the Sangeet Natak Academy, March
-> 1987. Number 83.
->
-> Bharat Gupt
->
-
-
-
-

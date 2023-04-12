@@ -1,23 +1,14 @@
-From k.kupfer at EM.UNI-FRANKFURT.DE  Wed Nov 24 14:50:20 1999
-From: k.kupfer at EM.UNI-FRANKFURT.DE (Katharina Kupfer)
-Date: Wed, 24 Nov 99 15:50:20 +0100
-Subject: Diacritics font
-Message-ID: <161227054002.23782.8207858861566905729.generated@prod2.harmonylists.io>
-
+Diacritics font
 TITUS offers some TrueType Fonts including diacrtics. You can download
 them from
 http://titus.fkidg1.uni-frankfurt.de
 "Instrumentalia", then "Weichware/Zeichensaetze"
-
 for transcribing Devanagari
 http://titus.fkidg1.uni-frankfurt.de/software/fonts/titidgft.htm
-
 I havn't used one of them in MS Access, but they will work with Word.
 Best regards
 KK
---
 ......................................................................................
-
  Katharina Kupfer M.A.
 http://titus.uni-frankfurt.de/personal/kkupfer.htm
  Vergleichende Sprachwissenschaft  :  Tel.  +- 49 - 69 - 798 23 139
@@ -25,7 +16,3 @@ http://titus.uni-frankfurt.de/personal/kkupfer.htm
  PF  11 19 32                      :  k.kupfer at em.uni-frankfurt.de
  D - 60054 Frankfurt
 http://titus.fkidg1.uni-frankfurt.de/texte/tocharic/tht.htm
-
-
-
-

@@ -1,9 +1,4 @@
-From mkapstei at UCHICAGO.EDU  Tue May  1 10:58:31 2007
-From: mkapstei at UCHICAGO.EDU (mkapstei at UCHICAGO.EDU)
-Date: Tue, 01 May 07 05:58:31 -0500
-Subject: pratiika/allegory
-Message-ID: <161227080066.23782.16586053391143975510.generated@prod2.harmonylists.io>
-
+pratiika/allegory
 In current Indian writing on Sanskrit drama,
 the term pratiika-naa.taka is sometimes used for
 allegorical dramas in the tradition of the
@@ -12,7 +7,6 @@ Suuryasa.mkalpodaya, Caitanyacandrodaya, Am.rtodaya,
 etc. But just when and where is this term
 pratiika-naa.taka first used? Is it, in fact, 
 a modern coinage based on Eng. "allegorical drama"?
-
 Even if the term is of recent origin, was there ever
 another way of theorizing "allegory" in traditional
 dramaturgy and poetics? (In esoteric religious materials,
@@ -20,7 +14,6 @@ of course, we find such notions as niguu.dhaartha applied to
 allegorical readings of tantric texts and the like, but
 I am not interested in that sort of thing here, unless
 a direct link to notions of literary allegory seems likely.)
-
 Of course, as has been widely noted, the practice of
 allegorical writing in India can be found as early as
 some hymns of the .rg-veda. However, I am not interested here
@@ -28,16 +21,9 @@ in texts that, as a matter of fact, are allegorical or
 have been treated as allegorical (e.g., Za.nkara's reading of
 Arjuna's grief at the opening of BhG). My question concerns
 just the conceptualization and theorization of "allegory."
-
 With thanks for your houghts about this.
-
 Matthew T. Kapstein
 Numata Visiting Professor of Buddhist Studies
 The University of Chicago Divinity School
-
 Directeur d'?tudes
 Ecole Pratique des Hautes Etudes, Paris
-
-
-
-

@@ -1,94 +1,46 @@
-From christophe.vielle at uclouvain.be  Fri Mar 26 17:54:12 2021
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Fri, 26 Mar 21 17:54:12 +0000
-Subject: =?utf-8?Q?[INDOLOGY]_Re:_Brahm=C4=81=E1=B9=87=E1=B8=8Dapur=C4=81=E1=B9=87a_edition?=
-In-Reply-To: <CAPAZekYSRa3Hsz7i_axBDBaQLwz21eFnC_sW8LpDNYRNoBYaRQ@mail.gmail.com>
-Message-ID: <15A32A74-3E7C-4437-B1D2-95B5FDCC6CEC@uclouvain.be>
-
+=?utf-8?Q?[INDOLOGY]_Re:_Brahm=C4=81=E1=B9=87=E1=B8=8Dapur=C4=81=E1=B9=87a_edition?=
 I dare to add some information:
-
 ? "The Bombay edition": Atha Brahm???amah?pur??a? pr?rabhyate, Mumbai: ?r?ve?ka?e?vara Steam Press, 1906 (?ake 1828 / V.S. 1963), was reprinted in 1912 (?ake 1834 / V.S. 1969) with the Lalitop?khy?na added (from f? 204 v?); then a new edition (viz. a new typographical composition) was produced by K?emar?ja ?r?k???ad?s, Mumbai: ?r?ve?ka?e?vara Press, 1935 (?ake 1857 / V.S. 1992). It is this last edition which has then been reprinted both as being the ?ed. K. V. Sharma?, Varanasi: Krishnadas Academy (Chowkhamba Press), Krishnadas Sanskrit series no. 41, 1983, 20002, 2009 etc., and New Delhi: Rashtriya Sanskrit Sansthan, 20023; and also as being the ?ed. J. L. Shastri? (with a "re-cutting" 1,5 f? = 1 p.), Delhi: Motilal Banarsidass, 1973, 19832 (+ in both cases, a new introduction and pada-index).
-
 ? "The Calcutta edition" (in Bengali script): by Devendran?tha Vasu (with Bengali translation and notes by Nagendran?tha Vasu), Calcutta, Vi?vako?a Office, 1891-1894 (B. S. 1298-1301), 23 fascicules bounded en 1 vol. 1895 (B. S. 1302) ; reed. by Pa?c?nana Tarkaratna (with Bengali translation), Calcutta, Va?gav?s? Press, 1908 (B. S. 1315), 19892 (B. S. 1396).
-
 Here a concordance of the V?P-B?P editions:  The Calcutta ed. of the B?P presents a text often closer to the one edited under the title V?P; it is incomplete.
-
 Le 26 mars 2021 ? 17:35, David and Nancy Reigle <dnreigle at gmail.com<mailto:dnreigle at gmail.com>> a ?crit :
-
 Dear Toke,
-
 Here is a link to this edition:
-
 https://archive.org/details/BrahmandaMahapuranEdByDr.KVSharmaKrishnaDasAcademy/page/n205/mode/2up<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2FBrahmandaMahapuranEdByDr.KVSharmaKrishnaDasAcademy%2Fpage%2Fn205%2Fmode%2F2up&data=04%7C01%7Cchristophe.vielle%40uclouvain.be%7Cfc455f9f17c44a7dcd4208d8f0752cd6%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637523734067802594%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=yPT22ud9ldiUML05aJ32%2FpxDQYgUhVn5benRCa2ftrA%3D&reserved=0>
-
 The pur??a text in this edition is a reprint of one of the Venkatesvara Press printings. So it is the old Venkatesvara Press edition, first published in 1906. This edition has more than the usual number of corrupt readings, as has been noted by several researchers who used it. R. C. Hazra in his Studies in the Puranic Records on Hindu Rites and Customs used the Vangavasi Press edition, which was published in Calcutta in 1908, probably in Bengali script. I have not seen it, and have been trying to obtain a copy of it. This edition seems to have significant differences from the Venkatesvara Press edition, in the way of additions and omissions and better readings. The Epic and Puranic Bibliography lists three other editions published in Calcutta, 1895, 1908, and 1940, that I have no way to check. They are not held in any North American Library and have not yet been scanned by the Digital Library of India, as far as I can find.  As far as I know, the Venkatesvara Press edition and the Calcutta editions are the only independently made editions that were based directly on manuscripts. I would be glad to get a copy of any of the Calcutta editions.
-
 Best regards,
-
 David Reigle
 Colorado, U.S.A.
-
 On Fri, Mar 26, 2021 at 9:04 AM Toke Knudsen <Toke.Knudsen at oneonta.edu<mailto:Toke.Knudsen at oneonta.edu>> wrote:
 Hi all,
-
 Would anyone happen to have a PDF version of the following edition of the Brahm???apur??a?
-
 The  Brahm???a Mah?pur??a with English Introduction, Verse-Index and Textual Correction
 Editor: K. V. Sharma
 Varanasi: Krishnadas Academy, 2000 (reprint)
-
 A PDF of another edition would work as well.
-
 Alternatively, if anyone has access to the physical book of the above edition, I?m merely looking for a couple of page references.
-
 Many thanks in advance.
-
 Best wishes,
 Toke
-
------
 Toke Lindegaard Knudsen, Ph.D.
-
 Associate Professor
 Department of Mathematics, Computer Science, and Statistics
 State University of New York at Oneonta
-
 Affiliated Researcher
 Department of Cross-Cultural and Regional Studies
 University of Copenhagen
-
 Associate Editor
 Convergence
 https://www.maa.org/press/periodicals/convergence<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.maa.org%2Fpress%2Fperiodicals%2Fconvergence&data=04%7C01%7Cchristophe.vielle%40uclouvain.be%7Cfc455f9f17c44a7dcd4208d8f0752cd6%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637523734067802594%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ymqZfdEYNNonqkeHDyHDmmu7LyRNEkOmoe8WgpKRjww%3D&reserved=0>
-
 <toke.knudsen at oneonta.edu<mailto:toke.knudsen at oneonta.edu>>
-_______________________________________________
 INDOLOGY mailing list -- indology at list.indology.info<mailto:indology at list.indology.info>
 To unsubscribe send an email to indology-leave at list.indology.info<mailto:indology-leave at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=04%7C01%7Cchristophe.vielle%40uclouvain.be%7Cfc455f9f17c44a7dcd4208d8f0752cd6%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637523734067812584%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=TwDezZtQXAXgC1N2cjKS2QBSS2WnQ8gyxb4B60fSQEg%3D&reserved=0> (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list -- indology at list.indology.info<mailto:indology at list.indology.info>
 To unsubscribe send an email to indology-leave at list.indology.info<mailto:indology-leave at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-
 ???????????????????
 Christophe Vielle<https://uclouvain.be/en/directories/christophe.vielle>
 Louvain-la-Neuve
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210326/245e679f/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: TableofconcordanceBdP-VaP.pdf
-Type: application/pdf
-Size: 147392 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20210326/245e679f/attachment.pdf>
-

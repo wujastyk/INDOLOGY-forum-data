@@ -1,9 +1,4 @@
-From thompson at jlc.net  Wed Sep 11 03:03:11 1996
-From: thompson at jlc.net (thompson at jlc.net)
-Date: Tue, 10 Sep 96 23:03:11 -0400
-Subject: Q: Sanskrit Alphabetical Order
-Message-ID: <161227025955.23782.13672917347241596959.generated@prod2.harmonylists.io>
-
+Q: Sanskrit Alphabetical Order
 While I agree with Saverio Sani's response to N. Ganesan's query, it
 occurred to me that a more detailed response might be of use to N. Ganesan
 and to the rest of us. First of all, not being competent myself in
@@ -11,7 +6,6 @@ Dravidian linguistics, I would ask those who are to recommend literature on
 the relationship between Skt. grammarians and their Dravidian counterparts.
 I suppose the question that is on Ganesan's mind is the direction of
 influence [if any]: which way?
-
 As for the arrangement of Skt. vowels and consonants, that is a very
 impressive achievement indeed [presumably of the Skt grammarians, without
 anybody's influence].  The vowels are arranged by point of articulation
@@ -34,15 +28,6 @@ inheritance from IE, nor a borrowing from Dravidian grammarians [as far as
 I know], but is attributable directly to the Snaskrit grammarians
 themselves [descendents, I would argue, of the Vedic poets, also
 connoisseurs of Sanskrit].
-
 W.S. Allen's book "Phonetics in Ancient India" touches on many of these issues.
-
 best wishes,
 George Thompson
-
-
-
-
-
-
-

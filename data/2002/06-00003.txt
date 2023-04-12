@@ -1,53 +1,13 @@
-From rsalomon at U.WASHINGTON.EDU  Tue Jun  4 19:29:33 2002
-From: rsalomon at U.WASHINGTON.EDU (Richard Salomon)
-Date: Tue, 04 Jun 02 12:29:33 -0700
-Subject: Which number the naada indicates?
-Message-ID: <161227071069.23782.4068800597394527621.generated@prod2.harmonylists.io>
-
+Which number the naada indicates?
 I have had a quick look through the two most comprehensive lists of
 chronogram words, namely:
-
     D.C. Sircar, Indian Epigraphy, pp. 230-3
     P.V. Kane, History of Dharmasastra, vol.V.1, pp.702-3.
-
 I didn't find any listing for either naada or s'abda, so I think taking
 naada as = svara = 7 is the safest. But please check these lists (and also
 the one in Buhler's Indian Paleography) more carefully than I did before
 reaching a final conclusion!
-
 Richard Salomon
-
-
------ Original Message -----
-From: "Mahes Raj Pant" <mahesrajpant at HOTMAIL.COM>
-To: <INDOLOGY at liverpool.ac.uk>
 Sent: Tuesday, June 04, 2002 7:02 AM
-Subject: Which number the naada indicates?
-
-
-> Dear List Members
->
-> Could you tell me what actually means naada that is used to express a
-> particular number in dating an inscription from Nepal? The line reads as
-> such:
->
->       naade skandamukhe hy anaNgavishikhe nepaalasam.vatsare
->
-> As I think, naada usually cannot be a synonymous with svara that expresses
+Which number the naada indicates?
 a
-> collection of seven musical notes and resultantly implies 7.
-> Rather naada is one of the synonyms of shabda (e.g. Amara I.6.22c-23).I am
-> curious to know whether shabda and/or its synonyms indicate  a certain
-> number or not?
->
-> Mahes Raj Pant
->
->
-> _________________________________________________________________
-> MSN Photos is the easiest way to share and print your photos:
-> http://photos.msn.com/support/worldwide.aspx
->
-
-
-
-

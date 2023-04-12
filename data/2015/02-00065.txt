@@ -1,86 +1,8 @@
-From ondracka at ff.cuni.cz  Sun Feb  8 21:06:53 2015
-From: ondracka at ff.cuni.cz (Lubomir Ondracka)
-Date: Sun, 08 Feb 15 21:06:53 +0000
-Subject: [INDOLOGY] Examples of very ambiguous devanagari Sanskrit sentences
-In-Reply-To: <CAPW7aQESirbR2RPjx1g5JL3xC_1xg6PPG6_SVCXRaP5A_pQbNQ@mail.gmail.com>
-Message-ID: <20150208210653.d86c6d32d2915312fa782e5c@ff.cuni.cz>
-
+[INDOLOGY] Examples of very ambiguous devanagari Sanskrit sentences
 RV 8.100.11d: s???uta?tu
-
 1. s???ut? etu  "may she [the goddess Speech], meetly lauded, go away"
 2. s???ut? ?? etu "may she, meetly lauded, come [to us]"
-
 (Filliozat, Sanskrit Language, p. 19)
-
 LO
-
-
 On Sun, 8 Feb 2015 15:09:57 -0500
 Harry Spier <hspier.muktabodha at gmail.com> wrote:
-
-> Thanks for these replies.
-> 
-> What will help me the most is some very simple Sanskrit phrases that
-> show  completely different meanings by how you put breaks in the
-> transliteration.  I need to show examples of this to non-sanskritist,
-> non-devanagari knowing typesetters.
-> 
-> The best I could come up with is:
-> 
-> ???????????? ?????? ?
-> 
-> which can be:
-> 
-> pu?pam adhyeti smarati ca He turns his mind towards the lotus and remembers
-> it.
-> 
-> or
-> pu?pa-madhyeti smarati ca = pu?pa-madhya iti smarati ca = He  remembers  [the
-> phrase] "the middle of the lotus"
-> 
-> More examples like this would be useful.
-> 
-> Thanks,
-> Harry Spier
-> 
-> On Sun, Feb 8, 2015 at 1:40 PM, Lubomir Ondracka <ondracka at ff.cuni.cz>
-> wrote:
-> 
-> > See Yigal Bronner's book on ?le?a (Extreme Poetry: The South Asian
-> > Movement of Simultaneous Narration, Columbia UP 2010). Nice example using
-> > two ways of splitting sandhi leading to very different meanings is on page
-> > 101. You will probably find more examples in this book.
-> >
-> > Lubom?r Ondra?ka
-> >
-> >
-> >
-> > On Sun, 8 Feb 2015 12:15:17 -0500
-> > Harry Spier <hspier.muktabodha at gmail.com> wrote:
-> >
-> > > Dear list members,
-> > >
-> > > I need to show to some non-sanskritists that given a Sanskrit phrase in
-> > > devanagari, that how you put in the word breaks in the transliteration
-> > can
-> > > result in phrases with very different meanings.
-> > >
-> > > Can any of the list members give examples of short sentences in simple
-> > > sanskrit in devanagari that when the words are split  differently in the
-> > > transliteration give grammatically correct Sanskrit sentences but produce
-> > > Sanskrit phrases with  "radically" different meanings.
-> > >
-> > > For my purposes simple Sanskrit sentences are better than more
-> > complicated
-> > > Sanskrit from the literature.  And sentences that give very different
-> > > meanings depending on how the words are broken up are better than more
-> > > subtle differences.
-> > >
-> > > Thanks,
-> > > Harry Spier
-> >
-
-
-
-
-

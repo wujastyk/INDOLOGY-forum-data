@@ -1,22 +1,13 @@
-From naga_ganesan at HOTMAIL.COM  Fri Jun  4 17:37:01 1999
-From: naga_ganesan at HOTMAIL.COM (N.Ganesan)
-Date: Fri, 04 Jun 99 10:37:01 -0700
-Subject: Tamil and Prakrit Consonant Assimilation
-Message-ID: <161227049973.23782.9621929336963037184.generated@prod2.harmonylists.io>
-
+Tamil and Prakrit Consonant Assimilation
   Tamil and Prakrit Consonant Assimilation
   -----------------------------------------
-
 Sanskrit consonant clusters, 'rm' and 'rN' change to
 Prakrit 'mm' and 'NN' respectively. In Vedic, there are
 only very few words with consonant groups 'mm'. Later in
 time, most Sanskrit words with 'rm' transform into 'mm'.
 This simplification process through assimilation can be
 observed in Old Tamil also.
-
 EXAMPLES:
----------
-
                 Sanskrit           |     Prakrit
           --------------------------------------------------
                 karNa (ear)        |     kaNNa
@@ -25,9 +16,6 @@ EXAMPLES:
                 pUrNa (full)       |     puNNa
                 parNa (leaf)       |     paNNa
                 nirNaya (decision) |     niNNaya
-
-
-
                 Sanskrit           |     Prakrit
           ----------------------------------------------
                 karman (action)    |     kamma
@@ -36,53 +24,30 @@ EXAMPLES:
                 gharma (heat)      |     ghamma
                 carman (skin)      |     camma
                 kUrma (tortoise)   |     kumma
-
   Compunds with nir-(without)
                nirmathana(churning)|     nimmathana (Pali)
                nirmala (clean)     |     nimmala (Pali)
                nirmUla (rootless)  |     nimmUla (Pali)
-
-
 TAMIL EXAMPLES:
----------------
-
 In old Tamil, parallel processes of assimilation can be observed
 from "rum" to "mm" and from "run" to "n2n2' (taking "n"
 as ta. dental n and "n2" as ta. alveolar n).
-
 "rum" -> "mm"
---------------
 1) porumal (plumpness/abundance) -> pommal
 2) cerumAn2 (leather worker) -> cemmAn2 (cf. ceruppu = sandals)
 3) perumAn2 (great man) -> pemmAn2
-
-
 "run" -> "n2n2"
---------------
 1) nerunal (the day before) -> nen2n2al
-
 This assimilation is present partially in certain word pairs
 1) parutti (cotton), pan2n2al 2) karumpu (sugarcane), kan2n2al.
 Campantar (7th century CE) sings "karunal paravai kamaz kAzi"
 Can this *karunal taken to mean sugarcane??
 karnATu appears to be a back formaton from kan2n2ATu (boulder/hill
 country).
-
 Is this "rm to mm" and "rN/rn to NN/nn" assimilation observed in
 both Aryan an Dravidian languages, an area defining feature
 like echo words, reduplication, onomotopoeic words, etc.,?
 If not, is this observed in other language families?
-
 Comments are welcome,
 N. Ganesan
-
-
-
-
-
-_______________________________________________________________
 Get Free Email and Do More On The Web. Visit http://www.msn.com
-
-
-
-

@@ -1,14 +1,7 @@
-From athr at LOC.GOV  Mon Nov 10 23:02:39 2008
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Mon, 10 Nov 08 18:02:39 -0500
-Subject: Number of official languages of India
-Message-ID: <161227083891.23782.3058379153391138094.generated@prod2.harmonylists.io>
-
+Number of official languages of India
 I think the original number of "Schedule Langugages," in the Eighth Schedule of the Constitution of India, was 14.  Sindhi was added in 1967, making 15.   This remained stable for a quarter-century, until 1992 when Konkani, Manipuri, and Nepali were added, making 18.  Finally, in Bodo, Dogri, Maithili, and Santhali were added, for the current total of 22.  The long period of 15 languages may have led to that figure being copied after it had ceased to be accurate.
-
 Here is the Eighth Schedule, as found on a GOI site for the 
 Constitution < http://lawmin.nic.in/coi/coiason29july08.pdf >.  The first one or more numerals are to footnotes; the last one before the language name its ordinal number in the schedule:
-
 EIGHTH SCHEDULE
 [Articles 344 (1) and 351]
 Languages
@@ -34,7 +27,6 @@ Languages
 9[20.] Tamil.
 9[21.] Telugu.
 9[22.] Urdu.
-
 1Ins. by the Constitution (Ninety-second Amendment) Act, 2003, s. 2.
 2Entry 3 renumbered as entry 5 by s. 2, ibid.
 3Entries 4 to 7 renumbered as entries 6 to 9 by s. 2, ibid.
@@ -46,13 +38,7 @@ Languages
 8Entry 15 renumbered as entry 19 by the Constitution (Ninety-second Amendment) Act,
 2003, s. 2.
 9Entries 16 to 18 renumbered as entries 20 to 22 by s. 2, ibid.
-
-
 Allen
-
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -62,7 +48,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

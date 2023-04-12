@@ -1,16 +1,9 @@
-From EVERSON at IRLEARN.UCD.IE  Tue Oct 12 16:04:37 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Tue, 12 Oct 93 16:04:37 +0000
-Subject: List of Language Lists, Version 1.3
-Message-ID: <161227016211.23782.10915228195495532728.generated@prod2.harmonylists.io>
-
+List of Language Lists, Version 1.3
 Computer Bulletin Boards for Individual Languages,
 or,
 The List of Language Lists
- 
 Prepared by Bernard Comrie & Michael Everson
 Version 1.3 (12 October 1993)
- 
 This file lists bulletin boards devoted primarily to the
 linguistic study of individual languages and groups of languages
 (though a couple of others, in particular lists for language
@@ -18,46 +11,35 @@ learners, have been included as well). It would be great if other
 correspondents to LINGUIST will be encouraged to maintain
 corresponding lists for branches of linguistics, particular
 approaches to linguistics, language teaching, etc.
- 
 The usual way of subscribing to a list is to send the following
 message to the listserver (not to the address for enquiries):
- 
   SUBSCRIBE <name of list> <your first name> <your last name>
- 
 In the listing below, the name of the list is given in capital
 letters inside parentheses. When you subscribe, you will receive
 instructions on how to contribute to the list, and on how to
 remove your name from the subscription list (usually: SIGNOFF
 <name of list> (UNSUBSCRIBE works too)).
- 
 A list of mailing lists available on Internet is available by
 anonymous ftp from ftp.nisc.sri.com (192.33.33.32) in the file
 /netinfo/ interest-groups. A directory of scholarly electronic
 conferences is maintained by Diane K. Kovacs
 (dkovacs at kentvm.bitnet or @kentvm.kent.edu) and is available by
 sending the message
- 
      get acadlist readme
- 
 to one of the following addresses:
- 
      listserv at kentvm.bitnet
      listserv at kentvm.kent.edu
- 
 The materials you will receive include instructions for getting
 more detailed descriptions of particular sets of electronic
 conferences (e.g. LANGUAGES, LINGUISTICS). Those interested in
 contacting speakers of languages (not necessarily linguists)
 should also consider contacting the appropriate soc.culture list
 (e.g. soc.culture.polish).
- 
 The order of the lists follows somewhat the Library of Congress
 Subject headings; no attempt at bibliographical perfection has
 been	attempted.
- 
 This list is available by anonymous ftp from colossus at irlearn.ucd.ie
 (137.43.50.59) in /everson.
- 
 Please send corrections and emendations to this list to:
   Bernard Comrie (h00917 at jpnac.bitnet)/(h00917 at sinet.ad.jp) and
   Michael Everson (everson at irlearn.ucd.ie)
@@ -766,17 +748,9 @@ For questions, contact:
 Computer Bulletin Boards for Individual Languages
 or,
 The List of Language Lists
- 
 Prepared by Bernard Comrie & Michael Everson
 Version 1.3 (12 October 1993)
 ==========
- 
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
-
-
-
-
-

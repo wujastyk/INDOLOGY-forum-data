@@ -1,43 +1,18 @@
-From arlogriffiths at hotmail.com  Sat Dec 28 07:24:45 2013
-From: arlogriffiths at hotmail.com (Arlo Griffiths)
-Date: Sat, 28 Dec 13 07:24:45 +0000
-Subject: [INDOLOGY] ISO 15919
-Message-ID: <DUB114-W70168DDFBED3264AB07C68A5CC0@phx.gbl>
-
+[INDOLOGY] ISO 15919
 Dear colleagues,
-
 I have read today with appreciation the wikipedia page http://en.wikipedia.org/wiki/ISO_15919 which explains in clear language some basic issues about the Romanization choices that we need to make so often, and that some of us are forced to reflect upon at the points of transition between Indian studies and neighboring fields of study, or even within Indian studies, as soon as one deals with more than only Sanskrit sources. ISO 15919 provides a standard that one can cite, while for the "IAST" that we all follow more or less faithfully, there is nothing better (as far as I know) than the Rapport of 1894 (http://shashir.autodidactus.org/shashir_umich/dl/rapportdetranscription.pdf).
 Indeed, that wikipedia page explains: "IAST is not a standard (as no specification exists for it) but a convention developed in Europe for the transliteration of Sanskrit rather than the transcription of Indic scripts." (I don't understand why the terms transliteration and transcription are confounded, but OK.) I think I would myself like to adopt this standard from now on.
-
 I assume that some members of this list were involved in the establishment of ISO 15919, so I address some related questions to the list.
-
 (1) Does anyone have a pdf handy of "ISO 15919:2001 Information and documentation -- Transliteration of Devanagari and related Indic scripts into Latin characters", which apparently costs 128 CHF if one buys it through the ISO website:
-
 http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=28333
-
 (2) How does one cite such a document in a bibliography?
-
 (3) Does ISO 15919 provide a means for disambiguating cases of juxtaposed vowels from the unitary semivowel signs  (e.g. prauga which is not ????? but ?????)? (The use of the umlaut sign, often used conventionally in Indian studies, but not to my knowledge based on any published standard, is not convenient typographically as soon as long vowels come into play.)
-
 (4) In the part of the document that is previewable, it is first stated:
-
 "This International Standard provides tables which enable the transliteration into Latin characters from text in Indic scripts which are largely specified in rows 09 to 0D of UCS (ISO/IEC 10646-1 and Unicode)."
-
 But the expectations raised by the use of the comprehensive term "Indic scripts" are immediately limited in what seems a somewhat arbitrary manner, incompatible with the universal pretensions of ISO:
-
 "The tables provide for the Devanagari, Bengali (including the characters used for writing Assamese), Gujarati, Gurmukhi, Kannada, Malayalam, Oriya, Sinhala, Tamil, and Telugu scripts which are used in India, Nepal, Bangladesh and Sri Lanka. The Devanagari, Bengali, Gujarati, Gurmukhi, and Oriya scripts are North Indian scripts, and the Kannada, Malayalam, Tamil, and Telugu scripts are South Indian scripts.
 The Burmese, Khmer, Thai, Lao and Tibetan scripts which also share a common origin with the Indic scripts, and which are used predominantly in Myanmar, Cambodia, Thailand, Laos, Bhutan and the Tibetan Autonomous Region within China, are not covered by this International Standard."
-
 Does anyone know why other Indic scripts of Southeast Asia (Javanese, Balinese, Cam etc.) were not mentioned at all, and whether there were any considerations of principle (rather than practical difficulties inherent in the transliteration of some Indic scripts used in Southeast Asia) that led to the limitation to Indic scripts from South Asia?
-
 Thank you. Best wishes,
-
 Arlo Griffiths
 EFEO / Jakarta
- 		 	   		  
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131228/66c30dd9/attachment.htm>
-

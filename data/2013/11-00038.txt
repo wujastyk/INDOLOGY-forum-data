@@ -1,47 +1,17 @@
-From hhhock at illinois.edu  Wed Nov 13 22:11:28 2013
-From: hhhock at illinois.edu (Hock, Hans Henrich)
-Date: Wed, 13 Nov 13 22:11:28 +0000
-Subject: [INDOLOGY] Devanagari keyboard
-In-Reply-To: <82C3E42590D939418C74DD76B97DDED07F8BEF@xm-mbx-04-prod.ad.uchicago.edu>
-Message-ID: <21E06465-4611-4E13-B56F-834D1BCEBDDE@illinois.edu>
-
+[INDOLOGY] Devanagari keyboard
 Thanks, Matthew. There does not seem to be a Word-specific keyboard for Nagari. What is there is the general keyboard option provided by the Mac OS, but this doesn't work in Word for Mac. Alack and alas ?
-
 Hans
-
 Hans Henrich Hock
-
-
-
-
-
-
 On 13 Nov 2013, at 16:07, Matthew Kapstein wrote:
-
 Dear Hans,
-
 I do not work very much with Mac myself. But, as I recall, it is fairly easy to find
 and set the language and keyboard options in the recent versions of Mac OS X.
 I haven't used it enough, however, to know the details of the keyboard layout.
-
 Perhaps someone who uses mostly Mac can help you with this.
-
 good luck,
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131113/495cbb62/attachment.htm>
-

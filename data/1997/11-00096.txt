@@ -1,22 +1,7 @@
-From thillaud at UNICE.FR  Mon Nov 10 15:21:28 1997
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Mon, 10 Nov 97 16:21:28 +0100
-Subject: IE & Semitic roots
-In-Reply-To: <199711100942.BAA07691@uclink.berkeley.edu>
-Message-ID: <161227033568.23782.1795229720059737461.generated@prod2.harmonylists.io>
-
+IE & Semitic roots
 At 10:42 +0100 10/11/97, Luis Gonzalez-Reimann wrote:
-
->I'm not sure I understand what you mean by IE roots not having an intrinsic
->vowel.  When you state an IE root, it has a vowel.  Say, for instance, *paa
->(Skt. paal); *men (Skt. man); *deik (Skt. dRz); *do (Skt. daa); *dus (Skt.
->duS).  There are also IE roots that consist solely of vowels; such as *ai,
->*ei, *o.  These can then have different grades.  (I am using Calvert
->Watkins' simplified notation).
-
 That's sure that Eurindian had vowels, but the problem of their status and
 origin in the roots is not simple:
-
         1) we can't consider 'i' and 'u' as pure vowels, because they are
 just vocalic forms of semi-vowels 'y' and 'w' and able to alternate with
 consonantic or diphthongued forms (the same is true for 'm', 'n', 'r' and
@@ -40,16 +25,10 @@ and we know too few about this level of language.
 *derk is (1) (dRz-, Greek derkomai, pf. dedorka "to see with intensity",
 degree empty in Greek drakOn "snake, dragon" (here, Greek 'ra' = Sanskrit
 'R')).
-
 It's therefore possible to say that, in a certain sense, Eurindian *roots*
 are without vowels. Some problems are left unresolved, but this
 presentation is commonly accepted as a good working base.
         Hoping to help,
 Dominique
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

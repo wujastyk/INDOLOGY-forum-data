@@ -1,23 +1,11 @@
-From rhayes at PO-BOX.MCGILL.CA  Wed Jul 19 09:58:43 2000
-From: rhayes at PO-BOX.MCGILL.CA (Richard Hayes)
-Date: Wed, 19 Jul 00 05:58:43 -0400
-Subject: Subject-prefix for INDOLOGY (fwd)
-In-Reply-To: <Pine.SUN.4.21.0007190157590.21651-100000@socrates-a.ucl.ac.uk>
-Message-ID: <161227060112.23782.8139609188400532393.generated@prod2.harmonylists.io>
-
+Subject-prefix for INDOLOGY (fwd)
 If an individual subscriber wishes to have [INDOLOGY] in the subject
 line, this can easily be done by sending the command
 SET INDOLOGY SUBJECTHDR
 to listserv at listserv.liv.ac.uk. I have my subscription set in that
 way, but I would urge against using that as a default subject header
 for everything.
-
---
 Richard P. Hayes
 Faculty of Religious Studies
 McGill University
 rhayes at po-box.mcgill.ca
-
-
-
-

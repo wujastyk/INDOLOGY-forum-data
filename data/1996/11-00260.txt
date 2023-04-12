@@ -1,31 +1,12 @@
 of A.D. 700 as a cutoff date. From <joe-3107960950210001 at stars.pr.mcs.net>,
 here's an explanation of this admittedly rather late endpoint for
 "ancient history":
-
->It's the low point of Latin and Greek classical culture.  It's
->shortly after the Muslim explosion and thus enables discussion
->of (for example) Byzantium up to the Muslim conquest of Syria
->and Egypt, including those conquests.  It's therefore also just
->after the Muslim conquest of the Sasanids.  It's shortly after
->the reign of Harsha in India, and it's just after the
->reunification of China by the Sui.  Every major civilisation of
->the Old World, in other words, has at least  a significant (if
->not crucial) turning point somewhere within a century of AD 700.
->AD 300 would've worked roughly as well (with a different set of
->turning points), but late antiquity doesn't really have a good
->home for discussion elsewhere on Usenet so we went with the
->later date.
-
 For a more detailed explanation, please see post
 <joe-1008961104070001 at stars.pr.mcs.net>, available at the
 above-mentioned sites.
-
-
 CHARTER: soc.history.ancient
-
 This is a news group for discussion of ancient historical cultures existing
 up to circa AD 700.
-
 Appropriate types of articles include discussions of ancient cultures,
 FAQs, booklists, personal insight essays, announcements of new publications
 and research, analyses of historical patterns (i.e., styles of warfare,
@@ -33,7 +14,6 @@ travel, agriculture, etc.), and reviews of current research and television
 series or specials.  Short, non-hype, commercial announcements of books,
 seminars, etc. are also acceptable, but no more than once per month per
 business.
-
 Inappropriate types of articles include commercial advertisements posted
 more frequently than once per month, unrelated to ancient history, or
 including excessive length of hype; non-historical or pseudo-historical
@@ -41,7 +21,6 @@ discussions (what if, alternate history, fantasy cultures, etc.); topics
 outside the date range of the news group; binary files (excluding PGP and
 similar short signatures); and articles focusing on legends (except insofar
 as they affected history), alternative history, and unverifiable events.
-
 Soc.history.ancient is intended to be the first, but not the only, resource
 on Usenet for the reader interested in ancient history.  The newsgroup's
 focus is specifically on history, preferably as it can be known from texts.
@@ -49,7 +28,6 @@ The texts in and of themselves, as literary or linguistic topics, or
 non-textual remains, are secondary in interest on this newsgroup, and
 there are other newsgroups where postings on these topics will often find
 more informed and interested audiences.
-
 Articles on topics for which textual evidence is scant or non-existant should
 be posted to sci.archaeology.moderated or sci.archaeology.  While discussions
 of the Maya, the only known American culture with surviving texts from our
@@ -58,26 +36,20 @@ is more likely to be read by informed specialists in that subject. And for
 postings on topics *primarily about* Old World texts and/or languages of the
 texts themselves, humanities.classics, humanities.language.sanskrit, or
 sci.lang will be a better place to go.
-
 There is no newsgroup for which discussion of ancient art is especially
 on-topic.  Posters are asked to judge which group is most likely to be
 interested or informed on the topic of a post discussing the visual or other
 non-literary arts, and to choose the appropriate newsgroup, perhaps posting
 pointers in one or more other group.  Pointers to binaries posted in
 alt.binaries.pictures.misc or available by e-mail are encouraged.
-
 This charter will be included in the newsgroup's first FAQ.  Thereafter,
 it will be changed only by formal RFD or CFV, or in accordance with the
 renaming or creation of newsgroups relevant to ancient history (such as
 a binaries group for maps, or an Egyptology group, for example).
-
 This group will be unmoderated, allowing anyone with the proper access to
 create or participate in message discussions.
-
 END CHARTER.
-
 PROCEDURE:
-
 This is a request for discussion, not a call for votes.  In this phase of the
 process, any potential problems with the proposed newsgroups should be raised
 and resolved.  The discussion period will continue for a minimum of 21 days
@@ -85,27 +57,20 @@ and resolved.  The discussion period will continue for a minimum of 21 days
 news.announce.newgroups), after which a Call For Votes (CFV) may be posted
 by a neutral vote taker if the discussion warrants it.  Please do not attempt
 to vote until this happens.
-
 All discussion of this proposal should be posted to news.groups.
-
 This RFD attempts to comply fully with the Usenet newsgroup creation
 guidelines outlined in "How to Create a New Usenet Newsgroup" and "How to
 Format and Submit a New Group Proposal".  Please refer to these documents
 (available in news.announce.newgroups) if you have any questions about
 the process.
-
 DISTRIBUTION:
-
 This RFD has been posted to the following newsgroups:
-
   news.announce.newgroups, news.groups
   humanities.classics, sci.archaeology
   sci.archaeology.moderated, sci.classics
   soc.history, soc.history.medieval
   soc.history.moderated, soc.history.war.misc
-
 This RFD has been posted to the following mailing lists:
-
   aegeanet at acpub.duke.edu, anahita at lsv.uky.edu
   ane at oi.uchicago.edu, ancien-l at ulkyvm.louisville.edu
   arch-l at tamvm1.tamu.edu, aztlan at ulkyvm.louisville.edu
@@ -115,24 +80,12 @@ This RFD has been posted to the following mailing lists:
   h-world at msu.edu, history at ukanvm.cc.ukans.edu
   histonwr at ubvm.cc.buffalo.edu, indology at liverpool.ac.uk
   world-l at ubvm.cc.buffalo.edu
-
 -
 Proponent:  First Michael Martinez <mmartin at basis.com>
 Proponent:  Second Joe Bernstein <joe at sfbooks.com>
 Proponent:  Third Stephan Schulz <schulz at informatik.tu-muenchen.de>
 Proponent:  Fourth Patrick Conway <cconway at gpu.srv.ualberta.ca>
-
-
-
---
 Joe Bernstein, writer, bank clerk, and bookstore worker <joe at sfbooks.com>
 speaking for myself alone           <http://www.tezcat.com/~josephb/>
 but...  co-proponent for soc.history.ancient, now under
 discussion in news.groups
-
-
-
-
-
-
-

@@ -1,18 +1,9 @@
-From zydenbos at flevoland.xs4all.nl  Tue Apr 29 22:43:00 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Tue, 29 Apr 97 21:43:00 -0100
-Subject: `Conversational Sanskrit' vs `Real Sanskrit'
-Message-ID: <161227030005.23782.14496763979128917376.generated@prod2.harmonylists.io>
-
-
+`Conversational Sanskrit' vs `Real Sanskrit'
 Replies to msg 28 Apr 97: indology at liverpool.ac.uk
 (vidynath at math.ohio-state.edu)
-
  voe> From: Vidhyanath Rao <vidynath at math.ohio-state.edu>
-
  voe> And am still waiting to know how `real' Sanskrit speakers
  voe> say [...]
-
 Whether you wish to call written Sanskrit which is full of sandhis "reified
 Sanskrit", as you did previously, does not matter either. What matters is that
 written sandhi is found throughout Sanskrit literature. This is a hard,
@@ -23,7 +14,6 @@ mathematical formula or running something through a computer program. But a
 reader must know sandhi in order to understand traditional Sanskrit. This is my
 point, and it always has been my point. I am sorry if I have not been
 sufficiently clear.
-
  voe> The difference can be settled by an experiment that I am not in a
  voe> position to perform. Teach Hindi to a number of students who have
  voe> had no formal instruction in grammar, and not familiar with any
@@ -42,32 +32,22 @@ sufficiently clear.
  voe> the reverse and will have been doing this from the beginning,
  voe> and that this will be inversely correlated with the frequency of the
  voe> `passive' in the student's primary language.
-
 S.K. Chatterjee (in his book to which I referred before) has already noted that
 the dropping of "ne" is precisely what happens in the Hindi of those new
 speakers ("Mai.m pustaka pa.rhaa" etc.), so it is not a prediction of mine: it
 is an empirical fact.
-
 Moreover, this experiment of yours would be wrong. I believe that anyone can
 learn any language. I have learnt more than a dozen languages to date, with
 different levels of active and passive mastery. I also believe that you can
 drill innocent students in such a way as to make them make any kind of mistake,
 which is apparently what you want to do in this experiment. It does not
 disprove any point of mine.
-
 My point is that certain constructions which are extremely common in Indo-Aryan
 are not common at all in Dravidian, and that unfamiliarity with certain
 grammatical features (e.g. ergativity) is an additional hurdle in learning a
 new language, so the HSP tries to hide this in their simplified Sanskrit.
-
->Irrespective of our considerations on more abstract and debatable levels,
->what matters very much is the switch from "aha.m pa.thaami" to
->"mayaa pa.thitam", clearly visible in the surface grammar.
->Why should "aham" suddenly become "mayaa"?
-
  voe> The real question is why ``aham aagata.h'' but ``mayaa
  voe> pa.thitam''?
-
 But this is a different issue. We were talking about "aha.m pa.thitavaan", and
 I believe it was you who pointed out that this was a characteristic of HSP
 Sanskrit. I responded to that remark (and I now regret that I did, and I will
@@ -76,20 +56,13 @@ about "accusative languages", "ergatives" and what not, and a truly serious
 discussion about these matters is more philosophical than linguistic. This is
 most interesting, but my own thoughts on such semiological topics are such that
 I would need a small bookful of space to explain them.
-
 (We may also note that in HSP Sanskrit, one says not "aham aagata.h" but "aha.m
 aagatavaan", although this too is not common Sanskrit, in an obvious
 parallelism to "aha.m pustaka.m pa.thitavaan". Why? Again: simplification
 through superficial similarity - let all the past tense forms look alike.)
-
-> - which I think is a waste of time and energy when something is
->glaringly obvious. It is just as obvious as the surface grammar in
->my explanation of -tavant.
-
  voe> It is also `obvious' that the sun goes around the earth or that
  voe> when the motive force is removed, moving objects will come
  voe> to a stop. Why dig deeper?
-
 This depends entirely on what you want. You are, e.g., free to leave the
 empiricalness of falling objects and to speculate about gravitation. It is
 quite nice to do so. But think of this: when an airplane runs out of fuel, it
@@ -101,11 +74,4 @@ any such theory will dispel the need for a fuel tank. The remarks I made about
 seen any better explanation of this empirical phenomenon about which we have no
 differences and which is not explained when we merely use terms like "ergative"
 in preference over "passive", "transitive" etc.
-
 - Robert Zydenbos
-
-
-
-
-
-

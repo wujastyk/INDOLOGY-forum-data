@@ -1,43 +1,9 @@
-From pclaus at HAYWIRE.CSUHAYWARD.EDU  Wed May  6 16:07:17 1998
-From: pclaus at HAYWIRE.CSUHAYWARD.EDU (Peter J. Claus)
-Date: Wed, 06 May 98 09:07:17 -0700
-Subject: Indian Place Names Website
-In-Reply-To: <01IWPGZU2UDE003VP6@cl.uh.edu>
-Message-ID: <161227038225.23782.9363049189121742709.generated@prod2.harmonylists.io>
-
+Indian Place Names Website
 The Indian village/district/state census material is availbable on disk
 (and for all I know on a website).  It would be a rather easy job to
 extract the names from the statistical data.  I have done so for my own
 use in the case of certain districts of Karnataka and AP.  It took me a
 couple of days (partly to write a program, partly to figure out data set
 what I wanted)
-
 Peter Claus
-
-
 On Wed, 6 May 1998, N. Ganesan wrote:
-
-> It will be wonderful to have a website with
-> all the place names of every Indian state.
->
-> Indian state governments have published their
-> village/town/city names. Those publications are hard to get,
-> have very less circulation, and poorly printed on ink-smearing,
-> deep-brown, brittle papers. Even if one goes and seeks those books,
-> the bureaucrats are uasually not in a mood to sell or give info.
->
-> Once the website is established and linked to
-> for example, Indology, Inst. of Indology & Tamil Studies (Koeln),
-> RISA-L, Vyakarana-l, ... it will be easier for
-> Dravidian/Munda specialists acan to write papers on
-> the etymology of site names; Dravidian/Munda speakers with
-> high university degrees can help the dravidian/munda academics
-> with good pointers.
->
-> Regards,
-> N. Ganesan
->
-
-
-
-

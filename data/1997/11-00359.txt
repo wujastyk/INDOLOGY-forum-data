@@ -1,14 +1,10 @@
->???From Muneo Tokunaga,
-
 Dear List Members,
-
 After finishing my work on a new critical edition
 of the
 BRhaddevataa, which will be published in December
 from
 Kyoto, I want to come back to my work on epic
 meters.
-
 Last time I digitalized the whole texts of the
 Mahaabhaarata
 and the RaamaayaNa, which I suppose many of you
@@ -26,7 +22,6 @@ they were
 not completely ready for everybody's use in many
 points,
 before the public a few years ago.
-
 Since those files were prepared only for my own
 purpose, I
 did not take into consideration other usages than
@@ -35,7 +30,6 @@ metrical analysis, in transliterating the text.
 Therefore the
 files were not universally welcomed (partly due to
 misunderstanding of the nature of my text).
-
 My next plan of study is to analyze all the
 TriSTubh verses
 of the Mahaabhaarata, which will be more difficult
@@ -47,7 +41,6 @@ make a total
 revision and correction of the whole digitalized
 text of the
 Mahaabhaarata, reading the text to my ability.
-
 This time I would like to invite beforehand from
 users of
 the epic files comment and advice as to the
@@ -65,7 +58,6 @@ suggestion on transliteration, etc. of the text.
 consider any comment carefully but I cannot reply
 to all of
 you individually.)
-
 I like computer and I cannot do my daily job with
 digitalized files of Sanskrit texts. But I am
 basically
@@ -86,15 +78,10 @@ this condition, I welcome any comment or
 suggestion from you
 for the improvement of the digitalized text of the
 Mahaabhaarata.
-
 Hopefully, the job will take a year or so. As soon
 as it is
 done, I will hand them to Dr. Wujastyk for public
 circulation.
-
-
-
-
 ===============================================
                                    Muneo TOKUNAGA
                            Professor of Indian
@@ -105,9 +92,4 @@ Kyoto University
 075-753-2778
                           email:
 mtokunag at bun.kyoto-u.ac.jp
-
 ===============================================
-
-
-
-

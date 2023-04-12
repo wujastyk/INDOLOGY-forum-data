@@ -1,35 +1,7 @@
-From pwyzlic at pwyz.rhein.de  Tue Apr 22 19:21:15 1997
-From: pwyzlic at pwyz.rhein.de (pwyzlic)
-Date: Tue, 22 Apr 97 21:21:15 +0200
-Subject: problems with sanskrit font...
-Message-ID: <161227029893.23782.1251427144589087743.generated@prod2.harmonylists.io>
-
+problems with sanskrit font...
 On Tue, 22 Apr 1997, Anand Venkt Raman wrote:
-
-> I am trying to typeset a page in TeX with with some sanskrit text on
-> it using Charles Wikner's sanskrit package.  However, although I am
-> certain I got the entire package (fonts/sanskrit.gz)
-
 Most probably you mean sanskrit.tar.gz? The compression program
 gzip can only store one file.
-
-> dvips gives me the following error about a missing file skt10.  Any
-> help in solving this urgent problem would be greatly appreciated.
- 
-> dvipsk 5.66a Copyright 1986-97 Radical Eye Software (www.radicaleye.com)
-> ' TeX output 1997.04.22:1639' -> test.ps
-> kpathsea: Running MakeTeXPK skt10 657 600 magstep\(0.5\) canonex
-> /usr/local/share/texmf/web2c/MakeTeXnames: Could not map typeface
-> abbreviation k
-> t.
-> /usr/local/bin/MakeTeXPK: Running mf \mode:=canonex;
-> mag:=magstep(0.5); scrollmo
-> de; input skt10
-> This is METAFONT, Version 2.718 (Web2c 7.0)
-> 
-> kpathsea: Running MakeTeXMF skt10
-> ! I can't find file `skt10'.
- 
 I am using tetex 0.4 which is based on the previous version of
 Web2c, so things may have changed. In my case the MakeTeX-scripts
 look for filenames either in the filename database which rests in
@@ -37,7 +9,6 @@ look for filenames either in the filename database which rests in
 have a file $TEXMF/fontname/special.map where I can specify
 filenames and their locations for non-standard font names. For
 example I have added the following:
-
 tc		jknappen	tc
 wasy		jknappen	sauter
 stmary		jknappen	sauter
@@ -45,16 +16,7 @@ stmary		jknappen	sauter
 skt10		public		misc
 gtib		public		misc
 gtibsp		public		misc
-
 This means: search skt10 in $TEXMF/fonts/source/public/misc.
-
 Perhaps this helps.
 \bye
---
 Peter Wyzlic                                    pwyzlic at pwyz.rhein.de
-
-
-
-
-
-

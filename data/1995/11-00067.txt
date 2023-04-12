@@ -1,11 +1,5 @@
-From strnad at site.cas.cz  Tue Nov 14 08:26:30 1995
-From: strnad at site.cas.cz (Jaroslav Strnad)
-Date: Tue, 14 Nov 95 10:26:30 +0200
-Subject: SOFTWARE KEYBORD FOR DEVANAGARI
-Message-ID: <161227021614.23782.5215339388776448797.generated@prod2.harmonylists.io>
-
+SOFTWARE KEYBORD FOR DEVANAGARI
 Dear colleagues,
-
 recently we have bought from the Ecological Linguistics their Devanagari 
 fonts for Windows that look very fine but unfortunately are supplied 
 without software keyboard (on our complaint E.L. explained that it is able 
@@ -13,10 +7,6 @@ to supply softwarwe keyboards only for their Macintosh version). Before we
 start devising our own - a pretty laborious task - we would like to know 
 whether this sort of thing does not already exist as a shareware. We shall 
 be grateful for any hint or advice.
-
- 
-
-_____________________________
 Jaroslav Strnad
 Oriental Institute
 Czech Academy of Sciences
@@ -24,10 +14,3 @@ Pod vodarenskou vezi 4
 182 08 Praha 8
 CZECH REPUBLIC
 e-mail: strnad at orient.cas.cz
-______________________________
- 
-
-
-
-
-

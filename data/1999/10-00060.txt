@@ -1,20 +1,12 @@
-From tlk at MATH.KU.DK  Sun Oct 10 18:30:25 1999
-From: tlk at MATH.KU.DK (Toke Lindegaard Knudsen)
-Date: Sun, 10 Oct 99 20:30:25 +0200
-Subject: Units used in the Sulbasutras
-Message-ID: <161227052769.23782.5379296701058513394.generated@prod2.harmonylists.io>
-
+Units used in the Sulbasutras
 Dear list-members,
-
 I have here a list of units of length used in the Sulbasutras.  Can
 anyone shed some light on the following question: how many of
 them are defined in relation to the human body?  I now know that
 angula and pada are a thumbs breadth and the length of a foot
 respectively.  Also a puruSa is the height of man standing upright
 with his arms stretched upwards.  What about the rest?
-
 List follows:
-
  angula
  kSudrapada
  prAdeza
@@ -35,14 +27,6 @@ List follows:
  aNUka
  Uvasthi
  vitasti
-
 Any help will be appreciated.
-
 Sincerely,
 Toke Lindegaard Knudsen
-
---
-
-
-
-

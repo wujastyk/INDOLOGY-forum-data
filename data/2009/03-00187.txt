@@ -1,11 +1,5 @@
-From athr at LOC.GOV  Thu Mar 26 19:52:32 2009
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 26 Mar 09 15:52:32 -0400
-Subject: Gaja Sastra
-Message-ID: <161227085623.23782.6327689851155785081.generated@prod2.harmonylists.io>
-
+Gaja Sastra
 This was published in 2006:
-
 LC Control No.:      2005322092
 Personal Name:     Pa?laka?pya.
 Uniform Title:     Gajas?a?stra. English & Sanskrit
@@ -18,13 +12,8 @@ Published/Created: Delhi : Bharatiya Kala Prakashan, 2006.
 Description:       xxii, 462 p. : ill. ; 23 cm.
 ISBN:              8180900169
 CALL NUMBER:       QL737.P98 P3613 2006
-
 This is based on a ms prepared for the Rajas of Aundh in 1926 by Pdt. V. Vijayaraghavacharya, the English presumably done by the Pandit, and the black and white ills. being in the ms.  It is  not known what ms or mss it was based on.
-
-
 Allen
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -34,7 +23,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

@@ -1,34 +1,13 @@
-From bc4s-nmr at ASAHI-NET.OR.JP  Sat Oct 11 11:05:46 1997
-From: bc4s-nmr at ASAHI-NET.OR.JP (Shojiro NOMURA)
-Date: Sat, 11 Oct 97 20:05:46 +0900
-Subject: looking for software
-In-Reply-To: <343BA09A.7D35@ipc.hiroshima-u.ac.jp>
-Message-ID: <161227033051.23782.5223561969785481381.generated@prod2.harmonylists.io>
-
+looking for software
 At 0:02 AM +0900 1997.10.9, Birgit Kellner wrote:
->Our department mostly
-> uses Macs, and there is a search-program called "bochi"(in Japanese)
-> which comes pretty close (expect for the diacritics), ....
-
-
 Dear Brigit.
-
 I use Pochi too. You can customize "Pochi" to display your preferable font.
 If you or your department have CodeWorrior Power Plant, you can change fonts
 on the find-dialog because this software is developed on it.  So it will be
 a quite safe change without any bugs.
-
 That will be helpful for searching texts with diacritics.
 If you or your department don't have Power Plant,  I can do. Please contact
 me.
-
-
------------ sarva mangalam----------------------------------------
 Shojiro NOMURA (Waseda University)
 Email   bc4s-nmr at asahi-net.or.jp
 Web URL  http://www.asahi-net.or.jp/~bc4s-nmr/
----------------------------------------------------------------------------
-
-
-
-

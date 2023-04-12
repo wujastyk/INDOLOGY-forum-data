@@ -1,19 +1,10 @@
-From aditya at icanect.net  Tue Mar 19 14:35:06 1996
-From: aditya at icanect.net (aditya at icanect.net)
-Date: Tue, 19 Mar 96 14:35:06 +0000
-Subject: Why not a definitive devnagri font
-Message-ID: <161227023480.23782.2818135749972274211.generated@prod2.harmonylists.io>
-
+Why not a definitive devnagri font
 kellner at hws.ipc.hiroshima-u.ac.jp (Birgit Kellner)  has  recently
 written as follows:
->Mac or Windows-users. Hence, I would strongly suggest that, until the
->current lcd is replaced by one which allows for Devanagari, let's stick to
->the present conventions. 
 That is no convention at all. We do not have any means of
 communicating in Devnagri at all. What you propose translates into "If
 I cannot have it my way :no one else should have it either"
 Have a nice day. 
----------------
 Aditya Mishra  
 http://www.icanect.net/~aditya   
 ***********************************************************
@@ -21,8 +12,3 @@ The opinions expressed herein are continually mutating and*
 might have already been changed  by the time you read them* 
 owing to the more recent information that became available*
 ***********************************************************
-
-
-
-
-

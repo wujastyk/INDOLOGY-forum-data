@@ -1,76 +1,22 @@
-From phbernede at YAHOO.COM  Sat Feb 13 20:19:33 2010
-From: phbernede at YAHOO.COM (Pascale Haag)
-Date: Sat, 13 Feb 10 20:19:33 +0000
-Subject: Digital Sanskrit corpus and dictionary
-In-Reply-To: <a0760a311002121910w58f0765asd86d33c13d8b5c30@mail.gmail.com>
-Message-ID: <161227088487.23782.17490558125843666592.generated@prod2.harmonylists.io>
-
+Digital Sanskrit corpus and dictionary
 Dear Oliver,
 Wonderful work indeed...
 I just sent your link to a specialist of ancient Greek who is currently writing a paper on digital humanities and especially on the?Thesaurus Linguae Graecae?(TLG,?www.tlg.uci.edu). I copy his answer here, just for fun:"C'est extr?mement impressionnant... Une bonne g?n?ration plus avanc? que le TLG !"?
 Many thanks for sharing this !
 Pascale Haag.
-
-
-
---- En date de?: Ven 12.2.10, amba kulkarni <ambapradeep at GMAIL.COM> a ?crit?:
-
 De: amba kulkarni <ambapradeep at GMAIL.COM>
 Objet: Re: Digital Sanskrit corpus and dictionary
 ?: INDOLOGY at liverpool.ac.uk
-Date: Vendredi 12 F?vrier 2010, 22h10
-
 Dear Oliver,
-
 It is simple awful. I am sure the indologists will benefit from this, and
 this tool will provide a new dimension to the indology research.
-
 It will be great if we can make all the electronically available Sanskrit
 texts indexed this way!
-
 with warm regards,
 Amba Kulkarni
-
 Reader and Head
 Department of Sanskrit Studies
 University of Hyderabad
 040 23133802(off)
-
 http://sanskrit.uohyd.ernet.in
 On 12 February 2010 15:40, Oliver Hellwig <hellwig7 at gmx.de> wrote:
-
-> Dear colleagues,
->
-> I would like to announce that a digital corpus of lemmatized Sanskrit texts
-> is now available at
->
-> http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
->
-> The corpus contains more than 2.500.000 manually annotated entries. It
-> offers the possibilities to search for lemmata and collocations and
-> presents
-> lists of referenced finite and infinite forms of each verbal lemma
-> contained
-> in the lexical database. In addition, the corpus makes it possible to
-> examine the distribution of lexical units over the time using basic
-> statistical measures.
->
->
-> Best,
->
-> Oliver Hellwig
->
->
-> PD Dr. Oliver Hellwig
-> S?dasien-Institut, Universit?t Heidelberg
-> Im Neuenheimer Feld 330
-> 69120 Heidelberg
->
-
-
-
-      
-
-
-
-

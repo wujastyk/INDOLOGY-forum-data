@@ -1,41 +1,5 @@
-From jean.fezas at WANADOO.FR  Fri Jan  7 09:10:34 2000
-From: jean.fezas at WANADOO.FR (Jean Fezas)
-Date: Fri, 07 Jan 00 10:10:34 +0100
-Subject: CARB fonts: proposed character set
-In-Reply-To: <4.1.20000106141756.00a48950@bc.barnard.columbia.edu>
-Message-ID: <161227054959.23782.7644097800238564541.generated@prod2.harmonylists.io>
-
+CARB fonts: proposed character set
 At 14:28 06/01/00 -0500, you wrote:
->What a wonderful idea!  Thank you for adding this supplement to the CSX+
->font.
->I'm sorry, but I missed your earlier announcement.   I hope it is not too
->late to
->add these 16 characters:
->
->For rendering Bengali transliteration:
->
->a-candrabindu
->a-macron-candrabindu
->e-candrabindu
->i-chandrabindu
->i-macron-candrabindu
->o-candrabindu
->u-candrabindu
->u-macron-candrabindu
->
->and their capitalized versions
->
->A-candrabindu
->A-macron-candrabindu
->E-candrabindu
->I-chandrabindu
->I-macron-candrabindu
->O-candrabindu
->U-candrabindu
->U-macron-candrabindu
->
->Many, many thanks.  -- Rachel McDermott
-
          I wonder what would be the use of such new "characters", mixing
 nagari (candrabindu or pseudo umlaut) and roman. I suppose that the
 standard transcription of nasalized vowels, short or long, is the addition
@@ -45,9 +9,4 @@ used alternatively with the candrabindu to mark nasalized vowels in
 Nepalese manuscripts, I would be very happy to add six more characters to
 the proposed set : a macron umlaut, i macron umlaut, u macron umlaut and
 the corresponding capitals...
-
 JF.
-
-
-
-

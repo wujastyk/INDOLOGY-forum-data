@@ -1,15 +1,6 @@
->From April 16, UK residents need to dial 00 instead of 010 to access
 international numbers.  The following five cities change as follows:
-
 Leeds           0532 xxxxxx becomes   0113 2xx xxxx
 Sheffield       0742 xxxxxx becomes   0114 2xx xxxx
 Nottingham      0602 xxxxxx becomes   0115 9xx xxxx
 Leicester       0533 xxxxxx becomes   0116 2xx xxxx
 Bristol         0272 xxxxxx becomes   0117 9xx xxxx
-
- 
-
-
-
-
-

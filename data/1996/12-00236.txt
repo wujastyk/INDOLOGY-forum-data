@@ -1,11 +1,5 @@
-From Claude_Setzer at fcsmtp.mum.edu  Mon Dec 16 19:00:04 1996
-From: Claude_Setzer at fcsmtp.mum.edu (Claude_Setzer at fcsmtp.mum.edu)
-Date: Mon, 16 Dec 96 13:00:04 -0600
-Subject: File corruption and 7 bits
-Message-ID: <161227027623.23782.16924094485720224617.generated@prod2.harmonylists.io>
-
+File corruption and 7 bits
 Dear Dominik,
-
 I want to apologize if my comment seemed to be critical or disrespectful to
 the Indology sever or to you. I have very great respect and admiration for
 both the server and you. In fact, I sincerely believe that your contributions
@@ -13,25 +7,17 @@ to the Indology list server and to the website will cause you to long be
 remembered as one of the world's greatest contributors to knowledge of
 Indology and to world culture in general. I will be at the World Sanskrit
 Conference and hope to meet you there.
-
->In you note, you said: "There was no fault with INDOLOGY's 
->listserv; what was distributed is what you sent.  I am surprised 
->you risked sending the message a second time,
->after the comments you received. "
-
 First of all, I did not consider it in any way a bad thing that a file
 happened to be corrupted while going through the Indology server. In my
 opinion, computers are just like people and cannot possibly avoid occasionally
 making a mistake or data error. My comment was meant only to give information
 to those who had had trouble with my file and to insure them that I had not,
 as one person accused me, intentionally caused a computer to crash.
-
 I am quite surprised that you do not think there is a possibility of your
 server ever adding a data bit to a file, especially since your administrator
 recently sent a message that he was having so much trouble with the server
 that he had temporarily shut it down. Also, many people, including myself,
 received several dozen duplicate files last week from your server.
-
 I believe the data strongly points to a possible corruption of a few files
 that may, in some way, be related to the Indology server, but I will give you
 the information and let you decide your own opinion. Based on the following
@@ -42,7 +28,6 @@ again and I wanted to show people that it was an innocent event from my side.
 problem.) 2) Many people had sent me very positive and supportive personal
 messages about my original posting, and I thought those who had had trouble
 with the file would appreciate receiving the uncorrupted version.
-
 The information is as follows: I originally made only one message and sent it
 simultaneously to two list servers. It used the same software and went in
 exactly the same way. The copy that went through the ISO_tc46 server came back
@@ -61,16 +46,7 @@ of corruption occasionally happens on servers and that there might have been a
 short period of time when some of the copies of my file were going out that
 the Indology server or something in its immediate data path had a noise
 problem, etc.
-
->You also said:
->Given the point you were making, it seems ironic that the header of your
->email contained the following line:
-
   >      Content-Transfer-Encoding: 7bit
-
->This is the reason why 7 bit encodings are -- regrettably -- still
->important.
-
 The reason I sent the message this way is very simple. The Indology rules say
 that if you send mail from a server other than the one you registered on, the
 mail will not be accepted. The one I registered on removes the eighth bit for
@@ -85,26 +61,14 @@ the last bit of every character on outgoing mail, but easily accepts 8 bit
 characters on incoming mail. I sent many messages to my self from an 8 bit
 outgoing system to confirm this. (You can also observe this phenomenon on the
 Indology files recently sent..."Test of ASCI"  encoding.)
-
 I am now even more convinced that there is no real reason why email systems
 strip bits from characters and we should all work towards making 8 bit
 characters the standard. I will discuss this more in a separate message. 
-
 Thank you again for your many contributions to Indology. I send you my kindest
 regards and respect, and hope that this message will be received in the
 innocent, friendly manner that it is intended.
-
 Claude Setzer
-
-
---
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
          Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
                ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
-
-
-

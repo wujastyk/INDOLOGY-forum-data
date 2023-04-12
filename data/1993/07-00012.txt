@@ -1,24 +1,11 @@
-From KNIGHT at PUCC.EARN  Wed Jul 14 21:04:19 1993
-From: KNIGHT at PUCC.EARN (Robert Knight)
-Date: Wed, 14 Jul 93 17:04:19 -0400
-Subject: Tibetan TeX
-Message-ID: <161227015986.23782.6599621450932122617.generated@prod2.harmonylists.io>
-
+Tibetan TeX
 That file which Dominik mentioned is one that I placed there for the two
 gentlemen who are testing it, rather than for the world.  Dominik, please
 do not distribute it further.  It is indeed for the world, but has some
 small defects which I'd like to see corrected before it begins its spread.
 (Additionally, there is no marker in it to let us track version changes.)
- 
 It is limited to Modern Tibetan, in the main.  We are actively working on
 Postscript and TrueType versions of this face, rather than just the bit
 mapped ones.
- 
 Thanks!
 Robert
- 
-
-
-
-
-

@@ -1,17 +1,9 @@
-From hspier.muktabodha at gmail.com  Fri Nov 18 12:58:58 2016
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Fri, 18 Nov 16 07:58:58 -0500
-Subject: [INDOLOGY] Diacriticals in unicode, single or multiple glyphs
-Message-ID: <CAPW7aQEPkGh1t4UH86Knun7ZDW20vVZBJzxztZj=Cb0RKkjVJg@mail.gmail.com>
-
+[INDOLOGY] Diacriticals in unicode, single or multiple glyphs
 Dear list members,
-
 In unicode you can write characters with diacriticals with either a single
 glyph or you can combine the character with the diacritical writing it in
 two glyphs.
-
 This is a problem when one searchs sanskrit etexts.
-
 For example, the letters with diacriticals in the Muktabodha digital
 library are written with one glyph and as far as I can see GRETIL does the
 same thing.  But the transcoding utility at  "The Sanskrit Library"
@@ -20,12 +12,5 @@ combines letters with their diacriticals in two glyphs.
  So if you used the Sanskrit Library utility to create a transliterated
 word such as for example: *s?a?kti* and then searched texts from either
 GRETIL or Muktabodha for that word your search wouldn't find anything.
-
 Thanks,
 Harry Spier
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161118/76de491d/attachment.htm>
-

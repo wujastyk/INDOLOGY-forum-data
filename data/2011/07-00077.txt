@@ -1,36 +1,20 @@
-From hellwig7 at GMX.DE  Sun Jul 24 18:01:07 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Sun, 24 Jul 11 19:01:07 +0100
-Subject: New version of the DCS
-Message-ID: <161227093241.23782.8829560067139086223.generated@prod2.harmonylists.io>
-
+New version of the DCS
 Dear list,
-
 a new version of the Digital Corpus of Sanskrit is available at http://kjc-
 fs-cluster.kjc.uni-heidelberg.de/dcs/index.php.
-
 While the database remains unchanged in this version, the user interface 
 now contains a more sophisticated function for searching for collocations. 
 You start by selecting one lexeme (e.g., rAma), and the corpus proposes all 
 other lexemes that are found in the same sentences as rAma (e.g., 
 aklishta). By adding new lexemes to the search path (rAma + aklishta), it 
 is possible to track topics and phrases effectively.
-
 A more detailed overview of how to use this function can be found at http://
 kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?
 contents=help_collocations.
-
-
 Best, 
 Oliver Hellwig
-
---------------
 PD Dr. Oliver Hellwig
 South Asia Institute, University of Heidelberg
 Im Neuenheimer Feld 330
 69120 Heidelberg
 Germany
-
-
-
-

@@ -1,16 +1,9 @@
-From GthomGt at CS.COM  Thu Jul  6 00:44:04 2000
-From: GthomGt at CS.COM (George Thompson)
-Date: Wed, 05 Jul 00 20:44:04 -0400
-Subject: Indus script
-Message-ID: <161227059587.23782.9550694859778679493.generated@prod2.harmonylists.io>
-
+Indus script
 Many thanks again to Michael Witzel for taking the time to introduce all of
 this new and important material to the list's attention.  I am still
 struggling to absorb all of the new information.
-
 But since there is a movement to go back to the basics, perhaps I may be
 permitted to continue with a few more naive questions.
-
 In Herodotus there are two anecdotes about the Scythians which may be of
 interest.  In Bk 4.98 there is reference to the use of knots as a mnemonic
 device to count down the days before some significant event.  Second, at Bk
@@ -24,40 +17,34 @@ the Scythian arrows."  Now this is a message in which each unit consists of a
 real-world object.  Each unit has a specific value that is much larger than
 the value of a syllable or individual word.  Each unit consists of a complete
 narrative sequence in itself.
-
 Of course, the first anecdote invites comparison with the quipu of previous
 posts.  The second invites comparison with mnemonic sign systems that one
 encounters frequently in ethnographic accounts of preliterate cultures.  I
 think that it is possible that the IVC sign system, which consists of
 sequences of no longer than eight signs, may be no more than the
 transposition of such mnemonic systems into graphic form.
-
 If the IVC sign were syllabic, then the longest message attested in that
 system would be no longer than one line of a Vedic gAyatrI stanza [e.g.,
 hotAraM ratnadhAtamam].  It is striking how very little information would be
 conveyed by such a sequence.  For this reason, I consider the likelihood of
 the IVC sign being syllabic as very unlikely.
-
 If the IVC sign were logographic, the the longest message attested in that
 system would be no longer than one full gAyatrI stanza [RV 1.1.1, for example
 consists of exactly eight words].  I'm not prepared to call a sequence of
 this length  good evidence for an IVC 'literature'.  And it raises douts in
 my mind that IVC was logograhic.
-
 But if the IVC sign were a mnemonic sign [rather like a Sanskrit sUtra which
 requires elaborate commentary to be intelligible], then it is reasonable to
 compare a sequence of eight such signs to a complete hymn of the RV.  RV 1.1,
 for example, consists of nine gAyatrI stanzas.  A sequence of eight such
 mnemonic signs in IVC would at least offer us something comparablee to a
 complete message in the RV.
-
 So if what we encounter in the longest of IVC sign sequences is a complete
 message in itself, it may well be that the most likely interpretation of that
 sequence is that it consists of units that are larger than the individual
 word.  In fact it may well be most likely that the individual sign is a
 Proppian function, or a Greimasian actant, i.e., a complete narrative unit in
 itself.
-
 Now, I know that the handbooks say that if a script consists of something
 like 250 to 500 distinct signs it is probably a mixture of a logographic and
 a syllabic sign system. As Michael Witzel observes, the high number of signs
@@ -65,14 +52,7 @@ in IVC suggests that the system is basically logographic. But I wonder
 whether the combination of [1] a large number of distinct signs and [2] the
 very short length of the typical IVC sign sequence might best lead to the
 conclusion that what we have in IVC is a mnemonic graphic system.
-
 I hope that my naive questions are of use to the list in general if not to
 the specialists.
-
 Best,
-
 George Thompson
-
-
-
-

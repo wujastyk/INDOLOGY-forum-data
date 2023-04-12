@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Sat Dec 16 21:41:39 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Sat, 16 Dec 00 22:41:39 +0100
-Subject: PDF (was publication of IASS papers on CDROM)
-Message-ID: <161227065523.23782.12030047325825405224.generated@prod2.harmonylists.io>
-
+PDF (was publication of IASS papers on CDROM)
 Some tips and tricks about fonts and CD-ROMs:
 (1) Adobe Type Manager (available for Mac, Win, UNIX) allows you to classify,
 group, activate, delete and otherwise manage fonts while you are working.
@@ -15,12 +10,10 @@ deactivate them. Next time, before you use the CD again, you activate the font
 set again. It's proved to be very useful. We have literally many thousands of
 fonts in continuous operation over here, so I think we would probably get
 nervous breakdowns if we didn't use ATM...
-
 (2) Adobe Acrobat allows you to INTEGRATE fonts inside the PDF document. You
 then only have to ship the PDF document. No need to send fonts. No need to
 install anything. The fonts are inside the PDF file and you can display and
 print as normal.
-
 (3) PDF file generators which are not Acrobat Reader compatible:
 (3.1) Update your generator, if possible. If that doesn't solve the problem:
 (3.2) Update your Acrobat version, if possible. If that doesn't solve the
@@ -32,45 +25,14 @@ If that still doesn't help:
 (3.4) Find a better generator. Keep in mind that Acrobat is by Adobe themselves,
 the inventors and maintainers of PDF. If you can't make a PDF file to work with
 Acrobat itself, your generator has a real quality problem.
-
 Finally, if you have problems running TITUS documents, could you let me know
 what kind of problems you have, and with what fonts and materials. I might be
 able to sort this out for you. We are also able to take fonts across platforms
 if necessary.
-
 Good luck.
 Yours,
 Gunthard
-
 Gunthard Mueller
 gm at e-ternals.com
------------------------------------------------------------
 e-ternals.com - digitizing and publishing our heritage
-
-
 Vidhyanath Rao wrote:
-
-> You don't need MikTeX to produce pdf. MikTeX merely contains an
-> implementation of pdftex (which is still beta though). Unix versions of TeX
-> may have to complied locally, as pdftex is written to be generic, that
-> should pose no problem. [On Windows, please be warned that Ghostscript
-> based ps2pdf must use the .exe version not the Perl script, as I found out
-> by hard experience.]
->
-> But: Acrobat Reader seems to have some trouble printing the output of
-> pdftex. Screen output looks fine, but I (and especially my freshmen
-> students) have had trouble with Acroread dropping or substituting fonts
-> without a by your leave.
->
-> My biggest reservation about CD-ROM publications is the potential problem
-> with fonts. Every source of documents seems to want to use their own font
-> sets, literring the font folder with hundreds of fonts used once. Unicode's
-> promise seems to be still in the future. I can't get TITUS documents in UTF-
-> 8 to display correctly (and they say that it works only in Windows, anyway).
->
-> Regards
-> Nath
-
-
-
-

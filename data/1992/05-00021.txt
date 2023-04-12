@@ -1,17 +1,10 @@
-From ucgadkw at UK.AC.UCL  Fri May 22 14:12:25 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Fri, 22 May 92 15:12:25 +0100
-Subject: Buddhacarita and Astadhyayi files now available
-Message-ID: <161227015343.23782.7365117672373779378.generated@prod2.harmonylists.io>
-
+Buddhacarita and Astadhyayi files now available
 Status: RO
-
 Dear Madhav,
  > Alas! the
  > decode program comes back with the dreadful message "No begin line."
  > With the help of my colleagues I have tried several alternatives and
  > still I cannot UUdecode these files.
- 
 I gather from your later mail that you are okay now.  The above message
 sometimes gets issued by uudecode when the line endings are wrong.
 DOS uses cr/lf (ASCII 13/10) to end each line of a text file.  Unix
@@ -20,13 +13,5 @@ like uudecode, are sensitive to this.  So if you got your file from
 a Unix system (like mailbase) and downloaded it in binary mode to
 your PC, it would have only LFs at the end of each line, and
 uudecode might not be able to recognise the end of the first line.
- 
 Just a thought.
- 
 Dominik
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Tue Dec 12 14:51:31 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Tue, 12 Dec 00 15:51:31 +0100
-Subject: publication of IASS papers on CDROM
-Message-ID: <161227065202.23782.762100978338013753.generated@prod2.harmonylists.io>
-
+publication of IASS papers on CDROM
 Dear computer experts,
 as an indologist and software engineer, may I correct a few technical
 points that have come up?
@@ -26,8 +21,6 @@ long-lasting medium we have. Some manufacturers now have a 200-year life
 span estimate. As opposed to the thirty-year life-span in the beginning
 of the technology, and fifty years or less of microfilm.
 (4) CD-ROMs can be copied over to whatever new media mankind will invent
--- and norm.
-
 Having said that, there is still reason for your particular IASS
 publication to be done on paper...
 Which is, mainly,
@@ -35,7 +28,6 @@ Which is, mainly,
 (b) the fact that paper has obvious advantages, too.
 One of the drawbacks is that paper publishing is extremely expensive.
 Many times more than CD-ROM.
-
 As your own averse reactions to CD-ROMs have shown, CD-ROM promoters are
 ahead of their time even now.
 It makes sense to publish on paper AND CD-ROM, because both media have
@@ -48,7 +40,6 @@ paper AND CD-ROM publishing?
 I understand that paper publishing is very expensive, but if CD-ROM
 publishing offers no academic credit, the IASS is not doing its
 contributors a favour going only that way.
-
 Anyway, please refrain from emotional attacks on each other because of
 the CD-ROM issue. The world has already decided to go digital, and you
 are not going to stop it.
@@ -56,9 +47,4 @@ On this jolly note,
 all the best,
 yours,
 Gunthard Mueller
-
 gm at e-ternals.com
-
-
-
-

@@ -1,30 +1,18 @@
->From south-asia-studies-l at coombs.anu.edu.au Mon Feb 13 23:04:17 1995
 X-Sender: tmc407 at coombs.anu.edu.au
 Mime-Version: 1.0
 Content-Type: text/plain; charset="us-ascii"
-Date: Thu, 10 Nov 1994 13:39:13 +0100
-To: south-asia-studies-l at coombs.anu.edu.au
-From: T. Matthew Ciolek <tmciolek at coombs.anu.edu.au>
-Subject: Current WWW resources on South Asia - Nov 94
+Current WWW resources on South Asia - Nov 94
 Sender: owner-south-asia-studies-l at coombs.anu.edu.au
 Precedence: bulk
-Reply-To: south-asia-studies-l at coombs.anu.edu.au
 Status: RO
-
 Dear Colleagues,
-
 Here are some URLs which might be of interest.
-
 I have copied them  from our WWW Virtual Library - Asian Studies  (http://coombs.anu.edu.au/WWWVL-AsianStudies.html) 
-
 Please, do let me know if there is any WWW facility  which I have overlooked.
-
 BANGLADESH
 <A HREF="http://www.intnet.net/pub/COUNTRIES/Bangladesh">Bangladesh files FTP archive </A> (www.intnet.net,USA)
 <A HREF="http://axe.asel.udel.edu/~kazi/bd.html">
 Bangladesh Info Page </A> (U Delaware,USA)
-
-
 INDIA
 <A HREF="http://www.cs.clemson.edu/~nandu/india.html">India Information Page </A> [mainly tourism] (Clemson U,USA)
 <A HREF="http://www.intnet.net/pub/COUNTRIES/India">India files FTP archive </A> (www.intnet.net,USA)
@@ -35,15 +23,11 @@ India - Usenet & other sources </A> (Stanford U,USA)
 <A HREF="http://nearnet.gnn.com/wic/music.04.html">Indian Classical Music NetSources Register </A> (GNN,USA)
 <A HREF="http://www.stph.net/">Software Technology Park (Hyderabad) - Home Page </A> (STPH,India)
 <A HREF="http://hypatia.ucsc.edu:70/1/RELATED/Batish">The Batish Institute of Indian Music and Fine Arts </A> (USA)
-
-
 NEPAL
 <A HREF="http://coos.dartmouth.edu/~rajendra/Nepal.html">Nepal Home Page </A> (Dartmouth College,USA)
 <A HREF="http://www.intnet.net/pub/COUNTRIES/Nepal">Nepal files FTP archive </A> (www.intnet.net,USA)
 <A HREF="http://akebono.stanford.edu/yahoo/Regional_Information/Countries/Nepal/">
 Nepal - Usenet & other sources </A> (Stanford U,USA)
-
-
 PAKISTAN
 <A HREF="http://cuda3.me.mtu.edu:8023/home/maxwell-a.ee/kmushtaq/.mosaic/pakistan/pakistan.html">Pakistan Homepage </A>(Michigan Technological U,USA)
 <A HREF="http://www.rpi.edu/~ansars/paksa_locker/pak_mosaic/pakistan.html">Pakistan Information Page </A> (Rensselaer Polytech.Inst.,USA)
@@ -51,18 +35,13 @@ PAKISTAN
 <A HREF="http://www.intnet.net/pub/COUNTRIES/Pakistan">Pakistan files FTP archive </A> (www.intnet.net,USA)
 <A HREF="http://akebono.stanford.edu/yahoo/Regional_Information/Countries/Pakistan/">
 Pakistan - Usenet & other sources </A> (Stanford U,USA)
-
-
 SRI LANKA
 <A HREF="http://www.cm.cf.ac.uk/Slanka/sl_home.html">Sri Lankan Home Page </A> (Cardiff U,UK)
 <A HREF="http://suif.stanford.edu/~saman/lanka/sri_lanka.html">Sri Lankan Home Page </A>(Stanford U,USA)
 <A HREF="http://nearnet.gnn.com/wic/soc.60.html">Sri Lanka NetSources Register </A>(GNN,USA)
 <A HREF="http://akebono.stanford.edu/yahoo/Regional_Information/Countries/Sri_Lanka/">
 Sri Lanka - Usenet & other sources </A> (Stanford U,USA)
-
-
 - with many regards -
-
 -==================================================-
 Dr T. Matthew CIOLEK           tmciolek at coombs.anu.edu.au
 ANU Social Sciences Information Systems Administrator,
@@ -71,28 +50,9 @@ Coombs Computing Unit, Research School of Social Sciences,
 Australian National University, Canberra, ACT 0200, Australia
 ph +61 (0)6 249 0110             fax: +61 (0)6 257 1893
 -=================================================-
-
-
-
- 
-
 Original-Received:  from ccMail by ccmail.GSFC.NASA.GOVid 
                    AA784493742 Thu, 10 Nov 94 10:55:42 EST
 PP-warning: Illegal Received field on preceding line
-Date: Thu, 10 Nov 94 10:55:42 EST
-From: VINOD_PATEL at ccmail.GSFC.NASA.GOV
-Message-Id: <9410107844.AA784493742 at ccmail.GSFC.NASA.GOV>
-To: indology at liverpool.ac.uk
-Subject: subscription
-
-
-     
+subscription
      subscribe
-     
      vinod_patel at ccmail.gsfc.nasa.gov
- 
-
-
-
-
-

@@ -1,43 +1,26 @@
-From WIKNER at nacdh4.nac.ac.za  Thu Jul  4 07:01:57 1996
-From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
-Date: Thu, 04 Jul 96 09:01:57 +0200
-Subject: More on Sanskrit Introductory
-Message-ID: <161227025240.23782.9180562536763779009.generated@prod2.harmonylists.io>
-
-
+More on Sanskrit Introductory
 Since announcing this book a week ago, I have been flooded 
 with mails about problems viewing or printing the file.
-
 Thanks to the patient assistance of Nandu Abhyankar, the
 problem has been traced to the "sectioning" in dvips: see
 the attached copy of post to com.lang.postscript newsgroup 
 for details.
-
 The problem has been `fixed', and the updated files include
 only the bitmaps of those characters actually used and not
 the complete map of each font: this reduces the file sizes
 by some 35%. The file date suffix has been changed to 
 -july96-; there is no change in the text.
-
 If ftp sites that want to carry these files contact me, I
 could e-mail uuencoded versions of the zip files (about
 1-Megabyte each): specify A4 or letter paper or both.
 Please folks, don't bomb me: that offer is for ftp sites!
-
 And don't ask me to post floppy disks or hardcopies around
 the world, the answer is NO! Consider the exercise of ftp'ing 
 over the thin wire to South Africa as character-building.
-
 Thanks for your consideration,
 Charles Wikner.
-
 P.S. This is posted to the indology list and sanskrit-digest.
-
-
------------ copy of post to comp.lang.postscript ---------
-
 %SectionPage: dvips/GhostView Bug?
-
 On running a large and complex job through LaTeX and dvips, the 
 latter seems to "section" the output -- this is diplayed as a 
 period between page numbers (e.g. [73] [74] . [75] [76]).
@@ -47,21 +30,12 @@ GhostView (ans possibly PSUTILS and some printers). In GhostView
 the column of page numbers down the left of the screen is blank,
 but you can still step through the document by clicking on next
 page -- what a pain! But the HPLJ4+ prints the file as expected.
-
 As a hack to get around this, the config.ps file was changed to 
 enlarge the printer memory (?) from m 1000000 to m 8000000 (quite
 arbitrarily); this removed the sectioning problem entirely.
-
 Is this a GhostView bug? Is it a valid fix? Or (more likely) is
 there something I don't understand? What is SectionPage? I don't
 see it in the index of the Red Book.
-
 Regards,
 Charles Wikner
 wikner at nacdh4.nac.ac.za
-
-
-
-
-
-

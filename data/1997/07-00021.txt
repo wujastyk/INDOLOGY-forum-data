@@ -1,22 +1,5 @@
-From Patte at math-info.univ-paris5.fr  Wed Jul  2 15:09:46 1997
-From: Patte at math-info.univ-paris5.fr (Patte at math-info.univ-paris5.fr)
-Date: Wed, 02 Jul 97 17:09:46 +0200
-Subject: Footnotes in Latex
-Message-ID: <161227031386.23782.17459699995972341063.generated@prod2.harmonylists.io>
-
->Does anybody know how to produce two or more footnotes in one line for a
->textcritical edition with Latex including Devanagari-Metafont?
-
+Footnotes in Latex
 You need two packages, available on CTAN sites: footnote.sty and patch.tex.
 In your file you need:
-
 \usepackage[para]{footnote}
-
 F.P.
-
-
-
-
-
-
-

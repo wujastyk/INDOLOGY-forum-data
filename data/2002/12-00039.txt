@@ -1,27 +1,7 @@
-From reusch at UCLINK.BERKELEY.EDU  Tue Dec 17 18:18:51 2002
-From: reusch at UCLINK.BERKELEY.EDU (B. Reusch)
-Date: Tue, 17 Dec 02 10:18:51 -0800
-Subject: Unicode fonts in Mac OS X
-In-Reply-To: <Pine.WNT.4.44.0211251526390.3404-100000@Anat-lws119.anat.ucl.ac.uk>
-Message-ID: <161227071886.23782.16915046154626614541.generated@prod2.harmonylists.io>
-
->---------- Forwarded message ----------
->Date: Mon, 25 Nov 2002 12:35:57 +0100
->From: Ulrich.Stiehl <Ulrich.Stiehl at t-online.de>
->.....
->
->Some are of the opinion that Unicode is a
->way out of this encoding jungle, but a lot of diacritical letters required for
->translitering Indic scripts have not been defined by the Unicode
->consortium, so
->that these additional diacritics must be defined by font makers in
->the "Private
->Use Area" (hexadecimal range E000-F8FF).
-
+Unicode fonts in Mac OS X
 Not being a computer-programming pro or a fonts pro, and speaking
 only for the Roman transliteration of (Vedic and Classical)
 Sanskrit, I beg to disagree.
-
 I have found all the needed characters in the Character Palette for
 Unicode fonts -- such as Lucida Grande, included in OS X. When "View
 All" is selected in Character Palette, macron vowels and accented s
@@ -29,7 +9,6 @@ are found in Latin Extended A; characters with dot above or dot below
 are found in Latin Extended Additional; dots for all positions, all
 kinds of accents, and many other things are found in Combining
 Diacritical Marks.
-
 Now, how about typing all those nifty gadgets from your keyboard with
 merely two-to-ten fingers?
 After installing US Extended Keyboard from System Preferences, all
@@ -39,16 +18,10 @@ and done something about it. A non-South-Asia specialist offers his
 modified version of US Extended, which he named Latin Extended, to
 type dots or macrons below. It is downloadable from his site:
 http://quinon.com/files/keylayouts/LatinExtended_X.sit
-
 Finally, if, understandably, you do not like Lucida Grande too much,
 there is an (elegant) alternative:
 http://www.sil.org/~gaultney/gentium/download.html
 Gentium's only drawback, as far as I can see, is that it lacks bold.
 As a consolation, Gentium includes Candrabindu.
-
 Greetings,
 Beatrice Reusch
-
-
-
-

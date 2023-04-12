@@ -1,11 +1,5 @@
-From saf at SAFARMER.COM  Tue Mar 13 03:36:26 2001
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Mon, 12 Mar 01 19:36:26 -0800
-Subject: Herodotus/Mahabharata question
-Message-ID: <161227068162.23782.6904727754391750966.generated@prod2.harmonylists.io>
-
+Herodotus/Mahabharata question
 Quick bibliographical question:
-
 There is a famous passage in Herodotus (esp. 3.102), raised in
 discussing the tribute Indians paid to the Achaemenids, that
 speaks of giant Indian ants that supposedly brought gold to the
@@ -14,7 +8,6 @@ Mahabharata passages that tell the same or a similar story? The
 story is discussed, among other places, by B. Lauffer, 'Die Sage
 von den goldgrabenden Ameisen,' T'oung Pao (1908) 9:429-452.
 Unfortunately, I no longer have a copy of that article at hand.
-
 The story illustrates the kinds of story that could pass fairly
 readily between India and Greece after the late 6th century BCE,
 thanks apparently to the Persian conquests in that period in NW
@@ -22,7 +15,3 @@ India. I'm interested in such communications since I'm trying to
 track down evidence of more important (if indirect) influences of
 the Achaemenids on the canonization of Vedic sources in the
 6th-5th centuries.
-
-
-
-

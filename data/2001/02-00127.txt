@@ -1,50 +1,20 @@
-From dmitris at PIPELINE.COM  Thu Feb  8 02:25:21 2001
-From: dmitris at PIPELINE.COM (Dmitri)
-Date: Thu, 08 Feb 01 02:25:21 +0000
-Subject: New interpretation of Yoga Suutra
-Message-ID: <161227067181.23782.5819895141984687596.generated@prod2.harmonylists.io>
-
+New interpretation of Yoga Suutra
 On Thu, 8 Feb 2001 02:52:39 +0100, Kengo Harimoto <kharimot at SAS.UPENN.EDU>
 wrote:
-
->I would like to ask Dmitri if he considered the possibility that
->draSTuH could be draSTR's genitive singular.  (Hint: draSTR appears
->four times in the sUtras: 1.3, 2.17, 2.20 (see Vidyasankar's cooment)
->and 4.23.)
 Yes, I did. In fact it is interpreted this way in, say, RAma PrasAda's
 translation of VAcaspati Mizra gloss on VyAsacommentary.
-
->
->MMW does not have draSTu (m.) on p. 501, col. 1. nor draSTu as a noun
->(p. 501, col. 2), nor the meaning percept, etc.
-
 on p.501, col. 2 of MW draSTu is given as initial stem of compounds.
-
 As far as meaning "percept", I think I made it quite clear that meanings
 given in my interpretation often  are different from those in MW or other
 dictionaries.  The meaning of words is derived according the scheme given,
 not from dictionaries.
-
->I'm afraid to say that it is full of beginner's mistakes.  (Everyone
->who did not learn Sanskrit by the traditional way must remember being
->unable to find a word ending -tu(H) or -tA in the dictionaries until
->being told by the teacher it is a derivative from -tR in the first
->year Sanskrit class.  At least I do :-)
-
 Derivatives in -tu and in -tA are quite legal way to derive words from
 roots. Examples are dhAtu, vastu and devatA, vIratA.
-
 I explicitly assumed that whatever mechanism is present in Sanskrit
 for derivation, it might be present in YS. And the fact that draSTu is
 present in compounds like draSTukAma is an indication that draSTu might
 be a legally derived word.
-
 Sorry to hear, that one case of what you consider a mistake made you
 stop reading. I'm sure there some mistakes in what I did, but
 whether they will invalidate the whole interpretation remains to be seen.
-
 Best wishes, Dmitri.
-
-
-
-

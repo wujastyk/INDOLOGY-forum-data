@@ -1,34 +1,14 @@
-From pwyzlic at UNI-BONN.DE  Wed Feb  3 22:55:11 2010
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Wed, 03 Feb 10 23:55:11 +0100
-Subject: Abhidharmakosha in e-format
-In-Reply-To: <20100203093756.CJE17553@m4500-02.uchicago.edu>
-Message-ID: <161227088389.23782.1713184478188675053.generated@prod2.harmonylists.io>
-
+Abhidharmakosha in e-format
 Am 03.02.2010 um 16:37 schrieb mkapstei at UCHICAGO.EDU:
-
-> The Karika but not the Bhasya is 
-> available in the Digital Sanskrit Buddhist Canon
-> http://www.uwest.edu/sanskritcanon/dp/
-
-
 Compare also Jens Braarvig's four language presentation in "Thesaurus Literaturae Buddhicae", Sanskrit, Chinese, Tibetan, English, URL: <https://www2.hf.uio.no/polyglotta/index.php?page=volume&library=TLB&vid=5>
 One can go through the Bh??ya sentence by sentence (the "full text" link does not provide the complete text, so far I can see).
-
 Just for the record: a plain text version of the Tibetan translation of the Bh??ya (taken from the Derge Tanjur) is available from ACIP, too:
 1: <http://www.aciprelease.org/r6web/flat/TD4090I1_T.TXT>
 2: <http://www.aciprelease.org/r6web/flat/TD4090I2_T.TXT>
-
 All the best
 Peter Wyzlic
-
---
 Institut f?r Orient- und Asienwissenschaften
 Abteilung f?r Indologie
 Universit?t Bonn
 Regina-Pacis-Weg 7
 53113 Bonn
-
-
-
-

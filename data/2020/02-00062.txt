@@ -1,29 +1,14 @@
-From drdhaval2785 at gmail.com  Sun Feb 16 17:28:09 2020
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sun, 16 Feb 20 22:58:09 +0530
-Subject: =?utf-8?B?W0lORE9MT0dZXSDgpIXgpKjgpYfgpJXgpL7gpLDgpY3gpKXgpKjgpL/gpJjgpKPgpY3gpJ/gpYEgb2Yg4KSn4KSo4KSe4KWN4KSc4KSvIGFuZCDgpI/gpJXgpL7gpJXgpY3gpLfgpLDgpYDgpJXgpYvgpLcgb2Yg4KSF4KSu4KSw4KSV4KS14KS/?=
-Message-ID: <CADSGPzVR-gaWZrGx-hh=UnGvdqb4k9nEobUtnYY_WXddwQx6cg@mail.gmail.com>
-
+=?utf-8?B?W0lORE9MT0dZXSDgpIXgpKjgpYfgpJXgpL7gpLDgpY3gpKXgpKjgpL/gpJjgpKPgpY3gpJ/gpYEgb2Yg4KSn4KSo4KSe4KWN4KSc4KSvIGFuZCDgpI/gpJXgpL7gpJXgpY3gpLfgpLDgpYDgpJXgpYvgpLcgb2Yg4KSF4KSu4KSw4KSV4KS14KS/?=
 Dear Scholars,
 I hereby present these two koshas from Sansknet data, slightly edited.
 Anek?rthanigha??u of Dhana?jaya
 and
 Ek?k?ar?ko?a of Amarakavi
-
 https://github.com/sanskrit-kosha/kosha/blob/master/anekarthanighantu_dhananjaya/orig/anekarthanighantu.txt
 and
 https://github.com/sanskrit-kosha/kosha/blob/master/ekaksharikosha_amarakavi/orig/ekaksharikosha.txt
-
 Proof reading by Mr. Pradeep Rastogi on voluntary basis.
 My gratitude to him.
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Surat
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200216/270dbafb/attachment.htm>
-

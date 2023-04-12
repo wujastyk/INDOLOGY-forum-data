@@ -1,28 +1,8 @@
-From ucgadkw at ucl.ac.uk  Tue Jun 13 16:11:29 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 13 Jun 95 17:11:29 +0100
-Subject: Tibetan TeX
-Message-ID: <161227019696.23782.13879410320634950669.generated@prod2.harmonylists.io>
-
-> I usually use the TeX System. I got the Tibetan-TeX from 
-> this Library. But this package has not various fonts. It 
-> has only 300dpi. I would like to get the Source Program of 
-> these fonts (maybe METAFONT). And then, are there Sources 
-> of this Tibetan Preprocessor ? If somebody knows about this, 
-> would you please tell me.
-
+Tibetan TeX
 I am afraid that these Tibetan fonts were never created in METAFONT
 format.  The PK files are direct translations from 300 dpi bitmaps
 in another bitmap format.  :-(  Sorry.
-
 The Free Software Foundation does have tools for converting bitmap
 fonts into outline format, but doing this is a very non-trivial
 task, and probably requires a unix workstation.
-
 Dominik
- 
-
-
-
-
-

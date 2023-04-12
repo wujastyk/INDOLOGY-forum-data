@@ -1,46 +1,25 @@
-From lmfosse at ONLINE.NO  Sun Mar  1 20:36:07 1998
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Sun, 01 Mar 98 21:36:07 +0100
-Subject: Indo-Aryan invasion
-Message-ID: <161227036285.23782.12903022387815190166.generated@prod2.harmonylists.io>
-
+Indo-Aryan invasion
 Erik Seldeschachts wrote:
-
->In the Sarasvati case, if one accepts the view that Dravidian was the language
->spoken in North-Western India at that time, how to explain the fact that
 this language
->has been wiped out from that area by intruders, who certainly could have
 formed only a
->minority in a culturally superior environment?
-
 We do not have to assume that the state of the inhabitants of the Indus
 culture area was such that the Aryans felt they were culturally superior.
 And the ARyans may quickly have become a majority in the region, compare the
 Europeans in the Americas.
-
 How to explain the absence of Dravidian
->elements in the oldest forms of Indo-Aryan (the few such elements proposed
 are all
->heavily disputed).
-
 Are they? I was under the impression that Dravidian and/or other non-IE
 elements are present already in the Rigveda, although they increase with
 time. Please give me some references.
-
 Finally, how is it possible that there is no trace of a Dravidian
->substratum in placenames and rivernames in most of North-Western India and
 even in most
->of Nortern India as a whole.
-
 1: How do you know that there are virtually no Dravidian place-names? I
 don't think that the linguistics of Northern India are that transparent.
-
 2: The phenomenon would, however, have parallels. The Norsemen migrated to
 Norway about 800 BCE. They did not come to an uninhabited area. Still, there
 is hardly a non-Norse name left south of the Sami areas. And what about the
 Brahui? They are still there, after quite some time, apparently. A quote
 from Mallory's book "In Search of the Indo-Europeans":
-
 "Circumstantial evidence for identifying the language of the Indus Valley
 script with Elamite or Dravidian has been greatly strengthened by David
 McAlpin's work on the relationship between the Dravidian languages and
@@ -55,51 +34,25 @@ foundation of the Indus civilization with Elamo-Dravidian languages - an
 hypothesis far more probable than Colin Renfrew's recent suggestion that the
 Indus Valley civilization was Indo-Aryan and that it was Indo-Europeans who
 introduced the farming economy to this region".
-
 In fact, if you look at the map, you will see that the Aryans migrating down
 the Punjab cut the Dravidian population in two: The ones to the West of the
 Aryan wave of immigration, and the ones to the South-South-East. This would
 be the logical conclusion of McAlpin's work on Elamo-Dravidian. I am not a
 Dravidist, and even less an Elamist, so I cannot vouch for McAlpin's work,
 but comments from knowledgable people would be interesting.
-
->The Dravidian hypothesis has to be abandoned.
-
 I am afraid not quite yet.
-
-
->> As for the Iranians, there are no traces of
->> anything Indian to the best of my knowledge.
->
->You are right, except for the fact that there are Gypsies among the
 Iranians too and that
->there are a number of Indian loan-words in Persian. However, I do not
 understand why you
->make this remark. The early migration route of Indians towards the west
 must have
->followed the Oxus bassin (formerly leading to the Caspian Sea), an area
 which came only
->relatively late under Iranian controll.
-
 "must have followed ... " How can you make such a statement? How can we
 hypothetically assert which route the Indians followed *if* they migrated
 out of India? I gather that you belong to the crowd that claims Aryans must
 leave archaological evidence to prove their migration *into India*. But the
 same argument would also work the other way around!
-
->> Ah well, the genetic argument again. I think I shall have to quote
->> something. I refer to the magnum opus on the genetics of the world by
->> Cavalli-Sforza called "The History and Geography of Human Genes". Princeton
->> University Press 1994.
->
->I must confess that I haven't read the work of Cavalli-Sforza, but I have
 the impression
->that he is trying to fit his genetic data into tradional theories. As far
 as I know there
->is no substantial genetical difference between the population of the
 Indus-Sarasvati
->culture and the present population of that area.
-
 I think I suggested that you check out the genetic data yourself, since it
 would be rather a lot to copy. What I did, was simply to give you his
 conclusions which square fairly well with the picture developed by the
@@ -110,27 +63,8 @@ evaluated the models of Gimbutas and Renfrew concerning the spread of the
 Indo-Europeans in Europe. The conclusion was that neither Gimbutas' nor
 Renfrew's diffusion models could be squared with the genetic data. There is
 no reason to assume that Cavalli-Sforza is "cooking his books".
-
->> Summing up the population movements in India the book says:
->
->> 2. The second is a major migration from Western Iran that began in early
->> Neolithic times and consisted of the spread of early farmers of the eastern
->> horn of the Fertile Crescent. These people were responsible for most of the
->> genetic background of India; they were Caucasoid and most probably spoke
->> proto-Dravidian languages. These languages are now confined mostly, but not
->> exclusively, to the south because of the later arrivals of speakers of
->> Indo-European languages, who imposed their domination on most of the
->> subcontinent, especially the northern and central-western part. But the
->> persistence of a very large number of speakers of Dravidian languages in the
->> center and south is an indirect indication that their genetic identity has
->> not been profoundly altered by later events.
->
->Here Cavalli-Sforza implicitly admits the shortcomings of his research
 saying "they were
->Caucasoid and most probably spoke proto-Dravidian languages". Why couldn't
 they "most
->probably" have spoken Indo-Iranian or proto-Indo-Aryan ?
-
 I think that Cavalli-Sforza may have had McAlpin's work in mind. But let me
 remind you that when we are dealing with historical data that in no way are
 complete, our configuration of the data (to use Edwin Bryant's expression)
@@ -140,22 +74,11 @@ assume an Indo-European (Aryan) migration into India (AIT!) in the second
 millennium BCE is in my humble opinion simply associated with the highest
 degree of probability. Other theories just seem to score much lower on the
 probability scale.
-
-
->As is the case with so many factors, the genetic shift can easily be
 interpreted here as
->going the opposite way: from east to west. The time and areas indicated are
 more or less
->the period and areas of the westward movement of Indo-Aryan peoples, who by
 then had
->mastered the skills of horse-riding.
-
 This is in my opinion simply wishful thinking.
-
->Again, no genetic argument at all, but a purely traditionalist explanation,
 which can be
->easily reversed.
-
 Maybe not. You should not argue against my quotations when I urge you to
 read the whole material in Cavalli-Sforza relevant to South Asia before
 protesting. (A few pages, but not a superhuman job). And my argument still
@@ -163,21 +86,11 @@ stands: there is no genetic data indicating that people moved out of India
 (with the exception of the gypsies, of course!). The genetic evidence that
 is to be found, so far supports the other model. The burden of proof is on
 the out-of-India side.
-
 Best regards,
-
 Lars Martin Fosse
-
-
 Dr.art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
-
-Tel: +47 22 32 12 19
 Fax: +47 22 32 12 19
 Email: lmfosse at online.no
 Mobile phone: 90 91 91 45
-
-
-
-

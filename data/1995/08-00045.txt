@@ -1,20 +1,5 @@
-From rsalomon at u.washington.edu  Thu Aug 10 16:29:35 1995
-From: rsalomon at u.washington.edu (Richard Salomon)
-Date: Thu, 10 Aug 95 09:29:35 -0700
-Subject: siddha-mAtrkA
-Message-ID: <161227020282.23782.14271877192127717904.generated@prod2.harmonylists.io>
-
+siddha-mAtrkA
 On Tue, 8 Aug 1995 malaiya at ravi.CS.ColoState.EDU wrote:
-
-> Srinivasan Kalyanaraman wrote: "What does siddha-mAtrkA 'mean' when such a 
->   name is assigned to an ancient script which originated from brAhmI and spread 
->   to Cambodia and Thailand? ....
->   siddha-mAtRkA = name of the Indian alphabet derived  from late brAhmI script 
->   which is the source of many scripts of south asia; wrongly called kuTila."
-> 
-> Perhaps the name siddha-mAtrkA implied that the script had "perfect"
-
-
 	On the meaning of "Siddhamaat.rkaa, see the interesting comments 
 of G. Bu:hler in his On the Origin of the Indian Brahma Alphabet, p.30. 
 to the effect that "the Pandits" understand the term to mean "the 
@@ -54,41 +39,11 @@ a particular archaic north Indian script which has been preserved as a
 sacred form of writing in much of Asia.  The usage is firmly established 
 and honored 
 by tradition.  I am merely trying to clarify its ultimate origin and meaning.
-
-
-
-
-
-> proportions (taking matra to mean measure) or maatraas.
-> 
-> Al-beruni (b. 973 CE, arrrived in Gazna in 1017) describes siddha-matrika as 
-> the popular script in the madhya-desh region (around Kannauj), also used by 
-> scholars from  Kashmir to Varanasi. He mentions several other scripts some of 
-> which are apparently variations of siddha-matrika, others being somewhat 
-> different.
-> 
-> One can take the script of inscriptions of Gahadawal and Paramar kings to
-> be late siddha-matrika. The script is characterized by straight vertical 
-> and horizontal strokes, rather than circular strokes. Modern Devanagari
-> is rather close to this script.
-> 
-> All the native scripts of India, Ceylon, Tibet and south-east Asia
-> are derived from Brahmi. Japanese Katakana and Korean scripts can also be
-> considered to be influenced by Brahmi derived scripts. Both were invented
-> by Buddhist monks to represent Sanskrit sounds correctly.
-
 My understanding is that the influence of Brahmi, or rather 
 Siddhamaatrkaa or other derivatives, 
 on Korean (Hangul) and Japanese is questionable and indirect at best.  
 There may be some broad systemic connections with regard to syllabic 
 structure and "alphabetic" ordering, but nothing like direct borrowings.  
-
-
-> 
-> Kutila (6-9th cent) is defined to be the precurser of both Nagari and Sarada.
-> We can take it to be early siddha-matrika.
->
-
 S. Kalyanaramam was correct in his original message that the term 
 "Ku.tila" formerly applied to the (conventional) Siddhamaat.rka script 
 was incorrect.  This misunderstanding, which goes all the way back to 
@@ -98,25 +53,7 @@ from a misinterpretation of an adjective ku.tila- meaning something like
 few inscriptions of the period in question with reference to the form of 
 their writing (in scribe's colophons to the inscriptions).  The matter is 
 clarified by D.C. Sircar in Epigraphia Indica 36, p.50.
-
-> We can regard Cambodian and Thai scripts to be descendents of siddha-matrika.
-> Javanese is derived from pre-Gupta spouth Indian scripts.
-> 
-
 The derivation of the Southeast Asian scripts is problematic, but 
 basically they seem to go back to early south or west Indian derivatives 
 of Braahmii, and  not to Siddhamaat.rkaa.
-
-
-> Yashwant K. Malaiya
->  
-> 
-
-
 -Richard Salomon
- 
-
-
-
-
-

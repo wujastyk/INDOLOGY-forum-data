@@ -1,27 +1,8 @@
-From hubeyh at MONTCLAIR.EDU  Sat Nov  7 05:35:44 1998
-From: hubeyh at MONTCLAIR.EDU (H.M.Hubey)
-Date: Sat, 07 Nov 98 00:35:44 -0500
-Subject: Paired Horse and PIE breakup
-Message-ID: <161227042388.23782.11534685312925017252.generated@prod2.harmonylists.io>
-
+Paired Horse and PIE breakup
 Miguel Carrasquer Vidal wrote:
->
->
-> Renfrew puts PIE around or before 6000 BC (the date of the earliest
-> farmers in Greece and the Balkans) or even earlier, in Anatolia
-> (Catal Huyuk, c. 7000 BC).  Such dates are impossibly early, and
-> Renfrew's arguments are linguistically unsound in other respects (if
-> Hittite is the direct descendant of the "stay behinds" in Anatolia,
-> and Greek the direct descendant of the language of the first farmers
-> that crossed over from Anatolia to Greece, then we would expect Greek
-> to be closest to Hittite.  In fact, Greek is much more similar to
-> Sanskrit than to Hittite).
-
 This could be a time effect, or a substratum effect depending on
 the observable facts.
-
 I can only give an example.
-
 Suppose an airplane flies from Oslo to Malta. IT starts at 9:00 AM
 and lands at Malta airport at 12:00. Suppose we put a temperature
 sensor on the airplane that records the ambient temperature. We later
@@ -35,77 +16,34 @@ Now, the spatial temperature change depends on the velocity of the
 plane.
 The faster this plane travels, the greater it records the change in the
 spatial temperature gradient over the north-south axis.
-
 So if Hittite and Greek and Sanskrit are not from exactly the same
 time period and did not have exactly the same substratum, it is
 difficult
 to make judgements for these effects. One would have to "normalize" the
 data to account for the effects of the substratum (spatial) and
 the effects of the time difference (temporal).
-
 In the case of the airplane, it is easy because it is called the
 hyrodynamic or total derivative and is given by a neat formula of
 calculus. In order to apply this idea to language we have to fix
 up a few things which are not too clear.
-
-
-> But I do agree with Renfrew that there's a striking similarity
-> between the expansion of Indo-European languages across Europe and
-> the expansion of agriculture across the same area.  It has to be
-> borne in mind, however, that this expansion was not entirely gradual
-> as Renfrew has it, but proceeded in several stages.  It is easy to
-> see how this came about: the Anatolian farmers, when they crossed
-> over into Greece, Bulgaria and southern parts of ex-Yugoslavia and
-> Romania, found circumstances similar to the ones they were used to in
-> Anatolia: basically hilly terrain and Mediterranean climate.
-
 I made a separate post on the effects of the rising sea levels.
 It takes a little time for info of this sort to diffuse from science
 journals into linguistics.
-
-> Admittedly, the common vocabulary for wheeled transport is a problem
-> for my theory (not as much as for Renfrew's version, of course).  If
-> wheeled transport was invented c. 3500 BC, there is still a gap of
-> two millennia between my date for PIE breakup and the wheel.
-
 It could have been carried as a technological innovation by anyone,
 including a branch of IE.
-
 One of my teachers played this "joke" on us a long time ago.
-
         I have four bottles labeled A, B, C and X.
-
         I mix A & X and drink and get drunk.
         I mix A & Y and drink and get drunk.
         I mix A & Z and drink and get drunk.
-
 What can you say?
-
 Most people would say that X has alcohol.
-
 But what if A, B and C are vodka, whiskey, and brandy and X is
 just coke?
-
 It is not necessary to have the cart at the time of dispersal
 if there ever was such a thing.
-
-> Furthermore, most of the words in question are derived from common IE
-> roots (*weg^h- "to carry" -> "to tranport, to ride", *ak^s- "armpit,
-> arm, shoulder, wing" -> "axle", *kwel-, *kwekwel- "to turn, to spin"
-
 Doesn't this sound a little like Sumerian gigir? gigir=kwekwel=kekel?
-
-> -> "wheel, chariot", *retH-/*rotH- "to run" -> "wheel, chariot").
-> Assuming a time depth of 2000 years (5500-3500 BC), and that the the
-> IE dialects were still largely mutually intelligible (as the Romance
-> languages are today), such transparent formations may have easily
-> been picked up and adopted by other Indo-European speakers, along
-> with the items themselves.
-
 Of course. Why not?
-
-
---
 Best Regards,
 Mark
 -==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -119,7 +57,3 @@ or entities other than the intended recipient is prohibited. If you
 received this in error, please contact the sender and delete the
 material  from any computer.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-
-

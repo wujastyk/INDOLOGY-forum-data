@@ -1,13 +1,7 @@
-From vidynath at MATH.OHIO-STATE.EDU  Thu Aug 27 16:24:28 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Thu, 27 Aug 98 12:24:28 -0400
-Subject: The word ciciirSu from padmaprAbhRtaka
-Message-ID: <161227041225.23782.2144307130223125094.generated@prod2.harmonylists.io>
-
+The word ciciirSu from padmaprAbhRtaka
 I am reading Manmohan Ghosh's edition of the Caturbhaa.ni. There are a
 few things there about the use of `grammarians' forms' that I find
 puzzling.
-
 In Padmapraabh.rtaka, Dattakala"sin, described as a grammarian, says
 ``kva sa.mciciir.su.h? ... ki.m dudru.su.h?'' Ghosh translates
 `sa.mciciir.su' as `intending to go', as if it is from `car'. But I can
@@ -16,23 +10,12 @@ is there a variant c.r for car. In spite of the claim to be a critical
 edition, the notes refer only to readings of other editions. I am not
 sure if the form `ciciir.su' is a joke on Dattakala"sin's pretensions
 or if it a scribal error/typo for something else (cikiir.su?).
-
 dudru.su is also puzzling. As far as I can see, only the regular
 dudruu.su is given in grammar books (if this form is specifically
 mentioned).
-
----
-
 A somewhat tangential question, brought on by the mention of Kaatantra
 in Padma. in this context and the well-known legend on the composition
 of Kaatantra: Does Kaatantra permit the use of imperative with the
 prohibitive particle maa?
-
----
-
 thanks in advance for any help.
 -Nath
-
-
-
-

@@ -1,57 +1,25 @@
-From raja at IFA.HAWAII.EDU  Fri Feb 12 20:46:17 1999
-From: raja at IFA.HAWAII.EDU (Narayan S. Raja)
-Date: Fri, 12 Feb 99 10:46:17 -1000
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-In-Reply-To: <19990212184901.18256.qmail@hotmail.com>
-Message-ID: <161227046237.23782.10444850983858384790.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 On Fri, 12 Feb 1999, U Hayavadana wrote:
-
-> At 11:40 11.02.99 PST, Christopher Fernandez wrote:
-> >
-> > Are there any reasons why India cannot make a switchover
-> > to AIR script?
->
-> yes: it will make literacy easier to achieve,
-
 Perhaps you could explain why literacy
 is easier to achieve using the Roman script
 rather than any other script?
-
 You might also help us by explaining the
 discrepancies in the following tables of
 literacy rates, which I compiled from
 http://www.accu.or.jp/litdbase/stats/index.htm
 and http://www.cowan.edu.au/library/iorr/country/srilanka.htm
-
-
   Countries using         Countries not using
   Roman script            Roman script
  ----------------------------------------------
   Indonesia (84%)         Thailand    (94%)
   Malaysia  (84%)         Sri Lanka   (89%)
-
-
   States in India         States in India
   using Roman script      not using Roman script
  ----------------------------------------------
   Nagaland (60 to 74%)    Kerala (89.8%)
   Meghalaya (46 to 60%)   Goa (above 88%)
-
-
-
-> and there are some people
-> who don't want that. the sangh parivar has already said that nobel
-
 [...deleted...]
-
 Is it possible that people are
 just fond of the traditional
 script of their own languages?
-
-
 Raja.
-
-
-
-

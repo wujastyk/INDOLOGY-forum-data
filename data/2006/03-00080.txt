@@ -1,32 +1,16 @@
-From birgit.kellner at UNIVIE.AC.AT  Sun Mar 19 19:13:29 2006
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Sun, 19 Mar 06 20:13:29 +0100
-Subject: SARDS online - WOW!
-In-Reply-To: <Pine.A41.4.61.0603191241020.229848@neo1>
-Message-ID: <161227077679.23782.4855572662629015177.generated@prod2.harmonylists.io>
-
+SARDS online - WOW!
 Timothy C. Cahill schrieb:
-> Indologists,
->
->    We owe a deep debt of gratitude to Professor Slaje and his 
-> colleagues for this impressive undertaking. A quick look at the list 
-> of Abbreviations will show how useful this tool will be!
->
->
 Indeed, the usefulness of this tool is enormous, as should be, and will 
 be, our gratitude!
-
 One issue, however, springs to mind for the regular user of 
 bibliographical databases: the help page of SARDS2 describes how one can 
 copy entries to word processing software, which basically amounts to 
 copying strings of letters through copy-and-paste. This seems to be the 
 only form of data export that is currently envisaged.
-
 How about export to bibliographical tools like Endnote, via a Z39.50 
 gateway? Or how about (more or less) standardized bibliographical export 
 formats like BibTeX or TEI's XML structure? Are these being envisaged as 
 potential future additions?
-
 Implementing more sophisticated import/export possibilities, or even 
 devising special application programming interfaces (API) which allow 
 for combining individual bibliographical databases into meta search 
@@ -39,14 +23,7 @@ SARDS itself could also profit from such export/import facilities
 because they would also facilitate data import into the SARDS database 
 (with some post-processing to accommodate, for instance, customised 
 keywording schemes).
-
 - Just some food for thought.
-
 Once more: thanks to Walter Slaje (and especially to Balthasar Pohlus 
 :-)) for this wonderful resource.
-
 Birgit Kellner
-
-
-
-

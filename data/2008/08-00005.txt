@@ -1,83 +1,9 @@
-From rrocher at SAS.UPENN.EDU  Sun Aug  3 19:18:08 2008
-From: rrocher at SAS.UPENN.EDU (Rosane Rocher)
-Date: Sun, 03 Aug 08 15:18:08 -0400
-Subject: Kyoto-Harvard transliteration
-In-Reply-To: <CA4AD28A-4D89-432C-AED1-28CAF4AEF3DE@inria.fr>
-Message-ID: <161227083073.23782.1995545125768091929.generated@prod2.harmonylists.io>
-
+Kyoto-Harvard transliteration
 I recall an early article by Richard Salomon titled "An ancient 
 diplomatic dispute," or something to that effect, which studies the dire 
 consequences of contravening to this Sanskrit (and Indo-European) "law." 
 Sorry I can't give an exact reference at this time. I am up in the 
 mountains, and my collection of offprints is in town. Rich is also out 
 of station at the moment.
-
 Rosane Rocher
-
 G?rard Huet wrote:
-> Dear colleagues,
->
-> I was very interested to learn about Behaghel's law. I presume it is a 
-> general statement about the Indo-European family of
-> languages, which may be more or less verified for the various 
-> languages. Concerning Sanskrit, thanks to Ashok for providing the
-> reference, indeed justifying calling it this "Paa.nini-Behaghel" law. 
-> It is intriguing whether this "law" is merely a standardized
-> rhetorical device, or whether it is related to some information 
-> theoretic notion such as Huffman coding 
-> (http://en.wikipedia.org/wiki/Huffman_coding) since it is likely that 
-> shorter words are more frequent than longer ones.
-> Some relation with sandhi-splitting ease could also exist (specially 
-> in light of Paa.nini 2.2.32 and 33).
->
-> Of course the law concerns only copulative compounds (dvandva). The 
-> problem arises when listing several authors of a paper.
-> The usual rule (of Western academics) is that authors are given in 
-> alphabetical order, only in case of balanced authorship.
-> Otherwise the authors are put in decreasing order of their respective 
-> contribution, and this is a fairer law than any syntactic
-> one.
->
-> Actually, vaarttikas recommend the fair law: first should be come the 
-> notion worthy of most respect, like in maatapitarau.
-> And of course braahma.nak.satriyavi.t"suudraa.h - br?hmans should 
-> always go first!
->
-> I hope you do not have problems with my transliteration scheme. I call 
-> it VH encoding. Velthuis is of course the primary author.
-> I merely restrict his code to lower case letters, using aa and not A 
-> etc. It would be unfair to call this the HV encoding because
-> of some obscure IE law ...
->
-> Cheers
-> GH
->
-> Le 3 ao?t 08 ? 16:01, Ashok Aklujkar a ?crit :
->
->> Dear Michael,
->>
->> Thanks for the clarification. Enjoyed your wit. Glad to note that 
->> honesty
->> continues to be important at my Alma Mater.
->>
->> In the spirit of your note and on the growing pattern illustrated by
->> "Newton-Bhaaskara," "Einstein-Bose" etc. (or their reversals), may I 
->> suggest
->> thaat Behaghel's law should be referred to as "Paa.nini-Behaghel's 
->> law"? See
->> Paa.nini 2.2.34 (alpaactaram). Even your "metrically shorter" is 
->> anticipated
->> in a Vaarttika to this rule (laghv-ak.sara.m puurvam).
->>
->> Sorry for not following Kyoto-Harvard in the above, although I have very
->> fond memories of both places.
->>
->> Best.
->>
->> ashok
->>
->
-
-
-
-

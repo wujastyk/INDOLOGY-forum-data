@@ -1,22 +1,12 @@
-From dargie at lingua.cltr.uq.oz.au  Mon Jul  7 06:44:35 1997
-From: dargie at lingua.cltr.uq.oz.au (dargie at lingua.cltr.uq.oz.au)
-Date: Mon, 07 Jul 97 16:44:35 +1000
-Subject: Sanskrit OCR
-Message-ID: <161227031424.23782.7906131672061773027.generated@prod2.harmonylists.io>
-
+Sanskrit OCR
 I think I am safe in assuming that no-one has yet developed an optical
 character recognition (OCR) system for the devanagari script.
-
 I know that DHH Ingalls and his son had worked on the problem some 20 years
 ago, but I have not heard any more about it.
-
 In any case, does anyone know of an OCR system that is accurate for roman
 transliteration.  Has anyone tried to input text in this way?
-
 Regards and thanks in advance,
-
 David Dargie
-
 *****************************************************************
 David Dargie
 Studies in Religion
@@ -25,9 +15,3 @@ email: dargie at lingua.cltr.uq.oz.au
 Phone: +61 7 3365 7334
 Home: +61 7 3397 6863
 *****************************************************************
-
-
-
-
-
-

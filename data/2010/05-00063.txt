@@ -1,23 +1,11 @@
-From zysk at HUM.KU.DK  Mon May 17 18:56:07 2010
-From: zysk at HUM.KU.DK (Kenneth Zysk)
-Date: Mon, 17 May 10 20:56:07 +0200
-Subject: Help with keyboard
-Message-ID: <161227089592.23782.1325706137886933567.generated@prod2.harmonylists.io>
-
+Help with keyboard
 I just acquired a new computer with Windows 7. I downloaded Gandhari Unicode fonts and tried, but failed, to download the Keyman keyboard layout. Can someone kindly tell me how to acquire the necessary keyboard accessory for the Gandhari Unicode fonts with Windows 7.
- 
 Many thanks in advance.
- 
 Best,
 Ken
- 
 Kenneth Zysk
 Department of Cross-Cultural and Regional Studies
 University of Copenhagen
 Artillerivej 86    
 DK-2300 Copenhagen S    Denmark
  Email: zysk at hum.ku.dk
-
-
-
-

@@ -1,19 +1,9 @@
-From pslvax!sadhu at UCSD.EDU  Wed Sep  7 16:57:49 1994
-From: pslvax!sadhu at UCSD.EDU (pslvax!sadhu at UCSD.EDU)
-Date: Wed, 07 Sep 94 16:57:49 +0000
-Subject: None
-Message-ID: <161227017156.23782.7469379554468107584.generated@prod2.harmonylists.io>
-
-From: sadhu at pslrd.castcrew.com (Sadhunathan Nadesan)
-Date: Wed, 7 Sep 1994 09:57:49 -0700
-In-Reply-To: BAPAT JB <sci.monash.edu.au!Jayant.B.BAPAT at ucsd.UUCP>
+None
        "Aryans and Dravidians" (Sep  7,  3:15)
 X-Mailer: Mail User's Shell (7.2.5 10/14/92)
-To: indology
-Subject: Re: Aryans and Dravidians
+Re: Aryans and Dravidians
 Content-Type: text
 Content-Length: 10681
-
 / FROM:  BAPAT JB <sci.monash.edu.au!Jayant.B.BAPAT at ucsd.UUCP>, Sep 7  3:15 1994
 | ABOUT: Aryans and Dravidians
 |
@@ -31,43 +21,28 @@ Content-Length: 10681
 | Could someone please help me locate such material.
 |---------------------------------------------------------------------- Jayant Bapat 
 | 
-
 	Dr. Bapat:
-
 	This is not a direct answer to your question, but, indirect.
-
 	I read an article about an importer of Indian Books, and in
 	the interview, he mentioned the topic of the Aryan invasion.
 	It is possible he can help you.
-
 	I hesitate to attach the entire article .. as it is a bit long
 	.. but I guess I will take my chances on the flames and go
 	ahead, as other researchers may find the source (book
 	importer) to be of interest too.
-
 	Namaskars,
 	Sadhunathan Nadesan
-
 | 
 | 
 |---------------------------------------------------------------------- Jayant Bap----------------------------------------------------------------------
-Message-Id: <9409071545.AA28036 at pslvax.castcrew.com>
-To: sadhu
-Subject: may_94/South_Asian_Books (complete) ascii
+may_94/South_Asian_Books (complete) ascii
 X-Server: Squirrel Mail Server Software V3.01B [dorequest 3.28]
 Request: may_94/South_Asian_Books
-
------- begin of South_Asian_Books -- ascii -- complete ------
-
 	Index: South Asia Books
-
 	Head: Professor Barrier Ships 3 Tons of Indian Books To US Every
 	Month
-
 	Subhead:
-
 	Text:
-
 	In early February, 1994, New Delhi hosted the largest book fair
 	ever held in India.  Here, the first award for promotion of
 	Indian books abroad was given to Prof.  N.G.  Barrier in
@@ -76,9 +51,7 @@ Request: may_94/South_Asian_Books
 	and Americans.  The following article on Prof.  Barrier and his
 	company, South Asia Books, appeared in the Sunday Times of
 	India.
-
 	By Saibal Chatterjee
-
 	When Yahya Khan imposed martial law in Pakistan in the spring of
 	1969, among the people who were caught unawares was a young
 	American bibliophile.  Trapped in Ferozesons Book Store on the
@@ -86,7 +59,6 @@ Request: may_94/South_Asian_Books
 	of eminently readable Pakistani books, including many tomes on
 	Punjab published by the provincial government.  By the end of
 	it, he had found his true calling.
-
 	"The books were dirt cheap-three to four rupees each.  I packed
 	up two trunks although I knew it would be extremely difficult to
 	get the books out of Pakistan.  But luck favoured me.  Barely 20
@@ -96,7 +68,6 @@ Request: may_94/South_Asian_Books
 	sprightly, ponytailed, 54-year-old Professor N.  Gerald Barrier
 	recounts, flashing back to the dramatic circumstances in which
 	his career and his company, South Asia Books, were launched.
-
 	Books have been his business ever since, but Barrier, winner of
 	the first National Book Trust award for the promotion of Indian
 	publications abroad, has never lived life strictly by the book.
@@ -105,7 +76,6 @@ Request: may_94/South_Asian_Books
 	for American readers have been well worth it.  Not only have
 	they given him a great sense of satisfaction, they have also
 	fetched him tidy profits in the bargain.
-
 	Today, South Asia Books is far and away the largest American
 	distributor of Indian books.  Barrier's warehouse in Columbia,
 	Missouri, USA, has 6,000 square feet of covered space, over
@@ -118,7 +88,6 @@ Request: may_94/South_Asian_Books
 	receive almost every Indian publication through the Library of
 	Congress.  Besides, more than 500 institutions in the US have
 	courses dealing with Indian studies."
-
 	Barrier, who received his doctoral degree from Duke University
 	in 1966 and has been teaching at the University of Missouri for
 	25 years, is convinced that the fears of India being culturally
@@ -131,7 +100,6 @@ Request: may_94/South_Asian_Books
 	titles have been published in the US on yoga alone.  Most major
 	Indian writers come out in American editions.  In fact, they
 	are often first published in the US," he points out.
-
 	India will, therefore, always continue to exercise a deep
 	influence on the lives of Americans, he feels.  "The other
 	important source of contact is the large Indian population in
@@ -146,7 +114,6 @@ Request: may_94/South_Asian_Books
 	institutional problems.  I am rather a humanist at this point,
 	but I believe firmly in life after death and some type of
 	transmigration"
-
 	Barrier's passion for things Indian dates back to the Hindi
 	language fellowship he had at Duke University for four years.
 	His latest visit to India, essentially to pick up titles at the
@@ -154,7 +121,6 @@ Request: may_94/South_Asian_Books
 	Thanks to his avuncular comportment and his laid-back air, he
 	could, if you didn't know him, be mistaken for a Bohemian
 	backpacker hopelessly in love with the wonder that is India.
-
 	A lot of publishing is going on in the US but people are
 	probably reading much less.  And that is causing Barrier a great
 	deal of consternation.  "We've become a visual society.  Reading
@@ -162,29 +128,22 @@ Request: may_94/South_Asian_Books
 	computers and, now, virtual reality," he observes.  "Maybe we
 	are going back to an oral tradition, which is primarily an
 	Indian concept."
-
 	Barrier doesn't see himself as much of a businessman and prefers
 	to leave the market analysis and selling to his staff.  But he
 	knows Indian books like the back of his hand.  "I can
 	instinctively pick up a book that will sell," he says.  His
 	25-year track record as a cross-cultural connoisseur
 	substantiates his claim like nothing else can.
-
 	Address: South Asia Books, P.O.  Box 502, Columbia, Missouri
 	65205, USA.
-
 	Sidebar: Barrier's Bridge to Bharat
-
 	Text:
-
 	Over the years, Hinduism Today has received testimony of how
 	easy it is to buy books from India (once unheard-of humbug)
 	through South Asia Books.  In a flurry of faxes we asked
 	Professor Barrier to tell us more about himself and his company.
 	Below are his words.
-
 	The Mission of South Asia Books
-
 	South Asia Books provides an accessible supply of books and
 	information on publications from India.  I serve as a broker for
 	manuscripts, help Indian and American dealers and increasingly
@@ -194,7 +153,6 @@ Request: may_94/South_Asian_Books
 	sea-cargos (5,000 pounds every four weeks) and then keeping the
 	prices down.  I try to price so that with discounts I get within
 	a reasonable range of the Rupee price.
-
 	I spend about 20-25 hours a week in my academic profession.  I
 	teach Modern Indian history-including courses on Asian and
 	Indian civilization, Gandhi, Nonviolence in Modern World
@@ -202,9 +160,7 @@ Request: may_94/South_Asian_Books
 	India-head important committees, write and publish.  I have
 	written 7 books and numerous articles.  The other 35 hours a
 	week goes into the book business.
-
 	Views of a Veda Vendor
-
 	In my opinion, books on Hinduism in the US are often too
 	academic.  Those from India often have poor quality production
 	and do not answer some of the questions asked by lay people.
@@ -212,15 +168,12 @@ Request: may_94/South_Asian_Books
 	do not buy either scholarly or popular books.  My experience
 	suggests that far more Americans buy books on Hinduism than
 	Indians.
-
 	The Aryan invasion theories are being totally reworked, whether
 	by textual analysis or good solid archaeology.  These works
 	suggest modifications are taking place of earlier ideas either
 	dominated by Westerners or nationalist historians who played up
 	some myths about Aryans.  We are now getting to the real story.
-
 	------------------------------------------------------------------
-
 Copyright 1994, Himalayan Academy, All Rights Reserved. The information
 contained in this news report may not be published for commercial
 purposes without the prior written authority of Himalayan Academy.
@@ -230,21 +183,11 @@ Redistribution electronically (for free), photocoping to give to
 classes or friends, all that is ok.)  This copyright notice may NOT be
 removed, or the articles edited or changed without the prior written
 authority of Himalayan Academy.
-
 Send letters to the editor to hinduism at mcimail.com 
 [for compuserve, use 73310,1001]
-
 For a free three-month trial subscription to Hinduism Today (USA only)
 send postal address to hinduism at mcimail.com, or write P.O. Box 157,
 Hanamaulu, Hawaii, 96746.  Hinduism  Today is published monthly is
 seven editions: North America, UK/Europe, Malaysia/ASEAN, Africa,
 Indian Ocean, India and a Dutch Language Digest. For information on
 subscribing outside the USA, request file "HELP".
------- end of South_Asian_Books -- ascii -- complete ------
-
- 
-
-
-
-
-

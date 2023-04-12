@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Tue Dec 26 15:33:56 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Tue, 26 Dec 00 16:33:56 +0100
-Subject: Data migration / microfilm (was PDF (was publication of IASS              papers on CDROM))
-Message-ID: <161227065937.23782.5294246843288186170.generated@prod2.harmonylists.io>
-
+Data migration / microfilm (was PDF (was publication of IASS              papers on CDROM))
 Dear Dominik,
 sorry to hear about your problems in Oxford in the late 80s in connection with
 migrating your data.
@@ -15,7 +10,6 @@ e-ternals.com, and we can probably convert data from those old floppies to
 something you use, for example an ISO-9660 CD-ROM?
 Anyway, do let me know what you need exactly and I'll ask our team to see if
 we can help.
-
 Oxford has come a long way. People like Lou Burnard and Susan Hockey
 identified the need for normed, standard data exchange in the humanities very
 early on and were instrumental in the process of getting us normed! Most of us
@@ -25,7 +19,6 @@ information on SGML normed encoding is available from
 http://www.uic.edu/orgs/tei. A very good package for formatting data in such a
 forward-compatible way is Adobe Framemaker SGML, available for Mac, Windows
 and UNIX.
-
 I am not sure why you added the sentence about not believing anybody that data
 migration was simple, easy and so on. I think none of us on the list suggested
 that, nor did I. I did say in one of my last contributions to the list that
@@ -38,7 +31,6 @@ to demonstrate what a digital archive should be able to do. We benefit from
 the fact that we don't have to apply for approval from any institutional
 superiors. If we have a consensus here on technical issues, we can implement
 them without having to compromise.
-
 My main problem at the moment is getting certain microfilm formats converted
 to digitial. There is a lot of valuable material on microfilm which is
 physically decaying. We have some valuable material from Baroda here that
@@ -48,48 +40,8 @@ museums we work for? Unfortunately, Kodak and Agfa don't make equipment for
 35mm microfilm material, only for 16mm, and they don't offer the service. We
 have found a way of doing the job, but it requires a complicated routine. We
 are looking for somebody who can do it more efficiently.
-
 Thanks for any help.
 Yours,
 Gunthard
-
 gm at e-ternals.com
-
-
-
 Dominik Wujastyk wrote:
-
-> On Wed, 20 Dec 2000, Gunthard Mueller wrote:
->
-> > What I personally envisage as feasible would be this kind of scenario.
->
-> [description of migrating-on-demand of data from obsolete formats]
->
-> In 1977/78 typed two chapters of the Kumarasambhava into machine-readable
-> format.  I used an IBM card punch machine.  I also wrote lots of programs,
-> and typed some other texts.
->
-> I vividly remember running (literally) to the computer centre in Oxford in
-> the late 1980s, when I heard that they were about to discard their last
-> card-reader.  I managed to hand my shoe-boxes of cards in to the
-> conversion service just days before they stopped accepting cards.  As it
-> was, the main card reader had already been shut down, and my cards had to
-> be partly entered by hand, and header-footer cards had to be punched with
-> a hand stencil.
->
-> The data I rescued from imminent loss is now on 5.25 floppies.  I cannot
-> read them either now.
->
-> I don't believe anybody who thinks data migration is simple, easy, or not
-> a major problem.  Preserving computer data is a dynamic, costly process
-> which requires pro-active management.
->
-> Cf. http://www.clir.org/cpa/abstract/pub63.html
->
-> --
-> Dominik Wujastyk
-> Founder, INDOLOGY list.
-
-
-
-

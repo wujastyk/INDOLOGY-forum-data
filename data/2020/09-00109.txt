@@ -1,24 +1,9 @@
-From mehner at sub.uni-goettingen.de  Wed Sep 16 10:19:12 2020
-From: mehner at sub.uni-goettingen.de (Mehner, Maximilian | GRETIL)
-Date: Wed, 16 Sep 20 10:19:12 +0000
-Subject: [INDOLOGY] GRETIL Update #498
-Message-ID: <11d3b76f56754dde9e9c56b637ffc3a3@sub.uni-goettingen.de>
-
+[INDOLOGY] GRETIL Update #498
 GRETIL is pleased to be able to report the following addition(s) to its collection:
-
 Texts revised:
 Moksopaya [= "Yogavasistha"]<http://gretil.sub.uni-goettingen.de/gretil.html#Moksop>, added chapters 6,120-6,252 and incorporated new corrigenda
-
 Texts converted:
 most of the Sanskrit<http://gretil.sub.uni-goettingen.de/gretil.html#Sanskrit> corpus
-
-__________________________________________________________________________
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
 <http://gretil.sub.uni-goettingen.de/gretil.html#DhSmrti><http://gretil.sub.uni-goettingen.de/gr>
 http://gretil.sub.uni-goettingen.de/
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200916/42009323/attachment.htm>
-

@@ -1,51 +1,6 @@
->From the server side, one potential solution is to login to your list options page (http://listoptions.indology.info) and try changing the encoding of the digests from MIME to Plain Text.
-
 Incidentally, as a reminder to us all, the list options page is where one would go to start/stop receiving Digests, change one?s email or password, temporarily suspend email delivery, and perform an assortment of other features of the list.
- 
 with best wishes,
 Adheesh
-
 ?
 Adheesh Sathaye
 University of British Columbia
-
-
-> On Apr 13, 2017, at 09.05, AJ Misra via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> Hi there,
-> 
-> I'm having difficulty in reading the transliterated (romanised Sanskrit with diacritical marks) in the Indology Digest. These appear as "?" in my email. Would you be able to suggest any setting changes or otherwise I could implement to be able to read the transliterated Sanskrit correctly?
-> 
-> Thank you for your help with this.
-> 
-> Best
-> 
-> AJ 
-> 
-> -- 
-> Dr Anuj Misra
-> Postdoctoral Research Fellow
-> Tables Analysis Method for the history of Astral Sciences (TAMAS)
-> Syst?mes de R?f?rence Temps Espace (SYRTE)
-> Observatoire de Paris
-> 61, Avenue de l'Observatoire
-> Paris 75014
-> FRANCE
-> https://tamas.hypotheses.org/
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-
-
-
-
-
-
-
-

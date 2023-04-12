@@ -1,11 +1,5 @@
-From rbm49 at STUDENT.CANTERBURY.AC.NZ  Thu Mar  9 04:08:26 2000
-From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Mahoney, Richard B.)
-Date: Thu, 09 Mar 00 17:08:26 +1300
-Subject: BiBTeX Packages for citing MSS
-Message-ID: <161227056520.23782.15219421421611689081.generated@prod2.harmonylists.io>
-
+BiBTeX Packages for citing MSS
 Dear Readers,
-
 Over the past few months I have been making the - at times
 frustrating - transition from WordPerfect to TeX and LaTex. Looking
 back, all the effort seems worth it. Now I hope I'll never have to
@@ -14,25 +8,17 @@ have made ``Devanaagarii'' and ``EDMAC'' available.  On a primitive
 and antiquated PC, I can now typeset Skt. class readings.  A short
 while ago I considered this unrealistic. All this said, I have
 encountered a problem with BiBTeX.
-
 BiBTeX has been useful in organizing and typesetting most run of the
 mill citations and bibliographies.  I am using the ``Oxford''
 package: its closest to the way I have always tried to do things.
 But what does one do if MSS need to be cited?
-
 Does anyone know of a BiBTeX package which can appropriately format
 references to South East Asian Skt. MSS?
---
 Richard B. Mahoney
 Student
 Department of Philosophy and Religious Studies
 University of Canterbury
 Christchurch
 NEW ZEALAND
-
 Email: rbm49 at student.canterbury.ac.nz
 Telephone: 0064-3-351-5831
-
-
-
-

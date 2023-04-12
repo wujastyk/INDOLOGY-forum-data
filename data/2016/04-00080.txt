@@ -1,74 +1,10 @@
-From christophe.vielle at uclouvain.be  Wed Apr 13 11:51:19 2016
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Wed, 13 Apr 16 13:51:19 +0200
-Subject: [INDOLOGY] Problems with DLI-downloader
-In-Reply-To: <D333A179.27478%lubint@wlu.edu>
-Message-ID: <45989ECD-FD12-4FF8-9C5A-7D269B9EB9B7@uclouvain.be>
-
+[INDOLOGY] Problems with DLI-downloader
 Also :
 http://www.dli.ernet.in
 Problems with
 http://www.new1.dli.ernet.in
 http://www.dli.gov.in
-
 Le 13 avr. 2016 ? 13:28, Lubin, Tim <LubinT at wlu.edu> a ?crit :
-
-> Dear Erik,
-> 
-> If you are talking about the downloader, which has never worked for me anyway, I don?t know.  DLI seems to be in the process of shifting over from the old on-line page-by-page reader to offering PDFs.  There are multiple portals, and I have found that files from http://www.dli.ernet.in from come in at a trickle or are ?not found," but this portal works fine at the moment: 
-> http://dli.serc.iisc.ernet.in
-> 
-> Best,
-> TL
-> 
-> Timothy Lubin
-> Professor of Religion and Adjunct Professor of Law
-> Washington and Lee University
-> Lexington, Virginia 24450
-> 
-> http://home.wlu.edu/~lubint 
-> http://wlu.academia.edu/TimothyLubin 
-> 
-> ?
-> 
-> From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Erik Reenberg Sand <ersand at hum.ku.dk>
-> Date: Wednesday, April 13, 2016 at 5:43 AM
-> To: "indology at list.indology.info" <indology at list.indology.info>
-> Subject: [INDOLOGY] Problems with DLI-downloader
-> 
-> Dear colleagues,
->  
-> For the last couple of days I have been having problems downloading from DLI via DLI v.5.9. Whatever title I try to download it comes out saying ?Not found?. Does anybody have an explanation?
->  
-> Regards
->  
-> Erik
->  
->  
->  
->  
-> Erik Reenberg Sand
-> Lektor
-> Institut for Tv?rkulturelle og Regionale Studier
-> Karen Blixens Vej 4
-> Bygning 10.4.15
-> DK-2630 K?benhavn S
-> +45 51 30 26 99
-> ersand at hum.ku.dk
->  
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
 ???????????????????
 Christophe Vielle
 Louvain-la-Neuve
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160413/a136e6e2/attachment.htm>
-

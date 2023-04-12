@@ -1,20 +1,12 @@
-From D.Wujastyk at ucl.ac.uk  Wed Dec  1 18:02:09 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Wed, 01 Dec 93 18:02:09 +0000
-Subject: Indian fonts with TeX
-Message-ID: <161227016382.23782.13187692268530771125.generated@prod2.harmonylists.io>
-
+Indian fonts with TeX
 I have had several queries about getting TeX and its fonts, e.g.,
 Devanagari, Malayalam, etc.
-
 There are several major TeX software archives that have *everything* to do
 with TeX, including fonts.  One of these is ftp.tex.ac.uk, and it has a
 gopher server too, which makes it easy to use.  Look under ...\languages for
 the Indian fonts.
-
 If you are new to TeX, then the best implementation for DOS and OS/2 is
 called emTeX; for the Mac, look for OzTeX (or CMaCTeX which is also good).
-
 All these are available from ftp.tex.ac.uk.  But TeX is quite big (emTeX is
 about ten diskettes worth) so you may need help getting started.  Contact
 the TeX Users Group, whose address is tug at tug.org.  There is a lot of
@@ -22,16 +14,7 @@ helpful, freely available documentation, guides for installation, etc, etc.
 TUG will help.  Tell TUG where you are, and ask them for the names of some
 local TUG members who could help you directly.  Ask for a recent copy of
 the TUG journal, _TUGboat_.
-
 Best wishes,
-
 Dominik
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

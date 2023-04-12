@@ -1,10 +1,4 @@
-From Martin.Gansten at TEOL.LU.SE  Wed Nov 30 16:18:24 2005
-From: Martin.Gansten at TEOL.LU.SE (Martin Gansten)
-Date: Wed, 30 Nov 05 17:18:24 +0100
-Subject: Decoding date in Sanskrit verse
-In-Reply-To: <E1EhF2G-0006NF-00@emu.urnet.com.au>
-Message-ID: <161227077163.23782.8821473535382301068.generated@prod2.harmonylists.io>
-
+Decoding date in Sanskrit verse
 There seem to be two eras (Saka and Vikrama) used in this verse:
 gaja-tri-muni-bhUmi, as you say, is 1738 (Saka), while
 rAma-adri-nAga-SaSacihna is 1873 (Vikrama). The third line gives the
@@ -15,16 +9,10 @@ horoscope), but on the whole I rather think not, particularly as one does
 not normally speak of 'the 15th tithi'. Another guess would be that suta =
 savana, and therefore 3. This would give us shukla-trayodashi coinciding
 with a Wednesday. Unfortunately we do not get a nakshatra.
-
 Without knowing what starting point of the year, or of the months, the
 author used, the dating becomes a bit speculative; but for a
 shukla-trayodashi Wednesday, one possibility would be 12 February, 1816.
 Perhaps someone more knowledgeable than myself will be able to tell us what
 calendaric norms were in use at the text's time and place of origin.
-
 Regards,
 Martin Gansten
-
-
-
-

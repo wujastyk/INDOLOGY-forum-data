@@ -1,8 +1,6 @@
 side item replaces its first sound. From these examples, it becomes clear
 that in the rules I have listed under group B, *para* is used to mean
 ?right-hand side? in the context of P??inian derivations.
-
-
 Let us confirm this by considering some rules which contain both *p?rva*
 and *para*. 6.1.84 *eka? p?rvaparayo?* teaches that (in the following
 rules) a single sound replaces both the LHS sound and the RHS sound in case
@@ -10,8 +8,6 @@ of *sa?hit? *?immediate proximity?. Similarly, 1.1.57 *aca? parasmin
 p?rvavidhau* teaches that a substitute for a vowel, if it is conditioned by
 an RHS context, is treated like its substituendum with respect to an
 operation on an LHS element.
-
-
 This leads to an important question: if traditional scholars interpreted
 *para* as ?RHS item/operation? in so many metarules as shown above, why did
 they interpret it as ?the following rule? in 1.4.2?[1] I think this
@@ -26,47 +22,9 @@ examination, one realizes that when P??ini wants to indicate that he is
 referring to the relationship between preceding and following rules rather
 than operands, he adds the affix *traL *to the base: he says *p?rva-tra* in
 8.2.1.
-
 I discuss the suffis -tra again in chapter 5. In appendix F, I have listed
 all the rules of Group A and Group B.
 Best,
 Rishi
-
-
-
 On Thu, Dec 15, 2022 at 5:56 PM Dominik Wujastyk via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Ever since Shefts' *Grammatical Method in P??ini *and Kiparsky's *P??ini
-> as a Variationist, *there has been a scholarly interest in discovering
-> features in the A???dhy?y? that were unknown to even the earliest
-> commentators.  Mr Rajpopat kindly sent me his 2021 PhD thesis in February
-> this year.  I cannot give a definitive judgement, because I haven't had
-> time to work through all the examples.  But it is a well-written,
-> thought-provoking and compelling thesis.  I have more work to do on it, but
-> at present I am convinced by Rajpopat's arguments and insights.  Apart from
-> right-or-wrong, it raises lots of good questions and insights into problems
-> with the A??a. and it's traditional interpreters.
->
-> It would be interesting to have Vincenzo Vergiani's opinion, since he must
-> be the closest reader of this thesis so far.
->
-> Whatever the upshot, it's great for a technical work in our field to get
-> some public exposure like this.  The public needs to be told repeatedly
-> that research on ancient India is exciting and innovative, which it truly
-> is!
->
-> Best,
-> Dominik
->
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20221217/3acf95ae/attachment.htm>
-

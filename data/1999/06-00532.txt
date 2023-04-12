@@ -1,34 +1,10 @@
-From pwyzlic at UNI-BONN.DE  Wed Jun 30 21:09:04 1999
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Wed, 30 Jun 99 23:09:04 +0200
-Subject: Standard for manuscript descriptions (fwd)
-In-Reply-To: <Royce Wiles's message of "Wed, 30 Jun 1999 14:53:43 +1100">
-Message-ID: <161227051094.23782.8604014492081774264.generated@prod2.harmonylists.io>
-
+Standard for manuscript descriptions (fwd)
 Royce Wiles <Royce.Wiles at ANU.EDU.AU> writes:
-
-> >A Word version of the document is available at
-> >
-> >        www.cta.dmu.ac.uk/~peterr/master/mssprop1.doc
-> >
-> I downloaded the file but was unable to open it on a Macintosh PPC
-> using Office 98. I emailed the file to a friendly PC user but they
-> couldn't open it with Word either.
->
-> Anyone else having problems?
-
 I tried it with the free MSWord Viewer on a win95 machine (it is a
 viewer for the word 97 or office 97 format). The program opened the
 file and displayed it without error messages. So I guess, it is a
 typical MS problem with incompatible word formats? Anyway, you will
 have no problems in reading the html version ;).
-
 Peter Wyzlic
-
---
 Peter Wyzlic                          Indologisches Seminar
                                       Universitaet Bonn
-
-
-
-

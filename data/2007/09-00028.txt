@@ -1,10 +1,4 @@
-From glhart at BERKELEY.EDU  Tue Sep  4 19:40:55 2007
-From: glhart at BERKELEY.EDU (George Hart)
-Date: Tue, 04 Sep 07 12:40:55 -0700
-Subject: Use of Devanagari for Sanskrit
-In-Reply-To: <1IRkz0-0KNGgC0@fwd34.aul.t-online.de>
-Message-ID: <161227081133.23782.3209886896222051080.generated@prod2.harmonylists.io>
-
+Use of Devanagari for Sanskrit
 In a draft about unicode Eric Muller has written "By the eleventh  
 century, the modern script known as Devanagari was in ascendancy in  
 India proper as the major script of Sanskrit literature."  This seems  
@@ -28,7 +22,3 @@ script.  The rest are Tamil books in Tamil script, with Sanskrit
 is worth remembering that after 1100 or so, the majority of Sanskrit  
 writers have been South Indians -- at least that is what I have  
 read.  George Hart
-
-
-
-

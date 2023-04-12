@@ -1,10 +1,4 @@
-From ucgadkw at UCL.AC.UK  Fri Mar 20 17:34:48 1998
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Fri, 20 Mar 98 17:34:48 +0000
-Subject: Space-time & gravitation
-In-Reply-To: <9803181753.AA00663@mathou.uom.ac.mu>
-Message-ID: <161227036892.23782.3556180325265505512.generated@prod2.harmonylists.io>
-
+Space-time & gravitation
 The theory of gravitation was, of course, an innovation arising out of
 Newton's laws of motion.  Ancient and medieval Indian writers on astral
 topics tended to use explanatory theories of motion based on winds causing
@@ -12,19 +6,12 @@ the movement of heavenly bodies, as well as more anthropomorphic ideas.
 The best starting point for someone with some mathematical ability is
 David Pingree's magisterial essay on Indian Mathematical Astronomy in the
 supplement volume to Gillispie's _Dictionary of Scientific Biography_.
-
 There are some very intriguing early ideas about motion etc. in the
 Vaisesikasutras and their commentators.  Barend Fadeggon's study of this
 system of thought is now old, but still very perceptive.
-
---
 Dominik Wujastyk
 Wellcome Institute for the History of Medicine
 183 Euston Road, London NW1 2BE, England.
 FAX +44-171-611-8545
 email: d.wujastyk at ucl.ac.uk
 WWW: http://www.ucl.ac.uk/~ucgadkw
-
-
-
-

@@ -1,28 +1,8 @@
-From ucgadkw at ucl.ac.uk  Mon Mar 18 18:36:19 1996
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Mon, 18 Mar 96 18:36:19 +0000
-Subject: Why not a definitive devnagri font
-Message-ID: <161227023453.23782.6380535454476029877.generated@prod2.harmonylists.io>
-
+Why not a definitive devnagri font
 Aditya, the Hindu Skeptic said:
-> 
-> ucgadkw at ucl.ac.uk (Dr Dominik Wujastyk)  has  recently written as
-> follows:
-
-> >About the fonts: Beyondmail allows one to use any installed windows font, it is
-> >true, but such information only gets passed to other Beyondmail users on the
-> >same local network, not to people on the internet generally.
-> That was the point of my note. At least one mailer does allow devnagri
-> fonts.
-
 No, no, you misunderstand.  I said *local* network.  This would only
 work on an internal Novell network, running MHS, for example.  Not over
 the internet.
-
-> The only problem is having to settle
-> on a standard fonts and at least on this list we can have a consensus
-> of have some standard font. And let us vote it out.
-
 I'm sorry to have to repeat that the technical problems are much greater
 than you realize.  This is not a matter that can be solved by a vote; if
 it were, I would be the first to rejoice.  Unfortunately, the bulk of
@@ -30,7 +10,6 @@ the internetworked networks that form the Internet are still based on a
 7-bit smtp transport level.  This precludes any direct transmission of
 anything other than the 128 characters of the ASCII/IISO 646 character
 set.
-
 The MIME protocol is the best hope of transmitting richer text for the
 present, but even that is not widespread.  In the final analysis, too,
 any font work will rely on users at both ends using the same
@@ -40,11 +19,5 @@ impossible.  I, for example, have never used Windows (and never will, if
 I can avoid it).  Many people use Unix workstations.  So a Windows-based
 solution would be inadequate.  This situation is unfortunate, but
 perhaps when Unicode gets more widespread, we may see some progress.
-
 Best wishes,
 Dominik
-
-
-
-
-

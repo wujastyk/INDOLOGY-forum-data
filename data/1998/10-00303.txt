@@ -1,21 +1,7 @@
-From cssetzer at MUM.EDU  Sat Oct 31 18:17:57 1998
-From: cssetzer at MUM.EDU (Claude Setzer)
-Date: Sat, 31 Oct 98 12:17:57 -0600
-Subject: Testing devanagari script in e-mail
-Message-ID: <161227042139.23782.3759290232110838867.generated@prod2.harmonylists.io>
-
+Testing devanagari script in e-mail
 I do have xdevng installed but it does not automatically use it. I can copy to Word and change the font then it is ok. I use
  IE 4 with outlook express.
------Original Message-----
     From: DEVARAKONDA VENKATA NARAYANA SARMA <narayana at HD1.VSNL.NET.IN>
     To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
     Date: Friday, October 30, 1998 6:34 PM
-    Subject: Testing devanagari script in e-mail
-    
-    
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/19981031/d228ea97/attachment.htm>
-
+    Testing devanagari script in e-mail

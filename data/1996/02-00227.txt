@@ -1,11 +1,5 @@
-From jdwhite at unccvm.uncc.edu  Mon Feb 19 16:54:59 1996
-From: jdwhite at unccvm.uncc.edu (jdwhite at unccvm.uncc.edu)
-Date: Mon, 19 Feb 96 11:54:59 -0500
-Subject: Re. urdu word processor programs
-Message-ID: <161227022930.23782.14342615571388826259.generated@prod2.harmonylists.io>
-
+Re. urdu word processor programs
 To those interested in modern Indian language word processing programs:
-
 While in Pune this past summer, I had the pleasure of talking with several
 researchers at the Centre for Development of Advanced Computing [CDAC} about
 the possibility of a Sanskrit word processing program that was as
@@ -19,12 +13,5 @@ campus of Pune University, Ganesh Khind, Pune  411 007.  The email address
 for Dr. N. Subramanian at CDAC is subs at parcom.ernet.in.  Their prices are
 about US $325 for a program of one Indian language and a little more if you
 have two or more Indian languages on a program.  Good luck.
-
 Dan White
 jdwhite at email.uncc.edu
-
-
-
-
-
-

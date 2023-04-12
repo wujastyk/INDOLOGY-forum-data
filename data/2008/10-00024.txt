@@ -1,76 +1,31 @@
-From witzel at FAS.HARVARD.EDU  Tue Oct  7 02:29:27 2008
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Mon, 06 Oct 08 22:29:27 -0400
-Subject: Sanskrit and Tamil question
-In-Reply-To: <C50FDE45.106D6%loriliai.biernacki@colorado.edu>
-Message-ID: <161227083601.23782.3948221990343216192.generated@prod2.harmonylists.io>
-
+Sanskrit and Tamil question
 What a mess, and where to begin? Thus, a few points interspersed below:
-
 On Oct 6, 2008, at 5:24 PM, Loriliai Biernacki wrote:
-> Can any Tamil scholars or Vedic Sanskritists help with the query I  
-> received
-> below?
-
->> If you know someone who knows, could you find out the etymology of  
->> the word
->> nadi. This word is used for rivers in the early chapters of the word
->> Mahavamsa.
-
 nadii is attested since the earliest Indian text, the Rgveda. It  
 means 'stream,  river', see Turner's CDIAL #6943, Mayrhofer's EAWia  
 II p. 8-9, who derives it from Indo-European *ned  (Sanskrit nad) 'to  
 sound loudly' (as also of mountain streams). No Austric here, as the  
 root is well attested in Indo-European, also as river names.
-
->> Offhand, the root seems to be nada - or walk denoting motion in  
->> Tamil and
->> perhaps other Dravidian languages.
-
 For Dravidian see Burrow-Emeneau's DEDR  # 3590 Ta. natu (-pp-, -tt-)  
 to extinguish, quench, eclipse (as rays), destroy; nantu (nanti-) to  
 be extinguished, put out (as a lamp), etc. etc.  Thus, no "walking"
-
 Both CDIAL and DEDR are online at our SARVA (substrate language)  
 project :
 <http://www.aa.tufs.ac.jp/sarva/entrance.html>
-
->> In Vedic Sanskrit it is used for the now
->> lost Saraswati River in the Sind, but is used mostly in connection  
->> with the
->> nervous system. There is also a possibility of nadi having an  
->> Austric origin.
->> Ganga for river is very likely of Austric origin.
-
 It is used for rivers in general; the Sarasvati is not yet lost in  
 the Rgveda but only in the Brahmana texts a few centuries later.  
 Sindh is unknown to the Rgveda; the southernmost area is Bhalaanas  
 (probably the modern Bolan area/pass in N. Baluchistan, near Quetta).
-
 As for nadii and (unlikely) Austro-Asiatic, see Mayrhofer, EWAiia II  
 8-9.
-
->> I have a strong hunch that the pre-history of Ceylon was dominated  
->> by the
->> Austrics - people who did practice agriculture and not all hunter- 
->> gatherers as
->> is now represented. Magama (Hambantota) and the Pura in  
->> Anuradhapura are are
->> certainly Austric and have a long history before Buddhism. The  
->> Archaelological
->> Dept. has shown a long reluctance to go beyond the 3rd Century BC.
-
 Archaeology is politicized both  India as well as in Sri Lanka. All  
 publications to be read with caution.
-
 -pura is a clear Sanskrit and Indo-European word: Vedic pur = Greek  
 polis (also  Lithuanian pilis) Originally "(filled in) fortification  
 (wall)." See Mayrhofer, EWAia, s.v. pur.
-
 Austric presence in the south and in Sri Lanka is unknown, so far.  
 The relevant studies simply have not been done for the Dravidian  
 speaking areas of S. India and for Sri Lanka.
-
 We need someone go through the DEDR and check out all words that are  
 not likely as Dravidian by sound and structure,  and compare obvious  
 substrate words in the Nilgiris (cf. Witzel 1999, see my website:  
@@ -79,7 +34,6 @@ Tongue, extra number 1999 pdf) as well as those transmitted by the
 Veddas of Sri Lanka (see de Silva 1962). Only then can we be sure who  
 was present in these areas before the speakers of Dravidian (and  
 Sinhala, in Sri Lanka).
-
 Vaclav Blazek (Czech Rep., at the Harvard Round Table, Oct. 2006, see  
 my website) has recently shown that Dravidian languages contain words  
 that are preserved in Australian languages (that incidentally also  
@@ -88,26 +42,16 @@ indicating that speakers of the Australian (not Austric!) languages
 had been present there, long ago. As genetics also indicate (recent  
 paper: Nilgiri Kurumbas, W. Bengal/Nepalese Rajvamshis and Andamanese  
 share an old NRY marker, 50-40,000 years old).
-
 Cheers,
 MW
-
 (refs. to CDIAL, DEDR, Veddas, Nilgiris, etc. in my 1999 paper in MT,  
 on substrate languages).
-
-
 Michael Witzel
 witzel at fas.harvard.edu
 <www.fas.harvard.edu/~witzel/mwpage.htm>
-
 Dept. of Sanskrit & Indian Studies, Harvard University
 1 Bow Street,
 Cambridge MA 02138, USA
-
 phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496  
 8571;
 my direct line:  617- 496 2990
-
-
-
-

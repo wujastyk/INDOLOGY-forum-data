@@ -1,23 +1,8 @@
-From mcv at WXS.NL  Tue Jun 23 10:12:28 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Tue, 23 Jun 98 10:12:28 +0000
-Subject: Retroflex sounds
-In-Reply-To: <v01530508b1b20c3b2e9c@[194.134.29.23]>
-Message-ID: <161227040208.23782.16844244951252818810.generated@prod2.harmonylists.io>
-
+Retroflex sounds
 Jacob Baltuch <jacob.baltuch at EURONET.BE> wrote:
-
->The southern Italian and Sardinian retroflexes seem to be
->allophones of /l/ since the posters were saying they only occur as
->geminates. I don't know about the Asturian example. There /ll/
->becomes a non-geminate retroflex so if a real [d] (non lenited,
->etc.) exists in that dialect then maybe, but we'll have to wait
->for confirmation from Miguel.
-
 Confirmed.  Asturian /d/ behaves like Spanish /d/: it's the stop [d]
 in initial position, and in the combination <nd>, a light fricative
 or continuant [D] elsewhere.
-
 The Asturian retroflex (found only two separate enclaves, the
 villages of Sistierna and Aller [Felechosa, Casomera]) has nothing to
 do with gemination per se.  It's a development of palatal /L/, which
@@ -29,14 +14,8 @@ affricate [t.s.] or [s.d.] (ts.una, gats.ina etc.).  The development
 /L/ > /tS/ found in a wider area of Asturias, as well as in Gascon
 and Pyrinean Aragonese is also thought to have gone through a stage
 with retroflex [d.] or [t.] by some authorities.
-
 But enough about Romance...
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

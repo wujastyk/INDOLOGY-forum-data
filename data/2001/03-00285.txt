@@ -1,76 +1,10 @@
-From torella at UNIROMA1.IT  Tue Mar 20 15:09:43 2001
-From: torella at UNIROMA1.IT (raffaele torella)
-Date: Tue, 20 Mar 01 16:09:43 +0100
-Subject: Question for the Kashmir Shaivism experts
-In-Reply-To: <F202WfN3vSAMfKQu1bC00002f6c@hotmail.com>
-Message-ID: <161227068526.23782.5278874123809852513.generated@prod2.harmonylists.io>
-
->Dear list members,
->
->I need the source of the following verse quoted in translation in Mark
->Dyczkowski's "The Doctrine of Vibration",SUNY 1987 page 63.  But I'm
->confused by his footnote to the verse.
->
->"Nothing perceived is independent of perception and perception differs not
->from the perceiver, therefore the universe is nothing but the perceiver
->[himself]."
->
->With the following footnote:
->I.P.V.V., I, p. 710, saMvitprakAza quoted in M.M. p. 20 and Sp.Pra. p.114:
->jJAtRtaiva uktA .
->
->Where: I.P.V.V. = IzvarapratyabhijJAvivRtivimarzinI
->M.M. = mahArthamaJjarI
->Sp.Pra. = spandapradIpikA
->
->I think that what he's saying is that the verse is quoted in the
->mahArthamaJjarI as coming from the saMvitprakAza.  But the verse is quoted
->in the spandapradIpikA and attributed there to the Atmasaptati .  See Mark
->Dyczkowski's "The Stanza's on Vibration",SUNY,1992, page 164 where the verse
->occurs in his translation of spandapradIpikA.
->
->Is it the case that:
->1) The verse comes from the Atmasaptati and is wrongly attributed to
->saMvitprakAza in the mahArthamaJjarI .
->or
->2) The verse comes from saMvitprakAza and is wrongly attributed to
->Atmasaptati in the spandapradIpikA .
->
->Note that Dyczowski in his notes to his translation of spandapradIpika in
->"The Stanza's on Vibration" indicates an occurance where another verse
->quoted in spandapradIpika is attributed in that text to the Atmasaptati but
->is in fact from saMvitprakAza .  See page 143 "The Stanza's on Vibration"
->and footnotes 47 and 48 on that page.  He attributes this error to the fact
->that chapter II of saMvitprakAza is called AtmasaMstuti .  See page 288
->under section "AtmasaMstuti" .
->
->Also do we know anything about the Atmasaptati? Who its author is or if its
->quoted elsewhere?
->
->Many thanks in advance,
->
->
->Harry Spier
->371 Brickman Rd.
->Hurleyville, New York
->USA 12747
-
+Question for the Kashmir Shaivism experts
 Dear Mr Spier,
-
 in fact Samvitprakasa and Atmasamstuti are most likely to be different titles of the same work. Or, to be more precise, Samvitprakasa is certainly the title of the first prakarana, which may have been then extended to the whole work. Each of the seven prakaranas which have come down to us probably also had a somewhat independent life of its own.
 The verse you mention is not found in the MSS of the SP, but it is to be noted that the second prakarana, the context of which this verse would fit very well, had, according to the number recorded by the Srinagar MS, nineteen verses more than the 60 that have come down to us.  Thus it seems very probable that Atmasaptati is either a mistake for Atmasamstuti (which is the title of the second prakarana) or an approximate reference to the number of the verses (79) that composed it.
-
 With best wishes,
 Raffaele Torella
---
-
-
-
 Raffaele Torella,
 Dipartimento di Studi Orientali
 Universita' di Roma "La Sapienza"
 (fax:+39- 06-4451209)
-
-
-
-

@@ -1,27 +1,9 @@
-From john.lowe at orinst.ox.ac.uk  Tue Apr 28 10:43:09 2020
-From: john.lowe at orinst.ox.ac.uk (John Lowe)
-Date: Tue, 28 Apr 20 10:43:09 +0000
-Subject: =?utf-8?Q?[INDOLOGY]_dy=C5=AB_and_similar_ligatures?=
-Message-ID: <LO2P265MB0112FAD8B3E30E67F39AFD91FEAC0@LO2P265MB0112.GBRP265.PROD.OUTLOOK.COM>
-
+=?utf-8?Q?[INDOLOGY]_dy=C5=AB_and_similar_ligatures?=
 I am trying to write words like dy?tam in n?gar? in MS Word (using Keyman) but I end up without the ligature: it seems that whenever d is followed by consonant+u/?/?, the d ends up followed by vir?ma. This affects things like dy?, ddh?, etc. I will type the n?gar? here, but your systems may well correct it:
-
 ???????, -?????-, -??????-
-
 When followed by -a-, the ligatures dy, db, ddh, etc come out correctly, but they split (into d-vir?ma-y etc) as soon as another vowel follows.
-
 Even if I copy and paste the correct ligature from e.g. the Cologne dictionary, it splits when pasted.
-
 Can anyone recommend a solution to this problem? My font selection seems to default to Nirmala or Kokila when writing in n?gar?, but perhaps there is a better Unicode font out there that has a wider range of ligatures?
-
 I prefer not to use Word, but in this case there is no choice...
-
 Thanks for any suggestions,
 John
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200428/c5189f6b/attachment.htm>
-

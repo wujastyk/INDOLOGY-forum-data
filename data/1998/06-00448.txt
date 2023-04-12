@@ -1,20 +1,9 @@
-From vidynath at MATH.OHIO-STATE.EDU  Mon Jun 29 18:06:33 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Mon, 29 Jun 98 14:06:33 -0400
-Subject: h, s, s-hacek in Iranian
-Message-ID: <161227040399.23782.12341655044332246021.generated@prod2.harmonylists.io>
-
+h, s, s-hacek in Iranian
 The recent discussion about retroflexion in IA raises, for me at least,
 a question about Avestan and Iranian in general.
-
 In Iranian, PIIr *s becomes h, PIE *k' becomes s and the
 ruki-conditioned s becomes s with hacek. Can these three be stuffed into
 just two phonemes? In particular, can h and s-hacek be considered
 allophones of a single phoneme in Iranian?
-
 Regards
 -Nath
-
-
-
-

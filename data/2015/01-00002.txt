@@ -1,70 +1,37 @@
-From jhakgirish at yahoo.com  Fri Jan  2 16:00:07 2015
-From: jhakgirish at yahoo.com (girish jha)
-Date: Fri, 02 Jan 15 16:00:07 +0000
-Subject: [INDOLOGY] Question on Sanskrit Syntax
-In-Reply-To: <CAB3-dzd3Ft1TfW5ug6KHSFyRV+1G4Oje9iH0U47wFhYR=3JHHQ@mail.gmail.com>
-Message-ID: <434688709.3664867.1420214407532.JavaMail.yahoo@jws10641.mail.bf1.yahoo.com>
-
+[INDOLOGY] Question on Sanskrit Syntax
 Dear Colleagues,According to Panini's Grammar it is well advisable that we accept Prapyate as a passive form of causative prapayati.Then it is construed with the accusative form svargam.It has also been suggested by Prof Cardona.Thanks,Girish K. JhaProfessorDept of SanskritPatna UniversityPatna 800005 India
       From: Madhav Deshpande <mmdesh at umich.edu>
  To: "Hock, Hans Henrich" <hhhock at illinois.edu> 
-Cc: "indology at list.indology.info" <indology at list.indology.info> 
  Sent: Monday, December 29, 2014 10:14 PM
- Subject: Re: [INDOLOGY] Question on Sanskrit Syntax
-   
+ Re: [INDOLOGY] Question on Sanskrit Syntax
 Of all the explanations I have received, this one seems most convincing, and especially the example from Manu seems like a good parallel.? Thanks, Hans.
 Madhav
-
-
 On Mon, Dec 29, 2014 at 11:11 AM, Hock, Hans Henrich <hhhock at illinois.edu> wrote:
-
 Hi, Madhav.
 If pr?pyate?is construed as a verb of motion (in the sense ?reach?), the structure has precedents; compare the structure below, which shows that with verbs of motion the goal is not always construed as object in post-Vedic. Of course, the parallel with?labhate?might suggest an interpretation ?obtain?. In that case (i.e., if it is not to be taken as a motion verb), there may be a parallel in late Sanskrit (one of the versions of the Vet?lapa?cavi??ati, perhaps the one edited by Uhle); unfortunately I can?t find the exact reference.
 sabh?m v? na prave??avyam (Manu 8.13)
 All the best for the New Year,
 Hans
-
 On 28-Dec-2014, at 7:52, Madhav Deshpande <mmdesh at umich.edu> wrote:
-
 n a Sanskrit work titled Nity?c?radarpa?a by Brahm?nanda, on p. 2, I see a quotation from Dak?asm?ti:
-
 ??????????? ???????????????? ?????: ?
 ???????????????? ??????????????????????? ????? ??
-
 Here, ?c?r?t pr?pyate svargam is an irregular usage, unless one assumes that the word svarga is somehow used in neuter gender.? With the normal masculine gender of the word svarga, svargam would be an accusative case form, and this does not fit well with the passive verb.? In Marathi, such passive constructions are possible: ?????? (instrumental) ??????? (accusative) ?????? (passive verb).? This usage alternates with a more Sanskrit like passive: ?????? ???? (nom) ??????/????? (nom).? I am wondering if anyone has come across Sanskrit passive (bh?ve) constructions where the object shows up in the accusative case.? Any information or suggestions are appreciated.
-
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
-
-
-
-
--- 
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
-  
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150102/7de4ca9e/attachment.htm>
-

@@ -1,10 +1,4 @@
-From a.graheli at GMAIL.COM  Wed May 21 10:52:15 2008
-From: a.graheli at GMAIL.COM (alessandro graheli)
-Date: Wed, 21 May 08 12:52:15 +0200
-Subject: cha
-In-Reply-To: <FE999E05-B356-46A3-BEF0-128B9B437717@brown.edu>
-Message-ID: <161227082674.23782.14942098051033473312.generated@prod2.harmonylists.io>
-
+cha
 Dear collegue, I have seen the use of the cha-like filler in some  
 Devanagari mss of the Bhaktirasaam.rtasindhu (1541 CE) by Ruupa  
 Gosvaaamin. I have a specimen dated 1711 CE, in which it is  
@@ -18,12 +12,8 @@ documents of the same period), and in one Devanagari ms I have seen
 dha written as cha. Is it possible that this apparent cha stands for  
 a tha or a dha (which unlike cha have some known "auspicious"  
 significance)?
-
 Alessandro Graheli
-
-
 Il giorno 21/mag/08, alle ore 04:31, Peter M. Scharf ha scritto:
-
 Dear Colleagues,
 	I would like to request your help in answering a question regarding  
 how to name or categorize a certain character in the Unicode  
@@ -37,9 +27,6 @@ broadest sense of the term) textual traditions?  If so, could you
 provide a reference and or a digital image?
 	Thanks.
 	Peter
-
-
-
 *********************************************************
 Peter M. Scharf                           (401) 863-2720 office
 Department of Classics             (401) 863-2123 dept.
@@ -50,7 +37,3 @@ http://www.brown.edu/Departments/Classics/people/facultypage.php?
 id=10044
 http://sanskritlibrary.org/
 *********************************************************
-
-
-
-

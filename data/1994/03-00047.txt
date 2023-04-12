@@ -1,9 +1,4 @@
-From donovan.1 at osu.edu  Sun Mar 20 21:57:24 1994
-From: donovan.1 at osu.edu (donovan.1 at osu.edu)
-Date: Sun, 20 Mar 94 21:57:24 +0000
-Subject: conference on computerization of oriental manuscripts
-Message-ID: <161227016651.23782.17725174079730163314.generated@prod2.harmonylists.io>
-
+conference on computerization of oriental manuscripts
 Apologies for cross-posting.  The announcement which follows was sent to me
 by Alexander A. Stolyarov whom I met in Hong Kong at the ICANAS/IAOL
 meetings last August.  I have also received two numbers of a bulletin which
@@ -16,46 +11,33 @@ Ohio State University Libraries.  This publication was issued in 250 copies
 so it might be hard to find.  That is why I am inputting the information
 for everyone's benefit.  Please pass this on to other appropriate
 listservs/individuals.   
-
 *************
- 
 First Circular
- 
 Dear colleagues,
- 
 The History Department, the Institute of Oriental Studies and the
 Orientalists' Society of the Russian Academy of Sciences are holding an
 International Conference in Moscow on the 7-11th February 1995 under the
 title 'The Spiritual, Material and Written Monuments of Ancient and
 Mediaeval Orient (the Problems of Database Creation)'.
-
 Subjects of the conference include reports, seminars and discussions
-
 on the problems of the creation of databases on bibliography, sources,
 literary texts, monuments and so on,
-
 on the peculiarities of methodics in oriental historical and philological
 researches,
-
 on the problems of formalizing and correlating the artefacts of material
 culture, folklore and literary sources,
-
 on the practice of editing the reference books, indexes, directories and
 other results of computer studies,
-
 and also on the problems of creating the special software for carrying out
 the oriental researches.
-
 The list of themes embraces the historical period from archaic times to the
 18th century A.D. It may be connected with the nations, cultures, ethnoses
 and persons of Asia and Eastern Europe (in connection with Asia).
-
 The Organizing Committee of the Conference asks you to send your claim and
 abstract of your report not later than the 1st July 1994. You can also
 propose a special topic of a seminar or discussion. In this case we ask you
 to give us the names of participats who in your opinion will be interested
 in proposed topic.
- 
 Organizing Committee
 Co-ordinators
 Dimitry D. Vasiliev
@@ -64,151 +46,94 @@ Alexander A. Stolyarov
 tel.: 7 (095) 928 5764
 fax: 7 (095) 975 2396
 E-mail: astol at glas.apc.org
-
-
 **********
-
 Bazy dannykh po istorii Evrazii v srednie veka
-
 Vypusk 1 (1992)
-
 Contents (articles are in Russian except where noted; translated titles are
 given as found on the title page -- ie. as translated by the editors not by
 me-- MD)
-
 The Principles and the Perspectives of the Programme of the Computer
 Researches on the Mediaeval History of Eurasia..........5 [in Russian and
 English]
-
 The Principles of the Work with the Factographical Historical
 Databases........10
-
 Blyumkhen, S. I. The Structure of the Database on Ancient Chinese Oracle
 Bones.........12
-
 Vassilyev, D. D. The Databases on the Monuments of Turkic Runic Script: The
 Burial Epigraphics of South Siberia....14
-
 Vertogradova, V. V.; Lelyukhin, D. N.; Stolyarov, A.A.; Tzygankov, Yu.Ja.
 The Multipurpose Bibliographical Database on All-Indian
 Inscriptions......16
-
 Davidovitch, E. A. The Problems of the Making of the Database on
 Sheibanids' Golden and Silver Coins (XVI AD)..........21
-
 Dodhudoeva, Lola N.  The Prospects for the Use of Computer Methodics in the
 Historical Researches of the Mediaeval and Modern History Department of the
 Institute of History, Archaeology and Ethnography of the Tajik Academy of
 Sciences...........30
-
 Dubrovskaya.  D. V.   The Problems of the Computer Produced Hieroglyphic
 Texts of Chinese Mediaeval Historical Sources.........34
-
 Ermolenko, L. N; Smirnov, D. A.; The Structure of the Database on Asian
 Steppes' Stone Sculptures....... 36
-
 Kazakov, B.  The Experience of Formalisation of the Historical Documents'
 Regests (the Collection of Budkhara's Regional Library)......43
-
 Nastich, V.N. Mediaeval Tombstones of Middle Asia with Epitaphs in Arabic
 Script........46
-
 Pichikjan, I. R.  Computerization of the Votive Artefacts of the Temple the
 Oxus.....53
-
 Rexvan, E. A. Tikhonova, I. G.  The Databases on Manuscripts' Depositories:
 the Problems and Perspectives on the Beginning of the Programme......55 
-
 Stolyarov, A. A. The Possibilities of the Computer Treating of North Indian
 Early Medieval Acts.......64
-
 Rogozhin, N. M.  Posolski Books as a Source in the Study of Political
 Relations of Russia with Peoples and Countries of the Orient......70 [ in
 English]
-
 Beisembiev, T. K. The Kokand Historical Texts of XIX-XX AD........73
-
 Goryaeva, L. V.  Malay Mediaeval Literary Monuments......73
-
 Zagorodnikova, T.N., The Computer Treating of the Archival Documents on the
 History of Russian-Indian Relations......74
-
 Kochnev, B.D.  Middle Asian Numismatics of VIII-XIII AD.......74
-
 Kullanda, S. V.   The Possibilities for the Creation of the Database on
 Indonesian Material.....75
-
 Kumekov, B. E.  Kypchaks of VIII-XIV AD in Arabic, Persian, and Turkic
 Sources.......75
-
 Kurpalidis, G. M. The Multi-Level Research of the Sources on the History
 and the Culture of Near and Middle East (X-XIX AD)........75
-
 Luzhetskaya, N. L.  The Computerized Database on Afghan History.........76
-
 Nabijan Tursun, The Computerized Database on the Ancient and Early
 Mediaeval History of Uighurs (prior to XIII AD)......77
-
 Ter-Mkrtichyan, L. Ch.  Armenian sources of V-XVIII AD on Middle Asia and
 Palestine.....77
-
 Authors of the Issue.........78
-
 ********
-
 Vypusk 2 (1993)
-
 The Problems of the Complex Study of the Sources on the History of
 Eurasia.....5 [Russian & English]
-
 Anufriev, V. Yu.  The Multilingual Word-Processor (MWP) under Windows......10
-
 Boguslavski, O. I. Matekhin, K.A.  A Rated Method of Construction of
 Chronological Systems by a Research of Archaeological Unicultural
 Assemblages and an Elaboration of Automatized Data Base.....15
-
 Ivanov, V. B.  Arabic Fonts Utilities for Orientalists.......21
-
 Lyubchenko, V. I.   The Retrieval System of Chinese Characters.....26
-
 Maracha, V. G., Novikov, A. V., Shulgin, S. V.  On the Academic Section of
 Intermunicipal Telecommunication Computer Network......34
-
 Maron, M. E., Larin, I. E.   On the Technology of the Editing of the
 Multiscript Texts.....43
-
 Starostin, S. A.  The Working Environment for Linguists......50
-
 Trifonov, A. B.   On the Question of the Usage of the Optical Character
 Recognizer System for the Input of Arabic Printed Texts......64
-
 Tikhonova, I. G.  Arabic Optical Character Recognizer......68 [ in English]
-
 Authors of this issue............74
-
-
 **************
-
 with best wishes,
-
 Maureen H. Donovan
 Japanese Studies Librarian
 Ohio State University Libraries
-
 donovan.1 at osu.edu
-
- 
-
 Original-Received: from 
                    ellis.uchicago.edu by midway.uchicago.edu for 
                    indology at liverpool.ac.uk Mon, 21 Mar 94 08:40:22 CST
 PP-warning: Illegal Received field on preceding line
-Date: Mon, 21 Mar 94 8:38:39 CST
-From: james nye <jnye at midway.uchicago.edu>
-To: indology at liverpool.ac.uk
-Subject: Wellcome Inst. catalog from outside UK
-Message-Id: <CMM.0.90.4.764260719.jnye at ellis.uchicago.edu>
-
+Wellcome Inst. catalog from outside UK
   Those interested in signing on to the Wellcome Institute's library
 catalog mentioned recently by Dominik but unable to wait for the repair
 work for access to be completed at the University of London should be
@@ -216,11 +141,4 @@ able to get through by telnet to NISS.AC.UK the National Information
 Services and Systems gateway.  No login/password is required.
 Select options "r", "f", and "l" in sequence to get to the Wellcome's
 menu.
----------------------------------------------------------------------
 James Nye            jnye at midway.uchicago.edu            312-702-8430
- 
-
-
-
-
-

@@ -1,26 +1,17 @@
-From Adrian.Burton at ANU.EDU.AU  Wed Sep 30 03:55:05 1998
-From: Adrian.Burton at ANU.EDU.AU (Adrian Burton)
-Date: Wed, 30 Sep 98 13:55:05 +1000
-Subject: Best computer for Sanskrit?
-In-Reply-To: <v02130501b2367ce576cd@[196.21.160.119]>
-Message-ID: <161227041534.23782.11574448630017739648.generated@prod2.harmonylists.io>
-
+Best computer for Sanskrit?
 Dominic's point is valid:  the spammers do not contribute to the discussion
 on Indology.  Contrast the behaviour of the spammers with the civilised
 discretion of the gentlemen from D.K.Printworld and other commercial
 concerns who contribute here from time to time.
-
 Nobody would join this list if it were only a flood of advertisements. The
 owner of a salon  should have the right to stop hawkers from flooding the
 salon and driving away the clientele.
 (Dominic, when will we start getting our refreshments?)
-
 Perhaps I was waxing lyrical about ILKEYB, excuse me if my language was too
 persuasive.  I feel indebted since I have found the product so useful. I
 can confirm that I am just a "happy customer". I was writing in the spirit
 of a favourable review. And it was in response to an explicit enquiry.
 (Incidentally ITRANS is freeware and  ILKEYB sells for a token)
-
 Back on the point of the inquiry,  I certainly wouldn't recommend anyone to
 type Indic fonts in Windows unless they had 'some kind' of keyboard
 program.  It's very messy trying to remember Alt + 0xxx codes to insert the
@@ -29,7 +20,6 @@ keyboard.
 In contrast to this, most Mac fonts automatically allow one to use an
 extended font set by using the apple key in conjunction with the other key
 strokes.
-
 Another problem with the Windows platform used to be that documents
 containing extended font characters could be rather fragile, especially if
 you wanted to convert your file into another file format.  It used to be
@@ -38,7 +28,6 @@ to another file format.  This situation has improved with the Win 95
 onwards.  On Win NT  now I find that I can exchange documents in Indian
 fonts between word processors and between and between different versions of
 the same word processor without any problems.
-
 As far as Windows word processors are concerned the big two are MS Word and
 Word Perfect. They both keep pace with each other and as such are pretty
 much the same.  I would favour WordPerfect [I dare again!! ] since it
@@ -46,20 +35,15 @@ allows you to "reveal the codes" of your document so that you can view
 simultaneously both the finished devanagari (or other) result and also the
 exact keystrokes which went to form it (including the extended font set
 character numbers).
-
 There used to be some problems of interference between WordPerfect
 Characters and the characters of an extended font set but that seems to
 have been remedied in versions 7.x onwards.
-
 Moral: Up until quite recently Macintosh was well ahead of the Windows
 platform with regard to using Indic fonts.  I believe that now there is not
 that much difference on this score and you can safely decide on other
 criteria (price, software availability, opinion of Mr. William Gates, etc..)
-
 regards,
-
 Adrian Burton
-
 P.S.  The single biggest problem of all Indic fonts on all operating
 systems is the lack of a standard keyboard layout.  So for example to read
 a particular web site in a Hindi font you have to download the particular
@@ -67,15 +51,8 @@ font used.  No two fonts are the same.  So no matter how ingeniously a
 software package like ILKEYB might be it is completely unintelligible to
 someone who doesn't have the same font.  Thence my hidden commercial agenda
 - I would like the whole world to use the same font as I do!
-______________________________________________________________
-
 Adrian Burton                           tel:(61) (2) 6279 8240
 South and West Asia Centre              fax:(61) (2) 6279 8326
 Faculty of Asian Studies
-
 Australian National University
 0200    ACT     Australia
-
-
-
-

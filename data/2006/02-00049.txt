@@ -1,15 +1,5 @@
-From rhayes at UNM.EDU  Sat Feb 25 17:40:04 2006
-From: rhayes at UNM.EDU (Richard P. Hayes)
-Date: Sat, 25 Feb 06 10:40:04 -0700
-Subject: Something wrong with the WSC?
-In-Reply-To: <009d01c63a30$0a09e660$9ab7fea9@skknet.net>
-Message-ID: <161227077495.23782.4727275308784752755.generated@prod2.harmonylists.io>
-
+Something wrong with the WSC?
 On Sat, 2006-02-25 at 19:22 +0200, Plamen Gradinarov wrote:
-
-> To my knowledge, the idea of Nyaya inference being intensional and
-> inductive rather than extensional and deductive is as new as wrong.
-
 I'm not sure how old something has to be not be considered new, but this
 debate has been around for the last fifty years or so. What puzzles me
 is how people can still be debating this. By no stretch of the
@@ -19,12 +9,6 @@ makes it conform perfectly to the standard definition of inductive
 argumentation. Oetke and Taber and others have established this so well
 that the question will now be pretty much closed, at least until people
 forget their work.
-
--- 
 Richard Hayes
 Department of Philosophy
 University of New Mexico
-
-
-
-

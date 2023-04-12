@@ -1,11 +1,5 @@
-From silk at HUMNET.UCLA.EDU  Fri Apr 30 17:24:49 2004
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Fri, 30 Apr 04 10:24:49 -0700
-Subject: TBRC sTog and other files: PDF/TIFF
-Message-ID: <161227074446.23782.7495858202167841490.generated@prod2.harmonylists.io>
-
+TBRC sTog and other files: PDF/TIFF
 Follow up:
-
 Gene Smith has written to me as follows regarding the available file
 formats for TBRC materials. Let me emphasize something here: TBRC is
 a non-profit organization, into which Gene and others are pouring
@@ -20,7 +14,6 @@ material can approach TBRC and Gene directly with a view to their
 collaboration in the development of long-term tools for the further
 exploitation of the data he is so generously (and I repeat, so
 cheaply) making available.
-
 Notice in particular below the offer that for those with
 institutional (or unusual personal) resources, the materials can be
 made available in TIFF format. I may note that we here have been in
@@ -34,9 +27,7 @@ Please contact Gene directly about this possibility--the external
 drives, of which two are so far available, are priced for
 institutions at $8000 each, and contain approximately 1000 texts
 each. Of course, complete contents listings are available.
-
 In any event, here is what Gene wrote me a day or so ago:
-
 Dear Jonathan,
 We do not intend to provide individual users ordering one or two CDs with
 both type 4 compressing tiffs and pdf images. The pdfs are legible and can
@@ -46,11 +37,7 @@ as *.pdf files. For libraries and for the rare individual who might
 subscribe we will provide as both. I wish we could be more accomodating.
 Regards,
 Gene
-
-
 FYI:  email to: info at tbrc.org , or see  http://www.tbrc.org
-
---
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -61,7 +48,3 @@ Los Angeles, CA 90095-1540
 phone: (310)206-8235
 fax:  (310)825-8808
 silk at humnet.ucla.edu
-
-
-
-

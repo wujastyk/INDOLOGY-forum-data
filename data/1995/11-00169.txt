@@ -1,32 +1,9 @@
-From garzilli at shore.net  Sat Nov 25 17:19:37 1995
-From: garzilli at shore.net (Enrica Garzilli)
-Date: Sat, 25 Nov 95 12:19:37 -0500
-Subject: Sanscrit Font
-Message-ID: <161227021792.23782.7150763106042293841.generated@prod2.harmonylists.io>
-
+Sanscrit Font
 On Sat, 25 Nov 1995 echnaton at fub46.zedat.fu-berlin.de wrote:
-
-> Does anyone of you know where to get a sanscrit fonr for the Mac?
-> Ulrich
->  
-> Urich Windisch,Berlin
-> 
 In our ftp server you can find fonts for Macintosh and for Windows 
 with diacritics for devanagari.
 We are adding the fonts with the devanagari alphabet.
-
 ftp://ftp.shore.net/members/india
 or better
 http://www.shore.net/~india/ 
- 
-
 Enrica Garzilli, Cambridge
-
-
-
- 
-
-
-
-
-

@@ -1,10 +1,4 @@
-From martin.gansten at pbhome.se  Sun Feb  8 20:25:13 2015
-From: martin.gansten at pbhome.se (Martin Gansten)
-Date: Sun, 08 Feb 15 21:25:13 +0100
-Subject: [INDOLOGY] Examples of very ambiguous devanagari Sanskrit	sentences
-In-Reply-To: <CAPW7aQESirbR2RPjx1g5JL3xC_1xg6PPG6_SVCXRaP5A_pQbNQ@mail.gmail.com>
-Message-ID: <54D7C629.40808@pbhome.se>
-
+[INDOLOGY] Examples of very ambiguous devanagari Sanskrit	sentences
 In the B?had?ra?yaka Upani?ad 4.3 there is a sentence that, if memory 
 serves, can be read as either sam enena vadi?ya iti '[He thought], "I 
 will speak with him"' or sa mene na vadi?ya iti 'He thought, "I will not 
@@ -13,40 +7,5 @@ say [all that I know]"'. Again if memory serves, Patrick Olivelle and
 the latter meaning, but I admit the former has always made more sense to 
 me (not least because the two people concerned do end up conversing in 
 the very next sentence, using the verb sam+vad).
-
 Martin Gansten
-
-
 Harry Spier wrote:
-> Thanks for these replies.
->
-> What will help me the most is some very simple Sanskrit phrases that 
-> show  completely different meanings by how you put breaks in the 
-> transliteration.  I need to show examples of this to non-sanskritist, 
-> non-devanagari knowing typesetters.
->
-> The best I could come up with is:
->
-> ???????????? ?????? ?
->
-> which can be:
->
-> pu?pam adhyeti smarati ca He turns his mind towards the lotus and 
-> remembers it.
->
-> or
->
-> pu?pa-madhyeti smarati ca = pu?pa-madhya iti smarati ca = 
-> Heremembers[the phrase] "the middle of the lotus"
->
-> More examples like this would be useful.
->
-> Thanks,
-> Harry Spier
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150208/41080cc0/attachment.htm>
-

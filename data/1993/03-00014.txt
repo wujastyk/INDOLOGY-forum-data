@@ -1,19 +1,7 @@
->?From THRASHER at MAIL.LOC.GOV 25 1993 Mar GMT 10:47:10
-Date: 25 Mar 1993 10:47:10 GMT
-From: ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV>
-Subject: INDIAN INSTITUTE'S ADDRESS
-
+INDIAN INSTITUTE'S ADDRESS
           Does any  member of the network know from experience what version 
           of the address of the Indian Institute, Oxford                    
           (indinst at uk.ac.ox.vax) will succeed in getting a  message  to  it 
           from the U.S.? 
-           
           Allen Thrasher 
-           
           thrasher at mail.loc.gov                                             
- 
-
-
-
-
-

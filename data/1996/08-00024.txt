@@ -1,29 +1,16 @@
------------------------ From Announce Message ------------------------------
-
 An introductory course to the Sanskrit language is now available
 by anonymous ftp from ftp.nac.ac.za/wikner/
-
 BEWARE: there is a very thin piece of wire to South Africa, 
         and it is stretched rather taut, so the best time to
         ftp would be Sunday morning local time (GMT+2:00).
-
 The files are:
-
 sktintro.ps600-a4paper-july96         (5695k)
 sktintro.ps600-a4paper-july96-zip      (676k) - remember to set TYPE to BINARY
-
 sktintro.ps600-letter-july96         (5696k)
 sktintro.ps600-letter-july96-zip      (677k) - remember to set TYPE to BINARY
-
 Enjoy!
-
 Charles Wikner.
 wikner at nacdh4.nac.ac.za
-
------------------------ Extracts from posts --------------------------------
-
-From: Nandu Abhyankar <abhyankn at plk.af.mil>
-
 Your file sktintro.ps file is loaded to jaguar site so that in case
 it is faster for people in US or UK they can access it.  In case anyone
 had difficulty accessing your site you can ask them to try this.
@@ -32,77 +19,44 @@ sktintro.ps.Z (Unix) and sktintps.zip (PC) and will be linked through
 ftp://jaguar.cs.utah.edu/private/sanskrit/
 or through sanskrit.html.
                   _____________________________
-
-From: MSR <r0m6887 at tam2000.tamu.edu>
-Date: Fri, 28 Jun 1996 10:35:14 -0500 (CDT)
-Subject: Re: [Fwd: INTRODUCTORY SANSKRIT VIA FTP (FWD)]
-
+Re: [Fwd: INTRODUCTORY SANSKRIT VIA FTP (FWD)]
 namaami 
-
 	I downloaded the book by shrii Charles Wikner. For the sake of
 convenience of folks in US ( as a support to the thin wire going to
 south africa), I have kept in
-
 http://reddy20.tamu.edu/~msr/sktintro.ps.gz
-	
 	With browsers like netscape and lynx, it is possible to
 download this file.
-
 	It is a compressed file ( using gzip) of original letter
 format file. I don't have enough space to keep the file in original
 form ( close to 9 MB). May be sanskrit site at jaguar can host these
 files.
-
 Thanks for your attention. 
-
 dhanyavaadaH
-
 - --
 Ravi
                   _____________________________
-
-From: Scott Robson <scott at bizo.biz.usyd.edu.au>
-Date: Thu, 4 Jul 1996 23:50:09 +1000 (EST)
-Subject: Those big sanskrit files on ftp
-
+Those big sanskrit files on ftp
 I have put that much talked about sanskrit file on the ftp site
-
 ea.biz.usyd.edu.au/pub/sanskrit
-
 These are both the a4 and letter size versions there. Note that this site 
 is in Australia and hence may be slow for some people. I also ask that if 
 people are having trouble getting the files, please email me and let me 
 know. If the site gets too busy, they will be removed from there very 
 quickly so please be responsible :>
-
 Hope this helps some people...
-
 Scott
                   _____________________________
-
 From:	IN%"indology at liverpool.ac.uk"  8-JUL-1996 16:10:17.07
 Subj:	Wikner's Sanskrit Course
-
 Dear Indologists,
-
 Charles Wikner's materials for Introductory Sanskrit are now available under
 "Sanskrit" at the European mirror of ousia:
-
         http://www.inca.de/user/will/ousia/Indologist.html
-
 Please use this site instead of Wikner's FTP site to download the materials.
 That server is rather slow and overloaded. The larger files are zipped.
-
 Regards,
-
 Will Wagers        "Reality is the best metaphor."
-
 ousia: http://www.iglobal.net/pub/wagers/ousia
 Web Mechanix: http://www.10mb.com/webmechanix
                   _____________________________
-
-
-
-
-
-

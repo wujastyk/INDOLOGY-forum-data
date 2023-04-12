@@ -1,9 +1,4 @@
-From kak at max.ee.lsu.edu  Mon Jan 25 19:38:10 1993
-From: kak at max.ee.lsu.edu (kak at max.ee.lsu.edu)
-Date: Mon, 25 Jan 93 13:38:10 -0600
-Subject: Kalidasa and the Agnimitra problem
-Message-ID: <161227015608.23782.7933392812346716732.generated@prod2.harmonylists.io>
-
+Kalidasa and the Agnimitra problem
 .nr PS 11
 .nr VS 14
 .nr LL 5i
@@ -257,9 +252,3 @@ But it makes this date more probable than 400 A.D. accepted by many
 scholars.
 .sp2
 Journal of the Oriental Institute, vol 40, pp 51-54, 1990.
-
-
-
-
-
-

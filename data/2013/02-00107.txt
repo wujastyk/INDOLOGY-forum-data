@@ -1,20 +1,12 @@
-From wujastyk at gmail.com  Tue Feb 26 10:12:32 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 26 Feb 13 11:12:32 +0100
-Subject: [INDOLOGY] SARIT texts
-Message-ID: <CAKdt-CeJFwxqi3oauZRmZtMjgdx588id2WR4KFO7aYns4ptFAA@mail.gmail.com>
-
+[INDOLOGY] SARIT texts
 On behalf of the team working on SARIT, I am pleased to announce several
 new additions to the archive since last year.
-
 The current list of
 texts<http://sarit.indology.info/newphilo/search3t?dbname=indologica&word=&OUTPUT=conc&CONJUNCT=PHRASE&DISTANCE=3&title=&author=>is
 always up to date.  Each file has a header that gives full
 bibliographical details, statements of responsibility for the work, and a
 change log giving a brief diary of the history of the file.
-
 Briefly, files added in recent months include:
-
    - *Mah?bh?rata*.  Machine-readable transcription of the
 Kumbakonam1906-1910 "southern recension"
    *Mah?bh?rata*.  Available, and searchable, in Roman transliteration and

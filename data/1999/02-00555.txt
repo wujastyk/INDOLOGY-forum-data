@@ -1,15 +1,5 @@
-From a018967t at BC.SEFLIN.ORG  Mon Feb 15 14:22:40 1999
-From: a018967t at BC.SEFLIN.ORG (=?utf-8?Q?Aditya=2C_the_=5D-=5Bindu__=24kepti=C2=A2?=)
-Date: Mon, 15 Feb 99 09:22:40 -0500
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-In-Reply-To: <19990215102220.27337.qmail@hotmail.com>
-Message-ID: <161227046365.23782.8682115345251630395.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 On 15 Feb 99,  U Hayavadana wrote:
-
-> but you don't even need the other 26 if you write like me! and no indian
-> script has capitals either.
-
 I think even English would be completely understandable if they dispense
 with the capitals at all and many words that require a capital in English do
 not need in French. Moreover some of the 26 characters are redundant or
@@ -18,26 +8,15 @@ symbols could be added for missing sounds to make Roman script more
 logical and universal. Unless English speakers cannot be persuaded to do
 that it is unfair for speakers of other language to adopt a script which is not
 the most scientific in the first place.
-
-> >> we can use the technology that is already developed for western
-> >> languages (like standardised computer and printing equipment)
-
 The standardization is the key problem for Indian scripts not the script itself
 because nobody really cares for it in India. If Chinese, Arabic and Japanese
 can be standardized with many more nonlinear characters it should be much
 easier to do so for Indian scripts,
-
-
 I hope it gets you in the best of spirits.
 ?1999   Aditya Mishra
           homepage: http://www.smart1.net/aditya
           or   http://members.rediff.com/adityanm
 Page me online via http://wwp.mirabilis.com/1131674
-
 Random thought of the day:
         Hoare's Law of Large Problems: Inside every large problem is a small
 problem struggling to get out.
-
-
-
-

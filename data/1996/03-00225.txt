@@ -1,21 +1,4 @@
-From cardona at unagi.cis.upenn.edu  Thu Mar 21 12:23:15 1996
-From: cardona at unagi.cis.upenn.edu (cardona at unagi.cis.upenn.edu)
-Date: Thu, 21 Mar 96 07:23:15 -0500
-Subject: hAla's _gAthA saptas'ati_
-Message-ID: <161227023512.23782.16562676821750147034.generated@prod2.harmonylists.io>
-
->Greetings!
->
->Yesterday while reading _telugu vijn~Ana sarwaswamu_ came across a reference
->to hAla's _gAthA saptas'ati_ published by Weber (?) in 1811 in Germany. Is
->any one aware of this version? If yes, could you please tell me more about
->it! I was earlier told that the existing (modern) versions are incomplete
->and contain many mistakes. How far is this true?
->
->Regards,
->Sreenivas
->
->  E-Mail: sreeni at ktpsp1.uni-paderborn.de
+hAla's _gAthA saptas'ati_
 In addition to Weber's edition and translation (Halle, 1881), you may be
 interested in the following: The GAthAsaptazatI of SAtavAhan, with the
 commentary of GangAdharabhaTTa, edited by DurgAprasAd and KaxInAth
@@ -26,10 +9,3 @@ recent edition of a related work, the VajjAlaggam (ed. M. V. Patwardhan,
 Ahmedabad, 1969 [Prakrit Text Society Series 14]), has a good introduction,
 including a listing of verses common to the VajjAlaggam and the
 GAthAsaptazatI.  George Cardona
-
-
-
-
-
-
-

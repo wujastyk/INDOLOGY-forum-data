@@ -1,59 +1,32 @@
-From r.mahoney at ICONZ.CO.NZ  Fri Jun 16 03:51:02 2006
-From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
-Date: Fri, 16 Jun 06 15:51:02 +1200
-Subject: RESOURCE> Philologica at Indica-et-Buddhica
-Message-ID: <161227078001.23782.961662982631639642.generated@prod2.harmonylists.io>
-
+RESOURCE> Philologica at Indica-et-Buddhica
 Dear Colleagues,
-
 In response to a few enquires I've received over the past while, I'd
 like to make a pre-release version of IeB Philologica generally
 accessible.
-
 Philologica is a web interface -- search, retrieve, analysis -- to some
 Text Encoding Initiative (TEI) digital texts. This early release
 includes:
-
 1./ N?g?rjuna [2005], Lok?t?tastava, Acintyastava, Bodhicittavivara?a,
 Yukti?a?tik?k?rik?-s, & Vigrahavy?vartan? of N?g?rjuna: a TEI
 transcription. Base edn: Chr. LINDTNER.
-
 2./ N?g?rjuna [2005], M?lamadhyamakak?rik? of N?g?rjuna: a TEI
 transcription. Base edn: J.W. de JONG.
-
 3./ N?g?rjuna [2005], Ratn?val? of N?g?rjuna: a TEI transcription. Base
 edn: Giuseppe TUCCI.
-
 4./ Maitreya / Asa?ga (purported) [2005], Sanskrit-Tibetan-Chinese
 Buddhist Terminology based on the Yog?c?rabh?mi: a TEI transcription.
 Base edns: YOKOYAMA, Koitsu & HIROSAWA, Takayuki, eds..
-
 5./ ??ntideva [2005], ?ik??samuccaya of ??ntideva: a TEI transcription.
 Base edn: Cecil BENDALL (Chapter 1 alone).
-
-
 The search interface, together with basic information and help, can be
 reached by following this link:
-
  <http://indica-et-buddhica.org/philologica/>
-
 For a list of the available digital texts please press the `Search'
 button without entering a search term. 
-
-
 Comments, suggestions, corrections and bug reports gratefully received.
-
 Best regards,
-
  Richard MAHONEY
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 27 482 9986
 OXFORD, NZ      | e-mail: r.mahoney at indica-et-buddhica.org
-
-
-
-

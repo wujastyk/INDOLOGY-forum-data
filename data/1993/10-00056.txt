@@ -1,19 +1,6 @@
-From kish at jove.rutgers.edu  Wed Oct 27 17:03:34 1993
-From: kish at jove.rutgers.edu (kish at jove.rutgers.edu)
-Date: Wed, 27 Oct 93 13:03:34 -0400
-Subject: Om namah siddham
-Message-ID: <161227016256.23782.549762082949021823.generated@prod2.harmonylists.io>
-
+Om namah siddham
 When precisely did you delete the file ?  The file I restored was from
 Monday afternoon's incremental backup, and this is as close to Sunday that
 I can get.  I can restore the version that existed on Friday as well if
 you think it will help.
-
 -Bill
-
- 
-
-
-
-
-

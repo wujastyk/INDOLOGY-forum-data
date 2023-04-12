@@ -1,10 +1,4 @@
-From jgardner at blue.weeg.uiowa.edu  Sat Jun 15 19:25:23 1996
-From: jgardner at blue.weeg.uiowa.edu (John Gardner)
-Date: Sat, 15 Jun 96 14:25:23 -0500
-Subject: Locating for Early Computer Indologists
-Message-ID: <161227025050.23782.15463465393893498113.generated@prod2.harmonylists.io>
-
-
+Locating for Early Computer Indologists
 Several of us have been working with an e-text of the Rig Veda found at the
 Oxford Text Archive, deposited via Rutgers (RLIN) which apparently was 
 done in the 1970's (the records are unclear). the complilers were H.S.
@@ -14,16 +8,7 @@ those low-memory early 5 1/4" disks, and a text that size!), does anyone
 know of either individual or how they could be reached.  Their code is
 quite impressively systematic and we were hoping to contact them to learn 
 more about the procedure they used.
-
 Any help would be greatly welcome 
-
-
 Thank you in advance,
-
 John Robert Gardner
 University of Iowa
-
-
-
-
-

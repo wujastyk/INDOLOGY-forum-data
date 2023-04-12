@@ -1,10 +1,4 @@
-From magier at EDU.COLUMBIA.CC.CUNIXF  Fri Feb 15 14:39:34 1991
-From: magier at EDU.COLUMBIA.CC.CUNIXF (David Magier)
-Date: Fri, 15 Feb 91 09:39:34 -0500
-Subject: Machine readable text of Buddhacarita
-Message-ID: <161227014974.23782.13705101018428262664.generated@prod2.harmonylists.io>
-
-
+Machine readable text of Buddhacarita
 Columbia University in New York has, within its library system, a new,
 impressive Electronic Text Center, which is highly equipped, and which
 has started collecting electronic texts of many sorts, in many formats,
@@ -31,7 +25,6 @@ collection so far include:
    Catalog to the Kangyur, Lhasa edition
    U.S. Library of Congress Tibetan-Language listings
    Selected errata to the Delhi edition of the Derge Kangyur & Tengyur
- 
 For more information about this project, contact
   The Asian Classics Input Project
   Washington Area Office
@@ -39,9 +32,7 @@ For more information about this project, contact
   Gaithersburg, Maryland
   USA  20878-1839
   phone: (301) 948-5569
- 
 OR
- 
   The Asian Classics Input Project
   New York Area Office
   c/o The Princeton Clab of New York
@@ -49,13 +40,11 @@ OR
   15 West 43rd Street
   New York, New York  USA  10036
   phone: (201) 364-1824
- 
 In order to help the ETC develop its collection of electronic texts, I
 would be most appreciative if other members of this discussion forum
 would alert to the existence of any other machine-readable texts in
 the area of Indology (or even any other fields in South Asian
 studies). Thank you very much.
- 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
          ____________________        304 International Affairs
       /// -- David Magier -- \\\     Columbia University
@@ -63,8 +52,3 @@ studies). Thank you very much.
      |||    Southeast Asia    |||    (212) 854-8046
       \\\    South Pacific   ///
          --------------------        magier at cunixf.cc.columbia.edu
-
-
-
-
-

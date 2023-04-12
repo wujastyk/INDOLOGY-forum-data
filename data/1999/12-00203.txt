@@ -1,30 +1,14 @@
-From jds10 at CAM.AC.UK  Fri Dec 17 11:00:17 1999
-From: jds10 at CAM.AC.UK (John Smith)
-Date: Fri, 17 Dec 99 11:00:17 +0000
-Subject: CARB character set
-Message-ID: <161227054502.23782.4006202052320821217.generated@prod2.harmonylists.io>
-
+CARB character set
 A week or so ago I announced plans to create CARB fonts to supplement the
 existing Norman and CSX+ ones. CARB stands for Character/Accent RagBag,
 and the fonts are intended to contain whatever weird accented characters
 people need that aren't available in Norman or CSX+.
-
 I attach to this message a draft definition of the new character set. It
 contains 86 characters. When people have had a chance to comment, I shall
 make any changes that seem appropriate, build the fonts (PC only to start
 with), and make them available from my web/ftp site.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
--------------- next part --------------
-An embedded and charset-unspecified text was scrubbed...
-Name: CARB.def
-URL: <https://list.indology.info/pipermail/indology/attachments/19991217/66d4b404/attachment.ksh>
-

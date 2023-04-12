@@ -1,56 +1,25 @@
-From lmfosse at ONLINE.NO  Thu Jun  4 18:10:42 1998
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Thu, 04 Jun 98 20:10:42 +0200
-Subject: Truth and method in Indology, III
-Message-ID: <161227039638.23782.4370556167068019908.generated@prod2.harmonylists.io>
-
->
->Lars:
->
->What citations/titles/authors are you referring to here?  Is there
->anything online?  Methodological models of what you're discussing is an
->excellent idea.  Having waded into the complex issues you address quite
->succinctly viz. stats. and indology in your dissertation, I am very
->curious to see these works to which your expertise would refer us.
-
+Truth and method in Indology, III
 Most of this should be in the bibliography of my thesis:
-
 Frederick Mosteller/David L. Wallace 1963, "Inference in an authorship
 probem", Journal of the American Statistical Association, 58:274ff.
-
 F. Mosteller and David L. Wallace 1964: Inference and Disputed Authorship.
 The Federalist. Reading, Mass., Addison-Wesley Publishing Company.
-
 Tweedie/Singh/Holmes: 1994, Neural Network Applications in Stylometry: The
 Federalist Papers. Proceedings of the 3rd Conference on the Cognitive
 Science of Natural Language Processing. Dublin, Dublin City University.
-
 Holmes, D. I. 1995. The Federalist Revisited: New Directions in Authorship
 Attribution. Literary and Linguistic Computing, p. 111-127.
-
 Ledger, Gerard 1995. An Exploration of Differences in the Pauline Epistles
 using Multivariate Statistical Analysis. Literary and Linguistic Computing.
 10,2.
-
 Greenwood, H. H. 1992. St. Paul Revisited - a Computational Result. Literary
 and Linguistic Computing, 7,1. p. 43-47.
-
 Apart from these titles, I suggest you check out the bibliography of my thesis.
-
 Best regards,
-
 Lars Martin
-
-
 Dr.art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
-
-Tel: +47 22 32 12 19
 Fax: +47 22 32 12 19
 Email: lmfosse at online.no
 Mobile phone: 90 91 91 45
-
-
-
-

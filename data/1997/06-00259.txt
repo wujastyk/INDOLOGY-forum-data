@@ -1,22 +1,12 @@
-From jai at mantra.com  Wed Jun 18 05:02:39 1997
-From: jai at mantra.com (Dr. Jai Maharaj)
-Date: Tue, 17 Jun 97 19:02:39 -1000
-Subject: Deciphering the Indus Script
-Message-ID: <161227031090.23782.12216653320784845983.generated@prod2.harmonylists.io>
-
+Deciphering the Indus Script
 Deciphering the Indus script
-
 By K. V. Raman
 The Hindu
 June 10, 1997
-
 Courtesy of the Hindu Vivek Kendra
-
 The Indus Age - The writing system: Gregory L. Possehl: Oxford and IBH
 Publishing Co. Pvt.  Ltd., 66, Janpath, New Delhi.  Rs. 750.
-
 Professor Gregory Possehl is one of the leading authorities on the Indus Civilisation, and he has spent long years in the exploration of the Indus settlements both in India and Pakistan and authored several significant works like Indus Civilization in Saurashtra and Ancient Cities of the Indus(Edited). This volume is the first of the four books written by him on the Indus Age, the other three being on "The beginnings" the "Mature Harappan" and the "Transformation". Taken together they will form a comprehensive overview of the ancient cities of the Indus from the village forming communities through the transformation and eclipse of the civilisation.
-
 This book is not another attempt at decipherment of the elusive writing
 system which was in use for 600 years (2500-1900 B.C.) It is an in-depth
 survey of the nature of Indus writing and a critical review of the most
@@ -26,7 +16,6 @@ independent tests." This may be seen as a counterpoint to the claims of
 decipherment but there are many positive sections in the book to locate
 where there is a consensus and what might be done to move forward for a
 full decipherment.
-
 The first chapter provides an introduction to the Indus civilisation and
 its writing system. Based on the latest excavation and carbon-datings, he
 defines six phases or stages in its rise and fall starting from the
@@ -37,7 +26,6 @@ stage four, the early-mature Harappan transition (2600-2500 B.C.); stage
 five, mature Harappan (2500-2000 B.C.): stage six, late and post-Harappan,
 ranging in date from 2000 to 130011000 B.C. He describes the
 socio-cultural components, technology of the stages.
-
 One of the interesting observations, Possehl makes is the absence of any
 monumental religious architecture with the possible exception of the Great
 bath at Mohenjodaro. The pyramids of dynastic Egypt and the ziggurats of
@@ -49,7 +37,6 @@ but their religion was expressed in ways different from the Egyptian or
 Mesopotamian civilisation.  "This is an important contrast to the
 socio-cultural system of the archaic states and the Harappan civilisation
 may not fail within that form of organisation."
-
 In the second chapter he gives an excellent description of the various
 materials on which the Indus inscriptions are to be found like seals of
 different categories like stamp, cylinder, round, bar and the seal
@@ -57,7 +44,6 @@ impression, sealings and pottery.  He cautions that each class has its own
 place and message and must be seen as a functional part of its context.
 These glyptic materials should not be mixed as it would blur and distort
 the content.
-
 He next discusses the characteristic features of the Indus script like the
 total number of signs, sign frequency, pictographs, direction of writing
 and the language family of the Indus system. He agrees with Iravatham
@@ -65,7 +51,6 @@ Mahadevan that the normal direction of the script was from right to left
 (forming 83.23 per cent of the total inscription). The presence of
 hundreds of signs suggests that the writing system was based "on syllables
 or something akin to them and is neither alphabetic or logographic."
-
 Regarding the origin of the script. he examines the various findings and
 states it has to be traced only to the mature Harappan phase though the
 possibilities of the presence of the prototypes in the transitional period
@@ -75,7 +60,6 @@ development of writing in Mesopotamia. Another intriguing feature is that
 no scholar has detected any change or development in the writing system
 over 500 years of the mature Harappan indicating "that once codified it
 remained frozen in forms."
-
 A very significant part of this book is the detailed critique of all the
 most important efforts (about 3 5) made by various scholars for the
 decipherment of the Indus script.  It has a long history right from the
@@ -85,7 +69,6 @@ the recent computer-based decipherments like those of the Soviet team
 like I. Mahadevan (1972), S. R. Rao (1982), Waiter A. Fairservis Jr.
 (1989). Some of them are serious and scientific in their approach.  Many
 are based on "faith, revelation, guesses and unexplained methods."
-
 The various theories regarding the script that have emerged are that it is
 close to Sumerian; Sumer-Elam; Etruscan; close to Easter Island script;
 proto-Elamite, proto-Dravidian, Indo-European, Aryan or proto-Vedic,
@@ -100,7 +83,6 @@ I. Mahadevan's review of S. R. Rao's readings.  All these make the volume
 very interesting and thought-provoking study, which would be extremely
 useful for students and researchers in the disciplines of archaeology,
 palaeography and linguistics.
-
 Equally valuable is the last chapter, where he outlines some common
 ground, shared conclusions and the emerging patterns from all decipherment
 efforts.  Following Kamil Zvelebil, he states, "The script is to be read
@@ -114,7 +96,6 @@ form of an Indo-European language since it lacks prefixes and infectional
 endings; not likely to be written of a West Asiatic language except a
 poorly understood relationship to Elamite and last but not least none of
 the proposed decipherments can he proved to be true."
-
 He lists some problems that need attention like intensive study of certain
 working hypotheses, for instance, its relationship to proto-
 Elamo-Dravidian family or proto-North Dravidian family: the rebus
@@ -127,7 +108,6 @@ mostly nothing but guesses.  He stresses the need for sign list and the
 need to study the writing system in its various cultural contexts (e.g. B.
 M. Pande's analysis of copper tablets and Frank-Vogt's analysis of bangle
 inscription).
-
 What is the test for the correctness of a claim of decipherment?  His
 answer is the appearance of an exemplar with a substantial bilingual
 inscription, one in Indus script, the other in a writing system that could
@@ -136,18 +116,8 @@ ultimately going to rely on meaningful and consistent patterns and
 concepts that unfortunately elude precise definition.  The hard and sad
 reality is that except for the concordances, we are nowhere nearer
 decipherment than G. R. Hunter was in 1929."
-
 Courtesy of the Hindu Vivek Kendra
-
 Jai Maharaj
 http://www.flex.com/~jai
 Om Shanti
-
 Copyright (C) 1997 Mantra Corporation. All Rights Reserved.
-
-
-
-
-
-
-

@@ -1,157 +1,25 @@
-From saf at safarmer.com  Sun Oct 14 07:36:42 2018
-From: saf at safarmer.com (Steve Farmer)
-Date: Sun, 14 Oct 18 00:36:42 -0700
-Subject: [INDOLOGY] Soma and Amanita muscaria
-In-Reply-To: <908b0e4c-4d69-a30a-a370-5ea47e617910@soas.ac.uk>
-Message-ID: <F6A3BC07-E6AC-49E2-BB9A-36B682168DF8@safarmer.com>
-
+[INDOLOGY] Soma and Amanita muscaria
 Dear Mark,
-
 Thanks much for passing on this really interesting post from Matthew Clark, whose work I wasn?t aware of previously.
-
 I?ve always viewed skeptically claims that all references to homa/soma over the long periods and vast regions in which its use was reported in antiquity referred to one psychoactive plant. I think that you and I discussed this at one point years ago. It is nice to see Matthew suggesting the same thing, backing his case with cross-cultural evidence involving ayahuasca, which has long been known to involve different mixtures of drugs in different S. American regions. 
-
 That said, in discussing the different types of plants & drugs putatively linked to homa/soma, I suspect that Matthew underestimates the potential role of ephedra (or ephedrine), which like a long list of similar sympathomimetic drugs in modern use (cocaine, amphetamine, methamphetamine, methylphenidate, etc.) is capable with chronic use of triggering schizophrenic-like visions not substantially different from those produced (if more reliably) by the hallucinogenic substances used in ayahuasca or similar psychoactive mixtures in the premodern world.
-
 Thus Matthew writes: 
-
->> 7. Ephedra is a mild stimulant, but like any stimulant, engenders a hangover. It is not visionary or psychedelic. 
-
 A lot of medical evidence in fact exists that off-target effects of chronic use of ephedra and related sympathomimetic drugs do, in fact, include hallucinations, although that was not the reason the FDA banned ephedra?s use in 2004.  
-
 I became aware of these issues when involved in the mid 1990s in studies of narcoleptics, whose treatment at the time commonly involved long-term use of high doses of methylphenidate, methamphetamine, and other sympathomimetics related structurally to the stimulants in ephedra. A frantic search was on at the time for replacements for those drugs since an increasing number of narcoleptics were having psychotic reactions to the drugs that involved visual and auditory hallucinations indistinguishable from those seen in schizophrenics and users of LSD and similar psychedelic drugs. 
-
 New supposedly safer stimulants like modafinil eventually came on the market, but over time it turned out that hallucinations were among their common off-target effects as well. The reasons why that is try can be inferred from what I say below.
-
 I solicited and collected in the mid 1990s numerous reports from narcoleptic patients, including some who became friends, of contacts with aliens (or alternately, depending on their cultural backgrounds) of communications with gods, angels, or demons, etc., attributable to the drugs and not the waking dreams narcoleptics (who are not psychotic) experience daily.
-
 The evidence is very strong today that hallucinations of similar sorts can be triggered by many different kinds of drugs, not just those currently viewed as psychedelics. The similarities are explained by many recent fMRI and post-mortem anatomical studies that suggest that the main driver of hallucinations of all sorts involves disruptions of neural systems linking ?higher? cortical regions in the prefrontal cortex to subcortical networks and key integrative neural networks in the insula and linked cortical structures, e.g. the anterior cingulate. 
-
 The key point here is that *any* disruptions to the default resting networks linking those regions ? whether deriving from ingestion of exogenous chemicals like those in ephedra or by specific neurological diseases (bipolar disorder, Parkinson?s, Alzheimer?s, Huntington?s disease, & many others that produce hallucinations) will lead to similar schizophrenic-like or waking-visions. 
-
 For some suggestive evidence here, see this recent paper by a major group on auditory hallucinations in the _Schizophrenia Bulletin_ which suggests the existence of ?domain-general mechanisms for hallucinations? of all major types:
-
 _Auditory Hallucinations and the Brain?s Resting-State Networks: Findings and Methodological Observations_:
-
 Full paper downloadable here: http://tinyurl.com/ycfyhm5j
-
 Other recent papers on Alzheimer?s disease and hallucinations and visual rather than auditory hallucinations come to the same conclusion. 
-
 In sum, you can damage these networks in many different ways, but the existence of those disruptions and not the specific diseases or chemicals causing the damage is what defines the character of the hallucinations. 
-
 And all this together implies that you will never be able to identify the drug or more likely multiple drugs behind the hoama/soma question from evidence in the different strata of Vedic or early Iranian texts describing the nature of the visions. Hallucinations on this model whether triggered by stimulants, psychedelics, intentionally cultivated visionary experience, visions induced by sleep deprivation, or for that matter a well-aimed hammer to the head can all be expected on a deep level to look pretty much the same.
-
 Granted, however, that some hallucinations may be more pleasant than others:
-
 https://www.karger.com/Article/Pdf/481451
-
 Regards,
 Steve Farmer
-
 The Systems Biology Group
 Palo Alto, California
 saf at safarmer.com
-  
-> On Oct 13, 2018, at 12:53 AM, Mark Singleton via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> Posting on behalf of Matthew Clark (S0AS): 
-> 
-> In my book, "The Tawny One: Soma, Homa and Ayahuasca" (Muswell Hill Press, 2017), I take a fresh look at the soma/haoma issue. Summarized below is my argument. All the details, arguments, counter-arguments and references are supplied in my book. The points presented below comprise, generally, the current scholarly consensus on many of the topics.
-> 
-> 1. The soma/homa cult originated in Turkmenistan.
-> 
-> 2. Large scale migrations took place in Asia around 1600 BCE. (I suggest that these migratons, which coincided with the collapse of all Bronze Age civilizations, from Crete to the Indus, were caused by the eruption of the Santorini volcano in 1615 BCE.)
-> 
-> 3. "Aryans" came to the Punjab from Turkmenistan (not Anatolya, e.g. Colin Renfrew). bringing the cults of soma and the sacred fire. These are the two central elements of ancient Indo-Iranian religion.
-> 
-> 4. Soma rites are the most esteemed of Vedic shrauta rites.
-> 
-> 5. There are three theories about soma that still have some scholarly support: ephedra, Syrian rue, and fly agaric.
-> 
-> 6. Nearly all commentators agree that soma/haoma was a drug.
-> 
-> 7. Ephedra is a mild stimulant, but like any stimulant, engenders a hangover. It is not visionary or psychedelic. Sustained use of large doses of ephedra is debilitating and can lead to tachycardia. But it may have been used sometimes as an additive to a "base" concoction (see below).
-> 
-> 8. Ritualist appear to be "reborn" after a soma rite and not hungover.
-> 
-> 9. The Labha Sukhta and Hom Yasht 9-11 appear, contra Falk et al., to indicate visionary or psychedelic experience.
-> 
-> 10. Rue, at high doses, is almost psychedelic, but also highly destabilizing. It is not a psychedelic drug. It is dream-inducing: oneirophrenic. But rue contains MAOIs.
-> 
-> 11. Wasson's fly agaric is a massive red herring (or red mushroom!). Since Wasson, people have been "finding" these mushrooms in Tibetan Buddhism, early Christianity and Greek mystery rites. I don't agree with any of these "findings".
-> 
-> Contra fly-agaric:
-> 
-> 12. Even drying the mushrooms, thereby converting more of the ibotenic acid to muscimol, still does not eliminate toxins sufficiently to engender a ritual-friendly trip (blurred vision, stomach cramps, tremors etc.). 
-> 
-> 13. There is no pee drinking in the Vedas or Avesta.
-> 
-> 14. Soma/haoma is the juice of stalks that need vigorous pounding. Stipes of mushrooms do not need pounding. In Siberia and Afghanistan the mushrooms are consumed whole, dried or peeled. Never are they pounded in mortar and pestle (as haoma is pounded in Zoroastrian and Mithraic rites, and with large stones in Vedic rites).
-> 
-> 15. Fly agaric grows in many places in South Asia and worldwide. It is easily available.
-> 
-> 16. If we are looking for a psychedelic, it was most probably a tryptamine, not a phenethylamine, and certainly not any plant containing scopolamine. Unlike the enthusiasm and reverence for the "classic" tryptamines (LSD in the 60s and 70s, psilocybin from the mid-70s, and ayahuasca, i.e. DMT + MAOIs, from the early 90s), nearly no one regularly drinks or eats fly agaric, even though it is easily available almost everywhere. Even Siberians often prefer alcohol to the mushrooms. Wasson himself tried the mushrooms many times but just felt sick and tired. Fly-agaric is, essentially, in my opinion, too toxic to be the queen of entheogens.
-> 
-> 17. Soma was as purgative (see the Brahmanas). The purgative aspect is due to MAOIs, not DMT (see below). It was bitter and tawny coloured. During soma rites it is drunk about every three hours. Rites sometimes continue for several days. This has parallels with some ayahuasca rituals (see below).
-> 
-> 18. In both the Vedas and Avesta there are references to "many somas/haomas": soma of the valleys, soma of the hills, soma of the rivers etc., in the Rigveda. "Many haomas" are mentioned several times in the Avesta.
-> 
-> 19. Around 60 common plants contain DMT, and around 70 plants contain MAOIs. All 4,200 combinations work similarly as ayahuasca analogues.
-> 
-> 20. In the Amazon region around 100 plants are used variously as additives to the base concoction for making ayahuasca, a mixture of DMT (in chacruna) and MAOIs (in the Banisteriopsis caapi vine). Recipes vary. It was the same in ancient Asia.
-> 
-> 21. Soma/haoma was never one plant, it was many plants. As with curare, in South America, early researchers were wrong to think it was just one vine. Local shamans add lots of other plants as boosters.
-> 
-> 22. Similarly, Ayurvedic formulas and Greek and Roman medicines often use complex plant formulas. The synergetic effect of some traditional, complex plant medicines is still poorly understood.
-> 
-> 23. In the Materia Medica of India around 20 plants are called soma (including rue). Several of these plants contain either DMT or MAOIs. Virtually no phytochemical work has been done on the potential psychoactive properties of many plants called soma.
-> 
-> 24. Soma/haoma was ayahuasca analogues. I identify around a dozen plants referred to in the Vedas and Avesta, some of which are known to contain DMT or MAOIs, which could have been used as soma/haoma concoctions.
-> 
-> 25. The rituals of the Santo Daime church exhibit some striking parallels with Vedic ritual. This shows that regular, bi-weekly, life-long consumption of ayahuasca (or ayahuasca analogues) is quite compatible with sustained ritual activity and recitation of hymns/mantras.
-> 
-> 26. The kykeon of the Greek mystery rites was also an ayahuasca analogue concoction.
-> 
-> 27. Vedic and Zoroastrian soma/haoma rituals developed primarily as vehicles for a deep entheogenic trip, within a ritually confined and ordered space within which a trip could be safely and comfortably managed by trained priests.
-> 
-> My work on this topic is ongoing. I have made a few new discoveries since my book was published last year. Four articles that I have recently written on soma will be published next year.
-> 
-> 
-> Matthew Clark (SOAS).
-> 
-> 
-> 
-> On 09/10/2018 02:15, Jonathan Edelmann via INDOLOGY wrote:
->> Greetings,
->> 
->> Does anyone know of recent philological and pharmacological studies on the identification of soma in the ?gveda with Amanita muscaria? I?m aware of older studies by Wasson, Ingalls, Doniger, etc. Any help appreciated.
->> 
->> Sincerely,
->> Jonathan Edelmann
->> 
->> Jonathan Edelmann ? Assistant Professor
->> University of Florida ? Department of Religion
->> 
->> 
->> _______________________________________________
->> INDOLOGY mailing list
->> 
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info
->>  (messages to the list's managing committee)
->> 
->> http://listinfo.indology.info
->>  (where you can change your list options or unsubscribe)
->> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-
-

@@ -1,102 +1,61 @@
-From H.J.H.Tieken at hum.leidenuniv.nl  Mon Dec  5 19:54:37 2022
-From: H.J.H.Tieken at hum.leidenuniv.nl (Tieken, H.J.H. (Herman))
-Date: Mon, 5 Dec 2022 19:54:37 +0000
-Subject: [INDOLOGY] caesura (yati)
-In-Reply-To: <CAM0n-bUJDQ4oSb4StNkbtTrecqPdxi0QnN3nCO4MoHKd7ATyow@mail.gmail.com>
+[INDOLOGY] caesura (yati)
 References: <ad58a4b0eed367fff0983d878d8ec9d0@univie.ac.at>
  <CACR-SESzGBs=8u6UkAQPUp5oqwMtHvZAHJtp7=mHoS09yjhZ1g@mail.gmail.com>
  <trinity-d671adda-5dac-4187-a9e4-08a2794afd3d-1670262615990@3c-app-gmx-bs02>
  <CAM0n-bUJDQ4oSb4StNkbtTrecqPdxi0QnN3nCO4MoHKd7ATyow@mail.gmail.com>
-Message-ID: <DB8PR09MB3929130C6E92593144BE97C7DF189@DB8PR09MB3929.eurprd09.prod.outlook.com>
-
 For the yati in K?vya, see also:
-
 A.A.E. van der Geer, The Bh?sa Problem: a Statistical Research into its solution.
-
 It is a study into the yati in the plays attributed to the playwright Bh?sa. The idea was that one author, in case Bh?sa, was consistent in in use of emjambement, an assumption which, however, is not borne out by the plays attributed to Har?a. Nevertheless, the study discusses a lot of material, however, as said, mainly restricted to verses in plays.
-
 Herman
-
-
 Herman Tieken
 Stationsweg 58
 2515 BP Den Haag
 The Netherlands
 00 31 (0)70 2208127
 website: hermantieken.com<http://hermantieken.com/>
-________________________________
 Van: INDOLOGY <indology-bounces at list.indology.info> namens D?niel Balogh via INDOLOGY <indology at list.indology.info>
 Verzonden: maandag 5 december 2022 19:16
 Aan: Indology List <indology at list.indology.info>
 Onderwerp: Re: [INDOLOGY] caesura (yati)
-
 Dear Christian, in addition to Sheldon Pollock's superb and detailed discussion mentioned by others, I might (without due humility) mention my own The Abominable Yati https://www.academia.edu/61983071/The_Abominable_Yati<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.academia.edu%2F61983071%2FThe_Abominable_Yati&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OvTiFLfF3m4gsEqCWCsuWgOEIaujrUujufSuaEGjufU%3D&reserved=0> on certain anomalous caesurae.
 All the best,
 Dan
-
 On Mon, 5 Dec 2022 at 19:00, Sven Sellmer via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Dear Christian,
-
 when it comes to k?vya, please have a look at:
-
 Sheldon I. Pollock: Aspects of versification in Sanskrit lyric poetry. New Haven 1977.
-
 Best regards,
 Sven
-
-
 Gesendet: Montag, 05. Dezember 2022 um 17:10 Uhr
 Von: "Hannes A. Fellner via INDOLOGY" <indology at list.indology.info<mailto:indology at list.indology.info>>
 An: "Indology List" <indology at list.indology.info<mailto:indology at list.indology.info>>
 Betreff: Re: [INDOLOGY] caesura (yati)
 Dear Christian,
-
 Also, see:
-
 Gunkel, Dieter & Kevin M. Ryan. 2018. Phonological evidence for p?da cohesion in Rigvedic versification<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmeluhha.com%2FPapers%2Fgunkel_ryan_2018.pdf&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zoBrK8RbVe%2B7SpseDV7HaOqI5xTxvILdATc94uJVQK0%3D&reserved=0>. Language and Meter, eds. Gunkel, Dieter & Olav Hackstein. 34-53. Leiden: Brill.
-
 Gunkel, Dieter & Kevin M. Ryan. 2011. Hiatus avoidance and metrification in the Rigveda<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmeluhha.com%2FPapers%2Fgunkel_ryan_2011_hiatus_avoidance.pdf&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=k7HfFv8KCl9J7hh7CtVJYZ1tV4EShIwjImk9Ljq0hog%3D&reserved=0>. Proceedings of the 22nd Annual UCLA Indo-European Conference, eds. Stephanie W. Jamison, H. Craig Melchert, & Brent Vine. 53-68. Bremen: Hempen.
-
 Best,
-
 HAF
-
---
 Hannes A. Fellner
-
 Department of Linguistics
 University of Vienna
 Sensengasse 3a, 1090 Wien
-
 Division Digital Philology
 Department of European and Comparative Literature and Language Studies
 University of Vienna
 Universit?tsring 1, 1010 Wien
-
 tinyurl.com/hannesafellner<https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Ftinyurl.com%2Fhannesafellner&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Sbxs1kOM7SAFmj5mxDSLoFJa9ogwnDG0sI59czjlE5Q%3D&reserved=0>
-
 Am Mo., 5. Dez. 2022 um 16:35 Uhr schrieb Christian Ferstl via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>:
 Dear List Members,
-
 do you know any relevant studies etc. on caesurae (yati) in Sanskrit
 metrics? I'm espacially interested in how strict they have to be
 followed and to what extend they are or may be disobeyed.
-
 Thank you,
 Christian Ferstl
 University of Vienna
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LYhPYNGO8SQ8dqWJpKS2Yb2EfdDxWeCsroc2oooDp6k%3D&reserved=0>
-_______________________________________________ INDOLOGY mailing list INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info> https://list.indology.info/mailman/listinfo/indology<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LYhPYNGO8SQ8dqWJpKS2Yb2EfdDxWeCsroc2oooDp6k%3D&reserved=0>
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Ch.j.h.tieken%40hum.leidenuniv.nl%7C331ba484480d42fa8e0408dad6ecf7f4%7Cca2a7f76dbd74ec091086b3d524fb7c8%7C0%7C0%7C638058610897340202%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LYhPYNGO8SQ8dqWJpKS2Yb2EfdDxWeCsroc2oooDp6k%3D&reserved=0>
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20221205/58164bdc/attachment.htm>
-

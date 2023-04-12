@@ -1,15 +1,9 @@
-From thompson at handel.jlc.net  Fri Jun 14 12:53:27 1996
-From: thompson at handel.jlc.net (thompson at handel.jlc.net)
-Date: Fri, 14 Jun 96 08:53:27 -0400
-Subject: overemphasis on magic
-Message-ID: <161227025036.23782.16263291842745937597.generated@prod2.harmonylists.io>
-
+overemphasis on magic
 I agree with Lars Goehler about the value of Tambiah's use of speech act
 theory to interpret magic: it is surely a fruitful approach. But in the
 passage quoted Tambiah himself acknowledges that the approach "has still to
 be completed and
 exhausted."
-
 I myself am very interested in speech act theory, particularly when we are
 dealing *specifically* with speech acts.  Often the theory is used rather
 vaguely to deal with such "theoretical" constructs as "ritual" or "magic"
@@ -24,7 +18,6 @@ all *very* suggestive].  I am very grateful to Goehler for the reference to
 "Ce que parler veut dire", which I have not yet seen [but will].  But
 perhaps I can turn attention to just one Vedic speech act, in order to see
 how the theory of speech acts might be of direct use to Vedicists.
-
 Take a term like satyakriyA, actually unattested in Skt [cf. Pali
 saccakiriyA].  It refers to a speech act that is embedded in "a field of
 cultural practice" in Vedic that, I think, requires the discussion of magic
@@ -36,7 +29,6 @@ or, in a Vedic context, the establishment of personal authority [charisma]
 by a would-be Brahmin [kav?, R'Si, etc.].  Here, Bourdieu's use of such
 concepts as competition and production, symbolic power, etc., would seem to
 be highly relevant.
-
 As I have argued in a forthcoming paper, the satyakriyA is clearly a
 performative utterance, and in the strictest sense of the term: by the mere
 utterance of certain words ["truth"] the agent accomplishes something.  But
@@ -46,7 +38,6 @@ talked about the verb kR-, which frequently has the sense "perform a
 (speech) act, i.e., to utter"].  The more important question, to my
 knowledge never discussed by an Indologist, is: *what kind* of performative
 is the satyakriyA?
-
 Well, I have considered this from a number of points of view, and in the
 end I have resorted to Searle's taxonomy of the speech act [illocutionary
 force, etc.].  I have tried to distinguish the satyakriyA from such closely
@@ -54,7 +45,6 @@ related speech acts as the confession, the vow, the promise, the curse, the
 boast, etc., all of which exhibit features that Austin & Searle would
 consider "performative." But, again, this observation by itself is not very
 informative [in the end *everything* is performative for Austin!].
-
 In a nutshell [i.e., in one screen], I have resorted to the term "magical
 performative" which I have developed in light of Searle's *very* brief &
 undeveloped discussion of "supernatural declarations" [see Searle's
@@ -65,20 +55,9 @@ world-order accomplishes a very great thing indeed by the mere assertion of
 a few words.  In my view, it is very illuminating to consider the
 satyakriyA in this context, and that is what I have attempted do to in my
 article.
-
 I firmly believe [very performative! "verdictive"? "assertive"?] that the
 application of speech act theory in general [not just the Austin-Searle
 variety] can be very helpful to Indologists, as we try to come to terms
 with our texts.
-
 Sincerely,
 George Thompson
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,4 @@
-From pslvax!sadhu at UCSD.EDU  Fri Jan 20 20:29:51 1995
-From: pslvax!sadhu at UCSD.EDU (pslvax!sadhu at UCSD.EDU)
-Date: Fri, 20 Jan 95 12:29:51 -0800
-Subject: Yano' program
-Message-ID: <161227018275.23782.11681640497119755471.generated@prod2.harmonylists.io>
-
+Yano' program
 | file. Being a Mac user, I have access to uudecode for the Mac, which
 | apparently will not do the trick. Would anybody know of a ftp-site where
 | uudecode for the PC is available? (I tried Kyoto, without luck)
@@ -12,13 +7,6 @@ Message-ID: <161227018275.23782.11681640497119755471.generated@prod2.harmonylist
 | 
 | Lars Martin Fosse
 | 
-
 	obviously you will need a PC to run the program,
 	but anyway, uudecode is available at most every
 	windows PC ftp site, eg, u of michigan.
- 
-
-
-
-
-

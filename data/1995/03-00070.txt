@@ -1,12 +1,6 @@
-From aklujkar at unixg.ubc.ca  Fri Mar 17 01:41:05 1995
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Thu, 16 Mar 95 17:41:05 -0800
-Subject: Indic scripts fonts
-Message-ID: <161227018879.23782.13871916015368816000.generated@prod2.harmonylists.io>
-
+Indic scripts fonts
 To the list of sources for fonts of Indic scripts that Fran Pritchett put
 together, the following should be added:
-
 ITR [=  Indian Typographical Research]Graphic Systems Pvt. Ltd. 
 Hari-Vitthal Chambers, 64 Budhwar Peth, Ganapati Chowk, Laxmi Rd., Pune 411
 002. This is the registered office address and, I suppose, also the address
@@ -24,15 +18,7 @@ Shweta, Amber, Kalidas, Manik, Rudra, Cakra, Javahar, Tulsi,Gandhari,
 Seeta, Stone, Mudra, Thunder, Fancy ...  Hari (the last was the latest one
 I saw in December 1994 and was one of the most simple and beautiful Nagari
 fonts I have so far seen). 
-
 Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
 Vancouver, B.C., Canada V6T 1Z2. Tel: O: (604) 822-5185, R: (604) 274-5353.
  Fax O:
 822-8937. E-mail: aklujkar at unixg.ubc.ca
-
- 
-
-
-
-
-

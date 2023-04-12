@@ -1,82 +1,37 @@
-From christophe.vielle at uclouvain.be  Mon Dec 23 15:34:13 2019
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Mon, 23 Dec 19 15:34:13 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Sarvadar=C5=9Banasa=E1=B9=83graha?=
-In-Reply-To: <ED850E4C-E97F-4D0A-BB8D-2DBC5DC985E5@unil.ch>
-Message-ID: <33F29CEC-E801-46AD-8433-CF9319EAF0FC@uclouvain.be>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Sarvadar=C5=9Banasa=E1=B9=83graha?=
 Dear Johannes,
-
 Here are a few works which might quote, refer to, or be inspired by, the SDS (a closer look at each in this regard is still needed).
-
 1? The Sarvadar?anakaumud? of the advaitin M?dhavasarasvat? (South Konkan, to be dated c. 1480-1560 AD according to M.S. Bhat, "Avyay?rtha-Sa?graha of M?dhava Sarasvat?, JASB 52-53, 1977-78, p. 39-43; cf. Potter EIPh I, p. 235, VI, p. 651, and K. Madhava Krishna Sarma, ALB 5/4, 1941, p. 181-188 not seen; he has also authored a Ved?ntas?rasarvasva)
 https://archive.org/details/in.ernet.dli.2015.281103/ (TSS 135)
 (on p. i ?4 of the English Preface "Sarvadar?anakaumud?" has to be corrected into "?sa?graha", cf. the Sanskrit version ibid.)
-
 2? The Sarvamatasa?graha of Melputt?r N?r?ya?a Bha??a (Kerala, c. 1560-1656 AD), ed. M. Madhavan Unni, TSS 245, 1977 (https://catalog.hathitrust.org/api/volumes/oclc/20748183.html ) = in Journal of the Kerala University Oriental Research Institute and Manuscript Library, vol. xxi, part I, 1976, part II, 1977 ( http://www.archive.org/details/journalkeralaun01librgoog ), that is in the part IA : ed. pp. 3-30 (pp. 4-5, st. 5-20 are here missing, and then repetitions) : https://archive.org/stream/journalkeralaun01librgoog#page/n9/mode/2up ; in the part IIA: cover + introd. + ToC and index : https://archive.org/stream/journalkeralaun01librgoog#page/n387/mode/2up (see "indebtedness to other works"),
 where the Bh???a P?rvam?m??s? is given as the last, highest and best system.
-
 3? As for the so-called Sarvamatasa?graha (of R?ghav?nanda): Marek Major has devoted a detailed article to this doxography ("Sarvamatasa?graha: an anonymous ?Compendium of all systems?", In: Expanding and Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass, ed. K. Preisedanz. Wien : Austrian Academy of Sciences press, 2007, pp. 259-274), underlying a series of textual parallels with the SDS. Here a few remarks challenging his views on the dating of the SMS (he considers it as a late text, somewhere "after 1700 AD").
 The work was edited without author-ascription in the TSS (62: https://archive.org/details/sarvamatasangraha ). However, this text is in fact, as I was able myself to discover, a mere portion extracted from a long commentary to the Bh?gavataP, entitled K???apad?, composed by R?ghav?nanda (?r?madbh?gavatam,  ?r?r?ghav?nandamunin? viracitay? 'K???apady?'khyay? ?ippa?y?? sametam, Ek?da?adv?da?askandhau, T?t?yo vibh?ga?, P?r?atray?pura: Sa?sk?takal???lanirv?hakasamiti, ?r?Ravivarma Samsk?ta Granth?vali 2[/3], 1964: see pp. 224-248, ad BhgP 11,19.17; the edition of this important commentary was unfortunately left uncompleted). This explains the logical ascription of the extract (which became "autonomous" in a few manuscripts probably because of its doxographical character) entitled SM(siddh?nta)S to R?ghav?nanda authorship by Kerala authors (e.g. Kunjunni Raja CKSL p. 7; S. Venkitasubramonia Iyer, KSLB p. 81, 470-1) followed by Potter and Halbfass. And the fact that Melputt?r N?r?ya?a Bha??a refers to the K???apad? in his Prakriy?sarvasva (Part IV, TSS 174 (1954), p. 50,  cf. S. Venkitasubramonia Iyer, N?r?ya?abha??a's Prakriy?sarvasva: A critical study, 1972, p. 303), makes sure that the work of R?ghav?nanda is anterior to 1616-1617 AD. Therefore, contra Mejor (p. 264), the common stanza found in the SMS and in the M?nameyodaya (of Melputt?r N?r?ya?a Bha??a) cannot longer allows to consider the latter as the terminus a quo of the former (if one has "quoted" the other, it is the reverse). And since R?ghav?nanda is traditionally dated to the early 14th century by Kerala authors (op. cit. etc. ; post-Madhva at the least), even if there are more reasons to presume that he is later (15th or even rather 16th c. on internal evidences, cf. Mejor and Gerschheimer 2000-1 https://www.persee.fr/doc/ephe_0000-0002_2000_num_113_109_11771 on the SMS, and Danielson 1980 about R?ghav?nanda's commentary on the Param?rthas?ra; cf. also R?ghav?nanda's edited commentaries on the Mukundam?l? and on the Laghustuti), it could be interesting to re-examine the textual relationships between the SDS and the SMS in order to see which one is anterior to the other (and the same for the Sarvasiddh?ntasa?graha ascribed to one ?a?kara, variously dated: usually given as prior to both the SMS and the SDS, but dated later, posterior to the SDS, viz. to the 15th c., by Gerschheimer [p. 180-1] on the basis of the structure of its contents).
-
 Best wishes,
-
 Christophe
-
-
 Le 21 d?c. 2019 ? 11:16, Johannes Bronkhorst via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> a ?crit :
-
 Yes, that is of course a reference that I should have mentioned. But are there others, different from or after Cannibha??a?
-
 On 21 Dec 2019, at 09:36, Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>> wrote:
-
 Dear Johannes,
-
 Anantalal Thakur, ?Cannibha??a and the authorship of the Sarvadar?anasa?graha? Bulletin of the Adyar Library  25(1961): 524?538, gives some citations from the work of Cannibha??a, whom he holds to have been the real author.
-
 I'll be most interested if you come up with anything else.
-
 all best,
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Johannes Bronkhorst via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
 Sent: Saturday, December 21, 2019 3:27 AM
-To: Valerie Roebuck via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: [INDOLOGY] Sarvadar?anasa?graha
-
+[INDOLOGY] Sarvadar?anasa?graha
 Dear colleagues,
-
-
-
 Are there Sanskrit texts that quote or refer to the Sarvadar?anasa?graha? The text was known to Wilson in 1828 and a printed edition appeared for the first time in 1858. Are there authors during the preceding centuries who show an awareness of the text (apart from copyists who copied it)? Thanks in advance for any suggestions.
-
-
-
 Johannes Bronkhorst
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info&amp;data=02%7C01%7C%7C262861d4cc4f41da458d08d785feed95%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637125202258683595&amp;sdata=IuMz3%2B9%2BrccYHg%2BfJK7KkCzb6en1P4xjvON%2FEk%2BZLQE%3D&amp;reserved=0 (where you can change your list options or unsubscribe)
-
 ???????????????????
 Christophe Vielle<https://uclouvain.be/en/directories/christophe.vielle>
 Louvain-la-Neuve
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191223/636eb2e7/attachment.htm>
-

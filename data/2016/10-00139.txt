@@ -1,16 +1,4 @@
-From steiner at staff.uni-marburg.de  Mon Oct 17 08:12:10 2016
-From: steiner at staff.uni-marburg.de (Roland Steiner)
-Date: Mon, 17 Oct 16 10:12:10 +0200
-Subject: [INDOLOGY] Questions on two citations from Monier-Williams Sanskrit English Dictionary
-In-Reply-To: <CAATk=rChg=A1ET8XQtiq0ZdGoDAtSjY1jg=qdgL9CuicuxKvNw@mail.gmail.com>
-Message-ID: <20161017101210.Horde.39aGsXRORQlNbosIUqH1cse@home.staff.uni-marburg.de>
-
-> Citation 2: [L=175517[1]]?RASA?N. of the sacred syllable, ?Om,? S3a1n3khGr2.
->
->    Where in?????????-?????-??????is the word ?rasa? used for Om? I  
-> searched in the digital version of Bloomfield?s Concordance but did  
-> not find it.
-
+[INDOLOGY] Questions on two citations from Monier-Williams Sanskrit English Dictionary
 Compare the following entry in Otto B?htlingk's "Sanskrit-W?rterbuch  
 in k?rzerer Fassung", s.v. rasa [5-173[2]] 1)? y) "Bez. der heiligen  
 Silbe om ???kh. G?hy. 2,13". (refers to the edition by Hermann  
@@ -20,19 +8,10 @@ https://archive.org/details/indischestudien00unkngoog ; you will find
 the relevant textual passage on p. 62: v?ru?ya 'rc? rasena v?; German  
 translation: p. 63: "mit einem Varu?averse oder dem Saft(-spruch Om)";  
 note: p. 141: "[...] ved?n?? rasabh?tena pra?avena").
-
 Best wishes,
 Roland Steiner
-
 Links:
-------
 [1]  
 http://www.sanskrit-lexicon.uni-koeln.de/cgi-bin/monier/serveimg.pl?file=/scans/MWScan/MWScanjpg/mw0869-ravaNaka.jpg
 [2]  
 http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/disp2/serveimg.php?filepfx=5-173
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161017/07ea4d40/attachment.htm>
-

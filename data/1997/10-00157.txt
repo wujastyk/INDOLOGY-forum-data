@@ -1,46 +1,25 @@
-From ramkumar at BATELCO.COM.BH  Mon Oct 20 08:20:02 1997
-From: ramkumar at BATELCO.COM.BH (Ramkumar)
-Date: Mon, 20 Oct 97 11:20:02 +0300
-Subject: CSX Roman display now available via ITRANS
-Message-ID: <161227033158.23782.4171927605675534710.generated@prod2.harmonylists.io>
-
+CSX Roman display now available via ITRANS
 Dear members
-
 You might be interested to know about the new ITRANS 5.1 version  thru
 which it is very easy to convert the documents in ITRANS encoding to
 Romanized Sanskrit font. ITRANS 5.1  can
 also create browseable web pages using XDVNG for devanagari & CS Utopia
 / Washington Indic Roman fonts for Romanized Sanskrit display.
-
 If you would like to see some samples, please check out the following:
-
 for roman font, postscript samples
-
 ftp://jaguar.cs.utah.edu/private/sanskrit/roman/
-
   bg-5-r.ps                              211 Kb    Thu Oct 09 09:46:00
   d108-5-r.ps                             33 Kb    Wed Oct 08 07:23:00
   dict-5-all.gif                           3 Kb    Thu Oct 09 09:18:00
   dict-5-all.itx                           3 Kb    Thu Oct 09 09:17:00
   dict-5-all.ps
-
 for roman & devanagarii HTML pages
-
 ftp://jaguar.cs.utah.edu/private/sanskrit/html/
-
   alphabet.html                            2 Kb    Thu Oct 09 09:20:00
   atma8.html                               5 Kb    Thu Oct 09 09:20:00
   d108-5.html                              6 Kb    Thu Oct 09 09:20:00
-
-
 Sowmya
-_____________________________________________________________________________
-
 Sowmya
 The Bhagavad Gita homepage
 http://www.geocities.com/Athens/Acropolis/5294/
 email: soms at geocities.com or ramkumar at batelco.com.bh
-
-
-
-

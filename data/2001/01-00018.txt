@@ -1,33 +1,7 @@
-From perichandra at YAHOO.COM  Wed Jan  3 01:28:54 2001
-From: perichandra at YAHOO.COM (Periannan Chandrasekaran)
-Date: Tue, 02 Jan 01 17:28:54 -0800
-Subject: Govala/Golla and tamil KOvalar tribes
-Message-ID: <161227066240.23782.16081985241016130688.generated@prod2.harmonylists.io>
-
---- Lakshmi Srinivas <lsrinivas at YAHOO.COM> wrote:
-> --- "N. Ganesan" <naga_ganesan at HOTMAIL.COM> wrote:
-> >
-> > Online Tamil lexicon entry:
-> > *kOvalar* = 1) men of the sylvan tract, 2) herdsmen
-> >
-> > There are 100s of references for "kOvalar" as
-> > herdsmen in Sangam poetry and Alvar/NAyanmAr bhakti
-> > corpus.
-> > An example:
-> > kuRuntokai - "pal An2 kOvalar"
-> > tEvAram - "kollaivAyk kuruntu ocittuk kuzalum Utum
-> > kOvalan2um"
-> > (Krishna is the cowherd called Kovalan here.)
->
-> kOvalan < gopAla?
-> >
-> > In old times, Gollas were called "Govalas", usually
-> > rendered in English as Goalas. An example:
+Govala/Golla and tamil KOvalar tribes
 ...
-
 There is a very interesting and directly related DEDR entry:
 DEDR #2218:
-
 Te. kOvuramu  ambush, lying in ambush
 Pa. kOp- (kOt-) =  to tend (cattle)
 Ga. kOp- (kOt-) id.
@@ -38,10 +12,8 @@ Go. kOpal, kopAl = cowherd;
  kohval cowherd
 Kui. kOpa = to tend, herd (cattle, sheep); n. tending, herding
 ?Cf. 1416 Ta. kA. DED(S) 1838
-
 where DEDR #1416 is:
 Ta. kA = to preserve, shelter, watch, guard...etc.
-
 That the aforementioned entry #2218 is not at all annotated
 with any relationship to Skt. gOpAla is puzzling.
 This then provides a basis for reasoning that Ta. kOvalan2
@@ -49,21 +21,8 @@ is indeed Dravidian nothing to do with Skt. gOpAla, which
 raises the question of why did Burrows and Emeneau not
 include Ta. kOvalan2 = cowherd in this entry?
 What gives?
-
 Regards,
 P. Chandrasekaran.
-
-
-
-
-
-
-
-__________________________________________________
 Do You Yahoo!?
 Yahoo! Photos - Share your holiday photos online!
 http://photos.yahoo.com/
-
-
-
-

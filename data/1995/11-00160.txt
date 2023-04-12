@@ -1,16 +1,5 @@
-From ucgadkw at ucl.ac.uk  Thu Nov 23 10:44:14 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 23 Nov 95 10:44:14 +0000
-Subject: "=20" [was Re: Atheism in Hinduism: help needed
-Message-ID: <161227021773.23782.16418831039223528431.generated@prod2.harmonylists.io>
-
+"=20" [was Re: Atheism in Hinduism: help needed
 Anand Venkt Raman said:
-> I don't know if other people receive the same format of messages, but
-> some of the messages I get have funny characters which show up as
-> "=20" on my terminal.  Is it possible to please configure your mail
-> software to insert hard returns or line breaks instead?  I am sure
-> that many other people on the list would be equally grateful.
-
 Yes indeed.  It is annoying.  It is part of the Mime standard, I
 believe, and is called "Quoted-Printable" text.  There is a utility
 freely available on the net for undoing all the =20 signs, etc., and
@@ -18,9 +7,7 @@ turning the text into proper, clearly readable text.    It is called
 mimeqp.zip, and I append a uuencoded version below.  However, although
 this is useful for tidying up long messages as separate texts, it is
 still not an integrated solution for seamless use with email programs.
-
 Dominik Wujastyk
-
 begin 644 MIMEQP.ZIP
 M4$L#!!0``@`(`)-SMAJ_$4P4E2,``+`^```*````34E-15%0+D581>UZ?4!4
 M==;_F?O&,("@HF8:CAJ6H6;2H at 62"`R9"A/0X/0"BS`H!C/LS+VC%>+8M.IP
@@ -556,11 +543,3 @@ M*P``34E-12Y46%102P$"%``4``(`"`#;AD$<S"JI:QL"``#-`P``!@``````
 H```!``````!26@``4D5!1$U%4$L%!@`````$``0`V````)%<````````
 `
 end
-
-
- 
-
-
-
-
-

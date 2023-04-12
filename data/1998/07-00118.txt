@@ -1,50 +1,7 @@
-From emstern at NNI.COM  Thu Jul  9 17:14:08 1998
-From: emstern at NNI.COM (Elliot Stern)
-Date: Thu, 09 Jul 98 13:14:08 -0400
-Subject: Sanskrit
-In-Reply-To: <l03020902b1ca26525a91@[134.59.129.66]>
-Message-ID: <161227040693.23782.3705651928660399817.generated@prod2.harmonylists.io>
-
->>Let us now look at the Sanskrit examples Sandra van der Geer
->>provided (in a message Re: Sanskrit Fri, 3 Jul 1998 09:37:14 +0200)
->>
->>1) rAmo nalAya pustaka.m dadAti
->>2) rAme.na nalAya pustaka.m dIyate
->>3) nalo rAme.na pustaka.m dApyate
->>
->>1) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
->>book by R.".
->>2) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
->>book by R.".
->>3) does not mean the same thing as 1) and 2). I believe it should be
->>paraphrased as "raamo nalaM pustakaM daapayati", and mean "R. makes N. give
->>a book"/"N. is made by R. to give a book" (N.B., if Apte explains an
->>utterance like this, I missed it. So be cautioned that the source of this
->>interpretation (Elliot) is a lesser, and fallible, authority!)*
->>
->>If Sandra meant that 3) is semantically equivalent to 1) and 2), I too
->>would like to know how that can be so.
->>
->>Elliot
->
->        Perhaps just a problem with 'semantically'.
->        At low-level we can consider passive and causative being reciprocal
->functions:
->1) le chat mange la souris
->2) * le chat fait ?tre mangee la souris (= le chat fait que la souris est
->mangee [par le chat])
->3) * le chat est fait manger la souris (= que le chat mange la souris est
->fait [par le chat])
->        Evidently, 1) = 2) = 3) is just a low-level equivalence, not a
->fully semantical equivalence. The same occurs with the double negation: not
->just an assertion but a strong assertion.
->        Regards,
->Dominique
-
+Sanskrit
 I think Sandra was thinking about 'semantic equivalence', not 'low-level
 equivalence'. I infer that from her reply message  re: Sanskrit Wed, 8 Jul
 1998 21:37:39 (my local time) beginning "Eliot Stern wrote".
-
 When I said 'semantically equivalent', I meant that each utterance said to
 be 'semantically equivalent' to another utterance may be considered as a
 paraphrase of that other utterance. The given utterances may then be said
@@ -57,28 +14,21 @@ third assumption such that each base is used the same number of times in
 each example (and there may be other assumptions). I think that the
 paaNinIya and other commentators are asserting such 'semantic equivalence'
 when they say that two utterances like
-
 1) rAmo nalAya pustaka.m dadAti
 2) rAme.na nalAya pustaka.m dIyate
-
 are equivalent. They would *not* assert that
-
 3) nalo rAme.na pustaka.m dApyate
-
 is in this way equivalent to either 1) or 2), or that 1) or 2) is
 equivalent to 3). While 3) satisfies seems to satisfy all of the
 assumptions that I just stated, it falls outside of the set simply because
 speakers would understand something rather different from what they
 understand when they hear 1) or 2), when they hear 3). Speakers would,
 however, understand much the same thing upon hearing either 1) or 2).
-
 Dominique's French examples 1), 2), and 3), which may be rendered in
 English as:
-
 1') the cat eats the mouse
 2') the cat causes the mouse to be eaten [by the cat]
 3') the cat is caused to eat the mouse [by the cat]
-
 make a strikingly different sort of set from Sandra's Sanskrit set. The
 Sanskrit set consists of three utterances that we could imagine the average
 devadatta uttering to the average yajJadatta on the road. The French and
@@ -87,19 +37,8 @@ or Jane might utter (le chat mange la souris / the cat eats the mouse). on
 the street. But the second and third both in the French and English are
 most assuredly not utterances of the ordinary man/woman in the street, but
 are most probably the utterances in some grammatical metalanguage.
-
-
-
-
-
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
 USA
-
 telephone: 215 747 6204
-
-
-
-

@@ -1,39 +1,4 @@
-From marie-genevieve.guesdon at BNF.FR  Tue Nov 25 13:32:12 1997
-From: marie-genevieve.guesdon at BNF.FR (Marie Genevieve Guesdon)
-Date: Tue, 25 Nov 97 14:32:12 +0100
-Subject: Reverse Transliterations ....
-Message-ID: <161227033963.23782.10569869901598629940.generated@prod2.harmonylists.io>
-
->Return-Path: <owner-indology at LISTSERV.LIV.AC.UK>
->Date:         Thu, 11 Sep 1997 17:05:01 -0400
->Reply-To: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
->Sender: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
->From: Peter D Banos <pdb1 at COLUMBIA.EDU>
->Subject:      Re: Reverse Transliterations ....
->To: INDOLOGY at LISTSERV.LIV.AC.UK
->
->On Thu, 11 Sep 1997, Vidyasankar Sundaresan wrote:
->
->> Dear Indologists,
->>
->> Literature searches for Indian publications from various library catalogs
->> throw up some fine specimens of reverse transliterations.
->
->The examples cited are just the tip of the iceberg. My job includes
->copy-cataloguing Indian imprints and I see these all the time.
->Just this afternoon I handled an item from Ejukeshnal Buk Ha'us
->(Educational Book House), and a couple from Atmarama enda Samsa (Atma Ram
->and Sons).
->It took me the longest time to figure out that the Bengali-language
->publishing house "De'ja" wasn't like in "deja vu" but rather "De's."
->
->As for what became of the "Women for Women Research and Study Group," I
->will leave it to your imagination...
->
->                                                -Peter D. Banos
->                                                pdb1 at columbia.edu
->
->
+Reverse Transliterations ....
 Marie Genevieve GUESDON
 Bibliotheque nationale de France
 Departement des manuscrits, division orientale
@@ -42,7 +7,3 @@ Departement des manuscrits, division orientale
 tel 33-1-47 03 75 91
 Fax 33-1-47 03 76 65
 e-mail marie-genevieve.guesdon at bnf.fr
-
-
-
-

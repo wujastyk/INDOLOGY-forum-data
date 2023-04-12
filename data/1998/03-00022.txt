@@ -1,22 +1,13 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Mon Mar  2 06:04:22 1998
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Mon, 02 Mar 98 00:04:22 -0600
-Subject: Taittiriiya BraahmaNa
-In-Reply-To: <v01510101b120892e051c@[150.203.88.158]>
-Message-ID: <161227036309.23782.554818057282174110.generated@prod2.harmonylists.io>
-
+Taittiriiya BraahmaNa
 The replies to this need not be addressed to the list as a whole as there
 are other issues being discussed.  I'm simply having a slightly
 frustrating time reconciling TB accent.  As below in 2.8.8.9, it's kind of
 important as my dissertation concerns the development of the notion of the
 self, accordingly the distinction between bra'hman and brahma'n is quite
 important!
-
 I am interpreting 2.8.8.9 as follows:
-
 bra'hma devaa'najanayat | brahma vi'zvamidaM ja'gat | bra'hmaNaH kSatraM
 ni'rmitam | bra'hma braahmaNa aatma'naa
-
 This assumes that the the verticle stroke above a consonant indicates that
 svarita is the following accent, with udaatta preceding the verticle mark.
 The problem is--why would we have bra'hmaNaH kSatraM instead of
@@ -29,13 +20,10 @@ below the "hm" of brahma, and a verticle stroke above the "zv" of
 vi'zvam-- that is why i've taken it as I have.  I am not certain enough
 about accent rules to know why--if it be the case--brahma is not accented
 in that portion.
-
 I'm willing to be quite wrong in all this, in many ways I just want to
 know which brahman is which, and I'll sort out the significations for the
 development of the self accordingly.
-
 I thank anyone for answers in advance!
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 John Robert Gardner      Obermann Center
 School of Religion         for Advanced Studies
@@ -45,7 +33,3 @@ http://vedavid.org       http://www.uiowa.edu/~obermann/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is ludicrous to consider language as anything other
 than that of which it is the transformation.
-
-
-
-

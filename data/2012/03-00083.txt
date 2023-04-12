@@ -1,94 +1,11 @@
-From lubint at WLU.EDU  Mon Mar 26 19:40:38 2012
-From: lubint at WLU.EDU (Lubin, Tim)
-Date: Mon, 26 Mar 12 15:40:38 -0400
-Subject: Font
-In-Reply-To: <969E2114-F02A-4033-A6D6-A4E4CBE2B610@berkeley.edu>
-Message-ID: <161227095757.23782.10481769936565174377.generated@prod2.harmonylists.io>
-
+Font
 Michael Slouber promptly removed my doubts, but I fear the message came
 only to me, so I pass the info on.  The perl scripts can be run on a Mac
 using TextWrangler (free, perhaps even available through the App Store) or
 BBEdit by following his directions below.  I can supply the Perl scripts,
 if you can't find them.
-
 This query prompted me to make a little further effort with Ferenc's
 macros, and I have at least the IndUni2DevUni working perfectly on my Word
 for Mac.  So all is well in the world!
-
 Tim
-
 On 3/26/12 3:03 PM, "Michael Slouber" <mjslouber at berkeley.edu> wrote:
-
->
->Dear Tim,
->
->The perl scripts can be run in TextWrangler.  Under the menu "#!" there
->is the option "unix filters" and by putting your perl scripts there, you
->should be able to run them on any text you open with that program.
->
->Best,
->
->Michael Slouber
->
->
->On Mar 26, 2012, at 2:53 PM, Lubin, Tim wrote:
->
->> Patrick,
->> 
->> By far the nicest utility I have seen is a macro for Word written by
->> Ferenc Ruzsa:
->>  http://www.ebmp.org/downloads/Uni_Dev.txt
->> and to convert unicode devanagari to translit:
->>  http://www.ebmp.org/downloads/Dev_Uni.txt
->> 
->> With a keyboard shortcut to these macros, I could select a block of
->> unicode transliteration and -- hey presto! -- have Devanagari.  (Of
->> course, if your original has the sort of word breaks usually used in
->> transliteration, these will have to be closed up first to avoid breaks
->> that look awkward in Devanagari.)
->> 
->> Unfortunately, as you know, I am now working on the same machine you do
->> (MacBook Air), and I have not yet succeeded in installing or testing
->>these
->> macros in Word for Mac.  (The ebmp pages suggest it might work:
->> http://www.ebmp.org/p_dwnlds.php ; see second bullet point under
->> Devanagari unicode.)
->> 
->> I also once downloaded a folder full of Perl scripts that purport to
->> convert various encodings to various other encodings in a single bound,
->> but being only semi-computer-savvy I never figured out how to run those.
->> Can anyone recommend a simple front-end utility for
->>non-Perl-programmers?
->> 
->> Tim
->> 
->> Timothy Lubin
->> Professor, Department of Religion, and
->> Lecturer in Religion and Law, School of Law
->> Washington and Lee University
->> Lexington, Virginia 24450 USA
->> 
->> http://home.wlu.edu/~lubint | http://ssrn.com/author=930949
->> 
->> 
->> 
->> On 3/26/12 10:26 AM, "Patrick Olivelle" <jpo at UTS.CC.UTEXAS.EDU> wrote:
->> 
->>> 
->>> Dear All:
->>> 
->>> Can you recommend a font/program which would allow a Sanskrit text to
->>>be
->>> typed in Roman and to be converted immediately to Devanagari? I have
->>> noted some such programs Developed in India. Thanks.
->>> 
->>> Patrick Olivelle
->>> 
->>> 
->
->!SIG:4f70bf0c21872077016832!
->
-
-
-
-

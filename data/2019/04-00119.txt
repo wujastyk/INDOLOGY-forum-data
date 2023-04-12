@@ -1,31 +1,10 @@
-From steiner at staff.uni-marburg.de  Tue Apr  9 13:07:36 2019
-From: steiner at staff.uni-marburg.de (Roland Steiner)
-Date: Tue, 09 Apr 19 15:07:36 +0200
-Subject: [INDOLOGY] Sciences and Tantra
-In-Reply-To: <MN2PR11MB36290252A3EDEC3F65DA95E0A12D0@MN2PR11MB3629.namprd11.prod.outlook.com>
-Message-ID: <20190409150736.Horde.B-N_5Mb-hxP8aI77CGZMLw8@home.staff.uni-marburg.de>
-
-> Although it is not quite on tantra, there is a highly interesting
-> article in modern Sanskrit on the relationship between Sanskrit
-> analysis of poetic metre and Pascal's triangle. I do not have the
-> full reference available in my present location, but it may be found
-> in the introduction to the late Michael Hahn's edition of the
-> ChandoratnAkara
-
+[INDOLOGY] Sciences and Tantra
 The reference is found on p. 5 f. of Hahn's introduction:
-
 Naya Raj Pant: /Py?skalena svopaj?am iti prakhy?pitam  
 p???ga?itatribhuja? V?ttaratn?karoktaikadvy?dilagakriyaiva/ (?The  
 arithmetical triangle, claimed to be his own discovery by Pascal, is  
 nothing but the /Ekadvy?dilagakriy?/ as told in the  
 /V?ttaratn?kara/?), published in the first volume of /Jayatu  
 Sa?sk?tam/, 1:4 Vikramasa?vat 2017 (1960), pp. 1-8, Kathmandu.
-
 Best,
 Roland Steiner
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190409/bc2d2b86/attachment.htm>
-

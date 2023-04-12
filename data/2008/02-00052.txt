@@ -1,19 +1,11 @@
-From LubinT at WLU.EDU  Fri Feb 15 16:38:40 2008
-From: LubinT at WLU.EDU (Timothy Lubin)
-Date: Fri, 15 Feb 08 11:38:40 -0500
-Subject: Digital Kielhorn
-In-Reply-To: <DC6A62F93770C44B8D2856DA3744EF7C04D544D0@VS1.exc.top.gwdg.de>
-Message-ID: <161227081981.23782.8087737606152253308.generated@prod2.harmonylists.io>
-
+Digital Kielhorn
 One other source of scanned books that I have not yet seen mentioned in
 this thread is:
 http://www.archive.org/details/texts 
- 
 (This is one of the segments of http://internet.archive.org , home of
 the "WayBackMachine," which has been invoked a few times on this list,
 e.g. to track down Indological pages from China that had been taken
 down.)
- 
 I have been able to find quite a few volumes from such series as
 Epigraphia Indica, CII, SII, Indian Antiquary, and the like.  Same
 problems as with Google Books (sometimes defective scans, poor
@@ -25,31 +17,19 @@ volumes are available for download as pdf; many are in DjVu, which can
 be viewed by streaming on-line but I have not found any way to download
 those; others are available in html or txt format after OCR conversion,
 and I need hardly say that they are perfectly useless.
- 
 All the same, I have picked up quite a number of valuable volumes, and
 they are much easier to lug around digitally; the large heavy volumes
 can stay in my office!
- 
 I would second the call for the creation of an Indologically oriented
 repository of these digital or digitized books.  The ones I download, I
 clean up as I use them (cropping, deleting blank pages, etc.).  If
 people contributed usable, complete scans with accurate bibliodata it
 would be a boon for all.
- 
 Tim
- 
- 
 Timothy Lubin
 Associate Professor, Department of Religion
 Director, East Asian Studies Program
 Washington and Lee University
 Lexington, Virginia  USA
-
 lubint at wlu.edu   |   http://home.wlu.edu/~lubint 
-
-Tel: 540.458.8146 (office) 
 Fax: 540.458.8498
-
-
-
-

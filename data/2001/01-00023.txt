@@ -1,9 +1,4 @@
-From nachar at MEMPHIS.EDU  Wed Jan  3 14:30:24 2001
-From: nachar at MEMPHIS.EDU (Narahari Achar)
-Date: Wed, 03 Jan 01 08:30:24 -0600
-Subject: EJVS 6-2
-Message-ID: <161227066248.23782.10407826487038454519.generated@prod2.harmonylists.io>
-
+EJVS 6-2
 Dear interested readers of EJVS:
 The editors of EJVS have just announced the release of the latest issue of EJVS
 which contains two of my papers. Unfortunately,  the second paper on nakSatras
@@ -14,13 +9,8 @@ the editors to issue a correction for the same tables. Thanks for your patience.
 With best wishes for the new, millenium, year,....Narahari Achar
 (P. S . I am temporarily off the mailing from the list and my e-mail. I will be
 back on by the end of the month.)
-
--------------------------------------------------------------------------------------------------------
-
 Tables For the nakSatras in Rgveda paper
-
 Table 2. Variant names of nakSatras in samhita texts
-
 nakSatra no., TS,  MS, KS, AV, deity
 3,  mRgazIrSa, invagA, invakA, mRgazIrSa, soma
 4, ArdrA, bAhu, bAhu, ArdrA, rudra
@@ -30,47 +20,12 @@ nakSatra no., TS,  MS, KS, AV, deity
 17, vicRtau,  mUla,  mUla,  mUla, pitR
 21, zroNA, zroNA, azvattha, zravaNa, viSNu
 28, apabharaNi,  bharaNi,  apabharaNi, bharaNyaH, yama
-
 Table 3a.  Variant deities of citrA and zatabhiSaj nakSatra .
 List, TS(IV. 4. 10), TB(1.5.1), TB(3.1.1), TB(3.1.4)
 12,.citrA, indra, indra, tvaSTA, tvaSTA
 22,.zatabhiSaj, indra, indra, varuNa,varuNa
-
 Table 3b.  Names and deities of nakSatra #17 in different lists
-
 List, TS(IV. 4. 10), TB(1.5.1), TB(3.1.1), TB(3.1.4)
 Name, vicRtau, mUlavarhani, mUla, mUla
 Deity, pitR, nirRti, nirRti,prajApati
-
-------------------------------------------------------------------------.
-
 Makoto FUSHIMI wrote:
-
-> We are pleased to announce that ELECTRONIC JOURNAL OF VEDIC STUDIES,
-> vol. 6, issue 2 (Dec. 2000)  has just been released.
->
-> It contains following papers:
->
-> 1.  Kim Plofker
->
-> How to interpret astronomical references in Vedic texts?
->
-> 2. B. N. Narahari Achar
->
-> Comments on "The Pleiades and the Bears viewed from inside the Vedic  texts"
->
-> 3.B. N. Narahari Achar
->
-> Searching for nakSatras in  the Rgveda
->
-> This issue is now available on the EJVS web site.
->
-> Elect. Journ. of Vedic Studies:  http://www1.shore.net/~india/ejvs
->
-> Makoto Fushimi
-> --
-> FUSHIMI, Makoto
-
-
-
-

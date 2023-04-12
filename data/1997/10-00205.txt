@@ -1,34 +1,18 @@
-From ucgadkw at UCL.AC.UK  Thu Oct 23 09:05:59 1997
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 23 Oct 97 10:05:59 +0100
-Subject: Indian computing?
-In-Reply-To: <199710222005.WAA16710@pauillac.inria.fr>
-Message-ID: <161227033250.23782.15360915361675250833.generated@prod2.harmonylists.io>
-
+Indian computing?
 See also
-
 _Samvit:  Sanskrit and computer-based linguistics.  Proceedings of the
 seminar on `knowledge-representation in Sanskrit & allied semantic
 theories', Bangalore March 6-7, 1993_ edited by M A S Rajan and S H
 Srinivasan (Melkote: Academy of Sanskrit Research, Melkote 571431,
 Karnataka, India, 1993).
-
 _Computerizing cultures_ edited by Baidyanath Saraswati (New Delhi: Indira
 Gandhi National Centre for the Arts & New Age International (P) Ltd.,
 1995).  ISBN 81-224-0824-9.
-
 These books are not on character sets and encoding, but rather on the
 application of computers to cultural topics in the Indian context.  I just
 thought I'd mention them.
-
 All the best,
 Dominik
-
---
 Dominik Wujastyk            Wellcome Institute for the History of Medicine
 email: d.wujastyk at ucl.ac.uk       183 Euston Road, London NW1 2BE, England
 <URL: http://www.ucl.ac.uk/~ucgadkw/>                 FAX: 44 171 611 8545
-
-
-
-

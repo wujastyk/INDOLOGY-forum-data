@@ -1,32 +1,11 @@
-From reimann at uclink.berkeley.edu  Sat May 17 01:01:31 1997
-From: reimann at uclink.berkeley.edu (Luis Gonzalez-Reimann)
-Date: Fri, 16 May 97 18:01:31 -0700
-Subject: VarNa and colour
-Message-ID: <161227030297.23782.18094014031155326671.generated@prod2.harmonylists.io>
-
+VarNa and colour
 At 12:00 PM 5/15/97 BST, Mikael Aktor wrote:
->Indeed it seems to be correct that the straightforward relation between
->varNas (B, K, V, Z) and colours (white, red, yelow, black) is more part of a
->popular tradition than it is warranted by ancient and classical texts. But
->there is a tendency among scholars to reiterate this tradition _as if_ it
->were a textual one.
-
 The texts usually identify the four yugas with the four colors, and as the
 varnas are sometimes associated to the yugas, the relation is probably
 indirect.  It is a symbolical correspondence that is frequently applied to
 sets of four.
-
 According to the Mbh, the color of Narayana/Visnu/Krsna throughout the yugas
 is white, red, yellow and black (Mbh 3.148.16,23,26,33); but soon after it
 is said to be white, yellow, red and black (Mbh 3.187.31).
-
-
 Luis Gonzalez-Reimann
 University of California, Berkeley
-
-
-
-
-
-
-

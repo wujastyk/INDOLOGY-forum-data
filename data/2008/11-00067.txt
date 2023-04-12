@@ -1,22 +1,13 @@
-From pankaj-jain at UIOWA.EDU  Thu Nov 27 17:40:12 2008
-From: pankaj-jain at UIOWA.EDU (Pankaj Jain)
-Date: Thu, 27 Nov 08 17:40:12 +0000
-Subject: Online catalogs of major Indian University libraries
-Message-ID: <161227084007.23782.241340981989370920.generated@prod2.harmonylists.io>
-
+Online catalogs of major Indian University libraries
 Just thought of sharing that major academic libraries of indian 
 universities are now being digitized and their catalogs are available
 online:
 http://indcat.inflibnet.ac.in/
-
 I had heard the dismal state of Indian libraries many times and just
 thought of finding out if the situation is improving at all, the above
 resource seems to be a step in the right direction. More on this at:
-
 http://www.hindu.com/2006/02/05/stories/2006020513740300.htm
-
 The university libraries whose catalogs are already online are:
-
 Alagappa University
 Aligarh Muslim University
 Amravati University
@@ -116,14 +107,6 @@ University of Pune
 South Gujarat University
 Vidyasagar University
 Visva Bharati, Santiniketan
-
-
-
--- 
 Pankaj Jain, PhD.
 Lecturer at North Carolina State University
 www.indicuniversity.org
-
-
-
-

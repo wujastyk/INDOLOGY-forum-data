@@ -1,14 +1,6 @@
-From athr at LOC.GOV  Mon Oct  3 18:52:58 2005
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Mon, 03 Oct 05 14:52:58 -0400
-Subject: Tagore - A Passion Play [Chokher bali]
-Message-ID: <161227076868.23782.2168734666092326381.generated@prod2.harmonylists.io>
-
+Tagore - A Passion Play [Chokher bali]
 There are a recent Penguin India translation and Hindi movie (on DVD), which should be available commercially.  The following records are off OCLC, luckily without too much garbage.
-
 Allen Thrasher
-
-
 Allen W. Thrasher, Ph.D., Senior Reference Librarian
 South Asia Team, Asian Division
 Library of Congress, Jefferson Building 150
@@ -16,11 +8,8 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
->>> <voyager at ilssv3.loc.gov> 10/03/05 2:37 PM >>>
 ================================================================================
 Database Name:           OCLC Bibliographic Database
-
 MARC Display:            000 00788nam  2200241Ma 450
                          001 ocm54904210 
                          003 OCoLC
@@ -42,10 +31,8 @@ MARC Display:            000 00788nam  2200241Ma 450
                          700 1_ a Ganguly, Swagato.
                          994 __ a Z0 b LNN
                          948 __ h NO HOLDINGS IN LNN - 10 OTHER HOLDINGS
-
 ================================================================================
 Database Name:           OCLC Bibliographic Database
-
 MARC Display:            000 03113cgm  2200589Ia 450
                          001 ocm61367853 
                          003 OCoLC
@@ -118,7 +105,3 @@ MARC Display:            000 03113cgm  2200589Ia 450
                          710 2_ a Shemaroo Video (Firm)
                          994 __ a Z0 b LNN
                          948 __ h NO HOLDINGS IN LNN - 1 OTHER HOLDINGS
-
-
-
-

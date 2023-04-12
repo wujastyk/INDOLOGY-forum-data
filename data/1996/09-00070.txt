@@ -1,54 +1,6 @@
-From ecl6tam at lucs-01.novell.leeds.ac.uk  Thu Sep 12 12:54:43 1996
-From: ecl6tam at lucs-01.novell.leeds.ac.uk (Alec McAllister)
-Date: Thu, 12 Sep 96 12:54:43 +0000
-Subject: Accented Characters
-Message-ID: <161227025994.23782.8343667402290310298.generated@prod2.harmonylists.io>
-
+Accented Characters
 On 11 Sep 96 at 21:35, Luis Gonzalez-Reimann wrote:
-
->>        Now my other point was: is that really so difficult for the
->>computer industry to respect other cultural points of view than the
->>anglo-saxon one or is it just bad will? Consider this: there are some email
->>addresses inside our University's LAN I can't write to in correct french
->>because the gateways (Unix based?) do not allow french accentuation (and we
->>are in the heart of the Swiss french-speaking aera). Ridiculous...
->>       I think the computer industry now has to make a big effort of
->>reflection on this point or do we (indologists, french-, german-, hindi-,
->>japanese- etc  speakers) have to do it for them and work on matters that
->>are actually not our primary task?
->
->
->>Francois Voegeli
->>Fac. des lettres
->>Section de langues et civilisations orientales
->>Universite de Lausanne
->>BFSH 2
->>CH-1015
->
->
->I think it was just plain lack of foresight, together with the absence of a
->more global perspective, something that, historically, is very common in
->whatever country is a world power at any given moment (whether it be Spain,
->France, Britain, the U.S., or any other country).  As the ground work for
->the personal computers we use today was laid in the United States, those who
->did it where not thinking beyond the needs of the English language.
->As a native speaker of Spanish, I always found it ridiculous that something
->that is so simple on a typewriter, namely writing accents, or adding a dot
->above or below a letter, becomes an impossible task on a desktop computer.
->I learned from a computer-literate friend of mine that the reason has to do
->with how the ASCII characters were initially established, and that, at this
->point, changing them would be too complicated.  So we need to rely on
->specially designed fonts.
->
->Could someone else throw more light on this?
->
->
->Luis Gonzalez-Reimann
->Department of South and Southeast Asian Studies
->University of California, Berkeley
-
 I can shed a little light, and offer a little help.
-
 The problem isn't due to bad will: just historical accident. It
 isn't difficult to correspond in many languages: I regularly exchange
 email with colleagues, containing words using all sorts of accents in
@@ -56,50 +8,41 @@ French, German, Spanish, Italian, Portuguese and even Old English and
 Russian. (I don't always understand them -- it's usually just a matter
 of forwarding in interesting message in a language that I can barely
 decypher -- but that's another matter   :-)
-
 That correspondence works correctly because we are all using similar
 equipment and software. A high percentage of the emails I receive
 have accents correctly displayed ... but some have strange symbols
 or blanks instead.
-
 In the early days of computing, most systems used a byte consisting 
 of seven bits, which allows one to count up to 127, i.e. there could 
 be 127 characters for the alphabet, numerals, punctuation and a few 
 unprintable control characters (e.g. carriage return). That is just enough 
 to handle American English.
-
 Pretty soon, these 7-bit systems were standardized into ASCII, the
 American Code for Information Interchange. This was not cultural
 imperialism: it was simply a result of the historical accidents that
 a) most early computer were made in the USA and
 b) American English does not usually use accented characters.
-
 There wasn't even a UK pound sign in that code: it was purely
 American. However, it became a de facto international standard,
 because most computers were made in the US, even when they were used
 elsewhere.
-
 Shortly afterwards, 8-bit systems were introduced. These allow up to
 255 characters, which is enough to include the accented characters
 for most Western-European Latin-alphabet languages. The ASCII code
 was therefore extended to handle 8-bits, and an MS-DOS codepage was
 created for it.
-
 (Actually, there were many codepages, but the Western-European one
 was by far the commonest, again because of historical accident: the 
 biggest markets for computers at that time happened to be in 
 countries speaking W-E languages.)
-
 Predictably, that code-page also became a de facto international
 standard, simply because of its ubiquity. 
-
 Unfortunately, it was designed by programmers rather than linguists, 
 so the characters were in an illogical order, and not all were 
 included: e.g. they forgot the oe ligature for French (the story goes 
 that the French expert was ill on the day of the meeting ...) and 
 entirely overlooked the a-tilde and o-tilde in Portuguese, apparently 
 because they didn't have a Portuguese or Brazilian contact.
-
 At roughly this point, other manufacturers lost patience, and started
 creating their own sets of characters, sometimes better, but
 inevitably incompatible with those used in the IBM/MS world. Some of
@@ -110,10 +53,8 @@ same set of characters in the first 127 positions, which is why many
 writers ignore accented characters altogether: it isn't illiteracy,
 it's just playing safe, by using only those characters which are 
 certain to be handled correctly on all systems.
-
 Naturally, the dominance of IBM/MS in the market meant that the
 Extended ASCII also became a de facto standard.
-
 The arrival of Windows coincided with a much-needed redesign,
 leading to what is now the default "code-page" in W-E and US
 Windows, also known as Latin-1 and by a variety of other names. This
@@ -122,15 +63,12 @@ all the major W-E languages, but not in the same positions as they
 had in the old DOS Extended ASCII. This leads to problems: accented
 text created on one system appears on others with the accented
 characters shuffled or missing.
-
 Guess what? Latin-1 is now a de facto international standard too, in 
 the sense that it dominates the market.
-
 There are also codepages for other languages, e.g. Latin-2 for
 Eastern-European Latin-alphabet languages, and others for Cyrillic,
 Greek, Hebrew, Arabic ... but worldwide, more people use Latin-1
 than anything else.
-
 The last figures that I saw showed that about 83% of all the
 computers in the world are IBM-compatible PCs, most of them running
 Windows ... and that percentage was steadily increasing. All the
@@ -140,15 +78,12 @@ likelihood of any other system becoming a standard in fact, whatever
 the international standards bodies might say. The standard is what
 most people use, regardless of whether it is official or not, or
 whether it's actually the best.
-
 So what can we do to handle accents? Well, the picture isn't all bleak.
-
 It is true that an 8-bit message sent through a 7-bit system tends to 
 have the most significant bit cut off, with the result that 128 is 
 subtracted from the code representing any accented letter: e.g. 
 capital E-grave, which is character number 0200 in Latin-1, is 
 converted into character 0072, which happens to be capital H!
-
 However, some email and data-transfer systems can convert every
 character into a code which can be expressed with 7 bits, send the
 message, then convert the characters back again at the other end.
@@ -162,7 +97,6 @@ displayed in unconverted form, so you get strange things such as
 E-grave. It is tedious, but possible, to convert them all back and 
 read the result. The Windows calculator has a single-click converter
 between hex, binary, octal and decimal notations.)
-
 Even if the message arrives safely, it still has to be displayed,
 and a message written in Latin-1 on a PC might have some characters
 shuffled when displayed on a Mac using some other codepage, or a
@@ -170,13 +104,11 @@ UNIX box using a different one again. Again, some newer programs can
 convert between codepages automatically, but the characters must
 actually exist in the receiving computer before they can be
 displayed.
-
 One way round this problem is to agree with the recipient of the
 message which codepage you are using. This is much easier nowadays,
 because modern Macs can use TrueType fonts originally created for
 PCs,  and other manufacturers are finding ways of representing the
 IBM/PC codepages on their own systems.
-
 Even if the email program does not allow the user to select which
 font (and therefore the codepage) that the message should be
 displayed in (and most modern ones do), it is possible to send an
@@ -186,10 +118,8 @@ receiver's email program converts it back again. The recipient then
 displays it using the same layout as was used by the writer, if
 necessary by transferring the document into a word-processor, which
 is more likely to allow the choice of fonts.
-
 This, of course, sometimes means that users have to buy special fonts 
 in order to be able to make sense of messages.
-
 As you can deduce from my name, I have Scottish ancestry. The Scots
 are often accused of being incredibly mean with money. That is
 untrue: they are as generous as anyone else. However, they have a
@@ -198,17 +128,14 @@ centuries-old tradition of hating to see scarce resources wasted.
 it. A sort of greenery about greenbacks.) I therefore have a
 genetically-programmed horror of seeing anyone spend money
 unnecessarily.
-
 I have therefore created a number of fonts in many different codepage
 layouts. You are all welcome to use them for academic purposes, i.e. 
 not for commercial gain.
-
 Theoretically, the fonts are shareware, but very few people ever
 bother to pay for them, so in practice they are free. (Some nice 
 people don't pay, but send me paperback detective novels in languages 
 other than English, which is a nice thought: I give them to our 
 language students ... after having read them myself, of course.)
-
 Some fonts (LeedsBit and LeedsCyr, which between them can handle all
 the Latin- and Cyrillic-alphabet languages) are already available on
 FTP archive sites such as CICA, SIMTEL and their mirrors. They and
@@ -217,13 +144,9 @@ copyright) that I am working on now will also be available on my WWW
 page ... which doesn't actually exist yet, because my system
 supervisor still hasn't allocated me a URL, but it will exist in a
 few days, or so he says. It will probably be:
-
 http://www.leeds.ac.uk/ucs/software_distribution/win3.x/
-
 Failing that, try looking under my entry in the list of staff at:
-
 http://www.leeds.ac.uk/ucs
-
 I'm currently working on TrueType fonts which code accents and 
 characters separately, so any accent(s) can be used with any 
 character. These, of course, are entirely non-standard, and should be 
@@ -232,13 +155,9 @@ uses, e.g. for transliterating Indian languages, indicating scansion
 in verse, etc. These too, together with a couple of useful utility 
 programs which make typing accented characters very simple, can be 
 used by everyone on this list, and their colleagues.
-
 I hope this helps.
-
 Best wishes.
-
 Alec McAllister.
-
 Alec McAllister
 Arts Computing Development Officer
 Computing Service
@@ -246,8 +165,3 @@ University of Leeds
 United Kingdom
 tel 0113 233 3573
 email: T.A.McAllister at Leeds.AC.UK
-
-
-
-
-

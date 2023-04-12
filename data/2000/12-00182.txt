@@ -1,13 +1,7 @@
-From kupferka at UNI-FREIBURG.DE  Tue Dec 12 09:29:40 2000
-From: kupferka at UNI-FREIBURG.DE (Katharina Kupfer)
-Date: Tue, 12 Dec 00 10:29:40 +0100
-Subject: publication of IASS papers on CDROM
-Message-ID: <161227065200.23782.5430320517550798912.generated@prod2.harmonylists.io>
-
+publication of IASS papers on CDROM
 I support the view of Dominik Wujastyk, that the disadvantages of
 publishing on a CDROM are more (and more serious) than e.g. the
 advantage of make copies from it.
-
 All texts, which are written in older systems (MSDOS, Windows3.1 to 98)
 one has to convert if one would like to publish them on the Web in a
 Unicode format, which the newest standard at the moment. It takes so
@@ -16,14 +10,11 @@ will not have the problem of converting the file to the same extend. But
 one has still the problem, that the search engine will not work anymore.
 This problem I had with TLG-CDROM, which is coded in ASCII but has a
 search enginge for Windows3.1.
-
 A last point: The format of drives changes, too. If you remember the
 older formats of floppy disks, which are now replased by CDROMs. I would
 assume that CDROMs will be outdated and replaced by an other medium
 within the next 6 or 7 years.
-
 Regards, Katharina Kupfer
---
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Katharina Kupfer                        kupferka at uni-freiburg.de
 Sprachwissenschaftliches Seminar        k.kupfer at em.uni-frankfurt.de
@@ -33,7 +24,3 @@ D-79085 Freiburg                        Fax: +49/761/203-3203
       http://titus.fkidg1.uni-frankfurt.de/personal/kupfer.htm
          http://www.uni-freiburg.de/indogerm/kupfer.htm
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
-

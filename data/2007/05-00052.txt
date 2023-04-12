@@ -1,11 +1,5 @@
-From athr at LOC.GOV  Thu May 24 15:36:41 2007
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 24 May 07 11:36:41 -0400
-Subject: new online source for Indian realien: P.K. Gode works
-Message-ID: <161227080217.23782.15577825412953001291.generated@prod2.harmonylists.io>
-
+new online source for Indian realien: P.K. Gode works
 Frequently in listservs questions come up on things such as the history  of candles, or fireworks, or tobacco in South Asia.  One of the great researchers on such matters is P.K. (Parshuram Krishna) Gode.  At my request Cataloging Policy and Support Office have kindly input the tables of contents of Gode's Studies in Indian Cultural History into the online catalog record:
-
 LC Control No.:       70911825 
 Type of Material:  Book (Print, Microform, Electronic, etc.)
 Personal Name:     Gode, P. K. (Parshuram Krishna)
@@ -29,21 +23,10 @@ Electronic File Information:
                    Table of contents
                       http://www.loc.gov/catdir/toc/fy052/70911825.html 
 CALL NUMBER:       T27.I4 G6
-
 ====================//
-
-
 I think both scholars and bibliographers will find this most useful.
-
-
 The misprints are being corrected, so don't notify me of them, please.
-
-
-
 Allen
-
-
-
 Allen W. Thrasher, Ph.D., Senior Reference Librarian
 South Asia Team, Asian Division
 Library of Congress, Jefferson Building 150
@@ -51,7 +34,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

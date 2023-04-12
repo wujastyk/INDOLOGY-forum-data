@@ -1,17 +1,10 @@
-From tyler.g.neill at gmail.com  Mon Dec 21 19:49:51 2020
-From: tyler.g.neill at gmail.com (Tyler Neill)
-Date: Mon, 21 Dec 20 14:49:51 -0500
-Subject: [INDOLOGY] Idenfication of Sanskrit metres
-In-Reply-To: <mailman.23.1608570002.25939.indology_list.indology.info@list.indology.info>
-Message-ID: <CADbR+Y9iFEZcSmejYjd2ps+bGC=LAxEo=9+g-oHs68ouqc-=kQ@mail.gmail.com>
-
+[INDOLOGY] Idenfication of Sanskrit metres
 I've been working on this task the last few years, too, so I'd like to
 confirm the mention of the two working tools already mentioned ? see
 table "Related
 Sanskrit Transliteration and Scansion Projects
 <https://github.com/tylergneill/skrutable/blob/master/manual.md#related-sanskrit-transliteration-and-scansion-projects>"
 ? and also toot my own horn a bit.
-
 My own tool "skrutable" I made so as to be able to do large
 tasks programmatically. For example, I just now had it analyze the meter of
 the R?m?ya?a, and it gives a full plain-text report, marking various meters
@@ -19,18 +12,10 @@ and anu??ubh vipul?s and so on, in about 20 minutes (about 15 verses per
 second). I've tried, but I haven't yet been able to do such things with
 other tools. If anyone has such experience, please let me know, I'd love to
 compare.
-
 There are still a few edge-cases I need to address, and user-friendliness
 also needs a good bit of work. For example, the point-and-click interface
 is hard to get working on new machines. I plan on making a holiday project
 out of it, and I'll aim to send another general update after that. If
 anyone's especially interested, please be in touch.
-
 Best wishes
 Tyler
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20201221/d83f3fc8/attachment.htm>
-

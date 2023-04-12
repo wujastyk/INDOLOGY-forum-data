@@ -1,43 +1,10 @@
-From nmisra at gmail.com  Mon Oct 17 15:09:46 2016
-From: nmisra at gmail.com (Nityanand Misra)
-Date: Mon, 17 Oct 16 20:39:46 +0530
-Subject: [INDOLOGY] Questions on two citations from Monier-Williams Sanskrit English Dictionary
-In-Reply-To: <20161017101210.Horde.39aGsXRORQlNbosIUqH1cse@home.staff.uni-marburg.de>
-Message-ID: <CAATk=rCwHNg-9A0E8XjEAdaK3JgqLYenTFc8J82aTiOXQRzYhg@mail.gmail.com>
-
+[INDOLOGY] Questions on two citations from Monier-Williams Sanskrit English Dictionary
 On 17 October 2016 at 13:42, Roland Steiner <steiner at staff.uni-marburg.de>
 wrote:
-
-> Citation 2: [L=175517
-> <http://www.sanskrit-lexicon.uni-koeln.de/cgi-bin/monier/serveimg.pl?file=/scans/MWScan/MWScanjpg/mw0869-ravaNaka.jpg>
-> ] *rasa* N. of the sacred syllable, ?Om,? S3a1n3khGr2.
->
-> Where in ????????-?????-????? is the word ?rasa? used for Om? I searched
-> in the digital version of Bloomfield?s Concordance but did not find it.
->
-> Compare the following entry in Otto B?htlingk's "Sanskrit-W?rterbuch in
-> k?rzerer Fassung", s.v. rasa [5-173
-> <http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/disp2/serveimg.php?filepfx=5-173>]
-> 1)  y) "Bez. der heiligen Silbe om ???kh. G?hy. 2,13". (refers to the
-> edition by Hermann Oldenberg published in Albrecht Weber's "Indische
-> Studien" vol. 15, 1878; for a digital version, see
-> https://archive.org/details/indischestudien00unkngoog ; you will find the
-> relevant textual passage on p. 62: v?ru?ya 'rc? rasena v?; German
-> translation: p. 63: "mit einem Varu?averse oder dem Saft(-spruch Om)";
-> note: p. 141: "[...] ved?n?? rasabh?tena pra?avena").
->
->
 Thanks a lot for this. I had seen the meanings of *rasa* listed in *B?htlingk
 and Roth Grosses Petersburger W?rterbuch* (where I did not find any
 reference to *???kh?yana G?hya S?tra*), but not in *B?htlingk
 Sanskrit-W?rterbuch in k?rzerer Fassung*.
-
 It is useful to know that it is N?r?ya?a?s (N.) commentary that interprets
 *rasa* as *pra?ava*. Is a digital edition of this commentary available? My
 search on archive, scribd, and DLI drew a blank.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161017/cc917b8a/attachment.htm>
-

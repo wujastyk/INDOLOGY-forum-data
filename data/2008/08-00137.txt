@@ -1,43 +1,6 @@
-From fleming_b4 at HOTMAIL.COM  Fri Aug 29 14:03:55 2008
-From: fleming_b4 at HOTMAIL.COM (Benjamin Fleming)
-Date: Fri, 29 Aug 08 10:03:55 -0400
-Subject: E-text
-In-Reply-To: <1220011236.5261.15.camel@bibliothek>
-Message-ID: <161227083366.23782.12048186098616227425.generated@prod2.harmonylists.io>
-
+E-text
 I should add that I was successful on accessing the pdf files on my Mac
 through Firefox. These pdfs are quite readable!
-
 Best,
-
 B
-
 On 8/29/08 8:00 AM, "Peter Wyzlic" <pwyzlic at UNI-BONN.DE> wrote:
-
-> Am Freitag, den 29.08.2008, 06:43 -0400 schrieb George Cardona:
-> 
-> Concerning: http://www.sankara.iitk.ac.in/
-> 
->> Dear Dominik, When I went to the site a few moments ago, all I found is a
->> blank page. Perhaps it's because of my using Safari, but I'd welcome
->> clarification from others.  Thanks, George
-> 
-> You may go to the font troubleshooting page that should be readable for
-> all browsers: http://www.sankara.iitk.ac.in/ifont.htm
-> There is no hint how to deal with Safari in Mac OS. One solution might
-> be you download the Devanagari Truetype font (go to "download fonts" and
-> "Linux users") and try to install. The download link is:
-> http://www.sankara.iitk.ac.in/ttf/DVYG0ntt.ttf
-> 
-> This website uses so called "dynamic fonts", this is a technology that
-> came up in the nineties and worked with some versions of some web
-> browsers but not in others. In my opinion, it becomes more and more
-> obsolete. They should switch to Unicode encoding which is more
-> state-of-the-art.
-> 
-> Hope it helps
-> Peter Wyzlic
-
-
-
-

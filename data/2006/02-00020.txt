@@ -1,18 +1,10 @@
-From btwentwo at MIDWAY.UCHICAGO.EDU  Fri Feb 17 21:13:13 2006
-From: btwentwo at MIDWAY.UCHICAGO.EDU (Blake Wentworth)
-Date: Fri, 17 Feb 06 15:13:13 -0600
-Subject: Commercial Nagari font? (fwd)
-In-Reply-To: <A2B42828-2B4E-4E46-8123-2010DE070526@ncsu.edu>
-Message-ID: <161227077440.23782.11060646456214969048.generated@prod2.harmonylists.io>
-
+Commercial Nagari font? (fwd)
 For anyone who uses a Macintosh, and would like to have all the  
 conjuncts necessary for Sanskrit readily available to the Devanagari- 
 QWERTY keyboard, I have a nicely tweaked Devanagari MT font that  
 serves this purpose very well.  It is free for anyone who would like  
 it: if you want a copy, please email me with "devanagari font" in the  
 title, and I'll send it to you.
---Blake
-
 Blake Wentworth
 btwentwo at midway.uchicago.edu
 (M) 773.771.0172
@@ -20,63 +12,4 @@ btwentwo at midway.uchicago.edu
 The Divinity School
 Department of South Asian Languages and Civilizations
 The University of Chicago
-
-
-
 On Feb 17, 2006, at 3:07 PM, Tony K. Stewart wrote:
-
-> Dear Prof. Hanneder:
->
-> I would suggest that as a first step you consult the resource guide  
-> on fonts at the South Asia Language Resource Center, a  
-> collaborative effort of the US Department of Education's Title VI  
-> National Resource Centers for South Asia.  The SALRC is located at  
-> the University of Chicago.
->
-> See:  http://salrc.uchicago.edu/
->
-> The font section is listed under "resources"":  http:// 
-> salrc.uchicago.edu/resources/fonts/
->
-> Cheers,
-> tony
->
-> Tony K. Stewart
-> Professor of South Asian Religions and LIteratures
-> Dept. of Philosophy and Religion
-> Campus Box 8103
-> North Carolina State University
-> Raleigh, NC 27695-8103 USA
-> ph. 919.515.6335
-> email <tony_stewart at ncsu.edu>
->
-> On Feb 17, 2006, at 8:56 PM, Walter Slaje wrote:
->
->> ------- Weitergeleitete Nachricht / Forwarded message -------
->> Datum:   	Fri, 17 Feb 2006 17:41:28 +0100 (CET)
->> Von:            	"Dr. Juergen Hanneder"
->> <juergen.hanneder at indologie.uni-halle.de>
->> Betreff:        	Weiterleitung an Indology
->> -------------------------------------------------------
->> To: INDOLOGY at liverpool.ac.uk
->> Subject: Commercial Nagari font?
->> --text follows this line--
->>
->> Dear Colleagues,
->>
->> can anyone recommend high quality Devanagari fonts for Sanskrit.
->>
->> I think that I have probably seen most of the free Nagari fonts
->> available and I am of course aware that some of them are quite
->> good. And, of course, looking at the glyph table of some of the
->> commercial fonts is slightly disappointing, but I have not yet given
->> up hope for more professional tools for printing.
->>
->> Kind regards
->>
->> Juergen Hanneder
->> University of Halle
-
-
-
-

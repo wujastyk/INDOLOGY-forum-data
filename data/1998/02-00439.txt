@@ -1,14 +1,5 @@
-From GANESANS at CL.UH.EDU  Wed Feb 25 22:30:53 1998
-From: GANESANS at CL.UH.EDU (N. Ganesan)
-Date: Wed, 25 Feb 98 16:30:53 -0600
-Subject: Q. Lokayata texts
-Message-ID: <161227036145.23782.14116454995751598880.generated@prod2.harmonylists.io>
-
+Q. Lokayata texts
 Dmitry Olenev wrote:
-> Could you give me more detailed information about the manuscript?
->Was it published? Does there exist traslation of this text into any
->european language?
-
 The Tamil lokayata text is published. In 1995, edited by
 S. Soundarapandian at Govt. Oriental Mss. Library, Madras.
 I must say that this edition contains many errors.
@@ -16,6 +7,5 @@ Only the mss. at GOML is consulted, and NOT the one
 at Perur Adheenam. If both were seen together, the edition
 would have been much better. In general, the Govt. editions from
 GOML really are not upto high standards.
-
 For a long time, it is known that Kavichakravarti JayamkoNTaar
 wrote a vaLamaTal, known as kArAn2ai vizupparaiyan2 maTal.

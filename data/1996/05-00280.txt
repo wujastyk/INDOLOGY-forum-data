@@ -1,26 +1,12 @@
-From mhcrxlc at dir.mcc.ac.uk  Fri May 17 15:07:56 1996
-From: mhcrxlc at dir.mcc.ac.uk (mhcrxlc at dir.mcc.ac.uk)
-Date: Fri, 17 May 96 16:07:56 +0100
-Subject: PTS style Tipitaka CD-ROM ...$150
-Message-ID: <161227024660.23782.18419270447796427870.generated@prod2.harmonylists.io>
-
+PTS style Tipitaka CD-ROM ...$150
 Dominik Wujastyk writes:
-
->On Wed, 15 May 1996 jonathan.silk at wmich.edu wrote:
->
->> Is there some reason we should be considering spending alot of money for
->> materials we already have?  (I have not used the data extensively yet, but I
->> have not noticed any problems, save the sometimes unweildy file size).
-
 We obviously now have three versions available (or will do very shortly):
-
 1. Mahidol University (Thailand) with the DOS program BUDSIR.
 This is the Thai script version of the Pali Canon and Commentaries. The
 software is not very advanced but a new version is promised. It contains
 some errors. It is hard to see how many, since the data is encrypted (and
 effectively cannot be used from a hard disk ?). It contains no
 cross-references to PTS page numbers and so is difficult to use.
-
 2. IBRIC  (Sri Lanka)
 This is the 'free' version, based upon the edition in Sinhala script. Only
 the Canon, at present, although work has started on the Commentaries. Quite
@@ -30,7 +16,6 @@ but not all texts (yet). The main snag with this is that it is still an
 uncorrected version and there is as yet quite a lot to do by way of
 proofreading. You can of course put the texts on your hard drive. Other
 developments are in hand.
-
 3. Dhammakaaya Foundation (Thailand)
 This is based upon the PTS edition of the Canon. It includes a DOS version
 of a search program with various facilities. (Searching 1) by word or
@@ -39,35 +24,18 @@ out in June. A more advanced version for Windows together with the
 Commentaries is promised for December 1997 and a Mac version soon after
 that. (Information from Professor K.R. Norman.) I haven't seen it recently
 and so don't know how accurate it is.
-
->Absolutely none!  I think the people publishing CDROM versions for money
->have failed dramatically to evaluate the publishing situation correctly.
->With a free version of the text available, the CDROM versions can compete
->on only two grounds, as far as I can see
-
 I don't think it is as simple as this. Even when the final versions are out
 (and others to come?), textual scholars will find the differences between
 the Thai, Sinhala and Roman editions important (and useful). But I agree
 that when IBRIC completes their work this may be the most useful starting
 point for many people. Of course, prices of the other two may come down or
 even disappear eventually.
-
 One needs to remember that these are mostly volunteer projects and there
 may be limits as to what they are capable of doing initially.
-
 The PTS obviously has a right to seek to protect its market (particularly
 that to libraries). I suspect myself that they are worrying unnecessarily
 but it is certainly important to be able to continue to produce new Pali
 texts and translations.
-
 Lance Cousins
-
 MANCHESTER, UK
 Email: mhcrxlc at dir.mcc.ac.uk
-
-
-
-
-
-
-

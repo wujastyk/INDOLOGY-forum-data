@@ -1,12 +1,5 @@
-From kiparsky at CSLI.STANFORD.EDU  Mon Jul 28 21:02:53 2003
-From: kiparsky at CSLI.STANFORD.EDU (Paul Kiparsky)
-Date: Mon, 28 Jul 03 14:02:53 -0700
-Subject: A pitiful story
-In-Reply-To: <002001c3553c$d181a880$2930cece@charlie>
-Message-ID: <161227073000.23782.12687906987390172492.generated@prod2.harmonylists.io>
-
+A pitiful story
 Re http://seattletimes.nwsource.com/text/2001275153_sanskrit28.html:
-
 The story of the Deccan College Sanskrit dictionary is even more
 alarming than this article indicates.  The dictionary is based on a
 huge database of citations from all branches of Sanskrit literature,
@@ -14,19 +7,12 @@ excerpted and annotated by some very great scholars.  It is stored on
 brittle paper slips in the "Scriptorium" at Deccan College under less
 than ideal conditions.  The paper is crumbling and it is said that
 some of the slips have disappeared.
-
 To safeguard this irreplaceable resource and to make it available to
 the scholarly community, it should be digitized and published in CD
 form.  A resolution to this effect was just passed unanimously at the
 World Sanskrit Conference in Helsinki.
-
 This should be seen as an emergency measure and not as a substitute
 for the publication of the dictionary itself.  Funding for it should
 be sought from UNESCO, and surely private donors can be found to
 contribute money, equipment, and expertise.
-
 Paul Kiparsky
-
-
-
-

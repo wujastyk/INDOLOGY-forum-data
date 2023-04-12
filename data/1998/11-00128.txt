@@ -1,55 +1,9 @@
-From mcv at WXS.NL  Fri Nov  6 19:20:11 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Fri, 06 Nov 98 19:20:11 +0000
-Subject: Paired Horse and PIE breakup
-In-Reply-To: <36432A18.EA1E9108@montclair.edu>
-Message-ID: <161227042355.23782.2369700763579816346.generated@prod2.harmonylists.io>
-
+Paired Horse and PIE breakup
 "H.M.Hubey" <hubeyh at MONTCLAIR.EDU> wrote:
-
->Miguel Carrasquer Vidal wrote:
->
->> Herodotus isn't very explicit about the Scythian vocabulary, and some
->> of the things he claims are almost certainly bogus, like his
->> explanation of the name "Arimaspians" as from Scythian <arima> "one"
->> and <spou> "eye", which can be neither Ossetian ("one" = <yu>, "eye"
->> = <ca"st>) nor Turkic ("one" = <bir>, "eye" = <go"r> ~ <go"z>), nor
->> any other known Eurasian language at all (I've checked Mark
->
->Turkish 'yarim' = half. So this could mean 'half-sighted'.
-
 Well, if you can find a Turkic word "asp-" with the appropiate
 meaning.  Or any Turkic word "asp-" at all.
-
->> The evidence for the Iranian character of Scythian, apart from the
->> identification Saka==Scythian (and Saka-Khotanese is a
->> well-documented Middle Iranian lg.), is based on ancient glosses
->> (Hesychius gives "melition: a Scythian drink", clearly from the IE
->> word for "honey, mead", Herodotus' Oior-pata "man-killer" (=Amazon),
->> has been connected with IE *wi:ros, Skt. vi:ra- "man"), and the
->
->'er' happens to be one word meaning 'man' or 'male' or 'husband'
->scattered
->throughout Turkic languages in many forms (erkek, erk, erkin, erkisi, or
->even in
->combination with other words like kochxar = male sheep, etc)
->and there is no other word to take its place. IT seems difficult to
->believe
->that they did not have words for male or female  until the Iranians
->taught them.
-
 But what has Turkic *e:r, *erkek to do with PIE *wi:ros, or with
 Herodotus' "oior"?
-
->> evidence of toponymics, especially the South Russian/Ukrainian river
->> names Don, Dnestr, Dnepr < PIran *da:nu "river", cf. Oss. <don>
->> "water, river", *<da:nu nazdya> and *<danu apara>, the "front" and
->> "back" rivers, respectively.
->
->These are dangerous territories. 'Deniz'/Tenngiz' means 'sea' in Turkic
->and is well established in other forms like 'tennger' (in l~r Turkic and
->Hungarian).
-
 Indeed, all the old forms have t-.  The change to d- is recent, and
 restricted to (Anatolian) Turkish.  That rules out any connection
 with <tenger> (apart from the wrong vowel, the spurious -(ng)er/
@@ -57,38 +11,14 @@ with <tenger> (apart from the wrong vowel, the spurious -(ng)er/
 for the etymology of "Caucasus", but the river names are surely
 Iranian.  Forget about <deniz> and just look at Ossetian <don>
 "water, river"...
-
 [paraphrasing Doerfer:]
->> The Xiong-Nu may not even have been the same
->> people or spoken the same language as Atilla's Huns or the Hun.a
->> (Hephthalites, White Huns) of Afghanistan/India.  The glosses given
->> by Byzantine authors of "Hunnish" words are all either Slavic or
->> Daco-Thracian, words that the Huns had picked up after their arrival
->> in the Hungarian plain.  The names of most Hunnish leaders are
->> Germanic (e.g. Attila) or Iranian, with only a few (the oldest)
->
->That is not right. The Norse version of it 'atli' is a perfectly
->good Turkic word meaning 'horseman'. This problem arises because
->they first assume that 'atti' is Germanic
-
 Nope.  Attila *is* Gothic for "little father" (Vaterlein), no
 assumptions required.
-
->for father when they
->should know by now that 'ata' is Turkic for father in practically
->every Turkic language.
-
 Yes, but not 'attila', with double -tt- and dimunitive suffix -ila.
 Must be Gothic or Gepid.  Since most of Attila's subjects were
 Germanic Ostrogoths and Gepids (actually, most would have been Slav
 farmers, but those didn't count), there's nothing strange about that.
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

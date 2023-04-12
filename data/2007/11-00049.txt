@@ -1,26 +1,15 @@
-From conlon at U.WASHINGTON.EDU  Thu Nov 29 23:02:06 2007
-From: conlon at U.WASHINGTON.EDU (Frank Conlon)
-Date: Thu, 29 Nov 07 15:02:06 -0800
-Subject: H-ASIA: RESOURCE: Rajavyavaharakosha...Persian-Sanskrit              Phraseology
-Message-ID: <161227081566.23782.12645921049085280645.generated@prod2.harmonylists.io>
-
+H-ASIA: RESOURCE: Rajavyavaharakosha...Persian-Sanskrit              Phraseology
 H-ASIA
 November 29, 2007
-
 Important research source available once again _The Rajavyavaharakosha of 
 Raghunatha Pandit: Persian-Sanskrit Phraseology_
 ********************************************************************
-From: Sumit Guha <guhas at rci.rutgers.edu>:
-
 _Rajavyavaharakosha of Raghunatha Pandit: Persian-Sanskrit Phraseology_
 Author: Bharadwaj, Ramesh
 Year: 2007
 ISBN : 818670065X
 [ pp. xxvi+143 ]
-
-
 Dear colleagues,
-
 The _Rajavyavahara Kosha_ is an unusual - perhaps unique lexicon
 prepared in under the patronage of the Maratha Chatrapati Shivaji
 c.1675-6 CE. Only a few manuscripts survived and it first appeared in
@@ -30,45 +19,36 @@ Nagpur and Pune in  1878-1885. This edition is now extremely hard to find.
 Another three manuscripts were collated and edited by Kashinath N. Sane 
 and  published in  _Shivacharitrapradipa_ edited by D.V Apte and S.M. 
 Divekar, Pune 1925.
-
 The 1880 _Kavyetihasa Samgraha_ text has now been reprinted with an 
 extensive scholarly apparatus in a new edition by Ramesh Bhardwaj, of 
 Motilal Nehru college, Delhi University and published by Vidyanidhi 
 Prakashan, Delhi. (I obtained a copy of the reprint via  Motilal 
 Banarsidas).
-
 This work is divided into ten chapters each of which offers Sanskrit
 replacements for common Arabic and Indo-Persian loan-words widely
 adopted into Indian languages. It offers a glimpse of an unusual
 lexicographic politics at work.
-
 It opens for example "Know _padshah_ to be _raja_; for _saheb_ use
 _svami_; the Yavana language uses _daruni_ for _antahpura_"[harem]. 
 "Rishi" [seer] is offered as a substitute for "paigambara"[prophet]; 
 "yogi" for "fakir".
-
 Each chapter deals with terms relevant to a specific domain: for
 example, the chapter on enjoyments (_bhogyavarga_) offering
 _suraagaara_ for _sharabkhana_ and _champakatailam_ for _chaapelam_ [a
 perfume]. Other sections offer similar substitutes for standard
 administrative, business and military terms. So for example, "Daftar
 should be _lekhashaalaa_; _daftardaar_ is _lekhakah_"
-
 The new edition includes an alphabetical index, a list of all Persian
 words mentioned printed in the Persian script and some useful
 comparative and framing material.
-
 It however does not include the short afterword from the Kolhapur 
 manuscript that was printed in Sane's edition, or 84 verse introduction 
 to that manuscript which was not found in any other ms consulted by Sane 
 who therefore only quoted a few verses from it in his notes.
-
 This new edition should prove a valuable resource for students of
 Indian history and literature.
-
 Sumit Guha
 Rutgers University
-----------------------------------------------------------------------
 Ed. note: While Sumit Guha obtained his copy of this work from MLBD, I was 
 unable to locate it on their website and took the above bibliographical
 information from the Eastern Book Corporation website.  Librarians should 
@@ -76,7 +56,6 @@ make certain that if they participate in the Library of Congress
 Acquisitions program that this item be obtained as I believe it would not 
 fit within the conventional rubrics of most collection development 
 profiles.                                           FFC
-
 ******************************************************************
          To post to  H-ASIA  simply send your message to:
                          <H-ASIA at h-net.msu.edu>
@@ -85,7 +64,3 @@ profiles.                                           FFC
                          SET H-ASIA NOMAIL
         Upon return, send post with message SET H-ASIA MAIL
         H-ASIA WEB HOMEPAGE URL:    http://h-net.msu.edu/~asia/
-
-
-
-

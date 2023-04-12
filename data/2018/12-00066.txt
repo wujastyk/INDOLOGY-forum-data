@@ -1,25 +1,9 @@
-From hellwig7 at gmx.de  Fri Dec 14 16:59:12 2018
-From: hellwig7 at gmx.de (Oliver Hellwig)
-Date: Fri, 14 Dec 18 17:59:12 +0100
-Subject: [INDOLOGY] DCS data
-Message-ID: <ebe03554-0767-4a3c-1cb4-5bf008dae0f1@gmx.de>
-
+[INDOLOGY] DCS data
 Dear all,
-
 the data of the DCS are now open source.
-
 You find a download link and additional information on how to 
 build/explore the database on github (folder dcs):
-
 https://github.com/OliverHellwig/sanskrit
-
 The user interface of the corpus will probably be migrated to a new 
 server in the next weeks.
-
 Best, Oliver
-
-
-
-
-
-

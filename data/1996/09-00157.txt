@@ -1,9 +1,4 @@
-From kiparsky at csli.Stanford.EDU  Mon Sep 30 04:11:48 1996
-From: kiparsky at csli.Stanford.EDU (Paul Kiparsky)
-Date: Sun, 29 Sep 96 21:11:48 -0700
-Subject: Mendeleev, Boehtlingk, and Panini
-Message-ID: <161227026160.23782.7503652255987842317.generated@prod2.harmonylists.io>
-
+Mendeleev, Boehtlingk, and Panini
 In an earlier posting I conjectured that the Russian chemist Dimitri
 Mendeleev knew enough about the Sivasutras to recognize their
 resemblance to the periodic system of chemical elements that he had
@@ -12,7 +7,6 @@ Sanskrit names to the unknown elements predicted by his periodic
 system, an almost unique use of Sanskrit in systematic scientific
 nomenclature: it was intended as acknowledgement of and homage to the
 other great periodic system of science.
-
 How could Mendeleev have found out about the Sivasutras?  It seems he
 never studied Sanskrit --- he was far too busy for that --- but he
 might have got his information through personal contact.  I am
@@ -30,7 +24,6 @@ science were not in separate series then), and Mendeleev addressed the
 Academy when he was awarded its prestigious Demidov prize for his book
 Organic Chemistry, which had appeared in 1861, when Boehtlingk was on
 the nomination committee for the prize.
-
 In any case, the analogies between the two systems are striking.  Just
 as Panini found that the phonological patterning of sounds in the
 language is a function of their articulatory properties, so Mendeleev
@@ -52,10 +45,4 @@ the magnesium family because it patterns with it even though by atomic
 weight it seemed to belong with nitrogen and phosphorus.  In both
 cases, the periodicities they discovered would later be explained by a
 theory of the internal structure of the elements.
-
 Paul Kiparsky
-
-
-
-
-

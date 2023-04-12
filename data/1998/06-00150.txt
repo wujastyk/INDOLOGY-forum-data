@@ -1,49 +1,5 @@
-From jhr at ELIDOR.DEMON.CO.UK  Thu Jun 11 15:39:52 1998
-From: jhr at ELIDOR.DEMON.CO.UK (John Richards)
-Date: Thu, 11 Jun 98 16:39:52 +0100
-Subject: Announcing CSX+
-In-Reply-To: <Pine.SOL.3.96.980611122409.17088A-300000@taurus.cus.cam.ac.uk>
-Message-ID: <161227039761.23782.1909899989809795429.generated@prod2.harmonylists.io>
-
+Announcing CSX+
 Dr. Smith writes
-
-> Subscribers to the Conv-dev mailing list on transliteration of
-> Indian languages <conv-dev at elot.gr> may already be aware that there
-> is a proposal to implement a new computer encoding (character set)
-> for use with material in such languages. The new encoding is to be
-> based on the existing CSX character set, which is probably the most
-> widely-used such encoding, and has been dubbed "CSX+". The intention
-> is that it should be as nearly as possible compatible with CSX, so
-> that most CSX users could start using CSX+ fonts and notice no
-> difference; however, it will extend the CSX set with extra
-> characters, in particular those required by the draft ISO standard
-> which the Conv-dev discussion has produced. This amounts to an
-> attempt to provide the most useful possible set of "Indian" accented
-> characters, and I should welcome input from others to ensure that
-> the best choice is made.
--------------------------------
-> 10. I would welcome comments on these proposals. However, there are
-> real constraints on the time that can be spent on a discussion, so I
-> hope it can be brisk and focused. I should say that it would be very
-> hard to persuade me to make major changes in the areas covered by
-> paragraphs 2-5 above; most useful would be advice on which
-> characters ought to win the scramble for the last few places. I
-> shall place a copy of this message on Conv-dev also, but I suggest
-> that discussion takes place on Indology <indology at liverpool.ac.uk>.
-> I shall be happy to do a reasonable amount of message-forwarding for
-> Conv-dev members who do not subscribe to Indology.
->
-> 11. After, say, two weeks of discussion, I shall finalise the CSX+
-> standard and build a set of fonts to implement it: virtual fonts for
-> TeX, and Type 1 PostScript and TrueType fonts for PCs and
-> Macintoshes. (I do not have access to good Mac font software, and
-> would only be willing to make a Mac translation of one of the five
-> typefaces that I shall build for the PC: would anyone else like to
-> volunteer to do the job?) The fonts should be available within a
-> matter of a few days once the standard is agreed. As time permits I
-> shall also try to produce programs to handle conversion of text in
-> other encodings to CSX+.
-
 I am sure we have all used CSX fonts and benefited from having even a
 provisional "standard", but that the "definitive" Indology character
 set should necessarily be based on the present CSX is perhaps not
@@ -53,7 +9,6 @@ CSX configuration to make it quite widespread - in the still very
 limited circle of computer-literate Indologists. It MAY be that a
 further refinement of the CSX allocations is the right way forward,
 but there are also strong arguments AGAINST it.
-
 Is it right, primarily, for the English-speaking scholars of the
 present generation of Indologists to tie the future of Indology fonts
 to what suits US very well, but not others. The CSX font has moved all
@@ -70,7 +25,6 @@ Traditional accented characters are left in their accustomed
 positions, and can therefore be used equally conveniently by both
 English-speakers and others alike. Surely that is preferable to a font
 that can ONLY be used satisfactorily by English-speakers.
-
 Although English-speaking myself, and myself quite content with the
 CSX layout for my own use, I would personally, advocate that any
 future attempt to arrive at a true "standard" for an Indology font
@@ -81,16 +35,10 @@ Classical Sanskrit eXtended will condemn non-English speakers to keep
 changing font every time they want to revert to commentary in their
 own languages. Would the Anglo-American fraternity be happy with this,
 if the boot were on the other foot?
-
 I dare say the result is effectively a foregone conclusion (unless a
 good number of other Indologists take the same line!), but I would not
 like the above point to be passed over simply by default.
-
 John Richards
 Stackpole Rectory, Pembroke, UK
 jhr at elidor.demon.co.uk
 http://www.elidor.demon.co.uk
-
-
-
-

@@ -1,20 +1,9 @@
-From emstern at VERIZON.NET  Sun Feb 27 19:57:38 2011
-From: emstern at VERIZON.NET (Elliot M. Stern)
-Date: Sun, 27 Feb 11 14:57:38 -0500
-Subject: default reply behaviour (was: curses)
-In-Reply-To: <8CDA4CC1A6E3F9E-4BC-2AD53@webmail-m138.sysops.aol.com>
-Message-ID: <161227091641.23782.15074446687450790813.generated@prod2.harmonylists.io>
-
+default reply behaviour (was: curses)
 Palaniappan,
-
 I sent the reply to Patrick directly, because I included a pdf file created from the GRETIL Unicode version of da?akum?racarita, and felt I needn't share it with all list members. Replying to the list requires little more additional effort than hitting Reply All rather than Reply. I then move the Indology address to the To field, and delete the previous sender's address.
-
 If I recall correctly, the decision to set Reply to the individual was intended to reduce the number of private messages misdirected to the list.
-
 Best wishes,
-
 Elliot
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
@@ -22,54 +11,4 @@ United States of America
 telephone: 215-747-6204
 mobile: 267-240-8418
 emstern at verizon.net
-
-
-
 On 27 Feb  2011, at 2:31 PM, Sudalaimuthu Palaniappan wrote:
-
-> Dominik,
-> 
-> 
-> I would like to point out that in response to Patrick Olivelle's recent query regarding Dandin, no message was posted to the list. But Patrick has received many responses as mentioned by him in his second post. While there may be cases where people might send information offline deliberately, I wonder if any Indologists simply hit 'Reply' and the responses went to Patrick alone and not to the list.
-> 
-> 
-> Regards,
-> Palaniappan
-> 
-> 
-> 
-> -----Original Message-----
-> From: Dominik Wujastyk <wujastyk at GMAIL.COM>
-> To: INDOLOGY at liverpool.ac.uk
-> Sent: Sun, Feb 27, 2011 1:18 pm
-> Subject: Re: [INDOLOGY] default reply behaviour (was: curses)
-> 
-> 
-> On 26 February 2011 22:18, Sudalaimuthu Palaniappan <palaniappa at aol.com>wrote:
-> 
->> 
->> Just now I realized that with the current default reply in the list going
->> to the original poster, the following response I had sent a few days ago did
->> not go to the list.
->> 
-> 
-> Can we review this?  It's a change that was made in the default behaviour of
-> the INDOLOGY list, by popular request last year.  It annoys me a lot, but,
-> unlike Muammar al-Gaddafi, I'm perfectly willing to abide by the will of the
-> majority.
-> 
-> The problem we were trying to solve was private replies to colleagues on the
-> list that inadvertently became public.  Perhaps that is a greater danger
-> than the annoyance of posts not going to the list at all.
-> 
-> How do others feel?  Reply to sender, or reply to list at large?
-> 
-> Best,
-> Dominik
-> INDOLOGY committee member
-> 
-> 
-
-
-
-

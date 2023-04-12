@@ -1,9 +1,4 @@
-From wujastyk at gmail.com  Thu Mar 19 12:17:06 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Thu, 19 Mar 15 13:17:06 +0100
-Subject: [INDOLOGY] Project management software?
-Message-ID: <CAKdt-CfGcF+9CMHsRrumr_idGDeF4PUVM==KxXchFKBZ34yreQ@mail.gmail.com>
-
+[INDOLOGY] Project management software?
 Dear colleagues, is anyone using open-source project management software to
 manage a group of people working together?  I'm thinking of suites like
 Redmine, ToDoYu, qdPM, Admidio and so on.  Most of these products come out
@@ -11,12 +6,5 @@ of the software development community, but as an increasing number of us
 work in the context of funded projects with multiple participants -
 sometimes in different locations - I think one or other of these tools
 could be helpful even to indologists.
-
 Best,
 Dominik Wujastyk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150319/e023602e/attachment.htm>
-

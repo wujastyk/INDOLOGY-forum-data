@@ -1,27 +1,12 @@
-From wujastyk at gmail.com  Sun Mar  3 10:21:59 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sun, 03 Mar 13 11:21:59 +0100
-Subject: [INDOLOGY] Japan link update
-Message-ID: <CAKdt-Cfm7V_NKOp9NftzMhX+iFaH_PpfyFWedCxc5RtbMTEO+Q@mail.gmail.com>
-
+[INDOLOGY] Japan link update
 Dear colleagues,
-
 The link to Osaka University, for George Cardona's Mah?bh??ya files has
 changed to
-
    - http://hin.minoh.osaka-u.ac.jp/cardona/
-
 But although the ?atapatha sound files are there, the Mah?bh??ya text files
 have been removed.
-
 I realize that the text is available via GRETIL, but I would like to ask
 whether anyone knows what has happened to the original files hosted by
 Osaka?
 Best,
 Dominik Wujastyk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130303/bb767287/attachment.htm>
-

@@ -1,15 +1,6 @@
-From gabriele.zeller at ub.uni-tuebingen.de  Wed Jul 31 14:33:41 1996
-From: gabriele.zeller at ub.uni-tuebingen.de (Gabriele Zeller)
-Date: Wed, 31 Jul 96 14:33:41 +0000
-Subject: German libraries
-Message-ID: <161227025458.23782.5745935097704262512.generated@prod2.harmonylists.io>
-
-Date:          Wed, 31 Jul 1996 11:14:15 BST
+German libraries
 Reply-to:      indology at liverpool.ac.uk
-From:          tantrapl at hektor.umcs.lublin.pl (Leslaw Borowski)
-To:            Members of the list <indology at liverpool.ac.uk>
-Subject:       German libraries
-
+      German libraries
 Dear List Members,
 I would like to know how to get access to German libraries via internet. I
 was trying to find some telnet addresses in Hytelnet services but all of
@@ -24,7 +15,6 @@ and "Anthropology and Humanism Quarterly", Dec 1983)
 Could anybody give some suggestions?
 	Thank you in advance
 				Leslaw Borowski
-
 Dear Leslaw and all members of Indology list,
 you find our homepage under http:\\www.uni-tuebingen.de/uni/qub, 
 there are several 'clickable' points, the first one is: EDV-Kataloge 
@@ -42,8 +32,3 @@ Bayerische Staatsbibliothek Muenchen only.
 So much for now, I am glad that I could contribute to the list the 
 first day of my inscription!
 Yours Gabriele Zeller
-
-
-
-
-

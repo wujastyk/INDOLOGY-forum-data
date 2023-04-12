@@ -1,29 +1,8 @@
-From dplukker at inter.nl.net  Wed Apr 19 20:45:52 1995
-From: dplukker at inter.nl.net (dplukker at inter.nl.net)
-Date: Wed, 19 Apr 95 22:45:52 +0200
-Subject: Mahabharata (e-text)
-Message-ID: <161227019180.23782.17158940708688444735.generated@prod2.harmonylists.io>
-
->Evidently, the complete critical edition of the Mahabharata is available 
->from a site somewhere in Japan. Might someone help me to the site address? 
->        Thank you,
->
->        Max Nihom
->
->
+Mahabharata (e-text)
 The digitalized Mahabharata (and Ramayana) by Prof. Muneo
 Tokunaga have been put at the ftp site of the Kyoto Sanggyo Univ.
 by Prof. Michio Yano. I do not know the precise ftp address, but
 you might send an e-mail to:
         yano at cc.kyoto-su.ac.jp 
-
         Dick Plukker
         (India Institute, Amsterdam)
-
-
- 
-
-
-
-
-

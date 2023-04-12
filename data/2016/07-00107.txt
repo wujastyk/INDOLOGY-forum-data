@@ -1,54 +1,5 @@
-From dmellins at gmail.com  Fri Jul 15 12:44:42 2016
-From: dmellins at gmail.com (David Mellins)
-Date: Fri, 15 Jul 16 08:44:42 -0400
-Subject: [INDOLOGY] Unicode Devanagari on Mac
-In-Reply-To: <CAKdt-CeOGdBRRXczpyfd-2WtRx05sjyCqtqbPnssHp-Lo+mWrw@mail.gmail.com>
-Message-ID: <0B094B38-4B99-4F33-9FD7-13E7164A3179@gmail.com>
-
+[INDOLOGY] Unicode Devanagari on Mac
 Yes, This is true, but have you found a convenient way to enter the full range  of diacritica for Romanized Sanskrit without having to resort to Emoji/Latin/favorites inserts? 
-
 This is not the worst thing in the world, but slower than the old Easy Unicode or Dev Unicode keyboards.
-
 David
-
 Sent from my iPhone
-
-> On Jul 15, 2016, at 8:37 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
-> 
-> I'm shocked.  I don't pay much attention to the Mac world, but I've been typing Devanagari into everything on my computer for many years (Linux).  I had no idea that this wasn't possible or easy on a Mac.  Wow.  And the Mac used to be the byword for multilingual support.  I'm glad it's okay now, at least.
-> 
-> Dominik
-> 
-> --
-> Professor Dominik Wujastyk*
-> Singhmar Chair in Classical Indian Society and Polity
-> Department of History and Classics
-> University of Alberta, Canada
-> 
-> ?sas.ualberta.ca?
-> 
-> 
->> On 15 July 2016 at 12:58, Madhav Deshpande <mmdesh at umich.edu> wrote:
->> Dear Indologists,
->> 
->>      To my happy surprise, I found that with the combination of the latest version of Microsoft Office 360 for Mac and the latest Mac Operating System OS X El Capitan, it is now possible to directly enter Unicode Devanagari in a Word document with the Devanagari - QWERTY keyboard layout.  Previously, I had to enter Unicode Devanagari in something like TextEdit and then copy and paste into a Word document, but was not able to edit it in the Word document.  The new development of software has happily changed that situation.  Hope this information will be of use to some of you.  Best,
->> 
->> Madhav Deshpande
->> 
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing committee)
->> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160715/822a479f/attachment.htm>
-

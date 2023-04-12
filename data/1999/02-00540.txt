@@ -1,16 +1,4 @@
-From lengqie at GMX.NET  Sun Feb 28 12:41:26 1999
-From: lengqie at GMX.NET (Petr Mares)
-Date: Sun, 28 Feb 99 13:41:26 +0100
-Subject: Personal attacks on the list
-In-Reply-To: <1.5.4.16.19990228105719.2cb7d15e@hd1.vsnl.net.in>
-Message-ID: <161227047067.23782.1779234717716356721.generated@prod2.harmonylists.io>
-
-> Dominik:
->
->
-> I have noticed that Venkatarama Iyer and Ganesan send postings from two
-> identical IP accounts: 209.223.25.112 and 192.31.86.34.
-
+Personal attacks on the list
 Ip 204.68.140.34 of Venkatarama Iyer translates also like:
 Lockheed-Martin Corporation (LMCO-DOM)
 1401 Del Norte Street
@@ -20,19 +8,11 @@ Administrative Contact, Technical Contact, Zone Contact:
  Lockheed Martin NIC  (LMN-ORG)  lm-nic at LMCO.COM
 303-430-2049
 Fax: 303-657-5789
-
 Regards
-
-
 Petr Mares
 Lengqie Research
 Hlavacova 1163
 182 00, Prague 8
 Czech Republic
 Fax:420-2-2423-9157
-Tel: 420-2-2422-9755
 email: lengqie at gmx.net
-
-
-
-

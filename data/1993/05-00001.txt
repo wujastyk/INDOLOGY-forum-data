@@ -1,19 +1,12 @@
-From CXBG at MUSICA.MCGILL.CA  Tue May  4 12:54:51 1993
-From: CXBG at MUSICA.MCGILL.CA (Brendan S. Gillon)
-Date: Tue, 04 May 93 08:54:51 -0400
-Subject: Bahuvrihi Compounds
-Message-ID: <161227015787.23782.2878583932856789540.generated@prod2.harmonylists.io>
-
+Bahuvrihi Compounds
 The message below is a comment on the a portion of an earlier message
 pertaining to bahuvrihi compounds. The portion reads as follows:
-
       An exocentric compound is one that
       lacks a "head." For example, a bootstrap (ignoring the semantic drift)
       is a kind of strap and a truck driver a kind of driver. Those are
       endocentric compounds. But a pickpocket is not a kind of pocket, nor
       is a lazybones a kind of bone (or a kind of lazyness). These headless
       compounds are exocentric.
-
 Bahuvrihi compounds are compounds, typically of the form Noun Noun or
 Adjective Noun, where the first word can be construed predicatively
 wrt the second; the compound as a whole modifies, in the way an adjective
@@ -23,22 +16,12 @@ possessive suffix -ed: "two-foot-ed", "fair-mind-ed", "even-hand-ed",
 appears in words such as "talented", "bearded".) In many cases, where the
 adjectival compound is used as an epithet or a noun, the -ed suffix,
 the suffix is omissible: e.g., "dim-wit", "heavy weight".
-
 Sanskrit bahuvrihi compounds are just like these compounds, except the
 suffix is phonetically null, though there is the alternative overt suffix -ka.
-
 These compounds are different from "pickpocket". These compounds, numerous
 but not productive in English, were apparently borrowed into English from
 French, where they are very productive. They have the form Verb Noun and
 are paraphrasable as "one who or that which verbs a noun". These compounds
 are themselves nouns, not adjectives, unlike bahuvrihi compounds.
-
 "Pickpocket"-like compounds do occur in Vedic Sanskrit, rarely, and even
 more rarely in Classical Sanskrit.
-
- 
-
-
-
-
-

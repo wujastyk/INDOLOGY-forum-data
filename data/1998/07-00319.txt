@@ -1,22 +1,5 @@
-From mcv at WXS.NL  Thu Jul 30 19:06:49 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Thu, 30 Jul 98 19:06:49 +0000
-Subject: Fortunatov's Law and tolkAppiyar's rules
-In-Reply-To: <199807301748.NAA04272@math.mps.ohio-state.edu>
-Message-ID: <161227041074.23782.2963027276067328135.generated@prod2.harmonylists.io>
-
+Fortunatov's Law and tolkAppiyar's rules
 Vidhyanath Rao <vidynath at MATH.OHIO-STATE.EDU> wrote:
-
->And nobody has even touched .s, the most commonly retroflexed sound in
->Sanskrit. I see no way of getting there from s-hacek.  And why would
->Dravidian, with prominent lack of sibilants in the earliest stages
->lead to a split in sibilants? I am yet see any one pick up this
->gauntlet.
->
->In sum, it is quite premature to assume that Dravidian origin of
->retroflexes is established fact. If you have not explained .s, you have
->explained nothing about the origin of retroflexes in IA.
-
 Certainly the development of <s^> (Ascii-IPA [S]) out of PIE *s after
 <i>, <u>, <r>, <k> has nothing to do with Dravidian, as it also
 happened in Iranian, Slavic, Baltic and possibly Armenian.  The
@@ -30,20 +13,12 @@ fricative) [except when palatalized] instead.  In Baltic RUKI /s^/
 was allowed to merge with /s^/ < *k^.  In Iranian *k^ appears as /s/,
 presumably by way of k^ > c^ ("ch") > c ("ts") > s [without a stage
 as s^].   In tabular form:
-
         *s^ (RUKI)  *k^ (SATEM)
 Skt.    s.          s'
 Iran.   s^          s < c
 Slav.   x           s < s^
 Balt.   s^          s^
-
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

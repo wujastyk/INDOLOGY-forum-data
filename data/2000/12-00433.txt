@@ -1,15 +1,9 @@
-From cssetzer at MUM.EDU  Wed Dec 20 19:47:49 2000
-From: cssetzer at MUM.EDU (Claude Setzer)
-Date: Wed, 20 Dec 00 13:47:49 -0600
-Subject: codes
-Message-ID: <161227065724.23782.15160158178278730028.generated@prod2.harmonylists.io>
-
+codes
 I am not sure if this is what you are asking, but there is one thing used
 very extensively, that is a small circle superscript that indicates a word
 (assumed known by the reader) precedes the following text. Monier Williams
 and Kane's History of Dharma Shastra also use codes/abbreviations
 extensively, and you can find them listed there.
-
 There are also "key" technical words used in virtually every branch of
 literature that have specific unique meanings for that piece of literature,
 just as you find in technical literature in English. Perhaps one of the
@@ -18,22 +12,6 @@ literature referring to specific things assumed known by the reader. This is
 quite different than a more "spoken" type of language that has extensive
 literature like newspapers and novels where there is kind of "general"
 vocabulary that almost everyone knows.
-
 Claude Setzer cssetzer at mum.edu
-
------ Original Message -----
-From: "leona anderson" <leona.anderson at UREGINA.CA>
-To: <INDOLOGY at LISTSERV.LIV.AC.UK>
 Sent: Wednesday, December 20, 2000 3:29 PM
-Subject: codes
-
-
-> I am doing some research on the use of codes in the Indian
-> subcontinent and would appreciate any information on
-> codes/cryptography/ciphers,  etc as found in Sanskrit literature.
-> many thanks, leona anderson
->
-
-
-
-
+codes

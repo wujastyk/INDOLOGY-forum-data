@@ -1,46 +1,25 @@
-From ucgadkw at ucl.ac.uk  Mon Jul 17 15:16:47 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Mon, 17 Jul 95 15:16:47 +0000
-Subject: Fonts and Copyright
-Message-ID: <161227020049.23782.3202726542916623169.generated@prod2.harmonylists.io>
-
-
+Fonts and Copyright
 The situation regarding fonts and copyright isn't really complicated.
 If someone copyrights a font then no one else may copy that font without
 permission.   Usually, permission is granted to copy the font from its
 installation disk for use on a single computer (CPU), just like with all
 software.  Beyond that, anyone who wants a copy of the font must buy it
 from the copyright holder or her agents.
-
 If you make a variant form of a copyrighted font that exists on your
 computer system you may not distribute it any more than you can
 distribute the unmodified form.
-
 The only fonts that may be distributed freely are fonts that are
-
 a) not copyrighted (often home-made and poor quality);
-
 b) fonts that are copyrighted but which have been made available free of
    charge by the copyright holder.  Such fonts include Bitstream Charter
    and Adobe Utopia, and the famous Computer Modern family of fonts by
    Donald Knuth.  
-
    There is a small number of other professional fonts that have been
    donated to the public by their manufacturers, but these fonts are
    usually not distributed as a complete set of styles (i.e., only bold,
    or normal and bold but no italic, etc.).
-
 The creative effort that goes into the design and production of a
 professional-quality font is very substantial; easily equivalent to
 writing a book.  Like a book, the final design is protected by
 copyright.
-
 Dominik
-
-
- 
-
-
-
-
-

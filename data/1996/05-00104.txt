@@ -1,21 +1,8 @@
-From kellner at ipc.hiroshima-u.ac.jp  Tue May  7 08:54:48 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Tue, 07 May 96 17:54:48 +0900
-Subject: Q: Appeal font users, please ...
-Message-ID: <161227024326.23782.1815683749385180742.generated@prod2.harmonylists.io>
-
+Q: Appeal font users, please ...
 I would like to know whether anyone out there successfully uses IZIRB's
 APPEAL.TTF for Windows 3.1 with Winword 6.0. To me, it seems that (at least
 Japanese) Winword is unable to access some of the characters, in particular
 the visarga, because they occupy rather curious ANSI-positions. 
-
 If anybody should know a solution to this (I know, I could juggle around
 characters with Fontographer again, but I am getting sick and tired of
 this), please contact me via private e-mail. 
-
-
-
-
-
-
-

@@ -1,47 +1,14 @@
-From christophe.vielle at uclouvain.be  Mon Jun 27 20:54:06 2016
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Mon, 27 Jun 16 22:54:06 +0200
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_kha=E1=B9=87=E1=B8=8Da-_and_da=E1=B9=87=E1=B8=8D=C4=81nvaya?=
-In-Reply-To: <739F78CD-3708-40E3-AD06-95311070D9DD@googlemail.com>
-Message-ID: <7BC3C2B7-6608-4F49-AA7D-1A6FF867E41F@uclouvain.be>
-
+=?utf-8?Q?Re:_[INDOLOGY]_kha=E1=B9=87=E1=B8=8Da-_and_da=E1=B9=87=E1=B8=8D=C4=81nvaya?=
 Dear Andrey,
-
 when I came across such a statement in secondary literature I wondered also what could be the precise Sanskrit source attributing to M?m??s? or Ny?ya, respectively, these two types/methods of (k?vya) commenting (more precisely, of re-establishing the natural/prose syntactical order of the words in the sentence, either "by sections"/syntagmatically?, or ?"by line"?). 
 In the kha???nvaya method, the verb is taken first, ad then, in respect of cases, questions are asked ; so, through the successive questions, the prose order of the verse is drawn. In the da???nvaya method (followed e.g. by Mallin?tha), the subject is taken first and the prose order of the verse is logically drawn without including questions.
 Maybe this attribution is based on the fact that in the first case there is a prevalence of "questioning" which looks a bit like the (P?rva and Uttara-)M?m??s? traditional dialectic method of adhikara?a (used for commenting the s?tra's),  whereas in the second case it would be considered like a purely logical (naiy?yika) way of operating. 
 It is a mere supposition because only the sa??aya expression is marked by questions in the adhikara?a, the definition of which is found in the following stray verse (found with variants) something attributed to Kum?rila :
 vi?ayo sa??aya? caiva  p?rvapak?as tathottaram |
-
 nir?aya? ceti pa?c??ga?  ??stre ?dhikara?a? sm?tam ||
-
 Best wishes,
 Christophe Vielle
-
 Le 27 juin 2016 ? 16:33, Andrey Klebanov <andra.kleb at gmail.com> a ?crit :
-
-> Dear members of the list, 
-> 
-> in some articles (S. Pollock?s 2015? contribution to the ?World Philology? volume, or N.V.P. Unithiri's 2002? article ?The Commentarial Literature in Sanskrit?) I read that the commentarial styles of da??a- and kha???nvaya- stem from (the linguistic theories? textual history? of) ny?ya- and m?m??s? respectively. As far as at least the the linguistic theories go (I talk of their ??bdabodha-aspect now), I don?t see any compulsive reason for this strict differentiation.
-> I wonder if anyone could help me out with any further reference or, perhaps, a missing piece of common knowledge that would explain or corroborate the above statement. 
-> 
-> Thank you very much in advance, 
-> 
-> best, 
-> Andrey 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
 ???????????????????
 Christophe Vielle
 Louvain-la-Neuve
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160627/3fe17842/attachment.htm>
-

@@ -1,24 +1,14 @@
-From shayne.clarke at YAHOO.CA  Fri Sep  8 15:52:43 2006
-From: shayne.clarke at YAHOO.CA (shayne clarke)
-Date: Fri, 08 Sep 06 11:52:43 -0400
-Subject: Sanskrit diactitics in Endnote
-In-Reply-To: <010601c6d32a$58365240$6271d154@Winston>
-Message-ID: <161227078275.23782.5253940826043355254.generated@prod2.harmonylists.io>
-
+Sanskrit diactitics in Endnote
 There is no problem using Sanskrit diacritics in Endnote (at least  
 not on a Mac). Problems may arise, however, if you are downloading  
 records from the Library of Congress or any other library catalog  
 that goes through the LoC gateway. It seems that the LoC gateway does  
 not yet support UTF-8.
-
 Two alternatives to Endnote that may be of use to Mac users are  
 Bookends and Sente. Both of these handle Sanskrit (and other CJK)  
 diacritics with ease, and are much cheaper than Endnote.
-
 Kindest regards,
 Shayne Clarke
--------------------
-
 Department of Religious Studies
 McMaster University
 University Hall, Room 104
@@ -29,7 +19,3 @@ CANADA
 Phone: 905 525 9140, ext. 23389
 Fax: 905 525 8161
 clarsha[at]mcmaster.ca
-
-
-
-

@@ -1,12 +1,6 @@
-From tyler.g.neill at gmail.com  Wed May 19 20:35:32 2021
-From: tyler.g.neill at gmail.com (Tyler Neill)
-Date: Wed, 19 May 2021 16:35:32 -0400
-Subject: [INDOLOGY] =?utf-8?q?hack_for_searching_Apte_1957=E2=80=9359_=28?=
+[INDOLOGY] =?utf-8?q?hack_for_searching_Apte_1957=E2=80=9359_=28?=
 	=?utf-8?q?Rev=2E_and_Exp=2E=29_online_in_IAST?=
-Message-ID: <CADbR+Y_p6HGwQ7YoWnmZ9ZfS5WMquQGmSSZTpHxCfRDvXOJGFw@mail.gmail.com>
-
 Dear all,
-
 I thought I would share this online dictionary hack I implemented today. If
 you enter this URL...
 skrutable.pythonanywhere.com/ChicagoApteIAST?query=r?m
@@ -14,7 +8,6 @@ skrutable.pythonanywhere.com/ChicagoApteIAST?query=r?m
 can search Chicago's version of Apte Practical Sanskrit Dictionary 1957?59
 (Revised and Expanded) by typing in IAST. I personally like to use this in
 combination with Chrome's "custom search engine" functionality, for example.
-
 Gory details:
 The reason I had to implement this is that both the Cologne and Chicago
 dictionary websites have recently made changes that, as far as I can tell,
@@ -35,16 +28,9 @@ without the outer frame like this
 note Apte 1957?59 still available there ? and because it doesn't support
 "starts with"-style output, instead privileging manual choice of full
 lemmata from the search bar autocomplete dropdown.
-
 If anyone else understands the situation differently, I'd be keen to know.
 Also please let me know if you're interested in seeing this work
 differently somehow.
-
 Kind regards,
 Tyler
-
 <http://skrutable.pythonanywhere.com/ChicagoApteIAST?query=kart>
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210519/c289cabb/attachment.htm>
-

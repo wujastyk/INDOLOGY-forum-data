@@ -1,11 +1,5 @@
-From tlk at MATH.KU.DK  Thu Jun 24 12:42:20 1999
-From: tlk at MATH.KU.DK (Toke Lindegaard Knudsen)
-Date: Thu, 24 Jun 99 14:42:20 +0200
-Subject: Chandogya Upanisad -- mathematics and ritual
-Message-ID: <161227050929.23782.5145534130433810680.generated@prod2.harmonylists.io>
-
+Chandogya Upanisad -- mathematics and ritual
 Dear list-members,
-
 I am doing research on the Sulbasutras of ancient India and I am
 interested in the connection between ritual and mathematics in the
 Vedic times (for example if mathematics has a ritual origin as
@@ -18,7 +12,6 @@ ritual."  There seems to be made a distinction here, i.e. that
 mathematics has a status of a science separate from ritual and not
 a tool used in ritual (for example geometry used for altar
 constructions as indicated in the Sulbasutras).
-
 However, I do not read sanskrit, nor do I have an edition of
 Chandogya Upanisad with transliterated text.  Can anyone help me
 with what exact words are used for "mathematics" and "the
@@ -26,15 +19,8 @@ science of ritual" in the above-mentioned verse?  I am interested in
 knowing whether the word in the text indicates a branch of
 mathematics (say, arithmetic or geometry) rather than
 mathematics in general.
-
 What is the dating of the Chandogya Upanisad?
-
 Thank you very much.
-
 Sincerely,
 Toke Lindegaard Knudsen
 tlk at math.ku.dk
-
-
-
-

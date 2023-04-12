@@ -1,16 +1,5 @@
-From hwtull at MSN.COM  Mon Jun 25 04:45:40 2007
-From: hwtull at MSN.COM (Herman Tull)
-Date: Sun, 24 Jun 07 18:45:40 -1000
-Subject: Wikipedia Logo
-Message-ID: <161227080699.23782.14999617099858659395.generated@prod2.harmonylists.io>
-
+Wikipedia Logo
 The NY Times reports today (6/25) that "In postings on internal mailing groups, users of Wikipedia have described obvious mistakes in the design, a globelike jigsaw puzzle with characters from various languages on the pieces. Two of the characters - one in Japanese and one in Devanagari, the script used in Sanskrit and several modern Indian languages - are meaningless because of minor slips." http://www.nytimes.com/2007/06/25/technology/25wikipedia.html?ref=technology<http://www.nytimes.com/2007/06/25/technology/25wikipedia.html?ref=technology>
-
 A quick look at the logo shows that the error is in the vowel sign, long "i", which in the logo appears after the consonant "v".  Funny, because this, of course, is the mistake beginning students typically make in their devanagari writing exercises.
-
 Herman Tull
 Princeton, NJ
-
-
-
-

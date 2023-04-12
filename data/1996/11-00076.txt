@@ -1,8 +1,4 @@
->???From 101621.104 at CompuServe.COM 08 96 Nov EST 15:56:05
-Date: 08 Nov 96 15:56:05 EST
-From: Anthony P Stone <101621.104 at CompuServe.COM>
-Subject: Uniform transliteration of Brahmic scripts
-
+Uniform transliteration of Brahmic scripts
 After this summer's discussion on this list and with the expectation of 
 further discussion at Bangalore in January (at which I can't be present), 
 here is a _brief_ presentation of four *tentative* transliteration 
@@ -10,20 +6,16 @@ schemes, for different purposes. They are largely based on existing
 schemes.  I am grateful to Leslaw Borowski, P D ("Das") Menon, and 
 Dominik Wujaskyk for input of various sorts; the shortcomings of the 
 schemes are my own.
-         
                  = Draft 0.2 dated Nov 8, 1996 =  
-
 SCRIPTS covered: Assamese, Bengali, Devanagari (+ extensions), Grantha, 
 Gujarati, Gurmukhi, Kannada, Malayalam, Oriya, Tamil, Telugu.  
 The question of what belongs to what script is not considered in detail. 
-
 Transliteration SCHEMES:
    P. for print, using the full resources of fonts/type;
 Computer storage using 7-bit coding (ISO/IEC 10646, IRV):
   C1. Case insensitive coding (stressing elegance);
   C2. Case sensitive coding (stressing economy);
 also variations for use on a typewriter.  
-
 NOTATION for Latin characters with diacritical marks: If L stands for any 
 Latin letter and A, B, C, D stand for any diacritics, the expression   
  L(A/B)   denotes the letter L with diacritic A above and B below it, and 
@@ -36,67 +28,52 @@ Marks which cannot be typed in 7-bit ascii are:
       ss = small semicircle open upwards [usual short vowel sign]
       cb = candrabindu
       at = acute accent
-
 NOTES are at the end.
 ===
 P:  a a(-/)i i(-/) u u(-/) r(/o) r(-/o) l(/o) l(-/o) e(ss/) e  ai o(ss/)   
 C1: a aa   i ii    u uu    r`    r#     l`    l#     :e     e  ai :o     
 C2: a A    i I     u U     r`    R`     l`    L`     e      E  ai o (1)
-------
 P:  o au      e(^/) o(^/)       Mal half-u:    u(ss/)
 C1: o au      ^e    ^o                         :u 
 C2: O au      ^e    ^o (2)                     :u 
-------
   visarga ardhavisarga jihvamuliya upadhmaniya  Tam aytam 
 P:  h(/.)     h(./)        h(/-)       h(/..)      k(/-) 
 C1: .h        ;h           _h          :h          _k 
 C2: H         ;h           _h          :h (3)      K (4) 
-------
    anusvara  anunasika    Tel ardhanusvara
 P:  m(./)     m(cb/)         n(-/)
 C1: .m        =m             -n    
 C2: M         =m             -n                  
-------
 P:  k      kh      g      gh      n(./)      
 C1: k      kh      g      gh      ;n      
 C2: k      kh      g      gh      G
-------
 P:  c      ch      j      jh      n(~/)      
 C1: c      ch      j      jh      ~n    
 C2: c      ch      j      jh      J 
-------
 P:  t(/.)  t(/.)h  d(/.)  d(/.)h  n(/.)    r(/.) r(/.)h   l(/.)  
 C1: .t     .th     .d     .dh     .n       .r    .rh      .l 
 C2: T      Th      D      Dh      N        R     Rh       L (5)
-------
 P,C1,C2:
     t      th      d      dh      n
     p      ph      b      bh      m
     y      r       l      v  (6)  
-------       
 P:  y(/.)      r(^/)      s(at/)  s(/.)  s    h    
 C1: .y         ^r         ;s      .s     s    h    
 C2: Y (7)      ^r (8)     C       S      s    h
-------
 Dravidian: velar fricative      alveolars
 P:              z(/.)          r(/-)  n(/-) 
 C1:             .z             _r     _n  
 C2:             z              _r     _n 
-------
 P:       k(/.)  k(/.)h  g(/.)  j(/.)  p(/.)h     
 C1, C2: .k     .kh     .g     .j     .ph      
-------
 P,C1,C2:   1 2 3 4 5 6 7 8 9 0 
-------
 Accents:          Udatta, stress accent  Svarita  Anudatta
 P: (over vowel)          (at/)           ('/)        (`/) 
 C1, C2: (after vowel)      /              |            \   
-------
 Other signs in the original text:
   avagraha, apostrophe   omitted character      
 P:     apostrophe         mult. sign           
 C1,C2:     '              X                    
-------
 Other signs not in the original text:
    ambiguous vowel  hyphen at   end of line  word abbreviated at    
    hiatus           line break  in original  beginning or end
@@ -104,11 +81,9 @@ P:       _             hyphen       /             (o/)
 C1,C2:   _               --         /              - 
 ===
 VARIATIONS for use with a typewriter:
-
 ^    ~     `     |    \    #
 *    ?     !     %    &    $ (or pound sign or !!)         
 ===
-
 NOTES
 (1):e, :o are the short Dravidian vowels.
 (2)^e, ^o are 'new' Dev vowels, used (e.g.) for English words.
@@ -120,11 +95,4 @@ NOTES
    but Ori has a separate v (pronounced /w/) for Urdu and English words.
 (7)Ass, Ben, Ori.  
 (8)Mar reph.
-
 Tony Stone
-
-
-
-
-
-

@@ -1,9 +1,4 @@
-From naga_ganesan at HOTMAIL.COM  Sat Jan  8 16:06:32 2000
-From: naga_ganesan at HOTMAIL.COM (N. Ganesan)
-Date: Sat, 08 Jan 00 08:06:32 -0800
-Subject: Vital Statistics
-Message-ID: <161227055051.23782.3403453237166944132.generated@prod2.harmonylists.io>
-
+Vital Statistics
 Just like decimal-place notation, factors like efficiency,
 simplicity, and worldwide application are neeeded for writing. The
 world space is shrinking day by day. The simplicity of the roman
@@ -18,31 +13,23 @@ across the Globe" It says: "The extensive spread of that writing
 system which was once the script of Rome is quite remarkable." In
 most places in Americas, Europe, Africa, Australia, and in many
 nations of Souteast Asia.
-
 One option is Harvard-Kyoto convention for Sanskrit or Hindi:
-
                    a A i I u U R RR lR lRR e ai o au M H
                           k kh g gh G c ch j jh J
                           T Th D Dh N t th d dh n
                         p ph b bh m y r l v z S s h
-
 The other choice is diacriticals and, it is wrong to say that
 we need to put diacriticals all over - they are needed mainly
 for vowels to retain Indian phonology. The Indian sounds will
 *not* suffer if the phonological rules are taught along with a
 latin script. As roman is Dominance-neutral in India, it will
 integrate more and more.
-
 Regards,
 N. Ganesan
-
--------------------------
-
 In that case you are just talking about what would largely be a font
 change from nagari to roman making use of 26*2 roman characters
 ( including caps). There would be some who would miss the cursive or
 pretty indian scripts.
-
 The bigger problem would be that with the prepoderence of english in
 India, the roman alphabet will be taught along with all the associated
 complex spelling rules of english which gives speakers subconscious
@@ -51,12 +38,5 @@ difficult for many of them to mimic or pronounce non english words
 unless they are close matches or rhyming words in english. There is a
 danger of phonological aspect of Indian grammars being brushed aside
 if roman alphabets are made the norm.
-
 More about place value notation when I have time
----------------------------
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

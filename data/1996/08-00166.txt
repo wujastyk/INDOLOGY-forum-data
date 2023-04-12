@@ -1,21 +1,5 @@
-From vidya at cco.caltech.edu  Tue Aug 27 21:34:45 1996
-From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
-Date: Tue, 27 Aug 96 14:34:45 -0700
-Subject: South East Asian Scripts
-Message-ID: <161227025816.23782.11923110138901199401.generated@prod2.harmonylists.io>
-
-
-
+South East Asian Scripts
 On Tue, 27 Aug 1996, John Richards wrote:
-
-> I have seen it suggested that the Indic alphabets used in South
-> East Asia (Khmer, etc.) are derived from the Grantha or southern Indian
-> script, not the Devanagari or northern Indian script.
-> 
-> If that is so, I'm wondering who used the Grantha script, e.g. were they
-> Indo-Aryan or Dravidian types?  Did they use it to write Sanskrit and 
-> Pali?
-
 A script called Grantha is used in the Tamil regions for writing Sanskrit.
 The Kannada, Telugu and Malayalam speaking regions don't use Grantha,
 because their own scripts can transcribe Sanskrit and Pali quite well.
@@ -27,20 +11,7 @@ consonant values in Sanskrit. I'm not sure when the Grantha script was
 developed, but its use was probably confined to the south. It is likely
 that Grantha derived from the vaTTazhettu that was used earlier all
 over the south. 
-
-> 
-> The SE Asian countries have borrowed a lot of Sanskrit as well as Pali 
-> vocabulary, so one must wonder in what script it came to them.
-> 
-
 Depends on who brought Sanskrit or Pali to them and when, no? If the Indic
 influence was mainly from southern India, as with Thailand or Malaysia, 
 there is a high probablity that it did not come in the nAgari script. 
-
 S. Vidyasankar
-
-
-
-
-
-

@@ -1,58 +1,11 @@
-From pwyzlic at uni-bonn.de  Fri Aug 22 17:23:50 2014
-From: pwyzlic at uni-bonn.de (Peter Wyzlic)
-Date: Fri, 22 Aug 14 19:23:50 +0200
-Subject: [INDOLOGY] Origin of the term "Indology"
-In-Reply-To: <82C3E42590D939418C74DD76B97DDED037481216@xm-mbx-04-prod.ad.uchicago.edu>
-Message-ID: <F51BEB52-EE84-442B-82A3-D8792283A619@uni-bonn.de>
-
+[INDOLOGY] Origin of the term "Indology"
 Dear all,
-
 if you take Google's ngram research tool (that takes the materials at Google Books as basis) and look for "indianisme", "indologie", "?tudes indiennes" with search options "Language=French", "Date Range=1800-2000" you get the following graph:
-
-URL: <http://goo.gl/8bAhmd>
-
 So, in the majority of sources the red line with "indianisme" prevails. Of course, Google's text recognition isn't perfect, and it may occur that the language is wrongly assigned. But it shows a trend, nevertheless. You may click at the date ranges at the bottom to view the links in Google Books where the search terms can be located.
-
 All the best
-
 Peter Wyzlic
-
---
 Institut f?r Orient- und Asienwissenschaften
 Bibliothek
 Universit?t Bonn
 Regina-Pacis-Weg 7
 53113 Bonn
-
-> Am 22.08.2014 um 18:07 schrieb Matthew Kapstein <mkapstei at uchicago.edu>:
-> 
-> David Smith has asked that I post the following on his behalf:
-> 
-> A quick look at gallica.bn.fr shows that in the Mercure de France, 15 May 1925, P. Masson-Oursel, in a section headed "Indianisme", notes in a footnote to p. 250 that the death of F. Lac?te is "une perte cruelle pour l'indologie".
-> 
-> David Smith
-> Retired Reader in South Asian Religions
-> Lancaster University
-> UK
-> d.smith at lancaster.ac.uk
-> 
-> 
-> 
-> Matthew Kapstein
-> Directeur d'?tudes,
-> Ecole Pratique des Hautes Etudes
-> 
-> Numata Visiting Professor of Buddhist Studies,
-> The University of Chicago
-> 
-> ___________
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140822/d03d865e/attachment.htm>
-

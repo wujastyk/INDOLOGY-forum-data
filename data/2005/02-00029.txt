@@ -1,41 +1,24 @@
-From asg at U.WASHINGTON.EDU  Sat Feb  5 07:19:07 2005
-From: asg at U.WASHINGTON.EDU (Andrew Glass)
-Date: Fri, 04 Feb 05 23:19:07 -0800
-Subject: diacritics
-Message-ID: <161227075866.23782.11786894907042240589.generated@prod2.harmonylists.io>
-
+diacritics
 It is not necessary to have one font that renders both Devanagari and
 diacritics in Latin text. What is necessary is to have a web browser
 which can identify the different script sequences and use an appropriate
 font.
-
 I would recommend using Mozilla's Firefox to achieve this:
       http://www.mozilla.org/
-
 If it is not already set up for you, you can adjust the font properties
 to suit your choice of devanagari and diacritical fonts.
-
 Tools > Options > Fonts & Colors
       Fonts for: Unicode (e.g., Arial Unicode; Gandhari Unicode )
       Fonts for: Devanagari (e.g., Mangal)
-
 If you need help locating a Devanagari font David McCreedy's page may be
 helpful:
      http://www.travelphrases.info/gallery/Fonts_Devanagari.html
-
 Once the fonts are specified, one can visit Wikipedia, and with a little
 luck, see both Devanagari and diacritics rendered correctly:
-
 For example:
       http://students.washington.edu/asg/images/wikipedia.jpg
 Which shows a screen shot of this page:
 http://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4
-
 While this screen shot was made using Firefox for the PC, the same
 effect is equally be possible on Mac and Linux.
-
 Andrew
-
-
-
-

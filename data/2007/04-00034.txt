@@ -1,10 +1,4 @@
-From phmaas at ARCOR.DE  Mon Apr  9 10:07:31 2007
-From: phmaas at ARCOR.DE (Philipp Maas)
-Date: Mon, 09 Apr 07 12:07:31 +0200
-Subject: AW: Squiggly Underline in Critical Editions
-In-Reply-To: <8702866C-632D-42AB-8C88-C03F3B94B4C0@brown.edu>
-Message-ID: <161227079898.23782.875010585094023807.generated@prod2.harmonylists.io>
-
+AW: Squiggly Underline in Critical Editions
 Dear Colleagues,
 the Classical Text Editor written by Stefan Hagel
 (http://www.oeaw.ac.at/kvk/cte/) produces three differently designed
@@ -13,26 +7,15 @@ the lines is freely definable. These are just two out off many features
 which make this programme - which unfortunately is not for free - highly
 recommendable. You can download a free copy and try it for a period of 30
 days.
-
 I have used the programme (and its squiggly underlines) in my edition of the
 Paatanjalayoga;saastra's Samaadhipaada (sample pages also at
 http://www.oeaw.ac.at/kvk/cte/).
-
 Concerning the question of character definition, I agree with Stefan and
 Birgit, I see no necessity to include any form of underlining.
-
 Regards,
-
 Philipp Maas
-
-
 Dr. Philipp A. Maas
 Austrian Academy of Sciences,
 Institute for the Cultural and Intellectual History of Asia &
 Department of Indology,
 Institute for Oriental and Asian Studies, University of Bonn, Germany
-Tel. XX49/(0)211/665484
-
-
-
-

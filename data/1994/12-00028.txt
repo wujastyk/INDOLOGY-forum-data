@@ -1,14 +1,5 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Tue Dec 13 23:44:04 1994
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Wed, 14 Dec 94 08:44:04 +0900
-Subject: Vastusastra
-Message-ID: <161227017972.23782.4740423891732753610.generated@prod2.harmonylists.io>
-
+Vastusastra
 to Jim Hartzell's question:
-
->Could anyone provide me with some references on Vastu-sastra?
->The term has come up in the context of an Ayurveda discussion,
-
 One of the best source materials is Varaahamihira's 
 BRhatsamhitaa Chapter 52 'Vaastuvidyaa-adhyaaya' (in 
 Srasvatii Bhavan Granthamaalaa Vol.97) of which several
@@ -16,17 +7,8 @@ English translations are available.  I have digitalized
 the whole text of the BRhatsamhitaa and it is already on
 the net.  Recently we have placed the updated version of
 the e-text at the following ftp site.
-
 ccftp.kyoto-su.ac.jp
-
 pub/doc/sanskrit/brhatsamhita/bs.Z
-
 Michio YANO
 Kyoto Sangyo University
 yanom at cc.kyoto-su.ac.jp
- 
-
-
-
-
-

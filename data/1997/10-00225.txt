@@ -1,53 +1,13 @@
-From roheko at CLASSIC.MSN.COM  Mon Oct 27 21:12:19 1997
-From: roheko at CLASSIC.MSN.COM (Rolf Heinrich Koch)
-Date: Mon, 27 Oct 97 21:12:19 +0000
-Subject: VBA Modul 2
-Message-ID: <161227033290.23782.12159720485997040515.generated@prod2.harmonylists.io>
-
+VBA Modul 2
 Please start with the readme file
-
-
------Urspr?ngliche Nachricht-----
 Von:    Indology  im Auftrag von Johnson, Dave
 Gesendet am:    Dienstag, 7. Oktober 1997 14:33
 An:     INDOLOGY at LISTSERV.LIV.AC.UK
 Betreff:        Re: VBA Modul Devanagariconverter is ready!
-
 Could I please receive a copy of this module?
-
 Thank you,
 David Johnson
 dcjohnson at auburn.mec.edu
-
-> -----Original Message-----
-> From: Rolf Heinrich Koch [SMTP:roheko at CLASSIC.MSN.COM]
-> Sent: Sunday, October 05, 1997 7:11 PM
-> To:   INDOLOGY at LISTSERV.LIV.AC.UK
-> Subject:      VBA Modul Devanagariconverter is ready!
->
-> Hi, since a lot of you shows interest in the WINWORD97
-> Visual-Basic-Application program for converting romanized transcribed
-> texts
-> into Devanagari: the Modul is ready. You get it free including two
-> fonts. In
-> reverse please mail me each bug.
-> Okay? You need: Basic knowledge of VBA, WINDOWS95 and preferable
-> WINWORD97.
-> Writing any text you just choose in WINWORD some lines of texts you
-> liked to
-> be converted. Then you call the macro-programm. After some seconds the
-> part of
-> text you choosed will be in devanagari mode.
-> The modul covers several pages, so please contact me with email. You
-> will get
-> a zip-file which includes 4 files: the code, a readme-file and two
-> truetype-fonts.
-> N o   M a c i n t o s h
-> Good luck
-> Heiner
-> Email: roheko at classic.msn.com
-
-
 begin 600 VBADEV2.ZIP
 M4$L#!!0````(`*>N6R/XB016TPL``)<[```*````1$560TY6+E185.6;VV\<
 M5QW'G['D_V$UM"11B^NUUVL[:E =Y]KF1IPV#0^(S>[$N_9ZU^Q.;D6\@,1#
@@ -3745,7 +3705,3 @@ M```DJ@``"P``````````````MH%F)@(`5$%(3TU!0BY45$902P4&``````<`
 ,!P",`0``DX<"````
 `
 end
-
-
-
-

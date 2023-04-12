@@ -1,35 +1,19 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Thu Jan 28 04:22:12 1999
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Wed, 27 Jan 99 22:22:12 -0600
-Subject: Special Characters & Unicode
-In-Reply-To: <Pine.GSO.3.96.990107140731.1693A-100000@gwis2.circ.gwu.edu>
-Message-ID: <161227045731.23782.17207052052455391657.generated@prod2.harmonylists.io>
-
+Special Characters & Unicode
 I know that someone on this list, sometime ago, mentioned a website where
 the hexidecimal valus for a + acute, u+ umlaut, etc. could be easily
 found-- and of course, one can dig through www.w3.org, but I recall a
 nicer, easier to navigate location with the expressed purpose of
 presenting this esoterica to those of us toiling in the code pits.
-
 Thanks in advance.  Gosh, remember when the only topic we used to get
 snippy and tired of was character coding?  Them's was the days . . . .
-
 jrg
-
-__________________________
 John Robert Gardner
 Project Coordinator
 Electronic Thesis and Dissertation Project
 http://vedavid.org/xml/
-____________________________________________________
 Obermann Center         &    The Graduate College
   for Advanced Studies
                The University of Iowa
-____________________________________________________
 "It is ludicrous to consider language as anything
  other than that of which it is the transformation"
                                   - So'ham asmi
-
-
-
-

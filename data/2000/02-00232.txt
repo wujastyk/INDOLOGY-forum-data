@@ -1,11 +1,5 @@
-From athr at LOC.GOV  Thu Feb 24 20:02:07 2000
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 24 Feb 00 15:02:07 -0500
-Subject: Naamasa.mgiiti.tiikaa
-Message-ID: <161227056078.23782.3939848963381743414.generated@prod2.harmonylists.io>
-
+Naamasa.mgiiti.tiikaa
 Might he mean one of these?:
-
 LC Control Number:       73901235 
 Type of Material:        Book (Print, Microform, Electronic, etc.)
 Personal Name:           Vimalamitra, 8th cent.
@@ -22,13 +16,11 @@ Notes:                   Includes fabricated Sanskrit titles in La?ca and Tibeta
                          "Slob-dpon Bi-ma-la-mi-tras mdzad nas thugs kyi sras
                             =Nan-tin-'dzin gyis ?zus pa'o.  G=nags Dz=n*a-nas bsgyur
                             ba'o."--p. [175].
-
 Subjects:                Tripitaka. S*utrapitaka.  Ma?ju?sr*in*amasang*iti
                             --Commentaries.
 LC Classification:       BQ2240.M355 V55 1972
 Language Code:           tibsan
 CALL NUMBER:             BQ2240.M355 V55 1972 Tib
-
 LC Control Number:       78906065 
 Type of Material:        Book (Print, Microform, Electronic, etc.)
 Personal Name:           Dpa'-bo-rdo-rje, Grub-chen.
@@ -54,23 +46,12 @@ Subjects:                Vimalamitra, 8th cent.  Ma?ju?sr*in*amasang*it*i.
                          Ma?ju?sr*i--Cult--Tibet.
 LC Classification:       BQ4710.M44 T52 1977
 CALL NUMBER:             BQ4710.M44 T52 1977 Tib
-
-
 Allen Thrasher
-
-
-
 Allen W. Thrasher, Ph.D.
-
 Senior Reference Librarian       101 Indendence Ave., SE
 Southern Asia Section               LJ-150
 Asian Division                            Washington, DC 20540-4810
 Library of Congress                     U.S.A.
 tel. 202-707-3732                       fax 202-707-1724
 Email: athr at loc.gov
-
 The opinions expressed do not necessarily represent those of the Library of Congress.
-
-
-
-

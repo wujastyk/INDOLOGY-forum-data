@@ -1,38 +1,12 @@
-From diegoloukota at ucla.edu  Wed Dec  1 15:18:08 2021
-From: diegoloukota at ucla.edu (DIEGO LOUKOTA SANCLEMENTE)
-Date: Wed, 1 Dec 2021 07:18:08 -0800
-Subject: [INDOLOGY] OCR for sanskrit transliteration
-In-Reply-To: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
+[INDOLOGY] OCR for sanskrit transliteration
 References: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
-Message-ID: <CAPwhWdvF3fm6aTL27eNnFvsgSuJ5DpXyP6=XopkmQMTexKA3_g@mail.gmail.com>
-
   Dear Harry,
-
   Something I do (not perfect) is taking the digital Devanagari text and
 input it to Google Translate set to Nepali. The phinetic transcription
 yields tolerable IAST text with some quirks that can be easily fixed with
 the "replace all" feature on Microsoft Word vel sim. (e.g. ? -> e). As I
 said, not perfect, but good enough. I hope this helps!
-
   namaskaromi,
-
   Diego
-
 On Wed, Dec 1, 2021, 6:38 AM Harry Spier via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear list members,
-> Can someone point me to a good on-line tool to OCR sanskrit
-> transliteration (english transliteration not devanagari).
-> Thanks,
-> Harry Spier
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20211201/f802ad5d/attachment.htm>
-

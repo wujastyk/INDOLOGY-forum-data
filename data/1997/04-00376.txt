@@ -1,67 +1,25 @@
-From cssetzer at mum.edu  Sat Apr 19 21:47:52 1997
-From: cssetzer at mum.edu (claude setzer)
-Date: Sat, 19 Apr 97 16:47:52 -0500
-Subject: Apologies and Viruses
-Message-ID: <161227029827.23782.14164568762687370093.generated@prod2.harmonylists.io>
-
+Apologies and Viruses
 After my message saying that you could not get a virus from email, Ralph
 Bunker suggested that it is not very wise to make "challenging" statements
 like that because it encourages hackers to invent a way to do it. So I
 should revise my statement: normal "viruses" are not generally embedded in 
  email in such a way that they automatically activate when you
 read your mail.
-
 However, it is definitely possible, and not even much of a challenge, to
 make
 readers uncomfortable, even by mistake. It is also possible to cause
 problems with specific email packages, that might have been damaged by some
 other (previously embedded but inactive) virus, etc. So we should not throw
 caution to the wind.
-
 One thing you should be very careful about is opening attached documents,
 especially ones ending in .exe or .com (PC) if you don't know 
 what they are. On MAC systems, just about any file name can be trouble for
 an attached document. It also might be wise to turn off any accessories
 that automatically act on attached documents.
-
 The possibilities for trouble become even more complicated when
 technologies start to become available that allow transmission of sounds
 and movies within email.
-
 So...there is no need for paranoia, but some caution and alertness with
 regard to unusual email from unknown sources is always wise.
-
 Claude Setzer
-----------
-> From: JAYABARATHI <jaybee at tm.net.my>
-> To: Members of the list <indology at liverpool.ac.uk>
-> Subject: Re: Apologies to all
-> Date: Friday, April 18, 1997 11:38 PM
-> 
-> Jan Brzezinski wrote:
-> > 
-> > Apologies to all for wasting your time with a bogus virus alert. Thank
 you
-> > for wisening me up.
-> > Jan K. Brzezinski, Ph.D.
-> > 1262 rue St-Joseph, Val-David, QC J0T 2N0
-> > (819) 322-3382, 322-6146
-> 
-> 
-> I read something in the Malaysian papers recently about "Mail Bomb".
-> If you receive it, it is supposed to start off an unending stream of the 
-> same word which just goes on repeating itself thus causing irreparable 
-> damage..
-> Is such a thing in existence?
-> 
-> JAYABARATHI
-> 
-> Sungai Petani
-> Kedah
-> Malaysia
-> 
-
-
-
-
-

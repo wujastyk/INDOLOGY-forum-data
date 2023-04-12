@@ -1,9 +1,4 @@
-From roheko at MSN.COM  Sun Nov 30 19:47:36 1997
-From: roheko at MSN.COM (Rolf Heiner Koch)
-Date: Sun, 30 Nov 97 20:47:36 +0100
-Subject: Revision of the MBh files
-Message-ID: <161227034089.23782.17978730367588653313.generated@prod2.harmonylists.io>
-
+Revision of the MBh files
 I send you as an example the first book of your
 Mahabharata edition along with a metrical analyze
 long time ago. No answer ever I got so I stopped
@@ -11,13 +6,9 @@ this work which is based mainly on a small program
 which I designed for a metrical analyze of the Mbh
 Mfg RHK
 roheko at msn.com
-
------Urspr?ngliche Nachricht-----
 Von: Muneo TOKUNAGA
 <g53772 at SAKURA.KUDPC.KYOTO-U.AC.JP>
 An: INDOLOGY at LISTSERV.LIV.AC.UK
 <INDOLOGY at LISTSERV.LIV.AC.UK>
 Datum: Sonntag, 30. November 1997 06:19
 Betreff: Revision of the MBh files
-
-

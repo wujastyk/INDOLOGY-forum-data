@@ -1,88 +1,26 @@
-From jan.kucera at matfyz.cz  Mon Jun 15 15:07:52 2020
-From: jan.kucera at matfyz.cz (jan.kucera at matfyz.cz)
-Date: Mon, 15 Jun 20 17:07:52 +0200
-Subject: [INDOLOGY] unicode grantha fonts
-In-Reply-To: <576af5f2-fffb-03ba-159b-29092a5124bc@univ-paris-diderot.fr>
-Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAFf8XLtDjOdLpvKfOTB7dtjCgAAAEAAAAHhKNB6hABxDjAEexDISNhkBAAAAAA==@matfyz.cz>
-
+[INDOLOGY] unicode grantha fonts
 Greetings, note that using the hinted versions improves readability on screens, especially at lower font sizes.
-
 https://github.com/googlefonts/noto-fonts/tree/master/phaseIII_only/hinted/ttf/NotoSansGrantha
-
 Thanks,
 Jan
-
-
------Original Message-----
-From: INDOLOGY <indology-bounces at list.indology.info> On Behalf Of Jean-Luc Chevillard via INDOLOGY
 Sent: 15 June 2020 15:53
-To: Indology List <indology at list.indology.info>
-Subject: Re: [INDOLOGY] unicode grantha fonts
-
+Re: [INDOLOGY] unicode grantha fonts
 Cher Fran?ois Patte,
-
 voici, gr?ce ? Vinodh Rajan, un lien qui devrait r?pondre ? votre attente
-
 <QUOTE Vinodh Rajan>
 Hi Jean-Luc,
-
 [...]
   You can download it directly from Google's repository in Github.
-
 https://github.com/googlefonts/noto-fonts/tree/master/phaseIII_only/unhinted/otf/NotoSansGrantha 
-
-
 https://github.com/googlefonts/noto-fonts/tree/master/phaseIII_only/unhinted/otf/NotoSerifGrantha 
-
-
-
 [...]
-
 You can always use Aksharamukha to convert Devanagari or IAST to Unicode Grantha.
-
 http://aksharamukha.appspot.com/describe/Grantha
-
 V
-
 </QUOTE>
-
 Amicalement
-
--- Jean-Luc Chevillard (in M?ssen)
-
-
 https://twitter.com/JLC1956
-
-
 On 15/06/2020 10:28, Fran?ois Patte via INDOLOGY wrote:
-> Bonjour,
-> 
-> Can we found fonts for grantha (otf, ttf) coded in unicode according 
-> to the unicode grantha chart?
-> 
-> I know a font: e-tamil-grantha which is coded according to the unicode 
-> bengali chart, it would be better to have a font with grantha at its 
-> right place.
-> 
-> Thank you.
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing 
-> committee) http://listinfo.indology.info (where you can change your 
-> list options or unsubscribe)
-> 
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee) http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-
-

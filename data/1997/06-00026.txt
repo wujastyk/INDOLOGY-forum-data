@@ -1,11 +1,5 @@
-From pesch at indoger.unizh.ch  Wed Jun  4 09:59:04 1997
-From: pesch at indoger.unizh.ch (Peter Schreiner)
-Date: Wed, 04 Jun 97 11:59:04 +0200
-Subject: GheraNDasaMhitaa
-Message-ID: <161227030705.23782.11223594655703263745.generated@prod2.harmonylists.io>
-
+GheraNDasaMhitaa
 Dear INDOLOGYsts, 
-
 this is to announce the availability of an electronic version
 of the Ghera.n.dasa.mhit-a in the library of INDOLOGY. The text
 is that of the new edition by Peter THOMI (Wichtrach 1993). It was
@@ -14,8 +8,6 @@ available to me; he agreed that I could revise it (by marking
 sandhis, compounds, paadas) and then make it available to the 
 scholarly community. My (and your) thanks to Peter Thomi for his
 generosity! (Dr. Peter Thomi, Institut fuer Indologie, CH-3114 Wichtrach 
--- he has no email address.)
-
 I am submitting three files (and I thank Dominik for handling 
 the technicalities of this submission!):
 The INPUT-Version starts with information about input conventions
@@ -33,13 +25,6 @@ versions can be automatically generated is one of the main reasons
 for defending this particular INPUT-version (sometimes called
 the TZ-format, which refers to Tuebingen and Zuerich as the places
 of origin).
-
 Any feedback, corrections, suggestions etc. are of course very
 welcome.
-
 Peter Schreiner
-
-
-
-
-

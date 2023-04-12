@@ -1,9 +1,4 @@
-From stampe at uhunix.uhcc.Hawaii.Edu  Tue Jun 20 17:04:27 1995
-From: stampe at uhunix.uhcc.Hawaii.Edu (David Stampe)
-Date: Tue, 20 Jun 95 07:04:27 -1000
-Subject: Ancient South Asian word for 'cereal'
-Message-ID: <161227019764.23782.4774645636911509675.generated@prod2.harmonylists.io>
-
+Ancient South Asian word for 'cereal'
 The form that Kalyanaraman cites for Munda
 	-kug (Munda) = rice
 is incorrect: the proto-Munda form was *ru[ng]kug.  My authority is
@@ -11,12 +6,5 @@ a comparative Munda dictionary I am compiling with Patricia Donegan
 and Norman Zide.  Neither the correct nor the incorrect form can be
 related, even as a loan, to the Indo-Aryan or Dravidian forms that
 he summarizes as kaNk.
-
 David Stampe
 Dept. of Linguistics, Univ. of Hawaii/Manoa, Honolulu HI 96822
- 
-
-
-
-
-

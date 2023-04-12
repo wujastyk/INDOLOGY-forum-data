@@ -1,20 +1,8 @@
-From mkapstei at MIDWAY.UCHICAGO.EDU  Sun Oct 31 16:04:37 2004
-From: mkapstei at MIDWAY.UCHICAGO.EDU (Matthew Kapstein)
-Date: Sun, 31 Oct 04 10:04:37 -0600
-Subject: Devanagari
-In-Reply-To: <20041027200813.GA13491@deepthought>
-Message-ID: <161227075177.23782.17106083625062542764.generated@prod2.harmonylists.io>
-
+Devanagari
 What is the current wisdom regarding unicode devanagari fonts
 and methods of input? For one who wants something easy to install
 and to use, that produces an attractive result when printed
 with a reasonably high quality printer, what is most recommended?
-
 Is there, by the way, a keyboard compatible with the devanagari
 that is included in the Titus font set?
-
 Matthew Kapstein
-
-
-
-

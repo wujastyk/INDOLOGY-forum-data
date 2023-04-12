@@ -1,40 +1,17 @@
-From l.m.fosse at internet.no  Thu Nov 21 10:08:10 1996
-From: l.m.fosse at internet.no (Lars Martin Fosse)
-Date: Thu, 21 Nov 96 11:08:10 +0100
-Subject: Origin of retroflexes: answers to Hock's objections?
-Message-ID: <161227026998.23782.3773501974663391362.generated@prod2.harmonylists.io>
-
+Origin of retroflexes: answers to Hock's objections?
 Nath Rao wrote:
->
->Now seems to be a good time to ask this question, as this seems to be
->the time for controversies in INDOLOGY. And now that Dominic himself
->has broken the `two screenfuls' rule, I feel free to send this long
->post. [And this does have something to do with `Aryan Invasion Theory'.]
->
->I am trying locate any answers to Hock's objections to the often made
->claim that retroflex consonants of IA are due to Dravidian speakers
->`mispronouncing' Proto-Indo-Iranian words. (The only paper of Hock
->I have read in this regard is the one in `Ideology and Status of
->Sanskrit'. But I understand that the objection discussed below is older.
->At least I was aware of this objection before reading that paper.)
-
 I have a very marginal note here (I am not familiar with the Dravidian
 languages and can therefore not participate in the discussion at a higher
 level).
-
 Retroflex sounds in IA languages may have evolved as a result of the contact
 between Dravidian and Indo-Aryan languages, but they may also have evolved
 for purely internal reasons. Such sounds also exist in some European
 languages, among others in East Norwegian, where e.g. the consonant cluster
 rt has developed into a retroflex .t. Thus, you will find that "kart" (map)
 is pronounced ka.t in East Norwegian, and you get the minimal pair
-
                 kart [ka.t]     katt [kat]
                 =map            =cat
-
-
 It is tempting to compare e.g. the development of Skt. k.rta > Pkt. ka.ta. 
-
 As for the distinction between dentals, alveolars and retroflexes, we do not
 know for sure if this distinction was alive and well in Northern India at
 the time of the arrival of the Aryans. Hypotheses concerning the interaction
@@ -44,13 +21,5 @@ internal phonetic development, they may have felt that Dravidian words with
 alveolars - if they existed - "sounded" like words with retroflexes and
 therefore adopted these words with retroflexes. There may, in other words,
 be several reasons for the "retroflexisation" of IA languages. 
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
-
-
-

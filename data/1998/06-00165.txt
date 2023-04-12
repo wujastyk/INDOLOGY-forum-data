@@ -1,13 +1,7 @@
-From Palaniappa at AOL.COM  Sat Jun 13 22:20:46 1998
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Sat, 13 Jun 98 18:20:46 -0400
-Subject: Theory and fact in comparative Dravidian: the case of  -y-
-Message-ID: <161227039799.23782.8875060513055922615.generated@prod2.harmonylists.io>
-
+Theory and fact in comparative Dravidian: the case of  -y-
 The case of -y- offers some interesting insight into how facts and theory play
 out in the field of Comparative Dravidian.  Let us consider DEDR 5352 and DEDR
 5354.
-
 DEDR 5352 Ta. vAy mouth, beak of birds, mouth as of cup, bag, ulcer, etc.,
 mouthful, lip, edge, rim, edge as of knife, word, speech, hole, orifice. Ma.
 vAy, vA  mouth, opening, juncture, edge of a sword. Ko. va.y (mouth of living
@@ -20,18 +14,15 @@ cutting instrument; vA-konu to speak, utter, say, cry out, vAdara edge of
 sword; (K) vAya blade? sharpness.....Pa. (S) vAy mouth of pot. Ga. (P.) vAy
 edge of knife; (Oll.) vAsi lip...Kur. baI mouth (of man and animal), aperture
 of a vessel, mouthful....Br. bA mouth, aperture, edge of a knife.
-
 What is the reconstruction of the original form? According to an earlier
 posting by Dr. Krishnamurti, " PD *c and *y fell together in most of the
 languages but the distinciton is preserved by some members (particularly
 Kannada). where Ka also has an intervocalic -y- (bayal) it goes to PD *y. So
 Kannada holds the clue for PD reconstriction (Ta. poy = Ka. pusi <*posi 'a
 lie'; PD *poc-)."
-
 If one were to apply this principle, one would reconstruct *vAy- for DEDR 5352
 rather than *vAc-. Indeed in Telugu Verbal Bases, p. 487, Krishnamurti
 proposes *vAy-/*vA and not *vAc for mouth.
-
 DEDR 5354 Ta. vAyil, vAyal, vAcal doorway, entrance, gate, place, king?s
 court; vAytal doorway, entrance. Ma. vAtil id., gateway. Ko. va.l entrance
 door; va.gl entrance; kava.l ground in front of house (for ka-, ? see 1376).
@@ -40,66 +31,48 @@ Aru); poxol entrance, in song unit....Ka. bAgil, bAgal, bAkal, (inscr., Gai
 221) vAkkil gate, doorway. Tu. bAkilu door, gate; bAdhaLa door. Te. vAkili
 door, doorway. Kol. va.kal outside. Nk. vAkal id. Pa. vAl id., menses. Ga.
 (P.) vAl outside..
-
 In Telugu Verbal Bases, p. 33, Krishnamurti states:
-
 "Te. -g- < PDr. *-y-; sometimes -y- itself is a weakening of older *-c-; this
 development is also shared by Ta. Ma. Ka. and Tulu." What is clearly implied
 here is that -g- of Telugu can be ultimately derived from PDr. *-y- in some
 cases and PDr. *-c- in some cases. Not all -g-/-k- are traced to *-c-.
-
 To show that -y- passed through the stage of -k- before becoming -g-, in
 Telugu Verbal Bases, p. 34, he states:
-
 "..-g- proceeds from an older *-y-; that -y- passed through the stage of -k-
 is evident from Ta. vici (*viki) corresponding to Te. Ka. bigi < *viki <
 *viyi; another striking proof of this can be found in the following etymology:
 Te. vAkili doorway; Tu. bAkil; Ka. bAgil; Ta. vAyil, vAcal; Ma. vAtil (Ma. -t-
 < *-c-)"
-
 In other words, both of the following processes are possible:
-
 (1) Te. -g-/-k- < PDr. *-y-
 (2) Te. -g-/-k- < *-y- < PDr. *-c-
-
 Krishnamurti did not offer a PDr. reconstruction for Te. vAkil in this
 discussion. However, one can state that the reconstructed form should be *vAy-
 or that DEDR 5354 is derived from DEDR 5352. There is ample evidence in old
 Tamil literature to show that vAy not only referred to the aperture but also
 door-like mechanisms like lids, and gates. In fact, Tamil Lexicon includes the
 meaning "vAcal" (gate) for "vAy".
-
 The following examples from Tamil texts clearly show the linkage between "vAy"
 and "vAyil"..
-
  matu294   cENOn2 akaznta maTi vAy payampin2            (maturaikkAJci 294)
-
 This can be translated as the "ensnaring pit with its covered opening, which
 was dug by the person from the mountain."
-
 AyiramkaNNOn2 arugkalac ceppu
 vAy tiRantan2n2a matil aka varaippil    (cilappatikAram  14.68-69)
-
 This can be translated as "in the area inside the rampart which looked as if
 the lid of the precious container of the thousand-eyed one (Indra) had
 opened".
-
 Even more direct connection between vAy, vAyil, and vAcal are provided by the
 following.
-
 palar pukat tiRanta paku vAy vAyil                      (maNimEkalai 7.92)
-
 This is translated as "the entrance (vAyil) with split/open door (vAy) through
 which many can enter". One cannot ask for a more explicit link between vAy and
 vAyil. In another text, tirumantiram, in trying to portray the human body as a
 temple of worship for god, tirumUlar says,
-
 uLLam perum kOyil Un2 uTampu Alayam
 vaLLal pirAn2Arkku vAy kOpura vAcal             (tirumantiram 1823.1-2)
-
 This can be translated as "the heart/mind is the sanctum sanctorum, body is
 the temple and mouth (vAy) is the temple tower entrance (vAcal)".
-
 That is why, traditional Tamil scholars and T. Burrow have said that vAyil is
 derived from vAy. In the book, "Collected Papers on Dravidian Linguistics",
 1968, p.79, he said, "Ta. Ma. vAy "mouth; opening of a sack, etc.", O, Ovu
@@ -108,23 +81,18 @@ bAyi "mouth; opening"| Tod. bOyi "mouth"--Te. vAyi "id."| Kur. bai "mouth,
 aperture of a vessel"| Brah. bA "mouth"|| A derivative of this word is found
 in the following; Ta. vAyil "gate, doorway, entrance" | Ma. vAtil| Ka. bAgil|
 Tu. bAkil| Te. vAkili "id.""
-
 This means that having derived vAyil from vAy, we would expect the
 reconstruction for both to be *vAy-.
-
 But Kamil Zvelebil in Comparative Dravidian Phonology, p. 121, apparently by
 not properly considering cases where *-y- can be the proto-Dravidian
 reconstruction as discussed by Krishnamurti in Telugu Verbal Bases p.34 and
 p.50, reconstructs the following for Ta. vAyil, etc.
-
 Ta. vAyil, vAyal/vAcal, Ma. vAtil (<*vAcil), To. pO_s ?entrance?: te.vAkili,
 Tu. bAkilu, Ka.bAgil, bAgal ?doorway?, Kol. Nk. vAkal ?outside?: <
 *vAyil/*vAyal<*vAc& -l/*vAc &-al."
-
 He footnotes, "According to a kind of folk-etymology, followed by some Tamil
 scholars, Ta. vAyil < *ilvAy (by metathesis) "mouth of the house", i.e.,
 entrance, door?."
-
 Actually the Tamil scholars? position is better than Zvelebil?s. At least they
 get the base of the word right if one accepts the views of Krishnamurti  (for
 *vAy) and Burrow (for the relationship between vAy and vAyil). Even though the
@@ -141,7 +109,6 @@ commentaries of the grammar nan2n2Ul, where a similar interpretation is
 offered for the word munRil.) On the other hand Zvelebil totally misses the
 basic semantics of "vAyil" in spite of virtually dedicating his scholarly life
 to the study of Tamil.
-
 How does all this relate to the -y->-c-/-s- alternation in Dravidian? Since
 Tamil has some cases of intervocalic k>c before a front vowel, let us assume
 one might argue that the form vAcal may be derived as vAcal<*vAcil<*vAkil<
@@ -149,7 +116,6 @@ one might argue that the form vAcal may be derived as vAcal<*vAcil<*vAkil<
 But, consider Toda words po.y for mouth and po.s for entrance. Here, s in po.s
 is obviously  derived from an original -y-. Similarly, the cognates Ga. (P.)
 vAy edge of knife; (Oll.) vAsi lip also show -y- > -s-.
-
 I think Zvelebil gets a glimpse of the right solution when he talks about the
 Tamil development of -y- > -c- as seen in medieval inscriptions. He says "The
 view of sound change as a special case of total dialect borrowing, operating
@@ -163,11 +129,9 @@ is possible in other languages in South and Central Dravidian also. So, we
 should have -y-/-c- alternation in PDr which is what G. Sambasiva Rao  says.
 In fact, G. Sambasiva Rao?s etymology given in "A Comparative Study of
 Dravidian Noun Derivatives" (published in 1991) is as follows.
-
 "Ta. vAy-il, ma. vAtil, Ko. vAl, To. pOs_ ?doorway?, pox-ol ?entrance?, Ka.
 bAkk-il, Tu. bAk-ilu, Te. vAk-il-i, Kol. vAk-al, Pa. vA-l ?doorway?
 *vAy(kk)-Vl"
-
 In his article, "Proto-Dravidian *c- and Its Developments", M. B. Emeneau
 comments on the position of Zvelebil regarding a different problem: "Zvelebil
 (1970, p.106, fn. 23) offers an explanation for ?the c-/t- alternation? which
@@ -175,20 +139,12 @@ is of this same nature (?loss of one of the components?), but finds difficulty
 in the statement, since the Prague School of that period insisted that ?a
 simplex [t?] phoneme? not being ?a complex [t+?] cannot lose a component,
 rigidity of theory here overriding fact."
-
 I think, the case of -y- discussed here also seems to be a case of theory
 overriding fact. P. S. Subrahmanyam, who published his work on Dravidian
 Phonology in 1983, seems to have accepted Zvelebil?s views in toto and has not
 allowed for the possibility that  *-y- may have reflexes other than the -j- of
 Kui.
-
 In a separate posting, I shall show how even Kannada exhibits -y- > -c-/-s-
 change.
-
 Regards
-
 S. Palaniappan
-
-
-
-

@@ -1,11 +1,5 @@
-From naga_ganesan at HOTMAIL.COM  Tue Oct 19 15:20:02 1999
-From: naga_ganesan at HOTMAIL.COM (N. Ganesan)
-Date: Tue, 19 Oct 99 08:20:02 -0700
-Subject: Tamil alphabets
-Message-ID: <161227052879.23782.667359243001028139.generated@prod2.harmonylists.io>
-
+Tamil alphabets
 Dear Dr. Perry,
-
 Surely, Tamil linguists understood the logic of sounds quite well
 and devised the tamil alphabets needed to describe their
 language sounds adequately about 2000 years ago.
@@ -20,7 +14,6 @@ languages that use phonetic alphabets, Tamil has the least number
 of letters(=30, 12 vowels+18 consonants). While all other Indian
 languages has borrowed the Sanskrit alphabets enmasse, it is
 significant that Tamil has not done that.
-
 This economy, achieved by logical design, in the total number of
 alphabets or glyphs is one reason why writing technologies enter
 via tamil into india. Eg., printing("accu"), typewriters("taTTezuttu"),
@@ -35,7 +28,6 @@ proposal by Prof. Selvakumar of Canada long ago. In this scheme,
 nine sounds alien to Tamil are handled.
 f, g, j, D, d, b, s, S, h are written using tamil letters
 'v, 'k, 'c, 'T, 't, ~c, ^,s, q(=Aytam) respectively.
-
 Let me quote from "Tamil as a Classical language"
 submitted by Tamil Nadu Govt. to the Prime Minister,
 Mr. A. B. Vajpayee. Its author is the eminent educator,
@@ -57,18 +49,6 @@ been significant in distinguishing the meaning of words is not met
 with, even in the Astadhyayi of Panini". This can be mentioned as
 a very significant contribution of the ancient Tamil grammatical
 tradition to linguistics."
-
 Regards,
 N. Ganesan
-
-
-
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

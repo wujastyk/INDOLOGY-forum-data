@@ -1,36 +1,12 @@
-From yogacara at gmail.com  Sat Aug 15 04:34:50 2015
-From: yogacara at gmail.com (Dan Lusthaus)
-Date: Sat, 15 Aug 15 00:34:50 -0400
-Subject: [INDOLOGY] Hindi v Sanskrit
-In-Reply-To: <CABEB9q+0hYpyt4oDxTxrfWMOLvVZfL23XOY4L7JV4gE9BT7eGQ@mail.gmail.com>
-Message-ID: <A6B6937ED2344CEB8DD625DF4608B54C@Dan>
-
+[INDOLOGY] Hindi v Sanskrit
 The article is uninformed fluff. If the topic is of interest, skip the article and go straight to the study it purports to cite.
-
 It's available at http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132819
 Abstract
 Do principles of language processing in the brain affect the way grammar evolves over time or is language change just a matter of socio-historical contingency? While the balance of evidence has been ambiguous and controversial, we identify here a neurophysiological constraint on the processing of language that has a systematic effect on the evolution of how noun phrases are marked by case (i.e. by such contrasts as between the English base form she and the object form her). In neurophysiological experiments across diverse languages we found that during processing, participants initially interpret the first base-form noun phrase they hear (e.g. she?) as an agent (which would fit a continuation like ? greeted him), even when the sentence later requires the interpretation of a patient role (as in ? was greeted). We show that this processing principle is also operative in Hindi, a language where initial base-form noun phrases most commonly denote patients because many agents receive a special case marker ("ergative") and are often left out in discourse. This finding suggests that the principle is species-wide and independent of the structural affordances of specific languages. As such, the principle favors the development and maintenance of case-marking systems that equate base-form cases with agents rather than with patients. We confirm this evolutionary bias by statistical analyses of phylogenetic signals in over 600 languages worldwide, controlling for confounding effects from language contact. Our findings suggest that at least one core property of grammar systematically adapts in its evolution to the neurophysiological conditions of the brain, independently of socio-historical factors. This opens up new avenues for understanding how specific properties of grammar have developed in tight interaction with the biological evolution of our species.
-
-
-
 Dan Lusthaus
-
-
-
   ----- Original Message ----- 
-
   The article begins 'Though derived from the same script, we tend to opt for much easier Hindi language than Sanskrit'. Hindi and Sanskrit are languages not scripts. One may give a thought to whether the article should be seriously taken.
-
   Best 
-
   DB
-
     .
-
     http://www.financialexpress.com/article/lifestyle/science/why-we-prefer-easier-hindi-over-complicated-sanskrit-language/119387/
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150815/c197f7a0/attachment.htm>
-

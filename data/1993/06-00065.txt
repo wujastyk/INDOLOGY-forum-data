@@ -1,31 +1,8 @@
-From EVERSON at IRLEARN.UCD.IE  Tue Jun 29 18:15:46 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Tue, 29 Jun 93 18:15:46 +0000
-Subject: CSX questions
-Message-ID: <161227015948.23782.2479096224978406768.generated@prod2.harmonylists.io>
-
+CSX questions
 On Tue, 29 Jun 93 18:08:35 BST Richard J. Cohen said:
->Tom Ridgeway warns in his *Readme* file that moving TrueType or PostScript
->fonts from the PC to the Mac environment is not a trivial matter. I can
->attest to the problem, as a friend created both type of fonts through
->*Fontographer* on the Mac, and when I attempted to move them over to the
->PC, there were many problems associated with character mapping and the
->manner in which the fonts were drawn on the screen.
- 
 I guess this is a vote that yes I should go ahead and try to sort the
 MacCSX PCCSX out.
- 
->That aside, Tom Ridgeway has once again rendered a service to Indologists,
->and we should thank him for it. Well done, Tom!
- 
 I certainly agree with this!
- 
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
-
-
-
-
-

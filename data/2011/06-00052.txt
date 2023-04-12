@@ -1,12 +1,6 @@
-From wujastyk at GMAIL.COM  Fri Jun 24 08:04:24 2011
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Fri, 24 Jun 11 10:04:24 +0200
-Subject: early grammars digitized in the DL
-Message-ID: <161227092837.23782.3035298611245671143.generated@prod2.harmonylists.io>
-
+early grammars digitized in the DL
 The following early grammars are digitized in the DLI (errors are in the
 DLI):
-
 A Grammar Of The Sanscrit Language Ed.
 2.<http://www.new.dli.ernet.in/cgi-bin/metainfo.cgi?&title1=A%20Grammar%20Of%20The%20Sanscrit%20Language%20%20Ed.%202&author1=Yates,%20W.&subject1=LANGUAGE.%20LINGUISTICS.%20LITERATURE&year=1845%20&language1=sanskrit&pages=526&barcode=4990010095086&author2=&identifier1=&publisher1=Baptist%20Mission%20Press,%20Kolkata&contributor1=&vendor1=NONE&scanningcentre1=cdack&slocation1=NONE&sourcelib1=RAMKRISHNA%20MISSION%20INSTITUTE%20OF%20CULTURE,%20GOLPARK&scannerno1=0&digitalrepublisher1=Digital%20Library%20Of%20India&digitalpublicationdate1=2006-06-02&numberedpages1=&unnumberedpages1=&rights1=In%20Public%20Domain&copyrightowner1=&copyrightexpirydate1=&format1=Tagged%20Image%20File%20Format%20&url=/rawdataupload/upload/0095/086>,
 4990010095086. Yates, W.. 1845. sanskrit. LANGUAGE. LINGUISTICS. LITERATURE.
@@ -32,9 +26,3 @@ LITERATURE. 696
 pgs.Sanskrit_Vyakaran_Praveshika_A_Sanskrit_Grammar_For_Students.<http://www.new.dli.ernet.in/cgi-bin/metainfo.cgi?&title1=Sanskrit_Vyakaran_Praveshika_A_Sanskrit_Grammar_For_Students&author1=Sri_Rurthar_M_Mikanal&subject1=&year=1843%20&language1=SANSKRIT&pages=302&barcode=2020010013328&author2=&identifier1=&publisher1=Motilal_Banarasidas&contributor1=CCL&vendor1=NONE&scanningcentre1=rmsc,%20iiith&slocation1=NONE&sourcelib1=SCL&scannerno1=&digitalrepublisher1=PAR%20Informatics,%20Hyderabad&digitalpublicationdate1=&numberedpages1=&unnumberedpages1=&rights1=OUT_OF_COPYRIGHT&copyrightowner1=enter%20name%20of%20the%20copyright%20owner&copyrightexpirydate1=&format1=BOOK%20&url=/data7/upload/0172/033>,
 2020010013328. Sri_Rurthar_M_Mikanal. 1843. SANSKRIT. . 302 pgs.
 DW
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20110624/7cf34cb4/attachment.htm>
-

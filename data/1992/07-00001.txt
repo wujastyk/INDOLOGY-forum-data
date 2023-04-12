@@ -1,16 +1,8 @@
-From ucgadkw at UK.AC.UCL  Fri Jul 10 09:48:14 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Fri, 10 Jul 92 10:48:14 +0100
-Subject: new ftp site for relevant files
-Message-ID: <161227015426.23782.1117331867105967957.generated@prod2.harmonylists.io>
-
- 
-
+new ftp site for relevant files
 I'm pleased to announce that the local computer authorities
 on my base machine, the Bloomsbury Computing Consortium Time-Sharing
 System, have now established a public directory for anonymous ftp.
 I have been given my own corner of this directory, called .../ucgadkw.
- 
 Indologists:
 I have placed the Sanskrit text files of Panini, Asvaghosa and
 Varahamihira in the directory pub/users/ucgadkw/indology
@@ -19,7 +11,6 @@ stored at the Liverpool LISTSERV, not the CSXified versions
 stored in the Washington black box.  Do you think I should
 store both versions?  In general, how should we deal with
 multiple versions?  Don't forget to use binary mode to ftp them.
- 
 TeXnicians:
 I have placed the latest version of EDMAC, the critical edition
 typesetting package for TeX, in the directory pub/users/ucgadkw/edmac.
@@ -29,24 +20,11 @@ contributed by Wayne Sallivan called edstanza.zip which contains
 a documented EDMAC style file for typesetting poetry in stanzas
 which may have wrapped lines which shouldn't get added line numbers.
 (Thanks, Wayne.)  Again, these are ZIP files; transfer in binary mode.
- 
 The network address of this machine is ftp.bcc.ac.uk, but the
 setup is so new that the address may not work immediately.  Please
 don't expect success for a few days.
- 
 I'm going away now, until 14th August, so napoo from me for a while.
- 
 Best wishes,
- 
 and apologies to Indologists for the unwanted EDMAC information,
 and to the TeXnicians for the unwanted Sanskrit information!
- 
 Dominik
- 
- 
- 
-
-
-
-
-

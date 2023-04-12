@@ -1,22 +1,8 @@
-From jftzgrld at UTKUX.UTCC.UTK.EDU  Fri Jan 23 15:00:22 1998
-From: jftzgrld at UTKUX.UTCC.UTK.EDU (James L. Fitzgerald)
-Date: Fri, 23 Jan 98 10:00:22 -0500
-Subject: Req: Variants in MBh, AB too
-Message-ID: <161227035025.23782.9709783606966719258.generated@prod2.harmonylists.io>
-
->Are there any variant reading in CE 1.13.25a and 1.176.35d? I am
->interested especially in variants of the word bhavitrii.
-
+Req: Variants in MBh, AB too
 For MBh 1.13.25a, there are no variants for bhavitrii; for sanaamnii yaa D2
 reads mannaamnaa yaa; T G1.4.5 read svanaamnii (T2 -mnaa) yaa; G2.3 read saa
 hi jaayaa; M1 (before correction) sanaamaa vaa.  For the yaa T1 and G5 read
 vaa.
-
 For 1.176.35d, S (excluding T1 G1.2) reads kRSNaa svasaa na mRSaa
 prabraviimi, essentially substituting svasaa for bhavitrii.
-
 Jim Fitzgerald
-
-
-
-

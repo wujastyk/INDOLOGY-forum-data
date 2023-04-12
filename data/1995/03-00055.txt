@@ -1,31 +1,13 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Tue Mar 14 07:27:42 1995
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Tue, 14 Mar 95 16:27:42 +0900
-Subject: verification of date
-Message-ID: <161227018837.23782.17442112284581651035.generated@prod2.harmonylists.io>
-
+verification of date
 H. Isaacson put a question:
-
->I wonder if one of the knowledgeable people on the list could help
->this astronomical dunce in verifying a date given in Saptar.si
->(Laukika) era, without the century. My struggles with Sewell's tables
->have thus far only succeeded in addling my brains yet further. The
->date is given as sa.m 64 bhaa (i.e. Bhaadra(pada)) "su (i.e.
->"suklapak.se) di (i.e. divase) .sa.s.thyaa.m bhaume. I would
->guess, on other grounds, that the date might be one in the late
->nineteenth century.
-
 to which I would like to answer.
-
 Saptar.si (Laukina) sa.m 64 can be
 Saka 1711 (current) or
 Saka 1710 (expired) or
 Saka 1811 (current) or
 Saka 1810 (expired)
-
 since we should add 47 to get the corresponding <current> Saka year.
 (See Sewell-Dikshit, page 41).
-
 The result my program is
 =====================================================================
  Saka 1711   Bhadrapada Suklapaksa  6  |  AD 1789  8 27    Thursday
@@ -38,20 +20,11 @@ The result my program is
 ======================================================================
 which are not good.  But when we try the other way round, I got for
 the last date:
-
 ==========================================================================
  1888  9 11 Tue | Saka 1810        Bhadrapada Suklapaksa  6 (0.28) Visakha
 ==========================================================================
 Since my conversion promgram from Western to Indian is more reliable
 than that from Indian to Wetern, I think that the possibily of the
 last one is very high.
-
 I hope this helps.
-
 Michio YANO
- 
-
-
-
-
-

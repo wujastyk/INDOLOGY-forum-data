@@ -1,66 +1,9 @@
->From Scotland, neither site pulls up a web page either.
-
 Alex, you may be getting DNS poisoning within India. Do you have the tools to work out what DNS is handling your request for John Smith's old site?
-
 What were you looking for? I have a few of the older fonts still around (and others - Somdev? - may as well).
-
 Be well,
-
 ?WBTD. 
 - - -- --- ----- -------- ------------- 
 Will Tuladhar-Douglas 
 Email: will at tending.to <mailto://will at tending.to> Blog: Tending to blether <https://tending.to/blether> 
 Research Fellow, Hamburg University 
 Situgyan Consulting Ltd. <https://situgyan.com/>
-
-> On 15 Jul 2020, at 09:54, Valerie Roebuck via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> 
-> I got ?Safari cannot open the page because the server cannot be found?. 
-> 
-> Valerie J Roebuck 
-> Manchester, UK
-> 
-> Sent from my iPhone
-> 
->> On 15 Jul 2020, at 08:46, Alex Watson via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
->> 
->> ?
->> Dear All
->> 
->> An old message from John Smith sent to the Indology listserv and preserved in the archive reads:
->> 
->> "The fonts are at http://bombay.oriental.cam.ac.uk <http://bombay.oriental.cam.ac.uk/>: follow the "fonts"
->> link, then the "induni" link."
->> 
->> But when I enter the mentioned URL 
->> http://bombay.oriental.cam.ac.uk <http://bombay.oriental.cam.ac.uk/>
->> into my browser,
->> what opens is this page
->> https://simcast.com/?d=parrz.com&s=fallback <https://simcast.com/?d=parrz.com&s=fallback>
->> with a picture of Narendra Modi.
->> 
->> Do others get the same?
->> 
->> Yours Alex
->> -- 
->> Alex Watson
->> Professor of Indian Philosophy
->> Ashoka University
->> https://ashokauniversity.academia.edu/AlexWatson <https://ashokauniversity.academia.edu/AlexWatson>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
->> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
->> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200715/07ecfc32/attachment.htm>
-

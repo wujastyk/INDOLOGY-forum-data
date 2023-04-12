@@ -1,49 +1,20 @@
-From ucgadkw at UCL.AC.UK  Sun Oct 13 16:51:22 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sun, 13 Oct 02 17:51:22 +0100
-Subject: utf-skt works (fwd)
-Message-ID: <161227071493.23782.2844113919022643742.generated@prod2.harmonylists.io>
-
----------- Forwarded message ----------
-Date: Sun, 13 Oct 2002 18:33:57 +0200
-From: hanneder <hanneder at indologie.uni-halle.de>
-To: d.wujastyk at ucl.ac.uk
-Cc: hanneder at indologie.uni-halle.de
-Subject: utf-skt works
-
-
+utf-skt works (fwd)
+utf-skt works
 Dear Dominic,
-
 just in time before the new term demands full attention I have
 completed a first attempt for utf-skt, a style file for formatting
 Sanskrit (both transliteration and Naagarii) with Unicode (utf-8)
 input and multilingual Omega-TeX.
-
 [...] I would be grateful if you could make the location of this package
 known for testing:
-
 www.indologie.uni-halle.de/software/utf.htm
-
 Kind regards
-
 Juergen
-
-
-
-
--------------------------------------------
 Dr Juergen Hanneder
-
 hanneder at indologie.uni-halle.de
-
 office:
-
 Martin-Luther-Universitaet
 Institut fuer Indologie
 Heinrich-u.-Thomas-Mann-Str.22
 D-06099 Halle (Saale)
 0345-55-23655
-
-
-
-

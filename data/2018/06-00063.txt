@@ -1,20 +1,8 @@
-From dnreigle at gmail.com  Sat Jun  9 19:08:22 2018
-From: dnreigle at gmail.com (David and Nancy Reigle)
-Date: Sat, 09 Jun 18 13:08:22 -0600
-Subject: [INDOLOGY] Accuracy in translations
-In-Reply-To: <27A643CF-4231-4A70-90CC-C79847CBF4DA@gmail.com>
-Message-ID: <CAPAZekb8Ju6sApACff=xWfT4U7sVSWw+R59RBdZeqAdSzXYHMA@mail.gmail.com>
-
+[INDOLOGY] Accuracy in translations
 Dear Dan,
-
-
-
 Among the additional observations you have provided, I thought your last
 paragraph was especially relevant for providing a proper perspective on the
 Tibetan translations of Sanskrit texts.
-
-
-
 First, it is only fair to say that I am unable to regard as a myth the idea
 that the Tibetan translations are more literal than the Chinese
 translations, and to concisely state the reasons why. In my attempt to
@@ -34,9 +22,6 @@ Buddhist texts is undoubted, but also because they are from word-indexes
 that obviously took full and careful account of the words in the texts.
 Thus, I cannot regard the idea that the Tibetan translations are more
 literal than the Chinese translations as a myth.
-
-
-
 Your last paragraph points to what can well be regarded as a myth: the idea
 that the Tibetan translations are so accurate that nothing else is needed,
 and hence they can be accurately translated without reference to the
@@ -53,9 +38,6 @@ transmission lineages for their translations, while the transmission
 lineages have been lost for the Sanskrit texts when these fell out of use
 in India. So we have the strange situation that the Tibetans highly respect
 the Sanskrit texts as their sourceworks, but do not wish to use them.
-
-
-
 As a personal aside, of little or no relevance to this discussion, Xuanzang
 is one of my heroes. I have the greatest respect for his incredible journey
 to India in search of Sanskrit texts to bring back to China. Then back
@@ -64,153 +46,7 @@ history. As ? <https://en.wiktionary.org/wiki/%C3%89>tienne Lamotte wrote:
 ?Hs?an-tsang, who spent the last nineteen years of his life translating
 some 75 S?tras and ??stras, was the greatest expert in Buddhist literature
 of all time.? (*The Teaching of Vimalak?rti*, 1976, p. xxxv)
-
 Best regards,
-
 David Reigle
 Colorado, U.S.A.
-
-
 On Fri, Jun 8, 2018 at 11:33 AM, Dan Lusthaus <prajnapti at gmail.com> wrote:
-
-> David,
->
-> Your analogy to modern translations is apt.
->
-> While you continue to document the pervasiveness of the myth, perhaps we
-> should let the other shoe drop. While it is true that there are differences
-> between the various Chinese translations of the Mah?y?nasamgraha, a more
-> complete account would mention that there are actually seven Chinese
-> translations (including bh??ya and upanibandhana), by four translators.
->
-> Mah?y?nasa?graha (Asa?ga)
-> (1) (T. 1592) Translation by Buddha?anta in 531.
->
-> (2) (T. 1593) Translation by Param?rtha in 563.
->
-> (3) (T. 1594) Translation by Xuanzang in 649.
-> --
->
-> (4) (T. 1595) Mah?y?nasa?graha-bh??ya (Vasubandhu?s comm.)
-> Translation by Param?rtha in 563.
->
-> (5) (T. 1596) Mah?y?nasa?graha-bh??ya
-> Translation by Dharmagupta, sometime between 605-616.
->
-> (6) (T. 1597) Mah?y?nasa?graha-bh??ya
-> Translation by Xuanzang in 648.
-> --
->
-> (7) (T. 1598) Mah?y?nasa?grahopanibandhana (*Asvabh?va?s sub-comm.)
-> Translation by Xuanzang between 647-649.
->
-> The two versions that dominated E. Asian attention were those by
-> Param?rtha (with -bh??ya) and the three versions by Xuanzang. Dharmagupta?s
-> translation, done while Xuanzang was a youngster, never rivaled
-> Param?rtha?s version which was the hot item in that period, totally
-> eclipsing Buddha?anta?s earlier effort. Study groups and temples all
-> devoted inordinate attention to Param?rtha?s She lun; everyone studied it,
-> masters lectured on it, it was on the reading list for all Buddhist sects
-> in China, including early Chan. It is precisely due to its defects ?
-> ideological distortions, not just translation errors ? that led Xuanzang to
-> put not only the Mah?y?nasa?graha on his to-do list when he returned from
-> India in 645, but to retranslate Vasubandhu?s comm. and introduce
-> *Asvabh?va?s subcommentary, just to make sure the correct reading of the
-> text would become available in China. When Griffiths, Keenan, et al.,
-> worked on the 10th chapter with Hakamaya, they found that the Tibetan of
-> Asvabh?va?s subcommentary basically concurred with Xuanzang?s text ?
-> though, if you read their introduction, they are somewhat struggling with
-> that realization, since another important Japanese scholar, Ui Hakuju, had
-> championed Param?rtha?s texts over Xuanzang?s (another ideological myth
-> with some live embers in Asia) ? and the evidence of the texts they were
-> reading was indicating otherwise.
->
-> There are only three Tibetan versions: one for the main text, one for
-> Vasubandhu?s comm., and one for the Asvabh?va subcommentary. The first and
-> third are attributed to basically the same translators, with a redactor
-> homogenizing the third as well. So ?uniformity? is not surprising.
->
-> (1) Mah?y?nasa?graha (theg pa chen po bsdus pa)
-> translation ascribed to Jinamitra, ??lendrabodhi, Ye-shes-sde
->
-> (2) Mah?y?nasa?graha-bh??ya (theg pa chen po bsdus pa'i 'grel pa)
-> translation ascribed to ?t??a D?pa?kara?r?j??na, Nag-tsho
-> Tshul-khrims-rgyal-ba
->
-> (3) Mah?y?nasa?grahopanibandhana (theg pa chen po bsdus pa'i bshad sbyar)
->
-> translation ascribed to Jinamitra, ??lendrabodhi, Ye-shes-sde
-> with revisions ascribed to R. Dpal brtsegs
->
-> That they agree with Xuanzang?s text would suggest either that Xuanzang
-> and the Tibetans were good at capturing the Sanskrit, or (!) that the
-> Tibetan translations and/or redactions were done with one eye on Xuanzang?s
-> rendition. The Sanskrit has not survived, so we can?t rule either
-> possibility out.
->
-> But a bigger issue is the role of redaction, revision, on what becomes the
-> received texts. Even apart from known variants in different editions of the
-> Chinese and Tibetan canons, there were wholesale ?revisions? of many texts,
-> some multiple times.
->
-> But more germane to the Chinese vs Tibetan translation issues:
->
-> There are two Tib. versions of the Trisvabh?vanirde?a ? one designating
-> Vasubandhu as the original author and the other naming N?g?rjuna as the
-> author. (I don?t think it is possible that either of them had anything to
-> do with it). There are serious discrepancies between these two translations.
->
-> Or, to take a more influential text, there are two divergent translations
-> of Dign?ga?s Pram??asamuccaya, both of which, while unavoidable since the
-> Skt was lost, were commonly panned as bad translations. With the recovery
-> of the Skt of Jinendrabuddhi?s -??k?, which retains perhaps 70% of
-> Dign?ga?s original text, we can now see more clearly what the Sanskrit
-> underlying the two Tib translations was, and suddenly some are beginning to
-> say the Tib translations weren?t so bad after all. I suspect that
-> reappraisal is a result of knowing what the Tibetan is *supposed* to
-> indicate, and then finding it there. Reading in the other direction is more
-> fraught.
->
-> One could make a similar case for some Chinese translations as well. Some
-> years back a reading group of grad students was reading the Yog?c?rabh?mi
-> with me. Our procedure was to read a passage in Skt, translate it orally,
-> and then look at Xuanzang?s Chinese and translate that. We often looked at
-> the Tibetan as well, esp. for thornier passages. After some weeks, the
-> students, most of whom were Chinese, remarked how impressed they were with
-> Xuanzang?s translation, declaring him great and accurate. I cautioned it
-> only looks that way because they had already worked on the Sanskrit and
-> knew what to look for. They disagreed. So the next session, I had them read
-> Xuanzang?s Chinese version first, and translate that. They cobbled together
-> a plausible reading. Then I had them read the Sanskrit. They immediately
-> recognized the mistakes they had just made. Since they were native readers
-> of Chinese, trained in reading classical and Buddhist Chinese as well as
-> Sanskrit (two had studied Sanskrit and Pali for years in India and Sri
-> Lanka, and one was a monk), the mistakes they made were not ?student?
-> mistakes but natural misreadings that can occur in the absence of the
-> underlying Sanskrit. (Incidentally, on the few occasions when Xuanzang and
-> the Tib diverged, it was almost always because each was offering a
-> legitimate interpretation of what the Sanskrit said, but their
-> interpretations differed.)
->
-> One can find better and worse translations in Chinese and Tibetan. Some
-> years back I complained at a conference on Buddhist translations that many
-> of the translations of classic Buddhist texts coming out in English from
-> Tibetan versions of Indian texts were insipid, lacking in conceptual
-> distinctness and clarity (of course, there are many exceptions to that, but
-> that does identify a certain genre of English representations, which I will
-> leave unidentified). One of the conference participants, an important
-> scholar, in defense of those translations, replied: ?To be fair, that?s how
-> they read in Tibetan, too."
->
-> As we all know, translation is never as easy as it looks ? and it doesn?t
-> even look easy.
->
-> Dan
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180609/d2b2962b/attachment.htm>
-

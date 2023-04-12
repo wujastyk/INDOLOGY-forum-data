@@ -1,60 +1,29 @@
-From baums at lmu.de  Sun May 12 10:55:33 2019
-From: baums at lmu.de (Stefan Baums)
-Date: Sun, 12 May 19 12:55:33 +0200
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Formations_of_the_ghan=C4=81ghana_type?=
-In-Reply-To: <b27faa50-b875-e202-dcc2-aa241255a841@gmail.com>
-Message-ID: <87woiwc57e.fsf@lmu.de>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Formations_of_the_ghan=C4=81ghana_type?=
 Dear Martin,
-
-> The ghan?ghana type with lengthened ? (or, once, ?) and an
-> intensive meaning. The examples cited by traditional grammarians
-> seem all (?) to be directly derived from a verbal root (even,
-> /pace /Renou ?147, vad?vada?).
-
 there are also examples combining two nouns, at least in Buddhist
 texts. BHSD has
-
   phal?phala ?all manner of fruits?
-
 (so also in Pali).
-
 A first?century?CE G?ndh?r? commentary that I am working on
-
    https://gandhari.org/a_manuscript.php?catid=CKM0005
-
 in discussing a variant of the Pali verse
-
    parovar? yassa samecca dhamm?
    vidh?pit? atthagat? na santi
    sa vedag? vusitabrahmacariyo
    lokantag? p?ragato ti vucati
-
 (AN II 6.19?23) that can be reconstructed as follows
-
    ?bhavabhava? (yas?a sameca) ?dharma?
    ?vidhuvida? ?astagada na sati?
    ?sa vedago? ?vu??idavo bramacarya?
    ?log??atao? ?paragado? (di vucadi)
-
 explains the first word as follows:
-
    *bhavabhava* ? ?bhava? bhava ceva vuta bhavati ? yas?a
    phalaphala phala phala ceva vucati
-
    ?*bhavabhava*: existences and more existences are spoken of,
    like (in the case of) phalaphala: fruits and more fruits are
    spoken of.?
-
 All best,
 Stefan
-
--- 
 Stefan Baums, Ph.D.
 Institut f?r Indologie und Tibetologie
 Ludwig?Maximilians?Universit?t M?nchen
-
-
-
-
-

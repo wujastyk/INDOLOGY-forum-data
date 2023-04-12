@@ -1,82 +1,10 @@
-From emstern1948 at gmail.com  Thu Jun  9 15:09:58 2022
-From: emstern1948 at gmail.com (Elliot Stern)
-Date: Thu, 9 Jun 2022 11:09:58 -0400
-Subject: [INDOLOGY] Nagari conversion
-In-Reply-To: <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
+[INDOLOGY] Nagari conversion
 References: <2f45ae32-0d83-9b1d-593a-0d3f2cd976ee@gmx.de>
  <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
-Message-ID: <CEE37E1D-BC4E-4C13-A60B-01C4E5323372@gmail.com>
-
 Oliver,
-
 I?d like to add a bit to Harry?s account. The pdf document properties indicate it was created May 8, 2006 by Peter Freund. This is most likely the same Peter Freund on staff at the Maharishi International University library (library at miu.edu <http://library at miu.edu/>).
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
 emstern1948 at gmail.com
 267-240-8418
-
-> On Jun 9, 2022, at 10:40 AM, Harry Spier via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> Oliver,
-> When I open the link you gave, in a browser it gives the file name in the upper left corner as drahyayana_shrauta_sutra.qxd . The extension qxd is for QuarkXpress files.  QuarkXpress is publishing software.  When I download the file, it downloads as a pdf but when I look at the properties, the fonts in the file are embedded Type 1 postscript fonts.  
-> MSTT315b9a0609O15504302
-> MSTT319c623cc2O17006000
-> MSTT31ab77a7ccO21306200
-> MSTT31b3f9fa67O15204300
-> So it looks like QuarkXpress has disguised the names of the fonts it used in creating the pdf.
-> 
-> So as far as I can see, this is a (probably quite old) pdf file created from a QuarkXpress file.  Since the fonts aren't unicode fonts, and the names of the fonts are disguised,  the only thing I can think of is to make a jpeg of each page and enter it into SanskritCR  https://ocr.sanskritdictionary.com/ <https://ocr.sanskritdictionary.com/> and then manually correct the errors.
-> 
-> Quite laborious but less laborious than typing the whole thing by hand again.
-> Harry Spier
-> 
-> 
-> On Thu, Jun 9, 2022 at 12:32 AM Oliver Hellwig via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> Dear all,
-> 
-> I came across this digitized version of the Drahyayana Srauta Sutra:
-> 
-> http://www.hinduonline.co/vedicreserve/kalpa/shrauta/drahyayana_shrauta_sutra.pdf <http://www.hinduonline.co/vedicreserve/kalpa/shrauta/drahyayana_shrauta_sutra.pdf>
-> 
-> Everything seems fine, but when I try to copy-paste the text, the result
-> for the first line looks like:
-> 
-> {;?;y,?*tsU]m
-> 
-> (This should be the name of the text.)
-> 
-> Does anybody know how to obtain readable Devanagari from this kind of
-> custom encoding?
-> 
-> Best, Oliver
-> 
-> ---
-> Oliver Hellwig, IVS Z?rich/ILI D?sseldorf
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> https://list.indology.info/mailman/listinfo/indology <https://list.indology.info/mailman/listinfo/indology>
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220609/e454b27b/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: smime.p7s
-Type: application/pkcs7-signature
-Size: 1388 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20220609/e454b27b/attachment.bin>
-

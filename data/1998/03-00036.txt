@@ -1,16 +1,5 @@
-From ebryant at FAS.HARVARD.EDU  Mon Mar  2 16:50:30 1998
-From: ebryant at FAS.HARVARD.EDU (Edwin Bryant)
-Date: Mon, 02 Mar 98 11:50:30 -0500
-Subject: Indo-Aryan invasion
-In-Reply-To: <199803012051.VAA02524@online.no>
-Message-ID: <161227036336.23782.2131550022454570137.generated@prod2.harmonylists.io>
-
+Indo-Aryan invasion
 On Sun, 1 Mar 1998, Lars Martin Fosse wrote:
-
-> Let us look at time depth: The Indo-Iranian languages are very close to each
-> other, Vedic skt. and Awestan may have split at any time between 300 - 800
-> years before they come into the light of history.
-
 Unfortunately, determining the time when these languages entered the light
 of history is not so easy.  It is based, to a great extent, on negative
 evidence such as the earliest appearance of iron in the archaeological
@@ -19,17 +8,7 @@ that iron ore was recognized and utilized in S. Afghanistan and was
 manipulated to produce iron artifacts in the late 3rd millennium BCE,
 leading him to suppose that Harappan complexes had access to, and
 knowledge of, an iron technology.
-
 But looking at the other
-> IE languages - Hittite, Greek etc. - we know that they were present in their
-> respective areas in the second millenium BCE, and they must have had a long
-> history before that. That would make a split somewhere around 4500 BCE
-> likely. In other words, since 4500 BCE Indo-Europeans were present in India,
-> but did not develop any other languages than Skt. and Iranian. Such a model
-> is counter-intuitive and at variance with the situations we can observe
-> elsewhere. Just like the IE in Eurasia, we would expect the IE in India to
-> develop a rich flora of languages,
-
 This is an important point.  There was an early mouvement among certain
 scholars to consider India as the homeland (since it appeared to have the
 oldest language at the time).  THis was then modified, somewhat, by
@@ -45,7 +24,6 @@ large number of different languages migrated from an area as a collection
 of distinct groups.  The area of the most diverse collection of languages,
 then, is prima facie evidence for supposing the origin of those languages
 to be in that very area.
-
 Mallory, in his Ph.D dissertation criticizes "such facile inferences from
 such a superficial and questionable methodology".  Linguists such as
 Dolgoposky point out that such evidence completely contradicts other
@@ -58,14 +36,8 @@ themselves on non-IE substrata thereby accounting for the greater variety
 in Europe and explaining the greater homogeneity in INdia.  As it happens,
 this is also a model explaining language innovation and preservation that
 is acceptable, and has been demonstrated, in linguistics.
-
 Personally, the more I study all these arguments and consider counter
 examples, the less easily I find myself able to draw ready conclusions.
-
-> There is the fact that no
-> languages outside India show any trace of specifically Indian features,
-> neither in vocabulary nor in grammar.
-
 THese arguments are also old ones, going back to the time of Muller, at
 least.  Muller noted that if the IE's left Asia and settling in the
 West, they would not be likely to preserve the names for uniquely Asian
@@ -83,7 +55,3 @@ goes to show that one must be wary of basing too far reaching assumptions
 on this type of evidence.
 Regards, Edwin Bryant (and I am never going to be able to keep up with
 this kind of pace in this discussion).
-
-
-
-

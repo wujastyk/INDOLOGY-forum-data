@@ -1,23 +1,6 @@
-From cssetzer at MUM.EDU  Tue May 23 14:18:29 2000
-From: cssetzer at MUM.EDU (Claude Setzer)
-Date: Tue, 23 May 00 09:18:29 -0500
-Subject: Liar's Paradox
-Message-ID: <161227058733.23782.7809433027906708321.generated@prod2.harmonylists.io>
-
+Liar's Paradox
 The following is posted on behalf of Ralph Bunker:
-
 To Indology List:
 Is there any mention of the class of paradoxes typified by the Liar's Paradox
 in Indian Logic and if so could someone give me the earliest reference?
-
 TIA
-
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20000523/40471319/attachment.htm>
-

@@ -1,39 +1,18 @@
-From christophe.vielle at uclouvain.be  Tue Mar 15 07:45:21 2022
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Tue, 15 Mar 2022 07:45:21 +0000
-Subject: [INDOLOGY] Grantha fonts for Mac
-In-Reply-To: <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662@aol.com>
+[INDOLOGY] Grantha fonts for Mac
 References: <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662.ref@aol.com>
  <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662@aol.com>
-Message-ID: <C16E1307-E3C0-4BE1-AD88-9F99ABD7817D@uclouvain.be>
-
 I wonder if Indolipi - eGranthamil is still available
-
 https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Gran
 https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=jn8x3ub67e
-
 http://luc.devroye.org/fonts-46417.html
 (there was also a useful e-Malayalam OTC for Malayalam with classical orthography)
-
 I have still the package (not sure that it will work on recent OS)
-
 Le 14 mars 2022 ? 20:35, Sudalaimuthu Palaniappan via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> a ?crit :
-
 Dear Indologists,
-
 Does anybody have a recommendation for a font for typing Grantha texts in Word for Mac?
-
 Thank you in advance.
-
 Regards,
 Palsaniappan
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220315/e12b7d85/attachment.htm>
-

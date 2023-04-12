@@ -1,43 +1,24 @@
-From ridgeway at blackbox.hacc.washington.edu  Tue Mar 30 19:37:07 1993
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Tue, 30 Mar 93 12:37:07 -0700
-Subject: Rasaratnasamuccaya in IASS/CSX available by ftp
-Message-ID: <161227015775.23782.13923783137347178939.generated@prod2.harmonylists.io>
-
+Rasaratnasamuccaya in IASS/CSX available by ftp
  blackbox.hacc.washington.edu is now host to rasratna.zip in
  pub/indic.  This file is accessible via anonymous ftp.
  If you do not know about 'zip' or 'ftp', read the postscript after
  my signature.
-
  This file contains the IASS/CSX encoded version of:
 {
  The Rasaratnasamuccaya of Vagbhata: machine readable transcription,
  based on the Anandasrama Sanskrit Series edition, vol. 19,
  edited by Krishnaravasharman Vinayaka Bapata, Poona 1890.
-
  Covers up to chapter 5, verse 23.
-
  Transcription by Wieslaw Mical, Som Dev Vasudeva and Anne Glazier,
  of SOAS, London.
 }  IASS/CSX refers to a proposed standard encoding for romanized
 indic textual material.  For those who are new to this group, the same
 directory contains other texts in CSX---get the file README.
-
 You have recently read about the current text in a message from Dominik as:
-> 1/ Vagbrasa.zip
->    The first five and a bit chapters of the Rasaratnasamuccaya of
->    Vaagbha.ta.  This is an alchemical text.  Here is the readme file:
-> 
-> ---------- beginning of vagbrasa readme --------------
-> 
-> The Rasaratnasamuccaya of Vaagbha.ta: machine readable transcription
-> ====================================================================
 This rasaratnasamuccaya is that rasaratnasamuccaya; only the encoding is
 different.
-
 cheers,
 Tom
--- 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Thomas Ridgeway, Director,
 Humanities and Arts Computing Center/NorthWest Computing Support Center
@@ -49,7 +30,6 @@ Zip is a standard method for archiving and compressing files for more
 compact storage and faster transmission through networks.  You must
 have an unzip utility to make use of a zipped file.  Consult your local
 computer support team if you need assistance in acquiring an unzip
-
 Ftp is the 'file transfer protocol' widely used for moving files from
 machine to machine over the network.  That you are able to recieve this
 e-mail message suggests (but does not prove) that you have the capability
@@ -57,9 +37,3 @@ of performing ftp (if you knew but how!).  For assistance in this matter,
 consult your local computer support team.  N.b. zip files must be
 transferred in binary mode: be sure to ask what that means.  Also tell
 them that you need to know how to do 'anonymous' ftp.
- 
-
-
-
-
-

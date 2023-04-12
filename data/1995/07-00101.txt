@@ -1,29 +1,12 @@
-From ucgadkw at ucl.ac.uk  Tue Jul 18 12:41:49 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 18 Jul 95 12:41:49 +0000
-Subject: List of Sanskrit words
-Message-ID: <161227020051.23782.8925296868605761236.generated@prod2.harmonylists.io>
-
-
+List of Sanskrit words
 Through the kindness of Nandakish Abhyankar, a list of 128,000 Sanskrit
 words has been made available at the INDOLOGY supplementary ftp site.
 The easiest way to access this and other files is via the INDOLOGY web page:
 http://www.ucl.ac.uk/~ucgadkw/indology.html (see fourth page).  Plain
 ftp from ftp.bcc.ac.uk:/pub/users/ucgadkw/indology will also work.
 Look for the files sanskrit-wordlist.zip and sanskrit-wordlist.readme.
-
 The wordlist is based on the Tokunaga Mahabharata and Ramayana files; it
 still requires some massaging to be usable, for instance, in a spelling
 checker, but it provides an very useful basis for such a tool.
-
 Many thanks, Nandu.
-
 Dominik
-
-
- 
-
-
-
-
-

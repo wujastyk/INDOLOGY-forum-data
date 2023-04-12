@@ -1,48 +1,22 @@
-From jpo at austin.utexas.edu  Wed Oct  9 14:28:09 2019
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Wed, 09 Oct 19 14:28:09 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_XeLaTeX_and_=E0=A4=A1=E0=A5=8D=E0=A4=AD=E0=A4=BF?=
-In-Reply-To: <AM0PR09MB416123DB5FDB8A24FE8EF997A5950@AM0PR09MB4161.eurprd09.prod.outlook.com>
-Message-ID: <119E8C4A-293C-4C0F-8660-9DABEFCD90D0@austin.utexas.edu>
-
+=?utf-8?Q?Re:_[INDOLOGY]_XeLaTeX_and_=E0=A4=A1=E0=A5=8D=E0=A4=AD=E0=A4=BF?=
 Hi Arlo:
-
 On Mac using Devanagari-QWERTY keyboard and the Sanskrit 2003n or Pendantic Indic font I get:
-
 ????
 Hope it shows the right ligature when transmitted. Best,
-
 Patrick
-
-
-
-
-
-
-
 On Oct 9, 2019, at 8:59 AM, Arlo Griffiths via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
 Dear colleagues,
-
 Does anyone know a way to get the ligature ???? to display without vir?ma inDevanagari MT, if need be through some amount of XeTeXglyph fiddling?
-
 I am pasting below the list of ligatures for which I have found it necessary so far to fake special measures using Devanagari MT. If it is clear that adopting a different font will make most of these special cases go away, please advise me.
-
 Thank you, and best wishes,
-
 Arlo Griffiths
-
-
 % to deal with font bug involving r.r
 \newcommand{\rru}{\XeTeXglyph 59 \kern-.15em\hbox{\XeTeXglyph 533}}
-
 % to make \rru with long ..rr
 \newcommand{\rruu}{\XeTeXglyph 137 \XeTeXglyph 424}
-
 %kka
 \newcommand{\kka}{\XeTeXglyph 174}
 \newcommand{\kkA}{\XeTeXglyph 174\XeTeXglyph 100}
-
 %kta
 \newcommand{\kta}{\XeTeXglyph 261}
 \newcommand{\ktam}{\XeTeXglyph 261 \XeTeXglyph 530}
@@ -58,11 +32,9 @@ Arlo Griffiths
 \newcommand{\kte}{\XeTeXglyph 261 \XeTeXglyph 507}
 \newcommand{\kto}{\XeTeXglyph 261 \XeTeXglyph 109}
 \newcommand{\ktva}{??????}%if we ever need this again, it would be more logical to name it \ktvA
-
 %to obtain proper ktya
 \newcommand{\ktya}{{\XeTeXglyph 175}{\XeTeXglyph 252}?}
 \newcommand{\ktyA}{{\XeTeXglyph 261}{\XeTeXglyph 252}?}
-
 %?ka
 \newcommand{\ngka}{\XeTeXglyph 201}
 \newcommand{\ngkA}{\XeTeXglyph 201 \XeTeXglyph 100}
@@ -72,12 +44,10 @@ Arlo Griffiths
 \newcommand{\ngkti}{\XeTeXglyph 401 \XeTeXglyph 207}
 \newcommand{\ngkSva}{\XeTeXglyph 208}
 \newcommand{\ngkSve}{\XeTeXglyph 208 \XeTeXglyph 507}
-
 %?kha
 \newcommand{\ngkha}{\XeTeXglyph 202}
 \newcommand{\ngkhA}{\XeTeXglyph 202 \XeTeXglyph 100}
 \newcommand{\ngkhe}{\XeTeXglyph 202 \XeTeXglyph 507}
-
 %to obtain proper ?ga, ?ga?, ?g?, ?gi, ?g?, ?gu, ?g?, ?gr?, ?ge, ?gai, ?go, ?gau
 \newcommand{\ngga}{\XeTeXglyph 204}
 \newcommand{\nggah}{\XeTeXglyph 204\XeTeXglyph 52}
@@ -96,23 +66,18 @@ Arlo Griffiths
 \newcommand{\nggai}{\XeTeXglyph 107 \XeTeXglyph 204}
 \newcommand{\nggo}{\XeTeXglyph 204 \XeTeXglyph 109}
 \newcommand{\nggau}{\XeTeXglyph 110 \XeTeXglyph 204}
-
 %to obtain proper ?gha
 \newcommand{\nggha}{\XeTeXglyph 205}
-
 %?m?, ?mau
 \newcommand{\ngma}{\XeTeXglyph 206}
 \newcommand{\ngmA}{\XeTeXglyph 206\XeTeXglyph 100}
 \newcommand{\ngmu}{\XeTeXglyph 206\XeTeXglyph 431}
 \newcommand{\ngmU}{\XeTeXglyph 206\XeTeXglyph 436}
 \newcommand{\ngmau}{\XeTeXglyph 206\XeTeXglyph 110}
-
 % to deal with font bug involving cchv
 \newcommand{\cchve}{\XeTeXglyph 217 \XeTeXglyph 72 \XeTeXglyph 362 \XeTeXglyph 414}
-
 %jj
 \newcommand{\jju}{\XeTeXglyph 482}
-
 % to deal with font bug involving ?ja
 \newcommand{\nja}{\XeTeXglyph 482}
 \newcommand{\njA}{\XeTeXglyph 482  \XeTeXglyph 100}
@@ -121,29 +86,21 @@ Arlo Griffiths
 \newcommand{\njI}{\XeTeXglyph 482 \XeTeXglyph 102}
 \newcommand{\njai}{\XeTeXglyph 482 \XeTeXglyph 511}
 \newcommand{\njo}{\XeTeXglyph 482 \XeTeXglyph 109}
-
 %to make ttra ligature
 \newcommand{\ttra}{???\XeTeXglyph470}
-
 %to make ttri ligature
 \newcommand{\ttri}{\XeTeXglyph401\XeTeXglyph259\XeTeXglyph470}
-
 %ttv?
 \newcommand{\ttvA}{\XeTeXglyph259\XeTeXglyph362\XeTeXglyph100}
-
 %?bha
 NO SOLUTION YET
-
 % to make dgr?
 \newcommand{\dgr}{\XeTeXglyph 270 \XeTeXglyph 445}
-
 %to make ddv ligature
 \newcommand{\ddvA}{\XeTeXglyph 286 \XeTeXglyph 100}
 \newcommand{\ddvi}{\XeTeXglyph 101 \XeTeXglyph 286}
-
 %to make ddhv ligature
 \newcommand{\ddhv}{???\XeTeXglyph 362}
-
 %to make db
 \newcommand{\dba}{\XeTeXglyph272}
 \newcommand{\dbu}{\XeTeXglyph272\XeTeXglyph 435}
@@ -152,10 +109,8 @@ NO SOLUTION YET
 \newcommand{\dbR}{\XeTeXglyph272 \XeTeXglyph 445}
 \newcommand{\dbra}{\XeTeXglyph 272\raise.19em\hbox{\XeTeXglyph469}}
 \newcommand{\dbru}{???\XeTeXglyph470\raise.05em\hbox{\XeTeXglyph436}}
-
 %to make dbhu
 \newcommand{\dbhu}{\XeTeXglyph280\raise.12em\hbox{\XeTeXglyph431}}
-
 %pt
 \newcommand{\pta}{\XeTeXglyph257}
 \newcommand{\ptam}{\XeTeXglyph257\XeTeXglyph530}
@@ -168,45 +123,22 @@ NO SOLUTION YET
 \newcommand{\ptim}{\XeTeXglyph 402 \XeTeXglyph 257}
 \newcommand{\pte}{\XeTeXglyph257 \XeTeXglyph414}
 \newcommand{\pto}{\XeTeXglyph257 \XeTeXglyph109}
-
 %-om?
 \newcommand{\coM}{??\kern.2em\raise.12em\hbox{\XeTeXglyph 531}}
 \newcommand{\dyoM}{????\raise.12em\hbox{\XeTeXglyph 531}}
 \newcommand{\moM}{??\kern.2em\raise.12em\hbox{\XeTeXglyph 531}}
 \newcommand{\roM}{??\raise.12em\hbox{\XeTeXglyph 531}}
-
 %??v
 \newcommand{\STvA}{\XeTeXglyph 368\XeTeXglyph 361\XeTeXglyph 100}
 \newcommand{\STve}{\XeTeXglyph 368\XeTeXglyph 361\XeTeXglyph 414}
-
 %h?a
 \newcommand{\hNa}{\XeTeXglyph393}
 \newcommand{\hNA}{\XeTeXglyph393\XeTeXglyph100}
 \newcommand{\hNi}{\XeTeXglyph101\XeTeXglyph393}
 \newcommand{\hNI}{\XeTeXglyph393\XeTeXglyph102}
-
-
-
-
-
-
-
-
-
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
 This message is from an external sender. Learn more about why this <<
 matters at https://links.utexas.edu/rtyclf.                        <<
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191009/75886e97/attachment.htm>
-

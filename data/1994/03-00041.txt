@@ -4,16 +4,12 @@ and you can afford to buy a copy, please do so.  If are impressed,
 but you don't yet have a use for Executor (because it doesn't
 support color, or because your favorite program doesn't work), help
 spread the news.
-
 If you have any contacts in the following areas, you can help us
 greatly by passing your Executor enthusiasm on to:
-
                                                                                 The Pres    We need more mentions of Executor in
                                                                                                                                 the trade press, and eventually in the popular press, as
 well.
-
 Bulletin Boards   Upload the latest Executor/DOS Demo where appropriate.
-
 Macintosh Software Authors   Get them to see what Executor can do now, and
 give them a copy of the Executor/DEMO if they have access to a PC and a
 copy of README.ISV if they don't.  With PCs, they can potentially multiply
@@ -21,39 +17,25 @@ their potential customer base by a factor of five, but even if they have a
 Windows version too, Executor promises to deliver the UNIX workstation
 market and hopefully the advanced home video game/entertainment system as
 well (see below)
-
 PC Clone Manufacturers   Tell them that you wish you could have paid an
 additional $25 when you bought your machine and got substantial Mac
 emulation.  We're already talking to one of the top 10 ... a single
 bundling deal will assure us of sufficient revenues to get Executor/DOS 2.0
 out the door quickly.
-
 The Educational Establishment   Executor/DOS 1.1 is extremely handy to some
 Professors, Instructors and Teachers.  Under 1.1, Courseware is much more
 likely to run than big-ticket applications, because courseware is usually
 developed using the same documentation (Inside Macintosh) that we used to
 write Executor.  Big-ticket applications are more likely to "color outside
 the lines"
-
 Sega, Nintento, 3DO   If you know someone who works at any of these
 companies, let 'em know about us.  The processors that will be used in the
 next generation of video games will be more than adequate to do Macintosh
 emulation.  We'd like to have the software ready when they have the
 hardware ready.
-
 Thanks!
-
 Clifford T. Matthews  ctm at ardi.com Founder ARDI
 +1 505 766 9115 Phone
 +1 505 247 1899 FAX
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
- 
-
-
-
-
-

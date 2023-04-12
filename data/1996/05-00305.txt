@@ -1,29 +1,5 @@
-From kellner at ipc.hiroshima-u.ac.jp  Sun May 19 16:32:10 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Mon, 20 May 96 01:32:10 +0900
-Subject: [Q]jyoti.h'saastra - what is "catarchic"?
-Message-ID: <161227024699.23782.17150784773271971114.generated@prod2.harmonylists.io>
-
+[Q]jyoti.h'saastra - what is "catarchic"?
 At 20:59 1996-05-17 BST, Allen Thrasher wrote:
->	I must express a revervation as to what Birgit Kellner says in the message
->quoted below on using Greek or Greek-derived terminology in discussing
->Indian jyotihsastra.  Certainly the Sanskrit terminology ought not to be
->omitted, but the case of jyotihsastra is different from that of grammar,
->philosophy, and other fields where the two civilizations developed their
->Wissenschaften in isolation from one another.  Even if one discounts the
->evidence that Indian astronomy/astrology is profoundly indebted to
->Babylonian and Greek counterparts, many if not most of the concepts are
->shared or similar.  For this reason to use terminology of Greek origin is
->one might argue to reflect accurately the fact that it's a body of
->knowledge that is in large part shared across several civilizations.  In
->addition, in pursuing a sort of ethnic purity of terminology one risks
->putting the research off into a exoticist, "Orientalist" corner in which
->there is on the one hand _the_ history of astral science and on the other
->the history of _Indian_ jyotihsastra.  In discussing the closely related
->field of Indian mathematics, would scholars recommend, and do they in
->fact, routinely eschew the use of international mathematical terminology
->for the near-exclusive use of Sanskrit (or Prakrit) terms?
-
 As became obvious from my postings on Jyoti.h'saastra, I know next to
 nothing about it (At this point, I have to apologize for my sloppy reading
 of Pingree's book. As Takao Hayashi pointed out, there is indeed a passage
@@ -35,7 +11,6 @@ always useful and, to a certain extent, necessary to compare Sanskrit
 terminology to that of one's own language, or to that terminology which has
 become accepted as a standard of the same/a corresponding body of knowledge
 in one's own tradition/culture. This is part of the learning-process. 
-
 Secondly, to what degree the "own", e.g. Greek terminology, should be used
 in publications depends on the purpose and target audience of the study,
 irrespective of whether certain bodies of knowledge are historically
@@ -45,11 +20,9 @@ mainly for astronomers, there's nothing wrong with writing in astronomer's
 jargon, if he writes for the general public, that would be inappropriate. It
 is part of a writer's skill to develop a sensorium of what knowledge can be
 presupposed on part of what audience. 
-
 As for two points levelled against a purely Sanskritistic terminology (if
 one might choose to advocate such a strange breed, which I'm not) I am not
 convinced by either. 
-
 To the "shared across several civilizations"-argument: If one and the same
 body of knowledge is shared across several civilizations, there is no
 particular reason why one language should be preferable to another. The only
@@ -69,7 +42,6 @@ claim that "the Indian philosopher's claim A is none other than the ancient
 Greek/medieval French/post-modern notion of B". So what? Such an
 unsophisticated application of comparativism only results in an obfuscation
 of both crucial differences and (really) important parallels. 
-
 As for the "exoticism"-danger, I am not convinced either. Actually, I can
 imagine that the constant usage of Greek terminology would produce more
 exoticism than the constant (and explained) usage of Sanskrit terminology,
@@ -80,7 +52,6 @@ and clear analysis of ancient Greek astronomy by wrapping layers of strange
 Sanskrit around it? By reducing Sanskrit terminology to Greek equivalents,
 the prejudice of "on the one hand _the_ history of astral science and on the
 other the history of _Indian_ jyotihsastra" is reinforced rather than removed. 
-
 Much more has already been said and written on this subject, and much more
 probably will (and shall) be. Anyway, before using Greek terminology,
 obviously, one would have to establish THAT Greek and Indian sciences really
@@ -88,13 +59,6 @@ employ corresponding notions. There's nothing wrong with a sophisticated use
 of Greek terminology, i.e. with one which is explained and made clear, and
 fortunately, the beautiful creature of "annotation" still inhabits the dense
 forest of academia, and let's hope that it won't become extinct. 
-
 Birgit Kellner
 Department for Indian Philosophy
 University of Hiroshima
-
-
-
-
-
-

@@ -1,27 +1,12 @@
-From karp at UW.EDU.PL  Wed Jun 13 08:57:59 2012
-From: karp at UW.EDU.PL (Artur Karp)
-Date: Wed, 13 Jun 12 10:57:59 +0200
-Subject: Sinhala ligatures
-In-Reply-To: <CAEgrCzDygbvZG-8tYmXcUGnVBcXSPcZDAdHBHCCSEzn8rYhTBQ@mail.gmail.com>
-Message-ID: <161227096511.23782.7600363333059061661.generated@prod2.harmonylists.io>
-
+Sinhala ligatures
 Dear Colleagues,
-
 my sincere thanks to?Tatiana Oranskaia, Rohana Seneviratne, James Gair
 and Simon Wiles - who used some of their valuable time to answer my
 request for assistance re Sinhala fonts and ligatures.
-
 I am now well equipped to tackle my task head on.
-
 The bhashittha complex font sent by Simon Wiles seems to solve all my
 problems with the Sinhala script (simple and conjunct letters), and
 all what is needed for the transliteration is supplied by the gandhari
 unicode font.
-
 Thanks once more,
-
 Artur Karp
-
-
-
-

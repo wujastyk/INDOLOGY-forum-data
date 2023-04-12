@@ -1,57 +1,27 @@
-From surya42 at HOTMAIL.COM  Sat Oct 30 12:00:39 1999
-From: surya42 at HOTMAIL.COM (Suryanarayana Korada)
-Date: Sat, 30 Oct 99 12:00:39 +0000
-Subject: Panini vs John Backus
-Message-ID: <161227053164.23782.14095529785634338819.generated@prod2.harmonylists.io>
-
->Backus joined IBM as a programmer in 1950. He is the inventor of FORTRAN,
->the first high level computer language to be developed. It became
->commercially available in 1957.
->
->In 1959 he invented the BNF, a standard notation to describe the syntax of
->a high level programming language.
->
->At one place, I found BNF to be described as "Backus Naur Form" and at
->other as "Backus Normal Form". Which one is correct?
->
->Panini should be thought of as the forerunner of the modern formal language
->theory used to specify computer languages. Why?
->
->The BNF was discovered independently by John Backus in 1959, but Panini's
->notation is equivalent in its power to that of Backus and has many similar
->properties. Could anyone provide me any example to substantiate this claim?
-
+Panini vs John Backus
 The formal language system of Panini is found to have many parallels with
 present day computer programs and has been the subject of many research
 papers in recent times. The word "formal" refers to the fact that all the
 rules for the language are explicitly stated in terms of what strings of
 symbols could occur without any ambiguity and need for interpretation.
-
 The BNF ( originally "Backus Normal Form" , later changed to "Backus-Naur
 Form") has the following meta-symbols:
-
 ::=      meaning "is defined as"
 |        meaning "or"
 <>       angle brackets used to surround category names.
-
 The angle brackets distinguish syntax rules ( also called non-terminal
 symbols) from terminal symbols which are written exactly as they are to be
 represented. A BNF rule defining a nonterminal has the form:
-
 nonterminal ::= sequence_of_alternatives consisting of strings of terminals
 or nonterminals separated by the meta-symbol |
-
 For example,the BNF production for a mini-language is:
-
 <program> ::= program
               <declaration_sequence>
               begin
               <statements_sequence>
               end:
-
 Ingerman (1967) in ACM Communications mentions why "Backus-Naur Form" should
 be renamed "Panini-Backus Form" :
-
 "perhaps his (Panini's )  most significant work was the compilation of a
 grammar of Sanskrit. In order to describe the (rather complicated ) rules of
 grammar, he invented a notation which is equivalent in its power to that of
@@ -60,32 +30,20 @@ put, it is possible to identify structures equivalent to Backus "|" and to
 the use of meta-brackets "<" and ">" enclosing suggestive names. Panini
 avoided the necessity for the character "::=" by writing the meta-result on
 the right rather than the left.
-
 Since it is traditional in professional circles to give credit where credit
 is due, and since there is clear evidence that Panini was the earlier
 independant inventor of the notation, may I suggest the name "Panini-Backus
 Form" as being a more desirable one? ".
-
 For BNF notation of Paninian rules see:
-
 K.Suryanarayana and G.V.Singh "Morphology in Paninian Grammar", Proc. of the
 Inter.conf.on Applications of Information Technology in South Asian
 Languages, New Delhi, 1994.
-
 references:
 1.Knuth,Donald (1964) "Backus Normal Form vs Backus-Naur Form",Comm.ACM,
 7,12,p735-736.
-
 2.Ingerman,P.Z.(1967) "Panini-Backus Form Suggested", Comm.ACM,10,3,p137.
-
 Suryanarayana Korada,
 School of Computer&Systems Sciences,
 Jawaharlal Nehru Univ.
 New Delhi- 110 067.
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

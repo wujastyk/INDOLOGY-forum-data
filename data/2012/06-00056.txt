@@ -1,51 +1,21 @@
-From karp at UW.EDU.PL  Sun Jun 17 07:34:29 2012
-From: karp at UW.EDU.PL (Artur Karp)
-Date: Sun, 17 Jun 12 09:34:29 +0200
-Subject: Santipur OT
-In-Reply-To: <CAEgrCzCQmB80aL7scOP83cAi8wmqPiE6hERqqF=BDS_5L7Fd4g@mail.gmail.com>
-Message-ID: <161227096551.23782.10306787140192023873.generated@prod2.harmonylists.io>
-
+Santipur OT
 Dear All,
-
 The problem is already solved. A friendly and kind advice (or 'hitopade?a')
 from Dr. Viacheslav Zaytsev from the Institute of Oriental Manuscripts of
 the Russian Academy of Sciences, St. Petersburg.
-
 To whom my special thanks.
-
 In fact a simple operation. To produce, say, *ndrya*: from the symbols
 table of, say, Arial Unicode, select *?*, add *virama*, add *?*, add *virama
 *, add *?*, add *virama*, add ?:
-
 [na + virama - n + da - nda + virama - nd + ra - ndra + virama - ndr + ya =
 ndrya]
-
 ? - ?? - ??? - ???? - ????? - ?????? - ???????
-
-
 ??? ????? ???
-
-
 The same rule goes for santipur OT, bengali fonts, like shonar.ttf or
 vrinda.ttf, etc.
-
-
 Best,
-
-
 Artur Karp
-
-
 Senior Lecturer in Sanskrit and Pali (ret.)
-
 South Asian Studies Dept.
-
 Oriental Faculty
-
 University of Warsaw
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120617/e7268fd5/attachment.htm>
-

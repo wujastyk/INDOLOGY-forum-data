@@ -1,19 +1,12 @@
-From Ramesh.Kushwaha at um.cc.umich.edu  Wed Aug  3 15:23:26 1994
-From: Ramesh.Kushwaha at um.cc.umich.edu (Ramesh.Kushwaha at um.cc.umich.edu)
-Date: Wed, 03 Aug 94 11:23:26 -0400
-Subject: Affordable HINDI FONT for IBM PC/MAC
-Message-ID: <161227017010.23782.9050571745865781471.generated@prod2.harmonylists.io>
-
+Affordable HINDI FONT for IBM PC/MAC
 Hi,
  Based on feedbacks, need, and demand for a low price Hindi FONT, I
 decided to develop such a FONT so that Hindi can be promoted
 among Indians living abroad. The prices for such fonts available
 in the market range from $99 to $300 which is very high.
- 
 I have developed a Hindi Font for IBM PC or MAC computer and would like
 to sell it at $25.00 only. I would like to see more Indian especially
 children born abroad, using Hindi and computer is a great tool fo it.
- 
 I can provide font in either True Type Font(TTF) or postscript Type 1,
 or Post Script type3. Windows can use True Type font without any
 problem and same is true for Macinstosh operating system. One
@@ -28,36 +21,18 @@ All necessary, required Hindi (devanagari) characters and conjuncts
 are available. The characters are input phonetically from the English
 keyboard. The mapping of Hindi characters to English keyboard
 is very easy to remember.
- 
 If you have further questions, please feel free to send me 
 E-Mail or call at 313-434-1970. To order or info, please
 send a CHECK of $25 + $3 for Shipping and Handling to :
- 
    MEDCOM
  3757 Helen Ave.
  Ypsilanti, MI 48197, USA
- 
- 
 Thanks,
- 
 Ramesh Kushwaha
- 
-
 Original-Received: by 
                    bronze.ucs.indiana.edu
 PP-warning: Illegal Received field on preceding line
-Date: Wed, 3 Aug 1994 10:45:12 -0500
-From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
-To: indology at liverpool.ac.uk
-Subject: Re: indology subscription
-Message-ID: <"mailhub.li.747:03.07.94.15.45.22"@liverpool.ac.uk>
-
+Re: indology subscription
 It looks like that you already subscribed, I suppose that is the 
 most important.  Good luck, I do not know much beyond subscribing
 and asking questions myself. 
- 
-
-
-
-
-

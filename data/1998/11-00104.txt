@@ -1,20 +1,5 @@
-From mcv at WXS.NL  Fri Nov  6 09:27:55 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Fri, 06 Nov 98 09:27:55 +0000
-Subject: Paired Horse and PIE breakup
-In-Reply-To: <19981105184823.20921.qmail@hotmail.com>
-Message-ID: <161227042324.23782.1227418662310758427.generated@prod2.harmonylists.io>
-
+Paired Horse and PIE breakup
 "N. Ganesan" <naga_ganesan at HOTMAIL.COM> wrote:
-
->  Many guesses for PIE splitup dates are possible. But the
->  evidence points to a more likely scenario that PIE people
->  lived as one single speech community in rather a small
->  region after 3500 B.C.. Want to know the reasons
->  why PIE split up before 6000 B.C.? I will appreciate
->  Summary of main points for a PIE split date like
->  6000 B.C. or references.
-
 Renfrew puts PIE around or before 6000 BC (the date of the earliest
 farmers in Greece and the Balkans) or even earlier, in Anatolia
 (Catal Huyuk, c. 7000 BC).  Such dates are impossibly early, and
@@ -24,7 +9,6 @@ and Greek the direct descendant of the language of the first farmers
 that crossed over from Anatolia to Greece, then we would expect Greek
 to be closest to Hittite.  In fact, Greek is much more similar to
 Sanskrit than to Hittite).
-
 But I do agree with Renfrew that there's a striking similarity
 between the expansion of Indo-European languages across Europe and
 the expansion of agriculture across the same area.  It has to be
@@ -47,17 +31,14 @@ north-west across Germany to the Netherlands and from Hungary
 north-east to Czechia, Slovakia and Poland.  A little later, the
 Dnepr-Donets culture expands (from Poland/Belarus?) into the
 Ukrainian and Caspian forest-steppes.
-
 My theory is that these movements c. 5500 BC represent the breakup of
 PIE (Proto-Hittite staying behind in the Balkan area, the Ko"ro"s/LBK
 groups moving east and west to eventually become Western and Eastern
 Indo-European).
-
 Admittedly, the common vocabulary for wheeled transport is a problem
 for my theory (not as much as for Renfrew's version, of course).  If
 wheeled transport was invented c. 3500 BC, there is still a gap of
 two millennia between my date for PIE breakup and the wheel.
-
 There is of course the possibility that future archaeological finds
 may push the date a bit further back [we are dealing with perishable
 wooden, non-metallic, artifacts after all], but it seems unlikely
@@ -76,7 +57,6 @@ the Roman Empire, which might be confused for original Proto-Romance
 classical example is pseudo-Latin *<duos gentes de armas super
 caballos>, "two policemen on horses".  But the Latin for "horses" was
 <equi>, and "gendarmes" as such did not exist in Roman times.
-
 Furthermore, most of the words in question are derived from common IE
 roots (*weg^h- "to carry" -> "to tranport, to ride", *ak^s- "armpit,
 arm, shoulder, wing" -> "axle", *kwel-, *kwekwel- "to turn, to spin"
@@ -86,13 +66,7 @@ IE dialects were still largely mutually intelligible (as the Romance
 languages are today), such transparent formations may have easily
 been picked up and adopted by other Indo-European speakers, along
 with the items themselves.
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

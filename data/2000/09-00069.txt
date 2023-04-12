@@ -1,11 +1,5 @@
-From harryspier at HOTMAIL.COM  Wed Sep  6 02:25:17 2000
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Tue, 05 Sep 00 22:25:17 -0400
-Subject: Some regional variations in Indian lunar calendar
-Message-ID: <161227061420.23782.5929013911506499212.generated@prod2.harmonylists.io>
-
+Some regional variations in Indian lunar calendar
 Dear list members,
-
 I'm writing a computer program to calculate the Indian lunar calendar using
 the formulas in "Astronomical Algorithms" by Jean Meeus.  (One of the
 reasons I'm doing this is to be able to calculate the dates of Indian
@@ -18,43 +12,29 @@ quite straight forward but S.K. Chatterjee in "Indian Calendric System" page
 37 states that there is regional variation in the handling of kshaya months
 with three different schools, broadly covering three geographic areas as
 follows:
-
 a) Eastern School (generally followed in Eastern and parts of N.E. India)
 1st adhika month before kshaya month treated as intercalary (mala) month
 with no festivals celebrated. 2nd adhika month after kshaya month treated as
 normal month named after solar month overlaped by kshaya month.
-
 b) North Western School (generally followed in North-West, and a part of
 West India and also western part of N. India).
 1st adhika month treated as normal month and following months up to and
 including kshaya month treated as normal months corresponding to normal
 sequence and names of lunar months, but second adhika month treated as
 intercalary or mala month.
-
 c) Southern School (generally followed in South India and a part of western
 India).
 Both adhikca months treated as mala months with no festivals performed.  The
 kshaya month treated as jugma or dual month.
-
 Can anyone tell me which of the above three methods of handling kshaya month
 would be used in the state of Maharashtra?  Or perhaps more specifically
 which method would a vedic priest of the Hiranyakeshin school of the
 taittiriya samhita in Maharashtra be most likely to use?
-
 Many thanks in advance,
-
-
 Harry Spier
 371 Brickman Rd.
 Hurleyville, New York
 USA 12747
-
-_________________________________________________________________________
 Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
-
 Share information about yourself, create your own public profile at
 http://profiles.msn.com.
-
-
-
-

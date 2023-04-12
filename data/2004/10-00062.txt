@@ -1,45 +1,22 @@
-From baums at U.WASHINGTON.EDU  Wed Oct 27 20:08:13 2004
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Wed, 27 Oct 04 13:08:13 -0700
-Subject: Devanagari
-In-Reply-To: <20041027194129.RDSS3605.amsfep18-int.chello.nl@Winston>
-Message-ID: <161227075148.23782.18108567079199267505.generated@prod2.harmonylists.io>
-
-> I have been looking for an Internet site which shows all
-> ligatures used in Sanskrit.
-
+Devanagari
 Ulrich Stiehl has designed an OpenType Sanskrit font that attempts
 cover all conjuncts that occur in a substantial corpus of Sanskrit
 texts.  The font can be downloaded here
-
    http://www.omkarananda-ashram.org/Sanskrit/itranslator2003.htm
-
 The manual for the font is at
-
    http://www.sanskritweb.de/itmanual2003.pdf
-
 See p. 28 ff. for the corpus of covered texts and an alphabetical
 list of all ligatures.  There is also a short paper at
-
    http://www.sanskritweb.de/mathe.pdf
-
 that lists the ?807 tats?chlich belegten Sanskrit?Ligaturen? on
 p. 4.
-
 For some of the ligatures that he lists, I find it hard to think
 of words that would contain them, but I have never felt compelled
 to systematically verify his results (which could presumably be
 automated by writing a script that searches for all the ligatures
 on the list in texts available from GRETIL).
-
 Best regards,
 Stefan Baums
-
---
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

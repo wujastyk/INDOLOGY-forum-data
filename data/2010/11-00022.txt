@@ -1,11 +1,5 @@
-From r.mahoney at INDICA-ET-BUDDHICA.ORG  Thu Nov  4 09:14:03 2010
-From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
-Date: Thu, 04 Nov 10 22:14:03 +1300
-Subject: SARIT web application - Errors and Error Reporting
-Message-ID: <161227090718.23782.6898602672672702977.generated@prod2.harmonylists.io>
-
+SARIT web application - Errors and Error Reporting
 Dear Readers,
-
 I have just been trying to use the SARIT web application for the first
 time since the move from the States to Austria. Unfortunately, the web
 interface seems to have been broken. While this is sometimes minor
@@ -15,24 +9,12 @@ material using simple ASCII character codes. Does anyone know who is
 currently maintaining the site? I would like to be able to send
 through a list of issues that seem to have arisen subsequent to the
 site `upgrade'.
-
-
 Best regards,
-
  Richard
-
-
-
--- 
 Richard MAHONEY - Indica et Buddhica
-
 Littledene, Bay Road, OXFORD 7430, NZ
 PO Box 25, OXFORD 7443
 +64 3 312 1699 / +64 275 829 986
 r.mahoney at indica-et-buddhica.org
 http://indica-et-buddhica.org
 http://camera-antipodea.indica-et-buddhica.com
-
-
-
-

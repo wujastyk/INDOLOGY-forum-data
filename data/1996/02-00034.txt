@@ -1,33 +1,8 @@
-From Th.Malten at Uni-Koeln.DE  Mon Feb  5 08:57:23 1996
-From: Th.Malten at Uni-Koeln.DE (Thomas Malten)
-Date: Mon, 05 Feb 96 09:57:23 +0100
-Subject: Skt dictionaries on-line
-Message-ID: <161227022570.23782.11660844488521734104.generated@prod2.harmonylists.io>
-
-> 
-> I have just been away for a year, and off-line. But I have a fuzzy 
-> recollection that somebody was putting, or had put, Monier-Williams' 
-> Skt-Eng dict. on-line or on CD Rom. Is this kalpanaa, or did somebody 
-> really do it? If not, does someone out there know of any Skt-Eng 
-> dictionaries on line?
-> Thanks
-> Fred Smith
-> School of Religion / Dept. of Asian Lang. & Lit.
-> Univ. of Iowa
-> 
-> 
+Skt dictionaries on-line
 I am working on a digital version of Monier-Williams and Boehtlingk (p).
 A preliminary online version of MW will be hopefully released this
 summer.
 -Thomas Malten
 Institut fuer Indologie & Tamilistik, Pohligstr. 1, 50969 Koeln, Germany
-Tel. 49-0221-470-5340, Fax 49-0221-470-5151, email th.malten at uni-koeln.de
 gopher linus.informatik.uni-koeln.de; ftp://ftp.rrz.uni-koeln.de/institute/indologie 
 http://www.rrz.uni-koeln.de/phil-fak/indologie/index.html
-
- 
-
-
-
-
-

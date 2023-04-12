@@ -1,9 +1,4 @@
-From asg at U.WASHINGTON.EDU  Thu Nov 14 20:05:54 2002
-From: asg at U.WASHINGTON.EDU (Andrew Glass)
-Date: Thu, 14 Nov 02 12:05:54 -0800
-Subject: Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)
-Message-ID: <161227071708.23782.9121064142442850051.generated@prod2.harmonylists.io>
-
+Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)
 On the subject of fonts, Indologists using Windows ME/2000/XP and/or
 Word 1997/2000/XP (even on Windows 95 and 98), or almost any editor or
 word processor under the GNU/Linux or BSD operating systems, should
@@ -25,7 +20,6 @@ support unicode, too, so it is also possible to send transliterations
 of Sanskrit text in email.  (One just needs to find out how to input
 them: we provide solutions to that on our webpages, for Windows and
 GNU/Linux or BSD respectively, addresses at the foot of the email).
-
 However, at this point the standard Serif fonts supplied with
 Windows do not include all of the diacritics needed for Sanskrit
 transliteration: particularly the retroflexes are missing.  (GNU/Linux
@@ -33,7 +27,6 @@ and BSD do not suffer from this to quite the same degree: their included
 and widely used bitmaps fonts cover the whole range of
 Indological diacritics.)  There are now several font options for
 Indologists interested in using unicode:
-
    1.  The Early Buddhist Manuscripts Project's Gandhari Unicode font.
    This font is based on the original URW+ Postscript fonts donated to
    the free software community, has been extended to display the
@@ -49,7 +42,6 @@ Indologists interested in using unicode:
    email.  Gandhari Unicode is free and open source software: it is
    licensed under the GNU General Public License
    (http://depts.washington.edu/ebmp/software.html)
-
    2. URW+ Palladio UNI.  This 16-bit Unicode TrueType font includes
    all diacritics defined by ISO 15919 (Transliteration of Indic
    Scripts covering all ancient and modern languages of India).  It
@@ -57,7 +49,6 @@ Indologists interested in using unicode:
    European languages so that this font can be used by Indologist
    using pretty much any European language.
    (http://home.t-online.de/home/ulrich.stiehl/polfonts.htm#UNI)
-
    3. Titus Cyberbit Basic.  This font includes, among other
    characters, a (nearly) complete set of Korean, Japanese, and
    Chinese characters.  Bold and Italic variants of this font are not
@@ -65,16 +56,12 @@ Indologists interested in using unicode:
    does not provide full coverage of Latin diacritics, Ancient Greek,
    Armenian, Georgian and the like.
    (http://titus.uni-frankfurt.de/indexe.htm?/unicode/unitest2.htm)
-
 Other utilities:
-
    4. John Smith provides tools for converting your existing files
    with CSX+ encoding to Unicode from his web site.
    (ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/README)
-
    5. James Kass has much unicode related information and many links
    on his site.  (http://home.att.net/~jameskass/)
-
    6. For users of Windows XP and/or Office XP, the Early Buddhist
    Manuscripts Project has developed an input method for Unicode
    Devanagari.  This input method allows the user to enter text using
@@ -84,34 +71,9 @@ Other utilities:
    font to use with this input method is the Arial Unicode OpenType font,
    included with Office XP.
    (http://depts.washington.edu/ebmp/downloads/Devanagari.exe)
-
 Andrew Glass
 Stefan Baums
-
 http://staff.washington.edu/asg/
 http://students.washington.edu/baums/
-
------ Original Message ----- 
-From: "Dominik Wujastyk" <ucgadkw at UCL.AC.UK>
-To: <INDOLOGY at liverpool.ac.uk>
 Sent: Thursday, November 14, 2002 6:42 AM
-Subject: Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)
-
-
-> -- Forwarded message --
-> ------------------------------------------------------------------
-> 
-> Norman Font and CSX+ Font for Modern Releases of Windows and Word
-> 
-> Besides the new CSX+ font, which is now fully compatible with modern
-> Windows (95/98/ME/2000/XP) and modern Word (1997/2000/XP), a similar
-> new font for K.R.Norman encoding is now downloadable from this site:
-> 
->   http://home.t-online.de/home/ulrich.stiehl/polfonts.htm
-> 
-> Ulrich Stiehl, Heidelberg
->
-
-
-
-
+Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)

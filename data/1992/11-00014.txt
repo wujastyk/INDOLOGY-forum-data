@@ -1,91 +1,46 @@
-From GOWDA at EDU.UOKNOR.OFFSYS.GSLAN  Wed Nov 25 17:39:54 1992
-From: GOWDA at EDU.UOKNOR.OFFSYS.GSLAN (Rajeev Gowda)
-Date: Wed, 25 Nov 92 11:39:54 -0600
-Subject: Early Indian Mathematics cites
-Message-ID: <161227015551.23782.12309081175137897859.generated@prod2.harmonylists.io>
-
-
+Early Indian Mathematics cites
 In response to Vivek Dwivedi's question on Vedic Mathematics, I have the
 following list that was sent to me nearly a couple of years ago by Professor
 Kak of Louisiana State University.  Assuming that Professor Kak doesn't mind
 dissemination of this list or his address, I enclose the following (it's not
 exactly Vedic mathematics but might be relevant).
- 
 Rajeev Gowda
 ****************************************************************************
- 
 Papers On History Of Science And Indology Since 1986
- 
 compiled by:
- 
 Subhash C. Kak
 Professor of Electrical and Computer Engineering
 Louisiana State University
 Baton Rouge, LA 70803, USA
 (504) 388-5552
 E-mail: kak at max.ee.lsu.edu
- 
 "A selected list of such papers (and books) is :
- 
 Computational aspects of the Aryabhata algorithm, IJHS,vol. 21, 1986, pp.
 62-71.
- 
->The roots of science in India, IICQ, vol. 13, 1986, pp. 181-196.
- 
->The Nature Of Physical Reality, New York: Peter Lang, 1986.
- 
->The Paninian approach to natural language processing,
 Int. J. of Approximate Reasoning, vol. 1, 1987, 117-130.
- 
 The study of the Indus script, Cryptologia, vol. 11, 1987, pp. 182-191.
- 
 On the decipherment of the Indus script, IJHS, vol. 22, 1987, pp. 41-62.
- 
->On astronomy in ancient India, IJHS, vol. 22, 1987, pp. 205-221.
- 
 On chronology of ancient India, IJHS, vol. 22, 1987, pp. 222-234.
- 
 The Aryabhata algorithm for polynomials, Electronics Letters,
 vol. 23, 1987, pp. 383-385.
- 
 Patanjali and Cognitive Science, Baton Rouge: Vitasta, 1987.
- 
 The Aryabhata cipher, Cryptologia, vol. 12, 1988, pp. 113-117.
- 
 A frequency analysis of the Indus script, Cryptologia,vol. 12, 1988,
 129-143.
- 
 The lotus and the rainbow, IICQ, vol. 15, No. 3, 1988, pp. 9-20.
- 
 Some early codes and ciphers, IJHS, vol. 24, 1989, pp. 1-7.
- 
 The Brahmagupta algorithm for square rooting, Ganita Bharati,
 vol. 11, 1989, pp. 27-29.
- 
 Bharatiya lekhana ke 5000 varsa, Kadambini, vol. 29, no. 6, 1989.
- 
 Indus writing, Mankind Quarterly, vol. 30, 1989, pp. 113-118.
- 
 The Vararuchi cipher, Cryptologia, vol. 14, 1990, pp. 79-83.
- 
 Indus and Brahmi: Further Connections, Cryptologia,vol. 14, 1990, pp.
 169-183.
- 
->The Riddle of Sankhya: The Indian Roots Of Computing And Cognitive
 Sciences,
 New Delhi: Allied, 1991.
- 
 The sign for zero, Mankind Quarterly, vol. 30, 1990, pp. 199-204.
- 
 The Lotus and the Rainbow: Essays on Contemporary India, In Press.
- 
-----------------------------------------------------------------------
 Also see papers by
 A. Seidenberg such as
 The origin of mathematics, Archive for the History of Exact Sciences,
 vol 18, 301-342, 1978."
-
-
-
-
-

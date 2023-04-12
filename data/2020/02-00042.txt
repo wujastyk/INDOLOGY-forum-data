@@ -1,31 +1,14 @@
-From wujastyk at gmail.com  Tue Feb 11 21:48:06 2020
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 11 Feb 20 14:48:06 -0700
-Subject: [INDOLOGY] Outage for some websites
-Message-ID: <CAKdt-CeHBuW2ExsdZhFZKWsaLXusWbFyAFqwLaQBGNy5sO2_OA@mail.gmail.com>
-
+[INDOLOGY] Outage for some websites
 Outage notice:
-
 The website
-
    - http://catalogues.indology.info
-
 is hosted on a system in the UK that is down for maintenance.  We're being
 told it will be 6-7 hours before it's back, starting at 23:00 hrs UTC.  By
 my reckoning that is about an hour and a half from now, so the outage may
 have started a little early.
-
 Other INDOLOGY-related websites are not affected, nor is the discussion
 list.
-
 I apologize for any inconvenience.
-
 Best,
 Dominik Wujastyk
 INDOLOGY committee member.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200211/8b6d793f/attachment.htm>
-

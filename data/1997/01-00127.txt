@@ -1,38 +1,7 @@
-From raynaldp at bbsi.net  Thu Jan 23 03:18:14 1997
-From: raynaldp at bbsi.net (Raynald Prevereau)
-Date: Wed, 22 Jan 97 22:18:14 -0500
-Subject: Devanagari fonts for the Mac
-Message-ID: <161227027987.23782.4160172737431225925.generated@prod2.harmonylists.io>
-
->You will find a useful free utility for typing with special characters and
->fonts at:
->
->http://www.sil.org/computing/silkey.html
->
->For those of you that use Windows there is a similar program at the same
->site, which is well worth a look-around in any case.
->
->It takes a bit of simple programming to make Silkey work. If anybody needs
->a hand I'll be happy to help.
->
->
->__                     __  ___   __ ___ __
->|_) |_  * | * __       (_ /_|| * (_ /_| (_ *
->|   | ) | | | |_)            |     \
->              |
->B.Philip Jonsson <bpj at netg.se>
-
+Devanagari fonts for the Mac
 What a wonderful utility! It makes typing all the diacritics in romanised
 Sanskrit so much easier than the usual shift + option + deadkey + letter! I
 haven't explored all the possibilities of SILKey (with Devanagari fonts,
 for instance), but I readily recommand it to everyone. And it's free. Thank
 you Mr. Jonsson.
-
 Raynald Prevereau
-
-
-
-
-
-
-

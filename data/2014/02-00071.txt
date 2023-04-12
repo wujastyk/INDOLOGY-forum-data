@@ -1,10 +1,4 @@
-From rsalomon at u.washington.edu  Tue Feb 11 21:13:03 2014
-From: rsalomon at u.washington.edu (Richard Salomon)
-Date: Tue, 11 Feb 14 13:13:03 -0800
-Subject: [INDOLOGY] language identification (Adam Bowles) > fake languages in literature, Indian and otherwise
-In-Reply-To: <99610dee8238a6ea2a69b09b9bd47d27@cam.ac.uk>
-Message-ID: <52FA925F.9060508@u.washington.edu>
-
+[INDOLOGY] language identification (Adam Bowles) > fake languages in literature, Indian and otherwise
 Just for fun, it might be amusing to study and compare such examples of 
 bogus (?) languages in various literatures. For India, an interesting 
 example is the speech of an Indian shipwrecked sailor in a Greek play 
@@ -13,7 +7,6 @@ found among the Oxyrhynchus papyri. Hultzsch (Hermes 39, 1904, pp.
 proto-Kannada, but L.D. Barnett (Journal of Egyptian Archaeology 12, 
 1926, pp. 13-15) doubted this, and thought that "it might be mere 
 gibberish."
-
 In English, Shakespeare's All's Well that Ends Well' contains a scene 
 (act IV, scene 1) in which the character speak a mysterious language in 
 order to trick the villain Parolles into a confession. The language 
@@ -28,140 +21,13 @@ First Soldier
      O, pray, pray, pray! Manka revania dulche
 Second Lord
      Oscorbidulchos volivorco.
-
 But here the language is intentionally fake, so it is a different case 
 from the one under discussion. There must be many more examples of both 
 types, if anyone wants to waste some time...
-
 Richard Salomon
-
-
-
 On 2/11/2014 2:59 AM, C.A. Formigatti wrote:
-> Dear Dr Bowles,
->
-> At least a part of the last quote is in Italian, but written with a
-> funny English orthography:
->
-> ?_Sat tu sicurah da non lasharay andarah, guescha bect-cha, liberal dubo
-> toto suferanza.
->
-> Sei tu sicura di non lasciare andare questa vecchia, liberala da tutta
-> [la] sofferenza
->
-> The translation 'Death to you; death by terrible torture' etc. doesn't
-> correspond to the Italian, which means 'Are you sure you want to release
-> this old woman, free her from [the] suffering' or something in this
-> direction (the last part is a little bit strange).
->
-> I hope I've been able to help you!
->
-> Camillo Formigatti
->
->
-> On 2014-02-11 10:15, indology-request at list.indology.info wrote:
->> Send INDOLOGY mailing list submissions to
->>     indology at list.indology.info
->>
->> To subscribe or unsubscribe via the World Wide Web, visit
->>     http://list.indology.info/mailman/listinfo/indology_list.indology.info
->>
->>
->> or, via email, send a message with subject or body 'help' to
->>     indology-request at list.indology.info
->>
->> You can reach the person managing the list at
->>     indology-owner at list.indology.info
->>
->> When replying, please edit your Subject line so it is more specific
->> than "Re: Contents of INDOLOGY digest..."
->>
->> Today's Topics:
->>
->>    1. language identification (Adam Bowles)
->>    2. Whish Collection! (Dr. Debabrata Chakrabarti)
->>    3. Re: language identification (Valerie J Roebuck)
->>    4. Wendy Doniger's book to be withdrawn in India by Penguin
->>       India (Dominik Wujastyk)
->>
->>
->> Dear Colleagues,
->>
->> A colleague who is not a member of this list has requested assistance
->> with the following query:
->>
->>> I'm editing for a fairly soon publication a play (William Archer's
->>> _The Green Goddess_) which has simple short bits of dialogue in a
->>> foreign language, unidentified. The play is a melodrama set in a
->>> remote place in the north-western Himalayas, north of and so outside
->>> of the then British-ruled areas (the play's writing date is 1920). I
->>> have the TS prompt book used by JCW for their Australian production
->>> in 1924, but of course though that gives bits of dialogue in this
->>> language, and provide translations into English, the script doesn't
->>> identify what language they are using. It is not Hindustani, that is
->>> made clear, though that is also used here and there.
->>>
->>> Here are a few samples from the TS along with the translations:
->>
->>> ?_Unkeitha hu_!? (They are alive!); ?_Hub sa jumphti odt, hu
->>> keitha_!? (Two of them are alive, at least); ?_Un nukkha jan
->>> ru_!? (They are not killed); ?_Guth, baith un pai hai dosha!_?
->>> (Back, they may have the Evil Eye).
->>>
->>> The Priest?s explanation is given: ?_Kha hai Adythum_? (This
->>> is her temple). ?_Au ka jahah kaman sa gulbia_? (She beckoned
->>> your ship out of the sky). ?_Kha main tha hunthal Maharaj ka_?
->>> (The land is ruled by our Raja). ?_Go hai nuxman_? (That is the
->>> palace there). ?_Ha khaja un ka hasthi_? (I have sent for him).
->>> ?_Kumajo heinga dha_? (He will be here soon).
->>>
->>> Traherne is introduced ?blindfold? and the High (Chief) Priest
->>> curses Traherne: ?_Sat tu sicurah da non lasharay andarah, guescha
->>> bect-cha, liberal dubo toto suferanza. Kay sat ychi; kay sat
->>> ychi_? (Death to you; death by terrible torture. You pollute our
->>> sacred temple. The Great Roc found you. It brought you here. Death,
->>> suffering, the curse of the Green Goddess be on you).
->>>
->>> I rather suspect the 'liberal dubo toto suferanza' phrase: it sounds
->>> like a kind of esperanto pidgin slipped in for audience
->>> comprehension. But I believe the rest to be a genuine local
->>> language. Pahari?
->>>
->>> any help in this would be most appreciated and of course
->>> acknowledged in its site of publication: the Manchester UP journal
->>> _Nineteenth Century Film and Theatre._
->>
->> If anyone has any insight to offer, please email Professor Veronica
->> Kelly at v.kelly at uq.edu.au. Any assistance would be greatly
->> appreciated.
->>
->> Best
->> Adam Bowles
->>
->> The University of Queensland
->>
->
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> http://list.indology.info/mailman/listinfo/indology_list.indology.info
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
-
--- 
-----------------------
-
 Richard Salomon
 Department of Asian Languages and Literature
 University of Washington, Box 353521
 Seattle WA 98195-3521
 USA
-
-
-
-
-
-

@@ -1,22 +1,15 @@
-From hhhock at EXPRESS.CITES.UIUC.EDU  Wed Nov 24 15:36:28 2004
-From: hhhock at EXPRESS.CITES.UIUC.EDU (Hans Henrich Hock)
-Date: Wed, 24 Nov 04 09:36:28 -0600
-Subject: Help on installing fonts on Mac OS 10.3.5
-Message-ID: <161227075418.23782.11351699785949846899.generated@prod2.harmonylists.io>
-
+Help on installing fonts on Mac OS 10.3.5
 Here is what worked for me:  Copy your font files onto a CD,
 insert the CD into your new Mac, and copy the font(s) into
 your "libraries".  (You can find the libraries, of which
 there is more than one, serving different functions,
 including the "MacClassic" operating system, by doing a
 search [command f] from the desktop.)
-
 One thing you should be aware of:  On the new operating
 system, you can still see old bitmapped fonts in MS Word, but
 they won't print.  So you need to convert all bitmapped fonts
 (even those embedded in graphics) to corresponding postscript
 or truetype fonts.
-
 The "upside" is that once you have only postscript or
 truetype fonts in your documents, you can use the "print"
 command, select the 'save as pdf document' button, and you
@@ -25,22 +18,9 @@ fonts, not just the ones that Adobe in all its wisdom
 considers acceptable.  To make sure the document is
 recognizable as a pdf-file on other platforms you need to
 make sure to add the extension ".pdf" to your file name.
-
 I hope this helps.
-
 Best wishes,
-
 Hans
-
----- Original message ----
->Date: Tue, 23 Nov 2004 13:05:00 -0500
->From: Madhav Deshpande <mmdesh at UMICH.EDU>
->Subject: Help on installing fonts on Mac OS 10.3.5
->To: INDOLOGY at liverpool.ac.uk
->
->Dear Friends,
->
->     For the past many years, I have been using an Apple G4
 computer (OS 9.1), and using my fonts Madhushree and
 ManjushreeCSX without any problems.  Recently I acquired an
 iMac G5 computer that runs OS 10.3.5 (Panther), and so far I
@@ -53,10 +33,6 @@ how to use them on OS 10.3.5.  If you have been successful in
 using these fonts on OS 10.3.5, please let me know how you
 did it.  You can send a personal message to me
 (mmdesh at umich.edu).  Thanks in anticipation.
->
->Madhav Deshpande
->
->
 Hans Henrich Hock
 Professor of Linguistics and Sanskrit
 Department of Linguistics
@@ -64,11 +40,5 @@ Department of Linguistics
 University of Illinois
 707 S. Mathews
 Urbana, IL  61801-3652, USA
-Tel. 1-217-333-3563, Fax 1-217-244-8430
 E-mail hhhock at staff.uiuc.edu
-
 Ceterum censeo curiam internationalem iuris criminalis esse instituendam consensu senatus populique americani
-
-
-
-

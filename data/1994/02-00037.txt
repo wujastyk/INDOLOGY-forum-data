@@ -1,9 +1,4 @@
-From pesch at indoger.unizh.ch  Tue Feb 22 18:58:22 1994
-From: pesch at indoger.unizh.ch (pesch at indoger.unizh.ch)
-Date: Tue, 22 Feb 94 19:58:22 +0100
-Subject: Sanskrit lexicon
-Message-ID: <161227016574.23782.9235220765214872715.generated@prod2.harmonylists.io>
-
+Sanskrit lexicon
 The "Woerterbuch Sanskrit-Deutsch" by Klaus Mylius which claims to
 contain about 77.000 entries is printed exclusively in transliteration and
 seems to use rather explicit typography for the differentiation of types
@@ -25,9 +20,3 @@ private glossaries etc. which might one day be cumulated to
 Mylius, please share the information and/or the data.
 Thanks,
 Peter Schreiner, Zuerich
- 
-
-
-
-
-

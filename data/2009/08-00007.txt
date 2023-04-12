@@ -1,11 +1,5 @@
-From athr at LOC.GOV  Thu Aug  6 20:40:15 2009
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 06 Aug 09 16:40:15 -0400
-Subject: Hamsa: new book
-Message-ID: <161227087276.23782.15936347108125663178.generated@prod2.harmonylists.io>
-
+Hamsa: new book
 Various questions about the meaning of hamsa and various compounds of it have come up on Indology through the years.  The Library of Congress New Delhi office has just notified subscribers to the Cooperative Acquisitions Program (CAP) that a new book on the zoology of the family Anatidae has just come out:
-
   Title: Ducks, Geese and Swans of India : their status and Distribution
 Personal Name: by Asad R. Rahmani and M. Zafar-ul Islam
 Place of Publication: New Delhi
@@ -15,14 +9,9 @@ Description: (pagination, size etc.) 364 p.
 Language: English
 Price (Local currency):  Rs.1300.00 less 26% = $20.46
 LCCN: I-E-2009-311729
-
 I am asking the office to route our copy of the book to me and will report if it has anything to say about names in Indian languages or the like.
-
 Unfortunately, this will not deal with flamingos, called rajahamsa at least in some modern languages.
-
-
 Allen
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -32,7 +21,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

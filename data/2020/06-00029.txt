@@ -1,17 +1,5 @@
-From jon.peterson at mail.utoronto.ca  Sat Jun  6 18:22:46 2020
-From: jon.peterson at mail.utoronto.ca (Jonathan Peterson)
-Date: Sat, 06 Jun 20 18:22:46 +0000
-Subject: [INDOLOGY] Searching archive.org: Canada/Sanskrit (Jonathan Silk)
-Message-ID: <D8CD9AA4-6B46-4F2F-AB98-E18B25DE607C@mail.utoronto.ca>
-
+[INDOLOGY] Searching archive.org: Canada/Sanskrit (Jonathan Silk)
 The University of Toronto?s library system has contributed nearly 215,000 titles from their collections to the Internet Archive project. The library has devoted a sizable area of the John P. Robarts Library's 7th floor to the ongoing scanning and digitization of material. Curious about metadata problems with their digitized Sanskrit collection, I spoke a few years ago to a librarian who liaises between Robarts and Internet Archive. If I recall correctly, they mentioned that the metadata for their digital collection on Archive.org<http://Archive.org> is drawn directly from the UToronto library system itself. Due to staffing, budget, and expertise constraints, there is little scope for correcting metadata on a mass scale. Doing so, they emphasized, would require a cumbersome process of first correcting data on library-side AACR2/RDA listings, which would then be used to update Archive.org<http://Archive.org>.
-
 With best wishes,
 Jonathan Peterson
 University of Toronto
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200606/3777954e/attachment.htm>
-

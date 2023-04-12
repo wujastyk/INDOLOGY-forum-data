@@ -1,9 +1,4 @@
-From jds10 at CAM.AC.UK  Mon Jan 24 15:44:52 2000
-From: jds10 at CAM.AC.UK (John Smith)
-Date: Mon, 24 Jan 00 15:44:52 +0000
-Subject: CARB fonts released
-Message-ID: <161227055471.23782.14979977151739247964.generated@prod2.harmonylists.io>
-
+CARB fonts released
 Some weeks ago I undertook to build and release fonts containing a large
 set of supplementary characters -- characters often needed by people
 working in and around Indian Studies, but not available in the standard
@@ -13,20 +8,12 @@ emphasise the supplemetary nature of the fonts. Mostly one would work in,
 say, Times CSX+; occasionally one would switch into Times CARB to use this
 or that special character. (CARB does, however, contain all the standard
 ASCII characters.)
-
 PC versions of the fonts are now available from my website (URL given
 below): follow the "fonts" link and then choose "carb". The README file
 gives all relevant information. I hope to create and release Macintosh
 versions of the Times fonts in the near future.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

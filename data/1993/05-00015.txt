@@ -1,18 +1,6 @@
-From D.Wujastyk at ucl.ac.uk  Tue May 11 11:49:43 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 11 May 93 11:49:43 +0000
-Subject: Diacritics for Word Perfect
-Message-ID: <161227015811.23782.16237254915869973762.generated@prod2.harmonylists.io>
-
+Diacritics for Word Perfect
 In Message Mon, 10 May 93 17:16:30 BST,
   david nelson <DNN4745 at TAMVM1.EARN> writes:
-
->I seem to remember some time back that several individuals(?) have developed
->screen fonts for the diacritics in Word Perfect for  use in transliterating
->Sanskrit and other South Asian languages.  Could anyone who is using
->Word Perfect for South Asian language transliteration contact me regarding
->their setup.
-
 Dear David,
 VGA and EGA screen fonts for the IBMPC & clones, giving the CSX character
 set, are available for anonymous ftp at
@@ -21,17 +9,7 @@ in the directory
   /pub/users/ucgadkw/indology
 as the file
   iass.zip
-
 .. or something like that.
-
 Best wishes,
-
 Dominik
-----------------------
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
- 
-
-
-
-
-

@@ -1,19 +1,10 @@
-From D.Wujastyk at ucl.ac.uk  Tue Feb 22 18:24:52 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 22 Feb 94 12:24:52 -0600
-Subject: Wellcome Institute Library Catalogue now online
-Message-ID: <161227016570.23782.8618283014159925223.generated@prod2.harmonylists.io>
-
-
-
+Wellcome Institute Library Catalogue now online
 The library catalogue of the Wellcome Institute today joins the many
 hundred catalogues available for consultation via the international
 networks.
-
 The library is primarily dedicated to the history of science and medicine,
 and has a world-class collection of approximately half a million volumes
 (not all in the catalogue yet, but we're working on it)/.
-
 The reason I mention the catalogue here on INDOLOGY is that we have a
 strong collection of Sanskrit texts, i.e., two or three thousand volumes.
 These are largely, but not exclusively, ayurvedic texts.  We also hold
@@ -27,30 +18,16 @@ brief, K-level entries into the catalogue for our Sanskrit manuscript
 collection (ca. 6000 MSS).  I am also building up the collection of
 secondary reference literature in European languages: histories, catalogues
 of MSS, dictionaries, surveys, etc.
-
 In general, the collection is quirky and has some unusual holding and early
 imprints.  Worth checking out if you are looking for some rare publication.
-
 The Wellcome Institute has a full range of photocopying and filming
 services.
-
 The access details are:
-
    Internet address for telnet:  wihm.ucl.ac.uk
-
    JANET address (for UK users):  uk.ac.ucl.wihm or 0000 0511 3700 03
-
 The catalogue is available all the time, except for maintenance and updates
 from midnight to 1:30am London time, and on approximately one Saturday in
 three.
-
 Dominik
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

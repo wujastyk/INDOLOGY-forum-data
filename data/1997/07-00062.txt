@@ -1,44 +1,19 @@
-From ucgadkw at ucl.ac.uk  Thu Jul 10 08:40:21 1997
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 10 Jul 97 09:40:21 +0100
-Subject: sanskrit software
-Message-ID: <161227031478.23782.17729560107358743641.generated@prod2.harmonylists.io>
-
+sanskrit software
 On Thu, 10 Jul 1997, Martin Bemmann wrote:
-
-> Is there any (database-)software available sorting entries according to
-> the sanskrit alphabet?
-
 The bibliography program ProCite allows you to define the sort order of an
 8-bit character set quite easily.  ProCite also allows the import and
 export of structured records rather easily.
-
 The same is true of the bibliography program Library Master.
-
 I expect both programs have web sites.
-
 The PERL language has a flexible sort function which permits the internal
 redefinition of sort order.  This is probably the cheapest and best
 option.
-
 The word processor XyWrite also permits the easy definition of sort order,
 and one can mark and sort blocks by any column.
-
 Peter Friedlander placed a Devanagari sort program written in Pascal on
 the INDOLOGY file area for public use.
-
 Best wishes,
 Dominik
-
-
---
 Dominik Wujastyk               Wellcome Institute for the History of Medicine
 email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
 <URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
-
-
-
-
-
-
-

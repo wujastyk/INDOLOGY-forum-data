@@ -1,24 +1,3 @@
-From urban.lindqvist at UPPSALA.MAIL.TELIA.COM  Wed Jun 10 02:07:09 1998
-From: urban.lindqvist at UPPSALA.MAIL.TELIA.COM (Urban Lindqvist)
-Date: Wed, 10 Jun 98 04:07:09 +0200
-Subject: SV:      Re: ... Sanskrit for MS Word Utility
-Message-ID: <161227039725.23782.7775844211585105026.generated@prod2.harmonylists.io>
-
+SV:      Re: ... Sanskrit for MS Word Utility
 Ok, thanks!
-
 Urban
-
->No. My apologies. Most of my effort has been going into the Word 97
->version. The Sanskrit 1.2 is an upgrade of the Sanskrit New font, and
->I was switching over, but forgot to amend part of the coding. You
->should find the version there now OK. Sorry to have put you to
->inconvenience.
->
->Best wishes
->
->John
->
-
-
-
-

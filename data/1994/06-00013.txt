@@ -1,15 +1,4 @@
-From madhav.deshpande at um.cc.umich.edu  Tue Jun  7 15:07:10 1994
-From: madhav.deshpande at um.cc.umich.edu (madhav.deshpande at um.cc.umich.edu)
-Date: Tue, 07 Jun 94 11:07:10 -0400
-Subject: Vineet Jain's programs to analyse Sanskrit texts.
-Message-ID: <161227016892.23782.13240730980397637609.generated@prod2.harmonylists.io>
-
+Vineet Jain's programs to analyse Sanskrit texts.
      Sounds very interesting.  I hope you are able to port your programs
 so that other modes of input can be utilized.  Thanks.
      Madhav Deshpande
- 
-
-
-
-
-

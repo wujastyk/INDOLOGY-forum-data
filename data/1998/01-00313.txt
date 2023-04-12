@@ -1,13 +1,6 @@
-From Francois.Obrist at BCU.UNIL.CH  Wed Jan 28 08:53:09 1998
-From: Francois.Obrist at BCU.UNIL.CH (Francois Obrist)
-Date: Wed, 28 Jan 98 08:53:09 +0000
-Subject: Religion and philosophy databases
-Message-ID: <161227035169.23782.10071100147481828993.generated@prod2.harmonylists.io>
-
+Religion and philosophy databases
 Bonjour, 
-
 Je pense que LE CD-ROM sur les religions est : 
-
      TITRE: ATLA religion database on CD-ROM [Donn?es lisibles par      
               machine]                                                    
 NUMEROTATION: 1993->                                                      
@@ -20,10 +13,7 @@ NUMEROTATION: 1993->
               Research in ministry (RIM), 1981->. Methodist reviews index,
               1818-1985                                                   
         NOTE: Pour syst?me IBM et compatibles
- 
-
 Pour la philosophie :
-
  TITRE UNIF.: Philosopher's index. Palo Alto Calif. [Donn?es lisibles par 
               machine]                                                    
        TITRE: Philosopher's index [Donn?es lisibles par machine] / prod.  
@@ -36,11 +26,7 @@ NUMEROTATION: 1940->.
   COLLECTION: Dialog OnDisc                                               
  PERIODICITE: Mises ? jour trimestrielles                                 
         NOTE: Pour IBM PC et compatibles
-
-
 et encore (autre editeur) :
-
-
 TITRE UNIF.: Philosopher's index. Cassington GB. [Donn?es lisibles par   
               machine]                                                    
        TITRE: KR information ondisc philosopher's index [Donn?es lisibles 
@@ -51,26 +37,11 @@ NUMEROTATION: 1940/91-
  PERIODICITE: Trimestriel                                                 
         NOTE: Licence 1-3 users pour r?seau LAN, version Windows          
         NOTE: Variante de titre : Philosopher's index   
-
-
 Tout de bon et a +
-
 Francois
-
-
 At 16:59 27.01.98 -0500, you wrote:
->Does anyone know any online  or CD-ROM bibliographic databases
->specifically on religion or philosophy?
->
->Thanks,
->
->
 Francois Obrist
 Section de langues et civilisations orientales
 Bibliotheque cantonale et universitaire de Lausanne
 CH-1015 Lausanne
 e-mail: Francois.Obrist at BCU.unil.ch
-
-
-
-

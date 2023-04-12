@@ -1,17 +1,10 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Fri May 17 10:36:47 1996
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Fri, 17 May 96 19:36:47 +0900
-Subject: more Sanskrit e-texts available
-Message-ID: <161227024647.23782.10283755776766638227.generated@prod2.harmonylists.io>
-
+more Sanskrit e-texts available
 Dear Indologists,
-
 We are glad to announce that new e-texts are available.
 They are located at the ftp site of Kyoto Sangyo University:
 ccftp.kyoto-su.ac.jp
 at the directory:
 pub/doc/sanskrit/dharmas
-
 The new files are :
 -rw-rw-r--  1 yanom      104998 May 17 18:46 apasta.dhs
 -rw-rw-r--  1 yanom      214567 May 17 18:46 arthaz.dhz.Z (updated)
@@ -26,24 +19,15 @@ The new files are :
 -rw-rw-r--  1 yanom      105636 May 17 18:47 vasistha.dhs
 -rw-rw-r--  1 yanom      194212 May 17 18:47 visnu.dhz
 -rw-rw-r--  1 yanom      132593 May 17 18:47 yajna.dhz
-
 They are all plain text files except the arthazaastra
 (arthaz.dhz renamed from KAZ.DHZ) and manu.dhz which are
 compressed by the `compress' command. 
-
 The coding of these texts are by-products of the project of the Joint
 Seminar on `Law (dharma) and Society in Classical India' headed by Prof.
 Yasuke Ikari at the Institute for Research in Humanities, Kyoto University. 
 The texts may be freely distributed and used for scholarly purposes, but 
 we are not responsible for any trouble which might be caused by the use
 of these files.  
-
 Suggestions for correction are welcome.  Please report to
 yanom at cc.kyoto-su.ac.jp or ikari at zinbun.kyoto-u.ac.jp
-
 Michio YANO
-
-
-
-
-

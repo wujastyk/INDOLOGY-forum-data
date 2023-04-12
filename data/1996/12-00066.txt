@@ -1,17 +1,10 @@
-From spalurma at calcium.helios.nd.edu  Wed Dec  4 19:45:39 1996
-From: spalurma at calcium.helios.nd.edu (subrahmanya palurmallampalli)
-Date: Wed, 04 Dec 96 14:45:39 -0500
-Subject: Numeric notation in the SV and related works.
-Message-ID: <161227027312.23782.6811939951072437603.generated@prod2.harmonylists.io>
-
+Numeric notation in the SV and related works.
 The following is what I remember from a conversation with my vedic
 teacher in India a while ago:
-
 Rg, Yajur and Atharva uses three svaras : udatta, anudatta and svarita
 denoted as ',  _  and ". The Saama uses 5 svaras which is why it can be
 sung and hence the term saamagaanam. The minimum number of svaras that 
 constitute a raagaa is 5.
-
 It also uses numerals to indicate the length of time over which a
 given syllable is to be chanted. If the time taken to chant
 one syllable is say 1 sec, a 2 at the end of the syllable would indicate
@@ -20,15 +13,7 @@ A small example of this can be
 found at the very end of one of the chapters of the Taittiriiya
 upanishad (aananda valli - I think), though it is in the taittiriiya
 aaranyakaa.
-
 I am really not competent to say any of the above with authority as
 I am not familiar with it.
-
 Hope I am not misleading anybody! 
-
 Subrahmanyam Mallampalli
-
-
-
-
-

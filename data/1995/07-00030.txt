@@ -1,29 +1,11 @@
-From ucgadkw at ucl.ac.uk  Thu Jul  6 16:20:41 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 06 Jul 95 16:20:41 +0000
-Subject: Font Encoding
-Message-ID: <161227019926.23782.12766727830563724855.generated@prod2.harmonylists.io>
-
+Font Encoding
 Peter Friedlander raised the issue of font/charset encodings in Asian
 studies.
-
 1/ There are the "code pages" supported by IBM and registered with the
 ISO.  These are inadequate for Sanskrit etc.
-
 2/ No official body has "legislated" for Indic languages in
 transliteration, as far as I know.
-
 3/  The CSX encoding, for all its limitations, is the nearest thing that
 exists to a standard.
-
 Sorry to be laconic: in a terrific hurry.
-
 Dominik
-
-
- 
-
-
-
-
-

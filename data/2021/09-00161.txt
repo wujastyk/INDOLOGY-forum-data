@@ -1,14 +1,5 @@
-From vasishtha.spier at gmail.com  Mon Sep 27 13:09:36 2021
-From: vasishtha.spier at gmail.com (Harry Spier)
-Date: Mon, 27 Sep 2021 09:09:36 -0400
-Subject: [INDOLOGY] Correct direct link to Muktabodha searchable etext
+[INDOLOGY] Correct direct link to Muktabodha searchable etext
  library
-Message-ID: <CAJ3b0o-4V4e1LyZ6svGGpdnCcr3eMCZ4FvfyfNeGSrNQgDyTJw@mail.gmail.com>
-
 The correct direct link to the Muktabodha searchable etext library is:
 https://muktalib7.com/DL_CATALOG_ROOT/digital_library_secure_entry.htm
 Harry Spier
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210927/0ac24e5e/attachment.htm>
-

@@ -1,37 +1,16 @@
-From ucgadkw at UCL.AC.UK  Mon May 11 10:11:56 1998
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 11 May 98 11:11:56 +0100
-Subject: Oriya-TeX (fwd)
-Message-ID: <161227038525.23782.4786938884976968272.generated@prod2.harmonylists.io>
-
----------- Forwarded message ----------
-Date: Mon, 11 May 1998 08:20:46 +0200
-From: Jeroen Hellingman <etmjehe at genesis.etm.ericsson.se>
-Subject: Re: Oriya-TeX
-
-
+Oriya-TeX (fwd)
+Re: Oriya-TeX
 Hi Dominik,
-
 This morning I've send Malayalam-TeX to the CTAN archive [i.e.,
 ftp://ftp.tex.ac.uk], so it will be available soon in the directory
 "languages".
-
 New in this package:
-
 - changed transcription scheme
 - metafont code now included
 - status changed to freeware (but I retain the copyright)
 - various minor fixes and updates
-
 The fonts have changed, so existing .pk and .tfm files should be
 all replaced.
-
 [...]
-
 best wishes,
-
 Jeroen Hellingman
-
-
-
-

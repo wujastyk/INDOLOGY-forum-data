@@ -1,60 +1,30 @@
-From brendan.gillon at mcgill.ca  Wed Nov 25 02:51:00 2020
-From: brendan.gillon at mcgill.ca (Brendan S. Gillon, Prof.)
-Date: Wed, 25 Nov 20 02:51:00 +0000
-Subject: [INDOLOGY] Academia.edu and privacy issues
-In-Reply-To: <CAKdt-Ce-WrAVx7f5ySJwvAgzLwWfub=+tkf3bUw-E38TSP_BJw@mail.gmail.com>
-Message-ID: <YQBPR0101MB177919D69668A2B92F39940B87FA0@YQBPR0101MB1779.CANPRD01.PROD.OUTLOOK.COM>
-
+[INDOLOGY] Academia.edu and privacy issues
 I had a similar problem with academia.edu. I have made two attempts to unsubscribe.
-
 Brendan S. Gillon                            email: brendan.gillon at mcgill.ca
 Department of Linguistics
 McGill University                             tel.:  001 514 398 4868
 1085, Avenue Docteur-Penfield
 Montreal, Quebec                           fax.:  001 514 398 7088
 H3A 1A7  CANADA
-
 webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Dominik Wujastyk via INDOLOGY <indology at list.indology.info>
 Sent: November 24, 2020 9:46 PM
-To: Harry Spier <vasishtha.spier at gmail.com>
-Cc: Indology <indology at list.indology.info>
-Subject: Re: [INDOLOGY] Academia.edu and privacy issues
-
+Re: [INDOLOGY] Academia.edu and privacy issues
 This is worrying.  I've been getting Academia.edu "push" suggestions too, but I haven't connected them with my emails.
-
 Gmail emails are encrypted by default, end-to-end.  TLS encryption (as long as the recipient has TLS too).  So Academia.edu can't see them.
-
 Google searches are public (see the fascinating Seth Stephens-Davidowitz, Everybody Lies), but not who did the searching afaik.
-
 It's hard to know how this is happening, but it is a bit creepy.  I'll ask the Academia.edu people.
-
 Best,
 Dominik
-
 On Tue, 24 Nov 2020 at 16:06, Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Dear list members,
 I'm sharing this with the list since so many members also use Academia.edu.
-
 A while back I had an email exchange with a list member and the same day I received an email from Academia.edu highlighting a paper by the list member I'd just been emailing.  Today I received an email from a colleague not a member of Academia.edu. That email discussed a particular hymn and had the hymns name in the email title.  Within 15 minutes of receiving that email,  I received an email from Academia.edu highlighting an article about the hymn I'd just been emailed about.
-
 I use Gmail.  I think this means that if you are a Academia.edu member and also a gmail user, then  Academia.edu knows who and when you email someone or someone emails you, the title of the email and possibly the contents of the email.
-
 As far as I can see looking at the Gmail privacy, Gmail doesn't say they don't share email contents and I think  to join Academia.edu you have to give them access to your contents list.
-
 I've removed Academia.edu from access to my contacts list and hopefully this will solve the problem.
-
 Thanks,
 Harry Spier
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20201125/817cb48b/attachment.htm>
-

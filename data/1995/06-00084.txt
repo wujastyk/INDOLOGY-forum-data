@@ -1,56 +1,25 @@
-From vidynath at math.ohio-state.edu  Thu Jun 15 13:12:49 1995
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Thu, 15 Jun 95 09:12:49 -0400
-Subject: TeX for Indology
-Message-ID: <161227019722.23782.2388919126716273520.generated@prod2.harmonylists.io>
-
+TeX for Indology
 kichenas at math.umn.edu asked
-> Is there a (La)TeX style file which enables
-> the input of Romanized text? All the tools for this are
-> present in TeX (macrons, dots over and under letters,...)
-> and all that is needed is the definition of an 
-> environment which would enable the user to input
-> \begin{tamil}
-> kaNTanen kaRpinuk k-aNiyai
-> \end{tamil}
-> and produce the output corresponding to
-> {\em ka\d n{}\d t{}a\b n{}e\b n kaRpi\b n{}uk k-a\d n{}iyai}
-
-
 I do not know of any existing style files. But I have thought of
 writing one. But I gave it up for reasons that will become clear when
 I describe what one would need to do:
-
 	If a single character needs to be replaced by a string, then
 	just make it into an active character. then you can associate
 	a macro to it.
-
 	If you need to use digraphs, trigraphs etc, then the first chacracter
 	must be made into a control character; you will need todefine a
 	macro that examines its arguments (following characters) to
 	decide what to do.
-
 As you can see, if you need to do the latter, then it is quite cumbersome.
 But you have TeX 3.0 and an editor that does not barf at 8-bit characters,
 you need to use only the first alternative. You can automatically use
 any font you wish.
-
 If you want to stick with ASCII (7-bit set), it will be better to use
 a filter that makes the required string substitutions. In UNIX, you
 can use sed, for example. It is a trivial matter to match this to
 any transliteration scheme. I prefer this approach rather than
 create long and hard to follow TeX macro files.
-
 P.S. If you are going to use only Roman characters (with diacritics),
 ITRANS is overkill. A simple filter that does the required substitutions
 is less resource-intensive.
-
-
-
 Nath Rao (natharao+ at osu.edu)		614-366-9341
- 
-
-
-
-
-

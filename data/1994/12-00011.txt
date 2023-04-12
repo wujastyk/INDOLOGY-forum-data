@@ -1,17 +1,10 @@
-From hal_computer at earthlink.net  Thu Dec  8 09:43:00 1994
-From: hal_computer at earthlink.net (hal_computer at earthlink.net)
-Date: Thu, 08 Dec 94 01:43:00 -0800
-Subject: A list of South Asian language fonts
-Message-ID: <161227017948.23782.3929311963944241623.generated@prod2.harmonylists.io>
-
-
+A list of South Asian language fonts
 For the information of Frances Pritchett and all others interested in 
 South Asian Language fonts, there is a set of excellent (very elegant)
 Devnagari and Bengali fonts developed by Dr. Prasun Kr. De of Los Angeles, 
 teacher of Sanskrit at the Sri Aurobindo Center of Los Angeles and of 
 Bengali at the Vedanta Center. Following Frances' format, the specs. on the 
 fonts are: 
-
 AUTHOR:  De, Dr. Prasun K. 
 LANGUAGES:  Sanskrit: "Devnagari"; Bengali : "Bangalekhon";
             Transliteration :  "Vedalipi".
@@ -26,10 +19,3 @@ COMMENT: These are TrueType and Postscript scalable laser fonts that
          and facility of operation and learning. 
 INFORMATION: For further information, contact Debashish Banerji at 
          (818)362-6313 or e-mail hal_computer at earthlink.net
-
- 
-
-
-
-
-

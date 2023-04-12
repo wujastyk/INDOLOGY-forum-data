@@ -1,9 +1,4 @@
-From Gerard.Huet at INRIA.FR  Tue Jan  3 10:05:10 2012
-From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
-Date: Tue, 03 Jan 12 11:05:10 +0100
-Subject: Release of Sanskrit Heritage Engine system as freeware
-Message-ID: <161227094861.23782.9161896714048003198.generated@prod2.harmonylists.io>
-
+Release of Sanskrit Heritage Engine system as freeware
 Dear list,
 at the occasion of the 15th World Sanskrit Conference, I am happy to announce the first release of the Sanskrit Heritage Engine system as open source freeware (under LGPL license).
 This set of Web services may be installed on Linux and other UNIX-based systems such as Mac OSX.
@@ -12,11 +7,6 @@ You also need to install the OCaml programming environment, freely available at 
 (click on "Latest OCaml release").
 The compressed tar archive (20.6Mo) may be downloaded as: http://sanskrit.inria.fr/DISTR/SktEngine.260.tar.gz
 It contains installation and configuration instructions. 
-
 With my best wishes for the New Year,
 Yours truly
 G?rard Huet
-
-
-
-

@@ -1,17 +1,6 @@
-From pwyzlic at UNI-BONN.DE  Fri May  5 09:11:21 2000
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Fri, 05 May 00 10:11:21 +0100
-Subject: Abhisamacarika Buddhist vinaya text available
-In-Reply-To: <000201bfb5e7$4481e6e0$a391fea9@oemcomputer>
-Message-ID: <161227058286.23782.14318520202981860933.generated@prod2.harmonylists.io>
-
+Abhisamacarika Buddhist vinaya text available
 On Thu, 4 May 2000, Joseph Walser wrote:
-
 [Re: Abhisamacarika]
-
-> Could anyone out there refer me to sources of information about this text?
-> (Where was it found? Are there any published studies on this text?).
-
 The "older" literature can be found in Akira Yuyama's _A
 systematic survey of Buddhist Sanskrit literature_. Part 1:
 Vinaya-Texte. Wiesbaden: Steiner, 1979, p. 41, No. 1.67.S.2.
@@ -20,15 +9,8 @@ Maulichand Prasad: _A comparative study of Abhisamacarika_. Patna:
 K. P. Jayaswal Research Inst., 1984 (Tibetan Sanskrit Work Ser.
 No. 26).  I don't know if there are newer Japanese publications
 on this text.
-
 Peter Wyzlic
-
---
 Peter Wyzlic
 Indologisches Seminar, Universitaet Bonn
 Regina-Pacis-Weg 7
 D-53113 Bonn
-
-
-
-

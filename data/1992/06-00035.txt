@@ -1,11 +1,5 @@
-From yanom at EARN.JPNKSUVX  Sun Jun 28 10:09:58 1992
-From: yanom at EARN.JPNKSUVX (yanom at EARN.JPNKSUVX)
-Date: Sun, 28 Jun 92 10:09:58 +0000
-Subject: CORRECTION
-Message-ID: <161227015420.23782.8892625370614723296.generated@prod2.harmonylists.io>
-
+CORRECTION
 Status: RO
-
 I am glad to know that, thanks to the kind
 effots of Dominik Wujastyk and Thomas Ridgeway,
 the Brihatsamhita I and my student have prepared
@@ -14,22 +8,14 @@ In my brief note to the digitalized text I made
 a mistake.
    Instead of <Members of sandhi is not separated>,
    please read <Members of samAsa is not separated>.
- 
 One more thing. Please remember that we have not
 distinguished between nazals of guttural, palatal
 and dental classes.  They are all <n>.
 Exmaple:
        kRSNapancamyAM gangAyAM snAtaH.
- 
 (In the standard Kyoto-Harvard method, the line is
  transcribed as <KRSNapaJcamyAM gaGgAyAM snAtaH>)
- 
 Since we are continually improving the text, please
 send me a note if you find any mistake.  We hope we
 can offer a fourth version soon.
    Michio YANO, Kyoto Sangyo University
-
-
-
-
-

@@ -1,30 +1,18 @@
-From GANESANS at cl.uh.edu  Mon May 12 20:01:28 1997
-From: GANESANS at cl.uh.edu (GANESANS at cl.uh.edu)
-Date: Mon, 12 May 97 14:01:28 -0600
-Subject: Thoughts on Sanskritization
-Message-ID: <161227030189.23782.18072166780910079191.generated@prod2.harmonylists.io>
-
-
-
-
+Thoughts on Sanskritization
                        Re: Thoughts on Sanskritization
-
 Dr. Vidyasankar Sundaresan wrote:
-
 + Shouldn't we be distinguishing between the script used for writing a
 + language from the language as a spoken entity? Does anyone *pronounce*
 + gan(g)gaikoNDacOzhan as kan(g)kaikoNTacOzhan? Surely, Tamil speakers
 + distinguish between k and g in speech, although not in writing. Similarly,
 + the sounds s and S frequently occur in speech, although the script allows
 + strictly only for c (e.g. sol/Sol as variants of col). 
-
 Sure. all Tamil speakers in villages, knowing no other
 language,  tell my name as "kaNEsan" and not as "gaNEsan".
 In Tamil, "ka+ng+kai" is pronounced as "kangai"
 So, it is "kangaikoNDacOzhan". "Ganga" is pronounced
 as "Gangai", only if the speaker knows that in Sanskrit
 or other Indic languages, it is so.
-
 Tamil grammar starting from TolkAppiyam allows for distinguishing
 between "k" and "g", (but kh and gh etc., sounds are alien to Tamil)
 "p" and "b", etc., in pronunciation. According to the rules,
@@ -34,7 +22,6 @@ For the doubling 'hard' consonants, it is pronounced
 as  written, (ie 'hard'). BUT hard consonants do not get pronouced
 soft when they are the first letters of the word.
 The rule is simple and always followed intuitively.
-
 Examples:
                         Pronounced as
                          ***************
@@ -50,29 +37,17 @@ a + m + pu (arrow)       ambu
 ka + m + pa + n          kamban, a great poet
 a + p + pa + n           appan, dad or a dear person
 and so on.
-
 "k" as a non-first letter of a word and for single 
 occurence, has other sounds too, eg., pi + Ra + ku (piRaku = later)
 is pronounced as "piRahu".
-
 ++ c, T, t, p. Tamil resistance to include
 ++ these additional characters is because it would lead to excessive use
 ++ of Sanskrit words and native Tamil/Dravidian words will face extinction,
-
 Sundaresan wrote:
 +It is the Tamil
 +resistance to excessive use of Sanskrit that has helped it to maintain its
 +identity to date. Varying degrees of accommodation of and resistance to
 +words of Sanskrit origin are seen among all south Indian languages. 
-
 I agree. 
-
 Regards,
 N. Ganesan
-
-
-
-
-
-
-

@@ -1,45 +1,24 @@
-From tatelman at total.net  Fri Jan 17 18:22:26 1997
-From: tatelman at total.net (Joel Tatelman)
-Date: Fri, 17 Jan 97 18:22:26 +0000
-Subject: Devanagari for the Mac
-Message-ID: <161227027902.23782.12219168508086487905.generated@prod2.harmonylists.io>
-
+Devanagari for the Mac
 Raymond Prevereau asks about devanagari fonts for the Macintosh operating 
 system.
-
 I recommend MacBilingual Devanagari 7.02 (though there is now probably a 
 newer version), available from Ecological Linguistics, P.O. Box 15156, 
 Washington, D.C. 20003, U.S.A.
-
 Ecological Linguistics has fonts for dozens of Asian scripts, including 
 most of those used in SE Asia, the various scripts used in modern Indian 
 languages, the major East Asian scripts, etc. Most are available for the 
 Mac and PC, though a few are Mac-only.
-
 I must also acknowledge that I last dealt with E.L. a couple of years ago.
-
 I concur with Raymond's high evaluation of the devanagari font for OzTex 
 but like him, demur from using OzTex. In any case, if not quite as 
 elegant, the E.L. font is well-designed and easier to use than some other 
 fonts I've tried. The E.L. fonts are normal Postscript or TrueType fonts 
 and will work with any word processor or page layout application.
-
 Regards,
-
 Joel.
-
- 
-
 Joel Tatelman
 #2-293A Roncesvalles Ave.
 Toronto, Ontario,
 M6R 2M3 Canada.
-
 Tel.: (416) 535-4997
 E-mail: tatelman at total.net
-
-
-
-
-
-

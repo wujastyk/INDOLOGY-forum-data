@@ -1,9 +1,4 @@
-From sreeniva at saw.ch  Thu Sep 26 15:37:55 1996
-From: sreeniva at saw.ch (Sreenivasa S. S. Nittala)
-Date: Thu, 26 Sep 96 17:37:55 +0200
-Subject: bleed.uue
-Message-ID: <161227026139.23782.17872465696449758976.generated@prod2.harmonylists.io>
-
+bleed.uue
 begin 644 BLEED.DOC
 MT,\1X*&Q&N$                     /@ # /[_"0 &               !
 M    )           $   )P    $   #^____     "4   #_____________
@@ -791,10 +786,4 @@ M  $$>A<      007*0      !-P7      $$1"@      02>*      !!!@I
 M      $$L2@      02V*      !!)0>      $$NB@      02W'P     !
 M!+XH      $$T!\      00F(      !!,<H      $$7"        1D(   
 #   !
- 
 end
-
-
-
-
-

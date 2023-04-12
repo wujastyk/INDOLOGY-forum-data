@@ -1,9 +1,4 @@
-From bc4s-nmr at asahi-net.or.jp  Mon Jul 22 19:59:21 1996
-From: bc4s-nmr at asahi-net.or.jp (bc4s-nmr at asahi-net.or.jp)
-Date: Tue, 23 Jul 96 04:59:21 +0900
-Subject: Q: Norman fonts
-Message-ID: <161227025400.23782.17680016951553107759.generated@prod2.harmonylists.io>
-
+Q: Norman fonts
 Hello! This is first time I send message to this ML. 
 I have a technical supporter of the TOYO BUNKO (the Oriental Library in Tokyo) .
 This information is not enough for people to get the best solution
@@ -11,7 +6,6 @@ immediately, but I can say the TOYO BUNKOwill offer sooner or later the
 WWW-Service which includes the Download services Romanized Fonts (Now based
 on the Norman Font and changed to be compatible not only sanskrit but also
 Arabic and other Oriental Languages)
-
 You will be able to get "Oriental_(base font name)__" fonts both True Type
 and Postscript of cource compatible with DOS & Macintosh.  Especially, for
 Macintosh Users, the keyborad resources for typing easily the special
@@ -20,40 +14,26 @@ For example to type Sanskrit on Macintosh you can just select the Sanskrit
 Keyboard and type as Kyoto-Harvard Transcription. And you will be able to
 get the 4th Dimension External File & Hypercard XFCS installer to make sort
 keys for Sanskrit.
-
 The fonts now we made are Geneva style for viewing and Times style for
 Printing Documents and Palatino style. All of them contains Normal, Bold,
 Italic, & Bold Italic styles. If many want us to make some new fonts style
 to publish documents, we can make font for them.
-
 And we will be offer the Tibetan Fonts and Utilities and Database. These
 works are mainly for Macintosh Users, but we are now preparing files for
 DOS users. This conatains ACIP/Extended Wylie to Tibetan Converter, Tibetan
 Spell Checker, Tibetan Books Collection Catalogue, & The Collected Sa bcad
 of rJe tsong kha pa blo bzang grags pa's works.
-
 We are now preparing the Database cards of Mahavyutpatti and sGra sbyor bam
 po gnyis pa. (This will be on net next year)
-
 These are of course FREE WARES.
-
 For more information, please send mail or wait our English homepage will be
 on net. 
 The Site is 
-
 http://www.toyo-bunko.or.jp/
-
 Now underconstruction this site.  (Only Japanese page now available)
 If you are in Japan and you can accesss the NIFTYSERVE, I can send fonts
 and utilities immediately by E-mail.
-
 YOURS
 SHOJIRO NOMURA
 WASEDA UNIVERSITY, TOKYO
 bc4s-nmr at asahi-net.or.jp
-
-
-
-
-
-

@@ -1,36 +1,18 @@
-From C.Wooff at LIVERPOOL.AC.UK  Thu Sep 11 08:14:39 1997
-From: C.Wooff at LIVERPOOL.AC.UK (Chris Wooff)
-Date: Thu, 11 Sep 97 09:14:39 +0100
-Subject: IMPORTANT list changes PLEASE READ
-Message-ID: <161227032332.23782.7956175017194777034.generated@prod2.harmonylists.io>
-
+IMPORTANT list changes PLEASE READ
 One of the jobs we are carrying out over the summer is moving all local email
 lists to a new list server. Last night the Indology list was moved. You have
 received this message because you are a member of this list.
-
 It is important that you take note of the following:
-
 1) The listname is unchanged and you should continue post to indology at liverpool.ac.uk
 exactly as before.
-
 2) The email address of the new list server is listserv at liverpool.ac.uk
 (listproc is the old server and should not be used).
-
 3) The syntax of most of the commands is similar, if you want chapter and verse
 then send listserv the message:
-
     help
-
 4) The new server provides better facilities for offering list archives.
 Archives are still available via email. In addition, you can access them at the
 following URL:
-
 http://listserv.liv.ac.uk/archives/indology.html
-
-------------------------------------------------------------
 Chris Wooff (C.Wooff at liv.ac.uk, ....mcsun!uknet!liv!C.Wooff)
 Sent with Simeon Version 4.1.2 Build 32
-
-
-
-

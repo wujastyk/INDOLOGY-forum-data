@@ -1,9 +1,4 @@
-From zwilling at facstaff.wisc.edu  Wed Jul 21 17:52:04 1993
-From: zwilling at facstaff.wisc.edu (leonard zwilling)
-Date: Wed, 21 Jul 93 11:52:04 -0600
-Subject: The order of the three grammatical genders in Sanskrit
-Message-ID: <161227017564.23782.8635892886306683727.generated@prod2.harmonylists.io>
-
+The order of the three grammatical genders in Sanskrit
 Has any ordering of the three grammatical genders other than the customary
 one of feminine, masculine and neuter [at least since 'Satapathabraahma.na]
 been sanctioned by authority? I have encountered the order masculine,
@@ -13,8 +8,6 @@ suutra under discussion. This divergence was not addressed by Ohira in his
 study of that work. I'd greatly appreciate an assist on this. Thanks.
 Leonard Zwilling
 zwilling at facstaff.wisc.edu
- 
-
 Original-Received:  from blue.weeg.uiowa.edu by 
                    ns-mx.uiowa.edu (8.6.8.2/19940322)	  on Wed, 12 Oct 1994 
                    15:34:26 -0500 id PAA20492 with ESMTP 
@@ -23,14 +16,9 @@ Original-Received:  by
                    blue.weeg.uiowa.edu (8.6.9/940408)	  on Wed, 12 Oct 1994 
                    15:33:59 -0500 id PAA190226 
 PP-warning: Illegal Received field on preceding line
-Date: Wed, 12 Oct 1994 15:33:46 -0500 (CDT)
-From: Frederick M Smith <fsmith at blue.weeg.uiowa.edu>
-Subject: Skt speaking village
-To: indology at liverpool.ac.uk
-Message-ID: <Pine.3.89.9410121532.A146855-0100000 at blue.weeg.uiowa.edu>
+Skt speaking village
 MIME-Version: 1.0
 Content-Type: TEXT/PLAIN; charset=US-ASCII
-
 The village in question is called Mettur, about 15 km from Shimoga. It 
 has at least 5000 inhabitants, of which perhaps 1/4 can converse in 
 simple Sanskrit sentences, including shopkeepers, etc. It is not 
@@ -40,13 +28,6 @@ light-hearted way (humane because light-hearted) to propogate Sanskrit.
 On the whole the town has stayed away from the ravages of the VHP.
 Fred Smith
 Univ. of Iowa
-
 PS. By "converse" (above), I mean stumble through introductions, etc. But 
 a surprising number can actually use a few simple declensions and finite 
 verb forms!
- 
-
-
-
-
-

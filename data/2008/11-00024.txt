@@ -1,20 +1,11 @@
-From athr at LOC.GOV  Wed Nov 12 18:03:23 2008
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Wed, 12 Nov 08 13:03:23 -0500
-Subject: Matsunami Seiren, Saundarananda edition
-In-Reply-To: <491AB967.8040208@univie.ac.at>
-Message-ID: <161227083900.23782.1085761591744265636.generated@prod2.harmonylists.io>
-
+Matsunami Seiren, Saundarananda edition
 Dear Birgit,
-
 LOC has the Saundarananda ed. and trans., which I have requested from
 remote storage, and will send you my evaluation (insofar as I can
 without knowing Japanese).  We also have the journal you mention, and I
 have paged that vol., though it is not clear from the online catalog if
 we have that one.
-
 The catalog records for the two titles are (dots represent Kanji):
-
 LC Control No.:       90800890 
 Type of Material:  Book (Print, Microform, Electronic, etc.)
 Personal Name:     Matsunami, Seiren, 1903- 
@@ -38,11 +29,8 @@ Language Code:     jpnsan
 Other System No.:  (CStRLIN)DCLP90-B10013
 CALL NUMBER:       PK3791.A7 S2155 1981 FT MEADE
                    Copy 1
--- Request in:     Asian Reading Room (Jefferson LJ150) - STORED
 OFFSITE
-
 ?---------------
-
 LC Control No.:       82643188 
 Type of Material:  Serial (Periodical, Newspaper, etc.)
 Main Title:        Taish?o Daigaku kenky?u kiy?o : Bukky?o Gakubu,
@@ -74,16 +62,9 @@ Quality Code:      lc
 CALL NUMBER:       BQ6 .T3 Japan
                    Set 1
                    Unbound issues have location number 3922.
--- Request in:     Asian Reading Room (Jefferson, LJ150)
-
 You could probably get the book on interlibrary loan via your
 university.
-
-
 Allen
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -94,7 +75,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library
 of Congress.
-
-
-
-

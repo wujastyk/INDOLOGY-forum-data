@@ -1,9 +1,4 @@
-From roheko at MSN.COM  Sun Mar 15 17:59:32 1998
-From: roheko at MSN.COM (Rolf Heiner Koch)
-Date: Sun, 15 Mar 98 18:59:32 +0100
-Subject: Software for scanning of Indian rarities?
-Message-ID: <161227036693.23782.7853059989096301811.generated@prod2.harmonylists.io>
-
+Software for scanning of Indian rarities?
 It is possible. I do not know where to buy, but
 you can adjust any of the programs like
 OPLIMIT/RECOGNITA/OCRTRACE to read devanagari
@@ -15,30 +10,13 @@ file, it will be easy. Some knowledge of
 programming would be helpful.
 Mfg RHK
 roheko at msn.com
------Urspr?ngliche Nachricht-----
 Von: Viktor V. Sukliyan <madhava at CH1.VSNL.NET.IN>
 An: INDOLOGY at LISTSERV.LIV.AC.UK
 <INDOLOGY at LISTSERV.LIV.AC.UK>
 Datum: Sonntag, 15. M?rz 1998 17:48
 Betreff: [INDOLOGY] Software for scanning of
 Indian rarities?
-
-
->Does anybody out there know about availibility of
 software for
->OPTICAL CHARACTER RECOGNITION (OCR) of Indian
 fonts(Devanagari,
->Bengali etc) for purpose of scanning Indian texts
 with further
->conversion them in text files?
->It is known that we have this facility for
 european languages.
->What about Indian languages?
->
->With best regards
->Viktor Sukliyan.
->
-
-
-
-

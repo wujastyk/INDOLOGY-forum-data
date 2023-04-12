@@ -1,10 +1,4 @@
-From kiparsky at CSLI.STANFORD.EDU  Thu Mar 19 03:51:06 2009
-From: kiparsky at CSLI.STANFORD.EDU (Paul Kiparsky)
-Date: Wed, 18 Mar 09 20:51:06 -0700
-Subject: Language barriers --- financial barriers
-In-Reply-To: <001901c9a826$fefff260$0301a8c0@Simonpoot>
-Message-ID: <161227085396.23782.7344665678677068111.generated@prod2.harmonylists.io>
-
+Language barriers --- financial barriers
 If you want your work to be accessible to linguistically disjoint  
 audiences, why write it up in just one language?   In smaller  
 European countries it is, or at any rate used to be, usual to publish  
@@ -20,15 +14,5 @@ who attended the conference welcomed the Sanskrit version as a step
 to overcoming the language barrier and establishing mutual  
 understanding with English-speaking Indologists and computational  
 linguists.
-
 Paul Kiparsky
-
-
 On Mar 18, 2009, at 5:09 PM, Simon Brodbeck wrote:
-
-> On Friday 6 March 2009, Jean-Luc Chevillard wrote: "The more  
-> languages one knows, the better."
->
-> Few would disagree. But that is from the perspective of the  
-> consumer or recipient of texts. Active researchers are also  
-> producers of texts, and must produce them in one language or  

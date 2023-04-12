@@ -1,18 +1,7 @@
->?From P.Friedlander at wellcome.ac.uk 25 95 Aug EDT 10:17:00
-Date: 25 Aug 95 10:17:00 EDT
-From: P.Friedlander at wellcome.ac.uk
-Subject: Re: Encoding
-Reply-To: P.Friedlander at wellcome.ac.uk
+Re: Encoding
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 Hello
 Not only has every Devanagari font I have ever used has had a different 
 encoding but also every Devanagari font I have seen uses a different 
 encoding.
- 
-
-
-
-
-

@@ -1,30 +1,11 @@
-From jds10 at CAM.AC.UK  Thu Oct 21 08:41:20 1999
-From: jds10 at CAM.AC.UK (John Smith)
-Date: Thu, 21 Oct 99 09:41:20 +0100
-Subject: norman and normyn scripts
-In-Reply-To: <001301bf1b6c$30d5d040$88334818@y9c1e6>
-Message-ID: <161227052909.23782.5337709239692558349.generated@prod2.harmonylists.io>
-
+norman and normyn scripts
 On Wed, 20 Oct 1999, Benjamin Fleming wrote:
-
-> Dear list members.
->
-> Does anyone know a web site location to download the norman and normyn
-> scripts?
-
 As far as I know, the original Norman and Normyn fonts are no longer
 available anywhere. However, fully-compatible fonts called Times Norman
 are available (and are anyway of higher quality than the originals): go to
 http://bombay.oriental.cam.ac.uk and follow the "fonts" link.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

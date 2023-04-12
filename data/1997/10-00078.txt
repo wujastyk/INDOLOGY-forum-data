@@ -1,9 +1,4 @@
-From kellner at IPC.HIROSHIMA-U.AC.JP  Wed Oct  8 15:02:51 1997
-From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
-Date: Thu, 09 Oct 97 00:02:51 +0900
-Subject: looking for software
-Message-ID: <161227033016.23782.13139747180128586823.generated@prod2.harmonylists.io>
-
+looking for software
 Forgive me for asking this not particularly Indological question - can
 anybody recommend any Windows-based programs which can search multiple
 data-files,
@@ -18,13 +13,7 @@ uses Macs, and there is a search-program called "bochi"(in Japanese)
 which comes pretty close (expect for the diacritics), but I've not yet
 found anything on a Windows-platform which would be both effective and
 affordable.
-
 Any tips will be greatly appreciated,
-
 Birgit Kellner
 Department of Indian Philosophy
 Hiroshima University
-
-
-
-

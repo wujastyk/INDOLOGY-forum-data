@@ -1,50 +1,23 @@
-From yogacara at gmail.com  Wed Nov 25 00:00:51 2020
-From: yogacara at gmail.com (Dan Lusthaus)
-Date: Tue, 24 Nov 20 19:00:51 -0500
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_vekura=C3=B1ja,_Turner's_article?=
-In-Reply-To: <20201124211942.Horde.Jj0uVSwHQLVD0LtTw5wM3Q5@home.staff.uni-marburg.de>
-Message-ID: <BA71D452-0B68-4164-A683-6BA1E1FD8D5B@gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_vekura=C3=B1ja,_Turner's_article?=
 Vielen dank, profs. Steiner and Slaje, for these materials. Please correct me if I am wrong, but my impression (and some reference works) treat Mauleselin as applying to she-mule as well as she-hinny, being a female form of Maulesel (m. male or hinny). While hinnies have more difficulty than mules producing offspring, that expression applied to a mule/hinny who has no offspring would lean toward implying a hinny, but she-mules can also have difficulty conceiving, so the term itself fails to distinguish between them. Is that right? That would seem to mirror some of what we have been finding in the older Sanskrit literature (and the dictionaries).
-
 That still makes the 4th c Chinese translation puzzling, since it clearly expresses a difference in nomenclature. I might add that the term it uses for hinny, ?? juxu, was not a neologism invented by the translator, but a term used at least as early as the Han (and thus pre-Buddhist entry to China) for an unusual beast, mentioned in the Huainanzi (completed before 139 BCE), in an anecdote in bk. 12, section 9 or 10 (depending on edition) (in the complete Eng. tr. by John Major, et al., the passage appears on p. 447). The full name of the juxu is ???? Qiongqiong juxu, which the Major, et al. tr. renders as ?fabulous-big-and-small? (I am mystified by that translation, but assume they had their reasons). Qiong usually means a grasshopper or cricket, or it can mean ?anxious? in usual usage, but see below for a more illuminating definition.
-
 Le Grand Ricci Online has the following under ? ju:
 ?1. Hybride d?un cheval et d?une mule ou (peut-?tre) bardot.
 2. (Myth.) Sp?cial. ds ?? j? x? Sorte de cheval sauvage, qui vit toujours en compagnie de la gerboise.?
-
 Since ?bardot? means an animal born from the coupling of a horse and an ass, does this specify a hinny as opposed to a mule, as suggested by the distinction in the definition? A gerboise is a N. African rodent with short front legs and long hind legs, which fits the description of the ? jue, the animal in the Huainanzi story about the Qiongqiong juxu (Major, et al. aptly translate jue as the ?stumbler?: HNZ says it is like a mouse in front and a rabbit behind, and has trouble walking quickly. The Huainanzi story say that the jue feeds the Qiongqiong xuju sweet grass, so when in trouble, the latter carries it away on its back. (The moral of the story is that rulers need to rely on their ministers in difficult times so they should treat them well during good times).
-
 A Student?s Dictionary of Classical and Medieval Chinese Online (Chinese ? English) has:
-
  ? (j?)
 ?MC gjoX [that is, the reconstructed Middle Chinese pronunciation-DL]
     offspring of a molly (female mule) and a stallion (male horse).
     (bn.) ?? j?x? (MC gjoX-xjo), usu. ???? qi?ngqi?ngj?x?, ? ? qi?ng.?
-
 Under qiong it has this interesting tidbit:
-
 "qi?ng
 MC gjowng
     locust.
     rdup., Xiongnu name of the wild ass, chigetai; also, fabulous quadruped (usu. ???? qi?ngqi?ngj?x?) said to be swift-running but unable to procure its own food, often paired with ? ju? whose characteristics are just the opposite, hence they need each other; another explanation says the qi?ngqi?ng and j?x? are 2 animals, one having long forelegs and short hind-legs, the other just the opposite, so one cannot go anywhere without the other; also, sad and sorrowing, hapless and heavy-hearted.?
-
 So, it would seem the translation of the sutra by Zhu Tanwulan (*Dharmarak?a, *Dharmaratna), a Central Asian monk, drew on an understanding of ju adopted from the ?barbarian? Xiongnu tribes of the eastern Steppes for a wild donkey. The story being referenced is the one in the Huainanzi, and the alternate interpretation would indicate that competing understandings of how to interpret the HNZ passage arose. Both terms in the compound juxu contain the horse radical ?, indicating they denote something related to equines.
-
 Still unclear if this brings us closer to an underlying Sanskrit (or prakrit) term exclusively used for hinnies, but it does indicate that some ancient groups did use nomenclature that distinguished mules from hinnies.
-
 I will finally add that the compound juxu appears some other Chinese translations of Buddhist texts. Juxu is used in the Sa?yukta-?gama ?? SA 1064 (T.2.276b20), for which the two corresponding Pali texts, Devadatta Sutta (AN 4.68 / AN ii 73) and Acirapakkanta Sutta (SN 17.35 / SN ii 241) have assatar? (female mule) in the parallel position (seyyath?pi, bhikkhave, assatar? attavadh?ya gabbha? ga?h?ti, par?bhav?ya gabbha? ga?h?ti). The Pa?carathasata Sutta (SN 17.36 / SN ii 242) which somewhat parallels them, replaces reference to a mule with a wild dog (ca??assa kukkurassa)(seyyath?pi, bhikkhave, ca??assa kukkurassa n?s?ya pitta? bhindeyyu?? ?Just as a wild dog becomes even wilder when they sprinkle bile over its nose?? Bhikkhu Bodhi?s translation).
-
 With appreciation,
 Dan
 .
-> On Nov 24, 2020, at 3:19 PM, Roland Steiner via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> die Mutterliebe einer Mauleselin (die nie Junge hat), so v.a. eine ?belangebrachte M[utterliebe], eine M[utterliebe] f?r Nichts und wieder Nichts
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20201124/da5ba022/attachment.htm>
-

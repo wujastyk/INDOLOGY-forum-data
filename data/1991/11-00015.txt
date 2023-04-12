@@ -1,10 +1,4 @@
-From FO90030%bitnet.DHHUNI4 at EDU.CUNY.CUNYVM  Tue Nov 26 23:10:14 1991
-From: FO90030%bitnet.DHHUNI4 at EDU.CUNY.CUNYVM (FO90030)
-Date: Tue, 26 Nov 91 23:10:14 +0000
-Subject: None
-Message-ID: <161227015190.23782.1642189488310609185.generated@prod2.harmonylists.io>
-
-
+None
 Re Nagari
 In the discussion concerning the use of Devanagari by Western scholars I have
 been surprised that no thought seems to have been given to the political aspects
@@ -12,7 +6,6 @@ of the matter. It must be well known that millions of Indians see the use of
 Devanagari as supporting the cause of Hindi nationalism. Do we in the West
 really want to take sides in the matter? Devanagari can be beautiful, but so too
 can other Indian scripts.
- 
 Using Devanagari for writing Sanskrit is not like using Greek characters for
 writing Greek since in the case of Greek only the one script is involved. In mos
 t
@@ -23,7 +16,6 @@ political act and from a Western scholarly point of view a retrograde one at tha
 t
 since any transcription into Roman characters worthy of its salt incorporates an
 important element of interpretation that is sacrificed by the use of Devanagari.
- 
 I am also puzzled by the suggestion that one is less likely to make typos by
 using Devanagari. Certainly Indian editions contain plenty of typographical
 errors. It is just as easy to forget to add vowel marks when writing Devanagari
@@ -32,10 +24,4 @@ manage to confuse similar complex aksharas. Exactly what kinds of errors are
 most likely in either script depends on the method of input. The accuracy of
 input can be controlled quite adequately in both cases by making use of the
 possibilities offered by computers.
- 
 Ronald E. Emmerick
-
-
-
-
-

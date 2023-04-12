@@ -1,40 +1,22 @@
-From pwyzlic at UNI-BONN.DE  Fri Aug 29 12:00:36 2008
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Fri, 29 Aug 08 14:00:36 +0200
-Subject: E-text
-In-Reply-To: <11746416.1220006586719.JavaMail.root@elwamui-milano.atl.sa.earthlink.net>
-Message-ID: <161227083360.23782.7113348271057237758.generated@prod2.harmonylists.io>
-
+E-text
 Am Freitag, den 29.08.2008, 06:43 -0400 schrieb George Cardona:
-
 Concerning: http://www.sankara.iitk.ac.in/
-
-> Dear Dominik, When I went to the site a few moments ago, all I found is a blank page. Perhaps it's because of my using Safari, but I'd welcome clarification from others.  Thanks, George
-
 You may go to the font troubleshooting page that should be readable for
 all browsers: http://www.sankara.iitk.ac.in/ifont.htm
 There is no hint how to deal with Safari in Mac OS. One solution might
 be you download the Devanagari Truetype font (go to "download fonts" and
 "Linux users") and try to install. The download link is:
 http://www.sankara.iitk.ac.in/ttf/DVYG0ntt.ttf
-
 This website uses so called "dynamic fonts", this is a technology that
 came up in the nineties and worked with some versions of some web
 browsers but not in others. In my opinion, it becomes more and more
 obsolete. They should switch to Unicode encoding which is more
 state-of-the-art.
-
 Hope it helps
 Peter Wyzlic
-
--- 
 Abteilung f?r Indologie
 Institut f?r Orient- und Asienwissenschaften
 Universit?t Bonn
 Regina-Pacis-Weg 7
 D-53113 Bonn
 Deutschland / Germany
-
-
-
-

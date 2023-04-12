@@ -1,10 +1,4 @@
-From sbaums at GMX.NET  Tue Nov 26 01:33:29 2002
-From: sbaums at GMX.NET (Stefan Baums)
-Date: Mon, 25 Nov 02 17:33:29 -0800
-Subject: CSX+ Encoding and other Encodings used by Indologists (fwd)
-In-Reply-To: <Pine.A41.4.44.0211251311080.51184-100000@dante25.u.washington.edu>
-Message-ID: <161227071771.23782.15490624554076791606.generated@prod2.harmonylists.io>
-
+CSX+ Encoding and other Encodings used by Indologists (fwd)
 To be even more precise: _all_ characters needed for the
 transliteration of post-Vedic Sanskrit are available in Unicode in
 precombined form.  Only for some characters with Vedic accent markings
@@ -15,7 +9,6 @@ below.  This email is Unicode-encoded, so if your software supports
 Unicode and is configured correctly you will be able to cut-and-paste
 the characters from this email to other programs, save the email and
 open it in your word processor, etc.
-
    a ? i ? u ? ? ? ? ? e o ai au
    ? ? ? ? ?
    k kh g gh ?
@@ -26,9 +19,7 @@ open it in your word processor, etc.
    y r l v
    ? ? s
    h
-
    ? ?  ?? ?? ? ? ?? ?? ? ? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ? ? ?i ? i ? ? ?u ? u
-
    A ? I ? U ? ? ? ? ? E O AI AU
    ? ? ? H? ?
    K KH G GH ?
@@ -39,23 +30,14 @@ open it in your word processor, etc.
    Y R L V
    ? ? S
    H
-
    ? ? ?? ?? ? ? ?? ?? ? ? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ? ? ?I ?I ? ? ?U ?U
-
 Best regards,
 Stefan Baums
-
 PS.  "Combining diacritic" means that e.g. ?? (long i with acute
 accent) is encoded in two parts: a long i followed by a combining
 acute accent.  With the right font technology, the acute accent will
 automatically be positioned correctly on top of the long i, so that
 the user need not concern himself at all with this technicality.
-
---
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

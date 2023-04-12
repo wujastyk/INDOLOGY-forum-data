@@ -1,27 +1,5 @@
-From mcv at WXS.NL  Tue Nov  3 10:35:36 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Tue, 03 Nov 98 10:35:36 +0000
-Subject: Kusunda et al.
-In-Reply-To: <1.5.4.16.19981103143250.24679dc8@hd1.vsnl.net.in>
-Message-ID: <161227042218.23782.2569715397359237304.generated@prod2.harmonylists.io>
-
+Kusunda et al.
 "Bh.Krishnamurti" <bhk at HD1.VSNL.NET.IN> wrote:
-
->>Phonological environments?
->
->The phonological environments of the sound changes involving PD *k and *c in
->Kur.-Mlt.-Brah. are atypical and they are retained as such in all the three
->lgs. Sharing of atypical phonological environments in independent
->developments is unexpected [Ruhlen below is wrong]. Such environments
->remaining the same after 2000 years is also rare. What is most crucial is
->*v- to b- which was an IA sound change of Eastern and Central lgs. By their
->location all three ND lgs got influenced by this areal sound change. This is
->one of the arguments that Brahui speakers moved to N-W from east India.
->Because, the IA lgs that surround it now, Punjabi, Sindhi and Lahanda
->retained OIA *v. Brahui has many words with b- that it borrowed from Persian
->and Arabic. But where does it get the change of Drav. *w- becoming b-? It
->shares this with Kur.-Mlt.
-
 Maybe it's because I'm Spanish, but I don't think w > v > b is
 unexpected at all: it's rather commonplace.  The changes k > x
 (except before i) and c > k (before u) are natural enough (the front
@@ -32,7 +10,6 @@ particular conditions before.  We can see them, but certainly not not
 w > b, as rather strong evidence of a Northern Dravidian group.  But
 I still don't understand how that proves the direction or the date of
 movement.
-
 If I understand the argument about the phonological enviroment
 properly, I take it that neither Proto-North-Dravidian *i(:) nor
 *u(:) have changed since the two sound laws took place (although I
@@ -48,4 +25,3 @@ thing would not be amazing.  The pattern /a/ /e/ /i/ /o/ /u/ can be
 remarkably stable: we know that Basque (except for the Souletin
 dialect) has not changed its vowel system one bit in at least 2000
 years.
-

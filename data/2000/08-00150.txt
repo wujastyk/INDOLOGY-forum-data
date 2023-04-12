@@ -1,11 +1,5 @@
-From saf at SAFARMER.COM  Fri Aug 11 02:20:38 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Thu, 10 Aug 00 19:20:38 -0700
-Subject: "Rajaram the scientist"
-Message-ID: <161227060871.23782.9379575167901976353.generated@prod2.harmonylists.io>
-
+"Rajaram the scientist"
 A little expanded data on N.S. Rajaram's non-popular writings:
-
 I've pointed out that Rajaram's boasts (in the ironically titled
 "Sword of Truth" Webpage) that "For more than ten years, he was
 one of America's best-known workers in Artificial Intelligence
@@ -14,9 +8,7 @@ since those claims are linked in his autobiographical profile to
 similar claims concerning his "decipherment" of Harappan -- which
 we're told is "the most important breakthrough of our time in the
 study of Indian history and culture."
-
 http://www.swordoftruth.com/swordoftruth/archives/byauthor/navaratnarajaram/articles.html
-
 Today I read all the articles ascribed to Rajaram in the two big
 AI bibliographical databases noted in earlier posts. The object
 was to doublecheck to make sure that the footnotes didn't contain
@@ -25,7 +17,6 @@ comprehensive of those databases turns out to be the "ISI Web of
 Science," which is only available via a major research libraries.
 The Collection of Computer Science Bibliographies (on the Web)
 catches one earlier paper from 1980.
-
 All but one of the papers/notes listed in those bibliographies
 were published in InTech and ISA Transactions -- two trade
 journals issued by the Instrument Society of America, with which
@@ -34,7 +25,6 @@ papers/notes that don't show up in the online bibliographies. Two
 of these un-indexed papers were published in a defunct trade
 monthly, _Robotics Engineering_, which I haven't seen. Two other
 un-indexed papers refer to contract work or conference proceedings.
-
 A bio at the end of a very short InTech report from April 1986
 credits Rajaram with being the "author of 15 papers on robotics
 and AI as well as the book _Design of Expert Systems on the
@@ -50,7 +40,6 @@ published. Maybe it was privately printed. Unless the Engineering
 Reference Librarian and RLIN and OCLC are in error -- which I
 doubt -- the book hasn't left a trace. Someone else can check if
 they want.
-
 Another InTech bio following a one-and-a-half-page nontechnical
 story from April 1987 credits Rajaram with "over 20 articles" --
 five more than the previous year -- and says that he is writing a
@@ -64,7 +53,6 @@ or World Catalog (OCLC). Rajaram could have changed the title, of
 course, but no technical books under any other title are credited
 to him in the RLIN or World Catalog (OCLC) either, so far as I
 can tell.
-
 To sum up, following this more careful search: Before Rajaram
 started writing rightwing books on Indian history he *did* do
 engineering work in robotics and expert systems. His papers list
@@ -75,11 +63,5 @@ and Robotics" -- putting him in a class with Sejnowski, McCarthy,
 the Churchlands, Rumelhart, McClellan, Arbib, Feldman,
 Feigenbaum, Winograd, Hinton, Munro, Jordan, Charniak, Winston,
 and other workers in that period. -- goes *WAY* over the top.
-
 Further on Rajaram's scientific ideas, refer again to:
-
 http://home.ica.net/~roymanju/Rajaram.htm
-
-
-
-

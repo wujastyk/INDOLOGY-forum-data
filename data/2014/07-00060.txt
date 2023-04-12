@@ -1,20 +1,12 @@
-From wujastyk at gmail.com  Wed Jul  9 12:36:17 2014
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Wed, 09 Jul 14 14:36:17 +0200
-Subject: [INDOLOGY] Alchemy metaphor
-In-Reply-To: <CAKdt-Cc6PuMpQsHA87Pm38FD2KhJVUYKoZO1wTk5_JZzUi=N3w@mail.gmail.com>
-Message-ID: <CAKdt-CdYKO6B_Fn_uHz9qqU-hY_R59T3Fd+tFO2VU_yX-hLqmg@mail.gmail.com>
-
+[INDOLOGY] Alchemy metaphor
 Trying to firm up the idea that vedh- means convert, transmute, or (for the
 philosophers among us, perhaps) transubstantiate.
-
 The *Rasaratnasamuccaya* is a kind of late-ish nibandha text that brings
 together, organizes and medicalizes the earlier, more tantric alchemical
 literature.  Meulenbeld argues that it is datable to the sixteenth century
 (HIML IIA 670).  Earliest dated MS: 1699 CE.  This text is not bad as a
 representative of the developed ("classical"?) rasa??stra tradition; one
 would expect less standardization of vocab. in earlier texts.
-
 At *Rasaratnasamuccaya* 8.94-95
 <http://sarit.indology.info/newphilo/getobject.pl?c.7:8:165.indologica>
 there is a definition of ?abdavedha.
@@ -25,14 +17,11 @@ transmutation, using pari-?am.  *Rasaratnasamuccayabodhin?* on 8.95
 <http://sarit.indology.info/newphilo/getobject.pl?c.7:8:166.indologica>:
 ... *tat lauhakha??a? svar??dir?pe?a pari?atam//*
 that bit of iron is converted into the form of gold etc.
-
 ... yatra vedhe svar??dir?pe?a pari?amet sa ?abdavedha ityartha?//
 Word-vedha is where it converts with the form of gold etc. ...
-
 The operation being described here is not unclear.  The alchemist puts a
 piece of mercury in his mouth and blows on a piece of iron.  It becomes
 golden or silvery.  This "becoming" is "vedha."
-
 The *Bodhin?* authors were ??ubodha and Nityabodha (hence the witty title),
 the sons of J?v?nanda Vidy?s?gara Bha??ac?rya, and the *Bodhin?* was
 published in Calcutta in 1927.  So it's arguable that their interpretation
@@ -44,44 +33,7 @@ rasa??stra texts (HIML IIA 671-2).  Their interpretations are based on a
 close reading of classical rasa??stra literature.  At the very least, one
 can say that their view represents the understanding of learned panditas in
 turn of the century Calcutta, that vedha meant pari??ma, or transmutation.
-
 Best,
 Dominik
-
-
 Dominik
-
-
-
-
-
-
 On 9 July 2014 12:27, Dominik Wujastyk <wujastyk at gmail.com> wrote:
-
->
->
->
-> On 9 July 2014 11:26, Matthew Kapstein <mkapstei at uchicago.edu> wrote:
->
->
->> I have a vague recollection, by the way, of discussing this with David
->> Pingree back in the 80s, and he pointed me to an old, but interesting
->> monograph on Indian chemistry (not alchemy) that had some interesting
->> things to say about vedh-. I?ll try to locate the reference, but no doubt
->> others on this list will be more familiar with the literature in this area.
->>
->
-> ?I imagine David was thinking of P. C. Ray's *History of Hindu
-> Chemistry? * (link
-> <https://www.dropbox.com/sh/3iamb3e84kp2o2k/AADzPHJXs8rxHNgRsINzLVH9a>)
->
-> Best,
-> Dominik
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140709/1cedb8c8/attachment.htm>
-

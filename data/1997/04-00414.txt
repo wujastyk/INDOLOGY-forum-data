@@ -1,21 +1,12 @@
-From A.Raman at massey.ac.nz  Tue Apr 22 04:45:39 1997
-From: A.Raman at massey.ac.nz (Anand Venkt Raman)
-Date: Tue, 22 Apr 97 16:45:39 +1200
-Subject: problems with sanskrit font...
-Message-ID: <161227029867.23782.8393981594830869442.generated@prod2.harmonylists.io>
-
+problems with sanskrit font...
 Hi
-
 I am trying to typeset a page in TeX with with some sanskrit text on
 it using Charles Wikner's sanskrit package.  However, although I am
 certain I got the entire package (fonts/sanskrit.gz), dvips gives me
 the following error about a missing file skt10.  Any help in solving
 this urgent problem would be greatly appreciated.
-
 Many thanks in advance.
-
 - &
-
 dvipsk 5.66a Copyright 1986-97 Radical Eye Software (www.radicaleye.com)
 ' TeX output 1997.04.22:1639' -> test.ps
 kpathsea: Running MakeTeXPK skt10 657 600 magstep\(0.5\) canonex
@@ -24,23 +15,15 @@ t.
 /usr/local/bin/MakeTeXPK: Running mf \mode:=canonex; mag:=magstep(0.5); scrollmo
 de; input skt10
 This is METAFONT, Version 2.718 (Web2c 7.0)
-
 kpathsea: Running MakeTeXMF skt10
 ! I can't find file `skt10'.
 <*> ... mag:=magstep(0.5); scrollmode; input skt10
-
 Please type another input file name:
 ! Emergency stop.
 <*> ... mag:=magstep(0.5); scrollmode; input skt10
-
 Transcript written on mfput.log.
 /usr/local/bin/MakeTeXPK: `mf \mode:=canonex; mag:=magstep(0.5); scrollmode; inp
 ut skt10' failed.
 kpathsea: Appending font creation commands to missfont.log.
 dvips: Font skt10 not found,  using cmr10 instead.
 dvips: Checksum mismatch in skt10
-
-
-
-
-

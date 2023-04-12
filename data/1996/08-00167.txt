@@ -1,9 +1,4 @@
-From mmdesh at umich.edu  Tue Aug 27 20:43:48 1996
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Tue, 27 Aug 96 16:43:48 -0400
-Subject: compound analysis in e-texts
-Message-ID: <161227025812.23782.2308114704863571537.generated@prod2.harmonylists.io>
-
+compound analysis in e-texts
 	Since John Gardner has brought up the question of Vedic Padapathas
 in connection with compound analysis in e-texts, it may be well worth to
 keep in mind some issues relating to the Padapathas.  As the evidence in
@@ -29,27 +24,4 @@ that we have them all.
 	Hence, it would be useful to have a given text available in two
 forms, the Samhitaa form and the Pada form, even in the age of e-texts.
 	Madhav Deshpande
-
  On Tue, 27 Aug 1996, JR Gardner wrote:
-
-> I'm just curious, considering the RV padapaatha is, in effect, a 
-> "commentary"--is this what the rendering of texts should be?  Or whould 
-> the analyzing per akSara not be left to the citation of specific passages 
-> in analytical studies.
-> 
-> Viz. e-texts, preparing them is mammoth enough considering limitations, 
-> still, of non-roman-script computing.  OCR work would still require 
-> line-by-line analysis and search engines now--for a careful scholar--can 
-> pick out units of words sought without akSara analysis.
-> 
-> John Robert Gardner
-> University of Iowa
-> 
-> 
-> 
-
-
-
-
-
-

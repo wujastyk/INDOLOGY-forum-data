@@ -1,21 +1,12 @@
-From francois.patte at mi.parisdescartes.fr  Thu Apr  8 10:00:59 2021
-From: francois.patte at mi.parisdescartes.fr (=?UTF-8?Q?Fran=c3=a7ois_Patte?=)
-Date: Thu, 8 Apr 2021 12:00:59 +0200
-Subject: [INDOLOGY] ligature in grantha script
-Message-ID: <66a38bc2-1565-e0f6-1eaf-09b31f199347@mi.parisdescartes.fr>
-
+[INDOLOGY] ligature in grantha script
 Bonjour,
-
 In an 18th century manuscript I found a ligature "rya" (see attached 
 document) which is not as this ligature is supposed to be in grantha: 
 the ligature r-y does not follow the same rule as for other letters 
 (d-y, t-y etc.) but here r is treated as the other letters.
-
 Is it a scribe mistake or does this ligature exists (or has existed) as 
 a variant?
-
 Thank you.
--- 
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -26,11 +17,3 @@ T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
 FSF
 https://www.fsf.org/blogs/community/presenting-shoetool-happy-holidays-from-the-fsf
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: ligature.jpg
-Type: image/jpeg
-Size: 3807 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20210408/6bd05186/attachment.jpg>
-

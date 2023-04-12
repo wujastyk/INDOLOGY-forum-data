@@ -1,10 +1,4 @@
-From aklujkar at UNIXG.UBC.CA  Thu Jan 13 21:30:35 2000
-From: aklujkar at UNIXG.UBC.CA (Ashok Aklujkar)
-Date: Thu, 13 Jan 00 22:30:35 +0100
-Subject: Etymology: sambar, the dish?
-In-Reply-To: <v03110700b4a4bdc26ac6@[129.240.19.27]>
-Message-ID: <161227055281.23782.10653809206485912882.generated@prod2.harmonylists.io>
-
+Etymology: sambar, the dish?
 A few hours ago at dinner I expressed the guess that the word
 sambar/saambaar is probably related to the Sanskrit word sa.mbhaara
 'provisions, requisites, things required for any action or project,
@@ -14,9 +8,3 @@ that Professor Georg v. Simson has already pointed out attestations that
 provide semantic support to my guess. His sa.mvara, as well as sa.mbala
 'provision for a journey, viaticum,' in Apte p. 1648, could be later or
 dialectal variations of sa.mbhara/sa.mbhaara.
-
--- ashok aklujkar
-
-
-
-

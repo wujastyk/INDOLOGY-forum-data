@@ -1,14 +1,8 @@
-From fp7 at columbia.edu  Mon May 29 14:27:51 1995
-From: fp7 at columbia.edu (Frances Pritchett)
-Date: Mon, 29 May 95 10:27:51 -0400
-Subject: development of Hindi/Urdu
-Message-ID: <161227019576.23782.2575675247627428269.generated@prod2.harmonylists.io>
-
+development of Hindi/Urdu
 On this topic a good general overview is C. Shackle and R. Snell, 
 *Hindi and Urdu Since 1800:  A Common Reader* (London:  SOAS, 1990).  It 
 has brief historical and linguistic accounts, followed by illustrative 
 examples (with notes and glossaries).
-
 The vocabulary problem is also considerable:  Hindii, Hindavii, Rextah 
 are all old names that have at times been used for what we now would call 
 Urdu.  KhaRii bolii suggests the grammar, Hindustani a modern spoken form 
@@ -18,7 +12,6 @@ but to, in effect, "the colloquial speech of North India."  Then of
 course there is "Dakhini."  "Gujri" and other occasional terms occur as 
 well.  Then elements of this terminological mishmash are often used 
 selectively to make arguments that are naive or tendentious or both...
-
 Even modern uses of the terms "Hindi" and "Urdu" are often somewhat 
 ambiguous:  do they refer only or chiefly to script differences, or do 
 they also invoke vocabulary choices--which are shifting and subjective in 
@@ -26,17 +19,9 @@ extent and definition anyway?  In spoken language, is there any
 conceptual room left for a "Hindustani" middle ground?  What do we call 
 the (spoken) language of the "Hindi film" industry?  So many "Hindi" film 
 songs have been written by popular Urdu poets...
-
 On the literary-historical side even more than the linguistic, we need to 
 ask what a term like "Hindii" or "Bhaakhaa" in each particular instance 
 is actually referring to.  And of course sometimes it's almost 
 impossible to tell.  (So what else is new...?)
-
 Wishing everyone a good summer,
 Fran Pritchett
- 
-
-
-
-
-

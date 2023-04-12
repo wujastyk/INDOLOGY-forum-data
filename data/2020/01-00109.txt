@@ -1,29 +1,12 @@
-From r.mahoney at indica-et-buddhica.org  Mon Jan 20 08:29:16 2020
-From: r.mahoney at indica-et-buddhica.org (Richard Mahoney | Indica et Buddhica)
-Date: Mon, 20 Jan 20 21:29:16 +1300
-Subject: [INDOLOGY] [Fwd: RIDE 11 - Reviews of Tools & Environments for Digital Scholarly Editions]
-In-Reply-To: <6f362ee3-8e6e-1968-401c-d75780a474a8@unive.it>
-Message-ID: <b5b2dfd8962000c7af830f48c6d2f3f7b6d2534a.camel@indica-et-buddhica.org>
-
+[INDOLOGY] [Fwd: RIDE 11 - Reviews of Tools & Environments for Digital Scholarly Editions]
 Dear colleagues,
 This may be of interest.
-
 Best, Richard
-
-
--------- Forwarded Message --------From: Franz Fischer <
 franz.fischer at UNIVE.IT>Reply-To: Franz Fischer <franz.fischer at UNIVE.IT
->To: TEI-L at LISTSERV.BROWN.EDUSubject: RIDE 11 - Reviews of Tools &
 Environments for Digital Scholarly EditionsDate: Mon, 20 Jan 2020
 08:37:20 +0100Mailer: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0)
 Gecko/20100101
             Thunderbird/68.4.1
-
-  
-
-    
-  
-  
     Dear TEI community,
     We are happy to announce the eleventh issue of the review journal
       RIDE, which has been published since 2014 by the Institute for
@@ -32,9 +15,6 @@ Gecko/20100101
       Scholarly Editing?. Initiators and guest editors of the issue
 are
       Anna-Maria Sichani and Elena Spadini.
-
-      
-
       The idea behind this new thematic focus in the RIDE-series is
 that
       software is part of the scholarly ecosystem and as such should
@@ -51,9 +31,6 @@ https://www.i-d-e.de/publikationen/weitereschriften/criteria-tools-version-1/
       and are accompanied by a summarizing factsheet (see "Meta"
 rubric
       of each article).    
-
-      
-
       RIDE 11 issue includes five reviews in English (4) and French
 (1)
       that critically assess Tools and Environments for Digital
@@ -73,20 +50,10 @@ rubric
  * Torsten Roeder: Juxta Web Service, LERA, and Variance Viewer.
         Web based collation tools for TEI;
         https://ride.i-d-e.de/issue-11/web-based-collation-tools/
-
-
-    
-
-    
     All reviews can be accessed for free here:
       http://ride.i-d-e.de/issues/issue-11
-
       Enjoy the RIDE!
-
-      
-
       On behalf of the editors,
-
       Franz Fischer
     -- Franz FischerDirettore, Venice Centre for Digital & Public
 Humanities (VeDPH)Dipartimento di Studi UmanisticiUniversit? Ca'
@@ -96,15 +63,5 @@ centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
 https://journal.digitalmedievalist.org/
-  
-
-
--- 
 Richard Mahoney | Indica et Buddhica Littledene  Bay Road  Oxford  NZ T: +6433121699  M: +64210640216 r.mahoney at indica-et-buddhica.org 
 https://indica-et-buddhica.org/ 
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200120/f35b6880/attachment.htm>
-

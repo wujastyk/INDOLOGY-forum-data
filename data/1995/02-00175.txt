@@ -1,14 +1,4 @@
-From cejka at praha1.ff.cuni.cz  Tue Feb 21 17:00:12 1995
-From: cejka at praha1.ff.cuni.cz (cejka at praha1.ff.cuni.cz)
-Date: Tue, 21 Feb 95 18:00:12 +0100
-Subject: ascii encoding for Vedic?
-Message-ID: <161227018644.23782.2504973189973390157.generated@prod2.harmonylists.io>
-
-> CSX was designed to have all the accent/vowel combinations necessary for
-> Vedic.  I would be grateful to hear of any shortcomings.
-> 
-> Dominik
-
+ascii encoding for Vedic?
 In CSX there is a bit of confusion with the various letters for l . The long
 vocalic l seems to me of no use (or does it occur anywhere?!) but we have it
 there uppercase and lowercase. Then there is the underlined l for Tamil what
@@ -26,7 +16,6 @@ grammar etc.
 represent long Tamil e and o, which is normally written "overdotted" as well
 as other long vowels.
          That's what is missing or is ambiguous in CSX.
-
 ((But as I need to create my personal encoding which provides me very little
 free codes to overwrite unless I overwrite also all grafic signs, my
 question remains whether all the letters with svarita really exist. In
@@ -37,11 +26,4 @@ pada texts or only in samhita text due to sandhi  or some of them not at all.
 that for example i with svarita does not occur in RV at least, please let me
 know.))
 Jakub Cejka, Prague
--- 
 cejka at praha1.ff.cuni.cz
- 
-
-
-
-
-

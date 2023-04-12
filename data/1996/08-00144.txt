@@ -1,19 +1,5 @@
-From jakub at unipune.ernet.in  Sat Aug 24 22:27:19 1996
-From: jakub at unipune.ernet.in (Jakub Cejka)
-Date: Sat, 24 Aug 96 17:27:19 -0500
-Subject: typing Sanskrit
-Message-ID: <161227025767.23782.18316477684079322659.generated@prod2.harmonylists.io>
-
+typing Sanskrit
 On Sat, 24 Aug 1996, Leslaw Borowski wrote:
-
-> a, aa
 This has, IMHO, a great drawback: Using sequence aa for long vowel 
 makes it impossible to type also Prakrit in the same way. So it's for 
 example unusable for inputting "Sanskrit" dramas.> 
-
-
-
-
-
-
-

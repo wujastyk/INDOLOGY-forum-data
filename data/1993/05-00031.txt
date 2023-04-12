@@ -1,31 +1,21 @@
-From ucgadkw at ucl.ac.uk  Mon May 31 11:25:09 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Mon, 31 May 93 12:25:09 +0100
-Subject: Issues in the creation and dissemination of Sanskrit e-texts
-Message-ID: <161227015837.23782.1424256043298161921.generated@prod2.harmonylists.io>
-
-
+Issues in the creation and dissemination of Sanskrit e-texts
 I should like to initiate a discussion in this forum concerning the
 level of perfection that we can expect in electronic versions of
 Sanskrit texts typed by individual scholars.
-
 It is an increasingly common occurrence for me to meet colleagues who
 have very substantial amounts of Sanskrit text typed into their
 computers, and who are in principle willing to share their work except
 that they consider it as yet too imperfect to be made public.
-
 This is a completely understandable situation.  We are in a profession
 where scholarly reputations are hard-won and easily lost.  The fear is
 that if we make our e-texts public, and they are found to have many
 typing errors in them, we will be blamed, or criticised, for this
 inaccuracy.
-
 The result is that the amount of Sanskrit e-texts available publicly is
 just a tiny proportion of what has actually been done.  More
 distressingly, work is being needlessly duplicated.  Did you know, for
 example, that the Ramayana has been typed twice?  Or that the
 Mahabharata has been typed about one and a half times?
-
 I should like to argue that making an e-text public is not the same as
 publishing in a book or journal.  The creation of e-texts is inevitably
 going to involve certain error rates, and rather than trying
@@ -33,7 +23,6 @@ Quixotically to escape from these errors, we should look them in the
 eye, understand them, and deal with them.  If this were the public
 perception of the situation, we could all begin a much wider process of
 sharing Sanskrit e-texts.
-
 My own belief is that everyone *fully* appreciates how difficult it is
 to type a Sanskrit text, and that when a text is made available it is
 met with whole-hearted gratitude, and a full appreciation of the labour
@@ -44,15 +33,11 @@ bytes of data, then a text of 100 pages contains 200k bytes.  If this
 is typed with 99.9% accuracy -- which is *very* good indeed -- then one
 would still expect to find about 205 errors, i.e., two per page!  This
 means that even with an almost superhuman degree of accuracy -- 99.9%
---  a scholar is likely to be unhappy with the results if he judges by
 normal publishing standards.
-
 Calculations of this type point out two things:
-
 1/ Different standards are applicable to the creation of e-texts by
    individuals, than are applicable to traditional publishing.  2/
 Different *methods* must be applied to correction and checking.
-
 Many of these issues have long ago been worked out in the context of
 the creation of the Thesaurus Linguae Grecae.  In that context, a great
 deal of money was made available by the Packard foundation and other
@@ -61,21 +46,17 @@ typists.  The two copies were then compared with eachother by computer,
 to give a first elimination of non-duplicate input errors.  Then teams
 of proof-readers worked through the texts, checking and correcting.
 The resulting text was then added to the TLG CD Rom for distribution.
-
 Clearly this is a big, expensive, team effort.
-
 In the Sanskrit field, we don't have such central funding and the
 possibilities that go with it.  The efforts to create e-texts are all
 scattered and individual.  But the amounts of text now being
 transferred into digital form are nevertheless very substantial.
-
 Therefore, I stongly believe that we should all share what we have, in
 spite of the fact that we have reservations about accuracy.  It is
 important that an e-text should include an audit-trail, and this will
 record the state of the text, the history of its creation, and the
 level of accuracy that can be expected.  The Text Encoding Guidlines
 (from the TEI) explicitly legislate for this.
-
 If I have typed into my computer a hundred pages of some text, then let
 me select some chunk from the middle, say two pages worth (say 4k
 bytes).  Then I should check this *carefully* against the input-text.
@@ -85,7 +66,6 @@ the text is 99.8% correct.)  This sthalii-pulaaka method should satisfy
 everyone with regard to what they can expect, and the degree of
 approximation they should build in to the statistics they derive from
 their further use of the text.
-
 Moreover, I think there are interesting methodological lessons to be
 learned *from the mistakes*!  Consider the article by Don Knuth, "The
 Errors of TeX" (published in the journal Software: Practice and
@@ -94,7 +74,6 @@ of errors that have been discovered in the program he made public in
 1982, togther with information on frequency, seriousness, and so
 forth.  This is *very* important information for understanding what one
 may expect from medium-sized software projects.
-
 Similarly, we today need to have some quantitative studies on the
 pathology of every-day text creation.  Given that it is absurd to
 expect perfection, we should know what types of errors are common, how
@@ -105,18 +84,15 @@ errors.  It would also be very useful to have some comparative studies
 of input coding and its relevance to errors.  For example, is there a
 difference in the error-rate of texts typed with the Nakatani or the
 Velthuis keying systems?
-
 These are all interesting academic questions.  I hope that I have
 convinced you that the quality of e-texts should not be seen purely as
 a matter of pride and reputation on the part of the creator, but as
 part of a larger issue of data integrity, in which perfection is
 completely impossible, and a quantitative understanding of error is the
 crucial issue.
-
 If these points can be accepted, I would hope that more texts might be
 forthcoming, and that we can all share in the task of correcting and
 improving the particular texts we work on.
-
 I also see this work as methodologically cumulative.  For example,
 Prof. Schreiner told me yesterday that he has a list of 10,000
 lemmatized Sanskrit words.  This list and other like it could be used
@@ -127,21 +103,5 @@ should become a simple matter to run a newly-input text through a
 Sanskrit spelling checker or similar program, and get an immediate list
 of trouble spots.  The corrected text could then contribute again to
 the spelling checker.
-
-
 Best wishes,
-
 Dominik
-
-
-
-
-
-
-
- 
-
-
-
-
-

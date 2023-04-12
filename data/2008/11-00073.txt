@@ -1,10 +1,4 @@
-From vjroebuck at MACUNLIMITED.NET  Sat Nov 29 07:44:14 2008
-From: vjroebuck at MACUNLIMITED.NET (Valerie J Roebuck)
-Date: Sat, 29 Nov 08 07:44:14 +0000
-Subject: Compatible Font for Macs and PCs...
-In-Reply-To: <d46d2c380811282222v6f0b3f15ra59c930ea8eea3e8@mail.gmail.com>
-Message-ID: <161227084020.23782.7918733545703817356.generated@prod2.harmonylists.io>
-
+Compatible Font for Macs and PCs...
 Are you sure? I tried Gandhari Unicode when trying to process some 
 documents on my husband's Mac with OS X , and I couldn't even get it 
 to produce a lower case anusvAra M. (When I used the thing that's 
@@ -14,20 +8,5 @@ have been happily using the Norman fonts on my ancient Mac Classic
 for many years, with Pop Char for when I need to find a particularly 
 obscure character, and am dreading the day (surely not far off) when 
 I have to get a modern Mac with OS X.
-
 Valerie J Roebuck
-
 At 10:22 pm -0800 28/11/08, Andrew Glass wrote:
->Dear Mary,
->
->The Gandhari Unicode font has all the signs you will need. It also
->works well on a MacBook when using a modern word processor like
->Mellel.
->
->http://andrewglass.org/fonts.php
->
->Andrew
-
-
-
-

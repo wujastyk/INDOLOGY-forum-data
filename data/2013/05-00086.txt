@@ -1,10 +1,4 @@
-From kellner at asia-europe.uni-heidelberg.de  Mon May 20 19:25:18 2013
-From: kellner at asia-europe.uni-heidelberg.de (Birgit Kellner)
-Date: Mon, 20 May 13 21:25:18 +0200
-Subject: [INDOLOGY] Query on negation
-In-Reply-To: <EF9B19D0-65A0-4FFC-B0A7-A8E0EE2F65EF@uts.cc.utexas.edu>
-Message-ID: <519A789E.4000109@asia-europe.uni-heidelberg.de>
-
+[INDOLOGY] Query on negation
 Brendan Gillon once argued that the distinction between the two types of 
 negation called prasajyaprati?edha and paryud?sa is precisely the one 
 that accounts for the different interpretations in Patrick Olivelle's 
@@ -13,7 +7,6 @@ wide scope (prasajyap.) - "not knowing the dharma" - or narrow scope
 (paryud?sa) - "knowing something that is not dharma". But I can't think 
 of indicators other than context that would allow to determine which 
 interpretation is to be preferred.
-
 @ARTICLE{Gillon_Brendan_1987,
    author = {Gillon, Brendan S.},
    title = {Two Forms of Negation in Sanskrit: prasajyaprati?edha and 
@@ -23,33 +16,9 @@ paryud?saprati?edha},
    volume = {1/1},
    pages = {81-89},
    }
-
 With best regards,
-
 Birgit Kellner
-
 Am 20.05.2013 21:09, schrieb Patrick Olivelle:
-> bho? pa??it??!!
->
-> I have a question regarding a negative prefix "a" when used in a compound.
->
-> For example, at Manu 8.59 we have the compound "adharmaj?au", which in my translation I have rendered as "two men ignorant of the Law" taking the negative prefix to apply to the whole compound "dharmaj?au". Medh?tithi commenting on this verse (and the Sm?ticandrik? [Mysore ed. III: 287] cites Medh approvingly) appears to think that these two men were proficient in adharma, that is, in subterfuge (chala). Then the compound would consist of adharma and j?a -- adharma being here ways of subverting justice. In the Sm?ticandrik? the example given is a man who, knowing that other kinds of evidence is valid only for a year (I am not sure how he gets this??), gets a document written with 10 thousand pa?as, when it should have been just 5 thousand. This is the chala or adharma (ways of getting around legal procedures) in which the man if proficient.
->
-> This sort of ambiguity must occur also in other similar compounds. Is there a way to detect that? Or is it just a matter of context and interpretation. Have the grammarians talked about this?
->
-> Thanks.
->
->
-> Patrick
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
->
-
-
--- 
---------
 Prof. Dr. Birgit Kellner
 Chair in Buddhist Studies
 Principal Investigator
@@ -63,8 +32,3 @@ D-69115 Heidelberg
 P: +49(0)6221 - 54 4301
 F: +49(0)6221 - 54 4012
 http://www.asia-europe.uni-heidelberg.de/en/research/cluster-professorships/buddhist-studies.html
-
-
-
-
-

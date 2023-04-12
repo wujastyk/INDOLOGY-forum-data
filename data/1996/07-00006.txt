@@ -1,18 +1,5 @@
-From kellner at ipc.hiroshima-u.ac.jp  Mon Jul  1 19:05:36 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Tue, 02 Jul 96 04:05:36 +0900
-Subject: @-convention (Re: Harvard-Kyoto)
-Message-ID: <161227025217.23782.13425995038781924331.generated@prod2.harmonylists.io>
-
+@-convention (Re: Harvard-Kyoto)
 At 15:47 1996-07-01 BST, Lars Martin Fosse wrote:
-> 1) an acceptable level of readability; 2) easy
->conversion into other representation systems (e.g. CSX). If we have a mixed
->text (e.g. both English and Sanskrit), we should be able to do
->search-and-replace without damage to the English text. This we cannot do
->with the Harvard-Kyoto system. It therefore falls foul of point 2). The
->Hiroshima system described by Birgitte Kellner, on the other hand, falls
->foul of point 1), as far as I am able to judge.
-
 Guilty as charged. The system was developed as an intermediate stage, i.e.
 for data transport from one encoding system to another (works very well when
 transporting files from one Windows TTF to another, for example). The basic
@@ -22,15 +9,12 @@ other way in the text (provided that the text in question does not contain
 lists of e-mail addresses and the like ...). I should probably add that the
 system is used in Hiroshima, but was not invented here. To the best of my
 knowledge, the first person who used it was Motoi Ono in Tsukuba. 
-
 TZ is ambiguous in that sense, for punctuation marks are and will be used
 throughout an English/German/...-paper with occasional Sanskrit passages. I
 cannot think of an actual case of problematic ambiguity for TZ at the
 moment, but I am confident that there are quite a few (a simple mis-type
 involving a punctuation mark would suffice). 
-
 BTW, somebody asked for the complete @-convention. Here it is: 
-
 Long vowels: a@ i@ u@, plus e@ and o@ (the latter for transliteration of
 Japanese)
 Vocalic r short: r@, long: y@; vocalic l: l@
@@ -43,24 +27,14 @@ cerebral sibilant  (s dot below): s@,
 palatal sibilant  (s acute): c@
 anusva at ra: m@
 visarga: h@
-
 plus the "z@" for z acute (used in transliteration of Tibetan). 
-
 Another weakness of this convention is that it doesn't provide encoding of
 accents so far, simply because no one has used it with Vedic texts yet. 
-
 I agree that it is not easy to read, but as long as SGML doesn't contain
 tags for all above-listed diacritics, we will continue to use it. Using a
 few tags (e.g. circumflexes for long vowels) and covering the rest with "@"
 seems a half-baked solution to me, and I've wasted more than enough time
 with those. 
-
 Birgit Kellner
 Department for Indian Philosophy
 University of Hiroshima
-
-
-
-
-
-

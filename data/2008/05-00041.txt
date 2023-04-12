@@ -1,25 +1,6 @@
-From zydenbos at UNI-MUENCHEN.DE  Sat May 10 00:42:05 2008
-From: zydenbos at UNI-MUENCHEN.DE (Robert Zydenbos)
-Date: Sat, 10 May 08 02:42:05 +0200
-Subject: Computer question
-In-Reply-To: <C44A3C89.3D44%frederick-smith@uiowa.edu>
-Message-ID: <161227082625.23782.7992577547043045502.generated@prod2.harmonylists.io>
-
+Computer question
 Op Sat, 10 May 2008 00:38:17 +0200 schreef Frederick Smith  
 <frederick-smith at UIOWA.EDU>:
-
-> ... My
-> University has decided to give me a new computer, and because I use Mac,  
-> it
-> MUST be a desktop model (IMac) with OS X.5 (Leopard). Does anyone out  
-> there
-> use this system with Indic fonts? In my limited understanding, this
-> operating system is very different from the older ones, and I hope of  
-> course
-> that it supports what I do. What (once again) are the best Nagari fonts  
-> for
-> Mac, esp. that can be used on OS X.5 (Leopard)?
-
 There's a snag here. A clear and pretty Nagari font, and two different  
 keyboard layouts (QWERTY and Inscript) come along with Leopard, and they  
 function quite well, but not with just any application. The issue is the  
@@ -27,26 +8,14 @@ font rendering engines: Apple has its own, which is not compatible with
 most fonts. OpenType and TrueType fonts do not render correctly with most  
 applications. (On the other hand, if you use TeX in its miraculous XeTeX  
 version, all such fonts seem to render correctly.)
-
-> I will assume I can continue
-> to use Gentium as default Roman font, right?
-
 No problem. See my page  
 http://www.lrz-muenchen.de/~zydenbos/unicodeosx.html for further details  
 of my experiences.
-
 RZ
-
--- 
 Prof. Dr. Robert J. Zydenbos
 Deputy Head, Department of Asian Studies
 Head, Institute of Indology and Tibetology
 Munich University
 Germany
-Tel. (+49-89-) 2180-5782
 Fax  (+49-89-) 2180-5827
 Web  http://www.lrz-muenchen.de/~zydenbos
-
-
-
-

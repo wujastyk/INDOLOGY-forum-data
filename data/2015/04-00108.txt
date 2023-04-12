@@ -1,61 +1,9 @@
-From rajam at earthlink.net  Sat Apr 18 01:45:53 2015
-From: rajam at earthlink.net (rajam)
-Date: Fri, 17 Apr 15 18:45:53 -0700
-Subject: [INDOLOGY] How to unsubscribe from Indology?
-In-Reply-To: <CAOXgvirOFiT3z1sXTG40L8kN6GeXeDziyZLOJF2XsGOwWYZUYA@mail.gmail.com>
-Message-ID: <7CB71E48-A744-4CE3-A3AB-7B1964B393E2@earthlink.net>
-
+[INDOLOGY] How to unsubscribe from Indology?
 Dear Suresh,
-
 Many thanks for the information!
-
 I was asking for general information since I had a feeling that some members had been complaining privately about some postings and so wanted to be unsubscribed ? and so on. 
-
 I was wondering why those people wouldn?t just unsubscribe using the technology instead of complaining!
-
 Oh, well. 
-
 I?m not going to unsubscribe myself from this list unless the Committee decides to expel me out for any ?judicial? reason!!! ;-)
-
 Thanks and regards,
 V.S.Rajam
-
-
-> On Apr 17, 2015, at 6:28 PM, Suresh Kolichala <suresh.kolichala at gmail.com> wrote:
-> 
-> Dear Rajam,
-> 
-> A better URL to login into indology mailman options would be: http://list.indology.info/mailman/options/indology_list.indology.info <http://list.indology.info/mailman/options/indology_list.indology.info>
-> 
-> If you want to unsubscribe, click "Unsubscribe" in the second block.
-> 
-> For editing other subscription options, you need to login first. Those of us who do not know or do not remember the password for their indology subscription, can use the third block titled "Password Reminder" to remind the password. Once you login into your account with the password you can unsubscribe, or change your delivery options. 
-> 
-> One of the subscription options allows you to temporarily disable mail delivery. The options table looks something similar to the following:
-> 
-> Your INDOLOGY Subscription Options
-> 
-> Current values are checked.
-> 
-> Note that some of the options have a Set globally checkbox. Checking this field will cause the changes to be made to every mailing list that you are a member of on list.indology.info <http://list.indology.info/>. Click on List my other subscriptions above to see which other mailing lists you are subscribed to.
-> 
-> 
-> Mail delivery <>
-> Set this option to Enabled to receive messages posted to this mailing list. Set it to Disabled if you want to stay subscribed, but don't want mail delivered to you for a while (e.g. you're going on vacation). If you disable mail delivery, don't forget to re-enable it when you come back; it will not be automatically re-enabled.
-> 
-> Enabled
-> Disabled
-> Set globally
-> 
-> 
-> 
-> You can select the choices on various options, and click submit at the bottom to make changes on the server. Is this what you are looking for?
-> 
-> Suresh.
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150417/a8ec81bd/attachment.htm>
-

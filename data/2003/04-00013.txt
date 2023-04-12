@@ -1,9 +1,4 @@
-From wmcox at UCHICAGO.EDU  Sat Apr 12 05:57:39 2003
-From: wmcox at UCHICAGO.EDU (Whitney Cox)
-Date: Sat, 12 Apr 03 00:57:39 -0500
-Subject: prakrit realization in Grantham
-Message-ID: <161227072575.23782.9210109291991678651.generated@prod2.harmonylists.io>
-
+prakrit realization in Grantham
 While transcribing some Grantha-script MSS of Mahe"svaraananda's
 Mahaarthama~njarii (in which the muula-text consists of gaathaa-s in
 Maahaaraa.s.trii Prakrit, with a chaayaa and autocommentary in Sanskrit), I've
@@ -21,9 +16,4 @@ what is usually used for anusvaara) something one sees in Grantha or in other
 scripts?  Or, rather, should it be treated as two different ways of realizing
 anusvaara, and should the ms. be treated as a text with a very different,
 nasal-heavy, transmission of the Prakrit muula?  Any help would be appreciated,
-
 Whitney Cox
-
-
-
-

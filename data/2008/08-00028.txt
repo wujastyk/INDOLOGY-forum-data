@@ -1,26 +1,14 @@
-From baums at U.WASHINGTON.EDU  Wed Aug  6 18:51:34 2008
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Wed, 06 Aug 08 14:51:34 -0400
-Subject: svArtha derivation and subtypes of taddhita pratyaya affixes
-In-Reply-To: <857A4D84DE6D1D41837DD9284F2729AB03E85D51@exchangesrv1.hum2005.hum.ku.dk>
-Message-ID: <161227083132.23782.18314239328045154829.generated@prod2.harmonylists.io>
-
+svArtha derivation and subtypes of taddhita pratyaya affixes
 Dear Ulrich,
-
 is there any chance that the derivation being discussed is not
-
     mitra/maitra ? maitra
-
 but
-
     mitra/maitra ? maitraka/maitreya
-
 (?byams pa being a possible Tibetan translation for both maitra 
 and maitreya, though you don?t say what the Tibetan word for 
 maitra is in your passage), and that mthun pa?i rkyen is just an 
 unusual translation for taddhita (influenced by the meaning 
 ?agreeable? of hita)?
-
 If Bh?vaviveka?s bdag gi don la de dang mthun pa?i rkyen is for 
 sv?rthataddhitapratyaya, then I can sort of see how Avalokitavrata 
 comes to explain the whole term as bdag dang mthun pa?i tshig gi 
@@ -32,15 +20,8 @@ the Sanskrit original in the preparation of the Tibetan
 translation of Avalokitavrata?s subcommentary (similar to the 
 Ud?navarga / Ud?navargavivara?a translation procedure as 
 demonstrated by Michael Balk)?
-
 Best wishes,
 Stefan
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

@@ -1,9 +1,4 @@
-From saf at SAFARMER.COM  Sun May 21 00:35:44 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Sat, 20 May 00 17:35:44 -0700
-Subject: Mnemonics in Ancient India
-Message-ID: <161227058647.23782.1085438279367773664.generated@prod2.harmonylists.io>
-
+Mnemonics in Ancient India
 I'd like to add a correction to Shailendra Raj Mehta's interesting
 recent post: George Thompson clearly wasn't claiming that mnemonic
 devices weren't used in Vedic traditions. All that he said was that he
@@ -13,7 +8,6 @@ palaces.' Thompson obviously is well acquainted with Vedic mnemonics,
 which are based on modifications of sounds and rhythms in canonical
 texts and not on associations (as in the West) between sounds and
 visual images.
-
 The fact that a long string of famous memorists has existed in India
 (as Shailendra shows) doesn't, moreover, imply that they were using
 visual mnemonics -- or any formal mnemonics at all. Neuropsychological
@@ -41,7 +35,6 @@ what kind of data the subjects had spent most of their time memorizing
 over the years. Although some genetic component might be operative,
 long and hard practice seemed to be the critical factor -- no matter
 whether or any mnemonic method was used.
-
 The fact that even ordinary memories can be trained to perform
 spectacular feats of memory *without* the use of visual association
 was demonstrated in a famous series of experiments by KA Ericsson and
@@ -58,7 +51,6 @@ of any elaborate mnemonics, whether of the visual 'memory palace' type
 used in the West OR the kinds of oral transformations used by Vedic
 reciters. Everything depends on neural plasticity and lots of
 motivation and practice -- nothing more.
-
 Ericsson's research potentially carries one major implication for
 studies of Vedic recitation. Both native and European Vedicists (e.g.,
 Staal), often claim that the reason for the extraordinary accuracy of
@@ -75,7 +67,6 @@ alone may get the job done.  In China, so far as my Sinologists tell
 me, phenomenal feats of memorization were achieved using only what
 E. Bruce Brooks (of _The Original Analects_ fame) dubs tongue-in-cheek
 as 'knuckle-cracking mnemonics.' Bruce writes (personal communication):
-
   The memory device is rote repetition, all
   day every day for hours and the usual thump of the knuckle as corrective
   (same device, by the way, with the Japanese Palace gagaku musicians, they
@@ -83,7 +74,6 @@ as 'knuckle-cracking mnemonics.' Bruce writes (personal communication):
   father's bed in the morning as the father is sleeping, except that when
   they say a wrong solfa syllable, the father's knuckle comes down on their
   head).
-
 The great feats of Vedic recitation, on this view, may not be due to
 the types of mnemonics used, but to the extraordinary motivation that
 arose ritualistically from *having* to get the sounds right -- since
@@ -101,9 +91,4 @@ phrase from Brooks: I suspect that formal memory aids in premodern
 cultures were often 'not so much an aid to memorization as an
 auxiliary of mystification.' As Ericsson's work suggests, long and
 hard practice may be all that is needed.
-
 Steve Farmer
-
-
-
-

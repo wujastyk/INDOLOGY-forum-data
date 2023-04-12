@@ -1,21 +1,9 @@
-From vidynath at MATH.OHIO-STATE.EDU  Wed Jul  8 19:00:50 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Wed, 08 Jul 98 15:00:50 -0400
-Subject: Retroflexion in IA
-Message-ID: <161227040665.23782.10168851134835741468.generated@prod2.harmonylists.io>
-
+Retroflexion in IA
 George Thompson <thompson at JLC.NET> wrote:
->My apologies for not responding earlier.
-
 I prefer a slower pace for personal reasons anyway :-)
-
->Dravidian speakers observed a phonemic distinction between
->dentals-alveolars on the one hand and retroflexes on the other.
-
 A seemingly minor point, but one that, IMHO, matters is that
 in Proto-Dravidian, t, _t and .t are distinct phonemes, but n/_n is
 opposed to .n.
-
 To me convergence implies two-way influence. If two different languages,
 one with just one n and another with n/_n vs .n, interact with each
 other, convergence should lead to merging of all n's. It would be rather
@@ -23,34 +11,25 @@ strange if _n becomes .n distinct from n. [In general, if two groups,
 one which distinguishes two sounds and another which does not but
 depends on context etc to differentiate words, interact, the typical
 outcome is for the sounds to merge.]
-
 As I keep pointing out, such a merger is what we see at a later stage
 in MIA and in many North and Central Dravidian languages. I am yet to
 see any explanation of why it did not happen at an earlier stage.
-
->I assume that extensive bilingualism gradually increased as IA speakers
->migrated deeper into the subcontinent. [...] I think that the issue of
->*when* retroflexion became a phonemic process in IA is still an open one.
-
 How about the following:
     Stage 0: Speakers of Proto-IA/Pre-IA migrate into South Asia. At
     this stage, PIIr t, d, dh, n were each one phoneme. These must have
     had allophones already produced >behind< the alveolar ridge. But s
     and .s must be already distinct.
-
     Stage 1: A period in which many of PIA/OIA speakers are familiar
     with Dravidian languages, with some (many?) being early bilinguals. Due
     to borowings and/or other changes (i.d, which I meantioned earlier as
     giving a constrast of i.daa vs idaa, seems to be abstracted from a sandhi
     variant of i.s) there is a split of t etc. in OIA. Bilingualism may have
     helped along such a split.
-
     Stage 2-?: The use of OIA/MIA increases (both in the number of
     spkears and frequency of usage) eventually leading a sizable number
     of people who speak only OIA/MIA. At some point, convergence
     leads to the merger of s/"s/.s, n/_n/.n and _t/.t, but t vs .t is
     preserved because it is found in both groups of languages.
-
 Assuming that dental vs alveolar vs retroflex distinction existed at
 Stage 1 but simplified later would work for t/d/dh but is problematic
 for n because n/_n are only allophones in Dravidian. If PIA had n vs _n
@@ -62,18 +41,11 @@ the merger of alveolar and retroflex phonemes. This may be shocking to
 some. But to sombody from Madurai who has heard a North Indian trying to
 sing the line ``pa_ni mazhai pozhikiratu'', it is not, at least in
 hindsight.]
-
 This problem disappears if some allophones of  t, d, dh and n were
 already produced behind the alveolar ridge. That -rt- becomes some sort
 of shibilant in some Iranian dialects would support this. Finally there
 is the case of .s and the fact that .t etc occur mostly in combination
 with .s in the oldest parts of RV.
-
 I will discuss .s in a separate post.
-
 Regards
 -Nath
-
-
-
-

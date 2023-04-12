@@ -1,24 +1,11 @@
-From R.Mayer at ukc.ac.uk  Thu Jul  6 12:53:45 1995
-From: R.Mayer at ukc.ac.uk (R.Mayer at ukc.ac.uk)
-Date: Thu, 06 Jul 95 13:53:45 +0100
-Subject: Critical editions
-Message-ID: <161227019917.23782.6044027028730476513.generated@prod2.harmonylists.io>
-
+Critical editions
 Hope it won't change the subject too much to ask a mundane
 question:
-
 I do critical editions and stemmas of Tibetan scriptures. Paul
 Harrison showed me how easy his task is made by using Nisus
 for Mac; but, alas, my institution insists we all use IBM PC's,
 so I need a software as good as Nisus but IBM compatible. Preferably,
 I should be able to run it on Windows, another institutional requirement.
 Any suggestions?
-
 Rob Mayer
 University of Kent at Canterbury
- 
-
-
-
-
-

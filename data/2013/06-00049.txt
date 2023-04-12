@@ -1,10 +1,4 @@
-From martin.gansten at pbhome.se  Mon Jun 10 09:04:19 2013
-From: martin.gansten at pbhome.se (Martin Gansten)
-Date: Mon, 10 Jun 13 11:04:19 +0200
-Subject: [INDOLOGY] Dharmasastra quotation on upanayana
-In-Reply-To: <567930E5-042E-4959-80DA-387CD0531AFB@gmail.com>
-Message-ID: <51B59693.1020102@pbhome.se>
-
+[INDOLOGY] Dharmasastra quotation on upanayana
 Many thanks to Tim Lubin, Patrick Olivelle, Ashok Aklujkar and Elisa 
 Freschi for their valuable input. In response to Ashok's suggestion 
 regarding the iti clause, from the context it does seem to signal a 
@@ -12,23 +6,11 @@ quotation rather than an underlying reason. The quotation occurs among
 several others, all ending with iti. One such concerns the marriageable 
 age of a daughter; again, I have only been able to trace the first 
 half-verse. The MSS read:
-
 a??avar?? bhaved gaur? navavar?? ca rohi?? gaur? dady?d brahmaloka? 
 s?vitra? rohi?? daded iti
-
--- and the printed version:
-
 a??avar?? bhaved gaur? navavar?? ca rohi?? / gaur?? dadad brahmaloka? 
 s?vitra? rohi??? dadat // iti
-
 If anyone should happen to recognize the second half-verse (which is 
 obviously a finite verb short), please do let me know.
-
 Thanks,
 Martin Gansten
-
-
-
-
-
-

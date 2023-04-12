@@ -1,21 +1,10 @@
-From ucgadkw at ucl.ac.uk  Sat Mar 22 13:37:15 1997
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Sat, 22 Mar 97 13:37:15 +0000
-Subject: Sanskrit and Pali Software (fwd)
-Message-ID: <161227029074.23782.9544179611049433261.generated@prod2.harmonylists.io>
-
+Sanskrit and Pali Software (fwd)
 Of general interest:
-
----------- Forwarded message ----------
-Date: Tue, 18 Mar 1997 12:46:59 -0500 (EST)
-From: LibPhil at aol.com
-Subject: Sanskrit and Pali Software
-
+Sanskrit and Pali Software
 Liberation Philology
 453 Duke Street
 Cambridge, Ontario
 Canada N3H 3S9
-
 Liberation Philology Software offers full sets of low-cost,
 no-nonsense, user-friendly computer programs to help beginning
 and intermediate students of a variety of languages master
@@ -32,29 +21,23 @@ students may alternate between multiple choice tests,
 Except as noted, the programs run on any DOS (IBM-compatible)
 computer or on any Macintosh (or MacOS compatible)
 computer (System 6.0.5 or higher).
-
 Each set is individually registered to a single user.
 The programs may not be "shared" with others.
-
 We need to know your
 Full Personal Name (Essential!)
 Full Postal Address:
 E-mail Address
 Platform and disk size :
 DOS (3 1/2" DD), DOS(3 1/2" HD), or MacOS (3 1/2" HD)
-
 Be sure to affix sufficient postage for a letter to Canada.
 For orders from outside Canada and the U.S.A.
 e-mail LibPhil at aol.com for details
-
 For demonstration versions of many of these programs and
 shareware programs for a variety of other languages
 (Basque, Cornish, Nahuatl, Romontsch, Urdu etc.)
 visit our Net site
 http://members.aol.com/libphil/
-
           Price List
-
 * Ancient and NT Greek
           (Mac Only; 7.1 or higher; 4 MB RAM): $29.95
 * Bulgarian Vocabulary
@@ -84,11 +67,3 @@ http://members.aol.com/libphil/
 * Yiddish Vocabulary (transliterated and
           in Hebrew Characters) (Mac Only): $10.95
 * Yiddish Vocabulary (transliterated) (DOS Only): $10.95
-
-
-
-
-
-
-
-

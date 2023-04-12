@@ -1,171 +1,45 @@
-From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Mon Nov 19 02:55:12 2012
-From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
-Date: Mon, 19 Nov 12 08:25:12 +0530
-Subject: old tamil
-In-Reply-To: <8CF93F9F38CD484-864-26F8F@webmail-d017.sysops.aol.com>
-Message-ID: <161227098039.23782.9659168898516695853.generated@prod2.harmonylists.io>
-
+old tamil
 Dear  SP,
-
 you write
-
-
 <QUOTE SP>
-
 "This interpretation of /k?maram/ as /c?k?maram/ is as silly as
   equating the word /r?ga/ with /?r?r?ga/, a specific melody, and 
 reflects these commentators' ignorance of epigraphic evidence of the use 
 of the word /k?maram/.
-
 </QUOTE SP>
-
 How would you comment on the use of K?maram
 in the Tirumu?aika??apur??am?
 in this verse:
-
 ????????? ??????? ??????????? ??????????? /
 ?????? ???????? ???????? ??????????????? /
 ??????? ??????????? ??????????? ???????? /
 ???????? ?????????? ????????? ?????????? (42)
-
 o???ku? k?nt?ra pa?camattuk k?rira???m /
 na????a c?rna??a p??aikku navi??uraikkil /
 ku???ta pu?an?rmaik kira???ku? k??umicai /
 o???kak k?marattuk ko???kap p???i??r (42)
-
-
 This is part of the enumeration where ka??a?ai-s are attributed to the 
 various pa?-?
-
 See the translation by Karen Pechilis Prentiss
 in the /International Journal of Hindu Studies 5, 1 (April 2001)
 where this verse is translated on pp. 40-41.
-
 See also the pages 212-213 inside the 1947 book /Y?? N?l/
 by Vipul?nanta Cuv?mika?
 (published by the Karantai Tami? Ca?kam).
 where he reproduces a section of
 Tirumu?aika??apur??am.
-
 He later discusses two ka??a?ai-s for c?k?maram
 on p. 235-236.
-
 That seems to mean that Vipul?nanta Cuv?mika?
 accepts the equation between "c?k?maram"
 and "k?maram".
-
 (is this not parallel to the fact that the same place can be referred to 
 as K??i and as C?k??i?)
-
 I suppose that means that all of that is open for discussion.
-
 I would like to comment that usings words such as "silly" and 
 "parroting" does not belong in an academic discussion. These words are 
 unnecessarily aggressive or insulting. :-(
-
 It is enough to say that one disagrees with other people's interpretations.
-
 Thanks for the many interesting insights which your post contains
-
--- Jean-Luc Chevillard (CNRS, UMR 7597)
   (currently in Pondicherry, at the EFEO center)
-
-
-
 On 19/11/2012 04:47, Sudalaimuthu Palaniappan wrote:
-> Dear Dr. Aprigliano,
->
-> Other scholars on the list have given some references. I would like to
-> outline some points that will help situate the study of Old Tamil in
-> its  historical/cultural background.
->
-> Except for V.S. Rajam's grammar which others have cited too, the study
-> of Old Tamil lacks some fundamental philological analyses. Here I am
-> taking Old Tamil to refer to Classical Tamil (CT) texts of eight
-> anthologies and ten long poems. Most of the interpretations of CT texts
-> are based on commentaries that were written several centuries after the
-> poems were composed. These commentators were not historians and assumed
-> a level of Tamil cultural continuity from the CT time to their times
-> which was unwarranted. (Between the world of the CT texts and the later
-> Bhakti texts there was a major culture change in the Tamil country.)
-> These commentators were mostly from the upper castes - brahmins and
-> non-brahmins- who had a very similar cultural viewpoint.
->
-> These commentators projected into the CT past the cultural significance
-> and semantics of terms of their times. They were often divorced from
-> other cultural domains such as music, dance, etc. (The anecdote
-> involving U.V. Swaminatha Iyer and his teacher Meenakshisundaram Pillai
-> regarding the former learning Carnatic music exemplifies this.)  Often
-> when the traditional Tamil scholars interpreted key terms dealing with
-> such fields, they were wrong. An example is the case of the word
-> /k?maram,/ which occurs in a CT text. Traditional commentators interpret
-> the term as a specific melody by the name /c?k?maram/.
-> See http://www.tamilvu.org/slet/l1100/l1100pd3.jsp?bookid=20&auth_pub_id=68&stpage=157&edpage=157&file=l1130704.htm&id=2&word=??????
-> . You will find the same interpretation parroted by other commentators
-> with respect to the occurrence of the same word in later texts too. See
-> http://www.ifpindia.org/ecrire/upload/digital_database/Site/Digital_Tevaram/U_TEV/VMS1_047.HTM#p3
-> . This interpretation of /k?maram/ as /c?k?maram/ is as silly as
-> equating the word /r?ga/ with /?r?r?ga/, a specific melody, and reflects
-> these commentators' ignorance of epigraphic evidence of the use of the
-> word /k?maram/. In inscriptions we find an expert musician is often
-> given the title /k?marap p?raraiyan/ which indicates /k?maram/ referred
-> to melodious music in general. Most Tamil professors in Tamil Nadu will
-> be unable to explain the term /pa??uppeyarttal/ (modal shift of the
-> tonic) that occurs in CT texts. To understand such terms one has to use
-> musicological works such as Tami?icaik Kalaikka?a?ciyam by V. P. K.
-> Sundaram.
->
-> Similarly for the word /pa?uval/ which meant 'warp' in specific poems,
-> the traditional scholars assigned the meaning 'cotton' even though the
-> meaning 'warp' is there in the oldest lexical work Tiv?karam. They also
-> failed to realize that the bards and warriors were not from two
-> different strata of the society. Even as late as 11th century, as a
-> Tanjavur temple inscription reveals, several performing artists were
-> members of highly selective units of the C??a army.
->
-> Another example of the upper caste bias can be seen in choosing the
-> reading "ka??upe?u valcip p??a?" instead of "ka?i?upe?u valcip p??a?" in
-> N???i?ai 310.9 referring to a gift received by a bard. Pinnattur
-> Narayanasamy Aiyar chose as correct the first variant interpreting the
-> bard as one who eats veal.  Although Eva Wilden, the author of the
-> critical edition of N???i?ai did not argue for the second reading in her
-> footnotes in the critical edition, she now agrees with me that the
-> second reading is the correct one saying, "It is a case of that PuRam
-> topos of the elephant bull as a gift," referring to the custom of bards
-> getting bull elephants as gifts from chieftains and kings.
->
-> Most of the Western scholars' interpretations/translations of CT texts
-> are based on the interpretations of the above-mentioned traditional
-> Tamil commentators. As a result, one has to be careful in reading the
-> Old Tamil texts. In other words, considerable work needs to be done
-> using tools of philological, linguistic, and historical analysis to
-> understand the CT texts to excavate the culture that lies behind layers
-> of traditional misinterpretation. Unfortunately, many Tamil literary
-> scholars in Tamil Nadu do not know history, many historians do not know
-> literature, and even if one knows both literature and history, one does
-> not know linguistics.
->
-> Regards,
-> Palaniappan
->
-> -----Original Message-----
-> From: Adriano Aprigliano <aprigliano at USP.BR>
-> To: INDOLOGY <INDOLOGY at liverpool.ac.uk>
-> Sent: Thu, Nov 15, 2012 7:33 am
-> Subject: [INDOLOGY] old tamil
->
-> Dear colleagues,
->
-> A friend asks me about good materials for the study of Old Tamil. What
-> would you recommend?
-> Best wishes
-> Adriano Aprigliano
->
-> Post-doc researcher
-> Universidade de S?o Paulo
-> S?o Paulo/SP
-> Brasil
-
-
-
-

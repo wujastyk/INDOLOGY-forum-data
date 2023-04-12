@@ -1,79 +1,8 @@
-From ondracka at ff.cuni.cz  Wed Aug 23 14:04:34 2017
-From: ondracka at ff.cuni.cz (=?utf-8?Q?Lubom=C3=ADr_Ondra=C4=8Dka?=)
-Date: Wed, 23 Aug 17 16:04:34 +0200
-Subject: [INDOLOGY] Starting a new academic journal
-In-Reply-To: <D5C2EE3B.46542%lubint@wlu.edu>
-Message-ID: <20170823160434.eec3982ce6e318e5a324d03c@ff.cuni.cz>
-
+[INDOLOGY] Starting a new academic journal
 Well, it's not exactly that "these journals are openly available on the internet" if you understand "openly" as an Open Access. Your institution has to have a subscription to a particular JSTOR collection to access a specific journal (e.g. JAOS articles are free for download at JSTOR only for the years 1843?1922). 
-
 And JSTOR's main goal (similarly as in the case of all other paid platforms) is to maximize their profit, so they distribute journals of one subject area into several (typically almost all) collections forcing academic institutions to buy all of them (at present JSTOR has fifteen Arts & Sciences collections). Since it's very expensive to buy all collections, many institutions have subscription only for the first 3?5, or for the so called JSTOR Essential which includes about one third of all titles.
-
 So even if your institution has a subscription to JSTOR, very rarely it is a subscription to ALL collections, so many important Indological journals still remain inaccessible to most of us. So I fully support Dominik's urge for publishing in truly OA journals or in journals where the author is the copyright holder and a contract alows her/him to upload some version of the article at some OA platform (like academia.edu).
-
 Best,
 Lubomir
-
-
-
-
 On Wed, 23 Aug 2017 12:33:38 +0000
 "Lubin, Tim via INDOLOGY" <indology at list.indology.info> wrote:
-
-> Colleagues,
-> 
-> I very nearly wrote in with a similar suggestion about journals produced by scholarly institutions and societies.  I will only add that the JAOS has the added virtue that it assigns copyright to authors.  Many of these journals are openly available on the internet (via JSTOR or Pers?e, etc.) with only the last 3 or 5 years protected to encourage subscription.  For JAOS, the ?look back? is only 3 years.
-> 
-> Best,
-> 
-> Tim Lubin
-> 
-> From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
-> Reply-To: Arlo Griffiths <arlogriffiths at hotmail.com<mailto:arlogriffiths at hotmail.com>>
-> Date: Wednesday, August 23, 2017 at 3:14 AM
-> To: INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
-> Subject: Re: [INDOLOGY] Starting a new academic journal
-> 
-> 
-> Dear Dominik,
-> 
-> 
-> There is of course an another 'old model' (perhaps older than the one involving for-profit enterprises against which you protest): that of an academic institution or learned society running its own scholarly journal and publishing it wholly independently or with only marginal involvement of any for-profit enterprise.
-> 
-> 
-> Some of our best and most venerable journals belong to this category. To name but five, from five different countries:
-> 
-> 
-> Annals of the Bhandarkar Oriental Research Institute
-> 
-> Bulletin de l'?cole fran?aise d'Extr?me-Orient
-> 
-> Journal of the American Oriental Society
-> 
-> Wiener Zeitschrift f?r die Kunde S?dasiens
-> 
-> Zeitschrift der Deutschen Morgenl?ndischen Gesellschaft
-> 
-> 
-> I personally prefer to support and publish in these kinds of journals, and have wondered why colleagues feel the need to create new journals if excellent old ones already exist, outside of the for-profit publishing framework.
-> 
-> 
-> Best wishes,
-> 
-> 
-> Arlo Griffiths
-> 
-> 
-> 
-> ________________________________
-> From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Dominik Wujastyk via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
-> Sent: Tuesday, August 22, 2017 8:23 PM
-> To: Indology
-> Subject: [INDOLOGY] Starting a new academic journal
-> 
-> Dear colleagues,
-> 
-> New academic journals spring up with surprising frequency.  Indeed, I launched one<http://hssa-journal.org> myself.  I am surprised, however, to see how many of the journals relevant to Indology still function on what I think of as the "old model," and are run as for-profit enterprises by commercial companies like Springer, Elsevier, Brill and others, whose first duty is not to the growth of knowledge, but to their shareholders.
-> 
-> This problem of forked loyalty was starkly demonstrated this last week, when Cambridge University Press bowed to pressure from the Chinese Government, and voluntarily censored the content of its journal China Quarterly, withdrawing 300 articles that touched on topics sensitive to the PRC's communist government including the Tienanmen Square massacre and Tibet.  The reason given by the press was (in my words) that it was willing to sacrifice intellectual integrity for the purpose of continuing to sell the broad range of its products in the Chinese market.  The press has since changed its mind<http://www.aljazeera.com/news/2017/08/cambridge-university-press-posts-censored-articles-170822075543589.html> as a result of widespread incredulity and outrage from the academic establishment.  It might be uncharitable to view it this way, but one can't help thinking that CUP continues make decisions based on the bottom line, and has simply decided that it stands to lose more by alienating its domestic academic market than the Chinese one.
-> 

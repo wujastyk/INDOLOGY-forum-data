@@ -1,10 +1,4 @@
-From mmdesh at umich.edu  Wed Mar 20 04:03:09 2019
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Tue, 19 Mar 19 21:03:09 -0700
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <D163ABFC-899C-4027-93DA-C172F60224F7@gmail.com>
-Message-ID: <CAB3-dzd4JqVDcY5RtzwP0Yfv_tNHt0VFkziZ0yS==PF3H39_fg@mail.gmail.com>
-
+[INDOLOGY] Non-standard sandhi
 Irregularity of avagraha has sometimes confused great scholars like
 Whitney.  While editing the ?aunak?y? Catur?dhy?yik? on the basis of a
 single available manuscript, Whitney found a rule ??????????? in the
@@ -22,63 +16,10 @@ Catur?dhy?yik? was making a presentation of the *vivr?ta *view and the
 *view as alternatives.  This was later justified by my examination of many
 other manuscripts that did use the sign of *avagraha*.  So the reading in
 my edition reads ?????????????.
-
 Madhav M. Deshpande
 Professor Emeritus
 Sanskrit and Linguistics
 University of Michigan
 [Residence: Campbell, California]
-
-
 On Tue, Mar 19, 2019 at 6:45 PM Elliot Stern via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> The copper plate inscription (single) avagraha? shows that even in the 9th
-> century CE it could mark assimilation of at least ? + a. We cannot infer
-> from this example, however, that double avagraha? marking assimilation is
-> an ancient usage. The only uses of double avagraha? I?ve seen are in
-> colonial period and later printed texts and in manuscripts copied from
-> printed texts. These sources are not ?quite old?.
->
-> On Mar 19, 2019, at 9:20 PM, Harry Spier <hspier.muktabodha at gmail.com>
-> wrote:
->
->
->
-> On Tue, Mar 19, 2019 at 8:49 PM Elliot Stern via INDOLOGY <
-> indology at list.indology.info> wrote:
->
->> . Incidentally, the avagraha? in the copper plate inscription is an
->> instance, in Whitney?s terminology, of a hyphen. The text reads:
->> v??numodeta.
->>
->>
->> Does that mean the practice in some modern printed editions of using
-> avagraha and double avagrahas to indicate the assimilations of a+a,  ?+?,
-> ?+a etc. is actually quite old?
->
-> Harry Spier
->
->
-> Elliot M. Stern
-> 552 South 48th Street
-> Philadelphia, PA 19143-2029
-> emstern1948 at gmail.com
-> 267-240-8418
->
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190319/4c6c6247/attachment.htm>
-

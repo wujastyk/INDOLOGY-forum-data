@@ -1,12 +1,5 @@
-From juergen.neuss at FU-BERLIN.DE  Thu Sep 29 09:04:40 2011
-From: juergen.neuss at FU-BERLIN.DE (=?utf-8?Q?J=C3=BCrgen_Neuss?=)
-Date: Thu, 29 Sep 11 11:04:40 +0200
-Subject: A query on OCR for Sanskrit or Tamil
-In-Reply-To: <8CE4C7E475E4BF2-788-C4575@Webmail-d121.sysops.aol.com>
-Message-ID: <161227093947.23782.2593948099385793541.generated@prod2.harmonylists.io>
-
+A query on OCR for Sanskrit or Tamil
 dear palaniappan,
-
 i have some experience in ocr for nagari. the only way to read nagari  
 texts for a long time was to use finereader (www.abbyy.com) and train it  
 to nagari characters, which was a tedious procedure. as finereader was  
@@ -18,7 +11,6 @@ results compared to other ocr software at least according to my
 experience. but it can be used only for one script at a time and not for  
 mixed script, i.e. you have first to train and recognize nagari, then  
 tamil and so on and finally merge the results manually.
-
 now, however, there is a far better specialized program for devanagari,  
 which was developed by a colleague, Dr. Oliver Hellwig (www.indsenz.com).  
 There are two versions, one for Sanskrit and one for Hindi, which include  
@@ -28,15 +20,9 @@ amazing accuracy. If the pictures you are processing are of good quality
 the accuracy can be more than 99%. Text output is in Unicode UTF-8,  
 nagari, and the document comes in .rtf-format, which can be further  
 processed with the word-processor of your choice.
-
-
 I hope this helps.
-
 best regards
 jn
-
-
--- 
 ????????????????????????????????????????????????
 Dr. J?rgen Neu?
 Freie Universit?t Berlin
@@ -45,7 +31,3 @@ K?nigin-Luise-Str. 34 a
 D-14195 Berlin
 ??????????????????????????
 juergen.neuss at fu-berlin.de
-
-
-
-

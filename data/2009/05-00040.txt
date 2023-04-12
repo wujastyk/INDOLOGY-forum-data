@@ -1,10 +1,4 @@
-From james.hartzell at GMAIL.COM  Wed May 13 23:25:33 2009
-From: james.hartzell at GMAIL.COM (James Hartzell)
-Date: Thu, 14 May 09 01:25:33 +0200
-Subject: Devanagari Unicode fonts for the Mac?
-In-Reply-To: <a06210201c630a67063b0@192.168.1.101>
-Message-ID: <161227086178.23782.14497103351954817812.generated@prod2.harmonylists.io>
-
+Devanagari Unicode fonts for the Mac?
 Madhav Deshpande had guided me through using the Devanagari QWERTY keyboard
 under the International input option on the Mac (see System Preferences).
 Then selecting the Arial Unicode MS.  This works perfectly well in
@@ -20,30 +14,10 @@ provides the retroflexes as well.
 ? from alt n
 ?  from .
 ? from alt '
-
 for instance
 ???????:
 ???????: etc.
 not sure whether this will work in your Adobe program.
-
 ?????:
 James Hartzell
-
 On Wed, May 13, 2009 at 6:40 PM, Paul G. Hackett <ph2046 at columbia.edu>wrote:
-
-> Greetings,
->
-> I am attempting to typeset some Unicode Devanagari text in Adobe InDesign
-> (CS3) on the Mac (OS X.5.6) but cannot seem to locate a Unicode font that
-> will function correctly (i.e. form ligatures) in InDesign.  Does anyone know
-> of any such font that will do so (free or otherwise)?
->
-> Thanks,
->
-> Paul Hackett
-> Columbia University
->
-
-
-
-

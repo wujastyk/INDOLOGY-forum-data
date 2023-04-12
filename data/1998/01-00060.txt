@@ -1,30 +1,5 @@
-From thillaud at UNICE.FR  Thu Jan  8 11:14:13 1998
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Thu, 08 Jan 98 12:14:13 +0100
-Subject: Help with a sentence?
-In-Reply-To: <v01530504b0d97ddd7bfe@[195.74.194.58]>
-Message-ID: <161227034671.23782.6219958642547100784.generated@prod2.harmonylists.io>
-
->>what would be the subject in the
->>sentence you mentioned firstly, if you disconnect
->>sva from kaH: svayoor ...... zakyate to handle as
->>a separate sentence, how to translate this?
->
->The subject would be the (real) subject of jJaatum na zakyam:
->
->``svayoor maataa-pitroor api sarvam caritram jJaatum na zakyam''
->
->(transl: it is impossible (for one) to know the whole life even of
->(one's) own parents)
->
->>Let us return to your first question: do you
->>accept my advice for taking sva as a reflexiv
->>pronomina or not?
->
->I do.
-
+Help with a sentence?
         Don't me, perhaps because I don't understand all.
-
         According Stchoupak, Nitti, Renou's "Dictionnaire
 Sanskrit-Francais", sv zakya- : "le neutre peut aussi s'employer
 IMPERSONNELLEMENT, avec infinitif non passif" (I upcase).
@@ -37,7 +12,6 @@ only thing we can know is an almost empty semantic feature: it can be a
 subject for the verbs zak- and jJA-, nothing else (number, gender, person,
 &c.). Naming it the "real subject" is nothing but a improper projection.
         Without subject, how sva can be a pro-noun? how inflect it?
-
         Before a noun, sva acts clearly as an adjective qualifying here the
 parents as "belonging strongly to the context" (probably the ancient
 meaning of *swe: see Eurindian facts and Ved. svadhA "inherent power") and
@@ -54,19 +28,11 @@ reflexive adjective (...). It is inflected like an ordinary adjective
 (priya) in the RV (except the two isolated pronominal forms svasmin and
 svasyAs)."
         (somebody able to count the number of sve in the RV ?)
-
         To give a personal answer at a connected problem, I believe that a
 compound such svapitR is originally a karmadhAraya, not a tatpuruSa, even
 if today both interpretations are possible.
-
         If I'm wrong, I would be very happy to know why.
-
         Regards,
 Dominique
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

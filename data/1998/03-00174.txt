@@ -1,19 +1,9 @@
-From nozawa at LA.NUMAZU-CT.AC.JP  Wed Mar 11 04:44:22 1998
-From: nozawa at LA.NUMAZU-CT.AC.JP (Nozawa Masanobu)
-Date: Wed, 11 Mar 98 13:44:22 +0900
-Subject: Errata of the Vaishesikasutra E-text
-In-Reply-To: <199803100755.AA00253@Aristotle.la.numazu-ct.ac.jp>
-Message-ID: <161227036590.23782.7632483649930281684.generated@prod2.harmonylists.io>
-
+Errata of the Vaishesikasutra E-text
   E-text of the Vaishesikasutra I opened yesterday has so far proved to be
 containing the following errors.
  The text has been revised with these errors corrected.
-
-
    Errata of Vaishesikasutra E-text
-
                 errors           corrections
-
 1.2.15,17 -vizeSAbhAvAc ca.      -vizeSAbhAvena ca.
 2.1.22 -AnukRpti-                -AnukLpti-
 2.2.20 dRSTam adRSTAm.           dRSTam adRSTam.
@@ -32,13 +22,7 @@ containing the following errors.
 10.4 -jJAnAntaratve hetuH.       -jJAnAbhyAM vyAkhyAtA
  $B!!!!!!!!!!!!!!!!!!!!!!!!!! (B
 .
-
-
                 Nozawa Masanobu
                 Division of Liberal Arts
                 Numazu College of Technology
         E-mail: nozawa at la.numazu-ct.ac.jp
-
-
-
-

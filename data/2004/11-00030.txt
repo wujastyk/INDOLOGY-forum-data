@@ -1,25 +1,7 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Wed Nov 10 09:09:14 2004
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard MAHONEY)
-Date: Wed, 10 Nov 04 22:09:14 +1300
-Subject: Devanagari [the typsetting and printing of]
-In-Reply-To: <Pine.GSO.4.21.0410311000150.20181-100000@harper.uchicago.edu>
-Message-ID: <161227075262.23782.16772279824458672862.generated@prod2.harmonylists.io>
-
+Devanagari [the typsetting and printing of]
 Dear Colleagues,
-
 On Sun, Oct 31, 2004 at 10:04:37AM -0600, Matthew Kapstein wrote:
-
-> What is the current wisdom regarding unicode devanagari fonts and
-> methods of input? For one who wants something easy to install and to
-> use, that produces an attractive result when printed with a
             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-> reasonably high quality printer, what is most recommended?
->
-> Is there, by the way, a keyboard compatible with the devanagari
-> that is included in the Titus font set?
->
-> Matthew Kapstein
-
 I have been following this thread with interest but am returning to
 Matthew's question about printing. When it comes to all discussions
 about fonts and encodings and so on, the quality of printed output is,
@@ -36,19 +18,9 @@ quality Devanagari (or Tibetan) output?  One could use `LaTeX' with
 `Devanagari for TeX' (or `cTibTeX'). If writing a critical edition
 then perhaps `e-TeX' and `EDMAC' would give one greater flexibility
 and control.
-
-
 Best regards,
-
  Richard Mahoney
-
-
---
 Richard MAHONEY | internet: homepages.comnet.net.nz/~r-mahoney
 Littledene      | telephone / telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 25 829 986
 OXFORD, NZ      | e-mail: r.mahoney[use"@"]comnet.net.nz
-
-
-
-

@@ -1,17 +1,10 @@
-From vidya at CCO.CALTECH.EDU  Wed Sep 17 03:13:29 1997
-From: vidya at CCO.CALTECH.EDU (Vidyasankar Sundaresan)
-Date: Tue, 16 Sep 97 20:13:29 -0700
-Subject: viLari and tODi rAga (was Re: Q: Tamil literature)
-In-Reply-To: <Pine.GSO.3.96.970916143217.3022B-100000@hartnell>
-Message-ID: <161227032550.23782.9985227763083183319.generated@prod2.harmonylists.io>
-
+viLari and tODi rAga (was Re: Q: Tamil literature)
 I think Palaniappa is right in saying that the word narampu refers to the
 individual note/string. Besides the straightforward linguistic meaning,
 there is a practical matter which should decide the issue. Let us leave
 the comparison of the octave to the zodiac signs aside, as it could just
 be poetic in origin, and not have anything practical to do with music. How
 does one execute the vaTTappAlai or the kural tiripu in real life?
-
 The conceptual difference between the kural tiripu (standard shifting of
 the tonic) and the vaTTappAlai is this. When shifting the tonic, you
 maintain the interval relationships within an octave, but redefine them

@@ -1,9 +1,4 @@
-From magier at columbia.edu  Tue Mar  1 05:05:45 1994
-From: magier at columbia.edu (David Magier)
-Date: Tue, 01 Mar 94 00:05:45 -0500
-Subject: The South Asia Gopher
-Message-ID: <161227016586.23782.13185957186065486808.generated@prod2.harmonylists.io>
-
+The South Asia Gopher
 As promised, Columbia University's South Asia Gopher (SAG) is now up
 and running and publicly accessible. As you will see when you use it,
 it is still under development, with quite a few slots being held open
@@ -25,29 +20,19 @@ entry for yourself, and pass this message along to other South
 Asianists so that they may use the service and submit entries for
 themselves. (See the Read_Me file under the Directory's menu for
 instructions on submitting an entry).
-
 To use The South Asia Gopher (SAG):
-
 a) If you have a gopher client, use this pointer:
-
 Name=The South Asia Gopher
 Type=1
 Host=gopher.cc.columbia.edu
 Port=71
 Path=1/clioplus/scholarly/SouthAsia
-
 b) If you don't have a gopher client, just TELNET to:
-
 clioplus.cc.columbia.edu
-
 You will find the SAG under the menu item labelled "Scholarly
 Electronic Resources By Subject"
-
 c) If you have trouble understanding or using these instructions,
 please contact me. Thank you.
-
-
-
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
     ____________________________       304 International Affairs
   ///    -- David Magier --    \\\     Columbia University
@@ -55,9 +40,3 @@ please contact me. Thank you.
  |||  S&SE Asia, Latin America, |||    212-854-8046 / FAX: 212-854-2495
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------        magier at columbia.edu
- 
-
-
-
-
-

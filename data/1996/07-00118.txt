@@ -1,20 +1,7 @@
-From vidya at cco.caltech.edu  Wed Jul 31 07:58:05 1996
-From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
-Date: Wed, 31 Jul 96 00:58:05 -0700
-Subject: how to reference list discussions
-Message-ID: <161227025450.23782.6129710966590577942.generated@prod2.harmonylists.io>
-
-
-> Personal emails should be treated as Personal Communications and would not
-> need exact dates. I do, however, think that it is useful to make a
-> difference between public discussions and private PCs.
-> 
-
+how to reference list discussions
 Good point. It might also help to give the URL of the Indology archive
 site as part of the citation. Thus, a format could be
-
 <name>, <subject>, <list name>, <URL>, <date>. 
-
 Some of the scientific journals that are being published on the internet
 have started thinking about such referencing issues. You could link to
 http://journals.ecs.soton.ac.uk/proposal.html, to see what the 
@@ -25,10 +12,4 @@ of the archive would be like giving the name of the publisher of the
 proceedings of a conference. A user with access to appropriate software 
 can thereby look up the original reference. Just like finding an article 
 in a journal at the library. 
-
 S. Vidyasankar 
-
-
-
-
-

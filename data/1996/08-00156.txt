@@ -1,10 +1,4 @@
-From pclaus at haywire.csuhayward.edu  Mon Aug 26 15:03:04 1996
-From: pclaus at haywire.csuhayward.edu (Peter J. Claus)
-Date: Mon, 26 Aug 96 08:03:04 -0700
-Subject: Typing Sanskrit
-Message-ID: <161227025796.23782.10696899780107450288.generated@prod2.harmonylists.io>
-
-
+Typing Sanskrit
 Although I, too, am not a Sanskritist and I try to avoid the task of 
 writing ANY SA language in Romanized script (for the languages I work in, 
 if the reader knows the language, they know the script), it seems to me 
@@ -18,7 +12,6 @@ three or four variants of an ascii character (eg. s, s@ [sh], s# [sya]).
 Furthermore, making a number of variant transcription styles using the 
 same simple macro, changing only a couple of line, also would be 
 facilitated.
-
 Eg., in editing contributions to an encyclopedia, I have found it 
 necessary to send the press one form of transcription 
 (K<r/.bl><s/.bl><n/.bl>a  is how they want Kr at s@n at a) and to send the 
@@ -26,15 +19,8 @@ contributors their edited copy in hardcopy with the diacritics in place,
 above or below the line.  The two different versions of an entire 
 manuscript with 100 transliterated terms can be done in a matter of two or 
 three seconds. 
-
 Finally, with the same set of @s, #s, and maybe ~s, one can do all SA and 
 Middle Eastern scripts (given, say, LC equivalency charts).
-
 The system is not particularly pretty, but can be done on a typewriter, 
 too.  It is not, however, MY system, but one some body has already 
 suggested to the LIST.
-
-
-
-
-

@@ -1,12 +1,5 @@
-From juergen.neuss at FU-BERLIN.DE  Mon May 17 20:54:53 2010
-From: juergen.neuss at FU-BERLIN.DE (=?utf-8?Q?J=C3=BCrgen_Neuss?=)
-Date: Mon, 17 May 10 22:54:53 +0200
-Subject: Help with keyboard
-In-Reply-To: <92CFF9099CAE6A489B45DCBF475C3226106591@exchangesrv1.hum2005.hum.ku.dk>
-Message-ID: <161227089597.23782.15917619183197734943.generated@prod2.harmonylists.io>
-
+Help with keyboard
 dear kenneth and others,
-
 i recently tried to install anything i know regarding diacritics, from
 gandhari-unicode to baraha, on the windows 7 computer of one of my
 students. I learned, to my surprise, that nothing worked at all with w7,
@@ -20,41 +13,11 @@ so i can only recommend to downgrade to xp, as long as one cannot use
 another os with suitable software available.
 if anyone has a solution for the w7 problem, i also would be grateful for
 detailed information.
-
 sorry, if some of you find this response lengthy and useless, what it in
 fact is.
-
 cheers
-
 juergen
-
-
-
 Am Mon, 17 May 2010 20:56:07 +0200 hat Kenneth Zysk <zysk at hum.ku.dk>
 geschrieben:
-
-> I just acquired a new computer with Windows 7. I downloaded Gandhari  
-> Unicode fonts and tried, but failed, to download the Keyman keyboard  
-> layout. Can someone kindly tell me how to acquire the necessary keyboard  
-> accessory for the Gandhari Unicode fonts with Windows 7.
-> Many thanks in advance.
-> Best,
-> Ken
-> Kenneth Zysk
-> Department of Cross-Cultural and Regional Studies
-> University of Copenhagen
-> Artillerivej 86
-> DK-2300 Copenhagen S    Denmark
->  Email: zysk at hum.ku.dk
->
-
-
--- 
-__________
 J?rgen Neu?
-
 http://userpage.fu-berlin.de/~jneuss/
-
-
-
-

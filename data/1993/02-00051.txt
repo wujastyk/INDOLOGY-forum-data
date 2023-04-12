@@ -1,33 +1,20 @@
-From magier at cunixf.cc.columbia.edu  Tue Feb 23 11:21:51 1993
-From: magier at cunixf.cc.columbia.edu (David Magier)
-Date: Tue, 23 Feb 93 06:21:51 -0500
-Subject: Pictures from Pakistan
-Message-ID: <161227015717.23782.11223874702333194508.generated@prod2.harmonylists.io>
-
+Pictures from Pakistan
 For your information, there is an archive of high resolution (mostly
 color) graphic images from Pakistan, in the GIF format, which you can
 download and display or print. The images are available for file
 transfer (anonymous ftp) by following these steps:
-
 1) ftp near.ugcs.caltech.edu          (OR    ftp 131.215.128.204)
-
 2) cd pub/gifs/Pakistan
-
 3) type "binary"
-
 4) type "get" followed by the filename of the image you want (see list
 below).
-
 5) This will transfer the file to your own host, from which you may
 download it to your PC or Mac using kermit or other communications
 software.
-
 6) Then you can display the image using any of the shareware or
 commercial GIF software applications available (GIFFER, GIFview,
 GIFconverter, etc.)
-
 Here is the list of images available from the caltech archive:
-
 chitral.gif     Chitral Fort
 hunza.gif       Baltit Castle
 lahore1.gif     Sheesh Mahal, Lahore Fort
@@ -58,10 +45,7 @@ srinagar.gif      famous b/w photograph by Henri Cartier-Bresson,1948.
 tajmahal.gif      Taj Mahal, Agra (India)
 tomb.gif          tomb of Bibi Jaiwindi: Uch Sharif, Punjab (Pakistan)
                   after Maharaja Ranjit Singh
-
-
 These are lovely images. Enjoy!
-
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
     ____________________________       304 International Affairs
   ///    -- David Magier --    \\\     Columbia University
@@ -69,9 +53,3 @@ These are lovely images. Enjoy!
  |||  S&SE Asia, Latin America, |||    212-854-8046 / FAX: 212-854-2495
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------        magier at columbia.edu
- 
-
-
-
-
-

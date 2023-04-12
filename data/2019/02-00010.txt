@@ -1,11 +1,5 @@
-From nehrdbsd at googlemail.com  Sat Feb  2 23:22:29 2019
-From: nehrdbsd at googlemail.com (Sebastian Nehrdich)
-Date: Sun, 03 Feb 19 08:22:29 +0900
-Subject: [INDOLOGY] GRETIL quotation network
-Message-ID: <CAOB6=r9XJVFv_9-d5n0w5eRjGEKNG3t-2RhaHPhYGbhJgANH4g@mail.gmail.com>
-
+[INDOLOGY] GRETIL quotation network
 Hello everybody,
-
 Based on the Sandhi-splitter that Oliver Hellwig and me developed last year
 (
 https://github.com/OliverHellwig/sanskrit/blob/master/papers/2018emnlp/sandhi-rnn-hellwig-nehrdich.pdf),
@@ -15,10 +9,8 @@ http://buddhist-db.de/sanskrit-html/index.html
 The tables are in a very simple format, but since links to the quoted
 passages are provided, it can be quite entertaining to navigate through the
 files and jump to the quoted passages.
-
 The code and a small description of the used tools are on github:
 https://github.com/sebastian-nehrdich/gretil-quotations
-
 The algorithm is based on fasttext vector representations of sequences with
 a fixed length of six tokens. This is short enough to match sets of two
 p?das of an anu??ubh stanza and long enough to avoid yielding too much
@@ -31,11 +23,4 @@ might have happened that during the process of extracting and splitting the
 Sanskrit sentences something did not go perfectly well. It is therefore
 always a good idea to check back with the original etext files.
 With best wishes,
-
 Sebastian Nehrdich
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190203/abd9a0bb/attachment.htm>
-

@@ -1,31 +1,14 @@
-From wujastyk at gmail.com  Sun Jul 19 23:35:20 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Mon, 20 Jul 15 01:35:20 +0200
-Subject: =?utf-8?Q?Re:_[INDOLOGY]=09Speaking_of_plagiarism:_Satya_Prakash_Sarasvati_and_Satyakam_Vidyalankar=E2=80=99s_=E1=B9=9Agveda?=
-In-Reply-To: <9E04406D-EC8C-41EF-ABAD-1565EC6FA6C1@berkeley.edu>
-Message-ID: <CAKdt-CfmacMxxmBTZO_fuSiA3FxGCioHgeGiCNs7xRRo33RV1w@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]=09Speaking_of_plagiarism:_Satya_Prakash_Sarasvati_and_Satyakam_Vidyalankar=E2=80=99s_=E1=B9=9Agveda?=
 On 19 July 2015 at 20:12, George Hart <glhart at berkeley.edu> wrote:
-
-> I remember years ago when I was studying Sanskrit Ingalls mentioned that
-> Monier Williams had apparently copied from Boethlingk-Roth without
-> attribution. He said that Boethlingk was able to adduce entries in Monier
-> Williams that had the same mistakes originally made on the SP Lexicon. Plus
-> ?a change?. George Hart
->
-
 ?The relationship of the MW and PW dictionaries was carefully evaluated in
 the 1988 article,
-
 Ladislav Zgusta, "Copying in Lexicography. Monier-Williams' Sanskrit
 Dictionary and Other Cases (Dvaiko?yam)" *Lexicographica*, 1988, 4, 145-164.
 http://www.degruyter.com/view/j/lexi.1988.4.issue-1/9783110244083.145/9783110244083.145.xml?format=INT
-
 It's a complex and nuanced relationship, that Zgusta describes very well,
 developing seven defined categories of textual dependence (A-G).  It's
 worth reading the whole article, which is careful and illuminating.  Zgusta
 says, p.161,
-
 To sum up: MONIER-WILLIAMS is completely independent of PW in respect to
 the general
 plan of the arrangement of his dictionary, or its macrostructure (category
@@ -85,9 +68,7 @@ Both in the case of categories F, and B and C, MONIER-WILLIAMS' sins are
 rather those
 of omission than of commission; only category A comprises a sin of
 commission.
-
 Zgusta also says, p.160,
-
 In sum, it is not possible fully to condemn MONIER-WILLIAMS, just as it is
 not possible
 fully to exonerate him.  ...
@@ -107,12 +88,5 @@ G?ttin-
 gen, but also that such serious scholars as E. LEUMANN (Strassburg) and C.
 CAPELLER
 (Jena) did not hesitate to cooperate with him on the second edition of MW.
-
 Best,
 Dominik Wujastyk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150720/ddc4a281/attachment.htm>
-

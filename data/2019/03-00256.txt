@@ -1,9 +1,3 @@
-From martingansten at gmail.com  Thu Mar 21 18:27:47 2019
-From: martingansten at gmail.com (Martin Gansten)
-Date: Thu, 21 Mar 19 19:27:47 +0100
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <CAPW7aQExM4XTNV+Pc5kxT3EmEvTUYQ529J5kWYSFbUEPYkFdiw@mail.gmail.com>
-Message-ID: <8b5b5fc1-035f-1578-d456-bca62084838d@gmail.com>
-
+[INDOLOGY] Non-standard sandhi
 Thank you, Harry. Most of these are just instances where sandhi has not 
 been implemented, or (in the case of Veda) where a text has been 

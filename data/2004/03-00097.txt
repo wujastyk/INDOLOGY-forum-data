@@ -1,46 +1,18 @@
-From birgit.kellner at UNIVIE.AC.AT  Sun Mar 21 11:51:30 2004
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Sun, 21 Mar 04 12:51:30 +0100
-Subject: Convert Devanagari into romanized text: any automatic tools?
-In-Reply-To: <BC834144.6F2E%A.Griffiths@let.leidenuniv.nl>
-Message-ID: <161227074248.23782.15351699531482466773.generated@prod2.harmonylists.io>
-
+Convert Devanagari into romanized text: any automatic tools?
 thanks, Arlo (and thanks to all the others who have so far responded on
 the list and off-list).
-
 The Sanskrit Reader project as such sounds very interesting, indeed. But
 on the website I find no information about whether it is completed, on
 what platforms it is available, whether it can be downloaded somewhere
 ... has anyone seen or used the software already?
-
 These things make me wish there were a central inventory of ongoing
 software projects, something like a forum where people can enter short
 descriptions of their projects, with URLs, and linked from the main
 INDOLOGY site. If there's general interest in this, I could look into
 setting it up at our institute's website, where we have forum software
 installed already.
-
 Best regards,
-
 Birgit
-
-
-
 Best regards,
-
 Birgit Kellner
-
 Arlo Griffiths wrote:
-
->Is the following reference of help?
->
->http://www.sanskritreader.de/
->
->Arlo Griffiths
->
->
->
-
-
-
-

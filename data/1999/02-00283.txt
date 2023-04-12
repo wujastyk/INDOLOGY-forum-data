@@ -1,37 +1,11 @@
-From lmfosse at ONLINE.NO  Thu Feb 18 19:02:59 1999
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Thu, 18 Feb 99 20:02:59 +0100
-Subject: SV: Paishaacika Sanskrit?
-Message-ID: <161227046526.23782.2624583455679017034.generated@prod2.harmonylists.io>
-
-> The text in question is a naa.diigrantha called Dhruvanaa.dii. It is
-> definitely in Sanskrit (of sorts), not Prakrit, and of South Indian origin.
-> I haven't the text with me at the moment, but I am working on another text
-> very similar in style: Gurunaa.dii. Among the typical grammatical errors,
-> the following may be mentioned:
->         - irregular case endings and compound forms, such as 'karme' for
-> 'karma.ni', or 'pitaa-vipat' for 'pit.r-vipat'
->         - irregular (I think) words such as 'bhraatrii' for 'sister'
->         - excessive and superfluous use of the endings -vat and (more
-> rarely) -mat, in words such as 'bhaagya-vihiina-vaan'
->         - erroneous gender inflections, such as 'sukhii' for 'sukhinii' or
-> -vaan for -vatii.
-
+SV: Paishaacika Sanskrit?
 I am not sure, but you may possibly find relevant info in the following book:
-
 Damsteegt, T. (1978). Epigraphical Hybrid Sanskrit. Leiden, E. J. Brill.
-
 Best regards,
-
 Lars Martin Fosse
-
 Dr. art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
 Norway
 Phone/Fax: +47 22 32 12 19
 Email: lmfosse at online.no
-
-
-
-

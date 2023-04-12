@@ -1,44 +1,21 @@
-From selwyn at DTN.NTL.COM  Wed Jan 12 16:57:48 2000
-From: selwyn at DTN.NTL.COM (L.S.Cousins)
-Date: Wed, 12 Jan 00 16:57:48 +0000
-Subject: Pali (details)
-In-Reply-To: <v04011704b4a1abfc08f2@[140.247.49.145]>
-Message-ID: <161227055211.23782.3741695828623211697.generated@prod2.harmonylists.io>
-
+Pali (details)
 <excerpt>(Cousins)
-
 <excerpt>
-
  What precise evidence do you have which locates specific features and
 forms with specific geographical areas in this period?
-
 </excerpt></excerpt>
-
 (Witzel)
-
-
 <excerpt>Common knowledge: even the old  GEIGER/PISCHEL  ETC ETC WILL
 DO; (and cf. Patanjali at c.150 BCE.):
-
-
 v instead of b
-
 r instead of l; 
-
   kh/ch,   cca/tiya, etc etc.
-
 nom. masc. -o instead of -e 
-
 to quote only the most hackneyed ones; etc etc.
-
 more from my office... on Friday(?)
-
 </excerpt>
-
 The issue isn't the reality of such distinctions. The question is as to
 how we geographically locate them.
-
-
 I don't in principle object to Helmer Smith's "la koine gang?tique dont
 l'ardhamaagadhii et le pali repr?sentent les normalisations les plus
 anciennes" (Journal Asiatique 1952, p. 178). Of course, there is
@@ -47,146 +24,89 @@ equally ancient material.   But the notion that we are talking of
 languages which have their basis in the Gangetic basin i.e. in the
 territories of the enlarged kingdom of Maagadha seems essentially
 correct.
-
-
 Looking in OvH's Ueberblick, it seems clear that he takes his stand on
 the similarity of Pali to Girnaar. But this is no longer a tenable
 position in my view, at least not without argument.
-
-
 <excerpt><excerpt>(Cousins)
-
 The latter states: 'The evidence, on which these conclusions are based,
 are (sic) the inscriptions of A'soka (3rd century BC), which allow us
 to draw a very rough linguistic map of northern India'. So OvH does
 indeed give primacy to the inscriptions of Asoka.
-
 </excerpt>
-
-
 Of course, as our oldest written materials. And note the "rough" map,
 which implies discussion of many individual items.  All this is not so
 prima facie as it may sound in such summaries.
-
 </excerpt>
-
 Quite.
-
-
 <excerpt>
-
 Cousins:
-
 <excerpt> In the present context that means the inscriptions at Girnar
 (and the fragments from Sopara), as these are the only western
 examples.
-
-
 </excerpt>
-
 What about the NW, and Delhi???
-
 To countercheck the W and E. inscriptions (plus the ones in Drav.
 territory).
-
 </excerpt>
-
 The point at issue was the assertion that Pali resembled a western
 dialect evidenced in the A'sokan inscriptions. The NW is therefore
 irrelevant. 
-
-
 I am not sure what you are referring to by 'Delhi'. Do you mean the
 version of MRE I at Bahaapur or the two sets of pillar edicts brought
 to Delhi by Firoz Shah in 1356 A.D. ?
-
-
 It is not clear to me how they are relevant to a discussion of the
 relationship between Pali and the supposed Girnaar dialect.
-
-
 <excerpt><excerpt>(Cousins)
-
 He also gives a footnote reference to his Ueberblick, .... But I do not
 doubt that he takes a rather conservative view on this issue.
-
 </excerpt>
-
 Conservative? -- He stresses Sanskritization and Koine character of
 Pali throughout 
-
 </excerpt>
-
 There is hardly anything new about either of those claims.
-
-
 We should of course distinguish between 1) a usage of 'Pali' as the
 name adopted since the 17th century for the language of the Theravaadin
 recension of the Buddhist Canon i.e. the language of the texts (paa.li)
 - the correct name (i.e. the only anciently attested one) being
 Maagadha-bhaasaa and 2) the original spoken dialect which underlies
 that language.
-
-
 <excerpt>The point rather is:  Which BASIC features of Pali fit which
 local dialects?
-
-
 Quoting purely from memory (maybe more details on Friday from my
 office), I point to early, post_Asokan local  MIA inscriptions in the
 western areas (some typical ones conveniently collected by DC Sircar,
 Selected inscriptions)  which easily show typical western features,
 such as  nom -o instead of eastern -e.
-
 </excerpt>
-
 Again, this is a very widespread feature. It is certain that not all
 dialects in the east had the nominative in -e.
-
-
 <excerpt>(Where does Pali have such eastern forms <<again from memory>
 as in the Lumbini  words:  hide Buddhe jaate??)  And Lumbini is roughly
 north of Benares... not north of Patna ...
-
 </excerpt>
-
 Reading from a handy xerox copy of the inscription itself, I make it
 hida Budhe jaate.
-
-
 But the geographical location is hardly relevant, since the scribe
 (probably from Patna) accompanying A'soka may have simply written down
 the spoken words of A'soka in A'soka's spoken dialect or he might have
 written them down in the form he was used to using (or one of them may
 have been citing a scriptural text).
-
-
 In any case, as stated before, the ending -e is not significant. Hida
 is quite close to Pali idha, rather than the iha of most Prakrits. (The
 h- is emphatic as Pali heva.m. Or, do you consider this to be a
 Maagadhism?)
-
-
 <excerpt>The western features can then be compared to early post-Asokan
 inscriptional eastern ones: 
-
 Where exactly is  the Boundary? (see below).
-
-
 <excerpt>(Cousins)
-
  let me cite from p. 55 (in the concluding paragraph):
-
 "If we can disregard the evidence of the A'sokan inscriptions ...  Pali
 ...... had its home much nearer Magadha. .... when the Maagadhisms and
 Sanskritisms in Pali have been disregarded, there is, in fact, very
 little difference between the language of the Theravaadin canon and the
 language of the Haathigumphaa inscription."
-
 </excerpt>
-
 <fontfamily><param>Geneva</param><smaller>(Witzel)
-
 </smaller><bold>We need to compare a lot of data from early MIA
 inscriptions (NW, C, E, W, S, see above) not just Orissa, and from a
 range of centuries if need be: </bold></fontfamily>The exact E/W
@@ -194,13 +114,9 @@ dialect  boundary line is to be determined. This is probably a POINT
 (the only one?)  WHERE WE CAN AGREE.  But on the basis of hard (early
 inscriptional) evidence. Unfortunately little edited so far (see again 
 Intro to OvH Ueberblick). -- The details on Friday.
-
 </excerpt>
-
 Yes, although I take Norman's comments to be based upon precisely such
 examination of a number of inscriptions (not just Orissa).
-
-
 <excerpt>Orissa, by the way, seems to represent, in my private
 estimation, a special case (even in medieval times):  while it has an
 eastern form of MIA, it also has some curiously western features, for
@@ -210,68 +126,43 @@ have seen the same in the middle ages: around 500 AD, strong cultural
 western influences  via the Nagpur area, -- later ,superimposition of
 northern/Bengali features.  This does not solves things for Asokan
 times, but points to caution that should be exercised.
-
-
 </excerpt>
-
 If you take the view that Orissa is a special case, then you will have
 to agree that the A'sokan inscriptions from that area are another
 example where the language of the edicts does not correspond to that
 locally spoken.
-
-
 <excerpt><excerpt><fontfamily><param>Geneva</param><smaller>(Cousins)
-
 </smaller></fontfamily>Earlier in the paper examples are given of
 various cases (some of them new) in which A'sokan inscriptions are in a
 dialect which cannot have been that locally current. 
-
 </excerpt>
-
 This is well known, --  as far as individual features are concerned.
 See above.
-
-
 <excerpt>The most striking example remains Sopara (near to Girnar)
 which consistently changes l to r, even when this is historically
 inappropriate. It is very difficult to believe that the local dialect
 actually had phara (for phala) or ma.mgara (for ma.mgala).
-
-
 </excerpt>
-
 To quote r/l is  not the best  example, (though the east likes l better
 , type   raajaa = laaja) -- because of the unstable characteristics of
 this sound: it changes back and forth within the Vedic texts (see my
 paper in Zimbun 1991)
-
 </excerpt>
-
 I have not seen your paper yet. But I assume that this kind of thing
 may simply evidence that such dialect variations are quite old.
-
-
 <excerpt>  and continued to do so (Lumbini <<-devii> modern
 Rummin-dei).
-
 </excerpt>
-
 As pointed out above, the inscription is not evidence for local
 pronunciation.
-
-
 <excerpt>  O.v.Hinueber has a note in Ueberblick  on this point as
 well, somewhat along these lines. (( The Sopara example with l > r
 could easily be due to a mechanic, hypercorrect  change from  eastern
 dialect -l- to more typical western -r- , whatever the local dialect
 actually had. -- Must take a look at it. ))
-
 </excerpt>
-
 That is the point. It is precisely this type of scribal correction
 which is evidenced at Girnaar, not local dialect. 
-
-
 But perhaps we need to be clearer what we mean by 'eastern' and
 'western'. I have no problem with the linguistic distinction between
 dialects that you describe. It is the geographic localization which is
@@ -281,25 +172,9 @@ geographically eastern areas, then there would be no dispute between
 us. If, however, you think that Pali (or the 'pre-Pali' spoken dialect
 which underlies it) is a western dialect likely to originate
 specifically from the Girnaar region, then we do disagree.
-
-
 It must however have been spoken somewhere. Even a koine does not exist
 in vacuo.
-
-
 L.S. Cousins 
-
 OXFORD, UK
-
-
 CURRENT EMAIL ADDRESSES:
-
 L.S.Cousins at nessie.mcc.ac.uk or selwyn at dtn.ntl.com
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: text/enriched
-Size: 9092 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20000112/2eb97ae0/attachment.bin>
-

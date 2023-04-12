@@ -1,24 +1,10 @@
-From C.Wooff at liverpool.ac.uk  Mon Jul 21 15:15:22 1997
-From: C.Wooff at liverpool.ac.uk (Chris Wooff)
-Date: Mon, 21 Jul 97 16:15:22 +0100
-Subject: List admin
-Message-ID: <161227031613.23782.2280543473126622857.generated@prod2.harmonylists.io>
-
+List admin
 This is a standard message which is being sent to some of the busier lists 
 we manage. Apologies to those of you who get multiple copies
-
 For the next few weeks, responsibilities for looking after this list will be 
 shared by several of us here. Provided you follow the recommended guidelines 
 and send list queries to the address XXXX-request (replace XXXX with the 
 listname) then your query will be promptly dealt with. If you send queries to a 
 specified individual then there may be an appreciable delay.
-
-------------------------------------------------------------
 Chris Wooff (C.Wooff at liv.ac.uk, ....mcsun!uknet!liv!C.Wooff)
 Sent with Simeon Version 4.1.2 Build 21
-
-
-
-
-
-

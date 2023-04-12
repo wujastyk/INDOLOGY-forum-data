@@ -1,17 +1,9 @@
-From D.Wujastyk at ucl.ac.uk  Tue Mar 29 15:22:28 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 29 Mar 94 09:22:28 -0600
-Subject: Unreversible Transliteration; and some new software
-Message-ID: <161227016674.23782.2666659917018022925.generated@prod2.harmonylists.io>
-
-
+Unreversible Transliteration; and some new software
 Regarding the au/ai, a-u/a-i question, the diphthong vowels are the most
 common forms in Sanskrit by a very large margin, and should therefore be
 the "unmarked" forms in any transliteration.  "au" and "ai" thus do very
 well, as well as reflecting normal printed transliteration practice.
-
 For the non-diphthong vowels, then, a mark needs to be chosen.
-
 Since Frans Velthuis's 7-bit transliteration scheme is meant first and
 foremost as an input system for TeX, it should be noted that a perfectly
 valid markup for the non-dipththong vowels in that context is: a{}i, a{}u.
@@ -19,27 +11,21 @@ The intrusive "{}" braces have no effect on the output, bar the prevention
 of the vowels being taken as diphthongs.  You get "a" next to "i", etc.,
 with no space inserted.  (If you want space, the whole issue goes away:
 just type "a i", etc.)
-
 This markup seems as good as any other, to me, and it works today without
 making modifications to anything.
-
 Perhaps its disadvantage is that it doesn't refer implicitly to the normal
 printed transliteration of adjacent non-diphthong vowels, which uses
 diaeresis, if I am not mistaken.
-
 But so what?  No 7-bit transcription of Indic languages is actually meant
 for *reading*; the point is to have an accurate, reversible scheme which is
 easy to input, and easy to exchange with colleagues.  We all have our
 preferred systems of representation on screen and paper, which normally
 involve converting the 7-bit scheme into either standard printed
 transliteration, or an Indic script.
-
 Finally, I should like to mention a couple of relevant software tools which
 are about to appear.
-
 A colleague has contacted me, announcing a file conversion filter which
 turns the Velthuis transcription into CSX coding.  More details will follow.
-
 Also, in connection with a Wellcome Institute project to create a Sinhalese
 font, our consultant Yannis Haralambous has written a pre-processor for
 Sinhalese *and numerous other South Asian scripts*.  Called Indica, this
@@ -49,14 +35,6 @@ well as dealing with Sinhalese.  Indica is specified in LEX, and should
 therefore be very portable to different computer architectures.
 (Haralambous is also designing a Bengali font in METAFONT.  I believe that
 all his fonts are also available as PS type1 fonts.)
-
 Dominik
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

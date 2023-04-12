@@ -1,11 +1,5 @@
-From kellner at IPC.HIROSHIMA-U.AC.JP  Sat Feb 21 06:13:48 1998
-From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
-Date: Sat, 21 Feb 98 15:13:48 +0900
-Subject: more on vada / vadin
-Message-ID: <161227036001.23782.9708097270598806450.generated@prod2.harmonylists.io>
-
+more on vada / vadin
 Two additional remarks on the vaada/vaadin-issue -
-
 (1) I suppose Sasaki has taken note of the relevant section (or one of
 the relevant sections) in the Mahaavyutpatti, where, judging from the
 viewpoint of Tibetan and Chinese translations, an "anything-goes"-style
@@ -25,26 +19,17 @@ _-vaadaanaam_ (ed. Bibliotheca
 Buddhica), where Bendall suggests reading _-vaadinaam._, and gives the
 Tibetan as _'phags pa
 thams cad yod par smra ba rnams kyi_ ...
-
 Anyway, maybe it would be possible to learn more about Sasaki's
 conclusions? (or
 should we wait for the publication, in which case - when, and where will
 the paper appear?)
-
 (2) On Frauwallner and secondary literature. The following is not
 immediately relevant to the issue whether or not "-vaada" can,
 grammatically, be used for a person
 (I believe this question is settled in the affirmative by now), but
 rather to the possibility of Frauwallner (or other scholars) having used
 "-vaada" as an adjective, and "-vaadin" as the name of the sect.
-
 J. Silk wrote:
->         Finally, although of course this is much less relevant than
-> consideration of the original texts, Kellner has written about Frauwallner,
-> but it seems to me his usage is at best ambiguous. See "Studies in
-> Abhidharma Literature and the Origins of Buddhist Philosophical Systems"
-> (SUNY 1995) <skip>
-
 I should have been more careful when I wrote my last remark. For the
 ambiguity, which J. Silk claims, applies NOT to Frauwallner's writing,
 but to the English
@@ -59,7 +44,6 @@ not usually done in German. Even more, I believe it *cannot* be done,
 for specific morphological operations are required to either form nouns
 out of adjectives or vice versa (e.g. the noun "der Buddhist" vs. the
 adjective "buddhistisch").
-
 Looking at the German originals of Frauwallner's "Abhidharma-Studien",
 the matter is very clear, because (1)
 Sanskrit terms are given in the nominative form, (2) number and case are
@@ -67,7 +51,6 @@ clearly indicated with the definite article, and (3) nouns and
 adjectives are morphologically differentiated by the presence or absence
 of certain
 suffixes.
-
 See e.g. "Abhidharma-Studien" IV,
 WZKS 16, p.138: "im Abhidharma der Paali-Schule und der Sarvaastivaadii"
 etc. (where the genitive plural article "der" with "Sarvaastivaadii"
@@ -84,21 +67,13 @@ whatever else are expressed either as "suchandsuch of the
 Sarvaastivaadah./-ins" or (less often) as "the
 Sarvaastivaada-suchandsuch", which is a quasi-Genitive-tatpurus.a. (just
 like Muulasarvaastivaada-vinayah.).
-
 To make this clear, Frauwallner was either not aware of usages of
 "-vaadaah." as a plural for the followers, or did not consider such uses
 relevant enough to account for them in his choice of terminology, and
 there is no adjectival use of either "-vaada/-vaadin". The same also
 appears to hold for Bareau (at least in "sects bouddhiques du
 petit vehicule").
-
 Sorry for the lengthy digression,
-
---
 Birgit Kellner
 Department for Indian Philosophy
 Hiroshima University
-
-
-
-

@@ -1,13 +1,6 @@
-From wujastyk at gmail.com  Sun Jun 28 15:43:56 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sun, 28 Jun 15 17:43:56 +0200
-Subject: [INDOLOGY] Query
-In-Reply-To: <D85164A6-8602-40BC-A5EE-97008E523EE0@uts.cc.utexas.edu>
-Message-ID: <CAKdt-CcPWZR0fVsh_+rFKnkpO-N2ZwKgi91Lfkw-U7zv_h6NzA@mail.gmail.com>
-
+[INDOLOGY] Query
 Dear Patrick, I'm back at my desk, and this is the reference that I was
 thinking of:
-
 @Book{kita-body,
   title                    = {The Body of the Musician. An Annotated
 Translation and Study of the Pi??otpatti-prakara?a of ??rn?gadeva's
@@ -17,7 +10,6 @@ Sa?g?taratn?kara},
   publisher                = {Peter Lang},
   year                     = {2012},
   isbn                     = {9783034303194},
-
   abstract                 = {The Sang?taratn?kara (?The Ocean of Music?)
 written by ??rngadeva in the 13th century is the most important theoretical
 work on Indian classical music. Its prologue, the Pindotpatti-prakarana
@@ -42,11 +34,4 @@ of SR and ?G ? Comparison with medical (?yurveda) and non-medical texts ?
 Anatomical theory of vocal manifestation by Indian ancient musicologists ?
 Embryology in musicological works.},
 }
-
 ?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150628/39eef389/attachment.htm>
-

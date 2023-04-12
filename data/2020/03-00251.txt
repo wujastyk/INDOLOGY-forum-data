@@ -1,12 +1,5 @@
-From vbd203 at googlemail.com  Mon Mar 30 11:33:51 2020
-From: vbd203 at googlemail.com (victor davella)
-Date: Mon, 30 Mar 20 13:33:51 +0200
-Subject: [INDOLOGY] Metrical inconsistencies and tradition
-In-Reply-To: <CAJ3b0o_gwz0V4wumZkqi29PWtChUtUg0VHF808To7EYLCat7hg@mail.gmail.com>
-Message-ID: <CAETY2G1XfzmtfpxhfkNz-_hz3shgmtNT1zF_dJh6NZmne-NmPA@mail.gmail.com>
-
+[INDOLOGY] Metrical inconsistencies and tradition
 Dear Harry,
-
 I don't know very much about Vedic meter, but I think in general we must be
 aware that we are not only dealing with a fairly long span of time but also
 with changes in genre. The later point is very important for Sanskrit
@@ -23,13 +16,11 @@ P??ini's (or Candra's etc.) rules; 2. we have access to a fairly limited
 amount of the discourse, especially if we think of how many millions of
 people read and discussed mah?k?vyas like the Raghuva??a, so one should be
 cautious with the interpretation of the data and generalizations.
-
 When people wrote in very obviously non-standard Sanskrit, they generally
 did so under the name of a great sage or with the claim of divine
 revelation, etc. This gives the author more leeway to include archaisms and
 other non-standard forms. The Bh?gavatapur??a is perhaps the greatest
 example.
-
 Specifically on meter, I don't know what the communis opinio is anymore,
 but I recall that with the supernumerary syllables in Vedic meters---and
 with other oddities---we should perhaps not be so quick to restore or label
@@ -45,12 +36,8 @@ apply more frequently in Pur??ic-like texts and hope to write something
 about, but perhaps an article already exists on the topic. In case this
 should be of interest to anyone, I simply paste below the email I sent to
 my students some time back.
-
 All the Best,
 Victor
-
-
-
 Just a short note about meter. Thanks to a helpful conversation with
 Vladimir the other day, it has come to my attention [ultimately from Haru]
 that I should, for the sake of completeness, mention that the basic rules
@@ -61,14 +48,10 @@ occurrences where we can apply the so-called *muta cum liquida* rule, which
 might be familiar to some of you from Latin and Greek metrics. In short, a
 stop plus *l *or *r *need not make the preceding syllable heavy, i.e., it
 can be either laghu or guru. For example,
-
 alb?n?que patr?s, atque altae moenia R?mae.
-
 "And the Albanian fathers as well as the walls of lofty Rome"
-
 Here *pa* is scanned as laghu before *tr* and the second foot is a dactyl
 (= bha-ga?a).
-
 In Sanskrit such an indulgence is rather rare and appears to be more
 frequently applied in Prakrit poetry and "Epic" Sanskrit.  In the latter
 case several types of consonant clusters do not cause the preceding
@@ -76,17 +59,13 @@ syllable to be guru. See Oberlies *A* *Grammar of Epic Sanskrit *p. XXXVII.
 For Prakrit, see  Pr?k?tapi?galas?tra 1.4 (
 https://archive.org/details/KavyamalaVol41PrakritaPingalasutraniOfLakshmanabhatta1894_201803)
 and the examples in the commentary by Lak?m?n?tha Bha??a:
-
 ceja sahaja tuh? ca?cal? sundarihradah? valanta /
 paa? ?a ghallasi khalla?? k?lasi u?a uhlasanta //
-
 "My heart! you are by nature fickle [yet] you've returned to the abyss of
 this beauty. You do not set foot [anywhere else]. You fool! yet again you
 play [there] trembling with delight."
-
 The point beging that for the Doha meter (13-11-13-11 m?tr?s) to work, the
 *i* before *hr* and the *u* before *hl* must be scanned laghu.
-
 For Sanskrit, see V?ttarant?kara 1.10f. with the commentary of
 Bha??an?r?ya?a. The k?rik? itself is rather restrictive (only before the
 beginning of a p?da), but in the commentary, Bha??an?r?ya?a furnishes
@@ -95,85 +74,10 @@ g?h?tapratyudgaman?yavastr?) and M?gha (?i?up?lavadha 10.50a pr?pya
 n?bhihradamajjanam ??u), as well as from the R?m?ya?a. In the examples,
 which contain variant readings from standard editions, the *a* before *pra* and
 the *i* before *hra *must be scanned laghu.
-
 There are further discussions (Sarasvat?ka??h?bhara?a 1.123 and the
 footnotes to Pi?gala's Chanda???stra pp. 4f., ed. Ked?ran?tha 1938),
 and ?ara?adeva also mentions the problem as well as the variant reading of
 ?i?up?lavadha 10.60 with hrada in his Durgha?av?tti ad P. 1.4.11,  but ala?
 vistare?a.
-
-
-
 On Mon, Mar 30, 2020 at 12:27 AM Harry Spier via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear list members,
->
-> Victor Davella wrote:
->
-> . . .according to the standards as reported in sources spanning some 1600 years
-> and very much still current today, it is absolutely necessary to adhere to
-> grammatically correct Sanskrit and the rules of meter  . . .
->
-> It also seems that earlier there wasn't so much a concern.
-> Of the 12 Gayatri mantras at  Maitr?ya??-Sa?hit?  2-9-1, three of those
-> gayatri mantras have extra syllables.
->
-> And see this post of Madhav's
-> http://list.indology.info/pipermail/indology_list.indology.info/2015-
-> January/040590.html  which concludes:  the Br?hma?a texts were not
-> bothered by deviations of meters up to two syllables".
->
-> Why the change in attitude towards meter?
->
-> Harry Spier
->
-> tat puru??ya vidmahe mah?dev?ya dh?mahi /
->      tan no rudra? pracoday?t //
->
->      tad g??gaucy?ya vidmahe girisut?ya dh?mahi /
->      tan no gaur? pracoday?t //
->
->      tat kum?r?ya vidmahe k?rttikey?ya dh?mahi /
->      tan na? skanda? pracoday?t //
->
->      tat kar???ya vidmahe hastimukh?ya dh?mahi /
->      tan no dant? pracoday?t //
->
->      tac caturmukh?ya vidmahe padm?san?ya dh?mahi /
->      tan no brahm? pracoday?t //
->
->      tat ke?av?ya vidmahe n?r?ya??ya dh?mahi /
->      tan no vi??u? pracodayat //
->
->      tad bh?skar?ya vidmahe prabh?kar?ya dh?mahi /
->      tan no bh?nu? pracoday?t //
->
->      tat somar?j?ya vidmahe mah?r?j?ya dh?mahi /
->      tan na? candra? pracoday?t //
->
->      taj jvalan?ya vidmahe vai?v?nar?ya dh?mahi /
->      tan no vahni? pracoday?t //
->
->      tat tyajap?ya vidmahe mah?jap?ya dh?mahi /
->      tan no dhy?na? pracoday?t //
->
->      tat param?tm?ya vidmahe vainatey?ya dh?mahi /
->      tan na? s???i? pracoday?t //MS_2,9.1//
->
->
-> and see this
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200330/5dea9291/attachment.htm>
-

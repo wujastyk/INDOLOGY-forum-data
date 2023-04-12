@@ -1,27 +1,12 @@
->?From indology-l at pwyz.rhein.de 14 1996 May +0100 19:08:00
-Date: 14 May 1996 19:08:00 +0100
-From: indology-l at pwyz.rhein.de (Peter Wyzlic)
-Subject: Re: [Q] bholantikaa, tailapaayin
+Re: [Q] bholantikaa, tailapaayin
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
-Reply-To: Peter at pwyz.rhein.de
-
 Hello,
-
 In your
 message: <960514124609.17C-100000 at ucl.ac.uk>
 date: <14 May 96>
-
 You wrote on "[Q] bholantikaa, tailapaayin":
-
->
->In the Kaa"sysapasa.mhitaa, a medical text, there is a list of birds which
->includes the names "bholantikaa" and "tailapaayin".  I have an idea that
->the latter may be a bat or flying fox, rather than a bird, though I am not
->sure.  But I have so far not been able to find either of these bird names
->in the dictionaries.
-
 Boehtlingk and Roth have "eine Art Schabe" (Sanskrit-Woerterbuch, s.v.
 tailapaayin), at least the references they give point to a small animal, a
 sort of vermin, insect or whatever. The commentaries to Yaajnavalkyasm.rti
@@ -32,13 +17,6 @@ paryaaya). The commentaries may provide further clues. See also
 "Sabdakalpadruma, s. vocibus "tailapaayikaa", "tailapaa". -- If tailapaayin
 means "bird" or "flying animal" then it would be a new entry in the
 dictionary.
-
 I have no idea what concerns "bholantikaa" (hapax legomenon?).
-
 \bye
 Peter Wyzlic
-
-
-
-
-

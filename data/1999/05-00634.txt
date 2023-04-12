@@ -1,17 +1,4 @@
-From witzel at FAS.HARVARD.EDU  Sat May 29 14:10:24 1999
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Sat, 29 May 99 09:10:24 -0500
-Subject: Gentoo studies (another blooper)
-In-Reply-To: <Pine.LNX.4.10.9905271809160.15230-100000@zeus.ia.net>
-Message-ID: <161227049664.23782.12675506928081373846.generated@prod2.harmonylists.io>
-
+Gentoo studies (another blooper)
 SR has another mistake:
-
->difficulty of ... the understanding of the RV has been noted in the RV
->itself; Sayana cites
->`ko addhA veda ka iha pravochad devAM achchhA patyA kA sameti' (somewhere
->in maNDala X, I believe; I can get the exact reference if you're
->interested)
-
 It is RV 10. 129.6, but  only for :   ko addhA veda ka iha pravochad; --
 the whole quotation is in  RV 3.54.5 -- (NB: where did the poet of 10.129

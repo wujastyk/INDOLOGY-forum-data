@@ -1,39 +1,15 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Thu Apr 29 00:24:08 2004
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard MAHONEY)
-Date: Thu, 29 Apr 04 12:24:08 +1200
-Subject: Availability of sTog Palace Manuscript Kanjur on CD-ROM
-In-Reply-To: <p06002003bcb5e69aa444@[169.232.224.54]>
-Message-ID: <161227074421.23782.14905784563221071600.generated@prod2.harmonylists.io>
-
+Availability of sTog Palace Manuscript Kanjur on CD-ROM
 Dear Colleagues,
-
 On Wed, Apr 28, 2004 at 04:02:44PM -0700, Jonathan Silk wrote:
-
-> Almost exactly a year ago I had to pleasure to announce the
-> availability from Gene Smith's Tibetan Buddhist Resource Center
-> (TBRC) of the CD-ROM publication of the Derge Kanjur, and then
-> subsequently of the Tanjur from the same printing house. (These two
-> collections are, of course, still available.)
->
-> Now it is once again my pleasure to announce the publication of
-> their next big canon project--the sTog Palace Manuscript Kanjur on
-> CD-ROM, containing pdf files scanned directly from the re-print
-> edition of this so-called Western Kanjur.
-
 I don't think that there is any doubt about the value of this
 collection. My only reservation is that all digital texts seem to be
 available only in Adobe Acrobat format (PDF files):
-
  http://www.tbrc.org/catalog/order.php
-
 This is a little disappointing. I would have preferred the texts to
 have been available in the Tag(ged) Image File Format (TIFF files):
-
  http://partners.adobe.com/asn/developer/PDFS/TN/TIFF6.pdf (specs)
-
 TIFF images of digital texts tend to be easy to manipulate using a
 wide variety of applications.
-
 So my question is whether any readers have been able to successfully
 convert TBRC PDF files into TIFF files (preferably multi-page
 files). I have experimented on my BSD machine with `pdftoppm' (from
@@ -41,21 +17,10 @@ XPDF bundle) followed by `ppm2tiff' (from libtiff bundle). This does
 work, but it is slow and tedious. I can imagine that this route would
 soon become a nightmare if one had a good number of TBRC PDF files to
 convert.
-
 I would very much appreciate any thoughts on this issue.
-
-
 Best regards,
-
  RBM
-
-
---
 Richard MAHONEY | internet: homepages.comnet.net.nz/~r-mahoney
 Littledene      | telephone / telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 25 829 986
 OXFORD, NZ      | e-mail: r.mahoney[use"@"]comnet.net.nz
-
-
-
-

@@ -1,26 +1,15 @@
-From CXEV at CA.MCGILL.MUSICA  Sun Nov  3 14:44:59 1991
-From: CXEV at CA.MCGILL.MUSICA (Richard Philip Hayes)
-Date: Sun, 03 Nov 91 09:44:59 -0500
-Subject: Teaching through romanization
-Message-ID: <161227015171.23782.8352117907989666989.generated@prod2.harmonylists.io>
-
-
+Teaching through romanization
 Jamie said:
- 
 \begin{quotation}
 It has been some 15 years since I studied Sanskrit, and even then
 the script was not much of an issue.
 \end{quotation}
- 
 Dominik said:
- 
 \begin{quotation}
 We are used to grammar primers, like Macdonnell, duplicating words
 in script and romanization, and it makes sense in a pedagogical
 work.
 \end{quotation}
- 
- 
 These comments are particularly interesting to me, because I am
 teaching second-year Sanskrit to students who were introduced to
 the language through Michael Coulson's book. For those of you who
@@ -36,7 +25,6 @@ that most non-Indian students are still stumbling at reading the
 script and are almost hopelessly awkward at writing it. In other
 words, they avail themselves of the opportunity that Coulson
 provides for learning Sanskrit without learning the script.
- 
 I don't use a textbook in my Sanskrit course, but I hand out a lot
 of explanatory material, as well as drills and exercises, that I
 have prepared myself. (Operating on the principle that Sanskrit is
@@ -51,7 +39,6 @@ a bit, but within a reasonably short time they are reading
 Devanagari fluently. This is not, of course, to say they are
 reading Sanskrit fluently; it's just to say that they get stuck at
 a deeper level than that of the script.
- 
 I am also teaching elementary Tibetan this year. Right from the
 first day, I do everything in Tibetan script without ever putting
 any Tibetan word in roman characters. Students can master both
@@ -59,7 +46,6 @@ reading and writing the script within a couple of weeks. After a
 month or so, I do reveal some of the systems of transliteration
 that have been devised, and students laugh until their sides ache
 at how funny Tibetan looks in roman characters.
- 
 My experience makes me wonder why one should not teach Sanskrit
 only in Devanagari right from the first lesson. In other words, I
 am beginning to question whether romanization really does make
@@ -76,7 +62,6 @@ all, and I can easily see why works intended to reach them should
 use romanization. But in pedagogical works intended to train
 people to use Sanskrit, I can less easily see much value in
 romanization.
- 
 Comments from other teachers or students of Sanskrit (past and
 present) would be welcome. Now that Devanagari is readily
 available through TeX, Chiwriter, Multilingual Scholar, and Mac,
@@ -85,11 +70,5 @@ do you Sanskrit teachers still use romanization in the classroom?
 write romanization on the blackboard, because I can write roman
 characters much more quickly than I can write Devanagari. But I am
 thinking I should reform my ways.)
- 
 Richard Hayes <cxev at musica.mcgill.ca>
 Faculty of Religious Studies, McGill University
-
-
-
-
-

@@ -1,19 +1,8 @@
-From steiner at staff.uni-marburg.de  Sat May 12 16:51:46 2018
-From: steiner at staff.uni-marburg.de (Roland Steiner)
-Date: Sat, 12 May 18 18:51:46 +0200
-Subject: =?utf-8?Q?[INDOLOGY]_New_publications_(Edition_and_Translation_of_Mok=E1=B9=A3op=C4=81ya_VI.1-119)_[correction]?=
-Message-ID: <20180512185146.Horde.dpeRgRJXCHs4Vv3QlGvlrki@home.staff.uni-marburg.de>
-
+=?utf-8?Q?[INDOLOGY]_New_publications_(Edition_and_Translation_of_Mok=E1=B9=A3op=C4=81ya_VI.1-119)_[correction]?=
 [Please ignore my preceding message to the list. The correct version is:]
-
-
 Dear colleagues,
-
 I am happy to announce the release of the following two books:
-
 * * *
-
--- Mok?op?ya. Das Sechste Buch. Nirv??aprakara?a. 1.Teil: Kapitel  
 1-119. Kritische Edition von Susanne
 Krause-Stinner und Peter Stephan. (Anonymus Casmiriensis: Mok?op?ya.  
 Historisch-kritische Gesamtausgabe. Herausgegeben unter der Leitung  
@@ -22,30 +11,24 @@ und der Literatur, Mainz. Ver?ffentlichungen der
 F?chergruppenkommission f?r Au?ereurop?ische Sprachen und Kulturen.  
 Studien zur Indologie]. Wiesbaden: Harrassowitz 2018. LIV, 490 pp. 1  
 farbige Abbildung. ISBN: 978-3-447-11015-0
-
 https://www.harrassowitz-verlag.de/Anonymus_Casmiriensis_Mok%E1%B9%A3op%C4%81ya_-_Textedition_Teil_5_Das_Sechste_Buch:_Nirv%C4%81%E1%B9%87aprakara%E1%B9%87a_1._Teil:_Kapitel_1%E2%80%93119/titel_5616.ahtml
-
 Publisher's description::
-
 In der Mitte des 10. Jh.s verfasste ein anonymer Autor in Kaschmir ein  
 philosophisches Lehrgedicht zur Selbsterl?sung: Mok?op?ya ("Weg zur  
 Befreiung"). Die in Kaschmir ?berlieferte Sanskrit-Fassung dieses in  
 der indischen Geistesgeschichte einzigartigen Welterkl?rungsentwurfs  
 wird hiermit zum ersten Mal als historisch-kritische Textausgabe ihrer  
 sechs B?cher mit etwa 30.000 Strophen zug?nglich gemacht.
-
 Mit Teil V liegt der erste von drei Teilb?nden des umfangreichen  
 sechsten Buches "(?ber das) Nirv??a" vor. Er enth?lt die ersten 119  
 Kapitel des auf der Grundlage aller verf?gbaren Manuskripte kritisch  
 edierten Textes sowie eine Zusammenfassung des Inhalts.
-
 Prinz R?ma, der im gesamten Werk beispielhaft den Weg zur Befreiung  
 durchl?uft, gilt nun als "vollst?ndig erwacht", da er die ihm durch  
 den Weisen Vasi??ha vermittelte Weltsicht und Erl?sungslehre  
 verinnerlicht hat. Entsprechende philosophische Reflexionen werden von  
 15 Erz?hlungen begleitet, die komplexe Aspekte mit literarischen  
 Mitteln ausdeuten.
-
 Die Geschichte des K?nigs ?ikhidhvaja z.B. nimmt einen  
 fortgeschrittenen Standpunkt zu religi?ser Weltflucht, individuell  
 abgestimmter Didaktik und pers?nlicher Erfahrung ein. Zugleich stellt  
@@ -59,12 +42,7 @@ ein buddhistischer M?nch in Meditation in immer neue Verk?rperungen
 ger?t. In einer Bhagavadg?t?-Adaption wird die einschl?gige  
 Handlungsethik geschickt mit der kognitiven Selbstbefreiung des  
 Mok?op?ya verbunden.
-
-
 * * *
-
-
--- Der Weg zur Befreiung. Das Sechste Buch. Das Buch ?ber das Nirv??a.  
 1. Teil: Kapitel 1?119. ?bersetzung von Roland Steiner. (Anonymus  
 Casmiriensis: Mok?op?ya. Historisch-kritische Gesamtausgabe.  
 Herausgegeben unter der Leitung von Walter Slaje. ?bersetzung. Teil  
@@ -72,11 +50,8 @@ Herausgegeben unter der Leitung von Walter Slaje. ?bersetzung. Teil
 Ver?ffentlichungen der F?chergruppenkommission f?r Au?ereurop?ische  
 Sprachen und Kulturen. Studien zur Indologie]. Wiesbaden: Harrassowitz  
 2018. XLI, 835 Seiten, 1 farbige Abbildung. ISBN: 978-3-447-11016-7
-
 https://www.harrassowitz-verlag.de/Anonymus_Casmiriensis_Mok%E1%B9%A3op%C4%81ya_-_%C3%9Cbersetzung_Teil_5_Das_Sechste_Buch:_Das_Buch_%C3%BCber_das_Nirv%C4%81%E1%B9%87a_1._Teil:_Kapitel_1%E2%80%93119/titel_5582.ahtml
-
 Publisher's description::
-
 Der "Weg zur Befreiung" (Mok?op?ya) ist ein im 10. Jahrhundert in  
 Kaschmir entstandener Sanskrit-Text, der im Kern auf einen anonymen  
 Autor zur?ckgeht, sich in verschiedenen Fassungen ?ber Indien  
@@ -94,7 +69,6 @@ intentionslos-t?tiges, leidfreies Leben in der Welt erm?glicht. Dabei
 wechseln philosophische Abschnitte mit kunstvoll erz?hlten  
 Geschichten, die bestimmte philosophische Aussagen veranschaulichen  
 sollen.
-
 Das 6. Buch ?ber das Nirv??a bildet die zweite H?lfte des Mok?op?ya:  
 Der geistig erwachte R?ma ist jetzt dazu imstande, den eigentlichen  
 Standpunkt (siddh?nta) des Lehrwerks zu erfassen. Mit dem 1. Teil wird  
@@ -110,24 +84,13 @@ der Erz?hlperspektive des Mok?op?ya in der Zukunft stattfinden wird;
 und nicht zuletzt die lange Geschichte der K?nigin C???l?, die sich  
 u.a. in einen Mann verwandelt, um ihrem Gatten zur befreienden  
 Erkenntnis zu verhelfen.
-
-
 * * *
-
 With best regards,
 Roland Steiner
-
 Martin-Luther-Universit?t Halle-Wittenberg
 Seminar f?r Indologie
 Emil-Abderhalden-Str. 9
 D-06099 Halle (Saale)
 Tel.: +49-345-55-23656
 Fax.: +49-345-55-27211
-URL: http://www.indologie.uni-halle.de/
 E-Mail: roland.steiner at indologie.uni-halle.de
-
-
-
-
-
-

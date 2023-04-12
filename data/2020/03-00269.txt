@@ -1,35 +1,13 @@
-From steiner at staff.uni-marburg.de  Mon Mar 30 16:42:26 2020
-From: steiner at staff.uni-marburg.de (Roland Steiner)
-Date: Mon, 30 Mar 20 18:42:26 +0200
-Subject: [INDOLOGY] Metrical inconsistencies and tradition
-In-Reply-To: <CAETY2G1XfzmtfpxhfkNz-_hz3shgmtNT1zF_dJh6NZmne-NmPA@mail.gmail.com>
-Message-ID: <20200330184226.Horde.Ymdpk2Hd8fDytNScwAuTUO0@home.staff.uni-marburg.de>
-
-> there are a few rare occurrences where we can apply the so-called  
-> *muta cum liquida* rule
-> In Sanskrit such an indulgence is rather rare and appears to be more
-> frequently applied in Prakrit poetry and "Epic" Sanskrit. In the latter
-> case several types of consonant clusters do not cause the preceding
-> syllable to be guru.
-
+[INDOLOGY] Metrical inconsistencies and tradition
 By the way, Colebrooke already described the phenomenon in 1808:
-
 "By poetical license, a vowel may be short before certain conjuncts  
 (viz., /pra/ and /hra/; as also /bra/ and /kra/. [/.../]."
 (H. T. Colebrooke, "On Sanskrit and Pr?krit Poetry", in:  
 /Miscellaneous Essays/, Vol. 3, London 1873, p. 65)
-
 In his PhD thesis of 1988 Michael Balk noted the same metric license  
 for the /Ud?navarga /(especially for the case of /pr/- and/ br/-). See  
 M. Balk: /Untersuchungen zum Ud?navarga. Unter Ber?cksichtigung  
 mittelindischer Parallelen und eines tibetischen Kommentars/. Marburg  
 2011 (Indicat et Toberica. 53), pp. 39-42.
-
 With best regards,
 Roland Steiner
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200330/c23ddf9c/attachment.htm>
-

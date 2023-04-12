@@ -1,12 +1,5 @@
-From mmdesh at UMICH.EDU  Thu Nov 15 19:57:22 2012
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Thu, 15 Nov 12 14:57:22 -0500
-Subject: Question on Pali syntax
-In-Reply-To: <alpine.LRH.2.01.1211151055180.26908@hymn04.u.washington.edu>
-Message-ID: <161227098009.23782.13977607557445104928.generated@prod2.harmonylists.io>
-
+Question on Pali syntax
 Dear Rich,
-
      I think Edgerton's suggestion seems to point in the right historical
 direction.  The other explanation I found in Bhikkhu Sujato's book on "A
 History of Mindfulness" (p. 296fn), but I don't think it is correct:
@@ -16,69 +9,12 @@ number from singular to plural.  Innocuous enough, but a reminder of the
 fallibility of the tradition."  This is too strong a conclusion, since this
 phrase, and this pattern of atthi with a plural noun is fairly widespread
 in the Pali texts.  Thanks for pointing me to Edgerton's suggestion.  Best,
-
 Madhav
-
 On Thu, Nov 15, 2012 at 1:55 PM, Richard G Salomon <
 rsalomon at u.washington.edu> wrote:
-
-> Dear Madhav,
->
-> Edgerton, BHSG #25.4, p. 129 notes "frequent use of atthi with plural
-> subject," referring to Geiger 141.1 ("otherwise this usage seems to be
-> virtually ignored in the books on Pali or Pkt." -- I haven't checked
-> Oberlies on this).
->
-> As noted by Edgerton, this is a manifestation of a broader phenomenon in
-> MIA whereby  the 3rd. sg. verb is beginning to be generalized to all
-> persons and numbers.
->
-> Rich
->
->
-> On Thu, 15 Nov 2012, Madhav Deshpande wrote:
->
->  Hello Colleagues,
->>
->>      I am reading the Mah?satipa??h?nasutta from the D?ghanik?ya with a
->> few students.  In
->> this Sutta, phrases like atthi k?yo, atthi cittam, atthi vedan? are quite
->> frequent, and
->> pose no problems.  However, then comes the phrase atthi dhamm? a few
->> times.  It is quite
->> clear from the context that dhamm? is nominative plural (other refs in
->> the context in
->> plural: dhammesu dhamm?nupass?).  I am wondering how to explain the
->> syntax of the phrase
->> atthi dhamm?.  Any suggestions?  Perhaps, K.R. Norman might have an
->> explanation.  Does
->> anyone have his email address?  Thanks.
->>
->> Madhav
->>
->> --
->> Madhav M. Deshpande
->> Professor of Sanskrit and Linguistics
->> Department of Asian Languages and Cultures
->> 202 South Thayer Street, Suite 6111
->> The University of Michigan
->> Ann Arbor, MI 48104-1608, USA
->>
->>
->>
->>
-
-
--- 
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20121115/d2bab7da/attachment.htm>
-

@@ -1,16 +1,9 @@
-From kichenas at s5.math.umn.edu  Sat Sep 17 22:32:18 1994
-From: kichenas at s5.math.umn.edu (Satyanad Kichenassamy)
-Date: Sat, 17 Sep 94 17:32:18 -0500
-Subject: Aryans and Dravidians / Tamil sources
-Message-ID: <161227017284.23782.15282473012344347662.generated@prod2.harmonylists.io>
-
-                
+Aryans and Dravidians / Tamil sources
 In answer to the request by Lars Martin Fosse for references to translations
 of Tamil works, we include a brief list below. It is intended to give a 
 cross-section of the work done in this century. It must be noted that many of
 these works were unavailable to most scholars until the beginning of this
 century, when most of them were edited by U. V. Swaminathaiyar. 
-
 Since many texts refer to poetic conventions which have no equivalent 
 in other literatures, we have included also a few studies and articles 
 which may help the newcomer to Tamil Studies. One should also note 
@@ -21,21 +14,15 @@ become difficult in their time. It follows that these commentaries
 represent a deformation of the original to some extent. It is therefore 
 recommended to look at the texts themselves whenever possible, 
 or at least to compare several translations.   
-                           
 To my earlier comments on the place of Tamil sources in Indology,
 one may add two further points:
-
  1) We now know that there were direct contacts between Rome and
 Greece and the ancient Tamils, by sea, before the Christian Era; see e.g.
-
     J. Andre and J. Filliozat, L'Inde vue de Rome : textes latins de
     l'antiquite, relatifs a l'Inde, Paris, Belles Lettres, 1986. 
-
  2) It is also known that Tamil colons played a major role in the 
 spreading of Indian culture in South-East Asia, from the time of the 
 Pallavas (see the references below).
-
-
 The following list is limited to studies in Western languages. Those with some
 knowledge of modern Tamil are *strongly* urged to look up U. V. Swaminathaiyar's
 editions (for PuRam, Kampan, PattuppAt't'u, KuRuntokai...) which combine modern
@@ -44,21 +31,15 @@ It would, by the way, be very nice if these editions were reedited---
 I would appreciate knowing of any effort in this direction.
 For KuRaL, the Tiruppan_antAL edition, which includes five (sometimes 
 contradictory) commentaries, is recommended. 
-
 REFERENCES (alphabetically by author)
-
 Note: PIFI = Publication de l'Institut Francais d'Indologie, Pondichery
-
   1) V. V. S. Aiyar, Kamba-Ramayanam, A Study, Delhi Tamil Sangam, 1950.
 This work contains translations of several passages (this author 
 also translated the KuRaL).    
-
   2) J.Bloch, Structure grammaticale des langues dravidiennes, A.Maisonneuve,
        translated by R. Ganesh Harshe (1954)
-
   3) Surendranath Dasgupta, A History of Indian Philosophy, The Southern
             Schools of Saivism, Cambridge, 1955.
-
   4) J. Filliozat, (a) Un texte de la religion kaumara: le TirumurukARRuppat'ai
            (by NakkIrar) PIFI, 1973  
                    (b) Un texte tamoul de devotion vishnouite : Le 
@@ -68,40 +49,30 @@ also translated the KuRaL).
              College de France, from 1971 to 1977; includes translations from
              the Tirumantiram. (The same, from 1962, also contains some
              translations from MammAzhvAr, and from the Sangam)
-
   5) Articles by J. Filliozat et P. Meile in `L'Inde classique'
          by L. Renou and  J. Filliozat, 2 vol.Payot, Paris, 1947-1953.
-
-
   6) F. Gros, Le Paripatal, PIFI #35, 1968. 
 [Has also edited the Tevaram, with T. V. Gopal Iyer. The introduction 
 of the first volume is in French, the text in Tamil only. Critical
 notes may have appeared as a third volume].
-
   7) G. L Hart III, (a) The Forest Book of the Ramayana of Kampan, 
 translated and with an introduction by G. L. Hart and Hank Heifetz,  
 U. of California Press, Berkeley 1988.   
                     (b) Poems of the Tamil Anthologies, (from AingkuRunURU,
 KuRuntokai, NaRRiNai, Akam and PuRam), Princeton 1979.    
-
   8) J.S.M.Hooper, Hymns of Alwars, Calcutta, 1929
-
   9) F.Kingsbury and G.E.Philipps, Hymns of Tamil saivite saints, Oxford,1921.
-
  10) S.Krishnaswami Aiyangar, Manimekalai in its historical setting, London,
                           Luzac and Co, 1928.
 I gather there exists an abridged prose version.
-  
  11) J.M.Nallaswami Pillai, (a) Meykanda Devar, Sivagnana Botham, 
                Dharmapuram, Gananasambandan Press, 1945.
                             (b) Umapathi Sivacharya, Thiruvarutpayan, same ed.,
                         same year.
-      
   12) B. Natarajan, Tirumantiram, with introduction, synopsis, and notes,
 Madras, ITES Pub.l, 1979; Thirumandiram: A Classic of Yoga and Tantra,
 Montreal, Babaji's Kriya Yoga and Publications, 1993 
 [This reference was also mentioned recently by Noel Evans]
-
   13) G.U.Pope, (a) The Thiruvacagam, Oxford, 1900. Also translated 
                 (b) TirukkuRaL and
                 (c) Naladiyar. Reprinted by (a) Clarendon Press 1970, and 
@@ -111,13 +82,10 @@ Asian Educational Sevices, New Delhi 1980, 1984 for (b) and (c) respectively.
                 (d) Also translated selections from PuRapporuL veNpAmAlai, 
 and PuRanAnURu
 (South India Saiva Siddhanta Works Pub. Soc., Tinnevelli, 1973).
-
   14) V.R.Ramachandra Dikshitar, The Silappadigaram, Oxford, 1939, or
 The Cilappatikaram, with a foreword by J. Bloch and K. R. Srinivasa
 Iyengar, South India Saiva Siddhanta Works Pub. Soc., Tinnevelli, 1978.
-                    
   15) A. K. Ramanujan, The Interior Landscape, Indana Univ. Bloomington, 1967
-
   16) H.W.Schomerus, (a) Die Dravidishen Literaturen, in `Die Literaturen 
           Indiens,' H. von Glassenap, 2nd ed., Stuttgart, 1961.
                     (b) Der Caiva-Siddhanta, Leipzig, 1912
@@ -128,16 +96,11 @@ Iyengar, South India Saiva Siddhanta Works Pub. Soc., Tinnevelli, 1978.
                     (f) AruNantis Siva-gnana-siddhiyar : die Erlangung des 
         Wissens um Siva oder um die Erl"osung ; edited by H. Berger, 
         A. Dhamotharan and D. B. Kapp, Wiesbaden, Steiner, 1981.
-   
    17) S.A.Singaravelu, A comparative study of the Story of Rama in South 
         India and Southeast Asia, Kuala Lumpur, 1956
-
    18) X.S.Thani Nayagam, Landscape and Poetry, Madras, 1956
-
 I also think that there is an English rendering of PukazhEnti's
 NaLa-veNpA by M. Langton.
-
-
 In answer to S. Nadesan's question, very little is available in electronic 
 format. 
 Many texts of the Sangam, as well as the definitions in the Madras Tamil
@@ -145,19 +108,9 @@ Lexicon, are available online by Gopher, from linus.informatik.uni-koeln.de
 (vt100-type terminal emulation is fine, and the transliteration system
 is explained in separate files).
 The texts themselves are however in Tamil only.
-
-
 I'd be happy to provide further pointers if needed---this list is not meant
 to be exhaustive.
-
-
                                    Satyanad Kichenassamy
                                    School of Mathematics
                                    University of Minnesota
                                    kichenas at math.umn.edu
- 
-
-
-
-
-

@@ -1,55 +1,37 @@
->From local.general.uktex Sun Jul 19 22:58:11 1992
-Date:    Fri, 17 Jul 92 11:34:00 +0000
-From: Stephen Miller <STEPHEN at uk.ac.oxford.vax>
-Subject: Velthuis Devanagari fonts for OzTeX
- 
+Velthuis Devanagari fonts for OzTeX
 The Velthuis Devanagari fonts are now available for use with OzTeX: the
 pre-processor was compiled by Peter Robinson from the "Computers and
 Manuscripts" project and many thanks are due to him for this task. The
 manual accompanying the fonts/pre-processor is available as an OzTeX DVI
 file.
- 
 The pre-processor has been used on the test file with success: it has not
 however been subjected to a more lengthy test--feedback welcome. Send it
 to me and not to the list please.
- 
 Stephen Miller
 stephen at uk.ac.oxford.vax
- 
-------------------------------
- 
             { I've copied this into the UK TeX Archive in
        [tex-archive.mac.oztex.contrib]devanagari09.hqx  --Ed.}
- 
        Details of the UK TeX Archive and UK TeX User Group
        services are as follow:
- 
- 
                        UK TeX ARCHIVE at ASTON UNIVERSITY
                               >>>  UK.AC.TEX  <<<
- 
                   *** Interactive and file transfer access ***
            JANET: Host: uk.ac.tex, Username: public, Password: public
                               (DTE 000020120091)
                     Internet: host tex.ac.uk [134.151.40.18]
                For telnet access, login: public, password: public
       For anonymous ftp, login: anonymous, password: <your-e-mail-address>
- 
                               *** Mail server ***
                     Send mail to TeXserver at uk.ac.tex (JANET)
                    or TeXserver at tex.ac.uk (rest of the world)
                    with message body containing the word HELP
- 
 \section FILES OF INTEREST
- 
     [tex-archive]00readme.txt
     [tex-archive]00directory.list        [tex-archive]00directory.size
     [tex-archive]00directory_dates.list  [tex-archive]00last30days.files
     [tex-archive.doc]TeX-FAQ.txt    (Frequently Asked Questions list)
     [tex-archive.doc]FAQ-Supplement-*.txt    (FAQ supplement)
- 
 \section DIGESTS
- 
     This year's UKTeX back issues are stored in the archive in directory
       [tex-archive.digests.uktex.92]
     This year's TeXhax back issues are stored in the archive in directory
@@ -58,37 +40,29 @@ stephen at uk.ac.oxford.vax
     TeXMaG back issues are stored in the archive in directory
       [tex-archive.digests.tex-mag]
       Latest TeXMaG: V5N3
- 
 \section MEDIA DISTRIBUTIONS
     Postal addresses are given below.
- 
 \subsection Washington Unix TeX distribution tape
     Latest copy of May/June 1991 contains:
     TeX 3.14, LaTeX 2.09, Metafont 2.7, plus many utilities
     suitable for Unix 4.2/4.3BSD & System V
     tar format, 1600bpi, blockfactor 20, 1 file (36Mb)
- 
     Copies available on:
        One 2400ft 0.5" tape sent to Aston with return labels AND return postage
    OR
        One Quarter-Inch Cartridge, QIC-120 or QIC-150 format (DC600A or DC6150)
        sent with envelope AND stamps for return postage to Nottingham
          (Due to currency exchange, this service is offered only within the UK)
- 
 \subsection VMS tapes
     VMS backup of the archive requires three 2400ft tapes at 6250bpi.
     VMS backup of TeX 2.991 plus PSprint requires one 2400ft tape.
- 
 \subsection Exabyte 8mm tapes
     Same contents available as 0.5" tapes.
     Following tape types available: SONY Video 8 cassette P5 90MP,
     MAXELL Video 8 cassette P5-90, TDK Video 8 cassette P5-90MPB
- 
 \section TeX IMPLEMENTATIONS FOR SMALL COMPUTERS
- 
 \subsection OzTeX V1.4 (for Macintosh)
     Send 7 UNFORMATTED 800K disks to Aston with return postage.
- 
 \subsection emTeX (for OS/2, PC-DOS and MS-DOS)
     The complete package (3.5" High density disk format ONLY)
     is available from Aston at a cost of 15 pounds sterling,
@@ -97,21 +71,17 @@ stephen at uk.ac.oxford.vax
     Additional utilities including DVIPS, 5 pounds sterling:  specify Set B.
     FLI files for FX, 5 pounds sterling:  specify Set C.
     FLI files for P6M, 5 pounds sterling:  specify Set D.
- 
     For general enquiries, and a free catalogue detailing other disk
     formats, precompiled fonts and lots of other goodies, contact:
     Eigen PD Software, P.O. Box 722, Swindon SN2 6YB  (tel: 0793-611270)
     (JANET e-mail address: kellett at uk.ac.cran.rmcs)
- 
 \subsection TeX for the Atari ST
     All enquiries for disks etc. should be directed to:
     The South West Software Library, P.O. Box 562, Wimborne, Dorset BH21 2YD
     (JANET e-mail address: mdryden at uk.co.compulink.cix)
- 
 \section POSTAGE RATES
     All prices in Pounds Sterling.
     For Aston orders, make cheques payable to Aston University.
- 
     0.5" tapes: UK: 2.50 (one tape),  5.00 (two tapes).
             Europe: 5.00 (one tape),  9.00 (two tapes).
             Outside Europe please enquire.
@@ -125,32 +95,17 @@ stephen at uk.ac.oxford.vax
       11/3.5"        1.80     2.90     0.80     0.65
       18/5.25"       1.20     2.00     0.60     0.50
       11/5.25"       0.80     1.30     0.50     0.35
- 
 \section POSTAL ADDRESSES
     Please include SELF-ADDRESSED ADHESIVE LABELS for return postage.
- 
     Peter Abbott
     Information Systems, Aston University, Aston Triangle, Birmingham B4 7ET
- 
     David Osborne
     Cripps Computing Centre, University of Nottingham, Nottingham NG7 2RD
     (for Quarter-inch cartridges ONLY -- must include stamps for return postage)
- 
 \section UK TeX USERS GROUP
- 
     For details, contact:
     Geeti Granger, Text Processing Dept, John Wiley & Sons,
     Baffins Lane, Chichester, W Sussex PO19 1UD  (tel: 0243 770329)
  or David Penfold, Edgerton Publishing Services,
     30 Edgerton Road, Edgerton, Huddersfield HD3 3AD (tel: 0484 519462)
- 
 \bye
- 
- 
---- End of forwarded message from Stephen Miller <STEPHEN at uk.ac.oxford.vax>
- 
-
-
-
-
-

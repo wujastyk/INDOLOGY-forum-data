@@ -1,11 +1,5 @@
-From Ramesh.Kushwaha at um.cc.umich.edu  Fri Aug 19 13:36:28 1994
-From: Ramesh.Kushwaha at um.cc.umich.edu (Ramesh.Kushwaha at um.cc.umich.edu)
-Date: Fri, 19 Aug 94 09:36:28 -0400
-Subject: Hindi font for IBM PC/Macintosh computers
-Message-ID: <161227017086.23782.16272580647174412275.generated@prod2.harmonylists.io>
-
+Hindi font for IBM PC/Macintosh computers
 Hi everyone,
- 
 I have developed a LEAST EXPENSIVE HINDI FONT for IBM PC or compatible
 computer or Macintosh computer. Compared to the cost of a HINDI Font 
 available in the market ranging from $100 to $300 and more, this 
@@ -33,17 +27,9 @@ $25 plus $3 for shipping and handling to :
           Ypsilanti, MI 48197, USA
    Phone/FAX      (313)434-1970
    E-mail  Ramesh Kuhswaha at Umich.edu
- 
 For ordering, please provide your name, address, phone number, IBM or MAC
 version. If you need other than TRUE TYPE FONT, please write in detail
 about what application etc. If you want Bitmap font, mention about what
 size you need.
- 
 Thanks a lot,
 Ramesh Kushwaha
- 
-
-
-
-
-

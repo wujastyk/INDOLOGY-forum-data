@@ -1,21 +1,9 @@
-From mmdesh at UMICH.EDU  Tue Mar  9 01:33:25 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Mon, 08 Mar 99 20:33:25 -0500
-Subject: Clarification on pu.nyak.rtaa.m/n lokaan
-In-Reply-To: <01J8KXQ2YBXU8WWE9J@nacdh4.nac.ac.za>
-Message-ID: <161227047333.23782.12787605988426316750.generated@prod2.harmonylists.io>
-
+Clarification on pu.nyak.rtaa.m/n lokaan
 Charles Wikner writes:
->In the light of Whitney's observation, and Madhav Deshpande's
->expansion on the topic (thanks for that!), puNyakRtAn seems
->more likely than puNyakRtAm.
-
 Let us be clear that the sequences
-
         pu.nyak.rtaan lokaan
 and
         pu.nyak.rtaa.m lokaan
-
 can both lead to a shared sandhi form with a nasal ~l.  Therefore,
 phonologically, these readings can remain ambiguous.  In G.A. Jacob's
 concordance of the Upanishads (p. 551), the reading with anusvaara is
@@ -28,7 +16,3 @@ lokaan praapnuyaat pu.nyakarma.naam.  I don't want to insist either way,
 but would like to refer to a basic phonological ambiguity.
         Best,
                                 Madhav Deshpande
-
-
-
-

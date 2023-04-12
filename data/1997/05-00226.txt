@@ -1,32 +1,11 @@
-From jds10 at cus.cam.ac.uk  Wed May 21 15:54:34 1997
-From: jds10 at cus.cam.ac.uk (John Smith)
-Date: Wed, 21 May 97 16:54:34 +0100
-Subject: CSX-coded Windows font
-Message-ID: <161227030402.23782.15382228238635660510.generated@prod2.harmonylists.io>
-
+CSX-coded Windows font
 Lars Martin Fosse wrote:
-
-> Is there such a thing as a CSX-coded Windows font, and where can I find it?
-> (I have a lot of other Indic fonts, but none seem to fit the CSX scheme of
-> things).
-
 I shall be placing a set of Times-like CSX fonts for Windows on my FTP
 server in the very near future (perhaps tomorrow). I'll post a notice
 giving details when they are in position. New versions of the Norman fonts
 will also appear at the same time.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-
-
-
-
-

@@ -1,53 +1,30 @@
-From jgardner at blue.weeg.uiowa.edu  Fri Dec  6 08:42:51 1996
-From: jgardner at blue.weeg.uiowa.edu (JR Gardner)
-Date: Fri, 06 Dec 96 02:42:51 -0600
-Subject: Vedic Website
-Message-ID: <161227027373.23782.455212765062165982.generated@prod2.harmonylists.io>
-
-
+Vedic Website
 In an effort to explore the dimensions of electronic resources for 
 humanities scholarship, I would like to invite you to review the 
 following website:
-
 http://vedavid.org
-
 It has undergone many revisions in the last months, for which I thank 
 everyone for their suggestions.  Recent improvements based upon 
 this input include:
-
 *FTP- EASY e-text editions of Lehmann's RV and ShB-- re-edited, 
 formattted, and placed in ITRANS for IBM and Mac, with some handy 
 compression tools too
-
 *Shatapatha BraahmaNa and RV-- hyperlinked according to their 
 cross-references, with 2 indexes of hyper-linked access
-
 *Frames- adjustable in size, for multiple-window browsing (requires Netscape 
 2.0/IE 2.0-- see  site for details-- it's easy to load it on your 
 machine-- and FREE)-- download while you browse, use Atul's online 
 sanskrit dictionary, browse the other Indological sites, etc.
-
 *summary of recent scholarship on ShB accent
-
 *sample of new 8-bit font technology for South Asian scripts
-
--------
 ONE VALUABLE SUGGESTION has not yet been implemented-- that the ShB and 
 other files be downsized.  I do regret that even the 14.4 modem folks 
 will be left with ample time to grab a cup of coffee on some files.  Even 
 28.8 folks will find new use for the "Reload" button at times. Downsizing 
 will be done in the coming months, in tandem with corrections based upon 
 feedback.
-
 I invite and welcome your feedback--on almost every page there is a 
 "mail-me" link.
-
 Best wishes for the balance of the year to all,
-
 John Robert Gardner
 University of Iowa
-
-
-
-
-

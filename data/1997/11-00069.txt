@@ -1,19 +1,8 @@
-From vidynath at MATH.OHIO-STATE.EDU  Thu Nov  6 16:11:50 1997
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Thu, 06 Nov 97 11:11:50 -0500
-Subject: Possible sound sequences in Sanskrit
-Message-ID: <161227033502.23782.13705848430909854253.generated@prod2.harmonylists.io>
-
+Possible sound sequences in Sanskrit
 I wrote:
->[...] But mm and mv seem not to occur as they (always? usually?)
-
 This is, of course, not quite true. mm can occur across a pada
 boundary in manuscripts and indian editions, especially in mantras
 that follow praati"saakhyas closely. Changing the first m to
 anusvaara is presumably a practice that came into being to help
 the reader find the pada boundaries more reliably and not the
 only ``correct'' spelling.
-
-
-
-

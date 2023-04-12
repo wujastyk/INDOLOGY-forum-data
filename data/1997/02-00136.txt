@@ -1,16 +1,10 @@
-From spalurma at calcium.helios.nd.edu  Mon Feb 17 17:20:05 1997
-From: spalurma at calcium.helios.nd.edu (subrahmanya palurmallampalli)
-Date: Mon, 17 Feb 97 12:20:05 -0500
-Subject: Accent notation in Tait. Up.
-Message-ID: <161227028351.23782.11598684701657123979.generated@prod2.harmonylists.io>
-
+Accent notation in Tait. Up.
 First, my sincere apologies about the map. I saw the rotated map
 in the dictionaries page and not in the home page. And hence, I didnt
 see any explanations for the rotation and thought it was a correction
 that needs to be done. Reading the explanation in the indology
 home page has made me happy that the list continues to surpass my
 expectations. 
-
 Here is the explanation of the svara marks in the Yajur Veda. There
 are three svaras used in the Yajur Veda ( I vaguely remember the names
 to be anudatta, udatta and svarita). The udatta is the standard 
@@ -27,78 +21,21 @@ on top of the syllable is formed as a result of such a sandhi. The
 syllable with such a mark is supposed to be chanted for two units of
 time ( a syllable takes one unit of time ), the first unit in the 
 standard pitch and the second unit of time in the upper pitch.
-
 Hope this helps. Listening to an audio tape of any Yajur Vedic chant
 will make it abundantly clear. Especially, if one analyses the
 form of chanting called krama pATa.m and Ga.na pATa.m. If a line of
 the samhita text contains 5 words (say) :
-
 1 2 3 4 5
-
 krama pATa.m consists of chanting it as :
-
 1 2 2 1 1 2
 2 3 3 2 2 3
 3 4 4 3 3 4
 4 5 5 4 4 5
-
 and Ga.na pATa.m goes as 
-
 1 2 2 1 1 2 3 3 2 1 1 2 3
 2 3 3 2 2 3 4 4 3 2 2 3 4
 3 4 4 3 3 4 5 5 4 3 3 4 5
 4 5 5 4 4 5
-
 Here, one can see the svaras change from the sandhis very clearly
-
 Subra
-
-
 Charles Wikner said:
->
->
->Gentle reader, 
->
->If you have the key to the accent notation system used in the 
->Taittiriiya Upanishad, would you please share it with me?
->
->The same notation is used in two editions of the Taittiriiya
->available to me (Swami "Sarvananda, Sri Ramakrishna Math, and 
->Alladi Mahadeva Sastry, Samata Books). An illustration of this
->marking is appended below.
->
->The notation system vaguely follows that used in the .rgveda, 
->but there are many exceptions, and passages where the marking 
->is very sparse; it also adds the "diirgha svarita" (double 
->vertical line) which is a mystery to me.
->
->I am familiar with the systems of accent notation used in the 
->rgveda and saamaveda, so the response may use technical terms 
->for brevity.
->
->Thank you kindly,
->Charles Wikner.
->wikner at nacdh4.nac.ac.za
->______________________________________________________________________
->
->These are the first few sentences of 1.11:
->
->
->                               |
->vedamanucyaacaaryo.antevaasinamanu"saasti | 
->                                     -
->
->                                           ||
->satya.m vada |  dharma.m cara |  svaadhyaayaanmaa pramada.h | 
->    -                -                              -
->
->                                                       |
->aacaaryaaya priya.m dhanamaah.rtya prajaatantu.m maa vyavacchetsii.h |
->                                                             -
->______________________________________________________________________
->
-
-
-
-
-

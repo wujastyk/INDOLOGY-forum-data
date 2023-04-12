@@ -1,74 +1,15 @@
-From suresh.kolichala at gmail.com  Fri Apr 27 19:55:15 2018
-From: suresh.kolichala at gmail.com (Suresh Kolichala)
-Date: Fri, 27 Apr 18 15:55:15 -0400
-Subject: [INDOLOGY] My Sanskrit verse today
-In-Reply-To: <CAB3-dzdRuX5OQDGYUj+W6NgfzsH_LA8+CnFh1qn7LEbbJTMG+g@mail.gmail.com>
-Message-ID: <CAHA53YAAZ7okdGBs7Ez5BLwybjbw9RGnX2boACrQLDdPQkyHjQ@mail.gmail.com>
-
+[INDOLOGY] My Sanskrit verse today
 Dear Madhavji,
-
-
 There is nothing wrong with your *dyuti?*. It is the problem with the font.
 The default font on Microsoft windows was changed from Mangal font to
 Nirmala font, in Windows 10 (actually from Windows 8). The rendering of *dyu
 *is not correctly implemented in Nirmala font. So, unfortunately, everyone
 using Microsoft windows 10 would find your  *mukt?dyuti? *as  *mukt?duyati?*
 .
-
 You can see how your text appears in various fonts as shown below:
-
-
-
-
 I hope someone at Microsoft is working to rid their default font of all
 these bugs.
-
 Regards,
 Suresh.
-
-
 On Fri, Apr 27, 2018 at 10:49 AM, Madhav Deshpande via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> I am told by a few friends that they see in the second line of my verse
-> the word "mukt?duyati?".  The Devanagari on my MacBook clearly reads
-> "mukt?dyuti?."  So there is some issue in how Devanagari Unicode typed on a
-> MacBook gets displayed elsewhere.  I don't have a way of solving this
-> dilemma.  I would appreciate if anyone has suggestions.  Best,
->
-> Madhav Deshpande
-> Campbell, California
->
-> 2018-04-27 6:51 GMT-07:00 Madhav Deshpande <mmdesh at umich.edu>:
->
->> My Sanskrit verse today:
->>
->> ???????????????? ????????? ?????????? ???
->> ???????: ??????????????????? ????????????? ?????? ?
->> ?????????????????????????? ????????? ??????
->> ????? ??????????? ??????? ???????? ??????? ??
->>
->> Playing on the banks of K?lind?, the drops of sweat on his forehead
->> produced by his exertion shine like pearls. The world itself shines by the
->> scattering light of his infinite virtues. May this love of Gokula
->> constantly shine in my mind.
->>
->> Madhav Deshpande
->> Campbell, California
->>
->>
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180427/868217de/attachment.htm>
-

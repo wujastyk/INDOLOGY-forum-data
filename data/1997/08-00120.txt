@@ -1,9 +1,4 @@
-From roheko at classic.msn.com  Sat Aug 23 03:48:47 1997
-From: roheko at classic.msn.com (Rolf Heinrich Koch)
-Date: Sat, 23 Aug 97 03:48:47 +0000
-Subject: aatape (vi)dhaarita.h
-Message-ID: <161227031931.23782.18328562823198198022.generated@prod2.harmonylists.io>
-
+aatape (vi)dhaarita.h
 The story according to the MSV tradition is translated by Prof. Schlingloff in 
 his life-work dealing with the Ajanta-paintings. There in Ajanta this avadana 
 is painted according the MSV-tradition. The tibetan version is translated by 
@@ -15,8 +10,3 @@ of 1997.
 The word aatapa occurs about 5 times in Buddhacarita 
 (1.18/1.73/13.43/11.37/9.22), also in connection with the root dh.r, further 
 instances are to be found in Palicanon.
-
-
-
-
-

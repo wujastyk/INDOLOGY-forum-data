@@ -1,65 +1,13 @@
-From andrew.ollett at gmail.com  Fri Oct 26 22:19:13 2018
-From: andrew.ollett at gmail.com (Andrew Ollett)
-Date: Fri, 26 Oct 18 18:19:13 -0400
-Subject: [INDOLOGY] Draupadii and polyandry
-In-Reply-To: <CAPW7aQFk-Eegc05UymbnUUk-J=OMO8gCvPrw7tDxrw34Q2cn_Q@mail.gmail.com>
-Message-ID: <CAANHO14W2LM7tUnowLrXexi1yQWo1H5+0EH72d=c8fuaSk0zqw@mail.gmail.com>
-
+[INDOLOGY] Draupadii and polyandry
 Oliver Hellwig has written some very interesting articles on applying
 various statistical techniques to Sanskrit texts (including the
 Mah?bh?rata) in order to determine "authorial structures" and hence
 relative dating:
-
 https://doi.org/10.1093/llc/fqp034
 https://doi.org/10.1093/llc/fqn043
 https://doi.org/10.1163/15728536-06002001
-
 The last article presents a technique for distinguishing sections of a text
 based on several features (lexical, syntactic, metrical, etc.) while
 controlling for differences introduced by changing topics.
-
 On Fri, Oct 26, 2018 at 5:25 PM Harry Spier via INDOLOGY <
 indology at list.indology.info> wrote:
-
->
->
-> On Fri, Oct 26, 2018 at 12:18 PM Joydeep via INDOLOGY
->
->> How are you identifying the ?earlier strata? of the epic?
->>
->
-> 1) I'd be interested if someone could  point out the scholarly articles
-> on  relative dating of different parts of the Mahabharata.?
->
-> 2) Could the techniques Michael Witzel pointed out years ago in this
-> posting  to relatively date the books or the Ramayana  be used.  I.e
-> relative occurance of  vai or similar words in vedic position 2 versus
-> elsewhere. ?
->
-> http://list.indology.info/pipermail/indology_list.indology.info/2000-March/020863.html
->
-> 3) Could a similar technique be used with other linguistic
-> characteristics.I.e. relative occurance of linguistic characteristics  that
-> are uncommon in vedic but common in classical sanskrit.  Whitney noted use
-> of passive constructions,  participles instead of verbs, substitution of
-> compounds for sentences as characteristic of the change from vedic to the
-> classical language.
->
-> Harry Spier
->
->>
->>
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20181026/bccd1e2a/attachment.htm>
-

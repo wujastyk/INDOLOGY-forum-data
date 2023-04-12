@@ -1,34 +1,18 @@
-From wujastyk at gmail.com  Sun Sep 17 22:01:30 2017
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sun, 17 Sep 17 16:01:30 -0600
-Subject: [INDOLOGY] Fwd: Auto-discard notification
-In-Reply-To: <mailman.319.1505578359.1467.indology_list.indology.info@list.indology.info>
-Message-ID: <CAKdt-CfAdaf7NMBe_rZw9qrfjuGwuUkvibgR45UrA90w1o9ihA@mail.gmail.com>
-
----------- Forwarded message ----------
-From: Agathe Keller <kelleragathe600 at gmail.com>
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk>
-Cc: Takao Hayashi <ganaka at kyoto.zaq.ne.jp>, Indology List <
+[INDOLOGY] Fwd: Auto-discard notification
 indology at list.indology.info>
 Bcc:
-Date: Sat, 16 Sep 2017 18:11:48 +0200
-Subject: Re: [INDOLOGY] Once again on the origin of zero: the date of the
+Re: [INDOLOGY] Once again on the origin of zero: the date of the
 Bakhshali manuscript (or manuscripts?)
 Dear Camillo,
 Thank you for your detailed and pondered reply. Concerning the ink, I
 thought simply that if there is a difference of ink composition from one
 folio to another, this could help determine if for instance folio 16 and
 folio 17 were written at different times.
-
 yours
-
 Agathe
-
 On 16 Sep 2017, at 17:53, Camillo Formigatti <camillo.formigatti at bodleian.
 ox.ac.uk> wrote:
-
 Dear Agathe,
-
 Thank you for specifying the content aspect of folio 16v and 17r. I have to
 say however that in cases like this the fact that there is a relationship
 in content of the text does not always mean that the two folios were
@@ -54,7 +38,6 @@ the sutra on folio 16v and a second example, but we cannot know for sure
 whether they were added later or not. Still, I'm not doubting the order of
 the folios here, only that we cannot be sure that they were written at the
 same time.
-
 As to the analysis of the ink, I know of the laboratory at the CSMC in
 Hamburg, as I used to work in the predecessor of the CSMC. I am not sure
 though how far it could help us to know about the composition of the ink in
@@ -66,7 +49,6 @@ mineral substances, then the radiocarbon dating wouldn't be totally
 reliable. All we would know from the analysis of the ink would be whether
 they used the same type of ink or not on the two folios. Surely this would
 help us a bit more, but again it wouldn't be totally conclusive.
-
 Finally, I have given a lot of thought before introducing in my report the
 statement about the function of the Bakhshali manuscript(s). I understand
 fully and totally agree with you that "many of the general procedures and
@@ -84,13 +66,5 @@ style of the texts obviously points to a scholarly context, but we have to
 bear in mind that the language per se is not Paninian Sanskrit, it is
 rather a sort of Buddhist Hybrid Sanskrit. I kindly have to ask you however
 to wait until I finish to write the article, if you don't mind.
-
 Best wishes,
-
 Camillo
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170917/f73f7ae1/attachment.htm>
-

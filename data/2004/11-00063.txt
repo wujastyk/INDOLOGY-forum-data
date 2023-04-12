@@ -1,42 +1,22 @@
-From adeo at STANFORD.EDU  Mon Nov 15 18:20:34 2004
-From: adeo at STANFORD.EDU (Ashwini Sharad Deo)
-Date: Mon, 15 Nov 04 10:20:34 -0800
-Subject: The Imperfective Participle
-Message-ID: <161227075347.23782.17880888551807707166.generated@prod2.harmonylists.io>
-
+The Imperfective Participle
 Hello,
-
 In  Tulsi Ramayana, the imperfective participle  is often
  the bare predicate in a clause (without any auxiliary verb.)
-
 For example:
-
 guna avaguna jAnata saba koi
             --------
 tulasI raghubara nAma ke barana birAjata dou
                                ----------
 gAvata guna sura muni bara bAnI
-------
-
 (sentences from BAlakANDa)
-
-
 Sometimes, these bare predicates must be understood to have past reference
 based on the context, and sometimes they have present reference (in
 narration or description.)
-
 Is the precise distribution of this participle for Old or Middle
 Hindi/Awadhi known?
-
 Also is there such a use of this form in Prakrit where the bare
 imperfective participle may be used with both present and past
 interpretation?
-
 Any information would be appreciated.
-
 thanks,
 Ashwini Deo
-
-
-
-

@@ -1,32 +1,11 @@
-From jacob.baltuch at EURONET.BE  Fri Dec 12 18:41:37 1997
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Fri, 12 Dec 97 19:41:37 +0100
-Subject: Delocutives
-Message-ID: <161227034377.23782.14595430121022756621.generated@prod2.harmonylists.io>
-
->In the delocutives that have been mentioned so far (I may have missed some of
->the mails) there is no real shift from locution to delocution, for
->instance from "to say 'honey'" to "to honey" or from "dire 'tu'" to
->"tutoyer".
-
+Delocutives
 I don't think so. "To honey" is not "to utter honey" but "to call somebody
 honey". It is transitive and therefore can't possibly stand for "to utter
 honey" which is an inherently intransitive expression.
-
 But maybe I don't understand what you're saying.
-
->The delocutive expression merely refers to the locution (as
->also Dominik Wujastyk's example of an infinite recursion indicates). And
->in this sense the delocutives do not form a delimited speech act of its
->own.
-
 I'm not sure Dominik's point is correct. (Incidentally I thought it was just
 a humorous aside) There's is no infinite recursion in this particular case
 because in the "don't X me" construction X has to be a term of address
 (considered offensive, belittling, etc.) X does not stand for any utterance
 and to X someone stands for to call someone X, it does not stand for to utter
 X (which would be intransitive)
-
-
-
-

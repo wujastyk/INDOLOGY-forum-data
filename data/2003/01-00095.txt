@@ -1,15 +1,9 @@
-From utkragh at HUM.KU.DK  Wed Jan 29 18:23:51 2003
-From: utkragh at HUM.KU.DK (Ulrich T. Kragh)
-Date: Wed, 29 Jan 03 19:23:51 +0100
-Subject: Internal sibilant-sandhi after the i-vowel
-Message-ID: <161227072133.23782.16622676982777689630.generated@prod2.harmonylists.io>
-
+Internal sibilant-sandhi after the i-vowel
 Query regarding internal sibilant-sandhi after the i-vowel:
 In my text-critical work on chapter 17 of CandrakIrti's PrasannapadA, I need
 to make a decision on whether to adopt the spelling visabhAgAnAM or
 viSabhAgAnAM in the phrase "visabhAgAnAM sabhAgAnAM ca karmaNAM" ("...of
 dissimilar and similar actions").
-
 My five manuscripts (which all are from Nepal) consistently use the form
 visabhAgAnAM (here and in the following passage of the text), that is
 without the retroflex sibilant after the i-vowel. In the edition of the text
@@ -21,14 +15,8 @@ text, de Jong adopts the spelling visabhAgAnAm, i.e. retains the dental
 sibilant after the i-vowel, with a reference to the Japanese translation of
 the text by Wogihara, which is a source I unfortunately do not have access
 to at the present.
-
 Would someone please care to clarify which sibilant ought to be used in this
 case according to the rules?
-
 Sincerely,
 Ulrich T. Kragh
 University of Copenhagen
-
-
-
-

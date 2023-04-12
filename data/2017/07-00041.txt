@@ -1,13 +1,6 @@
-From bill.m.mak at gmail.com  Sat Jul  8 11:08:54 2017
-From: bill.m.mak at gmail.com (Bill Mak)
-Date: Sat, 08 Jul 17 20:08:54 +0900
-Subject: =?utf-8?Q?[INDOLOGY]_Hypermetrical_upaj=C4=81ti?=
-Message-ID: <F5615D36-CCE6-4325-A9DA-D64FFE096322@gmail.com>
-
+=?utf-8?Q?[INDOLOGY]_Hypermetrical_upaj=C4=81ti?=
 Dear colleagues,
-
 I am currently editing the V?ddhayavanaj?taka and came across a chapter that is full of hypermetrical p?das (always va??astha) in an otherwise regular upaj?ti text. I understand that hypermetrical upaj?ti is noted in the epics. Could anyone enlighten me on this phenomenon, its history and how widespread it is?
-
 Here is a sample:
 04.03ab ?anai?care lagnagate ca n?cage p?p???ake p?payute ca d???e/ [a: h.m.]
 04.03cd p?pasya lagne guru?? vimukte p?p?t pras?ti? pravadanti candre//3//
@@ -21,33 +14,18 @@ Here is a sample:
 04.14cd candre?a m??ikyabhava? hira?yaja? saumyena ?ukre?a ca r?tisambhavam//14// [cd: h.m.]
 07.70ab kle??n vicitr?n sutad?ravaira? dhanapra???a? pracur?? ca v???m/
 07.70cd l?gn? da?? mandada??vip?ke p?p? vidhatte vividh??? ca rog?n//70//
-
 Note: In the case of 4.14, the entire verse becomes va??astha.
 7.70b - I am keen to emend v???m to v??in?m, assuming it is hypermetrical.
-
 Many thanks in advanced for any hint!
-
 Bill Mak
-
--- 
 Bill M. Mak
-
 Institute for Research in Humanities, Kyoto University
 Yoshidahonmachi, Sakyo-ku, Kyoto 606-8501
 Japan
 ?606-8501 ??????????
 ???????????
-
 Tel:+81-75-753-6961
 Fax:+81-75-753-6903
-
 copies of my publications may be found at:
 http://www.billmak.com
 http://kyoto-u.academia.edu/BillMak
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170708/0edd2a9e/attachment.htm>
-

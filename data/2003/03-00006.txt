@@ -1,25 +1,13 @@
-From reusch at UCLINK.BERKELEY.EDU  Mon Mar  3 18:55:11 2003
-From: reusch at UCLINK.BERKELEY.EDU (Beatrice Reusch)
-Date: Mon, 03 Mar 03 10:55:11 -0800
-Subject: Unicode outliner plus [Mac]
-Message-ID: <161227072453.23782.2295142198794894997.generated@prod2.harmonylists.io>
-
+Unicode outliner plus [Mac]
 Dear All
 Let me bring to your attention a super outliner, NoteTaker
 (http://www.aquaminds.com/index.jsp), which you may find useful in more
 than one way.
-
         Unicode (UTF-8 & UTF-16): fonts, export
         Optional multi-line entries
         Paste As: plain text, rich text, image, outline
         Web-publishing tool
         Too many features to list here
         For OS X only
-
 Greetings,
-
 Beatrice Reusch
-
-
-
-

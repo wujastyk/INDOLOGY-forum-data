@@ -1,93 +1,11 @@
-From klintber at CHASS.UTORONTO.CA  Tue Jun 15 18:56:30 1999
-From: klintber at CHASS.UTORONTO.CA (Bo Klintberg)
-Date: Tue, 15 Jun 99 14:56:30 -0400
-Subject: Pythagoras mentioned in Vedas?
-In-Reply-To: <376584F7.3BED1AD7@online.no>
-Message-ID: <161227050645.23782.11980051374379018024.generated@prod2.harmonylists.io>
-
+Pythagoras mentioned in Vedas?
 Dear Lars Martin Fosse:
-
 This is just a short letter to tell you that I am <truly> sorry if I have
 <personally> offended you. I thought that I just scrutinized some
 argumenents that potentially I thought were yours. Once again, I am truly
 sorry if I in any way disturbed or offended your person.
-
 That doesn't, however, mean that I like your way of doing statistics. I
 still don't. :-)
-
 greetings from a sunny, but chilly Toronto.
 Bo Klintberg.
-
-
 On Tue, 15 Jun 1999, Lars Martin Fosse wrote:
-
-> >
-> > As usual, you are applying statistics the wrong way. Why do you keep
-> > doing that? What <practical use> is there for us to read your
-> > "conclusions" that a John Doe of 6th century B.C. is less likely to have
-> > gone to India than a 3rd century one? People who <do> travel are not John
-> > Does--they are <real people>. They live their lives without any thoughts
-> > about social statistics. I don't see that you have any arguments
-> > that would prevent one <specific> scientist or even a group of <specific>
-> > scientists going between India and Greece in 600 BC, in 700 BC, in 800 BC,
-> > in 900 BC, in 1000 BC, etc, etc. Unless, of course, you think that the
-> > Indians were chimpanzees at the the time of 1000 BC or something, and that
-> > they only became humans later. If that is what you say, then I say to you:
-> > Prove it!
->
-> Excuse me, but I find you last sentences both stupid and offensive. As for the your
-> other arguments:
->
-> I do not use statistics in the wrong way. You are perfectly right that I cannot
-> *prove* that Greeks did not go to India in the sixth century. Now, the point of
-> probabilistic reasoning is precisely that you use it to deal with matters that cannot
-> be proved. Statistics is a method for handling uncertainty. So I'll give you my
-> probabilistic reasons:
->
-> First of all, statistics cannot be used to decide individual cases, only cases in the
-> mass. The question is therefore: What is the probability that Greeks (in any number)
-> went to India in the 6th century?
->
-> 1) We have no material indicating that Greeks went to India in the sixth century.
->     This is admittedly an argument ex nihilo. But on the other hand: Given the
-> considerable geographical distance through difficult territory, and the fact that the
-> early Greeks show no trace of knowledge of India,  in statistical parlance the null
-> hypothesis would be:
->     H0: Greeks did not go to India in the 6th century. Consequently the stronger
-> hypothesis would be:
->     H1: Greeks did go to India in the 6th century
->
-> As you see, unless you can prove that they DID go, you have no grounds for claiming
-> that they went. The burden of proof does not fall on the one who says no, but on the
-> one who says yes.
->
-> 2. As for the later period, we know that Greeks went to India and in fact wrote books
-> about it. Therefore:
->
-> a) Greeks knew about India
-> b) Greeks went to India
-> c) consequently it is more probable that if Greeks went to India to learn
-> mathematics, they did so during the later period.
->
-> As you may have noticed, Karttunen who has written two thick volumes on Greek
-> knowledge of India shares my views of the relative probabilities.
->
-> In fact: when you have very little data, you are struck with probabilistic thinking.
-> Under such circumstances, a conservative judgement makes good sense.
->
-> As for "practical use": As far as I can see, there  is no practical use to be had
-> from either possibility. The difference is between showing intellectual restraint and
-> filling your mind with happy imaginings.
->
-> Now, please show me the "Real scientist" who went to India in the sixth century!
->
-> And by the way, can you prove that you have stopped beating your wife?
->
-> Best regards,
->
-> Lars Martin Fosse
->
-
-
-
-

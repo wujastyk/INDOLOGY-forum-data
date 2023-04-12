@@ -1,190 +1,89 @@
-From ambapradeep at gmail.com  Fri Jan 11 07:11:22 2019
-From: ambapradeep at gmail.com (Amba Kulkarni)
-Date: Fri, 11 Jan 19 12:41:22 +0530
-Subject: [INDOLOGY] 6th ISCLS - website and call for papers
-In-Reply-To: <CADvMYTb2Nfpmx6PHrwzRYyyzmOE909eP3XBF1wN_Vp5CYAXfHg@mail.gmail.com>
-Message-ID: <CAFffahCqdvxAbBSchGnk7WfBFqkvwNO6xWVfnRQfBn-8t5O3Ng@mail.gmail.com>
-
+[INDOLOGY] 6th ISCLS - website and call for papers
 Dear list,
-
 I am forwarding the call for papers for the 6th Sanskrit Computational
 Linguistics Symposium, to be held at IIT Kharagpur, from Oct 23-25, 2019
-
 With best regards,
 Amba Kulkarni
-
-------------------------------------------------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------------------------------
 *Apologies if you have received multiple copies of this email*
 *Please consider contributing papers and distribute to your colleagues who
 may be interested*
-------------------------------------------------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------------------------------
-
 6th International Sanskrit Computational Linguistics Symposium (6th ISCLS)
-
 Indian Institute of Technology Kharagpur, West Bengal, India -- 721302
-
 October 23-25, 2019
-
 Website: https://iscls.github.io/
-
 Convenor: Pawan Goyal, IIT Kharagpur
-
-------------------------------------------------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------------------------------
-
 *CALL for papers*
-
 Dear Colleagues,
-
-
 FULL papers are invited on original and unpublished research on various
 aspects of Computational Linguistics and Digital Humanities related to
 Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit,
 etc.
-
 *Important Dates:*
-
 Submission Deadline: May 10th, 2019
-
 Notification of Acceptance: July 5th, 2019
-
 Camera Ready Version Due: July 25th, 2019
-
 You are requested to submit your research paper using the EasyChair
 Submission Portal: https://easychair.org/conferences/?conf=6thiscls. The
 submissions should not exceed 20 pages, and will be reviewed by the program
 committee members, as listed below. To prepare your submission, please use
 the latex source files listed on the website, and follow the instructions
 provided there.
-
 The areas of interest include, but are not limited to:
-
-
 ** Sanskrit Computational linguistics: with extensions to related ancient
 Indian languages (Vedic, Pali, Prakrits)*
-
 Digital lexicons, thesauri and wordnets
-
 Computational phonology and morphology
-
 Syntactic analysis
-
 Prose order normalisation
-
 Parsing
-
 Structural semantics
-
 Machine Translation
-
 Automatic analysis of Sanskrit corpus
-
 Machine Learning approaches to computational processing
-
 Navya Ny?ya technical language processing and semantic analysis
-
 Information extraction
-
 ** Sh?stric Sanskrit texts and computation*
-
 Computer modeling and simulation of Paninian and other traditional grammars
-
 Theories of ??bdabodha and Sanskrit computational processing
-
 ** Sanskrit digital libraries management:*
-
 Tools for acquisition & maintenance of Sanskrit digital corpus
-
 Library crawlers or search tools in Sanskrit corpus
-
 Incorporation of grammatical information in Sanskrit corpus
-
 Automated tools for evaluation of Sanskrit poetry, e.g., meter
 recognition/verification, ala?k?ra identification, ?le?a analysis
-
 Software tools for phylogenic studies, intertextuality management,
 establishment of critical editions, and other philological applications
-
 OCR recognition of romanized Sanskrit as well as ancient Indian scripts
-
 Digital cataloguing of manuscripts
-
 Digital font creation, rendering of phonetic features, etc.
-
 Encoding procedures and workflows
-
 Presentation and transformation of TEI data
-
 Named entity recognition
-
 Collaborative annotation and editing
-
 Alignment of text with images (including manuscripts)
-
 User interface design
-
 ** Misc computer applications relevant to Sanskrit:*
-
 Software tools for teaching Sanskrit
-
 Sanskrit speech recognition and synthesis
-
 Social media applications for Sanskrit dissemination
-
 *Programme Committee *
-
 Stefan Baums (University of Munich)
-
 Laxmidhar Behera (IIT Kanpur)
-
 Pawan Goyal (IIT Kharagpur)
-
 Brendan Gillon (McGill University)
-
 Olivier Hellwig (University of Zurich)
-
 G?rard Huet (Inria Paris)
-
 Amba Kulkarni (University of Hyderabad)
-
 Malhar Kulkarni (IIT Bombay)
-
 Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)
-
 Girish Nath Jha (JNU, Delhi)
-
 Andrew Ollett (Harvard University, Cambridge, MA)
-
 Dhaval Patel (Ahmedabad)
-
 Ganesh Ramakrishnan (IIT Bombay)
-
 Peter Scharf (IIIT Hyderabad)
-
 Srinivasa Varakhedi (KKSU, Ramtek)
-
 K Varalakshmi (Osmania University, Hyderabad)
-
-
 Web Chair: Amrith Krishna, IIT Kharagpur
-
-
 Previous Editions:
-
 INRIA Paris Rocquencourt (2007),  Brown University, USA (2008), University
 of Hyderabad, India (2009), JNU, Delhi, India (2010) and IIT Bombay (2013)
-
-------------------------------------------------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------------------------------
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190111/4bf92043/attachment.htm>
-

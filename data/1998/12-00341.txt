@@ -1,19 +1,11 @@
-From g.v.simson at EAST.UIO.NO  Fri Dec 18 12:52:55 1998
-From: g.v.simson at EAST.UIO.NO (Georg von Simson)
-Date: Fri, 18 Dec 98 13:52:55 +0100
-Subject: mysterious syllables
-In-Reply-To: <36272B2D.EFDA152F@shore.net>
-Message-ID: <161227043710.23782.12175837038241877423.generated@prod2.harmonylists.io>
-
+mysterious syllables
 I am still struggling with my edition of the (bhikSu-)prAtimokSasUtra of
 the sarvAstivAdins. In this connection I have the following question: In
 some (not all) of the manuscripts (from Central Asia) there appear
 sometimes (not always, and mostly in the first part of the text and for me
 quite unpredictably) at the end of a rule, usually after the number of the
 rule, one of the following syllables:
-
      a, azr(A?), kau, ni, ra, rA, rAH, vai, zraH, zrA, zrAH, sa, sA.
-
 Has anybody an idea what function these syllables might have?  Is this
 phenomenon known from other mss.? The prAtimokSasUtra is a law-text, where
 one would not expect mantras or magic. But: these syllables are clearly not
@@ -21,9 +13,4 @@ a part of the main text; they might have to do with the writing or with the
 recitation of the text? In the large collection of the "Turfan-manuscripts"
 these syllables do not seem to appear at other places, but just in this
 text - created by the scribes only to annoy me? :-).
-
 Georg v. Simson
-
-
-
-

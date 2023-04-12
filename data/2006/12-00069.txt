@@ -1,10 +1,4 @@
-From silk at HUMNET.UCLA.EDU  Fri Dec 22 15:42:38 2006
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Fri, 22 Dec 06 07:42:38 -0800
-Subject: maayaa-purusha
-In-Reply-To: <web-40742531@uni-bonn.de>
-Message-ID: <161227078963.23782.5683772245184000337.generated@prod2.harmonylists.io>
-
+maayaa-purusha
 This does not refer to the text Eli is looking at/for, but the 
 Sanskrit Word-Index to the Abhisamayalamkaraloka 
 Prajnaparamitavyakhya [excuse abscene of diacritics] by Ryusei Keira 
@@ -12,7 +6,6 @@ and Noboru Ueda does list a number of occurences in the sutra itself,
 and many more in the cy. In the sutra they appear on pp 69, 72, 92, 
 482, 841, 875 (Wogihara ed) --if it occurs other than as the first 
 member of a compound, you'd have to look elsewhere though...
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -23,7 +16,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-
-
-

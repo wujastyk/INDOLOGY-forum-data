@@ -1,36 +1,9 @@
-From deepak at ksu.edu  Mon Apr  7 15:13:25 1997
-From: deepak at ksu.edu (Deepak)
-Date: Mon, 07 Apr 97 10:13:25 -0500
-Subject: Software for preparing a bibliography
-Message-ID: <161227029448.23782.16761329672530564761.generated@prod2.harmonylists.io>
-
+Software for preparing a bibliography
 On Mon, 7 Apr 1997, Kamal R. Adhikary wrote:
-
-> Dear all,
-> 
->         I am looking for software for compiling an annotated bibliography.
-> If any of you know such software and let me know the  name of the
-> software/company name I would really appreciate it.   Thanks.
-> 
-
 Kamal,
 The software 'PROCITE' will work for you. Check out the complete
 details at http://www.risinc.com/
-
 good luck,
-
-
-              
 d e e p a k     g u p t a
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deepak at ksu.edu       ||      www-personal.ksu.edu/~deepak
- 
-
-
-
-
-
-
-
-
-

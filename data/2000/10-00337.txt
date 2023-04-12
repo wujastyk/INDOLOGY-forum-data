@@ -1,23 +1,9 @@
-From witzel at FAS.HARVARD.EDU  Sat Oct 21 16:35:54 2000
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Sat, 21 Oct 00 12:35:54 -0400
-Subject: Kak review part 1
-In-Reply-To: <Pine.SUN.4.21.0010211643290.22726-100000@socrates-a.ucl.ac.uk>
-Message-ID: <161227062810.23782.6418502187221439125.generated@prod2.harmonylists.io>
-
+Kak review part 1
 Indeed, Dominik! Since she sent me a file of out last year, I post it below
 (formatting and all), though a little long, in two parts.
-
 I may add my own points, separately, tomorrow.
-
-> important review by Kim Plofker
->of Kak's Rgvedic Astronomical Code book:
   _Centaurus_ 38 (1996), 362--364.
-
-----------------------------------------------------
-
 KIM PLOFKER, Brown U.,  in: Centaurus 38 (1996)
-
 %%%%% kakreview.tex %%% %%\magnification=\magstep1 %%\baselineskip=18pt
 \let\*=\d \hangindent=1in \hangafter=1 Review: Subhash Kak, {\it  The
 Astronomical Code of the \*Rgveda}, Aditya Prakashan, New Delhi 1994
@@ -25,8 +11,6 @@ Astronomical Code of the \*Rgveda}, Aditya Prakashan, New Delhi 1994
 \bgroup \baselineskip=12pt \centerline{Kim Plofker} \centerline{Department
 of History of Mathematics} \centerline{Brown University}
 \centerline{Providence, RI~~02912~~~USA} \egroup \bigskip
-
-
 In his preface to {\it The Astronomical Code of the \*Rgveda}, Dr. Kak
 remarks, ``My
 inquiry began in seeking answer [sic] to the puzzle: How can the Vedic
@@ -36,7 +20,6 @@ had no quantitative science.'' The very formulation of such a question
 implies a conviction that the attainment of ``subtle understanding'' is
 inherently
 dependent upon the goals and methods of modern scientific practice.
-
 Hence it is not surprising that Dr. Kak believes he has solved his puzzle by
 discovering that there is indeed ``quantitative science'' in the Vedas
 (although without any direct relevance to the problem of the nature of
@@ -46,7 +29,6 @@ syllables, verses and hymns in the {\it \*Rgveda}, {\it Atharvaveda}, and
 {\it
 Bhagavadg\={\i}t\=a}\/ coincide with numbers approximating the periods of
 various celestial motions.
-
 It is claimed that these numbers (some of which
 are also found in specifications given in the {\it Br\=ahma\*nas}\/ and
 {\it \'Sulbas\=utras}\/ for sacrificial altars) were obtained in the Vedic
@@ -58,12 +40,10 @@ determined. The knowledge of this code, it is suggested, disappeared very
 shortly after
 the composition of the texts and thus has remained entirely absent from
 every exegetical tradition up to the present.
-
  Dr. Kak's efforts to explain and
 support his theory involve him in a number of other hypotheses sharply at
 variance with the views that most Indologists hold on the basis of
 overwhelming linguistic evidence that Dr. Kak dismisses or ignores.
-
 First and foremost, astronomical references in the {\it
 Taittir\={\i}ya\-br\=ahma\*na}, {\it \'Sata\-patha\-br\=ahma\*na}, {\it
 Maitr\=aya\-\*n\={\i}ya\-br\=ahma\*nopani\*sad}, and {\it
@@ -72,7 +52,6 @@ others under the heading ``Vedic texts'') are interpreted (p. 35) as
 literal and
 accurate chronological indicators, presumably in order to sustain the Vedic
 Indians' character for competent and careful observation.
-
 This yields a greatly
 expanded chronology for the ``Vedic'' era, in support of which are adduced
 equally uncritical reconstructions from Pur\=a\*nic king-lists and
@@ -82,7 +61,6 @@ estimated dates of this era under these new constraints should be, but it
 is clear at
 least that they extend the ``Vedic'' period back for many centuries beyond
 the time commonly believed to mark the entry of the Aryans into India.
-
  This discrepancy is circumvented by pushing back the time of the Aryans'
 arrival to the seventh millennium B.C. (pp. 20--22), and identifying the
 early Indus
@@ -92,7 +70,6 @@ Valley
 civilizations permits the hypothesis that their scientific achievements, as
 reconstructed by means of the ``astronomical code,'' may have provided the
 inspiration for later Babylonian and Greek astronomy (pp. 3, 119--120).
-
 Unfortunately, the actual evidence presented in the book is neither
 abundant nor
 convincing enough to justify such drastic revisions. It consists entirely
@@ -101,7 +78,6 @@ many of
 them very approximate, and numbers that either appear in the ``Vedic''
 texts or can be extracted from their verse and hymn numbers by arithmetic
 manipulation.
-
 A few of these numbers, in no way ``encoded,'' unquestionably do reflect
 the astronomical knowledge that the early Indians are generally
 acknowledged to have possessed: thus when it is pointed out (by no means
@@ -112,19 +88,11 @@ in the {\it \'Satapathabr\=ahma\*na}\/ to the number of muh\=urtas in a
 thousand years (p. 84), or in the {\it Kau\*s\={\i}takibr\=ahma\*na}\/ to
 the times of the solstices (pp. 86--87), these may be legitimately termed
 ``Vedic astronomy.''
-
 (to be continued)
-
 ========================================================
 Michael Witzel
 Department of Sanskrit & Indian Studies, Harvard University
 2 Divinity Avenue, Cambridge MA 02138, USA
-
 ph. 1- 617-496 2990 (also messages)
 home page:  http://www.fas.harvard.edu/~witzel/mwpage.htm
-
 Elect. Journ. of Vedic Studies:  http://www1.shore.net/~india/ejvs
-
-
-
-

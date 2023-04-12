@@ -1,26 +1,18 @@
-From thompson at JLC.NET  Tue Jun 23 23:27:58 1998
-From: thompson at JLC.NET (George Thompson)
-Date: Tue, 23 Jun 98 19:27:58 -0400
-Subject: Retroflex sounds
-Message-ID: <161227040237.23782.13021414516961832796.generated@prod2.harmonylists.io>
-
+Retroflex sounds
 No, I'm your pUrvapakSa, Lars Martin, and I accept the blame for
 sloppiness, on both counts: re the Norwegian and the so-called "Sicilian"
 examples. Jacob, on the other hand, deserves the credit for making the
 point that really matters: re "isolated feature"/"systemic feature".
-
 What I meant to say is that in his article Hock seemed to me to be
 selective in his use of these examples of retroflexion. Perhaps the
 question of their relevance can be clarified: is retroflexion in these
 instances [as well as that of retroflexion in American English] a
 relatively isolated feature or a relatively systemic one?
-
 If they are relatively isolated, as retroflexion in Amer. English seems to
 be, then their relevance to an examination of the Indic linguistic area
 seems limited [i.e., they admittedly demonstrate that retroflexion is
 fairly widespread as a phonological process, but they do not clarify the
 particular process whereby a series of retroflexes arises in Vedic].
-
 On the other hand, Hock insists upon the possibility that retroflexion in
 IA and in Dravidian has developed independently of each other. Of course.
 Besides pointing out the fact that Dravidian has a triple contrast whereas
@@ -28,7 +20,6 @@ IA has only a dental / retroflex contrast, he also points out other
 differences. Dravidian permits word-final retroflex (and alveolar)
 sonorants, whereas early IA doesn't, except in the case of onomatopoeic
 *bhAN*. IA has retroflex sibillants, whereas Dravidian lacks them. Etc.
-
 Now I'm certainly not competent to explain away all of these difficulties.
 I would hope that B. Krishnamurti and others might step in and illuminate
 these problems. It simply appears to me that Hock is being too stringent
@@ -38,14 +29,12 @@ repeat my earlier appeal to the list: "Could someone explain to me why a
 proto-Dravidian
 language with such a three-fold distinction COULD NOT HAVE INFLUENCED early
 IA in such a way as to induce a dental-retroflex distinction?"
-
 Now to the lexical evidence. As I mentioned in my last post, Hock does
 point out the real difficulties of deriving Skt. mayUra, budbuda,and kANa
 from Drav. Fair enough. But to say that there is a "dearth" of evidence of
 lexical borrowing in the RV in the face of Kuiper's efforts to show exactly
 the opposite in *Aryans in the RV* is a bit startling to me. Here again, I
 think that Hock is being too stringent.
-
 Let me close by expressing my admiration for Hock's work on this
 question,as on so many others. His recently published article in the volume
 edited by Witzel [*Inside the Texts - Beyond the Texts* in the HOS Opera
@@ -53,11 +42,5 @@ Minora Series], called "Chronology or Genre? Problems in Vedic syntax", is
 another example of his cautionary wisdom. Needless to say, I have learned a
 great deal from studying his *Principles of Historical Linguistics*, and
 look forward to learning more.
-
 Best wishes,
-
 George Thompson
-
-
-
-

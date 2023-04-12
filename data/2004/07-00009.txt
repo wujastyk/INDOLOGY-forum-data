@@ -1,34 +1,16 @@
-From baums at U.WASHINGTON.EDU  Sat Jul 10 00:04:29 2004
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Fri, 09 Jul 04 17:04:29 -0700
-Subject: Asokan inscriptions online?
-In-Reply-To: <HLEGKKDFGLJBBKJBLEMCAEHGDEAA.gthomgt@adelphia.net>
-Message-ID: <161227074606.23782.10158314286112188051.generated@prod2.harmonylists.io>
-
+Asokan inscriptions online?
 We have the text of the Mansehra and Shahbazgarhi versions online
 at the EBMP site:
-
    http://depts.washington.edu/ebmp/software.html
-
 This is based on the Hultzsch edition, input in 1997 by Nakatani
 Hideaki (contact details in the file), and with corrections by
 Andrew Glass.
-
 I am not aware of more comprehensive online resources, but would
 also be interested to learn of such.  Maybe the Indoskript project
-
    http://www.indoskript.de/
-
 has done something in that direction, but if so it?s not on their
 website yet.
-
 Stefan
-
---
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

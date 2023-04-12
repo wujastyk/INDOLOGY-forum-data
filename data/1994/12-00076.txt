@@ -1,9 +1,4 @@
-From jnye at midway.uchicago.edu  Tue Dec 27 20:45:51 1994
-From: jnye at midway.uchicago.edu (james nye)
-Date: Tue, 27 Dec 94 14:45:51 -0600
-Subject: Indological series on microfilm
-Message-ID: <161227018058.23782.4410422910732208482.generated@prod2.harmonylists.io>
-
+Indological series on microfilm
   Both Harvard and Chicago committed to make Indological titles
 preserved under their joint grant from the National Endowment for the
 Humanities available by inter-library loan and purchase at cost-
@@ -31,7 +26,6 @@ Chicago catalog.  In the future, I intend to produce a short-title
 catalog for titles filmed, including master negative microfilm
 numbers.  This will be available as an electronic file and also on
 microfiche.
-
   A few more general notes on the NEH preservation project may be of
 interest.  The Indological series encompassed were all published in
 South Asia.  And, only titles with imprints prior to 1957, the date of
@@ -45,25 +39,4 @@ microfilming by other libraries to fill in gaps in the Chicago and
 Harvard collections.  In addition to preservation, increasing
 availability of these important and often rare editions was a major
 motivation in our undertaking the project.
-
 On December 19, Jonathan Silk wrote:
-
-> James Nye very kindly pointed Lars Martin Fosse, myself and interested
-> others to the list on the South Asia Gopher of microfilmed materials.  I
-> have downloaded this material, and now hope Mr. Nye will kindly help us:
-> When I checked the computer databases, the notation for Harvard's holdings
-> indicated that they will not loan the material.  Now, are we to understand
-> Mr. Nye's note at the head of the list as indicating that although they
-> will not LOAN material they will copy it and sell the copies?  May we order
-> privately, or must / should we go through our library?  I am sure others
-> besides myself would appreciate this information.  (Many extremely rare
-> materials seem to be available.  However, only series entries are given,
-> not individual titles, so presumably the patron must provide the details of
-> the desired volume(s).  Is there a database that lists the contents of such
-> series?!)
- 
-
-
-
-
-

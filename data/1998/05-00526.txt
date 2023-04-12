@@ -1,17 +1,10 @@
-From Palaniappa at AOL.COM  Sun May 24 21:58:35 1998
-From: Palaniappa at AOL.COM (Palaniappa)
-Date: Sun, 24 May 98 17:58:35 -0400
-Subject: Inscriptions and Dravidian sound changes "y" > "c" and "y" >
-Message-ID: <161227039118.23782.8503151632396873614.generated@prod2.harmonylists.io>
-
+Inscriptions and Dravidian sound changes "y" > "c" and "y" >
 In a message dated 98-05-24 01:15:45 EDT, bhk at HD1.VSNL.NET.IN writes:
-
 <<There is a phenomenon called hypecorrection; since c>y is related as
  old-later, some crackpot at a later date would represent an underlying -y-
  form by -c- thinking that he was writing an older spelling. A good example
  is inscriptionl mata-c:nai for mata-ya:nai. So if there were many crackpots
  like that, it would even mislead us as a sound change.
-
  In Sanskrit there is a  fricative y and a semi-vowel y (both probably
  occurred in complemenary distribution). The first one as in yama, yamuna:,
  etc was a fricative like Modern German J or English y in yes.  Prakrit
@@ -23,12 +16,10 @@ In a message dated 98-05-24 01:15:45 EDT, bhk at HD1.VSNL.NET.IN writes:
  Kannada). where Ka also has an intervocalic -y- (bayal) it goes to PD *y. So
  Kannada holds the clue for PD reconstriction (Ta. poy = Ka. pusi <*posi 'a
  lie'; PD *poc-).
-
  Please check the chronology of -c- ~ -y- forms in Tamil. Are the-c- forms
  older or -y- forms in terms of literary attestation? You  have to examine a
  sound change from a number of angles before making generalizations about
  others' scholarship. Bh.K. >>
-
 Fortunately, we can check for the crack-pot theory or hyper-correction in the
 case of "matacAn2ai". The word occurs in two inscriptions SII, vol. 5, no. 300
 as well as no. 431 which I had mentioned earlier. No. 431 has far fewer
@@ -38,44 +29,35 @@ inscriptions makes it obvious that the eulogy portion was composed by a single
 person while the actual inscribing was done by different persons at the two
 locations.  The inscriptions belong to the period of the famous
 cuntarapANTiyan of the 13th century.
-
 The eulogy portion of 431 in which the word "matacAn2ai" occurs, also has the
 words "An2ai" and "yAn2ai" used in other places. Inscription 300 has the
 corresponding occurrences of "matacAn2ai" and "yAnai". But the middle section
 with the "An2ai" form is missing. The occurrences of the words "An2ai" and
 "yAn2ai" are given below.
-
 akkaLattil An2aiyin veNmaruppuGkaiyyuG - in that battlefield the elephant's
 white tusk and trunk
-
 kaTalenn2a muzaGkuG kazinalliyAn2ai - the excellent elephant which trumpets
 like the ocean.
-
 The usage nalliyAn2ai with an "i" inserted is similar to Classical Tamil usage
 (compare nalliyAz - good lute in malaipaTukaTAm 450)
-
 If the composer was being hyper-corrective, he would not have used "An2ai" or
 "yAn2ai". Further he seems to have been aware of the classical forms. The only
 conclusion possible is that he is using the different forms current at that
 time, classical as well as colloquial forms, in a very long inscription in
 which the eulogy portion alone runs to almost one and a half pages of a book
 of 8.5''x11" size.
-
 As for the chronolgy of the forms mentioned, each of the forms with -y- occurs
 in Classical Tamil.
-
 ucar < uyar (DEDR 646)
 vacakkal < vayakkal (DEDR 5258)
 vAcal < vAyil (DEDR 5352) -
 vicalUr < viyalUr = viyal (DEDR 5404) +Ur
-
 uyar - to rise                  puRanAn2URu 334.8
 vayakku - to tame           akanAn2URu 344.10
 vAyil - entrance              puRanAn2URu 350.6
 viyalUr - a place             akanAn2URu 97.13
 vayal - cultivated field     puRanAn2URu 354.4  (Kannada has both vayal and
 bayal(u))
-
 The forms with -c- are found in inscriptions at least 600 years later than the
 literary attestations of -y-. None of the -c- forms discussed above are found
 in Classical Tamil. Some of the -y- forms are used even today in formal speech
@@ -85,11 +67,9 @@ is -y-. -c- and -y- are clearly distinguished. On the other hand, vAcal is
 acceptable and vAyil is found in very formal speech. Inscriptions show not
 only vacakku, but also, mayakku, and macakku reflecting all the variant
 dialectal forms. Todau tiruvicalUr is the name of the town.
-
 The placement of DEDR 5259 Ta. vayiRu belly with an implied *-y- seems to be
 correct even though Kannada has basiR. Colloquial Tamil has forms like vakuRu,
 vavuRu, but no vacuRu.
-
 Finally, I was not generalizing about others' scholarship. My comment was made
 in the same spirit as P. S. Subrahmanyam was making with respect to L. V.
 Ramaswamy Aiyar and it was specific to the discussion at hand. Moreover, what
@@ -104,7 +84,6 @@ this book at the invitation of the Dravidian Linguistics Association. So I
 felt that the quality of the work had been recognized by other scholars and  I
 was surprised it was not consulted in the preparation of "Dravidian
 Comparative Phonology".
-
 For the benefit of those interested, in its 1132 pages, "Study of the Dialects
 of Inscriptional Tamil" mainly deals with phonology and morphology. It is
 based on about 1750 inscriptions grouped into 5 periods: (1) 6th to 8th
@@ -114,11 +93,5 @@ of about 30,000 Tamil inscriptions that had been collected by the
 Archaelogical Survey of India at that time. However, it is a significant work
 bringing together the results of many earlier  unpublished research efforts
 including that of Pillai.
-
 Regards
-
 S. Palaniappan
-
-
-
-

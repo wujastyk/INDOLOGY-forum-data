@@ -1,12 +1,4 @@
-From Martin.Gansten at TEOL.LU.SE  Fri May 28 07:38:12 2004
-From: Martin.Gansten at TEOL.LU.SE (Martin Gansten)
-Date: Fri, 28 May 04 09:38:12 +0200
-Subject: Help with a date
-In-Reply-To: <LHEDJEDCNOHBJHIMPCDHIEDHCEAA.McComas.Taylor@anu.edu.au>
-Message-ID: <161227074531.23782.11257631282797358592.generated@prod2.harmonylists.io>
-
->zarabANataraNivarSe ravikaravadi phAlgune tRtIyAyAm .
-
+Help with a date
 zara and bANa both mean 'arrow', and hence the number 5 (from the five
 arrows of Kamadeva); taraNi here means 'the sun', and hence the number 12
 (from the twelve solar months in a year). According to the rule aGkAnAM
@@ -19,10 +11,5 @@ case we must conclude that the author's calendar was slightly off: the moon
 did not enter hasta, nor was the tithi (kRSNa)tRtIyA until 19 January,
 which was not a Sunday but a Tuesday. (Bhandarkar obviously went by the day
 of week rather than the tithi and nakSatra in fixing the date as the 17th.)
-
 Regards,
 Martin Gansten
-
-
-
-

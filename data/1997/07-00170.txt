@@ -1,18 +1,5 @@
-From clopez at husc.harvard.edu  Wed Jul 30 13:25:18 1997
-From: clopez at husc.harvard.edu (Carlos Lopez)
-Date: Wed, 30 Jul 97 09:25:18 -0400
-Subject: HACC indic fonts for MAC
-Message-ID: <161227031684.23782.15162096242425451083.generated@prod2.harmonylists.io>
-
+HACC indic fonts for MAC
 Can someone tell me where I can get a hold of the HACC fonts for MAC.  I
 tried accessing them through ftp at blackbox.hacc.washington.edu but was
 unable to get them.  It seems that the ftp is no longer there.
-
 Thanks
-
-
-
-
-
-
-

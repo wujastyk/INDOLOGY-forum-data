@@ -1,59 +1,32 @@
-From MDSAAA48 at giasmd01.vsnl.net.in  Mon Oct  9 09:57:45 1995
-From: MDSAAA48 at giasmd01.vsnl.net.in (DR.S.KALYANARAMAN)
-Date: Mon, 09 Oct 95 09:57:45 +0000
-Subject: Etymology of puujaa
-Message-ID: <161227021136.23782.2815082045021736251.generated@prod2.harmonylists.io>
-
+Etymology of puujaa
 On Sat, 7 Oct 1995 witzel at HUSC3.HARVARD.EDU wrote:
-> according to G. Buehnemann (Puujaa. Vienna 1988, p. 30) the etymology of
->   puujaa has not yet been explained convincingly. Mayrhofer (Kurzgefasstes
->   etymologisches Woerterbuch des Altindischen. 4 vols. Heidelberg 1965-80)
->   suggest a derivation from Tamil puucu 'to smeare'. However, Thieme (Kleine
->   Schriften, p. 792) connects the word with *pRn^ca kR 'to prepare a mixture
->   for someone'. As far as I know there there is no final conclusion regarding
-> > its etymology. Buehnemann gives a fair account of the various positions.
 ..> the word, or rather the root, PUUJ occurs even in the Rgveda, though 
 well > hidden in an epithet of Indra: zacI-pUjana- 
-> Further, the root occurs in names in Katha and Maitr. Samhita. It becomes 
-> more common only in the Vedic Kalpa Sutras. The old meaning seems to be "to 
-> honor" (also in early grammarians: Patanjali or Katyayana [I don't 
-> remember which]: rajnaam puujitah) .-- not anything like "to smear" as  
-> suggested by Dravidian. 
 ....I suggest that prakrts provide a set of semantic clusters which may
 explain the etymology with a bit more precision.
 Prof. Witzel does not have to do guru-nindanA of prof. Thieme...
 Re: Etymology of pUjA
-
 pU, pU(z,,j) are phonemes which evolve in three semantic clusters in
 South Asian language streams:
-
 (1) flowering, menstruation; (2) to adorn; and (3) to smear, clean; present.
-
 pUjA =  worshipping is perhaps related to the semantic compound:
 presenting flowers, i.e. a compounding of semantic clusters 1 and 3.
-
 Linking pUjA with smearing and cleaning may be explained by a semantic
 compound; pU = to blossom (Tamil) X jhasAI = anointing (PunjAbI); jaS, 
 jhaS =
 to hurt (Skt.); jhAsA = inflicting injury upon one's self (GujarAti, 
 MarAThI).
-
 (1) Semantics: flowering, menstruation:
-
 pU (-ttal) to blossom, bloom (pUtta mA-attu: ainkuRu.10)(Sangam Tamil);
 pU flower (Old Kannada); pUppu menstruation (pUppinpuRappa TIrARu nALum :
 TolkAppiyam.PoruL. 187)(Old Tamil); puppham = a flower; the menses
 (AbhidhAnappadIpika, 238, 1091: Pali)
-
 (2) Semantics: to adorn
-
 pUcal = decoration (Tamil: CUTA.); pU = ornamental plate on the forehead
 of an elephant (pUnutal yAnaioTu :puRanAnURu. 165 Sangam Tamil);
 pUTci, pUN = ornament (Maturaik. 569 Old Tamil); bhUS to adorn, decorate;
 bhUSaNam = ornament
-
 (3) Semantics: to smear, clean; present
-
 pUcu-tal = to besmear, anoint (nIRu pUci nimicaTai mERpiRai :
 tEvAram. 627,5 : Old Tamil)
 sprz = to touch, fel wih the hand, stroke : DhAtupATha xxviii);
@@ -65,26 +38,16 @@ pochnA, pochA denA = to smear the cooking place or floor (PunjAbI);
 smIcar = to daub (GujarAti); poncArNe = to punch and thump,
 to beat with the fist (clothes in washing them);
 ponjDa = filthy, foul, dirty -- a person (MarAThi)
-
 pUjA = offering (AbhidhAnappadIpika, 425: Pali); to offer, present
 (Dhammapadam, 20,35:Pali);
 paricam = a concubine's fee: Cilap. 3,163, urai. Tamil) (perhaps influenced
 by semantic: sparzanam = touch);
-
 pUta = pure, puified, cleansed (MarAThi) (cf. pustakam = book (Skt.);
 puttakam : puttakamE cAlattoruttum : NalaTi, 318 Old Tamil);
 pusta = working in clay; pusta-karman = plastering (Skt.)
 fr. pU to make clear (DhAtup. xxxi,12); pUto = purified
 (AbhidhAnappadIpika, 44: Pali)(cf. punAti);
 pustI = a paper pasted behind another paper (MarAThi)
-
 Dr. S. Kalyanaraman mdsaaa48 at giasmd01.VSNL.net.in
-
 Indus Sarasvati Research Centre, 20/7 Warren Road,
 Mylapore, Madras 600004. Tel. 91-44-4936288; Fax. 91-44-4996380
- 
-
-
-
-
-

@@ -1,11 +1,5 @@
-From w.behr at em.uni-frankfurt.d400.de  Wed Mar  5 17:59:34 1997
-From: w.behr at em.uni-frankfurt.d400.de (Wolfgang Behr)
-Date: Wed, 05 Mar 97 18:59:34 +0100
-Subject: Query on var.nabheda
-Message-ID: <161227028751.23782.12870523449730423325.generated@prod2.harmonylists.io>
-
+Query on var.nabheda
 An outsider's query to all the vyAkara.na-wallahs out there ----
-
 One of the most important sources for the phonological
 reconstruction of Old and Middle Chinese are the so-called
 "_fan3qie4_-spellings", found fur each Chinese character
@@ -15,9 +9,7 @@ possibly dating back to the first century CE, splits up the target
 syllable to be "spelled" into onset and rhyme, which are then
 represented by seperate characters (=syllables) in the following
 fashion (T=lexical tone):
-        
      C1-V2-C3+T ---> C1(-anyV-anyC)-(anyC-)V2-C3+T
-
         A syllable like wang2 "king" could thus be rewritten as by
 any of the disyllabic combinations of the type _w(oT)-(l)ang2_,
 _w(engT)-(k)ang2_, _w(aiT)-(f)ang2_ etc. Since the the medi-
@@ -69,27 +61,9 @@ members of this list is:
                *Var.na-bheda-vidhi*, and if so which library holds it?
         (d)   Have there been similar techiques of "syllable dimidation"
                around in ancient India, and if so, how did they work?
-
 Any pointers & comments will be highly appreciated. Thanks & cheers,
 Wolfgang
-
-
-
-        
-
-        
-
-
-        
-
-----------------------------------------------------------------------
 Wolfgang Behr <w.behr at em.uni-frankfurt.d400.de>
 Sinologie, J.W. Goethe-Universitaet, Dantestr.4-6,
 P.O.B. 111 932, D-60054 Frankfurt/Main, Germany
 Tel.: (o) +49-69-798-22852, Fax: +49-69-798-22873
-----------------------------------------------------------------------
-
-
-
-
-

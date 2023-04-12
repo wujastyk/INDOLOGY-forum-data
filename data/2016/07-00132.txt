@@ -1,31 +1,13 @@
-From m.gluckman at anu.edu.au  Sun Jul 17 19:48:18 2016
-From: m.gluckman at anu.edu.au (Martin Gluckman)
-Date: Mon, 18 Jul 16 01:18:18 +0530
-Subject: [INDOLOGY]  Unicode Devanagari on Mac
-Message-ID: <CA+wUuzMVBs0dexr45sGp2KwtUCKWfEUuZt0ZSYnqvAhzeVjiKA@mail.gmail.com>
-
+[INDOLOGY]  Unicode Devanagari on Mac
 Dear Friends,
-
 I have developed a software to type IAST/Devan?gar? on a Mac. The software
 happens to also support Unicode Br?hm? output (currently well supported in
 Pages) and also limited support for typing Vedic accents (to be expanded in
 a future version).
-
 I am happy to share the beta with Indology and would appreciate feedbacks
 in case you try it out.
-
 You can download the latest beta here:
-
 https://docs.google.com/a/vedicsociety.org/forms/d/e/1FAIpQLSfFVVnkzDpLv0i1gqQzLfI0PzuUiHbtvIlQwjKL5zXmZXnEcA/viewform
-
 The final version will be ready in <4 weeks.
-
 Kindest Wishes,
-
 Martin Gluckman
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160718/af4ec21e/attachment.htm>
-

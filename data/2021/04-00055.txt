@@ -1,90 +1,47 @@
-From dshevchenko at unm.edu  Mon Apr 19 08:46:07 2021
-From: dshevchenko at unm.edu (Dimitry Shevchenko)
-Date: Mon, 19 Apr 2021 08:46:07 +0000
-Subject: [INDOLOGY] 
+[INDOLOGY] 
  =?utf-8?q?The_story_of_Yaj=C3=B1adatta_and_the_mirror?=
  =?utf-8?b?IGluIHRoZSDFmsWrcmHhuYVnYW1hIFPFq3RyYQ==?=
-In-Reply-To: <DM6PR11MB4396DB8A8F00C0865F0858B3A1499@DM6PR11MB4396.namprd11.prod.outlook.com>
 References: <CY4PR0701MB36343F7CE5FBFA5932E6A155BE4A9@CY4PR0701MB3634.namprd07.prod.outlook.com>,
  <D5D6933A-CD9C-46A6-A5C6-467B7C7DD35C@gmail.com>,
  <DM6PR11MB4396DB8A8F00C0865F0858B3A1499@DM6PR11MB4396.namprd11.prod.outlook.com>
-Message-ID: <CY4PR0701MB36345CB4C7F5B06A99A84AD0BE499@CY4PR0701MB3634.namprd07.prod.outlook.com>
-
 Dear Matthew,
-
 Thank you so much for this reference! I'll look it up.
-
 Best wishes,
 Dimitry
-________________________________
-From: Matthew Kapstein <mkapstei at uchicago.edu>
 Sent: Monday, April 19, 2021 8:37 AM
-To: Dimitry Shevchenko <dshevchenko at unm.edu>; Dan Lusthaus <prajnapti at gmail.com>
-Cc: Indology <indology at list.indology.info>
-Subject: Re: [INDOLOGY] The story of Yaj?adatta and the mirror in the ??ra?gama S?tra
-
-
+Re: [INDOLOGY] The story of Yaj?adatta and the mirror in the ??ra?gama S?tra
   [EXTERNAL]
-
 Dear Dmitry
-
 The Stith Thompson Motif Index  of Folk Literature includes several references to the theme of falling
 in love with a reflection, best known in the west through the story of Narcissus. There are apparently Indian versions, though the reflection seems of be of the beloved, not of oneself. In any case, Thompson gives as reference Thompson and Balys, The Oral Tales of India (1976). You may wish to look there.
-
 gook luck with this interesting search!
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes, ?m?rite
 Ecole Pratique des Hautes Etudes, Paris
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Dan Lusthaus via INDOLOGY <indology at list.indology.info>
 Sent: Sunday, April 18, 2021 4:37 PM
-To: Dimitry Shevchenko <dshevchenko at unm.edu>
-Cc: Indology <indology at list.indology.info>
-Subject: Re: [INDOLOGY] The story of Yaj?adatta and the mirror in the ??ra?gama S?tra
-
+Re: [INDOLOGY] The story of Yaj?adatta and the mirror in the ??ra?gama S?tra
 Dear Dimitry,
-
 I would be surprised if this story appears in any Indian sources not only because this is the only Chinese translation of an Indian text in which it appears, but because it is used in a section of the ??ra?gama trying to defend a certain interpretation of the Awakening of Faith?s theories concerning how non-awakening could arise from original awakening ? and the Awakening of Faith is a well known Chinese apocryphal text pretending to be authored by A?vagho?a and supposedly translated by Param?rtha ? neither of which attributions are true.
-
 There are almost two hundred mentions of the story in native Chinese sources, all ultimately derived from this story in the apocryphal ??ra?gama s?tra. The story itself seems to draw on recognizable elements that one does find in Indian texts ? the image of cutting off the head of a headless person in MMK 7; the common analogy of m?na (conceit) as looking at one?s face in a mirror as a caution against attachment to the illusory nature of self-view, mistaking the reflected image (pratibimba) for the reality (bimba) found in Abhidharma and Yogacara texts, and so on. The ??ra?gama uses the story to argue that non-awakening has no cause or basis, conflating the baselessness of misconceptions and delusions with something non-causal, and thus defending Awakening of Faith by treating non-awakening as unreal and non-existent because it lacks a cause ? a somewhat confused argument that one would not expect to find in Indian sources. In East Asia the story nonetheless resonated, and is found echoed in many forms, as, for instance Linji (Jp, Rinzai) telling his students the following, while giving the story a ?happy? ending (Irmgard Shloegl?s translation):
 ?
-
 Venerable ones, time is precious! Yet you run about hither and thither, studying Zen, learning the Way, chasing names and phrases, seeking the Buddha and patriarchs and good teachers, full of arbitrary judgments. Do not commit such errors. Followers of the Way, you each have a father and mother. So what more do you seek? Turn round and look into yourselves. An old master said: ?Yajnadatta thought he had lost his head. When he ceased from his frantic looking for it, he had nothing further to  seek.?
-
 ?Followers of the Way, if you know that fundamentally there is nothing to seek, you have settled your affairs. But because you have little faith, you run about agitatedly, seeking your head which you think you have lost. You cannot stop yourselves.
 ?
-
 best wishes,
 Dan
-
-
 On Apr 18, 2021, at 7:35 AM, Dimitry Shevchenko via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
 Dear all,
-
 I have been asked on the possible source of a simile of Yaj?adatta falling in love with his own reflection in a mirror and going mad, mentioned in the ??ra?gama S?tra (???????), a Chinese Buddhist text, probably composed in Tang China, during the early eighth century CE:
  "Did you hear about Yajnadatta from Shravasti who on impulse one morning held a mirror to his face and fell in love with the head in the mirror? He gazed at the eyes and eyebrows but got angry because he could not see his own face. He decided he must be a mountain or river sprite, lost control, and ran madly about. What do you think? Why did this person set out on a mad cause for no reason?"
 Purna said,  "That person was insane. There's no other reason."
 Shurangama Sutra v4 pt1 (sfsu.edu)<http://online.sfsu.edu/rone/Buddhism/Buddhism/Shurangama/ss4pt1.htm>
 Has anybody encountered this story in other Indian or Chinese sources?
-
 Thank you in advance!
 Best regards,
 Dimitry
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210419/4ceaf3ec/attachment.htm>
-

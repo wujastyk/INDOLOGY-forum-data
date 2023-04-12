@@ -1,24 +1,14 @@
-From wujastyk at GMAIL.COM  Sat Jun 23 21:47:05 2012
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Sat, 23 Jun 12 23:47:05 +0200
-Subject: The Wellcome Library's              Ni=?UTF-8?Q?=C5=9Bv=C4=81satattvasa=E1=B9=83hit=C4=81?= man              uscript,
-Message-ID: <161227096605.23782.16739692476842860508.generated@prod2.harmonylists.io>
-
+The Wellcome Library's              Ni=?UTF-8?Q?=C5=9Bv=C4=81satattvasa=E1=B9=83hit=C4=81?= man              uscript,
 *Executive summary
-
 *The correct library reference for this manuscript is
-
    - "*Wellcome MS Indic ? 41*"
    or
    - "Wellcome MS Indic delta 41"
-
 *Discussion*
-
 In 1985, I published the first public description of this manuscript (Wujastyk
 1985 <http://library.wellcome.ac.uk/assets/wtx063096.pdf>, pp.151-52,
 serial no.622).  I attach a PDF of these pages to this email.  The
 manuscript was stated to be "*shelved at **? 41*."
-
 This is a location on the shelves of the Wellcome Library stack, where the
 staff know to find the manuscript.  The Indic manuscripts in the Wellcome
 Library are shelved following the "abcd" size-related shelving scheme of
@@ -27,7 +17,6 @@ ones at "b" and so on.  "?" means quite large manuscripts.  The Greek, not
 Latin, letters were used for the Wellcome Indic manuscripts to distinguish
 them clearly from numerous earlier confused and overlapping identification
 schemes.shelved at ? 41
-
 One of these earlier schemes was derived from a partial list created in
 1954 by the eminent Prof. V. Raghavan of Madras.  He visited the library
 for about three months that year, and went rapidly through many bundles of
@@ -45,7 +34,6 @@ interventions caused many further confusions and losses of identity, so
 that by 1977 the Raghavan list in many cases no longer corresponded to the
 physically identifiable manuscripts on the shelves and in various boxes and
 cupboards.
-
 Unfortunately, several "Raghavan numbers" got into the public domain,
 because scholars including Agehananda Bharati visited the library and read
 the Raghavan list.  David Pingree also published numerous "Raghavan
@@ -53,18 +41,15 @@ numbers" in his *Census of the Exact Sciences* and his *Astral Literature.
 *At least in Pingree's case, he actually saw and described the manuscripts
 (or photos) that he referred to, so they are guaranteed to exist, even if
 finding them physically may be hard.
-
 To sum up, the Wellcome "Greek" shelf numbers are the current, public,
 accurate identifiers for items in the Wellcome Library's Indic
 collections.  If you cite a Greek shelfmark, the staff can look it up in a
 list, they can physically find the manuscript on the shelf, they can query
 a database to see if it has been microfilmed or digitized, etc. etc.
 That's its real identifier.
-
 The Raghavan numbers are strongly deprecated.  They have never been
 formally published by the library, and in many cases they are not reliable
 in any case.
-
 Raghavan gave the number I.33 to the *Ni?v?satattvasa?hit?* manuscript that
 is now called "Wellcome MS Indic delta 41".  I am sorry to see that this
 obsolete and unpublished Raghavan number keeps popping up in publications,
@@ -78,11 +63,8 @@ library will be able to match it to a physical object.  If the reader does
 ever get the manuscript, it is quite possible that the staff have had to
 consult me privately to find out what was being asked for, since there has
 been no Sanskritist on the staff since I left in 2002.
-
 Best,
 Dominik
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
 ,
@@ -96,16 +78,3 @@ St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
 Project <http://www.istb.univie.ac.at/caraka/> | home
 page<http://www.academia.edu/DominikWujastyk>|
 PGP <http://wujastyk.net/pgp.html>
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120623/69d65f4d/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: NTS.pdf
-Type: application/pdf
-Size: 53596 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20120623/69d65f4d/attachment.pdf>
-

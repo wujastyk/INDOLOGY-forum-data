@@ -1,21 +1,5 @@
-From vasubandhu at EARTHLINK.NET  Thu Feb  4 00:44:02 2010
-From: vasubandhu at EARTHLINK.NET (Dan Lusthaus)
-Date: Wed, 03 Feb 10 19:44:02 -0500
-Subject: Abhidharmakosha in e-format
-Message-ID: <161227088401.23782.15795938513278967262.generated@prod2.harmonylists.io>
-
-> Actually, it all appears to be there:
->
-> http://www.mldc.cn/sanskritweb/etext.htm
->
-> Paul Hackett
-
+Abhidharmakosha in e-format
 Thanks, Paul. You found the index page. Again, even that has to be changed 
 to utf-8 for the Chinese to appear properly.
-
 cheers,
 Dan 
-
-
-
-

@@ -1,23 +1,10 @@
-From Periannan.Chandrasekaran at DELTA-AIR.COM  Thu Aug 26 21:49:16 1999
-From: Periannan.Chandrasekaran at DELTA-AIR.COM (Chandrasekaran, Periannan)
-Date: Thu, 26 Aug 99 17:49:16 -0400
-Subject: Skt cognates for Tamil word for "horse"
-Message-ID: <161227051667.23782.13283688764873465053.generated@prod2.harmonylists.io>
-
+Skt cognates for Tamil word for "horse"
 Could someone kindly provide the Skt. cognates for the following Tamil words
 for "horse" and comment if the words listed under other columns are correct
 too?
-
 Tamil         Greek                 Latin                      Skt
-----------------------------------------------------------------------------
 ivuLi         ile, hippos                                      ?
 puravi        polia                 ferrus, burricus        pelin(?)
 kutirai       kottos                                       kuruTin(?)
-
-
 Regards
 Chandra
-
-
-
-

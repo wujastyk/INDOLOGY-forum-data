@@ -1,29 +1,18 @@
-From D.H.Killingley at NEWCASTLE.AC.UK  Mon Feb  8 10:27:30 1999
-From: D.H.Killingley at NEWCASTLE.AC.UK (Dermot Killingley)
-Date: Mon, 08 Feb 99 10:27:30 +0000
-Subject: Word splitting & hyphenation conventions in roman transliter
-In-Reply-To: <19990207183346.5755.qmail@hotmail.com>
-Message-ID: <161227046047.23782.9159522127666954669.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman transliter
 Dear colleagues,
-
 I too am interested in word division in romanized Sanskrit, so I
 welcome Harry Spier's query. My practice is:
-
 (1). Mark word division with a space wherever possible, i.e. wherever
 two vowels are not run together in sandhi. E.g. tad avadat; tad
 vadati; so 'vadat; tac chrutam; but: tenoktam; tadAvadat; tadarSiH.
-
 (2). Within compounds, mark division between stems wherever possible,
 i.e on the same condition as above. E.g. vRddha-vyAdhaH; mat-putraH;
 mac-chiSyaH; but mahendraH; kSIraudanam; maharSiH.
-
 (2a). I sometimes leave a compound undivided if it is not an ad hoc
 phrase but an institutionalized unit with a meaning of its own
 (there's a grey area here). E.g. tatpuruSaH if it means 'endocentric
 compound' (but tat-puruSaH if it means 'his man'); hRcchayaH 'love'
 (but hRc-chokaH 'pain in the heart').
-
 (1) is common practice, except that many writers don't put a space
 before an avagraha (e.g. so'vadat). Nevertheless there is an
 alternative practice of not putting spaces where they would not be
@@ -32,9 +21,7 @@ sometimes said to be because of sandhi, but it seems rather to
 result from reverence for the supposed principles of Devanagari,
 disregarding the fact that putting spaces in Devanagari at all is a
 relatively modern practice.
-
 (2) is less common, but by no means rare.
-
 (3). The practice in Devanagari is again to mark word division with
 a space wherever possible, except that what is possible in roman may
 not be possible in Devanagari. So word division is marked wherever
@@ -43,7 +30,6 @@ it ends with a consonant. This is why, as Spier notes, the
 spacing in a romanized text does not match the spacing in a
 Devanagari text. Again, many books don't put a space before avagraha,
 but I don't see why not.
-
 It should be noted that spacing, either in romanization or
 Devanagari, is a matter of editorial interpretation, not an integral
 part of the text. E.g. an editor who prints anAdi matparaM brahma in
@@ -52,7 +38,6 @@ anAdimat paraM brahma, but signalling his intention to construe it
 as 'beginningless brahman intent on me' (or something like that) and
 not 'beginningless supreme brahman' (the same applies in Devanagari,
 except that there would be no space in mat paraM).
-
 There is an old but interesting discussion by C. R. Lanman in
 J.Hertel, _The Panchatantra...of the Jain monk, Purnabhadra_,
 Cambridge Mass., Harvard University Press, 1908, pp. xix-xlviii.
@@ -60,8 +45,3 @@ Dr Dermot Killingley (Reader in Hindu Studies)
 Department of Religious Studies,
 University of Newcastle upon Tyne,
 Newcastle upon Tyne NE1 7RU
-Tel: (0191) 222 6730. Fax: (0191) 222 5185
-
-
-
-

@@ -1,9 +1,4 @@
-From michaels at relwi.unibe.ch  Mon Feb 19 11:39:46 1996
-From: michaels at relwi.unibe.ch (Axel Michaels)
-Date: Mon, 19 Feb 96 12:39:46 +0100
-Subject: numerical value of devanagari
-Message-ID: <161227022924.23782.7567688851868844107.generated@prod2.harmonylists.io>
-
+numerical value of devanagari
 Request: I am looking for detailed information on the numerical value 
 of devanagari consonants. Bhaaskararaaya mentions a few examples such as pa 
 meaning the number one and ra meaning the number two (pakaara 
@@ -16,9 +11,3 @@ concerning the numerical value of all devanagari consonants (and vowels) -
 from Tantric sources and from Varuci's treatment of the topic.
 Thank you very much,
 Annette Wilke, c/o Inst. f. Religionswissenschaft Bern, Prof. Michaels
-
-
-
-
-
-

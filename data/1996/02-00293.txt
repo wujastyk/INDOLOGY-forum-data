@@ -1,11 +1,6 @@
->?From P.Friedlander at wellcome.ac.uk 27 96 Feb EST 14:03:00
-Date: 27 Feb 96 14:03:00 EST
-From: P.Friedlander at wellcome.ac.uk
-Subject: re: UniCode
-Reply-To: P.Friedlander at wellcome.ac.uk
+re: UniCode
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 I am wondering about using UniCode compliant software for 
 Hindi/Sanskrit/Panjabi.
 Does anyone have experience of using Gamma's UniType software for these 
@@ -19,8 +14,3 @@ Wellcome Institute for the History of Medicine
 London NW1 2BN
 England
 e-mail: P.Friedlander at wellcome.ac.uk
-
-
-
-
-

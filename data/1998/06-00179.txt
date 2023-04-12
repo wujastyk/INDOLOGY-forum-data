@@ -1,41 +1,13 @@
-From stone_catend at COMPUSERVE.COM  Mon Jun 15 15:23:52 1998
-From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
-Date: Mon, 15 Jun 98 11:23:52 -0400
-Subject: Draft transliteration scheme on the Web
-Message-ID: <161227039826.23782.454690604765701713.generated@prod2.harmonylists.io>
-
+Draft transliteration scheme on the Web
 On June 13, 1998, S Palaniappan wrote:
-
->My preference would be to stick with the transliteration scheme of the 
->Tamil Lexicon (which uses l_macr-b) for the following reasons.
->
-> . . .
->
->2. Having two sub dots with r may lead to confusion between this letter 
->and the r_macr-b used in Tamil and Malayalam. In many books printed 
->in India when the printing is not very good the two dots merge into a 
->macron. I have encountered this many times.
-
 This is an important point.   And confusion is possible in any country when
 small type is used.
-
->3. Using "z" seems to be very arbitrary.
->
->So, my vote is for l_macr-b.
-
 A problem with this is that macr-b is otherwise used only for alveolar
 consonants, and is useful as an indicator for them. 
-
 Tony Stone
-
 Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
 Indic scripts.  
 Email: stone_catend at compuserve.com             Thinking aloud on
 transliteration:
-  
 http://ourworld.compuserve.com/homepages/stone_catend/translit.htmerve.com/
 homepages/stone_catend/translit.htm
-
-
-
-

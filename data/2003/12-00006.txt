@@ -1,30 +1,11 @@
-From ucgadkw at UCL.AC.UK  Tue Dec  2 15:47:14 2003
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 02 Dec 03 15:47:14 +0000
-Subject: Medical question: Awareness of genetic damage
-In-Reply-To: <p05111a0ebbf134f045ba@[169.232.229.16]>
-Message-ID: <161227073549.23782.1079890462531927247.generated@prod2.harmonylists.io>
-
+Medical question: Awareness of genetic damage
 On Mon, 1 Dec 2003, Jonathan Silk wrote:
-
-> What I am specifically wondering about is this: is there any
-> indication that when ancient Indian people saw children born from
-> close relatives, and the children suffered from visible genetic
-> damage, they attributed that damage to their parentage, rather than
-> for instance attributing it simply to karma? (Of course, I know they
-> didn't attribute it to genes per se...)
-
-
 Good question!  One of the standard categories of disease causation in
 ayurveda is kulajaroga.  But I think your starting point might be the
 passage in Carakasamhita's Sarirasthana, chapter 3, on the formation of
 the fetus and on hereditary diseases.  At verse 15, the text says:
-
-
----------------------------------------------------------------------------
 \subsection{Bharadv\={a}ja still disagrees}
 % 15
-
 Bharadv\={a}ja said, `If the embryo does develop out of the combination of
 these various factors which go to make an embryo, how does it cohere?
 And if it does cohere, how does the embryo, which is born out of a
@@ -33,10 +14,7 @@ from a human.  If this is so, the argument must be that it is born in the
 form of a human because a human arises from a human, just as a cow arises
 from a cow, and a horse from a horse.  In this case, the original
 statement that the embryo arises from a combination is illogical.'
-
-
 \subsubsection{The problem of inherited deficiencies}
-
 `And if a human arises from a human, why do those born from stupid, blind,
 crippled, dumb, dwarfish, stammering, freckled, insane, leprous, or
 scabrous people not resemble their parents?  Perhaps the idea is that the
@@ -45,31 +23,20 @@ hearing, scent by its own organ of smell, taste by its own organ of taste,
 touch by its own organ of touch, ideas by means of its own organ of
 understanding?  And that for this reason those born of people who are
 stupid etc., do not resemble their parents?
-
 `But in this case too, there would be a problem with contradicting the
 earlier proposition.  For if things were as described, then when the
 senses were present, the self would have cognition, but when they were not
 present, it would not have any cognition.  And when both situations
 obtained, the self would be both have a cognition and not have one, and
 would be mutable.
-
 `And if it were the case that it is the act of seeing, etc., which enables
 the self to have knowledge of objects, then someone with no senses would
 have no cognition because of the absence of vision, etc.  Not having any
 cognition, it would therefore not be a cause.  Not being a cause, it could
 not be a self.  Thus, this claim would be mere verbal construction,
 without referent.'
-
 So said Bharadv\={a}ja.
-
----------------------------------------------------------------------------
-
 There's more in that section. V. interesting.  Translated in my Roots
 book.
-
 Best,
 Dominik
-
-
-
-

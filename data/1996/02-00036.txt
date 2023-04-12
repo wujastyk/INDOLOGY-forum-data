@@ -1,9 +1,4 @@
-From vidynath at math.ohio-state.edu  Mon Feb  5 15:59:30 1996
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Mon, 05 Feb 96 10:59:30 -0500
-Subject: Sandhi conventions
-Message-ID: <161227022581.23782.1120928308261262065.generated@prod2.harmonylists.io>
-
+Sandhi conventions
 When standardzing sandhi conventions, it may be worthwhile to record,
 perhaps even follow the main manuscripts, when one of the several
 options allowed by Panini/vartikakara are generally preferred.
@@ -11,7 +6,6 @@ It seems that "deferring to common practice", with the attendant
 elimination of indications about dialectical variations would lead
 to wrong impression by those who consider the printed editions to
 be the only "scientific" evidence for historical purposes.
-
 For example, Keith records that many manuscripts of Aitreya Aranyaka
 do not convert h to a stop after a stop in external sandhi: ie.,
 tat+hi becomes tad{}hi, not taddhi. Now, Panini calls the
@@ -20,7 +14,6 @@ be made compulsory (I am not sure what Pratishakhyas say. For Vedic
 works, that should take precedence). Of course, the standard transliteration
 scheme is incapable of handling this: But that is the fault of the
 transliteration scheme.
-
 I have to confess that I have an axe to grind. I grew up saying
 brahma.rSi (with vocalic r). I still find brahmarSi grating.
 Of course, both are accetable in Indian tradition. However, I would
@@ -28,8 +21,3 @@ be upset if some "scientific" grammarian were to argue that
 brahma.rSi is >always< wrong, and set about correcting such
 "spelling errors".
 Nath Rao (nathrao+ at osu.edu)		614-366-9341
-
-
-
-
-

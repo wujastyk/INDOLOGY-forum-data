@@ -1,10 +1,4 @@
-From dnreigle at gmail.com  Tue Sep 25 03:55:45 2018
-From: dnreigle at gmail.com (David and Nancy Reigle)
-Date: Mon, 24 Sep 18 21:55:45 -0600
-Subject: =?utf-8?Q?Re:_[INDOLOGY]=09Why_there_is_no_Padap=C4=81=E1=B9=ADha_for_this_mantra?=
-In-Reply-To: <CAB3-dzeQNdwb0yNZ8JmP5p7b4RNti4Qr9qiJLREGzx3zEjNwbg@mail.gmail.com>
-Message-ID: <CAPAZekZLRvW-ziGWw0eLEaY6wwX3rvtQ4B3GAko-t95ErUSgJQ@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]=09Why_there_is_no_Padap=C4=81=E1=B9=ADha_for_this_mantra?=
 The other two recensions of the ?gveda sa?hit? that are now available in
 print have bearing on this question, the ??val?yana ??kh? and the ???kh?yana
 ??kh?. Both of them give a padap??ha for verse 7.59.12. What we do not know
@@ -12,7 +6,6 @@ is whether the padap??ha for this verse was actually found in the 16
 manuscripts of the ??val?yana padap??ha used by B. B. Chaubey for his
 edition, or in the 17 manuscripts of the ???kh?yana padap??ha used by Amal
 Dhari Singh Gautam for his edition.
-
 B. B. Chaubey says (p. 57) that he himself supplied the padap??ha for the
 212 verses of the ??val?yana ??kh? that are not found in the ??kala ??kh?,
 since the ??val?yana padap??ha manuscripts did not give them. He does not
@@ -22,92 +15,8 @@ Amal Dhari Singh Gautam does not say whether he himself supplied the
 padap??ha for any verses in his edition of the ???kh?yana ??kh?. We may
 recall that Vishva Bandhu's edition of the ?gveda quietly supplies the
 padap??ha for the six verses of the ??kala ??kh? that did not have it.
-
 Best regards,
-
 David Reigle
 Colorado, U.S.A.
-
 On Sun, Sep 23, 2018 at 7:34 AM Madhav Deshpande via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Thanks, Johannes.  Best.
->
-> Madhav
->
-> Madhav M. Deshpande
-> Professor Emeritus
-> Sanskrit and Linguistics
-> University of Michigan
-> [Residence: Campbell, California]
->
->
-> On Sat, Sep 22, 2018 at 10:23 PM Johannes Bronkhorst <
-> johannes.bronkhorst at unil.ch> wrote:
->
->> The following article mentions the six verses of the ?gveda that have no
->> Padap??ha (on p. 44):
->>
->> Kashikar, C. G. (1951): "The problem of the ga?antas in the
->> ?gveda-Padap??ha." *Proceedings of the All-India Oriental Conference* 13
->> (1946), 39-46.
->>
->> Commenting on this, I wrote in 1981 (p. 87): "This is most easily
->> explained by the assumption that these verses were not considered part of
->> the ?gveda by ??kalya. It further shows that the final redactors did not
->> hesitate to deviate from the composer of the Padap??ha in deciding what
->> did, and what did not, belong to the ?gveda. (It is interesting to note
->> that at least one hymn of the ?gveda (10.95) is known to have had fewer
->> verses than at present at as late a date as that of the ?atapatha Br?hma?a.
->> See Oldenberg, 1912: 303.)"
->>
->> "The orthoepic diaskeuasis of the ?gveda and the date of P??ini." *Indo-Iranian
->> Journal* 23 (1981), pp. 83-95.
->>
->> http://my.unil.ch/serval/document/BIB_F9751BB34E62.pdf
->>
->> with a reference to:
->>
->> Oldenberg, Hermann (1912): *?gveda. Textkritische und exegetische Noten*.
->> Siebentes bis Zehntes Buch. Berlin: Weidmannsche Buchhandlung.
->>
->> Johannes Bronkhorst
->>
->> On 23 Sep 2018, at 06:05, Madhav Deshpande via INDOLOGY <
->> indology at list.indology.info> wrote:
->>
->> RV 7.59.12 ?????????? ?????? ??????? ?????????????? ???????????
->> ??????????????????????? ?????????? does not have a Padap??ha.  This is not
->> a repeated mantra in the RV Sa?hit?.  What might be the reason why this
->> mantra does not have a Padap??ha?  Is it likely that there were a few
->> post-Padap??ha additions to the RV Sa?hit??  Someone asked this question on
->> another discussion group.
->>
->> Madhav M. Deshpande
->> Professor Emeritus
->> Sanskrit and Linguistics
->> University of Michigan
->> [Residence: Campbell, California]
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->>
->> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180924/1af7ea32/attachment.htm>
-

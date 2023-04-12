@@ -1,41 +1,24 @@
-From xadxura at GMAIL.COM  Fri Jun  5 03:37:38 2009
-From: xadxura at GMAIL.COM (Andrew Glass)
-Date: Thu, 04 Jun 09 20:37:38 -0700
-Subject: here,              here (was: Re: What Devanagari text would you most like as an              e-text_
-In-Reply-To: <988977.96175.qm@web8601.mail.in.yahoo.com>
-Message-ID: <161227086686.23782.18000342001765280978.generated@prod2.harmonylists.io>
-
+here,              here (was: Re: What Devanagari text would you most like as an              e-text_
 Dear Dipak,
-
 Electronic dictionaries provide far more options in terms of search
 capability than do printed volumes. A couple of examples:
-
 It is possible to search an electronic version of MW or BHSD for entries
 ending in either uttara or ottara with a single search, "*(u|o)ttara". Such
 a search of the printed work would require leafing through the whole volume.
 For those of us working on damaged manuscripts such a facility is extremely
 helpful.
-
 When working with Gandhari it is helpful to be able to search for OIA
 equivalents of particular clusters to see what the reflexes are in known
 Gandhari cognates. Searching for *(a|?|i|?|u|?|r?|e|o)hy* gives the results
 of the cluster hy after a vowel. Turner's CDIAL required a separate volume
 of Phonetic correspondences to provide this kind of inquiry.
-
 Then there is the matter of saving time. If the electronic dictionaries are
 coordinated, one could search MW and BHSD at the same time. Since Edgerton's
 dictionary was intended to be complement to MW words may be found in one
 place or the other or both (or neither). Instant access may not appeal to
 everyone but there are times when it is very convenient.
-
 To be sure, it is not about the price of the dictionaries, Edgerton's work
 has long been affordable, it is all about accessing this and other works in
 new ways.
-
 Best wishes,
-
 Andrew
-
-
-
-

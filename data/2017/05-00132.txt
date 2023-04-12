@@ -1,11 +1,5 @@
-From mmdesh at umich.edu  Wed May 17 10:51:02 2017
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Wed, 17 May 17 06:51:02 -0400
-Subject: [INDOLOGY] Devanagari - QWERTY for Mac
-Message-ID: <CAB3-dzf3W7zToqyx6C5r3a3qaK41g6+BB0ReUdid8M2qiRU_tQ@mail.gmail.com>
-
+[INDOLOGY] Devanagari - QWERTY for Mac
 Dear Colleagues,
-
      I found a way of extracting the Devanagari - QWERTY.keylayout from
 Apple's .bundle, and have been able to modify it with Ukelele to add
 several characters that are missing in it.  Now I am able to enter: ?, ?, ?
@@ -14,11 +8,4 @@ Svarita and Anud?tta markings.  However, the Anud?tta marking overprints
 the signs like ?, ? and ?, and I have not yet found a solution of how to
 get the Anud?tta sign below these.  Any suggestions?
      Will keep on looking for solutions for these.
-
 Madhav Deshpande
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170517/068c1970/attachment.htm>
-

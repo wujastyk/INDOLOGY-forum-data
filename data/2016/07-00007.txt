@@ -1,25 +1,15 @@
-From hspier.muktabodha at gmail.com  Sun Jul  3 01:58:48 2016
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Sat, 02 Jul 16 21:58:48 -0400
-Subject: [INDOLOGY] Bibliographic data for Muktabodha digital library etexts
-Message-ID: <CAPW7aQEEBdDuRt0s9ZBjUva26etmcJKZCKPZW9rBXvqG2o+u8A@mail.gmail.com>
-
+[INDOLOGY] Bibliographic data for Muktabodha digital library etexts
 Dear list members,
-
 I was requested to include some bibliographic information with the new
 etext announcements of Muktabodha.  In the future I'll do that.
 Bibliographic information is included with each etext both at the top of
 the transliterated etext (not at the top of the devanagari pdf).  It also
 is included on the website for each text when you click on its title.
-
 The cursory bibliographic information for the last announcement of new
 etexts is:
 (Note: KSTS stands for Kashmir Series of Texts and Studies)
-
 vij??nabhairava with commentary called Kaumadi by ?nandabha??? KSTS vol 9
-
 ?ivas?travimar?in? KSTS vol. 1
-
 ?ivastotr?val? Chowkambha Sanskrit Series 1902 editor Rai Pramadasa Mitra
 Bahadurpratyabhij??h?daya KSTS vol. 3
 spandak?rik? with viv?t? by r?maka??ha KSTS vol. 6
@@ -34,13 +24,6 @@ ananta?ayanasa?sk?tagranth?vali 1936
 par?nandas?tra a tantric text written in the format of a vedic kalpas?tra,
 , Editor : Swami trivikrama t?rtha , Baroda Oriental Institute 1931
 para?ambhumahimnastava Publisher : N. Rajam & Co.. 1936 Madras
-
 Thank you,
 Harry Spier
 Muktabodha
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160702/fc4a7d39/attachment.htm>
-

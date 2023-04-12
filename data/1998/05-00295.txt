@@ -1,45 +1,11 @@
-From msdbaum at MSCC.HUJI.AC.IL  Wed May 13 16:35:22 1998
-From: msdbaum at MSCC.HUJI.AC.IL (Daniel Baum)
-Date: Wed, 13 May 98 19:35:22 +0300
-Subject: Proposed changes to Velthuis Devanagari fonts.
-Message-ID: <161227038669.23782.8635270322167951285.generated@prod2.harmonylists.io>
-
+Proposed changes to Velthuis Devanagari fonts.
 Hi,
-
 While on the subject of changes to the Velthuis Devanagari package, is there
 any possibility of adding Vedic accents to it? This seems to be the only
 thing missing from an otherwise perfect package. Alternatively, is there any
 other package that can do it? I know it can be fudged into Itrans, but that
 seems to be missing other stuff.
-
 Daniel Baum
 msdbaum at mscc.huji.ac.il
 Home Page http://www.angelfire.com/il/dbaum
-Tel: ++972-2-583-6634; Mob. ++972-51-972-829
-
------Original Message-----
-From: Anshuman Pandey <apandey at U.WASHINGTON.EDU>
-To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
-Date: ??? ?????, ??? 13, 1998 04:17
-Subject: Proposed changes to Velthuis Devanagari fonts.
-
-
->Hello,
->
->There is a proposal to change the glyphs of three conjunct characters in
->the Devanagari Metafont designed by Frans Velthuis. These these glyphs are
->"h+n", "h+l", and "h+v". The current and proposed glyphs, as well as
->further details, are given in the file available at:
->
->        http://weber.u.washington.edu/~apandey/dvng-chg.ps
->
->I am requesting that users of Mr. Velthuis's package please review the
->proposal and respond with comments.
->
->Regards,
->Anshuman Pandey
->
-
-
-
-
+Proposed changes to Velthuis Devanagari fonts.

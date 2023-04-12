@@ -1,18 +1,7 @@
-From madhav.deshpande at EDU.UMICH.CC.UM  Wed Jul 22 14:21:18 1992
-From: madhav.deshpande at EDU.UMICH.CC.UM (madhav.deshpande at EDU.UMICH.CC.UM)
-Date: Wed, 22 Jul 92 10:21:18 -0400
-Subject: Madhushree and Manjushree Fonts
-Message-ID: <161227015450.23782.3412456603272630360.generated@prod2.harmonylists.io>
-
+Madhushree and Manjushree Fonts
         Stephen Miller has made a valuable suggestion.  It is possible to
-
 keep the CSX coding and yet develop a different keyboard driver.  I was
 trying to keep my work to a minimum.  However, if I can develop a keyboard
 driver to my satisfaction, I will certainly rearrange the characters in my
 font to conform to CSX.  Thanks, Stephen.
         Madhav Deshpande
-
-
-
-
-

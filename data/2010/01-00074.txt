@@ -1,98 +1,26 @@
-From ucgadkw at UCL.AC.UK  Thu Jan 14 11:29:45 2010
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 14 Jan 10 11:29:45 +0000
-Subject: wget (was: Re: Abhandlungen der K=?utf-8?Q?=C3=B6nigliche?= n              Akademie der  Wissensch aften zu Berli)
-In-Reply-To: <4B4CE59A.8010502@univie.ac.at>
-Message-ID: <161227088218.23782.15369206476199352646.generated@prod2.harmonylists.io>
-
+wget (was: Re: Abhandlungen der K=?utf-8?Q?=C3=B6nigliche?= n              Akademie der  Wissensch aften zu Berli)
 Birgit is quite right about the value of wget.  It's an amazing little
 tool.  I use it routinely to get books from the Digital Library of India,
 where texts are presented only as individual pages.
-
 Until about a year ago, one could use the "-r" recursion setting of wget
 to fetch a whole directory-full of files in one go.  Then the DLI disabled
 that feature.  So now one has to issue a wget command for each page.
 But it's easy to do with a small bash script like this:
-
----------- cut here -----------
 #!/bin/sh
-
 # fetch Kapadia_Desc.Cat.Govt.Colls.MSS.BORI-Jaina
 # Literature and Philosophy XIX.1 Svetambara Works_1957
-
 for i in {00000001..397..1}
 	do
 		wget http://www.new.dli.ernet.in/data/upload/0048/903/PTIFF/$i.tif
 	done
----------- cut here -----------
-
 The magic number "371" is the number of pages in the book, which DLI tells
 you.  In Firefox, you can find out the directory in which a book's TIFF
 files live by loading a page of the book and then hitting Tools/Page Info
 and selecting "media".
-
 Bash is the default shell in Linux; it's also available to Windows users
 by installing the excellent Cygwin.
-
 Best,
 Dominik
-
-
-
 On Tue, 12 Jan 2010, Birgit Kellner wrote:
-
-> Jonathan Silk wrote:
-> > I have a feeling I may be an idiot (well, I'm sure in other respects, but in
-> > this case...): I learn from Indologica that we can find online the
-> > *Abhandlungen
-> > der K?niglichen Akademie der Wissenschaften zu Berlin. *
-> >
-> > When I go, however, for example to
-> > http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige/index_html?band=07-abh/1844&seite:int=711,
-> > I can only get one page at a time; is there not a way to download an entire
-> > article?
-> >
-> > Thanks for your advice!  Jonathan
-> >
-> >
-> The interface unfortunately doesn't offer the possibility to download
-> several pages at once (as a PDF, for instance), no.
->
-> There is a workaround, but it's a bit time-consuming:
->
-> 1.) Click on a page image with the desired size ("large", for instance).
-> You see the JPG file and get a link like this in the browser's URL line:
->
-> http://bibliothek.bbaw.de/thumbnail?band=07-abh/1844&aufloesung:int=2&img=DAS_jpg/07-abh/1844/jpg-1000/00000002.jpg&seite:int=2
->
-> This means that the image file is stored in this directory:
->
-> http://bibliothek.bbaw.de/DAS_jpg/07-abh/1844/jpg-1000/
->
-> 2.) If you have the wonderful little tool wget installed, run
->
-> wget -r http://bibliothek.bbaw.de/DAS_jpg/07-abh/1844/jpg-1000/
->
-> from the command line.
->
-> This gets you all images for the volume in question to a local folder.
-> You can then create a PDF file with these images (even run OCR on them
-> before), with, for instance Adobe Acrobat Pro (on Windows); I gather on
-> a recent Mac OS, there should already be tools available in the
-> operating system for the job.
->
-> I trust the real geeks on the list can provide further advice :-)
->
-> Best,
->
-> b
->
-
--- 
---
 After nearly 25 years, I'm phasing out this UCL email account.
 Please switch over to using the email address wujastyk at gmail.com
-
-
-
-

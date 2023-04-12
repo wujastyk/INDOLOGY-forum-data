@@ -1,38 +1,4 @@
-From marie-genevieve.guesdon at BNF.FR  Tue Nov 25 13:33:34 1997
-From: marie-genevieve.guesdon at BNF.FR (Marie Genevieve Guesdon)
-Date: Tue, 25 Nov 97 14:33:34 +0100
-Subject: [ADMIN] new listserv options
-Message-ID: <161227033969.23782.13450838509458351004.generated@prod2.harmonylists.io>
-
->Return-Path: <owner-indology at LISTSERV.LIV.AC.UK>
->X-Vms-To: IN%"indology at liverpool.ac.uk"
->X-Vms-Cc: jhouben
->Date:         Tue, 16 Sep 1997 09:23:14 +0100
->Reply-To: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
->Sender: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
->From: "Jan E.M. Houben" <JHOUBEN at RULLET.LEIDENUNIV.NL>
->Subject:      Re: [ADMIN] new listserv options
->Comments: To: indology at liverpool.ac.uk
->To: INDOLOGY at LISTSERV.LIV.AC.UK
->
->On Mon, 15 Sep 1997 11:04:35 +0100 Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
->
->>>A particularly subversive new feature (could
->be very tempting sometimes) is that you can instruct listserv not to send
->you messages with a particular subject line.  In effect, you can censor
->your own subscription!
->
->And Trimble <gldnreef at PRIMENET.COM> wrote:
->
->>>Is "absurd nirukta" a possible subject heading?
->
->
->What one would also need is an option to exclude messages from certain senders.
->This would also stimulate the self-censoring faculty which most scholars are
->expected to have, since writing too many/long weird messages will at some point
->become counter-productive.
->
->
+[ADMIN] new listserv options
 Marie Genevieve GUESDON
 Bibliotheque nationale de France
 Departement des manuscrits, division orientale
@@ -41,7 +7,3 @@ Departement des manuscrits, division orientale
 tel 33-1-47 03 75 91
 Fax 33-1-47 03 76 65
 e-mail marie-genevieve.guesdon at bnf.fr
-
-
-
-

@@ -1,18 +1,7 @@
-From madhav.deshpande at um.cc.umich.edu  Mon Jun  6 14:26:18 1994
-From: madhav.deshpande at um.cc.umich.edu (madhav.deshpande at um.cc.umich.edu)
-Date: Mon, 06 Jun 94 10:26:18 -0400
-Subject: Vineet Jain's programs to analyse Sanskrit texts.
-Message-ID: <161227016875.23782.11856132250606886475.generated@prod2.harmonylists.io>
-
+Vineet Jain's programs to analyse Sanskrit texts.
      I would like to hear more about Vineet Jain's computer programs to
 do syntactic and semantic analysis.  What sort of input do these programs use
 and what sort of output do they provide?  Vineet, can you provide some more
 details? 
      Thanks.
                                                Madhav Deshpande
- 
-
-
-
-
-

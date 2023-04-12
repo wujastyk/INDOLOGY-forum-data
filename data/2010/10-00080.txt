@@ -1,25 +1,14 @@
-From wujastyk at GMAIL.COM  Wed Oct 20 19:19:07 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Wed, 20 Oct 10 21:19:07 +0200
-Subject: INDOLOGY and SARIT server migration
-Message-ID: <161227090581.23782.17189008966193449919.generated@prod2.harmonylists.io>
-
+INDOLOGY and SARIT server migration
 The server on which the INDOLOGY.info website is hosted (along with
 BOMBAY.indology.info, SARIT.indology.info, FAQ.indology.info, etc.) will be
 changing next week.  We're moving from a hosting company in California to
 one in Austria that offers some advantages.  The change will be made at 11am
 Central European Time, on Wednesday 27th October.
-
 If all goes well, the change will not be noticeable.  There will be no
 change in the public addresses (indology.info etc.).  The change has no
 connection with this INDOLOGY discussion forum (which continues to be
 generously hosted by Liverpool University).  However, it seems wise to give
 notice, in case of the unforeseen.
-
 Best,
 Dominik Wujastyk
 SARIT, INDOLOGY.
-
-
-
-

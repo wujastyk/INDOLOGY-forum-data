@@ -1,36 +1,19 @@
-From LubinT at wlu.edu  Thu Oct 30 20:01:42 2014
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Thu, 30 Oct 14 20:01:42 +0000
-Subject: [INDOLOGY] bulk downloading and assembly from DL
-Message-ID: <D078088E.F625%lubint@wlu.edu>
-
+[INDOLOGY] bulk downloading and assembly from DL
 Patrick, Michael, et al.
-
 You can find the ?ukran?tis?ra here:
 https://www.dropbox.com/s/nkxqqlmw2bj39bw/Shukranitisara.pdf?dl=0
-
 Since DLIDownloader has never once worked form (crashes every time), I have my own system of downloading pages from DLI and compiling them into a PDF.  I explained it in an email to someone once before so here it is:
-
 A good utility for extracting pages from DLI is DownThemAll, an add-on for Firefox.  After installing it, you need to navigate to the first page of a DLI on-line book, copy the URL, open DownThemAll manager and set up a download of multiple pages.  You do this by clicking the blue plus-sign button, then in the DOWNLOAD field, past your URL   One way to get this URL is to open the book in the DLI website's reader interface, which will produce a URL like this:
-
 http://www.new.dli.ernet.in/scripts/FullindexDefault.htm?path1=/rawdataupload1/upload/0132/045&first=1&last=268&barcode=99999990133383\
-
 Then remove "FullindexDefault.htm?path1=/" and the whole string beginning with the first &,
-
 and append: /PTIFF/[00000001:00000###].tif
 (in which the #'s are the last page of the document, 268 in the example above; there should be 8 digits in the string including the leading 0's; the last page number can be found in the original URL after the string "&last=".  )
-
 in this case, the result will be:
 http://www.new.dli.ernet.in/rawdataupload1/upload/0132/045/PTIFF/[00000001:00000268].tif
-
 (Note that some books have something else than "rawdataupload1" in that part of the URL.)
-
 Then select your folder and click START!   (leave the default renaming mask.)
-
 The individual tifs can then be combined in Acrobat into a single PDF.
-
 Tim
-
 Timothy Lubin
 Professor of Religion and Adjunct Professor of Law
 Washington and Lee University
@@ -38,9 +21,3 @@ Lexington, Virginia 24450
 ?
 http://home.wlu.edu/~lubint
 http://wlu.academia.edu/TimothyLubin
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20141030/bca215dd/attachment.htm>
-

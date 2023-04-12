@@ -1,32 +1,5 @@
-From jpo at UTS.CC.UTEXAS.EDU  Thu Feb  3 13:51:11 2005
-From: jpo at UTS.CC.UTEXAS.EDU (Patrick Olivelle)
-Date: Thu, 03 Feb 05 07:51:11 -0600
-Subject: diacritics
-In-Reply-To: <Pine.LNX.4.43.0502021936440.23712@hymn08.u.washington.edu>
-Message-ID: <161227075847.23782.9358395735291615619.generated@prod2.harmonylists.io>
-
+diacritics
 Andrew:
-
 I cannot enter the site without logging in, and I forget my password.
 And there is no provision for new member sign up?? Thanks.
-
 Patrick
-
-
-
->?To type diacritics and accents used for transliterations of Indic texts
->I would recommend you try using a unicode font and input system. There
->are plenty of free fonts and free keyboard utilities available. You
->should be able to find a solution that fits your needs provided you have
->a modern operating system (Windows 2000, XP; Mac OX X.2; Linux). You can
->find information on such things on various web pages including the Early
->Buddhist Manuscripts Project's website.
->
->http://depts.washington.edu/ebmp/software.php
->
->
->Andrew Glass
-
-
-
-

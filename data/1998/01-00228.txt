@@ -1,16 +1,9 @@
-From athr at LOC.GOV  Thu Jan 22 19:47:39 1998
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 22 Jan 98 14:47:39 -0500
-Subject: Hammir
-Message-ID: <161227035004.23782.3719462205255916136.generated@prod2.harmonylists.io>
-
+Hammir
 You don't mention the titles of the four Hindi poems so I did a larger search,
 not, moreover, excluding non-Hindi items.  The following titles appear on a
 search of OCLC Firstsearch.  The "Accession Number" is the same as an
 OCLC number, which would be needed by your interlibrary loan librarian.
 These are available at various libraries around the country.
-
-
 ACCESSION: 27433890
    AUTHOR: Rathore, L. S.
     TITLE: Maharana Hammir of Mewar :
@@ -24,8 +17,6 @@ PUBLISHER: Thar Bliss,
            On Hammir, Maharana of Mewar, 14th cent.
   SUBJECT: Hammir, -- Maharana of Mewar -- 14th cent. -- Poetry.
            Middle Ages -- Poetry.
-
-
 ACCESSION: 35740146
    AUTHOR: Thakkura, Narayana Visanaji.
     TITLE: Cakravarti Hammira, athava, Citodano punaruddhara
@@ -45,12 +36,6 @@ PUBLISHER: "Gujarati" Printinga Presamam,
   SUBJECT: Hammiradeva, -- Raja of Ranthambhor, -- d. 1301 -- Fiction.
 ALT TITLE: Cakravarti Hammira
            Citodano punaruddhara
-
-
-
-
-
-
 ACCESSION: 36587918
    AUTHOR: Jodharaja, fl. 1728.
     TITLE: Hammiraraso
@@ -68,8 +53,6 @@ PUBLISHER: Indiyana Presa,
            microfilm reel with other items ; 35 mm. (SAMP early 20th-century
            Indian books project ; item 17774)
     OTHER: Dasa, Syamasundara, 1875-1945.
-
-
 ACCESSION: 20225310
    AUTHOR: Amrtakalasa, 16th cent.
     TITLE: Hammiraprabandha.
@@ -81,8 +64,6 @@ ACCESSION: 20225310
   SUBJECT: Hamiradeva, -- Raja of Ranthambhor, -- d. 1301 -- Poetry.
     OTHER: Sandesara, Bhogilal Jayachandbhai, 1916?-
            Parekha, Somabhai Dhu.
-
-
 ACCESSION: 25656720
    AUTHOR: Jayasimha.
     TITLE: Hammira-mada-mardana of Jayasinha Suri
@@ -99,9 +80,6 @@ PUBLISHER: Central library,
            microfilm reel : negative ; 35 mm. (N8077)
 ALT TITLE: Hammiramadamardana
     OTHER: Dalal, C. D. (Chimanlal Dahyabhai), 1881?-1918.
-
-
-
 ACCESSION: 21934879
    AUTHOR: Jayasimha, disciple of Vira Suri, 13th cent.
     TITLE: Hammira-Mada-Mardana of Jayasinha Suri,
@@ -114,12 +92,8 @@ PUBLISHER: Central Library,
     NOTES: Title and author's name in Sanskrit at head of t.-p.
            Sanskrit text with Sanskrit paging; introd. in English.
     OTHER: Dalal, C. D. (Chimanlal Dahyabhai), 1881?-1918, ed.
-
-
 There are also these two editions of the Hammiraraso that are in the
 Library of Congress but for some reason don't appear on Firstsearch:
-
-
 sa62-132
 Jodharaja
 Hammiraraso. 1908.
@@ -127,18 +101,12 @@ PK2096 .J6 H3 1908 (Orien Hind)
 Das, Syam Sundar, Rai Bahadur, 1875-1945, ed.
 Nagari-Pracharini granthamala series, no. 13
 (Microfilm ed. of this above.)
-
-
 Jodharaja.
 Hammiraraso.  3.  2005 [1948]
 PK2096 .J6 H3 1948 <Orien Hind>
 Das, Syam Sundar, Rai Bahadur, 1875-1945, ed.
-
 I hope this will be of assistance.
-
 Sincerely
-
-
 Allen W. Thrasher, Ph.D,
 Senior Reference Librarian
 Southern Asia Section
@@ -150,7 +118,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732
 fax  202-707-1724
 athr at loc.gov
-
-
-
-

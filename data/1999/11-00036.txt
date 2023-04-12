@@ -1,21 +1,7 @@
-From naga_ganesan at HOTMAIL.COM  Wed Nov  3 17:09:16 1999
-From: naga_ganesan at HOTMAIL.COM (N. Ganesan)
-Date: Wed, 03 Nov 99 09:09:16 -0800
-Subject: Panini vs. John Backus
-Message-ID: <161227053267.23782.3979283929160770406.generated@prod2.harmonylists.io>
-
+Panini vs. John Backus
 Seeking references on the  similarities between Panini
 and Fortran, AI, etc., Interested more from the scholarly journals,
 rather than the likes of newspaper writeups.
-
 Thanks,
 N. Ganesan
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

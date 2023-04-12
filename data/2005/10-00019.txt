@@ -1,66 +1,37 @@
-From r.mahoney at ICONZ.CO.NZ  Wed Oct  5 20:00:49 2005
-From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
-Date: Thu, 06 Oct 05 09:00:49 +1300
-Subject: Indica-et-Buddhica.org (IeB): site update / new content
-Message-ID: <161227076896.23782.17120049426357804291.generated@prod2.harmonylists.io>
-
+Indica-et-Buddhica.org (IeB): site update / new content
 [To H-Buddhism subscribers, I apologise for cross posting]
-
 Dear Colleagues,
-
 The static IeB web site has been migrated to a dynamic content
 management system on a new platform. This should improve site
 navigation, searching, response and availability. New material has also
 been added. Notably RSS news aggregation for related material and IeB
 Lexica.
-
 Lexica is a web interface to a collection of Sanskrit, Tibetan and
 English dictionaries and word lists, including Sanskrit-Tibetan
 Terminology based on the `Yog?c?rabh?mi' and `Mah?vyutpatti', and
 `Monier-Williams Sanskrit-English Dictionary'.
-
 At this point the site as a whole consists of:
-
 1/. Repositorium: a content management platform providing a repository
 or archive for texts, materials and lexica pertinent to the study of
 Indian Buddhism, and to Indology and Buddhology in general.
-
  http://indica-et-buddhica.org/
-
 2/. Catalogus Bibliothecarum: a virtual union catalogue providing
 centralised access to library servers with significant Indological and
 Buddhological collections.
-
  http://indica-et-buddhica.org/?q=node/21
-
 3/. Lexica: a web interface giving access to definitions from a
 collection of Sanskrit-Tibetan, Sanskrit-English and English-English
 dictionaries and word lists.
-
  http://indica-et-buddhica.org/?q=taxonomy/term/32
-
 4/. Scriptio: a publishing platform used for flagging changes to the web
 site.
-
  http://indica-et-buddhica.org/?q=taxonomy/term/26
-
 5/. Mechanisma: a groupware suite for coordinating group activities and
 sharing information and documents.
-
  http://indica-et-buddhica.org/?q=taxonomy/term/28
-
-
 Best regards,
-
  Richard MAHONEY
-
-
--- 
 Richard MAHONEY | internet: indica-et-buddhica.org
 Littledene      | telephone / telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 25 829 986
 OXFORD, NZ      | e-mail: r.mahoney[use"@"]iconz.co.nz
-
-
-
-

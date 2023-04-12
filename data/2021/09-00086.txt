@@ -1,15 +1,5 @@
-From krishnaprasadah.g at gmail.com  Fri Sep 17 11:17:28 2021
-From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
-Date: Fri, 17 Sep 2021 16:47:28 +0530
-Subject: [INDOLOGY] Grep tool for searching on Mac
-Message-ID: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
-
+[INDOLOGY] Grep tool for searching on Mac
 Dear all
 Is there any readymade tool for using the Grep command for Sanskrit text
 string for multiple files?
-
 Thanks
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210917/7a088205/attachment.htm>
-

@@ -1,29 +1,14 @@
-From plamen at ORIENTALIA.ORG  Wed Apr 28 05:25:31 2004
-From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
-Date: Wed, 28 Apr 04 08:25:31 +0300
-Subject: fixed link--Stcherbatsky and Indology sub-domains
-Message-ID: <161227074398.23782.12042202624053887597.generated@prod2.harmonylists.io>
-
+fixed link--Stcherbatsky and Indology sub-domains
 Several days ago the following was announced here:
 A manuscript of an essay by Stcherbatsky has been discovered, edited
 and published by Y.V. Vasilkov; it has been made available online at
 <http://www.indology.ru/article642.html>.
-
 I didn't announce it here. The manuscript was announced only to the H-Buddhism list. I thought there is nobody here interested in Buddhist Logic. And I am not sure also are there colleages interested in real online publishing projects not in writing letters only to mailing lists. If anybody has some good idea and needs free hosting account and one's own subdomain on www.indology.net to realise it, please, feel free to contact me with details of your project.
-
 So far, I am a little bit disappointed in the Indology Internet community worldwide. People prefer to discuss ad nauseam and for ages the Out of India Theory and some stupid Hindu fundamentalist issues instead of putting some efforts to making their achievements online available for the entire scholarly community.
-
-> Now, Mr Dmitry Olenev has asked me to convey to the list the information that
 he has repaired the link and one may download the pdf (as indeed I have verified).
-
 This was also a server problem. We have upgraded to a new Linux kernel, then - facing so many problems - had to degrade to the old one. The solution was to shortcopy the link and then put it for download in your FlashGet or GetRight. Any attempt to download the files using IE led to broken downloads.
-
-> A number of misprints are scattered over the paper, but all of them were present in the printed original.
-
 Most of them have been removed from the HTML version, like Madhynata instead of Madhyanta, some stylistic mistranslations, etc. The PDF has been left as is in the printed edition.
-
 Best regards,
-
 Plamen Gradinarov
 Ph.D., D.Sc., Prof. & Publisher
 Eurasia Academic Publishers
@@ -31,7 +16,3 @@ http://www.orientalia.org
 http://www.indology.net
 http://www.indology.ru
 http://www.iztok.net
-
-
-
-

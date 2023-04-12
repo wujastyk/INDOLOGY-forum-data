@@ -1,10 +1,4 @@
-From jemhouben at gmail.com  Fri Feb  1 12:14:24 2019
-From: jemhouben at gmail.com (Jan E.M. Houben)
-Date: Fri, 01 Feb 19 13:14:24 +0100
-Subject: [INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
-In-Reply-To: <CALoZ1nX_g4-Qfv21-g_EDVh36YC+Krc8Xh7wieeWESq0obrc0w@mail.gmail.com>
-Message-ID: <CAGCGLoCdAw9fM+PNS2ohgANYXdhJ2pWLYVKcodpS+hUok_k2-g@mail.gmail.com>
-
+[INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
 Dear G?rard,
 Congratulations on updating your non-paninian generative device!
 Something is indeed still going wrong with
@@ -17,58 +11,15 @@ And, logically, "two" is the lower limit of the number of separate things
 that can be "of two kinds"... which ubhau would express as being simply two
 in number, not also as "of two kinds"...
 Best, Jan
-
 On Fri, 18 Jan 2019 at 19:17, Walter Slaje via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Certainly a welcome development, but
->
-> > this wonderful grammatical analysis
->
-> really calls for a thorough revision before activating it. The very few
-> searches I could make yielded inexplicable, in parts unbelievably wrong
-> results. Anyone may see for themselves if they just test the declension of
-> "adas", "idam", "ubhaya" (displaying dual forms, but no fem.), "sarv?"
-> (fem.), "dos / do?an", "ana?uh", "asthi", and many more. In the hands of
-> Sanskrit beginners who lack grammatical training this database will do
-> more harm than good. I can only warn against its use until it has seen a
-> very careful revision by experts.
->
-> Kind regards,
-> WS
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--- 
-
 *Jan E.M. Houben*
-
 Directeur d'?tudes, Professor of South Asian History and Philology
-
 *Sources et histoire de la tradition sanskrite*
-
 ?cole Pratique des Hautes ?tudes (EPHE, PSL - Universit? Paris)
-
 *Sciences historiques et philologiques *
-
 54, rue Saint-Jacques, CS 20525 ? 75005 Paris
-
 *johannes.houben at ephe.sorbonne.fr <johannes.houben at ephe.sorbonne.fr>*
-
 *johannes.houben at ephe.psl.eu <johannes.houben at ephe.psl.eu>*
-
 *https://ephe-sorbonne.academia.edu/JanEMHouben
 <https://ephe-sorbonne.academia.edu/JanEMHouben>*
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190201/385b3bfd/attachment.htm>
-

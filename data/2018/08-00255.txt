@@ -1,37 +1,10 @@
-From m.gluckman at alumni.anu.edu.au  Wed Aug 29 01:31:17 2018
-From: m.gluckman at alumni.anu.edu.au (Martin Gluckman)
-Date: Wed, 29 Aug 18 01:31:17 +0000
-Subject: [INDOLOGY] DLI Mirror Site Live - https://dli.sanskritdictionary.com
-Message-ID: <MEXPR01MB101440377E58C93B37D259458B090@MEXPR01MB1014.ausprd01.prod.outlook.com>
-
+[INDOLOGY] DLI Mirror Site Live - https://dli.sanskritdictionary.com
 Dear Friends,
-
-
 I am happy to announce a mirror of the DLI site has been completed and is now live at:
-
-
 https://dli.sanskritdictionary.com
-
-
 This mirror makes use of Google's OCR technology to deeply index all documents so searches can be done in a multitude of scripts including among many others IAST and Devanagari for Sanskrit.
-
-
 The advantage of the OCR platform is it keeps improving so we are getting more accurate matches then months ago when we started development  of the search interface and it will continue to improve.
-
-
 The mirror is of the complete DLI site (before it became temporarily unavailable ) i.e. 31TB and 551,427 book scans.
-
-
 I hope this is of much use to scholars. Kindly send your feedback and suggestions as always.
-
-
 Kindest wishes,
-
-
 Martin Gluckman
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180829/2ba48ad8/attachment.htm>
-

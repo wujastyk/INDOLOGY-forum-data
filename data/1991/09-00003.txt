@@ -1,45 +1,7 @@
-> From mackay at cs.washington.edu Tue Sep  3 16:39:36 1991
-> Date: Tue, 3 Sep 91 16:46:59 -0700
-> From: mackay at cs.washington.edu
-> Message-Id: <9109032346.AA00421 at manta.cs.washington.edu>
-> To: texhax at cs.washington.edu, INFO-TeX at shsu.edu,
->         Ridgeway at blackbox.hacc.washington.edu
->
-> elisabet at max.u.washington.edu
-> Subject: Devanagari fonts
->
-> The enclosed message speaks for itself.  The two files mentioned
-> are on june.cs.washington.edu, in the directory ~ftp/edu
-> I trust a LISTSERV site can be found for them also.   Our
-> sincerest thanks to Frans Velthuis.
->
->    Date: Mon, 26 Aug 91 16:00:35 METDST
->    From: velthuis at RUGRCX.RUG.NL (Frans J. Velthuis)
->    Subject: Devanagari fonts
->
->    Dear Mr. Mackay,
->
->    I developed a Devanagari font and software for use with TeX some time ago.
->    Thanks to a grant from my University it is public domain software now.
->    You can get the software with Anonymous FTP from rugrcx.rug.nl
  (129.125.4.12)
->    It is in the directory 'pub'. There is a devnag.zip for MSDOS and a
  devnag.tar.Z
->    for UNIX and other operating systems. I would appreciate it if you can
  put the
->    software on the University of Washington fileserver. I have no objections
  if
->    you want to add the software to the 'babel'-collection.
->
->    Yours sincerely,
->    Frans Velthuis
->
->
->
->
- 
- 
---
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Thomas Ridgeway, Director,
 Humanities and Arts Computing Center/NorthWest Computing Support Center
@@ -47,8 +9,3 @@ Humanities and Arts Computing Center/NorthWest Computing Support Center
 Seattle, WA 98195   phone: (206)-543-4218            *  Ask me about  *
 Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-
-
-

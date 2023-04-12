@@ -1,21 +1,8 @@
-From vidynath at math.ohio-state.edu  Mon Nov  4 14:00:05 1996
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Mon, 04 Nov 96 09:00:05 -0500
-Subject: Syntax of `yabh'
-Message-ID: <161227026699.23782.13606750316962217163.generated@prod2.harmonylists.io>
-
-
+Syntax of `yabh'
 The recent discussion has reminded of a question I had, but never tried
 to answer: Datupathas specify `yabh' to be parasmaipada. I vaguely
 remember the line from asvamedha banter to be `na me kascana yabhate',
 where it was not clear if `me = mama' or `= mahyam'. Does anybody know
 the case that `yabh' takes?
-
 Thanks
 -Nath
-
-
-
-
-
-

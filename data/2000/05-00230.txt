@@ -1,4 +1,3 @@
->?From a comparative historian's perspective, what is striking to me is
 how similar the cross-referencing found here is to cross-referencing
 seen in Chinese and Greek documents from roughly the same period.
 Computational measures of the *number* of such cross-references might
@@ -6,7 +5,6 @@ even provide an estimate of the relative age of a manuscript
 tradition, which needs to reach a certain level of maturity before
 such cross-references are possible. (My colleagues and I are now
 developing this idea in computer simulations.)
-
 So the question only partly revolves around the issue of memorization:
 it also has to do with easy of contact between different schools. It
 is easier to explain that contact as occurring through manuscripts
@@ -33,7 +31,6 @@ habit of rejecting new technologies for long. Even premodern societies
 produced rebels, after all. Why else -- as many people on this List
 have pointed out -- the recurrent demands in the smrti literature that
 the Vedas *not* be written down.
-
 In any event, this was the argument that Prof. Olivelle was reacting
 to, leading to his obviously tentative conclusion that 'deep down, I
 think I would agree with you.' Obviously the question *can't* be
@@ -42,21 +39,8 @@ they obviously don't. But the case for early Vedic manuscripts is far
 from being a closed one, as Falk and some others would have it. The
 fact that so many interesting open questions like this exist is what
 makes Indology such an utterly fascinating field.
-
 I wrote (this was my 'Wisconsin Card Sorting Test' argument):
-
-> >Shifting to the historical level, I've always wondered if the typical
-> >overreliance of scholastic writers on 'authority' in general wasn't
-> >*directly* related to the amount of time they spent memorizing texts.
-
 Luis responded:
-
-> Very interesting idea.
-> It could also be the other way around: they spent so much time memorizing
-> texts because there was an "overreliance" on authority.  Serious dissent
-> was not tolerated for religious texts, and even for other literature, who
-> dared question Aristotle?
-
 Actually, they were still burning people for reading Aristotle in
 1215. It was only later in the 13th century that the Aristotelian
 corpus became dominant in the western university. (What a difference a
@@ -72,14 +56,6 @@ attitude changes -- after memorization of texts becomes less common. I
 wrote a little on this in _Syncretism in the West_, e.g., p. 135, and
 discuss it at length in a new book I'm writing on neurobiology and the
 evolution of premodern cultures.
-
-> But more along your line of thought: maybe they spent so much time
-> memorizing texts because written texts, although they did exist, were nor
-> so widely available, or/and because if they wanted to find a particular
-> quote it was easier to go over the text/chaper in their heads.  Things are
-> different when you have concordances and indexes at the back of books (or
-> when you can do a word search in a word processor).
->
 You are of course partially right here. But premodern traditions often
 assumed forms that *did* make it easy to look things up in --
 especially in scholastic periods -- and indices existed as well.
@@ -92,12 +68,6 @@ medieval theologian thought about whether or not angels exist in
 space? Go to that theologian's comments on _Sentences_ bk. 1,
 distinction 37, and you can find out immediately -- no word-processor
 "find" function necessary!
-
 I'm learning a lot from you Indologists: thanks for indulging me.
 Unfortunately, deadlines are slipping....
-
 Steve Farmer
-
-
-
-

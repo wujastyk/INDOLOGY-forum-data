@@ -1,24 +1,10 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Mon Oct 23 16:39:01 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Tue, 24 Oct 95 01:39:01 +0900
-Subject: Junk Mail and replies
-Message-ID: <161227021402.23782.3421677543755842415.generated@prod2.harmonylists.io>
-
+Junk Mail and replies
 ...I would just like to remind people, when replying to junk-mail, NOT to
 blindly hit the reply-button without verifying the "reply-to" line in the
 header. What I personally hate even more than junk-mail are replies to it
 which a) go to the mailing-list instead of to the sender and b) quote the
 entire junk-mail yet another time. Thanks, but no thanks. 
-
 End of distraction, 
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

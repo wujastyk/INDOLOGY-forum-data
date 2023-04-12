@@ -1,11 +1,5 @@
-From hellwig7 at GMX.DE  Tue Mar 20 20:30:54 2012
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Tue, 20 Mar 12 20:30:54 +0000
-Subject: Some new functions in the DCS
-Message-ID: <161227095639.23782.18020981204420231909.generated@prod2.harmonylists.io>
-
+Some new functions in the DCS
 Dear colleagues,
-
 a few issues in the last releases of the DCS have been fixed now - thanks 
 to those who reported them:
 - Function "Nominal forms" on the details page is working again, and faster 
@@ -17,15 +11,9 @@ lexical unit.
 - Finally, another larger Sanskrit dictionary (Abhidhanacintamani of 
 Hemadri, from the same volume as the other books) has been added to the 
 "Book search" repository.
-
 With best regards,
 Oliver Hellwig
-----
 PD Dr. Oliver Hellwig
 South-Asia Institute, Unversity of Heidelberg
 Im Neuenheimer Feld 330
 69120 Heidelberg, Germany
-
-
-
-

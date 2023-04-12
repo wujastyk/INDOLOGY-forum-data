@@ -1,11 +1,5 @@
-From hellwig7 at GMX.DE  Tue Jan 11 11:34:03 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Tue, 11 Jan 11 11:34:03 +0000
-Subject: New version of DCS
-Message-ID: <161227091277.23782.9582814346880727499.generated@prod2.harmonylists.io>
-
+New version of DCS
 Dear colleagues,
-
 a new version of the Digital Corpus of Sanskrit has been released. Apart
 from some new texts (refer to
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_center),
@@ -14,16 +8,9 @@ function can be used to examine Sanskrit phraseology or as a starting point
 for searching for citations. Please refer to
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_kwic
 for further information.
-
 Best regards
 Oliver Hellwig
-
----
 PD Dr. Oliver Hellwig
 SAI, University of Heidelberg
 Im Neuenheimer Feld 330
 69120 Heidelberg
-
-
-
-

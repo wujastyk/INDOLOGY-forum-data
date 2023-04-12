@@ -1,15 +1,8 @@
-From haccme at EDU.WASHINGTON.U  Wed Feb  5 01:44:42 1992
-From: haccme at EDU.WASHINGTON.U (Thomas Ridgeway)
-Date: Tue, 04 Feb 92 17:44:42 -0800
-Subject: TeluguTeX package available for ftp
-Message-ID: <161227015228.23782.14356511989983019955.generated@prod2.harmonylists.io>
-
-
+TeluguTeX package available for ftp
 I am pleased to inform you of a newly available system for typesetting
 Telugu text with TeX. The software is available now in the ftp directory
    pub/tex/telugu      of the host
    blackbox.hacc.washington.edu  [128.95.200.1]
- 
 Reproduced below is a portion of the readme file in the package:
 ++++ begin excerpted text
                       TeluguTeX
@@ -36,7 +29,6 @@ do some work....
  .
  .
   A note from the authors:
- 
     we hope you will find this package useful for typesetting
     Telugu. TeluguTeX was developed by us when we were at
     Iowa State University, Ames, Iowa, USA.
@@ -50,17 +42,12 @@ do some work....
     you should turn elsewhere. We assume that you know how to
     generate fonts using METAFONT, how to use TeX/LaTeX and
     how to produce output on whatever device you may have.
- 
               Happy TeluguTeXing,
- 
                              Lakshmankumar Mukkavilli
                              Lakshmi Mukkavilli
- 
 +++ end excerpted material
- 
 TeluguTeX is free, copyrighted, software.  It is available under the terms
 of the FSF General Public License.
- 
 For the benefit of those unable to run Unix make and awk, some
 (possibly all) of the necessary files which a unix make session generates
 are included in the subdirectories texfiles and mffiles.  If someone
@@ -71,17 +58,14 @@ on a puny TeX.  If you wish to do Telugu on a small system, you will
 probably need to write a preprocessor, possibly using the TeX code as a
 guide.  Other examples might be the preprocessors in use for the various
 Tamil and Devanagari systems.
- 
 Interested parties would do well to pick up the software relatively soon.
 Blackbox will not maintain its availability for ftp an indefinitely long
 period.
- 
 If you are interested in TeluguTeX but do not have previous experience in
 TeX or METAFONT, please obtain help and advice from gurus in *your*
 institution.  To ask developers of such packages to provide novice-user
 help only detracts from their ability to make the world a friendlier place
 for Indic computing.
- 
 cheers,
 Tom
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -91,9 +75,3 @@ Humanities and Arts Computing Center/NorthWest Computing Support Center
 Seattle, WA 98195   phone: (206)-543-4218              *  Ask me about *
 Internet: ridgeway at blackbox.hacc.washington.edu        *     UnixTeX   *
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 
-
-
-
-
-

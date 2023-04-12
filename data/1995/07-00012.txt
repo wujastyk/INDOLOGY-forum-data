@@ -1,9 +1,4 @@
-From kalyans at ix.netcom.com  Tue Jul  4 19:10:58 1995
-From: kalyans at ix.netcom.com (kalyans at ix.netcom.com)
-Date: Tue, 04 Jul 95 12:10:58 -0700
-Subject: Nastaliq script
-Message-ID: <161227019899.23782.8764561611571900934.generated@prod2.harmonylists.io>
-
+Nastaliq script
 Contact Scanrom Publications, NY; Tel. 1-800-269-2237
 Fax. 1-516-295-2240; 73760.1005 at compuserve.com
 They have recently brought out a CD-ROM with
@@ -16,11 +11,4 @@ numbers corresponding to the Urdu script glyphs
 can be accessed from the keyboard. You may have
 to modify your wp/dtp with macros provided by
 wp/dtp software to move cursor from right to left.
-
 Dr. S. Kalyanaraman
- 
-
-
-
-
-

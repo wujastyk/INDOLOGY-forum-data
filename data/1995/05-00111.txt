@@ -1,9 +1,4 @@
-From pslvax!sadhu at UCSD.EDU  Thu May 25 15:30:42 1995
-From: pslvax!sadhu at UCSD.EDU (pslvax!sadhu at UCSD.EDU)
-Date: Thu, 25 May 95 08:30:42 -0700
-Subject: reference to Hindu Gods
-Message-ID: <161227019514.23782.2367790778402074463.generated@prod2.harmonylists.io>
-
+reference to Hindu Gods
 / FROM:  Suresh Madhu <WPI.EDU!suresh at ucsd.UUCP>, May 25 14:56 1995
 | ABOUT: reference to Hindu Gods
 |
@@ -22,10 +17,7 @@ Message-ID: <161227019514.23782.2367790778402074463.generated@prod2.harmonylists
 |  
 |
 \ END: Suresh Madhu
-
-
 Namaste
-
 ah, somewhere i have this info, not sure where at the moment.  as
 i recall, its embedded in the source code for a program i wrote to
 determine the kalas (time periods) for san diego local time.  the
@@ -36,16 +28,8 @@ is linked to a hindu god, so that would give you the correspondence.
 each planet is also representative of a chakra.  if no one else
 comes up with it shortly, i'll dig it up for you.  or ask one of
 my jotish friends.
-
 aum
 sadhu
-
 oh, ps, aside from the planetary link, there may be other reasons,
 differing with local customs.  for example, siva's day is monday
 in the north, but friday in the south of india.
- 
-
-
-
-
-

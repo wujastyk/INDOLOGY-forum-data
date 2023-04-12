@@ -1,49 +1,30 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Sun Dec 18 17:44:14 1994
-From: kellner at ue.ipc.hiroshima-u.ac.jp (Kellner)
-Date: Sun, 18 Dec 94 17:44:14 +0000
-Subject: None
-Message-ID: <161227018019.23782.10722236327208324736.generated@prod2.harmonylists.io>
-
+None
 According to Jean Verpoorten: Mi at ma@m at sa@-
 literature (A History of Indian Literature, fasc.5 Wiesbaden 1987:
 Harrassowitz), Ma at dhava-Vidya@ran at ya (a Mi at ma@m at sa@-
 author) lived in the 14th cty A.D.
-
 The Veda at nta-author Sa at yan@a-Ma at dhava, author of
 the Sarvadarc at anasam@graha, is also said to have lived in the
 14th cty. (see Frauwallner, Geschichte der Indischen Philosophie, 
 Bd I., Salzburg 1953, p.13). Mimaki 1976 (La refutation bouddhique de la
 permanence des choses....Paris), however, has his dates as 
 1199-1278 A.D.
-
 I hope this is confusing enough. 
-
 The diacritics in this post, BTW, are given according to a system which
 is (rather) widely used in Japan and, IMHO, extremely useful. Every
 diacritical mark is given with an _ at _ after the corresponding alphabet
 letter. Long a, thus, is _a@_ etc. 
 As for the ambivalent marks:
-
 [An@ is the cerebral n
 g@ is the palatal n
 s@ is the cerebral s
 c@ is the palatal s.
-
 Of all ASCII-transcription-tables I have encountered so far, 
 this is the most effective, as it not only allows for conversion of
 e-texts alone, but also of papers etc. which include Western
 languages, too. Moreover, it is easily convertible into any
 word-processor's format, too. Anyway, this is a topic for a 
 different post, I guess.
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
-
- 
-
-
-
-
-

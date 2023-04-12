@@ -1,12 +1,5 @@
-From juergen.neuss at fu-berlin.de  Thu Apr 11 07:37:42 2013
-From: juergen.neuss at fu-berlin.de (=?utf-8?Q?J=C3=BCrgen_Neuss?=)
-Date: Thu, 11 Apr 13 09:37:42 +0200
-Subject: [INDOLOGY] Ind-senz OCR software for Sanskrit
-In-Reply-To: <7430ea855fccf.5166eed9@anu.edu.au>
-Message-ID: <op.wvc8s4bwcvbgtz@tapti.fritz.box>
-
+[INDOLOGY] Ind-senz OCR software for Sanskrit
 Dear McComas and others,
-
 the man behind indsenz is Oliver Hellwig, with whom I have been working  
 together for many years in the now defunct Indological Department of the  
 Freie Universit?t Berlin. I have been using the software for sanskritists  
@@ -17,39 +10,10 @@ experience in OCR, I can assure you that there is nothing comparable to
 Indsenz's Devanagari OCR in the market. If you have a look at Indsenz's  
 homepage, please also take a look at the SanskritTagger software, which is  
 another tremendous tool being distributed as freeware by Oliver.
-
 Best,
-
 J?rgen
-
-
-
-
 On Thu, 11 Apr 2013 09:11:53 +0200, McComas Taylor  
 <McComas.Taylor at anu.edu.au> wrote:
-
-> Colleagues, I never thought I would see the day, but I have just tried  
-> out Ind-senz's Sanskrit OCR software, with close to 100% >success rate.  
-> I tested it out on a page of Lanman (good clear print) and got excellent  
-> results.
-> http://www.indsenz.com/int/index.php
->
-> Highly recommended
->
-> McC
->
-> --
-> McComas Taylor,  ANU University Education Scholar 2012-13
-> Head, South Asia Program
-> ANU College of Asia and the Pacific
-> Tel: +61 2 6125 3179
-> Location: Baldessin Precinct Building, 4.24
-> Website: McComas Taylor
-> Courses: Learn about some of my courses:  Sanskrit 1  |  Indian Epics
-
-
-
--- 
 ~~~~~~~~~~~~~~~~~~
 Dr. phil. J?rgen Neuss
 Freie Universit?t Berlin
@@ -61,9 +25,3 @@ Germany
 | email: juergen.neuss at fu-berlin.de
 | http: www.central-india.de
 ~~~~~~~~~~~~~~~~~~
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130411/f196e359/attachment.htm>
-

@@ -1,5 +1,3 @@
->From the header file of rrs.dn:
-
 % The Rasaratnasamuccaya of Vaagbha.ta: machine readable transcription,
 % based on the Anandaa"srama Sanskrit Series edition, vol. 19,
 % edited by K.r.s.naraava"sarman Vinaayaka Baapa.ta, Poona 1890.
@@ -14,12 +12,9 @@
 % Transcription by Wieslaw Mical, Som Dev Vasudeva and Anne Glazier,
 % of SOAS, London.
 %
-
 Dominik Wujastyk
 London
 19 March 1993.
------------------ end of vagbrasa readme ----------------
-
 2/ iass.zip
    This is a newccopy of iass.zip.  The only change is that I have
    added the file charset.ps, a PostScript version of the charset.tex
@@ -28,24 +23,14 @@ London
 ters (just copy the file directly
    to the printer).  There are some tricky characters in the file,
    and anyway, not everyone has TeX (extraordinarily enough).
-
 These two files will be forwarded to the INDOLOGY listserv in due
 course so that those of you without ftp can order the files by
 email.
-
 [Incidentally, you may have noticed that I am naming archives of text files
 by using the first four letters of the author's name followed by the first
 four letters of the title.  This is one of the search keys used by the OCLC
 library cataloguing system, and it is surprisingly effective in narrowing
 down the book required.]
-
 Dominik
-----------------
 Dominik Wujastyk                                  d.wujastyk at ucl.ac.uk
                                                        +44 71 611 8467
- 
-
-
-
-
-

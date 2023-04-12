@@ -1,11 +1,5 @@
-From buescher at HUM.KU.DK  Sun Mar 14 15:53:34 2004
-From: buescher at HUM.KU.DK (Hartmut Buescher)
-Date: Sun, 14 Mar 04 16:53:34 +0100
-Subject: Sanskrit syntax problem: Double bind constructions
-Message-ID: <161227074112.23782.5321371043926347191.generated@prod2.harmonylists.io>
-
+Sanskrit syntax problem: Double bind constructions
 Dear VyAkaraNa-savants,
-
 now and then we meet with ambivalent syntactic constructions in Sanskrit,
 that is, with cases where a particular part of a sentence -- say, a genitive
 construction -- is strategically placed so as to be connected to both the
@@ -14,7 +8,6 @@ semantic possibilities.
 Recently I saw that, for example, Jan E. Houben (in: The saMbandha-samuddeza
 [Chapter on Relation] and BhartRhari's Philosophy of Language, Groningen
 1995: 6 n. 8) shortly referred to this phenomenon. 
-
 In the context of Buddhist studies it has been the phrase "ekasmin samaye"
 in the opening formular of sUtras ("Thus I have heard [: ?] once [: ?] the
 Buddha was staying .....") that has triggered a fairly large scholarship
@@ -26,7 +19,6 @@ particular reference to Paul Harrison, Boucher's solution is to take
 "ekasmin samaye" as what I am here designating as "double bind construction"
 (being unaware of any existing technical terms to designate this
 phenomenon).
-
 The problem becomes more complex when we have to try to reconstruct the
 original Sanskrit wording of a philosophically significant passage, e.g.,
 from the Tibetan. 
@@ -43,7 +35,6 @@ that the original Sanskrit read:
 *sarvabIjakaM vijJAnaM sarvadharmANAm AlayaH //
 whereby sarvadharmANAm would also semantically be closely related to both
 the preceding and the subsequent elements. 
-
 Now, in view of such problems I would like to become more familiar with this
 type of double bind constructions in Sanskrit. The title of Prof.
 Deshpande's book "Ellipsis and Syntactic Overlapping ... " sounded
@@ -52,18 +43,10 @@ concern. The Speijer centennial volume "Studies in Sanskrit Syntax", ed. by
 H. H. Hock contains a long bibliography; yet, from the listed titles
 themselves I could not immediately spot those that might eventually help
 further.
-
 I am interested in all sorts of references drawing attention to instances of
 double bind constructions either in connection with more or less extended
 theoretical reflections, or just in form of (foot-)notes merely saying:
 "here occurs this phenomenon; I deal with it in such a way".
-
 For any pertinent information I would be grateful.
-
 Best regards,
-
 Hartmut Buescher
-
-
-
-

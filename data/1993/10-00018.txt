@@ -1,20 +1,4 @@
-From l.m.fosse at easteur-orient.uio.no  Mon Oct 11 10:40:07 1993
-From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
-Date: Mon, 11 Oct 93 11:40:07 +0100
-Subject: Panini's grammar and Boolean logic
-Message-ID: <161227016204.23782.1562770113628379924.generated@prod2.harmonylists.io>
-
->On Oct 6,  8:01pm, you wrote:
->
->>       In the April, 1993 newsletter of Motilal Banarsidass, it
->> states that Rick Briggs (who works for NASA) has argued that Panini's
->> grammar is based on Boolean logic.  
->
->Tell Briggs that Boole (1815-1864) lived after Panini (c. 4th-5th cent. BC).
->
->Dominik
->
-> 
+Panini's grammar and Boolean logic
 I don't know if I am the right guy to get involved in this discussion, but
 Boolean logic was discovered by Boole, not invented by him. In other words,
 someone just may have beat him to it - e.g. Panini, just like integral
@@ -22,24 +6,11 @@ mathematics were discovered independently by both Leibnitz and Newton.
 There is therefore no reason why Panini's logic should not have a "boolean"
 character. But if this is *really* the case, I don't know. That discussion
 I leave to others.
-
 Lars Martin
-
-
 Lars Martin Fosse
 Department of East European
 and Oriental Studies
 P. O. Box 1030, Blindern
 N-0315 OSLO Norway
-
-Tel: +47 22 85 68 48
 Fax: +47 22 85 41 40
-
 E-mail: l.m.fosse at easteur-orient.uio.no
-
- 
-
-
-
-
-

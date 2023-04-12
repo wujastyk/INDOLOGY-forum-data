@@ -1,24 +1,15 @@
-From jacob.baltuch at EURONET.BE  Tue Jul 14 20:46:21 1998
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Tue, 14 Jul 98 21:46:21 +0100
-Subject: An old question
-Message-ID: <161227040874.23782.17172147712620312722.generated@prod2.harmonylists.io>
-
+An old question
 I think philosophical arguments about what constitutes a 'living'
 vs a 'dead' language from the point of view of linguistics miss the
 point. If you don't like 'living' vs. 'dead' you may replace it
 with 'having native speakers' vs. 'not having native speakers'.
-
 Despite some troublesome borderline cases (bilinguals, standard
 language different from the colloquial dialect, etc.) this is
 most often easy enough to decide.
-
 Here's a simple test which you may or may not find relevant
 to your purpose: a language that has native speakers has
 an *independant* phonology.
-
 This cannot be said of medieval Latin or Sanskrit.
-
 People spoke Latin with French, German, English, Spanish,
 Polish, Dutch, ... accents. There was no "Latin accent" in the 16th
 century. Similarly for Sanskrit. People speak it with a Marathi,
@@ -27,24 +18,18 @@ a "Sanskrit accent" in the 20th century. (This should allow me to
 rephrase my question about Sanskrit in a simplistic way: Until
 when was there such a thing as a "Sanskrit accent"? When did
 Sanskrit cease to be a language with an independant phonology?)
-
 (Btw, I'm not implying this is the only way languages with native
 speakers differ from languages w/o native speakers, but this
 feature at least should be obvious to anyone)
-
 No one said a language not-having-native-speakers never changes,
 and is necessarily static. (Or if they did, they'd be wrong)
-
 But if it changes, it changes in other ways than a language
 having-native-speakers, or so some linguists seem to think,
 which explains why those linguists seem to think the distinction
 is worth making.
-
 It may very well be that the distinction is irrelevant in many other
 cases.
-
 Btw, I do agree that the term 'dead' (vs 'living') is annoying.
-
 Maybe the term 'dead language' should be reserved for 'really
 dead' languages such as Gothic, Egyptian, etc. To distinguish
 the situation of a language such as Sanskrit from that of say English,
@@ -55,7 +40,3 @@ a Tamil friend who speaks English with his father, Tamil
 with his mother (note both mother and father are
 Tamil-speakers) and Hindi (at least when he was in India)
 with his friends. So now what happens? :-)
-
-
-
-

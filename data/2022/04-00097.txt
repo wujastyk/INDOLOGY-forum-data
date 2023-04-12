@@ -1,9 +1,5 @@
-From wujastyk at gmail.com  Tue Apr 19 17:48:52 2022
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 19 Apr 2022 11:48:52 -0600
-Subject: [INDOLOGY] [RISA-L LIST] Indologica Taurinensia: The official
+[INDOLOGY] [RISA-L LIST] Indologica Taurinensia: The official
  organ of the International Association of Sanskrit Studies -IASS
-In-Reply-To: <CAKdt-CewQiYKMMffevBBmtGwmMfFt8_KrKrx190nDMBmb=MMQQ@mail.gmail.com>
 References: <CAArHMvBtMxfFC7ztubwEgVQY-R6pR6Q=Ts3BMNUTJc5AM45-_g@mail.gmail.com>
  <CAKdt-CcTSH_Uu-ueLetZUiokyJsDyygL3iS3PwtjLCBn0ip-Dg@mail.gmail.com>
  <CAKdt-Cdr4dNAhZufnJ+KP=hPfuOy82knVTyQKmh3Mgj84P2JnA@mail.gmail.com>
@@ -14,30 +10,17 @@ References: <CAArHMvBtMxfFC7ztubwEgVQY-R6pR6Q=Ts3BMNUTJc5AM45-_g@mail.gmail.com>
  <CAB3-dzdvwfXBw8bk6FJRn=X8xaLh-_s0XmXeuZ1NkPqvZsq=tQ@mail.gmail.com>
  <CAN9bCifuYP89LZiBAhPTiVCC1gj=Am8fKQg7ORRN2zh8Ek13_g@mail.gmail.com>
  <CAKdt-CewQiYKMMffevBBmtGwmMfFt8_KrKrx190nDMBmb=MMQQ@mail.gmail.com>
-Message-ID: <CAKdt-CeHEWHR-V2sBD_1iCoY1EG_VDAupTZU-F+dC7MZjR7yHg@mail.gmail.com>
-
 Thank you everyone, for pitching in with the needed files for IT.
-
 I'm keeping track of what we still need in the "Review" section at the
 bottom of the page at archive.org <http://n2t.net/ark:/13960/s2gk0kbj0mg>.
-
 Currently, the situation is:
-
 Corrupted or missing files.  If you have good copies of any of these, I'd
 be grateful for a copy (good-files at yoga.mozmail.com).
-
 * vol03-04/vol03-04_art05_Brough.pdf is missing pages 93-95
 * vol38/05 Jurewicz.pdf (file missing)
-
 Archive.org is still chugging away with some background tasks.  Give it
 time.
-
 Madhav: you can do a full download as a torrent, and the torrent client
 will let you pick and choose individual files.
-
 Best,
 Dominik
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220419/f20808d3/attachment.htm>
-

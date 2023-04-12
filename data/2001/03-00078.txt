@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Mon Mar  5 11:08:03 2001
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Mon, 05 Mar 01 12:08:03 +0100
-Subject: New digitised manuscripts available now
-Message-ID: <161227067987.23782.13819394577703814644.generated@prod2.harmonylists.io>
-
+New digitised manuscripts available now
 Dear colleagues,
 just to inform you that we have started publishing
 some significant new manuscripts, including the
@@ -11,7 +6,6 @@ famous Atharva-Veda manuscript from the University
 Library at T?bingen (PaippalAda recension/Kashmir,
 ,SAradA script, birch bark, very large, beautiful manuscript).
 Please check out our updated www.e-ternals.com site.
-
 Also available now: a hitherto unpublished
 manuscript, probably by Nampillai.
 The Tattva-viveka by Pillai Lokacharya is now also
@@ -29,18 +23,14 @@ resolution. This version loads pages very fast,
 even from the CD, and contains software for
 zooming in and out very swiftly, moving the page
 on the screen, turning pages, etc.
-
 We are now also starting to publish meta-data,
 transliterations/transcriptions, translations,
 critical editions and secondary literature.
-
 This will include some so far unpublished works
 by Rudolph Roth, also held in the University Library
 of T?bingen.
-
 Other scholars and researchers interested in contributing work
 are cordially invited to contact me directly to discuss possibilities.
-
 We would also like to announce that we have developed an
 algorithm for digitally blackening palm leaves.
 This algorithm works with ALL palm-leaf manuscripts.
@@ -57,7 +47,6 @@ as well. I believe this is a first! Reproduction was so far not
 possible,
 unless the manuscript was physically blackened before--which eventually
 destroys it and counteracts the principle of non-intrusive publishing.
-
 Finally, we would like to report successful completion of
 a micro-film digitisation project done for the German National
 Library in Berlin. We are now able to digitise micro-film,
@@ -72,29 +61,22 @@ We would like to draw your attention to the fact that enormous
 quantities of micro-film even in very reputable institutions in the US,
 the UK, France and Germany have already degraded beyond
 useability.
-
 We would also like to announce the beginning of the second stage of
 e-ternals.com project Guarnieri (sounds good, doesn't it...).
 This project develops a special software for performing music directly
 from
 digitised facsimile.
-
 We invite institutions and individuals who own manuscripts
 to partner with us in digitising and publishing.
-
 We are also interested in finding people who have successfully
 digitised material but find it hard to publish it.
-
 We are also looking for sponsors interested in contributing
 towards digitisation of heritage materials.
-
 Please contact me directly if you are also working in this
 area and would like to find out if there are possibilities for
 cooperation.
-
 With kind regards,
 Gunthard
-
 Gunthard Mueller
 e-ternals.com
 Unter den Linden 15
@@ -103,7 +85,3 @@ Germany
 Phone: +49-7121-370411
 Fax: +49-7121-336988
 gm at e-ternals.com
-
-
-
-

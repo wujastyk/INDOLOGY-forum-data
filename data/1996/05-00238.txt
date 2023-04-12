@@ -1,27 +1,14 @@
-From ucgadkw at ucl.ac.uk  Thu May 16 10:29:27 1996
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 16 May 96 10:29:27 +0000
-Subject: PTS style Tipitaka CD-ROM ...$150
-Message-ID: <161227024594.23782.6439685775401371368.generated@prod2.harmonylists.io>
-
-
+PTS style Tipitaka CD-ROM ...$150
 On Wed, 15 May 1996 jonathan.silk at wmich.edu wrote:
-
-> Is there some reason we should be considering spending alot of money for
-> materials we already have?  (I have not used the data extensively yet, but I
-> have not noticed any problems, save the sometimes unweildy file size).
-
 Absolutely none!  I think the people publishing CDROM versions for money
 have failed dramatically to evaluate the publishing situation correctly.
 With a free version of the text available, the CDROM versions can compete
 on only two grounds, as far as I can see
-
 1/ A CDROM may be more convenient than having to make space on a hard  disk;
 2/ Added value in the form of support software for the display of fonts,
    grammatical analysis of Pali, lemmatization, indexing, links to
    images of MSS, illustrations, multimedia presentation of the social and
    religious background to text production, etc. etc.
-
 Proposition 1/ is hard to argue, since people will in any case probably
 want to copy the data from CDROM to disk in order to benefit from the
 higher data access speeds of hard disk technology.  But this aside, there
@@ -30,18 +17,8 @@ hard disk on the grounds of storage efficiency or economy.  The
 per-megabyte cost of disk storage is now lower than CDROM, especially if
 one takes into account such technology as Iomega's Zip drives, for example
 (ca. 15 pence per megabyte or less).
-
 Neither of the CDROM vendors seems to have made a serious effort towards
 proposition 2/, which is a pity since the opportunity here for
 intellectual creativitiy and service to scholarship is so very great.
-
 These publishers need to wake up!
-
---
 Dominik Wujastyk
-
-
-
-
-
-

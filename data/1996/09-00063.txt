@@ -1,9 +1,4 @@
-From thompson at jlc.net  Thu Sep 12 12:29:20 1996
-From: thompson at jlc.net (thompson at jlc.net)
-Date: Thu, 12 Sep 96 08:29:20 -0400
-Subject: Scripts (continued)
-Message-ID: <161227025998.23782.6202393548475876597.generated@prod2.harmonylists.io>
-
+Scripts (continued)
 We all know [I hope!] that living languages, like French, change, whereas
 dead languages, like Sanskrit, don't.  Today English is in ascendancy;
 tomorrow it will probably be Chinese that will rule the Internet.  So what?
@@ -22,13 +17,5 @@ philological feathers, perhaps Sanskrit should be the medium of exchange,
 after all, as it has been in India for some 2000 yrs [and probably for
 similar reasons]....  This is the proper function of dead languages, I
 suppose.
-
 Sincerely,
 George Thompson
-
-
-
-
-
-
-

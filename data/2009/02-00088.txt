@@ -1,10 +1,4 @@
-From geeraae at GEOL.UOA.GR  Wed Feb 18 07:17:33 2009
-From: geeraae at GEOL.UOA.GR (Alexandra Vandergeer)
-Date: Wed, 18 Feb 09 09:17:33 +0200
-Subject: frequencies
-In-Reply-To: <20090217155435.17175hqr0rfcsecr@mail.uni-leipzig.de>
-Message-ID: <161227084901.23782.11782910289504400512.generated@prod2.harmonylists.io>
-
+frequencies
 Correct, but does it also hold for the top100 of used words? I doubt so, I
 personally think that the highly specialized vocabularies, or jargons,
 fall in a lower category, except of course of the name and ways of address
@@ -14,22 +8,4 @@ genres in Skt texts are so different as we generally assume, restricting
 ourselves to the top100. It would be equally interesting to see whether
 there is a shift in language use throughout the centuries in the
 high-frequency words.
-
 Alexandra
-
-> Frequency in Sanskrit does not work in the same way as in English and
-> other modern languges. It is possible to complie a list of 3000 words
-> in English that cover 70-80% of "all" conversations, newspaper
-> articles, etc. This is just not possible in the case of Sanskrit--if
-> it were possible, it would have been done a long time ago--because the
-> vocabulary is highly specialized according to literary genres. On the
-> other hand, if one moves within the same genre, one can go back and
-> forth hundreds of years without any difficulty, something that cannot
-> be done in English, German, French and do on. Hebrew is an exception,
-> but this is a special case.
-> Best wishes,
-> EF
-
-
-
-

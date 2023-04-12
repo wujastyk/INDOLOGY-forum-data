@@ -1,12 +1,5 @@
-From will.rasmussen at KCL.AC.UK  Sat Nov 29 09:11:59 2008
-From: will.rasmussen at KCL.AC.UK (Will Rasmussen)
-Date: Sat, 29 Nov 08 09:11:59 +0000
-Subject: Compatible Font for Macs and PCs...
-In-Reply-To: <B4975A17-6BCF-4915-8053-F375D3E02522@mac.com>
-Message-ID: <161227084030.23782.4263429734183797761.generated@prod2.harmonylists.io>
-
+Compatible Font for Macs and PCs...
 Dear Mary,
-
 I have been using Gandhari Unicode Roman for several years on my Macs  
 (through several OSX upgrades) and it works very well. However, I  
 remember having a terrible time getting it up and running at first. I  
@@ -19,77 +12,24 @@ Unicode Keyboard. (You can access all this keyboard stuff by opening
 'System Preferences' and then opening 'International', in the top  
 'Personal' row of icons. There is also an icon for this in the menu  
 next to the clock.)
-
 For obtaining Easy Unicode Keyboard, see the following site, which  
 recommends Andrew Glass' Gandhari Unicode Font (to whom I offer  
 abundant thanks).
 http://depts.washington.edu/ebmp/downloads/EUreadme.txt
-
 The following site is helpful for downloading and using the keyboard,  
 from what I can gather, but again, I am not the person to advise you  
 further on actually installing and operating it.
 http://depts.washington.edu/ebmp/easyunicode.php
-
 Please forgive me if all of this information is quite beside the  
 point, as your problem may be much more complicated both than this  
 and than I would comprehend!
-
 In any case, please accept my 'Good luck!' from a Mac commiserator!
-
-
 Best wishes,
-
 Will
-
---
-
 Dr Will Rasmussen
 Matilal Lecturer in Indian Philosophy
 Department of Philosophy
 King's College London
 160 The Strand, London WC2R 2LS
-
-Tel. 020 7848 2757
 Email: will.rasmussen at kcl.ac.uk
-
-
-
-
 On 29 Nov 2008, at 08:19, Mary Storm wrote:
-
-> Yes, I tried Gandhari Unicode and it won't work. I think the problem
-> is OS X, but that has now been out on the market for a while. . . so
-> somebody has surely tackled this problem for Macs.
->
-> Mary Storm
->
->
->
-> On 29-Nov-08, at 1:14 PM, Valerie J Roebuck wrote:
->
->> Are you sure? I tried Gandhari Unicode when trying to process some
->> documents on my husband's Mac with OS X , and I couldn't even get it
->> to produce a lower case anusvAra M. (When I used the thing that's
->> supposed to let you find non-standard characters, it put in a rather
->> messy upper case one instead). I would like to know this, because I
->> have been happily using the Norman fonts on my ancient Mac Classic
->> for many years, with Pop Char for when I need to find a particularly
->> obscure character, and am dreading the day (surely not far off) when
->> I have to get a modern Mac with OS X.
->>
->> Valerie J Roebuck
->>
->> At 10:22 pm -0800 28/11/08, Andrew Glass wrote:
->>> Dear Mary,
->>>
->>> The Gandhari Unicode font has all the signs you will need. It also
->>> works well on a MacBook when using a modern word processor like
->>> Mellel.
->>>
->>> http://andrewglass.org/fonts.php
->>>
->>> Andrew
-
-
-
-

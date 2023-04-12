@@ -1,45 +1,11 @@
-From birgit.kellner at UNIVIE.AC.AT  Mon Feb  9 21:39:16 2009
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Mon, 09 Feb 09 22:39:16 +0100
-Subject: SARIT: Search and Retrieval of Indic Texts
-In-Reply-To: <alpine.WNT.2.00.0902092044270.5000@Caraka>
-Message-ID: <161227084800.23782.17220606914850581272.generated@prod2.harmonylists.io>
-
+SARIT: Search and Retrieval of Indic Texts
 Dominik Wujastyk wrote:
-> http://bombay.indology.info is John Smith's website (guest hosted by 
-> INDOLOGY).  There you can find the IndUni font family, which are very 
-> finely designed and optimized for Indic transliteration.  John also 
-> makes available a very convenient keyboard handler for Windows (that's 
-> what I use) and another for the Mac.  Using the IndUni unicode fonts 
-> (or any Unicode font) and the keyboard handler makes it extremely easy 
-> to type romanized Sanskrit. (RightAlt+a = ? (a-macron), etc.)  John 
-> has done us all a great service.
->
-> There are probably several other keyboard systems and fonts out there 
-> if one searches, but I can vouch for the simplicity and excellence of 
-> John's under Windows.  I haven't used the Mac one.
->
-> If you're using Linux, there's a nice system that works with SCIM 
-> (http://www.scim-im.org/), called m17n 
-> (http://www.m17n.org/m17n-lib-en/). A bit cryptic to install, but in 
-> fact easy, and also very easy to modify for oneself.
->
-> Best,
-> Dominik
 For those who read German, the weblog "Flammschild's j?lsth?na" from 
 Heidelberg has very useful directions for keyboard configuration in both 
 Windows and Linux:
-
 Windows: 
 http://flammschild.blog.uni-heidelberg.de/2008/12/25/eingabemethoden-unter-windows/
-
 Linux (scim + m17n on Ubuntu): 
 http://flammschild.blog.uni-heidelberg.de/2008/12/22/eingabemethoden-unter-ubuntu/
-
 Best,
-
 Birgit Kellner
-
-
-
-

@@ -1,11 +1,5 @@
-From jdwhite at EMAIL.UNCC.EDU  Tue Jul 28 15:39:26 1998
-From: jdwhite at EMAIL.UNCC.EDU (J. Daniel White)
-Date: Tue, 28 Jul 98 11:39:26 -0400
-Subject: Experience with GlobalWriter 95/98?
-Message-ID: <161227041040.23782.12361225980081466300.generated@prod2.harmonylists.io>
-
+Experience with GlobalWriter 95/98?
 Colleagues,
-
 Today I received a notice for a word processing CD ROM which includes in its
 scripts, among other world languages, most of the fifteen "major" languages
 of India (north and south) AND Sanskrit.  The product, GlobalWriter 98
@@ -14,13 +8,7 @@ $49.99.  Does anyone have experience with this program?  If so, does the
 Sanskrit program contain all the euphonic combinations, that is, those not
 found in Hindi but only in Sanskrit--a problem with some other programs I
 have seen?
-
 Three years ago, I talked in Pune with CDAC about adding Sanskrit to their
 fine Indic word processing programs.  Does anyone know if they have done
 this and, if so, how good is it and what is the price now?
-
 Dan White
-
-
-
-

@@ -1,44 +1,13 @@
-From jkcowart at IO-ONLINE.COM  Wed Nov 26 22:51:28 1997
-From: jkcowart at IO-ONLINE.COM (J Kingston Cowart)
-Date: Wed, 26 Nov 97 14:51:28 -0800
-Subject: failure to access archives
-Message-ID: <161227034027.23782.18026609523825704802.generated@prod2.harmonylists.io>
-
+failure to access archives
 At 12:47 PM 11/25/97 +0000, Dominik Wujastyk wrote:
->On Mon, 24 Nov 1997, J Kingston Cowart wrote:
->
->> My attempts to access the INDOLOGY archives at
->> <http://listserv.liv.ac.uk/archives/indology.html>
->> have all failed.
->
->All I can say, I'm afraid, is that the above URL works for me, both with
->Netscape from a PC and with Lynx from a mainframe.
->
->I assume you are not typing "<" and ">".
->
->What error message do you get?
->
->All the best,
->Dominik
-
 I was getting:
-
 "Unable to open http://listserv.liv.ac.uk/archives/indology.html.
 The site reports that the item you requested could not be found"
-
 and
-
 "404 Not Found.  The requested URL was not found on this
 server: /archives/indology.html."
-
 But it is working now.
-
 Thanks,
-
 J. Kingston Cowart
 San Diego California
 <jkcowart at io-online.com>
-
-
-
-

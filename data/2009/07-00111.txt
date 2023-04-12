@@ -1,85 +1,23 @@
-From r.mahoney at INDICA-ET-BUDDHICA.ORG  Tue Jul 28 20:41:47 2009
-From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
-Date: Wed, 29 Jul 09 08:41:47 +1200
-Subject: 'adhimukti'
-In-Reply-To: <2ae392d5d8810fa9cddbc52143ad29b6.squirrel@srvc1.oeaw.ac.at>
-Message-ID: <161227087186.23782.5986439792272775373.generated@prod2.harmonylists.io>
-
+'adhimukti'
 On Tue, Jul 28, 2009 at 02:33:43PM +0200, Vincent Eltschinger wrote:
-> Dear Taylor,
-> A very highlighting conceptual discussion of adhimukti/adhimok.sa can be
-> found in Lambert Schmithausen: Der Nirvaa.na-Abschnitt in der
-> Vini'scayasa.mgraha.nii der Yogaacaarabhuumi.h, Vienna 1969, pp. 179-180
-> (= endnote 263). As for the term adhimukticaryaa, your colleague is
-> certainly aware of the fact that it designates a pre-stage (but actually
-> already a bhuumi) in the system of the bodhisattvabhuumi-s. Although the
-> book is not availabe to me at the present moment, I guess some semantic
-> informations might be found in Har Dayal's classic work on the Bodhisattva
-> doctrine in Buddhism.
-> With best regards,
-> Vincent E.
-
 Your colleague may also find it helpful to have a look at the various
 permutations of adhi-muc found in the YBh &c. here:
-
  IeB :: Lexica Search (Legacy)
  http://lexica.indica-et-buddhica.org/dict/lexica-legacy
-
 Initially I would search for:
-
 Term: adhimuc*
-
 Search strategy: POSIX 1003.2 (modern) regular expressions
-
 Database: Any 
-
-
 (All of these databases are available for download.)
-
-
 The various definitions and references available through the following
 may also help (also available as a download for off line use): 
-
  THL Tibetan to English Translation Tool
  http://www.thlib.org/reference/translation-tool/
-
-
-
 Kind regards,
-
  Richard
-
-
- 
-> > Dear friends
-> >
-> > A colleague, Ruth Gamble, has posted me this question:
-> >
-> > "The word is adhimukti [mos pa or mos gus in Tibetan].  In one of the
-> > poems I am looking at it is used in conjunction with spyod pa, or carya
-> > -- adhimukticarya...  adhi [above, over, on] and mukti is liberation,
-> > right?  So why does the Cologne Digital Sanskrit Lexicon list the
-> > meaning for adhimukti as "propensity, confidence"?  And, more
-> > intriguingly, why do you think most Tibetan translators translate mos
-> > pa/mos gus as "devotion"?"
-> >
-> > A can anyone cast any light on why adhimukti might mean 'propensity,
-> > confidence'?
-> >
-> > Thanks in advance
-> >
-> > McComas
-> >
-> 
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 275 829 986
 OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indica et Buddhica: Materials for Indology and Buddhology
-
-
-
-

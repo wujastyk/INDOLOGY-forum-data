@@ -1,48 +1,26 @@
-From hellwig7 at gmx.de  Sun Apr 29 18:40:45 2018
-From: hellwig7 at gmx.de (hellwig7 at gmx.de)
-Date: Sun, 29 Apr 18 20:40:45 +0200
-Subject: [INDOLOGY] Rigveda annotation
-In-Reply-To: <mailman.19.1525017602.2530.indology_list.indology.info@list.indology.info>
-Message-ID: <D9B52DC17D4443B0A9CC0057582C7D5D@OliverHP>
-
+[INDOLOGY] Rigveda annotation
 Dear all,
-
 I would like to announce the release of a full annotation of the Rigveda 
 with morphological, lexical and verb-argument information.
-
 Data are stored in a publicly accessible repository at
 https://git.adwmainz.net/open/rigveda
-
 Details of the annotation process are described in the LREC paper, which is 
 stored at the upper level of the repository.
-
 Quality requirements are traditionally high in Vedic studies. So be warned: 
 The morpho-lexical annotations **DO** contain errors.
 The Rigveda was the first Vedic text I processed with my tagger, which may 
 not have been the wisest idea, given its complexity.
 It was analyzed book-wise in the following order:
 10, 1, 2-7, 9, 8
-
 Hopefully, error level becomes lower in the same order as well. In addition, 
 I am constantly revising the text hymn by hymn, and future releases of the 
 data will become better.
-
 Moreover, I did not follow Grassmann's (or PW's) analysis of the text. 
 Therefore, lemmata such as tuvijAta, which are typically entered as one 
 lexeme in these dictionaries, are split into tuvi+jAta (<- PPP of jan-) in 
 my analysis, when I had the impression that they have a purely compositional 
 reading.
-
 Nevertheless, I hope the resource can be useful for corpus-based research on 
 this text, where large numbers may smooth away some details.
-
 Best, Oliver
-
----
 Oliver Hellwig, IVS Zurich/SFB 991, D?sseldorf 
-
-
-
-
-
-

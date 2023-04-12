@@ -1,9 +1,4 @@
-From rao.3 at OSU.EDU  Thu Nov 23 11:17:39 2000
-From: rao.3 at OSU.EDU (Vidhyanath Rao)
-Date: Thu, 23 Nov 00 11:17:39 +0000
-Subject: Differences between oral and written Taittiriya Samhita
-Message-ID: <161227064545.23782.14020970072385216024.generated@prod2.harmonylists.io>
-
+Differences between oral and written Taittiriya Samhita
 Looking at the text version of the TS at TITUS,
 I noticed an interesting pattern: At boundaries
 marked as ` / ' (ardhrca?) and ` // ' (actual
@@ -16,7 +11,3 @@ example, the opening section has
 Unfortunately, there is no explanation of the notation
 at the head of the file. This might reflect an editorial
 convention rather than manuscript practice.
-
-
-
-

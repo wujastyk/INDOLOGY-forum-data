@@ -1,11 +1,5 @@
-From vsundaresan at HOTMAIL.COM  Tue Aug 29 06:20:06 2000
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Tue, 29 Aug 00 06:20:06 +0000
-Subject: Bhagavadgita, cognition, Buddhism?
-Message-ID: <161227061172.23782.7362141973596168339.generated@prod2.harmonylists.io>
-
+Bhagavadgita, cognition, Buddhism?
 Dear Martin,
-
 I have been ruminating over these two verses for quite some time, so here
 are my 2 c. on it. It seems somewhat odd to think of the word sa.mghaata in
 terms of contact of the senses with their objects. This would be better
@@ -14,16 +8,6 @@ sa.mghaata implies a collection, or an aggregate, like skandha in Buddhism.
 Sure, there is an expectation of contact between different things in
 sa.mghaata, but not in the dynamic sense of sensory perception, at least to
 my ears.
-
->Bhagavadgita 13.5-6 gives the following summary definition of prakriti
->(kshetra):
->         mahaabhuutaany aha.mkaaro buddhir avyaktam eva ca /
->         indriyaa.ni dazaika.m ca pa?ca cendriyagocaraa.h //
->         icchaa dve.sa.h sukha.m du.hkha.m sa.mghaataz cetanaa dh.rti.h /
->In their rendering of the last pada, most modern translators (some with a
->slight twist of their own) seem to follow Sankara's understanding of the
->three words as 'the body, consciousness, and endurance.' (Though one
-
 Actually, such translations do not quite follow Sankara. Endurance of what?
 Or rather, whose? It cannot refer to the permanence of the self, which is
 the k.setrajna, whereas the verse talks only of the k.setra. And in this
@@ -31,7 +15,6 @@ verse, dh.rti cannot be endurance as titik.saa either. Else, why include it
 as part of the k.setra, but not other qualities like amaanitva, adambhitva
 and so on (13.7-11)? Nor does it seem like dh.rti in 13.6 can be equated
 with that in 10.34 or 16.3.
-
 In Sankara's commentary, sa.mghaata is not just the body, but dehendriya
 sa.mhati, i.e. the aggregate of the body and the senses. And cetanaa is not
 pure consciousness itself, but its appearance (aabhaasa) in the internal
@@ -39,7 +22,6 @@ organ. It therefore refers to a v.rtti of the internal organ, i.e. buddhi or
 vijnaana. In this interpretation, cetanaa presumes contact between the
 senses and their objects, but then, isn't such contact implied by the term
 indriya-gocara in 13.5?
-
 All that Sankara says about dh.rti is that it sustains the body and the
 senses when they are fatigued (avasaada). My guess is that he must be
 equating dh.rti with (mukhya?) praa.na. Cf. the upani.sad account, where the
@@ -49,7 +31,6 @@ praa.na. Verse 13.5 enumerates the 24 principles of saa.mkhya (not including
 the puru.sa), none of which includes the praa.nas. None of the other terms
 in 13.6 would correspond to the praa.nas, unless one includes them under the
 term sa.mghaata.
-
 In this context, refer to Gita 7.4-5. Sankara interprets the words "eva ca"
 in 13.5 with respect to the a.s.tadhaa bhinnaa prak.rti, which is aparaa,
 and he equates the jiivabhuutaa paraa prak.rti (7.4-5) with the k.setrajna,
@@ -59,10 +40,6 @@ praa.na-dhaara.na-nimitta-bhuutaa. And as the ;sariira is the k.setra, also
 see his comments on 18.14, where adhi.s.thaana refers to the ;sariira,
 listed in addition to the kara.nas (indriyas), while the term
 p.rthak-ce.s.taa.h refers to the praa.nas.
-
->prefer Ramanuja's reading sa.mghaataz cetanaadh.rti.h 'the body, supporting
->consciousness'.)
-
 If the reading were cetanaa-dh.rta.h, this interpretation would hold, as it
 would have been in apposition to sa.mghaata.h. It seems rather forced for
 the reading dh.rti.h, which is an independent noun here. Even if
@@ -70,11 +47,6 @@ cetanaadh.rti.h were seen as one compound word, and interpreted as Yogic
 dhaara.naa or ekaagrataa or citta-samaadhaana, it would still not relate to
 sa.mghaata. Anyway, such a reference to Yoga  would be out of place when
 only enumerating the parts of the k.setra.
-
->
->Presumably, the understanding of sa.mghaata as 'body' is based on MaiU 1.3.
->Nevertheless, with either reading, this last pada seems somewhat out
-
 It seems out of place because there is no particular connection with
 saa.mkhya thought. However, following Sankara's interpretation, 13.6 refers
 not to saa.mkhya, but to nyaaya-vai;se.sika, where icchaa, dve.sa, sukha,
@@ -85,10 +57,6 @@ and their objects, but also contact between the senses and the internal
 organ, and between the internal organ and the self. You might find something
 useful in this connection in the N-V texts, more than in saa.mkhya texts.
 Hope somebody comes up with useful references from Buddhist texts.
-
->of dh.rti as a term for mental retention in 18.29-33, as well as with
->13.5-6 as a whole.
-
 It seems to me that saatvikii buddhi and avyabhicaari.nii dh.rti in 18.30-33
 can be better correlated with dh.rti-g.rhiitaa-buddhi in 6.25, the
 daivii-sampat in 16.1-3, and sama-cittatva, ananya-yoga and
@@ -100,16 +68,8 @@ listed along with adhyaatma-jnaana and tattva-jnaana? The only difficulty is
 that all this makes 13.6 unique in the entire text, in its usage of the word
 dh.rti, but I see no easy way around it. Perhaps it is meant to be unique,
 no matter how one looks at it.
-
 Best wishes,
 Vidyasankar
-
-_________________________________________________________________________
 Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
-
 Share information about yourself, create your own public profile at
 http://profiles.msn.com.
-
-
-
-

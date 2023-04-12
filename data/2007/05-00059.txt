@@ -1,29 +1,17 @@
-From tomo.kono at MAC.COM  Sun May 27 14:26:48 2007
-From: tomo.kono at MAC.COM (Tomo Kono)
-Date: Sun, 27 May 07 15:26:48 +0100
-Subject: Clay Sanskrit Library newsletter May 2007
-Message-ID: <161227080246.23782.14072228089036517118.generated@prod2.harmonylists.io>
-
+Clay Sanskrit Library newsletter May 2007
 Dear colleagues,
-
 I would like to draw your attention to the May issue of the Clay  
 Sanskrit Library newsletter which includes information on newly  
 published and forthcoming volumes.
-
 You can view this newsletter in html format by following this link
 http://www.claysanskritlibrary.org/newsletter/05_csl_news_may07.php
-
 and you can subscribe to the CSL mailing list to receive future  
 newsletters:
 http://www.claysanskritlibrary.org/newsletter.php
-
 I apologise in advance for cross-posting.
-
 Tomoyuki Kono
 Clay Sanskrit Library
 http://www.claysanskritlibrary.org
-
-
 Clay Sanskrit Library Newsletter: May 2007
 Welcome to the May edition of the Clay Sanskrit Library Newsletter.  
 In this Spring issue we are proud to announce the release of four new  
@@ -32,17 +20,13 @@ Festival (Vasantotsava)! These great books will be followed in the
 summer by another four volumes. We are also pleased to present more  
 downloads on our website, and links to some recent reviews we have  
 received.
-
 CONTENTS:
-
 Four New Volumes Now Available <#1>
 New Releases in August <#2>
 Recent CSL Reviews <#3>
 New CSL Web Pages and Resources <#4>
-
 1. FOUR NEW VOLUMES NOW AVAILABLE
 <http://www.claysanskritlibrary.org/volumes_current.php>
-
 The twists and turns in King Harsha?s two plays about a lady are
 guaranteed to intrigue every reader. Translation of the famous epic of
 the Maha?bh?rata is in full swing with two new volumes available
@@ -53,30 +37,24 @@ from all these volumes are available on our website
 and you can also read translators? personal accounts of their
 volumes in their insights pages
 <http://www.claysanskritlibrary.org/excerpts.php>.
-
 ?The Lady of the Jewel Necklace? and ?The Lady Who Shows Her
 Love? <http://www.claysanskritlibrary.org/volume.php?id=33>
 by Har?a
 Wendy Doniger
-
 Download excerpt
 <http://www.claysanskritlibrary.org/excerpts_detail.php?id=33>
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/insights_detail.php?id=28>
-
 Maha?bh?rata Book Four: Vir?ta
 <http://www.claysanskritlibrary.org/volume.php?id=28>
 Kathleen Garbutt
-
 Download excerpt
 <http://www.claysanskritlibrary.org/excerpts_detail.php?id=28>
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/insights_detail.php?id=27>
-
 Maha?bh?rata Book Eight: Karna (volume one of two)
 <http://www.claysanskritlibrary.org/volume.php?id=29>
 	Adam Bowles
-
 Download excerpt
 <http://www.claysanskritlibrary.org/excerpts_detail.php?id=29>
 Book extras: emendations to the Sanskrit Text
@@ -84,42 +62,34 @@ Book extras: emendations to the Sanskrit Text
 emendations.php>
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/insights_detail.php?id=29>
-
 The Ocean of the Rivers of Story (volume one of nine)
 <http://www.claysanskritlibrary.org/volume.php?id=30>
 by Somadeva
 Sir James Mallinson
-
 Download excerpt
 <http://www.claysanskritlibrary.org/excerpts_detail.php?id=30>
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/insights_detail.php?id=30>
-
 2. NEW RELEASES IN AUGUST
 <http://www.claysanskritlibrary.org/volumes6.php>
-
 These four volumes are scheduled for August 2007. You can also read
 some of the translators? Insights
 <http://www.claysanskritlibrary.org/insights.php>
 on these volumes.
-
 ?Friendly Advice? by N?r?ya?a & ?King V?krama?s
 Adventures?
 <http://www.claysanskritlibrary.org/volumes_detail.php?id=40>
 Judit T?rzs?k
-
 ?Friendly Advice? combines numerous animal fables with human
 stories. In one tale an intrusive ass is simply thrashed by his
 master, but the meddlesome monkey ends up with his testicles crushed.
 This volume also contains the compact version of ?King V?krama?s
 Adventures,? thirty-two popular tales about a generous emperor, told
 by thirty-two statuettes adorning his lion-throne.
-
 Handsome Nanda
 <http://www.claysanskritlibrary.org/volumes_detail.php?id=43>
 by A?vagho?a
 Linda Covill
-
 Nanda has it all?youth, money, good looks and a kittenish wife who
 fulfils his sexual and emotional needs. He also has the Buddha, a
 dispassionate man of immense insight and self-containment, for an
@@ -128,11 +98,9 @@ Buddha?s order of monks, he is forced to confront his all-too-human
 enslavement to his erotic and romantic desires.
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/descriptions_detail.php?id=32>
-
 Maha?bh?rata Book Nine: Shalya (volume two of two)
 <http://www.claysanskritlibrary.org/volumes_detail.php?id=75>
 	Justin Meiland
-
 In one of the most famous passages in the ?Maha?bh?rata,?
 Dur?y?dhana, the heroic but flawed king of the K?uravas, meets his
 end when he is dishonorably defeated in battle by his arch enemy,
@@ -141,15 +109,12 @@ river Sar?svati, the duel poignantly portrays the downfall of a once
 great hero in the face of a new order governed by Krishna, in which
 the warrior code is brushed aside in order to ensure the predestined
 triumph of the P?ndavas.
-
 Read Translator?s Insights
 <http://www.claysanskritlibrary.org/descriptions_detail.php?id=31>
-
 Rama?s Last Act
 <http://www.claysanskritlibrary.org/volumes_detail.php?id=66>
 by Bhavabh?ti
 	Sheldon I. Pollock
-
 ?Rama?s Last Act? by Bhava?bhuti is counted among the
 greatest Sanskrit dramas. The work at once dramatizes the
 ?Ram?yana??it is one of the earliest theatrical adaptations of
@@ -158,9 +123,7 @@ episode, the hero?s rejection of his beloved wife. Human agency in
 the face of destiny, the power of love, and the capacity of art to
 make sense of such mysteries are the themes explored in this singular
 literary achievement of the Indian stage.
-
 3. RECENT CSL REVIEWS <http://www.claysanskritlibrary.org/press.php>
-
 Mint (Hindustan Times Media Company): ?Finally, Sanskrit in Your
 Pocket: This hardback version of Kalidasa's Shakuntala is for the
 erudite as well as the lay reader? (HTML). Read the article
@@ -168,7 +131,6 @@ erudite as well as the lay reader? (HTML). Read the article
 clay.html>
 (and resulting discussion) on the review author?s blog, The Middle
 Stage.
-
 Review of ?Much Ado About Religion? on Amigos-Word (HTML):
 ?This Clay Sanskrit Library edition is an attractive dual-language
 volume, with the Sanskrit transliterated in Roman script facing the
@@ -176,22 +138,17 @@ English translation, and includes a useful introduction as well as
 editorial notes.? Read the article
 <http://amigosword.blogspot.com/2007/03/much-ado-about-religion.html>
 on the review author?s blog, Amigos-Word.
-
 4. NEW CSL WEB PAGES AND RESOURCES
 <http://www.claysanskritlibrary.org/press.php>
-
 Read ?Into the Fray,? a new introduction to the Maha?bh?rata
 <http://www.claysanskritlibrary.org/about_mahabharata.php>
 written by Vaughan Pilikian.
-
 We have a new page
 <http://www.claysanskritlibrary.org/volumes_sanskrit.php>
 listing all current and future CSL volumes in Sanskrit alphabetical
 order.
-
 You can read what customers and reviewers have been writing about us
 on Feedback <http://www.claysanskritlibrary.org/feedback.php> page.
-
 We have a new book extras page
 <http://www.claysanskritlibrary.org/excerpts/kumara/kumara-notes.php>
 which provides text-critical notes to the Sanskrit text of The Birth
@@ -199,7 +156,6 @@ of Kum?ra (Kum?rasa?bhava)
 <http://www.claysanskritlibrary.org/volume.php?id=1>. This is a  
 corrected and expanded version of the notes in the printed edition  
 (pp. 348?50).
-
 Another new book extras page
 <http://www.claysanskritlibrary.org/excerpts/karna/karna- 
 emendations.php>
@@ -207,12 +163,7 @@ lists emendations to the Sanskrit text and some text-critical notes
 which are not included in the printed edition of Maha?bh?rata Book
 VIII: Karna (volume one of two)
 <http://www.claysanskritlibrary.org/volume.php?id=29>.
-
 Check out our MySpace page
 <http://www.myspace.com/claysanskritlibrary>
 and our Wikipedia page!
 <http://en.wikipedia.org/wiki/Clay_Sanskrit_Library>
-
-
-
-

@@ -1,46 +1,30 @@
-From Shrisha.Rao at launchpad.unc.edu  Mon Oct 16 17:43:36 1995
-From: Shrisha.Rao at launchpad.unc.edu (Shrisha.Rao at launchpad.unc.edu)
-Date: Mon, 16 Oct 95 17:43:36 +0000
-Subject: RFD: humanities.language.sanskrit
-Message-ID: <161227021275.23782.13439199527558662388.generated@prod2.harmonylists.io>
-
+RFD: humanities.language.sanskrit
                      REQUEST FOR DISCUSSION (RFD)
             unmoderated group humanities.language.sanskrit
-
 This is a formal Request For Discussion on the creation of a new
 worldwide UseNet newsgroup, humanities.language.sanskrit.
-
 Proponents: HGroover at Qualitas.com (Henry Groover)
             Shrisha.Rao at launchpad.unc.edu (Shrisha Rao)
-
 Mentor: mccomb at best.com (Todd Michel McComb)
-
 Newsgroups line:
 humanities.language.sanskrit  The Sanskrit language and related topics.
-
 RATIONALE: humanities.language.sanskrit
-
 Sanskrit is an Indo-European language of ancient origins, like Latin,
 ancient Greek, and Persian. Unlike many other ancient languages, however,
 it has had an unbroken tradition of both literary and everyday usage,
 lasting right up to the present day.
-
 A study of Sanskrit is very useful for those interested in understanding
 Hinduism; it is also important to those who study Paninian linguistics,
 Vedanta, Indology, the development of Indo-European languages and
 cultures, etc. Besides all these, of course, Sanskrit has a vast body of
 prose, poetry, drama, and music, of genuine literary worth, that is of
 much interest to many scholars and amateurs.
-
 There exists a Sanskrit e-mail discussion group that generates a fairly
 high volume of messages -- 50+ per day -- and has in excess of 300 members
 who are potential readers of such a newsgroup. It may also be safely
 assumed that there are others not on the list who would also like to see
 such a newsgroup come about.
-
-
 CHARTER: humanities.language.sanskrit
-
 The newsgroup humanities.language.sanskrit will be a forum devoted to the
 discussion of all matters pertaining to the formal or informal study of
 Sanskrit, both as a literary and scriptural language, and also as a
@@ -50,40 +34,24 @@ in it an opportunity to learn by interaction. While there will be no
 restriction on the range of Sanskrit-related topics allowed, those that
 have nothing to do either with Sanskrit itself, or with issues in the
 study of Sanskrit, will be strongly discouraged.
-
 END CHARTER.
-
 PROCEDURE:
-
 The posting of this RFD initiates a discussion of at least three weeks'
 (21 days') duration. The discussion is restricted to news.groups only;
 do not discuss this on other newsgroups. At the end of that time, a
 neutral party, the Usenet Volunteer Votetakers (UVV) will post a Call
 For Votes (CFV) containing detailed instructions. Do not confuse this
 RFD with a CFV; the voting will not commence until later.
-
 DISTRIBUTION:
-
 This RFD is cross-posted to the following newsgroups:
-
 news.announce.newgroups, news.groups, soc.culture.indian,
 soc.culture.german, alt.religion.vaisnava, sci.lang, humanities.misc
-
 This message will also be sent to the following mailing lists after
 the RFD has appeared in news.announce.newgroups.
-
 1. Sanskrit mailing list <sanskrit at keshav.informix.com>
 2. Indology mailing list <indology at liverpool.ac.uk>
 3. NLPAsia-L mailing list <nlpasia-l at nectec.or.th>
 4. Indo-European list <INDOEUROPEAN-L at cornell.edu>
-
 Follow-ups have been directed to news.groups. Please honor that, and
 keep the discussion to news.groups only.
-
 == end ==
- 
-
-
-
-
-

@@ -1,28 +1,8 @@
-From martingansten at gmail.com  Fri Mar 22 07:03:58 2019
-From: martingansten at gmail.com (Martin Gansten)
-Date: Fri, 22 Mar 19 08:03:58 +0100
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <CAPW7aQFyFT3dsvUzLmOaPhFOQKFHCJ5HytJ_bPwWfnCLTJ0Q0A@mail.gmail.com>
-Message-ID: <ccc1551e-7848-1423-653f-a6b1b9d753cf@gmail.com>
-
+[INDOLOGY] Non-standard sandhi
 Nevertheless, the majority of these hits seem not to be instances of e > 
 a or o > a sandhi. Also, comparing them with the sa?hit? text in 
 M?ller's edition, most of them are given either as ? (that is, a single 
 vowel) or ? a, not as a a. A machine search for 'a a' may not be the 
 optimal way of finding examples of this unusual sandhi.
-
 Martin
-
-
 Den 2019-03-21 kl. 19:37, skrev Harry Spier:
-> As I said this is a very small sample.? Let me know if you want me to 
-> send you the entire list.
-> Note also that the Rg-veda version used was Aufrechts not the 
-> metrically restored edition of Van Hooten and Holland.
-> Harry
->
-> On Thu, Mar 21, 2019 at 2:27 PM Martin Gansten 
-> <martingansten at gmail.com <mailto:martingansten at gmail.com>> wrote:
->
->     Thank you, Harry. Most of these are just instances where sandhi
->     has not been implemented, or (in the case of Veda) where a text

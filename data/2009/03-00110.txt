@@ -1,117 +1,30 @@
-From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Thu Mar 19 12:25:39 2009
-From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
-Date: Thu, 19 Mar 09 13:25:39 +0100
-Subject: Legal constraints (la "Loi Toubon") [Re: Language barriers ---              financial barriers
-In-Reply-To: <965fdc5f0903190147k465eae67p301d2276bdba600e@mail.gmail.com>
-Message-ID: <161227085417.23782.16255106296829666257.generated@prod2.harmonylists.io>
-
+Legal constraints (la "Loi Toubon") [Re: Language barriers ---              financial barriers
 As a contribution to the debate, I would like to mention another 
 parameter, namely the legal constraints that vary from country to country.
-
 It is (in normal conditions) against the law to write a Ph.D. thesis in 
 English if you study at a French university.
-
 See the following link:
-
 <http://www.dglf.culture.gouv.fr/droit/loi-fr.htm>
-
 where you will find the "Article 11", of the "LOI n? 94-665 du 4 ao?t 
 1994 relative ? l'emploi de la langue fran?aise" (known as "Loi Toubon") 
 which says:
-
 "La langue de l'enseignement, des examens et concours, ainsi que des 
 th?ses et m?moires dans les ?tablissements publics et priv?s 
 d'enseignement est le fran?ais, sauf exceptions justifi?es par les 
 n?cessit?s de l'enseignement des langues et cultures r?gionales ou 
 ?trang?res ou lorsque les enseignants sont des professeurs associ?s ou 
 invit?s ?trangers."
-
 I have heard that in Germany a Ph.D. thesis can be written in English, 
 but I would like to have confirmation of that fact.
-
 I am under the impression that in Italy, a Ph.D. thesis must be in italian.
-
 What is the situation in India? Is it possible to write a Ph.D. thesis 
 in Sanskrit?
-
 The consequence of the French legal constraints is that a French Ph.D. 
 thesis in the field of Indology has to be translated into English before 
 it can hope to reach an international audience
 (and translation into Sanskrit, or Tamil, can probably only be viewed as 
 a third step).
-
 Of course, there are people in France who realize that this situation is 
 problematic, but there are other people who fight strongly against any 
 change.
-
-
--- Jean-Luc Chevillard (CNRS, Universit? Paris-Diderot Paris 7)
-
-
 veeranarayana Pandurangi a ?crit :
-> Certainly, I welcome prof. Kiparsky's suggestion.
->
-> It is what suggested by me there in hyderabad seminar. What I pointed is
-> that Prof. Kiparsky, prof. Houben, prof. Stall and very few others have
-> contributed very much grammatical tradition of panini, on the subject that
-> prof. Houben spoke there. But most of these researches are in english, which
-> is mostly onknown to most of the very good traditional Samskrita scholars
-> who fortunatley still are keeping alive the panini's tradition. simlar is
-> the case of other shastras still rigorously studied in India, Nyaya,
-> Vyakarana, Mimamsa, Vedanta, Sahitya. [...]
->
->
-> Hence those writing in socalled international language i.e. English should
-> also publish in samskrita (not sanskrit) and technical language that
-> includes and that is original to paninian tradition, then the intended
-> result can be acheived. people should be made aware of these things. Many of
-> you may know oldtimer pandita manners very well while visiting india.
->
-> [....]
->
-> Similarly people should practice writing in sanskrit. Sure I know that will
-> have their no impact on their career in US universities and elsewhere, but
-> then english writing will have no result though writer may become profesor.
->
-> I dont say it is solely the fault of people writing in english or language
-> itself, the sin is shared by Pandits also by not responding to these
-> writngs. but then there come all the barriers. we have a strike a balance to
-> overcome it. By writing in Samskrita one will only contribute more  to
-> language he studies, and nothing udesired thing will happen.
->
-> This is what I spoke in Hyderabad.
->
-> It is upto the scholars to workout.
-> veeranarayana
->
->
-> On Thu, Mar 19, 2009 at 9:21 AM, Paul Kiparsky
-> <kiparsky at csli.stanford.edu>wrote:
->
->   
->> If you want your work to be accessible to linguistically disjoint
->> audiences, why write it up in just one language?   In smaller European
->> countries it is, or at any rate used to be, usual to publish one's work both
->> in English (or German) in an international journal, and locally in the
->> national language.  For English-speaking Indologists, the comparable
->> practice would be to publish both an English version in an international
->> journal or book, and a Hindi, Tamil, or Sanskrit version in India.  As Jan
->> Houben reported here on March 3, summaries of the talks at the recent Third
->> International Sanskrit Computational Linguistics Symposium were made
->> available both in English and in Sanskrit.  The traditional philologists and
->> pandits who attended the conference welcomed the Sanskrit version as a step
->> to overcoming the language barrier and establishing mutual understanding
->> with English-speaking Indologists and computational linguists.
->>
->> Paul Kiparsky
->>
->>
->>
->> On Mar 18, 2009, at 5:09 PM, Simon Brodbeck wrote:
->>
->> On Friday 6 March 2009, Jean-Luc Chevillard wrote: "The more languages one
->>     
->>> knows, the better."
->>>
->>> Few would disagree. But that is from the perspective of the consumer or
->>> recipient of texts. Active researchers are also producers of texts, and must

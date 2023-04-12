@@ -1,15 +1,9 @@
-From jhelling at cs.ruu.nl  Thu Jan 20 09:43:27 1994
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Thu, 20 Jan 94 10:43:27 +0100
-Subject: Malayalam fonts
-Message-ID: <161227016501.23782.7872288031805691642.generated@prod2.harmonylists.io>
-
+Malayalam fonts
   > 
   > I would be grateful for help on this point.
   > 
   > I have just downloaded two Windows fonts for Malayalam from the 
   > CICA archive. They look quite good and print well.
-  
   I also got the same fonts converted to Macintosh TrueType, but I am not so
   happy with them. There are two styles, one square thick line design, and one
   normal design (with thick-thin transitions) I think they have been done very
@@ -19,17 +13,10 @@ Message-ID: <161227016501.23782.7872288031805691642.generated@prod2.harmonylists
   I have seen some ugly things for sale) For comparison, take a look at the
   fonts CDAC has for sale, and which are used in newspapers and magazines in
   Kerala.
-
   About it copyright status I cannot tell you anything. I haven't seen them
   before. 
-
   Jeroen
-
--- 
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
 't Zand 2                         Phone: +31-3473-73935 (home)
 4133 TB Vianen                    (18.00--21.00 GMT)
 The Netherlands                   Answer in English, German, or Dutch.
- 
-
-

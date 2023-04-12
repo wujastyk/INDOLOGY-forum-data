@@ -1,40 +1,14 @@
-From zydenbos at uni-muenchen.de  Tue Mar 12 11:59:51 2013
-From: zydenbos at uni-muenchen.de (Robert Zydenbos)
-Date: Tue, 12 Mar 13 12:59:51 +0100
-Subject: [INDOLOGY] Linux in a virtual box on Mac (was: Fwd: New Sanskrit-Eng. dictionary...)
-In-Reply-To: <EF42A6743577E541829A07570C28DB682B0CDA45@SXMB1PG.SYSTEMS.SMU.EDU>
-Message-ID: <513F18B7.3080707@uni-muenchen.de>
-
+[INDOLOGY] Linux in a virtual box on Mac (was: Fwd: New Sanskrit-Eng. dictionary...)
 Lindquist, Steven wrote:
-
-> [...] the OSX function that
-> reopens programs/files on boot can be shut off in the preferences
-> (though it shuts it off across everything; just uncheck 'restore
-> windows...').
-
 Our university gave us new computers a few months ago with 'Lion' on it 
--- and this just doesn't work. I also tried an extension called 
 RestoreMeNot, but that doesn't work either...
-
 Maybe this is improved in Mountain Lion? Or I'm just having very bad 
 luck? I don't know.
-
 Robert
-
--- 
 Prof. Dr. Robert J. Zydenbos
 Institute of Indology and Tibetology
 Department of Asian Studies
 Ludwig-Maximilians-Universit?t M?nchen
 Germany
-Tel. (+49-89-) 2180-5782
 Fax (+49-89-) 2180-5827
 Web http://zydenbos.userweb.mwn.de/
-
-
-
-
-
-
-
-

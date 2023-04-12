@@ -1,17 +1,5 @@
-From vsundaresan at HOTMAIL.COM  Fri Sep  8 05:57:02 2000
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Fri, 08 Sep 00 06:57:02 +0100
-Subject: Ideological distortions of MSS
-Message-ID: <161227061490.23782.9895066774816613025.generated@prod2.harmonylists.io>
-
+Ideological distortions of MSS
 Dmitri <dmitris at PIPELINE.COM> wrote:
-
->The question, I'd like to ask indologists on this listserv is:
->Is there a known sanskrit MSS of which two versions exists, those
->two versions are different, and the difference might be attributed
->to a deliberate editing of the earlier version to bind the meaning of
->a passage towards a religious, ideological or scholastic dogma?
-
 Rather than the yogasUtras or similar texts, it seems to me that you would
 have better luck finding widely different versions of hagiographic texts.
 The Sankaravijaya of anantAnandagiri (usually attributed to Anandagiri, but
@@ -20,7 +8,6 @@ the 1971 Madras edition. There are two distinct sets of mss. for this text
 that cannot be easily reconciled with each other, as mentioned in the
 preface to the Madras edition. There are quite a few indications that one
 set of mss. represents a reworking of an older version of the text.
-
 Within the more standard sUtra-s and their commentaries, it is perhaps not
 very well known that as compared to all known earlier commentators, the
 Dvaitin AnandatIrtha (madhva) has a very different number (total) and
@@ -29,9 +16,4 @@ differ only in very minor ways, e.g. whether a given string of text is one
 sUtra or two consecutive sUtras. I don't think it has ever been investigated
 whether madhva's unique reading is particularly motivated by religious or
 ideological dogma.
-
 Vidyasankar
-
-
-
-

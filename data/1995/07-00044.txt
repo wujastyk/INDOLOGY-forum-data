@@ -1,16 +1,5 @@
-From czm1 at cornell.edu  Fri Jul  7 21:51:20 1995
-From: czm1 at cornell.edu (czm1 at cornell.edu)
-Date: Fri, 07 Jul 95 17:51:20 -0400
-Subject: Critical editions
-Message-ID: <161227019956.23782.3634373504793258804.generated@prod2.harmonylists.io>
-
+Critical editions
 V. Rao:
->I agree with the last two sentences. But not the first. Keith, in his
->re-edition of Aitreya Aaranyaka, says flat out that no major changes
->from Mitra's edition were found. The re-edition of .Rgvidhaana in
->``Vedic Tantrism'' does not seem be such a great improvement over Meyer's (?)
->edition.
-
 And yet Bhat finds his work a great improvement over Meyer's edition.  His
 text-critical notes show that there are (at least) two recensions of the
 Rgvidhana, that these differ from one another substantially (whole passages
@@ -20,25 +9,18 @@ that there are five or so different texts with Rgvidhana in their title and
 many many unedited manuscripts in the catalogues.  Of course catalogues
 only cover a fraction of the manuscripts that exist.  So redoing the
 edition was no waste of time and more useful work could still be done.
-
 As for Keith, he did find variants in the AA, but in his *judgment* they
 were not worth recording.   That he enitrely dismisses the value of the
 readings of the Buhler MS from Kashmir makes this judgment suspicious.  It
 would not be the first time that Keith was peremptory.  Yet his judgment
 does serve as a counterexample to the suggestion that editors of texts must
 feel a pressure to "improve" texts in order to justify their work.
-
->
->Good test cases will be "Satapatha and Aitreya Brahmanans. Surely these
->works deserve a critical edition based on all available manuscripts.
-
 Absolutely.  Of course there are already two recensions of the SB known -
 Madh. and Kanva.  Note however that the techniques deployed in the editing
 of Vedic texts are not  necessarily applicable to editing other later works
 by individual authors.  So editing SB and AB may not be a good way to test
 whether the Sankara text tradition is uniform. Why not look at the
 manuscripts of Sankara's works too ? 
-
 I think that this is Dominik's main point - why not make observations ? 
 Surely Galileo in his day would have been discouraged from looking through
 a telescope at Jupiter, since Ptolemaic tradition had predicted Jupiter's
@@ -66,10 +48,3 @@ texts is perceived in parts of the American academy as equivalent to such
 pedestrian occupations as creating a word index.
         For myself I think that text-critics were proto-deconstructionists,
 but that is another discussion.
-
- 
-
-
-
-
-

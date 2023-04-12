@@ -1,19 +1,8 @@
-From mani at SHASTA.STANFORD.EDU  Fri Jul 24 15:42:21 1998
-From: mani at SHASTA.STANFORD.EDU (Mani Varadarajan)
-Date: Fri, 24 Jul 98 08:42:21 -0700
-Subject: Velthuis' Devnag preprocessor in Perl
-In-Reply-To: <19980724011221X.kharimot@postoffice.sas.upenn.edu>
-Message-ID: <161227041012.23782.5437704583936249544.generated@prod2.harmonylists.io>
-
+Velthuis' Devnag preprocessor in Perl
 I ported an early version of Velthuis's Devnag program
 to Perl. The Perl version ran much slower in those days (about
 5 years ago) but with today's faster computers, it should
 be ok. I can send those who are interested the Perl script.
 Once again, this is based on an older version of the Devnag
 C source file.
-
 Mani
-
-
-
-

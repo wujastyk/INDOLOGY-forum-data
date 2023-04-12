@@ -1,44 +1,19 @@
-From jds10 at CUS.CAM.AC.UK  Sat Feb 13 12:49:24 1999
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Sat, 13 Feb 99 12:49:24 +0000
-Subject: A simple question for Sanskritists
-In-Reply-To: <Pine.SOL.4.05.9902130659400.26242-100000@tempest.rs.itd.umich.edu>
-Message-ID: <161227046266.23782.2645382485611588759.generated@prod2.harmonylists.io>
-
+A simple question for Sanskritists
 On Sat, 13 Feb 1999, Madhav Deshpande wrote:
-
-> It should be noted that doublets like patra and pattra are allowed by
-> Panini's optional rules of consonantal doubling, cf. Panini 8.4.47.  This
-> sort of doubling is purely a case phonological variation, and is not
-> connected with etymology.  In some cases, however, the occurrence of
-> geminates is directly related to the etymology of the words, e.g. tattva,
-> dattvaa etc.  Thus, we have phonological variation for vartate/varttate,
-> but v.rtti has to have two t-s.
->         Best,
->                                 Madhav Deshpande
-
 Actually, the double "t" in pattra *is* etymological: the word is formed
 from the root pat- "to fly" and the affix -tra which gives the sense
 "thing for doing that action with" -- hence zastra- "weapon for cutting",
 pAtra- "vessel for drinking" etc. Other comparable words are chattra-
 "canopy" from chad- "to cover", sattra- "sacrificial session" from sad-
 "to sit", and tottra- "elephant goad" from tud- "to strike".
-
 However, the sequence ttra is in practice indistinguishable from tra (in
 speech, I mean), and so the spellings in tra are generally commoner --
 perhaps partly because ttra is slightly awkward to write in Nagari. In the
 Critical Edition of the Mahabharata, for instance, the tra spellings are
 favoured (without total consistency) for pattra, sattra and chattra;
 however, tottra is always spelt with ttra.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

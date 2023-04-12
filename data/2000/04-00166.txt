@@ -1,17 +1,9 @@
-From cfynn at DIRCON.CO.UK  Sat Apr 22 00:43:09 2000
-From: cfynn at DIRCON.CO.UK (Christopher John Fynn)
-Date: Sat, 22 Apr 00 01:43:09 +0100
-Subject: Vedic chart updated
-Message-ID: <161227057913.23782.11286930863901559716.generated@prod2.harmonylists.io>
-
+Vedic chart updated
 Michael Everson <everson at egt.ie> wrote:
-
 << Svasti. I have done my best to fill up the Devanagari block and then some.
 See http://www.egt.ie/standards/iso10646/pdf/vedic-accents.pdf >>
-
 ISCII 1991 Annex-G "Extended Character Set for Vedic" contains the following
 characters:
-
 A1 Visarga1
 A2 Filler
 A3 Yajurvedic Anusvara1
@@ -46,16 +38,9 @@ BE Anudatta (Kathaka)
 [MISC]
 BF Abbreviation Sign
 (see: http://www.cfynn.dircon.co.uk/Misc/ISCIIVedic.html)
-
 Of these B8 Anudatta appears to have already been encoded at U+0952 and BF
 Abbreviation Sign is already encoded as U+0970.
-
 How do the rest of the Vedic Characters in ISCII Annex-G correspond to the Vedic
 Characters in the proposed code chart and names list
 http://www.egt.ie/standards/iso10646/pdf/vedic-accents.pdf ?
-
 - Chris
-
-
-
-

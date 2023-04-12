@@ -1,19 +1,8 @@
->?From pwyzlic at pwyz.rhein.de 04 1997 Mar +0100 01:30:50
-Date: 04 Mar 1997 01:30:50 +0100
-Subject: Re: Indo-Germanic
-From: Peter Wyzlic <pwyzlic at pwyz.rhein.de>
+Re: Indo-Germanic
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
-
 "Fco. Javier Martnez Garca" <martinez at em.uni-frankfurt.de> writes:
-
->  > >Cf. F.R. Shapiro, (1981): +On the origin of the term >
-> >`Indo-germanic'; Historiographia Linguistica 8, p. 165-170.
->  > Does he say (by the way) who's the first one who used
-> "Indoeuropean"?
->  No, he doesn4t. But that4s also a very interesting question.  J.M.
-
 How about Konrad Koerner:
 "Observations on the sources, transmission and meaning of
 'Indo-European' and related terms in the development of linguistics."
@@ -22,13 +11,5 @@ Linguistics / Ed. by J. Peter Maher [et al.]. Amsterdam: Benjamins,
 1982, p. 153-180 (there seems to be an article in Indogermanische
 Forschungen 86 (1981[1982]), p. 1-29 which is of similar contents or
 simply the same).
-
 \bye
-
--- 
 Peter Wyzlic                                     pwyzlic at pwyz.rhein.de
-
-
-
-
-

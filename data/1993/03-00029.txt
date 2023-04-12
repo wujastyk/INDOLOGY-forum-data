@@ -1,15 +1,9 @@
->?From SOGBS at cc.newcastle.edu.au 30 1993 Mar +1000 16:33:03
-Date: 30 Mar 1993 16:33:03 +1000
-From: SOGBS at cc.newcastle.edu.au
-Subject: Book notices
+Book notices
 MIME-version: 1.0
 Content-transfer-encoding: 7BIT
-
 I have a forthcoming book to be published by the Smithsonian Institution
 Press, Washington DC, in May 1993:
-
 Civilized Shamans: Buddhism in Tibetan Societies.
-
 This is an anthropological study of Tibetan religion (or maybe
 more accurately religion in Tibetan societies). Part One is a
 survey of Tibetan societies, Part Two an account of Tibetan religion
@@ -17,19 +11,10 @@ in the pre-modern period (mainly), Part Three a history of its
 development. The general stress is on variety and fluidity of
 Tibetan religious forms, linked to the variety and fluidity of
 Tibetan political and social forms. 
-
 Geoffrey Samuel
 Department of Sociology and Anthropology
 University of Newcastle, NSW 2308
 Australia
-
 fax +61 49 216902
 tel +61 49 215927
 email: sogbs at cc.newcastle.edu.au
-
- 
-
-
-
-
-

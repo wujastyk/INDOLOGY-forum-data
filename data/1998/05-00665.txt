@@ -1,26 +1,11 @@
-From Toru.Tomabechi at ORIENT.UNIL.CH  Sat May 30 00:34:11 1998
-From: Toru.Tomabechi at ORIENT.UNIL.CH (Toru Tomabechi)
-Date: Sat, 30 May 98 02:34:11 +0200
-Subject: E-text for ;Slokavaarttika etc.
-In-Reply-To: <v04003a03b193ceab76f6@[207.23.94.15]>
-Message-ID: <161227039415.23782.1042338919112107785.generated@prod2.harmonylists.io>
-
+E-text for ;Slokavaarttika etc.
 Thousand apologies to those who have downloaded and are going to
 download the Slokavarttika e-text from:
-
   ftp://ftp-orient.unil.ch/
-
 There is some copyright problem surrounding this e-text. We have to
 suspend the download service until the problem is solved.
-
 We would like to ask those who have already downloaded *not* to
 redistributed the file in question.
-
 Sorry for inconvenience.
-
 Toru Tomabechi
 University of Lausanne
-
-
-
-

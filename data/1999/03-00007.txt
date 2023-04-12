@@ -1,23 +1,11 @@
-From lengqie at GMX.NET  Mon Mar  1 10:35:50 1999
-From: lengqie at GMX.NET (Petr Mares)
-Date: Mon, 01 Mar 99 11:35:50 +0100
-Subject: Personal attacks on the list
-In-Reply-To: <Pine.HPX.4.05.9903011113530.18584-100000@hpc24.ac.iopb.res.in>
-Message-ID: <161227047097.23782.506828224582052846.generated@prod2.harmonylists.io>
-
-> A very good observation ! The IP addresses translate into :
->
-> 192.31.86.34 = proxy2a.lmco.com and 204.68.140.34 = proxy1a.lmco.com.
-
+Personal attacks on the list
 Dear Sir
-
 The case with proxy as you explain is fine but is there a chance
 the these five people will use the same proxy in the office and
 another (but all one) ISP at home all of them same ISP at home in
 Houston and all of them same proxy at work?? The ISP address as
 you may see is not a proxy by Dynamic adress from the same
 provider.
-
 Sw. Madhuresan
 192.31.86.34 lm corp
 216.118.10.235 Savvis ISP
@@ -32,12 +20,9 @@ Naga Ganesan
 209.223.24.185 Savvis ISP
 Keith Williams
 192.31.86.34 LM Corp
-
 It certainly van be proven. Except that you can look at the melody
 their voices play.
-
 Sincerely
-
 Petr Mares
 Petr Mares
 Lengqie Research
@@ -45,9 +30,4 @@ Hlavacova 1163
 182 00, Prague 8
 Czech Republic
 Fax:420-2-2423-9157
-Tel: 420-2-2422-9755
 email: lengqie at gmx.net
-
-
-
-

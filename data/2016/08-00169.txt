@@ -1,124 +1,65 @@
-From rmahoney at fastmail.com  Wed Aug 24 22:35:08 2016
-From: rmahoney at fastmail.com (Richard Mahoney)
-Date: Thu, 25 Aug 16 10:35:08 +1200
-Subject: [INDOLOGY] [Indica et Buddhica] Scholia - Abstracts, Related Resources and  Subject Headings for Articles
-Message-ID: <20160825103508.00007b81@fastmail.com>
-
+[INDOLOGY] [Indica et Buddhica] Scholia - Abstracts, Related Resources and  Subject Headings for Articles
 Dear Colleagues,
-
 We are now including Subject Headings, Abstracts and Related Resources
 in the full record for articles in Scholia. The first journals to be
 reviewed are the Bulletin of the School of Oriental and African Studies
 and the Journal of the American Academy of Religion. Here are some
 revised records:
-
-
 REVIEWS
-
 IEB-ID: IEB0000221463
-
 Title: Review of The Making of Buddhist Modernism by David L. McMahan
 Author: Blackburn, Anne M.
 Host item: JAAR 81:1 262-266 2013
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221463&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221481
-
 Title: Review of Philosophical Explorations of New and Alternative
  Religious Movements by Morgan Luck
 Author: Schilbrack, Kevin
 Host item: JAAR 81:1 301-304 2013
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221481&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221477
-
 Title: Review of Jains in the World: Religious Values and Ideology in
  India by John E. Cort
 Author: Long, Jeffery D.
 Host item: JAAR 81:1 284-287 2013
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221477&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221377
-
 Title: Review of Teaching Undergraduate Research in Religious Studies by
  Bernadette McNary-Zak; Rebecca Todd Peters
 Author: Desjardins, Michel
 Host item: JAAR 80:3 807-810 2012
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221377&displayform=2&num=1&start=1
-
-
-
 ARTICLES
-
 IEB-ID: IEB0000221390
-
 Title: Listening to the Dharmabh??aka: The Buddhist Preacher in and of
  the S?tra of Utmost Golden Radiance
 Author: Gummer, Natalie D.
 Host item: JAAR 80:1 137-160 2012
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221390&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221443
-
 Title: David Cronenberg: The Secular Auteur as Critic of Religion
 Author: Siegler, Elijah
 Host item: JAAR 80:4 1098-1112 2012
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221443&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221359
-
 Title: Violence in the 'V?lm?ki R?m?ya?a': Just War Criteria in an
  Ancient Indian Epic
 Author: Balkaran, Raj
 Author: Dorn, A. Walter
 Host item: JAAR 80:3 659-690 2012
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221359&displayform=2&num=1&start=1
-
-
 IEB-ID: IEB0000221412
-
 Title: Religious Studies as a Scientific Discipline: The Persistence of
  a Delusion
 Author: Martin, Luther H.
 Author: Wiebe, Donald
 Host item: JAAR 80:3 587-597 2012
-
 http://scholia.indica-et-buddhica.org/search/?attribute=@attr%201=12&query=IEB0000221412&displayform=2&num=1&start=1
-
-
-
 For further details please see:
-
 Scholia | Scholiast
 http://indica-et-buddhica.org/scholia-scholiast
-
-
-
 With best regards,
-
  Richard
-
-
-
--- 
 Richard Mahoney | Indica et Buddhica
-
 Littledene  Bay Road  Oxford  New Zealand
 +64-3-312-1699  r.mahoney at indica-et-buddhica.org
-
-
-
-
-

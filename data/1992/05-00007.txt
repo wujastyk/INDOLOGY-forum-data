@@ -1,14 +1,7 @@
-From ridgeway at EDU.WASHINGTON.HACC.BLACKBOX  Fri May 15 23:31:26 1992
-From: ridgeway at EDU.WASHINGTON.HACC.BLACKBOX (Thomas B. Ridgeway)
-Date: Fri, 15 May 92 16:31:26 -0700
-Subject: updates to ftp-able materials at blackbox
-Message-ID: <161227015317.23782.11672893158112547974.generated@prod2.harmonylists.io>
-
+updates to ftp-able materials at blackbox
 Status: RO
-
 Below my signature is a notice of revisions to the pub/indic directory
 on blackbox.hacc.washington.edu [128.95.200.1]:
- 
 cheers,
 Tom
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -20,13 +13,11 @@ Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 This file contains supplemental information on additions or
 changes since this ftp directory was originally created.
- 
 May 15 1992: the file panini.zip has been added; panini has
              the file sutrapat.csx, with the asthadhyayi in
              the Classical Sanskrit extended character set.
              This is a modified form of the text as made available
              on the Indology listserver at liverpool.ac.uk
- 
 May 15 1992: for those with PCs, the files wnrir.ega, wnrir.vga,
              wnrirega.com, and wnrirvga.com may be of interest.
              [These must be transferred in binary mode].  The files
@@ -35,7 +26,6 @@ May 15 1992: for those with PCs, the files wnrir.ega, wnrir.vga,
              Hercules plus).  Those with screen font downloading
              utilities may use these fonts to view Sanskrit material
              encoded with CS/CSX encoding --such as sutrapat.csx above.
- 
              The files wnrirega.com and wnrirvga.com are small program
              files which load the video controller with the screen fonts;
              these programs *do not* stay memory resident.  Anything
@@ -44,17 +34,9 @@ May 15 1992: for those with PCs, the files wnrir.ega, wnrir.vga,
              cards have been marketed as having `VGA graphics' but do not
              support VGA fonts; if you have such a card you can likely use
              the wnrirega.com program.
- 
               None of these are useful for plain Hercules or clone `mono-
               graphics' cards, or for CGA cards (or for that matter causing
               rain to fall or cooking the perfect ras malai).
- 
 15 May 1992:  the file bddhcrtm.zip has been added; this contains the TEI
               encoded text of the buddhacarita prepared by Peter Schreiner
               retranscribed in the CS/CSX encoding.
- 
-
-
-
-
-

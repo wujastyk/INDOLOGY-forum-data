@@ -1,21 +1,13 @@
-From hellwig7 at GMX.DE  Wed Dec 28 19:05:27 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Wed, 28 Dec 11 19:05:27 +0000
-Subject: Linguistic software SanskritTagger
-Message-ID: <161227094840.23782.15654331506375421205.generated@prod2.harmonylists.io>
-
+Linguistic software SanskritTagger
 Dear list,
-
 as announced a few days ago, the linguistic program SanskritTagger is now 
 available as freeware at
 http://www.indsenz.com/int/index.php?content=sanskrit_tagger_download
-
 SanskritTagger has been used to build the Digital Corpus of Sanskrit. 
 Please refer to 
 http://www.indsenz.com/int/index.php?content=sanskrit_tagger
 for a very short introduction into the (technical) background of the 
 program and for some links to papers describing it.
-
 Some additional remarks:
 * The download consists of two parts: the program itself and the database. 
 Although the database is zipped, it is still quite large (~250 MB), so you 
@@ -30,12 +22,6 @@ http://www.indsenz.com/int/index.php?content=messageboard
 SanskritTaggger is built for Windows, and the program relies quite heavily 
 on Windows APIs. I do not know whether it is possible to run the program on 
 another operation system.
-
 Hope it helps to promote the computational processing of Sanskrit!
-
 Best regards,
 Oliver Hellwig
-
-
-
-

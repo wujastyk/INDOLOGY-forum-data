@@ -1,24 +1,7 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Sun Feb 20 19:30:13 2005
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard MAHONEY)
-Date: Mon, 21 Feb 05 08:30:13 +1300
-Subject: Pudgalavada Buddhist Philosophy
-In-Reply-To: <009b01c51781$66b0ccd0$2930cece@charlie>
-Message-ID: <161227075983.23782.6978122203442698689.generated@prod2.harmonylists.io>
-
+Pudgalavada Buddhist Philosophy
 On Sun, 2005-02-20 at 12:21 -0700, jkirk wrote:
-> Please consult
-> 
-> South Asian Studies Papers, no 12, Monograph 1
-> Pudgalavada Buddhism
-> The Reality of the Indeterminate Self
-> by Leonard C D C Priestley
-> 
-> Joanna Kirkpatrick
-
 A few more details:
-
 USmarc record #1 in University of Michigan
-
 001 004128957
 005 20010618000000.0
 008 010618s1999 onc b 001 0 eng d
@@ -43,19 +26,9 @@ c 1999.
 650 0 a Philosophy, Buddhist.
 852 0 b HATCH c GRAD h BQ 9800 .P33 P758 1999
 998 c mcp rj
-
-
 Best,
-
  Richard
-
-
--- 
 Richard MAHONEY | www: homepages.comnet.net.nz/~r-mahoney
 Littledene      | phone/fax (man.): +64 3 312 1699
 Bay Road        | cell: +64 25 829 986
 OXFORD, NZ      | email: r.mahoney at comnet.net.nz
-
-
-
-

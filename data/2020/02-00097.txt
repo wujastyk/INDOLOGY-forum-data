@@ -1,42 +1,18 @@
-From pwyzlic at uni-bonn.de  Thu Feb 27 11:33:49 2020
-From: pwyzlic at uni-bonn.de (Peter Wyzlic)
-Date: Thu, 27 Feb 20 12:33:49 +0100
-Subject: [INDOLOGY] help with a name
-In-Reply-To: <CAMGmO4J69YUG4OtpXPvjZ8zMhBjB6dgM4XqTROuiCLw=KYHw=Q@mail.gmail.com>
-Message-ID: <4efb539e-07e5-5774-747b-b61fe246b572@uni-bonn.de>
-
+[INDOLOGY] help with a name
 Am 27.02.2020 um 10:29 schrieb Jonathan Silk via INDOLOGY:
-> My colleague however has asked me about Har Dayal. Wikipedia tells me 
-> that his name is Lala Har Dayal Singh Mathur. OK, but in English at 
-> least he published under Har Dayal, so my colleague's question is 
-> whether the "family name" is Dayal, or Har Dayal, or as I interpret 
-> the question, whether we should put reference in a bibliography as 
-> Dayal, Har, or rather Har Dayal.
-
 The library authority files are not unanimous, at least.
-
 Library of Congress: Dayal, Har, 1884-1939 
 (<http://id.loc.gov/authorities/names/n50045741>)
 German National Library and Biblioth?que Nationale: Har Dayal 
 (<http://d-nb.info/gnd/119171414> and 
 <https://catalogue.bnf.fr/ark:/12148/cb121996051>)
 Koninklijke Biblioteek (Netherlands): Haraday?la
-
 For more references see <http://viaf.org/viaf/59130510>.
-
 All the best
 Peter Wyzlic
-
--- 
 Universit?t Bonn
 Institut f?r Orient- und Asienwissenschaften
 Bibliothek
 Br?hler Str. 7
 D-53119 Bonn
 Tel.: 0228/73-62436
-
-
-
-
-
-

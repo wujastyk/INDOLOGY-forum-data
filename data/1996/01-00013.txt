@@ -1,33 +1,15 @@
-From lnelson at pwa.acusd.edu  Thu Jan  4 06:22:14 1996
-From: lnelson at pwa.acusd.edu (Lance Nelson)
-Date: Wed, 03 Jan 96 22:22:14 -0800
-Subject: Screen Fonts?
-Message-ID: <161227022265.23782.5740964146994834211.generated@prod2.harmonylists.io>
-
+Screen Fonts?
 Question: Why do the screen fonts designed for Sanskrit transliteration 
 look so unfinished in Windows programs?
-
 I've downloaded two fonts: Dominic's CS Bitstream Charter and Jamie 
 Hubbard's Sanskrit Times New Roman GE.  I've also tried Linguist's 
 Software's TransIndic LS.  All true type for Windows, in Word Perfect 
 6.1, also tried in WinWord 6.0.  All of them print nicely, but look very 
 uneven on screen, with some letters fatter than others, etc.  Am I doing 
 something wrong?  Any advice appreciated.
-
 Thanks and Happy New Year to all!
-
 Lance
----------------------------
 Lance Nelson
 Religious Studies    
 University of San Diego
 lnelson at pwa.acusd.edu
----------------------------
-
-
- 
-
-
-
-
-

@@ -1,29 +1,14 @@
-From jemhouben at gmail.com  Tue Mar 19 23:12:45 2019
-From: jemhouben at gmail.com (Jan E.M. Houben)
-Date: Wed, 20 Mar 19 00:12:45 +0100
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <2b220a7b-dfed-8b8b-b76e-fa1d7a32feb1@gmail.com>
-Message-ID: <CAGCGLoAFLXx1QFPdHvz8LgVBP1T__O4xMiEfiPYPxEyLNah2jA@mail.gmail.com>
-
+[INDOLOGY] Non-standard sandhi
 HOWEVER, if we accept the verse without emendation, should not we read it
 in the way the author KNEW that 99 percent of his contemporaneous readers
 would read it?
-
-
 The verse you quoted:
-
-
-
 janmalagnapatir uttamav?ryo yadg?he janu?i tatra ca d???e |
 tena v? *sahita asya* ca labdhis tad yath??gasukham abdatanau sy?t ||
-
 The translation you proposed (I supply the words on which each part is
 based, if I understand your analysis and interpretation correctly):
-
 ***
-
 As the meaning is quite technical, I give my translation:
-
 'If the house in which (yadg?he) the ruler of the ascendant of the nativity
 (janmalagnapatir) is [placed] with excellent strength (uttamav?ryo) in the
 nativity is aspected (tatra ... d???e) or (v?) joined by that [ruler] (tena
@@ -31,11 +16,7 @@ nativity is aspected (tatra ... d???e) or (v?) joined by that [ruler] (tena
 that [house] (asya): for example (tad yath?), [if it is placed] in the
 ascendant of the year (abdatanau), there will be (sy?t) be pleasures of the
 body (a?gasukham).'
-
 ***
-
-
-
 Now, reading the verse ? if specialists familiar with the text agree there
 is no reason to propose any ad hoc emendation ? with similar conceptual
 interpretations BUT in the way the author KNEW that 99 percent of his
@@ -43,9 +24,6 @@ contemporaneous readers would read it (and paying more attention to the two
 *ca*?s, and letting both *tatra* and *tena* refer anaphorically to *yadg**?*
 *he*) we get something that perhaps amounts to the same but is based on a
 different *anvaya*... :
-
-
-
 If in a house *(yadg?he)* in a nativity (janu?i) the ruler of the ascendant
 of the nativity (janmalagnapatir) is having excellent strength, *and* *[ca,
 extending the noun phrase] *is there *(tatra)* [in that house, positively]
@@ -56,38 +34,11 @@ favouring labdhis?]* [there is] attainment of [the matter signified by]
 that [house] (asya): for example (tad yath?), [if it is placed] in the
 ascendant of the year (abdatanau), there will be (sy?t) pleasures of the
 body (a?gasukham).
-
-
 Bottom line: the use of square (and round) brackets is very much required
 when analysing Sanskrit especially in scientific or philosophical arguments
--- as in the publication by Vincent Eltschinger, John Taber, Michael
 Torsten Much, Isabelle Rati? on *Dharmak?rti?s Theory of Exclusion* recently
 announced for "those among you who are still happy with square brackets".
-
-
 Best,
-
 Jan Houben
-
-
-
 On Sun, 17 Mar 2019 at 20:11, Martin Gansten via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> I have a question for the vaiy?kara?as among us (who may find it very
-> basic, in which case I apologize in advance):
->
-> In the *T?jikayogasudh?nidhi *of Y?davas?ri (fl. possibly early 17th
-> century, possibly in or near Gujarat) there occurs the following stanza
-> (12.15), the form of which is corroborated by several independent witnesses:
->
-> janmalagnapatir uttamav?ryo yadg?he janu?i tatra ca d???e |
-> tena v? *sahita asya* ca labdhis tad yath??gasukham abdatanau sy?t ||
->
-> (As the meaning is quite technical, I give my translation: 'If the house
-> in which the ruler of the ascendant of the nativity is [placed] with
-> excellent strength in the nativity is aspected or joined by that [ruler,
-> there is] attainment of [the matter signified by] that [house]: for
-> example, [if it is placed] in the ascendant of the year, there will be
-> pleasures of the body.')
->

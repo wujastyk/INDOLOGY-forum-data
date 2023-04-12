@@ -1,15 +1,5 @@
-From zydenbos at GMX.LI  Thu Nov  2 16:15:45 2000
-From: zydenbos at GMX.LI (Robert Zydenbos)
-Date: Thu, 02 Nov 00 17:15:45 +0100
-Subject: About Tamil, etc.
-In-Reply-To: <001201c0441f$b9b20320$d81e2cd5@pb>
-Message-ID: <161227063469.23782.372090110475203041.generated@prod2.harmonylists.io>
-
+About Tamil, etc.
 Am 1 Nov 2000, um 17:20 schrieb Andr? Signoret:
-
-> As far as I can see, Tamil (we say also Tamoul in France, Gott weiss
-> warum) [...]
-
 This is because the pronunciation of the vowel that is represented
 by the grapheme 'i' (in transliteration, corresponding to a Tamil
 grapheme) is influenced by the following retroflex voiced fricative
@@ -20,17 +10,10 @@ choice between r and l, it somehow became customary to write 'l'
 (perhaps also because in the pronunciation of some Tamil
 speakers, the fricative becomes a lateral. And in later Kannada and
 Telugu, this sound became replaced by the retroflex lateral).
-
 It is the problem of what to do when you write words from another
 language in a script that was designed for a very different language.
 (Cf. the common Indian usage of transliterating the alveolar 't' and
 'd' of European languages as retroflexes.) French 'tamoul' is not
 really worse than English 'Tamil'.
-
-
 Robert Zydenbos
 Institut f?r Indologie und Iranistik
-
-
-
-

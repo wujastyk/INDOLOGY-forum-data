@@ -1,68 +1,6 @@
-From mmdesh at umich.edu  Fri Feb 10 15:59:30 2017
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Fri, 10 Feb 17 10:59:30 -0500
-Subject: [INDOLOGY] Fwd: [SILFontNews] Annapurna version 1.202 release
-In-Reply-To: <CAKdt-Cdp9YES9RwpHTD6eAijymZDdEY=GY1qmct+aaSKDrSz-g@mail.gmail.com>
-Message-ID: <CAB3-dze-iJv2da0JaGDj7EW9_koWB=B7tScsPDrArbHWS_UnSQ@mail.gmail.com>
-
+[INDOLOGY] Fwd: [SILFontNews] Annapurna version 1.202 release
 Thanks, Dominik, for sharing this beautiful Devanagari Unicode font.  I
 just installed it on my Macbook, and it is working just fine.
-
 Madhav
-
 On Fri, Feb 10, 2017 at 10:43 AM, Dominik Wujastyk via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> FYI
->
-> ---------- Forwarded message ----------
-> From: jon_coblentz <jon_coblentz at sil.org>
-> Date: 10 February 2017 at 06:10
-> Subject: [SILFontNews] Annapurna version 1.202 release
-> To: SIL Font News <sil-font-news at groups.sil.org>
->
->
->
-> AnnapurnaSIL (a Devanagari script font) version 1.202 is a maintenance
-> release fixing two issues. One was in Graphite where reph was skipping the
-> aakar after the ya. The second was an issue on Windows computers where the
-> candrabindu disappeared at certain point sizes in the Bold font. Testing
-> pointed to a hinting issue. We used TTFautohint instead of FontLab hinting
-> and testing has shown that it fixed the issue. A bonus from the new process
-> is it reduces the file size.
->
-> Additionally, since no news release was made for Annapurna version 1.201,
-> a maintenance version was released in August 2016 which fixes two issues.
-> One was a Graphite reordering issue when reph and ikar are in a cluster.
-> The second was a Graphite issue affecting typeTuner fonts.
->
-> The home page is http://software.sil.org/annapurna/.
->
-> --
-> Thank you for your interest in SIL fonts. This is not a discussion list,
-> it is purely a place for SIL to give news and announcements related to all
-> SIL font releases. If you need assistance with SIL fonts, please go to
-> http://scripts.sil.org/support
-> ---
-> You received this message because you are subscribed to the Google Groups
-> "SIL Font News" group.
-> To unsubscribe from this group and stop receiving emails from it, send an
-> email to sil-font-news+unsubscribe at groups.sil.org.
-> Visit this group at https://groups.google.com/a/gr
-> oups.sil.org/group/sil-font-news/.
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170210/18562c70/attachment.htm>
-

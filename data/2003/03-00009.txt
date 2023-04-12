@@ -1,44 +1,28 @@
-From mtokunag at BUN.KYOTO-U.AC.JP  Mon Mar  3 09:37:32 2003
-From: mtokunag at BUN.KYOTO-U.AC.JP (Muneo TOKUNAGA)
-Date: Mon, 03 Mar 03 18:37:32 +0900
-Subject: Digitization centre of Sanskrit texts
-In-Reply-To: <12D86515D17@mail.sub.uni-goettingen.de>
-Message-ID: <161227072448.23782.1126152536928861260.generated@prod2.harmonylists.io>
-
+Digitization centre of Sanskrit texts
 Dear Dr. Reinhold Gruenendahl
-
 Gruenen> In a way, that's just what GRETIL was intended for. A "news centre"
-
 Thank you for your reply. I find GRETIL is quite useful as a register
 of available e-texts in Indian languages. Also, I agree with your
 principles such as ``plain text file preferable,'' ``a scholarly
 reference aid for a given text,'' etc. for e-texts.
-
 I guess you pay a good attention to various sites in the world
 perpetually, and we owe you for it. (the Divyaavadaana is already in
 it, although I have not reported to the net yet. But it misses the
 Zakuntalaa.) I will inform you directly when I release a revised
 version of an older e-text or a new e-text on my site:
 http//tiger.bun.kyoto-u.ac.jp/mtokunag/skt_texts. I hope others, too.
-
 Gruenen> registering - and perhaps coordinating - all ongoing activities could
 Gruenen> be set up in no time at all. In case anyone is interested, please let
 Gruenen> me know.
-
 Do you mean you have no idea of such a ``new center'' in Goettingen?
 It is almost necessary for those who who work on a new e-text, but, I
 admit, it's not easy to register, let alone, to coordinate ongoing
 activities of digitization in the world --- a topic in WSC12?
-
 Gruenen> One more thing: Some of you may have noticed that all GRETIL files
 Gruenen> have at last been converted to UTF-8. However, I'm not so sure
-
 No problem for a general user like me.
-
 So much on this net.
 With best regards,
-
-
                       ===============================================
                                     Dr. Muneo TOKUNAGA
                                    Professor of Sanskrit
@@ -51,7 +35,3 @@ With best regards,
                                Fax(international) 075-761-0692
                               email: mtokunag at bun.kyoto-u.ac.jp
                      ================================================
-
-
-
-

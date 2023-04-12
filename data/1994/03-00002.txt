@@ -1,33 +1,21 @@
-From magier at columbia.edu  Tue Mar  1 22:19:52 1994
-From: magier at columbia.edu (David Magier)
-Date: Tue, 01 Mar 94 17:19:52 -0500
-Subject: South Asia Gopher
-Message-ID: <161227016589.23782.7981688660817327830.generated@prod2.harmonylists.io>
-
+South Asia Gopher
 I am sorry for the confusion caused by my earlier message. Here are the revised
 instructions for connecting to The South Asia Gopher:
-
 a) If you have a gopher client software, use the following pointer:
-
 Type=1
 Name=The South Asia Gopher
 Host=gopher.cc.columbia.edu
 Port=71
 Path=1/clioplus/scholarly/SouthAsia
-
-
 b) If you do not use gopher client software, please
 telnet to:
             columbianet.columbia.edu
-
 Once connected to Columbianet, please select the menu item marked "CLIO Plus".
 Within that menu, you will find the last item on the list, which is "Scholarly
 Electronic Resources by Subject". Select that one, and within it, you will find
 The South Asia Gopher.
-
 As before, please let me know of problems (technical or conceptual), and
 reactions to the content. Remember, this is a WORK IN PROGRESS! Thank you.
-
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
     ____________________________      304 International Affairs
   ///    -- David Magier --    \\\    Columbia University
@@ -35,11 +23,3 @@ reactions to the content. Remember, this is a WORK IN PROGRESS! Thank you.
  |||  S&SE Asia, Latin America, |||   212-854-8046 / FAX: 212-854-2495
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------       magier at columbia.edu
-
-
- 
-
-
-
-
-

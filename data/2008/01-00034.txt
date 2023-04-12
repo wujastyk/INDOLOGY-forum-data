@@ -1,44 +1,25 @@
->From the site blurb:
-
 ``Tabulae increases the availability and usefulness of online journals
 containing Indological and Buddhological material. Through links and
 digital feeds it makes this material easier to find, access and use.
-
 Tabulae aims to refer to all relevant online periodicals, to be a
 resource for researchers who want to make use of the vast amount of
 constantly arising digital material.
-
 At present, Tabulae directs researchers to the Tables of Contents for
 more than 130 periodicals. This includes the Indo-Iranian Journal,
 Asian Philosophy, the Journal of the American Academy of Religion,
 Numen, T?oung Pao, and The Journal of the Royal Anthropological
 Institute.
-
 Tabulae links to the digital version of articles and to the electronic
 version of previous issues. Researchers will find bibliographic data
 for all periodicals.''
-
-
 The top page for Tabulae can be found here:
-
  http://tabulae.indica-et-buddhica.org
-
-
 For a list of journals referenced please see the `Site Map' at:
-
  http://tabulae.indica-et-buddhica.org/plan.php3
-
-
 And if you read or publish a periodical that does not yet appear on the
 site, please feel free to suggest it giving `Journal Title' and `URL'.
-
-
 Best regards,
-
  Richard Mahoney
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 27 482 9986
@@ -47,7 +28,3 @@ OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 Indica et Buddhica: Materials for Indology and Buddhology
 Scholia: http://scholia.indica-et-buddhica.org/
 Lexica: http://lexica.indica-et-buddhica.org/dict/lexica
-
-
-
-

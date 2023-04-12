@@ -1,22 +1,7 @@
-From HaroldA at eworld.com  Fri Aug 25 06:01:15 1995
-From: HaroldA at eworld.com (HaroldA at eworld.com)
-Date: Thu, 24 Aug 95 23:01:15 -0700
-Subject: sh/Z (was: Poverty)
-Message-ID: <161227020691.23782.18005496975625301978.generated@prod2.harmonylists.io>
-
-
------------------------------ Begin Original Text
------------------------------
-
+sh/Z (was: Poverty)
 There is a 7-bit encoding for Devanagari that is used in Frans
 Velthuis's Devanagari system for TeX and, being simple and logical, it
 is sometimes used in email too.
------------------------------ End Original Text -----------------------------
 Where can I find the whole system? It seems useful, even though I don't use
 TeX, or  even know what it is, for that matter.
-
 Yrs. Harold Arnold
-
- 
-
-

@@ -1,10 +1,4 @@
-From STEPHEN at UK.AC.OXFORD.VAX  Wed Jul 22 11:53:00 1992
-From: STEPHEN at UK.AC.OXFORD.VAX (Stephen Miller)
-Date: Wed, 22 Jul 92 11:53:00 +0000
-Subject: Madhushree and Manjushree Fonts
-Message-ID: <161227015448.23782.5399518191111287960.generated@prod2.harmonylists.io>
-
-
+Madhushree and Manjushree Fonts
 Once again confusion between where characters are located in a font and how
 characters in a font are accessed: any font developed for the Macintosh can
 be laid down with characters conforming to the CSX coding/positions if you
@@ -13,11 +7,5 @@ by using keyboard sequences which in some way, degree, or form, relate to a
 particular character then you simply develop a keyboard driver in order to
 enable you to do so -- after all, the Macintosh comes with different keyboard
 layouts for a starter.
- 
 Stephen Miller
 Oxford University Computing Services
-
-
-
-
-

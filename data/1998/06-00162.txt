@@ -1,22 +1,7 @@
-From narayana at HD1.VSNL.NET.IN  Sat Jun 13 06:26:40 1998
-From: narayana at HD1.VSNL.NET.IN (DEVARAKONDA VENKATA NARAYANA SARMA)
-Date: Sat, 13 Jun 98 11:26:40 +0500
-Subject: Itrans version 1.2b
-Message-ID: <161227039779.23782.12598563665357608952.generated@prod2.harmonylists.io>
-
+Itrans version 1.2b
 The new 1.2b version of itrans appears to be great improvement on
 the earlier version. I am attaching roman transliteration file (ribhu.txt)
 I typed in and the Devanagari output (ribhu.rtf), which can be viewed in
 Word with sanskrit 1.2 font, in the zip file ribhu.zip.
-
 regards,
-
 sarma.
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: RIBHU.ZIP
-Type: application/zip
-Size: 1189 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980613/a8a37c86/attachment.zip>
-

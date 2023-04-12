@@ -1,16 +1,10 @@
-From Peter_Scharf at BROWN.EDU  Wed Dec  9 11:39:23 2009
-From: Peter_Scharf at BROWN.EDU (Peter Scharf)
-Date: Wed, 09 Dec 09 06:39:23 -0500
-Subject: Sanskrit Library Assistant: apply by 1 January
-Message-ID: <161227087932.23782.15080301127034761024.generated@prod2.harmonylists.io>
-
+Sanskrit Library Assistant: apply by 1 January
 The digital Sanskrit library in the Department of Classics at Brown  
 University seeks a
 post-doctoral research associate for one year, from 1 March 2010 to 28  
 February 2011, to assist in an NEH-funded project entitled, "Enhancing  
 Access to Primary Cultural Heritage Materials of India."  The position  
 carries a stipend of $25,000 for one year.
-
 The Sanskrit Library is a collaborative project to make the heritage  
 texts of India accessible on the web.  The project is building a  
 digital Sanskrit library by integrating texts, linguistic software,  
@@ -21,7 +15,6 @@ cataloguing them, and linking them with the corresponding machine-
 readable texts.  Extending the scope of linguistic software to these  
 digital images serves as a pilot project to demonstrate the  
 feasibility of doing so with manuscript images generally.
-
 The research associate will work with the project director, software  
 engineer, and
 student assistants on the following tasks:
@@ -29,7 +22,6 @@ student assistants on the following tasks:
 ? to develop word-spotting and automated text-image alignment techniques
 ? to develop a conduit for simultaneous print, PDF, and html  
 publication of the catalogue and other documents.
-
 The position requires advanced training in Sanskrit, academic research  
 skills, and
 expertise in XML.  Desirable additionally are some or all of the  
@@ -41,11 +33,9 @@ is expected to be
 creative and to able to work individually as well as to collaborate  
 with technical
 personnel.
-
 Brown University is an affirmative action, equal opportunity  
 employer.  Women and
 minorities are especially encouraged to apply.
-
 Apply by sending a r?sum?, a description of your relevant experience  
 with links to products produced, a clear indication of your role and  
 responsibility in their production (whether you are exclusively  
@@ -54,8 +44,6 @@ names and contact information of three references to the project
 director (Peter Scharf) via email (scharf at brown.edu) with the subject  
 heading, "Sanskrit Library Assistant?.  All applications received by 1  
 January 2010 will be granted full consideration.
-
-
 *********************************************************
 Peter M. Scharf                           (401) 863-2720 office
 Department of Classics             (401) 863-2123 dept.
@@ -65,7 +53,3 @@ Providence, RI 02912                Scharf at brown.edu
 http://www.brown.edu/Departments/Classics/people/facultypage.php?id=10044
 http://sanskritlibrary.org/
 *********************************************************
-
-
-
-

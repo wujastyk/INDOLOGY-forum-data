@@ -1,31 +1,16 @@
-From ucgadkw at UCL.AC.UK  Mon Nov 10 17:37:13 2003
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 10 Nov 03 17:37:13 +0000
-Subject: 5th-8th December: shutdown of INDOLOGY website
-Message-ID: <161227073409.23782.16531585055171635414.generated@prod2.harmonylists.io>
-
+5th-8th December: shutdown of INDOLOGY website
 The following notice relates to the server which hosts the INDOLOGY
 website:
-
 ==============================================
-
-
 Weekend of 6th/7th December 2003
 CLOSURE of UCL Computing and Networking Facilities
---------------------------------------------------
-
 Information Systems is planning a weekend outage of computing
 and networking services in order to commission a new fire detection
 system in the Kathleen Lonsdale Building machine room and undertake
 some electrical upgrade work.
-
 This will mean a SHUTDOWN OF ALL CENTRAL NETWORK AND COMPUTING SERVICES
 from 17:00hrs on Friday 5th December until 09:30hrs on Monday 8th December.
 During this period, all IS systems, including electronic mail,
 will be unavailable. Unexpected problems or machine failures
 could cause this period to be extended into the morning of Monday
 8th December, which should be considered AT RISK. For more information, see
-
-
-
-

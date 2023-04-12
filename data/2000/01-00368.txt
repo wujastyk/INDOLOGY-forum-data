@@ -1,21 +1,5 @@
-From abhinav at DEL3.VSNL.NET.IN  Tue Jan 25 03:27:14 2000
-From: abhinav at DEL3.VSNL.NET.IN (Bharat Gupt)
-Date: Tue, 25 Jan 00 03:27:14 +0000
-Subject: Vedic accent in taittiriya samhita
-Message-ID: <161227055476.23782.8525851213530729897.generated@prod2.harmonylists.io>
-
+Vedic accent in taittiriya samhita
 Madhav Deshpande wrote:
->
-> Bharat Gupta has given a good description of the musicalized recitation of
-> the TS and the microtonal gaps between different notes.  There is no doubt
-> that the current recitation of the TS, especially in south India, is far
-> more musicalized, as compared to the recitation of the same Samhita in the
-> region of Maharashtra, where the musical distances between Udaatta,
-> Anudaatta, and Svarita are much smaller.  Historically, it seems to me
-> that a certain distinction must be made between the musicalized renderings
-> of the Vedic accents, and the Vedic accents as described by Panini and
-> Praatizaakhyas.
-
 There can be no disagreement on this. I am glad this issue has been raised.
 First, there have always been variations in rendering, hence so many Shaakhas.
 Secondly, Vedic chants, not even the Saman, were supposed to be brought close to secular
@@ -26,10 +10,8 @@ rakti. It was not only the closeness or distance (less or more musical) from the
 defined musical scales (Graama,Muurcchanaas and Jatis in ancient period and now Thaa.ts
 and Melas and Raagas) that mattered, but that the rendering was styled to sound separate
 from Laukika music or Gaandharva/Sangiita.
-
 It is only in the last twenty years, as product of a new cultural confusion, that the
 mantras are being sung in Raagas.
-
 Why were the parallels drawn between Vedic renderings and the scales of Gaandharva ?
 They were more for the purpose of descriptive study and not for standardising or
 improving Vedic Gaana. A systematic theory of scales was offered only by the science of
@@ -38,25 +20,17 @@ there was no separate categorisation of Vedic scales. Saama-Gaan was not suppose
 improve from the knowledge of musical notes. As a matter of fact, the custom ensured
 that the  musicians and Veda-pathiis never heard each other. As late as Manu, the
 student of the Veda was forbidden to hear music and see plays (kaamajo das'ako gan.aah).
-
 I may also venture to add that when it is said that Indian music developed from Vedic
 chanting (that Gaandharva grew out of Sama-Gaana), it is more to accord veneration to
 Vedas.  Vedic chants were for Yajna and Gaandharva for secular pleasure. But the first
 had to be defined in terms of the second.  This was the case when the thread began,
 defining Udaatta etc., and that can be done only in terms of a musical scale of today.
-
 And this also applies to accent and tone (Svara, pracaya,etc.,) in spoken language.
 In speech the accents are not at musical distances as has been pointed out.
-
 However, there is one fundamental unity in the speech, recitation (Vedic or not) and
 song, that the rise and fall of voice (tone/pitch/svara) is governed by emotion and
 intent. Hence Udaata, Anudaatta and Svarita get amplified into Saptakas and Sthaanas.
 When distances between tones are rough, it is speech but when they are exact it is
 music, and when in between, it is recitation, less or more musical. This unity has been
 reflected in Veda, music, grammar and dramatic performances by the art of Svara.
-
 Bharat Gupt
-
-
-
-

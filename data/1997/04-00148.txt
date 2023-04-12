@@ -1,9 +1,4 @@
-From mmdesh at umich.edu  Tue Apr  8 01:49:49 1997
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Mon, 07 Apr 97 21:49:49 -0400
-Subject: sound.txt for the Bhagavad Gita
-Message-ID: <161227029475.23782.16495521615458093687.generated@prod2.harmonylists.io>
-
+sound.txt for the Bhagavad Gita
 Dear folks,
 	As I mentioned in my previous email, I have been playing with the
 "text to speech" feature of the new Macintosh system 7.6 to see if one can
@@ -15,10 +10,7 @@ Simple Text.  Remember, this is just for fun!  But if my first year
 students can get this far in their pronunciation, I would not be unhappy. 
 	All the best,
 			Madhav Deshpande
-
 FIRST TEN VERSES OF THE FIRST CHAPTER OF THE BHAGAVAD GITA
-
-
 Shreemud Bugguvud Geetau   
 ...
 dhrutaraushtra oovaucha
@@ -64,10 +56,3 @@ naunau shus tru pruha runau ha sur vey yood dha vishau radau ha.  9
 upper yaup tum tud us mock um bullum bheesh mau bhi ruck shi tum
 ...
 per yaup tum tvi dum ey tey shaum bullum bhee mau bhi ruck shi tum.  10
-
-
-
-
-
-
-

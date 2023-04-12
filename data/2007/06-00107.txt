@@ -1,17 +1,5 @@
-From silk at HUMNET.UCLA.EDU  Mon Jun 18 16:12:09 2007
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Mon, 18 Jun 07 09:12:09 -0700
-Subject: Finding Indological full-book PDFs on Google Books
-In-Reply-To: <a06210200c29c583ddf62@[192.168.0.11]>
-Message-ID: <161227080625.23782.6543850766419261330.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 In re:
-
->  you could just download only the pages that are corrupted in the 
->Google version and replace them with the DLI Hyderbad images (I 
->think you would need the "Full" version of Acrobat to do this, not 
->just the reader).
-
 Leaving aside the question of the utility of time spent replacing pdf 
 pages, one does not need the full Acrobat to do this. There is a 
 nifty little program (sorry this time! Mac only :-) ) called "Combine 
@@ -19,11 +7,8 @@ PDFs" which allows one to, as the web site says, "Drop some PDF or
 picture files on the application or the main window. Reorder or 
 remove pages as you want. Enter some meta information like the Title 
 and save the new PDF."
-
 http://www.monkeybreadsoftware.de/Freeware/CombinePDFs.shtml
-
 It's nice and easy to use!  JAS
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -34,5 +19,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-

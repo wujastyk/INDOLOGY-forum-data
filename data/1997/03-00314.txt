@@ -1,25 +1,9 @@
-From jacob.baltuch at infoboard.be  Thu Mar 27 19:46:59 1997
-From: jacob.baltuch at infoboard.be (jacob.baltuch at infoboard.be)
-Date: Thu, 27 Mar 97 20:46:59 +0100
-Subject: european musical instruments in India
-Message-ID: <161227029151.23782.14880252640595523848.generated@prod2.harmonylists.io>
-
->On Thu, 27 Mar 1997, Jacob Baltuch wrote:
->
->[..]
->
->>
->> Re: early (1800s) violin "technology" found in Carnatic violin. Is the
->> bow different from the usual bow? Bow type changed radically in Europe
->> around 1820.
-
+european musical instruments in India
 Just a correction. I was partially mistaken. The bow changed less
 abruptly that I was implying. The concave shape of the bow was invented
 as early as 1770-1780 by one of the Tourte (Francois?) I believe the screw
 mechanism was introduced by Francois Tourte around 1820 give or take 10 years.
-
 In any case plenty of time, as Vidyasankar Sundaresan pointed out.
-
 One point I didn't see mentioned re: the adoption of violin (and not
 of other European instruments). Maybe what also favored it was the
 fact that it can play in any tuning, not only the equal-tempered one
@@ -27,7 +11,6 @@ fact that it can play in any tuning, not only the equal-tempered one
 are key, but one can also ask, why did only the violin find such
 individualities while other Euro. instruments didn't. Note the violin is
 also the only European instrument adopted into classical Arabic music.
-
 I would assume (although I couldn't myself say) that Indian violinists
 take advantage of this capability & play the ragas correctly, which they
 don't do on electronic keyboards. (Although if they really wanted to go
@@ -35,19 +18,6 @@ thru the headache they could. There are MIDI keyboards which can download
 tuning tables from say a computer or a sequencer. Or maybe in the styles
 of music which would tend to adopt synthesizers one shouldn't expect
 musicians to worry too much about shrutis)
-
 And one can also ask, was there a specific empty niche the violin found in
 Carnatic music? Was it experimentation for the mere joy of experimentation?
 (With then lasting results)
-
-
-
-
-
-
-
-
-
-
-
-

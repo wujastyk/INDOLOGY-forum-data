@@ -1,9 +1,4 @@
-From Joseph.Walser at tufts.edu  Wed Sep  2 14:19:00 2015
-From: Joseph.Walser at tufts.edu (Walser, Joseph)
-Date: Wed, 02 Sep 15 14:19:00 +0000
-Subject: [INDOLOGY]  Nyaya discussions on faulty examples
-Message-ID: <E5F571B94D36DB4AA048E0CF279CFC7089CBD85F@SSVMEXDAG01MB01.tufts.ad.tufts.edu>
-
+[INDOLOGY]  Nyaya discussions on faulty examples
 Can anyone out there point me toward Nyaya discussions of ways in which an example can be faulty? Secondary sources often state(without attribution as far as I can tell) that the example must be held in common by both sides of the debate, but I cannot find any discussion of that specific point in either the Nyaya Sutras of in Vatsyayana's commentary (unless I am overlooking something). Surely with so much attention being paid to faults in the reason and in the thesis, there should be some discussion of either unshared examples or of examples in which it is doubtful that they even exist (".... like a unicorn").
 Any pointers would be greatly appreciated. 
 -j
@@ -11,8 +6,3 @@ Joseph Walser
 Associate Professor
 Department of Religion
 Tufts University
-
-
-
-
-

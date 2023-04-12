@@ -1,9 +1,4 @@
-From raynaldp at bbsi.net  Fri Jan 17 22:39:43 1997
-From: raynaldp at bbsi.net (Raynald Prevereau)
-Date: Fri, 17 Jan 97 17:39:43 -0500
-Subject: Devanagari for the Mac
-Message-ID: <161227027896.23782.880453111632908185.generated@prod2.harmonylists.io>
-
+Devanagari for the Mac
 Dear indologists,
 Can anyone please tell me where to find a good set of devanagari fonts for
 the Mac? I know about the TeX fonts, since I used to work with Tex a few
@@ -14,12 +9,4 @@ won't have to return to it to produce nice Sanskrit documents with my Mac.
 I very much admire those of you who have the patience to work with Tex, but
 that is definitely not for me. So, are there any devenagari fonts for the
 Mac? Thanks in advance for your time.
-
 Raynald Prevereau
-
-
-
-
-
-
-

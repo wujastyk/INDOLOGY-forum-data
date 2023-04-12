@@ -1,11 +1,5 @@
-From koenraad.elst at PANDORA.BE  Fri Dec 17 13:52:39 1999
-From: koenraad.elst at PANDORA.BE (Koenraad Elst)
-Date: Fri, 17 Dec 99 14:52:39 +0100
-Subject: Week, month, year - cycles
-Message-ID: <161227054508.23782.6862887803670028708.generated@prod2.harmonylists.io>
-
+Week, month, year - cycles
 To N. Ganesan, Sergei Schmalz and others:
-
     The Nakshatra cycle is also known in China and starts with the
 Pleiades/Krttika, reason enough for the late Joseph Needham (Science and
 Civilization in China, section Astronomy) to date its origin to the 24th
@@ -19,7 +13,6 @@ originated in China and was transmitted to India.  But this need not be so,
 and may be reversed if we either admit a higher chronology for Vedic
 literature or assume that it borrowed these astronomical notions from the
 IVC.
-
 Parpola, I think, has written that traces of an earlier counting of
 Nakshatras can be discerned, with Rohini/Aldebaran at the head, pointing to
 ca. 3100 BC.  The epithet Kalapurusha, "time man", for Prajapati/Orion may
@@ -31,7 +24,6 @@ context, this might be one instance where the Thapar-Witzel explanation of
 "reminiscence" could apply: the stories and the resultant epithets of their
 main actors may have lived on long past their time of astronomical
 relevance.
-
     To really stray from the path of orthodoxy, I venture to doubt that the
 12-part Rashi division of the ecliptic was borrowed from Hellenistic
 sources, though its general use in astronomy and astrology certainly was.
@@ -49,7 +41,6 @@ culture (and note the remarkable similarity of interpretations/names across
 cultural frontiers), it tends to last for thousands of years, much like
 river-names.  So, the names of the Zodiacal constellations may have been
 around for ages, even in India.
-
 That the Zodiacal constellations are usually attributed to Mesopotamian
 culture is, if true, not much of an objection.  There was plenty of
 interaction
@@ -67,7 +58,6 @@ position (imprecise because the sun is never seen against a background of
 stars) to a more professional astronomy for its own sake, or for religious
 purposes, using the better observable lunar motions against the stellar
 background, hence the 27 lunar mansions.
-
 The Rashi names Vrshabha, Mithuna, Simha and Kanya are mentioned in the
 Rg-Veda, and judging from the context, they are used in an astronomical
 rather than their primary natural sense.  In 5:83:3, it is said of the
@@ -81,7 +71,6 @@ sexual as well as a yogic meaning).  Clearest of all is perhaps the
 reference to Kanya/Virgo (then marking the rainy season, hence, as in this
 verse, an apt comparison for the water-rich Saraswati), described in 6:49:7
 as "having Chitra as her life", Chitra being the star Spica, alpha Virgonis.
-
 The divisions in 27 and in 12 may well have coexisted.  Indeed,till today
 the Indian months' names (12) are typically derived from the name of the
 most prominent asterism (27, with 2 or 3 per month) within its sector of the
@@ -92,12 +81,6 @@ most conspicuous part (saptarshi) of the Great Bear.  That the division in
 12 was indeed known to the Vedic Aryans is clear from 1:164:11, which
 describes the year as a twelve-spoked wheel, apart from mentioning the
 division in 360?.
-
 Yours sincerely,
 Koenraad Elst
-
 http://members.xoom.com/KoenraadElst/
-
-
-
-

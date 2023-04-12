@@ -1,46 +1,27 @@
-From kharimot at sas.upenn.edu  Tue May  7 07:54:53 1996
-From: kharimot at sas.upenn.edu (Kengo Harimoto)
-Date: Tue, 07 May 96 03:54:53 -0400
-Subject: Wikner PK files
-Message-ID: <161227024320.23782.16363315087983314338.generated@prod2.harmonylists.io>
-
+Wikner PK files
 Dear Prof. William Douglas and members of the list,
-
 I think I am successfully running Wikner's sanskrit package on my Mac.  
 Instead of making all the pk files needed for Sanskrit package, I just 
 let MakeTeXPK + MF generate necessary pk files on the fly.  
-
 Although MakeTeXPK is a part of CMacTeX distribution, it also has been a 
 part of, or recommended for the OzTeX distribution for a year or so.
-
 By the way, how was the porting of the preprocessor done?  I have 
 compiled the source code with minimum modification.  This means the 
 preprocessor uses default console included in CodeWarriar's ANSI 
 library.
-
 However, the interface is not very much like a Mac application.  So, I 
 have been thinking of making the preprocessor a drag-and-droppable 
 application.  If the porting was done in this sense, there is no reason 
 for me to do so.  I would appreciate if Prof. Douglas could enlighten me 
 on this.
-
 Also, If there are interests in the binary of the preprocessor, I will 
 put it on my home page.
-
 Finally, a question regarding the skt font:
 I personally feel the tracking of the skt font (for that matter, the dn 
 font also) is a bit too wide.  I believe there is a way to reduce the 
 value of tracking of those fonts.  But I am not familiar with Metafont 
 source, so I have been unable to do it myself.  Is there a way to do 
 this?
-
 With Best Regards,
-
--- Kengo
   <mailto:kharimot at sas.upenn.edu>
   <http://www.sas.upenn.edu/~kharimot>
-
-
-
-
-

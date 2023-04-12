@@ -1,39 +1,24 @@
-From selvakum at VALLUVAR.UWATERLOO.CA  Tue Jul  7 21:19:10 1998
-From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
-Date: Tue, 07 Jul 98 17:19:10 -0400
-Subject: Sanskrit
-Message-ID: <161227040647.23782.16927310663784574170.generated@prod2.harmonylists.io>
-
+Sanskrit
 Hello,
-
 I don't know whether my posting about the passive Tamil construction
 got posted or not. I don't understand why Sandra van der Geer
 considers that IO can not be 'raised' (occupy the subject position)
 in Tamil. It may be to do with the verb in question.
 As I pointed out, it is a valid construction in Tamil to say
-
    Active:   nAn avaLukku paricu aLittEn
               I     to her   prize  gave
-
    PassiveI: paricu ennAl avaLukku aLikkappaTTAtu
              Prize  by me  for her  given
-
    PassiveII:  avaL ennAl paricu aLikkappaTTAL
                She  by me  prize given
-
 I don't think Sandra van der Geer's claim* about Tamil based on
 K. Rangan's article (which I don't have access to at this moment)
 is valid.  If I'm missing something here please let me know.
-
      *Languages which do not allow movement/raising of IO to SU are IE Hindi, =
       German, Dutch and non-IE Tamil, Kannada.
-
 Thanks
-
 C.R.(Selva) Selvakumar
 Waterloo, Ontario, Canada.
-
-
 [I've retained parts of her posting]
 @There are two options to analyse passive sentences: with raising and =
 @with movements. If you are fond of Deep Structures, both are an option, =
@@ -108,7 +93,3 @@ Waterloo, Ontario, Canada.
 @email info at ticonsole.nl
 @http:\\www.ticonsole.nl\books\science\bhasa.htm
 @
-
-
-
-

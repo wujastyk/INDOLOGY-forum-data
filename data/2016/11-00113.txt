@@ -1,25 +1,10 @@
-From mehner at sub.uni-goettingen.de  Fri Nov 11 14:40:27 2016
-From: mehner at sub.uni-goettingen.de (Mehner, Maximilian | GRETIL)
-Date: Fri, 11 Nov 16 14:40:27 +0000
-Subject: [INDOLOGY] GRETIL update #476
-Message-ID: <C02B5C9E4F9BD14E998B70B231B092225CEC238A@UM-EXCDAG-A06.um.gwdg.de>
-
+[INDOLOGY] GRETIL update #476
 GRETIL is pleased to be able to report the following addition(s) to its collection:
-
 Texts:
 Katha-Upanisad<http://gretil.sub.uni-goettingen.de/#KathUp>
 Dramatic Fragments<http://gretil.sub.uni-goettingen.de/#dramfrag>
-
 Secondary Resources:
 Bloomfield: A Vedic concordance<http://gretil.sub.uni-goettingen.de/#VedConc>
 B?htlingk/Roth: Gro?es Petersburger W?rterbuch<http://gretil.sub.uni-goettingen.de/#PWG>
-
-__________________________________________________________________________
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
 http://gretil.sub.uni-goettingen.de/gretil.htm
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161111/f0d46884/attachment.htm>
-

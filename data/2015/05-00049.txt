@@ -1,75 +1,12 @@
-From drdhaval2785 at gmail.com  Tue May 19 04:38:15 2015
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Tue, 19 May 15 10:08:15 +0530
-Subject: [INDOLOGY] Method to take backup of github issues
-In-Reply-To: <9d48c3d6-e3c5-466c-9808-72e9580ae859@googlegroups.com>
-Message-ID: <CADSGPzXR9N2Q4HvcDdNeDttF7Y-U4Ah=PcAomqHLg1C9BJ3_8g@mail.gmail.com>
-
+[INDOLOGY] Method to take backup of github issues
 As Mr Chandra Sekhar has pointed out,
 The instructions seem a bit confusing to many people.
 Therefore, I have created one youtube video and uploaded it for better step
 by step understanding of user.
 https://youtu.be/hNbLeMnywTA is the link where you can see a step by step
 usage of this Command Line tool.
-
 On Mon, May 18, 2015 at 1:34 PM, CHANDRA SEKHAR <vedamchandu at gmail.com>
 wrote:
-
-> Thanks Mahoday,
->
->
-> <https://lh3.googleusercontent.com/-JWJ8LaCZykI/VVmcyzBv-iI/AAAAAAAATYg/R5bWQfhGGxk/s1600/github.png>
-> I have try to to execute your program in xamp and wamp  server its showing
->  errors while loading the page please find the screen shots for the same
-> let me know if you have any suggestions for the same.
->
-> i hope i am in final state of executing the program if you could help in
-> this regard i am very much thankful for your kind help.
->
->
-> On Saturday, 16 May 2015 10:12:58 UTC+5:30, dhaval patel wrote:
->
->> Respected scholars,
->> Nowadays many NLP scholars are working on Github.
->> Most of the discussion are stored in github issues.
->> I have written a small CLI utility in shell script which may be of
->> interest to the scholars.
->> It takes a backup of github issues and renders an HTML for local viewing
->> with the same experience as github (because I used the same CSS:))
->> https://github.com/drdhaval2785/github_issue_backup is the code
->>
->> http://drdhaval2785.github.io/github_issue_backup/sanskrit-lexicon/CORRECTIONS/2.txt
->> is the text output
->>
->> http://drdhaval2785.github.io/github_issue_backup/sanskrit-lexicon/CORRECTIONS/html/2.html
->> is the HTML output.
->>
->> Any bug reporting is welcome at
->> https://github.com/drdhaval2785/github_issue_backup/issues
->>
->>
->> --
->> Dr. Dhaval Patel, I.A.S
->> Collector and District Magistrate, Anand
->> www.sanskritworld.in
->>
->  --
-> You received this message because you are subscribed to the Google Groups
-> "sanskrit-programmers" group.
-> To unsubscribe from this group and stop receiving emails from it, send an
-> email to sanskrit-programmers+unsubscribe at googlegroups.com.
-> For more options, visit https://groups.google.com/d/optout.
->
-
-
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Anand
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150519/bc3026f2/attachment.htm>
-

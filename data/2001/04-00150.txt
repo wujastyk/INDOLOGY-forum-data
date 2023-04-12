@@ -1,26 +1,5 @@
-From tlknudsen at GET2NET.DK  Wed Apr 11 18:22:19 2001
-From: tlknudsen at GET2NET.DK (Toke Lindegaard Knudsen)
-Date: Wed, 11 Apr 01 20:22:19 +0200
-Subject: Staal on Baudhayana
-In-Reply-To: <Pine.SUN.4.21.0104102257260.9693-100000@socrates-a.ucl.ac.uk>
-Message-ID: <161227069116.23782.12306467822155600450.generated@prod2.harmonylists.io>
-
+Staal on Baudhayana
 Dear Dr. Wujystyk,
-
-> Prof. Staal has written as follows (apparently this is not in print, I'm
-> afraid):
-> \begin{quote} Your memory is so excellent! However, that
-> comment
-> was made by Professor Sylvain Bromberger at MIT, a brilliant philosopher
-> very close to the Chomsky crowd who had asked me how the Indians expressed
-> the theorem. I wrote to Hayashi what he thought of it and he said it was
-> certainly true that it could be interpreted thus but that the only
-> interpretations he had come across were with regard to squares.
->
-> It seems unlikely, then (though Takao is may be too careful a philologist
-> to have taken that step!) that the Indians thought of other polygons or
-> half-circles. Would be fascinating to find evidence. \end{quote}
-
 Thank you very much for asking Professor Staal about this matter.
 It certainly is interesting.  Some time back my supervisor asked
 me if the ancient Indian formulation of the Pythagorean theorem
@@ -32,10 +11,5 @@ possibly being more general than the simple Pythagorean theorem.
  As Professor Staal remarks it would be fascinating to find
 evidence of the ancient Indians having thought of other polygons or
 arcs.
-
 Sincerely,
 Toke Lindegaard Knudsen
-
-
-
-

@@ -1,18 +1,8 @@
-From jpo at austin.utexas.edu  Mon Mar 28 15:39:00 2022
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Mon, 28 Mar 2022 15:39:00 +0000
-Subject: [INDOLOGY] Searchable digitized texts
-Message-ID: <683B96A3-B6D6-4BAA-95BA-023BD7F2BFD1@austin.utexas.edu>
-
+[INDOLOGY] Searchable digitized texts
 Sorry for forgetting to include the URL. Here it is:
-
 https://sites.utexas.edu/sanskrit/resources/dharmasastra/
-
-
 Dear All:
-
 I want to alert you all to the Resource Library for Dharma??stra Studies created by Don Davis. It contains eleven Dharma??stra commentaries and Nibandhas digitized and searchable. I think it will be a great resource for those interested in the medieval Hindu/Brahmanical world. The texts are:
-
 B?lakr??? of Vi?var?pa, commentary on the Y?j?avalkya-dharma??stra.
 Mit?k?ar? of Vij??ne?vara, commentary on the Y?j?avalkya-dharma??stra.
 Apar?rka?s Commentary on the Y?j?avalkya-dharma??stra.
@@ -25,19 +15,8 @@ D?yabh?ga of J?m?tav?hana, treatise on inheritance.
 Sm?ticandrik? by Deva?abha??a, major digest in five volumes.
 Vyavah?racint?ma?i of V?caspati Mi?ra, treatise on legal procedure.
 Sarasvat?vil?sa by Prat?parudra, digest on legal procedure.
-
 In addition there are:
-
 Dak?asm?ti, short m?lasm?ti.
 The four Dharmas?tras (?pastamba, Gautama, Baudh?yana, Vasi??ha), earliest texts of the dharma tradition in one searchable unicode file.
-
 Others will be added as and when we manage to digitize them. With thanks and best wishes,
-
 Patrick Olivelle
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220328/fe679939/attachment.htm>
-

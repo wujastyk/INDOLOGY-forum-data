@@ -1,27 +1,18 @@
-From s._kalyanaraman at mail.asiandevbank.org  Fri Feb 17 08:35:53 1995
-From: s._kalyanaraman at mail.asiandevbank.org (s. kalyanaraman)
-Date: Fri, 17 Feb 95 08:35:53 +0000
-Subject: Nandu Abhyankar's suggestions on indology focus groups
-Message-ID: <161227018597.23782.613869177856529170.generated@prod2.harmonylists.io>
-
+Nandu Abhyankar's suggestions on indology focus groups
      Let me summarize the suggestions made by Nandu Abhyankar 
      nandu at vtph2.ple.af.mil 
-     
      Nandu's excellent suggestions relate to the promotion of focussed 
      discussions/info. exchange on a number of topics; he also seeks 
      directions from indology group members on the development of Sanskrit 
      dictionary on internet:
-     
      (1) Status report on availability of transliterated Sanskrit texts on 
      internet: 
-     
      Prof Tokunaga and his Japanese students have recently made available 
      the entire text of the Mahabharata and the Ramayana, in a 
      transliterated form (english). MIT scholars have made a first attempt 
      to re-encode those input texts in ITRANS format, and thus also obtain 
      Sanskrit Devanagari output. Version 1.0 of this effort is now 
      available for general net access. 
-     
      The address of the anonymous FTP site directory is:  
      ftp://saraswati.mit.edu/pub/iepics-1.0/ Thanks to Sandeep Kumar Gupta 
      <skgupta at mit.edu> for this FTP site.All the files in that directory 
@@ -33,30 +24,17 @@ Message-ID: <161227018597.23782.613869177856529170.generated@prod2.harmonylists.
      and other problems will be corrected. Avinash Chopde (508) 640 3138 
      avinash at acm.org Avid Technology, Inc Tewksbury, Massachusetts, USA 
      avinash at avid.com 
-     
      (2) Status report on Sanskrit dictionary on internet: 
-     
      Creating a sanskrit dictionary on internet is a big task which has to 
      be done by full-time scholars; directions from indology group members 
      are welcome.   
-         
      (3) Sanskrit Texts available on other newsgroups: 
-     
      There are some texts (in sanskrit) available on ftp or http to 
      chandra.astro.indiana.edu which of course need meanings. The texts are 
      encoded in the ITRANS transliteration scheme and can be easily 
      converted to CSX format. The software is developed by Avinash Chopde 
      and uses Frans Velthuis's devanagari fonts and TeX/LaTeX. 
-     
      (4) Promotion of interest in conversational Sanskrit: 
-     
      A new sanskrit monthly sambhaashaNa sandeshaH is being published from 
      Bangalore. It is designed to promote interest in conversational 
      sanskrit.
-
- 
-
-
-
-
-

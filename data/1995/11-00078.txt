@@ -1,9 +1,4 @@
-From ORACLE at wl.aecl.ca  Wed Nov 15 14:25:08 1995
-From: ORACLE at wl.aecl.ca (ORACLE at wl.aecl.ca)
-Date: Wed, 15 Nov 95 09:25:08 -0500
-Subject: fonts
-Message-ID: <161227021648.23782.9317023161668314272.generated@prod2.harmonylists.io>
-
+fonts
 Dear Ansuman Pandey,
 	Thanks for correcting me re. the Washington FTP address for the Roman
 Fonts that contain diacritical chars for internationally accepted
@@ -14,13 +9,6 @@ the macro file that makes typing of diacritical chars that are located in the
 upper ascii portion of the font very easy. To get these one can send email to 
 me, and enclose $4.00 to cover postage and handling, as I have no other means 
 of sending these which is cheaper.
-
 Regards,
 Desikachary  
 email:desikacharyk at wl.aecl.ca  
- 
-
-
-
-
-

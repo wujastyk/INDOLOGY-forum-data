@@ -1,7 +1,4 @@
->From that listing, I found the following six Punjabi fonts. Hope this
 helps.   David Magier
-
-----------------------------------------------
 AUTHOR:  C-DAC, Center for Development of Advanced Computing, Pune,
         India.
 LANGUAGE:  Assamese, Bengali, Gujarati, Hindi, Kannada, Kashmiri,
@@ -20,9 +17,6 @@ COMMENT:  A strikingly fine set of TrueType fonts for all the Indian
         different types of computers.)  Characters are encoded using
         the Government of India standard, ISCII.
 INFORMATION:  James Nye <jnye at midway.uchicago.edu>, 312-702-8430
-
-___
-
 AUTHOR:  Ecological Linguistics <ecoling at applelink.apple.com>, PO Box
         15156, Washington DC 20003.  Phone 202-547-7678.
 LANGUAGE:  Bengali, Gujarati, Hindi, Kannada, Malayalam, Punjabi,
@@ -33,9 +27,6 @@ OPERATING SYSTEM:  Mostly Mac, TrueType for Windows also available.
 COMMENT:  "We specialize in complex alphabets and, for Macintosh,
         super-efficient software-selectable keyboards" (--Author).
         Slogan:  "Offering All Alphabets of the World."
-
-___
-
 AUTHOR:  InPros (Intellectual Property Solutions) <info at inpros.com>,
         Box 57-2141, Houston, TX 77257-2141; phone 713-465-2967 (fax,
         voice mail, and fax-on-demand).
@@ -51,17 +42,11 @@ COMMENT:  Fonts are said to be high-quality and inexpensive.
         Other languages and fonts are continuously being added.  "It
         is our intention to create a data base of files that can be
         printed in Hindi and other languages" (--Authors).
-
-___
-
 AUTHOR:  Linguist's Software, Box 580, Edmonds, WA 98020-0580.  Phone
         206-775-1130.  Fax 206-771-5911.
 LANGUAGE:  Gujarati, Hindi, Punjabi, Sanskrit
 PRICE:  $99.95 each
 OPERATING SYSTEM:  Windows.
-
-___
-
 AUTHOR:  Patil, Shrikrishna, 21647 Rainbow Drive, Cupertino, CA 95014-
         4826.  Phone:  408-446-9144.  Fax:  408-255-6443.
 LANGUAGE:  Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi,
@@ -73,9 +58,6 @@ COMMENT:  "Many Marathi publications in the US and Canada use these
         Devanagari fonts; the Telugu and other language fonts too are
         used by various South Asian Studies departments in and around
         the Bay Area (California)" (--Avinash Chopde).
-
----
-
 AUTHOR:  Singh, Jasbir <jasbir at maboli.com>, Maboli Systems, Inc., P.O.
         Box 3629, Wise, VA 24293.
 LANGUAGE:  Punjabi:  "AnandpurSahib Lippi," "Jhelum Lippi"
@@ -84,10 +66,3 @@ OPERATING SYSTEM:  Mac, Windows
 COMMENT:  Price includes one TrueType font, manuals and templates,
         postage.  Professional package has both fonts, extras, two
         Punjabi games.  Both versions can be used with *all* software.
-
- 
-
-
-
-
-

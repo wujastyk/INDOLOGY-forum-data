@@ -1,44 +1,21 @@
-From jhelling at cs.ruu.nl  Tue Feb  1 12:41:43 1994
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Tue, 01 Feb 94 13:41:43 +0100
-Subject: Malayalam TeX 1.1
-Message-ID: <161227016519.23782.12319791458017361193.generated@prod2.harmonylists.io>
-
-
+Malayalam TeX 1.1
 Hello Indologists,
-
 Malayalam TeX 1.1 is available for anonymous FTP from
-
 archive.cs.ruu.nl:/pub/TEX/FONTS/Malayalam-TeX-1.1.zip
-
 This file is a PC-style zip archive.
-
-
 Malayalam TeX is a package to typeset Malayalam using TeX. Malayalam is
 entered in a latin transcription, this is translated to TeX commands by a
 pre-processor, and the result is processed by TeX to produce Malayalam output.
 For fruitfully using the package, some knowledge of TeX is required. If you
 want to run it on other platforms than MS-DOS or Atari ST some C compiling is
 required, but this should not be a major problem. (C source included)
-
 The fonts used by Malayalam TeX are developed using METAFONT. These fonts
 cannot be used with Windows applications, but only with TeX. They are only
 distributed in 300dpi bitmap format. For the METAFONT sources contact me.
-
 Please drop me a note if you use this program, have comments or questions.
-
 Success,
-
-
 Jeroen
---
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
 't Zand 2                         Phone: +31-3473-73935 (home)
 4133 TB Vianen                    (18.00--21.00 GMT)
 The Netherlands                   Answer in English, German, or Dutch.
- 
-
-
-
-
-

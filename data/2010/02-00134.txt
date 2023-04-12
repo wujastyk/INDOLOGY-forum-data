@@ -1,15 +1,8 @@
-From richard.gombrich at BALLIOL.OX.AC.UK  Thu Feb 18 16:46:46 2010
-From: richard.gombrich at BALLIOL.OX.AC.UK (Richard Gombrich)
-Date: Thu, 18 Feb 10 16:46:46 +0000
-Subject: INDOLOGY FAQ. Re. Varanasi
-In-Reply-To: <4B7B5D21.60706@comcast.net>
-Message-ID: <161227088692.23782.7147998817940045094.generated@prod2.harmonylists.io>
-
+INDOLOGY FAQ. Re. Varanasi
 I am a former General Editor of the Clay Sanskrit Library.  Because of  
 its sudden unforeseen demise just over two years ago, it is a painful  
 subject.  However, at least George Thompson's posting has given me a  
 good laugh.
-
 It was John Clay's ambition to introduce classical Sanskrit literature  
 to a wider public, and we have ample evidence that in this aim he was  
 far from unsuccessful.  A scholarly man, unusually well endowed with  
@@ -20,17 +13,14 @@ ordinary educated people could regard as readable.  He was joined by a
 fair number of Sanskritists, many of them young, who were or became  
 convinced that he was right.  The collapse of the series had  
 absolutely nothing to do with this issue.
-
 George Thompson is correct: the Clay programme did not include Vedic.   
 Therefore the need to have regard for conventions in transliterating  
 Vedic is not obvious to me.  We also left the conventions for  
 transliterating modern Indian languages, e.g. Hindi, out of  
 consideration.
-
 Our conventions for transliterating Sanskrit names might have been  
 different had the normal scholarly transliteration not been on show a  
 couple of inches to the left.  The reader interested in such matters  
--- and we have ample evidence that they constituted only a very small  
 minority, sad though this may be -- were deemed to be capable of  
 moving the direction of their gaze by that very small distance.  Since  
 the names began with capital letters on the left-hand page as well, no  
@@ -39,58 +29,5 @@ way of conveying a lot of information: it is very easy for anyone to
 garner full information about the pronunciation of every Sanskrit  
 name, while those who do not care about that are at least nudged into  
 pronouncing the name with a correct stress.
-
 Richard Gombrich
-
-
 On 17 Feb 2010, at 03:06, george thompson wrote:
-
-> With regard to Dominik's last point:
->
->> There's lots to discuss about the various Clay decisions, but one  
->> thing I
->> quite like is the use of the acute accent to mark stress or ictus.   
->> While
->> ictus isn't the same as vowel length, it's pretty close to  
->> gauravam, and
->> people who know nothing of Sanskrit and don't have access to a  
->> teacher do
->> rather well reading such accented words out loud.
->>
->> Best,
->> Dominik
->>
->>
->>
-> Agreed.  But I am a Vedicist who spends most of his time working on
-> accented Vedic texts like the Rigveda.  So for me at least this use of
-> the acute accent marker is disconcerting, since Vedicists need to mark
-> both long and short vowels as well as pitch.  I think that the best  
-> way
-> to go, in general, is to start with the very simple and easy  
-> distinction
-> between short and long vowels.  The Clay system does not do that.  In
-> fact, the Clay program doesn't do Vedic at all.
->
-> What does that mean?
->
-> In my view, the Clay Library system of transliteration is an arbitrary
-> and a completely unsuccessful failure.
->
-> Is 'Rama' [with or without acute accent] reallly better than 'Raama?'
-> Is 'Sita' an acceptable equivalent for 'Siitaa'?
->
-> Is 'Praja-pati' okay in any sense?
->
-> You will find all of these ghastly forms and many more in the Clay  
-> editions.
->
-> What is wrong with using long and short vowel markers instead?
-> Sincerely, I think that the alternative is absurd.
->
-> Best wishes
-> George
-
-
-
-

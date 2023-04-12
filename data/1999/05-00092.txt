@@ -1,13 +1,7 @@
-From dbgray62 at HOME.COM  Thu May  6 16:07:50 1999
-From: dbgray62 at HOME.COM (DAVID GRAY)
-Date: Thu, 06 May 99 12:07:50 -0400
-Subject: ASR Publications
-Message-ID: <161227048580.23782.13371994469578324632.generated@prod2.harmonylists.io>
-
+ASR Publications
 Indeed, do not open it!  Evidently it only infects windows computers,
 not MACs.  The following is what Symantec's AVCenter has to say about
 the virus:
-
 Happy99.Worm
                                   VirusName:
                                               Happy99.Worm
@@ -19,17 +13,12 @@ Happy99.Worm
                                               World Wide
                               Characteristics:
                                               Trojan Horse, Worm
-
-
-
                             Description:
-
                             This is a worm program, NOT a virus. This
 program has reportedly been received through email
                             spamming and USENET newsgroup posting. The
 file is usually named HAPPY99.EXE in the
                             email or article attachment.
-
                             When being executed, the program also opens
 a window entitled "Happy New Year 1999 !!"
                             showing a firework display to disguise its
@@ -39,7 +28,6 @@ SKA.DLL into WINDOWS\SYSTEM directory. It also
                             modifies WSOCK32.DLL in WINDOWS\SYSTEM
 directory and copies the original
                             WSOCK32.DLL into WSOCK32.SKA.
-
                             WSOCK32.DLL handles internet-connectivity in
 Windows 95 and 98. The modification to
                             WSOCK32.DLL allows the worm routine to be
@@ -50,18 +38,13 @@ the modified code loads the worm's SKA.DLL. This
 with UUENCODED HAPPY99.EXE inserted into
                             the email or article. It then sends this
 email or posts this article.
-
                             If WSOCK32.DLL is in use when the worm tries
 to modify it (i.e. a user is online), the worm adds
                             a registry entry:
                                HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce=SKA.EXE
-
                             The registry entry loads the worm the next
 time Windows start.
-
-
                             Removing the worm manually:
-
                                 1.delete WINDOWS\SYSTEM\SKA.EXE
                                 2.delete WINDOWS\SYSTEM\SKA.DLL
                                 3.in WINDOWS\SYSTEM\ directory, rename
@@ -70,18 +53,14 @@ WSOCK32.DLL to WSOCK32.BAK
 WSOCK32.SKA to WSOCK32.DLL
                                 5.delete the downloaded file, usually
 named HAPPY99.EXE
-
                             Windows prevents you to do step #3 and #4
 above if the machine is still connected to the Internet.
                             The file "windows\system\wsock32.dll" is
 used whenever the machine is connected to Internet (i.e.
                             through dial-up or LAN connection).
-
-
                             If you are using dial-up connection (i.e.
 America Online), you need to do the
                             following:
-
                                 1.terminate internet connection
                                 2.delete WINDOWS\SYSTEM\SKA.EXE
                                 3.delete WINDOWS\SYSTEM\SKA.DLL
@@ -91,9 +70,6 @@ WSOCK32.DLL to WSOCK32.BAK
 WSOCK32.SKA to WSOCK32.DLL
                                 6.delete the downloaded file, usually
 named HAPPY99.EXE
-
-
                             If you are connected to Internet through LAN
 (i.e. in the office or cable modem),
                             you need to do the following:
-

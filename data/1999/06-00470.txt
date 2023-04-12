@@ -1,10 +1,4 @@
-From g.v.simson at EAST.UIO.NO  Thu Jun 24 13:02:30 1999
-From: g.v.simson at EAST.UIO.NO (Georg von Simson)
-Date: Thu, 24 Jun 99 14:02:30 +0100
-Subject: Chandogya Upanisad -- mathematics and ritual
-In-Reply-To: <199906241250.OAA02918@bednorz.get2net.dk>
-Message-ID: <161227050932.23782.5653426047786537838.generated@prod2.harmonylists.io>
-
+Chandogya Upanisad -- mathematics and ritual
 Dear Toke Lindegaard Knudsen,
    do you know Axel Michaels' book "Beweisverfahren in der vedischen
 Sakralgeometrie - Ein Beitrag zur Entstehungsgeschichte von Wissenschaft",
@@ -12,7 +6,3 @@ Wiesbaden, 1978 (Alt- und Neu-Indische Studien, 20)?
    I think it would answer some, though not all, of your questions.
 Best regards,
    G.v.Simson
-
-
-
-

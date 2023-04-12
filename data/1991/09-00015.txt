@@ -1,11 +1,4 @@
-From ucgadkw at UK.AC.UCL  Wed Sep 25 17:14:12 1991
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Wed, 25 Sep 91 17:14:12 +0000
-Subject: Gujarati on the MAC.
-Message-ID: <161227015133.23782.13516074364487334841.generated@prod2.harmonylists.io>
-
- 
-
+Gujarati on the MAC.
 A Mr Ratilal P. Chandaria has asked me if I can help him
 with a problem.  He is working hard at getting his Apple
 Mac to do Gujarati intelligently.  He has a font, and
@@ -15,25 +8,13 @@ with Word.  Or indeed, with any program.  He is not
 anchored to Word, and has had some luck with another
 WP program called WinWrite (I think it was) which
 is better at multilingual stuff.
- 
 Anyone who would like to discuss this, or help Mr Chandaria,
 is invited to contact him at
- 
 23 Radnor Place,
 London W2 2TG
 England.
 Office phone: 071 723 2323
 FAX 071 724 9297.
- 
 Thanks.
- 
 Please don't contact me about this!
- 
 Dominik
- 
- 
-
-
-
-
-

@@ -1,11 +1,5 @@
-From harryspier at HOTMAIL.COM  Tue Nov 30 02:52:23 1999
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Mon, 29 Nov 99 21:52:23 -0500
-Subject: Transliteration, fonts and modern Indian Languages
-Message-ID: <161227054061.23782.652826440120420251.generated@prod2.harmonylists.io>
-
+Transliteration, fonts and modern Indian Languages
 Dear list members,
-
 I have been asked to find a font to display some Indian chants on a video
 screen. Some of these are in Sanskrit, some in Hindi and some in Marathi.
 The chanting book from which these come follows the ISO draft standard for
@@ -27,15 +21,12 @@ shouldn't be a problem.  And since mkt1font is written in PERL it should run
 under windows (or be modifiable to run under it. Dr. Smiths documentation
 says its only been tested under Unix) but I don't know if t1asm and t1disasm
 are available for windows.
-
 1)Has anyone on the list made the necessary changes to get  mkt1font to run
 under windows?  Or has a similar program that runs under windows?  Or has
 another solution?
-
 2)Also regarding the ISO draft transliteration standard I'm wondering about
 the rational of having the three nasalization indicators (anusvara,
 candrabindu and modern nasalization := tilde).
-
   Doctor Anthony P. Stone in his discussion of this standard at
 http://ourworld.compuserve.com/homepages/stone_catend/trdis01.htm
 in the section on "Treatment of Nasalization" says "In Hindi, nasalisation
@@ -46,7 +37,6 @@ transliteration of Devanagari candrabindu and anusvara.  In Hindi a
 nasalised vowel is indicated by candrabindu unless the wovel extends above
 the tope line, when a dot alone is used.  In this situation the two signs
 are allographs."
-
 The Indian Standard "Indian Script Code for Information Interchange - ISCII
 UDC 681.3" in section 4 Nature of the Indian Alphabet says under 4.3
 Nasalization Sign: Chandrabindu "The chandrabindu denotes nasalization of
@@ -55,7 +45,6 @@ Devanagari script it often gets substituted with Anuswar, as the latter is
 more convenient for writing.  In some words, however, Anuswar and
 Chandrabindu can give different meanings.  Hindi example ha&sa (laugh),
 haMsa (Swan)." [& represents chandrabindu and M represents anusvara]
-
 Would it be completely unambiguous to use chandrabindu for transliterated
 vowel nasalization and anusvara for consonent nasalization and thus
 eliminating the need for the third nasalization symbol the tilde? Isn't the
@@ -63,29 +52,17 @@ ISCII document indicating that the real symbol for vowel nasalization is
 chandrabindu and that when anusvara is used for this it is a mere
 convenience.  Also how long has the tilde been in use as a nasalization
 symbol?
-
 3) I've come across an explicit transliteration standard for mute "a" in
 Hindi words.  In "Kabir Legends and Ananta-Das's Kabir Parachai, SUNY press
 by David N. Lorenzen" in his notes on transliteration he has. "In the case
 of Hindi words, a mute a at the end of a word or before a hyphen is usually
 dropped.  A final a is usually kept when it is preceded by two consonents
 (including nasals and semivowels)."
-
 Can someone tell me what the reason is for keeping final "a" after two
 consonents?
-
 Many thanks,
-
 Harry Spier
 371 Brickman Rd.
 Hurleyville, New York
 USA 12747
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

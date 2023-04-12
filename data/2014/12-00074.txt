@@ -1,15 +1,8 @@
-From mmdesh at umich.edu  Sun Dec 28 13:52:17 2014
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Sun, 28 Dec 14 08:52:17 -0500
-Subject: [INDOLOGY] Question on Sanskrit Syntax
-Message-ID: <CAB3-dzeBgNRcJ8Whrffc7OuqyW146_9ib=zK3Jjzwt0v+Q9uGA@mail.gmail.com>
-
+[INDOLOGY] Question on Sanskrit Syntax
 n a Sanskrit work titled Nity?c?radarpa?a by Brahm?nanda, on p. 2, I see a
 quotation from Dak?asm?ti:
-
 ??????????? ???????????????? ?????: ?
 ???????????????? ??????????????????????? ????? ??
-
 Here, ?c?r?t pr?pyate svargam is an irregular usage, unless one assumes
 that the word svarga is somehow used in neuter gender.  With the normal
 masculine gender of the word svarga, svargam would be an accusative case
@@ -20,16 +13,9 @@ Sanskrit like passive: ?????? ???? (nom) ??????/????? (nom).  I am
 wondering if anyone has come across Sanskrit passive (bh?ve) constructions
 where the object shows up in the accusative case.  Any information or
 suggestions are appreciated.
-
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20141228/8d4dfea5/attachment.htm>
-

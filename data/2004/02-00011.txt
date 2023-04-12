@@ -1,50 +1,15 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Wed Feb  4 22:40:51 2004
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
-Date: Thu, 05 Feb 04 11:40:51 +1300
-Subject: CTAN Submission -- Devanagari for TeX v2.1
-Message-ID: <161227073845.23782.12593120074759033821.generated@prod2.harmonylists.io>
-
+CTAN Submission -- Devanagari for TeX v2.1
 Dear Colleagues,
-
 fyi
-
------ Forwarded message from Robin Fairbairns <Robin.Fairbairns at cl.cam.ac.uk> -----
-
-From: Robin.Fairbairns at cl.cam.ac.uk (Robin Fairbairns)
 Newsgroups: comp.text.tex
-Subject: Re: CTAN Submission -- Devanagari for TeX v2.1
-
+Re: CTAN Submission -- Devanagari for TeX v2.1
 Anshuman Pandey writes
-
-> I've uploaded the file velthuis21.zip to ftp.tex.ac.uk. The zip
-> archive contains the latest release of the Devanagari for TeX package,
-> version 2.1. Please place the contents of the zip archive in
-> language/devanagari/velthuis/ after removing all existing files and
-> subdirectories from the directory.
-
 i've installed the files as requested.  thanks for the upload.
-
-> Version 2.1 includes a new alternate Devanagari family that offers
-> character variants often used in the typography of Sanskrit texts.
-
 Robin Fairbairns
-
 For the CTAN team
-
-
------ End forwarded message -----
-
 Best regards,
-
  Richard MAHONEY
-
-
---
 Richard MAHONEY | internet: homepages.comnet.net.nz/~r-mahoney
 Littledene      | telephone / telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 25 829 986
 OXFORD, NZ      | e-mail: r.mahoney at comnet.net.nz
-
-
-
-

@@ -1,46 +1,18 @@
-From hart at POLBOX.COM  Mon Dec 20 05:31:21 1999
-From: hart at POLBOX.COM (Artur Karp)
-Date: Mon, 20 Dec 99 06:31:21 +0100
-Subject: [q] iissara & iisvara
-In-Reply-To: <19991219235906.5168.qmail@hotmail.com>
-Message-ID: <161227054559.23782.12304653167990673050.generated@prod2.harmonylists.io>
-
+[q] iissara & iisvara
 At 15:59 99-12-19 -0800, N. Ganesan wrote:
-
->Have a question:
->In the sanskritization of iiza/iiSa/iissara to iizara, how is the
->"v" in iizvara added? Is this common and any parallel examples
->could be given?
-
-
 Compare OIA azva --> MIA assa. Reverse change of  VssV (with its suspect
 geminate)  into VzvV (which agrees with the OIA morpho-phonemic pattern)
 would produce nice Sanskrit-like hyper-correct forms. See CDIAL <Phonetic
 Analysis>, OUP, London 1971, where convenient lists of OIA words containing
 particular sound or sound group; on p. 229 a list of  ~ss~ and ~ss- words,
 all of them reconstructed by Turner and classed as "defectives".
-
 BTW, MIA cannot have Issara (iissara), but only issara (as in Pali) or Isara
 (Prakrit), CDIAL 1619; unlike OIA, consonantal clusters in MIA may be
 preceded  by only short vowels.
-
 With regards,
-
 Artur Karp
 University of Warsaw
 Poland
-
-
-
-
-
-
--------------------- [POLBOX - REKLAMA] -----------------------
 Zanim zainwestujesz realny kapital, sprawdz swoje umiejetnosci
 w pierwszej internetowej symulacji rynku finansowego w Polsce.
 Inwestujesz wirtualnie wygrywasz realnie http://www.pieniadz.pl
----------------------------------------------------------------
-
-
-
-

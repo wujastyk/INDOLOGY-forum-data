@@ -1,49 +1,29 @@
-From neelisja at u.washington.edu  Fri Oct 18 02:51:46 1996
-From: neelisja at u.washington.edu (J. Neelis)
-Date: Thu, 17 Oct 96 19:51:46 -0700
-Subject: H-ASIA: Asian Studies WWW Virtual Library (fwd)
-Message-ID: <161227026465.23782.2711032012542559578.generated@prod2.harmonylists.io>
-
+H-ASIA: Asian Studies WWW Virtual Library (fwd)
 There is also the following list of sites for many other Asian countries
 which I received in an H-Asia posting a few days ago.
-
----------- Forwarded message ----------
-Date: Mon, 14 Oct 1996 06:35:01 -0700
-From: Frank Conlon <conlon at U.WASHINGTON.EDU>
-Reply-To: H-Net list for Asian History and Culture <H-ASIA at h-net.msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at h-net.msu.edu>
-Subject: H-ASIA: Asian Studies WWW Virtual Library
-
+H-ASIA: Asian Studies WWW Virtual Library
                                 H-ASIA
                            October 14, 1996
-
 Asian Studies WWW Virtual Library
 ***************************************************************************
-From: "T.Matthew Ciolek" <tmciolek at coombs.anu.edu.au>
-
 Dear Colleagues,
-
 You and your research associates and students might be interested in the following
 information:
-
 **************************
 Asian Studies WWW Virtual Library
 **************************
 Coombs Computing Unit, RSSS/RSPAS, Australian National University, Australia
 http://coombs.anu.edu.au/WWWVL-AsianStudies.html
 [maintained by: Dr T.Matthew Ciolek (tmciolek at coombs.anu.edu.au)]
-
 Asian Studies WWW Virtual Library is a large-scale, distributed,
 collaborative project providing an up-to-date guide to the networked
 scholarly documents, resources and information systems concerned with
 social sciences research in Asia.
-
 This Virtual Library is a collaborative endeavour, which - in addition
 to several online research facilities developed at the Coombs
 Computing Unit, RSSS/RSPAS, Australian National University's Coombsweb
 (http://coombs.anu.edu.au) server - integrates catalogueing efforts,
 initiative  and expertise of the following WWW sites:
-
     1.Afghanistan WWW VL
        http://www.rockbridge.net/personal/bichel/afghan.htp
        [maintained by: Anthony and Rebecca Bichel (bichel at rockbridge.net)]
@@ -129,15 +109,11 @@ initiative  and expertise of the following WWW sites:
    28.Vietnam WWW VL
        http://coombs.anu.edu.au/WWWVLPages/VietPages/WWWVL-Vietnam.html
        [maintained by: Vern Weitzel (vern at coombs.anu.edu.au)]
-
 Additional 'virtual librarians' are warmly invited to join this ongoing,
 collaborative project.
-
 Please feel free to forward this information to other interested persons
 or sites.
-
 - best regards -
-
 Dr T. Matthew CIOLEK           tmciolek at coombs.anu.edu.au
 ANU Social Sciences Information Systems Administrator,
 Coombs Computing Unit, Research School of Social Sciences,
@@ -145,9 +121,3 @@ Coombs Computing Unit, Research School of Social Sciences,
 Australian National University, Canberra, ACT 0200, Australia
 ph +61 (0)6 249 0110             fax: +61 (0)6 257 1893
 ==========================================================================
-
-
-
-
-
-

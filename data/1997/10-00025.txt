@@ -1,11 +1,5 @@
-From Palaniappa at AOL.COM  Fri Oct  3 03:18:41 1997
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Thu, 02 Oct 97 23:18:41 -0400
-Subject: chAndogya upaniSad 1.1.8 and 8.3.5
-Message-ID: <161227032919.23782.9186630614250506236.generated@prod2.harmonylists.io>
-
+chAndogya upaniSad 1.1.8 and 8.3.5
 In a message dated 97-10-02 18:52:33 EDT, narayana at HD1.VSNL.NET.IN writes:
-
 <<
  The form `satIyam' is given in the Upanishad. Sankara accepts the form
  `satiyam'. I do not think the form `sattiyam' is accepted.
@@ -17,7 +11,6 @@ original 1953 edition published by George Allen & Unwin, Ltd., has the form
 commented by ZaMkara. A multitude of variant readings of the texts exist,
 some of them to be found in the famous commentaries, others in more out of
 the way versions."
-
 "The UpaniSads" translated by Max Muller has the following version, "This
 name Sattyam consists of three syllables, sat-tI-yam*.  Sat signifies the
 immortal, t, the mortal, and with yam he binds both...."  In the footnote for
@@ -26,11 +19,5 @@ The I in tI would then be the dual of an anubandha i..". Muller says that he
 has "endeavoured throughout to follow that text which is presupposed by the
 commentaries, whether they are the works of the old ZankarAcArya, or the more
 modern ZankarAnanda, or SAyaNa, or others."
-
 Regards
-
 S. Palaniappan
-
-
-
-

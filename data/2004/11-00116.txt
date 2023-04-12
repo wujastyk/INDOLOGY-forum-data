@@ -1,12 +1,5 @@
-From Gerard.Huet at INRIA.FR  Tue Nov 30 13:29:25 2004
-From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
-Date: Tue, 30 Nov 04 14:29:25 +0100
-Subject: fonts
-In-Reply-To: <60D386B60521234BB917967801F3A30F01C24C86@lsa-m4.lsa.adsroot.itcs.umich.edu>
-Message-ID: <161227075457.23782.13418084329416989573.generated@prod2.harmonylists.io>
-
+fonts
 Dear indologists,
-
 the flurry of messages concerning fonts prompted me to look into the 
 problem of generating proper
 ligatures for Sanskrit on the Web. Thanks to the hint provided by 
@@ -35,7 +28,6 @@ Please mention precise parameters of your installation:
 - operating system version
 - browser version
 - relevant locally installed fonts.
-
 If people are interested, I could explain my method for Sanskrit 
 publishing, featuring:
 - perfect typography for scholarly documents with TeX
@@ -49,9 +41,4 @@ In this methodology, TeX descriptions AND Unicode/UTF8 representations
 are compiled from
 transliteration texts in 7-bit ASCII, so there is no need for specific 
 keyboard input or Unicode editors.
-
 G?rard Huet
-
-
-
-

@@ -1,53 +1,7 @@
-From meulnbld at XS4ALL.NL  Sun Feb 14 09:30:02 2010
-From: meulnbld at XS4ALL.NL (G.J. Meulenbeld)
-Date: Sun, 14 Feb 10 10:30:02 +0100
-Subject: Digital Sanskrit corpus and dictionary
-Message-ID: <161227088489.23782.3433911377598031813.generated@prod2.harmonylists.io>
-
+Digital Sanskrit corpus and dictionary
 Dear Oliver,
-
 Many thanks for the efforts resulting in this extremely useful tool.
-
 Best wishes,
-
 Jan Meulenbeld
-
------ Original Message ----- 
-From: "Oliver Hellwig" <hellwig7 at GMX.DE>
-To: <INDOLOGY at liverpool.ac.uk>
 Sent: Friday, February 12, 2010 11:10 AM
-Subject: Digital Sanskrit corpus and dictionary
-
-
-> Dear colleagues,
->
-> I would like to announce that a digital corpus of lemmatized Sanskrit 
-> texts
-> is now available at
->
-> http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
->
-> The corpus contains more than 2.500.000 manually annotated entries. It
-> offers the possibilities to search for lemmata and collocations and 
-> presents
-> lists of referenced finite and infinite forms of each verbal lemma 
-> contained
-> in the lexical database. In addition, the corpus makes it possible to
-> examine the distribution of lexical units over the time using basic
-> statistical measures.
->
->
-> Best,
->
-> Oliver Hellwig
->
->
-> PD Dr. Oliver Hellwig
-> S?dasien-Institut, Universit?t Heidelberg
-> Im Neuenheimer Feld 330
-> 69120 Heidelberg
-> 
-
-
-
-
+Digital Sanskrit corpus and dictionary

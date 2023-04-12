@@ -1,16 +1,9 @@
-From hellwig7 at GMX.DE  Wed Jul 13 17:16:11 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Wed, 13 Jul 11 18:16:11 +0100
-Subject: New version of the DCS
-Message-ID: <161227093135.23782.1423063539478244518.generated@prod2.harmonylists.io>
-
+New version of the DCS
 Dear list,
-
 a new version of the Digital Corpus of Sanskrit (DCS) is now available at 
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php. My special 
 thanks go to Mr. Dulip Withanage at the HRA in Heidelberg for his prompt, 
 competent, and patient help in setting up the new version!
- 
 As citations and similar text passages have been a big issue in Germany for 
 the last few months, the corpus now displays parallel passages in Sanskrit 
 literature. You can find some theoretical background about the search 
@@ -28,21 +21,12 @@ text. Try, for example, Manusmriti 1.1, which contains 130 parallel or
 similar passages (sentences starting with "=> ..."). Hope, this function 
 may be helpful for a better understanding of some aspects of text 
 transmission in ancient India.
-
 In addition, I corrected a bug that prevented user input and corrections on 
 the text page.
-
-
 Best regards,
-
 Oliver Hellwig
--------------------
 PD Dr. Oliver Hellwig
 South-Asia Institute, University of Heidelberg
 Im Neuenheimer Feld 330
 69120 Heidelberg
 Germany
-
-
-
-

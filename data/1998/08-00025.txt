@@ -1,18 +1,7 @@
-From vidynath at MATH.OHIO-STATE.EDU  Thu Aug  6 14:42:07 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Thu, 06 Aug 98 10:42:07 -0400
-Subject: Fortunatov's Law and tolkAppiyar's rules
-Message-ID: <161227041128.23782.1670230168129185920.generated@prod2.harmonylists.io>
-
+Fortunatov's Law and tolkAppiyar's rules
 Sudalaimuthu Palaniappan <Palaniappa at AOL.COM>
-
 [To keep the post within reasonable bounds, I will limit myself to the
 general points.]
-
->I am amazed at the logical inconsistency here. Vidynath bases his view
->of n, n2, N convergence on a situation in Pittsburgh much farther
->removed in time and space than the South Asian Malayalam.
-
 You are confusing two different things, namely general processes and the
 specific initial conditions where/when they come into play. It is a
 basic principle of all science that general processes should be same
@@ -24,60 +13,33 @@ conditions. [The reference I have in mind dealt with other examples too.
 I mentioned Pittsburgh because that is only book I have seen which dealt
 with it in detail and I was hoping that somebody else will know which
 book it is.]
-
->First of all, the phonology of Tamil n given by Vidynath is wrong. n can
->occur medially -intervocalically as well as doubled. It can also occur
->in the word- final position as in "verin".
-
 What I said concerning the phonology of Dravidian in general is based
 on Zvelebil's Comparative Dravidian Phonology, pp. 113-114. `verin'
 seems to be from a pre-form in -nt-. The forms with -n- are isolated
 and do not contradict the fact that n and _n belong to the same
 phoneme.
-
->Secondly, if this theory were true, IA in India should not have
->maintained any phonemic distinction of voiced and unvoiced stops.
-
 The same problem, as I have pointed out before, affects the claim that
 retroflexes are due to Dravidian speakers mispronouncing alveolars.
-
 Regarding the presence of .s in Dravidian: The nature of Dr .z or
 whatever you want to call it is still a matter of much discussion. But
 very few people consider it to be a shibilant. Nor does it seem to
 cause retrolfexion of following t. [It does not in Tamil.]
-
 In borrowings, .s sometimes becomes `zh', other times .t.
 In reverse, Dr `zh' is sometimes l (phala < pazham), other times
 .l/.d (Tamil cozha is co.da already in a vartika, presumably for co.la).
-
 The evidence for c/zh alternation seems to admit other explanations.
 See CDP pp 129--130.
-
 It is not true that retroflexes are not found in other IE languages.
 Deshpande's assertion (in the same paper) that pre/proto-Dravidian must
 have lacked retroflexes before it entered India and must be
 attributed to some non-Dravidian substratum is symptomatic of the
 prejudice which I mentioned elsewhere, and to me, vitiates the whole
 argument.
-
 This ties in nicely with what Vidal wrote, in response to another post
 of mine:
-
->>In the past, the there was a strong prejudice that retroflex sounds
->>could not occur in `real IE', and people attempted to restrict it
->>to Indic. Old habits die hard.
-
->Nonsense: English, Swedish, Sardo, Asturian, Polish and Russian are
->`real European IE' and have retroflex sounds.
-
 I am not sure what is characterized as `nonsense'. If it is the belief
 of special connection between India and retroflexion, I agree fully. If
 it the claim that such prejudice is not totally dead, I think that you
 need to read more widely.
-
 Regards
 -Nath
-
-
-
-

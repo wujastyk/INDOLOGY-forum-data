@@ -1,25 +1,8 @@
-From jhelling at cs.ruu.nl  Mon Mar 22 07:46:51 1993
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Mon, 22 Mar 93 08:46:51 +0100
-Subject: New program for transliteration
-Message-ID: <161227015735.23782.17984458827080960100.generated@prod2.harmonylists.io>
-
+New program for transliteration
 Hi Dominic,
-
 You may be aware of the program tcs, which translates character sets
 via Unicode. At the moment it understands the
 ISO standard character sets, the major East-asian character sets and Unicode.
-
 it is available for ftp from research.att.com
-
 It does not do transliterations, but it can easily be extended to do so.
-
-
 Jeroen
-
- 
-
-
-
-
-

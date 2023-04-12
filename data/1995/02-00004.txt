@@ -1,13 +1,6 @@
-From janus005 at maroon.tc.umn.edu  Wed Feb  1 16:27:02 1995
-From: janus005 at maroon.tc.umn.edu (janus005 at maroon.tc.umn.edu)
-Date: Wed, 01 Feb 95 11:27:02 -0500
-Subject: Less Commonly taught languages GOPHER
-Message-ID: <161227018358.23782.10179233372846242003.generated@prod2.harmonylists.io>
-
-
+Less Commonly taught languages GOPHER
           LESS COMMONLY TAUGHT LANGUAGE GOPHER
 ================================================================
-
 A new gopher has been established that you or your colleagues
 might be interested in. Its aim is to present informatin on where
 where all Less  Commonly Taught Languages (all except English,
@@ -15,30 +8,24 @@ French, German, and Spanish) are taught at North American 2 and 4
 year colleges, and universities. Included is information on
 contact people at each  institution (addresses, phone and fax
 numbers).
-
 At present we have about 250 languages (from Afrikaans to Zulu,
 with entries for Cherokee, Evenki, Lao, Early Welsh, Middle
 Turkic, Japanese, and Old Norse, to name a few).
-
 We ask your cooperation in finding and bringing to our attention
 mistakes and gaps in our coverage.  We continually update the
 information in the gopher.
-
 In the future, we will expand to include community education, and
 list details of LCTL offerings at the secondary and elementary
 levels. Please send information if know of any resources we do not
 list.
-
 The Less Commonly Taught Languages Project is part of the Center
 for Advanced Research on Language Acquisition at the University of
 Minnesota. We are a National Language Resource Center, funded
 through the Center for International Education, U.S. Department of
 Education.
-
 The gopher is available at URL
 gopher://lctl.acad.umn.edu
 or by following the path described below:
-
 +--> University of Minnesota
     |
     +--> All the University of Minnesota Gopher Servers
@@ -53,16 +40,6 @@ Louis Janus
  Minneapolis, MN 55414
  612/627-1872 (voice)
  612/627-1875 (fax)
--------------------------------
 janus005 at maroon.tc.umn.edu
              or
 LCTL at maroon.tc.umn.edu
--------------------------------
-
-
- 
-
-
-
-
-

@@ -1,11 +1,5 @@
-From harryspier at HOTMAIL.COM  Sun Aug  1 03:58:26 1999
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Sat, 31 Jul 99 23:58:26 -0400
-Subject: Indian Calendar Astronomical Data
-Message-ID: <161227051394.23782.11706356208600224439.generated@prod2.harmonylists.io>
-
+Indian Calendar Astronomical Data
 Dear list members:
-
      I had to make a list of the dates of the Indian Lunar holidays for the
 year 2000.  Because I was unable to find either a panchanga or lunar
 calendar for year 2000 I had to derive the start and end dates of the tithis
@@ -18,23 +12,12 @@ occured to me that a much easier way of doing this would be to work directly
 with the formulas for deriving the longtitudes of the sun and the moon and
 that this is probably available in an Indian source somewhere with all the
 constants necessary for Indian calendar calculations.
-
      Do any of the list members know either these formulas (preferably with
 the constants and degree of accuracy appropriate for the tithi derivation)
 or a source where I can get them either in the USA or in India?  Also I
 understand there is an "Indian Astronomical Ephemeris" and a Report from the
 Committee for Calendar Reform (1957).  Does anyone know where I can get
 copies of these?
-
 Thanks in advance,
-
-
 Harry
-
-
-_______________________________________________________________
 Get Free Email and Do More On The Web. Visit http://www.msn.com
-
-
-
-

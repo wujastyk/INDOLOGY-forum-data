@@ -1,15 +1,8 @@
-From n-iyanag at PPP.BEKKOAME.OR.JP  Mon Apr  6 03:18:21 1998
-From: n-iyanag at PPP.BEKKOAME.OR.JP (Nobumi Iyanaga)
-Date: Mon, 06 Apr 98 12:18:21 +0900
-Subject: [Ann] Web release of the Japanese Indology & Buddhology Studies DB
-Message-ID: <161227037496.23782.13992730188017022808.generated@prod2.harmonylists.io>
-
+[Ann] Web release of the Japanese Indology & Buddhology Studies DB
 Please forward this message to anybody who may be interested...
 [I personally posted this message to Buudha-L and Indology list.  Please
 forgive me if you receive it more than once.]
-
 ===============
-
 Once again, I am very pleased to be able to announce that a HUGE database of
 Japanese Indological and Buddhological studies has been released in the
 Internet.  The database, named "Indian and Buddhist Studies Treatise
@@ -19,38 +12,24 @@ Japanese Association of Indian and Buddhist Studies, containing data of some
 journals (mainly from 1950s onward, but some of them from 1920s or even
 earlier [?] onward).  Each record includes full bibliographical data, plus
 very comprehensive keywords, which will facilitate the researches.
-
 The url is:
-
 http://www.kt.rim.or.jp/~inbuds/
-
 All the data files can be downloaded and used by every user.  There is also
 an experimental online search facility (very fast and useful!).  The site
 and the data are in Japanese (Shift-JIS encoding).  The "gaiji" are
 represented by special SGML entities corresponding to Morohashi Dictionary
 and Konjaku-mojikyoo kanji numbers.  The diacritical marks are represented
 in TeX style.
-
 This database is growing everyday -- so there will be additions at a regular
 interval.
-
 I hope that this release will be useful and helpful for many Indology and
 Buddhology scholars and researchers of the world.
-
 ======
-
 Disclaimer:
-
 Please note that I am not a member of the Database Center of the JAIBS.  So
 this is not an "official announce".  I only have friends who are working on
 this project.
-
 =======
-
 Nobumi Iyanaga
 Tokyo,
 Japan
-
-
-
-

@@ -1,35 +1,16 @@
-From rveluri at smtpgate.anl.gov  Thu Apr 17 20:10:22 1997
-From: rveluri at smtpgate.anl.gov (Rao Veluri)
-Date: Thu, 17 Apr 97 14:10:22 -0600
-Subject: "AOL4FREE" NOT A HOAX
-Message-ID: <161227029778.23782.14181425715265907072.generated@prod2.harmonylists.io>
-
-     
-
-
-
-     
+"AOL4FREE" NOT A HOAX
 Friends:
-     
 This alert is circulated officially at Argonne National laboratory. 
 Thought it might be useful to circulate elsewhere too!
-     
 V R Veluri
-     
-________________________________________________________________________
-     
 AOL4FREE.COM IS NOT A HOAX
-     
 A Trojan horse program called AOL4FREE.COM is circulating on the Internet. 
 This is not a virus and cannot be detected by most anti-virus programs. The 
 program is executed by the individual user and deletes all files on a hard 
 drive.
-     
 PLATFORM: DOS/Windows-based PCs
-     
 DAMAGE: When the AOL4FREE.COM program is executed, all files and directories 
 on the user's C: drive are deleted.
-     
 DO NOT execute this program. [Note:  Double clicking on.com 
 or .exe will start a selected program.]  If the program starts      
 executing, quickly pressing Ctrl-C will save some of your files. If 
@@ -38,33 +19,9 @@ assistance.  DO NOT attempt to write anything to your hard drive. Files
 that have been destroyed may be able to be recovered IF you have 
 not written anything to the hard drive and IF your system has not written 
 anything such as when utilizing a auto-save program.
-     
 Please see CIAC Bulletin H-47 available on the CIAC homepage 
 (http://ciac.llnl.gov/) for detailed information.
-     
-_______________________________________________________________________
-     
-     
-     
-     
-
-Received: from dns2.anl.gov by smtpgate.anl.gov (SMTPLINK V2.11.01)
     ; Thu, 17 Apr 97 12:03:20 CST
 Return-Path: <jablomquist at anl.gov>
-Received: from achilles.ctd.anl.gov (achilles.ctd.anl.gov [146.137.72.1]) by dns2.anl.gov (8.6.11/8.6.11) with ESMTP id MAA21422; Thu, 17 Apr 1997 12:03:38 -0500
-Received: from dns2.anl.gov (dns2.anl.gov [130.202.20.3]) by achilles.ctd.anl.gov (8.6.11/8.6.11) with ESMTP id LAA17589; Thu, 17 Apr 1997 11:47:31 -0500
-Received: from achilles.ctd.anl.gov (achilles.ctd.anl.gov [146.137.72.1]) by dns2.anl.gov (8.6.11/8.6.11) with ESMTP id LAA20800; Thu, 17 Apr 1997 11:47:22 -0500
-Received: from dns2.anl.gov (dns2.anl.gov [130.202.20.3]) by achilles.ctd.anl.gov (8.6.11/8.6.11) with ESMTP id LAA17568 for <labcast at achilles.ctd.anl.gov>; Thu, 17 Apr 1997 11:47:16 -0500
-Received: from qmgate.anl.gov (qmgate.anl.gov [146.137.160.48]) by dns2.anl.gov (8.6.11/8.6.11) with SMTP id LAA20797 for <labcast at anl.gov>; Thu, 17 Apr 1997 11:47:14 -0500
-Message-ID: <n1350844905.66673 at qmgate.anl.gov>
-Date: 17 Apr 1997 11:44:39 -0500
-From: "David Jacque" <david_jacque at qmgate.anl.gov>
-Subject: "AOL4FREE" NOT A HOAX
-To: "All employees" <labcast at anl.gov>
+"AOL4FREE" NOT A HOAX
 X-Mailer: Mail*Link SMTP-QM 4.0.0
-
-
-
-
-
-

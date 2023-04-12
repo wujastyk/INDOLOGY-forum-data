@@ -1,26 +1,13 @@
-From jemhouben at GMAIL.COM  Thu Jan 31 15:57:28 2013
-From: jemhouben at GMAIL.COM (Jan E.M. Houben)
-Date: Thu, 31 Jan 13 16:57:28 +0100
-Subject: SARIT's flawless flow into philology /// Re: [INDOLOGY] SARIT              updates
-Message-ID: <161227098742.23782.14992669489007209018.generated@prod2.harmonylists.io>
-
+SARIT's flawless flow into philology /// Re: [INDOLOGY] SARIT              updates
 SoRTing and inSeRTing my SeaRches, I'm indeed SuRprised to see how
 SARIT is flawlessly flowing into my philology.
-
 Congratulations and thanks for the efforts to lift the e-text from its
 current grey status.
-
 When the level of perfection is so high:
 - at one place I saw "Rao" instead of "Rau" in connection with VP.
 - I regret that words remain improperly joined following devanagari
 consonant-vowel mergers as in uktaH and evamuktaH which need to be searched
 separately (wildcards possible but leads to other problems: cp. evamuktaH
 and compounds with -muktaH).
-
 Jan
-
 On 18 December 2012 11:15, Dominik Wujastyk <wujastyk at gmail.com> wrote:
-
-> Users of INDOLOGY's SARIT service will notice that the front page of the
-> service changed today.  Instead of being taken straight to "basic
-> search", the simple http://sarit.indology.info URL takes you to a SARIT

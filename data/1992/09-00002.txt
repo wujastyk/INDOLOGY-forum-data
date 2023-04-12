@@ -1,34 +1,11 @@
-From ucgadkw at UK.AC.UCL  Tue Sep  8 11:53:27 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Tue, 08 Sep 92 12:53:27 +0100
-Subject: Transliteration fonts
-Message-ID: <161227015480.23782.11067452244222491801.generated@prod2.harmonylists.io>
-
+Transliteration fonts
 Status: RO
-
 On Feb 12,  1:02pm, you wrote:
- 
-> I'm looking for both transliteration fonts (with diacriticals) and devanagri
-> fonts for the MAC and the IBM.
- 
-> I know we've been talking about fonts a fair amount lately, but not with
-> respect to PC's it seems.  Thanks for your help.
->
-> Vickie L. Banks
-> Education Systems Development
-> Michigan State University
-> 21602VB at MSU.BITNET
- 
- 
 Here are EGA and VGA screen fonts for the Vienna/IASS font coding
 schemes (both Computer Sanskrit (CS) and Computer Sanskrit Extended
 (CSX)).  These files are in an xxencoded, ZIP file.
- 
 Best wishes,
- 
 Dominik
- 
- 
 begin 600 iass.zip
 hI2g1-+c++++4+9JVMVIQvp4Sk+I++++E+++4++++EpAiJYR-1k+G+mEJBWQs
 hCKdvH7pi5kY4+FAotTOKxs7-xVisR01VAkrjttbwjzqTwCS4xlCCgzLj9rWy
@@ -413,8 +390,3 @@ h++M+0vMd3dRY3J021+++x-o+++g++++++++++E+U++++CHE++2B6EJ7HFJEi
 NJ2JMI2g3-U+++++7++Y+uE2++CN+++++++++
 +
 end
-
-
-
-
-

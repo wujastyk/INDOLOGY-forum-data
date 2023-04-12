@@ -1,56 +1,35 @@
-From ucgadkw at UCL.AC.UK  Mon Oct 30 11:21:04 2006
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 30 Oct 06 11:21:04 +0000
-Subject: plans for an INDOLOGY FAQ
-Message-ID: <161227078608.23782.16677284240339028852.generated@prod2.harmonylists.io>
-
+plans for an INDOLOGY FAQ
 Dear colleagues,
-
 I've long thought that INDOLOGY should have a modest "FAQ".  At last, with 
 Richard Mahoney's help, we're beginning to have something that we can use.
-
 The idea is that we'll have a FAQ mounted on the INDOLOGY website, 
 indology.info. It will be cooperatively written by any of us (we?) list 
 members that wish to contribute.  If you wanted to do an entry, for 
 example, you would go to the website, call up the FAQ pages and online 
 editor, write what you wanted and submit it.
-
 The text will then be assessed by the members of the INDOLOGY list 
 committee.  Or perhaps just the member on duty that week.  Anyhow, all 
 being well, it will then be published, and will appear as a new page of 
 the FAQ.
-
 The idea is that the FAQ will present brief statements of the best 
 available professional information on selected indological topics, with 
 references to further reading and pointers to other resources as 
 appropriate.  It will be open to the public.
-
 It would have been nice to do this at Wikipedia, but that forum is not 
 subject to professional editorial control, and entries are unstable and 
 vulnerable to wholesale organised rewriting by pak.sapaatins
-
 To start the ball rolling, I'll add a series of stubs to an "alpha 
 release" version of the FAQ, just section headings to suggest how entries 
 could be organised.  Please send headings that you would like to see in 
 such a FAQ, marked hierarchically if you like.  For example:
-
 Chronology / Indus Valley
             / Veda
             /Epics
             /Naage.sa Bhatttta
-
 Sciences / jyoti.sa
-
 Palaeography / Brahmi
               / Siddhamat.rkaa
-
 Or something completely different.
-
 Best wishes,
-
 Dominik
 INDOLOGY committee member
-
-
-
-

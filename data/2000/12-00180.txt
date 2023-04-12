@@ -1,10 +1,4 @@
-From hhhock at UX1.CSO.UIUC.EDU  Tue Dec 12 15:34:23 2000
-From: hhhock at UX1.CSO.UIUC.EDU (Hans Henrich Hock)
-Date: Tue, 12 Dec 00 09:34:23 -0600
-Subject: publication of IASS papers on CDROM
-In-Reply-To: <3A363B72.C6674DCB@anthosimprint.com>
-Message-ID: <161227065206.23782.17764067556211153060.generated@prod2.harmonylists.io>
-
+publication of IASS papers on CDROM
 Perhaps CD-ROMs are NORMED; but the feeling I get from the colleagues
 in Italy is that either the CD-ROM or their software is not normed to
 accommodate articles produced on Mac platforms.  As far as I can
@@ -16,67 +10,5 @@ documents to work on a platform or with a "norm" that does not
 recognize these fonts?  I believe if these concerns were meaningfully
 addressed (and perhaps they have been somewhere, and I'm just
 uninformed?), my resistance would be reduced considerably.
-
 Cheers,
-
 Hans Henrich Hock
-
-
->Dear computer experts,
->as an indologist and software engineer, may I correct a few technical
->points that have come up?
->(1) CD-ROMs are NORMED. There is an international norm (ISO-9660) which
->ensures exactly this: that CD-ROMs can be read in future, as long as
->mankind has access to its norms. Please remember that this is something
->extremely central and reliable. Without ISO norms, you would not be able
->to go to your supermarket and get food. You would not be able to drive a
->car. You would not be able to get clothes. In other words: as long as
->you get food and clothes, mankind has access to ISO norms and mankind
->can read CD-ROMs.
->(2) CD-ROMs have already lasted almost twenty years. The reason why you
->may not be aware of that is because in the beginning, CD-ROM players and
->media were fiendishly expensive. Nowadays, there are hundreds of
->millions of computers and hundreds of millions of other CD readers all
->over the world, and the cookies cost roughly 15 US cents to manufacture.
->CD-ROM drives cost roughly 10 US$ to manufacture.
->(3) CD-ROMs are very long-lasting. They are, in fact, the most
->long-lasting medium we have. Some manufacturers now have a 200-year life
->span estimate. As opposed to the thirty-year life-span in the beginning
->of the technology, and fifty years or less of microfilm.
->(4) CD-ROMs can be copied over to whatever new media mankind will invent
->-- and norm.
->
->Having said that, there is still reason for your particular IASS
->publication to be done on paper...
->Which is, mainly,
->(a) academic credit,
->(b) the fact that paper has obvious advantages, too.
->One of the drawbacks is that paper publishing is extremely expensive.
->Many times more than CD-ROM.
->
->As your own averse reactions to CD-ROMs have shown, CD-ROM promoters are
->ahead of their time even now.
->It makes sense to publish on paper AND CD-ROM, because both media have
->advantages that COMPLEMENT each other very well: CD-ROMs last very long
->and are intelligent search and work tools, paper is traditionally
->accepted, convenient for browsing and offline reading, and it offers
->academic credit.
->Wouldn't it therefore make sense for you to ask the IASS for both, i.e.
->paper AND CD-ROM publishing?
->I understand that paper publishing is very expensive, but if CD-ROM
->publishing offers no academic credit, the IASS is not doing its
->contributors a favour going only that way.
->
->Anyway, please refrain from emotional attacks on each other because of
->the CD-ROM issue. The world has already decided to go digital, and you
->are not going to stop it.
->On this jolly note,
->all the best,
->yours,
->Gunthard Mueller
->
->gm at e-ternals.com
-
-
-
-

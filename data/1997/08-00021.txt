@@ -1,52 +1,28 @@
-From sohum at convex.cc.uky.edu  Thu Aug  7 13:16:03 1997
-From: sohum at convex.cc.uky.edu (SATHAYE AVINASH)
-Date: Thu, 07 Aug 97 09:16:03 -0400
-Subject: A query about Sanskrit Prosody
-Message-ID: <161227031758.23782.13789184268321488402.generated@prod2.harmonylists.io>
-
-
+A query about Sanskrit Prosody
 Dear Indologists,
-
 Here is a query originally posed by D. Knuth.
-
 In Sanskrit prosody there are short syllables (la), long syllables
 (gA)  and 8 gaNA's formed by the triples of these.
 There is a well known way of memorizing their names and definitions
 by the aphorism:
-
 ya-mA-tA-rA-ja-bhA-na-sa-la-gA
-
 The way to use this aphorism is:
-
 1.	the first letters list the names of the gaNA's
-
 2.	and the pattern is noted by the triple of syllables starting
 from it. 
-
 For example, the gaNa "ya" has pattern ya-mA-tA or short-long-long. 
-
 This clever way of getting all the 8 combinations is
 presented as an exercise in Computer Science books related to coding
 theory. (Not in relation to prosody, of course(:-))
-
 The question is where and when was this wonderful device invented.
 Many people know this by word of mouth, but no reference has yet been
 located.
-
 Any clues?
-
 P.S. One can get even more clever by dropping the last la-gA part, but
 imagine the syllables arranged in a circle for the purposes of
 deducing the patterns.
-
--- 
 |Avinash Sathaye Phone:(606)277-0130(Home), (606)257-8832(Office) |
 And now, the next thought is from our CPU ...
 If you live to the age of a hundred you have it made because very few
 people die past the age of a hundred.
 		-- George Burns
-
-
-
-
-

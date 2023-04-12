@@ -1,24 +1,6 @@
-From zydenbos at BIGFOOT.DE  Fri Jun 11 14:37:21 1999
-From: zydenbos at BIGFOOT.DE (Robert Zydenbos)
-Date: Fri, 11 Jun 99 14:37:21 +0000
-Subject: CSX+ fonts & cross-platform email exchange
-Message-ID: <161227050261.23782.15996773447486148546.generated@prod2.harmonylists.io>
-
-> Date:          Thu, 10 Jun 1999 06:15:30 +0200
-> From:          Jaap Pranger <yaap at XS4ALL.NL>
-
-> Windows and Mac versions of the CSX+ fonts seem to have
-> identical encodings, in contrast to what is usual.
->
-> Data based on CSX+ fonts, when exchanged across platforms
-> through email, gets scrambled due to the usual automagical
-> MIME re-encoding.
->
-> Any workarounds for this problem?
-
+CSX+ fonts & cross-platform email exchange
 Perhaps you could try UUencoding? See whether the mailer software
 which you use offers that option.
-
 The surest way would probably be to send data in an archive. There
 are compatible Mac and PC archivers for ZIP and LZH formats (and
 perhaps other formats too), and besides reducing the size of the data
@@ -30,17 +12,10 @@ idem ditto) by modem. It should work via the internet too. Because
 archives are not recognised by mailer software as documents, they are
 sent as binary files, and therefore mysterious transformations like
 those which you have experienced will not occur.
-
 An alternative could be to send texts in RTF format, because RTF
 files are basically plain ASCII files. But this will not be so secure
 as sending archives.
-
 RZ
-
 Dr. Robert J. Zydenbos
 Mysore (India)
 e-mail zydenbos at bigfoot.de
-
-
-
-

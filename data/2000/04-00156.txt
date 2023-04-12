@@ -1,32 +1,14 @@
-From p.friedlander at LATROBE.EDU.AU  Thu Apr 20 04:38:43 2000
-From: p.friedlander at LATROBE.EDU.AU (Peter Friedlander)
-Date: Thu, 20 Apr 00 14:38:43 +1000
-Subject: Internet site announcement & a font question
-Message-ID: <161227057869.23782.14969328037320962227.generated@prod2.harmonylists.io>
-
+Internet site announcement & a font question
 List Members,
-
 Some of you might be interested in visiting a new site on the history of Buddhism from La Trobe University which I have recently established. It features a set of lectures on the history of Buddhism, some audio versions of lectures and some student work.
-
 One of you might also be able to help me with a problem with fonts.
-
 The site uses 'dynamic" fonts and displays fine on windows pcs on Netscape and Explorer. 
 But is does not show the diacritics on macs, unless the pages are set to UTF-8 encoding in the browser and not the hmtl.
 Does anybody know how to overcome this problem?
-
 regards
-
 Dr Peter G. Friedlander
 Department of Asian Studies
 La Trobe University
 Bundoora, VIC 3083
-Tel: 61 3 9479 2064
 Fax: 61 3 9479 1880
 Buddhism pages: http://www.latrobe.edu.au/www/asianstudies/Buddha/index.html
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20000420/8d61804c/attachment.htm>
-

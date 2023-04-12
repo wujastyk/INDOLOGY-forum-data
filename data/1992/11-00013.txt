@@ -1,10 +1,4 @@
-From magier at EDU.COLUMBIA.CC.CUNIXF  Wed Nov 25 15:30:05 1992
-From: magier at EDU.COLUMBIA.CC.CUNIXF (David Magier)
-Date: Wed, 25 Nov 92 10:30:05 -0500
-Subject: more on archive searching
-Message-ID: <161227015547.23782.9451528216389379831.generated@prod2.harmonylists.io>
-
-
+more on archive searching
 Just to give an example of a successful listserv archive search that I
 once did (on a different listserv archive for genealogy, called
 roots-l), please examine the following, which returned a full-text of
@@ -12,16 +6,12 @@ all the articles posted since 1988 to the roots-l listserv that
 contained the keyword COFFIN (i.e. a family name I was researching).
 Note that you don't have to know the numbers of the articles if you
 instruct the listserv to print all.
- 
 // job echo = no
 database search dd=rules
 //rules dd *
 search COFFIN in roots-l since 88/01/01
 print all
- 
- 
 Good luck!
- 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
     ____________________________       304 International Affairs
   ///    -- David Magier --    \\\     Columbia University
@@ -29,8 +19,3 @@ Good luck!
  |||  S&SE Asia, Latin America, |||    (212) 854-8046 / FAX: 212 854-2495
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------        magier at columbia.edu
-
-
-
-
-

@@ -1,15 +1,6 @@
-From witzel at HUSC3.HARVARD.EDU  Fri May 24 01:01:24 1996
-From: witzel at HUSC3.HARVARD.EDU (witzel at HUSC3.HARVARD.EDU)
-Date: Thu, 23 May 96 21:01:24 -0400
-Subject: PTS style Tipitaka CD-ROM ...$150
-Message-ID: <161227024798.23782.16739322797616308461.generated@prod2.harmonylists.io>
-
-
+PTS style Tipitaka CD-ROM ...$150
 A quick answer to Prof. L.S. Cousins' discussion of Wed, 22 
 May 1996 
-
-> Surely, most recensions of the Rgveda have not survived ?
-
 Indeed, only one; but we know from internaland external evidence about its
 transmission without almost any changes as far as its wording is
 concerned, and very limited and well known ones in pronunciation (see the
@@ -17,36 +8,21 @@ new RV edition of van Nooten/Holland, HOS 50); we know about at least 2
 other versions, and we know something of them and of the small divergencies 
 in the number and order of hymns they exhibit, but don't have the texts
 themselves. 
-
 My point rather was that the oral and then written tradition of
 the Canon was not as strict as it was in the RV case, even within the Pali
 tradition, not to speak of Skt and other versions. Thus we need as many 
 variants as possible in order to judge.
- 
-> >the Pali Canon has been subject to constant redactorial change even 
 late in this millennium.
-> This seems to me to be a considerable exaggeration.
-
 Of course, not every one cares about the absolutive in -tvaa :: -ttaa, 
 but there are more serious divergencies in the MSS of even one version, and 
 certainly between the various S./SE Asian "national"/local traditions.
 I would *guess* that on average, every page has one or more, and that *is* 
 serious.
-
-> in the kind of thing that the tradition was interested in (e.g.
-> abhidhamma), it is extremely rare to find any significant deviation and for
-> most matters the text is firmly fixed by the commentarial tradition.
-
 Q.: has anybody made a thorough comparison of what the various (!, not
 just Buddhaghosa) comm. traditions (themselves transmitted in several
 regional traditions! -- so what *is* the comm. tradition?) present VERSUS
 what the same regional trad.s of the Canon present in each particular
 case? 
-
-> sometimes the texts are less secure.
-> A great many changes are editorial
-> rather than substantial.
-
 Judgement call. While even the oldest Pali MS (fragment of the Vinaya) in
 late (north Indian!) Gupta script, from Kathmandu, more or less agrees
 with the Pali traditions of other areas, there is enough variation in the
@@ -55,32 +31,16 @@ have AS MANY local traditions/MSS as possible to come to a judgement /
 solution of disputed cases... There *is* as diff. between caara and cora,
 and even whether you pour ash into your molasses or something else, in
 order to make sugar... 
-
-> the exact words of
-> the Pali texts were relatively unimportant to the tradition; it was the
-> Dhamma which they wanted to preserve.
-
 If indeed correct, *that* is the problem, see above. Not everyone who 
 uses Pali texts is interested *just* in the Damma.  Also in 
 spies and sugar. 
- 
-> I don't think that the PTS editions represent a kind of synthesis of the
-> four versions <<Sinhala, Burmese, Thai, Cambodian>. 
-
 Certainly, the synthesis is that of the editor; but the editors indicate
 the 4 regional variants! And that's the best we can get now in one book/CD, 
 and better than to have just one local tradition. 
-
-> all the texts badly need systematic reediting. ..
-> Unfortunately
-> that is nowhere in sight. And there simply isn't the man-power, given the
-> extremely small numbers of available workers at present.
-
 So why not to start it? Instead of writing the Nth "Study of Religion"
 thesis on emptiness? Or another comparison of Ananda and St. John??  There
 is a general lack of (re-)editing in Indology, - see the discussion last
 summer -- and remedy is in sight only in some areas. 
-
 For the American audience it must be underlined that the general contempt
 for "textual studies", -- or, and I solemnly swear, the characterization
 of "philology as the study of * a * word" (Prof. Nagatomi, to me) -- have
@@ -89,130 +49,41 @@ results of a proper text edition can be as "innovative, thought provoking,
 and exiting", actually more, than any of the thesis work mentioned above
 (which is based on the work of the despised editors, -- if indeed not just
 on that of the translors). 
-
-> There are of course more than four versions, since there are newer and
-> older editions e.g. of the Thai and Sinhalese versions.
-
 I was indeed thinking of completely neglected versions beyond the well
 known 4, -- such as the N. Thai one, MSS of which often are not only older 
 but often have better readings as well, see again O.v.Hinueber. 
-
-> readings of the other four have now been
-> added to the PTS edition for the Dhammakaya CD ?
-
 Not yet, but work on the Burmese one is in progress. More to come.
-
-> > price tag of $150,  
-> To my knowledge, the Dhammakaaya Foundation's intent has varied a number of
-> times during this period (and earlier).
-
 They have been trying to accomodate PTS demands.
-
-> advantage of the IBRIC version is that you can get the
-> page references to both the PTS and the BJT editions simultaneously. ...
-> this speeds
-> up the process.
-
 Agreed, but since you said that not all the PTS references have been
 entered yet... and as we anyhow need the (available) 4 regional variants,
 using the Dhammakaya version speeds up the process even more, see above... 
-
-> Since the BJT edition is one of the most recent ...
-> ... , you can also find some
-> useful variants cited from the Siamese editions and from the Burmese
-> edition published in the 1950s and 60s (after the PTS editions).
-
 Agreed, but: the question is not "some" but we need as many 
 *versions* as possible! (first principle in setting up a stemma).
-
-> When I was shown the first phase in Bangkok in 1990, there were still a
-> number of errors to a page. 
-
 I have seen the e-texts in 1993 and later. They HAVE proofread and have 
 improved the texts considerably. No longer several errors per page.
-
-> > They also have typed in commentaries and
-> > *other* very useful materials. It remains to be seen what the PTS 
-> > will allow on CD.
-> The commentaries will be included in an updated version for Windows 'by
-> December 1997'. So it is a question of Dhammakaya not being ready, rather
-> than the PTS 'allowing'.
-
 The comm. had been typed in for years. A matter of proofreading (and what 
 you actually want to present to the public). PTS did not allow either 
 texts or comm. until last month.
-
-> > The copyright question, however, is moot. 
-> As far as I know, the PTS has never claimed that every text it publishes is
-> still in copyright. But some certainly are and that is what they have
-> claimed.
-
 As I said, as far as I checked, a copyright note was inserted only in
 books published since the Sixties. And, they *claimed* it for the
 whole CANON, cf. R.K.  Norman's sternly worded email message in this list,
 in Oct. 1993. Which has held up the publication of the *FREE* CD for years
 and unfortunately now has resulted in one for $ 150... 
- 
-> The work that the PTS does and has done is of great value to Pali studies.
-
 I could not agree more.
-
-> > .. get rid
-> > of overpriced publications (especially in some EUROPEAN COUNTRIES)..... 
-> Well, you can't be referring to the PTS, since that is in Britain -
-> definitely no part of Europe :-)
-
 I always suspected that it is the *continent* which still is cut off by 
 fog... 
- 
-> I suspect that the death of the book is still a long way away. I don't see
-> the need for an either/or mentality.
-
 Nor do I. I like to carry a book to the beach instead of getting sand 
 into my machine... But we can put some pressure on the expensive CONTINENTAL 
 publishers who get subsidies for most of the books they publish from their 
 Govt.s/Research Councils etc.,  and still dare to charge us exorbitant 
 prices. We all know their names...
- 
-> I myself disagreed with the initial PTS policy over this and inflicted
-> several memoranda upon them about it, making myself unpopular in the
-> process. So I am happy to see a reasonable compromise emerge.
-
 So did I, and so am I, -- with the reservations made earlier.
-
-> Much of the
-> problem was created by someone in Dhammakaya telling them (or giving them
-> the erroneous impression) that Dhammakaya were on the verge of producing a
-> free CD containing all PTS texts and translations of both Canon and
-> Commentaries.
-
 Not the case. I have seen the correspondence.
 Also cf. my email message of Sept. 93 on this list.
-
-> the copyright of
-> many of the translations has been assigned  to the PTS with the intention
-> that it should help to fund future work in Pali studies.
-
 Maybe. Really? PTS never printed a copyright note until c. 1960. Not my
 point.  My point rather was that PRINTING was the method available then.
 But we no longer live in the age of medieval monks' copying, Asian block
 prints, Gutenberg's printing press, Linotype... 
-
-> Nobody else has a
-> right to subvert that intent. So it is a matter of negotiation.
-
 So they did. It only took the threat of a free CD and many years of 
 negotiation...
-
 M. Witzel
-
-
-
-
-
-
-
-
-
-
-

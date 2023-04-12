@@ -1,13 +1,4 @@
-From magier at columbia.edu  Tue Jun 13 11:15:35 1995
-From: magier at columbia.edu (David Magier)
-Date: Tue, 13 Jun 95 07:15:35 -0400
-Subject: IJTS WWW pages
-Message-ID: <161227019689.23782.2071438277895753702.generated@prod2.harmonylists.io>
-
->                 INTERNATIONAL JOURNAL OF TANTRIC STUDIES
-> > The home page on WWW is found at: 
-> http://arcadiax1.arcadia.polimi.it/~ijtslist/
-
+IJTS WWW pages
 Is anyone else having trouble with this URL or is it just me? Each
 time I try, either the connection is refused by the server, or I do
 connect but then it takes a very long time for the page to come in
@@ -16,11 +7,4 @@ slow server (or at least a low-bandwidth link to North America),
 because I have had the exact same problems with the other journal on
 the same server (Int'l Journal of Vedic Studies). Perhaps one or two
 mirror sites (e.g. in North America) are needed?
-
 David Magier
- 
-
-
-
-
-

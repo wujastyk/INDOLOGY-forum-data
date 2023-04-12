@@ -1,90 +1,33 @@
-From saf at SAFARMER.COM  Mon Apr 27 11:57:27 2009
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Mon, 27 Apr 09 04:57:27 -0700
-Subject: Professor Asko Parpola on the Indus script
-In-Reply-To: <LISTSERV%200904271222237001.1D89@LISTSERV.LIV.AC.UK>
-Message-ID: <161227086026.23782.14490459726002742623.generated@prod2.harmonylists.io>
-
+Professor Asko Parpola on the Indus script
   Pankaj Jain wrote:
-
-> I just came across this paper by Professor Asko Parpola, one of the
-> leading authorities on Indus Valley Script....
-
-
 There are no "authorities" on the so-called Indus script, at least  
 not if you take "script" in the linguistic sense, since obviously a  
 lot of people no longer view it as a script. But scholarship isn't a  
 matter of auctoritas, as I see it.
-
-> In this paper, he has argued for language being represented by the  
-> Indus
-> script, which is also argued by Rao et al in their paper published in
-> Science last week
-
 What are those arguments? Do you want to discuss them>
-
 Further on Rao et al.: the linguistic community has been very harsh  
 on that paper,and  for good reasons: Rao unambiguously made up data  
 at the very center of his argument. I earlier posted the (now much  
 expanded) critique by the computational linguist Mark Liberman, at  
 the U. of Pennsylvania, who quotes us at length; there may be a  
 reason for that:
-
 http://languagelog.ldc.upenn.edu/nll/?p=1374#more-1374
-
 On Liberman, see:
 http://www.ling.upenn.edu/~myl/
-
 Now another very well-known computational linguist -- Fernando  
 Pereira  -- points out why the statistical arguments of Rao's are  
 meaningless. See:
-
 http://tinyurl.com/cfj5wo
-
 This on Pereira (bio three years old).
 http://www.cienciahoje.pt/3905
-
 Note that Pereira links to our article on Rao et al. that we wrote in  
 a few hours right as Rao's article was appearing. Our piece has been  
 downloaded over 30,000 times in the last three days, and there are  
 links everywhere. There might be a reason for that.
-
 Here's that link, which discusses Rao's invented evidence:
-
 http://www.safarmer.com/Refutations3.pdf
-
 We end with a little argument about whether this was a "script" or  
 not, and it doesn't use sophisticated statistics. I wonder, Pankaj,  
 what you think about the argument? Here it is:
-
-> The implausibility of the view that the so-called Indus script was  
-> true writing is suggested in
-> many ways that do not require sophisticated analyses. The simplest  
-> argument is the best: the
-> sheer brevity of the inscriptions. We possess thousands of  
-> inscribed Indus objects on a wide
-> range of materials. The average inscription is 4-5 symbols long and  
-> the longest, found on a
-> highly anomalous piece, carries 17. Before our paper, the lack of  
-> real texts was explained away
-> by invoking the purely speculative image of lost perishable  
-> manuscripts. The speculation was
-> spurious: we know of hundreds of literate societies, but not of one  
-> that wrote long texts on
-> perishable materials but failed to do so as well on durable goods.  
-> It is interesting that simple
-> arguments like this have been ignored by defenders of the  
-> traditional view, who often hold that
-> view for reasons that have nothing to do with science, while  
-> questions involving the symbols are
-> obfuscated with complex statistical arguments that when you read  
-> the fine print (and that not in
-> the paper itself) turn out to depend on invented data.
-
-
 Best wishes,
 Steve Farmer
-
-
-
-

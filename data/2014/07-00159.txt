@@ -1,20 +1,11 @@
-From wujastyk at gmail.com  Sun Jul 20 16:40:12 2014
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sun, 20 Jul 14 18:40:12 +0200
-Subject: [INDOLOGY] unpublished article by Jean Filliozat?
-Message-ID: <CAKdt-CecmAVcJoMzc0OcUkhVGprm0i9yT+L5hMstZbnr6KmwiA@mail.gmail.com>
-
+[INDOLOGY] unpublished article by Jean Filliozat?
 In his 1982 "Yoga et Alchimie" paper that I cited a few minutes ago, Arion
 Ro?u cites, in footnote 36, an article "J. Filliozat, Le yoga et les
 substances psychotropes, p. 3 (en manuscrit)."
-
 Does anyone know about this article of Filliozat's, or better, have a copy,
 or better, be willing to share it?  :-)
-
 Best,
 Dominik Wujastyk
----------------
-
 @article{rosu-yoga,
   author = {Arion Rosu},
   title = {Yoga et alchimie},
@@ -24,9 +15,3 @@ Dominik Wujastyk
   pages = {363--79},
   url = {http://menadoc.bibliothek.uni-halle.de/dmg/periodical/titleinfo/150129}
  }
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140720/aee0c73b/attachment.htm>
-

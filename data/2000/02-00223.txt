@@ -1,23 +1,10 @@
-From ucgadkw at UCL.AC.UK  Tue Feb 22 20:54:38 2000
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 22 Feb 00 20:54:38 +0000
-Subject: SOAS phone numbers
-Message-ID: <161227056049.23782.4575445473607849037.generated@prod2.harmonylists.io>
-
+SOAS phone numbers
 SOAS has had a new phone system installed.  All phone numbers have now
 changed.  Old phone numbers still appear to ring when you call them, but
 most of the old handsets in people's offices have been removed.  So if you
 think you colleague isn't answering, it may be an artefact of an
 imperfectly implemented technology upgrade.
-
 The new staff phone numbers are now in the Web; the South Asia people, for
 example, are at
-
         http://www.soas.ac.uk/SouthAsia/staff.html
-
---
 Dominik
-
-
-
-

@@ -1,10 +1,4 @@
-From sohum at MS.UKY.EDU  Sun Sep 20 15:24:08 1998
-From: sohum at MS.UKY.EDU (Avinash Sathaye)
-Date: Sun, 20 Sep 98 11:24:08 -0400
-Subject: Query: unknown quantities
-In-Reply-To: <l03110701b22a7f7ad5c4@[207.224.105.58]>
-Message-ID: <161227041406.23782.11409616270315651523.generated@prod2.harmonylists.io>
-
+Query: unknown quantities
 I am not sure about the Greek formaliasm (without consulting more
 books) but I know the Indian systems. They used  words like
 "yaavat" "taavat" or names of various colors - the "varNaaH". Since
@@ -12,13 +6,10 @@ the word "varNa" also denotes a symbol or letter, it is consistent to
 use appropriate letters in place of whole words.
 Thus "yaa" (for "yaavat")  or "pii" for "piita", "nii" for "niila"
 etc. were common.
-
 One useful source is Cajori. He has a good book on history as well as
 the history of notations.
-
 The Sanskrit texts of Bhaskaracharya would be a good source for Indian
 notation.
-
 "Elliot Stern said "
 ||
 ||My twelve year old son brought home a math assignment on Friday that
@@ -41,16 +32,8 @@ notation.
 ||figurative or symbolic notation, but I would welcome any informed answer,
 ||so that I can help my son answer his question.
 ||
-
-
---
 |Avinash Sathaye Phone:(606)277-0130(Home), (606)257-8832(Office) |
 And now, the next thought is from our CPU ...
->>>>>>>>>>>>
 Commitment, n.:
         Commitment can be illustrated by a breakfast of ham and eggs.
 The chicken was involved, the pig was committed.
-
-
-
-

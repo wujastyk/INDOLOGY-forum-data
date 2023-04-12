@@ -1,25 +1,9 @@
-From amuellen at ix.urz.uni-heidelberg.de  Sat Feb 17 17:47:27 1996
-From: amuellen at ix.urz.uni-heidelberg.de (Martin Bemmann)
-Date: Sat, 17 Feb 96 18:47:27 +0100
-Subject: urdu wordprocessing system
-Message-ID: <161227022918.23782.10199368242827091754.generated@prod2.harmonylists.io>
-
+urdu wordprocessing system
 Dear colleagues!
-
 I am looking urgently for a good Urdu wordprocessing system. "Good" means it
 should be able to handle footnotes and provide a beautiful laser-printout in
 nastaliq-style (fonts scalable), suitable for publications (I know, I ask
 for too much!?).
-
 Thanks for solutions!
-
 Martin Bemmann 
-
-
 e-mail: amuellen at ix.urz.uni-heidelberg.de
-
-
-
-
-
-

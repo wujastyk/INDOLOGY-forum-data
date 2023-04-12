@@ -1,47 +1,30 @@
-From ucgadkw at ucl.ac.uk  Mon Jul  1 11:42:50 1996
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Mon, 01 Jul 96 11:42:50 +0000
-Subject: Harvard-Kyoto
-Message-ID: <161227025209.23782.9806320006049901297.generated@prod2.harmonylists.io>
-
+Harvard-Kyoto
 I would like to note that no one system of 7-bit transliteration is better
 than another, as long as they are all unambigouous and clearly documented.
 There is no need to be partisan in this matter, or even to suggest that
 someone else should use your chosen system.  Simple search-and-replace
 operations, especially with such tools as the Unix SED, make converting
 between systems a matter of a few seconds.
-
 For 8-bit coding, the situation is different, since the question of
 correct screen and printer representation arises, and this requires the
 investment of considerable time and effort in creating such utilities.
 Clearly, a standard in this area is valuable.  The standards created at
 the Vienna World Sanskrit conference, CS and CSX, are as good as any, and
 reasonably widely adopted and supported.
-
 Finally, in any system that uses particular characters in two meanings,
 the only way to avoid ambiguity altogether is to mark strings according to
 language.
-
 Thus: "This verb is i.t." is ambiguous, and cannot be cleanly converted to
 Devanagari for example.  If such operations are envisaged for this data,
 it must be tagged by language (or script).  E.g., if <eng> and </eng> are
 the tags marking the start and end of English, and <skt> is Sanskrit, we
 get:  "<eng>This verb is</eng> <skt>i.t</eng>."
-
 Note here that the space between the end of English and the start of
 Sanskrit is indeterminate.  Such issues need clarification in any
 rigorous tagging system.
-
---
 Dominik Wujastyk
 Wellcome Institute for the History of Medicine
 183 Euston Road, London NW1 2BE, England.
 FAX +44-171-611-8545
 email: d.wujastyk at ucl.ac.uk
 WWW: http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
-
-
-
-
-
-

@@ -1,23 +1,7 @@
-From ECL6TAM at lucs-01.novell.leeds.ac.uk  Tue Dec 19 13:40:41 1995
-From: ECL6TAM at lucs-01.novell.leeds.ac.uk (Alec McAllister)
-Date: Tue, 19 Dec 95 13:40:41 +0000
-Subject: e-mail Addresses
-Message-ID: <161227022206.23782.433891697649277967.generated@prod2.harmonylists.io>
-
+e-mail Addresses
 On 18 Dec 95 at 22:30, S Jain wrote:
-
->
->Would someone please tell me the e-mail addresses of:
->
->1. Kim Knott (at Leeds)
-
 K.KNOTT at LEEDS.AC.UK
-
-
 Alec McAllister
-
-
-
 Alec McAllister
 Arts Computing Development Officer
 Computing Service
@@ -25,9 +9,3 @@ University of Leeds
 United Kingdom
 tel 0113 233 3573
 email: T.A.McAllister at Leeds.AC.UK
- 
-
-
-
-
-

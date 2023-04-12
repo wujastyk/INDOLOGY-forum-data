@@ -1,16 +1,5 @@
-From ahale at vax.oxford.ac.uk  Fri Aug 27 15:56:19 1993
-From: ahale at vax.oxford.ac.uk (ahale at vax.oxford.ac.uk)
-Date: Fri, 27 Aug 93 16:56:19 +0100
-Subject: OPACS and networks in India
-Message-ID: <161227016056.23782.4505241745533590804.generated@prod2.harmonylists.io>
-
+OPACS and networks in India
 Are there any Online Public Access Catalogues in Indian universities and
 research centres that it is possible to access?
 Does anyone know of any plans in India to provide access to any such services
 through the Internet?
- 
-
-
-
-
-

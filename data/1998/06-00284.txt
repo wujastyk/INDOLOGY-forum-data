@@ -1,10 +1,4 @@
-From pclaus at HAYWIRE.CSUHAYWARD.EDU  Sat Jun 20 01:29:52 1998
-From: pclaus at HAYWIRE.CSUHAYWARD.EDU (Peter J. Claus)
-Date: Fri, 19 Jun 98 18:29:52 -0700
-Subject: Grantha characters
-In-Reply-To: <3.0.1.16.19980619200710.451fc554@moka.ccr.jussieu.fr>
-Message-ID: <161227040063.23782.12659991923169206380.generated@prod2.harmonylists.io>
-
+Grantha characters
 Sorry for the confusion.  I was too hasty.  THe 'this' refers to the
 explanation why Grantha was created.  It seemed to me the original
 statemetnt made it seem as though writers of Tamil script had formed their
@@ -12,21 +6,5 @@ character set before they were familiar with Sanskrit and THEN, when they
 did desire to write Sanskrit there was no existing alternative script and
 so they created a new one (Grantha).  My confusion (ignorance) is with
 regard to the historical relation between Grantha and Tamil scripts.
-
 Peter Claus
-
-
 On Fri, 19 Jun 1998, Jean-Luc CHEVILLARD wrote:
-
-> It is difficult to know what the word "this"
-> refers to in prof. Claus 's statement
-
-
-> >> They have to use a different
-> >> script because the tamil with a single letter for the first four
-> >> letters of each varga (absence of some other letters also) is inadequate
-> >> to transliterate sanskrit works.
-
-
-
-

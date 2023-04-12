@@ -1,8 +1,4 @@
-From wujastyk at gmail.com  Wed Sep 22 20:31:14 2021
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Wed, 22 Sep 2021 14:31:14 -0600
-Subject: [INDOLOGY] Grep tool for searching on Mac
-In-Reply-To: <CAB3-dzc5PEVqXF2sF2LnFNK-4c96wKg4jMcJKn5hngSH04Nz6w@mail.gmail.com>
+[INDOLOGY] Grep tool for searching on Mac
 References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
  <CAJ3b0o8g-wVSP+GNGxWE1T39K_WAd=RbMqC_=5cfqaMvVe20kw@mail.gmail.com>
  <6B91CD78-F906-4B80-B60B-811AC7F78CF9@gmx.de>
@@ -13,8 +9,6 @@ References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
  <A9CEF708-1936-494A-96D6-6EFB1D5B3465@wlu.edu>
  <CAANHO16H27QT9GH_6UH2FdDQUkrT1cF05KPYC444Uz6x1v8_zw@mail.gmail.com>
  <CAB3-dzc5PEVqXF2sF2LnFNK-4c96wKg4jMcJKn5hngSH04Nz6w@mail.gmail.com>
-Message-ID: <CAKdt-Ced9JifcYiKEZ1W6XdD-d52qkgZ9pPvJStvHJM3+QgH=A@mail.gmail.com>
-
 Madhav, here's a pleasant, short account
 <https://en.wikipedia.org/wiki/Grep#History> of the history of how Ken
 Thompson, now 78, wrote grep.  Here's a nice 2019 interview of Thompson
@@ -25,10 +19,5 @@ For the slightly braver, there are now command-line tools like ack and ag
 <https://github.com/ggreer/the_silver_searcher> (and sack and sag
 <https://github.com/sampson-chen/sack>) that are recursive and blindingly
 fast.  But grep is still wonderful and probably enough for most purposes.
-
 Best,
 Dominik
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210922/d59fe5aa/attachment.htm>
-

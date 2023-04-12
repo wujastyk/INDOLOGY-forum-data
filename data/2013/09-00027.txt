@@ -1,51 +1,25 @@
-From gruenen at sub.uni-goettingen.de  Fri Sep 13 12:50:57 2013
-From: gruenen at sub.uni-goettingen.de (Gruenendahl, Reinhold)
-Date: Fri, 13 Sep 13 12:50:57 +0000
-Subject: [INDOLOGY] Catalogue of GRETIL e-library not available /	Alternative search
-Message-ID: <044C4CE033BD474EBE2ACACE8E4B1D943FC58B09@UM-excdag-a02.um.gwdg.de>
-
+[INDOLOGY] Catalogue of GRETIL e-library not available /	Alternative search
 Dear list members,
 due to a technical problem, the catalogue of the GRETIL e-library is not available at present. This problem pertains to all online catalogues of the G?ttingen library.
 Our technical staff may need up to 10 days for repair
-
-
 ALTERNATIVE SEARCH:
 You can search and download the e-books via the central catalogue of the GBV.
 Please, use the following addresses:
-
 SEARCH FOR TITLES:
 http://gso.gbv.de/DB=2.1/LNG=EN/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=ser+gretil+and+tit
-
 SEARCH FOR AUTHORS:
 http://gso.gbv.de/DB=2.1/LNG=EN/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=ser+gretil+and+per
-
 Both queries will first return ALL titles of the GRETIL e-library, sorted according to year of publication in reverse order. You can browse the entire collection from this first screen.
-
-
-
 SEARCH FOR A SPECIFIC AUTHOR / TITLE:
 Click into the "search" field, steer the cursor to the end of the above query -- i.e., behind "tit", resp., "per" --, enter a blank and then the title / author, optionally truncated with *
-
 Example for "per":
 http://gso.gbv.de/DB=2.1/LNG=EN/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=ser+gretil+and+per+somadev*
-
 Example for "tit"
 http://gso.gbv.de/DB=2.1/LNG=EN/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=ser+gretil+and+tit+kathasarits*
-
-
 IF A LIST WITH MORE THAN ONE TITLE IS RETURNED,
 select one with a click to open the screen with the title data.
-
-
 WHEN YOU SEE THE CATALOGUE DATA OF THE SELECTED TITLE
 go to the bottom of the screen and click on the "+" next to "G?ttingen".
 This will lead you to the usual download links.
-
-
 Regards,
 Reinhold Gr?nendahl
-
-
-
-
-

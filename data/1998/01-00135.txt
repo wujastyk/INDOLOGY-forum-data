@@ -1,9 +1,4 @@
-From thillaud at UNICE.FR  Sun Jan 18 18:57:54 1998
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Sun, 18 Jan 98 19:57:54 +0100
-Subject: linguistic & mathematics
-Message-ID: <161227034812.23782.15618325998460551225.generated@prod2.harmonylists.io>
-
+linguistic & mathematics
 Dear Mr Subrahmanya,
         Being a mathematician and a linguist, I can't agree with your
 arguments. Strictly speaking, there is no proof in mathematics. We give
@@ -40,10 +35,5 @@ studying philology or computing languages theory (who is highly
 mathematical), I'm just trying to understand.
         Regards,
 Dominique
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

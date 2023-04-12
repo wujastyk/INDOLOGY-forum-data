@@ -1,22 +1,6 @@
-From D.Wujastyk at ucl.ac.uk  Fri Oct  8 13:06:18 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 08 Oct 93 13:06:18 +0000
-Subject: Panini's grammar and Boolean logic (+Ingerman's article)
-Message-ID: <161227016202.23782.14535946149482507910.generated@prod2.harmonylists.io>
-
+Panini's grammar and Boolean logic (+Ingerman's article)
  In message Thu, 07 Oct 93 17:17:38 BST,
  Devaraya Prabhu <prabhu at rex.cs.tulane.edu>  writes:
-
-> 	Backus-Naur Form (BNF) is the most commonly adopted notation for
->   describing the grammars of computer languages (such as Pascal, C..)
->    According  Ingerman(*), this notation is similar to the one employed
->  by  Panini in  describing the rules of Sanskrit grammar.  No, I have
->  not read  the source. I am just quoting from the foot-note of a text
-> book..
->    (*) Ingerman, P.Z. [1967] "Panini-Backus form suggested",
-> Communications  			   of the ACM, 10:3, 137.
->
-
 I have studied Panini's grammar and I am familiar with BNF notation.
 Panini's notational scheme is not similar to BNF in any meaningful way.
 Indeed it is not known for sure that Panini even had a notational scheme in
@@ -26,7 +10,6 @@ India would exclude Panini.  So we should talk rather of Panini's
 "encoding" or some such term, free of reference to writing.  This doesn't
 alter the argument about whether features of the Asthadhyayi are similar to
 BNF or not.
-
 The main point is that Panini's system of codes, abbreviations, and
 redefined case endings is vastly more subtle and sophisticated than BNF,
 and is aimed at doing a different job.  BNF is really just a very simple
@@ -38,11 +21,9 @@ characterization of Ingerman's article you cite above makes it sound as
 though Ingerman thought Panini was describing a grammar of Sanskrit.
 That's not the case: Panini was describing Sanskrit.  BNF rules are more
 like meta-rules wrt grammar.
-
 Really, all this talk of BNF and Boolean logic amounts to no more than
 saying Panini was logical, systematic, and had a metalanguage.  This is
 very impressive, of course, but it isn't news, and wasn't even news in 1967.
-
 I append Ingerman's 1967 article.  [I don't know if you read CACM. It's fun
 going back this far in a major computing journal:  these 1960s issues of
 CACM still think that a good way of promoting a new piece of computer
@@ -52,14 +33,10 @@ leaning over it, or appearing to work it.  And in the following year (1968:
 Considered Harmful".  The echos of the heated debate started by this letter
 are still heard today, especially with Knuth cocking a snook at Dijkstra by
 including goto mechanisms in his Literate Programming project, WEB.]
-
 Dominik
-
------------------------------------------------------------------------
 Communications of the ACM, vol 10/ No. 3/ March 1967, pp. 137-8.
 I have typed this fast, without checking.  Also, the original had
 correct diacritics in all Sanskrit words, which I have omitted.
------------------------------------------------------------------------
 "Panini-Backus From" Suggested
 Editor:
 Knuth, in a recent Letter to the Eeiyor of CACM [1], makes the point that
@@ -69,7 +46,6 @@ so-called Backus Normal Form is, indeed, not a normal form in any sense.
 The purpose of this letter is to observe that Backus was not the first to
 use the form with which his name has become associated, although he did,
 indeed, discover it independently.
-
 Dr. Alexander Wilhelmy has called to my attention [3] a work by Panini [4].
 Panini was a scholar who flourished between 400 B.C. and 200 B.C.; perhaps
 his most significant work was the compilation of a grammar of Sanskrit.  In
@@ -80,13 +56,11 @@ possible to identify structures equivalent to the Backus "|" and to the sue
 of the meta-brackets "<" and ">" enclosing suggestive names.  Panini avoided
 the necessity for the character "::=" by writing the meta-result on the
 right rather than the left (see, e.g., [5] and [6] for a similar notation).
-
 Since it is traditional in professional circles to give credit where credit
 is due, and since there is clear evidence that Panini was the earlier
 independent inventor of the notation, may I suggest the name "Panini-Backus
 From" as being a more desirable one?  Not only does it give due credit, but
 it also avoids the misues of the word "Normal."
-
 REFERENCES
 1.  Knuth, Donald E.  Backus normal form vs.  Backus Naur form. Comm. ACM 7,
     12 (Dec. 1964), 735-736.
@@ -103,14 +77,8 @@ REFERENCES
     York, 1966.
 7.  Panini.  The Ashtadhyayi.  Edited and translated into English by Srisa
     Chandra Vasu, Delhi, India, 1962.
-
 Peter Zilahy Ingerman
 Manager, LAnguage Systems Standards & Research
 Radio Corporation of America
 Cherry Hill, N. J.  08034
------------------------------------------------------------------------
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
- 
-
-

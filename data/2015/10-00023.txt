@@ -1,10 +1,4 @@
-From wujastyk at gmail.com  Mon Oct  5 23:32:22 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Mon, 05 Oct 15 17:32:22 -0600
-Subject: [INDOLOGY] Best way to type Sanskrit in Windows?
-In-Reply-To: <mailman.3407.1443934277.2037.indology_list.indology.info@list.indology.info>
-Message-ID: <CAKdt-CcZOA+o3Vs3AHuePU4GtcqzSUxrCnFsYELH+--QnS+3qQ@mail.gmail.com>
-
+[INDOLOGY] Best way to type Sanskrit in Windows?
 John Smith's Win keyboard
 <http://bombay.indology.info/software/fonts/induni/IndUni_Win_keyboard.zip>
 handler still works with Win 8.1 at least.  Probably 10 too, but I haven't
@@ -16,9 +10,3 @@ unicode fonts.  It's all here
 Mac.
 ?
 ?DW?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20151005/8b237296/attachment.htm>
-

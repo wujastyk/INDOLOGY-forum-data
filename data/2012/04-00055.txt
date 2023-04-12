@@ -1,15 +1,8 @@
-From peter_scharf at BROWN.EDU  Wed Apr 18 15:55:46 2012
-From: peter_scharf at BROWN.EDU (Scharf, Peter)
-Date: Wed, 18 Apr 12 17:55:46 +0200
-Subject: Positions for Sanskrit Library assistants
-Message-ID: <161227096008.23782.9053761947370332295.generated@prod2.harmonylists.io>
-
+Positions for Sanskrit Library assistants
 Research Associates sought for digital Sanskrit Library project
-
 The Sanskrit Library <http://sanskritlibrary.org> seeks two research
 associates for one year, from 1 June 2012 to 31 May 2013, to assist in
 digital Sanskrit library development projects.
-
 The Sanskrit Library <http://sanskritlibrary.org> is a collaborative
 enterprise to build a digital Sanskrit library by integrating manuscript
 images, texts, linguistic software, and digital Sanskrit lexical sources.
@@ -33,33 +26,26 @@ Consortium, the project produces a parser combining the most successful
 elements of parsing software developed so far, provisionally tags texts,
 and displays them in an interface that allows manual correction by an
 expert in Sanskrit knowledgable in Sanskrit linguistic terminology.
-
 The task of the research associate in Project 1 will be to correct the
 association of headwords in various dictionaries with each other and to
 analyze and make corrections in lists of words not found in the lexical
 sources.
-
 The task of the research associate in Project 2 will be to select the
 correct morphological and syntactic tags for words in their specific
 contexts in a digital interface that displays a provisional selection and a
 list of alternate choices.
-
 Both positions require the following abilities:
-
    - fluency in reading Sanskrit texts of various genres and historical
    periods
    - familiarity with the lexical, grammatical, and syntactic terminology
    of both the indigenous Indian linguistic tradition and contemporary
    European Indology and linguistics, and
    - facility working in the digital medium.
-
 It is expected that applicants meet the following qualifications:
-
    - currently hold or be near to completing a doctoral degree or
    equivalent in Sanskrit, preferably in ???????
    - have experience working in a digital project, and
    - be fluent in English.
-
 The applicants are expected to be able to work individually as well as to
 coordinate with the project director and collaborating indologists,
 linguists, and computer scientists.  The positions carry a stipend of
@@ -67,11 +53,9 @@ between INR 24,000--30,000 per month, depending upon the qualifications and
 rank of the applicant.  The positions will be housed in one of the
 collaborating institutions in India in Hyderabad, Mumbai, New Delhi, or
 Pune.
-
 Apply by sending the following materials to the project director (Peter
 Scharf) via email (peter.scharf at univ-paris-diderot.fr) with the subject
 heading, "Sanskrit Library Assistant":
-
    - a r?sum? detailing your education, publications, presentations, and
    employment in the field of Sanskrit and relevant disciplines (such as
    linguistics, computer science, or other languages)
@@ -81,11 +65,4 @@ heading, "Sanskrit Library Assistant":
    (whether you are exclusively responsible or the manner and extent of your
    responsibility), and
    - the names and contact information of three references.
-
 All applications received by 10 May 2012 will be granted full consideration.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120418/637d0ed8/attachment.htm>
-

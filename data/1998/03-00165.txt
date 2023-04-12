@@ -1,31 +1,16 @@
-From thompson at JLC.NET  Tue Mar 10 23:47:28 1998
-From: thompson at JLC.NET (George Thompson)
-Date: Tue, 10 Mar 98 19:47:28 -0400
-Subject: bangani - non Indo-Aryan Indo-European?
-Message-ID: <161227036588.23782.12558908387253559085.generated@prod2.harmonylists.io>
-
+bangani - non Indo-Aryan Indo-European?
 Bangani came up as an issue last year on a couple of lists. I happened to
 cite these very comments of Beekes [against Zoller] which Jan Houben has
 just cited, and got this response from Hock:
-
-Date: Mon, 24 Feb 1997 17:04:19 -0600
-Reply-To: hhhock at ux1.cso.uiuc.edu
 Sender: owner-indoeuropean at mcfeeley.cc.utexas.edu Precedence: bulk
-From: hhhock at ux1.cso.uiuc.edu
-To: indoeuropean at mcfeeley.cc.utexas.edu
-Subject: Bangani
+Bangani
 Mime-Version: 1.0
-
 To anyone concerned with the question of Bangani,
-
 The issue of Bangani has recently been revived through discussion on the
 Vyakaran list (as well as elsewhere). The following observations were sent
 earlier to the Vyakaran (S. Asia) list and may be of some interest to
 subscribers to the Indoeuropean list, too.
-
 ***On Bangani***
-
-
 The controversy over Bangani and the authenticity of its apparent evidence
 for a centum language in northern South Asia does not seem to be coming to
 an end. In the opinion of some scholars, the claims by Dr. George van Driem
@@ -38,7 +23,6 @@ fieldwork and/or claims of van Driem and Sharma. As a consequence, Zoller's
 evidence must be taken seriously and its implications for Indo-European
 comparative linguistics and for South Asian linguistic prehistory must be
 carefully considered.
-
 As is well known, in the course of fieldwork on Bangani, a language of
 northern South Asia, Zoller unearthed lexical items that appear to show
 centum developments of PIE palatalo-velars, instead of the satem outcomes
@@ -47,14 +31,12 @@ contains lexical layers that are clearly Indo-Aryan and therefore satem;
 some of these result from recent influence of languages such as Hindi,
 others exhibit features typical of the northern languages belonging to the
 Indo-Aryan/Indo-Iranian family.
-
 Among the forms with centum features are various words derivable from PIE
 *GenH-, such as OgnOM 'unborn' and gOnNO 'give birth', as well as kOtrO
 'fight' (cf. Skt. Zatru-, Gaul. catu- 'battle') and dOkru 'tear'
 (*(d)aKru). [O = open _o_; G(h), M = nasalization, N = retroflex nasal, z =
 s with hacek, Z = palatal voiceless sibilant, S = retroflex voiceless
 sibilant, K = PIE palatalo-velars, uu = long [u:], I = Slav. front jer.]
-
 While some of the forms are marked as doubtful, either by Zoller or by
 Abbi, and some other forms involve etymologies from Pokorny that many
 Indo-Europeanists would consider uncertain, there remains an impressive
@@ -71,7 +53,6 @@ may be attributable to the transition-area status of Slavic and Baltic
 between satem and western centum languages); but they are nevertheless
 important, since they suggest western IE (rather, than, say Tocharian or
 even Indo-Iranian) origin.
-
 Van Driem and Sharma claim that their fieldwork suggests that Zoller's
 forms are spurious, that some are based on misidentification and others are
 simply non-existent. In a recent summary of arguments pro and con, Dr.
@@ -82,7 +63,6 @@ dubious, since it would be hard to imagine how illiterate villagers would
 be able to know that words like _dOkrO, lOktO, gOsti_ would please an
 investigator (to have that knowledge would require more than a superficial
 understanding of comparative Indo-European linguistics).
-
 In January 1997 I had the opportunity to meet with Abbi and to go over some
 of her Bangani notes from fieldwork that she recently conducted in situ.
 She will provide a fuller report on her work in due course, but has asked
@@ -92,14 +72,11 @@ territory but limited themselves to interviewing Bangani speakers on the
 fringes of the territory, Abbi went into the territory and interviewed,
 among others, at least one monolingual speaker of Bangani. According to her
 fieldwork, most of Zoller's forms are genuine.
-
 Her fieldwork also confirms that the lexicon of Bangani contains at least
 three layers: Words of the type _dOkrO, lOktO, gOsti_, words that exhibit
 "northern" Indo-Aryan features, and words that seem to be borrowed from
 more southern Indo-Aryan languages, such as Hindi.
-
 Given these circumstances, Bangani poses several challenges to linguistics.
-
 First, there is the question of what appears to be western centum
 influence. At this point, the evidence for this influence is highly
 suggestive; but a larger amount of words of the same type would certainly
@@ -110,7 +87,6 @@ _Z_) in most of Indo-Aryan, and there are well-known problems with RUKI in
 Nuristani; as a consequence, words of this type do not provide unambiguous
 evidence -- unless we were dealing with words of the type _dOkrO, lOktO,
 gOsti_ which, qua words, seem to indicate western IE origin.)
-
 A related question is the nature of the western centum influence. Words
 like _gOsti_ seem to rule out Greek influence (and thus the possibility
 that we are dealing with linguistic echoes of Alexander's army); _lOktO_
@@ -120,19 +96,16 @@ all of the relevant words. At the same time, the fact that *a and *o
 exhibit the same outcome (O, no doubt via *a, see below) suggests possible
 affiliation with the Balto-Slavo-Germanic group (or possibly with
 Antalolian?).
-
 The fact that *a and *o are reflected as O further suggests that, whatever
 the source of the words, they participated in the Bangani change of earlier
 *a to O and that therefore they must have entered (the ancestor of modern)
 Bangani prior to that change. But that change may be a very recent one. The
 question of what time these words entered Bangani therefore cannot be
 satisfactorily answered at this point.
-
 Moreover, it is not at all clear whether the words in question actually
 entered Bangani, or whether they are part of the original lexicon of the
 language, and the northern Indo-Aryan lexical layer is a later accretion,
 comparable to the clearly secondary layer of southern Indo-Aryan words.
-
 It is to be hoped that more extensive field work on Bangani will unearth
 evidence that will make it possible to answer some of these questions, or
 at least to make it possible to more clearly establish the nature of the
@@ -141,18 +114,11 @@ Moreover, as noted earlier, the evidence for western IE influence or origin
 at this point is still rather limited; if more evidence could be found this
 would definitely strengthen the claim that Bangani contains a significant
 layer of centum vocabulary.
-
-
 Hans Henrich Hock
 Professor of Linguistics and Sanskrit
 Linguistics, 4088 FLB, University of Illinois 707 S. Mathews, Urbana, IL 61801
 telephone: (217) 333-0357 or 333-3563 (messages) e-mail: hhhock at staff.uiuc.edu
 fax: (217) 333-3466
-
 Acting Director, Program in South Asian and Middle Eastern Studies 211
 International Studies Building, 910 S. Fifth, Champaign, IL 61820
 telephone: (217) 0796, fax: (217) 333-6270
-
-
-
-

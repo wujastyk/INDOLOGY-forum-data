@@ -1,20 +1,7 @@
-From wujastyk at gmail.com  Fri Apr 22 18:40:46 2022
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Fri, 22 Apr 2022 12:40:46 -0600
-Subject: [INDOLOGY] brief maintenance period
-Message-ID: <CAKdt-CfPp_naUEmjehOi2xG23HScSNTJ9zthxhk=jh286_CO7g@mail.gmail.com>
-
+[INDOLOGY] brief maintenance period
 This is an automated notice from MailmanLists.
-
 Notice of scheduled maintenance outage tomorrow.
-
 Server:   Amsterdam NLD
-Date:     2022-04-23
 Start:    03:00:00 UTC
 Duration: 30 minutes
-
 There may be delays to mail delivery during this time.
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220422/bfcaccc7/attachment.htm>
-

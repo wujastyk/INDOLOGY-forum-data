@@ -1,11 +1,5 @@
-From magier at cunixf.cc.columbia.edu  Tue Jul  6 00:50:06 1993
-From: magier at cunixf.cc.columbia.edu (David Magier)
-Date: Mon, 05 Jul 93 20:50:06 -0400
-Subject: synonyms?
-Message-ID: <161227015967.23782.554772943210520985.generated@prod2.harmonylists.io>
-
+synonyms?
 I am writing for a research client, who poses the following query:
-
 In the Mahabharata, as in other Sanskrit literature, there are (at
 least) five different words that seem to be used nearly
 interchangeably to mean "story".  These are: a:khya:na, upakhya:na,
@@ -17,8 +11,6 @@ words, at some point in their history, refer to different GENRES of
 stories? That is, is there any body of text in which these are used in
 a consistent and semantically distinct manner? Any answers, citations,
 or suggestions for further research would be greatly appreciated.
-
-
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
     ____________________________       304 International Affairs
   ///    -- David Magier --    \\\     Columbia University
@@ -26,9 +18,3 @@ or suggestions for further research would be greatly appreciated.
  |||  S&SE Asia, Latin America, |||    212-854-8046 / FAX: 212-854-2495
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------        magier at columbia.edu
- 
-
-
-
-
-

@@ -1,8 +1,4 @@
-From rhododaktylos at gmail.com  Fri May 13 09:51:42 2022
-From: rhododaktylos at gmail.com (Antonia Ruppel)
-Date: Fri, 13 May 2022 11:51:42 +0200
-Subject: [INDOLOGY] Google Translate for Sanskrit
-In-Reply-To: <20220513100100.56ef14bb3fe26fe91d445084@univ-reims.fr>
+[INDOLOGY] Google Translate for Sanskrit
 References: <CA+wUuzNXp9V9fL6E-CsW4BwLMXw=6B=H3KEyFfrCe7Uj7H4YZA@mail.gmail.com>
  <CADKD_zh4etGYUtcSYZ+zLO0X-uAcd3xn9NbyChP76_WLakKNDA@mail.gmail.com>
  <E0B1DFD3-71CE-4D82-BF21-DFA959B0CB16@gmail.com>
@@ -12,18 +8,14 @@ References: <CA+wUuzNXp9V9fL6E-CsW4BwLMXw=6B=H3KEyFfrCe7Uj7H4YZA@mail.gmail.com>
  <SA2PR08MB6569E66435DC6A50E18249C8E7CB9@SA2PR08MB6569.namprd08.prod.outlook.com>
  <8F91189C-CA5E-4B0F-A1C7-1EE2FFFC1C24@gmail.com>
  <20220513100100.56ef14bb3fe26fe91d445084@univ-reims.fr>
-Message-ID: <CAEjEOsDWML7YtjanrOjQFESxUrcNywMZUOtxNAKANs+utxB3mg@mail.gmail.com>
-
 I think it's also worth asking what the programmers who made this meant
 when they said 'Sanskrit'. The classical language, or the modern spoken
 version taught and stratified by organisations like e.g. Samskrita Bharati?
 I tried a few simple sentences (I went into town, I saw the man, Where is
 the cat? etc) and found that
--- the past tense is expressed by means of the ta- and tavant- participles
 (the default is the masculine participle, by the way, even when you try
 things like 'I, S?t?, went into town'), as favoured e.g. by modern spoken
 Sanskrit (not only by it, of course)
---  'Where is the cat?' resulted in the word order ?????? ????? ?????
 favoured by modern Sanskrit (and mirrored by e.g. Hindi).
 - my, her etc in sentences like 'she sees her sisters' are usually
 expressed, e.g. by means of sva- or through the actual genitive pronoun,
@@ -34,239 +26,21 @@ expression (e.g. smitam karoti rather than smayati), that, I think, also
 becomes more prevalent as time passes
 - external sandhi is not applied, again following the prevalent modern
 spoken convention
-
 Entering 'I have seen him' (rather than 'I saw him') gives me ??? ??
 ???????, which I don't quite understand because I'd have expected 'him' to
 be the subject and thus nominative. (The same results with other transitive
 verbs.)
-
 When you create a translation program, you need to decide what the 'right'
 translation of something is. With literary languages, like Sanskrit, whose
 features usually include variety of expression, that is difficult. So it
 seems natural that the programmers would use the standards of the modern
 spoken language, for whose creation those decisions were at some point made.
-
 That google translate now includes Sanskrit is a fascinating social
 phenomenon. I'm looking forward to seeing how they are going to develop it,
 and hope someone might at some point talk about their methodology in
 creating this function. (Let's find out and invite them to a conference? It
 would surely make for a fascinating talk!)
-
 All best,
      Antonia
-
 On Fri, 13 May 2022 at 10:01, Satyanad Kichenassamy <
 satyanad.kichenassamy at univ-reims.fr> wrote:
-
->
-> Dear All,
->
-> Here are a few further experiments that illustrate other issues :
->
-> Input: ??????? ????
-> Output: Truth always triumphs
->
-> Input: Truth always triumphs
-> Output: ????? ??? ??????
->
-> Input: ????? ??? ??????
-> Output: Truth always triumphs
->
-> Input: C'est la r?alit? qui triomphe
-> Output: Reality wins
->
-> Input: C'est la r?alit? qui triomphe.
-> Output: It is reality that triumphs.
->
-> (The only difference between the last two inputs is the final period.)
->
-> Input: Reality prevails.
-> Input: La r?alit? l'emporte.
->
-> Input: Reality alone prevails.
-> Output: Seule la r?alit? pr?vaut.
->
-> Input: Seule la r?alit? pr?vaut.
-> Output: Only reality prevails.
->
-> And, for fun, Prop. 12.21 from Brahmagupta's Braahmasphu.tasiddhaanta.
->
-> Input: ???????? ???????????????????????????????????
-> ??????????????????????????????? ????????? ?
->
-> Output: The gross fruit is the three-four-arm arm-counter-arm combination
-> team attack.
-> The subtle step is from the impact of the four and a half arms of the Yoga
-> of the arms.
->
-> A correct translation is as follows (the four lines correspond to the four
-> parts of this Arya verse):
-> A crude value [indeed] of the area of a triquadrilateral
->    Is the product of the half-sums of opposite sides ;
-> Of a group consisting of four half-sums of the sides, from which
->    The sides have been subtracted [in turn], the root of the product is
-> the refined [value].
->
-> NB: There are quite a few technical terms here; taking some of them in
-> their ordinary meaning leads to gibberish. "Pada" here is the square root
-> (because the foot of a tree is its root). Yoga is here the sum. "Dala" is
-> the half (literally, "broken (in half)"). A triquadrilateral is the figure
-> obtained from a trilateral by adding a fourth vertex on its circumcircle.
-> Tricaturbhuja is a neologism introduced by Brahmagupta that we translated
-> by a neologism because there is no corresponding notion in English.
->
-> Thus, Google Translate seems adequate at the ????? level, but may miss the
-> ???????.
->
-> Reverting to general issues from an Indological or mathematical (or
-> computer science) viewpoint, I would suggest offhand the following for
-> discussion:
->
-> (i) is the algorithm public or not? (Probably not, but who knows?)
->
-> (ii) is there a public algorithm with comparable performance?
->
-> (iii) what is the knowledge base (or training set in the sense of neural
-> networks) of known algorithms?
->
-> (iv) a possibly related issue is that there does not seem to be any
-> equivalent for Indian languages of Chinese databases such as ctext.org
-> for instance, that include many tools in addition to searching. For
-> Sanskrit and Tamil, we are grateful to have what you can find on
-> https://indology.info/external-resources/
-> including
-> https://www.projectmadurai.org/
-> http://gretil.sub.uni-goettingen.de/gretil.html
-> https://titus.uni-frankfurt.de/indexf.htm
->
-> etc.
->
-> For Sanskrit morphology and, to some extent, parsing, the situation is
-> much better : https://sanskrit.inria.fr/DICO/
-> But such tools do not seem to have been integrated into other databases
-> (so that, for instance,  hovering the mouse over a word would suggest its
-> grammatical nature, or suggest meanings -- such things exist in Chinese).
-> This may require the text input into the database to integrate a modicum of
-> grammatical analysis and therefore, what amounts to an implicit commentary.
-> This may nonetheless be appropriate for research journals that could
-> provide enriched versions of papers. Automated translation always requires
-> some form of semantic input anyway, except for the crudest examples.
->
-> Best regards,
->
->      Satyanad Kichenassamy
->
-> On Thu, 12 May 2022 16:48:48 -0400
-> Elliot Stern via INDOLOGY <indology at list.indology.info> wrote:
->
-> > Aleksandar?s comment is spot on:
-> >
-> >
-> >
-> > Elliot M. Stern
-> > 552 South 48th Street
-> > Philadelphia, PA 19143-2029
-> > emstern1948 at gmail.com
-> > 267-240-8418
-> >
-> > > On May 12, 2022, at 1:45 PM, Uskokov, Aleksandar via INDOLOGY <
-> indology at list.indology.info> wrote:
-> > >
-> > > It will be a while before it becomes a philosopher --
-> > >
-> > > Aleksandar Uskokov
-> > > Lector in Sanskrit
-> > > South Asian Studies Council, Yale University
-> > > 203-432-1972 | aleksandar.uskokov at yale.edu <mailto:
-> aleksandar.uskokov at yale.edu>
-> > >
-> > > Office Hours Sign-up: https://calendly.com/aleksandar-uskokov <
-> https://calendly.com/aleksandar-uskokov>
-> > > From: INDOLOGY <indology-bounces at list.indology.info <mailto:
-> indology-bounces at list.indology.info>> on behalf of Madhav Deshpande via
-> INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info
-> >>
-> > > Sent: Thursday, May 12, 2022 1:31 PM
-> > > To: Dominik Wujastyk <wujastyk at gmail.com <mailto:wujastyk at gmail.com>>
-> > > Cc: Indology <indology at list.indology.info <mailto:
-> indology at list.indology.info>>
-> > > Subject: Re: [INDOLOGY] Google Translate for Sanskrit
-> > >
-> > > This is Google Translator for the first verse of Meghad?ta:
-> > >
-> > > "Someone is neglected by the teacher of separation from his lover:
-> > > Shapenastangmitamahima varshabhogyaena bhartu:
-> > > The yaksha bathed Janaka's daughter in the holy waters
-> > > I lived in the hermitages of Ramagiri among the lush shady trees."
-> > >
-> > > GT could not figure out the long compounds, and "guru" got translated
-> as "teacher." The syntax of the verse is also missed.
-> > >
-> > > Madhav M. Deshpande
-> > > Professor Emeritus, Sanskrit and Linguistics
-> > > University of Michigan, Ann Arbor, Michigan, USA
-> > > Senior Fellow, Oxford Center for Hindu Studies
-> > > Adjunct Professor, National Institute of Advanced Studies, Bangalore,
-> India
-> > >
-> > > [Residence: Campbell, California, USA]
-> > >
-> > >
-> > > On Thu, May 12, 2022 at 10:17 AM Madhav Deshpande <mmdesh at umich.edu
-> <mailto:mmdesh at umich.edu>> wrote:
-> > > <image.png>
-> > > Madhav M. Deshpande
-> > > Professor Emeritus, Sanskrit and Linguistics
-> > > University of Michigan, Ann Arbor, Michigan, USA
-> > > Senior Fellow, Oxford Center for Hindu Studies
-> > > Adjunct Professor, National Institute of Advanced Studies, Bangalore,
-> India
-> > >
-> > > [Residence: Campbell, California, USA]
-> > >
-> > >
-> > > On Thu, May 12, 2022 at 10:16 AM Dominik Wujastyk via INDOLOGY <
-> indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> > > It's quite remarkable:
-> > > <image.png>
-> > >
-> > >
-> > > _______________________________________________
-> > > INDOLOGY mailing list
-> > > INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> > > https://list.indology.info/mailman/listinfo/indology <
-> https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7C68ffc9acdc8241aa59d608da343d6b2e%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637879735643840753%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XN7lAO3%2B4CZr1hjpYDZY4y0AcEs0HCIrhj1vCDTcw9k%3D&reserved=0
-> >
-> > > <Screenshot 2022-05-12 134349.png>
-> > > _______________________________________________
-> > > INDOLOGY mailing list
-> > > INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> > > https://list.indology.info/mailman/listinfo/indology <
-> https://list.indology.info/mailman/listinfo/indology>
-> >
-> >
-> >
-> >
-> >
->
->
-> --
-> **********************************************
-> Satyanad KICHENASSAMY
-> Professor of Mathematics
-> Laboratoire de Math?matiques de Reims  (CNRS, UMR9008)
-> Universit? de Reims Champagne-Ardenne
-> F-51687 Reims Cedex 2
-> France
-> Web: https://www.normalesup.org/~kichenassamy
-> **********************************************
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220513/bc069fe9/attachment.htm>
-

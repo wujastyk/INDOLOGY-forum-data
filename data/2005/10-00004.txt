@@ -1,43 +1,13 @@
-From r.mahoney at ICONZ.CO.NZ  Sun Oct  2 19:34:02 2005
-From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
-Date: Mon, 03 Oct 05 08:34:02 +1300
-Subject: Tagore - A Passion Play [Chokher bali]
-In-Reply-To: <op.sx0muopu0gfsmx@mail.arcor.de>
-Message-ID: <161227076856.23782.2614040645886733670.generated@prod2.harmonylists.io>
-
+Tagore - A Passion Play [Chokher bali]
 On Mon, 2005-10-03 at 00:14, JN wrote:
-> Dear Colleagues,
-> 
-> could any body please help me with bibliographic details about  
-> Rabindranath Tagore's novel "A Passion Play" (orginal title "choker  
-> bali")? I am somehow unable to find out in which anthology it (the English  
-> translation) has been published. It is not available in any online  
-> catalogue I have access to.
-> Thanks in advance for your help and apologies for possible cross-postings.
-> 
-
 You should be able to find details by following this link:
-
 http://itec.indica-et-buddhica.org:81/catalogus/bibliothecae.cat?target=uk-copac&syntax=sutrs&element=F&number=15&proxy=localhost%3A9000&map%28All+Fields%29=%40attr+1%3D1016&map%28Title%29=%40attr+1%3D4+%40attr+4%3D1&map%28Author%29=%40attr+1%3D1003&map%28URL%29=%40attr+gils+2%3D2021&map%28Editor%29=%40attr+1%3D1020&map%28Subject%29=%40attr+1%3D21&map%28Publisher%29=%40attr+1%3D1018&map%28Anywhere%29=%40attr+1%3D1035&map%28Author-Title-Subject%29=%40attr+1%3D1036&map%28ISBN%29=%40attr+1%3D7&map%28ISSN%29=%40attr+1%3D8&map%28Date%29=%40attr+1%3D30&map%28Abstract%29=%40attr+1%3D62&map%28Note%29=%40attr+1%3D63&start=1&field1=subject&op1=and&term1=&field2=all+fields&term2=tagore&op2=and&field3=all+fields&term3=Chokher+bali&op3=and&field4=all+fields&term4=&op4=and&field5=all+fields&term5=&piggyback=0&timeout=30&action=search
-
 (Please input as a single line)
-
 The main page can be found by following a link from:
-
 http://proliant.indica-et-buddhica.org/?q=taxonomy/term/30
-
-
 Best,
-
  Richard
-
-
--- 
 Richard MAHONEY | internet: indica-et-buddhica.org
 Littledene      | telephone / telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 25 829 986
 OXFORD, NZ      | e-mail: r.mahoney[use"@"]iconz.co.nz
-
-
-
-

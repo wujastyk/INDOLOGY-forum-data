@@ -1,23 +1,5 @@
-From birgit.kellner at UNIVIE.AC.AT  Thu Oct 12 07:53:37 2006
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Thu, 12 Oct 06 09:53:37 +0200
-Subject: Indian epistemic terms
-In-Reply-To: <1160598601.452d5449c209f@mymail.yorku.ca>
-Message-ID: <161227078439.23782.8040519931557047962.generated@prod2.harmonylists.io>
-
+Indian epistemic terms
 Shyam Ranganathan schrieb:
-> Dear Indologists
->
-> I'm interested in a survey of technical and nontechnical epistemic terms
-> employed in Indian philosophical literature. My rather informal impression is
-> that the Indian tradition has made an art of discussing epistemology that makes
-> the standard analytic "S knows that P" talk look rather dry. Specifically I am
-> interested in:
->
-> (a) whether there is any secondary material that has surveyed this issue and
-> produced some type of list of terms employed in such discussions, and
->
->   
 I don't have such a list at hand, but it seems to me that part of this
 phenomenon, if it is indeed observable, results from the choice of
 objects of comparison: modern analytic philosophy, which aims to reduce
@@ -30,22 +12,12 @@ philosophy as different branches of investigating cognition are much
 more fluid (not to mention metaphysics). I'm not sure, for instance,
 whether European medieval philosophy would sound as dry in comparison
 with Indian philosophical literature as analytic philosophy.
-
 (Besides, one of the aspects of Indian epistemology that has been quite
 frequently remarked on in this connection is its absence of a clear-cut
 propositional conception of knowledge - classical Indian theories
 usually speak of "objects" that are known, or cognised. I can't recall
 any specific citation at the moment, but am confident that you'd find
 something to that effect in one of the works by Claus Oetke.)
-
-> (b) whether there are standard cross-theoretic terms (perhaps "pramana" and
-> "jnana") that are used in most all traditions in epistemic discussions, or
-> whether the majority of the discourse is really technical and only accessible
-> to those who are experts in the relevant darsana.
->
-> Thanks in advance
->
->   
 It depends on the area of discussion. Broadly speaking, there emerges in
 the course of time a shared set of, shall we say, methodological
 concepts as far as the individual pram??as themselves are concerned -
@@ -60,7 +32,6 @@ Naiy?yikas, even if they had been interested in it. Elaborations on the
 metaphysical or psychological presuppositions of theories of knowledge
 might also be more technical and "closed" than treatments of issues of
 method.
-
 Accessibility, in addition, is a relative concept. Our present knowledge
 from the literature that certain terms are specifically Buddhist might
 lead us to conclude that they would have been accessible only to
@@ -73,14 +44,7 @@ likely to have diffused to outsiders. Add such institutional
 meeting-points to a general environment in which diverse traditions
 compete, also for support by worldly authorities, and accessibility
 becomes a much more fluid notion.
-
 I hope this has been of some help, even though not by answering your
 questions in a straightforward manner ...
-
 Best regards,
-
 Birgit Kellner
-
-
-
-

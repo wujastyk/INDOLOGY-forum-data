@@ -1,10 +1,4 @@
-From kauzeya at gmail.com  Wed Jun  6 17:35:14 2018
-From: kauzeya at gmail.com (Jonathan Silk)
-Date: Wed, 06 Jun 18 19:35:14 +0200
-Subject: [INDOLOGY] Brackets in modern sanskrit translations
-In-Reply-To: <VI1PR0202MB329487F0B93D70AC254BB0F5CA650@VI1PR0202MB3294.eurprd02.prod.outlook.com>
-Message-ID: <CAMGmO4L5coeOC4yF1PaBg+fYRcGJZ3YVbjWKrxVUoAcRxJ2H0g@mail.gmail.com>
-
+[INDOLOGY] Brackets in modern sanskrit translations
 We are perhaps somehow in this discussion running the risk of not
 clarifying sufficiently what we mean.
 To write: The Buddha attained extinction (nirodha) before ... is one thing
@@ -13,98 +7,20 @@ another.
 And when we get [The] Buddha spoke [outloud] to [the previously mentioned]
 ?ji?vika [renuniciant] [saying] "Hey [you]! How's it hanging?" ...
 something is clearly wrong, is it not?
-
 Just adding (my) 10? (an American unit of money; see US Mint 2012,
 passim)....
 jonathan*
-
 *Yes, it's been a long day. We didn't, by the way, even talk about notes,
 really.... and whether we are happy with pages littered with numbers (hint:
 I'm not a big fan of this in translations, and think it can be an admission
 that the translation is not actually doing its communicative job)
-
-
 On Wed, Jun 6, 2018 at 6:52 PM, Jason Birch via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> The assumption that the 'use of brackets confounds the non-specialist? may
-> not be true. Dominik?s blogpost was the outcome of a discussion we had at
-> the University of Vienna in 2016. Afterwards I wondered for a while whether
-> non-specialists were confused by this convention, and so have since asked
-> several groups of yoga students whether the brackets were helpful or not.
-> In feedback forms, each group has been in favour of keeping the brackets in
-> the translations I provided to them.
->
-> If one is writing something for ?non-specialists? and is worried that the
-> use of brackets will confuse them, perhaps, it is simply a matter of
-> explaining (in a note) the reasons for their use.
->
-> Best wishes,
->
-> Jason
->
-> __
-> Jason Birch
-> Post-Doctoral Research Fellow
-> Hatha Yoga Project
-> SOAS University of London
->
->
-> Date: Tue, 5 Jun 2018 22:20:34 +0000
-> From: "Coseru, Christian" <CoseruC at cofc.edu>
-> To: "indology at list.indology.info" <indology at list.indology.info>
-> Subject: Re: [INDOLOGY] Brackets in modern sanskrit translations
-> Message-ID: <FDB2893F-9D9E-459B-876D-5FA748BAE4DE at cofc.edu>
-> Content-Type: text/plain; charset="utf-8"
->
-> To follow up on Johannes Bronkhorst?s point about readership, it seems
-> obvious that there are two broad categories of readers of translations from
-> Sanskrit texts: Sanskritists and non-Sanskritists. Since the only way
-> non-Sanskritists have access to Sanskrit texts is via translations in the
-> language their are most fluent in (e.g., English, German, Japanese), the
-> question becomes: should Sanskritists serve their own community or the
-> reading academic community at large (to say nothing of the general public)?
->
-> Of course, in practice Sanskritists sever both demographics, but despite
-> the good points about honesty, interpretive preferences, and purpose that
-> Alex and Birgit raise, the use of square brackets confounds the
-> non-specialists, and often makes the text a lot less inviting than it
-> actually is. One might be tempted in this context to note that all
-> translation is in some sense an interpretation since, as the late Luis O
-> G?mez once quipped, the "only perfect translation that can be is the
-> original itself."
->
-> One solution to this conundrum might be to adopt a two-tiered translation
-> model, with a bracketed version for specialists and one without for the
-> broader academic readership. In some respects, that two-tiered model exists
-> already, which is why the issues was raise in the first place.
->
-> Christian Coseru
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
->
-
-
--- 
 J. Silk
 Leiden University
 Leiden University Institute for Area Studies, LIAS
 Matthias de Vrieshof 3, Room 0.05b
 2311 BZ Leiden
 The Netherlands
-
 copies of my publications may be found at
 https://leidenuniv.academia.edu/JASilk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180606/885fc902/attachment.htm>
-

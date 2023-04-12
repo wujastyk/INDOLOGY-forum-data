@@ -1,11 +1,5 @@
-From gkb at ast.cam.ac.uk  Tue May  7 20:30:02 1996
-From: gkb at ast.cam.ac.uk (Girish Beeharry)
-Date: Tue, 07 May 96 21:30:02 +0100
-Subject: Gymnosophists etc.
-Message-ID: <161227024348.23782.11021180686346437356.generated@prod2.harmonylists.io>
-
+Gymnosophists etc.
 Hi,
-
 I have sent a rather detailed private note to Lars Fosse about Newton &
 Leibnitz; unfortunately, I no longer have a copy of it. I was trying to
 make the point that they discovered two rather different approaches to two
@@ -17,30 +11,8 @@ possible routes a particle can take, how should I choos the one in which
 it spends less time for going from one fixed point to another (say)'; this
 is  variational calculus highly simplified. All this is usually bundled
 together as infinitesimal calculus.
-
 On Tue, 7 May 1996, L.S.Cousins wrote:
-
-> Lars Martin Fosse writes re Leibnitz-Newton:
-> 
-> >According to my encyclopedia, the two discovered infinitesimal calculations
-> >independently of each other. If more recent theories say otherwise, I would
-> >like to know about them.
-> 
-> Probably the issue as to whether there was communication between the two is
-> not very relevant to this list. What is relevant is that they were both
-> highly versed in very closely related systems of mathematical and
-> scientific knowledge. In other words they are in no way valid as examples
-> of totally independent simultaneous invention of knowledge.
-> 
 Given the above, I disagree with your two last sentences.
-
-> If we had only the information that Newton in England and Leibnitz in
-> Europe both invented calculus in the seventeenth century, we might infer
-> the existence of influences between British and Continental cultures at
-> that time and we would be right to do so; for the invention of calculus was
-> a development from and on the basis of the pre-existing mathematical
-> knowledge which was largely a common heritage.
-> 
 We might infer many things and most of our inferences would be invalid.
 Newton was the student of Barrow, here, and that influenced him to go into
 the type of problems I mentioned above whereas Leibnitz was more
@@ -52,16 +24,6 @@ Newton was at one of the best places to be for mathematics and Leibnitz
 was not (which gives an indication of his towering mathematical
 abilities). Circulation of ideas took a lot of time; they had no
 preprints, no WWW, not even email! :-)
-
 I wish to apologize for the lack of Indological content of the above.
-
 bye,
-
 Girish Beeharry
-
-
-
-
-
-
-

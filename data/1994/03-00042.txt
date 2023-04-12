@@ -1,12 +1,6 @@
-From yanom at JPNKSUVX.EARN  Sat Mar 19 08:30:51 1994
-From: yanom at JPNKSUVX.EARN (yanom at JPNKSUVX.EARN)
-Date: Sat, 19 Mar 94 08:30:51 +0000
-Subject: Skt. romanization?
-Message-ID: <161227016641.23782.8753704094064544302.generated@prod2.harmonylists.io>
-
+Skt. romanization?
 There are many conventional ways of  Romanization.
 Here is Kyoto-Harvard method:
- 
         vowels:     a, A, i, I, u, U, R, RR, L, e, ai, o, au
         gutturalas: k, kh, g, gh, G
         palatals:   c, ch, j, jh, J
@@ -18,15 +12,7 @@ Here is Kyoto-Harvard method:
         aspiration: h
         anusvAra:   M
         visarga:    H
- 
 Sometimes we use aa etc. instead of A etc. for long vowels.
 If you mix Sanskrit with other languages,  Dr. Velthuis's
 would be better, especially for TeX documents.
 Michio YANO
- 
- 
-
-
-
-
-

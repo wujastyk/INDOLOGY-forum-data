@@ -1,86 +1,21 @@
-From A.Griffiths at LET.LEIDENUNIV.NL  Mon Mar 15 19:35:01 2004
-From: A.Griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
-Date: Mon, 15 Mar 04 21:35:01 +0200
-Subject: Re. Sanskrit syntax problem: Double bind constructions
-In-Reply-To: <5FA95E40EE2AD51190380090272724BB02737977@humxsrv1.hum.ku.dk>
-Message-ID: <161227074149.23782.12402095283717808508.generated@prod2.harmonylists.io>
-
+Re. Sanskrit syntax problem: Double bind constructions
 The dehalii-diipa- or kaakaak.si-golaka-nyaaya came up in a recent
 discussion between myself and Werner Knobl. He provided me with the
 following references:
-
 Laukika-nyaayaanjali.h . A Handful of Popular Maxims
 Current in Sanskrit Literature. Parts I, II & III, Collected by Colonel G.
 A. Jacob: I 18 for kaakaak.si-golaka-nyaaya.h and I 30 for
 dehalii-diipa-nyaaya.h.
-
 Apte's Appendix E (pp. 52-76): kaakaak.si-golaka-  58b,
 dehalii-diipa-  62b-63a.
-
 A Vedic example seems to be the following Kuntaapa mantra, very corruptly
 transmitted especially as regards accentuation:
-
 AV ;Saunaka-Sa.mhitaa 20.135.12 (;Saa:nkh;SS 12.16.5, .RVKh 5.21.2)
-
 tv;am indra kap;otaaya +chinnapak.s;aaya v;a;ncate |
 +;sy;aamaaka.m pakv;a.m +p;iilu ca v;aar asmaa +ak.r.nor +bah;u ||
-
 'You, o Indra, provided for the staggering pigeon whose wings were clipped
 much ripe millet [cf. Bhaar;SS 6.18.1 ;syaamaake.su pakve.su] and
 p;iilu-fruit, [and your provided] water for it.'
-
 pakv;am here qualifies both the preceding and the following substantive
 nouns.
-
 Arlo Griffiths
-
-
-
-> From: Hartmut Buescher <buescher at HUM.KU.DK>
-> Reply-To: Indology <INDOLOGY at liverpool.ac.uk>
-> Date: Mon, 15 Mar 2004 20:20:36 +0100
-> To: INDOLOGY at liverpool.ac.uk
-> Subject: Re. Sanskrit syntax problem: Double bind constructions
-> 
-> Prof. Aklujkar has sent me an important addition to the present discussion
-> off-list. With his permission, it is now being shared with the list (note,
-> however, that he sent his mail early in the morning [i.e., before he saw the
-> other sugestions of Skt. names referring to double bind constructions]; it
-> was me who returned late).  HB
-> 
-> 
-> Dear Mr. Buescher,
-> 
-> In the following publication (a) to which Jan Houben refers in his footnote
-> to which you refer and (b) to which you yourself later allude indirectly,
-> you will notice that I have given the name "dehalii-diipa use of the
-> genitive" to the grammatical phenomenon of double bind construction.
-> 
->> The Speijer centennial volume "Studies in Sanskrit Syntax", ed. by H. H.
-> Hock. 
-> My article "Syntactic Gleanings ..." p. 4. or section 2.4.<
-> 
-> Recently, Prof. Albrecht Wezler observed in a seminar at Kyoto in which we
-> both participate that one could speak of the phenomenon also as
-> kaakaak.si-golaka use.
-> 
-> Subsequent to 1991, I have collected examples of cases other than the
-> genitive similarly used.
-> 
-> The sentence you have cited, however, will not do as a suitable example as
-> others have pointed out. Nor should one confuse the phenomenon with the
-> trope or figure of speech called diipaka.
-> 
-> You may post this note on the Indology list if you wish. Unfortunately, I am
-> 
-> unlikely to find the time needed to participate in further discussion.
-> 
-> With best wishes.
-> 
-> ashok aklujkar 
-> Scholar-in-residence at Kyoto University until end of March 2004
-> ? 
-
-
-
-

@@ -1,42 +1,6 @@
-From perichandra at YAHOO.COM  Wed Apr  5 23:21:18 2000
-From: perichandra at YAHOO.COM (Periannan Chandrasekaran)
-Date: Wed, 05 Apr 00 16:21:18 -0700
-Subject: putra
-Message-ID: <161227057624.23782.11496140487821868195.generated@prod2.harmonylists.io>
-
---- Venkatraman Iyer <venkatraman_iyer at HOTMAIL.COM> wrote:
+putra
 Dr: Deshpande:
-----
-> If I may ..
-> For example, consider the variants putra/puttra.  It is obvious that
-> the variant puttra allowed the folk-etymology put+tra, where -put- is
-> said to be the name of a hell, from which the son protects the father
-> (pun-naamno narakaad yasmaat traayate pitaram suta.h...
-
->                                 Madhav Deshpande
------
->
-> Dr. Fosse:
----
 ...
-> the meaning you give above ("put-releaser"). This lead Skt.
-> grammarians to assume that there was a Hell called "put", because
-> a son saves his father from hell through the performance of the
-> necessary rites. >>>
----
-
-
->
-> Given the long history of etymologizing the word, putra,
-> has a Dravidian origin been suggested? Tamil has
-> "putu"=new
-> "putalvan"=son, student
-> "putal"=bud
->
-> With regards,
-> V. Iyer
->
-
 There is a Tamil word "puttEL" (DEDR# 4275) listed  under the sense of Ta. putu
  = new...;
 putiyar = new person(s), guest;
@@ -44,49 +8,27 @@ puttan2 = new person or thing;
 ...etc.
 it means as per DEDR
 "novelty, stranger, strange woman; god".
-
 The phrases "puttEL ulaku" ("the world of gods" or "the world of novelty") and
 "puttEL nADu" ("the country/place of gods")
 is also employed to denote the heaven.
 The CT maturaik kAJci says
 at line# 698
 "puttEL ulakam kavin2ik kANvara"
--->"...[the city of maturai is so resplendent as to] make the heaven to look to
 it for exemplary beauty".."
-
 tirukkuRaL: 1323:
 "...pulattalin2 puttEL nADu uNDO?"
--->"...is there a more pleasant heaven than sulking with one's lover"
-
 Now consulting the Madras Tamil Lexicon weighs in favor of Mr. Iyer's
 conjectures as the lexicon does indeed ask the reader to confer the following
 Tamil/Skt pairs:
-
 Ta. putalvan - Skt. puttra
 Ta. puttEL - Skt. puttala.
-
 Is it possible that the Skt. "put-"/"puttala" itself got its other-worldly
  association specifically regarding progeny from the Tamil roots?
 i.e. the hell was  called "put-" because it is a kind of "puttEL"
 (generalizeable from heaven to hell) where those who die without "putalvan"
 (son) go to?
-
 Regards
 P. Chandrasekaran.
-
-
-
-
-
-
-
-
-
-__________________________________________________
 Do You Yahoo!?
 Talk to your friends online with Yahoo! Messenger.
 http://im.yahoo.com
-
-
-
-

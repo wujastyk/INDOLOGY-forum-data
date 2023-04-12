@@ -1,33 +1,11 @@
-From reimann at UCLINK4.BERKELEY.EDU  Sat Mar 18 05:22:37 2000
-From: reimann at UCLINK4.BERKELEY.EDU (Luis Gonzalez-Reimann)
-Date: Fri, 17 Mar 00 21:22:37 -0800
-Subject: Date of Jyotisa Vedanga
-In-Reply-To: <001901bf9003$73828b20$530fe0d5@pandora.be>
-Message-ID: <161227057056.23782.10513510717453100848.generated@prod2.harmonylists.io>
-
+Date of Jyotisa Vedanga
 At 12:15 PM 03/17/2000 +0100, K. Elst wrote:
-
->> So there seems to be agreement on the date of the text (ca 4th c. BCE)
->
->Not at all: not counting myself, Rajesh Kochhar is only the latest in a long
->list to date it unequivocally ("uncritically"?) at ca. 1300 BC.
-
 I meant agreement between Sastry's and Pingree's dates. I was responding to
 V. Agarwal's question about Sastry, whom he describes as a Vaidik
 proficient in astronomy. Kochhar's opinion is another matter.
-
->> Sastry believes that it preserves a tradition dating back to when the
->> winter solstice was at the beginning of zraviSThA.
->
->Why should a manual instructing priests in the astronomical aspects of their
->rituals point to stellar positions of a thousand years earlier rather than
->those actually visible, esp. when the matter at hand is not too complicated
->and the instruction given could be falsified at the first implementation?
-
 If it is due to a lack of precision (which you acknowledge as possible,
 below), then that could be the answer.
 What is "actually visible" would depend on what kind of precision was used.
-
 As for why to preserve an observation made much earlier (assuming that is
 actually the case), I can say the following:
 Traditions are, almost by definition, conservative, especially (but not
@@ -46,18 +24,6 @@ not use the calendar that actually coincides with the seasons?" They are
 obviously aware of the Gregorian reform, now hundreds of years old.  But
 there are other reasons for their use of an outdated calendar, and they
 have nothing to do with "pure" astronomy.
-
->>  Pingree writes that, " Since a displacement
->> of the beginning of the equal nakSatra by some 10 degrees, or an error of
->> 10 days in computing the date of the winter solstice, or some combination
->> of these two effects is all that is required to bring the date from the
->> 12th century to the 5th century B.C., we should not lend much weight to
->the
->> chronological argument.
->
->This lack of precision is a valid point, but it works in both time
->directions: with the same probabaility, it could push the date to 2000 BC.
-
 Sure, but if you push it down it makes more sense, because then it
 coincides with other factors, such as that its astronomical knowledge is
 the same one reflected in the GargasamhitA; the language used; etc.  And
@@ -66,51 +32,20 @@ Yuga Purana (which is part of it) was convincingly dated by Mitchiner
 (p.82) to the end of the last century BCE (the Yuga Purana actually
 mentions historical rulers). (John E. Mitchiner, The Yuga Purana. Calcutta:
 The Asiatic Society, 1986)
-
->> Sastry (p. 15) also states that "The system of the VJ is the same as that
->> taught in the GargasamhitA of the SamhitA period, being the immediate
->> centuries before Christ and the next following...'  So, once again, we are
->> in the early centuries BCE.  If the astronomy of the text can safely be
->> placed in that period,
->
->it cannot, it is only in spite of and against its astronomical data that the
->VJ can be placed in the early centuries BC
-
 By "its astronomical data" you presumably mean the stated position of the
 winter solstice, but as far as the kind of astronomical knowledge of the
 text is concerned, both Sastry and Pingree agree that the astronomy of the
 text is from that period (so, again, the solstice position is the
 discordant note, as I wrote). And see above concerning the GargasamhitA.
-
->> then the position of the solstice is the only
->> discordant note,
->
->but a consequential one, especially in a manual of astronomy.
-
 But this, again, is Pingree's point about accuracy: even though it is a
 manual on astronomy it has crude calculations for the intercalation cycle,
 so why not on other matters?
-
   It is harder
->evidence than much else on which indological chronology relies, e.g. the
->fabled "sheet-anchor" of Indian chronology, the Megasthenes-Sandrokottos
->synchronism, in which the all-important identity of "Sandrokottos" is much
->less clear than is conventionally assumed.  On that identification rests a
->lot, partly also the belief that classical Sanskrit as used in the VJ is
->typical of the centuries around Christ.
-
 This is an entirely different arena.  If you wish to revive the theory that
 Sandrokottos is the Gupta and not the Maurya Candragupta -against the
 general opinion of historians- then the burden of proof is on you.  It is
 not enough to say that the identitity "is much less clear than is
 conventionally assumed."  A study with detailed arguments would be necessary.
-
-
 Regards,
-
 Luis Gonzalez-Reimann
 University of California, Berkeley
-
-
-
-

@@ -1,73 +1,7 @@
-From krishnaprasadah.g at gmail.com  Thu Mar  7 03:41:44 2019
-From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
-Date: Thu, 07 Mar 19 09:11:44 +0530
-Subject: [INDOLOGY] Vedic Sample texts with all vedic accents
-In-Reply-To: <CAPW7aQEiu+X0o=4znSG2gPLi=Kz=zGFiYxqDKBEUnkkw3KT3VA@mail.gmail.com>
-Message-ID: <CAODNnZhSh0aQMkaC7345g6ipTGY8kZt8-QvYCo-a0VyyJ65+vw@mail.gmail.com>
-
+[INDOLOGY] Vedic Sample texts with all vedic accents
 Dear Prof Harry Spier
 Thanks a lot for sharing this.  I will check this out.
 Regards
 KP
-
 On Thu 7 Mar, 2019, 6:26 AM Harry Spier, <hspier.muktabodha at gmail.com>
 wrote:
-
-> Dear Krishnaprasad,
->
-> 1) You can see the usage of the Sama veda accents and marks in the
-> omkArasAmaH manuscript in the "The Vedic Manuscript Collections of the
-> Joglekar, Kodlekere and Samba Diksita families of Gokarna" collection of
-> the Muktabodha digital library.
->
-> The direct link to the manuscript is:
->
-> http://muktalib5.org/VEDIC_ROOT/TEXTS/SAMBADIKSITA/SAMBADIKSITA-PDF/S0024.pdf
-> username: vedic password: Vedic123
->
->
-> 2) candrabindu over virama (ABF3) and double candrabindu over virama
-> (ABF4)  can be seen in Sastri and Rangacharya's edition ot the Taittiriya
-> samhita.. (I don't have my library with me so I can't send you examples of
-> this but I suspect this edition is in archive.org .
->
-> 3) double svarita 1CDA . I haven't seen this in printed editions of the
-> taittiriya samhita (such as Sastri and Rangacharya's edition mentioned
-> above) but I've seen this in some chanting books of the Rudram .
->
-> 4) triple svarita 1CDB . So any information about this accent from list
-> members would be appreciated.
->
-> Regards,
-> Harry Spier
->
->
->
-> On Wed, Mar 6, 2019 at 6:18 AM Krishnaprasad G via INDOLOGY <
-> indology at list.indology.info> wrote:
->
->> Dear all
->> I would like to check the Vedic text sample which includes all the
->> possible Vedic accents which are available in Vedic Unicode Character maps
->> (files attached both normal and extended).
->> I would like to know how they look when printed along with Vedic verses.
->>  Either PDF or text file will be useful to include the same symbols in my
->> new upcoming fonts. Could anyone please help me regarding this?
->> Thanks a lot
->> Best regards
->> Krishna Prasad
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190307/c505af3e/attachment.htm>
-

@@ -1,26 +1,11 @@
-From baums at U.WASHINGTON.EDU  Sun Oct 31 20:44:55 2004
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Sun, 31 Oct 04 12:44:55 -0800
-Subject: Devanagari
-In-Reply-To: <20041031203558.GB2784@deepthought>
-Message-ID: <161227075183.23782.17712920406679537975.generated@prod2.harmonylists.io>
-
+Devanagari
 Here are two images illustrating the Devanagari keyboard layout
 that somes with Linux and (as far as I know) Windows:
-
    http://staff.washington.edu/baums/tmp/devush.jpg
    http://staff.washington.edu/baums/tmp/devsh.jpg
-
 The first is without, the second with Shift key.  Also note that
 you have to enter virama explicitly.
-
 S.
-
---
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

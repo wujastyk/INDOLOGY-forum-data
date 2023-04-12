@@ -1,18 +1,5 @@
-From reusch at uclink4.berkeley.edu  Sun May 18 18:50:22 1997
-From: reusch at uclink4.berkeley.edu (B. Reusch)
-Date: Sun, 18 May 97 10:50:22 -0800
-Subject: yuga, VarNa and colour
-Message-ID: <161227030317.23782.3816621165489122271.generated@prod2.harmonylists.io>
-
+yuga, VarNa and colour
 At 22:29 +0100 5/17/97, Luis Gonzalez-Reimann wrote:
->
->The names of the dice throws, K.rta TretA, DvApara, and Kali, are associated
->with the descending numerical sequence 4-3-2-1 (like the Pythagorean
->tetraktys).  TretA comes from tri (3), and DvApara from dva (2).  They are
->obvious cognates of other IE names for the same numbers.  K.rta is the past
->passive participle of the root k.r, "to do" (Pisani has a different
->etymology for K.rta that connects it with 4, see Mayrhofer).
-
 Mayrhofer says Pisani's reconstruction does not agree with known
 phonological laws.
 Yet doesn't some of the Skt. literature refer to the yuga sequence also in
@@ -24,14 +11,5 @@ of the yuga sequence, of course, the names tretA (etymologically connected
 with 3) and dvApara (etymologically connected with 2) are in metathesis, so
 to speak.
 What's the logic behind one and the other accounts of the yuga sequence?
-
 Regards,
 Beatrice
-
-
-
-
-
-
-
-

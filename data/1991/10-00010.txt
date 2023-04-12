@@ -1,10 +1,4 @@
-From E50488 at EARN.JPNKUDPC  Wed Oct 23 18:02:50 1991
-From: E50488 at EARN.JPNKUDPC (E50488 at EARN.JPNKUDPC)
-Date: Wed, 23 Oct 91 18:02:50 +0000
-Subject: Romanization
-Message-ID: <161227015154.23782.9897955012783361255.generated@prod2.harmonylists.io>
-
-
+Romanization
 This is my first attempt to send a message to this list; I hope it
 works.
 Dominik wonders about using Devanagari vs. Romanization.  I have not
@@ -39,8 +33,3 @@ to read his data.  Or have I misunderstood this?
 I am anxious to hear what others who have given the problem more
 thought and have more expertise have to say.
 -Jonathan Silk, at Kyoto University.
-
-
-
-
-

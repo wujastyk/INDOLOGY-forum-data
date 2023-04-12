@@ -1,25 +1,10 @@
-From mccc at UEVORA.PT  Tue Mar  6 17:36:06 2001
-From: mccc at UEVORA.PT (Mariana Caixeiro)
-Date: Tue, 06 Mar 01 17:36:06 +0000
-Subject: Help: diacritics true type fonts for Mac
-Message-ID: <161227068025.23782.16477410066319006382.generated@prod2.harmonylists.io>
-
+Help: diacritics true type fonts for Mac
 Dear members
-
 I went through all the privious messages related to diacritic or
 transliteration fonts  for macintosh and I did not find any sugestion
 for this system. Information is only available for windows.
 Can I get information about how can I get a diacritics font to use with
 Mac Os 9.4. ? I have a old Normyn but it is not a true type font.
 Please could one of you informe me about this?
-
-
 Thank you
-
-
-
 Mariana Caixeiro
-
-
-
-

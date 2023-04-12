@@ -1,38 +1,18 @@
-From r.mahoney at ICONZ.CO.NZ  Tue Jan  9 10:23:23 2007
-From: r.mahoney at ICONZ.CO.NZ (Richard Mahoney)
-Date: Tue, 09 Jan 07 23:23:23 +1300
-Subject: DIGITAL EDITION> Companion to Digital Humanities
-Message-ID: <161227079124.23782.14650562389443470897.generated@prod2.harmonylists.io>
-
+DIGITAL EDITION> Companion to Digital Humanities
 Dear Colleagues,
-
 Of interest to some?
-
-
 Best regards,
-
  Richard Mahoney
-
-
------Forwarded Message-----
-From: Humanist Discussion Group (by way of Willard McCarty
                <willard.mccarty at kcl.ac.uk>) <willard at LISTS.VILLAGE.VIRGINIA.EDU>
-To: humanist at Princeton.EDU
-Subject: 20.379 Companion to Digital Humanities online!
-Date: Tue, 09 Jan 2007 09:08:18 +0000
-
+20.379 Companion to Digital Humanities online!
                Humanist Discussion Group, Vol. 20, No. 379.
        Centre for Computing in the Humanities, King's College London
   www.kcl.ac.uk/schools/humanities/cch/research/publications/humanist.html
                         www.princeton.edu/humanist/
                      Submit to: humanist at princeton.edu
-
-
-
          Date: Tue, 09 Jan 2007 08:34:37 +0000
          From: John Unsworth <unsworth at uiuc.edu>
-         Subject: Companion to Digital Humanities online
-
+         Companion to Digital Humanities online
 I'm pleased to announce that the complete text of _A Companion to
 Digital Humanities_, ed. Susan Schreibman, Ray Siemens, John Unsworth
 (Oxford: Blackwell, 2004) is now freely available online, at http://
@@ -45,20 +25,11 @@ modifying XTF (from the California Digital Library) so that it works
 with the Blackwell DTD.  The editors encourage you to consider buying
 the paperback when it comes out in the fall of 2007.  Also, if you
 spot typos or other errors in the text, please send them to
-
 John Unsworth
 unsworth at uiuc.edu
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 27 482 9986
 OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
------------------------------------------------------------
 Philologica: http://indica-et-buddhica.org/philologica/
 Repositorium: http://indica-et-buddhica.org/repositorium/
-
-
-
-

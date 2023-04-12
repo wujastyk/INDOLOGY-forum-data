@@ -1,20 +1,4 @@
-From vidya at cco.caltech.edu  Mon Apr 17 04:31:51 1995
-From: vidya at cco.caltech.edu (vidya at cco.caltech.edu)
-Date: Sun, 16 Apr 95 21:31:51 -0700
-Subject: Conventions of Indian calendars
-Message-ID: <161227019136.23782.1297130691270254189.generated@prod2.harmonylists.io>
-
-> >(3) Can we identify a sort of calendrical frontier where practice changes?
-> >(4) Does this really mean that if we use a date of shukla 10th of one
-> >month that in another part of India that day would be recorded as krishna
-> >of the adjacent month?
-
-> (3) In 1991 I made a field research correcting about 50 kinds of
->     pancAngas (traditional calendar).  I am preparing a rough report
->     of my survey.
-> (4) Difference of month names occurs only in kRSNapakSa, and there is
->     no variation in zuklapakSa, as Dominik said.
-
+Conventions of Indian calendars
 Regarding 4 above, maybe it is necessary to point out that shukla paksha remains shukla paksha and a date shukla 10th cannot be reported as krishna of the 
 adjacent month. However a krishna 10th of the pUrNimAnta month will be 
 krishna 10th of the adjacent month in the amAnta system. There is a rough 
@@ -28,12 +12,4 @@ is on the same date as that followed elsewhere in the south. Two calenders
 which are phase shifted and followed simultaneously, leads to the same day 
 being labelled in two different ways. Quite complicated, but people keep 
 track of it all!
-
 S. Vidyasankar
-
- 
-
-
-
-
-

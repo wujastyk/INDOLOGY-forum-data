@@ -1,18 +1,10 @@
-From krisk at GENESIS.ML.COM  Fri Nov 20 15:37:57 1998
-From: krisk at GENESIS.ML.COM (Krishna P Konduru)
-Date: Fri, 20 Nov 98 10:37:57 -0500
-Subject: learning Sanskrit
-Message-ID: <161227042854.23782.17681746347779796942.generated@prod2.harmonylists.io>
-
+learning Sanskrit
 ashish
-
 The book `sa.nskR^ita-vyavahAra-sAhasrI' is published and
 copyrighted by Pallava Prakashan, Bangalore, India.  For
 more details contact `Aksharam', 8th Cross, Girinagar,
 Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276.
-
 you can go to the web site
-
 ftp://jaguar.cs.utah.edu/private/sanskrit/#A20
 go all the way down the list and there you can find
 learning tools
@@ -20,32 +12,9 @@ learning tutorial.html.
 learning tutorial wikner
 ...\
 ....
-
 which can help you to learn.
-
 best of luck
-
---krishna
-
-
-
-
 Ashish Chandra wrote:
->
-> I am trying to find a book which will enable me to learn Sanskrit well
-> enough that I can read our scriptures without much need for translation. In
-> other words, I would want to interpret them myself. I have studied 5 years
-> of Sanskrit from grade 6 to 10th but have now forgotten most of it. Can
-> anyone judge from my level which book will be best suited to learn Sanskrit
-> or do I have to take instructions by enrolling in a school ? I would
-> appreciate any help.
->
-> Ashish Chandra
-
---
-
-
-
 *********************************************************************************
 * Krishna Prasad
 Konduru                                                        *
@@ -64,7 +33,3 @@ City                  *
 1-888-MERRIL0
 *
 *********************************************************************************
-
-
-
-

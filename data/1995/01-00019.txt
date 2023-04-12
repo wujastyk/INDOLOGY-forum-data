@@ -1,39 +1,14 @@
-From jhr at elidor.demon.co.uk  Thu Jan  5 20:03:34 1995
-From: jhr at elidor.demon.co.uk (John Richards)
-Date: Thu, 05 Jan 95 20:03:34 +0000
-Subject: Sktfont.pc
-Message-ID: <161227018098.23782.7056414529778689973.generated@prod2.harmonylists.io>
-
-> > can anybody please advice me on which fonts can be used for Sanskrit
-> > transliteration on a PC with WP?
-> > Thank you, Jens Braarvig.
-
+Sktfont.pc
 You do not say if you want it for WP (WordPerfect?) for DOS or for
 Windows. There are several good Sanskrit TTF fonts for Windows, but I
 know of nothing satisfactory for WordPerfect for DOS.
-
 One of the good TTF format fonts is available easily by FTP on
-
 ftp.bcc.ac.uk
-
 directory
-
 /pub/users/ucgadkw/indology
-
 The files name is
-
 wnri-PSandTT.zip
-
 All the best
-
 John
-
----
 John Richards
 Stackpole Elidor (UK)
- 
-
-
-
-
-

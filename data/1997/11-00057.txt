@@ -1,40 +1,10 @@
-From bpj at NETG.SE  Wed Nov  5 15:40:29 1997
-From: bpj at NETG.SE (Mr B. Philip Jonsson)
-Date: Wed, 05 Nov 97 17:40:29 +0200
-Subject: m/anusvAra & s/visarga
-In-Reply-To: <v0153050ab083fe1d5539@[195.74.194.49]>
-Message-ID: <161227033473.23782.16910966201947661194.generated@prod2.harmonylists.io>
-
+m/anusvAra & s/visarga
 At 00:48 +0100 4.11.1997, Jacob Baltuch wrote:
->Do sequences <...sk...>, <...skh...>, <...sp...> or
-><...sph...> ever occur in the middle of any Sanskrit word?
->
->Yes, I know there are sandhi rules that normally force
->the conversion of <s> in such sequences to visarga or <S>
->(according to the previous vowel). What I'm asking is,
->are there, by any ill chance, words where, for some weird
->reason, those rules did not function?
->
->The reason I'm asking is this:
->
->Since I do a lot of ASCII input and typing <H> and <M>
->is a pain in the neck. I want to use in <s> for <H> (visarga)
->(or if it comes before a sibilant, that sibilant)
->and <m> for <M>. But before going ahead I want to be
->fairly sure I will always be able to restaure things
->from the context when I need to.
->
->For anusvAra I am 100% sure but I'd thought I'd mention
->it so as to make 101% sure.
-
 I have read this discussion with some amusement.  For my own personal use I
 write x for visarga and w (sic!) for anusvAra just because I'm too lazy to
 hit shift.
 These are easy to replace later with a search-and-replace routine,
 especially if the whole file is in Sanskrit.
-
-
-
  OTOH I use C rather than z for the palatal sibilant, because using z for
 this value gives me aesthetical jolts, and because in Tibetan I'm used to
 have to distinguish:
@@ -47,11 +17,5 @@ have to distinguish:
  H (the same as a subscript for vowel length)
  x (Tibetan voiceless velar fricative, but used for Sanskrit h!)
  X (visarga in Sanskrit words)
-
 Gha-le!
-
 Philip
-
-
-
-

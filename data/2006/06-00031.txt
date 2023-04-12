@@ -1,12 +1,5 @@
-From jlfitzgerald at COMCAST.NET  Fri Jun 23 22:08:42 2006
-From: jlfitzgerald at COMCAST.NET (James L. Fitzgerald)
-Date: Fri, 23 Jun 06 18:08:42 -0400
-Subject: Times CSX Font
-In-Reply-To: <Pine.WNT.4.64.0606232121150.6320@Caraka>
-Message-ID: <161227078040.23782.6487252538667210926.generated@prod2.harmonylists.io>
-
+Times CSX Font
     Dear David, 
-    
     I can't speak to either CSX or CSX+; I've never used them. But you
 should NOT have to rekey your texts, even if CSX+ doesn't work. To convert
 your text to Unicode you would set up a macro in Word's Visual Basic Editor
@@ -14,7 +7,6 @@ your text to Unicode you would set up a macro in Word's Visual Basic Editor
 character (or character string) for another. There are different ways to do
 this, some more elegant than others. One simple and transparent way is
 illustrated below.
-    
     For years I used Ecological Linguistics "Indic Transliterator" and, or,
 generic coding of roman letters needing diacritics. This illustration
 converts from generic coding to the Indic Transliterator font, but the find
@@ -26,7 +18,6 @@ VB editor and run it on your text. I'm attaching a .pdf of a table I made
 giving the Unicode codes for .Replacement.Font.Name = "Arial Unicode MS"; it
 also contains the codes for the characters available in
 .Replacement.Font.Name = "TimesNewRoman"   Good luck! Jim Fitzgerald
-    
     With Selection.Find
     .ClearFormatting
     .MatchCase = True
@@ -47,15 +38,13 @@ also contains the codes for the characters available in
     .Execute FINDText:="<ac>S", ReplaceWith:=Chr(254), Replace:=wdReplaceAll
     .Execute FINDText:="<tid>n", ReplaceWith:=Chr(150),
 Replace:=wdReplaceAll
-            
     End With
-    
     > -----Original Message-----
     > From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik
     > Wujastyk
     > Sent: Friday, June 23, 2006 4:22 PM
     > To: INDOLOGY at liverpool.ac.uk
-    > Subject: Re: Times CSX Font
+    > Re: Times CSX Font
     > 
     > First, try using the newer CSX-plus fonts.  That may sort you out.
     > (This
@@ -88,7 +77,3 @@ Replace:=wdReplaceAll
     > >
     > >                            David Mellins
     > >
-
-
-
-

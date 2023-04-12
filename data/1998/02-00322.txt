@@ -1,52 +1,14 @@
-From cssetzer at MUM.EDU  Fri Feb 20 21:09:05 1998
-From: cssetzer at MUM.EDU (Claude Setzer)
-Date: Fri, 20 Feb 98 15:09:05 -0600
-Subject: Windows 95
-Message-ID: <161227035925.23782.4093644139243030131.generated@prod2.harmonylists.io>
-
+Windows 95
 Windows 95 itself should have nothing to do with fonts, although some
 software reportedly is less than compatible with some fonts. Evidently some
 font generators do not completely follow the standards and have problems
 when software goes to new version. I have used several different fonts on
 several different versions of word processors, and have not noticed any
 problems.
-
 My favorite software is Ralph Bunker's Vedatype, which has a fast and
 efficient stand alone version and also can support Microsoft word for slower
 typing but fancier text. It also can support a wide variety of fonts, when
 trained. Including Peter Freund's excellent devanagari font with over a
 thousand character pieces, transliteration, etc. He has experimental
 mappings for Telegu and Tamil fonts.
-
------Original Message-----
-From: Lars Martin Fosse <lmfosse at ONLINE.NO>
-To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
-Date: Friday, February 20, 1998 10:45 AM
-Subject: Windows 95
-
-
->Dear members of the honorable net!
->
->I am - finally - considering upgrading from Windows 3.1 to Windows 95.
->
->Have any of you had problems with romanized fonts (or other Indologically
->relevant fonts) in connection with such an operation?
->
->Best regards,
->
->Lars Martin Fosse
->
->
->Dr.art. Lars Martin Fosse
->Haugerudvn. 76, Leil. 114,
->0674 Oslo
->
->Tel: +47 22 32 12 19
->Fax: +47 22 32 12 19
->Email: lmfosse at online.no
->Mobile phone: 90 91 91 45
->
-
-
-
-
+Windows 95

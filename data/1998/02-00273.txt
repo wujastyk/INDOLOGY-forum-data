@@ -1,10 +1,4 @@
-From rsalomon at U.WASHINGTON.EDU  Thu Feb 19 02:33:24 1998
-From: rsalomon at U.WASHINGTON.EDU (Richard Salomon)
-Date: Wed, 18 Feb 98 18:33:24 -0800
-Subject: -vada / -vadin (and Buddhist schools generally)
-In-Reply-To: <Pine.LNX.3.96.980218211144.370A-100000@pwyz.rhein.de>
-Message-ID: <161227035841.23782.9831827786487457037.generated@prod2.harmonylists.io>
-
+-vada / -vadin (and Buddhist schools generally)
 Shizutani is indeed the best source for Buddhist schools in
 Indian inscriptions,
 and is usable even without a knowledge of Japanese; see especially the
@@ -17,40 +11,5 @@ recently; see A. Sadakata in JA 284 (1996), pp. 301-24.  Several more
 Dharmaguptaka inscriptions will be presented in my forthcoming (later
 this year if all goes well) book on the British Library Kharosthi scrolls
 (at least some of which I believe to be Dharmaguptaka texts).
-
 RS
-
 On Wed, 18 Feb 1998, Peter Wyzlic wrote:
-
-> On Wed, 18 Feb 1998, L.S.Cousins wrote:
->
-> > I wish someone would make a handlist of the names of Buddhist sects
-> > occurring in inscriptions to update Lamotte's avowedly incomplete
-> > list.  It would be extremely useful.  Actually, it's the sort of
-> > thing that would be well-done on the Net, perhaps as a collective
-> > effort.
->
-> There is already a Japanese work:
->         Shizutani, Masao: Indo bukkyo himei mokuroku.
->         Kyoto : Heirakuji shoten, 1979
->         (Catalogue of Indian Buddhist inscriptions)
->
-> It is said to contain a comprehensive (but not exhaustive) list
-> of inscriptions. It was unavailable in the German interlibrary
-> system, so I haven't seen it directly, though. In the late
-> eighties I contacted a bookseller in Tokyo who gave me the
-> information that it is out of print.
->
-> Perhaps it may serve as a good starting point -- even if one does
-> not read Japanese.
->
-> All the best
-> Peter
->
-> --
-> Peter Wyzlic                                    pwyzlic at pwyz.rhein.de
->
-
-
-
-

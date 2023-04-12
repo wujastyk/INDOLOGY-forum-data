@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Sat Mar  6 20:39:33 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Sat, 06 Mar 99 15:39:33 -0500
-Subject: Grammatical question.  Strange case of doubled j's
-In-Reply-To: <19990306164027.16726.qmail@hotmail.com>
-Message-ID: <161227047258.23782.13115448014603204229.generated@prod2.harmonylists.io>
-
+Grammatical question.  Strange case of doubled j's
         The only way a reading like -Atmajjyotir- with the doubled j can
 be grammatical is through the rules of optional consonantal doubling.
 Consider Panini's rule 8.4.47 (anaci ca) which says that a consonant of
@@ -20,7 +14,6 @@ duplication, we can have the following alternatives:
                         suddhyupaasya.h (dvi-dham, eka-yam)
                         sudhyyupaasya.h (eka-dham, dvi-yam)
 Cf. Bha.t.toji's Siddhaantakaumudii.
-
         Such optional forms indicate differing habits of pronunciation
 reflecting regional and other dialects of Sanskrit recorded by Panini.
 Some of this variation is seen in forms like aatmajjyoti.  In fact the
@@ -30,30 +23,4 @@ that manuscripts show occasional duplication which goes beyond the rules
 of grammarians.
         Best,
                                 Madhav Deshpande
-
 On Sat, 6 Mar 1999, Harry Spier wrote:
-
-> The Uddhava Gita verse 9.45 last line reads:
->
-> vicaSTe mayi sarvAtmajjyotirjyotiSi saMyutam ||
->
-> I had thought that the doubled jj's might be a misprint, or that
-> the "a" before the j's should have been "A" but I asked an elderly
-> Indian gentlemen who had been speaking sanskrit all his life and he said
-> that it was correct and he knew this intuitively by the pronounciation
-> but couldn't give the rule.  Could someone confirm if this is correct
-> and if so why.
->
->
-> Thank you
->
->
-> Harry Spier
->
-> ______________________________________________________
-> Get Your Private, Free Email at http://www.hotmail.com
->
-
-
-
-

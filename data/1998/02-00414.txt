@@ -1,77 +1,22 @@
-From msdbaum at MSCC.HUJI.AC.IL  Tue Feb 24 14:48:18 1998
-From: msdbaum at MSCC.HUJI.AC.IL (Daniel Baum)
-Date: Tue, 24 Feb 98 16:48:18 +0200
-Subject: CSX fonts
-Message-ID: <161227036081.23782.7926629900200108795.generated@prod2.harmonylists.io>
-
+CSX fonts
 Hello,
-
 Thanks for your answer to my question. I actually forgot to mention in my
 last message that the Washington Indic .PK fonts work fine under TeX. But
 then TeX is a world unto itself anyway.
-
 I have actually solved the problem since I last wrote, purely by luck, by
 changing over to a different Windows 95 text editor (Ultra Edit). This can
 handle the Indic truetype fonts perfectly well. I should be able to use this
 encoding directly within TeX, if I have understood the Itrans documentation
 properly, and thus not have to rewrite about 2000 examples in my thesis.
-
 I would still not mind knowing why those characters were missing in Linux
 though.
-
-
 Thanks for your help,
-
-
 DB
------Original Message-----
-From: John Smith <jds10 at CUS.CAM.AC.UK>
-To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
-Date: Tuesday, February 24, 1998 4:32 PM
-Subject: Re: CSX fonts
-
-
->On Tue, 24 Feb 1998, Daniel Baum wrote:
->
->> ...
->>
->> Under Linux, The Washington Indic fonts do not display the letter e-acute
+Re: CSX fonts
 or
->> a-acute, either in their Truetype or Type 1 varieties. I have checked
 using
->> Character Map and its Linux equivalent (xfd). Xfd shows these letters to
 be
->> actually missing, while character map under W95 shows them to be there.
 This
->> is very bizarre, as the Truetype font is exactly the same file under both
->> operating systems.
->>
->> What I would really like to do is use xemacs, with a hypertext extension
->> called Hyperbole, and TeX. This will work very well if I can only get
 those
->> two letters to display in the Washington font.
->>
->> Does anyone have any idea what is going on?
->
->Not really. But it seems that what you want boils down to CSX fonts that
->will work in TeX. You might like to look at the collection of TeX virtual
->fonts, implementing CSX for both Computer Modern and various PostScript
->typefaces, that you can find by following the "fonts" link from the URL
->given below. I use these on a Linux system and they work fine. (There are
->also CSX PostScript and TrueType fonts using a Times-lookalike, in case
->these are of use.)
->
->John Smith
->
->--
->Dr J. D. Smith                *  jds10 at cam.ac.uk
->Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223
 335106)
->Sidgwick Avenue               *  Fax  01223 335110
->Cambridge CB3 9DA             *
 http://bombay.oriental.cam.ac.uk/index.html
->
-
-
-
-

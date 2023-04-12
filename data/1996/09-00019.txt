@@ -1,53 +1,6 @@
-From pfreund at mum.edu  Sat Sep  7 19:43:27 1996
-From: pfreund at mum.edu (pfreund at mum.edu)
-Date: Sat, 07 Sep 96 13:43:27 -0600
-Subject: fonts for PC
-Message-ID: <161227025908.23782.12802975910579432726.generated@prod2.harmonylists.io>
-
-
->>         The keystrokes on Vedatype are as follows:
->> 1.  The letters a, i, u, e, o, k, g, c, j, t, d, n, p, b, m, y, r, l, v, s,
->> and h are in their respective home key positions.
->> 2.  The vocalic r is in the q position.
->>     the guttural n is in the z position.
->>     The palatal n is in the x position.
->>     The palatal s is in the f position.
->> 3.  The letters ai, au, kh, gh, ch, jh, .th, .dh, th, dh, ph and b h
->> require typing the two keystrokes shown, for "a" and "i" in order to get
->> "ai."
->> 4.  The letters aa, ii, uu, and long vocalic r are in the shift position of
->> the corresponding short vowels.
->> 5.  The retroflex letters .t, .d, .n, and .s, are in the shift position of
->> the corresponding dental letters.
->> 6.  Anusvara (.m) is in the shift-m position; visarga (.h) is in the
->> shift-h position.
->> 7.  In Vedatype, when a consonant is typed without the following short "a",
->> then a virama is added.  The virama disappears when you type "a" or any
->> other vowel.
->> 8.  A signle danda is the comma keystroke; double danda is the period.
->> Avagraha is straight single quote.
->> 9.  Anunasika is in the shift Z position.
->> 10.  There are key assignments for anunasika, pranava, pada separation, and
->> for Vedic accents.
->>
->> VedicFont is available from Yeoman Software, SU #152, Fairfield, IA 52557
->> for $34.95.  Vedatype is shareware, also available from Yeoman Software,
->> for $15, for a total of $49.95, shipping included.
->>
-
+fonts for PC
 On Saturday, September 7, Frances Pritchett wrote
-
-
->Just for completeness, I would like to know how one would type the
->Urdu-based sounds of /fe/, /ze/, /qaaf/, /khe/, and /ghain/.  All five are
->needed for Urdu words, and the first two of course for English-derived
->words as well.  If this system is to work satisfactorily for Hindi, it can
->hardly do without these sounds.  Since the f, z, and q keys have been
->assigned to other purposes, can these letters be accessed in some other
->way?  I do not see them on the chart.
-
 Dear Frances:
-
         In terms of typing Urdu or Hindi using Vedatype, it is easy to
 accomodate a number of additional sounds on the keyboard:  The shift z (Z),
 shift x (X), shift k (K), shift g (G), shift p (P), shift f (F), and shift
@@ -69,16 +22,5 @@ of dropping a's may prove no end of confusion for the typist.
         Vedatype is designed for a strictly phonetic, syllabic script,
 without spelling aberrations. We're not sure any script/language other than
 devanagari and Sanskrit fulfills these requirements.
-
         Sincerely,
-
-
         Peter Freund
-
-
-
-
-
-
-
-

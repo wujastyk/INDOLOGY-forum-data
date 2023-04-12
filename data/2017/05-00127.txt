@@ -1,22 +1,9 @@
-From mmdesh at umich.edu  Tue May 16 11:26:30 2017
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Tue, 16 May 17 07:26:30 -0400
-Subject: [INDOLOGY] Devanagari QWERTY Keyboard for Mac
-Message-ID: <CAB3-dzdReeNH7kNhhU3AzULk5VPwBoX=aBrZoByqEDyrCz5LBA@mail.gmail.com>
-
+[INDOLOGY] Devanagari QWERTY Keyboard for Mac
 Dear Colleagues,
-
      I am wondering if anyone has an editable file for the Devanagari
 QWERTY keyboard for Mac.  It comes with the Mac OSX as part of a bundle,
 and not as a separate keyboard file.  I want to be able to edit it with
 Ukelely to fit it to my own needs.
     I would appreciate any help in this regard.  Thanks.
-
 Madhav Deshpande
 Ann Arbor, Michigan, USA
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170516/61f91d64/attachment.htm>
-

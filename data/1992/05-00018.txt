@@ -1,19 +1,8 @@
-From madhav.deshpande at EDU.UMICH.CC.UM  Thu May 21 19:59:02 1992
-From: madhav.deshpande at EDU.UMICH.CC.UM (madhav.deshpande at EDU.UMICH.CC.UM)
-Date: Thu, 21 May 92 15:59:02 -0400
-Subject: Buddhacarita and Astadhyayi files now available
-Message-ID: <161227015337.23782.16890159532552270462.generated@prod2.harmonylists.io>
-
+Buddhacarita and Astadhyayi files now available
 Status: RO
-
 Dear Dominik,
         Just to let you know that I did get the Panini.zip file from
 Washington FTP, and was able to unzip it.  Now I will have to play around
 with the text to make it readable on Chi Writer.
         Thanks.
                 Madhav Deshpande
-
-
-
-
-

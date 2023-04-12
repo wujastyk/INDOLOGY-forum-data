@@ -1,9 +1,4 @@
-From thompson at jlc.net  Mon Sep  2 18:29:47 1996
-From: thompson at jlc.net (thompson at jlc.net)
-Date: Mon, 02 Sep 96 14:29:47 -0400
-Subject: compound analysis in e-texts
-Message-ID: <161227025867.23782.18124415514842460626.generated@prod2.harmonylists.io>
-
+compound analysis in e-texts
 Jakub Cejka and Luis Gonzalez-Reimann are of course both right to point out
 the difference between writing system and language.  This is especially
 true in  cases where the writing system is clearly much later than the
@@ -17,13 +12,11 @@ have been told rather bluntly by this or that member of this or that
 spiritual group that Sanskrit should not be studied in any other written
 form than the devanAgarI. To study it in Romanized script seems somehow
 inauthentic.
-
 While it is not an issue for an oral tradition like Vedic, in a literate
 context, the relationship between writing system and language may not be
 quite as arbitrary as that between devanAgarI and Vedic.  In a literate
 context, a writing system may have an obscure but nevertheless a
 significant semantic [semiotic] value.
-
 To take one instance [in fact the one that started this thread]: our modern
 habit of marking word boundaries with a space [as opposed to the devanAgarI
 habit of overlooking them].  Our habit compels us to seek word boundaries
@@ -37,7 +30,6 @@ in the western- mind [so to speak].  The devanAgarI would appear to be
 closer to an oral sensibility than the modern writing system [since the
 metaphor is older than scripts, at least in India: it is certainly a
 prominent Vedic metaphor].
-
 Frits Staal has argued, provocatively and I think rightly, that linguistics
 in India "did not originate  *in spite of* the absence of writing but
 *because* of it" [in Arch. europ. sociol. 30, 1989; the starred passages
@@ -47,13 +39,5 @@ itself, though I can't quite put my finger on it. Perhaps it is
 meta-language, since a writing system presupposes a conception of language.
 In any case, I think it has something to do with our problem of whether or
 not to analyze text [compounds, sandhi, etc.].
-
 Sincerely,
 George Thompson
-
-
-
-
-
-
-

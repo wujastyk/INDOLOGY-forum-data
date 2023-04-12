@@ -1,14 +1,7 @@
-From kauzeya at GMAIL.COM  Tue Feb  7 07:21:41 2012
-From: kauzeya at GMAIL.COM (Jonathan Silk)
-Date: Tue, 07 Feb 12 08:21:41 +0100
-Subject: the Brill Typeface--MAC. Linux
-Message-ID: <161227095179.23782.11197331176368491076.generated@prod2.harmonylists.io>
-
+the Brill Typeface--MAC. Linux
 Following up my earlier mail to the list:
-
 In reply to several queries sent privately to me, I quote the following
 from the "User Guide"
-
 The Brill fonts basically work on all modern computer systems, both PC and
 Mac. The PC operating system
 should be at least MS Windows XP; Macs should have OS X v. 10.4 or newer. [We
@@ -28,64 +21,7 @@ available to programs like
 TextEdit and Nisus Writer Pro through the operating system?s Typography
 palette (accessible through the
 ?gear? button in the Fonts panel); Mellel uses its own mechanism.
-
 On Mon, Feb 6, 2012 at 3:43 PM, Jonathan Silk <kauzeya at gmail.com> wrote:
-
->
->    View as a<http://track.brill.nl/w.z?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>
->  <http://track.brill.nl/w.z?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>web
-> page<http://track.brill.nl/w.z?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>
-> Forward<http://track.brill.nl/forward.asp?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>
-> <http://track.brill.nl/forward.asp?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>this
-> email<http://track.brill.nl/forward.asp?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719> [image:
-> Twitter]<http://track.brill.nl/y.z?l=https%3A%2F%2Ftwitter.com%2F%23%21%2Fbrillpublishing&e=5614&j=270225034&t=h> [image:
-> Facebook]<http://track.brill.nl/y.z?l=https%3A%2F%2Fwww.facebook.com%2FBrillPublishing&e=5614&j=270225034&t=h> Presenting
-> the ?Brill? Typeface
-> *Display any language from any period*
-> To update your preferences or change your contact details Click here<http://track.brill.nl/y.z?l=http%3A%2F%2Fmedia.brill.nl%2Fjango%2Fmailing.php%3Femail%3Dmailinglist at brill.nl%26id%3D14d3d71bd37a8c&e=925&j=268679928&t=h>
->    [image: Image: New Brill font]<http://track.brill.nl/y.z?l=http%3A%2F%2Fwww.brill.nl%2Fbrill-typeface&e=5614&j=270225034&t=h> After
-> careful consideration, Brill has taken the initiative of designing a
-> typeface. Named ?the Brill?, the new typeface  presents complete coverage
-> of the Latin script with the full range of diacritics and linguistics (IPA)
-> characters used to display any language from any period correctly, and
-> Greek and Cyrillic are also covered. There are over 5,100 characters in
-> total, some of which are combining characters, and by using these, myriads
-> of other characters with diacritics can be generated. This indispensable
-> tool for scholars is now freely available for non-commercial use. You can
-> download the font package on brill.nl/brill-typeface<http://track.brill.nl/y.z?l=http%3A%2F%2Fwww.brill.nl%2Fbrill-typeface&e=5614&j=270225034&t=h&p=2>
->  after agreeing to the EndUser License Agreement. ?The Brill? is
-> available now in roman and italic styles, and bold and bold italic will be
-> released at a later stage. The typeface contains all necessary punctuation
-> marks and a wide assortment of symbols. It will be especially welcomed by
-> humanities scholars quoting from texts in any language, ancient or modern. ""The
-> Brill" complies with all international and web standards, the most
-> important of which is the Unicode Standard." John Hudson of Tiro
-> Typeworks, well-known for his multilingual fonts, is "the Brill"'s designer. You
-> can download the font on our website brill.nl/brill-typeface<http://track.brill.nl/y.z?l=http%3A%2F%2Fwww.brill.nl%2Fbrill-typeface&e=5614&j=270225034&t=h&p=3> Back
-> to top <#135531e4a3619885_13553188ba3ddb0f_Top>   This e-mail was sent by
-> Brill
-> Plantijnstraat 2,
-> Leiden, 2321 JC
-> The Netherlands
->
-> This message was sent to the email address j.a.silk at hum.leidenuniv.nl<http://track.brill.nl/y.z?l=http%3A%2F%2Fmedia.brill.nl%2Fjango%2Fmailing.php%3Femail%3Dj.a.silk at hum.leidenuniv.nl%26id%3D14d3d71b8ec98c&e=5614&j=270225034&t=h>
-> .
-> With the contact name Jonathan Silk<http://track.brill.nl/y.z?l=http%3A%2F%2Fmedia.brill.nl%2Fja%2C+ngo%2Fmailing.php%3Femail%3Dj.a.silk at hum.leidenuniv.nl%26id%3D14d3d71b8ec98c&e=5614&j=270225034&t=h>
-> .
->
-> To change your subscription options selection or to update your contact
-> details, click here<http://track.brill.nl/y.z?l=http%3A%2F%2Fmedia.brill.nl%2Fjango%2Fmailing.php%3Femail%3Dj.a.silk at hum.leidenuniv.nl%26id%3D14d3d71b8ec98c&e=5614&j=270225034&t=h&p=2>
->
-> To stop receiving further e-mails, please click here<http://track.brill.nl/u.z?j=270225034&m=71EE7149E00E44C8B7C4083E2DA85719>
->   or reply to this e-mail with "unlist" in the Subject line. *This will
-> unsubscribe you from all Brill mailings*
->
->
->
->
->
-
--- 
 J. Silk
 Instituut Kern / Universiteit Leiden
 Leiden University Institute for Area Studies, LIAS
@@ -93,9 +29,3 @@ Johan Huizinga Building, Room 1.37
 Doelensteeg 16
 2311 VL Leiden
 The Netherlands
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120207/e4030a3c/attachment.htm>
-

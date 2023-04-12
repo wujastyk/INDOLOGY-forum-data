@@ -1,19 +1,11 @@
-From bimahony at DAVIDSON.EDU  Mon May 16 18:28:43 2005
-From: bimahony at DAVIDSON.EDU (William K. Mahony)
-Date: Mon, 16 May 05 14:28:43 -0400
-Subject: Announcement of newly searchable e-texts by Muktabodha IRI
-Message-ID: <161227076370.23782.2150052884496730472.generated@prod2.harmonylists.io>
-
+Announcement of newly searchable e-texts by Muktabodha IRI
 Dear INDOLOGY Colleagues,
-
 The Muktabodha Indological Research Institute is committed to creating and
 making available to the scholarly community a large body of searchable
 Sanskrit e-texts from the Tantric, Agamic and Shaivite traditions.
-
 As another step in that direction, we are pleased to announce that the
 following searchable e-texts have now been added to the Muktabodha digital
 library and can be accessed at www.muktabodha.org. They are:
-
 A) Large Tantric texts created from electronic typeset works in devanagari
 largely based on the KSTS editions and converted to roman transliteration by
 computer programs. The devanagari texts were prepared by Dr. Sudhakar
@@ -21,28 +13,19 @@ Malaviya, recently retired from the Department of Sanskrit at Banares Hindu
 University and now Director of the Mahamana Sanskrit Academy. The computer
 conversion routines were developed by Mr. Harry Spier of Muktabodha. Newly
 added texts of this type are:
-
 * Abhinavagupta's Tantraloka with Jayaratha?s complete commentary (all 38
 chapters)
 * Jnanarnava Tantra, edited by Sudhakar Malaviya
 * Netra Tantra with Kshemaraja?s commentary
 * Rudrayamala Tantra, Uttara Khanda
 * Svacchanda Tantra with Kshemaraja?s commentary.
-
 B) Texts of the Kali Krama school of Kashmir, edited by Mark S. G.
 Dyzckowski:
-
 * Devidvyardhasatika by Prabodhanatha
 * Kalikulapancasatika (also called Devipancasatika)
 * Mahanaya Prakasha by Arenasimha
 * Srikhacakrapancakastotra by Jnananetranatha.
-
 Sincerely,
-
 William K. Mahony
 Professor of Religion, Davidson College
 President, Muktabodha Indological Research Institute
-
-
-
-

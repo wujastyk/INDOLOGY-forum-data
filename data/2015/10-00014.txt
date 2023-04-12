@@ -1,18 +1,8 @@
-From adheesh1 at gmail.com  Sun Oct  4 23:11:49 2015
-From: adheesh1 at gmail.com (Adheesh Sathaye)
-Date: Sun, 04 Oct 15 16:11:49 -0700
-Subject: [INDOLOGY] Best way to type Sanskrit in Windows?
-In-Reply-To: <CAC7MmrUhKtPHzrWgA421OFOsQViaVNX5DbuF2WLfm7VLYPkDvA@mail.gmail.com>
-Message-ID: <4A275022-6949-4B90-9DD5-84F58FDC7713@gmail.com>
-
+[INDOLOGY] Best way to type Sanskrit in Windows?
 Dear Colleagues,
-
 For facilitating our introductory SKT course at UBC, Tim Bellefleur has developed a keyboard layout for Windows that mimics, nearly exactly, the behavior of Apple?s Devanagari-QWERTY keyboard layout. A number of people have found it easy to use, and if you wish to avail yourselves of it, it is free to download at www.ubcsanskrit.ca. Instructors who use the Goldmans? DVP primer may also find the online Sanskrit resources useful as well, as they are coordinated with this textbook,
-
 All best wishes,
 Adheesh
-
-
 ?
 Dr. Adheesh Sathaye
 Dept. of Asian Studies
@@ -21,37 +11,3 @@ University of British Columbia
 Vancouver BC CANADA V6T1Z2
 adheesh at mail.ubc.ca 
 +1. 604.822.5188
-
-
-> Subject: Best way to type Sanskrit in Windows?
-> It's ironic that I have to ask this question because I created some of the earliest software and fonts to do this back when the Mac first came out but I haven't kept up.
-> 
-> What is the best way to type Sanskrit using the Windows OS?
-> 
-> For years I used ITranslator because it was easy to touch type it and convert to both devanagari and transliteration.
-> 
-> Surely a better solution has been developed by now; and one that directly supports Unicode output.
-> 
-> I realize there are several issues involved (such as Unicode being separate from input) but I'm wondering if there's an easy to use, integrated solution these days?
-> 
-> Best,
-> 
-> Dean
-> 
-> 
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-
-
-
-
-

@@ -1,41 +1,24 @@
-From jgardner at blue.weeg.uiowa.edu  Tue Jun  4 19:22:07 1996
-From: jgardner at blue.weeg.uiowa.edu (John Gardner)
-Date: Tue, 04 Jun 96 14:22:07 -0500
-Subject: Rig Veda Question
-Message-ID: <161227024948.23782.13128386622027608600.generated@prod2.harmonylists.io>
-
+Rig Veda Question
 I have been working on a reconstruction of an--apparently--anonymous Rig 
 Veda in electronic form, found in the RLIN (attributed to a Robert 
 Kahn/Khan-- if anyone knows of him), and have a question re. the 
 following viz parishishhTham.h:
-
 These are
 apparently later additions - from the nature of the language - I can
 make sens out of most (:-)! One of these is the so-called
 shriisuuktam.h. At the end of 10, there is a long parishishhTham.h
 also.
-
 Apparently, however, the e-text I am using does not include all of 
 these.  In the interests of editing, answers to the following would be of 
 great help.  Our goal is to provide a downloadable e-RV sometime soon in 
 ITRANS form, with--hopefully pending some joiner-inners as 
 proofreaders--a devanagari version with accents in a few months.  
-
 Could anyone please offer a brief thumbnail as to the nature of these 
 components and their relative place in the text: temporally, 
 authoritatively, and syntactically.
-
 If this is not a question of general interest to the list, please direct 
 your replies to me directly.  I also welcome any reports on the 
 mysterious origin of the text if the names above ring a bell with anyone.
-
 Thank you in advance,
-
 John Robert Gardner
 University of Iowa
-
-
-
-
-
-

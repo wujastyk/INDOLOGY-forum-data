@@ -1,47 +1,21 @@
-From ucgadkw at ucl.ac.uk  Thu Sep 28 11:17:34 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 28 Sep 95 11:17:34 +0000
-Subject: CSX Standards and Documentation.
-Message-ID: <161227020982.23782.16128369361779497526.generated@prod2.harmonylists.io>
-
+CSX Standards and Documentation.
 Anshuman Pandey said:
->
-> I am searching for documentation and standards of the CSX encoding 
-> system, particularly, the various codes which take the place of 
-> retroflex, long vowel characters, etc.
-
 The documentation is available by gopher from the INDOLOGY supplementary
 gopher, available via the INDOLOGY web page,
 http://www.ucl.ac.uk/~ucgadkw/indology.html, page four, under ../software,
 filenames
         iass_csx_documentation.readme
         iass_csx_documentation.zip.
-
 Direct gopher connection:
 gopher://gopher-server.bcc.ac.uk/11/Computing%20Facilities/Anonymous%20FTP%20area/users/ucgadkw/indology/software
-
 Ftp:
 ftp.bcc.ac.uk:/pub/users/ucgadkw/indology/software
-
-
 Dominik
-
--- 
-
 Dominik Wujastyk,
 Wellcome Institute,
 183 Euston Road,
 London NW1 2BE.
-
 FAX: +44 171 611 8545
 email: d.wujastyk at ucl.ac.uk
-
 For my PGP public key etc., see my WWW home page:
 http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
-
- 
-
-
-
-
-

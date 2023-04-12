@@ -1,29 +1,18 @@
-From ridgeway at EDU.WASHINGTON.HACC.BLACKBOX  Fri May 15 20:32:52 1992
-From: ridgeway at EDU.WASHINGTON.HACC.BLACKBOX (Thomas B. Ridgeway)
-Date: Fri, 15 May 92 13:32:52 -0700
-Subject: Asthadhyayi in CS/CSX encoding
-Message-ID: <161227015315.23782.12318759056792284217.generated@prod2.harmonylists.io>
-
+Asthadhyayi in CS/CSX encoding
 Status: RO
-
 The Panini text which has recently become available from the
 Indology listserv host, is now available for anonymous ftp in
 the CS/CSX proposed encoding for Sanskrit from
     blackbox.hacc.washington.edu  [128.95.200.1]
     in directory  pub/indic
- 
 The file refers to the font wnrir10, for transliterated Indic,
 whose metafont source code is also available in the same directory.
- 
 The text has *not* been carefully proofread after undergoing the
 conversion process; perhaps I may trust that its shortcomings will
 be made known to me in detail---or possibly even corrected versions
 returned as diff lists . . .
- 
 ever hopeful,
 Tom
- 
---
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Thomas Ridgeway, Director,
 Humanities and Arts Computing Center/NorthWest Computing Support Center
@@ -31,8 +20,3 @@ Humanities and Arts Computing Center/NorthWest Computing Support Center
 Seattle, WA 98195   phone: (206)-543-4218            *  Ask me about  *
 Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-
-
-

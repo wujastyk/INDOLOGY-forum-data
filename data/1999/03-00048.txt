@@ -1,22 +1,11 @@
-From WIKNER at NACDH4.NAC.AC.ZA  Fri Mar  5 08:08:15 1999
-From: WIKNER at NACDH4.NAC.AC.ZA (Charles Wikner)
-Date: Fri, 05 Mar 99 10:08:15 +0200
-Subject: anusvara, anunAsika and chandrabindu,bindu and nasal mutes
-Message-ID: <161227047195.23782.4287206111115342870.generated@prod2.harmonylists.io>
-
+anusvara, anunAsika and chandrabindu,bindu and nasal mutes
 On Sun, 28 Feb 1999, Harry Spier <harryspier at HOTMAIL.COM> wrote:
-
-> To sum up can anyone clarify the relationship between anusvAra,
-> anunAsika, nasal mutes and the signs bindu and chandrabindu?
-
 Strictly speaking the terms anusvAra and anunAsika refer to the
 _spoken_ sound and not the _written_ form (as do Panini's rules).
-
 anunAsika: This refers to the five nasal stops, as well as any
 =========  vowel or three of the semi-vowels (y,l,v) when they
            are pronounced through nose and mouth together (at
            the same time) (P.1.1.8)
-
 anusvAra:  refers to the nasal _after_-sound appended to a vowel,
 ========   and normally followed by a consonant.  There are two
            types of anusvAra:
@@ -30,18 +19,14 @@ anusvAra:  refers to the nasal _after_-sound appended to a vowel,
                semivowel before a semivowel.  (In English the "n"
                functions as an anusvAra when similarly sandwiched
                between vowel and consonant, e.g. wink, winch, wind.)
-
 In transliteration, Whitney and Monier-Willams distinguish between
 the true and substitute anusvAra-s: I see no benefit in doing so,
 nor is it current practice.
-
 The anusvAra mainly arises as a substitute for a pada-final "m"
 before a following consonant (P.8.3.23).  Note that an upasarga
 is also considered to be a pada, thus sam+dhi --> saMdhi.
-
 bindu: the dot above the line indicates either type of anusvAra.
 =====
-
 candrabindu: (a) above the line (where a bindu would be positioned)
 ===========      indicates an anunAsika vowel.
              (b) above the line, over a semivowel (y,l,v), indicates
@@ -51,11 +36,6 @@ candrabindu: (a) above the line (where a bindu would be positioned)
                  anusvAra (i.e before sibilant, h, r) and may be
                  pronounced "gna".  (There are also other forms
                  that indicate this function.)
-
-> Is it just as correct to write the class nasal for "m" before mutes
-> or nasals as it is to use the anusvAra sign the bindu. Is this merely
-> a matter of presentation, equivalent and equally correct?
-
 No.  The replacement of the substitute anusvAra is optional at the
 end of a pada (P.8.4.58-59).  To cater for the variety of traditions
 in pronunciation, this anusvAra should remain as such in the written
@@ -66,25 +46,17 @@ with "sam" (e.g. saMkalpa is found where you would expect saGkalpa,
 and after saMyoga which he treats as a true anusvAra in sound).
 (Interestingly, M-W never indicates an anusvAra before an oSThya
 stop, e.g. sambanda never saMbanda.  Anyone know why?)
-
 Retaining the notation for the substitute anusvAra also distinguishes
 between saMga (sam+gam, company) and saGga (<-- saJj, attachment).
 The former is not used in the gItA, but the latter is, e.g. 2:62.
 (Aside: Bhaja Govindam 9 (Chinmaya edition) begins satsaGngatve
 nissaGgatvaM... and then gives the padAni with anusvAra for both G's.
 Should that be satsaMgatve nisaGgatvaM... ?)
-
 However, you will find people wrongly using the substitute anusvAra
 _within_ a pada (as short-hand, due to font limitations, to improve
 legibility), e.g. *aMgya, *aMktvA -- in these examples rather use
 halanta-G (yech!) in print.  That said, don't be confused when the
 anusvAra is used in compounds: ahaMkRtaH (BG 18:27) is correct.
-
 I hope that more knowledgeable grammarians will confirm or correct
 this understanding.
-
 Regards, Charles.
-
-
-
-

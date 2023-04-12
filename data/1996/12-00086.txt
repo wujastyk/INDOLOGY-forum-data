@@ -1,29 +1,19 @@
-From jdunne at husc.harvard.edu  Thu Dec  5 17:52:02 1996
-From: jdunne at husc.harvard.edu (John Dunne)
-Date: Thu, 05 Dec 96 09:52:02 -0800
-Subject: definition of sAmAnAdhikara.nya
-Message-ID: <161227027345.23782.12118993080794444822.generated@prod2.harmonylists.io>
-
+definition of sAmAnAdhikara.nya
 Thanks to Birgit for the reference from Vaacaspati. I must confess that I
  have already been over this passage, and although his basic point on
  saamaanaadhikara.nya is clear, he does not quite offer the type of
  glosses that were included in my last message. In any case, it seems that
   he is operating with a similar gloss, since in the continuation of the
  section that Birgit kindly provided, he says:
-
-
  'sabdaanaa.m tv ekasmin prav.rrttes tadvaacyaanaam aikaatmyabhrama.h /
- 
  This in many ways summarizes the basic point of his comments; that is,
  although saamaanaadhikara.nya might appear to require that the vaacya of
  the expressions in question be identical, it would be mistake to assume
  any such identity. In making this point, Vaacaspati re-affirms the
  realist ontology to which he is committed.
- 
  For the purposes of this discussion, what is interesting about the above
  quoted statement is simply that Vaacaspati appears to presume the same
  type of gloss given by Kar.nakagomin, Raamaanuja, and so forth.
- 
  Birgit also suggests that "co-referentiality" is the best translation,
  but I am not particularly satisfied with it. The problem is that this
  translation raises the entire issue of "reference," which, given its uses
@@ -35,7 +25,6 @@ Thanks to Birgit for the reference from Vaacaspati. I must confess that I
  terms "refer" to the dravya, but on the most straightforward
  interpretation of "reference" as it is used these days, this is what the
  translation "co-referentiality" would suggest.
- 
   The advantage of "co-instantiation" is that it points to the manner in
  which the vast majority of Indian philosophers conceived of
  saamaanaadhikara.nya; that is, it is a state of affairs in which two
@@ -43,22 +32,13 @@ Thanks to Birgit for the reference from Vaacaspati. I must confess that I
  for those entities are applicable to (or "refer to") that same locus. A
  further advantage is that it also serves as a translation for
  saamaanadhikara.nya in the context of inference.
- 
  Perhaps I am being a bit too picky here, but it seems to me that if we
  can avoid misleading technical terms from the Euro-American philosophical
  tradition, we should do so.
- 
  --
  John Dunne
  Study of Religion
  Harvard University
-
--- 
 John Dunne
 Study of Religion
 Harvard University
-
-
-
-
-

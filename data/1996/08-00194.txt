@@ -1,9 +1,4 @@
-From jakub at unipune.ernet.in  Fri Aug 30 19:58:07 1996
-From: jakub at unipune.ernet.in (Jakub Cejka)
-Date: Fri, 30 Aug 96 14:58:07 -0500
-Subject: compound analysis in e-texts
-Message-ID: <161227025860.23782.16029214509459245245.generated@prod2.harmonylists.io>
-
+compound analysis in e-texts
 Compound (AND sandhi)-analysed texts are useful, there is no doubt (at 
 least for some purposes). It's certainly good to make them.
 Problem is that they cannot be considered fully reliable.
@@ -34,7 +29,6 @@ inscription is not fully useful if it is not accompanied by photos of the
 whole inscription, so it is with our sanskrit texts unfortunately.
    I look forward the time texts will be published not in a little 
 analysed form but in fully analysed and fully unanalysed form side by side.
- 
 Once discussing analysis' principles it would be really good if those who 
 have developed or are extensively using a transliteration-cum-analysis 
 coding system could elaborate on their rules adopted for cases like those 
@@ -42,10 +36,7 @@ mentioned by B.Kellner (prefixes and "prepositions", compound-members
 which do not have independent existence (-da, -ja etc)) as to what they 
 separate and what not. It would be of use to attempt at least a partial 
 unification.
-
-
 Ad Brigit Kellner opposition to romanized texts: 
-
 Yes, Sanskrit is a foreign language (even foreign to everyone), I do not, 
 however see the reason why romanized texts do any harm to it. We should 
 not forget that devanagari is not THE Sanskrit script. The original 
@@ -59,18 +50,7 @@ promoted in India together with devanagari becoming scholarly script for
 Sanskrit, the case would be similar to Pali. Why should Pali be studied 
 in say Sinhala script rather than any other one or than romanized 
 transliteration according to needs? 
-
-______________________________________________________________________________
 Mr. Jakub Cejka
 Dept. of Sanskrit, University of Pune
 Ganeshkhind, Pune, India  411 007
-
 e-mail:  jakub at unipune.ernet.in   (till July 97 the latest)
-
-
-
-
-
-
-
-

@@ -1,39 +1,21 @@
-From slaje at KABELMAIL.DE  Wed Sep  5 19:49:53 2012
-From: slaje at KABELMAIL.DE (Walter Slaje)
-Date: Wed, 05 Sep 12 21:49:53 +0200
-Subject: SARDS down
-Message-ID: <161227097186.23782.9842790526953203195.generated@prod2.harmonylists.io>
-
+SARDS down
 Dear Users of SARDS,
-
 I am sorry to have to inform you that the database server of the University
 of Halle went completely down.
 It will therefore take considerable time until the "South Asia Research
 Documentation Services" (SARDS3) [http://www.sards.uni-halle.de/]
-
 and the Cumulative Index on the "Kleine Schriften" of German Indologists
 [http://www2.indologie.uni-halle.de/Register/]
-
 will be operative again.
-
 Kindly regarding,
 Walter Slaje
-
------------------------------
 Prof. Dr. Walter Slaje
 Hermann-L?ns-Str. 1
 D-99425 Weimar
 Deutschland
-
 Ego ex animi mei sententia spondeo ac polliceor
 studia humanitatis impigro labore culturum et provecturum
 non sordidi lucri causa nec ad vanam captandam gloriam,
 sed quo magis veritas propagetur et lux eius, qua salus
 humani generis continetur, clarius effulgeat.
 Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120905/dde2544e/attachment.htm>
-

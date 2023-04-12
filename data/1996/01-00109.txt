@@ -1,19 +1,11 @@
->From conlon at u.washington.edu Sun Jan 28 07:59:26 1996
 =================================================================
-Date: Fri, 5 May 1995 10:58:37 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA Re Query on photographic copies of manuscripts (6)
-
+H-ASIA Re Query on photographic copies of manuscripts (6)
                              H-ASIA
                            May 5, 1995
-
 Responses to query on photographic copies of manuscripts (6)
 *****************************************************************
 1.)
-From: Frederick M Asher <asher at maroon.tc.umn.EDU>
-
 Sure, art historians do this sort of thing all the time.  A 35mm
 camera with a macro lens allows focusing down close enough to get
 the mss. pages clearly in focus.  To stabilize the camera, it's
@@ -22,33 +14,25 @@ tripod--that is, the central shaft--all the way out and puts in
 back in upside down so that it projects downward between the legs
 of the tripod, the camera can be attached so that slides can be
 made.  The slides then can be projected, printed or digitized.
-
 One additional piece of advice: Practice before getting the the
 library/archives where the mss. are!  Use similar low-light
 conditions.  Good luck.
-
 Rick Asher
 University of Minnesota
 *****************************************************************
 2.)
-From: SILK at AC.GRIN.EDU (Jonathan Silk)
-
 Although this is not a positive suggestion, it might be worth
 mentioning:
-
 Whatever else you do, DO NOT use an auto-focus camera.  Some
 photos of manuscripts which an acquaintance took in Nepal were
 unsuitable for reproduction for that reason.  Autofocus cameras
 *approximate* the focal length, which may be OK for scenery, but
 is disaster when you want to be able to read something.
-
 Jonathan Silk
 Grinnell College
 SILK at AC.GRIN.EDU
 *****************************************************************
 3.)
-From: dgjohnsn at violet.berkeley.edu
-
 I have made copies of Chinese manuscripts using standard
 Fujicolor 400 color negative film for prints with a Canon EOS
 camera with a 35mm-75mm zoom lens, with very good results.  But:
@@ -58,33 +42,26 @@ expensive.  Test the lens first to see if you can get
 approximately an entire ms. leaf in your viewfinder, in focus.
 If you can't get that close to the ms., you may have an
 additional problem.
-
 David Johnson
 History
 UC Berkeley
 *****************************************************************
 4.)
-From: lochtefeldjames%faculty%Carthage at cns.carthage.EDU
 In regard to photographing manuscripts:
-
 I have nothing to add to the technical comments Lance Brennan
 made (my experience photographing manuscripts was much more
 rudimentary--I held the camera over the manuscript, tried not to
 move, and clicked the shutter).  I used ordinary color print
 film, and the images turned out fine.
-
 One caution that I would add is that whenever possible the film
 should be developed before one leaves, to make sure that a page
 or pages hasn't been skipped by mistake.  This can save a great
 deal of expense and aggravation (as it did for me, when I was
 able to go back and shoot the missing folio).
-
 James G. Lochtefeld
 Carthage College
 *****************************************************************
 5.)
-From: "T.T.Nguyen - Economics" <nguyen2 at watserv1.uwaterloo.CA>
-
 If the ultimate intention is to "transfer the images to a
 computer format" then to use Logitech FOTOMAN: a special black
 and white hand-held camera which can take photographs directly in
@@ -93,18 +70,14 @@ camera can take up to 12 pictures.  After that, you download the
 pictures into a lapto or desktop computer and then continue the
 process.  If you don't like the pictures, just retake them
 instantaneously.  Cost about US$400-500.
-
 If you take pictures on regular films, eventually you will have
 to scan them into the computer.  This might be an expensive
 proposition both timewise and moneywise if you are talking about
 hundreds of pictures (assuming that you already own a scanner).
-
 T. T. Nguyen
 University of Waterloo
 *****************************************************************
 6.)
-From: nsivin at sas.upenn.EDU (Nathan Sivin)
-
 What you want for photographing documents for reproduction is a
 macro lens, available for most high-quality single-lens reflexes,
 and above all else a portable copy stand, preferably folding for
@@ -112,7 +85,6 @@ travel, that will hold the camera rock steady and parallel to the
 copy.  You also need weights, like the ones used for Chinese
 calligraphy, that can be set in the margins of the document to
 hold it flat, and a cable release.
-
 For someone working on a restricted grant, it is better to buy a
 15-year-old second-hand Nikon, with no automatic features at all,
 than the latest model of a cheap camera with mediocre optics.
@@ -127,7 +99,6 @@ because the copy is too light, but experimentation will show how
 to compensate--again to be worked out during the trial period
 until you get perfect exposures to examine with a high-power
 magnifier for resolution.
-
 When buying a copy stand, put the camera on it, look through the
 viewer at the copy, and bump the camera.  If you see the image
 moving for more than half of a second, it's not steady enough.
@@ -135,28 +106,18 @@ To keep copy and camera parallel, an old trick I use is to carry
 a pocket mirror, lay it on the copy, and move the camera on the
 stand until the image of the lens in the mirror is centered in
 the viewer.  The two are then parallel.
-
---
 Nathan Sivin
 History and Sociology of Science
 University of Pennsylvania
 Philadelphia PA 19104-3325
 =================================================================
-Date: Fri, 5 May 1995 17:24:04 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Query on photographic copies of manuscripts (2)
-
+H-ASIA: Query on photographic copies of manuscripts (2)
                                 H-ASIA
                               May 5, 1995
-
 Further responses to query on photographic copies of manuscripts (2)
 ***********************************************************************
-From: D Price <dcprice at ucdavis.EDU>
-
 Re: The query about photographing mss.
-
         If you have a reasonably clear ms., good resolution b/w film, good
 light, and a close-up lens, you can do just fine with a 35 mm. camera. I
 used a low-end Nikon with built-in flash and limited zoom capability that
@@ -166,37 +127,26 @@ negatives can be cut and mounted as slides easily. The main limitation is
 thye ability to focus up close, so you should test your equipment and get
 a good closeup lens if necessary to insure clarity. As for conversions to
 computer format, someone else will have to help you with that.
-
 Don Price
 University of California at Davis
 *************************************************************************
 2.)
-From: "Jeffrey G. Barlow" <barlowj at pacificu.EDU>
-
 Another tip on photographing manuscripts.  When working with _very_ faded
 manuscripts (even illegible ones) use a dark red or orange filter to
 enhance contrast and shoot on a high-speed black and white film.  When
 you develop it, push it to further enhance contrast.  Have it printed on
 hard papers; if there was any detail there at all, you should have been
 able to bring it up nicely.
-
 Jeffrey G. Barlow               Professor of History
 Pacific University,      Forest Grove, Oregon USA 97116
 e-mail:  barlowj at pacificu.edu
 =================================================================
-Date: Sat, 6 May 1995 06:58:16 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Query on photographic copies of manuscripts
-
+H-ASIA: Query on photographic copies of manuscripts
                                 H-ASIA
                               May 6, 1995
-
 Further comment on query re: photographic copies of manuscripts
 **********************************************************************
-From: Mel Thatcher <gsu at HK.Super.NET>
-
 The Indira Gandhi National Centre for the Arts (IGNCA) in Delhi has the
 largest manuscript microfilming project in India.   The project is
 focused on documents in the fields of fine arts and literature.  Filming
@@ -207,13 +157,11 @@ Scholars requiring copies of manuscripts in these fields should contact
 IGNCA to determine whether the records required have already been
 filmed.  The contact person is Dr. T.A.V. Murthy, Librarian, IGNCA,
 Janpath, Delhi, India.
-
 My organization (the Genealogical Society of Utah) is microfilming
 manuscripts of Hindu pilgrimage records kept by pandits at various sites
 in North India and genealogies of Maithili Brahmins in the vicinity of
 Madhubani, Bihar.  The filming is done by a microfilm service bureau, but
 processing is done in the USA.
-
 Using a common SLR camera to film manuscripts, as suggested by Lance
 Brennan, is certainly an option that is available to scholars.  Black and
 white films is best because of its low ASA rating, which I think is
@@ -221,7 +169,6 @@ around ASA 25.  If color is required, ASA 64 is preferrable to higher
 speed films because the image is less grainy and thus sharper when
 enlarged.  I think, however, that this option is viable only if the
 quantity of records is small and high photographic quality is not an issue.
-
 Microfilm is best for photographing manuscripts because it is
 manufactured specifically for this purpose.  It is high contrast,
 panchromatic, slow speed film (too slow to be given an ASA rating
@@ -233,42 +180,31 @@ exposure step tests for document colors to determine the best exposure
 setting before embarking on production filming.  The processing of step
 tests and production film must be identical in order to obtain the
 desired results--herein lies the problem in India.
-
 I have visited many microfilming labs in Delhi, Bombay, and Madras.  Most
 of them do not have the proper kind of microfilm processors and/or do not
 practice process control to insure that the processing of each roll of
 film is the same.  There are a few bureaus, however, which are capable of
 producing acceptable results or which can be brought up to speed with
 some training and consultation.
-
 I suggest that scholars needing microfilm service in India contact IGNCA
 for a shortlist of bureaus which it uses.  If you engage a bureau be
 specific about and insistent on meeting quality standards.  You should
 agree to pay for acceptable quality exposures only.
-
 Some microfilm service bureaus are now moving into electronic imaging; so
 scanning is another possible option if the manuscripts can be brought to
 the place where the scanner is located.
-
 Mel Thatcher
 Genealogical Society of Utah
 Hong Kong
 gsu at hk.super.net
 =================================================================
-Date: Mon, 8 May 1995 10:52:28 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Query on photographic copies of manuscripts (5)
-
+H-ASIA: Query on photographic copies of manuscripts (5)
                                 H-ASIA
                               May 8, 1995
-
 Further comments on query re: photographic copies of manuscripts (5)
 **********************************************************************
 1.)
-From: nsivin at sas.upenn.EDU (Nathan Sivin)
-
 I would like to add a warning about tripods.  With few exceptions,
 really steady ones are bulky and heavy.  If you don't believe me, try
 the bump test mentioned in my last message.  There are small, light
@@ -285,7 +221,6 @@ chair or jury-rigged in some other way.  If the support is steady, the
 ensemble will be steady.  Keep in mind that in most libraries, using
 ambient lighting (sunlight through a window is seldom uniform), you
 will often need no movement whatever for something like 1/2 second.
-
 What looks like a clear image when enlarged to 5x7 will often be
 unusable for reproduction.  A realistic test is to blow the image up
 to twice the size of a full page and see if it is crystal clear at the
@@ -295,28 +230,21 @@ unusable or barely usable results.  This is particularly true for worn
 or faded manuscripts, where it is important to be able to see exactly
 how legible each character is, and for which you may need to reproduce
 enlarged details.
-
---
 Nathan Sivin
 History and Sociology of Science
 University of Pennsylvania
 Philadelphia PA 19104-3325
 *********************************************************************
 2.)
-From: Veena Talwar Oldenburg <pko1 at columbia.EDU>
-
 All I would add to the very detailed instructions to photographing
 manuscripts in low light conditions in libraries is to use the fastest
 speed, high contrast fil in black and white.  I had superrb results and
 was able to print out the film in a microform reader for ten cents a
 page.  For illustrations color film works but not as well as black and
 white.
-
 Veena Oldenburg
 **********************************************************************
 3.)
-From: Robin Kornman <rkornman at pucc.Princeton.EDU>
-
 I hope somebody else has a better answer to this question. But I had the
 same question about the photographing of Tibetan block prints.  A man who
 did a great deal of that kind of collecting of data told me that the thing
@@ -328,19 +256,13 @@ to have the right lens, but to make sure that the plan of the film in the
 camera is parallel with the plane in which the text lies. And so he set the
 text on a home-made stand so that it was slanted up and slanted the tripod
 at the same angle down.
-
 He used this technique to copy numerous texts onto high-resolution, "slow"
 35mm film.
-
 I would love to hear of more sophisticated answers, because I have to do
 this kind of thing myself at times.
-
 Robin Kornman
-
 *********************************************************************
 4.)
-From: MOESHART at rullet.LeidenUniv.NL
-
 I have photographed lots of documents in archives and the best equipment
 for doing so has proved to be a 35mm single lens reflex camera with a
 35 mm f2 lens. This enables me to do most of the photography sitting
@@ -350,14 +272,11 @@ film. This enables enlargements which are very good readable, or the negatives
 can be read in a microfilm reader. If your professor is not used to taking
 photographs this way, he should parctise before leaving! That will avoid
 mistakes later.
-
 Yours sincerely,
 Herman J. Moeshart
 Leiden University
 **********************************************************************
 5.)
-From: SILK at AC.GRIN.EDU (Jonathan Silk)
-
 1)      There seems to be some disagreement concerning film.  My (very
 limited!) experience (almost all with Skt. MSS) is that color film often
 allows one to read what is otherwise illegible with b/w, for the following
@@ -367,7 +286,6 @@ shadow etc., which would perhaps not be possible with b/w.  Alot of this
 will depend on the condition of the originals you want to shoot.  (It also
 tells you whether, as is sometimes the case, more than one color of ink was
 used.)
-
 2)      I would recommend that you carefully try using a direct-to-disc
 method before relying on it.  It seems to me more than likely that the
 resolution is not sufficient for the task.  It is also likely that the
@@ -380,52 +298,34 @@ advantage of that resolution right away.  Taking photographs, and then
 scanning them on a flatbed scanner, or better yet having them scanned on a
 drum scanner, will give you very high resolution, let you keep the film for
 future use, and still allow computer input.
-
 Jonathan Silk
 Grinnell College
 SILK at AC.GRIN.EDU
 =================================================================
-Date: Wed, 10 May 1995 10:21:48 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Query on photographic copies of manuscripts
-
+H-ASIA: Query on photographic copies of manuscripts
                                 H-ASIA
                               May 10, 1995
-
 A final comment on the query on photographic copies of manuscripts
 **********************************************************************
-From: standen <standen at fyfield.sjc.ox.ac.UK>
-
 A small technical addition, particularly if using slow shutter speeds. To
 avoid camera shake from the raising of the mirror on a single-lens reflex
 camera, use the self-portrait feature. With this set (at least on a Nikon),
 the mirror rises when you press the shutter release button, but the shutter
 itself does not release for however many seconds you have set, thus
 allowing the camera to settle down from the mirror action first.
-
-
 Naomi Standen
 standen at fyfield.sjc.ox.ac.uk
 =================================================================
-Date: Thu, 11 May 1995 16:13:47 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Re: photographing documents
-
+H-ASIA: Re: photographing documents
                                 H-ASIA
                               May 11, 1995
-
 Further comment on photography of documents
 *********************************************************************
-From: Mel Thatcher <gsu at HK.Super.NET>
-
 Here are a few observations on photographic quality by a
 colleague who has spent about three decades working in
 conventional photography, cinematograhpy, and microphotography.
-
 Film speed and resolution:  Film manufacturers obtain faster film
 speeds by enlarging the silver halide crystals in the film
 emulsion, thus the grain in slower film emulsions is finer than
@@ -433,7 +333,6 @@ in faster film emulsions.  Consequently, slower films are capable
 of higher resolution than faster films.  (You can test this by
 comparing the readability of slides of documents filmed on 64,
 100, 200, and 400 ASA , as I have done.--MT)
-
 Color film:  If color film is used for filming documents,
 Kodachrome film will produce the sharpest image because a color
 dye process is used to bring out the image.  The image in
@@ -441,69 +340,49 @@ Ektachrome type film is grainy because it uses a silver emulsion
 (the grain is much larger than in B&W microfilm).  Regardless of
 which type of film is used, slower speeds are better for filming
 documents.
-
 Digital cameras:  While digital cameras produce images which look
 fine on a SVGA monitor, the resolution is still not up to the
 standard of microfilm.  (Our organization is working with
 manufacturers of digital cameras on solving this problem.--MT)
-
 Scanning:  Depending upon the condition of the original document,
 scanning from microfilm may produce a better image than scanning
 the original because the microfilm image has already been reduced
 to black and white.
-
 Mel Thatcher
 Genealogical Society of Utah
 gsu at hk.super.net
 =================================================================
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Photographing manuscripts
-
+H-ASIA: Photographing manuscripts
                                 H-ASIA
                              May 13, 1995
-
 Further comment on manuscript photography and preservation
 *********************************************************************
-From: Kenneth E Rasmussen <rastus at minerva.cis.yale.EDU>
-
 On the subject of Kodachrome vs. Ektachrome:  As anyone who has been
 around slide collections knows, the color on Kodachrome slides will last
 years longer than that on Ektachrome slides, which fade to red after 10
 years or so.  (I'm not really sure about Ektachrome's exact longevity, but
 it is certainly far less than Kodachrome's.)
-
 I'm a grad student in art history at Yale, specializing in Chinese
 painting, 13th to 15th centuries.  I'll post a more complete
 self-introduction next year, when I find a dissertation topic.
-
 Eric Rasmussen
 Yale University
 =================================================================
-Date: Mon, 22 May 1995 14:15:08 -0700
-From: Frank Conlon <conlon at u.washington.edu>
 Reply to: H-Net list for Asian History and Culture <H-ASIA at msu.edu>
-To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
-Subject: H-ASIA: Further on photography, manuscripts etc.
-
+H-ASIA: Further on photography, manuscripts etc.
                                 H-ASIA
                              May 22, 1995
-
 Further comment on photographic reproductions of manuscripts etc.
 *********************************************************************
-From: Gary M Tartakov <tart at iastate.EDU>
-
 I wish to add a note to Kenneth E RasmussenUs post on the comparative
 qualities of Kodachrome and Ektachrome in copying documents.  The
 following comes from the curator of the slide collection at Iowa State
 University, and accords with my experience over many years using both.
-
 Rasmussen wrote:  "the color on Kodachrome slides will last years longer
 than that on Ektachrome slides, which fade to red after 10 years or so.
 (I'm not really sure about Ektachrome's exact longevity, but it is
 certainly far less than Kodachrome's)."
-
 Our experience is somewhat different.  The archival qualities of
 Kodachrome are not necessarily "better" than Ektachrome, they are just
 different.  Indeed Kodachrome is less grainy.  Each of course is
@@ -512,7 +391,6 @@ Ektachrome if it is properly stored in a dark and chemically inert
 environment.  Ektachrome will last longer than Kodachrome if the slide
 is projected often.  Projection will fade Kodachrome faster than
 Ektachrome.
-
 The point is that for archival purposes and later reproduction the major
 difference is which slide makes the sort of reproduction one wants most.
 Each may have a different preference in color quality.  The issue of
@@ -520,34 +398,19 @@ fading is largely one of will the slides be projected during study or
 teaching.  If one is going to project one needs to use duplicates or
 ektachrome, because Kodachrome changes colors as hours of projection
 continue.
-
 For my own work I prefer Kodachrome originals because they pick up
 greater detail and cover a wider range that Ektachrome.  And IUve gotten
 used to its RwarmerS colors.  I study and reproduce the Kodachrome
 slides.  If I want to project for a class, I have Ektachrome duplicates
 made.
-
 Gary Tartakov
 Iowa State University
 =================================================================
      To post to  H-ASIA send your message to H-ASIA at msu.edu
-
 To temporarily interrupt your H-ASIA service for holidays send a
 posting to <listserv at msu.edu> with the message:
                                        SET H-ASIA NOMAIL
-
 When you return and wish to resume H-ASIA service send a similar
 posting with message:                  SET H-ASIA MAIL
-
 Private questions should go either to:
     conlon at u.washington.edu  or      Leibo at ALBNYVMS.bitnet
-
-
-
-
- 
-
-
-
-
-

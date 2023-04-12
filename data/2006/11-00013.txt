@@ -1,39 +1,22 @@
-From lmfosse at CHELLO.NO  Thu Nov 16 19:13:12 2006
-From: lmfosse at CHELLO.NO (Lars Martin Fosse)
-Date: Thu, 16 Nov 06 20:13:12 +0100
-Subject: Uha
-In-Reply-To: <C181E3CA.5080%aklujkar@interchange.ubc.ca>
-Message-ID: <161227078651.23782.12823730119905709283.generated@prod2.harmonylists.io>
-
+Uha
 Ashok,
-
 Thank you for this clarification. I found one example of Uha in A Companion
 to Sanskrit Literature, which is my only resource right now (I am afraid my
 home arsenal of books has lacunae, and the university library is on the
 other side of town). The Companion gives the following example: 
-
 1) Imagining. For example, in the sentence agnaye juSTaM nirvapAmi the word
 sUryAya is to be imagined for agnaye as occasion arises. 
-
 2) Change, modification. 
-
 3) Logical consequence or connexion. 
-
 On the strength of point 1), I assumed that "meaning" was central. The
 specific sentence in the KS refers to grammar:
-
 asti vyAkaraNam ity avaiyAkaraNA api yAjJikA UhaM kratuSu prayuJjate
-
 It would seem to me that "substitution" would then make better sense here
 than "inferred meaning" - translationwise, we might not have to be precise
 about what kind of substitution is meant, or we might use "grammatical
 substitution". The point is: what level of precision should we expect in a
 zAstra which is neither philosophical nor grammatical in nature? 
-
 Lars Martin
- 
-
-From: 
 Dr.art. Lars Martin Fosse 
 Haugerudvn. 76, Leil. 114, 
 0674 Oslo - Norway 
@@ -41,56 +24,3 @@ Phone: +47 22 32 12 19 Fax:  +47 850 21 250
 Mobile phone: +47 90 91 91 45 
 E-mail: lmfosse at chello.no 
 http://www.linguistfinder.com/translators.asp?id=2164
-
-
-
- 
-
-> -----Original Message-----
-> From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of 
-> Ashok Aklujkar
-> Sent: Thursday, November 16, 2006 6:46 PM
-> To: INDOLOGY at liverpool.ac.uk
-> Subject: Re: Uha
-> 
-> Lars,
-> 
-> Uha becomes a technical term primarily in MImA.msA. In its 
-> use there, the ultimate concern is with form. The chosen form 
-> of the expression may be conditioned by the contextually 
-> required meaning, but the substitution itself is not thought 
-> of as one of meaning. In Uha one changes the form of a Vedic 
-> sentence (temporarily and without damaging the MImA.msA 
-> thesis of eternality of Vedic sentences).
-> 
-> Following the MImA.msA, Uha is sometimes used for 
-> substitutions in non-Vedic sentences (in the discussions in 
-> texts on poetics, grammar etc.), but there too the ultimate 
-> interest is in the form.
-> 
-> In other words, we should distinguish between the technical 
-> and non-technical uses. The technical arises out of the 
-> non-technical or ordinary language use in the sense of 
-> 'guess, infer' as in the case of many other technical terms 
-> in Skt, but is form-oriented and similar to adhyAhAra.
-> The KS use you mention is probably non-technical and similar 
-> to the ordinary language use of tarka.
-> 
-> ashok
-> 
-> 
-> > From: Lars Martin Fosse <lmfosse at CHELLO.NO>
-> > Date: Thu, 16 Nov 2006 16:41:52 +0100
-> 
-> > However, it might perhaps be an idea to add "semantic":
-> > "context-sensitive semantic modification/adaptation/substitution".
-> > 
-> > My question relates to a passage in the Kamasutra, where 
-> "inferred meaning"
-> > would probably do as well, since the reader most likely would have 
-> > other things to think about than the technicalities of 
-> linguistic terminology.
-
-
-
-

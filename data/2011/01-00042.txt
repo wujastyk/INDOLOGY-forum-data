@@ -1,14 +1,6 @@
-From athr at LOC.GOV  Wed Jan 26 21:13:58 2011
-From: athr at LOC.GOV (Thrasher, Allen)
-Date: Wed, 26 Jan 11 16:13:58 -0500
-Subject: Shakespeare in Sanskrit?
-In-Reply-To: <38834.56176.qm@web94813.mail.in2.yahoo.com>
-Message-ID: <161227091352.23782.11620622699726330407.generated@prod2.harmonylists.io>
-
+Shakespeare in Sanskrit?
 I stumbled across one example of Lebedev's translation work about a year ago and asked the catalogers to improve the record.  Here is what we have of his.  I have not investigated in WorldCat or elsewhere whether he did any further translations of dramas.
-
 Allen
-
 LC Control No.:       75904608 
 Personal Name:     Jodrell, Richard Paul, 1745-1831. 
 Uniform Title:     Disguise. Bengali
@@ -30,8 +22,6 @@ LC Classification: PR3519.J6 D513 1963
 Other System No.:  (OCoLC)19363126
 CALL NUMBER:       PR3519.J6 D513 1963
                    Copy 1
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian and Team Coordinator
 South Asia Team
@@ -42,10 +32,3 @@ USA
 tel. 202-707-3732
 fax 202-707-1724
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-
-
-
-

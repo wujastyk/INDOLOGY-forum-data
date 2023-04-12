@@ -1,32 +1,16 @@
-From hspier.muktabodha at gmail.com  Thu May 18 21:01:30 2017
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Thu, 18 May 17 17:01:30 -0400
-Subject: [INDOLOGY] Accessing Muktabodha Digital Library by users with Mac computers.
-Message-ID: <CAPW7aQFnX-md99oWeH52ay7XESDL=Ew493JiAaRPjaE5UV-WRw@mail.gmail.com>
-
+[INDOLOGY] Accessing Muktabodha Digital Library by users with Mac computers.
 Dear list members,
-
 One of the list members has informed me that when he accesses the Gokarna
 Vedic Collection of the Muktabodha Digital Library with a Mac and the
 Safari browser when he clicks on the pdf link to a manuscript instead of a
 pdf file opening with photos of the manuscript he gets gibberish text.
-
 I am able to access the pdf's of the manuscripts with windows with no
 problems.
-
 Would it be possible for a list member who has a mac and safari to try to
 access pdf's of the Gokarna Vedic collection and tell me if he gets a pdf
 of the manuscript or if he also gets gibberish.
-
 The direct link to the Gokarna Vedic collection is:
 http://muktalib5.org/gokarna_collection_secure_entry.htm
-
 Thanks,
 Harry Spier
 Manager, Muktabodha Digital Library
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170518/11f2f23b/attachment.htm>
-

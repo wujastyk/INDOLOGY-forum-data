@@ -1,29 +1,15 @@
-From das at NETCOM.COM  Wed Dec  2 05:40:49 1998
-From: das at NETCOM.COM (Das Devaraj)
-Date: Tue, 01 Dec 98 21:40:49 -0800
-Subject: On avoiding attachments
-In-Reply-To: <v0153051fb28a2a048f9e@[195.74.194.11]>
-Message-ID: <161227043107.23782.17350988065495410914.generated@prod2.harmonylists.io>
-
+On avoiding attachments
 On Wed, 2 Dec 1998, Jacob Baltuch wrote:
-
-> Since this seems to be a particularly tough nut to crack
-> maybe someone who's had to deal with such problems before
-> can volunteer some help to Lars?
-
 Not necessarily a step by step solution to that particular problem,
 but a more general answer.
-
 - Get a "shell" account with your ISP.  Then use the free
   software program "pine" a program developed by University of
   Washington.  This email is composed using the above setup.
   Advantages: Even an ancient computer with a modem will do.
   Also, you do not have to download the mail to your PC.
-
   Till this year, I have used a fully loaded "286 PC" to read
   mail, off and on!  (used to get 500+ emails most days)
   PINE is a very simple program to use. (there is also a PC pine)
-
 - May be you are into fancy graphics and run MS products (95/NT/DOS)
   or Macintosh
   Install "Pegasus mail" a free, incredibly powerful and easy to
@@ -31,17 +17,10 @@ but a more general answer.
   and more supported.  In addition to English, is available
   (supposedly) in Catalan, Czech, Danish, Dutch, French, German,
   Hungarian, Italian, Polish, Spanish, Swedish - no Sanskrit, so far
-
 - Use the email program that comes with Netscape Navigator.
   (also freely(?) available)
-
   If you don't fall into any of these categories - well, you can
   move into one of these categories.  If you use anything else,
   make sure that the program (at least basically) understands and
   complies with RFC822 (Internet standard for emails).
-
 das
-
-
-
-

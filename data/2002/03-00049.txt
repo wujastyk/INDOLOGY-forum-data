@@ -1,22 +1,5 @@
-From Martin.Gansten at TEOL.LU.SE  Sat Mar 23 07:31:11 2002
-From: Martin.Gansten at TEOL.LU.SE (Martin Gansten)
-Date: Sat, 23 Mar 02 08:31:11 +0100
-Subject: Calendar
-In-Reply-To: <200203230010.JAA29058@cc2001.kyoto-su.ac.jp>
-Message-ID: <161227070721.23782.14557576903060751199.generated@prod2.harmonylists.io>
-
->I tried, with my pancanga program, the year before (AD 1502) thinking of
->the possiblity of the year number as current instead of expired or it is
->Karttikaadi instead of Caitraadi, but the weekday did not fit.
->I do not understand how Virakma 1560 corresponds to AD 1504.
->I wonder whether it is really Vikrama Samvat.
-
+Calendar
 Yes. The original posting did not specify the era. What about the
 possibility of error in the author's calculations of tithis? I am not very
 familiar with the ganita side of classical jyotisha.
-
 Martin Gansten
-
-
-
-

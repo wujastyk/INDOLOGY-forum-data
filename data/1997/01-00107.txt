@@ -1,24 +1,9 @@
-From reusch at uclink4.berkeley.edu  Tue Jan 21 21:58:15 1997
-From: reusch at uclink4.berkeley.edu (B. Reusch)
-Date: Tue, 21 Jan 97 13:58:15 -0800
-Subject: A meter in the Bhagavata Purana
-Message-ID: <161227027949.23782.18044867498139977916.generated@prod2.harmonylists.io>
-
+A meter in the Bhagavata Purana
 A collegue who is not on any online discussion list has asked if I can post
 up the following for him. His dissertation is due soon and a little last
 minute help will be greatly appreciated. Thanks.
 Svicchaabhih.
 Beatrice
-
->> It's about a poetic meter that I have found in the Bhagavata that I
->>cannot identify.  The meter is clearly within the trishtubh category (11
->>syllables per pada), but Apte does not identify its specific type within
->>this category in the rather comprehensive listing in the back of The
->>Practical Sanskrit-English Dictionary of poetic meters.  Here is the
->>pattern with letter abbreviations (L = laghu or light syllable; G = guru
->>or long or heavy syllable; / = gana or divider of syllable groups)
->>indicating the pattern of light and heavy syllables within the pada of
->>this particular verse:
 L L L / G L G / G L G / L G
 This pattern appears prominently in the 31st chapter of the tenth book of the
 Bhagavata, verses 1 through 18.  Is this metrical pattern an  unidentified
@@ -26,10 +11,3 @@ pattern, or is there a source for identifying this specific pattern in this
 important chapter of the Bhagavata, and if so, what is the source and what is
 this pattern called?
 Graham
-
-
-
-
-
-
-

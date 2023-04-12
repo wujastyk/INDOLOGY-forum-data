@@ -1,17 +1,7 @@
-From s.hodge at PADMACHOLING.FREESERVE.CO.UK  Sat Jan 20 12:30:41 2001
-From: s.hodge at PADMACHOLING.FREESERVE.CO.UK (Stephen Hodge)
-Date: Sat, 20 Jan 01 12:30:41 +0000
-Subject: Tibetan names (for citation)
-Message-ID: <161227066730.23782.15482090364638035695.generated@prod2.harmonylists.io>
-
+Tibetan names (for citation)
 Timothy C. Cahill wrote:
-
->    I need to know the proper forms for citing some Tibetan authors.
 The
-> five names are below, followed in some cases by (the same?) names in
-> square brackets as listed on WorldCat. (Do Tibetologists prefer
 hyphens?)
-
 The general trend seems to be to hyphenate the individual sematic
 units of Tibetan names -- at least that's what was being done in the
 big Tib-Eng dictionary that is being produced at SOAS when I was
@@ -19,49 +9,22 @@ involved in it, with the root letter of the first syllable
 capitalized..  Thus, for your examples (correcting the various
 spelling errors) -- the second element aftrr the comma is the person's
 title:
-
-> Sa-skya PaN chen (PaNDita) kun dga' rgyal mtshan
 ** Kun-dga' rGyal-mtshan, Sa-skya Pandi-ta
-
-> sNar thang lo tsA ba dGe 'dun dpal
 ** dGge-'dun-dpal, sNar-thang Lo-tsa-ba
-
-> dPang lo tsA ba Blo gros brtan pa
 **  bLo-gros-brtan-pa, dPang Lo-tsa-ba
-
-> Rin-spuns-pa Nag-dban-'jig-rten-dban-phyug-grags-pa
 ** Ngag-dbang 'Jigs-rten-dbang-phyug-grags-pa, Rin-spungs-pa
->
-> Si-tu Pan-chen Chos-kyi-'byun-gnas
 Chos-kyi-'byun-gnas, Si-tu Pan-chen
-
-> I  have alphabetized texts by title according to the usual
 traditional alphabetical order.  Is the
-> following order correct ?
 Basically OK but I have modified slightly as follows:
-
 sNyan-ngag me-long-gi grel-pa dByangs-can ngag-gi-rol-mtsho:
 a commentary on Dandin's Kavyadarsha.
 author: bsTan-'dzin Chos-kyi-nyi-ma, Khams-sprul IV (1730-1779)
 [Tashijong, 1969]
-
-> sNyan-ngag me-long-gi grel-pa Dbyangs-can rol-mtsho: a commentary on
-> Dandin's Kavyadarsha.
-> author: Mi-pham rGya-mtsho, 'Jam-mgon 'Ju, (1846-1912) [New Delhi:
 1969]
-
 Can't help with the rest -- and I am also not sure what you mean by
 the following since I am unfamilar with what you call WorldCat -- is
 it something feline :)  If you want more info off-list, pls contact me
 privately.
-
-> How do the names given in the WorldCat description relate to the one
 given
-> as "author" i.e., Mi-pham-rgya-mtsho?
-
 Best wishes,
 Stephen Hodge
-
-
-
-

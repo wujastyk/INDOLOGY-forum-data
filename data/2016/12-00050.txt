@@ -1,107 +1,68 @@
-From ambapradeep at gmail.com  Mon Dec 12 17:08:46 2016
-From: ambapradeep at gmail.com (Amba Kulkarni)
-Date: Mon, 12 Dec 16 22:38:46 +0530
-Subject: [INDOLOGY] Workshop - Bridging the Gap Between Sanskrit CL Tools & Management of Sanskrit DL
-Message-ID: <CAFffahBJ83xVpXDXX2KztApRJYiQSL5-ZXj4F+WqpDKc-RSbyw@mail.gmail.com>
-
+[INDOLOGY] Workshop - Bridging the Gap Between Sanskrit CL Tools & Management of Sanskrit DL
  Dear list members,
-
 Apologies for cross posting.
-
 The final programme of the workshop is given below.
-
 For registration and accommodation details visit
 http://ltrc.iiit.ac.in/icon2016/
-
 With regards,
 Amba Kulkarni
--------------------------------------------------------------------------------------------------------------
                 Bridging the gap between
         Sanskrit Computational Linguistics tools
                               and
         management of Sanskrit Digital Libraries
-
 Venue: IIT-BHU
-Date: Dec. 18th 2016
-
 8:30 - 9:00          Registration
-
 9:00 - 9:05          Vedic Chanting
-
 9:05 - 9:35          Introduction to Workshop by G?rard Huet
-
 9:35 - 10:15        Invited Speech by Prof Gopabandhu Mishra
                          Chair: Amba Kulkarni
-
 10:15 - 10:30      Tea
-
 10:30 - 12:00 Session I: Bridging the Gap
                     Chair: Lalit Kumar Tripathi
-
                    i) Anupama Ryali
                      Challenges in developing sanskrit e-readers
 semi-automatically
                      using online analyzer sa?s?dhan?  with special
 reference to
                      ?i?up?lavadha of m?gha
-
                  ii) Amrith Krishna, Pavankumar Satuluri, and Pawan Goyal
                     A Dataset for Sanskrit Word Segmentation
-
                 iii) Preeti Shulka, Amba Kulkarni and Devanand Shukl
                     Revival of Ancient Sanskrit Teaching methods using
                     Computational Platforms
-
 12:00 - 1:00  Demo Session I
                    Chair: Pawan Goyal
-
                    Demo Heritage Platform by G?rard Huet
                    Demo of SCL Platform by Amba Kulkarni
-
 1:00 - 2:00 Lunch
-
 2:00 - 3:00   Session II: Standards
                    Chair: G?rard Huet
-
                   i) Peter Scharf
                     Sanskrit Library conventions of digital representation
 and
                     annotation of texts, lexica, and manuscripts
-
                  ii) Dhaval Patel
                      Normalizing Cologne Digital Dictionaries.
-
 3:00 - 3:30 Tea
-
 3:30 - 4:30 Session III: Corpus Linguistics
                 Chair: Pawan Goyal
                 i) Sai Saurla, K. Gopinath and Parag Deshmukh
                    Architectural Considerations for Scalable Indic Document
 Analytics
-
                 ii) Srinivasa Kumar N Acharya and Arjuna S R
                   Grammatical analysis and subject indexing of Mah?bh?rata
-
                iii) Anuja Ajotikar, Tanuja Ajotikar and Peter M. Scharf
                   Colophons in Sanskrit manuscripts: A study of Harvard
 Collection
-
 4:30 - 4:45 Demo session II
                 Chair: Amba Kulkarni
-
                 Verb form Generator by Dhaval Patel
-
 4:45 - 5:45 Interactive session with the workshop participants
                 Chair: Amba Kulkarni
-
 5:45 - 5:50 Vote of thanks by Pawan Goyal
-
--- 
-
 Fellow,
 Indian Institute of Advanced Study,
 Shimla
-
 ? ?? ?????: ?????? ????? ??????: ll
 Let noble thoughts come to us from every side.
 - Rig Veda, I-89-i.
@@ -110,15 +71,7 @@ Department of Sanskrit Studies
 University of Hyderabad
 Prof. C.R. Rao Road
 Hyderabad-500 046
-
 (91) 040 23133802(off)
-
 http://sanskrit.uohyd.ac.in/scl <http://sanskrit.uohyd.ernet.in/scl>
 http://sanskrit.uohyd.ac.in/faculty/amba
 <http://sanskrit.uohyd.ernet.in/faculty/amba>
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161212/1b98e609/attachment.htm>
-

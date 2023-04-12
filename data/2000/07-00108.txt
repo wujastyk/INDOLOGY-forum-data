@@ -1,9 +1,4 @@
-From smadhuresan at YAHOO.COM  Fri Jul  7 14:49:53 2000
-From: smadhuresan at YAHOO.COM (Swaminathan Madhuresan)
-Date: Fri, 07 Jul 00 07:49:53 -0700
-Subject: h after t and d in S. Indian transliterations
-Message-ID: <161227059660.23782.5481569788985218981.generated@prod2.harmonylists.io>
-
+h after t and d in S. Indian transliterations
   Normally, Indians transliterate the english letter t which is alveolar
 into a retroflex. Eg., the english word, tea becomes ".tii" in all of India.
 When S. Indians started going to schools with English as the language of
@@ -14,38 +9,6 @@ for N. Indian languages does not arise. In S. India, (Harvard-Kyoto
 convention) "t" => th, (HK) S(.s) => sh, (HK) z("s) => sh  and so on
 is used in English. Whereas in the North or among Sanskritists,
 "h" is reserved for representing aspirates.
-
---- Allen W Thrasher <athr at LOC.GOV> wrote:
-> I notice that South Indian publications when using Anglicisations or
-> informal Romanizations of Sanskrit terms often add h after d dental
-> and possibly t dental.  Why is this?  Could it be that since English t
-> and d are alveolar rather than really dental and so are in between
-> Indic dentals and retroflexes, the h brings the tongue forward against
-> the teeth and so to the Dravidian speaker represents a dental better,
-> whereas an English dental would sound closer to a retroflex?
->
-> Allen Thrasher
->
->
->
-> Allen W. Thrasher, Ph.D.
->
-> Senior Reference Librarian       101 Indendence Ave., SE
-> Southern Asia Section               LJ-150
-> Asian Division                            Washington, DC 20540-4810
-> Library of Congress                     U.S.A.
-> tel. 202-707-3732                       fax 202-707-1724
-> Email: athr at loc.gov
->
-> The opinions expressed do not necessarily represent those of the
-> Library of Congress.
-
-
-__________________________________________________
 Do You Yahoo!?
 Send instant messages & get email alerts with Yahoo! Messenger.
 http://im.yahoo.com/
-
-
-
-

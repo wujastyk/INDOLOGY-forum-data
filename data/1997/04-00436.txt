@@ -1,10 +1,4 @@
-From jgardner at blue.weeg.uiowa.edu  Thu Apr 24 16:35:38 1997
-From: jgardner at blue.weeg.uiowa.edu (JR Gardner)
-Date: Thu, 24 Apr 97 11:35:38 -0500
-Subject: Apple Indian Language Kit
-Message-ID: <161227029934.23782.15671357333598445312.generated@prod2.harmonylists.io>
-
-
+Apple Indian Language Kit
 Indian Languages on the Apple are truly computer savvy with the new kit.
 Apple's ILk uses the "f" key for the virama/halant.  It is a fairly
 accessible and convenient key.  They did this--to my understanding--in
@@ -17,54 +11,27 @@ worldscript software to generate an appropriate glyph combining the
 respective consonants.  Thus, leaving each code point as a specific
 complete consonant in its glyph form, typing "str" instead of s/f/t/f/r
 gives satara, not str.
-
 Considering the future of mac OS-- to run on multi-platforms via the PPCP
 (formally called Chirp) chip, this ILK solution is well-worth
 investigating.  In addition, the folks at Cupertino tell me that a
 transliterator is also in the works which will facillitate conversion of
 the ITRANS databases of e-texts into ILK-- another very attractive issue.
-
 In short, this ILK is intuitive (one can choose from a QWERTY or standard
 Indian keyboard layout) and easy to use, it's gentle on memory and, above
 all, it makes Indian languages an actual TEXT-- not simply a font.  It
 means that anything you currently do--on the web, wherever--with text, you
 can now do with these Indian languages.  They are also quite attractive
 with no disintegration at any point size.
-
 It has been noted that the Vedic accent is missing. I am looking to
 program these for Apple as a third-party developer (once I get done with
 dissertation work!).
-
 Inquiries welcome,
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 John Robert Gardner                      Obermann Center
 School of Religion                         for Advanced Studies
 University of Iowa                       University of Iowa
 319-335-2164                             319-335-4034
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is ludicrous to consider language as anything other 
 than that of which it is the transformation.
-
 On Thu, 24 Apr 1997, Ralph Bunker wrote:
-
-> Check out this website for info on the Apple Indian Language Kit:
-> 
-> http://www.macos.apple.com/multilingual/indian/texthandling.html
-> 
-> It seems that you HAVE to type a virama to make a consonent appear in its
-> partial form. Wouldn't it be better just to type a conjunct consonent and
-> have the computer figure out which consonents appear in partial form and
-> which do not? So instead of typing 's(v)t(v)r' where (v) is whatever
-> character Apple uses to type a virama (or halant as they call it), just type
-> 'str'. Is there some cultural reason why viramas must be typed?
-> 
-> --ralph
-> 
-> 
-
-
-
-
-
-

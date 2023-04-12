@@ -1,9 +1,4 @@
-From Palaniappa at AOL.COM  Mon Jan 19 06:41:14 1998
-From: Palaniappa at AOL.COM (Palaniappa)
-Date: Mon, 19 Jan 98 01:41:14 -0500
-Subject: solution to the "kuyava' etymology
-Message-ID: <161227034827.23782.13096708534007146078.generated@prod2.harmonylists.io>
-
+solution to the "kuyava' etymology
 Regarding the formulation of the i/e  and u/o sound change model proposed by
 Bh. Krishnamurthy,  there seems to be some disagreements between Dr.
 Krishnamurthy and Dr. P.S. Subrahmanyam as has been pointed out by Dr.
@@ -16,13 +11,11 @@ remained as such when high vowels or zero followed in the next syllable, i.e.
 i.e.PD*(C)i/uC-a >PSD*(C)e/oC-a- (rule of vowel harmony or umlaut). Then,
 Early Tamil (which included Malayalam) changed these sequences to i,u (rule of
 dissimilation) throughout.
-
 Krishnamurthy based his conclusion regarding the nature of the proto-South
 Dravidian phonemic status (whether they were *i/*u or *e/*o) on the
 contraction of the root vowel and derivative vowel which takesplace when the
 intervening *-k-, *-y- (<*-c-) or *-v- is lost. In his book "Telugu Verbal
 Bases", Krishnamurthy gives the following processes
-
 I. (a). *iC-[I,u > I                      II (a). *uC-[I,u >U
    (b). *iC-[a > E                           (b). *uC-[a> O
    (c). *eC-[I,u,a > E                     (c). *oC-[i,u,a > O

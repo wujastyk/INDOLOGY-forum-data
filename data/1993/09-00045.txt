@@ -1,12 +1,5 @@
-From EVERSON at IRLEARN.UCD.IE  Wed Sep 22 16:16:08 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Wed, 22 Sep 93 16:16:08 +0000
-Subject: DRAFT ISCII-ENCODED SINHALESE CHARACTER SET
-Message-ID: <161227016159.23782.400577702638045545.generated@prod2.harmonylists.io>
-
- 
+DRAFT ISCII-ENCODED SINHALESE CHARACTER SET
 SINHALA DRAFT CHARACTER NAMES
- 
 @       Vowel modifiers
 0D80
 0D81
@@ -146,7 +139,6 @@ SINHALA DRAFT CHARACTER NAMES
 0DFE
 0DFF
 ==========
- 
 NOTES:
 It should be ascertained which of U+OD8E, U+0D8F, U+0D90 is used to
 represent Sanskrit E and AI. I have not had access to any texts here in
@@ -154,16 +146,7 @@ Sanskrit or Pali in Sinhalese script, and would appreciate it if anyone
 could forward to me specific information regarding equivalents and/or
 sample texts so that I can check to see if there are errors.
 (Unfortunately, such resources do not abound in Ireland.)
- 
 ==========
- 
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
- 
-
-
-
-
-

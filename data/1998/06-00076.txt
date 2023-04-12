@@ -1,28 +1,5 @@
-From jacob.baltuch at EURONET.BE  Wed Jun  3 22:05:10 1998
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Wed, 03 Jun 98 23:05:10 +0100
-Subject: diphthongs
-Message-ID: <161227039613.23782.736240785596255194.generated@prod2.harmonylists.io>
-
+diphthongs
 Michael Witzel wrote:
-
->Yet, we have an incidental case:
->words such as zreSTha are counted a having 3 syllables, in the Rgveda.
->This does not mean that metrics suddenly works here, just for this -e- as
->it does not in deva.
->Rather, we know that zreSTHa  is from the root zrI, from *IIr zriH,
->with laryngeal lengthening short i > I, long i.
->
->Thus, we get:
->         *zraiH-iSTha > zrai'iSTha (with hiatus? or glide, cf.
->jna-p-ayati)          > zreSTha,
->with e in manuscripts & recitation, but still counted as if 3 syllables!
->
->
->At some moment in the *post*-Rgvedic period thus, after the "RSis" who
->still made their verses using zreSTha having 3 syllables, the monophtong e
->developed. (nothing special about that, again in Pali, etc...)
-
 I'm afraid I have been left behind here. Maybe it's only a matter of one
 or two smaller steps so I'd be grateful if Michael or anyone else who's
 understood what's going on could fill those in. Just to make sure that
@@ -30,18 +7,11 @@ there's no ambiguity let us agree to use asterisks on reconstr. in which
 *ai/*aai/*au/*aau are used, nothing for transcriptions and [...] for
 the phonetics. Thus e/ai/o/au are reflexes (resp.) of *ai/*aai/*au/*aau
 and today are pronounced [e:]/[ai]/[o:]/[au].
-
 So, we have in (the written recension/modern recitation of) some Vedic
 texts zre3STha 'best', and zre3STha < *zrai'iSTHa < *zraiHiSTha on com-
 parative grounds.
-
 The question is: what was the pronunciation of what e3 stands for, at the
 time those texts were composed?
-
 If I understand what you're saying, the pluti-ness of the e must be a relic
 in the modern recitation of an original [ai'i] pronunciation. But if that's
 the case I'm lost. Why couldn't it be the relic of a [e:'i] pronunciation?
-
-
-
-

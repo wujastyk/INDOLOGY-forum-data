@@ -1,11 +1,5 @@
-From aktor at COCO.IHI.KU.DK  Fri Dec 12 09:35:21 1997
-From: aktor at COCO.IHI.KU.DK (Mikael Aktor)
-Date: Fri, 12 Dec 97 10:35:21 +0100
-Subject: Delocutives
-Message-ID: <161227034373.23782.15011108833129374478.generated@prod2.harmonylists.io>
-
+Delocutives
 Dear indology-listers,
-
 While the ongoing discussion about delocutives is fascinating in itself it
 strikes me that there is something wrong in the sense that these
 delocutives are not speech acts in the same manner as the other speech
@@ -25,15 +19,8 @@ instance from "to say 'honey'" to "to honey" or from "dire 'tu'" to
 also Dominik Wujastyk's example of an infinite recursion indicates). And
 in this sense the delocutives do not form a delimited speech act of its
 own.  - Or am I wrong?
-
 Best regards
-
 Mikael Aktor,
 Dept of the Study of Religion,
 University of Aarhus, Denmark
-
 aktor at coco.ihi.ku.dk
-
-
-
-

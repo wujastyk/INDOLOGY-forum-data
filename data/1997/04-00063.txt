@@ -1,22 +1,9 @@
-From tat at quel.stu.neva.ru  Thu Apr  3 22:26:01 1997
-From: tat at quel.stu.neva.ru (tat at quel.stu.neva.ru)
-Date: Thu, 03 Apr 97 14:26:01 -0800
-Subject: Nyayabhashya encoding
-Message-ID: <161227029322.23782.12669814829744965432.generated@prod2.harmonylists.io>
-
+Nyayabhashya encoding
      Dear collegues,
-
 I work on encoding the Nyayabhashya to make its electronic version. I would like to
 place  this  version on the indological  server but I don't know how to. I will be very 
 grateful  for any useful information.
 Now first five Nyayasutras with commentary are encoded (font is roman) and first ah-
 nika of the first adhyaya will be finished till june.
-
     Thanks in advance,
-
                               Yours Tattvarthi,  tat at quel.stu.neva.ru
-
-
-
-
-

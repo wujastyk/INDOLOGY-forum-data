@@ -1,20 +1,11 @@
-From hellwig7 at gmx.de  Sun Jul 17 14:36:10 2016
-From: hellwig7 at gmx.de (hellwig7 at gmx.de)
-Date: Sun, 17 Jul 16 16:36:10 +0200
-Subject: [INDOLOGY] New version of the Digital Corpus of Sanskrit
-In-Reply-To: <mailman.67.1468598414.14599.indology_list.indology.info@list.indology.info>
-Message-ID: <B1D21A12A3C045C9A9AB5BD10BD5E3EF@OliverHP>
-
+[INDOLOGY] New version of the Digital Corpus of Sanskrit
 Dear list,
-
 after several years, a new version of the Digital Corpus of Sanskrit has 
 come out. It contains, among other texts, the complete morphological and 
 lexical annotation of the Mahabharata except for three prose chapters.
-
 Although you are still redirected from the old URL, you may note the new web 
 address:
 http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php
-
 A few notes on the new release:
 (1) I find the multi-word search rather useful: You can now search for text 
 lines that must contain two or more lemmata (click on the "Add to multi-word 
@@ -38,21 +29,10 @@ unresponsive when JS is deactivated in your browser.
 should now be better, esp. on small screens.
 (7) Access to parts of the semantic annotation layer will be added in the 
 next weeks.
-
 I'm considering quite seriously to make this version of the DCS open source. 
 If you are interested in collaborating, please send me your github user 
 name, so that I can invite you to the project.
-
 Finally, my special thanks go to the patient and helpful team of the KJC at 
 the University of Heidelberg!
-
 Oliver
-
----
 Oliver Hellwig, University of D?sseldorf, Germany 
-
-
-
-
-
-

@@ -1,16 +1,9 @@
-From Palaniappa at AOL.COM  Sat May 23 19:48:57 1998
-From: Palaniappa at AOL.COM (Palaniappa)
-Date: Sat, 23 May 98 15:48:57 -0400
-Subject: Inscriptions and Dravidian sound changes "y" > "c" and "y" > "t"
-Message-ID: <161227039059.23782.10578507458626257156.generated@prod2.harmonylists.io>
-
+Inscriptions and Dravidian sound changes "y" > "c" and "y" > "t"
 Regarding the Dravidian y/c/s alternation, at 01:41 19/01/98 EST, Dr. Bh.
 Krishnamurti wrote:
-
 <<Coming to kuyawa~kucawa, an intervocalic consonant is weakened and not
 strengthened by a natural phonetic process. -c- [-s-] thus gets weakened to
 -y- and not the other way round.>>
-
 But this is not as universal a process as it is made out to be. According to
 the conventional weakening hierarchy of sound change as shown by Hans H. Hock
 in Principles of Historical Linguistics, 1991, p.83, the voiceless stops and
@@ -22,13 +15,10 @@ Dr. Krishnamurti seems to accept (Pr. Dr. *kay > Kui kaju). Given this, there
 seemed to be no reason to believe in the one-way change proposed by
 Krishnamurti and Subrahmanyam. A two-way alternation as suggested by G.
 Sambasiva Rao seemed to be the correct one.
-
 Indeed, my examination of inscriptional evidence showed irrefutable evidence
 for y > c. To prove my case, I have to show that a "y" reconstructable to
 Proto-Dravidian should change to "c" in a medial position.
-
 Consider the following case.
 matacAn2ai (SII, vol. 5, no. 431 ) < matayAn2ai
-
 The compound "matayAn2ai" is composed of "mata"+"yAn2ai". It means rutting
 elephant. "mata" (DEDR 4687) means "to be furious as by must" and "yAn2ai"

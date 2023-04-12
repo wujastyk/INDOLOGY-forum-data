@@ -1,15 +1,4 @@
-From PFAEHLER at rullet.LeidenUniv.nl  Sat Dec 17 12:46:15 1994
-From: PFAEHLER at rullet.LeidenUniv.nl (K.M.R. Pfaehler)
-Date: Sat, 17 Dec 94 13:46:15 +0100
-Subject: telnet india
-Message-ID: <161227018011.23782.9125489298638930145.generated@prod2.harmonylists.io>
-
+telnet india
 Hello, could anybody give me some information on public telnet connections in
 India (e.g. login as a "guest").
 Please contact PFAEHLER at RULLET.LEIDENUNIV.NL
- 
-
-
-
-
-

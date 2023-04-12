@@ -1,9 +1,4 @@
-From tantrapl at hektor.umcs.lublin.pl  Sat Sep  7 13:36:55 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Sat, 07 Sep 96 15:36:55 +0200
-Subject: typing Sanskrit an other Indian languages
-Message-ID: <161227025906.23782.6683013179108466546.generated@prod2.harmonylists.io>
-
+typing Sanskrit an other Indian languages
  Sorry I am a bit late with answer to some problems of transcription and BO.
 I had a lot of work recently and I feel it is better to slow down while
 discussing a serious problem like this. The problem is really hard to solve
@@ -16,27 +11,21 @@ not being interesting is quite subjective so I omitt the subject.
 far. As it is hard to answer to every proposal and question I would rather
 try and gather the major problems so far (then, in another letter, I would 
 like to give answer to some problems raised by G. Huet). 
-
 I) Is it useful to have a Roman script transcription of Indic languages for 
 presentation (on a computer screen or in a printed form)? 
 I think it is. Reasons: 
-
 1) it is easier to operate (produce, comment (!) etc) text in that form;
-
 2) the produced text is much more then a devanagari text accessible to a)
 interdisciplinary research; b) general public (including young enthusiastic
 readers which may be more interested in spiritual, philosophical or simply
 Indian matters than in devanagari)
-
 3) Roman script has advantage of better visibility on the screen than
 devanagari (given present day hardware and customs of majority of the net
 public but also because devanagari [not to mention some other Indian scripts] 
 has so many beatiful curves in its ligatures that it will allways be hard to 
 read on small computer screens)
-
 II) What features should such a system of transcription possess?
 I think it should:
-
 1) be close to traditional (especially internationally accepted) systems of
 transcription for languages in question.
 * It would be no major problem if the same sounds were rendered by
@@ -44,33 +33,23 @@ different sets af signs in different languages (that is their respective
 systems of transcriptions) especially when the languages are either very
 different or spoken by people who leave far away from one another. You can
 always mark the language the word belong to in case of doubt eg. skr.
-
 2) It should not go against internationally accepted conventions of using
 Roman script (like usage of capital letters). Let us not get mistaken by
 names like INTRANS which are rather expression of aspiration (and tool of 
 promotion) than real respect for international conventions.
-
 3) It should be easy to learn (taking into account a given system of
 internationally accepted transcription)
-
 4) It should be relatively easy to type for many people (and not only to
 a few martyrs who produce devanagari electronic texts and differ largely
 in their ways; my high regards and thanks to them for their benedictine work) 
-
 Additionally, 5) I think we should start with Sanskrit, then move to Hindi
 and other Indian indoeuropean languages, and only then to Dravidian ones and
 some other. It may sound unpleasent for Southerners but as Sanskrit unites
 us all similarity to this language of Hindi etc. is simply a fact which should
 be acknowledged and taken advantage of.
-	
 Finally, I would like to stress the international discussions are being
 conducted with Roman script rather then devanagari so I really do not feel
 we should leave the problem unresolved.
 	I am sorry, this is all I have time for today. I will try and answer
 some other questions soon. Thank you once more for taking interest.
 				Leslaw Borowski
-
-
-
-
-

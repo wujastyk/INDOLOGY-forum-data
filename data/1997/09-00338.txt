@@ -1,9 +1,4 @@
-From c722773 at SHOWME.MISSOURI.EDU  Thu Sep 25 15:21:22 1997
-From: c722773 at SHOWME.MISSOURI.EDU (Rahul Arora)
-Date: Thu, 25 Sep 97 10:21:22 -0500
-Subject: Transliteration
-Message-ID: <161227032746.23782.11851649934726316874.generated@prod2.harmonylists.io>
-
+Transliteration
 The book i am working on has been Transliterated from Sanskrit to
 Romanised English (ie Devanagari in Roman script  with  diacritcs).
 We have done this using the Indic Translit of Ecological Linguistics of
@@ -13,7 +8,3 @@ format of my files is different from that used by Itrans. Please suggest
 ways to do the conversion.
 Thanks
 Rahul
-
-
-
-

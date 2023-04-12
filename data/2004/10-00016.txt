@@ -1,13 +1,7 @@
-From harunaga at SAS.UPENN.EDU  Sun Oct 10 18:39:58 2004
-From: harunaga at SAS.UPENN.EDU (Harunaga Isaacson)
-Date: Sun, 10 Oct 04 14:39:58 -0400
-Subject: Question about writing Sanskrit without breaks between words
-Message-ID: <161227075055.23782.863180601940613775.generated@prod2.harmonylists.io>
-
+Question about writing Sanskrit without breaks between words
 It might also be worth looking at an article by Stephan Hillyer Levitt: Word
 Separation and India. In: Annals of the Bhandarkar Oriental Research Institute
 82 (2002) [published in 2003], pp. 37-48.
-
 According to a few notes I took when I glanced through this paper (I do not
 have the paper itself at hand right now), Levitt concludes on p. 46 'It is not
 true as an overall statement, as is generally stated, that word separation was
@@ -17,18 +11,12 @@ modern Devanaagarii textual materials* can be shown to be an ancient device
 shared as well by early West Semitic materials and by Cyprian Cretan materials.
 It would also seem that there was contact in this regard at the very least
 between ancient Greece and India.'
-
 * If I recall correctly, which may not be the case, Levitt here is referring to
 the use of not spaces but tiny strokes to mark word-division in manuscripts.
-
 I seem to recall further that Levitt also refers to Janert's studies of the
 A"sokan inscriptions, to which Jonathan Silk helpfully drew attention.
-
 Harunaga Isaacson
-
---
 Harunaga Isaacson
-
 South Asia Studies
 University of Pennsylvania
 820 Williams Hall,
@@ -36,7 +24,3 @@ University of Pennsylvania
 Philadelphia, PA 19104-6305
 USA
 tel. +1 215 898 6047
-
-
-
-

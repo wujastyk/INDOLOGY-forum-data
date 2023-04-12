@@ -1,13 +1,6 @@
-From ebashir at UMICH.EDU  Wed Oct 27 16:04:39 1999
-From: ebashir at UMICH.EDU (E. Bashir)
-Date: Wed, 27 Oct 99 12:04:39 -0400
-Subject: Roman Numerals---Three Different Answers
-In-Reply-To: <19991027110253.32289.qmail@hotmail.com>
-Message-ID: <161227053058.23782.5853285091682556158.generated@prod2.harmonylists.io>
-
+Roman Numerals---Three Different Answers
 None of these three is correct.  The Roman numeral system uses the
 principles of both subtraction and addition.  The basic symbols are:
-
 I  = 1
 V  = 5
 X  = 10
@@ -15,16 +8,9 @@ L  = 50
 C  = 100
 D  = 500
 M  = 1000
-
 Thus 986 should be:
-
 CMLXXXVI
-
 (1000-100) + 50 + (3 x 10) + 5 + 1
-
-
-
-
 **************************************************************************
 Elena Bashir, Ph.D.                     3070 Frieze Bldg.
 Lecturer in Urdu and Hindi              The University of Michigan
@@ -33,26 +19,4 @@ Dept. of Asian Languages and Cultures   Ann Arbor, MI 48109
                         Dept. Phone:  734-764-8286 (messages only)
                         Fax:  734-647-0157
 **************************************************************************
-
 On Wed, 27 Oct 1999, Kailash Srivastava wrote:
-
-> The following are three different replies to my question as to how Romans
-> wrote 986!!!
->
-> CMIICVI
-
-> CMDCCCVI
->
-> CMVCCCVI
->
-> Was it possible to write the same number in three different ways?
->
-> Thanx/Kailash
->
-> ______________________________________________________
-> Get Your Private, Free Email at http://www.hotmail.com
->
-
-
-
-

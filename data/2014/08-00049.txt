@@ -1,174 +1,34 @@
-From psdmccartney at gmail.com  Tue Aug 12 13:46:48 2014
-From: psdmccartney at gmail.com (patrick mccartney)
-Date: Tue, 12 Aug 14 15:46:48 +0200
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
-In-Reply-To: <3B23F5C1-5E76-4A44-AA63-EB1C91E7CEA5@smu.edu>
-Message-ID: <CAEzwJrCpRikp3gp+GBkeopoXr1ErPdpuLmL6=XJDS9O3RELn4g@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
 I'm running Mac 10.9.4
-
 I also don't use Word unless I absolutely have to. Actually the problem
 started, or was first noticed in Scrivener. It also exists in Text edit and
 in Gmail, basically anywhere I would like to use these fonts. So it doesn't
 seem to be limited to any particular program.
-
 I tried steps a) -> d) plus restarting the computer and playing around with
 the fonts in the font book but this did not fix the problem either.
-
 I ran a test on other languages. Basically all the North Indian Fonts do
 not work. ie Bangla, Oriya, Devanagari. So too Tamil, but Kannada works
 fine.
-
 Other language fonts like Bulgarian, Armenian, etc work without problems.
-
 I think the next step is to go visit my hopefully friendly local Mac store
 and see if they have a solution...replacement of laptop maybe :)
-
 Best,
-
-
-
 All the best,
-
 Patrick McCartney
-
 PhD Candidate
 School of Culture, History & Language
 College of the Asia-Pacific
 The Australian National University
 Canberra, Australia, 0200
-
-
 Skype - psdmccartney
-
 Australia:  +61 487 398   354
 Germany: +49 157 5469 4045
-
-
    -  au.linkedin.com/pub/patrick-mccartney/68/b69/7aa/
    <http://goog_371544488>
-
 https://www.youtube.com/watch?v=xZHJVkhVBPc&list=UUfGaSWlfxH4er_TsQBmSINQ
 <http://goog_371544488>
-
 <http://goog_371544488>
 https://www.youtube.com/watch?v=LVqBD_2P4Pg
-
 http://www.youtube.com/watch?v=AfpCc8G_cUw&feature=related
-
-
 On Tue, Aug 12, 2014 at 2:50 PM, Lindquist, Steven <slindqui at mail.smu.edu>
 wrote:
-
->   I can't speak to the exact problem with Hindi, etc. (I don't use them,
-> though both of your problems sounds suspiciously similar to problems I've
-> had before with keyboard layouts and also Apple/Microsoft more generally),
-> and I've usually been able to find (often inelegant) workarounds from
-> various places.  The always obvious solution is to give up on Microsoft
-> (but I'm too stubborn).
->
->  Barring that or a fix from either corporation, I would try (a) use a hot
-> key to toggle layouts quickly, (b) toggle on/off the 'use document input
-> source,' (c) change keyboard input at login, or (d) modify the hidden
-> default file (I've never done this one since I didn't know it was possible,
-> but it showed up in the link below; if I understand it properly, this could
-> solve your US Extended problem, Tim).
->
->  When you find a solution, do let me know as I'm sure I'll encounter the
-> problem soon enough.
->
->  More info here:
-> *http://tinyurl.com/o2wu6dv <http://tinyurl.com/o2wu6dv>*
->
->  My best,
->
->  Steven
->
->  BTW: I always keep (b) off as it has caused me problems before.
->
->
-> Steven Lindquist, Ph.D.
-> Associate Professor, Religious Studies
-> Director, Global and Regional Studies Initiative
-> Director, Asian Studies
-> ______________
-> Dedman College of Humanities and Sciences, SMU
-> PO Box 750202 | Dallas | TX | 75275
-> Email: slindqui at smu.edu
-> Web: faculty.smu.edu/slindqui
->
-> On Aug 12, 2014, at 6:49 AM, "Lubin, Tim" <LubinT at wlu.edu> wrote:
->
->   Similar problem here, as of yesterday.  Whenever I open a Word doc the
-> keylayout switches to Devanagari. If I remove Dev from the list, it
-> switches to US Extended, which cannot be removed. I normally use a
-> customized version of EasyUnicode. The problem seems limited to Word.
->
->  Tim Lubin
->
-> Sent from my iPhone
->
-> On Aug 12, 2014, at 4:20 AM, "patrick mccartney" <psdmccartney at gmail.com>
-> wrote:
->
->   Dear List,
->
->  I am having trouble with the factory Hindi and Gujarati fonts on my
-> Macbook Pro. In the middle of typing they just reverted to the Latin font.
-> The Urdu font and phonetic fonts I also work with are fine.
->
->  I made sure that caps lock was not on.
->
->  I think it may be due the latest update?
->
->  I went through keyboard preferences and uninstalled/unclicked both
-> languages but that has not worked.
->
->  Has anyone experienced this problem before or currently?
->
->
->  All the best,
->
-> Patrick McCartney
->
-> PhD Candidate
-> School of Culture, History & Language
-> College of the Asia-Pacific
-> The Australian National University
-> Canberra, Australia, 0200
->
->
-> Skype - psdmccartney
->
-> Australia:  +61 487 398   354
-> Germany: +49 157 5469 4045
->
->
->    -  au.linkedin.com/pub/patrick-mccartney/68/b69/7aa/
->    <http://goog_371544488>
->
-> https://www.youtube.com/watch?v=xZHJVkhVBPc&list=UUfGaSWlfxH4er_TsQBmSINQ
->  <http://goog_371544488>
->
->  <http://goog_371544488>
-> https://www.youtube.com/watch?v=LVqBD_2P4Pg
->
-> http://www.youtube.com/watch?v=AfpCc8G_cUw&feature=related
->
->  _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
->
->   _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140812/ff6aa1b6/attachment.htm>
-

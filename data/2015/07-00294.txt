@@ -1,72 +1,47 @@
-From nakeerthi at gmail.com  Wed Jul 29 04:57:20 2015
-From: nakeerthi at gmail.com (naresh keerthi)
-Date: Wed, 29 Jul 15 10:27:20 +0530
-Subject: [INDOLOGY] Does anyone know of Sanskrit works that use	2nd-syllable rhyming?
-Message-ID: <CACcR+FBvfFsEVCGO98B79RVc6nStnePDDmCWjz1MsQEqbM1SJg@mail.gmail.com>
-
+[INDOLOGY] Does anyone know of Sanskrit works that use	2nd-syllable rhyming?
 Hello all,
-
 The use of second syllable rhyme [that the Kannada grammar kavirAjamarga
 calls Adi-prAsa, and anomalously referred to as dvitIyAkSara-prAsa in later
 texts ] is indeed a feature particular to South India.
-
 Another compulsory feature of SI poetry [classical poetry in Kannada,
 Tamil, Telugu for sure, I don't know enough about Malayalam classical
 poetry] is the marking of the yati caesura by a feature called
 akSara-maitri, wherein the first letter of the line and the letter after
 the caesura are same, or similar.
-
 This feature of poetry seems to have eventually percolated into
 recitative/performative forms that were half-way between poems and songs,
 as well as into genres that were entirely song like.
-
 However it would be useful if someone can point to a treatise that
 prescribes such features for the song-like genres. the kavi-rAja-marga does
 set the rules down for verse in Kannada in certain terms. I am inclined to
 believe that there must be separate if related rules for the composition of
 poetry and song, even if the genres are somewhat related.
-
 The songs of muttuswAmi dIkSita [18th Century] that Indira Peterson
 discusses, are coming as part of a long tradition of kIrtana song genres
 that have followed the prAsa rule with various degrees of rigour, from the
 15th century onwards. dIkSita indeed follows the practise of Adi-prAsa and
 yati religiously.
-
 dIkSita's contemporary SwAti tirunAl, a literary-minded ruler of Travancore
 put together a manual  with rules for musical compositions titled
 muhanaprAsa-antaprAsa-vyavasthA.
-
 The example given from the BhAgavata - the gopika gItam [jayati te'dhikam
 etc..] is not really an akSara-vRtta. Neither is Jayadeva's magnum opus.
 Nor are the Apabhramsa gItis that Prof Tieken refers to,  or the songs of
 muttuswAmi dikSita.
-
-
 I have been collecting examples of  (Sanskrit) verses that demonstrate such
 Southern features as Adi-prAsa and/or aksara-maitri for yati. As was
 pointed out in the essay by Shulman and Bronner, such examples abound in
 the Sanskrit poetry of South Indian Sanskrit poets; who had significant
 exposure to non-Sanskrit classical literature.
-
 Examples can be found in the stotra literature, in Jagannatha PanditarAja,
 VenkaTanatha and so on.
-
 Find below one such example from the end of NArAyaNa BhaTTa's MAnameyodaya
 -
-
 kRSNo' vibudhAdhipatir
 niSNAto vitaraNeSu vidyAyAH |
 muSNAtu hRdaya-timiram
 puSNAtu sakalAni ca maGgalAni || abhAva-nirNaya verse #6 ||
-
-
 Best,
 Naresh Keerthi,
 National Institute of Advanced Studies,
 Bangalore
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150729/4cbcd8d1/attachment.htm>
-

@@ -1,19 +1,4 @@
-From mulleror at pilot.msu.edu  Mon May 12 12:45:40 1997
-From: mulleror at pilot.msu.edu (Paul Muller)
-Date: Mon, 12 May 97 12:45:40 +0000
-Subject: Tantraloka
-Message-ID: <161227030179.23782.14579835796716513357.generated@prod2.harmonylists.io>
-
->>On Sat, 10 May 1997, Catalin Buiu wrote:
->>> 1. Is there any English or French translation of TantrAloka (TA) of 
->>> Abhinavagupta published? Do you know of any translation that is planned 
->>> to be published?
-
->>see, _The Tantraloka of Abhinavagupta with commentary by Rajanaka
->>Jayaratha, ed. with notes by M. R. Shastri, 1918-1938. 12 vols. Allahabad:
->>Indian Press. Reprinted with introduction and notes by R. C. Dwivedi and
->>N. Rastogi, 1987. 8 vols. Delhi: Motilal Banarsidass.
-
+Tantraloka
 Unless I am very much mistaken, the above-referenced volumes are 
 the Sanskrit edition of the text, not a translation.  I am aware that
 a translation of the first five ahnikas of the TA into French will soon be
@@ -25,9 +10,3 @@ Delle Sacre Scriture di Abhinavagupta (Unione Tipografico-Editrice
 Torinese, 1972).
 Hope this is helpful.
 Paul Muller-Ortega 
-
-
-
-
-
-

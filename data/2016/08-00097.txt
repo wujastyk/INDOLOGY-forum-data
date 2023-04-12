@@ -1,34 +1,16 @@
-From hspier.muktabodha at gmail.com  Wed Aug 10 19:31:20 2016
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Wed, 10 Aug 16 15:31:20 -0400
-Subject: [INDOLOGY] Sinhala half nasal plus m
-In-Reply-To: <CAOXgvip-KiqNK+Ga-ihPDcwYMfz9MNqFKONPx56zW36ihe_cAA@mail.gmail.com>
-Message-ID: <CAPW7aQFaL6B_rGRTr=ELRU0UKbDsoCmSH3h16YJetp1OQdYWog@mail.gmail.com>
-
+[INDOLOGY] Sinhala half nasal plus m
 Thank you for this information Suresh.
-
 Suresh wrote:
-
-
    1. Please don't use ? for transcribing the half nasal. ? is used for
    anusv?ra in ISO-15919. Sinhala should be using ISO-15919, not IAST. ? is
    not used in ISO-15919.
    2. ...
    3. *m? should serve your purposes for representing the labial
    prenasalized consonant *? (U+0DB9 SINHALA LETTER AMBA BAYANNA)
-
-------------------------
 This is of course a workable work-around but the ISO 15919 standard for
 this letter is m with chandra over it not chandrabindu.  Suresh can you
 confirm if there is a unicode letter of m with chandra over it.  Is there a
 procedure to add new letters to Unicode.  I would think its reasonable that
 all ISO 15919 letters were included in Unicode as single glyphs.
-
 Thanks,
 Harry Spier
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160810/548bd478/attachment.htm>
-

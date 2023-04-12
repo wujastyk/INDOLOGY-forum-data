@@ -1,22 +1,7 @@
-From ucgadkw at UCL.AC.UK  Thu Nov 14 14:42:06 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 14 Nov 02 14:42:06 +0000
-Subject: Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)
-Message-ID: <161227071703.23782.5667991998316140908.generated@prod2.harmonylists.io>
-
--- Forwarded message --
-------------------------------------------------------------------
-
+Norman Font and CSX+ Font for Windows 1995/1998/2000/XP (fwd)
 Norman Font and CSX+ Font for Modern Releases of Windows and Word
-
 Besides the new CSX+ font, which is now fully compatible with modern
 Windows (95/98/ME/2000/XP) and modern Word (1997/2000/XP), a similar
 new font for K.R.Norman encoding is now downloadable from this site:
-
   http://home.t-online.de/home/ulrich.stiehl/polfonts.htm
-
 Ulrich Stiehl, Heidelberg
-
-
-
-

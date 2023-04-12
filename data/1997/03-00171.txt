@@ -1,16 +1,5 @@
-From apandey at u.washington.edu  Fri Mar 14 21:16:12 1997
-From: apandey at u.washington.edu (Anshuman Pandey)
-Date: Fri, 14 Mar 97 13:16:12 -0800
-Subject: New Free Devanagari TrueType Font.
-Message-ID: <161227028948.23782.6339152576448356940.generated@prod2.harmonylists.io>
-
-
+New Free Devanagari TrueType Font.
 On Fri, 14 Mar 1997, Tobias Grote-Beverborg wrote:
-
-> It's always a risk to download unfamiliar files and it reminds me to be very
-> careful about recommendations.
-> I usually only recommend files which I have downloaded myself.
-
 I had made the recommendation about the font after testing it myself and
 after running a virus-scan on it (even though it is not an executable and
 has a rare chance of carrying a virus or being a trojan horse). The
@@ -19,31 +8,13 @@ with the font, note that I would have surely made an announcement of
 the problems in the inital message. The link mentioned in the message I
 forwarded from the newsgroup from where I received it is the home site of
 the font's author.
-
 I think Mr Grote-Beverborg misunderstood Mr. Fosse's
-
-> Anyway I hope You don't suffer a major breakdown of Your system, please,
-> keep me informed about further development concerning the *RKSanskrit TTF*.
-> If You want, I can attach my version of *RKSanskrit* and You could try out
-> whether it works better.
-
 Fonts cannot cause a major breakdown of a system. But that does not count
 out a breakdown of one's sanity... If you have questions regarding the
 origin and development of the font, please contact the author, Reinhold
 Kainhofer at rk at cryogen.com . I'm sure he can answer most if not all of
 your questions.
-
 Regards,
 Anshuman Pandey
 University of Washington
 apandey at u.washington.edu
-
-
-
-
-
-
-
-
-
-

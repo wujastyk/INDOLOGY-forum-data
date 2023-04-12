@@ -1,18 +1,10 @@
-From Palaniappa at AOL.COM  Wed Feb 25 03:30:06 1998
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Tue, 24 Feb 98 22:30:06 -0500
-Subject: Smoke and flower in Classical Tamil
-Message-ID: <161227036113.23782.3993502355003219136.generated@prod2.harmonylists.io>
-
+Smoke and flower in Classical Tamil
 The participation in this list yields unexpected insights. Sometime ago, as I
 was responding to a query on "curry", I noticed something interesting. As I
 researched it later, it gave an important insight into how Dravidians viewed
 flowers and smoke.
-
 In a Classical Tamil poem, we find the following:
-
 pUtta pukaiyum aviyum... (par 16.53)
-
 Here, "pukai" (smoke) is described by the past adjectival participle (pUtta)
 of the verb "pU" which is interpreted as "to spread (like flowers)". For this
 meaning of "pU", see V. S. Rajam?s "A Reference Grammar of Classical Tamil
@@ -33,27 +25,21 @@ state to another , i.e., not only entering from outside to inside but also
 emanating from inside to outside/spreading. The use of "pU" to describe the
 actions of smoke as well as flower  also implies that the root for words
 referring to flower could also be *puk-.
-
 If the verb base is "puku", then "pukai" is a derived noun which is later used
 as a verb also. Compare the following:
-
 paku - to be split, divided                                pakai - hatred, to
 hate
 naku - to laugh                                               nakai -
 laughter, to laugh
 puku - to enter / to emanate/spread                 pukai - smoke (that which
 spreads/comes out of any burning object), to smoke
-
 The verb "pU" is also used to describe smell as in the Classical Tamil poem
 puRanAn2URu 14 with the following lines:
-
 pulavu nARRatta paintaTi
 pUnARRatta pukai koLIi...            (puR.14.12-14)
-
 Here the flesh-smelling meat piece is made to have the seasoning with
 spreading/emanating good smell (pU nARRatta). "pU" is used here as a non-past
 adjectival participle.
-
 Thus, if the word "pU" is ultimately derived from the root *puk-, then the
 idea that the original root in the word "pukai" is *pok-  based on comparative
 evidence needs to be changed. According to P. S. Subrahmanyam (Dravidian
@@ -66,7 +52,6 @@ whether or not such a root is followed by a derivative element beginning with
 a vowel (including a) because such a derivative element  can have no influence
 on this type of root.)". P. S. S gives the following cognates for pukai. (DCP,
 1983, p.208)
-
 "Ta. pukai ?smoke, mist, vapour, steam?; (-v-, -nt-) ?to smoke?; (-pp-, -tt-)
 ?to cause to smoke?; pukAr ?mist, fog, haze?. Ma. puka ?smoke, vapour?, pukay-
 ?to be darkened by smoke?; puke- ?to fumigate?. Ko. peg ?smoke?; pog, pO
@@ -78,22 +63,13 @@ pOpu ?seasoning?. Kol. Nk. Ga. (Oll.) pog ?smoke?. Ga. (S) pOgu. Go. (A) pOyA;
 (Mu) poy- ?to smoke? KonDa. pogo ?smoke?. Kui (K.) pOkari. Kuwi (Su.) bOyi,
 (P.) b~uy. (o and the long O in many CDr. languages indicate that they were
 original here. 3483)"
-
 On the other hand G. Sambasiva Rao (A Comparative Study of Dravidian Noun
 Derivatives , 1991, p. 34) shows the following.
 "Ta. puk-ai. Ma. puk-a, Ka. pog-e, Kod. pug-e, Tu. pug-e, Te. pog-a, Go. poy-
 a, po-e, pog-a, Kond. pog-o, Kuvi. bhoy-i, bo-i ?smoke? *puk-ay (3483)"
-
 In the above lists of cognates, 3483 refers to DED entry.
-
 Given the new evidence from Tamil with "pU" satisfying P.S. Subrahmanyam's
 condition (ii), the radical vowel root seems to be *-u- confirming G.
 Sambasiva Rao?s position.
-
 Regards
-
 S. Palaniappan
-
-
-
-

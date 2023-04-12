@@ -1,17 +1,10 @@
-From martingansten at gmail.com  Tue Sep 24 16:22:19 2019
-From: martingansten at gmail.com (Martin Gansten)
-Date: Tue, 24 Sep 19 18:22:19 +0200
-Subject: [INDOLOGY] About "bha-graha"
-In-Reply-To: <CAJz4T_51Xzs2MQrcMCkJbXBF8vETTRXhgQh-0sgKfZinfhcu4A@mail.gmail.com>
-Message-ID: <c414d7e5-89d7-1158-d2e6-5e9cb5c97fd7@gmail.com>
-
+[INDOLOGY] About "bha-graha"
 Well, bha = nak?atra typically means the asterism (out of the 27, 
 beginning with A?vin? or, in the older system, with K?ttik?) occupied by 
 the moon, unless otherwise specified. This is normal usage in muh?rta 
 texts too. I am less certain about what to do with the graha part. I had 
 a look at B?hatsa?hit? 4.4 (pratidivasam evam ark?t...) but am not sure 
 how it would apply to the discussion in the present verses.
-
 The overall concern seems to be the same as in muh?rta generally, that 
 is: (1) within each of the different calendric/astronomical variables 
 such as tithi, yoga, day of the week, lunar nak?atra, etc., which are 
@@ -19,42 +12,6 @@ most suitable for action X? and (2) when it is not possible to find a
 time that matches all or most these criteria, which one(s) should be 
 prioritized? But graha is not a calendric element, and I am not sure 
 what precisely it means here.
-
 Best wishes,
 Martin
-
-
 Den 2019-09-24 kl. 18:05, skrev Mrinal Kaul:
-> Dear Prof Gansten,
->
-> Thanks very much for your email. Indeed the discussion is about 
-> determining the most suitable time for following certain rituals. But 
-> I am curious about "/bha/" that is prefixed to '/graha/'. In the 
-> /Tantr?loka/28 and the commentary titled Vivek thereupon by Jayaratha 
-> there are expressions like '/*bha*grah?dy?tmana?/' (Viveka on 28.35) 
-> where he also quotes a verse that reads 
-> '/*bha*grahasamayavi?e?a?/.....'. 28.40ab reads 
-> '...../*bha*grah?dy?tmakatv?t/ /vi?e?ar?patvameva/|' In 28.42cd 
-> Jayaratha begins with a question '/nanu kasm?d atra ??vayuje m?si 
-> *bha*grah?diyogi nokta/....|' to which Abhinavagupta is supposed to 
-> have replied '/*bha*grahasamayavi?e?o/.....|' 28.46cd also reads 
-> '/dinavel?*bha*grahakalpanena/....|' 28.47cd has 
-> '/*bha*grahatithi?'/and in 28.49cd Jayaratha quotes from the 
-> /B?hatsa?hit?/ 4.4 and concludes after a short discussion there saying 
-> /s? hi tithir ucyate y? *bha*grahai? sphu??bhavati./?Again, 28.51d has 
-> /tithi*bha*grahayogata?/and 28.52a has /*bha*grahayog?bh?ve tithi?/.
->
-> I think Prof Gnoli also translated the expression as 'asterismi'. I 
-> think I have some clarity now, but it would be nice if some expert is 
-> able to throw more light, may be from Jyoti?a texts.
->
-> Many?thanks and?best wishes.
->
-> Mrinal
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190924/43eb0661/attachment.htm>
-

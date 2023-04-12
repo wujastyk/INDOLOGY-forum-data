@@ -1,9 +1,4 @@
-From mmdesh at UMICH.EDU  Wed Sep 22 17:17:51 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Wed, 22 Sep 99 13:17:51 -0400
-Subject: Sandhis of word-final N
-Message-ID: <161227052470.23782.946573385534559315.generated@prod2.harmonylists.io>
-
+Sandhis of word-final N
 Thanks to Georg von Simson and Hans Hock for referring to the
 onomatopoetic usages like bhaN iti found in late Vedic material.  For
 Panini, such words are called imitations of inarticulate sounds
@@ -26,7 +21,3 @@ after a short vowel and before another vowel does not extend to palatal ~n
 and m.  Why does it apply only to the other three nasal consonants?  Any
 suggestions?
                                         Madhav Deshpande
-
-
-
-

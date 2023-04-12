@@ -1,9 +1,4 @@
-From kichenas at s5.math.umn.edu  Tue Nov 15 16:47:38 1994
-From: kichenas at s5.math.umn.edu (Satyanad Kichenassamy)
-Date: Tue, 15 Nov 94 10:47:38 -0600
-Subject: RAMAYANA & MAHABHARATA e-texts
-Message-ID: <161227017825.23782.3670426708621797513.generated@prod2.harmonylists.io>
-
+RAMAYANA & MAHABHARATA e-texts
 With reference to David Magier's message, it would be nice
 if someone could post the exact e-mail address of the South Asia
 Gopher and the Columbia ftp server (and of other sites which
@@ -13,22 +8,11 @@ more widely, it may also be appropriate to post a brief table of
 contents of available material on Usenet newsgroups such as
 sci.lang, soc.culture.indian, soc.culture.tamil,... 
 There is a proposal for a new sci.lang.sanskrit newsgroup.
-
 Also, there are many classical musical compositions (with text and
 sometimes notation) which have been posted on rec.music.indian.classical.
 (Indian musical notation is relatively easy to put in ASCII form.)
 Again, a centralized source of such material would be helpful.
-
-
-
                                 Satyanad Kichenassamy
                                 School of Mathematics
                                 University of Minnesota
                                 kichenas at math.umn.edu
-
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From roheko at CLASSIC.MSN.COM  Sun Oct  5 23:11:15 1997
-From: roheko at CLASSIC.MSN.COM (Rolf Heinrich Koch)
-Date: Sun, 05 Oct 97 23:11:15 +0000
-Subject: VBA Modul Devanagariconverter is ready!
-Message-ID: <161227032985.23782.8690478607506052195.generated@prod2.harmonylists.io>
-
+VBA Modul Devanagariconverter is ready!
 Hi, since a lot of you shows interest in the WINWORD97
 Visual-Basic-Application program for converting romanized transcribed texts
 into Devanagari: the Modul is ready. You get it free including two fonts. In
@@ -19,7 +14,3 @@ N o   M a c i n t o s h
 Good luck
 Heiner
 Email: roheko at classic.msn.com
-
-
-
-

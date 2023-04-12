@@ -1,33 +1,19 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Sat Oct 12 02:29:24 1996
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Sat, 12 Oct 96 11:29:24 +0900
-Subject: Upgraded Mahaabhaarata again
-Message-ID: <161227026393.23782.4437920682630462254.generated@prod2.harmonylists.io>
-
+Upgraded Mahaabhaarata again
 Dear Colleagues,
-
 I placed the upgraded Mahaabhaarata e-text (1_1) in my ftp
 site on October 3.  Prof. Tokunaga and one of his students,
 however, found that some corrections were missing in the
 process of comparison.
-
 So I have replaced the Mahaabhaarata e-text in my site again.
 If you downloaded the text between October 3 and 11, we
 advice you to do it again.
 Sorry for inconvenience!
-
 My ftp address is:
 ccftp.kyoto-su.ac.jp
 ~~~~~~~~~~~~~~~~~~~
 the directory is:
 pub/doc/sanskrit/mahabharata
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Michio YANO
 yanom at ksuvx0.kyoto-su.ac.jp
 yanom at cc.kyoto-su.ac.jp (for private mail)
-
-
-
-
-

@@ -1,57 +1,30 @@
-From mark.allon at sydney.edu.au  Mon Aug  1 23:21:05 2022
-From: mark.allon at sydney.edu.au (Mark Allon)
-Date: Mon, 1 Aug 2022 23:21:05 +0000
-Subject: [INDOLOGY] =?utf-8?q?Journal_of_Gandh=C4=81ran_Buddhist_Texts?=
-In-Reply-To: <CAB3-dzfHfdr+HqLJsLJfAwnV5wcGy2Sok31hSkw75eY-JvteXQ@mail.gmail.com>
+[INDOLOGY] =?utf-8?q?Journal_of_Gandh=C4=81ran_Buddhist_Texts?=
 References: <SY7PR01MB817309E317FF99C0FBDAD53ADD9A9@SY7PR01MB8173.ausprd01.prod.outlook.com>
  <CAB3-dzfHfdr+HqLJsLJfAwnV5wcGy2Sok31hSkw75eY-JvteXQ@mail.gmail.com>
-Message-ID: <SY7PR01MB81738FAE8457A9DD38128BC4DD9A9@SY7PR01MB8173.ausprd01.prod.outlook.com>
-
 Dear Madhav,
-
 The interactive and dynamic nature of these fully digital articles means that they cannot be easily ?flattened? into conventional pdf format. This is in contrast to the first generation of online journals where articles are essentially electronic forms of conventional publications which can be downloaded and printed as such.
-
 However, components of these articles such as the edition in its various manifestations (diplomatic, reconstructed, hybrid), ch?y?, translation, and glossary can be exported via the Tool Pane.
-
 We have a guide page available on the site for how to use digital editions https://gandhari-texts.sydney.edu.au/edition/anavatapta-gatha/#guide. This will be improved as we develop the journal.
-
 Best wishes
 Mark
-
-
-From: Madhav Deshpande <mmdesh at umich.edu>
 Sent: Monday, 1 August 2022 10:57 PM
-To: Mark Allon <mark.allon at sydney.edu.au>
-Cc: indology at list.indology.info
-Subject: Re: [INDOLOGY] Journal of Gandh?ran Buddhist Texts
-
+Re: [INDOLOGY] Journal of Gandh?ran Buddhist Texts
 Hi Mark,
-
      Is there a way to download this article as a pdf. Somehow, it is not clear to me from the website. Best,
-
 Madhav
-
 Madhav M. Deshpande
 Professor Emeritus, Sanskrit and Linguistics
 University of Michigan, Ann Arbor, Michigan, USA
 Senior Fellow, Oxford Center for Hindu Studies
 Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
-
 [Residence: Campbell, California, USA]
-
-
 On Sun, Jul 31, 2022 at 11:38 PM Mark Allon via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Dear list members,
-
 The latest issue of the peer-reviewed electronic Journal of Gandh?ran Buddhist Texts<https://openjournals.library.sydney.edu.au/index.php/JGBT/index> has just been released, representing a fully interactive digital edition of a G?ndh?r? version of the Anavatapta-g?th?, RS14 of the Robert Senior collection of Kharo??h? manuscripts:
-
 ?RS14.01 Anavatapta-g?th? Sutra,? edited by Richard Salomon and Stephanie Majcher:
 https://gandhari-texts.sydney.edu.au/edition/anavatapta-gatha/
-
 As noted for previous articles, the framing content for this is minimal with the reader being referred to print publications for further details and analysis.
-
 For those who have not visited the JGBT before, some of the features and resources provided by these digital editions are:
-
   *   ability to switch between diplomatic, reconstruction, and hybrid editions
   *   ability to easily align the edition, English translation and Sanskrit ch?y?
   *   full glossary
@@ -62,21 +35,10 @@ For those who have not visited the JGBT before, some of the features and resourc
   *   additional resources such as downloadable colour and infrared images of the manuscript or inscription, images of select reconstructed sections, and related images such as historical images and images of the manuscript in the process of being conserved
   *   reference to a companion print publication, such as a journal article or a volume in the Gandh?ran Buddhist Text (GBT) series (University of Washington Press). Companion publications may have a DOI link to this electronic publication
   *   facility for readers? comments/feedback to be added.
-
 We invite submissions of G?ndh?r? and Sanskrit textual material (manuscripts, inscriptions, etc.) from the Greater Gandh?ran region. Guidelines for submission, with various options for authors to onboard their texts into the journal are available upon application. For further details, contact Mark Allon: mark.allon at sydney.edu.au<mailto:mark.allon at sydney.edu.au>.
-
 Respectfully,
-
 Editors: Mark Allon, Paul Harrison, Richard Salomon
 Management Board: Andrew Glass, Stephanie Majcher, Joe Marino, Ian McCrabb
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology<https://protect-au.mimecast.com/s/39f9CoV1kpfXx2mlQf16Aey?domain=list.indology.info>
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220801/172569d8/attachment.htm>
-

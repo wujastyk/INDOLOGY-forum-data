@@ -1,18 +1,10 @@
-From JACOCK01 at EARN.ULKYVM  Fri Sep 13 14:59:41 1991
-From: JACOCK01 at EARN.ULKYVM (Jim Cocks)
-Date: Fri, 13 Sep 91 10:59:41 -0400
-Subject: Availability of NetNews on VMS and VM
-Message-ID: <161227015125.23782.852157288409281478.generated@prod2.harmonylists.io>
-
- 
- 
+Availability of NetNews on VMS and VM
   >>   : i would like to have a look at a list called
   >>     soc.culture.india on usenet, but don't know how to reach it.
  > Dear Thomas,
  >.................................................  As far as I
  >know, this is only accessible if you have an account on a networked
  >Unix machine.
- 
  Usenet is based in "Unix land" but there are feeds to both DEC and
  IBM systems.  To recieve it on an IBM VM machine you need some free
  software (Penn State is one supplier) and an electronic feed.  We
@@ -21,13 +13,6 @@ Message-ID: <161227015125.23782.852157288409281478.generated@prod2.harmonylists.
  a Unix machine at another University.  Best check with your local
  sysadmin people.  If you would like any further info let me know and
  I'll dig up what I have.
- 
     --Jim Cocks   Bitnet: JACOCK01 at ULKYVM
       University of Louisville
   ---------
- 
-
-
-
-
-

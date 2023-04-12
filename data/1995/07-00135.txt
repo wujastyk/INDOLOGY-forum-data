@@ -1,10 +1,4 @@
-From mani at srirangam.esd.sgi.com  Wed Jul 26 01:26:08 1995
-From: mani at srirangam.esd.sgi.com (mani at srirangam.esd.sgi.com)
-Date: Tue, 25 Jul 95 18:26:08 -0700
-Subject: Replying to Indology messages
-Message-ID: <161227020122.23782.14138675408076289617.generated@prod2.harmonylists.io>
-
-
+Replying to Indology messages
 May I request the Indology list administrator
 to change the Reply-To: field that is added
 to all Indology mail messages? We have far too
@@ -14,12 +8,5 @@ already receive far too much email, and the
 less the better.  If Reply-To: contained the
 address of the sender, we would avoid this
 problem.
-
 Thanks,
 Mani
- 
-
-
-
-
-

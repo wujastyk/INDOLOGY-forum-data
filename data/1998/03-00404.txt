@@ -1,13 +1,7 @@
-From GANESANS at CL.UH.EDU  Tue Mar 24 16:58:23 1998
-From: GANESANS at CL.UH.EDU (N. Ganesan)
-Date: Tue, 24 Mar 98 10:58:23 -0600
-Subject: Font translations
-Message-ID: <161227037071.23782.4023667424983211779.generated@prod2.harmonylists.io>
-
+Font translations
 About 12-14 years ago, I was thrilled at just seeing Tamil wordprocessing.
 George Hart developed the first Tamil font for an Apple machine,
 I think. Then the TEX and LATEX, hard to use in my opinion.
-
 Then different people started developing tamil fonts. Dr. Vijay
 from Toronto and Dr. Kuppu at John Hopkins univ., Many others
 also developed elegant fonts. Then an explosion of web Tamil
@@ -15,35 +9,25 @@ material, magazines, etc., Important is the tamil net organized
 by Muthu, Bala Pilai from Sigapore/Malaysia. I gather that
 about 50,000 people exchange e-mail in Tamil via
 Murasu Anjal scheme.
-
 Many font developers insisted their keyboard mapping is the best.
 Usually, they followed tamil typewriter keyboard or roman transliteration
 keyboard or a variant/mixture of these two.
-
 For the last 30 months, I have been using a user-friendly software
 from S. Periyasamy in a PC.
-
 It bypasses the need to input according to the font developer's
 keyboard mapping. I type in what is convenient for me. The software
 converts the input and stores in a font-neutral format. Then we
 can go to any font, or even a mixture of fonts developed by
 different people.
-
 For example, take the Koeln university Tamil file which uses roman
 transliteration and no diacretical marks for 12 tamil vowels
 and 18 tamil characters. This can easily be converted into a
 Word file displaying Madras university roman transliteration font
 with diacretical marks or tamil script font developed by anybody.
-
 This software makes the font translations a joy. Going from
 tamil script to roman transliteration with diacreticals
 to roman transcription without diacreticals. In any direction
 or any combination! Parts of english text and grantha characters also
 are handled.
-
 Regards,
 N. Ganesan
-
-
-
-

@@ -1,75 +1,35 @@
->?From mehta at kc235-2.mgmt.purdue.edu 31 1993 Aug U 10:26:42
-Date: 31 Aug 1993 10:26:42 U
-From: "Mehta, Shailendra" <mehta at kc235-2.mgmt.purdue.edu>
-Subject: RE: India office OPAC?
-
+RE: India office OPAC?
 Dominik writes:
-
 No.  Well, actually the British Library catalogue as a whole is available,
 and the IO may be part of it by now.  The BL service is called "Blaise" and
 costs MONEY.  I consider this to be an ongoing public scandal of serious
 magnitude.  Almost a hundred British university libraries are available
 over JANET free of charge 
-
-____________________________________
-
 Can someone tell me how to access the British library catalogues via INTERNET?
 Actually, their availability comes as  a (pleasant) surprise, since ten years
 ago, the Bodleian for example, did not even have a proper card catalogue. I
 routinely dial into the various American library catalogues, of course.
-
 Shailendra Raj Mehta
 mehta at mgmt.purdue.edu
- 
-
 Original-Received: from 
                    ellis.uchicago.edu by midway.uchicago.edu Tue, 31 Aug 93 
                    10:43:14 CDT
 PP-warning: Illegal Received field on preceding line
-Date: Tue, 31 Aug 93 10:42:31 CDT
-From: james nye <jnye at midway.uchicago.edu>
-To: indology at liverpool.ac.uk
-Subject: Re: India office OPAC?
-In-Reply-To: Your message of Tue, 31 Aug 93 16:33:43 BST
-Message-Id: <CMM.0.90.4.746811751.jnye at ellis.uchicago.edu>
-
+Re: India office OPAC?
   In addition to consulting the Data Research version of the LC catalog,
 as Dominik suggests, it is also now possible to log in to the LC system
 with the command:
-
    telnet locis.loc.gov
-
 This gives access to a much wider array of resources at LC.
 Jim
- 
-
 Original-Received: from cc:Mail by 
                    ccmail-smtp.si.sintef.no id AA746844418 Tue, 31 Aug 93 
                    17:46:58 MET
 PP-warning: Illegal Received field on preceding line
-Date: Tue, 31 Aug 93 17:46:58 MET
-From: Devendra.Singh at si.sintef.no
-Message-Id: <9307317468.AA746844418 at ccmail-smtp.si.sintef.no>
-To: indology at liverpool.ac.uk
-Subject: Re: India office OPAC?
-
+Re: India office OPAC?
 Dominik: I saw your posting on the BL.
-
-> I can sit in my office and consult LC, but not the BL which is about two 
 hundred
-
 I would be very much interested if you could please let us know about this 
 possibility on this net.
-
 kind regards
 Devendra Singh
-
- 
-
-
- 
-
-
-
-
-

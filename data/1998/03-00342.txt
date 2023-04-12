@@ -1,65 +1,23 @@
-From n-iyanag at PPP.BEKKOAME.OR.JP  Sat Mar 21 03:20:03 1998
-From: n-iyanag at PPP.BEKKOAME.OR.JP (Nobumi Iyanaga)
-Date: Sat, 21 Mar 98 12:20:03 +0900
-Subject: Electronic texts, irt Jan Dvorak.
-In-Reply-To: <Pine.OS2.3.96.980320170732.96C-100000@EZDU048.ds.ulcc.ac.uk>
-Message-ID: <161227036931.23782.3566501726825423127.generated@prod2.harmonylists.io>
-
+Electronic texts, irt Jan Dvorak.
 At 5:14 PM +0000 3/20/98, Dominik Wujastyk wrote:
->A "union list" of Sanskrit, Prakrit, Persian, Tamil, or other e-texts
->would be extremely useful.  But it would also be a pretty labour-intensive
->task.  My experience with such projects is that they are hardest and most
->interesting at the beginning, but after keeping up with the field for a
->year or two it can become less interesting.  However, the initial work
->done on such a union list would be extremely important and of great
->general interest.  I would be delighted to host such a list on the
->INDOLOGY web site.
->
->Another possibility is for all e-texts to be systematically submitted to
->an institutionally-funded site such as the Oxford Text Archive or the
->Rutgers Center for Electronic Texts.  These places have paid staff who
->catalogue and manage e-texts.  That would be ideal.  All texts would
->probably be normalized into SGML (TEI) format, which would be fine.  One
->drawback would be that such authorities have to be very pernickety about
->copyright, and some of the texts which we cheerfully exchange with
->each other might turn out to be infringing others' copyright.  The present
->rather laissez-faire situation does not properly address these issues,
->which is not to say that they may not become more prominent in the future.
->
->If we are going to submit all texts to, say, the OTA, I could certainly
->act as one conduit for such submissions.
->
-
 Hello,
-
 I also think that this is an issue of great importance.
-
 A little off topic, I would like to mention the web site created by Shigeki
 Moro, in which he attempts to gather information about all the available
 Buddhist e-texts of Chinese Taisho Canon (available online or in CD-ROM,
 etc.).  It is at:
-
 http://www.bekkoame.or.jp/i/moro/ebt_index/
-
 It is certainly not very complete; and the site itself could be improved
 (for example by using some web form, to let people who watch these pages to
 send informations...), but I think that this is a very good beginning.
-
 There is an electronic discussion group, in a Japanese commercial BBS called
 NiftyServe, dealing with problems related to Asian humanity studies and the
 use of computer (in which there are many scholars of Buddhism).  Mr. Moro is
 an active member of this discussion group, and we can assist him to improve
 his web site.
-
 I am sure that Indology list can play a similar role if some member decides
 to build a web site of "union list" of Indology related e-texts.
-
 Best regards,
-
 Nobumi Iyanaga
 Tokyo,
 Japan
-
-
-
-

@@ -1,49 +1,15 @@
-From kellner at ASIA-EUROPE.UNI-HEIDELBERG.DE  Tue Aug 10 13:24:55 2010
-From: kellner at ASIA-EUROPE.UNI-HEIDELBERG.DE (Kellner, Birgit)
-Date: Tue, 10 Aug 10 15:24:55 +0200
-Subject: AW: [INDOLOGY] Sorting Paragraphs
-In-Reply-To: <a06210200c886f91401f2@[192.168.1.102]>
-Message-ID: <161227090133.23782.3698282847285243622.generated@prod2.harmonylists.io>
-
+AW: [INDOLOGY] Sorting Paragraphs
 Andrew Glass once had macros available from his website to sort Excel tables according to Unicode-transliterated Sanskrit alphabet. On his website, he now has under "projects" only an on-site sorting utility (http://andrewglass.org/sort.php) - this works with simple lists of words. I'm not sure what it does with paragraphs, though. 
-
-
 Birgit Kellner
-
-
-________________________________________
 Von: Indology [INDOLOGY at liverpool.ac.uk] im Auftrag von Paul G. Hackett [ph2046 at COLUMBIA.EDU]
 Gesendet: Dienstag, 10. August 2010 14:47
 An: INDOLOGY at liverpool.ac.uk
 Betreff: Re: [INDOLOGY] Sorting Paragraphs
-
 Dear Philipp,
-
    If you really need to preserve formatting, rather than writing a
 full RTF-compliant application, it might be easier to simply write a
 VBA macro with a simple bubble sort to run under Word to perform the
 same task.
-
 Paul Hackett
 Columbia University
-
-
 At 2:21 PM +0200 8/10/10, Philipp Maas wrote:
->Dear Colleagues,
->
->I am currently preparing a glossary of Sanskrit terms in transliteration,
->for which I would like to use a software that sorts paragraphs automatically
->in a sequence according to the Sanskrit alphabet. I am working with a
->Unicode font and a Windows operating system. The software (share- or freeware
->preferred) should be RTF compatible in order to preserve the font formats of
->the original file.
->
->Any suggestions?
->
->With many thanks in advance and best regards,
->
->Philipp Maas
-
-
-
-

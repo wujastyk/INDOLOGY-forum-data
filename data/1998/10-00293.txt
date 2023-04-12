@@ -1,30 +1,7 @@
-From mcv at WXS.NL  Fri Oct 30 16:00:40 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Fri, 30 Oct 98 16:00:40 +0000
-Subject: SV: method of dating RV, III
-In-Reply-To: <v01510101b25d276e2244@[199.201.159.72]>
-Message-ID: <161227042112.23782.13243324582395381911.generated@prod2.harmonylists.io>
-
+SV: method of dating RV, III
 George Thompson <thompson at JLC.NET> wrote:
-
->As a way of steering this thread back to the Indological sphere, perhaps
->MCV could be persuaded to comment on the following:
->
->"Turning to the east again, the origin of Indo-Iranian can also be traced
->back to the Yamna/Kurgan cultures of the 4th/3rd. millennium. By 2000 BC,
->the area of modern Russian Turkestan is occcupied by the Kurgan-derived
->Andronovo culture, ancestral to the Iranians or the Indo-Iranians as a
->whole, depending on where one wants to put the split between the two. I
->would favour a slightly early date, making Andronovo exclusively Iranian,
->with the Dardic/Indo-Aryan speakers already in Kashmir, watching the IVC
->collapse...."
->
->I am interested in a more detailed and specific discussion of both the
->location and the time of the Indo-Iranian split.
-
 Well, let's first see the linguistic evidence.  As far as I can
 ascertain, the accepted subgrouping of the Indo-Iranian languages is:
-
                         Indo-Iranian
                        /     |      \
                 Iranian   Nuristani  Indic
@@ -36,13 +13,10 @@ ascertain, the accepted subgrouping of the Indo-Iranian languages is:
                                             / | \
                                       Central |  Eastern
                                            Southern
-
-
 If we put Indo-Iranian in Central Asia (say, Uzbekistan) somewhere in
 the 3rd millennium, one can almost read off the subsequent
 movements/developments from the cladogram. [Almost reads like one of
 Drews' mythical "marching orders" :-)]
-
 We can put the split between Eastern and Western Iranian c. 1400 BC,
 the start of Iron Age I in Western Iran, when as Mallory says "there
 is a major cultural break in this region", and traditional pottery is
@@ -50,7 +24,6 @@ replaced by Iranian grey wares.  This probably indicates the first
 arrival of the Western Iranians in the Iranian plateau, where Medes
 and Persians will soon start to play an important role in Near
 Eastern history.
-
 The split between Indic-Dardic and Iranian-Nuristani is harder to pin
 down.  Mallory ("In Search of the Indo-Europeans") favours the
 Gandhara Grave culture of the Swat Valley (c. 1800 BC) as the
@@ -59,7 +32,6 @@ connect that with the subsequent Cemetery H culture (not precisely
 dated) of post-IVC Harappa, and further the Painted Grey Ware culture
 (c. 1300-400 BC) of the Punjab and western Ganges valley, which few
 would deny is Indo-Aryan.
-
 On the other hand, this "low" chronology is complicated by the
 presence of "Indo-Iranian" grey wares and horses as early as 3000 BC
 at Shah Tepe in the Gorgan area, and c. 2300 BC, grey wares and
@@ -67,7 +39,6 @@ animal burials at Burzahom in Kashmir.  A further complication, which
 is developed at length in Mallory's account of Iranian and Indo-Aryan
 origins, is the presence of an Indo-Aryan element among the Hurrians.
 This is the famous Mitanni problem.
-
 The Kikkuli text on horsemanship, found in the Hittite archives at
 Boghazkoy, leaves no doubt about the presence of Indo-Iranian words
 in Mitanni Hurrian.  We have the series aikawartanna, terawartanna,
@@ -82,7 +53,6 @@ with horsemanship as well as the names of some Indo-Aryan gods
 show up in texts from 1500 BC doesn't tell us anything about when
 exactly the borrowings took place.  "Mitanni Indo-Aryan" was clearly
 a dead language by then.
-
 Now, the Hurrians themselves are not native to the Near East, and
 Mesopotamian documents first mention the Hurrians as invadors shortly
 before 2000 BC.  It is not known where they came from, although it is
@@ -91,7 +61,6 @@ from the Caspian area in the north-east, i.e. from the neighbourhood
 of Gorgan and Shah Tepe, it is plain to see that the Hurrians may
 have adopted their grey wares and horsemanship from the Indo-Iranians
 of Central Asia already by 3000 BC.
-
 As an additional benefit, that would resolve the otherwise
 intractable (see Mallory) problem of why the "Mitanni-Aryan" numeral
 "1" is aika-, the Sanskrit form (eka- < *aika-), instead of the
@@ -100,13 +69,7 @@ Hurrians from common Indo-Iranian, c. 3000 BC, the word might have
 been *aika- in all (not yet differentiated) Indo-Iranian dialects of
 that period, and the divine names would still be unaffected by the
 Zoroastrian reform among the Iranians of a much later period.
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

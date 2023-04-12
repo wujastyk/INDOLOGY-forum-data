@@ -1,16 +1,7 @@
-From glhart at BERKELEY.EDU  Sun Oct 21 14:35:08 2012
-From: glhart at BERKELEY.EDU (George Hart)
-Date: Sun, 21 Oct 12 07:35:08 -0700
-Subject: On the Date of Classical Tamil Poems
-In-Reply-To: <8CF7CFD0934E49D-2648-FCCD@webmail-m133.sysops.aol.com>
-Message-ID: <161227097743.23782.7906078141400169778.generated@prod2.harmonylists.io>
-
+On the Date of Classical Tamil Poems
 Dear Palaniappan,
-
 I think you idea is a fascinating one, but I'd like to see clearer evidence linking the name P??a? to the B??a dynasty.  Here are two more poems:
-
 Akan????u 113:
-
 He has gone even beyond the good land of P??a?
 who never shows his back in battle,
 whose food is as plentiful as the food at a festival,
@@ -18,69 +9,26 @@ whose long spear has a black, dense ferrule and an oiled shaft,
 and who, even though it was far away, looked for the right time,	15
 went, took and drove the cattle and the hump-backed bulls
 from the well-stocked fort where his enemies guarded them.
-
-
 ...?????????????? ??????
 ???????? ??????? ???????? ??????????
 ????????? ????? ??????? ???????
 ???????? ???????? ??????? ????????	15
 ??????????? ???? ????????? ??????
 ?????? ????? ????????? ??????...
-
 This would seem to indicate that P??a? was a small king in a forest area, probably in the north of TN.  It seems unlikely that someone in the B?na dynasty would be referred to in these terms.  The P?lai poems often describe the hero's journey to the north (to or beyond the Ve?ka?am hills, to where even the language has changed), and these areas (modern Rayalaseema) are said to have been inhabited by fierce, marginal chiefs who would have no compunction killing the poor hero who wants to travel there.
-
 Here is another one (Akam 226):
-
 The gossip you created has grown, and today
 it is louder than the clamor when Ka??i whose army kills in battle
 joined with strong and brave P??a? to attack Titta? Ve?iya?
 whose garland is full, and they heard the sweet sound	15
 of the clear ki?ai drum as he held court in U?aiy?r
 and, instead of fighting, they fled in terror.
-
 ????????? ???????? ??????? ????????? 
 ??????? ??????? ?????? ??????? 
 ??????? ?????????? ?????????? ?????,	15
 ????? ?????? ????? 
 ??????? ???? ??????????? ??????.
-
 The ki?ai drum would be beaten at executions as well at other occasions (Pu?am 78).  While this could be describing a great king in the B??a dynasty, it seems to me it is of a piece with Akam 113 above and that P??a? is a minor king.  I'd love to see a bit of more conclusive evidence, as P??a? would here seem to be a native Tamil minor king.
-
 The Ku?untokai poem is something of a puzzle.  P??ar here cannot refer to the king, as it is plural while kings are referred to the singular (as vicciyar perumaka?).  I cannot think of any place where the name of a king in the plural is used to refer to his subjects -- C?rar would refer to the Chera monarchs, not the people.  To add to your note, UVS says puli n?kku is a lion's gaze (si?h?valokanam -- puli can sometimes mean lion as well as tiger) and that the lion gazes in two directions at once, like the bards, who are non-fighters standing between the armies and looking at them both. The si?h?valokany?ya, according to Apte, is "The maxim of the lion's backward glance.  It is used when one casts a retrospective glance at what he has left behind while at the same time he is proceeding, just as the lion, while going onward in search of prey, now and then bends his neck backwards to see if anything is within his reach."  If this is the case, then the point of comparison is not the fierceness of the P??ars but the way they look forward to one army and back at the other.  The Kalittokai verse could also refer to how the warriors look before them and behind, though I can't find any commentary that says that.
-
 I would add that I think the date of the older Sangam anthologies is quite firmly established as the first two  centuries AD.  The evidence, in my view, is overwhelming.  George Hart
-
-
 On Oct 20, 2012, at 10:11 AM, Sudalaimuthu Palaniappan <palaniappa at AOL.COM> wrote:
-
-> Dear Scholars,
->  
-> I had earlier written about the chieftain mentioned in Classical Tamil poems as  P??a? who ruled in a northern border area of Tami?akam. (See http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind1009&L=INDOLOGY&P=R912&D=0&I=-3 ) Although the poem seemed to refer to a single individual, I had suggested that it referred to the dynasty of the ?Bana? kings whose names had originally been P??a? (in singular) before the variation p->b- in the name took place.  
->  
-> Now I have found one more Classical Tamil poem that confirms my thesis.
-> ???????????????????????????alar?
-> vil ke?u t??ai vicciyar perumaka?
-> v?ntaro?u poruta ????aip p??ar
-> puli n?kku u?a? nilai ka??a
-> kali ke?u ku?ump?r ?rppi?um perit? (Ku?untokai 328.5-8)
->  
-> This can be translated as given below:
-> ?The gossip was louder than the roar of the noisy village in the arid tract, that saw the stance of the P??ar that resembled the look of the tiger, when the chief of Vicciyar of army abounding in archers fought against the kings.?
->  
-> In the past, commentators like U. V. Caminathaiyar had interpreted the word ?P??ar? here as the homophon, ?p??ar?, meaning ?bards?. They interpreted the bards as standing between the two armies and looking at both armies as a ?lion? does!. The real meaning of ?look of a tiger? can be seen in the following Kalittokai poem
->  
-> vali mu?pi? valle??a y?kkai puli n?kki?
-> cu??u amai villar curi va?ar pittaiyar
-> a??am p?rttu alkum ka?u?ka? ma?avar ?(Kalittokai 4.1-3)
->  
-> This can be translated as ?the warriors of the arid tract with hard bodies of extraordinary strength, looks of tiger, bows with string/leather(?) coiled around, locks of hair with curls, and fierce eyes, who are on the watch intent on killing??
->  
-> So the ?look of tiger? in Ku?untokai 328.7 should refer to the fierce look of ?P?nar? warriors who were engaged in fighting. It cannot refer to ?p?nar? bards, if they are supposed to be bystanders.  The context of the poem indicates that the P??ar had fought on one side. Since the Vicciyar were only minor chieftains engaged in a battle against major kings, we can guess that the P??ar fought fiercely on the side of the underdogs, the Vicciyar. This was probably why their bravery was appreciated by the villagers.
->  
-> Interestingly, Akam.226.13 describes the P??an as ?vali mikum mu?pi? p??a?? reminding us of Kalittokai 4.1.
->  
-> This identification of P??ar with the B??a kings mentioned in later inscriptions and the epic Ma?im?kalai is very important for the dating of Classical Tamil texts.
->  
-> It should be noted that the 5th century T??agu??a inscription refers to the dynasty under consideration as B?had-B??a. Later non-Tamil inscriptions continue to refer to them as B??as while Tamil inscriptions refer to them as V??a- where b- > v-. The name V??a? occurs as the lord of Ci?uku?i, probably a coastal village on the east coast of the P???iyan kingdom. There is an instance in the Maturaikk??ci 203 where the name V??a? seems to refer to B???sura in the context of referring to his fabulous wealth. We should note that the Cilappatik?ram refers more explicitly to B???sura, son of Mah?bali, as V??a? and not as P??a?. The same is true of the Ma?im?kalai also.  Clearly if the Classical Tamil texts had been composed in the 5th century CE or later, they would be referring to the P??ar chieftain as V??a? and not P??a?. So the Classical Tamil texts would have been composed earlier than the time when P??a- has changed to B??a. Interestingly, M?m?la??r, the author of Akam 31, has also authored Akam 325, which mentions Pa?a?, the chieftain. As I had discussed earlier, Akam 31 was composed earlier than the Kalabhra rule in Tami?akam.  
->  (http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0908&L=INDOLOGY&P=R4899&I=-3, http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0908&L=INDOLOGY&P=R6548&I=-3 )
->  

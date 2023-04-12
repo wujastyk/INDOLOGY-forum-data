@@ -1,21 +1,3 @@
-From rbunker at FRANKLIN.LISCO.COM  Thu May  6 16:35:28 1999
-From: rbunker at FRANKLIN.LISCO.COM (Ralph Bunker)
-Date: Thu, 06 May 99 09:35:28 -0700
-Subject: ASR Publications
-In-Reply-To: <199905061140.GAA18922@franklin.lisco.net>
-Message-ID: <161227048577.23782.2154935425003237608.generated@prod2.harmonylists.io>
-
+ASR Publications
 Make that I would NOT run it if I were you.
 At 06:39 AM 5/6/99 -0700, you wrote:
->I received two messages with subject ASR Publications. The second one had
->an attachment called HAPPY99.EXE. This is what my virus checker had to say
->about it. I would run it if I were you.
->
->   Infected object c:\Eudora\Attach\HAPPY99.EXE.
->   Happy99 trojan
->   Cannot verify this virus.
->
-
-
-
-

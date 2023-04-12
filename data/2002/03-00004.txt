@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Tue Mar  5 16:58:51 2002
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Tue, 05 Mar 02 11:58:51 -0500
-Subject: Kh instead of S in Yajur Veda
-In-Reply-To: <p04330100b8aa88f1f324@[129.240.19.27]>
-Message-ID: <161227070627.23782.10660447848054957826.generated@prod2.harmonylists.io>
-
+Kh instead of S in Yajur Veda
 The recitation of Skt .s as kh in the Maadhyandina tradition must be at
 least a few hundred years old.  It is explicitly discussed in a 17/18th
 century text that I am currently editing and translating.  Further the use
@@ -14,37 +8,4 @@ happening.  In village Marathi, Sanskrit vi.sa "poison" becomes iikh. This
 is not a mere orthographic change, since I have heard the Maadhyandina YV
 recitation in Pune demonstrating this phenomenon.
                                         Madhav Deshpande
-
---On Tuesday, March 5, 2002 4:00 PM +0100 Georg von Simson
 <g.v.simson at EAST.UIO.NO> wrote:
-
-> On March 5 Madhav Deshpande wrote:
->> Just to be more specific, the change of .s to kh takes place in the
->> Maadhyandina tradition of the Zukla-Yajurveda, where the passage i.se
->> tvaa is recited as ikhe tvaa.
->
-> A change from .s to kh looks rather dramatic if we take kh as an
-> aspirated occlusive. But is it not probable that the letter kh was
-> used to write either a palatal or a velar fricative (spirant) (like
-> in German ich or ach), a sound that would be near to the
-> correspondant sibilant (which is also a spirant)? The transition to
-> the aspirated occlusive might be a rather late phenomenon, supported
-> by the script. Of course, this would presuppose that writing plays a
-> part somewhere in the process ...
->
->> The Maadhyandinas are found mostly in north
->> India, their southernmost expansion reaching the region of northern
->> Maharashtra.  I think there is a likely regional/dialectal connection of
->> this pronunciation with northeastern regions, where in Prakrits/Pali one
->> often finds kh for Sanskrit .s, for instance lakkha.na for
->> lak.sa.na/lak.sma.na.
->
-> But this is in so far different as the sibilant here is assimilated
-> to a precedent occlusive.
->
-> Best wishes,
-> G.v.Simson
-
-
-
-

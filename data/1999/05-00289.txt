@@ -1,21 +1,5 @@
-From jlc at CCR.JUSSIEU.FR  Tue May 18 10:35:16 1999
-From: jlc at CCR.JUSSIEU.FR (Jean-Luc CHEVILLARD)
-Date: Tue, 18 May 99 12:35:16 +0200
-Subject: Sugarcane (kan2n2al)
-In-Reply-To: <19990516141400.68319.qmail@hotmail.com>
-Message-ID: <161227048970.23782.5390922874755253993.generated@prod2.harmonylists.io>
-
+Sugarcane (kan2n2al)
 At 07:13 16/05/99 PDT, N.Ganesan a ?crit :
->We are indeed fortunate to have a poem by TiruJAn2acampantar
->(7th century CE) on his hometown, cIrkAzi where he employs karunal:
->        [....]
->        *karunal paravai kamaz kAzi*
->        maruvap piriyum vin2ai mAyntE.  (Tevaram 1.34.9)
->
->"karunal paravai kamaz kAzi" = *The town, cIrkAzi, surrounded by
->sugarcane fields*; This meaning of Tev. 1.34.9.3 taking
->karunal as sugarcane is not hitherto recognized by Tamil pundits.
-
 Indeed, V.M.Subramanya Ayyar, who was a traditional scholar
 (and a disciple of U.V.S.) takes that line to be
  "karu naR paravai kamazh kAzhi" and translates it as:
@@ -24,10 +8,8 @@ Indeed, V.M.Subramanya Ayyar, who was a traditional scholar
    but without revising it; it is kept in the French Institute Library
    and we plan to make it available on CD-ROM some day
    along with a concordance of Tevaram)
-
 One has to add that kan2n2al itself occurs several times inside Tevaram
  [4-43(10), 5-38(2), 5-93(6), 7-84(10)]
-
 A problematic occurrence is 3-120(11):
 *VMS takes the line to be:
   "kan2 nalam periya kAzhiyuL"
@@ -35,7 +17,6 @@ A problematic occurrence is 3-120(11):
      of the walls of fortification>>
 *TVG (T.V.Gopal Iyer) takes the line to be:
  "kan2n2al am periya kAzhiyuL"
-
 Another point which has always surprised me is the mention
 of the sea in connection with kAzhi (=cIkAzhi)
 To-day there is at least a 20km distance from there to the coast
@@ -45,12 +26,5 @@ but Tevaram says things like:
 <<in K. of great bustle where the ships that sail
  on the accumulated waves, reach the shore with beautiful pearls,
  other precious stones and ornaments>> (VMS, transl.)
- 
 Was the sea closer to the town at that time (7th century)
  or is it poetic exageration?
-
--- Jean-Luc CHEVILLARD (Paris)
-
-
-
-

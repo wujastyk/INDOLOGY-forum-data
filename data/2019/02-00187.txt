@@ -1,121 +1,17 @@
-From kauzeya at gmail.com  Mon Feb 25 15:11:03 2019
-From: kauzeya at gmail.com (Jonathan Silk)
-Date: Mon, 25 Feb 19 16:11:03 +0100
-Subject: =?utf-8?Q?Re:_[INDOLOGY]=09Mahabharata_referenes_in_B=C3=B6htlingk_Roth?=
-In-Reply-To: <20190225104744.11586cea5edb8b79e7e8ca00@ff.cuni.cz>
-Message-ID: <CAMGmO4J6fnXiov_F-OG3rMGEqJSpKhQWgtOC7Apr=Es-FRsh8w@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]=09Mahabharata_referenes_in_B=C3=B6htlingk_Roth?=
 Following up this thread: I was aware of the MBh references in PW, but what
 I have been unable to pin down is what is referred to as the scolia. I
 assumed it to refer to N?laka??ha, but in the event I was unable to locate
 the passage I needed (eventually, I confess, I gave up and just cited PW
 itself...)
-
 Jonathan
-
 On Mon, Feb 25, 2019 at 2:58 PM Lubom?r Ondra?ka via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear Harry,
->
-> PW was published in 1855?75, so it could not use Roy's edition published
-> in 1883?1896.
->
-> PW references to MBh are to the first complete edition prepared by Bengali
-> pandits in Calcutta and published by various publishers in 1834-39 in four
-> volumes. This edition counts verses continuously within each parvan.
-> Although Roy's edition is based on it, it is different. Roy has used
-> another Bengali edition (1863, so called Burdwan edition) and several
-> manuscripts.
->
-> So to identify a particular verse quoted in PW, one have to look in the
-> original Calcutta edition (1834-39).
->
-> Best,
-> Lubomir
->
->
-> On Sun, 24 Feb 2019 20:50:04 -0500
-> Harry Spier via INDOLOGY <indology at list.indology.info> wrote:
->
-> > Would that be the edition by Pradap Chandra Roy, Calcutta, 1899.
-> >
-> > If so, then I've got the link from archive.org
-> >
-> > Thanks,
-> > Harry Spier
-> >
-> > On Sun, Feb 24, 2019 at 8:41 PM Madhav Deshpande <mmdesh at umich.edu>
-> wrote:
-> >
-> > > If I am not mistaken, B-R refer to the Calcutta edition of the
-> Mah?bh?rata
-> > > that predates the BORI critical edition.  Tokunaga's version is the
-> > > digitization of the BORI edition.
-> > >
-> > > Madhav
-> > >
-> > > Madhav M. Deshpande
-> > > Professor Emeritus
-> > > Sanskrit and Linguistics
-> > > University of Michigan
-> > > [Residence: Campbell, California]
-> > >
-> > >
-> > > On Sun, Feb 24, 2019 at 5:38 PM Harry Spier via INDOLOGY <
-> > > indology at list.indology.info> wrote:
-> > >
-> > >> Dear list members,
-> > >>
-> > >> I'm trying to trace some Mahabharata references in  B?htlingk and Roth
-> > >> but i"m not clear how to translate their referencing format to whats
-> in the
-> > >> GRETIL edition from Muneo Tokunaga revised by John Smith.  The B-R
-> > >> references are a digit (book number?) followed by a 5 digit number.
-> For
-> > >> example, in B-R a Mahabharata reference is 3, 16461 but there is no
-> > >> 03,164.061 in the Tokunaga edition.
-> > >>
-> > >> Any help in how to translate the B-R references to the Tokunaga verse
-> > >> numbering system would be appreciated.
-> > >>
-> > >> Thanks,
-> > >> Harry Spier
-> > >>
-> > >>
-> > >> _______________________________________________
-> > >> INDOLOGY mailing list
-> > >> INDOLOGY at list.indology.info
-> > >> indology-owner at list.indology.info (messages to the list's managing
-> > >> committee)
-> > >> http://listinfo.indology.info (where you can change your list
-> options or
-> > >> unsubscribe)
-> > >>
-> > >
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--- 
 J. Silk
 Leiden University
 Leiden University Institute for Area Studies, LIAS
 Matthias de Vrieshof 3, Room 0.05b
 2311 BZ Leiden
 The Netherlands
-
 copies of my publications may be found at
 https://leidenuniv.academia.edu/JASilk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190225/1313f4e8/attachment.htm>
-

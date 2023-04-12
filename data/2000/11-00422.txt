@@ -1,20 +1,10 @@
-From saf at SAFARMER.COM  Thu Nov 16 20:13:38 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Thu, 16 Nov 00 12:13:38 -0800
-Subject: Skepticism in Indian philosophy
-Message-ID: <161227064362.23782.18179309379700556662.generated@prod2.harmonylists.io>
-
+Skepticism in Indian philosophy
 Dmitri writes:
-
-> 2. Is there anything in Indian philosophical thought similar to systematic
-> doubt techniques of Pyrrho, Socrates or Descartes?
-
 Can I offer the opinion not of an Indologist but of a comparative
 historian, since the question touches on some of my interests?
 Let's leave the question of Descartes aside, for the moment, and
 limit the discussion to ancient skeptical tendencies of the kind
 popularly associated with Pyrrho and Socrates.
-
 I think that evidence suggests that tendencies like this
 (typically linked to strong anti-textual movements, arising in
 the context of major exegetical crises) started popping up all
@@ -25,7 +15,6 @@ period of the so-called hundred schools, beginning in the 4th
 century, exactly contemporaneous with skeptical tendencies in the
 Pyrrhonian tradition and in certain parts of the Socratic
 literature (but not all of it: witness Xenophon's Memorabilia).
-
 I don't think there was anything mysterious about these near
 simultaneities. Once textual traditions (including orally fixed
 as well as written "texts") became complex enough for many
@@ -38,7 +27,6 @@ schools was compounded by the mass of internal contradictions
 that had piled up by that time in older "authoritative"
 traditions (like those in late Vedic documents), manifested in
 the increasingly complex layering of those traditions.
-
 One natural reaction to this situation was to develop elaborate
 exegetical methods to harmonize the internal contradictions. One
 byproduct of the repeated ause of these methods was the rise of
@@ -56,7 +44,6 @@ so-called rational thought as well -- giving rise to much
 discussion of logical paradoxes and the like. A great deal of the
 materials used to develop such paradoxes lay in the internal
 contradictions found in those earlier traditions.
-
 My point here is that skepticism in antiquity of the kind we find
 developing in Pyrrho and similar figures after around the middle
 of the 4th century BCE was a natural response to the complexity
@@ -65,7 +52,6 @@ so much an invention of speculative thought but an outgrowth, of
 sorts, of exegetical processes. This view is supported by the
 strong links that we can find between early developments in
 formal logic throughout Eurasia in this period and exegetical processes.
-
 Specifically in respect to India, you don't have to go any
 further than the wonderful materials provided in Nirukta 1.15
 (the words here ascribed to Kautsa) to see tendencies of this
@@ -89,19 +75,12 @@ many strong "Socratic" traits, who upholds a via negativa against
 viewpoints. (The conjunction of textual skepticism with mystical
 tendencies in the premodern world was, of course, common --
 extending right up to the time of Descartes 2000 years later.)
-
 Other early skeptical tendencies also show up in battles between
 different Vedic branches (e.g., in disagreements over the
 authority of the Atharvaveda) occurring at possibly a slightly
 earlier date.
-
 Again, however, this is the view of a comparativist, not of an
 Indologist. I would certainly expect that specialists in the
 traditions that I've briefly mentioned above might dispute some
 of my claims, or could add much better examples.
-
 Steve Farmer
-
-
-
-

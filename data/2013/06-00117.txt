@@ -1,32 +1,6 @@
-From pwyzlic at uni-bonn.de  Tue Jun 25 09:40:39 2013
-From: pwyzlic at uni-bonn.de (Peter Wyzlic)
-Date: Tue, 25 Jun 13 11:40:39 +0200
-Subject: [INDOLOGY] Mac and Sanskrit
-In-Reply-To: <2791751c9640982c59@wm-srv.ulb.ac.be>
-Message-ID: <7B1E6B9C-0CB4-4056-BC7D-41DFFD5D3632@uni-bonn.de>
-
+[INDOLOGY] Mac and Sanskrit
 Dear Jean-Michel Delire,
-
 A Devanagari font and Latin fonts with appropriate diacritics are included. You do not need to install them from third-party suppliers.
-
 All the best 
 Peter Wyzlic
-
 Am 25.06.2013 um 11:34 schrieb Jean-Michel Delire <jmdelire at ulb.ac.be>:
-
-> Dear list,
-> 
-> I recently purchased a Mac Book Pro and would like to know where I can find and how to install a nagari translitterated font AND a nagari font in the Mac OSX Lion operating system, the easy way (not via Latex).
-> Thank you for your help,
-> 
-> Jean Michel Delire
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
-
-
-
-
-

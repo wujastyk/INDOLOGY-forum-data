@@ -1,17 +1,5 @@
-From mccomas at CRES.ANU.EDU.AU  Sun Feb 10 23:09:16 2002
-From: mccomas at CRES.ANU.EDU.AU (mccomas)
-Date: Mon, 11 Feb 02 10:09:16 +1100
-Subject: Unicode-compliant font for transliterating Sanskrit
-Message-ID: <161227070488.23782.8189345896014414950.generated@prod2.harmonylists.io>
-
+Unicode-compliant font for transliterating Sanskrit
 Dear Friends
-
 Can anyone recommend a Unicode-compliant font for transliterating Sanskrit?
-
 Thanks in advance
-
 McComas
-
-
-
-

@@ -1,25 +1,12 @@
-From skarashima at gmail.com  Mon Aug 21 00:41:49 2017
-From: skarashima at gmail.com (Seishi Karashima)
-Date: Mon, 21 Aug 17 09:41:49 +0900
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_pa=E1=B9=85gu_/_pa=E1=B9=85ku_[2nd_sending]?=
-In-Reply-To: <4818C1C0-155E-4191-A3BB-9C0CC1AF6741@gmail.com>
-Message-ID: <CAEd5L8jk6V79v_DpkYaoxmXqndXD14_AAWDe+uX1=41WRXipMA@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_pa=E1=B9=85gu_/_pa=E1=B9=85ku_[2nd_sending]?=
 Dear colleagues,
-
 Both examples have nothing to do with *pa?ku*~.
-
-
 (1) The first example from the *Paumacariu*:
-
 *katth?riya-pa?kuppa?kiu* < *kast?rik?* (?musk?)+ *pa?ka* (?unguent?) + *
 *ut-pa?kita* (?besmeared?; cf. Naresh Kumar, *Apabhra??a-Hindi Dictionary*,
 Nehru Nagar 1987: Indo-Vision Private Limited, vol. I, p. 124r, s.v.
 *uppa?kiya*; cf. also Skt. *pa?kayati* ?besmears?).
-
-
 (2) The second example from the *Sanatkum?racaritam*:
-
 Jacobi?s edition (*Sanatkum?racaritam: Ein Abschnitt aus Haribhadras
 Nemin?thacaritam. Eine Jaina Legende in Apabhra??a*, hrsg. von Hermann
 Jacobi, M?nchen 1921: Verlag der Bayerischen Akademie der Wissenschaften,
@@ -29,123 +16,9 @@ discern "edition" made by the great scholar from "data" input by
 somebody. *Sayala-mahivalaya-pa?ku
 *means ?mud in the whole world? (?der Schlamm im ganzen Lande?, *ibid.*, p.
 76). However, *pa?ku* is a *nom. sg. masc. form* of *pa?ka *in Apabhra??a.
-
-
 Therefore, both examples quoted here are of *pa?ka*: (1) *pa?ka + u- *(*>
 pa?ku-*), (2) nom. sg. masc. *pa?ku*.
-
-
 With best regards,
-
 Seishi Karashima
-
 2017-08-21 1:51 GMT+09:00 Elliot Stern via INDOLOGY <
 indology at list.indology.info>:
-
-> Thank you for these references, but none of these are pa?ku ?lame?.
->
-> Best wishes,
->
-> Elliot
->
->
-> > On 20 Aug  2017, at 08:51, Rolf Heinrich Koch via INDOLOGY <
-> indology at list.indology.info> wrote:
-> >
-> > Besides many quotations in Tamil-literature I know the following two
-> references in Prakrit (Apabhra??a)-literature:
-> >
-> > 1. Svayambhu Paumacariu (Ramastory)
-> >
-> > 26.11.3: jo katth?riya-pa?kuppa?kiu  jo ari-karihi ?a ?ohevi sakkiu
->
-> The semantic here is ?mud? or ?slime?.
-> >
-> > 2. Sanatkum?racaritam (H. Jacobi)
-> >
-> > 546: ...valaya-panku?.
->
-> The edition reads ? valaya-pauku ...
-> >
-> > 3.
-> >
-> > In Sri Lanka I came across the word pa?ku meaning "share of (land
-> etc.)".  This is probably of Tamil origin. Codrington: Ancient Land
-> Tenure...,p. 15.
-> >
-> > If the word denotes a share of land, then the etymological discussion
-> should also think about the 5-ku?i-sized lands (pan-ku?i), and we are back
-> in the Sanskrit-world.
-> >
-> >
-> > Best
-> >
-> > Heiner
-> >
-> >
-> > Am 19.08.2017 um 22:18 schrieb Elliot Stern via INDOLOGY:
-> >> I would like to draw on the collective manuscript reading experience of
-> our list members. A Sanskrit word pa?gu is well known in dictionaries and
-> printed texts. It denotes a ?lame person?. In a passage of the ms of
-> svadita?kara??  (a palm leaf Malayalam script ms), a commentary on
-> ny?yaka?ik?, this word appears only as pa?ku with many repetitions in a
-> long comment on a line in vidhiviveka?.. It is possible to argue that this
-> reading pa?ku should be corrected to pa?gu, because pa?ku and pa?gu are
-> both pronounced the same in the Malayalam language (i.e., the k is
-> pronounced as g). This argument, however, seems weak to me. First, other
-> words like prasa?ga always appear as expected in the svadita?kara?? ms.
-> Second, a most likely 16th century devan?gar? ms of ny?yaka?ik? certainly
-> reads pa?ku in two of the three occurrences of pa?gu later in the
-> commentary, and probably in all three of them (the first fifty or so folia
-> of this ms, that would include the passage on which svadita?karra??
-> comments, are not available). In two of these instances, we see a
-> correction to pa?gu, but one stands uncorrected. Third, the ms. of
-> ju?adhva?kara?? (also a palm leaf Malayalam script ms) reads pa?ku a few
-> times, and also consistently renders words like prasa?ga as expected.
-> >>
-> >> I have two questions. First, have you seen the reading pa?ku,
-> especially in mss not written in South Indian scripts? Second, are there
-> any etymological or other discussions of the term pa?gu / pa?ku not
-> referenced in standard works like Burrows' and Emeneau?s DED or the
-> Turners?  CDIAL?
-> >>
-> >> Elliot M.Stern
-> >>
-> >>
-> >>
-> >> _______________________________________________
-> >> INDOLOGY mailing list
-> >> INDOLOGY at list.indology.info
-> >> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> >> http://listinfo.indology.info (where you can change your list options
-> or unsubscribe)
-> >
-> > --
-> > www.rolfheinrichkoch.wordpress.com
-> >
-> >
-> >
-> > _______________________________________________
-> > INDOLOGY mailing list
-> > INDOLOGY at list.indology.info
-> > indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> > http://listinfo.indology.info (where you can change your list options
-> or unsubscribe)
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170821/0ebfdf08/attachment.htm>
-

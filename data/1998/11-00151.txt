@@ -1,11 +1,2 @@
-From as at AS3442.SPB.EDU  Sat Nov  7 13:43:08 1998
-From: as at AS3442.SPB.EDU (Alexandre Sotov)
-Date: Sat, 07 Nov 98 16:43:08 +0300
-Subject: test
-Message-ID: <161227042396.23782.11127975201784197968.generated@prod2.harmonylists.io>
-
 test
-
-
-
-
+test

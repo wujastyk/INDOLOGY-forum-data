@@ -1,14 +1,8 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Mon Jul 31 19:54:21 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Mon, 31 Jul 95 19:54:21 +0000
-Subject: Odd examples: Swallowing lamps and not hearing drums in temples
-Message-ID: <161227020172.23782.10576358942384452569.generated@prod2.harmonylists.io>
-
+Odd examples: Swallowing lamps and not hearing drums in temples
 In Jn.aanas.riimitra's Anupalabdhirahasya and Sarvas.abdaabhaavacarcaa, I
 came across two odd examples which, apart from entertaining everybody around
 and giving rise to funny speculations about their actual meaning, remained
 mysterious to me so far. 
-
 (1) [Reference: Thakur's edition of JNA, 184.1f., 196.12ff.]
 Context: Discussion of "non-cognition" (anupalabdhi), where the cognition of
 x equals the non-cognition of y. Dharmakiirti devised the criterion of the
@@ -28,7 +22,6 @@ The example for the "sound" case is: Somebody, who swallowed a lamp
 (pradiipa), infers the absence of taste from the presence of touch. I was
 wondering whether anybody can produce an attested other meaning for
 "pradiipa" which makes this example sound less odd. 
-
 (2) [Reference: JNA 184.8ff.]
 In roughly the same context, Jn.aanas.rii produces the following example:
 When a temple (devakula) is clearly visible (paridr.s.yamaana), the
@@ -39,18 +32,7 @@ but can make sense out of it insofar it would be odd to say that only when
 another instrument is played can you conclude that nobody plays a drum.
 Again, I was wondering whether anybody is aware of similarly structured
 examples. 
-
 Any references would be greatly appreciated. 
-
-
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

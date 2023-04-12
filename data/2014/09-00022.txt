@@ -1,75 +1,12 @@
-From drdhaval2785 at gmail.com  Fri Sep  5 10:16:00 2014
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Fri, 05 Sep 14 03:16:00 -0700
-Subject: [INDOLOGY] Subanta generation machine PHP open source
-In-Reply-To: <f99d25b9-9349-42bd-b2dc-af558b205ebb@googlegroups.com>
-Message-ID: <CADSGPzXDYbLGRPk-BntH9Q8URNTFsmbqfyMnjrtfJoo1ibU8LA@mail.gmail.com>
-
+[INDOLOGY] Subanta generation machine PHP open source
 Thanks for suggestion Usha,
 I am attaching a link to Google Doc where we can document the issues.
 Some of the issues in testing are already noted there.
 I have made the document public.
 List members may add wrong derivation in the space for that particular word.
 If testing with new word, please do add it and then note the issue.
-
 https://docs.google.com/document/d/1jcMhZpOIUP2j32Ce6m9yAzmSAAJ1E5LyDNaU2Is3mxg/edit?usp=sharing
-
-
-
-
 On Thu, Sep 4, 2014 at 11:24 PM, Usha Sanka <usha.sanka at gmail.com> wrote:
-
-> Namaste
-> Please accept my best wishes.. and abhinandanam first.
-> One suggestion- Instead of asking to send corrections off list, why not
-> create a google doc and keep it open for everyone to put their comments and
-> suggestions as well?
-> This will help in avoiding repetition as well as will make it easy for
-> you to look at issues all at once.
-> -vinItA
-> Usha
->
->
-> On Thursday, September 4, 2014 11:03:52 PM UTC+5:30, dhaval patel wrote:
->>
->> Dear all,
->> Please find attached the test page for a PHP based machine for subanta
->> generation according to Siddhanta kaumudi.
->> http://lanover.com/lan/sanskrit/subanta.html
->>
->> The code can be seen at https://github.com/drdhaval2785/sanskrit
->>
->> The machine gives step by step derivation of words as per prakriyA
->> mentioned in Siddhantakaumudi.
->> Respected scholars may please have a look at it and suggest corrections
->> where the machine is off the correct derivation process.
->> Please send corrections off list, so that they can be incorporated.
->>
->> "Documentation" and "Known Issues" are in progress.
->> I am attaching a sample page of 'rAma' derivation for ready reference.
->>
->> --
->> Dr. Dhaval Patel, I.A.S
->> District Development Officer, Rajkot
->> www.sanskritworld.in
->>
->  --
-> You received this message because you are subscribed to the Google Groups
-> "sanskrit-programmers" group.
-> To unsubscribe from this group and stop receiving emails from it, send an
-> email to sanskrit-programmers+unsubscribe at googlegroups.com.
-> For more options, visit https://groups.google.com/d/optout.
->
-
-
-
--- 
 Dr. Dhaval Patel, I.A.S
 District Development Officer, Rajkot
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140905/222c30af/attachment.htm>
-

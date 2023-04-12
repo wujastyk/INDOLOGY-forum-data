@@ -1,16 +1,4 @@
-From FALK at ibm.ruf.uni-freiburg.de  Thu Feb 18 12:52:43 1993
-From: FALK at ibm.ruf.uni-freiburg.de (Harry Falk)
-Date: Thu, 18 Feb 93 12:52:43 +0000
-Subject: Krishnamurti festschrift
-Message-ID: <161227015710.23782.909304938609237520.generated@prod2.harmonylists.io>
-
+Krishnamurti festschrift
 David,
 how does one access RLIN? Seems to be a useful tool.
 Harry
------falk at ibm.ruf.uni-freiburg.de-------
- 
-
-
-
-
-

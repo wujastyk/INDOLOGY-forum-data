@@ -1,12 +1,5 @@
-From athr at LOC.GOV  Fri Aug 13 20:07:46 2010
-From: athr at LOC.GOV (Thrasher, Allen)
-Date: Fri, 13 Aug 10 16:07:46 -0400
-Subject: Looking for Hemaprabha              S=?utf-8?Q?=C5=ABri's__Trailokyaprak=C4=81=C5=9B?= a (etc.)
-In-Reply-To: <4C657701.7040202@pbhome.se>
-Message-ID: <161227090163.23782.2213521017192659628.generated@prod2.harmonylists.io>
-
+Looking for Hemaprabha              S=?utf-8?Q?=C5=ABri's__Trailokyaprak=C4=81=C5=9B?= a (etc.)
 There is another ed. of the Trailokyaprak??a in the Library of Congress and eight other U.S. libraries.  You could request via Interlibrary Loan.
-
 LC Control No.:       99946531 
 Personal Name:     Hemaprabhas?uri, 13th cent. 
 Uniform Title:     Trailokyaprak?a?sa. Hindi & Sanskrit
@@ -23,12 +16,8 @@ Subjects:          Hindu astrology--Early works to 1800.
 Other System No.:  (OCLC) 43356543  
 CALL NUMBER:       BF1714.H5 H3814 1998 Hind
                    Copy 1
--- Request in:     Asian Reading Room (Jefferson, LJ150)
-
 WorldCat also shows a manuscript of it in Columbia University (OCLC No. 265033641), link to OPAC Clio < http://tinyurl.com/Trailokyaprakasa-ms >.
-
 There is a M?nu?yaj?taka, but by Sridhara not Samarasingha, in microfiche in the Library of Congress and Center for Research Libraries:
-
 LC Control No.:       94905574 
 Personal Name:     ?Sr?idhara (Son of Jat?a?sankara)
 Uniform Title:     Manusyaj?ataka
@@ -49,14 +38,8 @@ Additional Formats:
 Subjects:          Hindu astrology.
 CALL NUMBER:       Microfiche 94/61358 (B) So Asia
                    Copy 1
--- Request in:     Asian Reading Room (Jefferson, LJ150)
--- Status:         Not Charged
-
-
 It also can be requested via Interlibrary Loan.  Or one can just buy the fiche from our Duplication Services < http://www.loc.gov/preserv/pds/ >.  The latter might be quicker and no more expensive.  There is also a copy in the Bibliotheque Nationale, according to WorldCat.  I have no idea if these are the same work attibuted to different authors.
-
 Allen
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian and Team Coordinator
 South Asia Team
@@ -66,32 +49,9 @@ Washington, DC 20540-4810
 USA
 tel. 202-707-3732
 fax 202-707-1724
-
-
-
-
-
-
-
-
-
-
-
-
------Original Message-----
-From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Martin Gansten
 Sent: Friday, August 13, 2010 12:47 PM
-To: INDOLOGY at liverpool.ac.uk
-Subject: [INDOLOGY] Looking for Hemaprabha S?ri's Trailokyaprak?? a (etc.)
-
+[INDOLOGY] Looking for Hemaprabha S?ri's Trailokyaprak?? a (etc.)
 I have been trying for some time, so far unsuccessfully, to procure a copy (printed, photocopied or scanned) of the Trailokyaprak??a by Hemaprabha S?ri. Apart from the edition mentioned by Pingree (New Delhi 1967), I am aware only of a 1980 edition (with Hindi translation) published by the Jamnagar Jain Sangh.
-
 Even more elusive is the T?jikatantras?ra (aka Ga?akabh??a?a, aka Karmaprak??ik?, aka M?nu?yaj?taka) by Samarasi?ha. Here I know of only one edition (with N?laka??ha's T?jikan?laka??h?, Mera?ha 1866).
-
 Any help with locating either of these texts would be greatly appreciated.
-
 Martin Gansten
-
-
-
-

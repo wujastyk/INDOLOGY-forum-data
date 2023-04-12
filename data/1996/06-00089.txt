@@ -1,12 +1,6 @@
-From sohum at ms.uky.edu  Mon Jun 17 19:47:32 1996
-From: sohum at ms.uky.edu (sohum at ms.uky.edu)
-Date: Mon, 17 Jun 96 15:47:32 -0400
-Subject: e-Rigveda
-Message-ID: <161227025084.23782.5244017771556633152.generated@prod2.harmonylists.io>
-
+e-Rigveda
 To 
 Dr.  Fco. Javier Martinez Garcia,
-
 I read your mail in the INDOLOGY group stating that:
 ||> Several of us have been working with an e-text of the Rig Veda 
 ||
@@ -17,16 +11,13 @@ I read your mail in the INDOLOGY group stating that:
 ||
 ||best regards
 ||J.M.
-
 I have known of Titus and have looked at the list of Vedic texts
 available. For some reason I never figured out how the texts are
 available for use and so did not actually pursue it any further. 
-
 Recently, I corresponded with Dr. Jost Gippert and have been helping
 out with proofreading of manusmR^iti and some Kalidasa work. So now I
 know that you need a password and account to access the archive. I
 have these now. 
-
 I am deeply interested in the state of the Rigveda. I have a suspicion
 that this is the same text that is being worked on by John Gardner and
 myself after a lot of initial work by Kim Poulsen, Nandu Abhyankar and
@@ -36,35 +27,23 @@ in the Oxford archives and was supposedly deposited by Robert Kahn
 Ananthanarayana and Lehman associated with it and now it seems that
 you have been working on exactly the same text - as I read in your web
 site.
-
 We have been interested in converting it to ITRANS with a ready
 conversion to devanaagarii thru LaTeX. We have no accent markings
 included. There were some apparent markings in the original files, but
 in the current form they do not seem to be clear or accurate in any
 sense (perhaps due to our misunderstanding of the notations).
-
 I started looking at the parishishhThaas (khilaani as they are
 probably known) in my own devanaagarii version and since these were
 missing, I have since encoded them. I am not sure if I have found all
 yet! John Gardner has been cleaning up the mandalas one by one and the
 current form has been put up on the Indology site by Dominik.
-
 Please let us know the state and intended final use/version of your
 edition.  We intend our version to be in full public domain, but there
 is no need to continue, if you have already finished it. I am
 enclosing copies of this letters to the other people involved in this
 project.
-
 Thanks in advance for prompt response.
-
--- 
 |Avinash Sathaye Phone:(606)277-0130(Home), (606)257-8832(Office) |
 And now, the next thought is from our CPU ...
->>>>>>>>>>>>
 Some programming languages manage to absorb change but withstand
 progress.
-
-
-
-
-

@@ -1,11 +1,5 @@
-From hellwig7 at gmx.de  Sun Jan 24 08:55:12 2021
-From: hellwig7 at gmx.de (Oliver Hellwig)
-Date: Sun, 24 Jan 21 09:55:12 +0100
-Subject: [INDOLOGY] New version of the DCS
-Message-ID: <7a8fea2b-6dd5-f32f-04e6-67af7c8a1ee2@gmx.de>
-
+[INDOLOGY] New version of the DCS
 Dear all,
-
 after quite a while, a new version of the DCS has been released
 (http://sanskrit-linguistics.org/dcs/). Most changes took place in the
 Vedic subcorpus where new texts were added and existing ones corrected.
@@ -15,16 +9,7 @@ of the Grhyasutras. The corpus also shows syntactic annotations if
 available which were added by Erica Biagetti (Pavia), Salvatore Scarlata
 (Z?rich), Elia Ackermann (Z?rich) and me (see the first few suktas of
 the AV, for example).
-
 As always, updated source data can be found at github:
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data
-
 Best, Oliver
-
----
 Oliver Hellwig, IVS Z?rich
-
-
-
-
-

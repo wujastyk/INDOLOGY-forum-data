@@ -1,9 +1,4 @@
-From wujastyk at gmail.com  Thu May  2 09:59:54 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Thu, 02 May 13 11:59:54 +0200
-Subject: =?utf-8?Q?[INDOLOGY]_Ny=C4=81yabh=C4=81=E1=B9=A3ya_e-text_added_to_SARIT.?=
-Message-ID: <CAKdt-Ccb=CV8WVhZC8HjD5FjwUTBP_RkY5OjRaf84tMZPCpedg@mail.gmail.com>
-
+=?utf-8?Q?[INDOLOGY]_Ny=C4=81yabh=C4=81=E1=B9=A3ya_e-text_added_to_SARIT.?=
 I am pleased to report the addition of an e-text of V?tsy?yana's
 Ny?yabh??ya<http://sarit.indology.info/newphilo/navigate.pl?indologica.7>to
 the SARIT online library.  The XML is also
@@ -12,17 +7,7 @@ expect the file will evolve in the future, with more corrections and
 updates.  It is possible that a second, independent e-text of the same work
 will be added to SARIT soon, and that will raise the interesting
 possibility of file comparisons that I'll be exploring.
-
 Best,
 Dominik
-
-
---
 Dr Dominik Wujastyk
 ?SARIT <http://sarit.indology.info> project.?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130502/60be988e/attachment.htm>
-

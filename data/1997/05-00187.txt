@@ -1,22 +1,5 @@
-From stone_catend at compuserve.com  Mon May 19 14:31:12 1997
-From: stone_catend at compuserve.com (Anthony P Stone)
-Date: Mon, 19 May 97 10:31:12 -0400
-Subject: yuga, VarNa and colour
-Message-ID: <161227030350.23782.7402240956006111487.generated@prod2.harmonylists.io>
-
+yuga, VarNa and colour
 On 5/19/97,  2:05 PM,  Jacob Baltuch wrote:
-
->>Actually the digits of any number that is a multiple of 9 will have a 
->>sum of 9 as well.
-
->Not true: 9 * 11 = 99
-
 You have to go on adding digits until a single-digit number is obtained,
 then it is true.
-
 Tony Stone
-
-
-
-
-

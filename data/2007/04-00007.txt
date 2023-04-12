@@ -1,83 +1,33 @@
-From jlfitzgerald at COMCAST.NET  Wed Apr  4 14:49:09 2007
-From: jlfitzgerald at COMCAST.NET (James L. Fitzgerald)
-Date: Wed, 04 Apr 07 10:49:09 -0400
-Subject: Pischel
-In-Reply-To: <Pine.WNT.4.64.0704040932440.3364@Caraka>
-Message-ID: <161227079841.23782.3236692841262280521.generated@prod2.harmonylists.io>
-
+Pischel
 Many thanks to Dominik for posting information and directions on these very
 useful tools! I've already put them to good use. Also, many thanks to those
 who have done all the work on the DLI. What a marvelous resource. Now if
 Ganesa will just help with the OCR . . .
-
 Jim Fitzgerald
-
------Original Message-----
-From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik
 Wujastyk
 Sent: Wednesday, April 04, 2007 4:47 AM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: Pischel
-
+Re: Pischel
 I installed alternatiff I bring up a page of the book and save the location
 (right click, l[ocation])
-
 I open a command-line session and run the Cygwin version of the utility WGET
 on the location.
-
 When that completes, I have the book on my hard disk as a series of tiff
 files, one per page.
-
 I run tiff2pdf (also in Cygwin) on the directory, turning all the tiffs to
 pdfs
-
 I run pdftk (http://www.accesspdf.com/pdftk/) on the directory, turning all
 the pdfs into one big pdf of the book.
-
 I've automated most of this for myself.
-
 The process is a bit home-made, but the results are excellent.  I have a
 growing personal digital library of valuable books as PDF files.
-
-
 Since the DLI directory structure is open, one can open an ftp or http 
 session in a browser and roam around the books that way.  It's still all 
 tiff files, but if WGET is not available one could fetch the files one at 
 a time.  It would be very labour intensive.  E.g., go to
-
   http://www.new.dli.ernet.in/data_copy/upload/0075/479/PTIFF/
-
 for the Pischel files.
-
--- 
 Dr Dominik Wujastyk
 Senior Research Fellow
 University College London
 http://www.ucl.ac.uk/histmed
-
-
-
 On Wed, 4 Apr 2007, Mark Allon wrote:
-
-> Dear Dominik,
->
-> You mentioned in a recent Indology list posting that one could download 
-> Pischel's grammar from www.dli.ernet.in. I cannot see how to do this. Have
-
-> you done it?
->
-> Regards
-> Mark
->
->
-> Dr Mark Allon
-> Department of Indian Subcontinental Studies
-> MacCallum Brennan Building A18
-> University of Sydney
-> Australia
->
->
-
-
-
-

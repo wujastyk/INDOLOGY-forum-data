@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Mon Dec 18 14:15:48 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Mon, 18 Dec 00 15:15:48 +0100
-Subject: PDF (was publication of IASS papers on CDROM)
-Message-ID: <161227065591.23782.7346247157397692852.generated@prod2.harmonylists.io>
-
+PDF (was publication of IASS papers on CDROM)
 Many interesting points.
 However, please note that mass storage is what we are talking about, not
 removable media. Removable media are just one type of mass storage, as are
@@ -26,7 +21,6 @@ You can make the mass storage remote (over a form of network), but that is
 a trivial point. There will always be a form of mass storage. Look out for
 mass-storage with up to 500-year estimated life spans next. We already have
 200 years of estimated life span now with normal CD-ROMs.
-
 Further, MacOS HFS has ALREADY been superseded by TWO other MacOS file
 systems, and the issue has nothing to do with the ISO-9660 issue. MacOS HFS
 could easily be superseded because it is not an ISO norm and not accepted
@@ -36,11 +30,9 @@ Things are different when norming has taken place.
 ISO-9660 is itself a file system and has nothing to do with a single
 company or lobby. Is is the normed file system for CD-ROMs. As such it will
 be readable in future.
-
 To sum up, we are not talking about backward-compatibity. The issue is to
 package data in such a way that they are forward-compatible. By using ISO
 norms on all levels involved, we are providing just that.
-
 Concerning TEX: I generally discourage using TEX altogether. Only TEXies (a
 special form of esoteric computer guru scene) favours it, because it has
 become part of their lifestyle and provides them with a digital survival
@@ -53,106 +45,9 @@ they can go on playing with dinosaurs without penalty. The rest of the
 world has moved on to SGML tools and Unicode. The best thing you can do to
 TEX is to convert it to modern formats and then put it on the shelf for
 good.
-
 I wonder if it makes sense to devote so much time to tech issues on this
 list. I for my part will now go off the list on this topic for a while.
-
 Take care,
 Gunthard Mueller
-
 gm at e-ternals.com
-
-
-
-
-
-
-
-
-
 Kengo Harimoto wrote:
-
-> [I subscribe to digest.  So, this post may not properly refer to the
-> origina I am referring.]
->
-> I understand the problem with PDF files produced TeX/LaTeX -> dvi file
-> -> PS file -> PDF is that even though PDF files can contain fonts, in
-> this case, they actually are a bitmap fonts (opposite to outline
-> fonts, such as PS or TrueType fonts).  Thus resulting undesirable
-> appearances viewd in or printed from the Acrobat Reader.
->
-> If the original dvi file or the PS file resulting produced by dvips
-> was specified to be printed on a certain printer, depending on the
-> resolution of the printer, TeX uses certain set of pk fonts, which are
-> bitmaps.  As long as the fonts included in the PDF file are outline
-> fonts (PS or TrueType fonts), it does not matter what resolution the
-> printer which the user is trying to print out has.  But, if a PDF file
-> was produced with certain printer resolution in mind, which,
-> unfortunately, is the case for most TeX documents, the resulting
-> printout from Acrobat Reader is not optimal if the printer's
-> resolution was different. (It seems Acrobat reader has trouble
-> properly renderging 600dpi bitmap fonts in 72/75/100/300/360 dpi.)
->
-> There are packages for LaTeX2e to use Type-1 fonts, and the above
-> problem may be solvable.  Still, there are a couple of problems:
->
-> 1) Devanagari/Sanskrit fonts for TeX/LaTeX have been Metafont format,
-> which at the end of the day becomes pk files and included in the PDF
-> file as bitmaps.
->
-> 2) I have yet to find a solution to use Type-1 fonts with Plain TeX.
-> Unfortunately, I believe quite a few indologists use edmac package by
-> Dominik Wujastyk to prepare critical editions, which is a macro package
-> for Plain TeX.  It does somehow work with LaTeX2e, but has a great
-> limitation.  Not everything or most of the things one expects from
-> LaTeX2e does not work in combination with edmac.
->
-> 3) PDF files produced by dvi -> ps -> pdf method does not allow
-> search, etc. provided by Acrobat reader.
->
-> 4) ps2pdf does not compress the resulting PDF file, because of
-> Unisys's licensing insistence on LZW compression scheme.  Thus huge
-> file even compared to the PS file.
->
-> etc.
->
-> Although I think PDF is the least evil format to publish
-> electronically at this moment, it is far from optimal.  (I do provide
-> PDF files to Mac/Windows users if I do not feel like killing trees or
-> spending time and money to go to a post office and pay a postage.)  In
-> my opinion, It is still too early to go for only electronic
-> publication.  I would ideal solution is to publish electronically AND
-> traditionally (on paper).  If PS or PDF files are produced anyway for
-> electronic publication, why not print couple of hundred copies and
-> bind them nicely for the readers (or especially libraries) who would
-> prefer to have paper copy?  Since paper version is a luxary, it could
-> be significantly more expensive than electronic version to recover the
-> cost of printing and binding.  I think it still nice for a publication
-> to have ISDN or LC number as a book, not as a CD-ROM.
->
-> CD-ROM may here to stay, but so do 5-inch or 8-inch floppies.  It is
-> not impossible to find an ancient machine to read them, but it is not
-> easy.  ISO-9660 format may not be changing, but file systems for the
-> OSes are likely to change.  (It is hard to think that MacOS will not
-> drop the support for HFS format at some point.)  Most of the OSes
-> perhaps will provide backward compatibilities for certain period of
-> time, but I am increasingly finding that ``backward compatibility'' is
-> a big lie.  In addition, who could be certain that removable media
-> will not desappear from desktop computers. (See for example, iMac
-> without floppy drive.)  The computer industry, I believe, is always
-> moving toward elimination of any moving parts, because they are the
-> most prone to mechanical trouble.  (Aren't companies trying to find an
-> alternative to hard-drives?)
->
-> So, I think it is not a good idea to go for all electric publication
-> yet.  Please note that I am not against publishing anything
-> electronically.  The optimal, at this stage of development of
-> technologies, is to publish in both ways.  And wasn't that the point
-> of the first post on this issue?
->
-> --
-> kengo
-
-
-
-

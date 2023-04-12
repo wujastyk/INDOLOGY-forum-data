@@ -1,39 +1,19 @@
-From athr at LOC.GOV  Wed Oct 17 19:26:04 2007
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Wed, 17 Oct 07 15:26:04 -0400
-Subject: epitaph for Friederick Rosen
-Message-ID: <161227081396.23782.1950632284719343458.generated@prod2.harmonylists.io>
-
+epitaph for Friederick Rosen
 I just notice that the Library of Congress copy of this book:
-
 LC Control No.:    unk81050111 
 Personal Name:     Rosen, Friederick A. [from old catalog]
 Main Title:        Corporis radicum sanscritarum prolusio. 
 Published/Created: Berolini:  Apud Ferdinandum Dummlerum, Typicis Academicis, 1826.
 PK901 .R7 1826a
-
 Has the following inscription in pencil after the author's name:
-
 Tam merito laudatus et ploratus
 Ab illo non minus lugendo citiusque pariter erepto
 Eximio viro
 C.F.L.S.P.B__
-
 Does anyone have any idea whom the initials might belong to?
-
 It is probably not pertinent, but this copy is slightly different from another (LCCN 11024033; PK901 .R7) which has on the title page the same title with "Dissertatio Inauguralis..publice defendet, Opponentibus..." and after the final page a Curriculum Vitae and Theses 1-5.  The first copy has Phil.Dr. after the author's name?
-
 Was it customary at the time to publish a dissertation with a different t.p. before and after the successful defense?
-
-
 Allen
-
-
-
-
-
-
-
 Allen W. Thrasher, Ph.D., Senior Reference Librarian
 South Asia Team, Asian Division
 Library of Congress, Jefferson Building 150
@@ -41,7 +21,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

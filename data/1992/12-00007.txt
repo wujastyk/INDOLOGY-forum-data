@@ -8,8 +8,6 @@
           and WordPerfect 5.1
      8. Access on diskettes, CD-ROM (planned)
      9. Encoded by various scholars in different parts of Europe.
- 
- 
 Hamburg (Univ)/ Sanskrit medical encyclopaedias
      CPET#191
      1. Sanskrit medical encyclopaedias
@@ -20,7 +18,6 @@ Hamburg (Univ)/ Sanskrit medical encyclopaedias
      4. Caraka, Susruta, Astangahrdaya, Astangasamgraha, and the
           Siddhasara of Ravigupta
      5. Sanskrit
- 
 Tu%bingen (Seminar fu%r Indologie und Vergleichende
      Religionswissenschaft)/ Tu%bingen Parana Project
      CPET#308
@@ -46,8 +43,6 @@ Tu%bingen (Seminar fu%r Indologie und Vergleichende
           format possible). TUSTEP programs for KWIC-index, reserve
           index word forms etc.
      9. Encoded in-house.
- 
- 
 Zurich (Univ)/ Sanskrit texts
      CPET#268
      1. Sanskrit texts
@@ -69,8 +64,6 @@ Zurich (Univ)/ Sanskrit texts
                reserve index word forms etc.
      8. Presently none
      9. Encoded in-house
- 
- 
 TX Austin (University of Texas)/ Thesaurus Linguae Sanskritae
      CPET#101
      1. Thesaurus Linguae Sanskritae, University of Texas
@@ -80,10 +73,7 @@ TX Austin (University of Texas)/ Thesaurus Linguae Sanskritae
           tel. (512) 471-5811
      5. Sanskrit
      9. Texts include Mahabharata and Ramayana
- 
- 
 **** PROJECT WITH HUNGARIAN E-TEXTS ****
- 
 PA Pittsburgh (Carnegie Mellon Univ)/ CHILDES Database
      CPET#95
      0. CHILDES (Child Language Data Exchange System)
@@ -123,10 +113,3 @@ PA Pittsburgh (Carnegie Mellon Univ)/ CHILDES Database
           put in that format
      8. (Planned) CD-ROM
      9. Obtained from researchers
- 
- 
-
-
-
-
-

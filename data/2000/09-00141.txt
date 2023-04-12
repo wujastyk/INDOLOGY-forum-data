@@ -1,25 +1,11 @@
-From yanom at KSUVX0.KYOTO-SU.AC.JP  Sun Sep 10 13:49:11 2000
-From: yanom at KSUVX0.KYOTO-SU.AC.JP (Michio Yano)
-Date: Sun, 10 Sep 00 22:49:11 +0900
-Subject: Some regional variations in Indian lunar calendar
-Message-ID: <161227061551.23782.8796480153734259056.generated@prod2.harmonylists.io>
-
+Some regional variations in Indian lunar calendar
 Dear colleagues,
-
 I have corrected the karaNa part of my pancanga program
 which you can run at my homepage:
-
 http://www.kyoto-su.ac.jp/~yanom
-
-
 The program is not yet `user friendly' enough.
 I will keep on improving.  I am thinking of
 putting the traditional Indian solar calendar.
-
 Michio Yano
 Kyoto Sangyo University
 yanom at cc.kyoto-su.ac.jp
-
-
-
-

@@ -1,21 +1,7 @@
-From silk at HUMNET.UCLA.EDU  Fri Jun 22 06:04:04 2007
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Thu, 21 Jun 07 23:04:04 -0700
-Subject: Pali Dictionary
-In-Reply-To: <BAY114-DAV47F7207904CF391E5B170DB100@phx.gbl>
-Message-ID: <161227080681.23782.2643302914205961687.generated@prod2.harmonylists.io>
-
->The link given a few weeks back for the Pali Dictionary 
->http://hfg.myx.dk/pali5/<about:blank>  no longer seems to work.  Has 
->the site been taken down or moved?
-
-
+Pali Dictionary
 Yes. Ole Pind found that the traffic overwhelmed the server, and he 
 is in the process of reorganizing the site to better suit the 
 unexpected interest.
-
-
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -26,5 +12,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-

@@ -1,18 +1,6 @@
-From ridgeway at blackbox.hacc.washington.edu  Tue Aug  2 20:40:07 1994
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Tue, 02 Aug 94 13:40:07 -0700
-Subject: Diacritics fonts for Windows
-Message-ID: <161227017004.23782.8847486147395724248.generated@prod2.harmonylists.io>
-
+Diacritics fonts for Windows
 Edeltraud Clear writes,
-> I am trying to find a means of writing diacritics for Sanskrit
-> transcription using Microsoft Word for Windows on a PC.
-> Has anybody any suggestions? Or can somebody point me to where
-> I can look?
-> Specifically I need to be able to write:
->   = a dot under 'n', 'm', 'h', 'th', and 's'
    etc.
-
 This is what the HACC Indic series of fonts is intended to handle.
 You may evaluate for yourself whether they succeed in this aspiration by
 fetching via ftp (binary mode please) the files
@@ -24,12 +12,5 @@ These are then installed via the Windows control panel, a process described
 in the windows manuals.  Those needing help with how to conduct an ftp 
 session should seek assistance locally as this is a generic computing
 procedure which does not require Indic expertise.
-
 cheers,
 Tom
- 
-
-
-
-
-

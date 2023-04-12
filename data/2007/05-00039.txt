@@ -1,37 +1,13 @@
-From emstern at VERIZON.NET  Sun May 20 00:37:53 2007
-From: emstern at VERIZON.NET (Elliot M. Stern)
-Date: Sat, 19 May 07 20:37:53 -0400
-Subject: Sanskrit word for "Computer"
-In-Reply-To: <1179618469.464f8ca56b018@cubmail.cc.columbia.edu>
-Message-ID: <161227080166.23782.241347691464703502.generated@prod2.harmonylists.io>
-
+Sanskrit word for "Computer"
 The website http://spokensanskrit.de offers several translations.
-
 ga.nakayantram
 sa.mga.nakayantram
 sa.mga.natram
-
 Examples:
-
 sa.h sa.mga.nakamantargacchati 'he logs onto a computer'
 sa.h sa.mga.naka.m bahirgacchati 'he logs off a computer'
-
 sa.mga.naka is cited as one of several Hindi terms for computer at  
 http://www.cfilt.iitb.ac.in/~hdict/webinterface_user/ 
 dict_search_user.php.
-
 Elliot M. Stern
-
-
 On 19 May  2007, at 7:47 PM, David Rustin Mellins wrote:
-
-> Dear Folks:
->
-> Does someone know the contemporary Sanskrit designation for the
-> computer? Thanks much.
->
->                          David Mellins
-
-
-
-

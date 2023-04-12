@@ -1,19 +1,6 @@
-From rkk at NISTADS.RES.IN  Thu Nov  2 05:24:16 2000
-From: rkk at NISTADS.RES.IN (Rajesh Kochhar)
-Date: Thu, 02 Nov 00 10:54:16 +0530
-Subject: two suggestions
-Message-ID: <161227063446.23782.3942809189247641834.generated@prod2.harmonylists.io>
-
+two suggestions
 Two suggestions
-
 (1) Restrict the number of postings permitted per day to one.(This is the upper limit.)
-
 (2) Reduce the permissible length of the posting  by 25%.
-
 Review the situation later.
-
 Rajesh Kochhar
-
-
-
-

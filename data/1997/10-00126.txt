@@ -1,16 +1,7 @@
-From roheko at CLASSIC.MSN.COM  Wed Oct 15 22:38:26 1997
-From: roheko at CLASSIC.MSN.COM (Rolf Heinrich Koch)
-Date: Wed, 15 Oct 97 22:38:26 +0000
-Subject: VBA Modul Devanagariconverter
-Message-ID: <161227033099.23782.6111898292768226198.generated@prod2.harmonylists.io>
-
+VBA Modul Devanagariconverter
 All members who reveived already the modul: please delete the lines at the
 beginning of the program starting with "Dim". The program has to start with
 the line "Selection.Find.ClearFormatting". After I find the resolution for the
 bug regarding the letter "i" all of you, who reveived already the modul will
 get automatically the new version.
 All new interesents may please wait for a couple of days (I do not hope weeks)
-
-
-
-

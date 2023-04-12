@@ -1,15 +1,4 @@
-From jh at cubsps.bio.columbia.edu  Tue Nov 14 19:38:55 1995
-From: jh at cubsps.bio.columbia.edu (Jim Hartzell)
-Date: Tue, 14 Nov 95 14:38:55 -0500
-Subject: fonts
-Message-ID: <161227021628.23782.2495391885164477993.generated@prod2.harmonylists.io>
-
+fonts
 Are there any shareware Truetype fonts for diacritics that include
 the requisite diacritics for transliterating Sanskrit?  
 J. Hartzell
- 
-
-
-
-
-

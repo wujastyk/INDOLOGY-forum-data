@@ -1,22 +1,5 @@
-From kellner at ipc.hiroshima-u.ac.jp  Fri Apr 12 15:23:06 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Sat, 13 Apr 96 00:23:06 +0900
-Subject: Initial capital
-Message-ID: <161227023768.23782.16260389083882656008.generated@prod2.harmonylists.io>
-
+Initial capital
 At 12:44 1996-04-12 BST, Mikael Aktor wrote:
-
->It's irritating that initial capitals in mames look ambiguous when used
->together with the Kyoto-Harvard convention. Like for instance: GaGgA,
->JJAnezvara, etc. But it is also problematic to skip them in for instance
->kRSNa, when this is a name and not only a color. Could we agree upon a
->common marker put before initial capital, for instance ":" ? The above
->examples would then be: :GaGgA, :JJAnezvara, and :KRSNa. The choice has to
->bee a sign which is not taken as a part of the word by various search
->programs, and which can not be mistaken for other signs that one may want to
->use before a word, for instance quotation marks. Other suggestions? Or is
->ASCII-Sanskrit already too weird for further complications?
-
 I would like to abuse this occasion to argue in favour of two-character
 diacritical encodings, in particular to  bluntly propagate (once more) a
 quite wide-spread Japanese convention, allegedly invented in Tookyoo, by
@@ -31,7 +14,6 @@ choice, it is much easier and inambiguous to write a macro for conversion.
 The same routine is not possible for both Harvard-Kyooto and Velthuis,
 because characters which are used in non-Sanskrit are also used in marking
 diacritics. 
-
 By the same token, the "@"-convention is also very useful for tormented
 Windows-users like myself, who switch between diacritical fonts ("the
 eternal quest for aesthetically pleasing Sanskrit diacritics - yet another
@@ -45,13 +27,6 @@ ANSI 0167 to ANSI 0189, you end up with a terrible mess. So you need a
 "go-between"-ASCII-convention, and for papers in English/German/Swahili or
 whatever which contain Sanskrit/Tibetan passages, you do need a
 two-character encoding. 
-
 Birgit Kellner
 Department for Indian Philosophy
 University of Hiroshima
-
-
-
-
-
-

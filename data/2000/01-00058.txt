@@ -1,20 +1,6 @@
-From birgit.kellner at UNIVIE.AC.AT  Wed Jan  5 18:50:40 2000
-From: birgit.kellner at UNIVIE.AC.AT (birgit kellner)
-Date: Wed, 05 Jan 00 19:50:40 +0100
-Subject: vAcaspatimizra
-Message-ID: <161227054860.23782.330394608739505756.generated@prod2.harmonylists.io>
-
+vAcaspatimizra
 "N. Ganesan" wrote:
-
-> Given the fluidity of chronological dates of Indian authors, the
-> analyzing of vAcaspati's date is essential for knowing Sankara's age.
->
 <snip>
-
->
-> References on the dates of vAcaspatimizra? Does he belong to
-> 10th century?
->
 This is just off the cuff -
 I think the most recent contribution to this issue is Walter Slaje,
 "Untersuchungen zur Chronologie einiger NyAya-Philosophen", in: Studien
@@ -23,7 +9,6 @@ For the relative sequence of VAcaspati's works, see esp. Srinivasa Ayya
 Srinivasan, "VAcaspatimiZras TattvakaumudI - ein Beitrag zur Textkritik
 bei kontaminierter Ueberlieferung", Hamburg: Cram, de Gruyter & Co.
 (1967), pp.54-64.
-
 Slaje is mostly concerned with the *relative* chronology of Jayanta,
 Trilocana, BhAsarvajJa, VyomaZiva and VAcaspati. Based on an examination
 of the views of these philosophers on four different subject-matters,
@@ -39,32 +24,19 @@ NyAyavArttikatAtparyaTIkA and (b) Udayana defends VAcaspatimiZra against
 JJAnaZrImitra (in combination with a few other factors, see Srinivasan).
 Hence, a dating of VAcaspati, or, to be more accurate, his NyAya works in
 the latter half of the 10th century seems plausible.
-
 [There is also the issue of the NyAyasUcInibandha, attributed to
 VAcaspati and dated 898. Srinivasan doubts the authorship of VAcaspati.
 Certain scholars interpret this as a Vikrama-date = 841 C.E. Slaje thinks
 that *if* the NSN is a work of V., then the date must belong to the
 Zaka-era = 976/7 C.E.]
-
-> The buddhist author, Jnanazrimitra and his disciple, Ratnakirti quote
-> one vAcasapatimizra in the 11th century. They are referring to
-> vAcaspatimizra who is generally dated to mid-9th to 10th century.
->
 At least I have no idea how one can arrive at absolute dates for the
 works of JJAnaZrImitra and RatnakIrti unless one presupposes an absolute
 date for VAcaspati, or at least for those of his works that the two
 Buddhist authors refer to - you might have a circular argument here, or
 at least one that is so vague that it does not provide any clues about a
 more precise dating of V.
-
 Regards,
-
---
 Birgit Kellner
 Institut f. Tibetologie und Buddhismuskunde / Institute for Tibetan and
 Buddhist Studies
 Universitaet Wien / Vienna University
-
-
-
-

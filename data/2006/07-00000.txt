@@ -1,23 +1,13 @@
-From arlo.griffiths at LET.LEIDENUNIV.NL  Mon Jul  3 08:01:06 2006
-From: arlo.griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
-Date: Mon, 03 Jul 06 10:01:06 +0200
-Subject: na bhuuto na bhaviSyati
-In-Reply-To: <255079D8-A58A-444E-8E00-1AB68C21CD86@alma.unibo.it>
-Message-ID: <161227078101.23782.12738268387628963436.generated@prod2.harmonylists.io>
-
+na bhuuto na bhaviSyati
 The exact phrase does not indeed seem to be attested in Vedic. Other  
 obviously related phrases do however occur very commonly. A GREP  
 search bhuut.*bhavi in my collection of (mainly Vedic) e-texts  
 yielded 417 hits.
-
 Here is a selection from the beginning of the alphabet:
-
 AB 5.30 	 	yad bhuuta.m bhavi.syac caapi sarvam /
-
 Aap;SS
 (20.11.8) bhuuta.m bhavya.m bhavi.syad iti paryaaptii.h
 (20.12.9) bhuutaaya svaahaa bhavi.syate svaaheti bhuutaabhavyau homau
-
 AV;S (with parallels in AVP)
 (4.11.2.c) bhuut;a.m bhavi.sy;ad bh;uvanaa d;uhaana.h s;arvaa  
 dev;aanaam carati vrat;aani ||2||
@@ -29,65 +19,12 @@ vive;saa ;s;aciibhi.h ||20|| {12}
 b;ala.m b;ale ||17||
 (15.2.1[2.6].f) bhuut;a.m ca bhavi.sy;ac ca pari.skanda;u m;ano  
 vipath;am ||6||
-
-
 On Jun 30, 2006, at 10:47 AM, Alex Passi wrote:
-
-> A search on Franceschini's revised e-version of Bloomfield's Vedic  
-> Concordance gives no hits at all for 'na bhuuto' and/or 'na  
-> bhavi.syati'.
->
-> Alex Passi
-> On 29/06/2006, at 9:01 PM, adheesh sathaye wrote:
->
-> Dear Colleagues,
->
-> I am trying to track down the history of this proverbial phrase/ 
-> cliche ("na bhuuto na bhaviSyati"), which seems to be fairly common  
-> in epic and puranic literature. As in: "harizcandra-samo raajaa na  
-> bhuuto na bhaviSyati" (MarkP 8.278cd, DBhP 7.18.52ab). Is this  
-> phrase attested in Vedic literature at all? smrtis? If anyone has  
-> any remarks or words of advice, or perhaps even references, I'd be  
-> very much obliged!
->
-> Best regards,
->
-> Adheesh
->
->
->
->
-> --
-> Adheesh Sathaye
-> Asian Studies
-> University of British Columbia
-> UBC Asian Centre
-> 1871 West Mall
-> Vancouver, BC V6T 1Z2
-> 604.822.5188
-> adheesh at interchange.ubc.ca
->
-> Alex (Alessandro) Passi,
-> Department of Linguistic and Oriental Studies
-> University of Bologna,
-> Via Zamboni 16
-> Bologna, 40126, Italy.
->
-> a.passi at alma.unibo.it
-> alexpassi at gmail.com
-> phone +39-338.269.4933
-> fax +39-059-975.0280
-
 Arlo Griffiths
 Instituut Kern, Universiteit Leiden
 Postbus 9515
 2300 RA Leiden, the Netherlands
-
 phone: +31-(0)71-5272622
 fax: +31-(0)71-5272956
 email: <arlo.griffiths at let.leidenuniv.nl>
 <www.kerninstitute.leidenuniv.nl>
-
-
-
-

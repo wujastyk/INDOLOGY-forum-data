@@ -1,21 +1,10 @@
-From wujastyk at gmail.com  Mon Jul 26 18:11:09 2021
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Mon, 26 Jul 2021 12:11:09 -0600
-Subject: [INDOLOGY] Velthuis nagari font for linux
-In-Reply-To: <23D049A1-5ACB-417B-8C21-72759BF0B1E1@wlu.edu>
+[INDOLOGY] Velthuis nagari font for linux
 References: <CAHfOVECyjzJUW1kvnxD1yoPFV-oR4c8skd0uDcDEcG_Wa4oGwQ@mail.gmail.com>
  <0e5e3d6e-23d7-b7b0-8064-c5d4638ebb7f@spicemail.cc>
  <CAHfOVEBSoLan8j3mz0N-qHn6DAVux7dBQNoNnncaAq8b+TaS1g@mail.gmail.com>
  <DBE522C2-F87F-46C0-857C-EA438777A82E@wlu.edu>
  <CAHfOVEAfT=cZ1uCmmA_FgHk2B5py8PZ7F0Z0-b3UDUg39d67=w@mail.gmail.com>
  <23D049A1-5ACB-417B-8C21-72759BF0B1E1@wlu.edu>
-Message-ID: <CAKdt-CdDwSwAk-XpMdjt93p2yJUXw9Tvtdi-QAocyKvLqcisCw@mail.gmail.com>
-
 There are some examples of what different Devanagari fonts look like here:
-
    -
    https://cikitsa.blogspot.com/2021/05/expanded-devanagari-font-comparison-33.html
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210726/f730799a/attachment.htm>
-

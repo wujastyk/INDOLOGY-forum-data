@@ -1,15 +1,7 @@
-From ucgadkw at UCL.AC.UK  Sat Apr  7 20:17:07 2007
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sat, 07 Apr 07 21:17:07 +0100
-Subject: Squiggly Underline in Critical Editions
-In-Reply-To: <8702866C-632D-42AB-8C88-C03F3B94B4C0@brown.edu>
-Message-ID: <161227079885.23782.2919947867633025158.generated@prod2.harmonylists.io>
-
+Squiggly Underline in Critical Editions
 I used the under-squiggle convention in my book
-
   "Metarules of Paninian Grammar: The Vyadiyaparibhasavrtti" (Groningen: Forsten, 1993).
   http://tinyurl.com/38z6c5
-
 I used the Devanagari Metafont designed by Frans Velthuis.  Frans was kind 
 enough to run me up a variant form of the font in which each character had 
 an under-squiggle.  The start and end of each character's squiggle was 
@@ -17,49 +9,12 @@ in the same position (relative to the baseline of the text), so they all
 joined up nicely.  But characters have different widths, so the price 
 paid for the joining up was that the squiggles were of varying width too, 
 a bit like an oscilloscope graph of a frequency-modulated signal.
-
 In spite of this compromise (which it would be hard to avoid in any 
 system), the results were very good, I thought.
-
 Best,
 Dominik
-
-
--- 
 Dr Dominik Wujastyk
 Senior Research Fellow
 University College London
 http://www.ucl.ac.uk/histmed
-
-
-
 On Sat, 7 Apr 2007, Peter M. Scharf wrote:
-
-> Dear Colleagues,
-> 	Have you seen the squiggly underline used in critical editions in 
-> scripts other than Devanagari?
-> 	The squiggly underline is of course used in the BORI critical edition 
-> of the Mahabharata to indicate a doubtful reading.  Is it used in other Indic 
-> scripts?  In any other scripts?
-> 	We have prepared a proposal for Unicode for Vedic characters, and a 
-> few other characters, and would like to include this squiggly underline but 
-> must know whether it is exclusive to Devanagari or not.  If you have seen it 
-> elsewhere please let me know right away.  If you have an image, this would 
-> also be helpful.
-> 	Thanks.
-> 	Yours sincerely,
-> 	Peter Scharf
-> 	Scharf at Brown.edu
-> *********************************************************
-> Peter M. Scharf                           (401) 863-2720 office
-> Department of Classics             (401) 863-2123 dept
-> Brown University
-> PO Box 1856                               (401) 863-7484 fax
-> Providence, RI 02912                Scharf at brown.edu
-> http://www.brown.edu/Departments/Classics/Scharf/
-> http://sanskritlibrary.org/
-> *********************************************************
-
-
-
-

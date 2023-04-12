@@ -1,42 +1,12 @@
-From dmenon at pacific.net.sg  Wed Dec  4 02:18:04 1996
-From: dmenon at pacific.net.sg (Das Menon)
-Date: Wed, 04 Dec 96 10:18:04 +0800
-Subject: World Sanskrit Conference computing workshops
-Message-ID: <161227027274.23782.10845441393627844504.generated@prod2.harmonylists.io>
-
+World Sanskrit Conference computing workshops
 At 07:31 PM 12/3/96 GMT, Ralph Bunker <ralphbunker at msn.com> wrote:
-
->
->Consider two Sanskritists S1 and S2 who want to exchange files. S1 uses a 
->Macintosh, hates transliteration and prefers to only see Devanagari. S2 is a 
->PC user and prefers transliteration. Would it be possible to write a computer 
->program which lets them type sanskrit texts the way they want to AND to read 
->and edit each others files the way they want to. Such a program should have at 
->least following features:
->1. It is available as shareware for a nominal fee (10 US dollars).
->2. It is available on Intel, Macintosh and Unix platforms.
->3. The user can train it to recognize any typing convention.  By typing 
->convention I mean the actual keystrokes that are used to produce the text on 
->the screen. So long a in one typing convention might be 'A' and in another 
->'aa'.
-
--------deleted ------
-
 I believe that a program that is based on the  Unicode standard will be the
 way to go to have most, if not all the features. BUT I doubt if such a
 program will be available for US$10, considering the payments a developer
 has to pay to Unicode Consortium for membership and/or to acquire the
 necessary development tools. Perhaps it is possible for around US$99, for
 the PC, and a higher fee for Unix. I cannot comment on the Macintosh.
-
 We hope to have a program released in January that plans to support input
 (typing) methods based on the Tuebingen-Zuerich format, ITRANS format as
 well an the INSCRIPT (Govt. of India std. script keyboard layout) format.
-
 Regards...Das
-
-
-
-
-
-

@@ -1,25 +1,12 @@
-From hellwig7 at GMX.DE  Thu Jan 26 21:58:49 2012
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Thu, 26 Jan 12 21:58:49 +0000
-Subject: Sanskrit formant frequencies
-Message-ID: <161227094982.23782.5515798738960681650.generated@prod2.harmonylists.io>
-
+Sanskrit formant frequencies
 An addition to the discussion about frequency of speech formants (although 
 I'm not sure whether this really answers the initial question): 
 You find a dataset of all syllables in the DCS at
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/data/syllables/syllables.htm
 (syllables.dat, link at the bottom of the page)
-
 Vowels should be easy to extract from the data.
-
 The top part of the page displays the proportions of consonant types in the 
 different historical layers of the corpus. The R code used to produce the 
 plot is also linked at the bottom of the page.
-
 Hope it helps!
-
 Best, Oliver Hellwig
-
-
-
-

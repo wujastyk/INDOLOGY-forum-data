@@ -1,39 +1,27 @@
-From jai at flex.com  Sat Jul 12 21:18:13 1997
-From: jai at flex.com (Dr. Jai Maharaj)
-Date: Sat, 12 Jul 97 11:18:13 -1000
-Subject: Free Font-Based Software Available
-Message-ID: <161227031538.23782.12583573452381567386.generated@prod2.harmonylists.io>
-
+Free Font-Based Software Available
 Free font-based software is available at the redifindia site.
-
 The following excerpts are from 
   http://www.redifindia.com/computer/jul/03harsh.htm
-
 Write English, read Gujarati
-
 by Salil Murthy in Mumbai
  [...]
 Harsh Kumar, chief manager, information technology, Konkan
 Railways, has developed software that can receive vernacular words
 typed in English and convert them to the appropriate language in the
 appropriate script. And he's giving it away, free. 
-
 Says Kumar "If you've ever tried to use a Hindi keyboard you would
 know just how difficult it is. Even existing software like the one
 developed by C-DAC requires you to put a sticker on your keyboard, so
 in effect you are using two different keyboards. 'Shusha' eliminates all
 that." 
-
 "I have redefined the keyboard. Shusha is a font-based software and
 converts whatever you type into the script of the language of your
 choice," continues Kumar. 
-
 "So far I have covered the scripts of Hindi, Marathi, Gujarati (all
 Devanagari script) and Punjabi (Gurumukhi script). I am currently
 working on Bengali, which should be out in about 15 days, and then I
 begin work on Oriya. The South Indian language scripts are a little more
 complicated but I will be getting to them soon." 
-
 The 41-year-old IT professional, with a masters degree from the
 University of Humberside, UK, is, however, determined not to go
 commercial. "I do not want to make this a commercial venture. Once it
@@ -48,16 +36,7 @@ average first-time user it should take 10 minutes to get a hang of the
 keys. After that he can takeoff," claims Kumar. 
 [...]
 End of Excerpts
-
 Jai Maharaj
 http://www.flex.com/~jai
 Om Shanti
-
 Copyright (C) 1997 Mantra Corporation. All Rights Reserved.
-
-
-
-
-
-
-

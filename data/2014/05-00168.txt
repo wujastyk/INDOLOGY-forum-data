@@ -1,13 +1,3 @@
-From gruenen at sub.uni-goettingen.de  Wed May 28 10:07:16 2014
-From: gruenen at sub.uni-goettingen.de (Gruenendahl, Reinhold)
-Date: Wed, 28 May 14 10:07:16 +0000
-Subject: [INDOLOGY] GRETIL updates #431 and #432 temporarily unavailable
-Message-ID: <044C4CE033BD474EBE2ACACE8E4B1D949C2F7509@UM-excdag-a02.um.gwdg.de>
-
+[INDOLOGY] GRETIL updates #431 and #432 temporarily unavailable
 Due to an incomplete data migration, GRETIL updates #431 and #432 will not be available for a few days.
 Apologies for any inconvenience this may cause.
-
-
-
-
-

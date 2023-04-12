@@ -1,73 +1,42 @@
-From hcf1dahl at EARN.UCSBUXA  Thu Feb 14 17:22:31 1991
-From: hcf1dahl at EARN.UCSBUXA (hcf1dahl at EARN.UCSBUXA)
-Date: Thu, 14 Feb 91 09:22:31 -0800
-Subject: REACH on FTP
-Message-ID: <161227014967.23782.4721863363192837811.generated@prod2.harmonylists.io>
-
- 
-
+REACH on FTP
 _REACH_, Research and Educational Applications of Computers
 in the Humanities, the newsletter of the Humanities
 Computing Facility of the University of California, Santa
 Barbara, is now available in electronic form through
 anonymous FTP.
- 
 FTP is a UNIX process which lets you transfer files from a
 distant computer to your own system. Your local computer
 center staff should be able to provide you with information
 on using FTP from your own account.
- 
 Once you have FTP available, enter one or the other of the
 two following equivalent commands to gain access to the UCSB
 computer storing the files:
- 
      ftp ucsbuxa.ucsb.edu
             or
      ftp 128.111.122.50
- 
 Try the first version, and, if that doesn't work, then try
 the second.
- 
 Log on with the name "anonymous," and use your e-mail
 address as a password.
- 
 Next, move to the directory containing the files by entering
 the command:
- 
      cd hcf
- 
 Now that you're in the correct directory, you can get a list
 of all the file names by entering the command:
- 
      ls
- 
 Then, to transfer any of the files to your own system, enter
 the command:
- 
      get filename
- 
 First try transferring the file called "readme." It shows
 the contents of each of the files in the directory, and
 gives detailed instructions for the FTP process, including
 the complete log of an actual FTP session.
- 
 Finally, end your session with the "quit" command.
- 
 If you encounter any difficulties in using the process, send
 me an e-mail note and I'll try to enlist the assistance of
 one of our local wizards.
- 
 I'd be particularly interested to hear from those who find
 this archive a useful form of resource.
- 
 Regards,
- 
 Eric Dahlin
 HCF1DAHL at ucsbuxa.bitnet
- 
- 
-
-
-
-
-

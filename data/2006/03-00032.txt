@@ -1,31 +1,6 @@
-From srangan at YORKU.CA  Thu Mar  9 18:53:52 2006
-From: srangan at YORKU.CA (Shyam Ranganathan)
-Date: Thu, 09 Mar 06 13:53:52 -0500
-Subject: Indian Syllogism
-In-Reply-To: <1141927337.4431.36.camel@localhost.localdomain>
-Message-ID: <161227077580.23782.1167682602672549871.generated@prod2.harmonylists.io>
-
+Indian Syllogism
 Dear list, and Prof. Hayes
-
 Prof. Hayes wrote:
-
-> When I first started writing about Buddhist logic, I was using such
-> terms as "valid" and "sound" to refer to arguments that the Buddhists
-> called "good" or "correct" (samyak). At the time I was taking a graduate
-> course in philosophy of logics, and my professor, Hans Herzberger,
-> warned me off using the terminology of deductive logic when writing of
-> Dign??ga. He demonstrated that an argument considered "correct" by
-> Dign??ga could still yield a false conclusion. The failures all stemmed
-> from making new empirical discoveries. For example, if a North American
-> has repeatedly observed that all mammals give live birth to their young,
-> it would be considered a "correct" argument to conclude when one sees a
-> mammal, that the animal gives live birth to its offspring. If one were
-> then to visit Australia and see one of the mammals there than lays eggs,
-> one's previously "correct" argument would yield a false conclusion. This
-> is something no deductive argument can do. (Do Australian human beings
-> give live birth or lay eggs? Never having been south of the equator, I
-> remain agnostic on this matter.)
-
  Could the problem here be merely the conflation of "validity" with "soundness"
 with the idea of samyak? Certainly, sound arguments cannot yeild false
 conclusions, for a sound argument is simply a valid argument with true premises
@@ -33,19 +8,10 @@ and thus a true conclusion. But a valid argument can certainly yeild a false
 conclusion, provided that some or all of the premises are false. Thus, in the
 example you provide, the false premiss is that mamals give live birth to their
 young.
-
 While I know even less about Buddhist logic than I do about Nyaya, it seems to
 me suspicious that 'samyak' could be both 'validity' and 'soundness', as these
 are distinct concepts.
-
-
->The deductive argument, on the other
-> hand, is rather barren and uninteresting. It works only when the major
-> premise is analytic. How often are we called upon in real life to make
-> inferences about the marital status of bachelors?
-
 Ah. I'm quite sure this is not true.
-
 As a proof that this must not be so, consider an argument with a necessarily
 false premise, such as "p and not p", where "p" is any proposition that one
 cares (for instance, "I ate breakfast today"). According to the standard
@@ -57,50 +23,21 @@ distribution of truth values across the atomic propositions such that all the
 premises will be true while the conclusion is false. Self contradictory
 premises are certainly not analytically true. And moreover, none of the other
 premises in such an argument need to be analytic either.
-
 Thus, if we continue with "p" means "I ate breakfast this morning" and say "q"
 is "I love seitan" and "r" is "Frege was a proto-Nazi", the argument
-
 p and not p (I ate breakfast this morning, and I didn?t eat breakfast this
 morning)
 q (I love seitan)
 therefore r (therefore Frege was a proto-Nazi)
-
 is deductively valid.
-
 None of these premises are analytic. Or, if one likes, consider a Humean example
 where "p" is "the sun rises every day" and "q" is "the sun rises on tuesdays."
 Modus ponens with these propositions is perfectly deductive and valid:
-
 p->q (if the sun rises every day, then the sun will rise on tuesday)
 p (the sun rises every day)
 .'. q (the sun will rise on tuesday)
-
 Nothing analytic here, but this is the very archetype of a valid deductive
 inference we teach in our symbolic logic classes.
-
-
-> For a long time I have tried to discuss Indian inferential schemata in
-> their own terms. One imposes unrealistic expectations on them when they
-> are called deductive. They just end up looking like failed deductive
-> arguments. A hundred years ago or so this "failure" was seen by some as
-> evidence that the philosophers of classical India were substandard
-> logicians. If one sees Ny??ya as trying to present an Aristotelian
-> syllogism, then the Ny??ya inferential scheme ends up looking like a
-> rather poor, at at least clumsy, attempt at a syllogism. If, on the
-> other hand, one looks at what the Indians were actually trying to do in
-> anum??na theory, it turns out they were doing an excellent job at
-> practical reasoning.
->
-> I see it, therefore, as a practice in charity of interpretation to see
-> the classical Indians as offering something more like Peirce's abductive
-> logic (or inference to the best explanation) than something like
-> mathematical deduction or Boolean algebra. Perhaps this is caving in to
-> political correctness of some kind, but I do think there is rather more
-> at stake here than politesse. (I hope so; I'm a complete failure at
-> being polite.)
->
-
 I certainly agree that if it turned out that all of our efforts to use the
 concepts of deductive logic to discuss Nyaya or Buddhist logic turned out that
 we were painting their efforts as failed, we would be well advised to revise
@@ -116,15 +53,8 @@ that contradicted the conclusions of their argument schemes as having
 implications for the truth of the premises in the argument. If something like
 modus tollens could be observed in their thinking, we have a straight forward
 deductive system at play.
-
 Best
-
 Shyam
-
 Shyam Ranganathan
 Department of Philosophy
 York University (Toronto)
-
-
-
-

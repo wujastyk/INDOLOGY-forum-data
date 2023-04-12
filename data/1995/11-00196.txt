@@ -1,5 +1,5 @@
 #From indology-request at liverpool.ac.uk Tue Nov 28 14:05 PST 1995
-#Subject: Re: Help with source
+#Re: Help with source
 #
 #>	Look to this day
 #>	For yesterday is but a dream
@@ -25,9 +25,3 @@
 #- &
 # 
 #
- 
-
-
-
-
-

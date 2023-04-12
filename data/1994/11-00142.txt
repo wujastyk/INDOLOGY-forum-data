@@ -1,8 +1,5 @@
->?From Frank Mon Feb 13 23:04:20 1995
-From:  Frank F. Conlon, <conlon at u.washington.edu>
-Subject: Religiously inspired revisionism in the history of India
+Religiously inspired revisionism in the history of India
 Status: RO
-
 History, they say, is a contested subject.  The subjectivity of
 interpretations and the argument over "facts" has flavored the
 evolution of the discipline over time.  In South Asian history,
@@ -11,7 +8,6 @@ interpretations of such topics as the nature of the South Indian
 state, the expansion of Islamic rule in medieval India, the
 effects of British colonial rule, the roots of the partition,
 etc. etc.
-
 In the last few years, e-mail discussion lists directed at South
 Asians, particularly those in North America, have featured a
 steady increase in postings, primarily by non-historians --
@@ -23,7 +19,6 @@ awareness of the debates over "orientalism" that originated in
 the work of Edward Said, yet without the moorings of knowledge of
 historical contexts necessary to considered evaluation of
 evidence.
-
 Also, several writers have attempted to write revisionist
 accounts of India's history with particular emphasis upon a world
 view which has been associated with resurgent Hinduism.  It has
@@ -32,7 +27,6 @@ assaults on European scholarship of the 19th century (scholarship
 which has been substantially amended by subsequent generations of
 researchers) and then borrow from 20th century historical comment
 on the contingency and imperfection of any historical account.
-
 The result has been an "anything goes" revisionism.  Since these
 revisionist ideas appear in print, they are readily appropriated
 by some who seem to think that if an idea can be printed it is
@@ -45,7 +39,6 @@ articles on the fringes of these e-mailists' own scientific
 disciplines, suggesting that Pi equals 24 and 2/3  or that the
 earth was flat, there would be great amusement, perhaps
 aggrevation.
-
 The December issue of the monthly journal Hinduism Today, has
 just appeared.  It is available for sale in most parts of the
 world, but it may be also accessed via e-mail.  This issue
@@ -54,7 +47,6 @@ to professional historians of India.  It appears that at least
 one professional historian has associated himself with this
 project, but given the unusual qualities of the entire
 production, I would not be inclined to state anything as fact.
-
 At any rate, I have included in this posting, the copyrighted
 introduction and editorial to the "Time Line", and instructions
 how interested historians may e-mail for the detailed contents of
@@ -64,23 +56,15 @@ purpose to encourage a "flame war"--there are other venues for
 that.  This posting is for the information of professional
 scholars of South Asia, who may be bemused by the intelligence
 that history is irrelevant, but must be corrected.
-
-
 Frank F. Conlon
 University of Washington
 Co-moderator of H-ASIA
 <conlon at u.washington.edu>
------------------------------------------------------------------
-From: Hinduism Today Archive Server <pslvax!bit-bucket at UCSD.EDU>
-Subject: dec_94/Hindu_Timeline_Article (complete) ascii
-
+dec_94/Hindu_Timeline_Article (complete) ascii
 HINDUISM TODAY, DECEMBER 1994
-
 Head: It's About Time!
-
 Subhead: New Finds and Intriguing Theories Conspire with
 Scholars To Rewrite India's History-Plus HT's 7-Page Timeline
-
 When you learned Indian history, a startling amount of myth may
 have inadvertently been mixed in the masala with fact.  The
 "official" history of India and Hinduism was set down by Western
@@ -91,7 +75,6 @@ civilization.  Subsequent discoveries, research and analysis
 have unearthed major flaws in that history.  Still, to this day,
 virtually every textbook and encyclopedia in the world contains
 the same century-old conjectures.
-
 "Early Indian history is on the brink of a change," says
 Professor Shiva G.  Bajpai, co-author of the monumental work A
 Historical Atlas of South Asia.  He told Hinduism Today that
@@ -99,7 +82,6 @@ Historical Atlas of South Asia.  He told Hinduism Today that
 have changed many of the views we used to hold as being very
 historical.  Many do not even know what they have excavated so
 far."
-
 Revising India's history is practically a cottage industry
 today.  Archaeologists and historians are forming strategic
 partnerships, even teaming up with astronomers who turn Rig Veda
@@ -115,7 +97,6 @@ much whether the old model is working, but how the new model is
 going to be formed.  It's no longer just Hindus claiming their
 faith in what their holy books say.  All the archaeological and
 scientific evidence is pretty much in agreement with them."
-
 The "Aryan invasion" of India is taught as fact everywhere, but
 many modern researchers don't support it.  Establishment
 historians aren't ready to accept any wholesale revision, and
@@ -124,14 +105,12 @@ revision.  Nor is Indian history the only one undergoing
 rethinking.  Just a few years ago the Egyptian sphinx was
 suddenly dated thousands of years earlier by new technology,
 turning Egyptian history on its head.
-
 Hinduism Today has been following the dramatic events among
 historians, and our staff has assembled a new Timeline of
 Hinduism, a chronology that incorporates recent findings and
 tempers the anti-Hindu bias undergirding previous histories of
 India.  Beginning on page four, we present 600,000 years in 585
 entries.
-
 Our seven-page timeline is generous toward Hinduism, listing the
 earliest possible dates for events and scriptures.  Bajpai does
 not mind, "The Hinduism Today Timeline is extremely important
@@ -139,12 +118,8 @@ because it highlights the Hindu heritage.  This is both its
 greatest strength and, others might say, its weakness.  No
 timeline can be wholly satisfactory for everyone, as is the case
 with any encyclopedia."
-
------------------------------------------------------------------
 Editorial: History as Hoax
-
 By the Editor
-
 This issue of Hinduism Today is like none other.  We set aside
 some usual features to publish our seven-page Hindu Timeline, a
 rich collection of the major events and people that have shaped
@@ -152,7 +127,6 @@ India.  We hope you will keep it, use it as a resource, refer to
 it when someone asks a question or when writing an article for
 your local paper.  As complete as it is, our Timeline does not
 tell the whole story.
-
 What it fails to mention is that history, as it happens, never
 happened.  History is a hoax.  "What?" you say, "Who licensed
 you to belittle so proud a profession, so indispensible a
@@ -162,7 +136,6 @@ us?" Okay, okay.  History is important, but historians know of
 what I speak.  Listen to the preeminent Will Durant who spent a
 lifetime studying the record of civilizations: "History is
 mostly guessing; the rest is prejudice."
-
 It is certainly formidable to ponder the whole of human history
 (said to be somewhere between 500,000 and two million years) and
 to assess just how much we really know of the past, how well a
@@ -183,7 +156,6 @@ history happen.  Hmmm!  It's getting easier to see why historian
 Richard Cobb concluded that "The frontiers between history and
 imagination are very little more than Chinese screens, removable
 at will."
-
 History may be a mental monument to human achievement and
 progress, but it is equally a repository of our prejudices, a
 museum of our mistakes.  It keeps feuds alive beyond their time,
@@ -191,7 +163,6 @@ it impedes progress more than it impels, and it restrains many
 of us from living in the here and now, so consumed are we with
 what happened there and then.  History is millstone as much as
 milestone.
-
 The bad news, then, is that history is always inaccurate and
 often injurious.  The good news is that India and Hinduism live
 beyond history.  Other nations know exactly who they are, when
@@ -203,7 +174,6 @@ else do past and present exist side by side-Sun worship with
 atomic research, astrology with space exploration?  Where else
 does the old add itself to the new rather than relinquishing its
 hold and departing?
-
 This issue's timeline chronicles exciting discoveries about the
 Indus Valley/Saraswati River civilization and the present effort
 of historians to wrest India's self-understanding away from
@@ -217,7 +187,6 @@ sociology, for as long as we possess a living culture we are
 unconscious of it, and it is only when we are in danger of
 losing it or when it is already dead that we begin to realize
 and study it scientifically."
-
 Hinduism also lies beyond history.  Other faiths, excluding some
 tribal and pagan paths, are rooted in events.  They began on
 such and such a day, born with the birth of a prophet or the
@@ -237,8 +206,6 @@ reading of history.  Ultimately,  history is contemporaneous
 with the present, in the form of karmas by which all actions of
 the past live in the now.  That is a living history, much more
 precious than any dead one.
-
------------------------------------------------------------------
 Copyright 1994, Himalayan Academy, All Rights Reserved. The
 information contained in this news report may not be published
 for commercial purposes without the prior written authority of
@@ -249,24 +216,16 @@ photocopying to give to classes or friends, all that is okay.)
 This copyright notice may NOT be removed, or the articles edited
 or changed without the prior written authority of Himalayan
 Academy.
------------------------------------------------------------------
 HOW TO OBTAIN THE "TIME LINE":
-
 The December issue of Hinduism Today is "on line".  You may
 request articles by file name.   Note that it is suggested you
 include your internet mail address in the request message.
-
 Also, be sure to include the issue name, in the format:
-
      issue/article
-
 And, be sure to capitalize as shown.
-
 HERE IS THE CORRECT MESSAGE TO OBTAIN THE RELEVANT BITS:
 Post to:  pslvax!hinduism_today at ucsd.edu
-
 with subject line empty, type the following script exactly:
-
 begin
 mail  yourname at your.address.edu (enter your e-mail address)
 send  dec_94/Editorial
@@ -278,17 +237,8 @@ send  dec_94/Hindu_Timeline_3
 send  dec_94/Hindu_Timeline_4
 send  dec_94/Hindu_Timeline_5
 end
-
 Take note:  even the most slight misspelling (such as Dec instead
 of dec) will cause the server to respond with "not found".
-
 The mail server address, where requests should be sent, is:
      pslvax!hinduism_today at ucsd.edu
 *****************************************************************
-
- 
-
-
-
-
-

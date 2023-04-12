@@ -1,15 +1,8 @@
-From s._kalyanaraman at mail.asiandevbank.org  Fri Feb 17 16:01:55 1995
-From: s._kalyanaraman at mail.asiandevbank.org (s. kalyanaraman)
-Date: Fri, 17 Feb 95 16:01:55 +0000
-Subject: Vedic mathematics
-Message-ID: <161227018600.23782.12120530951657454689.generated@prod2.harmonylists.io>
-
+Vedic mathematics
      I found this interesting posting on the India Discussion Digest:Date: 
-     
      Thu, 16 Feb 95 09:30:52 EST
      From: ciswa at mse.ufl.edu
-     Subject: ShUnya NamaskAram KarishyAmi! (Worship Nothing!)
-      
+     ShUnya NamaskAram KarishyAmi! (Worship Nothing!)
      Perhaps the most intriguing feature of Vedic Mathematics is their 
      intuitive recognition of the importance of zero.  The introduction of 
      zero streamlines number systems and facilitates artithmetic.  Despite 
@@ -25,7 +18,6 @@ Message-ID: <161227018600.23782.12120530951657454689.generated@prod2.harmonylist
      better than god" which cannot be translated into Hindi for example.  
      In any case, here is more Vedic Mathematics which relies heavily on 0 
      as a place holder:
-     
         Addition by "Sutra Shudha":             Multiplication by           
                                                 "Urdhva-Tiryagbhyam"
                 (the Bindi method)           (Vertically & cross-wise       
@@ -51,7 +43,6 @@ Message-ID: <161227018600.23782.12120530951657454689.generated@prod2.harmonylist
      over.  Note that no intermediate      fewer than that for              
                                                 multiplication
      result EVER EXCEEDS 19!               by the carry-over method.
-     
           Basically, the Vedic method (a) allows you to carry out big
      calculations in your head (since you have to remember only one or two
      intermediate results) and therefore (b) allows you to razzle-dazzle 

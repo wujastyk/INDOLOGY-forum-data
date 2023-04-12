@@ -1,9 +1,4 @@
-From dbhattacharya200498 at YAHOO.COM  Mon Feb 27 05:11:36 2012
-From: dbhattacharya200498 at YAHOO.COM (Dipak Bhattacharya)
-Date: Mon, 27 Feb 12 13:11:36 +0800
-Subject: getting rid of 'Insert annotation'
-Message-ID: <161227095476.23782.6255979136243319756.generated@prod2.harmonylists.io>
-
+getting rid of 'Insert annotation'
 27f12 
 INDOLOGY at liverpool.ac.uk ?
 Dear Colleagues, 
@@ -19,9 +14,3 @@ that seems to be a feature of the latest version of Microsoft Office? There are
 certainly good experts among members.
 Best
 DB
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120227/c7db4d60/attachment.htm>
-

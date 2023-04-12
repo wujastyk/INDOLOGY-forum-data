@@ -1,15 +1,8 @@
-From brendan.gillon at mcgill.ca  Thu Jul  1 12:53:01 2021
-From: brendan.gillon at mcgill.ca (Brendan S. Gillon, Prof.)
-Date: Thu, 1 Jul 2021 12:53:01 +0000
-Subject: [INDOLOGY] some thoughts about modality, vyaapti and `eva'
-In-Reply-To: <FE1B95A3-3D42-4AA1-81C9-EE4FAA2575E1@uni-leipzig.de>
+[INDOLOGY] some thoughts about modality, vyaapti and `eva'
 References: <d78a2775-2980-7241-c766-48bc8e97d098@mcgill.ca>
  <DM6PR11MB439619BA78E0A3AAF12A35F4A1019@DM6PR11MB4396.namprd11.prod.outlook.com>
  <E6EB13F8-A630-492A-AC11-8E3F8926C0BE@unm.edu>
  <20210701111709.Horde.KsOtRACHZbldT8iOFokgBND@mail.uni-leipzig.de>
  <CA+H=kyTKdGk7505toMBfD6knVmHVV6NZHSZAJZK5PNmVkeo7Zg@mail.gmail.com>
  <FE1B95A3-3D42-4AA1-81C9-EE4FAA2575E1@uni-leipzig.de>
-Message-ID: <b65daf3c-bec9-b427-e25e-eec2b800eeeb@mcgill.ca>
-
 There are several questions here. Let us distinguish between the formulations of Modus Tollens and Reduction ad Absurdum within symbolic logic, on the one hand, and the use of these words in informal logic, as found in Aristotle.
-

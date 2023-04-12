@@ -1,15 +1,9 @@
-From aklujkar at UNIXG.UBC.CA  Wed Oct 29 18:48:58 1997
-From: aklujkar at UNIXG.UBC.CA (Ashok Aklujkar)
-Date: Wed, 29 Oct 97 10:48:58 -0800
-Subject: Marathi repha
-Message-ID: <161227033321.23782.7274729628473523965.generated@prod2.harmonylists.io>
-
+Marathi repha
 I read the linguists' descriptions of Marathi only when they happen to come
 my way.  So, as a nonspecialist, I do not know whether the observation I am
 going to make about the use of  R', the second repha form, that is, "a
 spacing form with a flattish breve shape under the top line,? has already
 been made.
-
 As a native speaker of Marathi my understanding is that R' tends to be used
 when a short vowel preceding a r-initial consonant cluster is not stressed
 (ordinarily, especially in words with Sanskrit affiliation, one expects
@@ -18,14 +12,8 @@ hook on the top line is used). Examples: puryaa (the plural of purii,
 which, I hope, all of you have been fortunate enough to eat, or feminine
 plural of the past participle purii 'completed, finished'), tarhevaaiika
 'eccentric,' etc.
-
 The sign seems to have phonemic significance in Marathi: daryaa, plural of
 darii 'cave, cavern, valley,' pronounced without stress on "a" and written
 as daR'yaa,  means something different from daryaa 'ocean, sea,? pronounced
 with stress on "a" and written as daRyaa.
-
 It would be prudent to provide separate transliteration for R'.
-
-
-
-

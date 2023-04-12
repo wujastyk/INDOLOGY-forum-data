@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Sat Dec 30 13:29:37 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Sat, 30 Dec 00 14:29:37 +0100
-Subject: Data migration / microfilm (was PDF (was publication of              IASSpapers on CDROM))
-Message-ID: <161227066132.23782.13851259322037124090.generated@prod2.harmonylists.io>
-
+Data migration / microfilm (was PDF (was publication of              IASSpapers on CDROM))
 Hello, Dominik,
 talked to Lou the other day, and learned from your involvement with them.
 Sounds like we are actually thinking along similar lines... At least we share
@@ -12,58 +7,10 @@ phantastic.
 Thank you also for the information on microfilm digitisation possibilities
 in India. The RMRL already got in touch with me, but prefers to discuss
 coop off the list.
-
 Anyway, thanks for the information. Maybe we can meet on the metadata
 issue when I am in London next? If you let me have your personal mail
 address I could get in touch off the list.
-
 Best wishes for the New Year,
 Gunthard
-
 gm at e-ternals.com
-
-
-
 Dominik Wujastyk wrote:
-
-> On Tue, 26 Dec 2000, Gunthard Mueller wrote:
->
-> > Oxford has come a long way. People like Lou Burnard and Susan Hockey
-> > identified the need for normed, standard data exchange in the
-> > humanities very early on and were instrumental in the process of
-> > getting us normed! Most of us nowadays use the SGML ISO complex of
-> > norms. I generally encourage these norms, too, i.e. saving data in
-> > formats that comply with these norms. More information on SGML normed
-> > encoding is available from http://www.uic.edu/orgs/tei.
->
-> Lou and Susan are good friends.  I learned Snobol from Susan in the late
-> 1970s, and have been in touch since.  I saw Lou just before Christmas, and
-> Susan has just taken up the chair in Library Studies at UCL (where I am a
-> lecturer).  Her inaugural was a wonderful survey of standards work.  With
-> Lou in Oxford, Susan back in England at London, and both John Lavagnino
-> and Willard Mccarty at Kings also in London, the UK is has enormous
-> strengths in humanities' computing nowadays.
->
-> If you examine the preliminary matter of the TEI standard, incidentally,
-> you will see that I chaired the Document Header Committee.  I wrote the
-> first draft of that part of the TEI standard.
->
-> > My main problem at the moment is getting certain microfilm formats
-> > converted to digitial. There is a lot of valuable material on
-> > microfilm which is physically decaying. We have some valuable material
-> > from Baroda here that needs attention. Does anybody know of a
-> > state-of-the-art place where 35mm microfilm material can be digitised
-> > without bankrupting the libraries and museums we work for?
->
-> There are two important centres in India which could probably do this
-> work: the IGNCA in New Delhi, and the RMRL in Chennai.  Both have 35mm
-> microfilm digitization equipment.  RMRL has a Wicks & Wilson microfilm
-> scanner; they have spare capacity and are looking for work.
-> Contact: ROJA MUTHIAH RESEARCH LIBRARY <rmrl at giasmd01.vsnl.net.in>
->
-> Best,
-> Dominik
-
-
-
-

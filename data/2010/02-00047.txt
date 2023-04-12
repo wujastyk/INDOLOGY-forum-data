@@ -1,47 +1,6 @@
-From gthomgt at COMCAST.NET  Fri Feb 12 21:29:39 2010
-From: gthomgt at COMCAST.NET (george thompson)
-Date: Fri, 12 Feb 10 16:29:39 -0500
-Subject: Digital Sanskrit corpus and dictionary
-In-Reply-To: <LISTSERV%201002121010249398.03B7@LISTSERV.LIV.AC.UK>
-Message-ID: <161227088477.23782.8452888940493825160.generated@prod2.harmonylists.io>
-
+Digital Sanskrit corpus and dictionary
 Dear Oliver,
-
 I have had the chance today to look into your corpus & dictionary and I 
 too think that it is a valuable tool. I also thank you for your efforts.
-
 George Thompson
-
 Oliver Hellwig wrote:
-
->Dear colleagues,
->
->I would like to announce that a digital corpus of lemmatized Sanskrit texts
->is now available at
->
->http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
->
->The corpus contains more than 2.500.000 manually annotated entries. It
->offers the possibilities to search for lemmata and collocations and presents
->lists of referenced finite and infinite forms of each verbal lemma contained
->in the lexical database. In addition, the corpus makes it possible to
->examine the distribution of lexical units over the time using basic
->statistical measures.
->
->
->Best,
->
->Oliver Hellwig
->
->
->PD Dr. Oliver Hellwig
->S?dasien-Institut, Universit?t Heidelberg
->Im Neuenheimer Feld 330
->69120 Heidelberg
->
->  
->
-
-
-
-

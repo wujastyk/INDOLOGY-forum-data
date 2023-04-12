@@ -1,29 +1,14 @@
-From apandey at U.WASHINGTON.EDU  Mon Dec 15 08:44:41 1997
-From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
-Date: Mon, 15 Dec 97 00:44:41 -0800
-Subject: Consonant Conjuncts in Gurmukhi.
-Message-ID: <161227034393.23782.8005040128763190094.generated@prod2.harmonylists.io>
-
+Consonant Conjuncts in Gurmukhi.
 Hello,
-
 Could anyone please refer me to any texts which will give me a list of
 attested consonant conjuncts in Gurmukhi?
-
 I've looked through several grammars (and perhaps indeed the wrong ones)
 and only came up with a handful, drawn from these various texts. I figure
 that there ought to be a comprehensive listing somewhere.
-
 Those that I came across are (in random order):
-
         tr      pr      sn      sch     gy      sw      sth
         sT      mh      nh      lh      khr     gr      dr
         br      bhr     .Dh (retroflex flap + /h/)
-
 Thanks!
-
 Regards,
 Anshuman Pandey
-
-
-
-

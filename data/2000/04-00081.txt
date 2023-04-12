@@ -1,21 +1,14 @@
-From cfynn at DIRCON.CO.UK  Tue Apr 11 11:46:07 2000
-From: cfynn at DIRCON.CO.UK (Christopher John Fynn)
-Date: Tue, 11 Apr 00 12:46:07 +0100
-Subject: Vedic Characters & Unicode
-Message-ID: <161227057714.23782.16693373686314459248.generated@prod2.harmonylists.io>
-
+Vedic Characters & Unicode
 The Vedic signs (double udatta etc.), currently have no representation in the
 Unicode and ISO 10646 standards - though several people have mentioned to me at
 various times that there is a real need for these characters in order to
 represent Vedic texts.
-
 The only way to see these characters encoded in the Unicode and ISO 10646
 standards is for a formal proposal to encode these characters put forward to the
 Unicode Consortium and/or to ISO/IEC 10646 JTC1/SC2/WG2.  For information on how
 to make such a proposal to the Unicode Consortium see:
 http://www.unicode.org/pending/proposals.html . Making such a proposal to
 ISO/IEC 10646 JTC1/SC2/WG2 should be done through your national standards body.
-
 If  no one else wants to volunteer to do the work of making such a proposal,
 I'm willing to it myself since I'm familiar with the process and am a member of
 BSI IST2, the UK committee represented on ISO/IEC 10646 JTC1/SC2/WG2.  However
@@ -23,26 +16,16 @@ I'm not a Sanskritist and don't have any information on these characters. If any
 subscribers to this list know of source(s) where these characters and their use
 is thoroughly documented (pref. in English) perhaps you could let me know. (A
 photocopy or PDF file of such a source or sources would be even more helpful).
-
 Unless and until these characters are included in the Unicode and ISO 10646
 standards there will be no proper support for them in the Unicode based Indic
 language systems currently being implemented in Windows 2000, Mac OS, X-Windows
 and other operating environments - nor will there be a proper, standards based,
 way of representing such characters in HTML, XML etc.
-
 Best Regards
-
 - Chris
-
 Christopher J Fynn
 cfynn at dircon.co.uk
 4 Chester Court
 84 Salusbury Road
 London NW6 6PA
 United Kingdom
-
-Tel: +44 (0)181 537 6762
-
-
-
-

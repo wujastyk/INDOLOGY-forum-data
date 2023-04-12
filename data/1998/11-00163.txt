@@ -1,11 +1,5 @@
-From kalyan99 at NETSCAPE.NET  Sun Nov  8 04:51:48 1998
-From: kalyan99 at NETSCAPE.NET (S.Kalyanaraman)
-Date: Sat, 07 Nov 98 20:51:48 -0800
-Subject: [On logic and fuzziness]
-Message-ID: <161227042451.23782.17593935147402435482.generated@prod2.harmonylists.io>
-
+[On logic and fuzziness]
 [snip]> Employing probability theory as neutral referee (<<It is math, and its
-> branch of probability theory is younger but is available for all those not>
 too pompous.>>) may be only warranted by the kind of material one has at>
 hand. Certainly, it is available - but not always helpful. (Although - >
 ultimately, it might help someone suddenly discover their ability to speak> in
@@ -13,7 +7,6 @@ prose...)> > There are times when one is clearly better off by sticking to
 good old> s(t)olid procedures.> > Such procedures, however, since they are the
 product of pre-post-modernist> modes of thought, do not permit everything to
 be connected with everything.>[snip] Artur Karp
-
 I agree with Artur Karp. Fuzziness is, by definition, unavoidable, in dealing
 with lexemes, for example. There are so many variables which impact on the
 accuracy of the 'meanings' or 'phonetics' presented in the lexicons, a lot of
@@ -22,7 +15,6 @@ student, in my graduate studies, I was taught that there is something called
 'spurious correlation' which a researcher should watch out for. A good example
 is a statement to this effect: geographical areas which have struck petroleum
 are likely to be of Islamic faith.
-
 Another example which can be cited relates to the century-old problem of Indus
 script decipherment. It is a statistical impossibility to decipher a  set of
 about 3000 inscriptions each inscription having an average of 5 signs plus a
@@ -39,13 +31,6 @@ claims of decipherment; every new claim of decipherment will render all the
 decipherment claims equally suspect! Almost any language can be read into such
 a limited sample. Fuzzy logic may help by introducing some additional control
 variables...
-
 Regards,
 Kalyan
-
-____________________________________________________________________
 More than just email--Get your FREE Netscape WebMail account today at http://home.netscape.com/netcenter/mail
-
-
-
-

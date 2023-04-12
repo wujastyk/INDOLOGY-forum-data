@@ -1,24 +1,14 @@
-From rishiatulrajpopat at gmail.com  Sat Dec 17 04:26:03 2022
-From: rishiatulrajpopat at gmail.com (Rishi Rajpopat)
-Date: Sat, 17 Dec 2022 04:26:03 +0000
-Subject: [INDOLOGY] FW: Can this be true?
-In-Reply-To: <CAKdt-CfGLRFZO9JbpV_QCFcRVYVbmoq0MQvYkSGzxgYHs4WNVA@mail.gmail.com>
+[INDOLOGY] FW: Can this be true?
 References: <b4ee685aab3340b1b543132763eaec80@hum.ku.dk>
  <811cc43dac2646db964807c164e6709c@hum.ku.dk>
  <CAH6hc23OsQo9e=RfAvN1+7NF9RDmFC3oqJmJ0cR6C++RtDU+cQ@mail.gmail.com>
  <CAB3-dzf+EizCP2HXKr3a3CdSLD7C5bPw3EaT0DxNKgo0MWPyww@mail.gmail.com>
  <CAKdt-CfGLRFZO9JbpV_QCFcRVYVbmoq0MQvYkSGzxgYHs4WNVA@mail.gmail.com>
-Message-ID: <CAK-86htJe6pSDoqbJsFjrZdBX2rAZ-NKhM955RtYT4GE0gH4vg@mail.gmail.com>
-
 Dear Prof Wujastyk,
-
 Thank you very much for reading my work and for your kind words.
-
 Dear members of Indology list,
-
 Since Prof. Deshpande has brought up paratva, let me say a couple of
 things.
-
 Firstly, I understand that some of you might not be well versed with the
 technicalities of P??inian derivations which might make it difficult for
 you to read the more technical parts of my thesis. But I offer not only
@@ -26,29 +16,20 @@ you to read the more technical parts of my thesis. But I offer not only
 interpretation of 1.4.2. As philologists, you might enjoy undertaking the
 following exercise: look up all the instances of the use of the term para
 in the A???dhy?y?.
-
 Here are some relevant excerpts from my thesis (pg. 35 onwards):
-
 *2.3 Evidence for My Interpretation of Para*
-
 Before going further, let me provide more evidence to support my
 interpretation of *para*. The meaning of *para* in 1.4.2 can be confirmed
 by looking at the meaning of *para* in the rest of the *A???dhy?y?*. The
 term *para* has been used by P??ini on many occasions. Its occurrences can
 be classified into two groups:
-
-
 Group A: 1.1.34, 1.4.109, 3.2.39, 3.3.138, 3.4.20, 4.3.5, 5.2.92, 5.3.29,
 6.3.8.
-
-
 Group B: 1.1.47, 1.1.51, 1.1.54, 1.1.57, 1.1.70, 1.2.40, 1.4.2, 1.4.62,
 1.4.81, 2.1.2, 2.2.31, 2.4.26, 3.1.2, 6.1.84, 6.1.94, 6.1.112, 6.1.115,
 6.1.120, 6.2.199, 6.4.156, 7.3.22, 7.3.27, 7.4.80, 7.4.88, 7.4.93, 8.1.2,
 8.1.56, 8.2.92, 8.3.4, 8.3.6, 8.3.26, 8.3.27, 8.3.35, 8.3.87, 8.3.110,
 8.3.118, 8.4.28, 8.4.58.
-
-
 Let us consider an example from Group A. 1.1.34
 *p?rvapar?varadak?i?ottar?par?dhar??i
 vyavasth?y?m asa?j??y?m* (*vibh??? jasi sarvan?m?ni*) teaches that the
@@ -58,8 +39,6 @@ used as an ordinary word of the object language Sanskrit. In these rules,
 it does not have any special technical connotation with respect to P??ini?s
 derivational system. We are not interested in Group A, because 1.4.2
 belongs to group B.
-
-
 Let us consider some examples from Group B. 1.1.47 *mid aco?nty?t
 para? *teaches
 that an item marked with *anubandha* *M* is placed after, i.e., to the

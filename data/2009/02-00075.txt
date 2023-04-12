@@ -1,31 +1,9 @@
-From himal.trikha at UNIVIE.AC.AT  Tue Feb 17 10:50:36 2009
-From: himal.trikha at UNIVIE.AC.AT (Himal Trikha)
-Date: Tue, 17 Feb 09 11:50:36 +0100
-Subject: frequencies
-In-Reply-To: <b98072d03dcca14cea88ae66276a3867.squirrel@webmail.uoa.gr>
-Message-ID: <161227084876.23782.14772111106029175803.generated@prod2.harmonylists.io>
-
+frequencies
 Two pdf-files containing lists of 100 and 3200 words respectively can be 
 downloaded here:
-
 http://www.indologie.uni-halle.de/studium/Studienmaterialien/index.htm
-
 The lists are called basic vocabulary ("Sanskrit Grundwortschatz"). I 
 don't know on what criteria the words were selected.
-
 Best regards
 Himal Trikha
-
-
 On 17.02.2009 08:57, Alexandra Vandergeer wrote:
-> Dear Sanskritists,
-> 
-> Did anyone ever compile a frequency list of Sanskrit nouns, verbs and
-> adjectives in terms of use per 1000 lemmas?
-> 
-> Alexandra van der Geer
-> 
-
-
-
-

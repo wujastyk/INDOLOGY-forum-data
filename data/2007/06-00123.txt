@@ -1,23 +1,13 @@
-From antonio.jardim at GMAIL.COM  Tue Jun 19 07:17:20 2007
-From: antonio.jardim at GMAIL.COM (Antonio Ferreira-Jardim)
-Date: Tue, 19 Jun 07 17:17:20 +1000
-Subject: Finding Indological full-book PDFs on Google Books
-In-Reply-To: <a06210200c29c6557f199@192.168.0.11>
-Message-ID: <161227080633.23782.12263700197596173698.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 Dear all,
-
 A very nice, clear colour scan of Burnouf's Histoire is available
 here: http://www.archive.org/details/introductionlh00burnuoft which
 also lists a number of download options.
-
 The scans available from archive.org seem to be sourced from a number
 of places including DLI of varying qualities. The clear advantage
 archive.org offers is the choice of download options.
-
 On another forum Daniel Stender from Uni Bonn listed the following
 working inventory of scanned repositories (excluding the DLI):
-
 http://www.uni-bonn.de/~uzstzm/
 http://www.chaf.lib.latrobe.edu.au/dcd/default.htm
 http://historical.library.cornell.edu/cdl/about.html
@@ -25,22 +15,13 @@ http://dsal.uchicago.edu/books/
 http://gallica.bnf.fr/
 http://www.archive.org/index.php
 http://www.lirs.ru/do/trans-lanka.html
-
 Another one I know of is:
-
 http://nagarjuna.onlinestoragesolution.com/boodist
-
 It is worth recognising that there are thriving (informal) online
 forums in existence with the purpose of exchanging scans of
 indological publications in various languages. However, in the
 interests of not offending those sensitive to copyright issues, I will
 not post them here.
-
 Kind regards,
-
 Antonio Ferreira-Jardim
 UQ
-
-
-
-

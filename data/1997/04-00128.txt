@@ -1,14 +1,7 @@
-From imj at u.washington.edu  Mon Apr  7 16:45:25 1997
-From: imj at u.washington.edu (South Asia Section)
-Date: Mon, 07 Apr 97 09:45:25 -0700
-Subject: Proscribed publications
-Message-ID: <161227029451.23782.16532779554072302185.generated@prod2.harmonylists.io>
-
+Proscribed publications
 Several major libraries with important South Asia collections, including
 the University of Washington Libraries, also own the accompaning microfilm
 set of the publications listed.
-
-
 Document 1 
 Author:       India Office Library and Records.
 Title:        Publications proscribed by the Government of India : a catalogue
@@ -20,7 +13,7 @@ Pub. Info.:   London : British Library, 1985.
 Phy Descript: xv, 203 p. : ill. ; 25 cm.
 Notes:        Includes index.
               @.
-LC Subject:   Prohibited-books -- Bibliography.
+LC   Prohibited-books -- Bibliography.
               India -- Imprints.
 Other Author: Shaw, Graham.
               Lloyd, Mary.
@@ -28,8 +21,6 @@ Other Author: Shaw, Graham.
               Books.
 Status:       Suzzallo General Stacks
                 Z3208.P6 I52 1985  CHECK THE SHELVES
-------------------------------------------------------------------------------
-
 South Asia Section
 Irene Joshi, M.L.S.
 South Asia Librarian
@@ -38,10 +29,3 @@ Box 352900
 Seattle, Washington, 98195-2900
 U.S.A.
 http://weber.u.washington.edu/~souasia/
-
-
-
-
-
-
-

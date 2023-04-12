@@ -1,41 +1,17 @@
-From jemhouben at gmail.com  Wed Aug 29 07:30:21 2018
-From: jemhouben at gmail.com (Johannes E.M. Houben)
-Date: Wed, 29 Aug 18 09:30:21 +0200
-Subject: [INDOLOGY] DLI Mirror Site Live - https://dli.sanskritdictionary.com
-In-Reply-To: <MEXPR01MB101440377E58C93B37D259458B090@MEXPR01MB1014.ausprd01.prod.outlook.com>
-Message-ID: <5b864b8f.1c69fb81.ef60a.87f0@mx.google.com>
-
+[INDOLOGY] DLI Mirror Site Live - https://dli.sanskritdictionary.com
 Congratulations and thanks for sharing this useful tool.
 JH
-
 Verzonden vanaf mijn Windows 10-telefoon
-
 Van: Martin Gluckman via INDOLOGY
 Verzonden: woensdag 29 augustus 2018 03:32
 Aan: indology at list.indology.info
 Onderwerp: [INDOLOGY] DLI Mirror Site Live - https://dli.sanskritdictionary.com
-
 Dear Friends,
-
 I am happy to announce a mirror of the DLI site has been completed and?is now live at:
-
 https://dli.sanskritdictionary.com
-
 This mirror makes use of Google's OCR technology to deeply index all documents so searches can be done in a multitude of scripts including among many others?IAST and Devanagari for Sanskrit.?
-
 The advantage of the OCR platform is it keeps improving so we are getting more accurate matches then months ago when we started development? of the search interface?and it will continue to improve.
-
 The mirror is of the complete DLI site (before it became temporarily?unavailable ) i.e. 31TB and?551,427 book scans.
-
 I hope this is of much use to scholars. Kindly send your feedback and suggestions as always.
-
 Kindest wishes,
-
 Martin Gluckman
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180829/dc6b6074/attachment.htm>
-

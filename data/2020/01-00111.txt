@@ -1,23 +1,14 @@
-From drdhaval2785 at gmail.com  Tue Jan 21 16:18:08 2020
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Tue, 21 Jan 20 21:48:08 +0530
-Subject: [INDOLOGY] Sanskrit Kosha API
-Message-ID: <CADSGPzV_R+XDVi=RxmECpyyhrSh9fbRsTz7zyokpAkRR2b8Qeg@mail.gmail.com>
-
+[INDOLOGY] Sanskrit Kosha API
 Dear scholars,
-
 Currently we have around 30 koshas available in digital format.
 I have developed a small API to search the content matching a given word
 from all the dictionaries.
-
 *For non technical people -*
-
 1. Use https://www.sanskritworld.in/sanskrittool/kosha-search/kosha.html
 2. Use 'all' as default value in 'Dictionary' field. If you want data for a
 specific dictionary, use its dictionary code from the list given below.
 3. input transliteration and output transliteration can be any of the
 following values -
-
    - bengali
    - devanagari
    - gujarati
@@ -35,29 +26,20 @@ following values -
    - slp1 (Sanskrit Library Phonetic Basic)
    - velthuis (Velthuis)
    - wx (WX)
-
-
 *API description -*
 https://kosha.sanskritworld.in/#/default is the API for programmers.
-
 1. https://kosha.sanskritworld.in/v0.0.1/dictcode
 gives the codes and full form of dictionary name.
-
 2. https://kosha.sanskritworld.in/v0.0.1/query/{query}
 gives the details of all data matching `query` in all dictionaries.
 e.g. https://kosha.sanskritworld.in/v0.0.1/query/rAma
-
 3. https://kosha.sanskritworld.in/v0.0.1/query/{query}/koshas/{kosha}
 gives the detail of a given `query` in given `kosha`.
 If you are unsure of the `kosha`, see API 1 for short codes.
 e.g. https://kosha.sanskritworld.in/v0.0.1/query/rAma/koshas/ABCH
 This will give all details of rAma in dictionary ??????????????? of
 ??????????
-
-
-
 *Dict codes -*
-
 {
   "ABCH": "abhidhanachintamani_hemachandra",
   "ACPH": "abhidhanachintamaniparishishta_hemachandra",
@@ -90,16 +72,6 @@ This will give all details of rAma in dictionary ??????????????? of
   "VLSS": "vishvalochana_shridharasena",
   "VPRM": "vishvaprakasha_maheshvara"
 }
-
-
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Surat
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200121/57be3ef4/attachment.htm>
-

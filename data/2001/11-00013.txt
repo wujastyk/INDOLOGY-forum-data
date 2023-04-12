@@ -1,116 +1,12 @@
-From jl6 at SOAS.AC.UK  Thu Nov  8 13:05:55 2001
-From: jl6 at SOAS.AC.UK (Julia Leslie)
-Date: Thu, 08 Nov 01 13:05:55 +0000
-Subject: Register of electronic texts/Jain texts
-In-Reply-To: <44684873.1005168869@[10.0.0.140]>
-Message-ID: <161227069905.23782.12856103748112502597.generated@prod2.harmonylists.io>
-
+Register of electronic texts/Jain texts
 Dear all,
-
 With reference to Jain texts, here are three useful sites which you
 might wish to know about:
-
 http://www.sendai-ct.ac.jp/~ousaka/EngH.html
-
 http://www.sacred-texts.com/jai/
 http://www.aditi.net/Jain/Sacred/SacredHome.htm
-
 Julia Leslie
-
-
-
 On 7 Nov 01, at 21:34, Birgit Kellner wrote:
-
-> As this may be of general interest, a reply to the list -
->
-> as Dr. Gruenendahl indicated, GRETIL is still under construction, so I am
-> not taking obvious omissions from the classificational grid too seriously;
-> yet, the fact that "Buddhism"/"Bauddha" and "Jainism"/"Jaina" are omitted
-> as philosophical schools does strike me as rather odd. Surely, one would
-> not want to leave aside the enormous philosophical output of both these
-> traditions. I am not aware of any online Jaina philosophical treatises,
-> but as for Buddhism, I would like to point to Ono Motoi's online texts of
-> Dharmakirti:
-> http://www.logos.tsukuba.ac.jp/~nagasaki/dharmakirti/e-text.html
->
-> The page offers access to the entire PramANavArttikasvavRtti,
-> PramANavArttika, NyAyabindu, Hetubindu, SambandhaparIkSA and VAdanyAya -
-> no small undertaking! SantAnAntarasiddhi and PramANavinizcaya are "under
-> construction".
->
-> A question that always comes up in this context is whether the inclusion
-> of texts should be based on the language in which they are transmitted or
-> on the fact that they belong to an Indian cultural heritage irrespective
-> of being available to us only in non-Indic languages, like Chinese or
-> Tibetan. In the case of DharmakIrti, for instance, should one exclude a
-> potential online Tibetan version of the PramANavinizcaya because it is in
-> Tibetan, or should one include it because it is after all a work of an
-> Indian philosopher and was *originally* written in an Indian language,
-> even though this original version is now (largely) lost?
->
-> Whichever solution is adopted, I wish GRETIL much success in its future
-> efforts to keep track of all the diverse efforts to digitize e-texts; I
-> had once embarked on a similar enterprise (on a much smaller scale), but
-> gave up because it was too time-consuming too maintain.
->
-> Best regards,
->
-> Birgit Kellner
-> Institute for South Asian, Tibetan and Buddhist Studies
-> Vienna University
->
->
-> >> Dear colleagues,
-> >>
-> >> please note that
-> >>
-> >> GRETIL,
-> >> the Goettingen Register of Electronic Texts in Indian Languages,
-> >>
-> >> is now available on an experimental basis under:
-> >> www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
-> >>
-> >> GRETIL is intended as a cumulative register of the numerous download
-> >> sites for electronic texts in Indian languages. It registers only
-> >> e-texts that are freely available for scholarly purposes and can be
-> >> employed for word search etc. in a standard word processing programme.
-> >>
-> >> The register is still under construction, and some links may not be
-> >> functional at present.
-> >>
-> >> I sincerely hope that GRETIL is in accordance with the intentions of
-> >> all those who have made the registered e-texts available through their
-> >> unselfish efforts.
-> >>
-> >>
-> >> R. Gruenendahl
-> >>
-> >>
-> >>
-> >>
-> >> ********************************************************************
-> >>
-> >> Dr. Reinhold Gruenendahl
-> >> Niedersaechsische Staats- und Universitaetsbibliothek
-> >> Fachreferat sued- und suedostasiatische Philologien
-> >> (Dept. of Indology)
-> >> 37070 Goettingen
-> >> Germany
-> >> Tel (+49) (0)5 51 / 39 52 83
-> >> Fax (+49) (0)5 51 / 39 23 61
-> >> gruenen at mail.sub.uni-goettingen.de
-> >>
-> >>
-> >>
-> >> FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
-> >> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
-> >>
-> >> In English:
-> >> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
-> >>
-> >> *********************************************************************
-
-
 Dr I J Leslie
 Department of the Study of Religions
 School of Oriental and African Studies
@@ -118,10 +14,5 @@ University of London
 Thornhaugh Street
 Russell Square
 London WC1H 0XG
-Tel: 020-7898-4774
 Dept office: 020-7898-4760
 Dept email: mh4 at soas.ac.uk
-
-
-
-

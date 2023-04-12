@@ -1,20 +1,7 @@
-From D87 at EARN.DHDURZ1  Fri Sep 13 15:46:32 1991
-From: D87 at EARN.DHDURZ1 (Thomas Malten <D87@vm.urz.uni-heidelberg.de>)
-Date: Fri, 13 Sep 91 15:46:32 +0000
-Subject: soc.culture.india
-Message-ID: <161227015121.23782.4703620970108387369.generated@prod2.harmonylists.io>
-
-
+soc.culture.india
 dear dominik,
- 
 i wonder whether these usenet lists also have logs which could be retrieved
 from some site through ftp? i would even prefer to get may information that
 way because then i can go through them with some searches for key words. i also
 dislike reading 30 e-mails a day but one never knows what turns up.
- 
 -thomas
-
-
-
-
-

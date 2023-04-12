@@ -1,24 +1,15 @@
-From JHOUBEN at rullet.LeidenUniv.nl  Thu Aug 22 22:05:28 1996
-From: JHOUBEN at rullet.LeidenUniv.nl (JHOUBEN at rullet.LeidenUniv.nl)
-Date: Thu, 22 Aug 96 23:05:28 +0100
-Subject: review article Indian script
-Message-ID: <161227025739.23782.4726861039367091385.generated@prod2.harmonylists.io>
-
+review article Indian script
 On 19 August Dominik Wujastyk wrote: 
 Dear indologists,
-
 With the kind permission of Prof Richard Salomon and of the American
 Oriental Society, I have republished Prof Salomon's review 1995 review
 article "On the Origin of the Early Indian Scripts" on the INDOLOGY web
 page. See 
-
     http://www.ucl.ac.uk/~ucgadkw/indology.html
-
 and follow the links for "important position or review papers. 
              *********
 On 20 August Vidhyanath K. Rao <vidynath at math.ohio-state.edu>
 wrote: 
-
 I scanned through the review article about Brahmi. I did not notice
 any reference to the `recent' finds of potsherds from Sri Lanka which
 are supposed to marked with Brahmi letters. Due to limited library
@@ -28,13 +19,11 @@ On pp 176--177, there is a reference to these potsherds.
 Radiocarbon dating is said to put these in the period of 450BCE--350BCE,
 with the original excavator dating them to 600BCE--500BCE, presumably
 on archaeological grounds.
-
 Elsewhere (p.165), it is said that the `radiometric determination' is
 `unclear'. I wonder if further research has thrown any doubt on the
 dates quoted in the book. If not, these finds raise serious questions
 about the theory that Brahmi writing was invented during Maurya times.
             **********
-
 On p. 176 of his recent book "The Archeology of Early Historic South Asia: The 
 Emergence of Cities and States (Cambridge University Press: 1995),  F.R. 
 Allchin writes: 
@@ -72,12 +61,5 @@ are already now outdated with regard to their main conclusion (to cite Salomon:
 the "later date of origin for the Indian scripts), although these works will 
 remain valuable as collections and overviews of decades of research on this 
 topic. 
-
-
 Jan E.M. Houben
 Leiden University
-
-
-
-
-

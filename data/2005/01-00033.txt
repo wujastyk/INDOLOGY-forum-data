@@ -1,22 +1,12 @@
-From plamen at ORIENTALIA.ORG  Fri Jan 14 13:46:28 2005
-From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
-Date: Fri, 14 Jan 05 15:46:28 +0200
-Subject: The Yoga-Darsana Project
-Message-ID: <161227075726.23782.9263633893246814613.generated@prod2.harmonylists.io>
-
+The Yoga-Darsana Project
 For Immediate Release
-
 Sofia, Jan 14th, 2005 - Yoga-darsana, The Philosophy of Yoga, is the most important Indopedia project, inspired by the classical work of pandit Dhundhiraj Sastri (1935) and officialy started today.
-
 Necessity 
 The project is necessitated by the existence of many, often diametrically different translations and interpretations of Yoga-sutra over the last hundred years. What both readers and translators need is to unify, or at least discuss the technical language of interpreting the Yoga concepts and methods in terms of modern knowledge as well as in the light of the recent advances in the fields of comparative philosophy, religion, and linguistics.
-
 Scope 
 The Project strives to cover the major lines in translating and interpreting YS, namely, the line of Vyasa (Vedantic line included) and the line of the independent commentaries on YS, formally designated as the line of Bhojaraja.
-
 Structure 
 Patanjala Yoga-sutra serves as the core text followed by different commentaries in one or another of the represented commentarial traditions. All individual sutras and commentaries are linked to their category title and to corresponding chapter of YS. The footnotes to any particular entry (sutra or commentary page) are on the Discussion page. When dealing with translations from Sanskrit, Interwiki links to the Sanskrit site of the project are required, no matter whether there is or there is not a real Sanskrit text submitted.
-
 Satellite dictionaries
 Terms and concepts are linked to and explained in one of the satellite dictionaries, depending on the nature of the term. The following hypertext dictionaries have been set up to explain terms in different logical context, conceptual framework, and Yoga traditions:
 - Yoga-kosa
@@ -24,27 +14,17 @@ Terms and concepts are linked to and explained in one of the satellite dictionar
 - Dharma-kosa
 - Sabda-kosa
 - Mantra-kosa
-
 Languages 
 The project is developed - so far - in two languages: English and Sanskrit. Should there be contributors desiring to maintain another language version of Yoga-darsana, the administration can easily set up additional sites and separate YD database.
-
 Contributors 
 Anyone with sound knowledge of Sanskrit can take part in the project and contribute material to any part of its structural components. The only formal reqierement is registration at Indopedia.
-
 Editorial board 
 Currently, members of the Yoga-Darsana Editorial Boards are: 
 - Dr. Plamen Gradinarov
 - Prof. Rasik Vihari Joshi
-
 Official site
 http://www.yogadarsana.org
-
 Indopedia Front Page
 http://www.indopedia.org/Category:Yoga-darsana.html
-
 Copyright
 The Yoga-Darsana first pressrelease can be copied on third-party' sites as well as freely distributed via any kind of electronic media.
-
-
-
-

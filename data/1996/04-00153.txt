@@ -1,41 +1,22 @@
-From gkb at ast.cam.ac.uk  Thu Apr 18 12:55:12 1996
-From: gkb at ast.cam.ac.uk (Girish Beeharry)
-Date: Thu, 18 Apr 96 13:55:12 +0100
-Subject: Q: New Year
-Message-ID: <161227023897.23782.14535864264017384282.generated@prod2.harmonylists.io>
-
+Q: New Year
 Hi,
-
 There seems to be some confusion about basic spherical trigonometry in an
 astronomical context. As my pedagogical skills are not quite up to the mark, I
 would suggest to interested people to consult these two books:
-
 1) General Astronomy by Spencer Jones, Former Astronomer Royal, (3rd Ed, 1951),
 published by Edward Arnold, London. [No ISBN code]  
 (Chapter 3 is related to matters being discussed here.)
-
 2) The Astronomical Almanach for the year 1996 [ISBN 0 11 886502 1]
-
 The Govt. Bookstore, PO Box 276, London, SW8 5DT (World distribution)
 HMSO Bookshops, 49 Holborn, London, WC1V 6HB (for the UK)
 US Govt. Printing Office, Washington DC, 20402, (for the USA)
-
 (There are sections on the geocentric motions of the Sun, Moon and Planets.)
-
 These books make use of O-Levelish maths only and they should be accessible to
 a non-mathematical audience.
-
 One can actually get a good physical sense of the matter by drawing closed 
 great circle lines on a fixed ball. One can then complicate matters by rotating
 the ball about an axis which is at an angle (say 20 to 30 degrees) to a line 
 passing through the centre of the ball and perpendicular to one of the great
 circle lines drawn previously. This is quite entertaining! :-)
-
 Bye,
-
 Girish Beharry
-
-
-
-
-

@@ -1,9 +1,4 @@
-From FRS00JDW at unccvm.uncc.edu  Fri Sep 16 19:56:32 1994
-From: FRS00JDW at unccvm.uncc.edu (J. Daniel White)
-Date: Fri, 16 Sep 94 14:56:32 -0500
-Subject: PC Windows Devanagari?
-Message-ID: <161227017267.23782.11349517770306278057.generated@prod2.harmonylists.io>
-
+PC Windows Devanagari?
 Though this subject has been broached not infrequently here, I raise the
 question again:  Has anyone discovered a Windows Devanagari program for
 Sanskrit that is completely "ASCII friendly"? I have used Madhav Deshpande's
@@ -15,9 +10,3 @@ program for Windows which facilitates comparisons of variant readings of
 Sanskrit texts once they have been entered into the computer?  You may reply
 directly to me at the above e-mail address or through indology at liverpool.
 Thanks!
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From s.hodge at PADMACHOLING.FREESERVE.CO.UK  Thu Jul  6 00:32:30 2000
-From: s.hodge at PADMACHOLING.FREESERVE.CO.UK (Stephen Hodge)
-Date: Thu, 06 Jul 00 01:32:30 +0100
-Subject: Harappan 'non-texts'?
-Message-ID: <161227059585.23782.15954567137882053584.generated@prod2.harmonylists.io>
-
+Harappan 'non-texts'?
 DrWitzel wrote:
 (NB: Chinese characters did change several times, and not just in
 their individual shapes. That can be found in any Chin.101 book. Most
@@ -15,9 +10,6 @@ well and do not find this is the case.   The "simplification" of the
 radicals was purely for classificatory purposes.  In fact, the Kang-xi
 214 list has been further reduced by modern Cinese lexicographers but
 this does in no way affect the structure or meaning of the characters.
-
-
->  The Chinese script of 300 BCE is not that of 300 CE!
 ********
 But it is !!   For example, I have a facsimile text of the Dao-de-jing
 from the (slightly later) 160 BCE Mawangdui tombs which I can read
@@ -38,8 +30,6 @@ Chinese attempted to translate Indic Buddhist texts.  There is also a
 corresponding increase in colloqialisms but even today some scholars
 can write in pure classical style which is fairly widely understood by
 reasonably educated people.
-
-> All of this quite part from the fact that N/S Chinese differ even in
 the 'collocations' of characters that they use, because their
 languages differ more than the Romance languegs from each other. --
 Same in the Indus.
@@ -51,8 +41,6 @@ used to be called Mandarin Chinese.  In fact it is often not possible
 even to express regional dialects in written Chinese -- dialectical
 lexicography has only really begun in recent years using other forms
 of representation (IPA etc).
-
-
 One final point.   With so-called mono-syllabic languages like
 Chinese, there is only a limited number of word shapes that can be
 generated.  Thus with Chinese, the permutations result in around 420
@@ -65,11 +53,5 @@ worked on a syllabic basis as with Chinese words you might expect
 around 400 -- 600 signs.   One finds a similar situation with Tibetan
 which is also basically a "mono-syllabic" language -- a fairly limited
 number of word-shapes and lots of homonyns.
-
-
 Best wishes,
 Stephen Hodge
-
-
-
-

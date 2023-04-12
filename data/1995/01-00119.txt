@@ -1,19 +1,11 @@
-From magier at columbia.edu  Fri Jan 20 03:35:02 1995
-From: magier at columbia.edu (David Magier)
-Date: Thu, 19 Jan 95 22:35:02 -0500
-Subject: Kyoto ftp archive
-Message-ID: <161227018266.23782.8397854424191249543.generated@prod2.harmonylists.io>
-
+Kyoto ftp archive
 There were some reports of inability to connect to Prof. Michio Yano's
 Sanskrit text archives at Kyoto Sangyo University, due to earthquake
 disruption of the net. The connection is apparently back up and
 running, as I just now connected with no difficulty. To remind
 everyone:
-
 a) ftp to:  ccftp.kyoto-su.ac.jp
-
 b) then cd (change directory) to: pub/doc/sanskrit
-
 Live links to the Rmayana and Mahabharata files can also be found
 within the ELECTRONIC TEXTS section of the South Asia Gopher. Dominik,
 Tom Ridgeway and I have been conferring on mirroring these files (as
@@ -24,11 +16,4 @@ these files at the COOMBS facility at ANU. By spreading these materials
 around the net, it should make it easier for indologists in different
 continents to get to them, regardless of temporary network traffic or
 server outages.
-
 David Magier
- 
-
-
-
-
-

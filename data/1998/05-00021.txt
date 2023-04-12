@@ -1,28 +1,14 @@
-From yanom at KSUVX0.KYOTO-SU.AC.JP  Fri May  1 11:14:47 1998
-From: yanom at KSUVX0.KYOTO-SU.AC.JP (Michio Yano)
-Date: Fri, 01 May 98 20:14:47 +0900
-Subject: etext of Baudhaayana-dhs
-Message-ID: <161227038035.23782.15052885705646593346.generated@prod2.harmonylists.io>
-
+etext of Baudhaayana-dhs
 Dear Indologists,
-
 Only recently we found that the e-test of the Baudhaayana-Dharmasuutra
 (baudha.dhs) at my ftp server was incomplete.
 I am sorry for giving you inconvenience.
-
 Today I put the whole text in my ftp server:
 ccftp.kyoto-su.ac.jp
 /pub/doc/sanskrit/dharmas
-
 You can also get access to the server through my homepage:
 http://www.kyoto-su.ac.jp/~yanom/
-
 I am planning to update the subdirectory jyotisa.
-
 Michio YANO
 Kyoto Sangyo University
 yanom at cc.kyoto-su.ac.jp
-
-
-
-

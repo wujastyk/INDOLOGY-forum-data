@@ -1,40 +1,18 @@
-From D.Wujastyk at ucl.ac.uk  Thu Oct 21 13:15:18 1993
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 21 Oct 93 13:15:18 +0000
-Subject: UNZIP
-Message-ID: <161227016223.23782.2753348966286812100.generated@prod2.harmonylists.io>
-
+UNZIP
 In message Tue, 19 Oct 93 23:34:17 BST,
   chevilla at linguist.jussieu.fr (Jean-Luc Chevillard)  writes:
-
-> ... could you make your version of UNZIP.EXE (pkunzip, pcunzip or
-> whatever) available in the same directory?
->
-> When I try to unzip the file with mine
-> I get an "unknown compression method" message.
-
 This is because your copy of unzip is probably out of date.  There are two
 programs you can use: pkunzip.exe and unzip.exe.  The former is a
 commercial/shareware program, the latter is free.  Both these programs are
 *very* widely available on all bulletin boards, from all computer clubs,
 mail-order software houses, software archives, etc., etc.
-
 I believe it is beyond the scope of INDOLOGY to distribute the program (with
 the attendant issue of keeping up to date, including documentation, and so
 forth).  This task is already done by so many other sites, it would be
 pointless for us (me) to do it too.
-
 For one place to try, have a go at ftp-ing from src.doc.ic.ac.uk in a
 directory called something like /pub/packages/simtel20/msdos/archivers or
 .../pkzip or .../zip (or something).  Or try micros.hensa.ac.uk.  (Both
 sites support gopher.)  Or wsmr-Simtel20.army.mil.  
-
 Dominik
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From ghart at SOCRATES.BERKELEY.EDU  Mon Aug 27 15:36:57 2001
-From: ghart at SOCRATES.BERKELEY.EDU (George Hart)
-Date: Mon, 27 Aug 01 08:36:57 -0700
-Subject: Tamil Sangam Literature -- Herman's Tieken's book
-Message-ID: <161227069609.23782.10958156025515165050.generated@prod2.harmonylists.io>
-
+Tamil Sangam Literature -- Herman's Tieken's book
 I notice the message reproduced at the end of these comments in
 Indology in July.  While I have not yet seen Prof. Tieken's book, I
 can certainly respond to the ideas on the back cover.  There is
@@ -11,7 +6,6 @@ overwhelming and indisputable evidence that the anthologies were not
 written as late as the ninth or tenth century.  It is, moreover,
 quite certain that the Sangam anthologies were not patterned after
 Prakrit or Sanskrit.  Let me make a few brief points.
-
 1. Language.  This is absolutely indisputable.  The Sangam texts use
 very different (and demonstrably much more archaic) forms and
 vocabulary than later texts of the sixth century onward.  Many verb
@@ -23,8 +17,6 @@ uses words that are not attested later.  A good source for these
 older forms is V. S. Rajam's A Reference Grammar of Classical Tamil
 Poetry : 150 B.C.-pre-fifth/sixth Century A.D. Philadelphia, Pa.,
 American Philosophical Society, 1992.
-
-
 2. Content.  While the akam (love) poems share some themes with
 Prakrit and even Sanskrit (as I have shown), they are still radically
 unlike the poems in those languages.  Prakrit has nothing like the
@@ -34,7 +26,6 @@ each, and the like.  There is absolutely nothing like the PuRam
 (heroic) poems of the PuRananuru and the Patirruppattu in Prakrit or
 Sanskrit.  That is because the Puram poems are mostly written as
 imitations of the productions of low-caste bards and drummers.
-
 3. Culture.  The poems show a coherent culture that is utterly
 different from the 9th or 10th century.  It is clear, if one reads
 the Purananuru, that the poems are directly about events the authors
@@ -42,7 +33,6 @@ have heard of.  Many of the poems concern marginal people at the
 borders of society.  This is not the case of the Sanskrit or Prakrit
 traditions.  Where is there anything like the famous Kalittokai poem
 of the lame man pursuing the hunchback woman?
-
 4. History.  The poems name hundreds of poets and kings -- and string
 them together in a narrative that is chronologically coherent.  The
 names are quite unlike the names of the 9th and 10th century.  There
@@ -50,7 +40,6 @@ are many historical facts that have been confirmed by archeological
 and other evidence -- some kings who appear on coins, or in datable
 contemporary inscriptions (1st-3rd century), Roman coins, description
 of trade also found in outside sources, and the like.
-
 5. Literary theory and usage.  The Tolkappiyam describes theories and
 systems that are mostly quite foreign to Sanskrit and Prakrit, but
 which fit Sangam literature quite well.  Its grammar describes some
@@ -62,7 +51,6 @@ the poems of later times.  By the ninth and tenth centuries, almost
 all literature in Tamil divided its stanzas into four parts, like
 Sanskrit and Prakrit (though they never actually borrowed Sanskrit
 meters).
-
 6. Hindu, Buddhist, and Jaina elements.  In the Sangam poems, Murugan
 has not yet been identified with Kartikeya -- he is a folk spirit
 that possesses people and must be propitiated.  There is not much
@@ -70,7 +58,6 @@ mention of Visnu or Siva, while it is clear that Jainism and Buddhism
 are both present in Tamil Nadu.   Many of the gods are local and do
 not appear in later literature.  All of this accords perfectly with
 what we know of that period, and does not fit at all the later period.
-
 This is only a cursory response -- it seems almost a waste of time to
 go on, as the evidence is so abundant and convincing.  The fact is,
 the poems are quite unaware of Prakrit or Sanskrit literature --
@@ -113,4 +100,3 @@ Prakrit poems with the chaayaa anuvaada.  By the way, the Purananuru
 is one of the seminal texts of premodern India -- it is quite as
 important as the epics and the Vedas for understanding the
 development of South Asian culture.
-

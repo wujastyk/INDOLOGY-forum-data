@@ -1,8 +1,4 @@
->?From THRASHER at MAIL.LOC.GOV 08 1993 Feb GMT 09:42:09
-Date: 08 Feb 1993 09:42:09 GMT
-From: ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV>
-Subject: MAGIC SQUARES
-
+MAGIC SQUARES
           Is  there anyone out there interested in  magic squares in India? 
           I  have collected a large number of sources in  print and  MS  in 
           Sanskrit, Prakrit,  and vernaculars.  The  late  Schuyler Cammaan 
@@ -22,8 +18,5 @@ Subject: MAGIC SQUARES
           right far more often than in the Hindu ones.  Of course, both the 
           magical and  the mathematical aspects of  these things have  been 
           intensively cultivated in the Islamic world. 
-           
           Allen Thrasher 
           thrasher at mail.loc.gov                                             
-
-

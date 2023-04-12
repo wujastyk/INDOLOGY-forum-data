@@ -1,60 +1,9 @@
-From christophe.vielle at UCLOUVAIN.BE  Fri Feb 15 14:36:47 2008
-From: christophe.vielle at UCLOUVAIN.BE (Christophe Vielle)
-Date: Fri, 15 Feb 08 15:36:47 +0100
-Subject: Digital Kielhorn
-In-Reply-To: <a0624080fc3db0e4e410f@[192.168.1.3]>
-Message-ID: <161227081976.23782.464873545243584135.generated@prod2.harmonylists.io>
-
+Digital Kielhorn
 Sorry for having not mentioned (or reminded) in the discussion the 
 following three on-going projects of Indological digital libraries at
 http://dsal.uchicago.edu/
 http://dli.iiit.ac.in/ (searchable but... sometime it is easier to 
 find there a book through google than through their own search-tool)
 http://www.muktabodhalib.org/SECURE/digital_library_index.htm
-
 Christophe Vielle
-
-
->Thank you very much, dear Peter Wyzlic, for this very useful list you made.
->
->Some additional notes:
->
->- for Wilson's Mackenzie Collection it is in fact possible to choose 
->between the two editions and various exemplars, cf.
->http://books.google.com/books?q=editions:0ZJfTAXwj3ok5Ad8&id=7HUIAAAAQAAJ&hl=de&source=gbs_other_versions_sidebar_s&cad=4
->It could be interested to note these details
->
->- if we take the example of NALA AND DAMAYANTI AND OTHER POEMS 
->translated by Henry Hart Milman (which is not in the list):
->http://books.google.com/books?id=vPY0ekwvgzUC
->in this case, it has also been converted into an e-text through the 
->Project Gutenberg :
->http://www.gutenberg.org/etext/19529
->http://infomotions.com/etexts/gutenberg/dirs/1/9/5/2/19529/19529.htm
->and is also available in various formats through :
->http://manybooks.net/titles/milmanh1952919529-8.html
->Should these things be mentioned ?
->
->
->- what about such available .pdf  (which is not really a scanned 
->book, but a kind of second edition in electronic form of a 
->previously printed book) - do you list them?.
->Ananda Wood, Knowledge before printing and after: The Indian 
->Tradition in Changing Kerala
->www.scholarswithoutborders.in/KnowledgeBeforePrinting&After.pdf
->
->- Of course, there is also the case of the pure (free) .pdf 
->periodicals such as the NGMCP Newsletter
->
->- do you list also the digital works readable but not downloadable 
->that can be found in various electronic library catalogues, such as
->the partial digital copy (vol. 1-6 + 12) of Hortus Malabaricus made 
->by the the University Louis Pasteur in Strasbourg  available at
->http://num-scd-ulp.u-strasbg.fr:8080/view/authors/Van_Reede_Tot_Drakestein,_Hendrik_Adriaan.html
->
->with best wishes,
 Christophe
-
-
-
-

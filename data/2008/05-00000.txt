@@ -1,40 +1,19 @@
-From ucgadkw at UCL.AC.UK  Thu May  1 01:58:14 2008
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Wed, 30 Apr 08 20:58:14 -0500
-Subject: INDOLOGY FAQ: teething problems
-Message-ID: <161227082521.23782.11121823539774810172.generated@prod2.harmonylists.io>
-
+INDOLOGY FAQ: teething problems
 I'm sorry about the teething problems.
-
 Those of you who decided to have a go at the FAQ found you couldn't create 
 an account, even though there's a button saying you can.
-
 Here's the way forward:
-
 If you wish to have write-access to the INDOLOGY FAQ, please send a 
 request to the INDOLOGY Committee at the usual address:
-
    indologycommittee at liverpool.ac.uk
-
 Apologies for the clunkiness.  We have to do it this way so that we can 
 restrict contributors to members of our forum.
-
-
 One more thing:
-
 The FAQ is for people to write potted but scholarly versions of their 
 indological interest areas.  It's not just a collection of hot links to 
 work elsewhere, though of course as in any Wiki, outbound links are 
 welcome too, as part of the referencing.
-
-
 Best,
 Dominik
-
---
 Dominik Wujastyk
 INDOLOGY Committee member
-
-
-
-

@@ -1,32 +1,6 @@
-From bhk at HD1.VSNL.NET.IN  Tue Nov  3 09:53:38 1998
-From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
-Date: Tue, 03 Nov 98 14:53:38 +0500
-Subject: Kusunda et al.
-Message-ID: <161227042216.23782.6318208466338466744.generated@prod2.harmonylists.io>
-
+Kusunda et al.
 I give brief replies to the comments and questions of Dr. Vidal; --Bh.K.
-
-
 At 04:36 02/11/98 GMT, you wrote:
->jacob.baltuch at euronet.be (Jacob Baltuch) wrote:
->
->>I asked Prof. Bh.Krishnamurti <bhk at hd1.vsnl.net.in> about Joseph
->>Elfenbeim's paper and he authorised me to quote his response freely.
->>He said:
->
->>>I have not read that particular article but I have glanced through the
->>>chapter on Brahui that he wrote in Rutledge's The Dravidian Languages,
->>>edited by Sanford Steever. I agree with him fully on his hypothesis that
->>>Brahuis moved from Central or East India westward around 800-1100 CE and was
->>>not a relic of the early Drav migration in 4000 BC. I have not seen his
->>>arguments. I have strong linguistic grounds to support it. Brahui shares
->>>with Kurukh and Malto three phonological innovations: *k > x/#__ all V
->>>except i and i:; *c > k/#___[u, u:, *w > b/#__. The phonological
->>>environments still remain in tact in all three lgs. which would not have
->>>been possible, if Kur-Mlt and Brah seperated two thousand years ago.
->
->Phonological environments?
-
 The phonological environments of the sound changes involving PD *k and *c in
 Kur.-Mlt.-Brah. are atypical and they are retained as such in all the three
 lgs. Sharing of atypical phonological environments in independent
@@ -39,55 +13,4 @@ Because, the IA lgs that surround it now, Punjabi, Sindhi and Lahanda
 retained OIA *v. Brahui has many words with b- that it borrowed from Persian
 and Arabic. But where does it get the change of Drav. *w- becoming b-? It
 shares this with Kur.-Mlt.
-
->I don't have much on Brahui, and nothing really on Kurukh-Malto, but
->here's what I've got.
->
->G.L. Campbell in the "Compendium" (based on Andronov):
->"[Brahui] seems to have been separated from the mainstream of
->Dravidian, about 3 or 4,000 years BC, before the latter embarked on
->on the southward migration to India"
->
->Enc.Brit. (by Kamil Zvelebil):
->Between 2000 and 1500 BC, there was a fairly constant movement of
->Dravidian speakers from the northwest to the southeast of India, and
->about 1500 BC three distinct dialect groups probably existed:
->Proto-North Dravidian, Proto-Central Dravidian, and Proto-South
->Dravidian. The beginnings of the splits in the parent speech,
->however, are obviously earlier. It is possible that Proto-Brahui was
->the first language to split off from Proto-Dravidian, probably during
->the immigration movement into India sometime in the 4th millennium
->BC, and that the next subgroup to split off was Proto-Kurukh-Malto,
->sometime in the 3rd millennium BC"
->
->Ruhlen's "Classification" gives the subgroupings:
->
->Konow (1906):
->Dravidian - Brahui
->          - Central & South (incl. K-M)
->
->Zvelebil (1974):
->Dravidian - North
->            - Brahui
->            - Kurux-Malto
->          - Central
->          - South
->
->Andronov (1978):
->Dravidian - Brahui
->          - Dravidian proper
->
->McAlpin (1981):
->Dravidian - Brahui
->          - Dravidian proper
->
->Ruhlen paraphrases McAlpin: "Brahui & K-M do not constitute a valid
->genetic group.  The evidence supporting this grouping (i.e. Emeneau
->1962) was scant from the start, and the principal sahred innovation
->linking the two was shown during the 1970's to be independent"
->
 Not correct--Bh.K.
->>Miguel asked:
->
->>>How on earth does that follow?
->

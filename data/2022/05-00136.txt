@@ -1,39 +1,10 @@
-From ofrey at me.com  Tue May 31 10:04:40 2022
-From: ofrey at me.com (Oliver Frey)
-Date: Tue, 31 May 2022 12:04:40 +0200
-Subject: [INDOLOGY] Adobe & Devanagari works perfectly fine
-Message-ID: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
-
+[INDOLOGY] Adobe & Devanagari works perfectly fine
 Dear D?niel & Jan,
-
 just a quick note on D?niel?s last email via Indology:
-
 1. Devanagari on Adobe products works perfectly fine! ? You just need to set the paragraph style correctly:
-
 ?> Paragraph Style Options 
 ?> Justification
 ?> put ?Composter? on ?Adobe World-Ready Paragraph Composer?
-
 2. Chandas Devanagari most complete font (http://www.sanskritweb.net/cakram/ <http://www.sanskritweb.net/cakram/>) ? I think
-
 See attached PDF.
-
 Best, oliver
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220531/0c7e1036/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: Adobe_devanagari.pdf
-Type: application/pdf
-Size: 439389 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20220531/0c7e1036/attachment.pdf>
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220531/0c7e1036/attachment-0001.htm>
-

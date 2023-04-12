@@ -1,16 +1,4 @@
-From lmfosse at ONLINE.NO  Mon Jun 14 22:14:47 1999
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Tue, 15 Jun 99 00:14:47 +0200
-Subject: Jamshid
-Message-ID: <161227050572.23782.3482090901550250835.generated@prod2.harmonylists.io>
-
->
-> -tra means "to release" as in the word "mantra" being something
-> that "sets free the mind (mana)."  Also this is found in the word
-> ksatriya.  Does the word "astra" (weapon) coming from "throw,
-> release" refer to the releasing of a mantra?
->
-
+Jamshid
 Nope. -tra is a fairly normal Indo-European suffix also found in Greek and Latin
 (-tro-). It is the zero stage of the suffix -ter/-tor + the thematic vowel if I
 remember correctly. You can consult Burrow's The Sanskrit Language for such details.
@@ -20,11 +8,5 @@ putra = son was analysed as put + tra where tra was given the meaning you give a
 ("put-releaser"). This lead Skt. grammarians to assume that there was a Hell called
 "put", because a son saves his father from hell through the performance of the
 necessary rites.
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
-

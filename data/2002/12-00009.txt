@@ -1,13 +1,6 @@
-From asg at U.WASHINGTON.EDU  Thu Dec  5 16:04:01 2002
-From: asg at U.WASHINGTON.EDU (Andrew Glass)
-Date: Thu, 05 Dec 02 08:04:01 -0800
-Subject: Additional formats for e-texts in GRETIL
-Message-ID: <161227071810.23782.1052282000839059418.generated@prod2.harmonylists.io>
-
+Additional formats for e-texts in GRETIL
 Dear Dean
-
 I know of three UTF-8 fonts you can use:
-
  1.  The Early Buddhist Manuscripts Project's Gandhari Unicode font.
    This font is based on the original URW+ Postscript fonts donated to
    the free software community, has been extended to display the
@@ -23,7 +16,6 @@ I know of three UTF-8 fonts you can use:
    email.  Gandhari Unicode is free and open source software: it is
    licensed under the GNU General Public License
    (http://depts.washington.edu/ebmp/software.html)
-
    2. URW+ Palladio UNI.  This 16-bit Unicode TrueType font includes
    all diacritics defined by ISO 15919 (Transliteration of Indic
    Scripts covering all ancient and modern languages of India).  It
@@ -31,7 +23,6 @@ I know of three UTF-8 fonts you can use:
    European languages so that this font can be used by Indologist
    using pretty much any European language.
    (http://home.t-online.de/home/ulrich.stiehl/polfonts.htm#UNI)
-
    3. Titus Cyberbit Basic.  This font includes, among other
    characters, a (nearly) complete set of Korean, Japanese, and
    Chinese characters.  Bold and Italic variants of this font are not
@@ -39,23 +30,5 @@ I know of three UTF-8 fonts you can use:
    does not provide full coverage of Latin diacritics, Ancient Greek,
    Armenian, Georgian and the like.
    (http://titus.uni-frankfurt.de/indexe.htm?/unicode/unitest2.htm)
-
-
------ Original Message -----
-From: <dean_anderson at SACARI.ORG>
-To: <INDOLOGY at liverpool.ac.uk>
 Sent: Wednesday, December 04, 2002 5:32 PM
-Subject: Re: Additional formats for e-texts in GRETIL
-
-
-> 2) to make sure that you have a UTF-8 font installed on your
-> computer.
->
-> Where can I get the fonts for PC?
->
-> Dean Anderson
->
-
-
-
-
+Re: Additional formats for e-texts in GRETIL

@@ -1,18 +1,10 @@
-From wujastyk at gmail.com  Thu Mar 19 17:46:23 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Thu, 19 Mar 15 18:46:23 +0100
-Subject: [INDOLOGY] Project management software?
-In-Reply-To: <CABEB9qJXip92GR3g4h47hcvkbTO6Gz9UJifLo8MFf6mcfcjMSw@mail.gmail.com>
-Message-ID: <CAKdt-Cd8o+X6whQrzJu9WRBUMUshzkTRT9WskqpV4_VoK9wpwg@mail.gmail.com>
-
+[INDOLOGY] Project management software?
 Several people mentioned Asana <https://asana.com/>, and it does look
 good.  It seems to be free for use by a team of up to 15 people, which
 would cover almost all academic workers, certainly in humanities subjects.
 The interface is pleasant and fairly self-explanatory.  Asana isn't Open
 Source, and one can't install the software on one's own server; one has to
 use it on their website.
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies
 <http://stb.univie.ac.at>,
@@ -26,41 +18,4 @@ St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
 Project <http://www.istb.univie.ac.at/caraka/> | home page
 <http://univie.academia.edu/DominikWujastyk> | HSSA
 <http://hssa.sayahna.org> | PGP <http://wujastyk.net/pgp.html>
-
-
-
-
 On 19 March 2015 at 17:23, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
-
-> Can we work at Santiniketan and Calcutta, 159 kms apart, together with
-> this? That may come handy.
-> Best
-> DB
->
-> On Thu, Mar 19, 2015 at 5:47 PM, Dominik Wujastyk <wujastyk at gmail.com>
-> wrote:
->
->> Dear colleagues, is anyone using open-source project management software
->> to manage a group of people working together?  I'm thinking of suites like
->> Redmine, ToDoYu, qdPM, Admidio and so on.  Most of these products come out
->> of the software development community, but as an increasing number of us
->> work in the context of funded projects with multiple participants -
->> sometimes in different locations - I think one or other of these tools
->> could be helpful even to indologists.
->>
->> Best,
->> Dominik Wujastyk
->>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> http://listinfo.indology.info
->>
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150319/a8500074/attachment.htm>
-

@@ -1,9 +1,4 @@
-From vidynath at MATH.OHIO-STATE.EDU  Thu Feb 25 20:10:49 1999
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Thu, 25 Feb 99 15:10:49 -0500
-Subject: Tamil -viDu construction: a short description
-Message-ID: <161227046922.23782.8276444011129413043.generated@prod2.harmonylists.io>
-
+Tamil -viDu construction: a short description
 To make the questions of my earlier post more understandable without a
 extended sojourn in the library, I will describe the uses of the Tamil
 viDu construction. Unfortunately, this makes the post too long and I
@@ -11,7 +6,6 @@ hope that the advantages outweigh the use of bandwidth. I mostly follow
 Annamalai (loc cit other post), but with changes that reflect my intuition.
 Note that this form can have imperative, future, habitual etc. forms,
 but I will concentrate on the past.
-
 Firstly, -viDu can be used with process verbs, punctual verbs or
 state verbs. With process verbs, it emphasizes the termination of the
 event: ``naaRkaaliyaic ceydu viTTaan'' (he has finished making the
@@ -22,7 +16,6 @@ into the state, or rather, the completion of the process that led to
 the state: ``tuungi viTTaan'' (he has fallen asleep). But not always:
 ``viiTTilEyE irundu viTTaan'' means `he just stayed home'. Here, of
 course, there is no antecedent process.
-
 The connotations can be broadly grouped under three headings. Firstly,
 it emphasizes the termination or occurrence of an event that requires,
 permits or explains further actions/events. This differs from the -iru
@@ -34,7 +27,6 @@ way. If I say ``... vaLaindu viTTadu'' it means that either we were
 trying to bend one or more branches and it succeeded in this case, or
 that it was growing straight but became bent, due to, say weight of
 fruits.
-
 In particular, in narration, it is often used to emphasize pivotal
 events. Its use in text 168.1 of Dahl's questionnaire belongs here. To
 avoid misunderstandings, two things must be said: The normal form in
@@ -49,7 +41,6 @@ However this is a crucial point in unerstanding why the Tamil system
 cannot be shoehorned into a perfective vs imperfective contrast, a
 mistake that seems to bite those who have not heard of non-Slavic style
 aspect.]
-
 The second category of use is to announce the occurance/completion of
 expected events. This is related to the translation of texts 53.1
 and 54.1 in Dahl's questionnaire. In both cases, the sentence to be
@@ -65,22 +56,14 @@ that case I would say ``inda puttagattaip paDitt-irukkiRaan.'' [Dahl
 says that the first batch of informants were recruited from students in
 Swedish classes for foreign students. This may have skewed their
 interpretation of the context.]
-
 I can give couple of more examples to make things clearer, but will stop
 to avoid absurdly long posts.
-
 The third use is to mark anteriority. Thus ``He left before I could
 talk to him'' would be translated as ``naan pecuvadaRkuL cenRu
 viTTaan.'' The use of the indeclinable participle viTTu also belongs
 here: ``naDandu vandaan'' means ``came on foot'' while ``naDandu viTTu
 vandaan'' means ``he went on a stroll and then came''.
-
 Interestingly enough, the -iru construction can have inferential
 connotations, like (middle) Vedic perfect. But such a development seems
 to be common enough elsewhere.
-
 -Nath
-
-
-
-

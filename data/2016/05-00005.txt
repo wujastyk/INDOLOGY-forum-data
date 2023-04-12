@@ -1,27 +1,11 @@
-From steiner at staff.uni-marburg.de  Sun May  1 16:20:22 2016
-From: steiner at staff.uni-marburg.de (Roland Steiner)
-Date: Sun, 01 May 16 18:20:22 +0200
-Subject: [INDOLOGY] M-W Sanskrit-English Dictionary Co-Authors
-In-Reply-To: <CABEB9qJ1i_kuVpsyWN2bYi56vZq-yGAX2ybFJ-Zsu3+h9MF-fA@mail.gmail.com>
-Message-ID: <20160501182022.Horde.SXnLRlyBGjP7r2wgp6w_K-Q@home.staff.uni-marburg.de>
-
-
-> < Apte's Dictionary (which is truly independent) will yield a  
-> maximum of reliable results. >
-
-> Just a note. Apte depended on the Vaacaspatyam by Taranath  
-> Tarkavaacaspati (1811-1885)
-
-
+[INDOLOGY] M-W Sanskrit-English Dictionary Co-Authors
 Fortunately, Apte's very useful dictionary has sources indeed. One of  
 its many sources is T?r?n?tha Tarkav?caspati's V?caspatya. In Apte's  
 own words:
-
 "I have derived from different sources. And in doing so I must give  
 the first place to the great Sanskrit encyclop?dia, the V?chaspati of  
 Professor T?r?n?tha Tarkav?chaspati. I have constantly kept it by my  
 side and have freely availed myself of the information contained in it  
--- of course with large curtailments -- though I have had to  
 supplement it myself wherever it was found to be defective or  
 insufficient. [...] The Sanskrit-English Dictionary of Professor  
 Monier Williams is the next work to which I have been greatly  
@@ -58,14 +42,6 @@ these authors, as well as to the authors and editors of several
 otherworks, which are too many to be here mentioned, from which I have  
 derived occasional help in one form or another, my most grateful  
 thanks are due."
-
 In short: a truly independent dictionary.
-
 Best
 Roland Steiner
-
-
-
-
-
-

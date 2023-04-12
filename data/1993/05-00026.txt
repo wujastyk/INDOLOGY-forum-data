@@ -1,12 +1,5 @@
-From rz2a016 at rzaix01.rrz.uni-hamburg.de  Tue May 18 11:33:30 1993
-From: rz2a016 at rzaix01.rrz.uni-hamburg.de (rz2a016 at rzaix01.rrz.uni-hamburg.de)
-Date: Tue, 18 May 93 11:33:30 +0000
-Subject: No subject
-Message-ID: <161227015826.23782.1799009393178291923.generated@prod2.harmonylists.io>
-
-
+No subject
 Re: Screen fonts with diacritics for use with WordPerfect
-
 When using the WordPerfect 5.1 (DOS) for foreign languages it is advisable to take
 advantage of WordPerfect's innovative character sets system. WordPerfect already
 provides many of the diacritics required for tranliterating Sanskrit and other languages.
@@ -26,7 +19,6 @@ files (CHM files) is to use the screen font editor (SFE.EXE) sold by WordPerfect
 already includes definitions of all the characters in the WordPerfect character sets. Thus,
 if one needs Japanese Katakana and Hiragana characters or Cyrillic characters etc., one
 need merely take over the ones that come with SFE.EXE.
-
 Printing the characters is another matter. WordPerfect 5.1 will print a rough graphic
 approximation of all the characters in all its character sets except of course no. 12, but
 for really adequate results it is necessary to use either the printer's inbuilt fonts or else
@@ -35,7 +27,6 @@ define download fonts themselves have several options. The usual procedure is to
 purchase a font editor. Many quite adequate font editors are available as shareware. A
 more challenging option is to make use of WordPerfect's powerful macro language and
 create a font editor within WordPerfect itself.
-
 The TrueType fonts provided with Windows 3.1 can be used in WordPerfect for
 Windows. These are scaleable fonts that are displayed on the screen. Moreover,
 WordPerfect 5.2 for Windows is supplied with the Adobe Type Manager, which enables
@@ -45,11 +36,4 @@ almost every font (including Devanagari) in either or both of these formats.
 Alternatively, with suitable software one can create one's own fonts. Both TrueType and
 Postscript fonts can for example be created using Altsys's Fontographer or Ares's
 Fontmonger. With the latter Macintosh and NeXT fonts can be converted.
-
 Ronald E. Emmerick
- 
-
-
-
-
-

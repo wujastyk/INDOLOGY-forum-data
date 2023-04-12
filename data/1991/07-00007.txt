@@ -1,10 +1,4 @@
-From MORPURGO at UK.AC.OXFORD.VAX  Tue Jul  9 18:39:00 1991
-From: MORPURGO at UK.AC.OXFORD.VAX (ANNA MORPURGO DAVIES)
-Date: Tue, 09 Jul 91 18:39:00 +0000
-Subject: IBM fonts
-Message-ID: <161227015082.23782.10636283142927081410.generated@prod2.harmonylists.io>
-
-
+IBM fonts
 A propos of Chiwriter and Skt fonts. Gunthard Mueller now runs a
 firm called Horstmann and Mueller Software GmbH, Kaiserstrasse 79,
 D=7410 Reutlingen, Germany. Telephone (0)7121-42886 or (0)7121-42829.
@@ -12,8 +6,3 @@ The title of the firm is accompanied by "Zentrale fuer ChiWriter
 Software in Deutschland, Oesterreich und der Schweiz".  One should
 be able to ask for the fonts writing or telephoning.
                                       Anna Morpurgo Davies
-
-
-
-
-

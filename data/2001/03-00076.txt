@@ -1,5 +1,3 @@
->From the announcement file:
-
         What's new in release 3.7?
         Actually babel 3.7 is very much like the later releases of
         babel 3.6 (from 3.6k onwards). The concept of language
@@ -38,11 +36,5 @@
           medieval Latin are supported.
           These attributes wil possibly find wider use in future
           releases.
-
-
 Reinhard Zierke
 for the CTAN team
-
-
-
-

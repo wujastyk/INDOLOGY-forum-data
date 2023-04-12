@@ -1,18 +1,5 @@
-From vidynath at MATH.OHIO-STATE.EDU  Sun Aug 30 18:23:19 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Sun, 30 Aug 98 14:23:19 -0400
-Subject: ciciir.su.h and dudru.su.h
-Message-ID: <161227041237.23782.4155208292923311904.generated@prod2.harmonylists.io>
-
+ciciir.su.h and dudru.su.h
 Sandra van der Geer wrote:
-
->I'd like to know where exactly did you find these instances? In my
->opinion you are right in considering them awkward. cikiir.su.h and
->dudruu.u.h clearly sound m ore normal. It seems indeed a joke at the
->cost of Dattakala'sin's knowledge of grammar. Is there a reason in the
->context to do so? If not, I'm inclined to interpret them as typo's, but
->if these are the only serious typo's in the whole edition
-
 These occur in M. Ghosh's edition of padmapraabh.rtaka (The actual
 title is ``Glimpses of sexual life in Ancient India''. It is actually
 an edition and translation of four bhaa.nas) on p.52 at l.13
@@ -24,11 +11,6 @@ glosses it as ``intend to run'' which does not fit `sa.mcikiir.su'. From
 the notes, it seems that Ghosh did not use any manuscripts, but used
 other editions. These seem to hard to come by, and if anyone with access
 to them can tell me what they have here, I will be thankful.
-
 Similar thing also occurs in the following bhaa.na, ``Paadataa.ditakam''.
 But here I will be able check Schokker's edition in a few days and I
 will wait till I do that before expanding on this.
-
-
-
-

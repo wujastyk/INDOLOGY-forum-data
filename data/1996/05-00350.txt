@@ -1,25 +1,5 @@
-From LGoehler at aol.com  Wed May 22 19:31:24 1996
-From: LGoehler at aol.com (LGoehler at aol.com)
-Date: Wed, 22 May 96 15:31:24 -0400
-Subject: Borrowings
-Message-ID: <161227024796.23782.1389297165405565369.generated@prod2.harmonylists.io>
-
+Borrowings
 Anand Venkt Raman wrote:
-
->>I am also unaware that the Sanskrit grammarians ever made a
->>synchronic/diachronic distinction beyond the primitive "bhasayam" and
->
->It is certain that Sanskrit grammarians never made a distinction between
->synchronic and diachronic aspects of language change.  It was because
->they all, including Panini, considered Sanskrit to be eternal and
->unchanging.  According to R.E.Asher, it was this assumption that facilated
->some of their breakthroughs which we are still able to learn from
->today.
->
->- &
->
->
-
  According to my opinion the way Indian grammarians and philosophers describe
 language is essentially synchronic. For them language is a system of fixed
 relations that is considered as 'static', 'constant' (Words that are
@@ -35,24 +15,11 @@ Sanskrit grammar today will not be true tomorrow due to the historical
 development of language. This may have been one of the reasons for KAtyAyana
 to speak of the relationship of word and meaning as 'siddha', 'established'
 which Patanjali explains as 'nitya', 'constant'.
-
   It is true that this 'static' view of language facilated some breakthoughs
 in the theory and philosophy of language in India (as the introduction of
 synchronic view did in the West ) viz. the possibility of STRUCTURAL
 approaches that, according to Saussure, permits to describe 'coexisting
 terms' of language which was not possible by diacronic approaches.
-
 Dominik Wuyastyk wrote
-> The doctrine of sabdanityata and of the levels of
->language etc. have to do not with depth in time, but with "depth in
->consciousness" or perhaps "depth in linguistic abstraction", if I can use
->those terms.
-
 - sounds more Chomskyan than Indian.
-
 Lars Goehler
-
-
-
-
-

@@ -1,27 +1,16 @@
-From silk at HUMNET.UCLA.EDU  Wed Apr 28 04:55:00 2004
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Tue, 27 Apr 04 21:55:00 -0700
-Subject: fixed link--Stcherbatsky article
-Message-ID: <161227074394.23782.17004675448913638804.generated@prod2.harmonylists.io>
-
+fixed link--Stcherbatsky article
 Several days ago the following was announced here:
-
 A manuscript of an essay by Stcherbatsky has been discovered, edited
 and published by Y.V. Vasilkov; it has been made available online at
 <http://www.indology.ru/article642.html>.
-
-
 When I tried to use this cite, and download the article in question
 in pdf form, I found, as perhaps did others, the link broken (it is
 possible also to read it simply within the website, however). Now, Mr
 Dmitry Olenev has asked me to convey to the list the information that
 he has repaired the link and one may download the pdf (as indeed I
 have verified).
-
 He also added the following:   A number of misprints are scattered
 over the paper, but all of them were present in the printed original.
-
---
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -32,7 +21,3 @@ Los Angeles, CA 90095-1540
 phone: (310)206-8235
 fax:  (310)825-8808
 silk at humnet.ucla.edu
-
-
-
-

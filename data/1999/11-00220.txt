@@ -1,69 +1,34 @@
-> of Textual Analysis programmes: "TACT" and "Lexa".  From what I can gather
-> so far it seems that it is probably worth persevering.
->
-> What is clear though is that neither programme is going to make up for my
-> ignorance - much as I'd like them to.  Before I can do anything, I'm going
-> to have to "tag" or "mark-up" a digital text.  Here I'm in need of
-> assistance.
->
-> I've read that Sidney Greenbaum has developed a tagging system for modern
-> English grammar for University College, London.  What I would like to
-> have access to - if such a thing exists - is a similar scheme for
-> Classical Sanskrit and Tibetan.
->
-> Have any readers been over this ground before?  And if so, would any be so
-> good as to give me some much needed advice?
-
 I used Lexa when I did my Ph.D., and I give a description of how I used it for
 tagging in my thesis. I found that Lexa through its search-and-replace function
 gives you a primitive tagger. I was able to tag quite a lot of text
 automatically, but it had to be cleaned up manually, and certain things had to
 be entered manually.
-
 Basic principle: Lexa allows you to search for parts of words, which allows you
 create search and replace lists looking like this:
-
 Say you want to replace "anyoldword" with "anotherandcompletelynewword" and so
 on. You can them produce a list file looking like this:
-
 word<TAB><TAB>word
 etc.
-
 This principle allows you to tag case endings, e.g.
-
 CLASS_n: INSTRUMENTAL
 ena<TAB><TAB>ena_INSTRUMENTAL
 e.na<TAB><TAB>e.na_INSTRUMENTAL
-
 etc.
-
 or:
-
 CLASS_n: PTCL
 hy<TAB><TAB>hy_PTCL
 hi<TAB><TAB>hi_PTCL
-
 where ptcl = particle.
-
 Words that are tagged in the wrong way frequently you may have to collect in a
 separate listfile and tag them as complete words.
-
 You will find a more detailed description in the appendices to my thesis: The
  Crux of Chronology in Sanskrit Literature. Statistics and Indology. A Study
 of Method. Scandinavian Univesity Press, Oslo 1997.
-
 Good luck!
-
 Lars Martin Fosse
-
-
 Dr. art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
 Norway
 Phone/Fax: +47 22 32 12 19
 Email: lmfosse at online.no
-
-
-
-

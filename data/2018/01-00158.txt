@@ -1,19 +1,7 @@
-From wujastyk at gmail.com  Tue Jan 30 23:30:46 2018
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 30 Jan 18 16:30:46 -0700
-Subject: [INDOLOGY] XeTeX tec file for Tamil?
-Message-ID: <CAKdt-CdC9FfCOVt2xicD+82j7TohDBBMG1+1K=wYX7nxYmSuGQ@mail.gmail.com>
-
+[INDOLOGY] XeTeX tec file for Tamil?
 ?Does anyone have a TECkit
 <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=TECkitDownloads>
 file for auto-transliterating standard Latin-script input to Tamil script
 output??
-
 Best,
 Dominik Wujastyk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180130/27845407/attachment.htm>
-

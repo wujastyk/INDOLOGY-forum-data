@@ -1,35 +1,18 @@
-From ucgadkw at UCL.AC.UK  Thu Jan  9 12:24:47 2003
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 09 Jan 03 12:24:47 +0000
-Subject: 16.405 Versioning Machine beta release (fwd)
-Message-ID: <161227071977.23782.1447136436056553177.generated@prod2.harmonylists.io>
-
+16.405 Versioning Machine beta release (fwd)
 This announcement may be of interest to those of us interested in critical
 editions.
-
 DW
-
----------- Forwarded message ----------
-Date: Thu, 9 Jan 2003 10:05:48 +0000
-From: "Humanist Discussion Group (by way of Willard McCarty
     <willard.mccarty at kcl.ac.uk>)" <willard at lists.village.virginia.edu>
-To: humanist at Princeton.EDU
-Subject: 16.405 Versioning Machine beta release
-
+16.405 Versioning Machine beta release
                Humanist Discussion Group, Vol. 16, No. 405.
        Centre for Computing in the Humanities, King's College London
                    www.kcl.ac.uk/humanities/cch/humanist/
                      Submit to: humanist at princeton.edu
-
-
-
          Date: Thu, 09 Jan 2003 09:39:28 +0000
          From: "Susan Schreibman" <ss423 at umail.umd.edu>
-         Subject: Beta Release of the Versioning Machine
-
+         Beta Release of the Versioning Machine
 Maryland Institute for Technology in the Humanities (MITH) is pleased to
 announce the beta release of The Versioning Machine (VM) 1.0.
-
 The Versioning Machine is a software tool designed to display and compare
 multiple versions of texts. The display environment seeks not only to
 provide for features traditionally found in codex-based critical editions
@@ -39,18 +22,11 @@ diplomatic versions of witnesses side by side, allowing for images of the
 witness to be viewed alongside the diplomatic edition, and providing users
 with an enhanced typology of notes. The VM is TEI conformant and utilizes
 parallel segmentation encoding.
-
 The Versioning Machine is now ready, and we welcome beta testers. To aid
 with the encoding process, we provide several sample encoded texts as well
 as documentation in the Download Zip.
-
 To register and download the beta version please go to
 http://www.mith2.umd.edu/products/ver-mach/
 and follow the link to "Download".
-
 Please send any comments and suggestions to ver-mach-users at dev.umd.edu
 Susan Schreibman, Amit Kumar, eriC White, Jarom McDonald, Lara Vetter
-
-
-
-

@@ -1,27 +1,5 @@
-From zydenbos at BIGFOOT.DE  Sun Nov 28 20:55:13 1999
-From: zydenbos at BIGFOOT.DE (Robert Zydenbos)
-Date: Mon, 29 Nov 99 02:25:13 +0530
-Subject: Diacritics font
-In-Reply-To: <199911281743.XAA12177@blr.vsnl.net.in>
-Message-ID: <161227054050.23782.14975198273754624493.generated@prod2.harmonylists.io>
-
+Diacritics font
 On Sun, 28 Nov 1999 17:49:59 +0000, Dominik Wujastyk wrote:
-
-> On Wed, 24 Nov 1999, birgit kellner wrote:
->
->
-> > It is my understanding however that CSX+-encoded fonts are not
-> > particularly useful for mixed-language documents, that is, documents
-> > which contain Sanskrit and European languages other than English (e.g.
-> > German, French, Danish) that require in themselves diacritical
-> > characters. [...]
-
-> This is the opposite of the actual case.  The CS and CSX character sets
-> were designed specifically to include as many European accented characters
-> as could be accommodated, in addition to those essential for Sanskrit and
-> Vedic.  The German and French scholars who sat round the table in Vienna,
-> where CS/CSX was born, ensured that this was the case.
-
 Actually, both of you are right / wrong, in different ways. The problem
 is that the accented European letters bear certain ASCII codes
 according to the ANSI coding scheme (used by Windows and Linux)
@@ -32,7 +10,6 @@ This means that if we write something using Windows9x, or X
 Windows under Linux, we can type in Umlaute etc. according to the
 ANSI scheme, but when we change the font to one of the CSX+
 fonts, all those Umlaute etc. will go wrong.
-
 Because I like those fonts so much, I have worked on this problem
 and solved it in the latest version of my own diacritical preprocessor.
 What you have to do is save your text in RTF format (Rich Text
@@ -45,15 +22,7 @@ fonts with all the accented letters as they ought to be. This sounds
 more cumbersome than it really is; I demonstrated this at the
 Oriental Research Institute here in Mysore, and within minutes
 people of the institute were using the program correctly.
-
 The Windows95/98 version is already available at:
-
 http://www.angelfire.com/in/zydenbos/indologie.html#Fonts
-
 I hope to put the Linux version there within a few days.
-
 RZ
-
-
-
-

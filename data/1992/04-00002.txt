@@ -1,10 +1,4 @@
-From pms3s at EDU.VIRGINIA.CLAS.FARADAY  Thu Apr  9 17:11:25 1992
-From: pms3s at EDU.VIRGINIA.CLAS.FARADAY (Peter M. Scharf)
-Date: Thu, 09 Apr 92 13:11:25 -0400
-Subject: responses about PostScript Indic fonts
-Message-ID: <161227015290.23782.16997335788248249068.generated@prod2.harmonylists.io>
-
-
+responses about PostScript Indic fonts
 Dominik,
 It is quite a lot to ask for free fonts.  There is little support
 available to develop them.  If one is willing to buy them that is
@@ -20,8 +14,3 @@ may be reached by writing:
 Last I knew he was developing a Devanagari font too.  Both would
 be laser fonts.
 Peter Scharf
-
-
-
-
-

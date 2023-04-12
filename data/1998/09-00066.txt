@@ -1,16 +1,9 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Fri Sep 18 14:20:43 1998
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Fri, 18 Sep 98 09:20:43 -0500
-Subject: Indus Script & new website
-In-Reply-To: <3.0.1.16.19980918144005.1b978af0@pop-server.bcc.ac.uk>
-Message-ID: <161227041373.23782.1336550189604645317.generated@prod2.harmonylists.io>
-
+Indus Script & new website
 The "debate" over the web site in question
 (http://www.vedickalidas.home.ml.org)  probably arises from the fact that
 the site is served from a tripod.com site.  With some browsers, Java will
 launch ("spawn") additional windows.  Accordingly, some folks would and
 others would not get advertisements.
-
 The large image is, to be sure, well over the so-called etiquette of under
 40k (it's 188k, and could be cut down in size with PhotoShop or other
 tools if need be), but all one has to do is set the browser preferences to
@@ -21,7 +14,6 @@ loads in teh bkgd (I'd be happy to supply code syntax if the author
 wishes).  The rest of the text pages were very image-free
 and quick loading. The content was otherwise generally well-organized and
 accessible.
-
 I also think it is important to consider the kinds rhetorical strategies
 employed by Dr. Rajaram, the site editor.  Anyone familiar with Edwin
 Bryant's excellent dissertation on the whole Indus Valley and Aryan Civ.
@@ -29,32 +21,20 @@ debate will know that Rajaram's is one of the more vocal perspectives and
 one which--agreeable to scholars or not--warrants some consideration if
 one is to understand the complexity and intensity of views on this
 subject.
-
 Perhaps it is alaso important to be conscious that even in the
 technology-concerned world of today, there is much less time and resources
 for scholars to invest in internet publication and tech. skills b/c the
 demands of one's own academic discipline alone are so consuming.
-
 In terms of netiquette, it is very appropriate to report one's own
 problems with access to the purveyor of the site-- a list-wide flame mail
 with profanity is not appropriate.
-
 respectfully,
-
 jr
-
-___________________
 John Robert Gardner
 http://vedavid.org/
-____________________________________________________
 Obermann Center             The Graduate College
 for Advanced Studies        Gilmore Hall
 University of Iowa          University of Iowa
 319-335-4034                319-335-2144
 http://www.uiowa.edu/~obermann/
-____________________________________________________
 "Your dreams must always lead you beyond comfort"
-
-
-
-

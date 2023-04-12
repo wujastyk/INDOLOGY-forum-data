@@ -1,9 +1,4 @@
-From pventhb at XS4ALL.NL  Wed Sep 30 08:42:39 1998
-From: pventhb at XS4ALL.NL (Th. de Bruijn)
-Date: Wed, 30 Sep 98 09:42:39 +0100
-Subject: Best computer for Sanskrit?
-Message-ID: <161227041538.23782.669526715171995902.generated@prod2.harmonylists.io>
-
+Best computer for Sanskrit?
 Adrian Burton wrote:
 P.S.  The single biggest problem of all Indic fonts on all operating
 systems is the lack of a standard keyboard layout.  So for example to read
@@ -12,16 +7,9 @@ font used.  No two fonts are the same.  So no matter how ingeniously a
 software package like ILKEYB might be it is completely unintelligible to
 someone who doesn't have the same font.  Thence my hidden commercial agenda
 - I would like the whole world to use the same font as I do!
-
 Dear Indology-readers,
-
 A short note to add to Burton's fine description of the situation for those who do not have the spare time to mess with Tex's intricacies (to put it mildly): there is a standard and it is called Unicode. There are many fonts by commercial companies available and one can make fonts with editors. The only wordprocessor I know that has full Unicode compliance would be Word97 on Windows NT (except for some texteditors that can use Unicode). Perhaps someone can shed light on how WordPerfect copes with this. As Unicode seems to have a future it is worthwhile mentioning it in advices for future users of Devanagari on Windows systems.
 I am experimenting with it myself, but lack the time to go very deep into it.
-
 Thomas de Bruijn (just a more or less happy user of all the stuff mentioned above)
 International Institute for Asian Studies
 Leiden
-
-
-
-

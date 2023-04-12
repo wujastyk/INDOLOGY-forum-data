@@ -1,13 +1,7 @@
-From kevinryan at fas.harvard.edu  Fri Aug  7 21:34:17 2015
-From: kevinryan at fas.harvard.edu (Kevin M. Ryan)
-Date: Fri, 07 Aug 15 23:34:17 +0200
-Subject: [INDOLOGY] Second-syllable rhyme in Dravidian
-Message-ID: <55C52459.6020203@fas.harvard.edu>
-
+[INDOLOGY] Second-syllable rhyme in Dravidian
 A few more points in tentative favor of a southern/Dravidian origin of 
 second-syllable rhyme (SSR). I don't think any of these is clinching, 
 but they add to the suggestive evidence.
-
 (1) SSR is already present -- pervasive even -- in the oldest attested 
 Dravidian literature. I don't think anyone in this thread has made this 
 explicit. The discussion of Dravidian cases so far seems to be focused 
@@ -16,7 +10,6 @@ Sangam texts and in the Tolk?ppiyam. It's true, it's not as strict as it
 is in some later texts, but its presence as a systematic poetic device 
 (far beyond mere chance or occasional ornamentation) is clearly 
 established from that earliest literature.
-
 (2) I don't know if anyone has previously noted this connection, but the 
 phonological peculiarities of SSR bear an uncanny resemblance to another 
 linguistic phenomenon that can be reconstructed securely (e.g. 
@@ -33,7 +26,6 @@ syllable weight, at least not in the usual metrical sense.) As such,
 such doublets form rhyming pairs, and I would find it surprising if the 
 two systems, both with the same peculiar treatment of vowel length, 
 arose independently.
-
 (3) This is perhaps a more conjectural point, but as a general 
 phonologist, SSR strikes me as the sort of rhyme system likely to 
 originate only in a language (group) with initial accent, which again 
@@ -48,7 +40,6 @@ Tagalog, Georgian, etc. Dravidian is usually taken to have (if anything)
 initial accent, nowadays usually realized phonetically (as with many 
 non-Dravidian languages in the Sprachbund as well) as an L*+H contour, 
 i.e., a dip followed by a rise.
-
 I think this initial accent jibes nicely with line-initial SSR because 
 "second-syllable rhyme" is a misnomer; the span is really anchored by 
 the first syllable in SSR. First, initial vowels must correspond in 
@@ -58,7 +49,6 @@ generalization about the consonants is not that they must be in the
 second syllable, but rather that they are the first consonants following 
 the initial vowels, regardless of their syllabic position. Thus, 
 puT.pi.Ra rhymes with muT.ka.ran, but not with, say, kup.pai.
-
 An unrelated tradition that developed this same kind of rhyme phonology 
 is Old Norse (in its so-called "half-rhyme"). It works essentially 
 identically: the accented (normally initial) syllables are unregulated 
@@ -72,10 +62,4 @@ developed initial accent as well, so it doesn't necessarily exclude a
 Middle Indic origin anyway. But put together with other evidence it's at 
 least reassuring that SSR makes good phonological sense for a language 
 like ancient Tamil.
-
 Kevin Ryan
-
-
-
-
-

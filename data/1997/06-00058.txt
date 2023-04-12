@@ -1,21 +1,7 @@
-From vidya at cco.caltech.edu  Fri Jun  6 19:15:07 1997
-From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
-Date: Fri, 06 Jun 97 12:15:07 -0700
-Subject: epics and oral traditions
-Message-ID: <161227030764.23782.15211740549924969730.generated@prod2.harmonylists.io>
-
-
-
->   	These are excellent case studies of specific variables. It seems to me,
-> however, that problems come in when one argues that compositional
-> technology **determines** cognitive and social significance. To claim that
-> a particular tool or technique of memory or writing will ALWAYS have
-> certain social and cognitive effects is where one runs into trouble.
-
+epics and oral traditions
 It seems to me that as far as studying the past is concerned, one can find
 specific examples both for and against this. But the future is a different
 cup of tea. 
-
 A friend of mine at Caltech envisages a future where voice recognition,
 pattern recognition and language translation technologies are so advanced
 that one can do away with keyboards and speak to a computer. This is a
@@ -25,13 +11,4 @@ standard, could breed a society where most people will slowly lose both
 the ability to write and the ability to commit things to memory. Given the
 great reliance that people place on computers even in today's society,
 such an argument does have its merits.
-
 Vidyasankar
-
-
-
-
-
-
-
-

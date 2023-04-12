@@ -1,18 +1,7 @@
-From ridgeway at blackbox.hacc.washington.edu  Mon Nov 14 22:49:53 1994
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Mon, 14 Nov 94 15:49:53 -0700
-Subject: Mahabharata and Ramayana
-Message-ID: <161227017811.23782.6329593671999373708.generated@prod2.harmonylists.io>
-
+Mahabharata and Ramayana
 Good day,
 Michio YANO writes to say
-> I am pleased to tell you that my friend, Prof. Muneo Tokunaga
-> of Kyoto University, has decided to make publicly available 
-> the whole e-texts of the Mahaabhaarata and Raamaaya.na.
->       ccftp.kyoto-su.ac.jp
-
   to which I say Shabash!
-
 For the slight benefit of the universe in the form of bandwidth 
 conservation, I have made the files available on the ftp host 
     blackbox.hacc.washington.edu in the directory
@@ -21,9 +10,7 @@ Blackbox is in the United States, in Washington State; it will be easier
 on the network if people on this continent obtain copies locally.  Please
 note that blackbox is a Unix machine, and does care a great deal
 about that capital T in Tokunaga.
-
 I will add a list of all files after my signature.
-
 In addition to the original files, which are btw in Unix Compress format,
 I have added initial restranscriptions of the first sections of each
 book in the CSX and Indic-ANSI for windows character sets.  I invite
@@ -31,17 +18,13 @@ interested parties to examine these retranscriptions and inform me of
 any shortcomings they might observe.  Before retranscribing the
 entire mahabharata (so to speak) I would like to think I am doing it
 right.  These files are in plain (8-bit) text without compression.
-
-
 Nota Bene: I will no longer be with the University of Washington after 
 November 30.  It is very likely that this text archive will no longer be 
 maintained after my departure so anyone with interest in these holdings
 would do well to obtain copies before that time.  I would hope to complete
 this little project before then.
-
 cheers,
 Tom
--- 
 pub/indic/Tokunaga
 files for Mahabharata
 -rw-r--r--  1 root      374419 Nov 14 14:25 m01_v1.e.Z
@@ -76,9 +59,3 @@ CSX and ANSI-based indic for Windows versions
 -rw-r--r--  1 root      263474 Nov 14 15:28 ramayan1.csx
 introduction to the collection
 -rw-r--r--  1 root        1518 Nov 14 14:26 readme.doc
- 
-
-
-
-
-

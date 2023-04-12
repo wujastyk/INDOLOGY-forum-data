@@ -1,33 +1,20 @@
-From LubinT at wlu.edu  Wed Jun  9 01:56:03 2021
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Wed, 9 Jun 2021 01:56:03 +0000
-Subject: [INDOLOGY] =?utf-8?q?saptavr=CC=A5ddhi/saptah=C4=81ni?=
-Message-ID: <81CCE90B-96B4-4D5D-A26E-B2AAE91432CA@wlu.edu>
-
+[INDOLOGY] =?utf-8?q?saptavr=CC=A5ddhi/saptah=C4=81ni?=
 Dear Arlo,
-
 I find no such sevenfold grouping of vr?ddhis and/or h?nis in Sanskrit sources from India.  Of course, one can find similar (though not identical) lists of good things attainable by various ritual means:
-
 N?radapur??a re seeing holy places:
 j??nam ai?varyam atula? prati??h?yur ya?as tath?  /
 ?ubh?n?m ??ram???? ca ga?g?dar?anaja? phalam  // 2.39.5 //
-
 Vi??udharmottarapur??a re ?r?ddha:
 1.137.35ab/.te??m ?yur ya?a? saukhya? d?syanti prapit?mah??/
 1.137.35cd/.devak?ry?d api ?re??ha? pit?k?rya? pracak?ate//
-
   and in Vaikh?nasa sources one sees loss as well as gain, this time with an ethical theme:
-
 Vi?vaksenasa?hit? on acquiring such good things
 ya? karoti svarak??? ca d?rgham ?yur ya?askaram /
 sukham ai?varyabalat?? kalpyat?? ca labhet par?m // 19.22
-
 Bhr?gusa?hita re loss (h?ni) of those good things:
 ?yurya?astapoh?ni? pu?s?? str??v atisa?gin?m  /
 puru?e?v atisakt?n?? tuly? s? yo?it?m api  // 36.490
-
    But I find no formulation of seven as sapta-vr?ddhi.  For that, the only source I find is Indonesian: Tantric texts quoted in Hooykaas?s Balinese Bauddha Brahmans, p. 96, where it is deployed in the context of making ?purificatory water? (pabr?sihan) for daily worship:
-
 O ASALIN VAI, YOGA PAMI?-T??AH.
 2 Pratinkah p?ja asalin v?, ri t?las am?j? pabrsihan pagangdn.
 3 Dj Gamb?l/Sambutak?na/ ika? pamandyanan.
@@ -45,23 +32,17 @@ O ASALIN VAI, YOGA PAMI?-T??AH.
 15 O? Labdha-vara Cint?ma?i,
 16 O? Ayur-v?ddhir ya?o-v?ddhih, v?ddhih praj??-sukha-?riy?m,
 17 Dharma-sant?na-v?ddhi? ca, santu te sapta-v?ddhayah.
-
 The mantra is applied twice also on p. 224 (W 1 and X 13) in rites of worship.  Also:
 Hooykaas?s, Surya-Sevana: The Way to God of a Balinese Siva Priest, p. 152.
-
 Majumdar, Suvar?adv?pa, v.2, p. 109, gives the verse in this version (with the faults of the manuscript in which it appeared):
 o? ?yuvr?ddhi ya?ov?ddhi vr?ddhi praj?? sukha?riy? |
 dharmmasant?navr?ddhi? ca, santu te saptav?ddhayah ||
 y?vat merau sthita deva y?vad ga?g? mah?tale |
 candrarekh? gaga?e y?vat t?vat bhuvi jay? bhave? ||  (unmetrical in c)
 Majumdar calls it the mr?tyu?jaya or d?rgh?yu or saptavr?ddhi mantra.  Your inscription is clearly alluding to this.  But I find as yet no Indian source.  (mr?tyu?jaya-mantra is the name commonly applied in India to R?V 7.59.12.)
-
 I find that Indonesian sources seem particularly fond of such enumerations, many of which are not to be traced in India.  In this case, the scattered hints mostly point toward ritual texts rather than Dharma??stra.
-
 Best,
 Tim
-
-_________________________________________
 Timothy Lubin
 Jessie Ball duPont Professor of Religion and Adjunct Professor of Law
 204 Tucker Hall
@@ -73,41 +54,16 @@ https://lubin.academic.wlu.edu/<https://nam11.safelinks.protection.outlook.com/?
 http://wlu.academia.edu/TimothyLubin<https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwlu.academia.edu%2FTimothyLubin&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=etrMzh0RHx8819v5PH6KeTgeHQpeNVqeSUP62IDVn9c%3D&reserved=0>
 https://ssrn.com/author=930949<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fssrn.com%2Fauthor%3D930949&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=F9JfpSkLrSfrImfMeIXPIjpUIVYIYcwfbvm8dqcxedE%3D&reserved=0>
 https://dharma.hypotheses.org/people/lubin-timothy<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdharma.hypotheses.org%2Fpeople%2Flubin-timothy&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521898628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sncUovdIh9wA0ezo8n2xpYpllaMKMetH86tMA6Jtg9A%3D&reserved=0>
-
-
-
-
-
-
-
-From: INDOLOGY <indology-bounces at list.indology.info> on behalf of INDOLOGY <indology at list.indology.info>
-Reply-To: Arlo Griffiths <arlogriffiths at hotmail.com>
-Date: Monday, June 7, 2021 at 11:37 PM
-To: INDOLOGY <indology at list.indology.info>
-Subject: [INDOLOGY] saptavr?ddhi/saptah?ni
-
+[INDOLOGY] saptavr?ddhi/saptah?ni
 Dear colleagues,
-
 I am working with my student Marine Schoettel to prepare an edition and translation of a major (14-plate) charter of 15th-century Java, that contains quite a number of Sanskrit stanzas, interspersed between Old Javanese prose passages. Besides the k?vya stanzas of the royal genealogy, that were certainly locally composed, there are some (possibly Indian) dharma??stra stanzas at the end of the text, where we read, toward the end of the charter:
-
 yatikoma?gu(13v4)hakna vipar?tani? brahmamukhodita saptavr?ddhi, ndya ta lvirannya //
-
 XXXII. [anu??ubh]
     ?yurh?nir yya?oh?ni?, h?ni? praj??sukha?riy??*,
     dharmmasant?(13v5)nah?ni? ca, santu te saptah?naya? //
-
 We translate:
-
 'They will encounter what are [called] the opposites of the seven gains enunciated orally by Brahm?, as follows: "Loss of vitality, loss of glory, loss of wisdom, happiness, and fortune, loss of dharma and progeny; those shall be the seven losses!" '
-
 I am unable to locate the saptah?ni stanza in my e-text corpus. I am hoping that one of you may be able to.
-
 Also, I am unable to find any (relevant) occurrences of the expression saptavr?ddhi, and am curious if my impression that the Old Javanese is alluding to a text ascribed to Brahm? can somehow be confirmed from the Sanskrit tradition.
-
 Thank you.
-
 Arlo Griffiths
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210609/c54d0f6b/attachment.htm>
-

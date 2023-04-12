@@ -1,10 +1,4 @@
-From FALK at EARN.DFRRUF1  Thu Nov 29 14:48:57 1990
-From: FALK at EARN.DFRRUF1 (falk)
-Date: Thu, 29 Nov 90 14:48:57 +0000
-Subject: programs
-Message-ID: <161227014916.23782.7263273484708383787.generated@prod2.harmonylists.io>
-
-
+programs
 Dominik asked about programs for processing Sanskrit. I got some little
 helpers (an automatic converter Grassmann to mandala-numbering; a device
 for changing a skt. text into its index ((slow but tiny, 1500 k))), but
@@ -18,8 +12,3 @@ program. But maybe someone of the group wants to try his luck? I have
 collected articles and books giving all sorts of formulas for such
 conversions, which I could communicate.
 Harry
-
-
-
-
-

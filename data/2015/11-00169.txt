@@ -1,34 +1,15 @@
-From wujastyk at gmail.com  Fri Nov 27 15:40:01 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Fri, 27 Nov 15 08:40:01 -0700
-Subject: [INDOLOGY] Bibliography of TeX critical editions done with EDMAC, LEDMAC, eLEDMAC, reLEDMAC
-Message-ID: <CAKdt-CekLd_eC2ei=ToGr0OsYhkevAQTU-hA_uhOwp1PHy+f8A@mail.gmail.com>
-
+[INDOLOGY] Bibliography of TeX critical editions done with EDMAC, LEDMAC, eLEDMAC, reLEDMAC
 Dear colleagues,
-
 There is a Zotero group where one may record a bibliographical entry for
 any critical edition that uses the TeX or LaTeX packages for formatting
 critical editions.  If your critical edition uses EDMAC or one of its
 derivatives, please consider adding an entry for your book or article to
 the list.  The address is:
-
-
    -
    https://www.zotero.org/groups/critical_editions_typeset_with_edmac_ledmac_and_eledmac
-
 Best wishes,
-
 Dominik Wujastyk
-
-
---
 Professor Dominik Wujastyk* <http://ualberta.Academia.edu/DominikWujastyk>
 Singhmar Chair in Classical Indian Society and Polity
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20151127/3f1fed77/attachment.htm>
-

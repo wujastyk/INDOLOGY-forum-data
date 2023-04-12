@@ -1,71 +1,20 @@
-From sohum at MS.UKY.EDU  Sat Feb 27 16:00:49 1999
-From: sohum at MS.UKY.EDU (Avinash Sathaye)
-Date: Sat, 27 Feb 99 11:00:49 -0500
-Subject: A few more Bhagavad Gita obscurities.
-Message-ID: <161227047026.23782.8483000181062369532.generated@prod2.harmonylists.io>
-
-
-
+A few more Bhagavad Gita obscurities.
 Harry Spier wrote:
-
-> Snip..Snip..
-
-> A few more obscurities:
->
-> 1) verse 18.72 of the Bhagavad Gita:
-> Belvalkar(1962 edition)and a few others read ...praNaSTas...
-> J.A.B. van Buitenen and a few others  read   ...pranaSTas...
->
-> Whitney in his grammar section 192 a. specifically mentions "pranaSTas"
-> as an exception to "n" going to "N" after "r".
-> Is Belvalkar in this edition a misprint? What does B.O.R.I. say? Is
-> there some optionality in this rule? Or some other reason for this
-> difference?
->
-
 My copy of Belvalkar's critical edition (B.O.R.I. 1968) only gives
 pranaSTas, the second version and mentions the alternative as occurring in
 "some MSS " without any explicit reference.
-
 I will defer to the true grammarians, but the exception is standard. I
 believe that the "pra" is not considered the part of the pada and hence
 does not invoke conversion rule n->N. There are some exceptions to the "non
 conversion" listed.
-
-
->
-> 2)  Verse 18.43
-> Belvalkar (1962 edition) reads ...kSattrakarma...
-> J.A.B. van Buitenen reads      ...kSatrakarma...
->
-> Is this the same situation as the previous discussion on patra/pattra
-> and if so, is kSattra etymological or phonological?
->
-
 Again, my copy only has kSatrakarma and the only other variant listed is a
 kSatrakaM karma (pardon me if I am mixing conventions, but I am more
 comfortable with ITRANS). There is a long list of manuscripts using this. I
 believe the kSattra variation belongs to the earlier discussions about the
 double t.
-
->
-> 3) verse 15.5
-> Belvalkar reads    ...gacchantymUdA...
-> van Buitenen and all other editions at hand read ...gacchantymUdAH...
-> Misprint in Belvalkar?
->
-
 This time, I am confused about the notation. It appears that the only
 difference is the visarga at the end and my edition does have it without
 any additional comments. So, it is most likely a  misprint in your edition!
-
 About the transliteration convention, should it be gacchantyamUDhAH ? I
 mean should there be an "a" after the "y" and the "d" replaced by "Dh" to
 conform to devnagari? Pardon my ignorance about the HK notation.
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/19990227/c081ca35/attachment.htm>
-

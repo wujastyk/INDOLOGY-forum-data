@@ -1,12 +1,5 @@
-From kellner at asia-europe.uni-heidelberg.de  Thu Sep 25 09:33:25 2014
-From: kellner at asia-europe.uni-heidelberg.de (Birgit Kellner)
-Date: Thu, 25 Sep 14 11:33:25 +0200
-Subject: [INDOLOGY] text memorization
-In-Reply-To: <CAKA8X43uz5VvmhdD495tTi6hiWU7p+E3p5acUa2ELAueBt=nSA@mail.gmail.com>
-Message-ID: <5423E165.9080109@asia-europe.uni-heidelberg.de>
-
+[INDOLOGY] text memorization
 An interesting first-hand report is given in:
-
 @Article{Gerow_Edwin_2002_5701,
    Title                    = {Primary Education in Sanskrit: Methods 
 and Goals},
@@ -16,29 +9,9 @@ and Goals},
    Pages                    = {661-690},
    Volume                   = {122 (4)},
 }
-
 With best regards,
-
 Birgit Kellner
-
 Am 25.09.2014 um 10:00 schrieb James Hartzell:
-> Dear colleagues
->
-> Might someone have handy some references on the practice of memorization
-> in the Sanskrit (and Tibetan) traditions?  I know memorizing texts is a
-> basic part of, for instance, traditional medical education,
-> jyotishastra, etc.  What I am looking for are good published studies
-> describing these practices (pdf's would be a bonus).
->
-> Cheers,
->
-> James Hartzell, PhD
-> Center for Mind/Brain Sciences (CIMeC)
-> The University of Trento, Italy
-
-
--- 
-----------
 Prof. Dr. Birgit Kellner
 Chair of Buddhist Studies
 Cluster of Excellence "Asia and Europe in a Global Context - The 
@@ -49,8 +22,3 @@ Vo?stra?e 2, Building 4400
 D-69115 Heidelberg
 Phone: +49(0)6221 - 54 4301 (Office Ina Chebbi: 4363)
 Fax: +49(0)6221 - 54 4012
-
-
-
-
-

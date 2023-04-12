@@ -1,29 +1,14 @@
-From birgit.kellner at UNIVIE.AC.AT  Tue Mar  4 14:49:53 2003
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Tue, 04 Mar 03 15:49:53 +0100
-Subject: Summary: XML/TEI-Sanskrit texts, anyone?
-In-Reply-To: <v04011716ba87d3c7a67e@[10.0.1.20]>
-Message-ID: <161227072456.23782.1652101005289633086.generated@prod2.harmonylists.io>
-
+Summary: XML/TEI-Sanskrit texts, anyone?
 Dear all,
-
 here is a summary of all the information I received to my query about 
 XML/TEI-based Sanskrit texts. Many thanks to everyone who answered!
-
 Best regards,
-
 Birgit Kellner
-
-------------------------------------------------
-
 I) Software information
-
 TBook, see http://tbookdtd.sourceforge.net/
 TBook can generate high quality LaTeX, HTML, XHTML, and DocBook output
 from a single UTF8 XML source file. It does not use TEI guidelines. 
 (Information from Richard Mahoney)
-
-
 II) Technical documentation and useful literature
 1) Tibetan and Himalayan Digital Library. The technologies used at the THDL 
 are documented here: 
@@ -31,7 +16,6 @@ http://iris.lib.virginia.edu/tibet/tools/technologies.html
 The ?Introduction to SGML/XML? which is offered there is very useful, 
 though it seems to consist only of the first part of a planned more 
 extensive documentation.
-
 2) E-Textnology and Vedic Research, by John Robert Gardner: 
 http://users.primushost.com/~india/ejvs/ejvs0601/ejvs0601.html
 Supplementary files:
@@ -41,24 +25,15 @@ ip
 MAC: 
 http://users.primushost.com/~india/ejvs/ejvs0601/ejvs_supplementary_files.s
 it
-
-
 III) Actual texts encoded in TEI/XML
 1) Bhatta Narayanas Venisamhara (Yves Codet): 
 http://www.ucl.ac.uk/~ucgadkw/xml/venisamhara/venisamhara.xml
-
 2) Peter M. Scharf and Malcolm D. Hyman are converting the text of the 
 Sanskrit Library (http://sanskritlibrary.org/) into XML, including 
 Ramopakhyana, Visnupurana Amsa 4, Purnabhadra's Pancatantra, Panini's 
 Astadhyayi, Nirukta, etc. Whitney?s ?Roots? will also be made available 
 soon.
-
-
 IV) Further information
 Veeranarayan Pandurangi informs about a friend of his in Tirupati called 
 Srinivasa Varakhedi who worked with TEI and might be contacted at 
 srivara at india.com.
-
-
-
-

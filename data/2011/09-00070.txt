@@ -1,35 +1,8 @@
-From palaniappa at AOL.COM  Thu Sep 29 05:17:55 2011
-From: palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Thu, 29 Sep 11 01:17:55 -0400
-Subject: A query on OCR for Sanskrit or Tamil
-Message-ID: <161227093944.23782.7912436855556379672.generated@prod2.harmonylists.io>
-
-
-
+A query on OCR for Sanskrit or Tamil
 Dear Indologists,
-
-
-
 I got the following query from a friend. 
--------------------------------------------------------------------
 I saw a book on Srimad Bhagavatam which is out of print now. This book has Sanskrit slokas, Tamil transliteration and word for word meanings. Do you know if one can scan this book and convert to digital files using Optical Character Recognition? 
--------------------------------------------------------------------------
-
-
 I would appreciate any information on OCR for either Sanskrit or Tamil.
-
-
 Thanks in advance
-
-
 Regards,
 Palaniappan
-
- 
- 
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20110929/bd67a2c7/attachment.htm>
-

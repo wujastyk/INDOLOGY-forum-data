@@ -1,14 +1,3 @@
-From xadxura at GMAIL.COM  Wed May 13 19:07:53 2009
-From: xadxura at GMAIL.COM (Andrew Glass)
-Date: Wed, 13 May 09 12:07:53 -0700
-Subject: Devanagari Unicode fonts for the Mac?
-In-Reply-To: <6261D325-D9AF-45E0-8B65-F23620D8EAF8@gmail.com>
-Message-ID: <161227086174.23782.1841047512278703023.generated@prod2.harmonylists.io>
-
+Devanagari Unicode fonts for the Mac?
 This situation has not improved with CS4.
-
 Andrew
-
-
-
-

@@ -1,13 +1,6 @@
-From ralphbunker at msn.com  Sun Jul 21 03:01:07 1996
-From: ralphbunker at msn.com (Ralph Bunker)
-Date: Sun, 21 Jul 96 03:01:07 +0000
-Subject: Wikner's Sanskrit Course
-Message-ID: <161227025359.23782.7208065613072761090.generated@prod2.harmonylists.io>
-
+Wikner's Sanskrit Course
 I have downloaded Wikner's Sanskrit Course. It is a 5 Mbyte file that appears 
 to be the text of instructions that are meant to be processed by a PostScript 
 interpreter. Is the any commercial software for PCs or Macintoshes available 
 that will allow me to print it? If so what is its name?
 TIA Ralph
-
-

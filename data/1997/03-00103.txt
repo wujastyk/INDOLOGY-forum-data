@@ -1,21 +1,5 @@
-From bpj at netg.se  Fri Mar  7 15:33:12 1997
-From: bpj at netg.se (bpj at netg.se)
-Date: Fri, 07 Mar 97 17:33:12 +0200
-Subject: Korean/Tamil/Hindi (was Re: Query on var.nabheda)
-Message-ID: <161227028834.23782.3775293915503776327.generated@prod2.harmonylists.io>
-
+Korean/Tamil/Hindi (was Re: Query on var.nabheda)
 At 02:14 7.3.1997 +0000, Jacob Baltuch wrote:
->>Japanese has not only one, but two alphabetic scripts as well as a third
->>script of Chinese characters.
->
->As a matter of terminology, I think it is more standard to call
->them syllabaries, not alphabets.
->
->There may be arguments as to whether one should call Devanagari
->an alphabet or a syllabary, but I think there is none for hiragana
->and katakana: the 5 signs "ka ki ku ke ko" (say; and so on for the
->rest of the basic signs) bearing absolutely no relation to one other.
-
 Exactly. In fact script experts (and here, unlike in Indology, I dare call
 myself an expert :) regard the Japanese _kana_ syllabaries as the only
 "pure" syllabaries in use today, since graphemes sharing the same
@@ -24,18 +8,6 @@ another as they are in Indic and Ethiopian scripts. In fact the Cherokee
 syllabary is also of the "Japanese" type, and it may still be in some
 limited use, as are some recently invented syllabaries of SE Asia and
 Africa.
-
->>The Korean alphabet is very sophisticated,
->>and predates the Japanese script. It is often ascribed to an emperor of the
->>Silla Dynasty (661-935).
->
->That is news to me. I thought Hangul was introduced by king Yi Sejong in 1443.
->I wonder what the source of your information is.
->
->Maybe what you're referring to is Idu? (But Idu seems to be a lot
->*older* than what you say, and is not an alphabet, and certainly does
->not have any Indic connection)
-
 As Narayan S. Raja already pointed out the Korean (Hangul) alphabet was
 invented in the 15th ctry by a commission of scholars led by king Li Sezong
 himself. The invention is well documented. The inventors were well versed
@@ -45,7 +17,6 @@ tradition, probably by way of Tibet, since the influence from the hP'ags-pa
 /phagba/ script -- an adaptation of the Tibetan script to Monggol -- is
 obvious. (The name hP'ags-pa means "aarya", but refers to the monastic
 title of the script's inventor, rather than to its Indic ancestry.)
-
 In fact Korean script is even subphonemic and iconic, since the basic
 shapes of the consonant letters depict the vocal organs involved in their
 formation:
@@ -53,17 +24,13 @@ formation:
    (_)  /h*/    depicts the glottal opening (sarjan:iya).
     __
      |  /g/     depicts the tongue rised to the velum (ka.n.thya).
-
    |_   /n/     depicts the tongue rised to the alveoli (m:urdhya).
-
     /\  /s/     depicts the lower frontal teeth (dantya).
    ___
    |_|  /m/     depicts the opening of the mouth (o.s.thya).
-
 *Voiced breath as in Sanskrit. Now obsolete and confused with /:n/
 (guttural nasal); the obsolete sign for glottal stop, and the sign for
 voiceless /.h/ derived in turn from it, are also derived from this symbol.
-
 Other consonants are derived from these basic shapes in a regular fashion.
 Thus from |_ /n/ are derived:
                    _
@@ -73,32 +40,18 @@ Thus from |_ /n/ are derived:
 Cf. the deriv. of (_) /h/,  | /g/ and /\ /s/:
     _|       __       __       __\
    (_) /:n/,  | /kh/, /\ /dz/, /\  /ts.h/.
-
 The vowels are all derived from the three cardinal values /@, i, u/ (where
 /u/ is however unrounded, and /@/ rounded), just as in P:a.nini:
-
         . /a/   | /i/   - /u/
-
 Other vowels are derived from these, e.g.:
     _                                                _
   { . } /w/ (rounded /u/), { |. } /a/, { .| } /e/, { .| } /ui/,
   { |.| } /ai/, { .|| } /ei/.
-
 As soon as my webpage is arranged a fuller treatment (with better graphics
 :-)) will be found there!
-
 Note that transliteration of Korean isn't nearly as standardized as for
 Indic languages. Yhe one I use is adapted to ASCII and builds on the way
 complex phonemes are derived in the native script -- thus on Middle Korean
 rather than Modern phonology (as I understand it; your mileage may vary).
-
 Sarvamangalam!
-
 Philip Jonsson <bpj at netg.se>
-
-
-
-
-
-
-

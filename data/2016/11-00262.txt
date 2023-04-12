@@ -1,38 +1,19 @@
-From witzel at fas.harvard.edu  Sat Nov 19 23:30:39 2016
-From: witzel at fas.harvard.edu (Witzel, Michael)
-Date: Sat, 19 Nov 16 23:30:39 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_V=C4=81lm=C4=ABki=E2=80=99s_first_=C5=9Bloka?=
-In-Reply-To: <CAPW7aQFyVRwa0iFw2cBVrAZ9aNf9sBtjp6nMK+ZsHOGUje11PA@mail.gmail.com>
-Message-ID: <0ED5ED13-B460-457D-B006-A6647EB9EC33@fas.harvard.edu>
-
+=?utf-8?Q?Re:_[INDOLOGY]_V=C4=81lm=C4=ABki=E2=80=99s_first_=C5=9Bloka?=
 Dear Harry and All,
-
 the observations about vai (and ha)  are part of a larger paper on the Epics:
-
 MW, The Vedas and the Epics: Some Comparative Notes on Persons, Lineages, Geography, and Grammar.  In: P. Koskikallio (ed.) Epics, Khilas, and Puranas. Continuities and Ruptures. Proceedings of the Third Dubrovnik International Conference on the Sanskrit Epics and Puranas. September 2002.  Zagreb: Croatian Academy of Sciences  and  the Arts  2005: 21-80
-
 See ? 4. for a near-final version, attached.
-
 Cheers !
-
 MW
-
 On Nov 19, 2016, at 6:03 PM, Harry Spier <hspier.muktabodha at gmail.com<mailto:hspier.muktabodha at gmail.com>> wrote:
-
 Dear list members,
-
 I've just done a search of the RgVeda, Atharva Veda, Brhadaranyaka-Upanisad and Ramayana book 1 for the particle "ha"  and this agrees with what Michael Witzel said about the occurance of "vai" in Ramayana 1 showing that Ramayana book 1 language is Late Epic.
-
 In the RgVeda and Atharva veda and the Brhad-Aranyaka the particle "ha" occurs in sentence slot 2 location the majority of times and never at paada final .
-
 In Ramayana book 1 the particle "ha" occurs 47 times.  46 of these are at paada end and only 1 in the middle of a sentence.  It occurs at paada end   6 times  before (the verse David is asking about (1.2.14) and very closely after at 1.2.20
-
 Thanks,
 Harry
-
 On Sat, Nov 19, 2016 at 5:27 PM, Jesse Knutson <jknutson at hawaii.edu<mailto:jknutson at hawaii.edu>> wrote:
 Dear Friends, I think the aorist also imparts a kind of archaic/?r?a-ic feel in these kinds of contexts. It's obvious how this would be relevant for the first verse of all poetry right? And as Michael pointed out, it's not so rare in classical Sanskrit. It just comes across as a little fancy. Best,J
-
 On Sat, Nov 19, 2016 at 11:46 AM, Harry Spier <hspier.muktabodha at gmail.com<mailto:hspier.muktabodha at gmail.com>> wrote:
 In an old posting on dating the Jyotisa Vedanga
 http://list.indology.info/pipermail/indology_list.indology.info/2000-March/020863.html<https://urldefense.proofpoint.com/v2/url?u=http-3A__list.indology.info_pipermail_indology-5Flist.indology.info_2000-2DMarch_020863.html&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=fmlw1eZH5Z2z74tTPAeqveDSp3tH9X3IWLIuPyQTEEM&s=QW4E9Op7duhJZKamh8KL8VlSS9HGvgJj0NaNi_INZYA&e=>
@@ -40,88 +21,46 @@ Michael Witzel makes two observations
 1) that Ramayana book 1 has linguistic characteristics of Late Epic
 and
 2)  the difficulties in modernizing sentences in verse.
-
 Quoting from the posting:
------------------------------
 .........
-
 As I have noticed some years ago (unpublished), this is precisely a feature
 of LATE Epic. In both texts, Mbh. and Ram., [vedic vai occurs not as usual in slot 2 of a sentence but at the end of a paada] c. 13% of all cases of vai
 have this characteristic: they occur at the end. And are most common in
 Mahabharata 12, Ramayana 1 and 7.
-
 ........
-
 2. We can add: The text is composed in Epic Shloka meter which is not
 exactly a Vedic one (though we have the Vedic  Anustubh). Now, its is a
 well known fact that you cannot change arround or modernize sentences as
 easily in verse as you can in prose. Note the famous case (Lueders) of the
 old, eastern forms in stanzas of the Pali canon.
-
-------------------------------
-
 Harry Spier
-
-
-
 On Sat, Nov 19, 2016 at 3:02 PM, Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>> wrote:
 Dear David,
-
 Bob is of course best able to respond in the case of R?m?ya?a, but my impression is that the post-Vedic
 use of the aorist is not so rare as you suggest. A good example to consider is A?vagho?a, particularly in
 Saundarananda, in which he displays his virtuosity in the conjugation systems by making plentiful use of unusual
 aorist forms. In k?vya I rather doubt that this alone can be taken as evidence of antiquity. Rather, the aorist
 seems to be deliberately employed to display erudition.
-
 best,
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=fmlw1eZH5Z2z74tTPAeqveDSp3tH9X3IWLIuPyQTEEM&s=H2LC_yc7PHriZbtIoZ_aDs6xd_r1Ee1NlHovK4BSAG8&e=> (where you can change your list options or unsubscribe)
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<https://urldefense.proofpoint.com/v2/url?u=http-3A__listinfo.indology.info&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=fmlw1eZH5Z2z74tTPAeqveDSp3tH9X3IWLIuPyQTEEM&s=H2LC_yc7PHriZbtIoZ_aDs6xd_r1Ee1NlHovK4BSAG8&e=> (where you can change your list options or unsubscribe)
-
-
-
---
 Jesse Ross Knutson PhD
 Assistant Professor of Sanskrit and Bengali, Department of Indo-Pacific Languages and Literatures
 University of Hawai'i at M?noa
 461 Spalding
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20161119/a2c3a6cc/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: VedaEpic-NewFont-MW.doc
-Type: application/msword
-Size: 414208 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20161119/a2c3a6cc/attachment.doc>
-

@@ -1,14 +1,7 @@
-From AppuArchie at AOL.COM  Tue Feb 10 01:48:54 1998
-From: AppuArchie at AOL.COM (Ramalingam Shanmugalingam)
-Date: Mon, 09 Feb 98 20:48:54 -0500
-Subject: FREE Tamil Character Phonetic Dependencies Yarzhan Tamil Editor
-Message-ID: <161227035581.23782.12349088445858413119.generated@prod2.harmonylists.io>
-
+FREE Tamil Character Phonetic Dependencies Yarzhan Tamil Editor
  TAMIL WORD PROCESS MADE EASY - FREE
 247 Tamil Letters with only 26 keys of the QWERTY Keyboard.
-
 Character Phonetic Dependencies Yarzhan Thamizh Editor.
-
         Technical Solutions has developed a proprietary technology which it intends
 to license to software publishers and electronic typewriter manufacturers.
 "Character Phonetic Dependencies" allow typing in both English and certain
@@ -41,12 +34,7 @@ would implement the technology as microcode contained in integrated circuits
 (ICs) in electronic keyboards. Shan recently traveled to India to demonstrate
 the software to dignitaries and professional associations. The Yarzhan Thamizh
 Editor product received great accolades.
-
         Visit Yarzhan Thamizh Editor Home Page at URL: <http://www.tsnh.com/cpd.htm>.
         Download CPDYTE for FREE. Enjoy  simple Tamil document writing without the
 drudgery of multi key use for one single Tamil letter.
 Thanks. R. Shanmugalingam
-
-
-
-

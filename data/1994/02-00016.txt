@@ -1,9 +1,4 @@
-From cuf at aol.com  Fri Feb 11 03:12:50 1994
-From: cuf at aol.com (cuf at aol.com)
-Date: Thu, 10 Feb 94 22:12:50 -0500
-Subject: Computer & health
-Message-ID: <161227016539.23782.13190418559436072212.generated@prod2.harmonylists.io>
-
+Computer & health
 The Computer User Family (CUF) is concerned about the health problem
 associated with computers.  Video Display Terminals, emit UV and ELF
 radiation and may cause cancer, immune system irregularities, miscarriages
@@ -27,9 +22,3 @@ you.
 4. Rest occasionally during periods of intense concentration.  Closing your
 eyes helps.
 5. Turn off the VDT when not in use.
- 
-
-
-
-
-

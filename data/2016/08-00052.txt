@@ -1,36 +1,10 @@
-From nmisra at gmail.com  Sat Aug  6 20:29:54 2016
-From: nmisra at gmail.com (Nityanand Misra)
-Date: Sun, 07 Aug 16 01:59:54 +0530
-Subject: [INDOLOGY] Etymology of vetana 'wages'
-In-Reply-To: <D3CB961D.13364%drdj@austin.utexas.edu>
-Message-ID: <CAATk=rAKgQfqMhafAORSmgytOkHFThHm=cKOXsJOzRm+mLHEgA@mail.gmail.com>
-
+[INDOLOGY] Etymology of vetana 'wages'
 On 6 August 2016 at 23:56, Donald R Davis <drdj at austin.utexas.edu> wrote:
-
-> Dear Colleagues,
->
-> M.A. Mehendale, ?Some Remarks of the Language of the Original Buddhist
-> Canon,? Bulletin of the Deccan College Research Institute, Vol. 17, No. 3
-> (December 1955) suggests that the etymology of Skt. *vetana* ?wages? is "
-> *vedana* ?wealth, possessions? from /*vid* ?to find, to obtain, to give,
-> etc.? which is known since the Rgveda? (p167).
->
-> Would those of you with IE expertise kindly confirm this etymology, point
-> me elsewhere, or share your thoughts on alternative etymologies?  I have
-> not yet been able to check Mayrhofer.
->
->
->
 Sounds dubious, for how the *d* of *vid* would change to *t *when followed
 by a vowel is beyond me. Here is the authentic traditional etymology:
-
-
-
 v? gativy?ptiprajanak?ntyasanakh?dane?u (DP 1048) ? v?patibhy?? tanan (US
 3.150) ? v? + tanan ? halantyam (A 1.3.3), tasya lopa? (A 1.3.9) ? v? +
 tana ? s?rvadh?tuk?rdhadh?tukayo? (A 7.3.84) ? ve tana ? vetana.
-
-
 The U??dis?tra *v?patibhy?? tanan* (US 3.150) ordains the suffix *tanan*
 (of which only *tana* remains) from the root *v?
 gativy?ptiprajanak?ntyasanakh?dane?u*? which is used in the meanings of
@@ -38,8 +12,6 @@ gativy?ptiprajanak?ntyasanakh?dane?u*? which is used in the meanings of
 (desire), *asana* (throwing), and *kh?dana* (eating). The rule
 s?rvadh?tuk?rdhadh?tukayo? (A 7.3.84) results in the ?v?? ? ve
 transformation to get ?vetana?.
-
-
 The word occurs in Amarako?a 2.10.38, and the various commentaries on it
 may be consulted. Both the *Udgh??ana* and *Vy?khy?sudh?* commentaries cite
 US 3.150 and explain the word as *v?yate anena iti vetanam*. The form
@@ -48,9 +20,3 @@ active (*karttari*) form is *veti*. The meaning of *v?yate anena iti
 vetanam*, consequently, is ?that with which [something] is obtained is
 vetana?. Roots with the meaning ?to go? also have the meaning ?to obtain?
 as per the maxim *ye gatyarth?ste pr?ptyarth??*.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160807/bb5fb00f/attachment.htm>
-

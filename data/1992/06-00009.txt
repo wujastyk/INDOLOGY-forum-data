@@ -1,23 +1,7 @@
-From RCJ at UK.AC.CAMBRIDGE.UNIVERSITY-LIBRARY.AUTOMATION  Thu Jun  4 16:26:00 1992
-From: RCJ at UK.AC.CAMBRIDGE.UNIVERSITY-LIBRARY.AUTOMATION (RCJ at UK.AC.CAMBRIDGE.UNIVERSITY-LIBRARY.AUTOMATION)
-Date: Thu, 04 Jun 92 16:26:00 +0000
-Subject: Word Perfect / Microsoft Word
-Message-ID: <161227015369.23782.12194197612555500074.generated@prod2.harmonylists.io>
-
- 
+Word Perfect / Microsoft Word
 Status: RO
-
->WordPerfect 5.1 (DOS) supports the use of 512 screen characters
- 
 ..
- 
 And what about Microsoft Word? How are people getting enough diacritics
 for oriental languages in romanized form with Microsoft Word?
- 
 Craig Jamieson
 University of Cambridge
-
-
-
-
-

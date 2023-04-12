@@ -1,11 +1,5 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Mon Nov 14 13:27:12 1994
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Mon, 14 Nov 94 22:27:12 +0900
-Subject: Mahaabhaarata and Raamaayana available
-Message-ID: <161227017806.23782.18135995144397553644.generated@prod2.harmonylists.io>
-
+Mahaabhaarata and Raamaayana available
 Dear colleagues,
-
 I am pleased to tell you that my friend, Prof. Muneo Tokunaga
 of Kyoto University, has decided to make publicly available 
 the whole e-texts of the Mahaabhaarata and Raamaaya.na.
@@ -17,9 +11,7 @@ Since Prof. Tokunaga does not use e-mail currently, I put the
 texts at the ftp site of my university.  The address is:
 ccftp.kyoto-su.ac.jp
 The texts are located at the directories:
-
 Mahaabhaarata (in 16 files):
-
 pub/doc/sanskrit/mahabharata
  name      size(compressed)
  m01_v1.e.Z  	374419
@@ -38,9 +30,7 @@ pub/doc/sanskrit/mahabharata
  m14_v1.e.Z  	141755
  m15_v1.e.Z   	 55044
  m16-18_v1.e.Z 	32021Z
-      
 Raamaaya.na (in 7 files):
-
 pub/doc/sanskrit/ramayana
  name      size(compressed)
  nr1.e.Z   97791 
@@ -50,10 +40,8 @@ pub/doc/sanskrit/ramayana
  nr5.e.Z  144508 
  nr6.e.Z  242451 
  nr7.e.Z  137483 
-
 If you want to send message of thanks to Prof. Tokunga I am willing
 to convey.  His official address is:
-
 Prof. Muneo TOKUNAGA,
 Faculty of Lettere,
 Department of History of Indian Philosophy,
@@ -61,8 +49,6 @@ Kyoto University,
 Yoshida-honmachi,
 Sakyo-ku, Kyoto
 606 JAPAN
-
-
 Michio YANO
 Professor of Sanskrit,
 Kyoto Sangyo University,
@@ -71,9 +57,3 @@ Kita-ku, Kyoto
 603 Japan
 e-mail: yanom at cc.kyoto-su.ac.jp 
 or      yanom at ksuvx0.kyoto-su.ac.jp
- 
-
-
-
-
-

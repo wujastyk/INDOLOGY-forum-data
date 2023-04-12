@@ -1,14 +1,5 @@
-From slaje at kabelmail.de  Fri Jan 18 18:16:31 2019
-From: slaje at kabelmail.de (Walter Slaje)
-Date: Fri, 18 Jan 19 19:16:31 +0100
-Subject: [INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
-In-Reply-To: <4493E283-29C0-4F25-98EA-B3E60CB58348@inria.fr>
-Message-ID: <CALoZ1nX_g4-Qfv21-g_EDVh36YC+Krc8Xh7wieeWESq0obrc0w@mail.gmail.com>
-
+[INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
 Certainly a welcome development, but
-
-> this wonderful grammatical analysis
-
 really calls for a thorough revision before activating it. The very few
 searches I could make yielded inexplicable, in parts unbelievably wrong
 results. Anyone may see for themselves if they just test the declension of
@@ -17,12 +8,5 @@ results. Anyone may see for themselves if they just test the declension of
 Sanskrit beginners who lack grammatical training this database will do more
 harm than good. I can only warn against its use until it has seen a very
 careful revision by experts.
-
 Kind regards,
 WS
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190118/62eade34/attachment.htm>
-

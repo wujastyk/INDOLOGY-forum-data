@@ -1,24 +1,7 @@
-From athr at loc.gov  Thu Feb  8 18:46:51 1996
-From: athr at loc.gov (Allen Thrasher)
-Date: Thu, 08 Feb 96 13:46:51 -0500
-Subject: Quest for a book
-Message-ID: <161227022694.23782.16707230177021989199.generated@prod2.harmonylists.io>
-
+Quest for a book
 On Thu, 8 Feb 1996, David Magier wrote:
-
-> > I'm looking for the following book:
-> > 
-> >              ++++++++++++++++++++++++++++++++++++++++++++++++++
-> >              +        _ _   _ _                               + 
-> >              +       MUVAR TEVARAM (7 vols),                  +
-> >              +       published by the Dharmapura Adinam,      +
-> >              +       Dharmapuram, 1953-1964.                  +
-> >              +                                                + 
-> >              ++++++++++++++++++++++++++++++++++++++++++++++++++
-
 In addition to the title David Magier cites, there is also the following 
 (an updated critical ed.?):
-
 LC CARD NO:89-901361
 LC CALL NO:BL1280 .56 .T57 1988 (Orien Tam)
     TITLE: Panniru Tirumurai /
@@ -41,18 +24,13 @@ ALT TITLE: Tirumurai.
            Cuntarar.
            Makatevan, Ve.
            Muvar Tevaram.
-
 Unfortunately the Library of Congress no longer engages in international
 interlibrary loan (for financial reasons; the question is however being
 reconsidered).  However in North America at least the following libraries
 have it (those listed on OCLC): Berkeley, Chicago, New York Public, U.
 Texas at Austin, U. of Washington, U. Wisconsin, U. British Columbia. 
-
 Sincerely,
-
-
 Allen W. Thrasher
-
 Senior Reference Librarian
 Southern Asia Section
 Library of Congress
@@ -60,9 +38,3 @@ Washington, DC 20540-4744
 tel. 202-707-5600
 fax  202-707-1724
 Email: athr at loc.gov
-
-
-
-
-
-

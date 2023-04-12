@@ -1,9 +1,4 @@
-From jage at LOC.GOV  Thu Apr 27 20:30:11 2000
-From: jage at LOC.GOV (James E. Agenbroad)
-Date: Thu, 27 Apr 00 16:30:11 -0400
-Subject: RA + RI = ?
-Message-ID: <161227058108.23782.136637315983816632.generated@prod2.harmonylists.io>
-
+RA + RI = ?
                                                  Thursday, April 27, 2000
 I assume that Hester Lambert's Introduction to Devanagari (page 24) is
 correct that the RA consonant followed by the RI vowel sound is written as
@@ -18,14 +13,9 @@ combination is uncommon--it's not mentioned in ISCII, the Indian standard
 for assgining computer codes to Indian scripts--maybe because it's too
 obvious to Indians?  If I'm wrong let me know that too.
 Thank you,
-
      Regards,
           Jim Agenbroad ( jage at LOC.gov )
      The above are purely personal opinions, not necessarily the official
 views of any government or any agency of any.
 Phone: 202 707-9612; Fax: 202 707-0955; US mail: I.T.S. Dev.Gp.4, Library
 of Congress, 101 Independence Ave. SE, Washington, D.C. 20540-9334 U.S.A.
-
-
-
-

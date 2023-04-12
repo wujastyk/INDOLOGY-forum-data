@@ -1,9 +1,4 @@
-From emstern at NNI.COM  Thu Jul 23 18:58:02 1998
-From: emstern at NNI.COM (Elliot Stern)
-Date: Thu, 23 Jul 98 14:58:02 -0400
-Subject: Velthuis' Devanagari 1.5 for TeX on Macintosh
-Message-ID: <161227040993.23782.15144634335395506334.generated@prod2.harmonylists.io>
-
+Velthuis' Devanagari 1.5 for TeX on Macintosh
 Recently, I have been attempting to use Frans Velthuis DevanAgarI for TeX
 version 1.5, together with the Devanagari preprocessor for Macintosh (dated
 1 March 1997) on OzTeX 3.1 to produce a Sanskrit text edition. After
@@ -13,26 +8,21 @@ encoding to the Velthuis scheme, enter the necessary LaTeX commands,
 including commands to preserve footnotes in the previously entered version,
 and produce a text only version (no wordprocessing formats carried over
 from the Nisus source document).
-
 The results so far are not quite satisfactory. When I run the Devanagari
 preprocessor, I get error messages telling me that there are various
 illegal characters in the document (one is @A), but the preprocessor
 otherwise successfully converts the document. Searches in the source
 document fail to locate this or the other illegal characters.
-
 When I have TeX run the document produced by the preprocessor, it
 encounters problems in the text, especially in the 9 point footnotes. For
 example, there is a sequence nmU that occurs in the text in 11 point. This
 sequence appears in the preview in correct Devanagari type. In the 9 point
 footnote, however, I get an error message. The preview fails to give the
 full sequence nmU. It gives the Devanagari for mU instead.
-
 In the 11 point text, the sequence Dvi comes out as an unacceptable
 sequence of the ligature for i, D (with a virAmaH) and va.
-
 TeX sets only a little more than the first page of output from my many
 pages ofmaterial before it gives up.
-
 I hope that someone more experienced in the use of these software
 components can offfer some advice. I suspect that part of the problem may
 be that the Devanagari preprocessor for Macintosh is out of date for use
@@ -41,17 +31,10 @@ this preprocessor? Also, is it possible that my text only, Velthuis scheme
 encoded, LaTeX document has hidden formats or other hidden illegal
 characters carried over from the Nisus document that are causing some of
 the problems?
-
 Thanks in advance for any help offered on the Indology list, or through
 private communication.
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
 USA
-
 telephone: 215 747 6204
-
-
-
-

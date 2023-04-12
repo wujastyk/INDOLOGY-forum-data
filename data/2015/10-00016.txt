@@ -1,29 +1,5 @@
-From martin.gansten at pbhome.se  Mon Oct  5 08:07:06 2015
-From: martin.gansten at pbhome.se (Martin Gansten)
-Date: Mon, 05 Oct 15 10:07:06 +0200
-Subject: [INDOLOGY] Fwd: Best way to type Sanskrit in Windows?
-In-Reply-To: <CA+wUuzN3_fW+47M_C-XPy+ZiKTRExLHzCfXsdwpjnRSuuZfvBg@mail.gmail.com>
-Message-ID: <56122FAA.2030008@pbhome.se>
-
+[INDOLOGY] Fwd: Best way to type Sanskrit in Windows?
 I must say, this is very nifty. Just the sort of thing I've been waiting 
 for. Thank you!
-
 Martin Gansten
-
-
 Den 2015-10-05 kl. 05:08, skrev Martin Gluckman:
->
-> Hi Dean,
->
->
-> We've made a little app for Windows that is very easy to use if you 
-> already know IAST. [...]
->
->
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20151005/053a34b7/attachment.htm>
-

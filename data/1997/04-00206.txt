@@ -1,42 +1,28 @@
-From zydenbos at flevoland.xs4all.nl  Fri Apr 11 04:21:32 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Fri, 11 Apr 97 03:21:32 -0100
-Subject: simplified Sanskrit (was: pronunciation of sanskrit)
-Message-ID: <161227029582.23782.9726632852882255787.generated@prod2.harmonylists.io>
-
-
+simplified Sanskrit (was: pronunciation of sanskrit)
 Replies to msg 10 Apr 97: indology at liverpool.ac.uk (lfdelcanto at redestb.es)
-
  le> From: Leon Fernando Del Canto <lfdelcanto at redestb.es>
- le> Subject: pronunciation of sanskrit
-
+ le> pronunciation of sanskrit
  le> I am not sending this message to the list but if you think
  le> may be interesting you can do it.
-
 But your message came to me via the list anyway, so I will give a few points
 here.
-
  le> Namaskar Robert and thanks for your defense of spoken
  le> samskrit. I agree
  le> with you in some points, however I would like you to clarify
  le> the following ones:
-
  le> 1. Re. Latin: I would like you to know that it is still used
  le> as spoken language in some scholars circles [...]
  le> involved in Roman History, Law, language and Philosophy
  le> teaching in the European Universities mainly. For instance, [...]
  le> many of the international
  le> conferences in Roman Law are hold in Latin.
-
 This is nice to know. I did not want to go into non-Indological detail, but
 another obvious example is the Roman Catholic church, where an active use of
 Latin is still cultivated.
-
  le> 2. Re. your appreciation on > it is better to use real_
  le> Sanskrit, not
  le> the 'simplified' Hindutva-Sanskrit of the ten-day crash
  le> courses from Bangalore> it seems a bit offensive to me,
-
  le> I would appreciate very much if you can  make a more
  le> concrete critique
  le> to point the mistakes or problems you have observed in this
@@ -44,12 +30,10 @@ Latin is still cultivated.
  le> the ones are following it can improve their Samskrit
  le> knowledge, as
  le> finally we are her to improve and help each other to learn.
-
 I hope you understand that it is far from my intention to offend eager learners
 of Sanskrit in Spain, o en otra parte, who have enthusiastically attended such
 courses. (I also hope that the other list members will forgive me for a
 detailed explanation of what I find offensive about that kind of Sanskrit.)
-
 My main objections to that "simplified Sanskrit" are these: (a) the dual number
 has been discarded completely, (b) the second person has in effect also been
 discarded, because it is substituted by the stilted "bhavaan", "bhavatii" etc.
@@ -59,7 +43,6 @@ frequent combinations (e.g. ko 'pi). These are my most serious objections.
 Matters such as some of the neologisms in the vocabulary, and some examples of
 ugly grammatical usage are debatable (e.g. a sentence such as "aham idaaniim
 aagatavaan": why not the simple "aagata.h"?).
-
 You may ask why I find these matters objectionable. I have attended such a
 course in Mysore, and I have seen how the teachers claim to give their students
 access to "devabhaa.saa" - and indeed, more than wanting to use Sanskrit
@@ -70,7 +53,6 @@ pronouns, adjectives), uses second-person pronouns and verb forms, uses the
 entire range of verb forms (the various forms for expressing the past in
 different nuances have been thrown out of the simplified Sanskrit), and if the
 reader does not know the rules of sandhi, he has a big problem.
-
 All these difficulties also occur when one reads contemporary Sanskrit writing
 by authors who were educated in the traditional manner (i.e., the vast majority
 among the limited number of people who write in Sanskrit), and also when one
@@ -80,7 +62,6 @@ impoverished / modernized Sanskrit; but if the other speaker (i.e. the student
 of this neo-Sanskrit) does not know how a dual, second person, imperfect etc.
 sound, or what these look like in writing, or if he does not know that they
 exist, then I foresee difficulties in mutual comprehension.
-
 When I mention my objections to those who propagate this new Sanskrit, I always
 hear the same reply: yes, everything that I say is correct, but their aim is to
 popularize Sanskrit and to remove the general fear that learning Sanskrit is
@@ -93,7 +74,6 @@ of the students at all try to continue their study. The Hindu Seva
 Pratishthanam apparently has no intention of guiding their students further
 towards real Sanskrit - which in a way makes sense, since it appears that
 Hindutva does not really represent a genuine interest in the past.
-
 If anyone in the West wishes to learn Sanskrit without becoming a philologist,
 there are other, better methods. Apart from those which have been devised by
 academicians in the West, there is, for instance, the system which has been
@@ -103,15 +83,7 @@ _Samsk.rta.m bhaa.saamahai_ and the textbook with a title like
 _Sarala-sa.msk.rta-sara.ni.h_). One of the persons connected with that ongoing
 project has also written an article in which he points out the shortcomings of
 the HSP project.
-
 Personally, I strongly sympathize with the idea of propagating the active use
 of Sanskrit. And presumably some will argue that HSP Sanskrit is better than
 none at all. But when better alternatives exist, I think we should prefer them.
-
 - Robert Zydenbos
-
-
-
-
-
-

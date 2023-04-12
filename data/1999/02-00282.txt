@@ -1,20 +1,6 @@
-From mgansten at SBBS.SE  Thu Feb 18 18:26:04 1999
-From: mgansten at SBBS.SE (Martin Gansten)
-Date: Thu, 18 Feb 99 19:26:04 +0100
-Subject: Paishaacika Sanskrit?
-Message-ID: <161227046522.23782.16019668873097640342.generated@prod2.harmonylists.io>
-
+Paishaacika Sanskrit?
 Madhav Deshpande wrote:
-
->The term "paizaacii" is used in Prakrit grammars to refer to a specific
->form of Prakrit.  [...] Could you give more specific details of this
->work that is supposedly in Paizaacika Sanskrit?
-
 And V. Iyer wrote:
-
->Is it a habit to call Dravidian languages as Paishaaci languages
->in Sanskrit?
-
 The text in question is a naa.diigrantha called Dhruvanaa.dii. It is
 definitely in Sanskrit (of sorts), not Prakrit, and of South Indian origin.
 I haven't the text with me at the moment, but I am working on another text
@@ -27,12 +13,6 @@ the following may be mentioned:
 rarely) -mat, in words such as 'bhaagya-vihiina-vaan'
         - erroneous gender inflections, such as 'sukhii' for 'sukhinii' or
 -vaan for -vatii.
-
 Does anyone recognize these patterns?
-
 Regards,
 Martin Gansten
-
-
-
-

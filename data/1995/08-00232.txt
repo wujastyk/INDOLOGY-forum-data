@@ -1,16 +1,5 @@
-From ucgadkw at ucl.ac.uk  Fri Aug 25 11:23:00 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 25 Aug 95 11:23:00 +0000
-Subject: Encoding
-Message-ID: <161227020695.23782.8929053401702496279.generated@prod2.harmonylists.io>
-
+Encoding
 P.Friedlander at wellcome.ac.uk said:
-> 
-> Hello
-> Not only has every Devanagari font I have ever used has had a different 
-> encoding but also every Devanagari font I have seen uses a different 
-> encoding.
-
 Yes, but input encoding is, or at least should be, different from font
 encoding.  In other words, a well-designed editing or formatting program
 should insulate you from the nasty details of the underlying font
@@ -19,17 +8,8 @@ it using this, that, or the other font.  That's what John Smith has
 provided with his integration of the Jaisalmer Devanagari with TeX.  Now
 one can print one's TeX files in Velthuis or Jaisalmer, without changing
 the input file at all.  The input coding is the same for both.
-
 Unfortunately, there are not many "well-designed" text processing
 systems around that achieve this ideal of font-encoding-independence,
 especially when complex ligatures such as those in Devanagari are
 concerned.
-
 Dominik
-
- 
-
-
-
-
-

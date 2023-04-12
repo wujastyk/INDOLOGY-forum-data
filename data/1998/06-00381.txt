@@ -1,9 +1,4 @@
-From jds10 at CUS.CAM.AC.UK  Wed Jun 24 11:46:58 1998
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Wed, 24 Jun 98 12:46:58 +0100
-Subject: Feedback on CSX+
-Message-ID: <161227040244.23782.7915608039518811294.generated@prod2.harmonylists.io>
-
+Feedback on CSX+
 A couple of weeks ago I posted details of a proposed new encoding, CSX+,
 based on and almost wholly compatible with CSX, and requested feedback. I
 have received a number of comments, which I summarise below, together with
@@ -14,20 +9,17 @@ they are relatively minor: if we do, (a) we may introduce
 incompatibilities, (b) we may fail to include all the characters we want.
 Further, (c) future releases of the same programs may anyway behave
 differently (for better or for even worse).
-
 (1) B.Philip Jonsson pointed out that y-dieresis is in fact used in
 Afrikaans, and John Clews added that it is "used in French, and very
 frequently in Belgium". However, neither they nor anyone else suggested
 that it is worth retaining it in CSX+, and I continue to propose that it
 should be eliminated in favour of something more generally useful for
 Indologists.
-
 (2) Birgit Kellner remarked that (Japanese versions of) Word for Windows
 assume that character 150 is a dash, and freely introduce line-breaks
 after it. In CSX and CSX+ the character in question is u-circumflex; my
 hope would be that this is sufficiently rarely used for the problem to be
 marginal. (I have not heard of any complaints from existing CSX users.)
-
 (3) Anthony Stone reported that WordPerfect 6.1 for Windows replaces
 character 171 (a-macron-tilde) by left guillemot and character 187
 (currently r-underdieresis) by right guiullemot. (The guillemots are, I
@@ -35,32 +27,24 @@ think, used in WP's "reveal codes" mode.) He himself added that WP is
 anyway less than ideal for other reasons for dealing with Indological-type
 material; the two characters affected are relatively uncommon ones and I
 propose to leave them where they are (but see next paragraph).
-
 A change has been made in the draft standard for transliteration of Indian
 languages: it is proposed to drop r-underdieresis in favour of l-underbar.
 l-underbar already exists in CSX and CSX+ (character 215), so the
 elimination of r-underdieresis frees up one more slot (187). I propose to
 devote that slot to R-underring, which will be needed by Sanskritists
 using the standard transliteration.
-
 I am pleased -- and surprised -- to find that CSX+ now contains capital
 versions of all the characters that are at all likely to require them. At
 least, I *think* it does!
-
 A revised definition file for the whole CSX+ encoding is attached. I shall
 allow a few days for final comments to come in; after that a set of fonts
 implementing the new encoding will be built, and an announcement will
 appear on both the Indology and Conv-dev mailing lists.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
 # CSX+ encoding for mkt1font and vpl2vpl
 #
 # Enhanced version of CSX (Classical Sanskrit eXtended encoding)
@@ -71,8 +55,6 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 # It also seeks to implement the (draft) ISO/TC46/SC2 standard, while
 # retaining a useful set of European accented characters and adding
 # dashes and directional double quotes.
-
-
 128	C cedilla
 129	u dieresis
 130	e acute
@@ -203,7 +185,3 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 253	M underdot
 254	h underdot
 255	H underdot
-
-
-
-

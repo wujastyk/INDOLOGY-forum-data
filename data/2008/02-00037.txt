@@ -1,59 +1,20 @@
-From r.mahoney at ICONZ.CO.NZ  Mon Feb 11 23:34:08 2008
-From: r.mahoney at ICONZ.CO.NZ (Richard Mahoney)
-Date: Tue, 12 Feb 08 12:34:08 +1300
-Subject: Buddhacarita 1,1-7 and 25-40, bibliographical hints
-In-Reply-To: <4896FEF35D359441AB2A680756941DDD0281C41F@MAIL2.mcs.usyd.edu.au>
-Message-ID: <161227081929.23782.7181565687625651016.generated@prod2.harmonylists.io>
-
+Buddhacarita 1,1-7 and 25-40, bibliographical hints
 Dear Mark,
-
 On Tue, 2008-02-12 at 11:55, Mark Allon wrote:
-> Dear Richard,
-> 
-> >
-> >I've just found that courtesy of the National Institute of Informatics
-> >an open access version of this article can be downloaded from here:
-> >
-> >http://ci.nii.ac.jp/cinii/servlet/QuotDisp?LOCALID=ART0007450706&DB=NELS&USELA
-> >NG=en
-> >
-> >Kind regards,
-> > Richard
-> 
-> Thanks for the link to this useful resource. Unless I missed them, a
->  quick search showed that several Japanese Buddhist Studies/Indology
->  journals were not listed:
-> 
-> Buddhist Studies (Bukky? Kenky?)
-> Journal of the International College for Advanced Buddhist Studies
-> Nagoya Studies in Indian Culture and Buddhism
-> 
-> Is there a site that lists all Japanese Buddhist Studies/Indology
->  journals and their access status?
-
 I have recently tried to put together such a beast, though with a wider
 coverage - Indica et Buddhica Tabulae. An overview of the periodicals
 included can be found with the Site Map:
-
  http://tabulae.indica-et-buddhica.org/plan.php3
-
 Here you should find a link to material on the `Journal of the
 International College for Advanced Buddhist Studies' (the whole run now
 seems to be open access).
-
 Its early days. More material definitely needs to be added as digital
 journals gradually appear on the web. Nothing yet -- so far as I can
 tell -- for the first and last on your list, though if others know more
 I would be delighted to receive the URLs so that they can be included.
 Ditto for other periodicals omitted. 
-
-
 Kind regards,
-
  Richard
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 27 482 9986
@@ -62,7 +23,3 @@ OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 Indica et Buddhica: Materials for Indology and Buddhology
 Scholia: http://scholia.indica-et-buddhica.org/
 Tabulae: http://tabulae.indica-et-buddhica.org/
-
-
-
-

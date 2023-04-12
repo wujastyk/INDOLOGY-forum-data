@@ -1,87 +1,27 @@
-From christophe.vielle at uclouvain.be  Tue Feb 10 16:03:21 2015
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Tue, 10 Feb 15 17:03:21 +0100
-Subject: [INDOLOGY] Two findings related to the history of chess/caturanga
-In-Reply-To: <9F2E1483-91B6-40A0-A500-8D756F753978@uclouvain.be>
-Message-ID: <53C5BDFC-6704-4AB7-9C3A-39E421E40F9F@uclouvain.be>
-
+[INDOLOGY] Two findings related to the history of chess/caturanga
 Dear List,
-
 I am glad to inform you that
-
 1?) the "shatranj" and Kerala catura?ga moving of the elephant is well represented in the 9th c. Rudra?a?s K?vy?la?k?ra 5.16, which citra I propose to understand like this (sorry for the squares) :
-
 ye      n?      n?      dh?     n?      v?      dh?     r?
-
 A1      B9      B18   C26    B3     D11    C20    E28
-
 n?      dh?      v?     r?       dh?     r?       r?       jan
-
 B5      C13     D22   E30    C7     E15     E24    F32
-
 ki?     n?      n?      ?a?   n?      ka?    ?a?   te
-
 A17     B25    B2      C10   B19    D27    C4     E12
-
 n?       ?a?    ka?    te      ?am    te       te       ja?
-
 B21     C29     D6      E14    C23   E31     E8     F16
-
-
 contra Jacobi (1896), Macdonell (JRAS 1898) or Rajendran (1998), but taking into account the "non-chess" understanding of the stanza by Gerow's Glossary of Indian figures of Speech (1971, pp. 180-181) and Lienhard's Classical Poetry (Hist Ind Lit vol. 3,  pp. 144-145), two references kindly drawn to my attention by Alesandro Battistini (Un. La Sapienza, Roma).
-
 2?) Alessandro Battistini has himself found another 9th citra of the horse-moving (in addition to Rudra?a?s K?vy?la?k?ra 5.15 one) : it is Ratn?kara's Haravijaya (*) 43.145-146. I quote him:
-
  If you construct 145 in this way (I give the correct reading, contained in the footnote), you derive stanza 146 (the so called prast?ra, derived stanza) by moving as a horse on the chessboard. The last syllable of 146 (sit) is left out. I have written in bold the first 4 ak?aras, in order sahas?di). Both the stanzas have their own meaning.
-
 bh?  se    ddh?   ta     tra    ta     na      n? 
 s?    di     m?      y?    da    se     vi       t?
 s?    sa    ha       sta    ta    y?     ??      nta
 s?    r?     hi        ta     sa    mi    dyu     t? 
-
 (*) http://ia700702.us.archive.org/0/items/Kavya_Mala_Series_Of_Nirnaya_Sagar_Press/KavyamalaVol_22-HaravijayaOfRajanakaRatnakara1890.pdf
-
 Best wishes,
 Christophe Vielle
-
 and thanks again to Peter Wyzlic for providing me with a copy of Rajendran's article :
-
 Le 5 f?vr. 2015 ? 15:47, Christophe Vielle <christophe.vielle at uclouvain.be> a ?crit :
-
-> Dear List,
-> 
-> I would like to confront the interpretation of C. Rajendran
-> ?Catura?ga movements described in Rudra?a?s K?vy?la?k?ra?, Adyar Library Bulletin 62 (1998), pp. 99-107 
-> with the explanation of the same passage (*) by H. Jacobi,   
-> ?Ueber zwei ?ltere Erw?hnungen des Schachspiels in der Sanskrit-Litteratur?,  Zeitschrift der Deutschen Morgenl?ndischen Gesellschaft 50 (1896), pp. 227-233 (cf. Kleine Schriften, ?d. Bernhard K?lver,Wiesbaden : Steiner, 1970, t. 1, pp. 540-546)
-> http://menadoc.bibliothek.uni-halle.de/dmg/periodical/titleinfo/62900
-> 
-> However, even C. Rajendran himself is unable to provide me with a (.pdf) copy of  his article. 
-> Would it be possible that someone has a scan of this Adyar Library Bulletin article (that I should also forward to his author).
-> Thank you in advance,
-> 
-> Best wishes,
-> 
-> Christophe Vielle
-> 
-> (*) See the 1886 ed. Kavya Mala Series vol. 2
-> http://ia700702.us.archive.org/0/items/Kavya_Mala_Series_Of_Nirnaya_Sagar_Press/KavyamalaVol_02-KavyalankaraOfRudrata1886.pdf
-> ???????????????????
-> Christophe Vielle
-> Louvain-la-Neuve
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
-
 ???????????????????
 Christophe Vielle
 Louvain-la-Neuve
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150210/e6f08147/attachment.htm>
-

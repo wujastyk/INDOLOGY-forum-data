@@ -1,20 +1,11 @@
-From caf57 at cam.ac.uk  Thu Aug  4 10:09:46 2016
-From: caf57 at cam.ac.uk (C.A. Formigatti)
-Date: Thu, 04 Aug 16 11:09:46 +0100
-Subject: [INDOLOGY] Ms colopon from Nepal, need help (Justin Fifield)
-In-Reply-To: <mailman.54.1470240013.9731.indology_list.indology.info@list.indology.info>
-Message-ID: <64be995d14810a62ba03cb0d6a8bf048@cam.ac.uk>
-
+[INDOLOGY] Ms colopon from Nepal, need help (Justin Fifield)
 Dear Justin,
-
 Maybe it's not interesting for you anymore, but I believe that the only 
 correct interpretation is the following:
-
 khacara = 9
 ?ara = 5
 ya?a = ayana = 2 (sun has two courses)
 Therefore -- 952 NS
-
 The reason is simple. Scribes of Nepalese manuscripts very often do not 
 distinguish between the nasals na and ?a, so you can easily disregard 
 this as a minor error due to the mother tongue of the scribe (it is an 
@@ -26,7 +17,6 @@ Digital Catalogue and not all colleagues agree with us.) Moreover, the
 use of avagraha is sparse in Nepalese manuscripts, and you should read 
 the passage as though it would be nep?lavar?e 'yana?arakhacare, i.e. 
 ayana?.
-
 Finally, I do not think that it is possible to date manuscripts 
 paleographically down to the decade, without having seen a very large 
 number of manuscripts and after having been able to identify a 

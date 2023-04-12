@@ -1,17 +1,4 @@
-From gldnreef at PRIMENET.COM  Mon Sep 15 19:11:33 1997
-From: gldnreef at PRIMENET.COM (Trimble)
-Date: Mon, 15 Sep 97 12:11:33 -0700
-Subject: [ADMIN] new listserv options
-Message-ID: <161227032457.23782.13436216058833172330.generated@prod2.harmonylists.io>
-
+[ADMIN] new listserv options
 At 11:04 AM 9/15/97 +0100, Dominik Wujastyk wrote:
  .  . . you can instruct listserv not to send
->you messages with a particular subject line.  In effect, you can censor
->your own subscription!
->
-
 Is "absurd nirukta" a possible subject heading?
-
-
-
-

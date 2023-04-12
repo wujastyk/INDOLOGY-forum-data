@@ -1,66 +1,31 @@
-From r.mahoney at ICONZ.CO.NZ  Sat Feb 16 03:51:40 2008
-From: r.mahoney at ICONZ.CO.NZ (Richard Mahoney)
-Date: Sat, 16 Feb 08 16:51:40 +1300
-Subject: Digital Kielhorn
-In-Reply-To: <c4c5a5430802150506l3e545686x3abd1233f393f0ce@mail.gmail.com>
-Message-ID: <161227082001.23782.303651992252872155.generated@prod2.harmonylists.io>
-
+Digital Kielhorn
 Dear Jonathan,
-
 On Sat, 2008-02-16 at 02:06, Jonathan Silk wrote:
-> I am willing to stipulate that I am not very skilled at computer things,
-> but:
-> 
-> It appears that a number of things are scanned (badly, as far as I can see)
-> on Gallica. But I cannot discover how to download other than a single page
-> at a time. It seems that a large number of issues of JA for instance are
-> available, but not articles one by one (?).
-
 Yes it's true that the original BNF Gallica interface is a little
 rudimentary. Still, it was only a start and better interfaces are here
 already. You might like to compare the Gallica and Persee versions of
 the Bulletin de l?Ecole fran?aise d?Extr?me-Orient. Links to both
 versions can be found here:
-
  http://tabulae.indica-et-buddhica.org/rubrique.php3?id_rubrique=194
-
 In my opinion the Persee interface is marvellous -- just click on a 
 page image and see what happens -- and their coverage is simply
 wonderful: 1901[1]?2003[90-91].
-
-
 BTW a number of other journals of possible interest have recently been
 added to Persee:
-
 1./ Annales. Histoire, Sciences Sociales
-
  http://tabulae.indica-et-buddhica.org/rubrique.php3?id_rubrique=375
-
 2./ L?Homme. Revue fran?aise d?anthropologie
-
  http://tabulae.indica-et-buddhica.org/rubrique.php3?id_rubrique=374
-
 3./ Cahiers de Linguistique ? Asie Orientale
-
  http://tabulae.indica-et-buddhica.org/rubrique.php3?id_rubrique=373
-
-
 Hopefully this is an indication of more to come. Certainly it all looks
 more hopeful than the closed subscription-only archives to have arisen
 of late in other parts of the world. The following indicates some of
 the changes afoot.
-
 European University Association Open Access Recommendations:
-
  https://mx2.arl.org/Lists/SPARC-OAForum/Message/4180.html
-
-
 Kind regards,
-
  Richard
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 27 482 9986
@@ -69,7 +34,3 @@ OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 Indica et Buddhica: Materials for Indology and Buddhology
 Scholia: http://scholia.indica-et-buddhica.org/
 Tabulae: http://tabulae.indica-et-buddhica.org/
-
-
-
-

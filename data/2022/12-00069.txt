@@ -1,140 +1,19 @@
-From drdhaval2785 at gmail.com  Sat Dec 17 22:36:23 2022
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sun, 18 Dec 2022 04:06:23 +0530
-Subject: [INDOLOGY] National Manuscript Mission data to be put in public
+[INDOLOGY] National Manuscript Mission data to be put in public
  domain
-In-Reply-To: <CAJ3b0o_sdw6EswBxM9kukKS93Qk8OZkJGZuTP4_qPqFojaEhXA@mail.gmail.com>
 References: <CADSGPzVWys7WBEFigTPhyah=1cou+aiF2m-NV=DVNUL37KTBGQ@mail.gmail.com>
  <CAJ3b0o9TW1iOB9mXvn2s6=SOmq4pjaz+86+KdZH_W57Syd=LiA@mail.gmail.com>
  <CADSGPzWJk=yWH8HrFmKuv9qw6-+W88aOBokNQwYBDjXJqWfmnA@mail.gmail.com>
  <CAJ3b0o_sdw6EswBxM9kukKS93Qk8OZkJGZuTP4_qPqFojaEhXA@mail.gmail.com>
-Message-ID: <CADSGPzWuppkf75YHJn6AEo6j60a_Bv0as0BreJMjb-h92RiHHQ@mail.gmail.com>
-
 On Sun, 18 Dec 2022 at 3:32 AM, Harry Spier <vasishtha.spier at gmail.com>
 wrote:
-
-> Dear Dhavalji,
-> Thank you for the update.
-> 1)  If at the end of the day, the NMM keeps ignoring the court order in
-> spite of your non-compliance complaint, is there an enforcement mechanism
-> the Indian courts can use to compel compliance?
->
-
 Yes, there is.
-
->
-> 2) I also followed your instructions and also got 27,049 records, but when
-> I accessed any one of them. There was info and a link but the link did not
-> download anything.  So I'm not sure if any manuscripts have been put in the
-> public domain.
->
-
 When you click on the link on the search page, it leads to another page
 which provides info about the specific manuscript e.g.
 https://www.bharatiyakritisampada.nic.in/manus/search-view?id=MjgzNzYy
-
 You will be able to see a link to PDF just above the heading ?Title of the
 Text?. Clicking on it will open a PDF viewer. The PDFs are not
 downloadable. See the link below:
 https://www.bharatiyakritisampada.nic.in/manus/pdf-view?content=MjgzNzYyL3BkZi9WQkkwMDAwMTIyNTVfQmFsaWTEgW5hdmlkaMSBbmFfMTc4MF9QREZBLnBkZg%253D%253D
-
 Thanks again for your great efforts.
->
-> Harry Spier
->
->
-> On Fri, Dec 16, 2022 at 8:35 PM Dhaval Patel <drdhaval2785 at gmail.com>
-> wrote:
->
->> Dear Harry and list members,
->>
->> I regret to inform that there has not been compliance to the order by
->> NMM. I have filed a non-compliance complaint. It was heard in November end.
->> Order is yet to be received.
->>
->> In the meanwhile, there seems to be certain manuscripts which are put in
->> public domain by NMM.
->> Steps:
->> 1. Visit https://www.bharatiyakritisampada.nic.in/
->> 2. Click on Digital Manuscripts.
->> 3. Search for the manuscript.
->>
->> I checked with writing only ?a? and searched with the presumption that
->> every name of title would have at least one ?a? in its spelling. It gave me
->> a response stating that there are 27,049 manuscripts matching the query. I
->> have not checked, but it seems that these many manuscripts are available in
->> digital format for viewing online. If the presumption is good, this is a
->> substantial improvement.
->>
->> With best wishes,
->> Dhaval
->>
->>
->> On Sat, 17 Dec 2022 at 6:58 AM, Harry Spier <vasishtha.spier at gmail.com>
->> wrote:
->>
->>> Dear list members,
->>> Its now over a year since Dhaval Patel informed the list that through
->>> his great efforts the NMM (National Mission for Manuscripts) was ordered by
->>> the Central Information Commission to put all the manuscripts it had
->>> photographed into the public domain.
->>>
->>> Does anyone know the current status of this.  Has the order been
->>> complied with either partially or in full.
->>>
->>> Thanks,
->>> Harry Spier
->>>
->>> Harry Spier
->>>
->>>
->>> On Mon, Nov 1, 2021 at 12:57 PM Dhaval Patel via INDOLOGY <
->>> indology at list.indology.info> wrote:
->>>
->>>> Dear scholars,
->>>>
->>>> This information may be of interest to those of you who work with
->>>> manuscripts for their research. It is regarding access of manuscripts
->>>> digitized by National Mission for Manuscripts, Government of India.
->>>>
->>>> I would like to bring it to the notice of this august gathering that my
->>>> second appeal in honourable Central Information Commission was decided on
->>>> 30.10.2021. The order is attached herewith.
->>>>
->>>> Honourable Information Commissioner Mr. Uday Mahurkar has decided this
->>>> matter with a well reasoned order.
->>>>
->>>> The order directs NMM to do two things.
->>>> 1. Put the digitized manuscripts (roughly 3 lacs) in public domain
->>>> within a period of 1 year
->>>> and
->>>> 2. Allow me access of 30000 manuscripts for downloading the same within
->>>> a period of 1 month.
->>>>
->>>> This order would surely pave the way for easier access of manuscripts
->>>> digitized by NMM to research scholars.
->>>>
->>>>  I once again pay my respects to the honourable Information
->>>> Commissioner for enabling access to this centuries old manuscript treasure
->>>> of India. I also place my appreciation on record for NMM and manuscript
->>>> repositories without whose support the manuscripts would not have been
->>>> digitized, and their digital access would have been impossible.
->>>>
->>>> Dr. Dhaval Patel
->>>>
->>>> _______________________________________________
->>>> INDOLOGY mailing list
->>>> INDOLOGY at list.indology.info
->>>> https://list.indology.info/mailman/listinfo/indology
->>>>
->>> --
->> Dr. Dhaval Patel
->> www.sanskritworld.in
->>
-> --
 Dr. Dhaval Patel
 www.sanskritworld.in
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20221218/36dee95b/attachment.htm>
-

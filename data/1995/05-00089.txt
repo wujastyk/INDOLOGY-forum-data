@@ -1,31 +1,12 @@
-From nas_ng at lms420.jsc.nasa.gov  Fri May 19 13:45:35 1995
-From: nas_ng at lms420.jsc.nasa.gov (nas_ng at lms420.jsc.nasa.gov)
-Date: Fri, 19 May 95 08:45:35 -0500
-Subject: Thirukkural on-line
-Message-ID: <161227019469.23782.1607592595650670127.generated@prod2.harmonylists.io>
-
-
-
+Thirukkural on-line
 May 19, 1995
-
 The Thirukkural is available in American English
 and Tamil from World Wide Web.
-
 For Tamil original, the WWW address is:
 http://mathsun1.math.utk.edu:8000/~siddhart/thirukkural
-
 For the American English (Hinduism Today, Hawaii) verison:
 http://uts.cc.utexas.edu/~janahan/kural/kural-body.html
 They have done a fairly good job of translation. Only
 aRattuppAl and poruTpAl are there. They leave out kAmattuppAl.
-
-
 n. ganesan
 nas_ng at lms461.jsc.nasa.gov
-
- 
-
-
-
-
-

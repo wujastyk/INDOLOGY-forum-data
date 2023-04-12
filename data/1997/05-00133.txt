@@ -1,17 +1,9 @@
-From ecl6tam at lucs-01.novell.leeds.ac.uk  Wed May 14 13:13:02 1997
-From: ecl6tam at lucs-01.novell.leeds.ac.uk (Alec McAllister)
-Date: Wed, 14 May 97 13:13:02 +0000
-Subject: Oriya Fonts
-Message-ID: <161227030235.23782.16530056685335373582.generated@prod2.harmonylists.io>
-
+Oriya Fonts
 These sites have some information about Oriya software.
-
 http://www.gy.com/www/or.htm 
 http://www.flash.net/~patelvk/Oriya.html
 http://www.knowledge.co.uk/xxx/mpcdir/products/index/oriya.htm
-
 Alec.
-
 Alec McAllister
 Arts Computing Development Officer
 Computing Service
@@ -21,8 +13,3 @@ LS2 9JT
 United Kingdom
 tel 0113 233 3573
 email: T.A.McAllister at Leeds.AC.UK
-
-
-
-
-

@@ -1,11 +1,5 @@
-From madhav.deshpande at EDU.UMICH.CC.UM  Fri Jul 10 16:57:08 1992
-From: madhav.deshpande at EDU.UMICH.CC.UM (madhav.deshpande at EDU.UMICH.CC.UM)
-Date: Fri, 10 Jul 92 12:57:08 -0400
-Subject: Some new items of information:
-Message-ID: <161227015428.23782.8109781353325212400.generated@prod2.harmonylists.io>
-
+Some new items of information:
         For those who use Macintosh computers:  I have designed a Roman
-
 diacritics postscript font called Manjushree which provides all the
 diacritics for Roman characters I could think of.  Secondly, I am also
 close to finishing work on a Devanagari font called Madhushree.  This
@@ -21,8 +15,3 @@ following book of mine:
         Medieval India.  Namarthanirnaya of Kaundabhatta.  Trans.
         and annotated by Madhav M. Deshpande.
     Madhav Deshpande
-
-
-
-
-

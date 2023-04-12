@@ -1,30 +1,20 @@
-From diegoloukota at ucla.edu  Sat Mar 24 20:19:38 2018
-From: diegoloukota at ucla.edu (DIEGO LOUKOTA SANCLEMENTE)
-Date: Sat, 24 Mar 18 15:19:38 -0500
-Subject: [INDOLOGY] Ardhamagadhi pavitthara, Sanskrit pravistara 'property'?
-Message-ID: <CAPwhWdsmOX0mG_4sN9=N9Dxc=YFnaBLKj5gV3=7DFNetQvX+Yw@mail.gmail.com>
-
+[INDOLOGY] Ardhamagadhi pavitthara, Sanskrit pravistara 'property'?
     Dear list members,
-
     Is anyone familiar with the term *pavitthara* in Ardham?gadh? or with
 its presumed Sanskrit etymon *pravistara* in the sense of 'property'? I am
 interested in understanding a recurring description of wealth in the
 *Uv?sagadas?o* that one encounters for the first time in 1.4 (1.17, etc.)
 in connection to one wealthy ??anda. The passage goes as follows in
 Hoernle's 1890 edition (p.3, lines 4-7):
-
-
 *tassa ?a? ??andassa g?h?va?ssa catt?ri hira?ako?io nih??apa?tt?o, catt?ri
 hira?ako?io va??hipa?tt?o, catt?ri hira?ako?io pavittharapa?tt?o [...]
 hotth?*
 [roughly: *atha tasya ?nandasya g?hapate? catasro hira?yako?yo
 nidh?naprayukt?? catasro hira?yako?yo v?ddhiprayukt?? catasro hira?yako?ya?
 pravistaraprayukt?? [...] abhavan*]
-
 "The householder (banker/capitalist/businessman) ?nanda had four crores of
 gold put in deposit, four crores of gold put on interest, and four crores
 of gold put into *pavittha*"
-
      In his translation, Hoernle renders *pavittha* as 'well-stocked
 estate' and invokes the following gloss from the Sanskrit commentary:
 'property consisting of treasure, grain, two-footed animals (incl.
@@ -42,13 +32,5 @@ wealth in the *M?lasarv?stiv?davinaya* and derived narrative collections,
 and that might refer to land. Land (*khetta*), however, is separately
 treated in the list of ??anda's assets in a later passage (1.19). Any help
 would be greatly appreciated!
-
     *namaskaromi*,
-
     Diego
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180324/3a28d596/attachment.htm>
-

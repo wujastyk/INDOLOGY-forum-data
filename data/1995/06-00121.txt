@@ -1,21 +1,11 @@
-From ucgadkw at ucl.ac.uk  Thu Jun 22 11:23:37 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 22 Jun 95 12:23:37 +0100
-Subject: LaTeX2e and Velthuis Devanagari
-Message-ID: <161227019779.23782.16325776119471616203.generated@prod2.harmonylists.io>
-
+LaTeX2e and Velthuis Devanagari
 There was a question here recently about using Frans Velthuis's 
 Devanagari fonts with the new LaTeX2e.  I append a zipped, uuencoded 
 file which contains the style file and font definition file that will
 do the trick.  This is still a work in progress, but it seems to work
 for me.
-
 Enjoy!
-
 Dominik
-
-
-
 begin 644 devl2e.zip
 M4$L#!!0``@`(`%53.!Y at 3ZL^L@$``'\%```(````3U0Q1$XN1D2EDUUKVS`4
 MAN\#^0_GHJ$PUL0*;=H$UU<A4"C;6,):V$91Y&/[M+9D+#EM,/[ODVPW at 76,
@@ -83,11 +73,3 @@ M``@`1E?6'ER&H]#-`0``40,```8``````````0`@`+:!?P@``')E861M95!+
 4!08``````P`#`*$```!P"@``````
 `
 end
-
-
- 
-
-
-
-
-

@@ -1,13 +1,7 @@
-From klaus.karttunen at HELSINKI.FI  Mon Mar 23 13:15:47 2009
-From: klaus.karttunen at HELSINKI.FI (Klaus Karttunen)
-Date: Mon, 23 Mar 09 15:15:47 +0200
-Subject: Translations into Sanskrit
-Message-ID: <161227085565.23782.7231055626603365363.generated@prod2.harmonylists.io>
-
+Translations into Sanskrit
 Dear colleagues,
 I have noted down following references. They hail from various  
 sources and I have not seen all of the books myself.
-
 Translations from Indian Languages:
 CAKRAVARTI, R?jagop?la: Translated from Bengal? Bankim Candra  
 Ca??op?dhy?y?s Candra?ekhar with new title as ?aivalin?.  
@@ -25,7 +19,6 @@ VARADACHARYA (or -chari), S. T. G.: wrote books in Telugu, translated
 Telugu classics into Sanskrit.
 VARMA, Vikramadeva: R?macaritam?nasa. Translated from  
 Tulas?d?sa?s Hind?. 1918.
-
 Translations from non-Indian Languages:
 AYYANGAR, M. R. Rajagopala: Sanskrit translation of the Rubaiyat of  
 Omar Khayyam. 1940.
@@ -51,7 +44,6 @@ marm?nur?pa Lembs?eler katipaya ?khy?yika anuv?dita ha?a. 2+
 212 p. Calcutta 1853 (Ch. Lamb's tales from Shakespeare).
 VARMA, R?jar?ja (1863?1918): prose translation of the Othello  
 publ. as Udd?lakacarita. 1???.
-
 And does nobody remember Cappeller?:
 CAPPELLER, Carl: "Subh??itam?lik?. Eine Auswahl von Spr?chen  
 deutscher Dichter in Sanskrit nachgebildet", Jahresbericht der  
@@ -59,7 +51,6 @@ Pfeiffer'schen Lehr- und erziehungsanstalt. Jena 1902, also in IA
 1903 and as a separate publication.
 Yavana?atakam. (Hundert Sanskrit-Strophen nach griechischen Dichter).  
 Jena 1903, also in IA 1905.
-
 Parsi Sanskrit (at least following translated from Avesta or Pahlavi):
 GEIGER, Wilhelm: habil.diss. Aogemada?c?, ein Parsentraktat in  
 P?zend, Altbaktrisch und Sanskrit. 160 p. Erlangen 1878.
@@ -67,17 +58,14 @@ JAMASP ASA, Kaikhusroo Dastur Minocher: diss. The Pahlavi-Pazend Text
 of the Aogemada?ca. MS. 1966, publ. as Aogemada?c?. A Zoroastrian  
 Liturgy. 119 p. 54 pl. SWA 397. Vienna 1982 (with facs. of Pazand,  
 Sanskrit and Gujarati versions).
-
 BHARUCHA, Ervad Sheriarji Dadabhai & M. P. KHAREGHAT, ed.: Arda- 
 Gv?r?. Ed. by E.Sh.D.Bh. with Old Gujarati version by M.P.Kh. 100 p.  
 Collected Sanskrit Writings of the Parsis 5. Bombay 1920.
-
 DHALLA, Maneckji Nusserwanji: ed. & tr. Khordah Avesta. 1. The  
 Nyaishes of Zoroastrian Litanies. Avestan Text with the Pahlavi,  
 Sanskrit, Persian and Gujarati versions. 12+235 p. Indo-Ir. Ser. 6.  
 N.Y. 1908.
 F?HRER, A.: On Khordah-Avesta Of Nery?sangh, JBRAS 16:42, 1883, ??-??.
-
 SPIEGEL, Friedrich von: Grammatik der P?rsi-Sprache nebst  
 Sprachproben. Lp. 1851 (P?zend, with several extracts from the  
 P?zend M?n?g-? Xrad with Sanskrit and German translations).
@@ -90,10 +78,8 @@ BHARUCHA, Ervad Sheriarji Dadabhai, ed.: Mainy?i Khard. Collected
 Sanskrit Writings of the Parsis 3. Bombay 1912.
 ANKLESARIA, Ervad Tehmuras Dinshaw: D?n?k-u mainy?-i Khard.  
 Pahlavi, Pazand and Sanskrit Texts. Bombay 1913.
-
 BHARUCHA, Ervad Sheriarji Dadabhai, ed.: Skanda Gumani Gujara. 101 p.  
 Collected Sanskrit Writings of the Parsis 4. Bombay 1913.
-
 SPIEGEL, Ludwig Friedrich Ernst von: ed. Neriosengh's Sanskrit- 
 Uebersetzung des Ya?na. Herausgegeben und erl?utert. 249 p. Lp. 1861.
 BURNOUF, Eug?ne: Commentaire sur le Ya?na, l'un des livres religieux  
@@ -109,49 +95,30 @@ ob??. 8, 1861 (Yasna?).
 MILLS, Lawrence Heyworth: A Study of the Five Zoroastrian G?th?s,  
 with the Zend, Pahlavi, Sanskrit, and Persian translations. 1-2.  
 1892-94.
-------            Letter on an Avesta-Sanskrit Manuscript of Yasna in  
 Oxford, AJPh 15, 1894, 120f.
-------            ?Yasna XXVIII?, Festgruss Roth 1893, ??-??.
-------            ?The Sanskrit Equivalent of Yasna XLIV?, Actes  
 di XIe Congr?s intern. des Orientalistes, Paris 1997, 1 section 1899,  
 317-326.
-------            ?The Ahuna Vairya from Yasna XXVII, 13, with its  
 Pahlavi and Sanskrit translations?, JRAS 1910, 57-68, 641-657 (ed.  
 and transl.).
-------            ?Yasna XLIV, 1-10, a study prospective a new ed.  
 of S.B.E. XXXI?, ZDMG 65, 1911, 325-335.
-------            ?Yasna XLIV, 11-20, a study re a new ed.?, ZDMG  
 66, 1912, 461-468.
-------            ?Yasna XXIX in its Sanskrit Equivalent?, Le  
 Mus?on 13, 1912, 1-26.
-------            The Yasna 29 and 31 in its Sanskrit Equivalents.  
 Oxford 1914.
-------            ?Yasna XXX?, ZDMG 68, 1914, 149-156 (in Sanskrit).
-------            ?The Yasna 31?, Le Mus?on 15, 1914?, ??-??.
-------            ?The Yasna 32, 1-8, in its Indian Equivalent?,  
 JRAS 1915, 205-211 (ed. and transl. with notes).
-------            ?The Yasna 32, 9-15, in its Indian Equivalent?,  
 JRAS 1916, 103-112 (ed. and tr. with notes) .
-------            ?The Yasna XLVIII, in its Indian Equivalent ?,  
 JBRAS 24:3 (70), 1914-16, 596-603.
-------            ?The Yasna 43, 1-6, in its Sanskrit forms?, JRAS  
 1917, 541-5??.
-------            ?The Yasna 43, 7-16, in its Sanskrit forms?,  
 JRAS 1917, 753-771.
-------            ?Yasna XLVII of the G?th? Spe?t?mainyu  
 rendered in its Sanskrit equivalents?, JRAS 1919, 15-23.
 TARAPOREWALA, Irach J. S.: "A Sanskrit version of Yasna IX", Sir  
 Asutosh Mookerjee Silver Jubilee Volumes 3:2, Calcutta 1925.
-
 UNVALA, Jamshedji Maneckji: ed. with Pehlevi and Sanskrit  
 translations: Neryosangh?s Sanskrit version of the H?m Ya?t (Yasna  
 IX-XI), with the original Avesta and its pahlavi version. Ed. &  
 transl. with notes and glossarial index. 15+199 p. Wien 1924.
-
 Bible and Christian literature, see  YOUNG, Robert Fox: "Church  
 Sanskrit: an approach of Christian scholars to Hinduism in the 19th  
 century," WZKS 23, 1979, 205-231.
-
 The New Testament of Our Lord and saviour Jesus Christ: ??varasya  
 sarvav?ky?ni. Tr. by Serampore Missionaries. 1-3. Serampore 1808-11.
 BALLANTYNE, James Robert: In Sanskrit: Genesis, chapters 1?3: The  
@@ -164,26 +131,17 @@ CAREY, William: Matthew 1-3 in his A Grammar of the Sungskrit
 Language. Serampore 1806, 895-901.
 BURRITT, Elihu: A Sanskrit Handbook for the fireside. L. 1876 (with  
 the Sanskrit transl. of the Gospel acc. to John as exercise).
-
 MILL, William Hodge: translated into Sanskrit: Christa-sa?g?ta or  
 History of Christ. Calcutta 1831, 2nd ed. 1837.
-------            The Sermon on the Mount. 183?.
-
 WENGER, John: translated many hymns and tracts into Sanskrit and  
 Bengali.
 John Muir wrote Christian and text books in Sanskrit, i.al. Indian  
 history and English geography.
-
 Klaus Karttunen, Ph.D.
 Professor of South Asian and Indoeuropean Studies
 Institute for Asian and African Studies
 PL 59 (Unioninkatu 38 B)
 00014 University of Helsinki, FINLAND
-
 Tel +358-(0)9-191 22674
   Fax +358-(0)9-191 22094
   Email Klaus.Karttunen at helsinki.fi
-
-
-
-

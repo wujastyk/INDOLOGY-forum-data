@@ -1,55 +1,32 @@
-From witzel at HUSC3.HARVARD.EDU  Tue Nov  7 06:04:42 1995
-From: witzel at HUSC3.HARVARD.EDU (witzel at HUSC3.HARVARD.EDU)
-Date: Tue, 07 Nov 95 01:04:42 -0500
-Subject: W. Doniger's Manu
-Message-ID: <161227021559.23782.14386195441950332938.generated@prod2.harmonylists.io>
-
-
-
-
-
+W. Doniger's Manu
 Since I have been put on the spot, etc. : here is translation no.3:
-
-
-
 3. The Laws of Manu (Wendy Doniger, with B.K. Smith) Penguin  1991.
-
 Leaving aside the introduction which stresses the novelty of the 
 translation ... and various well-known problems encountered in 
 translation, which, in my opinion at least, have not been solved 
 admirably (cf. the forthc. volume on Translations from Indian languages, 
 HOS, based on the 1994 conference at Harvard, organized by E. Garzilli), 
-
 I give just one example which shows both wrong (rather, lack of) 
 philological method and lack of simple common sense.
-
 Manu 8.134-135, on weights:
-
 O. : 8.134:
 "Six (white) 'mustard seeds' equal one medium-sized 'barley-corn', and 
 three 'barley-corns' make one 'berry'; five 'berries' make a 'bean', 
 sixteen 'beans' a 'gold-piece'. 135. Four 'gold-pieces' equal a 'straw'....
-
 footnote:  The 'straw' (pala) thus weighed about 1.33 ounces or 37.76 
 grams ....  might be measurements of gold, silver or copper.     <<of 
 course, tola, etc. and ratti, see note 134, still are in use!>>
-   
--- First logic or common sense: Take 3x5x16x4 (960) barley corns and 
 weigh them... and see whether they eqyal any blade of straw. Even if you 
 believe, with Herodotos, in gold digging ants and other wonders in India, 
 I haven't seen Indian (rice/barley) straw of that weight.
-
--- But we forget simple philology,
 the hand-maiden of any translation that is supposedly better than 
 Buehler's  in Victorian English and the recent partial one by Derrett, 
 etc. :
-
 The last straw is : If you check pala in the Petersburg 
 dictionary (PW) , or even in its copy, Monier Williams' dict., you see 
 that pala 'straw' is attested only with some lexicographer, who turns out 
 to be Hemacandra (according to the PW, in his AbhidhaanacintaamaNi 
 1182), that is, and theword apparently is attested only once).
-
 If you check the surrounding words, you find palaala in Manu, Mbh. 
 (and Atharvaveda: palaalii) which mean 'straw'; and palada' (AV) of 
 similar meaning.  It is clear that Hemacandra got his truncated  (hapax!) 
@@ -58,16 +35,12 @@ word pala from from the well known word for RstrawS  palaala/ii / palaada'
 weight/measure' and also 'meat'.--  
 Mayrhofer suggests an Indo-European (see: palaava "chaff,grass"), and a 
 Dravidian (Tamil: pul etc.) etymology.
-
 Common sense apart, to establish pala 'straw', D. should at least have 
 searched in texts of similar nature and time level before accepting the 
 meaning of 'straw' in Manu.
-
---  And a little less hype would also do: "a landmark translation, the 
 first authoritative translation in this century" (cover); "to offer to 
 more specialized scholars new interpretations of many difficult verses." 
 (p. lxi)   ---  I doubt it.
-
 NB: the translation is based on 2 apparently  uncritical editions with 
 7-9 commentaries (not available at Harvard). While commentators occasionally 
 provide some variant readings found at their time and in their location, 
@@ -80,18 +53,15 @@ In the present case, of course, we have the 19th century style half-way
 critical edition with many variaant readings by J. Jolly, representing the 
 Vulgate, and not Bharuci's earlier text. But these two have *not* been 
 used as the base text.
-
 Also, D. does not take real issue with BharuciUs variants. This 
 is the only OLDER  commentary we have; incidentally, at the instance 
 where I once had to check Bharuci against the oldest Manu MS ( written 
 under Govindracandra of Kanauj,c.1150 AD), the MS already followed the 
 Vulgate and not Bharuci. Good reason thus to take Bh. seriously -- and 
 his text is easily available, even in translation.
-
 In view of all of this, I wonder indeed whether D's translation would 
 have been accepted in the Harvard Oriental Series rather than in Penguin 
 (p. lxviii). 
-
 Finally, note that all 3  translations are RE-translations. Mistakes 
 of the type mentioned above could easily have been avoided if the work of 
 our 19th century predecessors (and contemporaries!) had been consulted more 
@@ -100,24 +70,7 @@ various / supposed prejudices/attitudes of their times (what about
 <<end-of->> 20th century attitudes? The critics have 5 years to go before 
 they are in for equally severe criticism of their 20th century 
 prejudices/attitudes!) 
-
 Last point: Looking at the various new translations that have appeared in 
 the past decade or so: 
-
 Why always to RE-translate something done *several* times over already 
---- and why not to take up one of the zillion UN-translated Skt. texts?
-
-
 Much more difficult of course...
-
-
-
-
-
-
- 
-
-
-
-
-

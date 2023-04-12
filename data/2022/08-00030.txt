@@ -1,32 +1,20 @@
-From LubinT at wlu.edu  Thu Aug  4 23:01:09 2022
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Thu, 4 Aug 2022 23:01:09 +0000
-Subject: [INDOLOGY] Sandhi examples in the english language
-In-Reply-To: <CAP+C9egtZNDG0u8gk-pWcJ9T8f9adkRLKq1r_VGS4GK2t5ukTg@mail.gmail.com>
+[INDOLOGY] Sandhi examples in the english language
 References: <CAJ3b0o8wciT1+CM6q-QOSL9PPu1irvmHXbNtCpJQiH6FFRn_2A@mail.gmail.com>
  <1659643275-5984867.70785639.f274K1E0w1028813@rs6162.luxsci.com>
  <CAJ3b0o_2YgampBZ3QNCCrxqhYzECJANyh3YjDqUP6G+q=d1QRg@mail.gmail.com>
  <MN2PR13MB321688215406A0C4652920C38A9F9@MN2PR13MB3216.namprd13.prod.outlook.com>
  <CH2PR11MB434494188455E9EA29F8729AA19F9@CH2PR11MB4344.namprd11.prod.outlook.com>
  <CAP+C9egtZNDG0u8gk-pWcJ9T8f9adkRLKq1r_VGS4GK2t5ukTg@mail.gmail.com>
-Message-ID: <167A4C28-A8BD-4348-A31A-32022D458E3F@wlu.edu>
-
 Dear Rein,
-
 I understand these examples not as sound changes at word boundary but as missegmentation (the sound remains the same):
-
 a napperon > an apron
-
 similarly:
 pease (archaic) reanalyzed as pea + s
-
 conversely:
 an ewt (modern: eft) > a newt
 another understood not as an + other but a + nother (!), resulting in the ubitquitous tmesis in colloquial American ?a whole nother? even though nother is never used by itself.
-
 Best,
 Tim
-
 Timothy Lubin
 Jessie Ball duPont Professor of Religion, and Adjunct Professor of Law
 Head of the Law, Justice, and Society Program
@@ -38,109 +26,40 @@ http://wlu.academia.edu/TimothyLubin<https://nam11.safelinks.protection.outlook.
 https://hcommons.org/members/lubin/
 https://ssrn.com/author=930949<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fssrn.com%2Fauthor%3D930949&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=F9JfpSkLrSfrImfMeIXPIjpUIVYIYcwfbvm8dqcxedE%3D&reserved=0>
 https://dharma.hypotheses.org/people/lubin-timothy<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdharma.hypotheses.org%2Fpeople%2Flubin-timothy&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521898628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sncUovdIh9wA0ezo8n2xpYpllaMKMetH86tMA6Jtg9A%3D&reserved=0>
-
-
-From: INDOLOGY <indology-bounces at list.indology.info> on behalf of INDOLOGY <indology at list.indology.info>
-Reply-To: Rein Ende <reinende at gmail.com>
-Date: Thursday, August 4, 2022 at 5:26 PM
-To: "mkapstei at UCHICAGO.EDU" <mkapstei at uchicago.edu>
-Cc: INDOLOGY <indology at list.indology.info>
-Subject: Re: [INDOLOGY] Sandhi examples in the english language
-
+Re: [INDOLOGY] Sandhi examples in the english language
 Sandhi in Sanskrit is an example of sound shifts at word boundaries.
 In English we have shifts such as the transformation into 'an orange' from 'a norange' from the original 'nara?ja' (Spanish from original Persian).
 Also 'an apron' from 'a napron' loaned from 'napperon' (napkin) (from French with an obviously related cognate).
 There is the example of the presumed 'Lady Mondegrain' from a hearing of a line in a poem mentioning a death, which reads "...laid him on the green..."
-
 Rein Ende
 MA, McMaster University
-
-
 On Thu, Aug 4, 2022 at 5:09 PM Matthew Kapstein via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 As an example of Sandhi in spoken English, I often used, in my classes, the Bronx pronunciation of ?did you eat yet"?:
 Jyeet Chet?
-
 Matthew
 Matthew Kapstein
 EPHE, Paris
-
 Get Outlook for iOS<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fo0ukef&data=05%7C01%7Clubint%40wlu.edu%7C14d5169f581f46e5131c08da765fec85%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637952451609753708%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rtJAOQq6WnF9%2BZO5%2F%2BND78q%2BsaZtyZDjb4tHQ%2BgHJrY%3D&reserved=0>
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Allen, Michael S (msa2b) via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
 Sent: Thursday, August 4, 2022 11:00:01 PM
-Cc: Indology List <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Sandhi examples in the english language
-
+Re: [INDOLOGY] Sandhi examples in the english language
 Dear Harry,
-
 Another example that comes immediately to mind is the indefinite article: "a" before words beginning with a consonant, "an" before words beginning with a vowel. Here the sandhi is not just a matter of pronunciation but of orthography.
-
 Best wishes,
 Michael
-
 Michael S. Allen
 Assistant Professor
 Department of Religious Studies
 University of Virginia
-
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
 Sent: Thursday, August 4, 2022 4:53 PM
-To: Howard Resnick <hr at ivs.edu<mailto:hr at ivs.edu>>
-Cc: Indology List <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Sandhi examples in the english language
-
+Re: [INDOLOGY] Sandhi examples in the english language
 Thank you all for these great replies. Howard Resnick gives an example of a spelling change for internal sandhi.  Can someone give me an example of a spelling change for word junction (external) sandhi in a non-Indian language (if such a thing exists?).
 Harry Spier
-
-
 On Thu, Aug 4, 2022 at 4:01 PM Howard Resnick <hr at ivs.edu<mailto:hr at ivs.edu>> wrote:
 English sandhi, n -> m before a labial consonant:
-
 Examples: in-justice but im-possible; in-scrutable, but im-mature.
-
 etc.
-
 Good luck,
 Howard
-
-> On Aug 4, 2022, at 12:51 PM, Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
->
-> Dear list members,
-> I need to give a brief introductory talk to english speakers, not linguistic or sanskrit students, but english speakers who chant sanskrit mantras and shlokas.
-> I thought I'd briefly talk about and give examples of:
-> 1) How sanskrit is very independent of word order.
-> 2) How sanskrit uses case endings
-> 3) How sandhi is widespread in sanskrit andi is also part of the spelling in sanskrit .
->
-> I'd like to give examples of sandhi in english to to make the concept of sandhi more clear.  The examples I know of are:
-> 1) final "s"
-> "books" pronounced as "books" but "bags" pronounced as "bagz".
-> 2) final "d"
-> "glazed" pronounced as "glaizd" but "placed" pronounced as "plaist"
->
-> It would be helpful if someone could give me other examples of sandhi in english. Not final "s" or final "d"
->
-> Also is it true that most (all?) languages have sandhi ?
->
-> Is sandhi expressed in the spelling (and not just the pronounciation) of any non-Indian languages?
->
-> Thanks,
-> Harry Spier
->
-> Thanks,
-> Harry Spier
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
-> https://list.indology.info/mailman/listinfo/indology<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Clubint%40wlu.edu%7C14d5169f581f46e5131c08da765fec85%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637952451609753708%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HyapWgaHmojMC7%2FpibgD8VHnE%2FRgZ2JZDcY4Rh%2F03YQ%3D&reserved=0>
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 https://list.indology.info/mailman/listinfo/indology<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Clubint%40wlu.edu%7C14d5169f581f46e5131c08da765fec85%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637952451609753708%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HyapWgaHmojMC7%2FpibgD8VHnE%2FRgZ2JZDcY4Rh%2F03YQ%3D&reserved=0>
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220804/b0c36fd4/attachment.htm>
-

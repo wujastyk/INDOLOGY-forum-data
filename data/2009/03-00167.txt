@@ -1,10 +1,4 @@
-From reimann at BERKELEY.EDU  Mon Mar 23 18:05:27 2009
-From: reimann at BERKELEY.EDU (Luis Gonzalez-Reimann)
-Date: Mon, 23 Mar 09 11:05:27 -0700
-Subject: Translations into Sanskrit
-In-Reply-To: <49C79F52.1010405@sas.upenn.edu>
-Message-ID: <161227085588.23782.8988282930650537957.generated@prod2.harmonylists.io>
-
+Translations into Sanskrit
 A text that should probably be included as the earliest extant 
 translation into Sanskrit (as far as I am aware). is the /YavanajAtaka/ 
 of Sphujidhvaja. It was written in the third century CE. It is 
@@ -12,14 +6,7 @@ purportedly a versified version of a prose translation of a Greek text
 on astrology composed in Hellenistic Egypt. According to David Pingree, 
 the prose translation was carried out by Yavanezvara in the second 
 century CE during the reign of the Saka ruler Rudradaman I of Ujjain.
-
 See vol 1:3 of:
-
 Pingree, David, ed. and trans. 1978. /The YavanajAtaka of Sphujidhvaja/. 
 2 vols. Harvard Oriental Series, 48. Cambridge: Harvard University Press.
-
 Luis Gonz?lez-Reimann
-
-
-
-

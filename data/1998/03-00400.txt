@@ -1,23 +1,9 @@
-From grotebev at UNI-KOELN.DE  Mon Mar 23 21:55:36 1998
-From: grotebev at UNI-KOELN.DE (Tobias Grote-Beverborg)
-Date: Mon, 23 Mar 98 22:55:36 +0100
-Subject: Cologne Tamil text corrections
-In-Reply-To: <5d706ba6.35136f0c@aol.com>
-Message-ID: <161227037044.23782.2085746452436660862.generated@prod2.harmonylists.io>
-
+Cologne Tamil text corrections
 Dear members of the list,
-
 please, allow me some explanation on the current situation at the
 Institute of Indology and Tamil Studies (IITS) at the University of
 Cologne, Germany.
-
 On Sat, 21 Mar 1998, Palaniappa wrote:
-
-> While using the Cologne University e-texts, I noticed these possible errors.
-> Since an earlier e-mail to a name listed at the web site (regarding another
-> error) went unacknowledged, and the error was not seen to be corrected, I am
-> not sure who is in charge of the maintenance of the e-text.
-
 The person in charge of the Tamil E-Text Database is Dr. Malten.
 He is doing research in India right now and won't return till end of
 april.
@@ -37,7 +23,6 @@ assured that they are saved and are very much appreciated.
 My apologies to all who didn't receive a reply to their message.
 Please, do have some patience with us and continue to support the IITS.
 Yours sincerely
-
              * * * * * * * * * * * * * * * * * *
              * Mr. Tobias Grote-Beverborg      *
              *                                 *
@@ -50,7 +35,3 @@ Yours sincerely
              * email: grotebev at uni-koeln.de    *
              *        grotebev at rocketmail.com  *
              * * * * * * * * * * * * * * * * * *
-
-
-
-

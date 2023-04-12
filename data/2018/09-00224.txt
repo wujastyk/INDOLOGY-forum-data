@@ -1,49 +1,15 @@
-From mmdesh at umich.edu  Sat Sep 15 13:36:14 2018
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Sat, 15 Sep 18 06:36:14 -0700
-Subject: [INDOLOGY] Devanagari for Marathi
-In-Reply-To: <CAPW7aQGa74zkVybsUFOcx5q9kH3hboiozcTxpufnRKxhmWjpCw@mail.gmail.com>
-Message-ID: <CAB3-dzcKEWDAD9c8mVqw6rf3mCncCXbTeW-EZ09y8BScPFSwwg@mail.gmail.com>
-
+[INDOLOGY] Devanagari for Marathi
 Dear Harry,
-
 Marathi does not use any letters like ? with an underdot.  In Marathi, the
 written letters ?, ?, ?, ? have two pronunciations each, one set of
 pronunciations matching the Sanskrit palatal sounds, while the other set
 matching the dotted letters used in Hindi.  While the native speakers have
 no problem with this, the non-native speakers often find it difficult to
 figure out which pronunciation is intended in a given word.
-
 Madhav M. Deshpande
 Professor Emeritus
 Sanskrit and Linguistics
 University of Michigan
 [Residence: Campbell, California]
-
-
 On Sat, Sep 15, 2018 at 6:32 AM Harry Spier via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear list members,
->
-> Can someone tell me if in Marathi ? (? with dot underneath)  is used for
-> the letter transliterated as za .  I've been told that in Marathi ? without
-> dot underneath is used but the ISO transliteration guide has ? (? with dot
-> underneath) for z .
->
-> Thanks,
-> Harry Spier
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180915/ce1893bd/attachment.htm>
-

@@ -1,16 +1,6 @@
-From mgansten at SBBS.SE  Sat Jan 23 19:44:00 1999
-From: mgansten at SBBS.SE (Martin Gansten)
-Date: Sat, 23 Jan 99 20:44:00 +0100
-Subject: Hindu new years day
-Message-ID: <161227045578.23782.6300084144949704726.generated@prod2.harmonylists.io>
-
->I don't know how the hindu astronmers define sakranti.
-
+Hindu new years day
 I've never heard of another definition than the ingress of a heavenly body
 (usually, as here, the sun) into a new zodiacal sign. Does anyone else know?
-
->I would think that the topics as a concept would be new.
-
 Tropical calculations were certainly known to Balabhadra, as he refers to
 them explicitly. In fact, accepting the conservative view that horoscopy and
 the zodiac entered India from Greece (which in my opinion is questionable,
@@ -22,15 +12,7 @@ northward half of the year and southward the other half. The tropics are
 simply the limits of these northern and southern courses, respectively. In
 fact, knowledge of the actual solstices and equinoxes does not require as
 sophisticated an astronomy as confusing them with zodiacal ingresses does!
-
->I wish to check.  Which text to look?
-
 A guess would be the Suryasiddhanta, though I haven't studied it in any
 detail myself.
-
 Best regards,
 Martin Gansten
-
-
-
-

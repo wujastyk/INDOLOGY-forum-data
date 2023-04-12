@@ -1,12 +1,5 @@
-From selwyn at NTLWORLD.COM  Wed Nov 26 11:49:31 2003
-From: selwyn at NTLWORLD.COM (L.S. Cousins)
-Date: Wed, 26 Nov 03 11:49:31 +0000
-Subject: formation of the name mahaasaamghika
-In-Reply-To: <p05111a00bbe9ee039761@[169.232.228.241]>
-Message-ID: <161227073520.23782.13888697954086058787.generated@prod2.harmonylists.io>
-
+formation of the name mahaasaamghika
 Jonathan,
-
 You are, I think, right that Mahaasa'nghika does not occur in any 
 extant Pali source before the Vinaya and Abhidhamma commentaries and 
 so is presumably not older as regards extant texts than forms found 
@@ -14,80 +7,35 @@ in Sanskrit. But this is largely a consequent of the paucity of
 surviving non-canonical before Buddhaghosa. The oldest Pali source 
 i.e. Diipava.msa refers to Mahaasa'ngiitika, etc. I am not sure if 
 there an older extant Sanskrit source than that.
-
 In fact, given the rather preliminary editing of most Pali 
 commentarial literature we cannot be quite sure that the above is the 
 exact form. Both y/k and .m/'n vary in the later literature; so I 
 incline to think that the underlying form is Middle Indic 
 Mah?sa.mghiya which seems overall to be supported by the inscriptions.
-
 I think Stephen is right to assume that the original name is 
 vernacular and any Sanskrit form later. If so, the form is surely 
 technically ambiguous:
-
 1. If the later component is equivalent to Sanskrit saa'nghika, this 
 appears in Pali as sa'nghika or sa.mghika (see the many occurrences 
 in the Vinayapi.taka). As you suggest, this is a perfectly normal 
 Middle Indic formation.
-
 2. If it is equivalent to mahaasa.mgha with the addition of an ika 
 suffix, then I am not sure that we should expect v.rddhi of the first 
 syllable. I incline to suppose that this would be essentially 
 optional in Middle Indian, especially in spoken forms. (In fact, I am 
 not sure that an initial maahaa- ever occurs in Pali.
-
 So we must choose between 1 and  2 on other grounds. I incline to the 
 second because it seems to be the sort of name that a nikaaya might 
 adopt faced with an active group of reformers. Also, the Diip form 
 seems to use sa'ngiiti as a calque for sa.mgha in a way which 
 supports this.
-
->I confess I am not quite sure why S Hodge wrote:
->
->>Assuming, of course, that the term is Skt in origin but surely it was used
->>in Pali etc long before it was seemingly sanskritized.
->
->
->Unless this is a code for "Middle Indic," this appears to be wrong;
->Mahaasaanghika in whatever shape it takes is not, as far as I know,
->known in old Paali (that is to say, in any stratum which could be
->considered older than known Skt sources, although the dating of much
->of this is a nightmare, as usual.).
->
->On the other hand, perhaps I should have elucidated that the term is
->known from a number of inscriptions, among which (leaving aside those
->in Kharosthi in which vowel length is not marked), the form maah-
->does not appear. (A possible exception in L?der's list 1106, from
->Kaarli, which is printed as maahaasaghiyaanam--but I have not checked
->the plates yet. Common in such inscriptional instances is the
->non-occurence of nasal before -gh-. Although not a perfect
->explanation, I wonder whether the usual short -a- in this position
->might not be due to an assumption of nasal + aspirated velar, which
->the Law of Morae would then cause to shorten the vowel. In Mathuraa
->inscriptions and others from Kaarli, this -a- is always short, but
->there is only the one (apparent) case of maahaa-
->
->I'm still puzzled.
->
->JAS
->
-
--- 
 Best Wishes,
-
 Lance
-
--------------
 From:
 L.S. Cousins, Esq.,
 12 Dynham Place,
 Headington,
 Oxford,
 OX3 7NL
-
 CURRENT EMAIL ADDRESS:
 selwyn at ntlworld.com
-
-
-
-

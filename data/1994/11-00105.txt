@@ -1,21 +1,13 @@
-From ridgeway at blackbox.hacc.washington.edu  Thu Nov 17 21:34:42 1994
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Thu, 17 Nov 94 14:34:42 -0700
-Subject: Indic etexts and Macs
-Message-ID: <161227017859.23782.9953301036279664167.generated@prod2.harmonylists.io>
-
+Indic etexts and Macs
 Good day to you all,
-
 A few people have experienced some difficulty in finding a
 way to make use of the recently available etext material
 on Macintosh computers.  There are now a few more resources
 which may be helpful.
-
 All files below are now available on blackbox.hacc.washington.edu
 All of these are in Macintosh binhex format: you must be able to unbinhex
 them on your end: if you don't know how to do this there will certainly
 be a Macintosh guru just down the hall from you who can help.
-
 /ftp/pub/indic/Tokunaga/Unzip_5.0p1.hqx  : a program to unzip zip-archives
 /ftp/pub/indic/Tokunaga/unzipmac5.0p1.cpt.hqx : the same, but will
    supporting documents, a copy of the General Public License, the source
@@ -27,13 +19,5 @@ be a Macintosh guru just down the hall from you who can help.
 /ftp/pub/indic/outlines/Washington_Greek.hqx :  
 /ftp/pub/indic/outlines/Washington_Indic.hqx : the CSX-compatible layout of 
           the Indic font.
-
 cheers,
 Tom
--- 
- 
-
-
-
-
-

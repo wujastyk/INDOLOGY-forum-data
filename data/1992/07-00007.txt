@@ -1,10 +1,4 @@
-From magier at EDU.COLUMBIA.CC.CUNIXF  Fri Jul 17 19:03:14 1992
-From: magier at EDU.COLUMBIA.CC.CUNIXF (David Magier)
-Date: Fri, 17 Jul 92 15:03:14 -0400
-Subject: Arabic/Persian/Urdu OCR
-Message-ID: <161227015437.23782.6330249336326889300.generated@prod2.harmonylists.io>
-
-
+Arabic/Persian/Urdu OCR
 Below is from an article in MacWeek (7/13/92, p.18), which appears as
 a sidebar to a major article on optical character recognition software
 for the Macintosh from CTA Inc. (25 Science Park, New Haven,
@@ -27,10 +21,7 @@ passing along below. Hope you find it as intriguing as I do).  /David
  |||  S&SE Asia, Latin America, |||    (212) 854-8046 / FAX: 212 222-0331
   \\\ Mid-East, Slavic, Africa ///
     ---------------------------        magier at cunixf.cc.columbia.edu
- 
-----------------cut here----------------------------------
 CTA makes first foray into Arabic recognition
- 
    CTA Inc. has announced a new version of its OCR software that the
 company said provides the first omnifont recognition of Arabic text.
    TextPert Arabic, available now for $1,495, recognizes documents
@@ -50,8 +41,3 @@ Apple Europe, which helped fund the project and is offering the
 product through European dealers. CTA said its contract with Apple
 stipulates that TextPert Arabic will be available exclusively on the
 Mac for an undisclosed period of time.
-
-
-
-
-

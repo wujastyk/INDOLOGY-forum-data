@@ -1,38 +1,10 @@
-From jds10 at CAM.AC.UK  Tue Jun 15 08:45:52 1999
-From: jds10 at CAM.AC.UK (John Smith)
-Date: Tue, 15 Jun 99 09:45:52 +0100
-Subject: ACII, ISCII, Unicode [was: CSX+ fonts &c]
-In-Reply-To: <l0313030db38b580c3c09@[194.109.128.34]>
-Message-ID: <161227050604.23782.18127407901054661598.generated@prod2.harmonylists.io>
-
+ACII, ISCII, Unicode [was: CSX+ fonts &c]
 On Tue, 15 Jun 1999, Jaap Pranger wrote:
-
-> ...
->
-> I venture to disagree where you say "like Unicode". The Unicode standard
-> only deals with character codes, and takes no care of the rendering.
-
 Sure. What I wrote was shorthand for "like any real-world Unicode
 implementation".
-
->
-> Context sensitive rendering will also be available through UniScribe
-> (the Windows Unicode Script Processor) in Windows NT 5.0,
-
 This was news to me. Is there any indication of when an Indian-language
 renderer might appear?
-
->
-> A few questions remain:
->
-> What is the meaning of the acronym ACII?
-
 "Alphabetic Code for Information Interchange".
-
->
-> Since ISCII is an 8-bit standard, may I conclude that the 7-bit
-> Devanagari part of ACII is a -limited- version (subset) of ISCII?
-
 No, ISCII is a 7-bit standard. The first sentence of the published
 standard (IS 13194: 1991) runs, "The ISCII code specifies a 7-bit code
 table which can be used in 7 or 8-bit ISO compatible environment." Also
@@ -41,15 +13,8 @@ Brahmi-derived Indian script. It is quite an experience to see an aged
 MS-DOS computer effortlessly "converting" an on-screen piece of Indian
 text into script after script using CDAC's old product ALP (now available
 as ALPP -- ALP Personal -- for free download from their website).
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

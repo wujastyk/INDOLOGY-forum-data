@@ -1,11 +1,5 @@
-From ORACLE at wl.aecl.ca  Tue Nov 14 13:44:58 1995
-From: ORACLE at wl.aecl.ca (ORACLE at wl.aecl.ca)
-Date: Tue, 14 Nov 95 08:44:58 -0500
-Subject: SOFTWARE KEYBORD FOR DEVANAGARI
-Message-ID: <161227021623.23782.1949290870419065229.generated@prod2.harmonylists.io>
-
+SOFTWARE KEYBORD FOR DEVANAGARI
 Dear Jaroslav Strnad
-
 	There is program called KEYMAN3.1 that is publically available from the
 Summer Institute of Linguistics, Mexico which you can FTP and use to write 
 your own keyboard driver under Windows 3.1 and 3.11 with a very little effort.
@@ -15,12 +9,5 @@ best utility I have first hand experience with that is available in Public
 Domain, and it works. This can be FTP-ed from Internet, although I don't readily
 have their internet address. If you have difficulty in finding this address by
 tomorrow, I will find lookup the adress myself and let you know tomorrow.
-
 Regards,
 Desikachary.
- 
-
-
-
-
-

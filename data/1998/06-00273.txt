@@ -1,23 +1,10 @@
-From vsundaresan at HOTMAIL.COM  Fri Jun 19 20:14:07 1998
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Fri, 19 Jun 98 13:14:07 -0700
-Subject: Grantha characters
-Message-ID: <161227040049.23782.15821056800707716513.generated@prod2.harmonylists.io>
-
+Grantha characters
 Check the URL <http://sdlcfsn.cs.iitm.ernet.in/tidbits.html>, for
 software being developed for Grantha characters at IIT, Chennai. The
 necessary files are not available on the IIT website or at their ftp
 site, but write to <rkk at shiva.iitm.ernet.in>.
-
 As an aside, the vehement discussion about Grantha on the Tamil
 discussion list a few months ago didn't seem to know about this effort
 at IIT at all. It might be useful not to duplicate effort.
-
 Vidyasankar
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

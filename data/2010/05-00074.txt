@@ -1,87 +1,11 @@
-From ph2046 at COLUMBIA.EDU  Wed May 19 11:21:23 2010
-From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
-Date: Wed, 19 May 10 07:21:23 -0400
-Subject: wget (was: Re: Abhandlungen der K=?iso-8859-15?Q?=F6nigliche?=              n Ak ademie der Wissensch aften zu Berli)
-In-Reply-To: <AANLkTineXq36EeEhmoFDwKi-9AlyWAuHM9cSmzpQmFg3@mail.gmail.com>
-Message-ID: <161227089629.23782.6631699928047766627.generated@prod2.harmonylists.io>
-
+wget (was: Re: Abhandlungen der K=?iso-8859-15?Q?=F6nigliche?=              n Ak ademie der Wissensch aften zu Berli)
 I recommend "BatchDownload" -- a Firefox plugin.  It allows you to 
 specify a base URL and auto-increment image numbers.  It works on 
 complex URLs and allow for file renaming (necessary if the image 
 files are being served from a script). See:
-
 http://panshisoft.cn/batchdownload.htm
-
 It works on both Mac & PC platforms.
-
 Best,
-
 Paul Hackett
 Columbia University
-
-
 At 12:49 PM +0200 5/19/10, Dominik Wujastyk wrote:
->I was recently trying to help a colleague with the bash script below for
->fetching entire books from the Digital Library of India.  He had Windows, so
->we installed CygWin, in order to get bash and wget.  However, the script
->wouldn't work.
->
->I finally discovered that the essential syntax I'm using below, "for i in
->{X..Y..Z}", works with bash version 4, but not earlier.  And CygWin's bash
->is still at version 3 (so in MinGW's).
->
->When I type "bash --version", I get this:
->
->$ bash --version
->>  GNU bash, version 4.1.5(1)-release (i486-pc-linux-gnu)
->>  Copyright (C) 2009 Free Software Foundation, Inc.
->>  License GPLv3+: GNU GPL version 3 or later <
->>  http://gnu.org/licenses/gpl.html>
->>
->
->Sorry, Windows users, it looks like you'll have to wait until bash 4 gets
->into CygWin or MinGW.
->
->Best,
->Dominik
->
->2010/1/14 Dominik Wujastyk <ucgadkw at ucl.ac.uk>
->
->>  Birgit is quite right about the value of wget.  It's an amazing little
->>  tool.  I use it routinely to get books from the Digital Library of India,
->>  where texts are presented only as individual pages.
->>
->>  Until about a year ago, one could use the "-r" recursion setting of wget
->>  to fetch a whole directory-full of files in one go.  Then the DLI disabled
->>  that feature.  So now one has to issue a wget command for each page.
->>  But it's easy to do with a small bash script like this:
->>
->>  ---------- cut here -----------
->>  #!/bin/bash
->>
->>  # fetch Kapadia_Desc.Cat.Govt.Colls.MSS.BORI-Jaina
->>  # Literature and Philosophy XIX.1 Svetambara Works_1957
->>
->>  for i in {00000001..397..1}
->>         do
->>                 wget
->>  http://www.new.dli.ernet.in/data/upload/0048/903/PTIFF/$i.tif
->>         done
->>  ---------- cut here -----------
->>
->>  The magic number "371" is the number of pages in the book, which DLI tells
->>  you.  In Firefox, you can find out the directory in which a book's TIFF
->>  files live by loading a page of the book and then hitting Tools/Page Info
->>  and selecting "media".
->>
->>  Bash is the default shell in Linux; it's also available to Windows users
->>  by installing the excellent Cygwin.
->>
->>  Best,
->>  Dominik
->>
->>
-
-
-
-

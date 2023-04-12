@@ -1,83 +1,18 @@
-From adheesh at OCF.BERKELEY.EDU  Thu May 21 02:01:54 2009
-From: adheesh at OCF.BERKELEY.EDU (Adheesh Sathaye)
-Date: Wed, 20 May 09 19:01:54 -0700
-Subject: Machine-readable version of the Mahabharata and Prof. Daniel              Ingalls
-In-Reply-To: <3B1560BE-E155-4E14-B244-C00D2866D00A@berkeley.edu>
-Message-ID: <161227086346.23782.14356696001446416754.generated@prod2.harmonylists.io>
-
+Machine-readable version of the Mahabharata and Prof. Daniel              Ingalls
 Dear George et al,
-
 I imagine the Tokunaga/Smith electronic version of the MBH (http://bombay.indology.info/mahabharata/statement.html 
 ) is sufficient for most basic scholarly purposes? it contains many of  
 the supplementary ("starred")passages, though not all of the variant  
 readings, I believe.
-
 There was some controversy during its editing at BORI which others on  
 the list might be better equipped to discuss. But as of now, this e- 
 text is freely available. The Critical Edition itself is still under  
 copyright in India, and BORI still actively sells copies--so I would  
 strongly advise against scanning a graphic version without seeking  
 permission.
-
 All best wishes,
-
 Adheesh
-
-
-
-
-
-----
 Adheesh Sathaye
 Department of Asian Studies
 University of British Columbia
-
 On May 20, 2009, at 6:45 PM, George Hart wrote:
-
-> I just received the following note from Dan Ingalls, Jr., the son of  
-> Prof. Ingalls.
->
->> I recently transcribed a tape of a talk my father and I gave (a  
->> quarter of a century ago ;-), and got interested again in the topic  
->> of producing a machine-readable version of the Mahabharata.  We  
->> dropped the project back in 1980 because it seemed like a lot of  
->> work, and it wasn't clear that it made more sense to pay for  
->> technology than to pay real people who needed jobs to do the work.
->>
->> However I still have an unbound copy of the Bandarkar edition, I  
->> know some people at Google who might be willing to do the scanning  
->> (I don't know this for sure), and on todays machines the processing  
->> would not be a huge amount of work.  I think my modest Macintosh  
->> could probably do a page a second.
->>
->> My question to you is this:  Has this already been done, by hand or  
->> otherwise and, if not, is it still something that would be of  
->> value? A side-effect of reviving the project would be to dust off  
->> my tools and make them available to other workers in the field. My  
->> programs were all written in my own language (Smalltalk) that only  
->> ran on special hardware at the time, but there is now an open- 
->> source version that runs on just about every computer and operating  
->> system.
->
-> I am posting this (with Dan's permission) for comments.  My own  
-> feeling is that if Dan has an unbound copy, he could run it through  
-> a scanning machine and make available a graphic version -- surely  
-> the BORS edition of the MBh is one of the great achievements of 20th  
-> century scholarship in any field.  I don't know whether it is still  
-> under copyright.  As far as scanning it goes, I think the wiggly  
-> lines under many words would pose a problem -- and it would be  
-> almost impossible to scan the apparatus criticus, which is of course  
-> a vital part of the work.  But with Dan's fluency in smalltalk,  
-> perhaps these issues could be overcome.
->
-> For anyone interested in seeing Prof. Ingalls giving a lecture in  
-> 1980 on this project, see
->
-> http://vimeo.com/4714623
->
-> George Hart
->
-
-
-
-

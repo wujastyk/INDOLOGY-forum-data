@@ -1,20 +1,13 @@
-From vidynath at MATH.OHIO-STATE.EDU  Mon Jul 13 18:19:20 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Mon, 13 Jul 98 14:19:20 -0400
-Subject: Joshi and Roodbergen on Panini 1.4.49-51
-Message-ID: <161227040846.23782.9452612481572817684.generated@prod2.harmonylists.io>
-
+Joshi and Roodbergen on Panini 1.4.49-51
 This is tangentially related to the question of double accusatives.
 Specifically, I am perplexed by how Joshi and Roodbergen deal with
 Panini 1.4.49-51, and I will be thankful to anyone who can throw some
 light on this.
-
 According to them, ``tathaayokta.m caaniipsitam'' is about double
 accusative and ``akathita.m ca'' is a deletion rule that makes sentences
 like ``raamaaya dadaati'' correct. The argument for the latter is that
 sampradaana assumes a karman which is missing in that sentence, and we
 must use 1.4.51 to conclude that a karman present even if unexpressed.
-
 But deletion of the subject is also found: For example MS 1.6.4:
 ``agni.m vai devaa vibhaaja.m naa"saknuvan ... tam a"svena
 puurvavaahodvahan.'' Subject is typically deleted if it is an indefinite
@@ -23,7 +16,6 @@ person. We also see verbs deleted when understood from context:
 case (RV 10.168.4c) gho.saa id asya s.r.nvire, na ruupam''. I don't see
 why deletion of the understood object needs special treatment, but not
 of subject or verb.
-
 I also fail to understand their claim that the object is always
 `iipsitatama' of the agent. Surely we can talk about incidental or
 accidental occurrences. Extant Sanskrit texts may not have in-your-face
@@ -31,12 +23,10 @@ examples like ``snaatiim pa"syan "svapurii.sam am.rdnaat'', but why
 can't ``graama.m gacchan v.rk.smuulam upasarati'' refer to an
 incidental happening, with the agent not caring if he nears the
 tree-root or not?
-
 The statement that secondary object is covered by `tathaa yukta.m
 caaniipsitam' is equally puzzling: In ``bali.m vasudhaa.m yaacate'',
 I can't see why earth is connected to begging the same way as
 Bali is.
-
 I don't understand their comments about causative of passive
 (pp.144-147). According to Comrie (Ling. universals and lang. typology)
 causative of passive is not common among languages with morphological
@@ -44,7 +34,3 @@ causatives. I don't see why we should assume that Panini's Bhaa.saa had
 it, unless examples from literature support it.
 Regards
 -Nath
-
-
-
-

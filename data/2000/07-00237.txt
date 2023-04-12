@@ -1,26 +1,15 @@
-From jfitzge1 at UTK.EDU  Fri Jul 14 12:06:58 2000
-From: jfitzge1 at UTK.EDU (James L. Fitzgerald)
-Date: Fri, 14 Jul 00 08:06:58 -0400
-Subject: Sanatana Dharma
-Message-ID: <161227059906.23782.12158630007033291964.generated@prod2.harmonylists.io>
-
-> <I'm looking for early occurances of the phrase sanatana
-> dharma,
-
+Sanatana Dharma
 Here, as a place to start, is a basic, unchecked listing of the
 co-occurrences of sanaatan and dharm [both truncated to their stem-forms to
 catch all case forms] in the old kyoto files of the mbh, ram, arthazaastra,
 and various dharmasuutras & zaastras.  To supplement, I have included at the
 end the results for sanaatan in all the kyoto *.dhs [dharmasuutra] files and
 the *.ups [upaniSad] files.
-
 There may currently be more up to date versions of all these e-texts; e.g.,
 John Smith's MBh is a corrected and improved version of the MBh.  These
 lists were generated using DOS versions of the unix utility grep.
-
 Jim Fitzgerald
 University of Tennessee
-
 mbh01:001.097.0253/.tat.te.dharmam.pravakSyaami.kSaatram.raajni.sanaatanam./
 /
 mbh01:001.113.0073/.striiNaam.anugraha.karah.sa.hi.dharmah.sanaatanah.//
@@ -137,8 +126,6 @@ ram4:401801834/.bhraatur..vartasi..bhaaryaayaam..tyaktvaa..dharmam..sanaatan
 am./
 ram5:500110012/.kRte..ca..pratikartavyam..eSa..dharmah..sanaatanah./
 ram7:700800312/.naaraayaNa..na..jaaniiSe..kSatra.dharmam..sanaatanam./
-
-
 brhasp.dhz:BP1.10.032a/ saantaanika.aadisu tathaa dharma eSaaM sanaatanaH /
 brhasp.dhz:BP1.17.024b/ saantaanika.aadiSu tathaa dharma eSa sanaatanaH //
 brhasp.dhz:BP1.26.095b/ (vindet pativrataa naarii dharma eSa sanaatanaH //
@@ -149,28 +136,18 @@ narada.dhz:N18.44c/ tad raajJaapy anumantavyam eSa dharmaH sanaatanaH //
 parasa.dhz:PS2.15cd/.caturNaaM.api.varNaanaaM.eSa.dharmaH.sanaatanaH.//E
 parasa.dhz:PS3.47cd/.dvijais.tadaa.anugantavyaa.eSa.dharmaH.sanaatanaH.//E
 visnu.dhz:ViS 1.48c/ varNaanaam aazramaaNaaM ca dharmaan vada sanaatana //
-
-
 baudha.dhs:B4.1.26cd/ praNavo vyaahRtayaz ca^eva nityaM brahma sanaatanam //
-
-
 baup.ups:vipracittir, vyastih, sanaaruh, sanaatanah, sanagah,
 baup.ups:viprajitti, vyasti, sanaaru, sanaatana, sanaga, paramesthin, brahma
 baup.ups:viprajittir, vyasti, sanaaru, sanaatana, sanaga, paramesthin,
 brahman
 baup.ups:ekarsi, vipracitti, vyasti, sanaaru, sanaatana, sanaga,
 paramesthin,
-
 kathup.ups:(KathU3.16a) naaciketam[<naciketas] upaakhyaanam
 mRtyu.proktam[pra\vac] sanaatanam /
-
 kathup.ups:(KathU5.6a) hanta te idam pravaksyaami[pra\vac] guhyam brahma
 sanaatanam /
 kathup.ups:(KathU6.1a) uurdhva.muulas avaak.zaakhas[avaanc] esa azvatthah
 sanaatanah /
 maitrup.ups:tanmayas[tad.mayas] bhavati guhyam etad sanaatanam //
 (MaiU6.34k) [atm]
-
-
-
-

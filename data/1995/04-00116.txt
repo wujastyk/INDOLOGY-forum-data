@@ -1,62 +1,28 @@
-From ECL6TAM at lucs-01.novell.leeds.ac.uk  Wed Apr 26 14:00:28 1995
-From: ECL6TAM at lucs-01.novell.leeds.ac.uk (Alec McAllister)
-Date: Wed, 26 Apr 95 14:00:28 +0000
-Subject: Persian-, Arabic- & Osmaninc-fonts?
-Message-ID: <161227019258.23782.14026598171756923100.generated@prod2.harmonylists.io>
-
->Date:          Wed, 26 Apr 1995 11:56:24 BST
->Reply-to:      indology at liverpool.ac.uk
->From:          "Johannes B. Tuemmers" <ami0209 at rs1.rrz.Uni-Koeln.DE>
->To:            Members of the list <indology at liverpool.ac.uk>
->Subject:       Persian-, Arabic- & Osmaninc-fonts?
-
-
->Does anybody know about ftp-sites or addresses where one can download/order
->true-type-fonts (winword 6.0) useful for writing arabic, persian 
->and osmanic tetxts? Any help is welcome!
->Thanks,
->
->Johannes B. Tuemmers
-
+Persian-, Arabic- & Osmaninc-fonts?
 A good way to find such things is to use the World WIde Web. There 
 is a program called Archie which allows you to search for specific 
 files by name.
-
 I know of 6 Arabic and/or Persian True Type fonts on FTP archives. 
 Their names are CheeChest, Geezah, Nadeem, Pars Ziba, Sahand and 
 Baghdad. (The last one usually appears in ATM or Mac format; I have 
 converted it into TrueType format, but I have not used it, because I 
 cannot discover who owns the original copyright, or whether it was placed on 
 the archives with that person's permission.)
-
 Some of these fonts form part of utilities which allow limited 
 right-to-left typing. The names of the utilities might not be the 
 same as the names of the fonts.
-
 Try using Archie to look for these fonts, and you might well find 
 other Arabic/Persian materials in the same directories.
-
 Remember that filenames are short, so it is best to look for BAGH in 
 a filename, instead of BAGHDAD in full.
-
 You might find other fonts in Mac archives. One which might be useful 
 is the Yamada archive. The URL is:
 http://babel.uoregon.edu/Yamada/fonts.html
-
 Unfortunately, the files on this site seem to be stored only in 
 Macintosh HQX format, so even the files which are useful on PCs must 
 be downloaded and "unpacked" on a Mac.
-
 An excellent source of information about multilingual computing is 
 the Languages homepage:
 http://www.willamette.edu/~tjones/languages/WWW_Virtual_Library_Language.html
-
 (The ~ appears on my screen as a tilde.)
-
 Alec.
- 
-
-
-
-
-

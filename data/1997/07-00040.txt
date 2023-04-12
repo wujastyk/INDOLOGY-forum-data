@@ -1,24 +1,7 @@
-From GANESANS at cl.uh.edu  Mon Jul  7 14:42:56 1997
-From: GANESANS at cl.uh.edu (GANESANS at cl.uh.edu)
-Date: Mon, 07 Jul 97 08:42:56 -0600
-Subject: Sanskrit OCR
-Message-ID: <161227031434.23782.7216508461387375116.generated@prod2.harmonylists.io>
-
-
-
+Sanskrit OCR
                       Re: Sanskrit OCR
                      ******************
-
 Because Tamil has no consonant cluster letters and only 18 consonants,
 rather small, it must be easier than Devanagari OCR.
-
 Does anyone know of the state of development of Tamil OCR?
-
 N. Ganesan
-
-
-
-
-
-
-

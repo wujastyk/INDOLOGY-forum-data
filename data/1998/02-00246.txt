@@ -1,13 +1,7 @@
-From athr at LOC.GOV  Tue Feb 17 21:32:09 1998
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Tue, 17 Feb 98 16:32:09 -0500
-Subject: Chess in India
-Message-ID: <161227035771.23782.10904805016299256753.generated@prod2.harmonylists.io>
-
+Chess in India
 Some misc. references on Indian chess off FirstSearch (OCLC).  The
 Accession Number equals the OCLC number an interlibrary loan librarian
 would want.
-
 ACCESSION: 12759669
    AUTHOR: White, John Griswold, 1845-1928.
     TITLE: A manuscript giving a detailed description of chess passages in
@@ -18,9 +12,7 @@ ACCESSION: 12759669
      YEAR: 1928
  PUB TYPE: Archive/Manuscript Control
    FORMAT: 2 v.
-
  Next Record
-
 ACCESSION: 6590289
    AUTHOR: Thomas, Frederick William, 1867-1956.
     TITLE: The Indian game of chess.
@@ -30,9 +22,7 @@ ACCESSION: 6590289
    FORMAT: 271-272 p.
     NOTES: Extract from the Zeitschrift der Deutschen morgenlandischen
            gesellschaft, v. 25.
-
  Next Record
-
 ACCESSION: 5695421
    AUTHOR: Jones, William, Sir, 1746-1794.
     TITLE: Poems, consisting chiefly of translations from the Asiatick
@@ -51,9 +41,7 @@ PUBLISHER: Clarendon Press,
            Eastern nations.--On the arts, commonly called imitative.
   SUBJECT: Oriental poetry -- Translations into English.
            English poetry -- Translations from Oriental literature.
-
  Next Record
-
 ACCESSION: 5169326
    AUTHOR: Jones, William, Sir, 1746-1794.
     TITLE: The Indian game of chess,
@@ -66,9 +54,7 @@ PUBLISHER: Priv. printed for the Aungervyle society,
     NOTES: "Impression limited to 150 copies, of which this is no. 95."
            Contains also A key to "Epics of the ton," by E. M. Goldsmid.
     OTHER: Cox, Hiram.
-
  Next Record
-
 ACCESSION: 5156163
    AUTHOR: Jivanji Jamshedji Modi, 1854-1933.
     TITLE: Firdousi's version of the Indian game of chess;
@@ -81,9 +67,7 @@ PUBLISHER: Printed at the Education society's steam press,
    FORMAT: [4], 13, [1], 12 p.
   SUBJECT: Firdausi.
            Kashmir.
-
  Next Record
-
 ACCESSION: 4827442
    AUTHOR: Jones, William, Sir, 1746-1794.
     TITLE: Poems, consisting chiefly of translations from the Asiatick
@@ -105,9 +89,7 @@ PUBLISHER: Printed by W. Bowyer and J. Nichols, for N. Conant,
   SUBJECT: Oriental poetry.
            English poetry -- Translations from foreign literature.
            Oriental poetry -- History and criticism.
-
  Next Record
-
 ACCESSION: 82740
    AUTHOR: Karmarkar, S. P., 1911-
     TITLE: The Indian chess (budhibal),
@@ -118,9 +100,7 @@ ACCESSION: 82740
    FORMAT: 100 p. illus., ports. 23 cm.
     NOTES: Pages 93-100 are blank for notes.
   SUBJECT: Chess -- Variants.
-
 Also, there might be something on the subject in this recent publication:
-
 Voogt, A., ed.
 New approaches to board games.  Asian origins and future perspectives.
 Leiden : Internationa Institute for Asian Studies (IIAS)
@@ -131,10 +111,7 @@ PO Box 9515
 2300 RA
 Leiden
 The Netherlands
-
 Allen Thrasher
-
-
 Allen W. Thrasher, Ph.D,
 Senior Reference Librarian
 Southern Asia Section
@@ -146,7 +123,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732
 fax  202-707-1724
 athr at loc.gov
-
-
-
-

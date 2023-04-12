@@ -1,26 +1,14 @@
-From suvidya at WORLDNET.ATT.NET  Fri Sep 29 14:26:31 2000
-From: suvidya at WORLDNET.ATT.NET (Arun Gupta)
-Date: Fri, 29 Sep 00 15:26:31 +0100
-Subject: RAJARAM EPISODE - BLOWN OUT OF PROPORTION
-Message-ID: <161227061964.23782.817518000222612325.generated@prod2.harmonylists.io>
-
+RAJARAM EPISODE - BLOWN OUT OF PROPORTION
 Kak, Frawley and Feuerstein mention in their book that cryptological theory
 (with assumptions that they do not state in the book ) shows that for the
 Indus script, a minimum string of 20 characters is required to be able to
 demonstrate a decipherment ( I guess, "beyond reasonable doubt").
-
 I do not understand the result or the assumptions necessary to derive it.
 I imagine that their assumptions include that the language is Sanskrit-like.
 I think the results mean that an incorrect decipherment can map short
 strings to valid Sanskrit words and phrases with high probability (e.g.,
 Rajaram-Jha) and only beyond a certain string length is an incorrect
 decipherment likely to be unable to decipher the string to valid Sanskrit.
-
 With more general assumptions, I imagine an even longer text is required to
 establish a decipherment.
-
 -arun gupta
-
-
-
-

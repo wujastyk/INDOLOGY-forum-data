@@ -1,17 +1,10 @@
-From naga_ganesan at HOTMAIL.COM  Mon Dec  6 12:49:02 1999
-From: naga_ganesan at HOTMAIL.COM (N. Ganesan)
-Date: Mon, 06 Dec 99 04:49:02 -0800
-Subject: Mon-Khmer word order
-Message-ID: <161227054264.23782.15082253114169907321.generated@prod2.harmonylists.io>
-
+Mon-Khmer word order
 NG>Do the Mon-Khmer languages possess SOV or non-SOV word order?
-
 So far as I could gather, Mon-Khmer languages are *not* SOV order
 and they are verb medial languages. The SOV pattern all over India is
 a Dravidian inheritance, an important feature along with others
 forming a good bundle which Masica used to support the theory for
 the existence of a South Asian sprachbund.
-
 A.F. Sjoberg, The impact of Dravidian on Indo-Aryan: An overview,
 in E. C. Polome, W.Winter, Reconstructing languages and Cultures,
 1992, p. 516
@@ -20,19 +13,10 @@ explanation that can be offered for the dilemma stated by Masica
 (1976:183-4) regarding the nearly complete absence of structural
 features of Indian languages in Southeast Asia, an area subject to
 prolonged cultural and linguistic influence from India."
-
 Given that Mon-Khmer languages like Mon, Khmer, Vietnamese, Khmu,
 Aslian etc., does not seem to have SOV word order, did the Munda
 folks acquire the rigid verb final word order from the ancient North
 Indian Dravidian majority?
-
 Regards,
 N. Ganesan
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

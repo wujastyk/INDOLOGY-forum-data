@@ -1,9 +1,4 @@
-From aklujkar at unixg.ubc.ca  Wed Dec 15 23:03:01 1993
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Wed, 15 Dec 93 15:03:01 -0800
-Subject: PYS part 1
-Message-ID: <161227016426.23782.13453744633716690046.generated@prod2.harmonylists.io>
-
+PYS part 1
 As promised sometime ago, I am hereby making available to INDOLOGY users an
 electronic version of the text of Pata"njali'-s Yoga-suutras. 
 Since, on e-mail, sending Naagarii is still not possible and sending
@@ -20,7 +15,6 @@ Velthuis's ~n] and "s
 The guttural nasal is written: .-n, that is, dot|period hyphen n  [note the
 difference from Velthuis's "n]
 3) A da.n.da is written with a straight slash: |
-
 The footnotes of the original edition have been turned into endnotes. The
 superscript numbers indicating footnotes have been placed unraised in
 brackets after the words to which they pertain. 
@@ -32,7 +26,6 @@ quotation mark of the type that comes at thebeginning, with a hyphen in
 between: '-'. 
 The apostrophe appears as a left-side single quotation mark followed by a
 hyphen: '-.
-
 David Magier had kindly volunteered to help with the romanization of my
 Naagarii edition. However, since sending my fonts and file on a disk to him
 was the only way to avoid an extremely garbled transmission and such a
@@ -41,9 +34,7 @@ transliterations myself. I hope they are error-free.
 For those who would like to have the text in Naagarii or diacritically
 marked Roman, it can be supplied on disks. Interested individuals should
 send me US$10 (ten) to cover the expenses. 
-
 || pata"njali-viracita.m yoga-suutram ||
-
 An edition prepared by Ashok Aklujkar, Department of Asian Studies,
 University of British Columbia, Vancouver, B.C., Canada V6T 1Z2, in 1985,
 on the basis of the then available printed editions (note: not
@@ -67,10 +58,7 @@ Vivara.na: Paata"njala-Yogasuutra-bhaa.sya-vivara.nam of
 "Sa.-nkara-bhagavat-paada.  Critically edited with introduction by ....
 Polakam Sri Rama Sastri .... and S. R. Krishnamurthi Sastri. Madras:
 Government Oriental Manuscripts Library. 1952.
-
-
 prathama.h samaadhi-paada.h |
-
 atha yogaanu"saasanam ||1||
 yoga"s citta-v.rtti-nirodha.h ||2||
 tadaa dra.s.tu.h sva-ruupe '-vasthaanam ||3||
@@ -132,11 +120,8 @@ nirvicaara-vai"saaradye '-dhyaatma-prasaada.h ||47||
 "srutaanumaana-praj"naabhyaam anya-vi.sayaa [ ] vi"se.saarthatvaat ||49||
 tajja.h sa.mskaaro '-nya-sa.mskaara-pratibandhii ||50||
 tasyaapi nirodhe sarva-nirodhaan nirbiija.h samaadhi.h [ ] ||51||
-
 [iti pata"njali-viracite yoga-suutre prathama.h samaadhi-paada.h |] [ ]
-
 dvitiiya.h saadhana-paada.h |
-
 tapa.h-svaadhyaaye"svara-pra.nidhaanaani kriyaa-yoga.h ||1||
 samaadhi-bhaavanaartha.h kle"sa-tanuukara.naartha"s ca ||2||
 avidyaasmitaa-raaga-dve.saabhinive"saa.h kle"saa.h [ ] ||3||
@@ -203,12 +188,4 @@ dhaara.naasu ca yogyataa manasa.h ||53||
 sva-vi.sayaasa.mprayoge cittasya sva-ruupaanukaara [ ] ivendriyaa.naa.m
 pratyaahaara.h ||54||
 tata.h paramaa va"syatendriyaa.naam ||55||
-
 [iti pata"njali-viracite yoga-suutre dvitiiya.h saadhana-paada.h |]
-
- 
-
-
-
-
-

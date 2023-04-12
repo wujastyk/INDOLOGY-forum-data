@@ -1,23 +1,9 @@
-From Scharf at BROWN.EDU  Fri Jan 24 21:10:38 2003
-From: Scharf at BROWN.EDU (Peter M. Scharf)
-Date: Fri, 24 Jan 03 16:10:38 -0500
-Subject: OUP India
-In-Reply-To: <Pine.GSO.4.21.0301161133000.11554-100000@harper.uchicago.edu>
-Message-ID: <161227072102.23782.10491052061844659364.generated@prod2.harmonylists.io>
-
+OUP India
 Ulrich Stiehl requested that the following message be posted to the
 Indology list:
-------------------------------------------------------
 Indologists interested in Unicode and OpenType fonts
 are informed that an innovative Hybrid Open Type font
 is available by Ulrich Stiehl as of 19th January 2003.
-
 All technical details of this new font are described
 in the comprehensive 36-page manual downloadable as
-
 http://home.t-online.de/home/ulrich.stiehl/pahotman.pdf
--------------------------------------------------------
-
-
-
-

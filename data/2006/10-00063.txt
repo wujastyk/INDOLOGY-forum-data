@@ -1,40 +1,20 @@
-From mmdesh at UMICH.EDU  Sat Oct 14 14:19:00 2006
-From: mmdesh at UMICH.EDU (Deshpande, Madhav)
-Date: Sat, 14 Oct 06 10:19:00 -0400
-Subject: Grammar. Philosophy and Epistemology
-Message-ID: <161227078470.23782.3631745032548357793.generated@prod2.harmonylists.io>
-
+Grammar. Philosophy and Epistemology
 Dear colleagues,
-
 It is not clear to me if the distinctions between pazya and dRz as pointed out by Ashok are justified in view of the vedic textual evidence.  In passages like "darzam hi vizvadarzatam darzam ratham adhi kSami", "ko dadarza pratham jAyamAnam", along side with "apazyam gopAm anipadyamAnam", "apazyam grAmam vahamAnam", "apazyam tvA manasA cekitAnam" etc. there is hardly any distinction, only a complimentary distribution of pazya and dRz forms.  And for mantradRz being different from any relation to pazya, note many Brahmana/Upanishad passages describing how a certain sage produced a certain verse:  tad etat pazyan RSir uvAca, or mantreSu karmANi kavayo yAny apazyan.  There does not seem to be as contrastive a semantic distinction between pazya and dRz in these texts.  The one likely distinction that seems to guide the suppletive relationship is that while the semantics of pazya refers to an on-going process of observing/watching without a necessary conclusive moment of culmination, dRz seems to have a sense of achievement culminating a conclusive moment, compare Buddhist vipassanA/vipazyanA as a meditative process, contrasting with dassana/darzana as a conclusive moment of realization.  The pazya forms occur in imperfective semantics, while dRz seem to occur in perfective semantics.  For what it is worth, I have discussed some of this early textual evidence relating to pazya and dRz occurences and its theoretical implications in an article:  1992. "Justification for Verb-Root Suppletion in Sanskrit."  In Historische Sprachforschung (new name for the old Zeitschrift fuer vergleichende Sprachforschung), Vol. 105, Pt. 1,  pp. 18-49.  None of this precludes subsequent developments in specific religious or philosophical traditions, but that would need a separate demonstration of textual evidence.
-
-
 Madhav M. Deshpande
-
-
-
-
------Original Message-----
-From: Indology on behalf of Ashok Aklujkar
 Sent: Sat 10/14/2006 4:00 AM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: Grammar. Philosophy and Epistemology
- 
+Re: Grammar. Philosophy and Epistemology
 1. A suppletive relationship does not come about unless the meanings of the
 two roots overlap and have potential to complement each other.
-
 2. In a language naturally used, perfect synonymity is rare if not absent.
-
 3. Both pa;s (in its earlier form spa;s) and d.r;s go back to a period in
 which what we call Sanskrit is unlikely not to have a natural use (cf.
 Mayrhofer KEWA pp. II.61, 240; EWA p. I.704-706, p. II.107-108). In other
 words, the two roots must originally have similar/relatable but not
 identical meanings.
-
 4. The issue, therefore, should not be whether the two roots had different
 connotations but what those connotations were and whether we can determine
 them with reasonable certainty.
-
 5. Even if we were able to determine the connotations for the earliest
 accessible period it does not follow that the same connotations would hold
 for the later period(s). Independent or further connotation development
@@ -42,4 +22,3 @@ cannot be ruled out. (Implication: One will need to establish separately
 that words such as d.r.s.ti, dar;sana etc.connote 'vision, a seeing
 resulting from meditation, insight' AND to determine whether such a
 connotation forms a continuity with the earlier connotation.)
-

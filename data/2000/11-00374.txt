@@ -1,21 +1,12 @@
-From rbm49 at STUDENT.CANTERBURY.AC.NZ  Tue Nov 14 05:25:16 2000
-From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Richard B. Mahoney)
-Date: Tue, 14 Nov 00 18:25:16 +1300
-Subject: Dutt, Ghosa, Lefmann & Levi.
-Message-ID: <161227064176.23782.3602403297821935172.generated@prod2.harmonylists.io>
-
+Dutt, Ghosa, Lefmann & Levi.
 Dear Readers,
-
 I am having trouble tracking down the following editions. It seems our
 interloans dept. is loath to make the first approach to any but a
 select number of local and North American libraries. A bit frustrating
 really.
-
 If any readers know of the availability -- either for copying, for
 loan, or for sale -- of any of these four editions I would be very
 grateful if they could mail me.
-
-
 @Book{dutt,
   editor =       "N. Dutt",
   title =        "Pa\~{n}cavi\d{m}\'{s}ati \'{s}atas\={a}hasrik\={a}
@@ -27,7 +18,6 @@ grateful if they could mail me.
   note =         "ed. of incompl. Skt. text",
   series =       "Calcutta Oriental Series",
 }
-
 @Book{ghosa,
   editor =       "P. Ghosa",
   title =        "\'{S}atas\={a}hasrik\={a}
@@ -39,7 +29,6 @@ grateful if they could mail me.
   address =      "Calcutta",
   note =         "Nos. 146--148, ed. of incompl. text",
 }
-
 @Book{lefmann,
   editor =       "S. Lefmann",
   title =        "Lalitavistara",
@@ -49,7 +38,6 @@ grateful if they could mail me.
   key =          "lefmann:1908",
   note =         "ed. of compl. Skt. text",
 }
-
 @Book{levi,
   editor =       "S. L\'{e}vi",
   title =        "Mah\={a}y\={a}nas\={u}tr\={a}la\d{m}k\={a}ra",
@@ -62,20 +50,10 @@ grateful if they could mail me.
   address =      "Paris",
   note =         "ed. of compl. Skt. text",
 }
-
 Many regards,
-
  Richard Mahoney
-
-
---
 ======================================================================
 Richard Mahoney            /^^^\             Telephone: +64-3-351-5831
 78 Jeffreys Rd           (| , , |)
 Christchurch              |  *  |
 NEW ZEALAND                \_-_/     mailto:rbm49 at csc.canterbury.ac.nz
-----------------------------------------------------------------------
-
-
-
-

@@ -1,16 +1,9 @@
-From rublee at mv.us.adobe.com  Tue Jun 22 21:58:48 1993
-From: rublee at mv.us.adobe.com (Craig Rublee)
-Date: Tue, 22 Jun 93 14:58:48 -0700
-Subject: ManjushreeCSX font for Romanized Sanskrit on Windows 3.1. (fwd)]
-Message-ID: <161227015910.23782.14114282895278832947.generated@prod2.harmonylists.io>
-
+ManjushreeCSX font for Romanized Sanskrit on Windows 3.1. (fwd)]
 The FontShop in Toronto sells a product called ParaWin for $79 (Canadian)
 separately or packaged with a Cyrillic font for $121.
 ParaWin is a keyboard manager tool for windows which allows the user
 to select which code will be generated for any key or combination
 of keys. The tool also allows the user to switch from one keyboard 
 to another. 
-
 Craig Rublee
-
 Forwarded message:

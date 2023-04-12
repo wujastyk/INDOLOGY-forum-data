@@ -1,9 +1,4 @@
-From scharf at BROWN.EDU  Tue Apr 29 03:34:21 2008
-From: scharf at BROWN.EDU (Peter M. Scharf)
-Date: Mon, 28 Apr 08 23:34:21 -0400
-Subject: Second International Sanskrit Computational Linguistics Symposium
-Message-ID: <161227082505.23782.11258287597861823866.generated@prod2.harmonylists.io>
-
+Second International Sanskrit Computational Linguistics Symposium
 Dear Colleagues,
 	I would like to invite you to attend the Second International  
 Sanskrit Computational Linguistics Symposium and Sanskrit Library  
@@ -18,13 +13,10 @@ Venugopal Govindaraju) and by Peter Robinson, designer of Collate and
 Edition critical edition software.  Please have a look at the program  
 and other details at the Symposium website at the following address  
 and bring it to the attention of interested scholars and students.
-
 http://sanskritlibrary.org/Symposium/
-
 	Thank you.
 	Sincerely,
 	Peter Scharf
-
 *********************************************************
 Peter M. Scharf                           (401) 863-2720 office
 Department of Classics             (401) 863-2123 dept
@@ -35,7 +27,3 @@ http://www.brown.edu/Departments/Classics/people/facultypage.php?
 id=10044
 http://sanskritlibrary.org/
 *********************************************************
-
-
-
-

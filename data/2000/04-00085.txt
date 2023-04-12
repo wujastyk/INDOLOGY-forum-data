@@ -1,16 +1,8 @@
-From cfynn at DIRCON.CO.UK  Tue Apr 11 15:04:04 2000
-From: cfynn at DIRCON.CO.UK (Christopher John Fynn)
-Date: Tue, 11 Apr 00 16:04:04 +0100
-Subject: Vedic Characters & Unicode
-Message-ID: <161227057722.23782.13277035483165844595.generated@prod2.harmonylists.io>
-
+Vedic Characters & Unicode
 John
-
 Thanks for your reply.
-
 Unfortunately, the Vedic accent characters have *not* been addressed in Unicode
 3.0 or in ISO/IEC 10646: 2000.
-
 The fact is that until someone makes a formal proposal to encode these
 characters they simply won't get encoded in the Unicode and ISO 10646
 standards - which would be, as you point out, a sad state of affairs. So far no
@@ -21,7 +13,6 @@ ISO/IEC JTC1/SC2/WG2 meetings. It is consequently left to a few individual
 members or experts,  concerned about being able to fully represent traditional
 texts electronically in standards based systems, to generate and promote
 proposals for characters such as these.
-
 At this point I think even a proposal which does not have the unanimous support
 of scholars would be useful - simply to get things moving. The process of
 getting characters encoded takes at least two years (more if there is much
@@ -30,7 +21,6 @@ of scope for experts to suggest improvements, point out mistakes and otherwise
 comment on such a proposal once it has been tabled. Only once WG2 and Unicode
 are convinced that there is a reasonable consensus will the characters actually
 be approved for encoding in these standards.
-
 Until such a formal proposal has actually been made these characters will not
 even be considered for encoding. If any subscribers to this list think that in
 the future they may need to represent these characters in XML, HTML, XHTML or
@@ -44,13 +34,11 @@ characters appear and the names & suppliers of any fonts which include glyphs
 for these characters. It is also necessary to try and determine before hand
 which of these Vedic accents are unique characters and which (if any) are simply
 "glyph variants".
-
 Although annex G  of ISCII could be used as the basis of such a proposal, it
 contains insufficient information to create a complete proposal. If anyone wants
 to send me the additional information required I would be happy to write a draft
 proposal and make it available to members of this list for comment before
 submitting it for consideration by WG2 and Unicode.
-
 I'm not too worried about a battle amongst or with respected Indologists over
 these characters - there have been similar battles over much of the current
 content of ISO 10646. (So far all the Indologists I've encountered are fairly
@@ -58,42 +46,6 @@ mild characters. At the last WG2 meeting in Beijing I was seated between the
 North Korean and South Korean delegations - and some people have actually
 received death threats from various factions regarding the encoding of
 Armenian!)
-
 - Chris
-
 ====================================
-
 John Robert Gardner <jrgardn at EMORY.EDU> wrote:
-
-
-> It is my understand that the vedic accent set, and quite a large one at
-> that, is part of std. subsequent to ISCII-1988 (My copy is not here in the
-> office), and this set is part of Annex G of the set.  It's complete, but
-> not implemented anywhere I know of.  I remember Mohan Tambe at (I think)
-> GIST had a role in this and was working on it . . . then there was a weird
-> rant about the Taj Mahal and ISCII a while back . . . in response to an
-> effort not unlike yours.  A word of advice in advance: tread lightly.
-> This topic generates more inconclusive babble than one would think.  It
-> was IS 13194:1991 (which is out of synch with Unicode 1.0, though unicode
-> is a superset of ISCII:1991).  Alas, Annex G is expressly excepted from
-> ISCII-1991.
-
-> Have a look at ISCII, at lest, before you proceed . . . Unicode 3 may have
-> begun to address this.  Unicode 3.0 (see sect 9.1, pp. 211f of the
-> consortium's volume) encodes ISCII in same relative posiitons, A0-F4/16.
-> This is an uphill battle to say the least.  I've even heard respected
-> indologists . . . even leaders in teh e-text field . . . argue _against_
-> keeping such nuances as the yet-to-be-resolved idiom of ZB accent.
-
-> A sad state, if I might eulogize a moment, when the precision of
-> transmission which is described as a "tape recording from ancient times"
-> due to the precision of pronunciation is nonetheless in danger of being
-> lost in encoding.  It would be tantamount to the British atrocities of
-> building railroad beds with bricks from Mohenjo Daro, or US atrocities of
-> pumping deadly gas into the air at Bopal.
-
-> jr
-
-
-
-

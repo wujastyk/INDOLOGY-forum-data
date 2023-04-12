@@ -1,12 +1,5 @@
-From athr at LOC.GOV  Fri Aug  5 18:57:41 2011
-From: athr at LOC.GOV (Thrasher, Allen)
-Date: Fri, 05 Aug 11 14:57:41 -0400
-Subject: taxonomy question
-In-Reply-To: <333C8CD8-22A8-4CD6-9252-25981801865F@ubc.ca>
-Message-ID: <161227093342.23782.12349887675081785776.generated@prod2.harmonylists.io>
-
+taxonomy question
 Schmithausen's books recommended by Ashok, are:
-
 LC control no.: 	2005353063
 LCCN permalink: 	http://lccn.loc.gov/2005353063
 Type of material: 	Book (Print, Microform, Electronic, etc.)
@@ -20,7 +13,6 @@ Subjects: 	Plants in the Tripit?aka.
 	Plants --Religious aspects --Buddhism.
 	Buddhism --Doctrines.
 Series: 	Studia philologica Buddhica. Monograph series ; 6
-
 LC control no.: 	2010327203
 LCCN permalink: 	http://lccn.loc.gov/2010327203
 Type of material: 	Book (Print, Microform, Electronic, etc.)
@@ -36,9 +28,7 @@ Notes: 	Includes bibliographical references ([341]-365) and index.
 Subjects: 	Nature --Religious aspects --Buddhism.
 	Plants --Religious aspects --Buddhism.
 	Buddhism --Doctrines.
-
 Also, these that came up on a computer search might be useful:
-
 LC control no.: 	93906672
 LCCN permalink: 	http://lccn.loc.gov/93906672
 Type of material: 	Book (Print, Microform, Electronic, etc.)
@@ -55,7 +45,6 @@ Subjects: 	Jiva.
 	Future life --Jainism.
 	Immortality.
 	Evolution --Religious aspects.
-
 LC control no.: 	79912637
 LCCN permalink: 	http://lccn.loc.gov/79912637
 Type of material: 	Book (Print, Microform, Electronic, etc.)
@@ -75,21 +64,14 @@ Subjects: 	S?a?stri?, Ompraka?s?a. Vr?ksha jar?a haim?.
 	Evolution --Religious aspects.
 	Future life --Jainism.
 	Immortality.
-
 The last appears to be a response to a book by Omprakasa Sastri, "Vrksha jara haim," [Plants are without consciousness], which I can find in no library.
-
 There is a chapter "Dealing with sentience and violence in Hindu, Jain and Buddhist texts" in:
-
 LCCN permalink: 	http://lccn.loc.gov/2010018516
 Type of material: 	Book (Print, Microform, Electronic, etc.)
 Personal name: 	Hall, Matthew, 1980-
 Main title: 	Plants as persons : a philosophical botany / Matthew Hall.
 Published/Created: 	Albany : State University of New York Press, c2011.
-
-
 Allen
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian and Team Coordinator
 South Asia Team
@@ -101,9 +83,3 @@ USA
 tel. 202-707-3732
 fax 202-707-1724
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-
-
-

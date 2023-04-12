@@ -1,17 +1,6 @@
-From mmdesh at umich.edu  Fri Apr 18 00:51:32 1997
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Thu, 17 Apr 97 20:51:32 -0400
-Subject: `real' Sanskrit vs `conversational' Sanskrit
-Message-ID: <161227029782.23782.13999764017899547093.generated@prod2.harmonylists.io>
-
+`real' Sanskrit vs `conversational' Sanskrit
 	In response to a discussion on modern varieties of Sanskrit, the
 following comment was recently made:
-
->Ten-day HSP Sanskrit has not gone quite as far as Latino sine flexione,
->but by the same criteria we can say that it is no longer "real" Sanskrit
->(in the sense that it is far from what Madhav Deshpande aptly termed the
->"full variety"). 
-
 	While I would support the use of the term "full variety" to refer
 to the high-end variety of modern Sanskrit seen in scholarly Sanskrit
 works, Sanskrit research journals like Saarasvatii-Su.samaa, and the high
@@ -52,9 +41,3 @@ grammar.  Thus, each variety of Sanskrit needs to be carefully analysed to
 see whether it is a legitimate subset of the full variety, or whether it
 involves compromises which violate the rules of the full variety.  
 					Madhav Deshpande
-
-
-
-
-
-

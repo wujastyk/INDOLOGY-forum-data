@@ -1,41 +1,19 @@
->?From indology-l at pwyz.rhein.de 08 1996 May +0100 20:14:00
-Date: 08 May 1996 20:14:00 +0100
-From: indology-l at pwyz.rhein.de (Peter Wyzlic)
-Subject: Re: Forwarded message: Sanskrit in Chinese
+Re: Forwarded message: Sanskrit in Chinese
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
-Reply-To: Peter at pwyz.rhein.de
-
 In your
 message: <199605071343.PAA11354 at hedda.uio.no>
 date: <08 May 96>
-
 You wrote on "Forwarded message: Sanskrit in Chinese":
-
->I am forwarding the following message from another list:
->
->Date:  Tue, 07 May 1996 08:18:50 CDT
->From:  KozonoJ at gunet.georgetown.edu (Joseph Kozono)
->Subject:   Sanskrit in Chinese?
->
->I am wondering if anyone knows if classical Hindu texts such as the
->Rig Vedas, the Upanishas, and the Baghavadgita have been rendered
->into Ancient or even Modern Chinese?  Are there also native Chinese
->commenaries on these texts?  Finally, if there are translations or
->commentaries, what are they called in Chinese and where can one get
->hold of them?
-
 At least two non Buddhist Hindu works found their way into the Chinese
 Buddhist canon:
-
 	   1. Taisho shinshu daizokyo, no. 2138: Sheng zong shi ju yi lun
 	      (something like: *Da"sapadaartha"saastra). This is a
 	      Vai"se.sika work, it has been translated into English by
 	      Hakuju Ui (and Frederick William Thomas), London 1917. (I have
 	      the exact references not at hand.) The famous Xuanzang made
 	      the Chinese translation (this sets the terminus ad quem).
-
 	   2. Taisho, no. 2137: Jin qi shi lun (something like
 	      *Suvar.nasaptati"saastra). This is a translation of
 	      II"svarak.r.s.na's (sorry if this transliteration looks odd)
@@ -47,16 +25,7 @@ Buddhist canon:
 	      mail transfer agents do not know MIME). Its Chinese translator
 	      was Paramaartha (6th century) (this sets the terminus ad quem,
 	      too).
-
 Other works of non Buddhist origin are certainly to be found in citations,
 but to fetch them all will be a superhuman task, I think. 
-
 \bye
 Peter Wyzlic
-
-
-
-
-
-
-

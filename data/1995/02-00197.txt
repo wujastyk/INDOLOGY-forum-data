@@ -1,9 +1,4 @@
-From cardona at unagi.cis.upenn.edu  Thu Feb 23 13:34:49 1995
-From: cardona at unagi.cis.upenn.edu (cardona at unagi.cis.upenn.edu)
-Date: Thu, 23 Feb 95 08:34:49 -0500
-Subject: aamredDita
-Message-ID: <161227018696.23782.17711341323927776597.generated@prod2.harmonylists.io>
-
+aamredDita
 In his note of February 22nd, Carlos Lopez kindly referred K. Cejka to my
 work on PaaNini.  A short comment is in order.  PaaNini does *not* provide
 for aamreDita *compounds*.  What he does provide for is the repetition of a
@@ -20,10 +15,3 @@ whereby only one of a possible set of homophonous units used with one
 vibhakti is allowed to remain (saruupaaNaam ekazeSa ekavibhaktau).  I
 discuss this in a short article to appear soon in the Paul Thieme
 Festschrift (StII).  George Cardona
-
- 
-
-
-
-
-

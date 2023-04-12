@@ -1,9 +1,4 @@
-From scharf at BROWN.EDU  Sat Apr  7 13:49:58 2007
-From: scharf at BROWN.EDU (Peter M. Scharf)
-Date: Sat, 07 Apr 07 09:49:58 -0400
-Subject: Squiggly Underline in Critical Editions
-Message-ID: <161227079875.23782.1582300008799436922.generated@prod2.harmonylists.io>
-
+Squiggly Underline in Critical Editions
 Dear Colleagues,
 	Have you seen the squiggly underline used in critical editions in  
 scripts other than Devanagari?
@@ -28,7 +23,3 @@ Providence, RI 02912                Scharf at brown.edu
 http://www.brown.edu/Departments/Classics/Scharf/
 http://sanskritlibrary.org/
 *********************************************************
-
-
-
-

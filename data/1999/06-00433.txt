@@ -1,26 +1,12 @@
-From stone_catend at COMPUSERVE.COM  Sat Jun 19 11:32:22 1999
-From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
-Date: Sat, 19 Jun 99 07:32:22 -0400
-Subject: Draft Indic transliteration scheme on the Web
-Message-ID: <161227050850.23782.284095835966199858.generated@prod2.harmonylists.io>
-
+Draft Indic transliteration scheme on the Web
 Dear Colleagues
-
 The essentials of the draft standard for transliteration of Indic scripts
 may be seen in plain text form at:
-
 http://ourworld.compuserve.com/homepages/stone_catend/trdis01.htm
-
 This is a simplified presentation, not using Indic characters. 
-
 Apologies to any who receive this message more than once.
 Regards,   Tony Stone
-
 Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
 Indic scripts.   
   Thinking aloud on  transliteration:
 http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
-
-
-
-

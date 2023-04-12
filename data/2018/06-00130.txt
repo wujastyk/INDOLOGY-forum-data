@@ -1,12 +1,5 @@
-From dnreigle at gmail.com  Mon Jun 25 21:15:50 2018
-From: dnreigle at gmail.com (David and Nancy Reigle)
-Date: Mon, 25 Jun 18 15:15:50 -0600
-Subject: =?utf-8?Q?Re:_[INDOLOGY]=09=C5=9Avet=C4=81mbara_Jain_texts_available_in_digital_format_(Unicode_Devan=C4=81gar=C4=AB)?=
-In-Reply-To: <b82667a1-649b-4dfa-449c-99f0092103d9@gmail.com>
-Message-ID: <CAPAZekbDU91L1RfKtGD333431tru4y-_+4oC886zXZ3uwPuxRA@mail.gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]=09=C5=9Avet=C4=81mbara_Jain_texts_available_in_digital_format_(Unicode_Devan=C4=81gar=C4=AB)?=
 Dear Heiner,
-
 It may be that you got only text images rather than searchable text of the
 ?vet?mbara Jain canonical texts for one or two reasons. On my computer, I
 had to click "enable editing" to make the .docx Word file searchable. The
@@ -14,7 +7,6 @@ PDF file of the same text was searchable upon opening. The other
 possibility is downloading the wrong file. As Royce said, the Jain eLibrary
 site is a bit complex, because they have so many texts. The searchable
 files are the serial numbers 003701-003789 (only odd numbers).
-
 No doubt the C?r?is are more important than the Sanskrit commentaries,
 because they are older. But aside from the fact that we only have C?r?is on
 some of the canonical texts, the very fact that they are in Prakrit like
@@ -22,7 +14,6 @@ the canonical texts presents the same accessibility problems. Already a
 thousand years ago Jain writers such as Abhayadeva-s?ri felt the need to
 write Sanskrit commentaries on the Prakrit canonical texts to make them
 more accessible.
-
 You are right that the available C?r?is are not included in
 ?nandas?gara/S?gar?nanda's editions. However, Muni D?paratnas?gara's
 2000 *?gama
@@ -41,35 +32,8 @@ Jinad?sa Mahattara's C?r?i on the ?va?yaka-s?tram was not published by
 the ?gamodaya
 Samiti, and I do not know of a newer edition than his 1928-1929 one in two
 volumes.
-
 Best regards,
-
 David Reigle
 Colorado, U.S.A.
-
 On Sun, Jun 24, 2018 at 4:42 AM, Rolf Heinrich Koch via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> I would like to mention two points regarding the ?vet?mbara Jain canonical
-> texts ( Anandsagarsuri) at  Jain eLibrary:
->
-> 1. I opened one .docx-file: there is no searchable Unicode text but just
-> pictures from the manuscripts.
->
-> 2. The most important sources are still the C?r?is, since they are written
-> in Prakrit without Sanskrit commentary and supposed to be one or two
-> centuries earlier written down than Haribhadra's V?ttis (=Anandasagarsuri's
-> edition). C?r?is are not included in the Anandasagarsukri-Edition. Or did I
-> miss them?
->
-> Best
->
-> Heiner
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180625/ed0c5ada/attachment.htm>
-

@@ -1,22 +1,10 @@
-From jpo at austin.utexas.edu  Tue Mar 19 13:37:24 2019
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Tue, 19 Mar 19 13:37:24 +0000
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <8155A808-39AE-4104-B757-8963A0AD1895@austin.utexas.edu>
-Message-ID: <690F721E-73A9-4246-BECD-E157AA8D1635@austin.utexas.edu>
-
+[INDOLOGY] Non-standard sandhi
 I will be out of regular email access March 1?15. I will reply your email as soon as I can.
-
 On Mar 19, 2019, at 8:22 AM, Olivelle, J P via INDOLOGY <indology at list.indology.info> wrote:
-
 I will be out of regular email access March 1?15. I will reply your email as soon as I can.
-
 On Mar 19, 2019, at 8:17 AM, Olivelle, J P via INDOLOGY <indology at list.indology.info> wrote:
-
 I will be out of regular email access March 1?15. I will reply your email as soon as I can.
-
 On Mar 18, 2019, at 7:29 PM, Krishnaprasad G via INDOLOGY <indology at list.indology.info> wrote:
-
 This avagrahava is very very modern.
 In Mahabhasya Patanjali writes for ????? ????? as ????? ????????? ????????? ?????? ?????
 ???? ??????? ? ????? ?????????
@@ -25,72 +13,47 @@ For ??????????? ??????????  he comments, ???????? ??????????
 And there is a commentary on Bhagavatam by Satyadharmatirtha he is 250 years back. Even he writes such.
 So no difference in pronunciation.
 KP
-
 On Tue 19 Mar, 2019, 3:12 AM Madhav Deshpande via INDOLOGY, <indology at list.indology.info> wrote:
 Dear Harry,
-
      You have raised an interesting question.  The term avagraha is used in older texts like the Pr?ti??khyas and ?ik??s to refer to a pause between members of compounds in the Padap??ha, and some texts like the ?aunak?ya-Catur?dhy?yik? (3.3.35: ?????????????????????????????? ?????????: ???:) assign the duration of a m?tr? to this type of avagraha.  The written sign of avagraha (?) in later times got extended to cases like ?????? and ??????, and yet I have not seen evidence for this extension in any of the phonetic texts, and to my knowledge there is no actual pause in recitation in these cases.  Such a pause would create difficulties with the meters.  How, when and why the term avagraha and the written sign (?) got extended to such uses needs to be investigated.  But it has no phonetic value as far as I know.
-
 Madhav
-
 Madhav M. Deshpande
 Professor Emeritus
 Sanskrit and Linguistics
 University of Michigan
 [Residence: Campbell, California]
-
-
 On Mon, Mar 18, 2019 at 12:25 PM Harry Spier via INDOLOGY <indology at list.indology.info> wrote:
 How are avagrahas considered in metrical verses?
 Is --- sahite 'sya --- pronounced as if it was --- sahite sya --- or is there a slight pause for the avagraha?
-
 Harry Spier
-
 On Mon, Mar 18, 2019 at 3:43 AM Martin Gansten via INDOLOGY <indology at list.indology.info> wrote:
 Thanks to Madhav Deshpande, Andrey Klebanov and Harry Spier for their (off-list) replies to my question, confirming that the sandhi e + a > a a is indeed non-standard. Madhav wrote:
-
 I have not seen another example exactly like this, and have not come across a traditional rule to deal with this.  I wonder how hybrid this text is, or whether there are manuscript variants for this particular passage.  One thing I noticed is that if we keep the presumed pre-sandhi reading of "sahite asya," the meter does not work, and neither does it work with the regular sandhi "sahite 'sya."  The meter does seem to work with "sahita asya".  The last syllable of "sahita" needs to be metrically light.  So I suppose some sort of metrical compulsion may have resulted in this irregularity.  Just a thought.
-
 The work in question is a largish one (~550 stanzas) and written in perfectly grammatical, sometimes even elegant Sanskrit in a variety of metres, with no particular suggestion of being hybrid, and the witnesses I have seen (two of the work itself, and half a dozen of another work quoting the verse in question) all agree on the reading of this passage.
-
 Harry raised the same point about the metre (sv?gat?), but it wouldn't be difficult to rephrase the p?da so as to conform to both metre and standard sandhi (e.g., tena v?pi sahite 'sya ca labdhis). So I am left with the impression that Y?davas?ri must have considered his choice of sandhi in this case unproblematic, although he usually follows the stardard rule e + a > e ['].
-
 Thanks again,
 Martin
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190319/f91b79d0/attachment.htm>
-

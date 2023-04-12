@@ -1,14 +1,7 @@
-From dominic.goodall at GMAIL.COM  Fri Apr 21 14:48:01 2006
-From: dominic.goodall at GMAIL.COM (Dominic Goodall)
-Date: Fri, 21 Apr 06 20:18:01 +0530
-Subject: A Garuda Purana question
-In-Reply-To: <01c401c663d3$755609e0$cf565f80@allrsdelld8200>
-Message-ID: <161227077786.23782.8854197419711545807.generated@prod2.harmonylists.io>
-
+A Garuda Purana question
 The passage is clearly related to this one, from the uttarakha.n.da  
 of the Vaayaviiyasa.mhitaa (in the "Sivapuraa.na)
 10:67c--71:
-
 a.s.tadhaa lak.sa.na.m praahurmama dharmaadhikaari.naam //
 madbhaktajanavaatsalya.m puujaayaa.m caanumodanam //
 svayamabhyarcana.m caiva madarthe caa.mgace.s.titam //
@@ -18,33 +11,26 @@ evama.s.tavidha.m cihna.m yasmin mlecche .api vartate //
 sa viprendro muni.h "sriimaansa yatissa ca pa.m.dita.h //
 na me priya"scaturvedii madbhakto "svapaco .api ya.h //
 tasmai deya.m tato graahya.m sa ca puujyo yathaa hyaham //
-
 The last verse of this is quoted, without attribution, by Jayaratha  
 in his commentary
 on Tantraaloka 4:203.
-
 Cf. this, from the 12th ullaasa of the Kulaar.navatantra:
-
 na me priya"scaturvedii madbhakta.h "svapaco.api vaa |
 tasmai deya.m tato graahya.m sa tu puujyo hyaha.m tathaa || 27 ||
 vipra.h  .sa.dgu.nayukta"scedabhakto  na  pra"sasyate |
 mleccho.api gu.nahiino.api bhaktimaan "si.sya ucyate || 28 ||
-
 While I am sure Professor Aklujkar's interpretation is correct, I  
 have come across one passage where the phrase has been reused by a  
 redactor who, oddly, seems to have misunderstood it or understood it  
 differently. Towards the end of the tantraavataara pa.tala (1st or  
 2nd) of the unpublished Viiraagama, the sources I have seen seem  
 corrupt, but I think that the text probably read something like this:
-
 a.s.tavi.m"satibhedena "saivabheda.m vidhiiyate|
 ete.saa.m sa.mkara.m caiva na do.saaya prakalpate|
 diik.sitasya sudhiirasya "sivabhaktiratasya ca|
 tasmai deya.m tato graahya.m traivar.nikamihocyate|
 adiik.sitair na "srotavya.m na deya.m yasya kasya cit|
-
 which may mean:
-
 ``The "saiva division [of knowledge] is taught divided into 28  
 [principal scriptures].  Mixing up [the ritual teachings] of these  
 [28] does not create problems for one who is initiated, steadfast,  
@@ -53,90 +39,5 @@ scripture]; from such a person one may receive ["Saiva scripture].
 This [teaching?] is here [viz. according to the "Saiva view] taught  
 to belong to those of the [top] 3 var.nas. It should not be studied  
 orally by non-initiates.  It should not be given to just anyone."
-
 Dominic Goodall
-
-
-
-
-
 On 19 Apr 2006, at 22:35, Richard Salomon wrote:
-
-> Ashok's remarks make me wonder if this is related in any way to the  
-> curious term "mleccaacaarya" which occurs (I think) in the  
-> Mahaabhaarata. I studied this expression many years ago (but never  
-> published the results), and I don't remember the details off hand.  
-> But I could try to dig up my old notes if anyone is interested.
->
-> Richard Salomon
->
->
-> ----- Original Message ----- From: "Ashok Aklujkar"  
-> <aklujkar at INTERCHANGE.UBC.CA>
-> To: <INDOLOGY at liverpool.ac.uk>
-> Sent: Tuesday, April 18, 2006 10:39 PM
-> Subject: Re: A Garuda Purana question
->
->
-> Dear Dr. Palaniappan,
->
-> I cannot answer your question regarding the commentators'  
-> explanations (I do
-> not even know if the GMP has any commentators).
->
-> Grammar requires that yasmin and yati.h of your passage should be read
-> respectively as yo 'syaam (= ya.h asyaam = ya.h asyaa.m bhaktau/ 
-> bhaktyaam)
-> and yaati.
->
-> The passage is important for its liberal outlook. It teaches that  
-> even a
-> mleccha having certain qualities should be treated like a saint, a  
-> brahmin
-> and  God himself (apparently at least a few Hindus followed this  
-> valuation;
-> some Hindu saints are spoken of as disciples of Muslim fakirs or  
-> Sufis).
->
-> The phrase tasmai deya.m tato graahyam is grammatically two  
-> sentence: 'One
-> should make offerings to him; one should take things from him (without
-> worrying about pollution etc.?).' While I do not know if it occurs
-> elsewhere, I would expect it to be an easily formable phrase not  
-> having any
-> special role to play as a unit.
->
-> Hope this helps.
->
-> ashok aklujkar
->
->
-> On 18-04-2006 13:32, "Sudalaimuthu Palaniappan"  
-> <Palaniappa at AOL.COM> wrote:
->
->> Dear Indologists,
->>
->> The Garuda Maha Puranam 227.9-10 I am looking at has the  
->> following  text:
->>
->> bhaktiraSTavidhA  hyeSA yasmin mleccho Opi varttate||
->> sa viprendromuniH zrImAn sa yatiH paramAM  gatim||
->> tasmai deyaM tato grAhyaM sa ca pUjyo yathA hariH||
->>
->> This  could be in 219.6-10 in other versions. Can anybody tell me  
->> how "tasmai
->> deyAM  tato grAhyaM" is explained by different commentators? Does  
->> this phrase
->> occur  anywhere else prior to Garuda Purana? What is the date of this
->> particular  line?
->>
->> Thanks  in advance.
->>
->> Regards
->> S.  Palaniappan
->>
->>
-
-
-
-

@@ -1,42 +1,19 @@
-From joe at sfbooks.com  Thu Nov 28 11:36:39 1996
-From: joe at sfbooks.com (joe at sfbooks.com)
-Date: Thu, 28 Nov 96 05:36:39 -0600
-Subject: "Out of India"
-Message-ID: <161227027105.23782.17747661727272852894.generated@prod2.harmonylists.io>
-
+"Out of India"
 (A copy of this message has also been posted to the following newsgroups:
 sci.archaeology, sci.lang)
-
 In article <joe-2811960459210001 at josephb.tezcat.com>, I wrote:
-
->2.  Population changes in the Indus Valley
->--Vidyanath Rao has consulted the article I cited (which I noted at the
->time I had not read), and has described in a note to me a detailed
->analysis of its contents.  He finds that they do not support the
->conclusion I stated (which I understood to be the authors' conclusion),
->that there had been a significant population shift at Harappa between 800
->BC and Mature Harappan times.  I will post this note (with his permission)
->momentarily.
-
 And here it follows.
-
 Nothing between the dashed line and my .sig is me; it's all Vidyanath Rao
 <vidynath at math.ohio-state.edu>, who apparently had his own reasons for not
 wishing to post it but did not object to its *being* posted (if I
 understand correctly).
-
 Joe Bernstein
-
----------------------
-
     I finally got around to browsing the Hemphill, Lukacs and Kennedy
 paper in Harappa Excavations 1986--1990. I will summarize the relevant
 facts from there.
-
 They give the results of cluster analysis and tree diagrams, as well
 as principal component results for craniometric, dental non-metric and
 cranial non-metric data. These three are not done on the same samples.
-
 Cranometric:
 Samples used are Harappa Cemetry 37A and 37B (Harappan phase),
 Harappa Cemetry H open burials and pot/jar burials, Chatal Huyuk 
@@ -46,33 +23,27 @@ and 3000-2000 BCE, but may have to be revised), Naqada (7000-5000 BCE),
 Abydos (I dynasty), Badaria (Predynasitc) [last three Egypt?],
 Napalese (Modern), Tibeans (Modern), Veddahs (modern), Sedement
 (9th Dynasty), Mohenjodaro, and Timagarha (1400-800 BCE).
-
 Cluster analysis of the Prehistoric polpulations from Indus valley
 alone give Mohenjodaro as the outlier, with Timagarha and R37A
 closely related to each other. The relationship of others differes a
 bit when sex is taken into account. but in both cases, are more
 closely related to Timagarha-R37A than to Mohenjodaro.
-
 When modern populations are added, they group together, and more closely
 related to Mohenjodaro than the rest. When all samples are used,
 Cemetry H (Jar burials) are closest to Chatal Huyuk, Timagarha-R37A to
 Tepe Hissar, Cemetry H (open burials) to Kish, and Mohenjodaro to
 Badaria. The modern populations seperate out from all the prehistoric ones.
-
 Dental Non-metric:
 Samples used are Harappa, Chalcolithic Mehrgarh (4500 BCE),
 Neolithic Mehrgarh (6000 BCE), Inamgaon (1600-700 BCE), Mahadaha (8000 BCE),
 Timagarha and Sarai Khola (200-100 BCE).
-
 Timagarha and Sarai Khola are closer to each other than others, 
 Chalcolithic Mehrgarh and Harappa to each other, Neolithic Mehrgarh and
 Inamgaon to each other and next to Ganga Valley.
-
 Cranial Non-metric:
 Samples used are Harappa, Egypt (4000 BCE), Ancient Palestine (700 BCE),
 Modern Palestine, Modern Punjabi, Modern Burmese, Modern Bedouin,
 Mahadaha, Lidar (2300-2000 BCE), Kamid el-Loz (500 BCE), and Sarai Khola.
-
 Harappa is closest to Modern Palestine and then to Ancient Palestine;
 this group is closest to the pair Kamid el-Loz and Lidar. The others
 form the second major break-out, with further clustering as follows:
@@ -80,19 +51,10 @@ Mahadaha and Modern Punjabis pair and are closest to Modern Burmese;
 this group's nearest neighbor is Sarai Khola; the next one out is
 Egypt and all of the second group are closer to Modern Bedouins than
 to those of the first group.
-
------
-
 I fail to see how anyone can conclude that there is a demagrphic break
 in Indus Valley between 1700 BCE and 800 BCE. Timagarha is closer to
 R37 than any of the three are to Mohenjodaro in craniometric analysis.
--- 
 Joe Bernstein, writer, banker, bookseller joe at sfbooks.com
 speaking for myself alone http://www.tezcat.com/~josephb/
 But...co-proponent for soc.history.ancient, now back under
 discussion in news.groups!
-
-
-
-
-

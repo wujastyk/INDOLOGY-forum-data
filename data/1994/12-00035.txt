@@ -1,28 +1,7 @@
-From Peter_Scharf at brown.edu  Thu Dec 15 06:03:39 1994
-From: Peter_Scharf at brown.edu (Peter_Scharf at brown.edu)
-Date: Wed, 14 Dec 94 23:03:39 -0700
-Subject: Brhatsamhita
-Message-ID: <161227017988.23782.13070073225050033712.generated@prod2.harmonylists.io>
-
+Brhatsamhita
 Michio Yano quietly mentioned that he had entered the whole text of the
 Brhatsamhita at the end of message.  He wrote:
-
->I have digitalized
->the whole text of the BRhatsamhitaa and it is already on
->the net.  Recently we have placed the updated version of
->the e-text at the following ftp site.
->
->ccftp.kyoto-su.ac.jp
->
->pub/doc/sanskrit/brhatsamhita/bs.Z
->
->Michio YANO
->Kyoto Sangyo University
->yanom at cc.kyoto-su.ac.jp
->
-
 The top of his file reads:
-
               VarAhamihira's BRhatsaMhitA
               (Version 4, June 8, 1994)
                      degitalized by
@@ -32,8 +11,6 @@ The top of his file reads:
               with reference to H.Kern's text and his translation
               [variants marked by K. & K's tr.]
               and Utpala's commentary [marked by U.]
-
-
 I fetched it and it looks great.  His scheme of transliteration is precise
 so that there are no ambiguities.  It can easily be transformed to any
 format anyone would want.  The tremendous work done by Michio Yano and his
@@ -41,14 +18,11 @@ colleagues in Kyoto recently leads me to take this opportunity to discuss
 some general principles for inputting text.  It would be usefull for the
 whole scholarly community to note these principles in order to make their
 work most usefull with the least amount of effort.
-
 Michio Yano's scheme for inputting text which leaves no ambiguities and is
 easily transformable is as follows:
-
 Text Input System
   (1)   Sanskrit characters which should bear diacritical marks
         when Romanized have been input mostly by capitals.
-
         vowels:     a, A, i, I, u, U, R, RR, L, e, ai, o, au
         gutturals:  k, kh, g, gh, G
         palatals:   c, ch, j, jh, J
@@ -60,7 +34,6 @@ Text Input System
         aspiration: h
         anusvAra:   M
         visarga:    H
-
 This meets the necessary fundamentals.  There are a couple of modifications
 I would suggest to make it a little simpler.  They are shown below.  The
 simplest and fastest method of inputting text is to hit one key for one
@@ -74,9 +47,7 @@ tranlit programs for let me know and I'll make programs for them available
 as well.  My apologies for the delays to a few who have already done so.  I
 just finished teaching and this is the first opportunity I've had to get
 back to these pursuits.)
-
 My text entering scheme:
-
         vowels:     a, A, i, I, u, U, f, F, x, X, e, E, o, O
         gutturals:  k, K, g, G, N
         palatals:   c, C, j, J, Y
@@ -88,18 +59,14 @@ My text entering scheme:
         aspiration: h
         anusvAra:   M
         visarga:    H
-
         acute accent for udatta
         carrot (circumfles) for svarita
         grave accent for anudatta
-
 The Y and R for the palatal and retroflex nasals, and capitals for long
 vowels and aspirated stops are intuitive.  The f, F, x, X for vocalic r,
 long r, l and long l (it shows up in some grammatical texts.) are not but
 they are available.
-
 Michio Yano undid vowel but not consonant sandhi.  He writes:
-
   (2)   Sandhi
         For the convenience of word search, internal and external
         vowel Sandhis are decomposed by ^.
@@ -108,11 +75,9 @@ Michio Yano undid vowel but not consonant sandhi.  He writes:
              horA^anyo < horAnyo
              ko +api < ko'pi
         Consonantal sandhis are retained.
-
   (3)   Compounds
         Members of compound words are sometimes separated by ^,
         but not consistent.
-
         For future reference, concerning the sandhi, it is definitely a
 good idea to undo sandhi while entering a text.  One should undo ALL sandhi
 though, not just vowel sandhi.  I have written a program to put together
@@ -132,25 +97,13 @@ of word boundary at a time, e.g. all sandhi at hyphens but not at words.  I
 have also allowed for options of spacing.  e.g. to leave a space after
 word-final consonants after the European custom or to remove all spaces not
 permitted by Devanagari script.
-
 I know that Peter Schreiner has entered a large number of texts.  I would
 welcome the comments of others who have entered texts or who have
 experience with computational linguistics to make comments publicly (or
 privately to me as they wish).
-
 Let me close by expressing my thanks to Michio Yano, to his colleague Prof.
 Muneo Tokunaga and to those who helped them enter these texts.
-
                 Sincerely,
-
                 Peter M. Scharf
                 Department of Classics
                 Brown University
-
-
- 
-
-
-
-
-

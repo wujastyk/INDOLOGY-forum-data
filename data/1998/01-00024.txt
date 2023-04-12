@@ -1,9 +1,4 @@
-From silk at WMICH.EDU  Mon Jan  5 17:23:30 1998
-From: silk at WMICH.EDU (jonathan silk)
-Date: Mon, 05 Jan 98 12:23:30 -0500
-Subject: jogayara in Samavayanga-suttam?
-Message-ID: <161227034601.23782.57131627439660884.generated@prod2.harmonylists.io>
-
+jogayara in Samavayanga-suttam?
 In the Ardha-Magadhi dictionary the only source cited for the item
 yogaayaara (= yogaacaara) is Sama 1, which according to my understanding of
 the abbreviations means Samavaayaanga-suttam. In the edition I have (Jaina
@@ -12,9 +7,6 @@ Am I making some mistake somewhere, or what *is* the story here?  This is
 apparently (if it exists) the only occurence of the term in (at least
 canonical?) Ardha-Magadhi, so I am eager to track it down. Any help much
 appreciated!
-
-
-
 Jonathan Silk
 Department of Comparative Religion
 Western Michigan University
@@ -23,7 +15,3 @@ USA
 tel. 616-387-4399
 fax 616-387-4914
 silk at wmich.edu
-
-
-
-

@@ -1,43 +1,21 @@
-From christophe.vielle at uclouvain.be  Wed Jun  3 15:54:08 2020
-From: christophe.vielle at uclouvain.be (Christophe Vielle)
-Date: Wed, 03 Jun 20 17:54:08 +0200
-Subject: =?utf-8?Q?[INDOLOGY]_Grammatica_Sanscritica_by_Jean-Fran=C3=A7ois_Pons_S.J._+_Antoine-L=C3=A9onard_Ch=C3=A9zy?=
-Message-ID: <8DCF0E50-2BEA-4A35-9471-6EB3E95EF857@uclouvain.be>
-
+=?utf-8?Q?[INDOLOGY]_Grammatica_Sanscritica_by_Jean-Fran=C3=A7ois_Pons_S.J._+_Antoine-L=C3=A9onard_Ch=C3=A9zy?=
 Dear List,
-
 I have the pleasure to inform you about the recent publication of Pierre-Sylvain Filliozat's new book:
-
 ? l'origine des ?tudes sanskrites: La Grammatica Sanscritica de Jean-Fran?ois Pons S.J.. ?tude, ?dition et traduction par Pierre-Sylvain Filliozat, Paris, M?moires de l'Acad?mie des Inscriptions et Belles-Lettres vol. 56, 2020, 226 pp.
 https://www.aibl.fr/publications/collections/memoires-de-l-academie-des/article/tome-56-a-l-origine-des-etudes
-
 Three Sanskrit grammars were composed by Jesuits in India during the the 17th-18th centuries. 
 The first one was written ca 1660-62 by Father Heinrich Roth (1620-68, Agra), in Latin and Devan?gar? script for Sanskrit, based on Anubh?ti Svar?p?c?rya?s S?rasvatavy?kara?a; the facsimile of the autograph manuscript was published in 1988 by A. Camps & J.-C. Muller: https://archive.org/details/sanskritgrammarmanuscriptsoffatherheinrichroths.j.16101668arnufcampsjeanclaudmullerbrill_643_C <https://archive.org/details/sanskritgrammarmanuscriptsoffatherheinrichroths.j.16101668arnufcampsjeanclaudmullerbrill_643_C>
 (an edition is still expected).
 The second one, entitled Grammatica Grandonica, was composed by Father Johann Ernst Hanxleden (1681-1732, Kerala), in Latin and Malayalam script for Sanskrit, based on the Siddhar?pa and (a cursory reading of) Dharmak?rti's R?p?vat?ra (H's grammar was later on plagiarized by Paulinus in his Sidharubam, 1790). The edition of the autograph manuscript was made by T. Van Hal and myself in 2013: urn:nbn:de:kobv:517-opus-63218 <https://nbn-resolving.org/urn:nbn:de:kobv:517-opus-63218> (an additional French translation and grammatical commentary, nearly completed, is due to appear).
 The third one, entitled Grammatica Sanscritica, now published, was composed by Father Jean-Fran?ois Pons (1698-1752, Chandernagor), in 1730-32 for its first 5 chapters/first part based on Vopadeva?s Mugdhabodha, in Latin and Bengali script (autograph ms.), and then for its 6th chapter/last part (syntaxe) based on Kramad??vara's Sa?k?iptas?ra, in French and Roman transcription of the Sanskrit (with some use of Telugu-Kannada script in the beginning; the preserved ms. of this part is a copy) (P's grammar was later on used by A.H. Anquetil Duperron, who translated the French part in Latin). 
-
 Filliozat's achievement is remarkable. After a general introduction on the 17th-18th centuries Jesuit missionary work on Indian languages and civilization (pp. 9-24), a chapter is devoted to the figure of Jean-Fran?ois Pons (pp. 25-47), another to the edition of his letters (pp. 49-80; of five, the last, longest one, on Brahmin knowledge had been previously published as one of the Lettres ?difiantes); there follows the introduction to the manuscripts and the indigenous grammatical sources of the author (pp. 81-95), then the annotated edition of the two parts (with a French translation of the Latin text) (pp. 97-197), and finally the color-facsimile of the two manuscripts (pp. 199-282). A bibliography and index are given at the end. A few extracts of the book are provided here:
 https://www.aibl.fr/IMG/pdf/memoire_56.pdf
-
-
 On the early history of Indology, note also the volume on 
-
 Le sanctuaire d?voil?: Antoine-L?onard Ch?zy et les d?buts des ?tudes sanskrites en Europe, 1800-1850, ?d. J?r?me Petit & Pascale Rabault-Feuerhahn, Paris: BnF - Geuthner, 2019, 458 pp.
 https://geuthner.com/livre/le-sanctuaire-d?voil?-antoine-l?onard-ch?zy/1192
 No ToC but see the programme of the 2015 Conference of which it is the Proceedings + paper-abstracts here:
 https://www.fabula.org/actualites/antoine-leonard-de-chezy-et-les-debuts-des-etudes-sanskrites-en-europe-1800-1850colloque_68743.php
-
 Best wishes
 ???????????????????
 Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
 Louvain-la-Neuve
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200603/0940a9d6/attachment.htm>
-

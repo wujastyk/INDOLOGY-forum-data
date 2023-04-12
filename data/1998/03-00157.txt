@@ -1,19 +1,9 @@
-From ucgadkw at UCL.AC.UK  Tue Mar 10 00:51:20 1998
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 10 Mar 98 00:51:20 +0000
-Subject: [Info] Tibetan book of the dead
-Message-ID: <161227036566.23782.14750921630860122180.generated@prod2.harmonylists.io>
-
----------- Forwarded message ----------
-Date: Tue, 3 Mar 1998 13:51:43 +0000 (GMT)
-From: Chris Wooff <C.Wooff at liverpool.ac.uk>
-Subject: Any interest to Indology?
-
+[Info] Tibetan book of the dead
+Any interest to Indology?
 The Tibetan Book of the Dead: Literature and Artwork on Prayer, Ritual,
     and Meditation from the Religious Traditions of Tibet, India and Nepal
     --UVA Library [Javascript]
 http://www.lib.virginia.edu/exhibits/dead/
-
 The Special Collections Department of the University of Virginia Library
 has recently launched this site, a companion to an exhibit running from
 November 7, 1997 to March 4, 1998. The UVA Library holds one of the world's
@@ -29,11 +19,5 @@ ceremonial art. The only drawback to this fascinating site is the confusing
 Javascript navigation interface, which requires users to click on the
 "Choose a Page" button and make a selection, even if there is only one
 selection. [JS]
-
-------------------------------------------------------------
 Chris Wooff (C.Wooff at liv.ac.uk, ....mcsun!uknet!liv!C.Wooff)
 Sent with Simeon Version 4.1.5 Build 42
-
-
-
-

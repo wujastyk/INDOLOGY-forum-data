@@ -1,14 +1,6 @@
-From zydenbos at flevoland.xs4all.nl  Sat Apr 19 23:41:26 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Sat, 19 Apr 97 22:41:26 -0100
-Subject: `real' Sanskrit vs `conversational' Sanskrit
-Message-ID: <161227029832.23782.9012581072556466571.generated@prod2.harmonylists.io>
-
-
+`real' Sanskrit vs `conversational' Sanskrit
 Replies to msg 18 Apr 97: indology at liverpool.ac.uk (mmdesh at umich.edu)
-
  me> From: Madhav Deshpande <mmdesh at umich.edu>
-
  me> The coloring of the components is an interesting issue.  For example, 
  me> while most southern
  me> speakers cannot distinguish between vaiyaakara.na and
@@ -19,7 +11,6 @@ Replies to msg 18 Apr 97: indology at liverpool.ac.uk (mmdesh at umich.edu)
  me> each other
  me> (pra"sli.s.ta), while the constituents of ai and au are not
  me> so fused.
-
  me> These two are called samaahaaravar.na, groupings of vowels. But for
  me> Patanjali, the constituents of ai and au are viv.rtatara
  me> "more open" than
@@ -31,11 +22,9 @@ Replies to msg 18 Apr 97: indology at liverpool.ac.uk (mmdesh at umich.edu)
  me> closely connected with
  me> the regional vernaculars, than with anything inherited from
  me> Patanjali.
-
 The southern pronunciation is still recognizable as samaahaaravar.na, but can
 we still say this in the case of the northern pronunciation? When "Maithi(li)"
 sounds like "Kathy", the first vowel is not a diphthong. 
-
 The northern short 'a' is more closed, but also weaker than the southern, and
 this weakening of 'a' in the northern languages finally led to the final 'a' as
 well as medial 'a' in non-stressed syllables being dropped from current
@@ -47,11 +36,4 @@ Indo-Aryan_ (par. 41), where he writes that ai and au became e and o in
 Prakrit, "pronounced probably as" open e and o. This is what we hear when
 Hindi-Urdu-speakers pronounce "hai" and "aur", which are written as if they are
 diphthongs.
-
 - RZ
-
-
-
-
-
-

@@ -1,9 +1,4 @@
-From jneuss at ZEDAT.FU-BERLIN.DE  Tue Nov 24 19:37:55 1998
-From: jneuss at ZEDAT.FU-BERLIN.DE (Juergen Neuss)
-Date: Tue, 24 Nov 98 20:37:55 +0100
-Subject: OCR of (transcribed) indic texts
-Message-ID: <161227042889.23782.11625321773753254078.generated@prod2.harmonylists.io>
-
+OCR of (transcribed) indic texts
 Dear list-members,
 maybe some of you are aware of the difficulties which arise if one wants
 to scan transcribed (not to speak of original) indic texts. Of course
@@ -21,21 +16,9 @@ characters of any kind. I hope this message does not provoke any
 response which violates the non-commercial spirit of this list.
 Thanks for reading.
 jn
---
 jneuss at zedat.fu-berlin.de
-
-
-
 Juergen Neuss
-
 Freie Universitaet Berlin
-
 Institut f?r Indische Philologie und Kunstgeschichte
-
 K?nigin-Luise-Str. 34a
-
 14195 Berlin
-
-
-
-

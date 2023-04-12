@@ -1,10 +1,4 @@
-From steiner at MAILER.UNI-MARBURG.DE  Thu Dec  1 13:06:57 2005
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Thu, 01 Dec 05 14:06:57 +0100
-Subject: Decoding date in Sanskrit verse
-In-Reply-To: <E1EhF2G-0006NF-00@emu.urnet.com.au>
-Message-ID: <161227077169.23782.11321957176045742972.generated@prod2.harmonylists.io>
-
+Decoding date in Sanskrit verse
 <?xml  version="1.0" ?><html>
 <head>
 <title></title>
@@ -53,7 +47,3 @@ is convincing.&#160; </span></font></div>
 <div align="left"></div>
 </body>
 </html>
-
-
-
-

@@ -1,15 +1,8 @@
-From aklujkar at unixg.ubc.ca  Wed Dec 15 23:15:29 1993
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Wed, 15 Dec 93 15:15:29 -0800
-Subject: PYS part 2
-Message-ID: <161227016428.23782.3341361755145294797.generated@prod2.harmonylists.io>
-
+PYS part 2
 I just noticed that the endnote numbers have possibly not been transmitted.
 Please count each pair of brackets,  [], for one note and correlate them
 with the paragraphs appearing at the end of this instalment. 
-
 t.rtiiya.h vibhuuti-paada.h |
-
 de"sa-bandha"s cittasya dhaara.naa ||1||
 tatra pratyayaika-taanataa dhyaanam ||2||
 tad evaartha-maatra-nirbhaasa.m sva-ruupa-"suunyam iva samaadhi.h ||3||
@@ -80,11 +73,8 @@ jaati-lak.sa.na-de"sair anyataanavacchedaat tulyayos tata.h pratipatti.h
 taaraka.m sarva-vi.saya.m sarvathaa-vi.sayam akrama.m ceti vivekaja.m
 j"naanam ||54||
 sattva-puru.sayo.h "suddhi-saamye kaivalyam iti [ ] ||55||
-
 [iti pata"njali-viracite yoga-suutre t.rtiiyo vibhuuti-paada.h]
-
 caturtha.h kaivalya-paada.h | 
-
 janmau.sadhi-mantra-tapa.h-samaadhijaa.h siddhaya.h ||1||
 jaatyantara-pari.naama.h prak.rtyaapuuraat ||2||
 nimittam aprayojaka.m prak.rtiinaa.m. vara.na-bhedas tu tata.h k.setrikavat
@@ -128,13 +118,9 @@ tata.h k.rtaarthaanaa.m pari.naama-krama-parisamaaptir [ ] gu.naanaam
 k.sa.na-pratiyogii pari.naamaaparaanta-nirgraahya.h krama.h ||33||
 puru.saartha-"suunyaanaa.m gu.naanaa.m pratiprasava.h kaivalya.m,
 sva-ruupa-prati.s.thaa vaa citi-"saktir [ ] iti [ ] ||34||
- 
 [iti pata"njali-viracite yoga-suutre caturtha.h kaivalya-paada.h |]
-
 [|| iti paata"njala-yoga-suutraa.ni ||]
-
 NOTES:
-
 1.	  kli.s.taakli# Jhajjar.
 2.	  sa tu om. in Vivara.na. These two words could originally have been a
 part  of  the Bhaa.sya.
@@ -186,11 +172,3 @@ read so.
 determined.
 35.	  #"sakter  KSS.
 36.	  sautra  iti-"sabda.h  "saastra-parisamaaptau  Vaa.
-
-
- 
-
-
-
-
-

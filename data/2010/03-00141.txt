@@ -1,43 +1,27 @@
-From rajam at EARTHLINK.NET  Sun Mar 28 23:19:08 2010
-From: rajam at EARTHLINK.NET (rajam)
-Date: Sun, 28 Mar 10 16:19:08 -0700
-Subject: Gandhari Unicode
-Message-ID: <161227089061.23782.389227669167961940.generated@prod2.harmonylists.io>
-
+Gandhari Unicode
 Many of us may have legacy texts encoded in a home-grown font from  
 the pre-Web era. And, I 'm sure you (just like me) have started to  
 put them in Unicode.
-
 For my part, I've started converting my legacy texts (in  
 transliteration) to Gandhari Unicode, which I find quite easy to use.  
 I downloaded it from the "Early Buddhist Manuscript Project" page (U  
 of Washington) at:
 http://www.ebmp.org/p_dwnlds.php . The installation instructions are  
 easy and the installation process is smooth. Keyboarding is easy too.
-
 (I heard that Gentium is an excellent font as well for rendering  
 transliterated texts.)
-
 For Tamil, I use the built-in Unicode font that comes with the  
 respective operating system (Mac or PC).
-
 Although a bit tedious and slow due to the heavy volume, I have been  
 able to write macros and convert my legacy texts to Gandhari Unicode  
 and Tamil Unicode.
-
 Once you have your texts in Unicode, it's easy to use them as you  
 like. They interface well with modern technology -- HTML/XML,  
 JavaScript, PHP, PDF, ... .  (Also, it should be easy to convert from  
 one typeface to another within Unicode.)
-
 You can see some samples at my site: http://letsgrammar.org/ 
 proto.html (click on the links for Project 2 and Project 3 and go  
 from there)
-
 Regards,
 V.S. Rajam
 (<www.letsgrammar.org>)
-
-
-
-

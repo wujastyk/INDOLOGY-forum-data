@@ -1,57 +1,26 @@
-From harryspier at HOTMAIL.COM  Thu Nov 23 13:35:16 2000
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Thu, 23 Nov 00 08:35:16 -0500
-Subject: Differences between oral and written Taittiriya Samhita
-Message-ID: <161227064550.23782.7825896195807878048.generated@prod2.harmonylists.io>
-
+Differences between oral and written Taittiriya Samhita
 Dear list members,
-
 Vidhyanath Rao Wrote:
->Looking at the text version of the TS at TITUS,
 ...At boundaries
->marked as ` / ' (ardhrca?) and ` // ' (actual
->breaks), there is only aH.
-
 In the HTML version of TITUS Weber's TS the paragraphs I mentioned i.e.
 4.5.2 and 4.5.3 the padas end in "as" not "aH".  (except the final pada of
 course)
-
 Is it most likely that:
-
 1) In the manuscripts Weber was using padas of paragraphs  4.5.2 and 4.5.3
 ended in "namo" but he changed them to "namas".
-
-
 or
-
 2) In the manuscripts Weber was using padas of paragraphs  4.5.2 and 4.5.3
 ended in "namaH" but he changed them to "namas".
-
-
 or
-
 3) In the manuscripts Weber was using padas of paragraphs  4.5.2 and 4.5.3
 ended in "namas".
-
-
 Also as I noted in my previous post: In the TITUS on-line version of Weber's
 Vajasaneyi edition the corresponding padas of the satarudriya end in "namo"
 not "namas".  And thats what made me question whether it was just an
 editorial decision of Weber's without at least some manuscriptural basis.
-
 Many thanks,
-
-
-
-
 Harry Spier
 371 Brickman Rd.
 Hurleyville, New York
 USA 12747
-
-_____________________________________________________________________________________
 Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
-
-
-
-

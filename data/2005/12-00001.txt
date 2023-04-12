@@ -1,29 +1,16 @@
-From yanom at CC.KYOTO-SU.AC.JP  Thu Dec  1 01:54:49 2005
-From: yanom at CC.KYOTO-SU.AC.JP (Michio Yano)
-Date: Thu, 01 Dec 05 10:54:49 +0900
-Subject: Decoding date in Sanskrit verse
-Message-ID: <161227077165.23782.5503445702977570828.generated@prod2.harmonylists.io>
-
+Decoding date in Sanskrit verse
 Dear List,
-
->Sake gajatrimunibhUmimite tu varshe rAmAdrinAgaSaSacihnamite tapasye
->pakshe site sutaSaSAnkatithau jnavAre vyAkhyA samAptimagamadvibudhaikavandyA 
-
 The date is interpreted as:
-
 Year: Zaka 1738, Vikrama 1873
 Month: Tapasya = PhaalguNa
 PakSa: ZuklapakSa
 Tithi: sutaZaZAnka ??
 Vaara: Wednesday
-
 Only tithi gives problem.
 According to my pancanga program the date falls in the half month listed below.
 Wednesday is either tritiiya or dazamii.
 If the tithi is given in two digits we have to interpret it as dazamii (10).  
 Now I wonder whether suta can mean zero.
-
-
  ==============================================================================
 1817  2 17 Mon|Saka 1738|V.S.1873        Phalguna   Suklapaksa  1 Satabhisaj
  ==============================================================================
@@ -55,12 +42,6 @@ Now I wonder whether suta can mean zero.
  ==============================================================================
 1817  3  3 Mon|Saka 1738|V.S.1873        Phalguna   Suklapaksa 15 P-phalguni
  ==============================================================================
-
-
 Michio Yano
 yanom at cc.kyoto-su.ac.jp
 http://www.kyoto-su.ac.jp/~yanom/
-
-
-
-

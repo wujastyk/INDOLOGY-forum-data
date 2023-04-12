@@ -1,29 +1,18 @@
-From prasg at informix.com  Fri Jan 26 21:12:12 1996
-From: prasg at informix.com (prasg at informix.com)
-Date: Fri, 26 Jan 96 13:12:12 -0800
-Subject: Sanskrit Related Announcement
-Message-ID: <161227022420.23782.12957541994381775207.generated@prod2.harmonylists.io>
-
+Sanskrit Related Announcement
                             Sanskrit Documents
                                                              1/26/96
-
 namaskaar,
-
 We are very glad to present an anonymous ftp or WWW site having
 major collection of Sanskrit related documents.
-
 The site is accessible through WWW with URL
 ftp://jaguar.cs.utah.edu/private/sanskrit/sanskrit.html
-
 The files can also be transferred with anonymous ftp as
 ftp jaguar.cs.utah.edu
 with cd private/sanskrit directly.
-
 A subset of these files is also available at
 http://chandra.cs.brown.edu/
 which is the major site for ITRANS/hindi/marathi songs.
 It has been managed very efficiently by Anurag Shankar.
-
 The files on both the sites are available in English transliteration
 and Devanagari output format. These documents were prepared by
 many individuals, most of them being participants in the on-line
@@ -31,11 +20,8 @@ Sanskrit group mailing list/sanskrit-digest (information to
 get the digest is added in the end of this message).  
 We appreciate their interest and hope that they will have 
 opportunity to be equally enthusiastic in the future.
-
 The Devanagari files are generated using ITRANS/TeX/LaTeX/dvips
 collection of software available as freeware.
-
-
 We particularly encourage you to print/read the Sanskrit projects file.
 We need volunteers for many of the 50+ projects mentioned. 
 Please take initiatives and participate in this group effort.
@@ -44,12 +30,9 @@ both in India and abroad, are linked in Sanskrit Bharati site:
 http://reality.sgi.com/employees/atul/sanskrit/sanskrit.html
 We realize that anything we do will be a tiny amount compared
 to the grand scale of Sanskrit literature.
-
 We need guidance from you in this effort!
-
 Here is a sampling of what is available at the above site.
 Links to appropriate sites are included.
-
      Sanskrit documents
      Files for learning Sanskrit
      Tools for preparing Sanskrit documents
@@ -57,14 +40,12 @@ Links to appropriate sites are included.
      Current documents under preparation
      Documents that need to be encoded(a wish list)
      Sanskrit projects currently underway (volunteers needed)
-     
      Sanskrit Bharati homepage
      Sanskrit dictionary efforts
      Subhashhita collection
      Sanskrit grammar, Sanskrit Tutorials
      Information on the monthly Sanskrit magazine sambhaashhaNa sandeshaH
      Sanskrit News from India
-     
      Interface for online transliteration to Devanagari conversion
      Preferred transliteration scheme (ITRANS)
      Common errors and tips on correct transliteration
@@ -72,16 +53,11 @@ Links to appropriate sites are included.
      Sanskrit Usenet and Group mailing list/digest information
      Other useful information and sites(Ramayana, Mahabharata, Gita,
         Indology, Vedanta, Spirituality, Yoga, Tantra, Sampradaya-s etc.)
-
-
-
 This site for the documents is in preparation, so some of the
 work is on-going.  Please provide your suggestions.  
-
 To keep this message short, we have not listed the entire contents (over
 100 documents ) above.  You may want to download the README.sanskrit
 file for a complete list.
-
 You are welcome to link your homepage to this one, or download the files.
 Please feel free to mirror this site if you want, in fact, we would 
 be glad if anyone can offer any additional WWW space to mirror this site.
@@ -89,41 +65,20 @@ Around 25Mbytes of disk space is required at a minimum, while more space
 is always useful.  A tar file(15Mb+) is available upon
 request for easy transfer. Contact avinash at acm.org or
 atul at yamuna.asd.sgi.com  for the file.
-
-
-
 For corrections in the homepage links contact mgiridhar at ucdavis.edu.
-
 If you need help on accessing the files or want to get general
 information of the sanskrit-digest/list, please contact
 Sai Ram Susarala at sai at cs.utah.edu
-
--------------------------------------------------------------------------
 This post has been sent by a volunteer, and mention of `we' or
 `us' is used as a general reference, no personal promotion is intended.
--------------------------------------------------------------------------
-
------------------------------------------------------------------
-------------------- Sanskrit Digest information -----------------
 To SUBSCRIBE/UNSUBSCRIBE from Sanskrit list:
 Send a message to "majordomo at cs.utah.edu" with the line containing:
 "subscribe sanskrit-digest <your email address>"    to SUBscribe,
 "unsubscribe sanskrit-digest <your email address>"  to UNsubscribe, and
 "help"                                              to get help
 in the message body.
-------------------- Indology homepage ---------------------------
 Indology WWW page: http://www.ucl.ac.uk/~ucgadkw/indology.html
-
------------------------------------------------------------------
--------- * Sanskrit Usenet group humanities.language.sanskrit *----
 Please access the humanities.language.sanskrit through usenet.
 For those who do not get usenet newsgroups use the URL
 gopher://osiris.wu-wien.ac.at:7119/1humanities.language.sanskrit
 This method can be used to access any usenet newsgoups.
------------------------------------------------------------------
- 
-
-
-
-
-

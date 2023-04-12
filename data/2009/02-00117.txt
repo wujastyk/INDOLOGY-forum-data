@@ -1,20 +1,8 @@
-From gruenen at SUB.UNI-GOETTINGEN.DE  Thu Feb 19 11:30:43 2009
-From: gruenen at SUB.UNI-GOETTINGEN.DE (Gruenendahl, Reinhold)
-Date: Thu, 19 Feb 09 12:30:43 +0100
-Subject: AW: "Visit SANSKNET while you can"
-Message-ID: <161227084982.23782.11900215533301301310.generated@prod2.harmonylists.io>
-
+AW: "Visit SANSKNET while you can"
 I tried to download the Sanskrit fonts for the website and then read the
 texts, but it failed. What is the exact procedure?
-
 KZ
-
 You probably have to configure your Browser: Click "View / Encoding" and
 select "Western ISO 8859-1". If that doesn't work, try any other - except
 "Unicode".
- 
 RG
-
-
-
-

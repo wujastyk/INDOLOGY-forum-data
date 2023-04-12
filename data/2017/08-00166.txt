@@ -1,28 +1,11 @@
-From francois.patte at mi.parisdescartes.fr  Thu Aug 31 16:40:43 2017
-From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
-Date: Thu, 31 Aug 17 18:40:43 +0200
-Subject: [INDOLOGY] Fwd: Re:  help on a citation
-In-Reply-To: <85e088e9-b19a-dbfc-3935-8abe8d289f52@mi.parisdescartes.fr>
-Message-ID: <14360e07-54be-1ffb-31d0-2cfd175bdffa@mi.parisdescartes.fr>
-
-
-
-
--------- Message transf?r? --------
+[INDOLOGY] Fwd: Re:  help on a citation
 Sujet : Re: [INDOLOGY] help on a citation
 Date : Thu, 31 Aug 2017 18:11:54 +0200
 De : Fran?ois Patte <francois.patte at mi.parisdescartes.fr>
 Organisation : Universit? Paris Descartes
 Pour : Andrew Ollett <andrew.ollett at gmail.com>
-
 Le 31/08/2017 ? 14:44, Andrew Ollett a ?crit :
-> Cher Fran?ois,
-> 
-> O? pr?cis?ment se trouve cette r?f?rence? Je ne le sais pas, mais
-> peut-?tre le "ya?" est le trika (LGG)?
-
 In chapter 8 the commentary of *mi?rau ca* says:
-
  anena dvit?y?k?araprast?ra? dar?ayati| cak?ra?
   p?rvaprast?rasamuccay?rtha?| dvikau glau sth?payitv?
   anantara? dvit?yasth?ne?u mi?rau glau vinyaset| gak?ro
@@ -32,14 +15,10 @@ In chapter 8 the commentary of *mi?rau ca* says:
   pratham?y?m_?v?ttau gak?rau mi?rau sth?payet| dvit?y?y??
   lak?r?v_iti| tato madhye lekh?m_apanayet| eva? catu?prak?ro
   dvyak?araprast?ro bhavati| tadyath?--- gau lgau glau l?v_iti||
-
 Everything is clear for me, except the quotation...
-
 Thank you for helping. (Madhav Deshpande asks for a scan, I think that
 this passage is enough for the context, and less heavy for the list...)
-
 F.
--- 
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -48,10 +27,6 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
-
-
-
--- 
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -60,12 +35,3 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
-
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: signature.asc
-Type: application/pgp-signature
-Size: 234 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20170831/4542ab21/attachment.sig>
-

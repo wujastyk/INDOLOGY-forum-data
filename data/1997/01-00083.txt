@@ -1,55 +1,24 @@
-From max at newciv.org  Fri Jan 17 20:30:02 1997
-From: max at newciv.org (Max)
-Date: Fri, 17 Jan 97 20:30:02 +0000
-Subject: Devanagari for the Mac
-Message-ID: <161227027914.23782.3175333414775370520.generated@prod2.harmonylists.io>
-
+Devanagari for the Mac
 At 10:43 PM 1/17/97 GMT, you wrote:
->Dear indologists,
->Can anyone please tell me where to find a good set of devanagari fonts for
->the Mac? 
-
 there were some public domain fonts around several years ago, 
 of which I put a modified version at:
-
  http://www.newciv.org/jhs/fonts/fonts.html
-
 these are old-style Mac bitmap fonts in 12 and 25 point,
 not TrueType or PostScript. I didn't try them on 7.5.x, tho.
-
 If you can't retrieve them immediately, I'm reshuffling the
 sites on newciv.org currently. Ultimately they should 
 resurface at 
-
  http://www.newciv.org/Sanskrit/
-
 and
-
  http://www.newciv.org/Pali/  
-
 If so, try again in a day or so.
-
 This site contains also TTF and PostScript Roman-Translitared 
 fonts compatible with  Prof.Norman's font (which unfortunately
 do not scale very well at all).
-
 If there are problems, pls send me private e-mail and I'll
 try to take care of it..
-
 Max
-
-
-
-
----------------------------------
  Max J. Sandor, PhD
-
  max at newciv.org
  msandor at jccc.medsch.ucla.edu
-
  http://www.newciv.org/max/
-
-
-
-
-

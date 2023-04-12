@@ -1,9 +1,4 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Sat Jan 21 00:20:00 1995
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Sat, 21 Jan 95 09:20:00 +0900
-Subject: Yano' program
-Message-ID: <161227018273.23782.5258624733191758626.generated@prod2.harmonylists.io>
-
+Yano' program
 As I wrote in my announcement, our Pancanga program was written by
 TurboPascal and runs by IBM and its compatible.  You can not run it
 by Mac. But if you are interested in the program itself, you can
@@ -11,11 +6,4 @@ look at it by downloading pancang2.pas which is a plain text file.
 Anyway pancang2.uu is not BINARY but uuencoded to ASCII file so
 that you can download it as ordinary text file.
 Michio YANO
-
 PS It seems that our ftp machine is working well.
- 
-
-
-
-
-

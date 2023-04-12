@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Mon Jan 10 16:02:13 2000
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Mon, 10 Jan 00 11:02:13 -0500
-Subject: A Vedic Question
-In-Reply-To: <20000110155438.77064.qmail@hotmail.com>
-Message-ID: <161227055123.23782.10530515155952456112.generated@prod2.harmonylists.io>
-
+A Vedic Question
 This question may be too technical for all but the hard-core Vedic
 scholars.  While looking at the Padapaa.tha for RV 4.16.6 and AV 20.77.6
 which are identical with each other, I find that the last word vavru.h is
@@ -13,7 +7,3 @@ are common in the Kramapaa.tha, but not in the Padapaa.tha.  Can anyone
 think of why such a repetition might have come about in the Padapaa.tha.
 Best,
                                         Madhav Deshpande
-
-
-
-

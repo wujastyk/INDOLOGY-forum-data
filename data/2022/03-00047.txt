@@ -1,65 +1,12 @@
-From vasishtha.spier at gmail.com  Mon Mar 14 20:16:28 2022
-From: vasishtha.spier at gmail.com (Harry Spier)
-Date: Mon, 14 Mar 2022 16:16:28 -0400
-Subject: [INDOLOGY] Grantha fonts for Mac
-In-Reply-To: <B3FACBC9-871B-4602-B167-52F5A81DA53C@aol.com>
+[INDOLOGY] Grantha fonts for Mac
 References: <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662.ref@aol.com>
  <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662@aol.com>
  <B3FACBC9-871B-4602-B167-52F5A81DA53C@aol.com>
-Message-ID: <CAJ3b0o8MGaMmg2=c3cLN8Gr89UOiSMXV6FFuegW_SHKeai6TzA@mail.gmail.com>
-
 I am aware of this font family
 https://fonts.google.com/noto/specimen/Noto+Serif+Grantha
 and this online keyboard for it.
 https://www.lexilogos.com/keyboard/grantha.htm
  I haven't used either.
-
 Harry Spier
-
-
 On Mon, Mar 14, 2022 at 3:39 PM Sudalaimuthu Palaniappan via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Sorry, I meant a Unicode font for Grantha for Word for Mac.
->
->
->
-> Regards,
->
-> Palaniappan
->
->
->
-> *From: *"palaniappa at aol.com" <palaniappa at aol.com>
-> *Date: *Monday, March 14, 2022 at 2:35 PM
-> *To: *Indology List <Indology at list.indology.info>
-> *Subject: *Grantha fonts for Mac
->
->
->
-> Dear Indologists,
->
->
->
-> Does anybody have a recommendation for a font for typing Grantha texts in
-> Word for Mac?
->
->
->
-> Thank you in advance.
->
->
->
-> Regards,
->
-> Palsaniappan
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220314/e0729756/attachment.htm>
-

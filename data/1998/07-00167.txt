@@ -1,22 +1,7 @@
-From emstern at NNI.COM  Sun Jul 12 15:43:45 1998
-From: emstern at NNI.COM (Elliot Stern)
-Date: Sun, 12 Jul 98 11:43:45 -0400
-Subject: B.rhatii edn particulars - correction
-Message-ID: <161227040802.23782.10655019630280711132.generated@prod2.harmonylists.io>
-
->This is a question for Miimaa.msaa specialists and librarians on the list.
->
->I have four volumes of Prabhaakara's B.rhatii published in the Madras
->University Sanskrit Series. They are numbered I, II, IV and V. However,
->between II (published as MUSS no. 24 in 1962) and IV (published as MUSS
->no. 25 in 1964), I do not find any text missing that could have required
->another volume. Is the absence of volume III then due to an error in
->numbering? Are there any sets in which the numbering is corrected?
-
+B.rhatii edn particulars - correction
 The cover of MUSS no. 24 published in 1962 clearly says Part II, The series
 title page (I think that is what is called) in my copy reads Part III, but
 it appears as though the third stroke of III was penned in.
-
 I think the solution is that Zaalikanaatha's BhASyapariziSTa [tarkapAda],
 published as MUSS No. 3 Part II, under the general title BRhatii of
 Prabhaakara Mizra,is considered as volume 2 of BRhatii. But after MUSS no.
@@ -25,15 +10,10 @@ realized that there was already a Part II (even though it wasn't really
 BRhatii), so some effort was made to mark at least some of the already
 printed copies as Part III. MUSS no.25 then had to be published as Part IV,
 etc.
-
 So, Ashok, you're got all there is of BRhatii.
-
 Best wishes,
-
 Elliot
-
 *ADDITION*
-
 I replied in haste sometime after three in the morning (that is, rather
 late), and remembered shortly after shutting down the computer, that MUSS
 No. 3 (published by the University of Madras in 1936), not only contains
@@ -41,20 +21,11 @@ BhASyapariziSTa, but a printed copy of the portion of the Madras Government
 Oriental Manuscript Library transcript used for the edition in I, and a
 list of variant readings in a second BRhatii ms. in the collection of the
 Shringeri Math.
-
 If this volume is not otherwise available to you, and you would like a copy
 of all or part, I think my bound xerox copy will copy decently.
-
 Elliot
-
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
 USA
-
 telephone: 215 747 6204
-
-
-
-

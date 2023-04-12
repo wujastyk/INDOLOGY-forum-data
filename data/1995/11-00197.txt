@@ -1,9 +1,4 @@
-From A.Raman at massey.ac.nz  Tue Nov 28 05:29:41 1995
-From: A.Raman at massey.ac.nz (Anand Venkt Raman)
-Date: Tue, 28 Nov 95 18:29:41 +1300
-Subject: Request for comments: Informal extended abstract
-Message-ID: <161227021812.23782.5623104814933340646.generated@prod2.harmonylists.io>
-
+Request for comments: Informal extended abstract
 Some time ago I was experimenting with an AI program that formed
 inductive theories by successively merging situations which appear in
 similar contexts.  You could tell it what degree of generalisation you
@@ -11,7 +6,6 @@ want it to make via a variable parameter.  Accidentally, I ran it
 on some data with runaway generalisation and it produced a trivial
 (but useless for prediction) theory by merging all possible outcomes
 into a single state.
-
 That night, as I thought about it, the following thought struck me
 which I have developed into a sort of informal extended abstract.  I
 would ideally like to develop this further into a formal note and thus
@@ -19,24 +13,19 @@ would like some comments on it.  I am thus posting it to the list and
 would greatly appreciate any feedback the members might have.  I would
 also be grateful to not be flamed for any glaring errors the article
 may contain.
-
 It is a novel and modern :-) solution to the problem Sankara faced
 when asked how a singular soul could undergo rebirth because of its
 actions towards other(?) souls.
-
 Thanks.
-
 - &
 	 ON RECONCILING SANKARA'S MONISM WITH THE DOCTRINE OF
 	     KARMIC REBIRTH - INFORMAL EXTENDED ABSTRACT
-
 Sankara's monism is a form of Hindu philosophy. In fact, it is one of
 the most popular ones. It emerges in the Hindu Scriptures and was
 developed by the Hindu philosopher and theologian Sankara in the 8th
 century. Sankara, it has been argued, made the theory cogent and
 intelligible, consistent with other scriptural claims and even used it
 as a tool in an attempt to try and convert recalcitrant Buddhists.
-
 Briefly, Sankara's monism, or Advaita as it is called, says that there
 is no distinction between mind and body, and besides, that there is
 only one mind in the universe. This non-dual mind is identified with
@@ -46,7 +35,6 @@ Maya, in this mind due to its intrinsic ignorance about the nature of
 things.  There need be no cause for ignorance, Sankara argues, as it
 occurs naturally.  Only wisdom needs to be explained.  Thus there is
 no need to posit any further entities to back this thesis.
-
 Now, post-vedic Hindu scriptures contain ample references also to the
 doctrine of karmic rebirth1. That is, every being is caught in an
 unending cycle of births and deaths.  As you sow, so you shall reap.
@@ -60,7 +48,6 @@ a butterfly in this life, then you will be reborn as a butterfly in
 one of your future lives during which this butterfly will be born as a
 human who will kill you, thus evening things out in the final
 reckoning.
-
 At first sight, this doctrine itself seems fraught with many serious
 problems of personal identity and the final equalisation seems
 extremely doubtful given the interconnectedness of so many events.
@@ -71,7 +58,6 @@ But none of them seem convincing to one who is not already convinced
 by its naive presentation above.  I hope, however, that I am able to
 give a cogent rendition of the doctrine in this note that will solve
 all these problems convincingly.
-
 Besides having problems of its own, the doctrine of karmic rebirth is
 also inconsistent with Advaita.  Simply, if there is a soul that
 undergoes death and rebirth because of its actions towards other
@@ -89,7 +75,6 @@ caught in the endless cycle of karmic rebirth - the absolute soul is
 free from karmic consequences and as such is untouched by birth or
 death.  The apparent existence of the manifested soul is a consequence
 of Maya in the absolute soul.
-
 I have never been truly happy with this interpretation. It looks to me
 to be suspiciously close to an ad hoc modification to Sankara's
 original thesis. I was also unhappy with this because there is a much
@@ -105,4 +90,3 @@ time.  Thus, a person who dies today, may not necessarily be reborn
 tomorrow or in the next instant; he or she may be reborn a million
 years into the future or even (swallow this for the moment) in the
 past!
-

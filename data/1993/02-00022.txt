@@ -1,16 +1,10 @@
->?From THRASHER at MAIL.LOC.GOV 08 1993 Feb GMT 11:50:11
-Date: 08 Feb 1993 11:50:11 GMT
-From: ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV>
-Subject: RE: MAGIC SQUARES
-
+RE: MAGIC SQUARES
 Hi, 
-  
 I have done some research on the field of magically filled hexagons 
 (i.e. that yield an equal sum in all three directions), and am very 
 much interested in references to such things in Indian mythology/tradition. 
 Also the other material (about magic squares and stars) has my interest. 
 Can you please send me more about this subject. 
-  
 The Hexagons are interesting to me since there is only one way to fill 
 a hexagonal grid of 19 cells with the numbers 1...19 in a 'magical' 
 way. Larger hexagonal grids cannot be filled in a magical way with 
@@ -20,25 +14,16 @@ for 37-cell grids with the numbers 3...39. I wonder whether such things
 have been done in ancient India, since it costed me several days of 
 computer time to get it right, and I was not able to find any pattern 
 in it. 
-  
 (for those interesting, a publication about this is somewhere in the 
 process of going to a magazine... but it has nothing to do with indology) 
-  
 Jeroen 
-  
--- 
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl> 
 't Zand 2                         Phone: +31-3473-73935 (home) 
 4133 TB Vianen                    (18.00--21.00 GMT) 
 The Netherlands                   Answer in English, German, or Dutch. 
-  
-  
-------------------------------------------
 THIS IS A REPLY TO THE ABOVE MESSAGE
 SUBJECT OF THE REPLY: REPLY                         
-------------------------------------------
           Dear Jeroen, 
-           
             I  am not aware of any magic hexagons in India; I merely listed 
           them as an example of the sorts of figures that can be "magic" in 
           the mathematical sense.    Did  you  ever  see  Martin  Gardner's 
@@ -48,7 +33,6 @@ SUBJECT OF THE REPLY: REPLY
           it  I can hunt up  the reference, though my papers are disordered 
           from several moves.  I'll also see  if  I have any info. on magic 
           stars in India. 
-           
           Alen Thrasher 
           Southern Asia Section 
           Library of Congress 
@@ -56,8 +40,3 @@ SUBJECT OF THE REPLY: REPLY
           tel. 202-707-5600 
           fax 202-707-1724 
           thrasher at mail.loc.gov                                             
-
-
-
-
-

@@ -1,26 +1,9 @@
-From hsa01dk at goldsmiths.ac.uk  Thu Aug  4 14:48:16 1994
-From: hsa01dk at goldsmiths.ac.uk (hsa01dk at goldsmiths.ac.uk)
-Date: Thu, 04 Aug 94 15:48:16 +0100
-Subject: Diacritics fonts for Word for Windows? Please.
-Message-ID: <161227017015.23782.13747448057485143181.generated@prod2.harmonylists.io>
-
+Diacritics fonts for Word for Windows? Please.
 Dear Alec,
-
->I have created a set of TrueType fonts and WinWord macros which can 
->handle the accented letters of over 60 languages, including transliterated 
->Sanskrit, Prakrit etc. 
-
 I am interested in your fonts. Would they work with any Windows? I realise
 the macros won't be the same, but I would like to use them with AmiPro if
 possible.
-
->I will be attempting to upload the package (called LeedsBit) to the CICA 
->(Indiana) and SRC (London) archives in the next few hours, but I've 
->never uploaded anything before, so if it isn't there in the next day or two, 
->please feel free to contact me directly.
-
 Can you give me the SRC site address, please?
-
 Many thanks,
 Damien
 *************************************************
@@ -31,10 +14,3 @@ London UK, SE14 6NW
 Voice (+44)  071 692 7171 Ext.2153
 Fax:   (+44)  071 694 8911
 *************************************************
-
- 
-
-
-
-
-

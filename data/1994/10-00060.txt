@@ -1,23 +1,4 @@
-From mhcrxlc at dir.manchester-computing-centre.ac.uk  Wed Oct 12 23:20:01 1994
-From: mhcrxlc at dir.manchester-computing-centre.ac.uk (mhcrxlc at dir.manchester-computing-centre.ac.uk)
-Date: Wed, 12 Oct 94 23:20:01 +0000
-Subject: Questions concerning Classical Indology:  Help Wanted
-Message-ID: <161227017566.23782.5629045904723896777.generated@prod2.harmonylists.io>
-
->3       I have investigated the word vaiyaap.rtyakara (v.l.
->vaiyaav.rtyakara, vaiyaav.rttyakara, vaiyaav.rttikara, vaiyaapatyakara
->etc.).  The word is not common, apparently, in Buddhist sources, but occurs
->in the text I am studying (_Ratnaraa'sisuutra_) in the meaning of
->"supervisor."  It occurs e.g. in Kautilya but apparently in a (somewhat)
->different sense.  MW cites the word vaiyaav.rttyakara from _Kalpasuutra_
->(which refers to what, exactly?) and _Naaradasm.rti_.  Can anyone confirm
->these instances (e.g. the learned editor of the latter)?  In addition, the
->word occurs in _Mankhako'sa_ 454c, and the commentary (Zachariae 1897: 60)
->refers to or quotes _Bhalla.ta'sataka_ 37.  What is this?  According to
->S.B. Deo (History of Jaina Monachism p. 371) the _Oghaniryukti_ commentary
->explains v.r.sabha as viayaav.rtyakara.nasamartha.h.  I do not have any
->access to this text.  Can anyone check this reference?
-
+Questions concerning Classical Indology:  Help Wanted
 My PTS Dictionary gives the Jaataka and the Vimaanavatthu Commentary as
 references for veyyaavaccakara: J iii 327 and VvA 349. I can not check
 these references, although going by Masefield's translation it appears to
@@ -25,20 +6,8 @@ be used to explain pesiyo. It occurs more than eight times in the Vinaya
 commentary. See Samantapaasaadikaa Vol VIII = Index Vol. The sense in Pali
 seems to be someone who performs service e.g. a lay helper for monks
 (kappiyakaaraka), but I have not checked all the references.
-
 I hope this may be of some help.
-
 Lance Cousins
-
-
 MANCHESTER, UK
 Telephone (UK): 061 434 3646  (International) +44 61 434 3646
 Fax (UK):       061 275 3613  (International) +44 61 275 3613
-
-
- 
-
-
-
-
-

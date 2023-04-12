@@ -1,22 +1,6 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Thu Apr  6 18:31:10 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Thu, 06 Apr 95 18:31:10 +0000
-Subject: More on "sarva"
-Message-ID: <161227019073.23782.3370995641609645122.generated@prod2.harmonylists.io>
-
+More on "sarva"
 In article <Pine.SUN.3.91.950405152952.19981A-100000 at spruce.rs.itd.umich.edu>
 mmdesh at umich.edu writes:
-
->> Gillon's translation of the Sanskrit line leaves out the rhetorical force 
->> of the text.  The translation appears 'bland' in comparison with the 
->> original.  'Yaavaan kaScit pratizedhaH' could perhaps be rendered as 
->> 'Whatsoever negation there is', 'sa sarvaH anupalabdheH': 'all that is 
->> [caused] by non-apprehension'.  Thus, in the original Sanskrit, I do not 
->> see any redundanncy, when we take the rhetorical force into account.  
->> Otherwise, in Sanskrit itself, from a purely propositional point of view, 
->> one could rephrase the sentence without the word sarva.
->> 	Madhav
-
 What you call "rhetorical force" is precisely what I meant with
 "content-specific" reasons for the _sarva_ not being redundant here.
 To insert a bit of the context of this sentence in the translation,
@@ -31,14 +15,6 @@ because of the "rhetorical force" etc. Of course,
 from a purely propositional point of view, a lot of
 Sanskrit words could be done without in all possible
 kinds of texts...
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

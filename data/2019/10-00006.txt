@@ -1,12 +1,5 @@
-From dominik.haas at univie.ac.at  Tue Oct  1 08:45:42 2019
-From: dominik.haas at univie.ac.at (Dominik Haas)
-Date: Tue, 01 Oct 19 10:45:42 +0200
-Subject: [INDOLOGY] Highlights from the Sanskrit corpora
-In-Reply-To: <CAKdt-Cd+Q=Niiw9NZX5Vzhvc21M2NrhZ8Zq6dDYWVcGFAdSwEQ@mail.gmail.com>
-Message-ID: <2c23fad2-119a-7b68-cd4c-6ab6097b1c11@univie.ac.at>
-
+[INDOLOGY] Highlights from the Sanskrit corpora
 Dear Jonathan and Dominik,
-
 I just had the very same thoughts. I'm not an expert of law either, but 
 technically speaking, the BORI Mah?bh?rata is not simply an edition, but 
 a new text created by its editors between 1919 and 1966. The editors 
@@ -18,89 +11,15 @@ of its text. According to German law (mentioned by Dominik), however, it
 does not ? 25 years have long gone past since the publication of the 
 original edition. The co-owned copyright of Prof. Tokunaga (1994), too, 
 would expire this year ? in Germany.
-
 Of course, authors also have the copyright to transcriptions of their 
 text ? just imagine someone would transcribe a talk you give and then 
 publish it as their own text. I would argue that creating an electronic 
 transcription of a (copyrighted) Devan?gar? text isn't much different.
-
 Best regards,
-
 Dominik A. Haas
-
-
-
-__________________
 *Dominik Haas, BA MA*
 PhD student, University of Vienna
 dominik.haas at univie.ac.at <mailto:dominik.haas at univie.ac.at>
 ORCID: 0000-0002-8505-6112 <https://orcid.org/0000-0002-8505-6112>
 univie.academia.edu/DominikHaas <https://univie.academia.edu/DominikHaas>
-
 Am 01.10.2019 um 10:14 schrieb Dominik Wujastyk via INDOLOGY:
-> Copyright is a slippery beast.? But the law is not *that* difficult in 
-> broad outline.
->
-> What you say, Jonathan, about not being able to claim copyright over 
-> editions, is definitely wrong. One can.? Authors, editors, and 
-> publishers do so all the time.? It's routinely printed on the back of 
-> the title page.
->
-> There *is* a precedent of some sort specifically in German law that 
-> copyright on an edition expires after 25 years, and not the usual 60 
-> or 70 years after the death of the author.? Some other countries are 
-> looking at this German law and behaving accordingly.? See
-> Margoni, Thomas and Perry, Mark, Scientific and Critical Editions of 
-> Public Domain Works: An Example of European Copyright Law 
-> (Dis)Harmonization (November 18, 2011). Canadian Intellectual Property 
-> Review, Vol. 27, p. 157. Available at SSRN: 
-> https://ssrn.com/abstract=1961535 (PDF) 
-> <https://www.dropbox.com/s/mb8mc9rpsc1q2wb/Margoni%202011%20SSRN-id1961535.pdf?dl=0>
->
-> But copyright inheres in all sorts of things.? So, a book contains 
-> text written by an author.? The author has copyright of that (unless 
-> they sign it away).? But the book also has a certain design, created 
-> by a book designer.? That may be subject to copyright, if it is 
-> particularly original.? Someone created the typeface and owns the 
-> copyright of that.? So you could get the author's permission to 
-> photocopy the book and the designer and typeface creators could still 
-> sue you for breach of their copyright.? It's all very vexing.
->
-> In the case of the Mbh, I think there's a arguable case that BORI owns 
-> copyright of the text, but Prof. Tokunaga co-owns copyright of the 
-> electronic transcription.? Because he made something new and unique, 
-> especially by dividing compounds and so forth, thereby creatively 
-> adding original content.
->
-> The Wikipedia page on Copyright 
-> <https://en.wikipedia.org/wiki/Copyright>and on infringement 
-> <https://en.wikipedia.org/wiki/Copyright_infringement> are good, 
-> incidentally.? As the latter page says,
->
-> Shifting public expectations, advances in digital technology, and the 
-> increasing reach of the Internet have led to such widespread, 
-> anonymous infringement that copyright-dependent industries now focus 
-> less on pursuing individuals who seek and share copyright-protected 
-> content online, and more on expanding copyright law to recognize and 
-> penalize, as indirect infringers, the service providers and software 
-> distributors who are said to facilitate and encourage individual acts 
-> of infringement by others.
->
-> So while it's unlikely that you personally would be pursued for 
-> putting the BORI Mbh on your website, the website maintainer or even 
-> hosting business might be pursued.
->
-> Best,
-> Dominik
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191001/129d4d4c/attachment.htm>
-

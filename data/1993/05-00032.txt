@@ -1,11 +1,5 @@
-From l.m.fosse at easteur-orient.uio.no  Mon May 31 09:09:48 1993
-From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
-Date: Mon, 31 May 93 14:09:48 +0500
-Subject: Issues in the creation and dissemination of Sanskrit e-texts
-Message-ID: <161227015838.23782.14611052291284709981.generated@prod2.harmonylists.io>
-
+Issues in the creation and dissemination of Sanskrit e-texts
 Regarding Dominik's email on etexts:
-
 I fully agree with what Dominik says, and I would like to add a few
 comments of my own. Collecting existing Sanskrit (and/or middle indic)
 etexts would be extremely useful to us all. In other fields of philology
@@ -22,7 +16,6 @@ texts with proper transcription characters. So far, I have seen nothing
 better in the field of computer based transliteration. Converting to other
 font systems is easy. I therefore suggest that we should try to agree on a
 common format, and I put the "TUSTEP" format up as my candidate.
-
 As regards the construction of corpora, diversity is as important as the
 number of words. Large corpora are usually divided into genres, and text
 samples may be limited to 2,000 words. The Brown Corpus contains one
@@ -40,28 +33,12 @@ Therefore, all you indologists out there who have entered a few thousand
 words of Sanskrit on your computer, don't hesitate to share your work with
 the rest of us. Some of us may even have entered other parts of the same
 text, so that we could put together a complete electronic edition!
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
-
 Lars Martin Fosse
 Department of East European
 and Oriental Studies
 P. O. Box 1030, Blindern
 N-0315 OSLO Norway
-
-Tel: +47 22 85 68 48
 Fax: +47 22 85 41 40
-
 E-mail: l.m.fosse at easteur-orient.uio.no
-
- 
-
-
-
-
-

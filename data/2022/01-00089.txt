@@ -1,19 +1,11 @@
-From bihanisarkar at googlemail.com  Wed Jan 19 08:23:28 2022
-From: bihanisarkar at googlemail.com (Bihani Sarkar)
-Date: Wed, 19 Jan 2022 08:23:28 +0000
-Subject: [INDOLOGY] Digital Editions of Sanskrit texts
-In-Reply-To: <CABC99BTRdaXBN7Ck3ZCLcC3Ke3sQGewrzLUoOLOmjezdrh5hog@mail.gmail.com>
+[INDOLOGY] Digital Editions of Sanskrit texts
 References: <CABC99BTRdaXBN7Ck3ZCLcC3Ke3sQGewrzLUoOLOmjezdrh5hog@mail.gmail.com>
-Message-ID: <CABC99BT1r8=N3iKquUhX9gBypA3jy34CercG2kE_k-6anO-LoA@mail.gmail.com>
-
 Dear List members
 A warm thanks to Dr. Ruppel, Prof. Olivelle, Dr Birch and others for their
 responses and further questions.
-
 To clarify one question: by digital edition I mean not a digital text of
 the sort available on GRETIL for example, but something more, like this:
 https://editions.byzantini.st/ChronicleME/#/home
-
 As you will see above, the digital edition of the Chronicle of Matthew of
 Edessa by Dr Tara Andrews and her team, is an interactive critical edition,
 including graphs, maps, the transcriptions of all the manuscripts used
@@ -23,61 +15,8 @@ potentially show a text as multiple historically protean texts rather than
 the single archetype we reconstruct in traditional philology.  I found this
 exciting and was hoping to develop something like it but with many more
 layers of content, something dense and rich.
-
 I hope that explains a bit more what I was after.
-
 Thank you
 Bihani
-
 On Saturday, January 15, 2022, Bihani Sarkar <bihanisarkar at googlemail.com>
 wrote:
-
-> Dear List Members,
->
-> A very happy New Year. I hope this finds you well.
->
-> I write to inquire if anyone on this list may know about the production of
-> digital editions of Sanskrit texts. There has been some exciting work in
-> digital humanities and Biblical Studies, and I am eager to see if the
-> latest advances can be used profitably for a research project I am
-> developing.
->
-> Apart from designing such a digital edition, I am interested in learning
-> about manuscript transcription tools using artificial intelligence such as
-> Transkribus, digital collation tools, such as Collate-X, and digital tools
-> for stemmatic analysis such as Stemmaweb.
->
-> If you have been involved, or know someone who is involved, in Indological
-> research projects creating such editions, and are aware of all these
-> issues, I would be extremely grateful for your help and advice (especially
-> about costs involved and personnel). Please do contact me at
-> bihani.sarkar at orinst.ox.ac.uk
->
-> Thank you.
->
-> Yours sincerely,
->
-> Bihani Sarkar MA (English, First Class Honours), MPhil, D.Phil (Sanskrit),
-> (Oxon.)
-> Departmental Lecturer in Sanskrit.
-> Faculty of the Oriental Institute, University of Oxford.
-> Balliol College, University of Oxford.
-> Associate Research Fellow, St Hilda?s College, University of Oxford.
->
-> *Heroic Sh?ktism: The Cult of Durg? in Ancient Indian Kingship*:
-> https://global.oup.com/academic/product/heroic-
-> shktism-9780197266106?cc=gb&lang=en&
->
-> *Classical Sanskrit Tragedy: the concept of suffering and pathos in
-> Medieval India*:
-> https://www.bloomsbury.com/uk/classical-sanskrit-tragedy-9781788311113/
->
-> Alok?: Online Lessons in Ancient Indian Texts and Traditions:
-> https://www.bihanisarkar.com/
->
->
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220119/ef0249b6/attachment.htm>
-

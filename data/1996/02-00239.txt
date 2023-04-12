@@ -1,15 +1,5 @@
-From pdb1 at columbia.edu  Tue Feb 20 14:38:25 1996
-From: pdb1 at columbia.edu (Peter D Banos)
-Date: Tue, 20 Feb 96 09:38:25 -0500
-Subject: your mail
-Message-ID: <161227022950.23782.13414234268257555779.generated@prod2.harmonylists.io>
-
+your mail
 On Tue, 20 Feb 1996 AmitaSarin at aol.com wrote:
-
-> What is the relnship, if any, between Islamic chronograms and numerical
-> values of Devanagiri consonants?  Which came first?  Did they develop
-> independantly?  Are chronograms also composed in Hindi?
-
 The Islamic chorongrams are based on a particular alphabetical order, 
 "abjad," which is very different from that normally used for Arabic 
 (Alif, ba, ta...) but is close to that used in other Semitic languages 
@@ -18,11 +8,5 @@ works almost exactly the way the Hebrew chronographic system does. This
 would mean its origins are somewhere in the pre-Islamic Middle East.
 I do not know of any Indic system that works the same way; but I've never 
 looked into the question much and someone on the list probably knows better.
-
 						-Peter D. Banos
 						pdb1 at columbia.edu
-
-
-
-
-

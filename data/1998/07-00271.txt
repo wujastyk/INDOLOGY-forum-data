@@ -1,12 +1,6 @@
-From jds10 at CUS.CAM.AC.UK  Thu Jul 23 14:11:51 1998
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Thu, 23 Jul 98 15:11:51 +0100
-Subject: CSX+: final draft
-Message-ID: <161227040982.23782.10821378120684932254.generated@prod2.harmonylists.io>
-
+CSX+: final draft
 This message is being posted to both the Indology and Conv-dev mailing
 lists. Apologies to those who receive it twice.
-
 Some weeks ago I announced a proposal for an enhanced version of the
 CSX character set, to be named CSX+: the aim was to provide a broadly
 CSX-compatible encoding containing a number of new characters whose
@@ -15,13 +9,11 @@ proposed that CSX+ should implement all the characters required by the
 draft ISO/TC46/SC2 standard for transliteration of Indian languages:
 this has been under discussion for the past year on the conv-dev
 mailing list, and is now nearing completion.
-
 Recent contributions to the conv-dev discussion have made it
 impossible to finalise CSX+ until now, since significant changes to
 the draft standard have continued to be debated. However, it does now
 appear that a broad consensus may have been reached, and I think the
 time has come to agree a definitive version of the encoding.
-
 The attached file contains the proposed definition of the CSX+
 character set. It differs in three respects from the previous version:
 (1) character 156 is now e-macron-tilde, not sterling (pound sign);
@@ -32,19 +24,14 @@ replacements are necessary: m-breve is used for the Sinhalese
 half-nasal before a labial, and e-macron-tilde and o-macron-tilde are
 required for citing forms from northern Indian languages in a southern
 (or pan-Indian) context.
-
 I would welcome comments on this final draft of the CSX+ "standard".
 Assuming it meets with general approval, I shall release a set of
 fonts implementing it in about one week's time.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
 # CSX+ encoding for mkt1font and vpl2vpl
 #
 # Enhanced version of CSX (Classical Sanskrit eXtended encoding)
@@ -55,8 +42,6 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 # It also seeks to implement the (draft) ISO/TC46/SC2 standard, while
 # retaining a useful set of European accented characters and adding
 # dashes and directional double quotes.
-
-
 128	C cedilla
 129	u dieresis
 130	e acute
@@ -187,7 +172,3 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 253	M underdot
 254	h underdot
 255	H underdot
-
-
-
-

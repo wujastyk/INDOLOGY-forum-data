@@ -1,14 +1,5 @@
-From ucgadkw at ucl.ac.uk  Fri Oct 20 10:12:55 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 20 Oct 95 10:12:55 +0000
-Subject: Is CSX the best solution?
-Message-ID: <161227021381.23782.13984986136814857967.generated@prod2.harmonylists.io>
-
+Is CSX the best solution?
 DR.S.KALYANARAMAN said:
-> ascii has a restricted range: 91 keys; ANSI doubles it. I suppose the 
-> Truetype fonts e.g. Times Roman based on ANSI set can also provide
-> for the tranliteration and text exchange functions.
-
 You miss the point:  it isn't a matter of the size of the available
 character set, but that there is a *standard* arrangment of the
 code-points in the character set that everyone can refer to.  That is
@@ -16,53 +7,29 @@ the point of any character-set standard.  We don't even need to use CSX
 in our daily work (though there are distinct advantages in that): but
 when we want to exchange texts, or talk sensibly about encoding, at
 least we have a fixed reference point.
-
 You say that any 8-bit character set can "provide for the
 transliteration and text exchange functions"; well this can only work if
 the charset encoding is exchanged along with the text, and separately
 from it.  If that isn't done, you obviously get in a mess.  CSX is a
 publicly available standard, aimed at solving this problem.
-
-> > I don't understand.  There is no ANSI definition for South Asian scripts.
-> 
-> The CD ROM I had referred to provides an ANSI definition for the glyphs
-> required to represent South asian scripts. For example, the diacritical
-> needed for 'r' in Sanskrit required a particular glyph to be ligatured to 
-> 'T' and anoter glyph to be ligatured to, say, 's' preceding. Each of these
-> glyphs gets assigned an ANSI number from 32 (space) to 255. Thus, ANSI
-> enables the depiction of glyphs needed to calligraphic elegance.
-
 Ah.  When you say ANSI, you really mean 8-bit, not ANSI; to say
 "provides ANSI definition for the glyphs required to represent South
 asian scripts" suggests that the American National Standards Institute
 (ANSI) has paid some attention to South Asian scripts.  Sadly, this
 isn't true (except for Unicode).  What you are talking about is a
 character set with 256 code-points (i.e., 8-bit, 2 to the power 8).
-
 CSX is an 8-bit character set too, and gives access not only to
 pre-formed accented characters for Sanskrit etc., but also to those
 required for the major European languages (a-circumflex, e-acture,
 etc.).
-
 NB: CSX is not a font.  It is a character-set definition, in the same
 way as the many definitions published under ISO 8859 (ECMA-94) for
 "8-bit single-byte coded graphic character sets".
-
 There are several excellent free and commercial fonts available that use
 the CSX character layout.  The free ones (both in PostScript and
 TrueType formats) are available via the INDOLOGY gopher/ftp/Web site
 (see http://www.ucl.ac.uk/~ucgadkw/indology.html, and follow the menus
 to "supplementary gopher, software").
-
 The documentation for the CSX standard is available in the same place.
-
 Best wishes,
 Dominik Wujastyk
-
-
- 
-
-
-
-
-

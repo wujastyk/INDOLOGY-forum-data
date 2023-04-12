@@ -1,15 +1,7 @@
-From fmgerety at fas.harvard.edu  Sun Nov  9 21:45:41 2014
-From: fmgerety at fas.harvard.edu (Moore Gerety, Finnian)
-Date: Sun, 09 Nov 14 21:45:41 +0000
-Subject: [INDOLOGY] INDOLOGY Digest, Vol 22, Issue 8
-In-Reply-To: <mailman.1243.1415566068.8343.indology_list.indology.info@list.indology.info>
-Message-ID: <F1FB5BC0484C5F4DA1920D2FDE9E7E41B026FD93@HARVANDMBX01.fasmail.priv>
-
+[INDOLOGY] INDOLOGY Digest, Vol 22, Issue 8
 Dear Harry--
 Mana is indeed an ?extended family house? in that it refers to a Namp?tiri Brahmin estate and all it encompasses (landholdings, temple, residential structures, residents). But the term simultaneously serves to identify the Namp?tiri patrilineal descent group who own the estate and/or have an ancestral connection to it. Pedagogical and priestly lineages are determined by a Namp?tiri?s birth into the mana: thus, members of a given mana specialise in the texts and rituals of a particular Vedic branch and officiate by hereditary right in particular contexts. For example, Ne?umpi??i Mana is associated with the (very rare) branch of the Black Yajurveda, V?dh?la; the family also plays a supervisory role in  temple worship across Kerala. That mana has an extensive library of manuscripts, which Yasuke Ikari, Masato Fujii (Kyoto University), and Mieko Kajihara (Tokyo University) have been documenting for many years now.
-
 You can find more information and references in Marjatta Parpola?s Kerala Brahmins in Transition: A Study of a Namp?tiri Family, Studia Orientalia 91, Helsinki 2000.
-
 yours,
 Finnian
 = = = = = = = = = = =
@@ -17,87 +9,44 @@ Finnian M. M. Gerety
 Doctoral Candidate, Department of South Asian Studies
 Harvard University
 finniangerety.com<http://www.finniangerety.com>
-
-
-
-
-
-
-
 On 09-Nov-2014, at 3:47 pm, indology-request at list.indology.info<mailto:indology-request at list.indology.info> wrote:
-
 Send INDOLOGY mailing list submissions to
 indology at list.indology.info<mailto:indology at list.indology.info>
-
 To subscribe or unsubscribe via the World Wide Web, visit
 http://list.indology.info/mailman/listinfo/indology_list.indology.info
-
 or, via email, send a message with subject or body 'help' to
 indology-request at list.indology.info
-
 You can reach the person managing the list at
 indology-owner at list.indology.info
-
 When replying, please edit your Subject line so it is more specific
 than "Re: Contents of INDOLOGY digest..."
-
-
 Today's Topics:
-
   1. What is a "Mana" ? (Harry Spier)
   2. Re: What is a "Mana" ? (Elliot Stern)
   3. Visuddhimagga (Dominik Wujastyk)
   4. Re: prayogamukha (Madhav Deshpande)
-
-
-----------------------------------------------------------------------
-
 Message: 1
-Date: Sun, 9 Nov 2014 14:22:53 -0500
-From: Harry Spier <hspier.muktabodha at gmail.com>
-To: indology at list.indology.info
-Subject: [INDOLOGY] What is a "Mana" ?
+[INDOLOGY] What is a "Mana" ?
 Message-ID:
 <CAPW7aQFyxdCJ2ATTrut7Tj-qMCky7aH6Jwuo_ryPiRm8BGABLg at mail.gmail.com>
 Content-Type: text/plain; charset="utf-8"
-
 Dear list members,
-
 We have some old microfilm in our archives which is labelled as having been
 taken some at Nedumpilli Mana, Taikkat Mana and Kavapramarth Mana.
-
 I've found this website "Famous Manas in Kerala"
 http://www.karmakerala.com/guide/famous-manas-in-kerala-guide.html
-
 which lists Nedumpilli Mana amoung others but I'm still not clear what
 exactly is meant by a "Mana".  Is it an extended family home?, the center
 of a religious sect?, a religious school? or something else.
-
 Apologies if this is an elementary question, any help would be appreciated.
-
 Harry Spier
 Manager, Muktabodha Digital Library
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <http://list.indology.info/pipermail/indology_list.indology.info/attachments/20141109/70be2cca/attachment-0001.html>
-
-------------------------------
-
 Message: 2
-Date: Sun, 09 Nov 2014 14:42:50 -0500
-From: Elliot Stern <emstern at verizon.net>
-To: Indology Indology listserve <indology at list.indology.info>
-Subject: Re: [INDOLOGY] What is a "Mana" ?
-Message-ID: <1D9E7DD7-054E-4E42-83EE-ECD6597A6C12 at verizon.net>
+Re: [INDOLOGY] What is a "Mana" ?
 Content-Type: text/plain; charset="utf-8"
-
 Generally, a mana is a Nambutiri brahman house.  According to http://malayalamenglishdictionary.com:
 ?? (mana)
 house, abode, house of a Malayali Brahmin, wife.
-
-
-
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
@@ -105,47 +54,27 @@ United States of America
 telephone: 215-747-6204
 mobile: 267-240-8418
 emstern at verizon.net
-
 On 09 Nov  2014, at 14:22, Harry Spier <hspier.muktabodha at gmail.com> wrote:
-
 Dear list members,
-
 We have some old microfilm in our archives which is labelled as having been taken some at Nedumpilli Mana, Taikkat Mana and Kavapramarth Mana.
-
 I've found this website "Famous Manas in Kerala"
 http://www.karmakerala.com/guide/famous-manas-in-kerala-guide.html
-
 which lists Nedumpilli Mana amoung others but I'm still not clear what exactly is meant by a "Mana".  Is it an extended family home?, the center of a religious sect?, a religious school? or something else.
-
 Apologies if this is an elementary question, any help would be appreciated.
-
 Harry Spier
 Manager, Muktabodha Digital Library
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <http://list.indology.info/pipermail/indology_list.indology.info/attachments/20141109/4edf6a90/attachment-0001.html>
-
-------------------------------
-
 Message: 3
-Date: Sun, 9 Nov 2014 21:44:20 +0100
-From: Dominik Wujastyk <wujastyk at gmail.com>
-To: Indology <indology at list.indology.info>
-Subject: [INDOLOGY] Visuddhimagga
+[INDOLOGY] Visuddhimagga
 Message-ID:
 <CAKdt-CfzJ9VzQC2Ey2YDYeNRH5kG-3iE1Ndy60G4TLGWjoZjKA at mail.gmail.com>
 Content-Type: text/plain; charset="utf-8"
-
 The Visuddhimagga was edited and then published twice in Roman script in
 the first half of the 20th century.  By Caroline A. F. Rhys Davids for the
 PTS, published 1920 & 1921, and by Henry Clarke Warren for HOS,
 posthumously published in 1950.  Neither edition refers to the other.
-
 Did Warren not know about Caroline Rhys Davids' work?  Warren met him in
 Oxford in 1884, as Lanman's *Memorial* notes, and was greatly influenced by
 him.  Warren's work was done long  before that of Caroline Rhys Davids,
@@ -159,7 +88,6 @@ like five years after the war, which is understandable.  But that doesn't
 explain the twelve years of inaction before the war (and after the
 editing).  Since Warren had paid for the HOS to exist, one would have
 thought some priority might have been given to publishing his work.
-
 And why didn't Caroline RD mention Warren's work?  Warren had used one of
 her husband's manuscripts of the VM, so there would surely have been some
 awareness of Warren's work.  And Thomas Rhys Davids was alive until the end
@@ -171,108 +99,53 @@ analysis of the VM in the JPTS in 1892, but appears not to know his article
 work on the VM, published in 1894.   She mentions Warren in her afterword
 on p. 767, but only as the author of Buddh. in Tr. (1896), which
 incidentally contains a 50 passages  translated from the VM.
-
 Has someone worked out all these matters?  I would have expected ?anamoli
 to say something about this in his translation, but he doesn't.  He just
 says he's using both editions.  Perhaps there are book reviews from the
 later 1920s or 1950s that explain matters, I haven't looked yet.
-
 Has anyone systematically compared the two editions for variants?  Caroline
 RD's edition is a reproduction of four earlier printed editions, two from
 Rangoon, two from Ceylon; Warren worked from MSS, two Burmese and two from
 Ceylon.  One of Warrens' MSS came from the India Office and one from T RD's
 private collection, as mentioned, so it must have been known in England,
 and to T RD, that he was working on this text.
-
 Best,
 Dominik
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <http://list.indology.info/pipermail/indology_list.indology.info/attachments/20141109/da7fa276/attachment-0001.html>
-
-------------------------------
-
 Message: 4
-Date: Sun, 9 Nov 2014 07:11:39 -0500
-From: Madhav Deshpande <mmdesh at umich.edu>
-To: Andrey Klebanov <andra.kleb at gmail.com>,
 "indology at list.indology.info" <indology at list.indology.info>
-Subject: Re: [INDOLOGY] prayogamukha
+Re: [INDOLOGY] prayogamukha
 Message-ID:
 <CAB3-dzckgcHf+DvFCrdaVdz+v7DC8oor4aNsBu72QkoeGyZZjA at mail.gmail.com>
 Content-Type: text/plain; charset="utf-8"
-
 Dear Mr. Andrey Klevanov,
-
 I have attached the pdf of V?rarucasa?graha published in the Trivandrum
 Sanskrit Series.  If you receive digital versions of any of the other
 editions, please forward them to me.  Thanks.
-
 Madhav Deshpande
-
 On Sat, Nov 8, 2014 at 1:56 PM, Andrey Klebanov <andra.kleb at gmail.com>
 wrote:
-
 Dear members of the list,
-
 being aware of how slim the chances for the success of my query actually
 are, I, nevertheless, would like to ask, if anyone of you may have a
 digital copy of this book:
-
 http://www.worldcat.org/title/prayoga-pallavah-vararucikrta-prayogasangraha-tadvyakhyanabhuta-dharmakrttikrta-prayogamukha-paramesvarajhakrta-prayogadarpaneti-granthadvayatmakaparisistavibhusitah-visvesvaramisrakrta-prayogapallava-vyakhyopetah/oclc/311561933
 or, in fact, of any other edition of the text known under various names as
 prayogamukha-[ma??ala/ ma??ana], prayogasa?graha, v?rarucasa?graha,
 k?rakacakra etc.
-
 thank you very much in advance,
-
 Andrey Klebanov
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
-
-
-
---
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <http://list.indology.info/pipermail/indology_list.indology.info/attachments/20141109/8b2a66b4/attachment.html>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: Vararuci-TSS-033_Va?rarucasan?graha__with_the_commentary_of_Di?paprabha?_of_Na?ra?yan?a_-_TG_Sastri.pdf
-Type: application/pdf
-Size: 4058390 bytes
-Desc: not available
-URL: <http://list.indology.info/pipermail/indology_list.indology.info/attachments/20141109/8b2a66b4/attachment.pdf>
-
-------------------------------
-
-Subject: Digest Footer
-
-_______________________________________________
+Digest Footer
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://list.indology.info/mailman/listinfo/indology_list.indology.info
-
-
-------------------------------
-
 End of INDOLOGY Digest, Vol 22, Issue 8
 ***************************************
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20141109/c8c7bcc0/attachment.htm>
-

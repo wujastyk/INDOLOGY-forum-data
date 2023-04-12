@@ -1,9 +1,4 @@
-From mmdesh at umich.edu  Sun Oct 30 21:51:51 1994
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Sun, 30 Oct 94 16:51:51 -0500
-Subject: The laryngeal theory
-Message-ID: <161227017657.23782.11303639228257606663.generated@prod2.harmonylists.io>
-
+The laryngeal theory
 One may offer some clarification concerning Reusch's second point.  It is 
 more accurate to say that it is the Paninian tradition as enshrined in 
 the different versions of the Paniniya Siksa which regards aspiration, 
@@ -15,54 +10,5 @@ the term baahya-prayatna simply means that these features do not prevent
 two sounds from becoming savarNas or homogeneous class-members as defined 
 by P.1.1.9 (tulyaasyaprayatnam savarNam).  Beyond this limited purpose, 
 there is nothing 'external' signified by the term baahya.  
- 
      Madhav Deshpande
-
 Fri, 28 Oct 1994, Beatrice Reusch wrote:
-
-> I would like to request for help with the laryngeal theory. I am a graduate
-> student and, after reviewing some of the relevant litearture, am still not 
-> certain about the status and significance of the theory.
-> 
-> [1] To my knowledge, some of the aspirated sounds in IE have been analyzed
-> by some scholars in terms of the "laryngeal" sound(s) found in Hittite,
-> which are denoted by "h" (one or more) and whose phonological expression is
-> uncertain.
-> 
-> [2] On the other hand, Panini has stated that the "external effort" added
-> to the pronunciation of language sounds includes aspiration (or lack of
-> it), voicedness (or lack of it), and nasalization (or lack of it).
-> 
-> [3] In many western languages, such as English for example, aspiration only
-> makes for allophones (not for different phonemes, as is the case in
-> Sanskrit).
-> 
-> [4] The logic of the "added or external effort" is applied to add "h" to
-> some sounds and thus create new sounds (this is done by western scholars).
-> But nobody has proposed yet a theory that would imply add voicedness or
-> nasalization, as far as I know (I may be wrong), because voicedness and
-> nasalization in western languages go beyond the point of allophone-ness,
-> i.e. they make different phonemes.
-> 
-> [5] A far as I know, in Sanskrit the voiced aspirates are phonemes, wiht
-> the same status as unvoiced unaspirated sounds, for example. 
-> 
-> I would appreciate it if someone could take the time to clarify this issue
-> for me.
-> 
-> Thanks.
-> Beatrice 
-> Beatrice Reusch
-> breusch at students.wisc.edu
-> 311 North Hancock # 111
-> Madison, WI 53703
-> 608-256-6268 (voice & fax)
-> 
->  
-> 
- 
-
-
-
-
-

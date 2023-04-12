@@ -1,12 +1,5 @@
-From r.mahoney at indica-et-buddhica.org  Thu Aug 15 01:03:59 2019
-From: r.mahoney at indica-et-buddhica.org (Richard Mahoney | Indica et Buddhica)
-Date: Thu, 15 Aug 19 13:03:59 +1200
-Subject: [INDOLOGY] Easy unicode for ipad? (James Hartzell)
-In-Reply-To: <CAF2ecWup6HG-4hTVi7M20YxQXKO5MoaM1cEucnN_tqDw6fjOfg@mail.gmail.com>
-Message-ID: <4e02666d5522f141fae6a6e3bc2eae40ddacdf71.camel@indica-et-buddhica.org>
-
+[INDOLOGY] Easy unicode for ipad? (James Hartzell)
 Dear Malcolm,
-
 This is curious. I don't use a Mac, and Windows only for a few things,
 mostly
 Adobe CS6 &c. Windows 10 runs in an instance of Oracle's VirtualBox

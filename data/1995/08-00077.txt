@@ -1,9 +1,4 @@
-From mmdesh at umich.edu  Tue Aug 15 15:28:24 1995
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Tue, 15 Aug 95 11:28:24 -0400
-Subject: CSX font on Windows
-Message-ID: <161227020341.23782.9937398721703628584.generated@prod2.harmonylists.io>
-
+CSX font on Windows
 	This is a question for computer wizzards on the list.  While using
 my CSX compatible ManjushreeCSX font on MS Word (version 6) on Windows, I
 am unable to display ascii 160.  This is not a problem with Microsoft
@@ -19,9 +14,3 @@ access these upper ascii characters on a Windows-based word-processor?
 	That should be enough for the day.
 		All the best,
 				Madhav Deshpande	
- 
-
-
-
-
-

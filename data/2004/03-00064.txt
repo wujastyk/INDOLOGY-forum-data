@@ -1,39 +1,19 @@
-From A.Griffiths at LET.LEIDENUNIV.NL  Mon Mar 15 08:05:11 2004
-From: A.Griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
-Date: Mon, 15 Mar 04 10:05:11 +0200
-Subject: Sanskrit syntax problem: Double bind constructions
-In-Reply-To: <1079323866.40552cdb024e2@webmail.uchicago.edu>
-Message-ID: <161227074142.23782.15806870091039440265.generated@prod2.harmonylists.io>
-
-> MW, in his typically frustrating
-> manner, says that it's found in commentaries on Mahabharata, 'Saankhaayana
-> Braahma.na, and Taittiriya Prati'saakhya, but declines to cite passages.
-
+Sanskrit syntax problem: Double bind constructions
 As usual, MW's source is PW. I quote from vol. VII, col. 976f.:
-
 si.mhaavalokita n. des L?wen Art und Weise zu blicken: mugdhabaala? adj.
 Bhaag. P. 3,2,28 instr. ?nena und ?nyaayena so, dass man bald vorw?rts, bald
 r?ckw?rts schaut, d. i. bald weiter greift, bald auf etwas Abgemachtes
 wieder zur?ckkommt Comm. zu TS. Praat. 2,51. 4,4. 13,3.15 zu ;Saa:nkh. Br.
 13,6. 9. 16,1. Niilak. zu MBh. 3,14176.
-
 Accessible to me right now is only Whitney's ed. [New Haven 1868/reprint
 MLBD 1973] of the Taittiriiyapraati;saakhya. There I indeed find the word
 si.mhaavalokitanyaaya- in the commentary (given in footnotes) on 2.51, 4.4,
 13.3, and 13.15. The comm. on the ;Saa:nkhaayana = Kau.siitaki Braahma.na
 for which no published source is quoted in vol. I of PW (p. IX), may be
 Udaya's Vyaakhyaa edithed by E.R. Sreekrishna Sarma, Wiesbaden 1976.
-
--- Arlo Griffiths
-
 CNWS / Instituut Kern
 Universiteit Leiden
 Postbus 9515
 2300 RA  Leiden
 the Netherlands 
-
 tel.: +31-71-5274128
-
-
-
-

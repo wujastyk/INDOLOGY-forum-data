@@ -1,16 +1,9 @@
-From drdhaval2785 at gmail.com  Sat Feb  1 13:26:46 2020
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sat, 01 Feb 20 18:56:46 +0530
-Subject: =?utf-8?B?W0lORE9MT0dZXSDgpLbgpL7gpLDgpKbgpYDgpK/gpL7gpJbgpY3gpK/gpKjgpL7gpK7gpK7gpL7gpLLgpL4gb2Yg4KS54KSw4KWN4KS34KSV4KWA4KSw4KWN4KSk4KS/?=
-Message-ID: <CADSGPzXRDFVeS6PaY12P-Q1hD3r2aWfM1YYQGOHb8EL5OgjYOA@mail.gmail.com>
-
+=?utf-8?B?W0lORE9MT0dZXSDgpLbgpL7gpLDgpKbgpYDgpK/gpL7gpJbgpY3gpK/gpKjgpL7gpK7gpK7gpL7gpLLgpL4gb2Yg4KS54KSw4KWN4KS34KSV4KWA4KSw4KWN4KSk4KS/?=
 Respected scholars,
 It is my pleasure to present before you the digitized version of the
 following lexicon
 ??rad?y?khyan?mam?l? of Har?ak?rti.
-
 https://github.com/sanskrit-kosha/kosha/blob/master/sharadiyakhyanamamala_harshakirti/orig/sharadiyakhyanamamala.txt
-
 As usual the frontend to experiment is available at
 https://www.sanskritworld.in/sanskrittool/kosha-search/kosha.html. If you
 want to explore this particular dictionary, you can use SNHK as the
@@ -18,14 +11,6 @@ dictionary code.
 If you want to experiment specific dictionaries, the dictionary codes are
 available at https://kosha.sanskritworld.in/v0.0.1/dictcode
 Best used in firefox browser.
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Surat
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200201/b55b3d15/attachment.htm>
-

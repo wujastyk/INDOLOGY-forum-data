@@ -1,63 +1,14 @@
-From franceschini.marco at FASTWEBNET.IT  Tue Nov 22 18:03:20 2011
-From: franceschini.marco at FASTWEBNET.IT (Marco Franceschini)
-Date: Tue, 22 Nov 11 19:03:20 +0100
-Subject: vedic concordance
-In-Reply-To: <4ECBC858.4000401@uni-bonn.de>
-Message-ID: <161227094541.23782.659306078872765017.generated@prod2.harmonylists.io>
-
+vedic concordance
 Dear list members,
-
 the concordance is still available at:
-
 http://orient.dslo.unibo.it/OSite/vedicconc2005.html
-
 All the files contained in the .zip archive are Unicode compliant (so that you can correctly display them using any Unicode font that includes the necessary latin-character-with-diacritic glyphs), and they comes in .rtf format (the concordance file in .doc format as well), so that you can access them using any word processor, on Mac and Windows machines alike.
-
 Nonetheless, note that this version of the concordance is not the same as the one published in 2007 as HOS 66 (that is copyrighted by HUP); the free downloadable concordance reflects a previous stage of my work (2005), and it lacks the mantras (around 11,000) taken from Baudhayana ?rautas?tra.
-
 Best wishes,
-
 Marco Franceschini
-----------------------
 PhD, Research Fellow
 University of Bologna
 Department of Linguistics and Oriental Studies
 via Zamboni 33 - 40126 Bologna - Italy
 marco.franceschini3 at unibo.it
----
-
 Il giorno 22/nov/2011, alle ore 17.05, Peter Wyzlic ha scritto:
-
-> Am 22.11.2011 16:13, schrieb Herman Tull:
->> I have been trying to access the electronic Vedic concordance
->> (http://www.people.fas.harvard.edu/~witzel/VedicConcordance/ReadmeEng.html).
->>  This link takes me to a page that has the bold face statement:
->> "Access Forbidden."  Is there another way to get to this (does it
->> still exist?)
->> 
->> Or, perhaps it senses I am not a vaidika?
->> 
->> Thanks for any direction on this...
-> 
-> This refers to the "Windows format", the so-called "Mac OS format" is still available. Under Windows, some unarchiving programs like Winzip, Stuffit Expander, ALZip etc. are able to extract the contents of the .hqx file. But, after that you still need to install Nisus Writer which is nowadays only available for Mac OS, so far I know.
-> 
-> Otherwise you may to try the plain text version of Bloomfield's concordance provided by Masato Fujii, URL: <http://www.zinbun.kyoto-u.ac.jp/~mfujii/shiryo/concordance.txt>
-> 
-> A scanned version of Bloomfield's concordance is available in the Internet Archive, URL: <http://www.archive.org/details/vedicconcordance00bloouoft>.
-> 
-> Hope it helps
-> Peter Wyzlic
-> 
-> -- 
-> Institut f?r Orient- und Asienwissenschaften
-> Bibliothek
-> Universit?t Bonn
-> Regina-Pacis-Weg 7
-> D-53113 Bonn
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20111122/0cd1b21e/attachment.htm>
-

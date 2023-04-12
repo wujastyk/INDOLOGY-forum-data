@@ -1,26 +1,6 @@
-From apandey at U.WASHINGTON.EDU  Wed Feb 25 01:05:05 1998
-From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
-Date: Tue, 24 Feb 98 17:05:05 -0800
-Subject: CSX fonts
-In-Reply-To: <Pine.OSF.3.96.980224163927.6505A-100000@saul6.u.washington.edu>
-Message-ID: <161227036108.23782.11418395948857543849.generated@prod2.harmonylists.io>
-
+CSX fonts
 On Tue, 24 Feb 1998, Anshuman Pandey wrote:
-
-> WNRI TTF and PS fonts. The WNRI TTF and PS fonts are rather crude versions
-> which the developer, Thomas Ridgeway, threw together for users who wanted
-> to use CSX in Windows. I believe this was before Dominik Wujastyk and
-> Peter Schreiner adapted Adobe Utopia and Bitstream Charter for CS. I wish
   ^^^^^^^^^^^^^^^
-> to snuff out the current TrueType and Postscript versions of WNRI and
-> eventually replace them with newer ones based on the Computer Modern TTF
-> and PS fonts.
-
 Whoops! That should read: Dr. Peter Friedlander
-
 Regards,
 Anshuman Pandey
-
-
-
-

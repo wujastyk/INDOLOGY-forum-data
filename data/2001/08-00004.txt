@@ -1,62 +1,12 @@
-From mmdesh at UMICH.EDU  Thu Aug  2 12:51:17 2001
-From: mmdesh at UMICH.EDU (Madhav M. Deshpande)
-Date: Thu, 02 Aug 01 08:51:17 -0400
-Subject: query: jodi.mga
-In-Reply-To: <INDOLOGY%2001080211160573@LISTSERV.LIV.AC.UK>
-Message-ID: <161227069513.23782.11713042052262469895.generated@prod2.harmonylists.io>
-
+query: jodi.mga
 The Maanak Hindii Koza of Ramchandra Varma, vol. 2, cites both jo.ti.mga
 "shiva" and jho.ti.mga "one who has long hair".  Combined with the
 occurrence of jho.ti.mga in Marathi, these words seem to be widely used in
 Indo-Aryan vernaculars. These words seem to be related to jodi.mga/joti.mga
 and its variant kaapaalika.  The Kaapaalikas were indeed feared and had a
 ghost-like appearance in the eyes of the common people.
-
 Madhav Deshpande
-
---On Thursday, August 02, 2001, 11:16 AM +0100 Harunaga Isaacson
 <Isaacson at UNI-HAMBURG.DE> wrote:
-
-> On Wed, 1 Aug 2001 23:49:20 +0200, Martin Delhey <mdelhey at YAHOO.COM>
-> wrote:
->
->> In  the Abhisamayaala.mkaaraalokaa the compound
->> 'srotriyajotinganairgh.r.nyavat seems to occur (Wogihara's edition 145:
-> 17).
->> I have found this reference in Keira's and Ueda's Sanskrit Word-Index
-> (Tokyo
->> 1998) to this work. I don't have the edition at hand. Therefore I can't
->> say anything about the context.
->
-> This d.r.s.taanta seems to occur in a number of works related
-> to/influenced by the so-called 'Buddhist pramaa.na school'. No doubt
-> specialists will be able to provide several references. Note that in the
-> presumable source for the example (Dharmakiirti's svav.rtti, Gnoli's
-> edition p. 111 l. 1) we find "srotriyakaapaalikagh.r.naavat. For those
-> later authors who substitute the word jo.ti"nga (joti"nga and jodi.mga
-> seem indeed to be errors or variant orthographies for this) this word
-> appears to have been synonymous with kaapaalika.
->
-> I have noticed that in the case of the Tantric Buddhist Tattvasiddhi
-> (still unpublished---I have read a draft of an edition of a part of the
-> text prepared by Prof. Steinkellner and soon to appear, I believe, in the
-> Festschrift for Raniero Gnoli), the Tibetan translation of that work
-> (Otani 4531) renders the jo.ti"nga of the Sanskrit (a slightly different
-> wording of the same d.r.s.taanta: yathaa "srotriyajo.ti"ngaadau gh.r.naa)
-> with brtul zhugs chen po (Peking f. 41v5) as if translating Sanskrit
-> mahaavrata/mahaavratin.
->
-> The word thus appears to denote a "Saiva kaapaalika ascetic. I have a
-> recollection, however, that in a conversation some years ago with Prof.
-> Sanderson, no doubt the most widely read scholar of "Saivism, he told me
-> that the word does not occur in texts of the "Saivas themselves. It may
-> well, therefore, have had negative connotations (cf. the material from
-> Prakrit and Marathi languages adduced by Madhav Deshpande).
->
-> Harunaga Isaacson
-
-
-
 ***************************************************************
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
@@ -65,7 +15,3 @@ Department of Asian Languages and Cultures
 The University of Michigan
 Ann Arbor, Michigan 48109-1285, USA
 ***************************************************************
-
-
-
-

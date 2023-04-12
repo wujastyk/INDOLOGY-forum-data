@@ -1,11 +1,5 @@
-From Scharf at BROWN.EDU  Sun Nov 14 18:20:45 2004
-From: Scharf at BROWN.EDU (Peter M. Scharf)
-Date: Sun, 14 Nov 04 13:20:45 -0500
-Subject: Devanagari
-Message-ID: <161227075322.23782.11926817392110350131.generated@prod2.harmonylists.io>
-
+Devanagari
 For simple Devanagari instruction, see the following sites:
-
 The Sanskrit Library has developed animations 
 showing the sequence of strokes in drawing each 
 character at:
@@ -18,19 +12,16 @@ first as independent characters, then as
 diacritics on the character k.  Click on any 
 character to view its animation.  Click the right 
 arrow to play or replay it.
-
 Another site displaying Devan?gar? character animations is:
 http://sanskrit.claude-marillier.net/alpha.html
 This site shows alternative shapes of characters 
 for a, ?, ?, ?, and jha not shown at the first 
 site.
-
 Peter Freund (pfreund at mum.edu), a Librarian at 
 Maharishi University of Management, has designed 
 instructional materials for Devanagari at:
 http://www.peterfreund.freeservers.com/
 another Pre-Unicode Mac Sanskrit font Vedic Font too.
-
 Stephan Baums and Andrew Glass have covered the 
 Unicode standard and transcoding programs in 
 their messages, and Richard Mahoney has brought 
@@ -62,11 +53,8 @@ those of you who would like to work to improve
 the data-entry, encoding, processing, and display 
 of Sanskrit.  Please include me in your 
 discussion if you continue it "off-line".
-
 Sincerely,
-
 Peter Scharf
---
 **************************************************
 Peter M. Scharf             (401) 863-2720 office
 Department of Classics      (401) 863-2123 dept
@@ -76,7 +64,3 @@ Providence, RI 02912        Scharf at brown.edu
 http://www.brown.edu/Departments/Classics/Scharf/
 http://sanskritlibrary.org/
 **************************************************
-
-
-
-

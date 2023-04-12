@@ -1,34 +1,23 @@
-From Palaniappa at AOL.COM  Wed Sep 17 00:29:18 1997
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Tue, 16 Sep 97 20:29:18 -0400
-Subject: viLari and tODi rAga (was Re: Q: Tamil literature)
-Message-ID: <161227032529.23782.5996918048884205068.generated@prod2.harmonylists.io>
-
+viLari and tODi rAga (was Re: Q: Tamil literature)
 In a message dated 97-09-16 12:55:03 EDT, jlc at CCR.JUSSIEU.FR writes:
-
 << There is an unpublished translation of Akam
  by V.M. Subramanya Ayyar (who was an assistant of U.V.S.)
  in the French Institute Library (Pondichery & Paris)
-
  The translation he gives for the passage you refer to is:
-
   "... at this season when the water is crystal clear
    and the voice of the joyful indian cuckoo which perches
    on the branch of profuse flowers
    combines with the string of the small lovable yA_l
    from which is produced a sweet and mournful note viLari
    wakes up people from sleep ..."
-
   [ ........... tIm toTai
     viLari narampi_n nayavaru cI_riyA_l
     mali pUm po:nkar maki_l kura_r kuyiloTu
     puNar tuyil eTuppum pu_nal teLi kAlaiyum ]
        [akam:279_10-13]
-
  To me the "mournful note" which is mentionned here
  is probably not a single note (i.e. one of the seven notes,
  as you advocate it is). >>
-
 If you look at the Tamil text, it is very clear that there is no mention of
 'mournful' note. Mr. Iyer has interpreted 'viLari' as viLarip paN. The Tamil
 text does not say that. The text just has 'viLari narampu'.  In ancient Tamil
@@ -37,19 +26,15 @@ note. 'narampu' is not used to refer to 'paN'. Since each string was tuned to
 a particular pitch, once the basic 'kural' string was chosen, other strings
 will be assigned specific notes. Thus one 'narampu' will be assigned to one
 note. So, it is clear that the text is referring to one note only.
-
 Similarly, in aka. 317, the following lines
-
 tuvaittezu tumpit taviricai viLari
 utaittuviTu narampin2 immen2a imirum
-
 'viLari' denotes the note and the 'narampu'  denotes the string which
 produces that note. Obviously, the context of bumblebees humming will not
 produce a multi-note melody but will sound more like an electronic 'sruti'
 box (at least in my experience). In fact, for both of these poems, the
 commentary based on UVS's notes gives the meaning as just a note and not as a
 paN.
-
 As for CilappatikAram, often using 'viLari' to denote the note except for a
 few instances, the reason is simple. The excellent analysis by
 aTiyArkkunallAr of the structure of the epic given in the commentary on the
@@ -58,26 +43,15 @@ Tamil interior landscape. You can see kuRiJci, mullai, marutam, neytal, pAlai
 landscapes with the associated thematic elements. In such a setting, viLarip
 pAlai or neytal yAz will occur only where it occurs in the kAn2alvari section
 when kOvalan and mAtavi are singing on the seashore
-
 nuLaiyar viLari noTitaruntIm pAlai  (7.48.1)
-
 or when the author is giving technical descriptions of how the modal shift of
 the tonic is done as in
-
 kOTi viLari mERcempAlai yen2a
 nITik kiTanta kELvik kiTakkaiyin   (3.88-89).
-
 In all other places only those 'paN's relevant to the landscape will be
 mentioned. For example 'mullaiitImpANi' in 'Aycciyar kuravai' section, or
 'kuRiJcippaN' in the 'kunRak kuravai' section. So when the word 'viLari'
 occurs in other contexts, it will only refer to the individual note and not
 the paN.
-
-
 Regards
-
 S. Palaniappan
-
-
-
-

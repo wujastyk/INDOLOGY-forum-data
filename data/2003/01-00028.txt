@@ -1,11 +1,5 @@
-From ucgadkw at UCL.AC.UK  Thu Jan  9 15:56:49 2003
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 09 Jan 03 15:56:49 +0000
-Subject: New publication "Images du corps dans le monde hindou"
-Message-ID: <161227071983.23782.14572339176495067077.generated@prod2.harmonylists.io>
-
+New publication "Images du corps dans le monde hindou"
 A new publication (excuse the BibTeX database format):
-
   editors =       "V?ronique Bouillier and Gilles Tarabout",
   title =         "Images du corps dans le monde hindou",
   year =          "2002",
@@ -14,10 +8,7 @@ A new publication (excuse the BibTeX database format):
   series =        "Collection Monde Indien, Sciences sociales, 15-20 si?cle",
   isbn =          "2-271-06060-5",
   note = 	  "511 pages; includes numerous illustrations, and colour plates"
-
-
 Contains chapters by
-
  Michel Angot,
  France Bhattacharya,
  V?ronique Bouillier,
@@ -36,12 +27,6 @@ Contains chapters by
  David G. White,
  Dominik Wujastyk,
  Francis Zimmermann.
-
 How can you *not* have a copy?!
-
 Best,
 Dominik
-
-
-
-

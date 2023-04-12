@@ -1,59 +1,32 @@
-From slaje at kabelmail.de  Sat Jan 19 10:15:00 2019
-From: slaje at kabelmail.de (Walter Slaje)
-Date: Sat, 19 Jan 19 11:15:00 +0100
-Subject: [INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
-In-Reply-To: <CAO-4jUkzew2UGn1dkOsNmvLKKOpsE3OSyUgR7dAf-DQ2mkKSwQ@mail.gmail.com>
-Message-ID: <CALoZ1nVg=bNeewWprdCQW__HOFFDBezvxQF5pj+irVauf8uHWg@mail.gmail.com>
-
+[INDOLOGY] Extension of Sanskrit Heritage tools with connection to Amba Kulkarni's parser
 Dear Professor Scharf,
-
-
-
  I checked the Sanskrit Grammarian Query page under ?Declension? (
 https://sanskrit.inria.fr/DICO/grammar.fr.html), which under the header
 ?The Sanskrit Grammarian: Declension? yielded the nominatives singular,
 dual and plural as *adas??* - *adasau* - *adasa?* for *adas* (m.), to give
 only one example.
-
-
 Meanwhile it was explained to me off-line by Professor Huet that the
 Sanskrit Grammarian Query page - despite its name - is not the proper site
 to check declensional and conjugational forms of Sanskrit grammar.
-
 So I searched the ?Dictionnaire H?ritage du Sanscrit? page in the proper way
 as recommended and as you will have done. There, and only there, the
 correct declension of *adas* (as *asau ? am? ? am?*) is displayed.
-
-
 Searching this presumably correct Heritage site for some additional stems
 and roots on a random basis, I chanced upon a number of further, quite
 obvious inaccuracies. Here are some of them, since I have been asked for
 samples:
-
-
 *ubhaya*: A set of obviously mechanically generated dual declension for
 *ubhaya*, which word however has no dual in the classic language.
-
 *dos* (n.): wrong forms *dot* (sg.) - *dosi* (pl.); *dodbhy?m* (Du.);
 *dodbhi?*, etc.
-
 *asthan* (n.): wrong alternative dual form *asth? .*
-
 Root *?s*2: wrong 2nd plural forms *?sdhve / ?sddhve / ?sdhvam / ?sddhvam.*
-
 Root *t?h* is missing.
-
 Root *d?*3: wrong ?tmane? s-Aorist forms 2nd and 3rd singular *adi??h??*,
 *adi??a*.
-
 Root *dh?*3: wrong ?tmane? 3rd singular *adh?yi*.
-
 Root *??s*: wrong 3rd plural imperfect ending *a?i?an*.
-
 Root *s?*3: Imperative ?. 1st and 2nd  *s?yai* ? *s?yasva*.
-
-
-
 As I had earlier pointed out to Professor Huet in private, and I am
 repeating it now publicly, my criticism was not intended to expose or run
 down other scholars, nor to belittle the great and truly laudable efforts
@@ -64,63 +37,6 @@ this list cannot be left uncommented. In the hand of the uninitiated
 beginner it will cause damage until it has seen a careful revision by its
 editors, which was exactly my humble suggestion: to call for a revision
 before it is activated for the public.
-
-
-
 Regards,
-
 WS
-
-
-
-
 Am Sa., 19. Jan. 2019 um 08:03 Uhr schrieb Peter Scharf <scharfpm7 at gmail.com
->:
-
-> I checked the declension of *adas* and sarva (f.) on the Sanskrit
-> Heritage site by going to the dictionary and clicking on the gender
-> identifier.  The paradigms are correct.  What do you find incorrect and
-> where?
-> Yours,
-> Peter
->
-> On Fri, Jan 18, 2019 at 11:47 PM Walter Slaje via INDOLOGY <
-> indology at list.indology.info> wrote:
->
->> Certainly a welcome development, but
->>
->> > this wonderful grammatical analysis
->>
->> really calls for a thorough revision before activating it. The very few
->> searches I could make yielded inexplicable, in parts unbelievably wrong
->> results. Anyone may see for themselves if they just test the declension of
->> "adas", "idam", "ubhaya" (displaying dual forms, but no fem.), "sarv?"
->> (fem.), "dos / do?an", "ana?uh", "asthi", and many more. In the hands of
->> Sanskrit beginners who lack grammatical training this database will do
->> more harm than good. I can only warn against its use until it has seen a
->> very careful revision by experts.
->>
->> Kind regards,
->> WS
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->
->
-> --
-> *******************
-> Peter M. Scharf
-> scharfpm7 at g <peter.scharf at univ-paris-diderot.fr>mail.com
-> *******************
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190119/431311dd/attachment.htm>
-

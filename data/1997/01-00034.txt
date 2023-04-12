@@ -1,10 +1,4 @@
-From filipsky at site.cas.cz  Mon Jan 13 11:34:07 1997
-From: filipsky at site.cas.cz (filipsky at site.cas.cz)
-Date: Mon, 13 Jan 97 12:34:07 +0100
-Subject: How to subscribe to TAMIL-L
-Message-ID: <161227027816.23782.9767962550279443001.generated@prod2.harmonylists.io>
-
-
+How to subscribe to TAMIL-L
 Dear Networkers,
 I would very much like to subscribe to the TAMIL-L electronic conference, if
 it is still in existence, but all my attempts to contact the
@@ -12,19 +6,6 @@ it is still in existence, but all my attempts to contact the
 longer active or is there a queue of those wishing to join so long that it
 takes more than 5 days to get through?
 Gratefully Yours, Jan Filipsky 
-
 <listserv at vm.urz.uni-heidelberg.de>... Deferred: Connection timed out during
 initial connection with lsv.urz.uni-heidelberg.de.
->Message could not be delivered for 5 days
->Message will be deleted from queue
->
->Final-Recipient: RFC822; listserv at lsv.urz.uni-heidelberg.de
->Action: failed
->
 Jan Filipsky, Oriental Institute, Pod vodarenskou vezi 4, 182 08  Praha 8
-
-
-
-
-
-

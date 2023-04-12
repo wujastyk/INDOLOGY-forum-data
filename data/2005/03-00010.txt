@@ -1,13 +1,7 @@
-From d.wujastyk at UCL.AC.UK  Tue Mar  8 16:45:04 2005
-From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 08 Mar 05 16:45:04 +0000
-Subject: online journals: IIJ and JIP
-Message-ID: <161227076054.23782.11022227814555172147.generated@prod2.harmonylists.io>
-
+online journals: IIJ and JIP
 Those of us who have access to the net through university networks have
 had access for some time to the full text of the Kluwer journals I-IJ and
 JIP back to 1997.
-
 I noticed today that Kluwer has now digitized the full text of both
 journals from the very beginning of publication.  But this material is
 behind a new password.  One has to have a subscription to the "historical
@@ -16,12 +10,6 @@ example, where I log on, I can see that all these pre-1997 issues are
 there, the titles and abstracts, but I can't read the full text of any of
 them.  I shall enquire about whether my university library is negotiating
 a license for this extra material.
-
 In any case, it's encouraging that the back-digitisation of these journals
 has been done.
-
 Dominik
-
-
-
-

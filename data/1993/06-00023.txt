@@ -1,9 +1,4 @@
-From giuseppe at imiucca.csi.unimi.it  Thu Jun 17 20:39:16 1993
-From: giuseppe at imiucca.csi.unimi.it (carlo della casa)
-Date: Thu, 17 Jun 93 22:39:16 +0200
-Subject: truetype fonts for romanized sanskrit
-Message-ID: <161227015875.23782.18289041166444150044.generated@prod2.harmonylists.io>
-
+truetype fonts for romanized sanskrit
 In an effort to rationalize the output of a pool of translators working on an
 Italian translation of the Ramayana (a long -term project that is finally
 beginning to get off the ground), we (Andrea Alberti, Umberto Pace and myself)
@@ -25,15 +20,7 @@ y been punched-in twice - having the text on our machines could save us a lot of
 work, if anyone is willing to let
 us have a copy (we are working on the Baroda critical edition)...
 All the best from Italy.
- 
 Alex Passi
 Dipartimento di Linguistica
 Universita' di Pisa
 E-mail giuseppe at imiucca.csi.unimi.it
-
- 
-
-
-
-
-

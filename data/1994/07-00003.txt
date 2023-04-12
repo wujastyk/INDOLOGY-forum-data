@@ -1,29 +1,16 @@
-From hsa01dk at scorpio.goldsmiths.ac.uk  Mon Jul  4 15:20:09 1994
-From: hsa01dk at scorpio.goldsmiths.ac.uk (hsa01dk at scorpio.goldsmiths.ac.uk)
-Date: Mon, 04 Jul 94 16:20:09 +0100
-Subject: Journal of Buddhist Ethics
-Message-ID: <161227016934.23782.17726730732611995250.generated@prod2.harmonylists.io>
-
+Journal of Buddhist Ethics
 ANNOUNCING A NEW SCHOLARLY JOURNAL DEVOTED TO BUDDHIST ETHICS
- 
- 
                      JOURNAL OF BUDDHIST ETHICS
-                                     
                                 (ISSN: 1076-9005)
-
-
 1. EDITORIAL
-
                       GENERAL EDITORS
                           Damien Keown
                 University of London, Goldsmiths
                        Charles S. Prebish
                   Pennsylvania State University
- 
                         TECHNICAL EDITOR
                           Wayne Husted
                   Pennsylvania State University
- 
                          EDITORIAL BOARD
                Richard Gombrich, Oxford University
               Charles Hallisey, Harvard University
@@ -34,24 +21,18 @@ ANNOUNCING A NEW SCHOLARLY JOURNAL DEVOTED TO BUDDHIST ETHICS
               Reginald Ray, University of Colorado
               Paul Williams, University of Bristol
                     Others to be Named Later
- 
 2. ABOUT THE JOURNAL
- 
 AIMS
- 
 The Journal of Buddhist Ethics has been established to promote the
 study of Buddhist ethics through the publication of research
 papers, discussion articles, bulletins, and reviews.
- 
 DESCRIPTION
- 
 The Journal of Buddhist Ethics is the first academic journal
 dedicated entirely to Buddhist ethics, and is innovative in
 adopting a totally electronic mode of publication. In most other
 respects, however, it will function as a traditional scholarly
 journal. Research papers and discussion articles submitted to the
 journal will be subject to blind peer review.
- 
 THE CONCEPT OF AN ON-LINE JOURNAL
 An on-line journal differs from a traditional journal in publishing
 electronically as opposed to a printed format. The Journal of
@@ -59,33 +40,24 @@ Buddhist Ethics will also publish material on an on-going rather
 than a periodic basis, eliminating any backlog between acceptance
 and publication. An on-line journal is NOT the same as a newsgroup,
 discussion list, or bulletin board.
-
 WHY PUBLISH ON-LINE?
- 
 On-line journals are a logical development in the use of
 information technology. The dissemination of information through
 this medium has three main advantages over publication in the
 traditional manner, namely, cost, speed, and ease of access. Other
 advantages of an electronic medium include keyword searching and
 the use of multimedia and hypertext formats.
- 
 EDITORIAL POLICY
- 
 The Editors are committed to the widest dissemination for research
 published by the journal. As well as publishing on-line they will
 also explore possibilities for the publication of selected material
 in partnership with traditional presses.
- 
 CITATION INDEXES
- 
 The journal will be searched by the usual citation indexes for this
 subject classification.
- 
 3. SUBJECT CLASSIFICATIONS
- 
 The Journal of Buddhist Ethics interprets "ethics" as including
 subject matter in the ten areas listed below.
- 
      1.  Vinaya and Jurisprudence
      2.  Medical Ethics
      3.  Philosophical Ethics
@@ -96,9 +68,7 @@ subject matter in the ten areas listed below.
      8.  Cross-cultural Ethics
      9.  Ethics and Anthropology
     10.  Interfaith Dialogue on Ethics
- 
 4. GLOBAL RESOURCE CENTER
- 
 In conjunction with the journal an on-line Global Resource Center
 has been established with the aim of providing research tools for
 scholarship in the field of Buddhist ethics. Projects currently
@@ -110,14 +80,10 @@ courses. At present the Center provides World Wide Web links to a
 wide range of electronic resources in Buddhism. It can be accessed
 by following the instructions under "World Wide Web Browsers" in
 the section entitled "How the Journal Works".
- 
 5. HOW TO SUBSCRIBE
- 
 To subscribe to the Journal of Buddhist Ethics, simply send an
 e-mail message to
- 
                     jbe-ed at psu.edu
- 
 specifying "JBE Subscription" in the Subject Line. When you
 subscribe, your e-mail address is appended to our subscription
 list. This list is used primarily for announcing newly published
@@ -127,52 +93,34 @@ the journal may also be distributed in this way. In order to
 minimize the burden on network resources manuscripts published by
 the journal will not be distributed automatically. The journal is distributed
 free of charge.
- 
 6. HOW THE JOURNAL WORKS
- 
 The resources of the journal can be accessed in a variety of ways.
- 
 "World Wide Web Browsers"
- 
 If you are familiar with WWW browsing software, open a URL
 connection to
- 
     http://www.psu.edu/jbe/jbe.html
- 
 "Anonymous FTP"
- 
 The journal can be retrieved from our Anonymous FTP Site at
-
 ftp.cac.psu.edu in the subdirectory /pub/jbe.
- 
 Individuals who experience difficulty in obtaining the journal, or
 do not have access to any of the retrieval methods listed above,
 should contact the editors.
- 
 7. GUIDELINES FOR CONTRIBUTORS
- 
 Unsolicited manuscripts pertaining to any of the topics listed
 under the journal's "Subject Classifications" are welcome.
- 
 The Journal of Buddhist Ethics publishes material in the following
 four categories:
- 
 1) Research Papers (5,000 words and over)
 2) Discussion Articles (2,000 words or less)
 3) Bulletins (1,000 words or less).
 4) Book Reviews
- 
 8. QUESTIONS, COMMENTS, SUGGESTIONS
- 
 The editors welcome your questions, comments, and suggestions.
 Please feel free to send e-mail to our general editorial address 
 (jbe-ed at psu.edu) or to any of the following addresses:
-  
 hsa01dk at gold.ac.uk         Damien Keown
 csp1 at psuvm.psu.edu       Charles S. Prebish
 wrh7 at psuvm.psu.edu       Wayne Husted
- 
-
 *************************************************
 Damien Keown HSA01DK at gold.ac.uk
 Department of Historical & Cultural Studies
@@ -182,10 +130,3 @@ London UK, SE14 6NW
 Voice (+44)  071 692 7171 Ext.2153
 Fax:   (+44)  071 694 8911
 *************************************************
-
- 
-
-
-
-
-

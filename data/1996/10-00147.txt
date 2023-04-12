@@ -1,14 +1,6 @@
-From martinez at em.uni-frankfurt.de  Mon Oct 21 13:50:51 1996
-From: martinez at em.uni-frankfurt.de (Fco. Javier Mart177nez Garc177a)
-Date: Mon, 21 Oct 96 14:50:51 +0100
-Subject: Copyright
-Message-ID: <161227026504.23782.13088455004740991551.generated@prod2.harmonylists.io>
-
-> application must be made to the Library of Congress, accompanied by 
+Copyright
 a very common mistake! What about the Berne Convention?
-
 s. http://www.pitt.edu/~skvarka/education/copyright/
-
 .........
 One of the biggest mistakes that people believe is that if a work has no
 copyright notice, it is not copyrighted. The correct form of a copyright
@@ -23,11 +15,8 @@ works (Lussier 1). One of these laws was everything created privately
 and originally after April 1, 1989 is copyrighted. All Internet users
 must assume that the work is copyrighted, unless otherwise specified by
 the author. 
-
 see further a very useful Document under 
 http://www.clari.net/brad/copymyths.html
-
-
 1) "If it doesn't have a copyright notice, it's not copyrighted." 
      This was true in the past, but today almost all major nations
 follow the Berne copyright convention. For example, in      the USA,
@@ -37,9 +26,6 @@ default you should assume for other people's works is that they are
 copyrighted and may      not be copied unless you know otherwise. There
 are some old works that lost protection without notice, but frankly     
 you should not risk it unless you know for sure. 
-
-
-
 3) "If it's posted to Usenet it's in the public domain." 
      False. Nothing modern is in the public domain anymore unless the
 owner explicitly puts it in the public domain(*).  Explicitly, as in you
@@ -60,8 +46,6 @@ supersede an explicitly stated licence that the copier was aware of.
 item in the first place. If the poster didn't, then all the  copies are
 pirate, and no implied licence or theoretical reduction of the copyright
 can take place. 
-
--- 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                   Dr. Fco. Javier Martinez Garcia
  Vergleichende Sprachwissenschaft | tel. +49- 69- 7982 2847
@@ -69,8 +53,3 @@ can take place.
  Postfach 11 19 32                | fax.     +49- 69- 7982 2873
  D-60054 Frankfurt                | martinez at em.uni-frankfurt.de
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-

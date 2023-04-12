@@ -1,14 +1,6 @@
-From hahn.m at T-ONLINE.DE  Thu Feb  1 21:53:29 2007
-From: hahn.m at T-ONLINE.DE (Michael Hahn)
-Date: Thu, 01 Feb 07 22:53:29 +0100
-Subject: Pancamahakavyas
-In-Reply-To: <20070201233457.vkq2dsgvy84wk4sg@mail.asianetindia.com>
-Message-ID: <161227079470.23782.14241198058577093672.generated@prod2.harmonylists.io>
-
+Pancamahakavyas
 Dear Prof. Nair,
-
 1) What are the pancamahakavyas? 
-
 Of course I know some traditional classifications. But I don't think
 they make sense. Nowadays one should separate the four early (partially)
 extant specimens of Asvaghosa and Kalidasa from the later fully fledged
@@ -17,10 +9,8 @@ until the 12 th century AD: Janakiharana, Kiratarjuniya, Bhattikavya (?),
 Sisupalavadha, Haravijaya, Kapphinabhyudaya, and Naisadhacarita. And one
 could/should also include the Prakrit poems like Ravanavaha (Setubandha)
 etc.
-
 2) What is a morphological analysis? Do you mean "grammatical" or
 "structural" analysis? 
-
 There are, of course, scores of studies, detailed as well as
 comprehensive. Did you consult Warder's "Indian Kavya Literature" or
 Lienhard's "A History of Classical Sanskrit Poetry?" Do you know David
@@ -28,7 +18,6 @@ Smith's excellent study of Ratnakara's Haravijaya? Or Prof.  Jani's
 study of the Naisadhacarita? Tenkshe's study of Magha? Except for
 Lienhard all these works were published in India. These are are just a
 few examples.
-
 As for the least known mahakavya, Sivasvamin's Kapphinabhyudaya, I would
 like to point to Gauri Shankar's editio princeps and its learned
 introduction (Lahore 1937), its reprint with a postscript by M. Hahn
@@ -36,30 +25,15 @@ introduction (Lahore 1937), its reprint with a postscript by M. Hahn
 introduction to my forthcoming new critical edition (Kyoto, Hozokan 2007)
 which also contains a facsimile of the oldest manuscript (probably 11th
 century) of the work.
-
 It would be a great help if someone compiled a bibliography of Indian Ph.
 D. theses on these mahakavyas, published as well as unpublished, taking
 as a kind of model Prof. S. Narang's bibliographies.  This will be a
 difficult and time-consuming task, no doubt. However, for someone living
 outside India it is even more difficult to trace and ultimately get
 access to these studies.
-
 Michael Hahn
-
-
-
 On Thu, 1 Feb 2007 23:34:57 +0530
 Maheswaran Nair <swantam at ASIANETINDIA.COM> wrote:
-
-> Dear list members,
-> Has anyone done the morpgological analysis of the Sanskrit  
-> Pancamahakavyas wholly or separately? Pls tell me.
-> Thanks in advance.
-> K.Maheswaran Nair
-> Dept. of Sanskrit
-> University of Kerala
-
----
 Prof. Dr. Michael Hahn
 Fachgebiet Indologie und Tibetologie
 FB 10, Philipps-Universitaet Marburg
@@ -69,8 +43,3 @@ Germany
 Tel.: +49-6421-282-4740 or 4741
 Fax: +49-6421-282-4995
 E-mail: hahnm at staff.uni-marburg.de
-URL: staff-www.uni-marburg.de/~hahnm
-
-
-
-

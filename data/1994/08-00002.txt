@@ -1,58 +1,29 @@
-From breusch at students.wisc.edu  Tue Aug  2 00:14:20 1994
-From: breusch at students.wisc.edu (breusch at students.wisc.edu)
-Date: Mon, 01 Aug 94 19:14:20 -0500
-Subject: Mandukya Upanisad and Commentary
-Message-ID: <161227017000.23782.6994745073100393772.generated@prod2.harmonylists.io>
-
+Mandukya Upanisad and Commentary
 I would check the OCLC catalog and request a copy through interlibrary loan
 from Harvard, Berkeley, Chicago (the university or the research libraries
 center), Madison, Seattle, etc.
-
- 
-
 Original-Received: by 
                    bronze.ucs.indiana.edu
 PP-warning: Illegal Received field on preceding line
-Date: Tue, 2 Aug 1994 09:50:51 -0500
-From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
-To: indology at liverpool.ac.uk
-Subject: Re: Mandukya Upanisad and Commentary
-Message-ID: <"mailhub.li.047:02.07.94.14.53.41"@liverpool.ac.uk>
-
+Re: Mandukya Upanisad and Commentary
 Hello Mr. Samuels, did you try Interlibrary loan through your local
 University?
- 
-
 Original-Received: by 
                    bronze.ucs.indiana.edu
 PP-warning: Illegal Received field on preceding line
-Date: Tue, 2 Aug 1994 09:56:29 -0500
-From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
-To: indology at liverpool.ac.uk
-Subject: Re: Mandukya Upanisad and Commentary
-Message-ID: <"mailhub.li.093:02.07.94.15.11.33"@liverpool.ac.uk>
-
+Re: Mandukya Upanisad and Commentary
 Please try Interlibrary loan through your University library.
 Also South Asia Books, Columbus, Missouri may have a copy.
 Of course, Motilal Banarsidass in Delhi will for sure carry
 one of the standard editions from Chowkhamba in Benares.
- 
-
 Original-Received: by 
                    bronze.ucs.indiana.edu
 PP-warning: Illegal Received field on preceding line
-From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
-Subject: Diacritics fonts for Word for Windows? Please.
-To: indology at liverpool.ac.uk
-Date: Tue, 2 Aug 1994 11:27:01 -0500 (EST)
-Cc: eclear at bronze.ucs.indiana.edu
+Diacritics fonts for Word for Windows? Please.
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 Content-Length: 482
-Message-ID: <"mailhub.li.218:02.07.94.16.27.20"@liverpool.ac.uk>
-
-
 Dear Colleagues,
 I am trying to find a means of writing diacritics for Sanskrit
 transcription using Microsoft Word for Windows on a PC.
@@ -65,10 +36,3 @@ Specifically I need to be able to write:
   = acute accent over 's'
 Any help appreciated. Thanks in advance.
 Edeltraud (eclear at bronze.ucs.indiana.edu)
-
- 
-
-
-
-
-

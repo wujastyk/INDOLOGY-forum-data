@@ -1,15 +1,7 @@
->From S.Thomas at nla.gov.au Tue May  9 00:33:27 1995
-Date: Tue, 7 Feb 1995 16:34:12 +22303754 (EET)
-From: Susan Thomas <S.Thomas at nla.gov.au>
-Subject: Robin Jeffery's Roundtable issues paper (fwd)
-To: asialib at info.anu.edu.au
-Message-Id: <Pine.3.05a.9502071612.D71492-e100000 at email.nla.gov.au>
+Robin Jeffery's Roundtable issues paper (fwd)
 Mime-Version: 1.0
 Content-Type: TEXT/PLAIN; charset=US-ASCII
 Status: RO
-
-
-
 *****************************************************************
      _________________       
       T T T T T T T T        Susan Thomas      
@@ -18,21 +10,14 @@ Status: RO
       T T T T T T T T        Phone: +616 2621136
     ===================      Fax: +616 xxxxxxx       
 *****************************************************************
-
- 
-
 SOUTH ASIA: FUTURE DIRECTIONS OF
 AUSTRALIAN RESEARCH
-
 Robin Jeffrey
 La Trobe University
 Melbourne
-
-
 Three factors increasingly influence Australian research on South
 Asia: new media technologies, post-modern fashion and economic,
 "practical" imperatives.
-
 Australia's distinguished contribution to research on South Asia
 dates from the 1950s and flowered in some ways in the 1960s.[1]
 For me, the remarkable library holdings have scholars' names
@@ -42,7 +27,6 @@ relatedly at the ANL, with Anthony Low and the late A. L. Basham;
 at the Baillieu Library at Melbourne, with S. N. Ray; at the
 University of Queensland, with D. P. Singhal; at the Reid Library in
 Perth, with Peter Reeves and the late Hugh Owen.
-
 This is not the place to analyze the decline in the commitment of
 Australian universities to the study of South Asia since the early
 1980s.[2] What is significant for our task here is to point out that the
@@ -56,23 +40,18 @@ Malayalam newspaper in 1910 was in the Menzies Library. In fact,
 the man was wrong: it was in the National Library, purchased from
 a Madras bookseller who had bought up an extensive private
 collection sold off by heirs in the 1960s. 
-
 Research on modern South Asian history which such material
 supports will no doubt continue. So too will occasional projects
 relating to classical subjects, demography, politics, defence and
 security, and sociology or anthropology. 
-
 Let me try to explain where I believe new directions in research will
 go and thereby illustrate the possible needs of researchers. 
-
 Media and Technology
-
 Modern media technology is transforming South Asia. Though the
 Indian film industry has long been famous, television only became
 widely available in India from 1982. Since the late 1970s,
 audio-cassettes, easy to produce, disseminate and play, have
 become a major means of making money and spreading ideas.[4]
-
 My exemplar for the sort of research that can and should be done in
 these areas is Peter Manuel's outstanding Cassette Culture: Popular
 Music and Technology in North India (Chicago: University of Chicago
@@ -89,7 +68,6 @@ Hindi/Urdu.[5] For libraries, this means we must devise sensible
 ways of acquiring key materials in some South Asian languages
 and keeping abreast of publications in - and reliable repositories for
 - other languages. 
-
 Second, Manuel's book emphasizes that we must find ways of
 acquiring, storing and cataloguing the new media. His work is
 heavily based on audio-cassettes, mostly musical but some political,
@@ -98,7 +76,6 @@ Manuel credits audio-cassette technology with preserving and
 reinvigorating languages, dialects and artistic forms.
 Audio-cassettes provide scholars with invaluable insights into what
 people want to hear and what they will pay money to listen to. 
-
 Video-cassettes have had a similar effect. Until satellite television
 began to sweep India in 1992, there was a ten-year period in which
 monthly news programs (similar to something like 4 Corners) were
@@ -110,7 +87,6 @@ far as I am aware, none of this material is held systematically in
 Australia.[6] In addition, of course, there are thousands of hours of
 other material - much of it documentary film - prepared on
 video-cassette each year.
-
 The third element of Manuel's research relevant to our discussions
 arises from his use of specialist publications devoted to the new
 media and partly made possible by the revolution that the
@@ -124,19 +100,15 @@ These new periodicals and growing ephemera are the ore of social
 scholarship. Scholars would like to find them in a single seam,
 rather than having to scour the country looking for a nugget here
 and there.
-
 How do we keep abreast of the new media in South Asia and of the
 published sources relating to it?
-
 Fashions in Scholarship
-
 One of the admirable outcomes of the post-modern or
 post-colonial fashion of the past ten years has been to encourage
 study of aspects of life often previously ignored. Prisons, health,
 food, sport and costume have, for example, become typical topics
 for historians and sociologists, not just criminologists, doctors,
 nutritionists and couturiers.
-
 One example of such a project - though it is inspired neither by
 post-modernism nor promise of direct economic gain - is the study
 of fisheries in South Asia going on at Curtin University in Perth.
@@ -148,13 +120,11 @@ course, may have economic spin-offs. Perth boat-builders have
 already sold some craft to India, and marine scientists from South
 Asia and Australia may find through this project opportunities to
 work together on common problems. 
-
 As well as the government publications, archival materials and
 mainstream books and journals, to study such subjects closely, and
 thereby extract significance from them, requires access to sources
 like those discussed earlier - visual and audio media, new
 periodicals, ephemera.[7]
-
 Australian libraries cannot attempt to collect such material
 comprehensively. But how do we keep track of where it is located
 in South Asia? Will it, indeed, be collected at all? Indian libraries
@@ -162,9 +132,7 @@ move slowly and have acquisition programs that long pre-date the
 invention of audio-cassettes and television. And most of them find
 it as difficult as an Australian library to find funds to buy a new
 periodical.
-
 Economic Imperatives
-
 The example of fishing suggests that economic returns may
 possibly arise from such projects. In the next ten years, much
 research will be directly concerned with economic return. The
@@ -173,7 +141,6 @@ ANU in 1994,[8] which, in spite of its general name, is obviously
 intended to be a centre of economics research, indicates a growing
 sense that South Asia, particularly India, must be part of any
 successful Australian engagement with India.
-
 Such research will, I expect, range from studies of the broad
 contours of South Asian economies - the sort of work of academic
 economists - to narrowly focussed research into particular
@@ -186,7 +153,6 @@ commission such research. The problem of acquiring new
 periodicals again arises. For example, we do not hold in Australia a
 collection of A&M, the chief Indian advertising and marketing
 fortnightly, founded in 1988.
-
 Capitalism - the need to market products and politicians, - drives
 this kind of research. Yet the people who conduct it have usually
 been trained as scholars, and at its best, their work is scholarly. One
@@ -199,9 +165,7 @@ people. It will try to learn a great deal about the disposable incomes
 and reading habits of urban Indians, and based on its findings,
 millions of dollars of advertising will be spent in the next three or
 four years.[11] 
-
 Research Needs
-
 In focusing on areas of likely future research, I have emphasized
 new sorts of sources that such research will require. More
 conventional sources - periodicals, books, journals and official
@@ -210,7 +174,6 @@ sources was illustrated for me in a discussion with the ambitious
 young marketing manager of a major Indian newspaper. He
 hungered for the next instalment of his region's 1991 census data as
 if it were Red Riding Hood and he, a career-oriented Wolf.
-
 The revolution in printing technology has improved the
 appearance of South Asian books and periodicals. It is has also
 allowed governments to bring out official publications faster and
@@ -222,10 +185,8 @@ disappear immediately on publication, only to be found years later
 in the government-press warehouse by a researcher looking for
 something else. Yet these publications - for example,
 constituency-wise election results - are immensely valuable.
-
 How are we to keep abreast of such publications for 25 Indian
 states, four Pakistani provinces, Bangladesh, Nepal and Sri Lanka?
-
 First, we need to make the most of what we already have in
 Australia. South Asianists around Australia and the National
 Library submitted an unsuccessful bid to DEET for Mechanism C
@@ -237,7 +198,6 @@ Centre for South Asian Studies in consultation with the National
 Library, some work of this kind on South Asian newspapers has
 already been carried out by Anne Brennan of Adelaide who has
 worked in libraries in Adelaide, Melbourne and Canberra.
-
 Second, we need closer personal connections between librarians in
 Australia and librarians, booksellers and media producers in South
 Asia. Our goal ought to be to have a representative of the National
@@ -251,7 +211,6 @@ cheaper possibility, would be to have a group of three or four
 Australian librarians, perhaps the drafters of a national acquisitions
 plan, tour the region to establish links which could then be
 maintained through electronic mail and facsimile.
-
 Third, we need a data base of the best libraries in South Asia, a
 listing that will allow us to discover rare items and get them on loan
 or as photocopies. The knowledge necessary to create such a list
@@ -259,7 +218,6 @@ will require personal relationships to be established between
 Australian and South Asian librarians. In short, a few Australian
 librarians have to develop a familiarity with their counterparts in
 the region.
-
 The volume and diversity of media in South Asia presents an
 immense challenge for librarians. This is compounded by the fact
 that today every aspect of life is a potential field for scholarly
@@ -267,38 +225,31 @@ research. Yet the technology that creates the challenge also
 provides ways of meeting it. What we require for South Asia is an
 agreed national plan for acquisitions, based on the familiarization of
 more of our librarians with the region.
-
 [ ] 1 Alfred Deakin, Irrigated India: an Australian View of India and Ceylon,
 their Irrigation and Agriculture (London: W. Thacker, 1893), Alfred
 Deakin, Temple and Tomb in India (Melbourne: Melville, Mullen and
 Slade, 1893) and Bertram Stevens, New Horizons:a Study of
 Australian-Indian Relationships (Sydney: Peter Huston, 1946) indicate
 earlier interest.
-
 [2] The casualty list is in National Strategy for the Study of India and
 Indian Languages (Melbourne: Melbourne South Asian Studies Group
 for the Asian Studies Council, 1991), p. 16n.
-
 [3] I know that discussing names is fraught with the danger of
 careless oversight and hurt feelings, but two exceptions come to
 mind: Sir John Crawford's work on Indian agriculture and Jack
 Caldwell's demographers at ANU.
-
 [4] The Asian Studies Review, published by the Asian Studies
 Association of Australia, Inc., began to carry reviews of
 video-cassettes in its November 1990 issue. The Journal of Asian
 Studies, the leading American journal in the field, began a similar
 section in February 1991.
-
 [5] The National Library's holdings of Indian-language
 newspapers, dating back to the lustrous 1960s, are remarkably
 diverse.
-
 [6] I have a run of "Newstrack," the monthly video produced by the
 Living Media India, owners of India Today. I subscribed from
 February 1990 until Living Media India discontinued the magazine
 after the cassette of September 1994.
-
 [7] Two recent articles illustrate this development. Joseph S. Alter
 uses sports magazines and books written in Hindi to open up the
 world of adulated wrestlers in north India. ("Somatic Nationalism:
@@ -308,32 +259,17 @@ cassettes to analyze Assamese nationalism and secession through
 the work of an Assamese song-writer. ("`Ethnic' Conflict as
 State-Society Struggle: the Poetics and Politics of Assamese
 Micro-Nationalism," in ibid., pp. 649-71).
-
 [8] Insight, 19 December 1994, pp. 9-10. The other recently
 established academic body devoted to the region is the National
 Centre for South Asian Studies, a consortium of the ANU, Curtin,
 Deakin, La Trobe, Monash, New England and Swinburne, set up in
 1993 and based in Melbourne.
-
 [9] Political polling came into its own at the time of Rajiv Gandhi's
 election victory in December 1984.
-
 [10] Hamish McDonald, Far Eastern Economic Review, 30 December
 1993-6 January 1994, p. 46.
-
 [11] The first National Readership Survey (NRS-I) was carried out
 in 1970. NRS-II was in 1978; NRS-III in 1983; NRS-IV in 1990. 
-
-
 ***********************************************************************
  					Michael Ledwidge 
 					National Library of Australia       
-
-
-
- 
-
-
-
-
-

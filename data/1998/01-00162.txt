@@ -1,16 +1,4 @@
-From thillaud at UNICE.FR  Mon Jan 19 16:37:32 1998
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Mon, 19 Jan 98 17:37:32 +0100
-Subject: linguistic & mathematics
-In-Reply-To: <48bc82e9.34c33c6f@aol.com>
-Message-ID: <161227034873.23782.15593598402936454101.generated@prod2.harmonylists.io>
-
->>(I'm not convinced the fuzzy set theory is a powerful tool in
->>linguistic, I believe that's just a attempt to give some obscurity (hence
->>seriousness) to simple facts.)
->
->Not yet, it is a new field in infancy.
-
+linguistic & mathematics
         Sorry, I have mixed up your term with an older theory of blurred
 sets (Fr. "ensembles flous").
         There are many attempts to give a theory of brain or computer
@@ -19,14 +7,8 @@ interesting but, in my opinion, perhaps too early.
         Nevertheless, each science needs precursors, hence good luck!
         Regards,
 Dominique
-
 PS: to Mr Subrahmanya:
 OK, you exist and I apologize for my "proud pseudonym". And I stop here, I
 need a nice cup of coffee ;-)
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

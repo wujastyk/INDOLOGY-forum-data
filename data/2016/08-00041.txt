@@ -1,125 +1,18 @@
-From karp at uw.edu.pl  Fri Aug  5 15:29:42 2016
-From: karp at uw.edu.pl (Artur Karp)
-Date: Fri, 05 Aug 16 17:29:42 +0200
-Subject: [INDOLOGY] ISO 15919 description no longer accessible online
-In-Reply-To: <CALNcvFu0r_p4tjNZRb0dFcUKg223Mj_jUBLnXi+jf86PYjyWPg@mail.gmail.com>
-Message-ID: <CALNcvFtRYL4ieVtRSoceZqc=ed798YBo=eyii-3Wt4ePqY8Naw@mail.gmail.com>
-
+[INDOLOGY] ISO 15919 description no longer accessible online
 The contents of the files were used in the preparation of [in Polish:]
 "Nazewnictwo Geograficzne ?wiata" (4, Azja Po?udniowa) - "Geographical
 Names of the World" (4, South Asia)
-
 to be found at:
-
 https://uw.academia.edu/AKarp (Editions)
-
 Azja Po?udniowa (Artur Karp ed.), Nazewnictwo geograficzne ?wiata, Zeszyt
 4, G??wny Urz?d Geodezji i Kartografii, Warszawa 2005
 <https://www.academia.edu/9062314/Azja_Po%C5%82udniowa_Artur_Karp_ed._Nazewnictwo_geograficzne_%C5%9Awiata_Zeszyt_4_G%C5%82%C3%B3wny_Urz%C4%85d_Geodezji_i_Kartografii_Warszawa_2005>
-
 and in the preparation of the so far unpublished list of historical
 buildings and other architectural monuments in SA
-
 to be found at:
-
 https://uw.academia.edu/AKarp (Educational Materials)
-
 Nazwy budowli - Azja Po?udniowa [Names of buildings and other architectural
 monuments in South Asia]
 <https://www.academia.edu/23167699/Nazwy_budowli_-_Azja_Po%C5%82udniowa_Names_of_buildings_and_other_architectural_monuments_in_South_Asia_>
-
-
 Artur Karp
-
-
 2016-08-05 14:32 GMT+02:00 Artur Karp <karp at uw.edu.pl>:
-
-> Dear All,
->
-> I have just uploaded 7 files re *Romanization *of Bengali, Hindi,
-> Maldivian, Nepali, Sinhalese, Tamil, Urdu (acc. to ISO 15919, 2001)
->
-> at
->
-> https://uw.academia.edu/AKarp (Educational Materials)
->
-> The files are in Polish (entitled: *Zasady latynizacji:* j. bengalskiego,
-> hindi, malediwskiego, nepalskiego, syngaleskiego, tamilskiego, urdu);
-> abbreviation *trl *denotes ISO transliteration, *trb* - Polish
-> transcription.
->
-> Hoping the files might be of some use,
->
-> Artur Karp (ret.)
-> Chair of South Asian Studies
-> University of Warsaw
-> Poland
->
->
->
->
-> 2016-08-05 4:59 GMT+02:00 Harry Spier <hspier.muktabodha at gmail.com>:
->
->> Dear Arlo,
->> Anthony Stone's ISO 15919 transliteration pages are no longer on the
->> internet.  But you can access a copy from archive.org's way-back machine.
->>
->> 1) go to www.archive.org
->> 2) at the top of the webpage enter in the search  box
->> http://homepage.ntlworld.com/stone-catend/trind.htm
->> 3) on the page that then comes up is what looks like a calendar with
->> sevaral blue circles on it.  Click on the blue circle in the latest date
->> and the webpage will come up in your browser.
->>
->> Harry Spier
->>
->> On Thu, Aug 4, 2016 at 12:14 PM, Arlo Griffiths <
->> arlogriffiths at hotmail.com> wrote:
->>
->>> Does anyone know who was maintaining the useful pages <
->>> http://homepage.ntlworld.com/stone-catend/trind.htm>, and why these are
->>> now no longer accessible? It would be nice if they could become accessible
->>> again. If, by the way, anyone has the costly pdf published by ISO on this
->>> standard, and would be willing to share it, I would be grateful.
->>>
->>>
->>> Best wishes,
->>>
->>>
->>> Arlo Griffiths
->>>
->>>
->>>
->>> Transliteration of Indic scripts: How to use ISO 15919
->>> <http://homepage.ntlworld.com/stone-catend/trind.htm>
->>> homepage.ntlworld.com
->>> transliteration of Indic scripts - how to use ISO 15919 and relation
->>> between ISO 15919 and Unicode / ISO 10646
->>>
->>>
->>> _______________________________________________
->>> INDOLOGY mailing list
->>> INDOLOGY at list.indology.info
->>> indology-owner at list.indology.info (messages to the list's managing
->>> committee)
->>> http://listinfo.indology.info (where you can change your list options
->>> or unsubscribe)
->>>
->>
->>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160805/532ab12b/attachment.htm>
-

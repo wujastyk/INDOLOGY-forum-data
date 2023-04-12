@@ -1,28 +1,8 @@
-From nozawa at LA.NUMAZU-CT.AC.JP  Wed Apr  8 04:54:53 1998
-From: nozawa at LA.NUMAZU-CT.AC.JP (Nozawa Masanobu)
-Date: Wed, 08 Apr 98 13:54:53 +0900
-Subject: Vaishesikasutra E-text
-In-Reply-To: <l03130300b14841ca3156@[141.218.154.129]>
-Message-ID: <161227037551.23782.10964034834722047046.generated@prod2.harmonylists.io>
-
-jonathan silk:
->Perhaps I misunderstood this, but I downloaded the
 Vaishesikasutra E-text
->and tried to read it with a CSX font, without success
+jonathan silk:
+Vaishesikasutra E-text
 (I mean it was
->garbled). Is a CS font different from a CSX font?
->
->Jonathan Silk
->SILK at wmich.edu
-
    I'm sorry to be slow in answering.
    Please read the file with CSUtopia or CS Bitstream,
 and, I hope, it will read well.
-
-
-
                 Nozawa Masanobu
-
-
-
-

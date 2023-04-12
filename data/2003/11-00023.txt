@@ -1,21 +1,13 @@
-From birgit.kellner at UNIVIE.AC.AT  Tue Nov 11 11:58:36 2003
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Tue, 11 Nov 03 12:58:36 +0100
-Subject: Nouns ending in "-in": gender?
-Message-ID: <161227073423.23782.4747610701816882424.generated@prod2.harmonylists.io>
-
+Nouns ending in "-in": gender?
 Dear colleagues,
-
 I was wondering whether there are any definite rules or established
 practices concerning the gender of Sanskrit nouns ending in "-in".
 All such words that I know have masculine gender (e.g. dharmin,
 pratiyogin), and this seems also to be the case with most such words
 lemmatized in Monier-Williams.
-
 I have now some passages with -in-nouns in neuter gender and am
 wondering whether this requires explanation. Is the gender of such nouns
 a matter of habit and convention or one of grammatical rule?
-
 One could imagine that these words originally derive from adjectives
 which in turn are formed from nouns plus the in-suffix. If that is the
 case, then the gender of the -in-noun might be derived from those nouns
@@ -27,7 +19,6 @@ semantically implicit. For instance, one might think that words like
 "dharmin" and "pratiyogin" were originally adjectives used with a noun
 like "artha" and retained a masculine gender because of this specific
 usage.
-
 By contrast, the occurrence of neuter nouns (like "virodhi") could be
 explained through derivation from adjectives originally used with neuter
 nouns (like "liGga"). But is it really plausible that the gender of
@@ -35,11 +26,5 @@ nouns (like "liGga"). But is it really plausible that the gender of
 to very specific contexts of usage? Or would the choice of neuter or
 masculine in such cases be arbitrary, and the preference for masculine
 simply be a matter of linguistic convention regardless of context of use?
-
 Thanks in advance and best regards,
-
 Birgit Kellner
-
-
-
-

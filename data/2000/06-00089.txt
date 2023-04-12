@@ -1,26 +1,15 @@
-From garzilli at SHORE.NET  Mon Jun 12 21:12:58 2000
-From: garzilli at SHORE.NET (Enrica Garzilli)
-Date: Mon, 12 Jun 00 23:12:58 +0200
-Subject: IJTS Vol. 4, Special issue (June 12, 2000)
-Message-ID: <161227059064.23782.5123329710947747111.generated@prod2.harmonylists.io>
-
+IJTS Vol. 4, Special issue (June 12, 2000)
 Dear Colleagues,
-
 I am glad to announce this special issue of the *International Journal
 of Tantric Studies* with the paper "Magically Storming the Gates of
 Buddhahood: Extensible Text Technology (XML/XSLT) as a Simulacrum for
 Research" by Dr. John Robert Gardner.
-
  http://www.asiatica.org/publications/ijts/vol4_special/paper1.asp
-
 This issue will be free for 15 days. To subscribe to the IJTS look at
 http://www.asiatica.org
-
 Happy reading!                                              EG
 ******************************************************************
-
 ABSTRACT:
-
 An (un)surprising conceptual parallel between Tantric and Vedic
 practices of mantra manipulation, and the very latest in computer
 information technology--XML, or Extensible Markup Language--provides
@@ -38,9 +27,7 @@ texts (full set is included with technical appendices) from the Rig Veda
 introduced, explanations and links to required files and programs (all
 freeware), and a complete electronic Rg Veda in XML, with pre-written,
 adaptable XSLT scripts are included.
-
 *********************************END******************************
-
 Dr. Enrica Garzilli                 University of Perugia (ITALY)
 ex-Istituto di Linguistica                   Piazza Morlacchi, 11
 06123 Perugia                 Tel./Fax: +39-075-585 3055 (office)
@@ -48,7 +35,3 @@ Editor-in-Chief,
 Intl. Journ. of Tantric Studies, Journal of S. Asia Women Studies
 http://www.asiatica.org/
 *****************************************************************
-
-
-
-

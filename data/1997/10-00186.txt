@@ -1,24 +1,12 @@
-From jacob.baltuch at EURONET.BE  Tue Oct 21 17:39:28 1997
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Tue, 21 Oct 97 19:39:28 +0200
-Subject: Indian computing?
-Message-ID: <161227033211.23782.12763283271373283956.generated@prod2.harmonylists.io>
-
+Indian computing?
 1. Does anyone know of places on the net where I can find the various
    official specs relevant to computing & Indian languages (ISCII, etc.)
-
 3. What's the 8-bit standard that has the characters needed for translit-
    teration (letters with macrons, underdots, overdots, etc.)? (Incidentally
    does Unicode make room for such characters? where do I find the Unicode
    spec?)
-
 2. Is there a reference book for computing & Indian languages (I'm thinking
    of something along to lines of what Ken Lunde's "Understanding Japanese
    Information Processing" is for Japanese)
-
 Thanks
 Jacob
-
-
-
-

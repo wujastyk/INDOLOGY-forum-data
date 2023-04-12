@@ -1,25 +1,10 @@
-From harshadehejia at HOTMAIL.COM  Fri Dec 14 23:57:22 2007
-From: harshadehejia at HOTMAIL.COM (Harsha Dehejia)
-Date: Fri, 14 Dec 07 23:57:22 +0000
-Subject: Sanskrit Software
-Message-ID: <161227081593.23782.3471907085850841370.generated@prod2.harmonylists.io>
-
+Sanskrit Software
 Friends:
- 
 I have had an inquiry from a Vedic scholar in California and he writes:
- 
 "I would like to create a professional software package, an 'add-on' that operates directly within Microsoft Office. Such software would give users a common platform for efficiently typing Sanskrit from a Romanized (English) keyboard directly into MSWord. Users would be able to do so in Devanagari or transliteration, or by toggling from one to the other. My hope is to distribute such a package free of cost over the internet and, in doing so, create a common platform for all who create full or part-Sanskrit documents, publish them, or simply use them. Academic or student, mystic or pragmatist, Westerner or Indian, if someone has MSWord, they'll be able to use what I envision. "
- 
 Does anyone know if this exists?  If not what shall I tell him. He seems sincere.
- 
 Regards and Season's Greetings.
- 
 Harsha
- 
 Harsha V. Dehejia
 Professor of Indian Studies, Carleton University
 Ottawa, ON. Canada.
-
-
-
-

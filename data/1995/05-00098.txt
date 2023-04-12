@@ -1,31 +1,14 @@
-From vidynath at math.ohio-state.edu  Mon May 22 22:47:31 1995
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Mon, 22 May 95 18:47:31 -0400
-Subject: gerund of sammizrayati
-Message-ID: <161227019486.23782.6147424584661249794.generated@prod2.harmonylists.io>
-
-
+gerund of sammizrayati
 A quick question to the grammarians on this list: How does one form the
 gerund of a tenth class/causative compounded with an upasarga if the
 root ends in a conjuct consonant? In particular, is the gerund of
 -mizr (mix together) -mizrya?
-
 Whitney and Macdonnel state the rule as ``if the radical vowel is
->short<, then the causative affix aya is retained, except for the final
 a''. Should the word `short' be replaced by `light'? A quick search
 through the grammar books failed to turn up any definitive example.
-
 Of course, the stem mizraya is said to be really a denominative, even
 though it is listed in the dhaatupaaTha among the curaadi class. Are such
 roots treated like denominatives or like tenth class verbs in this
 situation?
-
 Thanks in advance for your help
-
 Nath Rao (natharao+ at osu.edu)		614-366-9341
- 
-
-
-
-
-

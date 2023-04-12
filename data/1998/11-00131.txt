@@ -1,45 +1,13 @@
-From hubeyh at MONTCLAIR.EDU  Sat Nov  7 04:21:39 1998
-From: hubeyh at MONTCLAIR.EDU (H.M.Hubey)
-Date: Fri, 06 Nov 98 23:21:39 -0500
-Subject: Paired Horse and PIE breakup
-Message-ID: <161227042379.23782.2571735624616264172.generated@prod2.harmonylists.io>
-
+Paired Horse and PIE breakup
 Miguel Carrasquer Vidal wrote:
->
-> "H.M.Hubey" <hubeyh at MONTCLAIR.EDU> wrote:
-> >
-> >Turkish 'yarim' = half. So this could mean 'half-sighted'.
->
-> Well, if you can find a Turkic word "asp-" with the appropiate
-> meaning.  Or any Turkic word "asp-" at all.
-
 No. There is the very slight (an highly unlikely) k > x > 0
 in kor/koz > oz/os/as (having to do with 'seeing, eye'). The
 word Arimaspi could itself be half&half :-)
-
-
->
-> But what has Turkic *e:r, *erkek to do with PIE *wi:ros, or with
-> Herodotus' "oior"?
-
 Word like /ar/ also shows up (I think in Nilo-Saharan) for 'man', or
 'people'. Words like /il/el/al/ or even /ur/ura/ etc also show up for
 'land', 'people', settlement, etc so this is probably a very old word.
-
 So I think they are all from the same root..
-
-
-> >These are dangerous territories. 'Deniz'/Tenngiz' means 'sea' in Turkic
-> >and is well established in other forms like 'tennger' (in l~r Turkic and
-> >Hungarian).
->
-> Indeed, all the old forms have t-.  The change to d- is recent, and
-> restricted to (Anatolian) Turkish.  That rules out any connection
-
 Yes.
-
-> with <tenger> (apart from the wrong vowel, the spurious -(ng)er/
-
 There are two great branches of Turkic, denoted l~r (Bolgharic) and sh~z
 from the
 commonly observed equivalence l=sh and r=z. Tenger is 'sea' in Chuvash
@@ -48,28 +16,11 @@ is
 the nasal-n also commonly observed. I think it is rather unstable since
 in some dialects it is /y/. IT seems to be also connected sometimes with
 /r/.
-
-
-> -(ng)iz at the end, and the wrong meaning).  I don't care too much
-> for the etymology of "Caucasus", but the river names are surely
-> Iranian.  Forget about <deniz> and just look at Ossetian <don>
-> "water, river"...
-
 Yes, Ossetian 'don' is water. But we'd have to see it in many other IE
 languages don't you think?
-
-> >
-> >That is not right. The Norse version of it 'atli' is a perfectly
-> >good Turkic word meaning 'horseman'. This problem arises because
-> >they first assume that 'atti' is Germanic
->
-> Nope.  Attila *is* Gothic for "little father" (Vaterlein), no
-> assumptions required.
-
 The river Yayik is/was Turkic for Volga or Don. The word shows up
 circa 200 BC, (which is 400-500 yrs before Turkic speakers are supposed
 to be there_, in Greek (can't recall the author), in form 'daichs/daix'.
-
 Doerfer reconstructs proto-Turkic as  *d > *d' > *c > y. This first is
 the
 (in)famous d-Bolgharic. That also dovetails with Tuna's works, and also
@@ -78,7 +29,6 @@ Caucasus
 many centuries before they are supposed to be there. I also explained
 how the
 words kar/kaz etc could have come into being.
-
 Now, then, we need to know if Gothic has an attested /atti/ (for father)
 or /attila/ (little father) before at least 200 BC. Otherwise
 considering the
@@ -89,14 +39,6 @@ superstratum
 and Goths the substratum, the likely conclusion is borrowing unless some
 very
 good reason for it is given.
-
->
-> >for father when they
-> >should know by now that 'ata' is Turkic for father in practically
-> >every Turkic language.
->
-> Yes, but not 'attila', with double -tt- and dimunitive suffix -ila.
-
 This is penny-ante stuff. Atta is an attested word in Karachay and
 Balkar
 of the CAucasus. The palatalized version sounds more like atti. Secondly
@@ -109,8 +51,6 @@ can
 see this in As-tarkhan > astrakhan, tumen-tarkhan > tmutarakan, or even
 koturgur > kutrigur, or maybe even kubulat > kubrat, etc. One can even
 include tur > troy.
-
---
 Best Regards,
 Mark
 -==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -124,7 +64,3 @@ or entities other than the intended recipient is prohibited. If you
 received this in error, please contact the sender and delete the
 material  from any computer.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-
-

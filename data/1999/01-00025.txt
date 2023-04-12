@@ -1,36 +1,19 @@
-From ucgadkw at UCL.AC.UK  Sun Jan  3 01:53:01 1999
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sun, 03 Jan 99 01:53:01 +0000
-Subject: [Admin] Web site update
-Message-ID: <161227044485.23782.11937672335983111091.generated@prod2.harmonylists.io>
-
+[Admin] Web site update
 Dear Colleagues,
-
 I have updated the INDOLOGY web interface for those whose browsers support
 frames (for others there is no change). The address is the same as ever,
 namely:
-
   http://www.ucl.ac.uk/~ucgadkw/indology.html
-
 The content is substantially the same as in late December, although I have
 taken the opportunity to overhaul some pages, and check some links, etc.
-
 Amongst the small number of significant content-updates, I have added much
 improved images of the Wellcome manuscript of Patanjali's Yogasutras, and
 I have also added a couple of leaves from a Sanskrit MS of Bhaskara's
 Lilavati. See under "Digital images...".
-
 All the best for the new year!
-
 Dominik
-
---
 Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
 Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
   the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
 Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
 London NW1 2BE, England.
-
-
-
-

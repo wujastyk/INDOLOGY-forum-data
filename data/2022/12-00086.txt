@@ -1,62 +1,22 @@
-From sharonbendor at yahoo.com  Mon Dec 19 14:34:19 2022
-From: sharonbendor at yahoo.com (Sharon Ben-Dor)
-Date: Mon, 19 Dec 2022 14:34:19 +0000 (UTC)
-Subject: [INDOLOGY] paratva
-In-Reply-To: <CAK-86hsV3r6gD5hSGDo456hMODkPSsk_d9xgTiaYVcL0HS-ndw@mail.gmail.com>
+[INDOLOGY] paratva
 References: <CANo1J=LkAQ3ij=tH7EvXPVh5AZ6DOcUwWy+-7kTyM553WJ5Dbw@mail.gmail.com>
  <CAK-86hsV3r6gD5hSGDo456hMODkPSsk_d9xgTiaYVcL0HS-ndw@mail.gmail.com>
-Message-ID: <1176266842.989001.1671460459359@mail.yahoo.com>
-
 Dear Rishi Rajpopat,
 Thank you for the reply.
 I don't have Joshi's translation of the k?rak?hnika. I would be thankful if someone would provide me with a scan of the two relevant pages. 
 I looked at your note 75. You mention only the example geha? pravi?ati/ *gehe pravi?ati which is problematic. At the moment, I have only the Mah?bh??ya with the Prad?pa and Uddyota. With N?ge?a's comments on the bh?sya (v?rttika 33), I think the argument of bh??ya is clear and valid. According to N?ge?a, the form 'gehe pravi?ati' is incorrect. Only 'geha? pravi?ati' is correct ["gehe pravi?ati gr?me ?gata ity ?di tv as?dhveveti bodhyam"] - Although I see that in Monier Williams dictionary, the object of this verb can be in the accusative or locative. The conflict occurs because the house concerning the activity of 'pra vi?' is both the desired object (A.1.4.49: kartur ?psitatama? karma) and the location (A.1.4.45: ?dh?ro' dhikara?am) [geha? pravi?at?ty ?dau geh?dhikara?ako gehakarmako vy?p?ra iti bodha?]. According to K?ty?yana, Pata?jali and N?ge?a, it is desired that the object 'geha' be karma, thus with an accusative ending. By A 1.4.1 and A 1.4.2, only A.1.4.49 applies because it is mentioned later. So, the speaker's wishes, whether he/she wants to express kartur ?psitatama or ?dh?ra, are irrelevant in respect to this example.
-
 Yours,
 Sharon
-
-
-
-
-
 On Monday, December 19, 2022 at 12:14:11 AM GMT, Rishi Rajpopat via INDOLOGY <indology at list.indology.info> wrote: 
-
-
-
-
-
 Dear Yuto
-
 It's so good to hear from you!
-
 And thanks for your interest.
-
 Firstly, contrary to your statement, I do actually discuss the issue you have raised about the karakas. Please see footnote 75 on pg 31 of my thesis. Contrary to what the tradition says (see joshis essay mentioned below for details) there is no conflict at all between the rules you mention. The two labels are never simultaneously applicable and the choice between the two karakas in question lies entirely with the speaker, as I say in my thesis too in the aforementioned footnote. (SD Joshi has written a beautiful piece on this: see pages x and xi of the introduction to his translation of the karakahnika of the MBH)
-
 And no, it has to be param because it has to agree with karyam ("rhs operation"). So nominative.
-
 Enjoy your holidays! ?
-
 Best
 Rishi
-
-
-
-
 On Sun, 18 Dec, 2022, 7:01 PM ????, <ykawamura0619 at gmail.com> wrote:
-> Dear Rishi and colleagues,?
-> 
-> Like Sharon, I'm also curious about how your interpretation of paratva could solve the problem of the co-application of k?raka names that does not involve the concept of the left-right sides/parts: ap?d?na (1.4.24) vs. kara?a (1.4.42), or kara?a (1.4.42) vs. kart? (1.4.54), for example.? The utsarga-apav?da relation does not hold in these rules, unlike 1.4.45 and 1.4.46 you cited on p. 31 of your thesis, and hence ?the apav?da tool? cannot be used here to ?identify the winning rule?.? At a cursory glance, you do not seem to have discussed these issues in your thesis, the issues which I think are crucial to your new interpretation of paratva.
-> 
-> Another simple impression is: if P??ini had intended what you said, would the rule have been formulated as . . . pare/parasmin k?ryam ?operation applicable to the right side/part? instead of para? k?ryam?
-> 
-> With best wishes,
-> Y?to
-> 
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 https://list.indology.info/mailman/listinfo/indology
-

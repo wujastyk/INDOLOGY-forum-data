@@ -1,49 +1,25 @@
-From mmdesh at UMICH.EDU  Wed Nov 26 01:27:49 2003
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Tue, 25 Nov 03 20:27:49 -0500
-Subject: formation of the name mahaasaamghika
-Message-ID: <161227073514.23782.2857421512075419207.generated@prod2.harmonylists.io>
-
+formation of the name mahaasaamghika
 Hi Jonathan,
-
 There are couple of ways of going about it.  Monier-Williams lists a large number of words with maahaa- and hence the V.rddhi is a commonly attested form.  Given that the form is Mahaasaamghika, one can check how widely words like mahaasangha, and saamghika are attested.  If the word saamghika is attested, then mahaasaamghika would make perfect sense.  On the other hand, if the word mahaasamgha is widely attested, then mahaasaamghika is an anomaly.   Of course, there are forms like aabhidhaarmika and paaralaukika with double v.rddhi, and one could have maahaasamghika, but evidently we don't.  
-
 Madhav
-
-
------Original Message-----
-From: Indology on behalf of Jonathan Silk
 Sent: Tue 11/25/2003 3:49 PM
-To: INDOLOGY at liverpool.ac.uk
-Subject:      formation of the name mahaasaamghika
- 
+     formation of the name mahaasaamghika
 The name of one of the Indian Buddhist schools is Mahaasaamghika.
 Since I was asked about this more than ten years ago, I have wondered
 about it. The traditional explanation has it that the name signifies
 "those who belong to the great community" or something along that
 line. BUT:
-
 *if*
-
 mahaasamgha + ika
-
 then, should >
-
 *maahaasamghika
-
 right?
-
 To generate mahaasaamghika, we need to assume
-
 mahaa + saamghika < samgha + ika
-
 right?
-
 I cannot reconcile what I understand to be the grammer with what I
 understand the tradition to understand. Any ideas?
-
 JAS
---
 Jonathan Silk
 Department of East Asian Languages & Cultures
 Center for Buddhist Studies
@@ -54,7 +30,3 @@ Los Angeles, CA 90095-1540
 phone: (310)206-8235
 fax:  (310)825-8808
 silk at humnet.ucla.edu
-
-
-
-

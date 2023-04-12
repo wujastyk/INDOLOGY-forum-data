@@ -1,24 +1,8 @@
-From zydenbos at uni-muenchen.de  Thu Aug 15 10:34:11 2019
-From: zydenbos at uni-muenchen.de (Robert Zydenbos)
-Date: Thu, 15 Aug 19 12:34:11 +0200
-Subject: [INDOLOGY] EasyUnicode for a Windows computer?
-In-Reply-To: <A6DA74C4-4A53-4C85-AFE0-7238A5677E8A@cornell.edu>
-Message-ID: <5D553523.9060703@uni-muenchen.de>
-
+[INDOLOGY] EasyUnicode for a Windows computer?
 There is also John Smith's keyboard layout for Windows at http://bombay.indology.info/software/fonts/induni/index.html (however, I have no experience with it myself, being a Mac and Linux user).
-
 RZ
-
-
--- 
 Prof. Dr. Robert J. Zydenbos
 Institute of Indology and Tibetology
 Department of Asian Studies
 Ludwig-Maximilians-Universit?t M?nchen (University of Munich ? LMU)
 Germany
-
-
-
-
-
-

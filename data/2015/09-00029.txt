@@ -1,38 +1,22 @@
-From p.balcerowicz at uw.edu.pl  Wed Sep  2 23:51:36 2015
-From: p.balcerowicz at uw.edu.pl (Piotr Balcerowicz)
-Date: Thu, 03 Sep 15 01:51:36 +0200
-Subject: [INDOLOGY] Nyaya discussions on faulty examples
-In-Reply-To: <mailman.67.1441209616.28548.indology_list.indology.info@list.indology.info>
-Message-ID: <1255123467.6651764.1441237896018.JavaMail.javamailuser@localhost>
-
+[INDOLOGY] Nyaya discussions on faulty examples
 If I understand correctly, what you actually mean is d????nt?bh?sa? If so, in the Ny?yabh??ya (NBh), the issue is conflated with hetv?bh?sa ? see NBh 1.1.37. However, it is discussed separately in the Ny?ya-v?rttika. 
-
 Outside of the Ny?ya tradition, you have Buddhist ?a?karasv?min?s Ny?ya-prave?a definisions and typologies: 
-
-
 3.3. d????nt?bh?so dvividha?: s?dharmye?a vaidharmye?a ca // 
-
 3.3.1. tatra s?dharmye?a t?vad d????nt?bh?sa? pa?ca-prak?ra?, tad yath?: /1/ s?dhana-dharm?siddha?, /2/ s?dhya-dharm?siddha?, /3/ ubhaya-dharm?siddha?, /4/ ananvaya?, /5/ vipar?t?nvaya? c?ti // tatra 
 [1] s?dhana-dharm?siddho yath?: nitya? ?abdo ?m?rtatv?t param??uvat. yad am?rta? tan nitya? d???a? yath? param??u?. param??au hi s?dhya? nityatvam asti s?dhana-dharmo ?m?rtatva? n?sti m?rtatv?t param???n?m iti // 
 [2] s?dhya-dharm?siddho yath?: nitya? ?abdo ?m?rtatv?d buddhivat. yad am?rta? tan nitya? d???a? yath? buddhi? // buddhau hi s?dhana-dharmo ?m?rtatvam asti s?dhya-dharmo nityatva? n?sti. anityatv?d buddher iti // 
 [3] ubhay?siddho dvi-vidha?. sann asa?? c?ti. tatra gha?avad iti vidyam?n?bhay?siddha?. anityatv?n m?rtatv?c ca gha?asya. ?k??avad ity avidyam?n?bhay?siddhah. tad-asattva-v?dina? prati // 
 [4] ananvayo yatra vin?nvayena s?dhya-s?dhanayo? saha-bh?va? pradar?yate. yath? gha?e k?takatvam anityatvam ca d???am iti // 
 [5] vipar?t?nvayo yath?: yat k?taka? tad anitya? d???am iti vaktavye yad anitya? tad k?taka? d???am iti brav?ti // 
-
 3.3.2. vaidharmye??pi d????nt?bh?sa? pa?ca-prak?ra?, tad yath?: /1/ s?dhy?vy?v?tta?, /2/ s?dhan?vy?v?tta?, /3/ ubhay?vy?v?tta?, /4/ avyatireka?, /5/ vipar?ta-vyatireka? c?ti // tatra 
 [1] s?dhy?vy?v?tto yath?: nitya? ?abdo ?m?rtatv?t param??uvat. yad anitya? tan m?rta? d???a? yath? param??u?. param??or hi s?dhana-dharmo ?m?rtatva? vy?v?tta? m?rtatv?t param???n?m iti. s?dhya-dharmo nityatva? na vy?v?tta? nityatv?t param???n?m iti // 
 [2]s?dhan?vy?v?tto yath?: karmavad iti. karma?a? s?dhya? nityatva? vy?v?ttam. anityatv?t karma?a?. s?dhana-dharmo ?m?rtatva? na vy?v?ttam. am?rtatv?t karma?a? // 
 [3] ubhay?vy?v?tta?. ?k??avad iti. tat sattva-v?dina? prati. tato nityatvam am?rtatva? na ca vy?v?ttam. nityatv?d am?rtatv?c c?k??asy?ti // 
 [4] avyatireko yatra vin? s?dhya-s?dhana-niv?tty? tad-vipak?a-bh?vo nidar?yate. yath? gha?e m?rtatvam anityatva? ca d???am iti // 
 [5] vipar?ta-vyatireko yath?: yad anitya? tan m?rta? d???am iti vaktavye yan m?rta? tad anitya? d???am iti brav?ti // 
-
 See also Dharmak?rti?s Ny?yabindu etc., but also Jaina tradition. As regards the typologies of fallacious, you may see my paper: 
 "Implications of the Buddhist-Jaina dispute over the fallacious example in Nyaya-bindu and Nyayavatara-vivrtti", in: Peter Fl?gel (ed.): Studies in Jaina History and Culture, Routledge Advances in Jaina Studies, Routledge, London?New York 2006: 117?153. 
 http://www.orient.uw.edu.pl/balcerowicz/indology/balcerowicz2006a.pdf
-
 Best,
 Piotr Balcerowicz
---------------------------------
 www.orient.uw.edu.pl/balcerowicz
-
-

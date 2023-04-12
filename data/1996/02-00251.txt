@@ -1,20 +1,6 @@
-From kpadmaso at spc-srv-a.efit.elcm.eds.com  Tue Feb 20 09:31:29 1996
-From: kpadmaso at spc-srv-a.efit.elcm.eds.com (kpadmaso at spc-srv-a.efit.elcm.eds.com)
-Date: Tue, 20 Feb 96 14:31:29 +0500
-Subject: numerical value of devanagari
-Message-ID: <161227022958.23782.15706159791559966020.generated@prod2.harmonylists.io>
-
->>>>> "Anand" == Anand Venkt Raman <A.Raman at massey.ac.nz> writes:
-
+numerical value of devanagari
     Anand> I have recently written a paper which discusses numerical
     Anand> representations, especially the katapayadi formula to some
     Anand> extent.  I would be glad to send you a copy if you like.
-
 I'd appreciate it if you can send me a copy too. Thanks,
-
 Krishna Padmasola
-
-
-
-
-

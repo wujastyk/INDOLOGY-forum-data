@@ -1,14 +1,7 @@
-From ucgadkw at ucl.ac.uk  Wed Jul 14 18:19:53 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Wed, 14 Jul 93 19:19:53 +0100
-Subject: here's a PS file of a Sanskrit text
-Message-ID: <161227015979.23782.2381200060383645015.generated@prod2.harmonylists.io>
-
+here's a PS file of a Sanskrit text
 This really should be okay.
 Best wishes,
 Dominik
-
-
 begin 600 santext.zip
 M4$L#!!0````(`*U:Z!I%$?,QA#T``/+9```*````<V%N=&5X="YP<ZP[_6_;
 MN)*_&_#_H,-A at 7W`)2%%6:2+PEA;EAYRN,W;UQ1%@+[]P;65Q+>NG6<[:7M"
@@ -365,14 +358,3 @@ M````"`"M6N@:11'S,80]``#RV0``"@`````````!`"``````````<V%N=&5X
 :="YP<U!+!08``````0`!`#@```"L/0``````
 `
 end
-
-
-
-
-
- 
-
-
-
-
-

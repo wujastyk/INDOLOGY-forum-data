@@ -1,32 +1,12 @@
-From griffithsa at RULLET.LEIDENUNIV.NL  Sun Apr  2 13:16:47 2000
-From: griffithsa at RULLET.LEIDENUNIV.NL (Arlo Griffiths)
-Date: Sun, 02 Apr 00 15:16:47 +0200
-Subject: Rope-Snake -- PS 2.8.5
-Message-ID: <161227057562.23782.9589860518128423050.generated@prod2.harmonylists.io>
-
+Rope-Snake -- PS 2.8.5
 Just a small addition/correction on the reading and word-division in a
 quotation from PS by Witzel. The correct text, as established by
 Bhattacharya (1997), then improved by Zehnder (1999), makes the relevance
 for the datvatii rajju- even more evident. It should read:
-
-
-> <2.8.5a>   vyaaghraM datvataaM vayaM
-> <2.8.5b>   prathamaM jambhayaamasi
-> <2.8.5c>   aad +it stenam ahiM
-> <2.8.5d>   yaatudhaanam atho vRkam
  (cf. ;SS 4.3.4)
-
-
--- Arlo Griffiths
-
 CNWS / Instituut Kern
 Universiteit Leiden
 Postbus 9515
 2300 RA  Leiden
 the Netherlands
-
 tel.: +31-71-5272979
-
-
-
-

@@ -1,11 +1,5 @@
-From narayana at HD1.VSNL.NET.IN  Wed Nov  4 10:33:49 1998
-From: narayana at HD1.VSNL.NET.IN (DEVARAKONDA VENKATA NARAYANA SARMA)
-Date: Wed, 04 Nov 98 15:33:49 +0500
-Subject: Devanagari script in posting to the list
-Message-ID: <161227042251.23782.13541156603960485827.generated@prod2.harmonylists.io>
-
+Devanagari script in posting to the list
 Dear List Members,
-
 Most of the e-mail clients like Eudora, Pegasus Mail, Netscape
 Messengser, Internet Mail, Outlook Express are HTML literate
 and most of them can be made to display attached .html files in the
@@ -13,28 +7,14 @@ body of e-mail itself by choosing the option "Put text attachements
 in the body of the message". This makes the clicking of attached
 .html file unneccessary. Thus it is possible to send postings
 with quotations in devanagari script. But there are some drawbacks.
-
 1. List members who have only a shell account will not be able to see
    the devanagari portions.
-
 2. As you must have noticed in the recent postings, when one
    attaches the original with the reply, if the original happens
    to be .html file with devanagari in it, the devanagari portion
    gets garbled. The more times such a file is sent back and forth
    the greater will be the garbling, I think.
-
 Some of you may be aware of some other drawbacks.
-
 I request you to comment and discuss the issues involved.
-
 regards,
-
 sarma.
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/19981104/7e315cd0/attachment.htm>
-

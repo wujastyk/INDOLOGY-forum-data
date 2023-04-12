@@ -1,31 +1,5 @@
-From jlc at ccr.jussieu.fr  Fri Apr 11 13:30:36 1997
-From: jlc at ccr.jussieu.fr (Jean-Luc Chevillard)
-Date: Fri, 11 Apr 97 15:30:36 +0200
-Subject: Amazing PataJjali, lakSaNa, and vyAkaraNa
-Message-ID: <161227029560.23782.3809718759931209955.generated@prod2.harmonylists.io>
-
+Amazing PataJjali, lakSaNa, and vyAkaraNa
 At 08:27 09/04/1997 BST, S. Palaniappan wrote:
-
->Scholars of Sanskrit grammar may not be aware of this. But PataJjali plays a
->pivotal role in dating the Tamil literature. Based on the use of the word
->'ilakkaNam' by tolkAppiyar and an explanation for the location of the word
->with semantic significance when two words form a compound, a Tamil scholar by
->name Vaiyapuri Pillai and following him Kamil Zvelebil date tolkAppiyar after
->PataJjali. (Apparently, PataJjali was the one to introduce the word "lakSaNa"
->in the sense of grammar and he was the one who introduced the classification
->of compounds into pUrvapadArtha, uttarapadArtha, anyapadArtha, and
->ubhayapadArtha. Vaiyapuri Pillai, in his discussion however, quotes Katyayana
->as saying "lakSya lakSane vyakaraNam" for which vArttika PataJjali is
->supposed to say "sabdo lakSya sUtram lakSaNam"!) Since the language of the
->Classical Tamil texts is supposed to be close to what is described by
->tolkAppiyam, Zvelebil says that there could hardly have been a wide gap of
->time between the two. 
->
->Vaiyapuri Pillai and Zvelebil, when they saw similar expressions in
->tolkAppiyam and mahAbhASya, they did not consider the possibility that both
->could be drawing on a common tradition. They simply assumed that Tamil
->borrowed from Sanskrit. ............
-
 Since you mention Vaiyapuri Pillai,
 you should also say that the date he proposes
 for _tolkAppiyam_ is the second half of the 5th century A.D.
@@ -39,13 +13,4 @@ in the 5th Cent. A.D.
 (see _The Smile of Murugan_, 1973, Leiden, E.J. Brill, P.143-146,
 where he gives his "first conclusion" and his "second,
 but not [...]final conclusion" on the date of _tolkAppiyam_)
-
 Regards
-
--- Jean-Luc Chevillard
-
-
-
-
-
-

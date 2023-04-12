@@ -1,9 +1,4 @@
-From Claude_Setzer at fcsmtp.mum.edu  Mon Dec 16 19:00:07 1996
-From: Claude_Setzer at fcsmtp.mum.edu (Claude_Setzer at fcsmtp.mum.edu)
-Date: Mon, 16 Dec 96 13:00:07 -0600
-Subject: 7 Bit tutorial
-Message-ID: <161227027625.23782.3740423119904247785.generated@prod2.harmonylists.io>
-
+7 Bit tutorial
 In my recent posting, I innocently assumed that the people I was addressing
 new more about computers and file systems that I do. Since they had been very
 active in discussing 7 bit systems and even writing software to use them, this
@@ -13,7 +8,6 @@ that are very knowledgeable computer experts, have many misunderstandings
 about how characters are generated and processed by a computer and by email. I
 do not in any way claim to be an expert, but will try to help the situation
 with this comment.
-
 The main point of my posting was to try to remove what I believe is a very
 incorrect belief that many people have. It seems that the computer people have
 convinced most of the world population the there is a serious technical reason
@@ -27,24 +21,19 @@ are very emotionally attached to their own favorite. On the other hand, it
 doesn't seem that there is much disagreement on 8 bits character standards,
 since most people already use those characters for hand written messages. This
 seems to be, in every way, a less expensive and more effective system to use.
-
 7 and 8 Bits Tutorial:
-
-
 A bit is the most fundamental piece of information processed by a computer.
 Physically it corresponds to one of two voltage levels in an electronic
 circuit. Logically, these two voltage levels are represented by either a one
 or a zero. To simplify the circuits and to insure accuracy, computers store
 and transfer information in groups of bits, often called words. Since the late
 1970s, all computers have used 8 bit (or larger) "words."
-
 Therefore, when you type a character on your keyboard, it always gets
 transmitted as an 8 bit "word." There is no choice because the computer is not
 capable of transmitting an odd length word, such as 7. Actually most fonts are
 8 bits fonts, too. The problem arises when some software or hardware starts
 ignoring the last bit in every word. Then the 8 bit characters are translated
 into 7 bit ones, often with dire consequences.
-
 An eight bit computer word allows a character (represented by a string of 8
 ones and zeros) to take on one of 256 values. In most languages, 256
 characters are adequate to represent at least the most commonly used
@@ -55,7 +44,6 @@ seems like a lot, many of those are taken up by punctuation and control
 signals, so it actually puts a rather severe limitation on communication. In
 the case of transliterated Devanagari, you loose all or most of the
 diacritical marks.
-
 With respect to email, there are two separate problems: body text and attached
 files. It is possible for an email system to independently use 7 or 8 bits
 capabilities in each area. Body text relates to what you type into the message
@@ -66,7 +54,6 @@ converts it into an attached file. This usually happens at the receiver end.
 When you send and receive an attached file, both email systems must be capable
 of interpreting the type of encoding that is used for transmission, and both
 computers must have a font with the same character placement.
-
 Another misunderstanding comes in with respect to the relationship between the
 keyboard, the computer display screen, and what is stored in a file. There is
 no fixed relationship between these. A software package may let you type in on
@@ -80,7 +67,6 @@ screen could display what is typed, or it could display a Romanized font with
 diacritical marks, or it could display just as easily in Devanagari or Telegu
 fonts that could be 8 or even 16 bits in size. When the file is saved, it
 could be in any of these formats, or a totally different one.
-
 The point I am trying to make is that computers use 8 bit fonts anyway, and
 our lives will probably become much easier and simpler if we put our time into
 standardizing on 8 bit system than if we continue working on the much more
@@ -88,21 +74,9 @@ limited and emotionally charged 7 bit systems. Yes, we do need 7 bit systems
 today, but I don't think there is any technical reason why we should need them
 tomorrow. And I think it will much easier to please everyone with 8 bit
 systems.
-
 Sincerely ,
-
 Claude Setzer       csetzer at mum.edu    or    cssetzer at mum.edu
-
-
-
---
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
          Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
                ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
-
-
-

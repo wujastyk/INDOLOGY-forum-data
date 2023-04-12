@@ -1,9 +1,4 @@
-From kappa-y at sh0.po.iijnet.or.jp  Tue Jun 10 14:35:01 1997
-From: kappa-y at sh0.po.iijnet.or.jp (kappa-y at sh0.po.iijnet.or.jp)
-Date: Tue, 10 Jun 97 23:35:01 +0900
-Subject: Q. the position of "sarva"
-Message-ID: <161227030823.23782.14138523739394115019.generated@prod2.harmonylists.io>
-
+Q. the position of "sarva"
 Dear Members
 I am studying Indian logic, especially inferential formulae.
 Troughout my study, a question has arised. It is about the sentences
@@ -20,8 +15,6 @@ If 2) must be translated as "All B is A," the logical relation will also be
 conversed.
 question.
 Best Regards
-
-
 Yasuhiro Okazaki
 613-2 Arima, Chiyoda-cho,
 Hiroshima-ken, Japan 731-15
@@ -30,9 +23,3 @@ Office Hiroshima Prefectual Kabe High School
 TEL +81-82-814-2032
 E-mail: kappa-y at sh0.po.iijnet.or.jp
            : khb12400 at niftyserve.or.jp
-
-
-
-
-
-

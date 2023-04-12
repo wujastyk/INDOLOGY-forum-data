@@ -1,19 +1,11 @@
-From wujastyk at gmail.com  Thu Nov 13 11:12:19 2014
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Thu, 13 Nov 14 12:12:19 +0100
-Subject: [INDOLOGY] Visuddhimagga
-In-Reply-To: <CALPiqivUy=drKJi4mpMdK6Ft2esjqG1d+GwVisZRWuUhxCeTQw@mail.gmail.com>
-Message-ID: <CAKdt-Cehg6=r9aCKg5DkOTsj==t20=o0BPvoxL8mEGTSNUFL2g@mail.gmail.com>
-
+[INDOLOGY] Visuddhimagga
 There's a new wrinkle on the editing history of the Visuddhimagga, not
 mentioned in Steve Collins' article, but kindly brought to my attention by
 Christophe Vielle (thanks!).
-
 Dharmanand Damodar Kosambi (not to be confused with his son Damodar
 Dharmanand Kosambi) worked on Warren's edition of the Visuddhimagga.
 Dharmanand's work was finished in 1911, but the book took until 1950 to
 appear.
-
 Meanwhile, Dharmanand went back to India, and in 1940 he published in
 Bombay an edition of the Visuddhimagga
 <http://www.worldcat.org/oclc/55562616> in his own name, work that he had
@@ -32,10 +24,8 @@ Dharmanand's Visuddhimagga edition has been transcribed and published as a
 web document
 <http://dharmanandkosambi.com/index.php?option=com_content&view=section&layout=blog&id=126&Itemid=144>
 .
-
 So there are *three* editions of the Visuddhimagga published between 1920
 and 1950, with entangled editorial histories:
-
    1. Caroline Rhys Davids, 1920, based on 4 printed editions
    2. Dharmanand Kosambi, 1940, based on 4 MSS and 2 editions
    3. Henry Clark Warren, 1950, based on 4 MSS
@@ -47,10 +37,8 @@ and 1950, with entangled editorial histories:
    unpublished until 1950 [Preface
    <http://dharmanandkosambi.com/index.php?option=com_content&view=category&layout=blog&id=160&Itemid=266>
    ].
-
 Warren's actual editorial work on the text preceded that of both the
 others.  But it was only published after their editions.
-
 For his 1940 edition, begun in 1909, Kosambi used the same MSS as Warren
 had used 40 years earlier.  Two of these MSS were personally procured by
 Warren from England, by correspondence with Thomas Rhys Davids and with Dr
@@ -61,7 +49,6 @@ still in Cambridge MA when he worked  there after Warren's death?  Or did
 Kosambi use Warren's unpublished text in constituting his own edition.  It
 is hard to imagine that he would not do so, since the work was done and lay
 there before him.
-
 I should mention that for all these editors it was a matter of importance
 that their editions were produced in this or that script.  Caroline Rhys
 Davids' edition was mainly undertaken in order to produce a Roman-alphabet
@@ -76,19 +63,10 @@ the text, especially in matters of sandhi.  But Kosambi omitted to print
 any variants from the manuscripts, which means that his edition cannot be
 used as a critical edition, since he denies the reader the opportunity to
 think critically about his editorial choices and their alternatives.
-
 ?Best,
 Dominik?
-
---
 The secondary literature
 <http://books.google.at/books?id=q1XoNhUrP1MC&lpg=PA180&dq=dharmanand%20kosambi%20visuddhimagga&pg=PA180#v=onepage&q=dharmanand%20kosambi%20visuddhimagga&f=false>
 contains references to an edition of the Visuddhimagga by Dharmanand
 Kosambi (and not Warren) published by OUP in London in 1950.  I think this
 is probably just an error.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20141113/8a2a02db/attachment.htm>
-

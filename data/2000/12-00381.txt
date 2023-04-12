@@ -1,72 +1,34 @@
-From rbm49 at STUDENT.CANTERBURY.AC.NZ  Mon Dec 18 23:35:47 2000
-From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Richard B Mahoney)
-Date: Tue, 19 Dec 00 12:35:47 +1300
-Subject: PDF (was publication of IASS papers on CDROM)
-In-Reply-To: <"from gm"@ANTHOSIMPRINT.COM>
-Message-ID: <161227065600.23782.3828987930414491157.generated@prod2.harmonylists.io>
-
+PDF (was publication of IASS papers on CDROM)
 Dear Gunthard,
-
 I am not usually one to rise to the bait but your words seem to
 display a certain partiality. I can only imagine that your candour
 reflects a belief that TeX and LaTeX are not entirely redundant.
-
 It is true that -- in common with all methods of electronic
 typesetting or wordprocessing -- TeX has its
 disadvantages. Nonetheless, for people such as Indologists,
 Budhologists, Tibetologists and the like, who often have to typeset
 heavily footnoted multilingual documents, the use of TeX is not
 without its benefits.
-
 Faced with the demands of one's work, each person has to decide for
 themselves which is the best approach to take. And of course one
 always has to keep in mind one's ability to share information with
 others.
-
 Personally, I think it is important for people to have choice. I also
 find the spectre of everyone using the same approach, or the same
 software, a little disturbing. I do not believe it is helpful, then,
 for anyone to attempt to marginalise what is a perfectly legitimate
 way to get one's work done.
-
 If anyone wishes to emplore these issues further then they might wish
 to follow this link:
-
    http://www.ecn.wfu.edu/~cottrell/wp.html
-
-
 Many regards,
-
  Richard Mahoney
-
 On Mon, Dec 18, 2000 at 03:15:48PM +0100, Gunthard Mueller wrote:
-
 [snip]
-
-> Concerning TEX: I generally discourage using TEX altogether. Only TEXies (a
-> special form of esoteric computer guru scene) favours it, because it has
-> become part of their lifestyle and provides them with a digital survival
-> zone within which they are indispensable and therefore cannot be abolished.
-> There is actually no need to use TEX anymore for anything. I have been
-> involved with writing TEX converters and creating metafonts when that was
-> an interesting technology (about 12 years ago), but the world has moved on.
-> You only find TEX gurus nowadays in artificially preserved biotopes where
-> they can go on playing with dinosaurs without penalty. The rest of the
-> world has moved on to SGML tools and Unicode. The best thing you can do to
-> TEX is to convert it to modern formats and then put it on the shelf for
-> good.
-
 [snip]
-
---
 end
 ======================================================================
 Richard Mahoney                              Telephone: +64-3-351-5831
 78 Jeffreys Rd
 Christchurch
 NEW ZEALAND                          mailto:rbm49 at csc.canterbury.ac.nz
-----------------------------------------------------------------------
-
-
-
-

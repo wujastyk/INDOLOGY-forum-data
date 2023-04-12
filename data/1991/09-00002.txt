@@ -1,10 +1,4 @@
-From ridgeway at EDU.WASHINGTON.HACC.BLACKBOX  Wed Sep  4 16:50:57 1991
-From: ridgeway at EDU.WASHINGTON.HACC.BLACKBOX (Thomas B. Ridgeway)
-Date: Wed, 04 Sep 91 09:50:57 -0700
-Subject: F. Velthuis's nagari font now freely available
-Message-ID: <161227015113.23782.2989019787224423097.generated@prod2.harmonylists.io>
-
-
+F. Velthuis's nagari font now freely available
 A (series of) forwarded messages follows, some
 members of list Indology will be very interested in this:
 our thanks to Frans Velthuis.  Incidentally, despite the
@@ -12,4 +6,3 @@ notice of june.cs.washington.edu directory ~ftp/edu below,
 I actually found the files devnag.zip and devnag.tar.Z in ~/tex
 on june.  cheers --- Tom
 Forwarded message:
- 

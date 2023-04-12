@@ -1,15 +1,4 @@
-From hellwig7 at GMX.DE  Wed Aug 24 08:40:10 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Wed, 24 Aug 11 09:40:10 +0100
-Subject: DCS update
-Message-ID: <161227093668.23782.10117368281142468454.generated@prod2.harmonylists.io>
-
+DCS update
 ... the link I posted was wrong. Try this one:
-
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=abfrage
-
 Best, Oliver Hellwig
-
-
-
-

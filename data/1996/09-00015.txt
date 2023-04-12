@@ -1,18 +1,4 @@
-From pfreund at mum.edu  Fri Sep  6 21:15:14 1996
-From: pfreund at mum.edu (pfreund at mum.edu)
-Date: Fri, 06 Sep 96 15:15:14 -0600
-Subject: fonts for PC
-Message-ID: <161227025900.23782.15027549039635213814.generated@prod2.harmonylists.io>
-
->Can anyone offer advice on Indic fonts (Devanagari primarily, but also
->Bangla) for PCs?  I have Fran Pritchett's comprehensive list but would
->like to hear from someone who's actually used one or more of them and can
->tell me how they are.
->
->Thanks -
->
->Rebecca Manring
-
+fonts for PC
         Ralph Bunker and I have been working to develop devanagari and
 transliteration data entry systems that work on the Mac and on PC-Windows,
 and are truly cross platform--they permit exchanging files between the two
@@ -39,26 +25,20 @@ typing program allows entering simple transliteration in  natural phonetic
 sequence, and assembles the proper conjunct characters, and vowel symbols
 for you.  Refinements, such as placement of offset vowel markings for "ka"
 and "pha" are automatically taken care of by the program.
-
 The Vedatype program uses the same keystrokes for typing transliteration
 and devanagari, and can therefore convert from one to the other.
-
 Text that has been typed can be cut and pasted into any other Windows
 application that uses truetype fonts. (Font name and font size is lost when
 going from one application to another, but the text need only be selected,
 and the Vedic font and desired size chosen, for it to reappear.)
-
-
 The advantages of Vedatype are:
 1. It is easy to learn, even a beginner can be typing after about five minutes.
 2. It is possible to achieve typing speeds in devanagari that are on a par
 with English typing speeds.
-
 In principle, the algorithm for Vedatype could be customized for any font,
 and text could even be converted effortlessly from any one devanagari font
 (with its own unique key assignments) to any other, but this refinement
 awaits further software development.
-
         The keystrokes on Vedatype are as follows:
 1.  The letters a, i, u, e, o, k, g, c, j, t, d, n, p, b, m, y, r, l, v, s,
 and h are in their respective home key positions.
@@ -83,18 +63,8 @@ Avagraha is straight single quote.
 9.  Anunasika is in the shift Z position.
 10.  There are key assignments for anunasika, pranava, pada separation, and
 for Vedic accents.
-
 VedicFont is available from Yeoman Software, SU #152, Fairfield, IA 52557
 for $34.95.  Vedatype is shareware, also available from Yeoman Software,
 for $15, for a total of $49.95, shipping included.
-
 Hope this is useful,
-
 Peter Freund
-
-
-
-
-
-
-

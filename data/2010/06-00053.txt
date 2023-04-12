@@ -1,11 +1,5 @@
-From kauzeya at GMAIL.COM  Mon Jun 28 16:54:52 2010
-From: kauzeya at GMAIL.COM (Jonathan Silk)
-Date: Mon, 28 Jun 10 09:54:52 -0700
-Subject: earlier romanization conventions
-Message-ID: <161227089832.23782.11495140895852097295.generated@prod2.harmonylists.io>
-
+earlier romanization conventions
 dear Colleagues,
-
 I've been reading the new English translation of Burnouf's 1844 Introduction
 to the History of Indian Buddhism. A number of oddities sent me back to the
 French, and I noticed something which I must have just not processed before.
@@ -18,18 +12,10 @@ follow modern conventions, do not reconstruct the compounds properly. I
 don't *recall* having seen this elsewhere, but then I didn't recall it from
 when I read Burnouf in French either, so maybe I just never noticed it
 before.
-
 Any thoughts?
-
 jonathan
-
--- 
 J. Silk
 Instituut Kern / Universiteit Leiden
 Postbus 9515
 2300 RA Leiden
 Netherlands
-
-
-
-

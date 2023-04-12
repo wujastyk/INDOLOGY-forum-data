@@ -1,11 +1,6 @@
->?From P.Friedlander at wellcome.ac.uk 20 96 Feb EST 10:47:00
-Date: 20 Feb 96 10:47:00 EST
-From: P.Friedlander at wellcome.ac.uk
-Subject: chronograms
-Reply-To: P.Friedlander at wellcome.ac.uk
+chronograms
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 Amita Sarin asked about chronograms in Hindi works
 These are quite common as a way for giving the date of the composition of a 
 work.
@@ -25,8 +20,3 @@ Wellcome Institute for the History of Medicine
 London NW1 2BN
 England
 e-mail: P.Friedlander at wellcome.ac.uk
-
-
-
-
-

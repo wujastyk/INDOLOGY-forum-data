@@ -1,60 +1,11 @@
-From wujastyk at gmail.com  Fri Aug  5 23:18:33 2016
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sat, 06 Aug 16 01:18:33 +0200
-Subject: [INDOLOGY] ISO 15919 description no longer accessible online
-In-Reply-To: <HE1PR0801MB1772608A25BB7DB85C54F10CA5070@HE1PR0801MB1772.eurprd08.prod.outlook.com>
-Message-ID: <CAKdt-CcGCLP7=icR3qW0Had0kNL+gPQj2SROOiT_+q7d5zOr7Q@mail.gmail.com>
-
+[INDOLOGY] ISO 15919 description no longer accessible online
 As on April 14th this year:
-
 https://web.archive.org/web/20160414223033/http://
 homepage.ntlworld.com/stone-catend/trind.htm
-
-
---
 Professor Dominik Wujastyk* <http://ualberta.academia.edu/DominikWujastyk>
 Singhmar Chair in Classical Indian Society and Polity
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
-
 <https://mail.google.com/mail/u/0/goog_1525257691>
 ?sas.ualberta.ca?
-
-
 On 4 August 2016 at 18:14, Arlo Griffiths <arlogriffiths at hotmail.com> wrote:
-
-> Does anyone know who was maintaining the useful pages <
-> http://homepage.ntlworld.com/stone-catend/trind.htm>, and why these are
-> now no longer accessible? It would be nice if they could become accessible
-> again. If, by the way, anyone has the costly pdf published by ISO on this
-> standard, and would be willing to share it, I would be grateful.
->
->
-> Best wishes,
->
->
-> Arlo Griffiths
->
->
->
-> Transliteration of Indic scripts: How to use ISO 15919
-> <http://homepage.ntlworld.com/stone-catend/trind.htm>
-> homepage.ntlworld.com
-> transliteration of Indic scripts - how to use ISO 15919 and relation
-> between ISO 15919 and Unicode / ISO 10646
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160806/c6319de0/attachment.htm>
-

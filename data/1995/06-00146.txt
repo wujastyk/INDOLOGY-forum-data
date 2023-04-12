@@ -1,12 +1,6 @@
-From srini at engin.umich.edu  Tue Jun 27 15:34:50 1995
-From: srini at engin.umich.edu (Srinivasan Pichumani)
-Date: Tue, 27 Jun 95 11:34:50 -0400
-Subject: Pointers to Katapayadi formula needed
-Message-ID: <161227019828.23782.32443760442108387.generated@prod2.harmonylists.io>
-
+Pointers to Katapayadi formula needed
 I believe that the kaTapayAdi sankhya dates back to 
 Vararuci's times (?) at least ...
-
 Don't have a direct citation to this scheme in
 Vararuci's works themselves, but in the introduction
 to the 1938 Adyar Library edition of 
@@ -19,16 +13,13 @@ Vararuci's name is mentioned by T.R.Srinivasa Ayyangar,
 and his rule regarding conjunct consonants is given -
 in such cases, it is the convention to use the second part 
 of the samyukta akShara for the sankhyA purposes.
-
 Here is where, there are a few deviations from the rule
 in the kanakAngi-ratnAngi nomenclature of Govinda e.g.
 cakravAka, which yields 26, is the name of the 16th 
 melakarta.
-
 & This scheme was applied in musicology by Venkatamakhi, son of Govinda
 & Dikshita (17th cent). The first official mention of this formula is
 & found in his book "Caturtand.i Prakasika". 
-
 Neither this formula, nor its use in numbering the
 meLas, has been given in the caturdaNDi prakAs'ikA
 proper.  Venkatamakhi only postulated a 72 meLa scheme,
@@ -38,27 +29,17 @@ and congratulated himself in a fairly up-beat manner on
 this achievement ;-) remarking that even the forehead-eyed
 S'iva can't change this...
     (na hi phAlalOcanOpi pragalbhate or something like that)
-
 Next, he just mentioned the name of 19 meLas (many don't 
 have their prefixes in order to fit in the kaTapayAdi
 sankhya scheme), and their ordinal position in the 72 meLa
 scheme, for which the constituent svaras, and not the sankhyA,
 was the criterion in his scheme.
-
 Of these meLas, only "simhArava" is mentioned by him as
 his own creation.  The others were prevalent during his
 times...  In later times, this meLa took the prefix
 "des'i", in order to occupy the 58th position in the
 kanakAmbarI-ratnAmbarI nomenclature for the 72 meLas. 
-
 This nomenclature is given in the anubandha to the 
 caturdaNDi prakAs'ikA, which has been definitely proven 
 to be a later interpolation.
-
 -Srini.
- 
-
-
-
-
-

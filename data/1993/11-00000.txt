@@ -1,11 +1,5 @@
-From whitford at ccwf.cc.utexas.edu  Mon Nov  1 17:02:06 1993
-From: whitford at ccwf.cc.utexas.edu (Angelina M. Whitford)
-Date: Mon, 01 Nov 93 11:02:06 -0600
-Subject: New South Asia Journal
-Message-ID: <161227016270.23782.11185812502135979131.generated@prod2.harmonylists.io>
-
+New South Asia Journal
      ____Sagar:  South Asia Graduate Research Journal____
-
 The University of Texas Center for Asian Studies and its graduate
 students studying South Asia are pleased to announce the launching of
 a journal of South Asian studies.  The journal will be divided into
@@ -15,7 +9,6 @@ methodology and reports from the field, and will include occasional
 book reviews.  The first issue will be published in the last spring of
 1994 and biannually thereafter.  The journal will be available in both
 electronic and bound editions.  
-
 Members of our editorial collective include:  Ali Asani, Richard
 Barnett, Manu Bhagavan, James Brow, Paul Courtright, Don Davis,
 Chandra DeSilva, Nicholas Dirks, Diana Eck, Wilhelm Halbfass, Robert
@@ -23,17 +16,13 @@ Hardgrave, Syed Akbar Hyder, Atul Kohli, Pauline Kolenda, Janice
 Leoshko, Wm. Roger Louis, David Pinault, Paula Richmond, Richard
 Salomon, Sagaree Sengupta, Nikhil Sinha, Cynthia Talbot, Thomas
 Trautmann, Angelina Whitford, and Eleanor Zelliot.  
-
 We are now accepting both submissions and subscriptions.  For more
 information, email us at sagrj at emx.cc.utexas.edu
-
 To subscribe to the electronic edition of the journal, send an email
 message with a blank subject line to majordomo at bongo.cc.utexas.edu
 with the one line message "subscribe sagar-journal".
-
 The bound edition of the journal is available with a yearly
 subscription fee of $16 U.S.  
-
 For further information, please contact us in any of the following
 ways.  
 	Email:	sagrj at emx.cc.utexas.edu
@@ -44,7 +33,3 @@ ways.
 			University of Texas
 			Campus Mail Code 59300
 			Austin, TX  78712-1194  USA
-
- 
-
-

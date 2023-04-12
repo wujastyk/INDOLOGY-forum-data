@@ -1,17 +1,9 @@
-From arlo.griffiths at LET.LEIDENUNIV.NL  Mon Nov  7 12:41:32 2005
-From: arlo.griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
-Date: Mon, 07 Nov 05 13:41:32 +0100
-Subject: source of Sanskrit half-;sloka in Hindi piece
-In-Reply-To: <6.2.0.14.2.20051105111113.04985740@mail.bun.kyoto-u.ac.jp>
-Message-ID: <161227077049.23782.11159636555754144371.generated@prod2.harmonylists.io>
-
+source of Sanskrit half-;sloka in Hindi piece
 Thanks to Marina Orelskaya, Madhav Deshpande, Somdev Vasudeva, and  
 Yuko Yokochi for responding to my query so helpfully. Alas the source  
 remains untraced.
-
 To answer Yuko's question about the context, here is what our  
 graduate student writes to me (quickly translated from the Dutch):
-
 "I would not expect too much from the context for the meaning of the  
 verse. The piece is a farce with lots of dirty jokes, and the person  
 citing the verse is a Bengali who is depicted as a dumb and  
@@ -29,71 +21,10 @@ gobarganes: haa.m, mahaaraaj aisaa hii hai.
 [Then the waterpipe-smoker tells how he gave a dried out tree water  
 and brought it back to life. Gobarganes declares that the Huqqevaalaa  
 is an incarnation of the .R.sis.]"
-
 I don't suppose the added verse-quarter (assuming it forms part of  
 the same ;sloka) will be of much help to trace a source, at least  
 none of the e-texts at my disposal yields a match for harer naamaani  
 kevalam.
-
 Best wishes,
-
 Arlo Griffiths
-
-
 On Nov 5, 2005, at 3:20 AM, Yuko Yokochi wrote:
-
-> caa of bhuutalecaa may be just an error of vaa. And bhuutale vaa  
-> may be
-> a scribe's marginal note that has entered into the text.
-> In that case, the original quotation would be
->
-> kalau tri.m"sasahasraa.ni vi.s.nus ti.s.thati mediniim|. (I follow  
-> Somdev's tri.m"sa.)
->
-> The accusative mediniim appears to be used instead of medinyaam by  
-> metrical reason.
-> This usage of accusative for locative is often found in regard to  
-> words of time.
-> But I wonder whether this is possible for words of place.
->
-> I also wonder what this half-"sloka means---what a manifestation of  
-> Vi.s.nu
-> stays on earth for thirty thousand years? Arlo, is there any hint  
-> in the immediate context?
->
-> Yuko Yokochi
->
-> At 23:04 05/11/03, you wrote:
->> Dear colleagues,
->>
->> A graduate student in my department is studying the following theatre
->> piece by .Thaakur Jagmohan Si.mh (1857-1899): "Huqqevaale kaa
->> naa.tak", published in .Thaakur Jagmohan Si.mh Racnaavalii 1. 2001.
->> Raaypur: Chattisga.rh lok sa.msk.rti anusandhaan sa.msthaan (written
->> c. 1880; unpublished during his lifetime).
->>
->> At a certain point in the dialogue, a wise man cites the following
->> half-;sloka to prove that dharma and devataas are no longer what they
->> used to be:
->>
->> kalaud.r.m;sa sahasraa.ni vi.s.nusti.s.thati mediniim-bhuutalecaa
->>
->> The word division is as given in the text. Does anyone understand how
->> to read or correct d.r.m;sa, which I presume must be separated from
->> kalau? Does anyone understand bhuutalecaa, or at least the caa part?
->> Does anyone know the source of this (half) verse?
->>
->> With thanks,
->>
->> Arlo Griffiths
->> Instituut Kern, Universiteit Leiden
->> Postbus 9515
->> 2300 RA Leiden, the Netherlands
->>
->> phone: +31-(0)71-5272622
->> fax: +31-(0)71-5272956
->> email: <arlo.griffiths at let.leidenuniv.nl>
-
-
-
-

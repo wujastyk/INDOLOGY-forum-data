@@ -1,13 +1,6 @@
-From andrew.ollett at LING-PHIL.OX.AC.UK  Thu Mar 25 20:01:11 2010
-From: andrew.ollett at LING-PHIL.OX.AC.UK (Andrew Ollett)
-Date: Thu, 25 Mar 10 16:01:11 -0400
-Subject: arthur tomson's ratnama=?UTF-8?Q?=C3=B1j=C5=AB=E1=B9=A3=C4=81?=
-Message-ID: <161227089020.23782.5431973443569596118.generated@prod2.harmonylists.io>
-
+arthur tomson's ratnama=?UTF-8?Q?=C3=B1j=C5=AB=E1=B9=A3=C4=81?=
 list members,
-
 in this article:
-
 @INCOLLECTION{Tripathi1977,
   author = {Chandrabhal Tripathi},
   title = {{Ratnama?j??? and `Chandoviciti'}},
@@ -17,15 +10,8 @@ in this article:
   pages = {549-560},
   address = {Berlin},
 }
-
 i encountered a few references to an edition of the ratnama?j???, a sanskrit
 work on metrics, then under preparation by arthur tomson in berlin, who had
 written his MA dissertation on it.  does anyone know what happened to it?
-
 thanks in advance.
-
 andrew ollett
-
-
-
-

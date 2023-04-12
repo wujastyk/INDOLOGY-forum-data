@@ -1,11 +1,5 @@
-From kauzeya at GMAIL.COM  Wed Jun 29 12:24:34 2011
-From: kauzeya at GMAIL.COM (Jonathan Silk)
-Date: Wed, 29 Jun 11 14:24:34 +0200
-Subject: Poor quality of scans on Gallica
-Message-ID: <161227092930.23782.14098211132904312398.generated@prod2.harmonylists.io>
-
+Poor quality of scans on Gallica
 dear Friends,
-
 I doubt I am the only one to notice that at least some of the scans on
 Gallica are atrocious; I just looked at Journal Asiatique for 1927, and
 large parts of it are entirely illegible. Is this an issue that is being
@@ -16,10 +10,7 @@ Europe. To be sure, the University Library owns a set, but in part our
 thinking (or at least my thinking) was that electronic access was available.
 It is, but only in the sense that the journal has been scanned, not that the
 scan is readable....
-
 jonathan
-
--- 
 J. Silk
 Instituut Kern / Universiteit Leiden
 Leiden University Institute for Area Studies, LIAS
@@ -27,9 +18,3 @@ Johan Huizinga Building, Room 1.37
 Doelensteeg 16
 2311 VL Leiden
 The Netherlands
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20110629/39663bb9/attachment.htm>
-

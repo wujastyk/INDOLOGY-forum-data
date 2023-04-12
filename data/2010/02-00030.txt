@@ -1,36 +1,19 @@
-From zydenbos at UNI-MUENCHEN.DE  Fri Feb  5 19:54:11 2010
-From: zydenbos at UNI-MUENCHEN.DE (Robert Zydenbos)
-Date: Fri, 05 Feb 10 20:54:11 +0100
-Subject: sa.wikipedia.org
-In-Reply-To: <Pine.GSO.4.58.1002031516560.28619@socrates-a.ucl.ac.uk>
-Message-ID: <161227088427.23782.12855973437254833510.generated@prod2.harmonylists.io>
-
+sa.wikipedia.org
 On 03.02.10 16:23, Dominik Wujastyk wrote:
-
-> Thanks for reminding people of our own INDOLOGY FAQ.  There's been almost
-> zero uptake, and I'm curious about why.
-
 Just conjecturing, I can think of three reasons why not much has 
 happened on faq.indology.info:
-
 (a) The internet is a fiery place, and most Indologists prefer not to 
 get their heads bitten off by the thought police of Vedic foundations, 
 various Hindutva groups and what not, just for writing scholarly 
 opinions. (This is a weak reason, but understandable.)
-
 (b) The consideration that one does not get much pu?ya writing in a wiki 
 for the public, if one can use the same time for writing a quotable 
 article or book that earns one points in the academic community, leading 
 to an increase of prestige among peers, tenure, the financing of 
 projects, and what not. (Not a nice reason either, but it makes sense.)
-
 (c) Why should anyone bother and take the time to write up what is 
 already found in books and journals, which is where seriously interested 
 people will look anyway? (This is not a very good reason either.)
-
-> Maybe we should give up the idea of our own FAQ, and just use Wikipedia?
->    
-
 No, actually it's a good idea to have the FAQ. The Wikipedia in practice 
 is an interesting but anarchic place, and it is a good idea to have 
 something specifc on Indology by members from the academic community: if 
@@ -38,10 +21,6 @@ anyone would like to know what the current academic opinion(s) on
 certain Indological matters is / are (in contrast to traditional, 
 religious, etc. opinions), s/he could have a look at the FAQ. For the 
 same reason:
-
-> Is it too fussy to get a password, perhaps?
->    
-
 Not fussy at all (I think), and the password access is, to a large 
 extent, the justification for having the FAQ at all. Wikipedia etc. are 
 already there for broad exchanges among the general public. And it 
@@ -49,18 +28,10 @@ might, maybe, perhaps, a little, create some publicity and help justify
 and protect the existence of the discipline in a time when universities 
 (at least here in Europe) are in the process of reducing themselves to a 
 sort of business schools.
-
 RZ
-
--- 
 Prof. Dr. Robert J. Zydenbos
 Department f?r Asienstudien - Institut f?r Indologie und Tibetologie
 Universit?t M?nchen
 Germany
-Tel. (+49-89-) 2180-5782
 Fax  (+49-89-) 2180-5827
 http://www.lrz-muenchen.de/~zydenbos
-
-
-
-

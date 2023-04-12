@@ -1,212 +1,109 @@
-From athr at LOC.GOV  Mon Nov  1 15:50:05 1999
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Mon, 01 Nov 99 10:50:05 -0500
-Subject: avadaana translation
-Message-ID: <161227053191.23782.13787232459371003950.generated@prod2.harmonylists.io>
-
+avadaana translation
 Mark Froelich asks about Avadanasataka translations into English.  There are these:
-
 LC Control Number:       45052874 
-
 Type of Material:        Book (Print, Microform, Electronic, etc.)
-
 Corporate Name:          Avad*ana?sataka. [from old catalog]
-
 Main Title:              Avad*ana?ataka, a century of edifying tales belonging to the
                             H*inay*ana. 
-
 Published/Created:       St. P?tersbourg, Commissionnaires de l'Acad?mie imp?riale
                             des sciences: J. Glasounof et C. Ricker; [etc., etc.] 1906-09.
-
 Related Names:           Speyer, Jacob Samuel, 1849-1913. [from old catalog]
                          Avad*anas. [from old catalog]
-
 Related Titles:          Akademiia nauk SSSR. [from old catalog]
-
 Description:             2 v. pl. (facsims.) 25 cm.
-
 LC Classification:       BL1415 .B5 vol. 3
-
 CALL NUMBER:             BL1415 .B5 vol. 3
                          Copy 1
-
--- Request in:           Book Service: Jefferson (Main Eur Hisp LHG) or Adams 5th fl
--- Status:               Not Charged
-
--------------------      -------------------------------------------------
 DATABASE NAME:           Library of Congress Online Catalog
-
 ================================================================================
 LC Control Number:       91212911 
-
 Type of Material:        Book (Print, Microform, Electronic, etc.)
-
 Uniform Title:           Tripitaka. S*utrapitaka. Avad*ana. Anad*ana?sataka.
-
 Main Title:              Avad*ana?ataka : a century of edifying tales belonging to the
                             H*inay*ana / edited by J.S. Speyer.
-
 Published/Created:       Osnabr?ck : Biblio Verlag, 1970.
-
 Related Names:           Speyer, J. S. (Jacob Samuel), 1849-1913.
-
 Description:             2 v. ; 24 cm.
-
 Notes:                   In Sanskrit; intruduction and notes in English.
                          Neudruck der ausgabe 1902-1906".
                          Includes bibliographical references and indexes.
-
 Series:                  Bibliotheca Buddhica ; 3
-
 LC Classification:       BQ1550 .S64 1970
-
 CALL NUMBER:             BQ1550 .S64 1970 Sans
                          Copy 1
-
--- Request in:           Asian Reading Room (Jefferson, LJ150)
--- Status:               Not Charged
-
--------------------      -------------------------------------------------
 DATABASE NAME:           Library of Congress Online Catalog
-
 ================================================================================
 LC Control Number:       89216596 
-
 Type of Material:        Book (Print, Microform, Electronic, etc.)
-
 Personal Name:           Ksemendra, 11th cent.
-
 Main Title:              Five Tibetan legends : from the Avad*ana Kalpalat*a /
                             [Ksemendra ; translated and annotated by F.A. Peter].
-
 Uniform Title:           [Avad*anakalpalat*a. English & Tibetan. Selections]
-
 Published/Created:       Rikon/Z?rich, Switzerland : Tibet-Institut, 1989.
-
 Related Names:           Peter, F. A. (Friedrich A.), 1904-1988.
-
 Related Titles:          Five Tibetan legends from the Avad*ana Kalpalat*a.
-
 Description:             56 p. ; 25 cm.
-
 ISBN:                    3720600181 (pbk.)
-
 Notes:                   English and Tibetan.
-
 Subjects:                Gautama Buddha--Pre-existence.
                          Gautama Buddha--Legends.
                          Legends, Buddhist--China--Tibet.
-
 Series:                  Opuscula Tibetana ; fasc. 20.
-
 Variant Series:          Opuscula Tibetana : Arbeiten aus dem Tibet-Institut
                             Rikon-Z?rich ; fasc. 20 (Feb. 1989)
-
 LC Classification:       BQ930 .K7613 1989
-
 Language Code:           engtib tibsan
-
 Other System No.:        (OCoLC)24864300
-
 Geog. Area Code:         a-cc-ti
-
 Quality Code:            lccopycat
-
 CALL NUMBER:             BQ930 .K7613 1989
                          Copy 1
-
--- Request in:           Book Service: Jefferson (Main Eur Hisp LHG) or Adams 5th fl
--- Status:               Not Charged
-
--------------------      -------------------------------------------------
 DATABASE NAME:           Library of Congress Online Catalog
-
 ================================================================================
 LC Control Number:       97906897 
-
 Type of Material:        Book (Print, Microform, Electronic, etc.)
-
 Personal Name:           Chattopadhyay, Jayanti.
-
 Main Title:              Bodhisattva avad*anakalpalat*a : a critical study / Jayanti
                             Chattopadhyay.
-
 Published/Created:       Calcutta : Atisha Memorial Pub. Society : To be had of, Sanskrit
                             Pustak Bhandar, 1994.
-
 Description:             xii, 344 p. ; 22 cm.
-
 Summary:                 Study on the Avad*anakalpalat*a by Ksemendra, 11th cent.,
                             work on pre-exitence of Gautama Buddha.
-
 Notes:                   Originally presented as the author's thesis (Ph. D.--University of
                             Calcutta) under the title: A critical study of the
                             Bodhisattvavadana-kalpalata.
                          Includes bibliographical references (p. [327]-336) and index.
                          Includes passages in Sanskrit (in roman).
-
 Subjects:                Ksemendra, 11th cent.  Avad*anakalpalat*a. 
                          Gautama Buddha--Pre-existence.
-
 LC Classification:       BQ930 .C43 1994
-
 Language Code:           engsan
-
 Overseas Acq. No.:       I-E-97-906897; 11
-
 Quality Code:            lcode
-
 CALL NUMBER:             BQ930 .C43 1994
                          Copy 1
-
--- Request in:           Book Service: Jefferson (Main Eur Hisp LHG) or Adams 5th fl
--- Status:               Not Charged
-
--------------------      -------------------------------------------------
 DATABASE NAME:           Library of Congress Online Catalog
-
 ================================================================================
 LC Control Number:       73210177 
-
 Type of Material:        Book (Print, Microform, Electronic, etc.)
-
 Personal Name:           Roy, Sita Ram.
-
 Main Title:              Suvarnavarn*avad*ana; decipherment and historical study of a
                             palm-leaf Sanskrit manuscript, an unknown Mah*ay*ana
                             (avad*ana) text from Tibet.
-
 Published/Created:       Patna, K. P. Jayaswal Research Institute [1971]
-
 Description:             xv, 356 p. illus. 25 cm.
-
 Notes:                   Reconstructed text (p. [218-318) is in Devanagari script.
                          A revision of the author's thesis, Patna University, 1965.
                          Bibliography: p. [319]-333.
-
 Subjects:                Suvarnavarn*avad*ana--Criticism, Textual.
-
 Series:                  Historical researches series ; v. 7.
-
 Variant Series:          Historical research series, v. 7
-
 LC Classification:       BQ1600.S967 R68 1971
-
 Dewey Class No.:         294.3/823
-
 CALL NUMBER:             BQ1600.S967 R68 1971
                          Copy 1
-
--- Request in:           Book Service: Jefferson (Main Eur Hisp LHG) or Adams 5th fl
--- Status:               Not Charged
-
--------------------      -------------------------------------------------
 DATABASE NAME:           Library of Congress Online Catalog
-
 ====================================================================
 Allen Thrasher
 Library of Congress
-
-
-
-

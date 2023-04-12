@@ -1,40 +1,8 @@
-From p.magnone at AGORA.STM.IT  Sun Apr 25 14:03:15 1999
-From: p.magnone at AGORA.STM.IT (Paolo Magnone)
-Date: Sun, 25 Apr 99 15:03:15 +0100
-Subject: A text dealing with Ayurveda
-Message-ID: <161227048308.23782.13957981763445507066.generated@prod2.harmonylists.io>
-
+A text dealing with Ayurveda
 On 24 Apr 99, at 10:11 Ferenc Ruzsa wrote:
-
-
-> Vidyasankar Sundaresan wrote:
-> >In the sAMkhya school, the
-> >transformations of material nature are for the
-> >sake of purusha (purushArtha), but never due to
-> >the desire of the purusha (purushecchA). The
-> >purusha is devoid of any agency, so that any
-> >desire or will would be ascribed by sAMkhya to
-> >a transformation of the internal organ.
->
->
-> Though this is the standard view, I think it is true only for the later
-> sAMkhya; it cannot be shown in the classical texts (the sAMkhya-kArikA and
-> its earlier commentaries). In the kArikA itself the puruSa is inactive
-> (akartR) in the crude material sense only - it is not yet kUTastha. It is
-> conscious (cetana), it experiences (bhoktR or draSTR), it exercises control
-> (adhiSThAna) over the body and it has two purposes (artha): experiencing the
-> world (darzana) and, later, isolation from it (kaivalya). It is clearly a
-> changing entity, the source of individually and temporally different
-> actions, for in SK 18 this fact is used as proof of the existence of many
-> puruSas:
-> a-yugapat pravRttez ca / puruSa-bahutvaM siddhaM.
-> A conscious motive source of our actions: I think it is fine to call it
-> 'will' (the connotations of 'desire' could seem improper here).
-
 I think "will" is explicitly denied of the puruza itself already in the
 kArikA, when the puruza is styled *madhyastha* (19) and above all
 *udAsIna* (20).
-
 What is agency otherwise than "in the crude material sense"? If
 you mean that the puruza, though not actually involved in
 performing the action, nevertheless "wills" it, this is explicitly ruled
@@ -43,23 +11,19 @@ k. 20 raising the objection: il the puruza is not agent, then how can
 he resolve to opt for the good and renounce the bad? The reply is
 that the puruza's awareness accrues to nature by contiguity, and
 thus "guNA adhyavasAyam kurvanti na puruzaH".
-
 I do not think it is fine to call "a conscious motive source of our
 actions" will: will is rather our response to a "motive", which is
 different from a "cause" exactly in that it acts through
 consciousness and not merely through mechanism.
-
 Now, the puruza merely supplies the "awareness" element by his
 sinergy with nature; but it is nature herself who supplies the
 "deliberation" or adhyavasAya element, and so it is nature who is
 agent even in this "refined" sense.
-
 In fact, the puruza is content with merely consciously witnessing
 the both practical and purposeful activity of the evolutes, just as a
 mendicant ascetic witnesses the purposeful and practical activity
 of the peasants tilling the soil among whom he happens to walk
 without any involvement whatsoever (the simile is GauDapAda's).
-
 It is not right to take the non-simultaneous actions in k. 18 as
 implying activity on the part of the puruzas. If you do, by the same
 reason you could likewise argue that birth, death etc. that are
@@ -68,13 +32,7 @@ puruzas, which is evidently not the case. As birth and death, non-
 simultaneous actions also are predicable of the different individual
 aggregates, enabling to infer different puruzas, who do not have to
 be born, die, or act themselves for the argument to hold.
-
-----------------------------
 Paolo Magnone
 Catholic University of Milan
 pmagnone at mi.unicatt.it
 http://www.agora.stm.it/P.Magnone/jambu.htm
-
-
-
-

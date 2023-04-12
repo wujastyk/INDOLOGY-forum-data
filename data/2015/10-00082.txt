@@ -1,24 +1,15 @@
-From drdhaval2785 at gmail.com  Sat Oct 17 17:30:05 2015
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Sat, 17 Oct 15 23:00:05 +0530
-Subject: [INDOLOGY] SanskritVerb - A verb form generator
-Message-ID: <CADSGPzXiuvA0vT1q8diU_-xsB=JtgTHKwwW7FfaK0vAFU_CVPA@mail.gmail.com>
-
+[INDOLOGY] SanskritVerb - A verb form generator
 Dear scholars,
-
 We are happy to present before you our project *SanskritVerb* - a
 computational simulation of step by step Sanskrit verb form generation
 (???????????????).
-
 *Expected outcome* -
 1. The code gives step by step derivation of all forms of a given verb in
 given tense.
 2. The code gives a derived table at the end.
-
 *Source code* - https://github.com/drdhaval2785/SanskritVerb
 *Online testing* -
 http://www.sanskritworld.in/sanskrittool/SanskritVerb/tiGanta.html
-
 *N.B.* -
 1. Currently the machine doesn't create sanAdi verb forms. It will be
 included in later versions.
@@ -29,13 +20,5 @@ Dr. Pushpa Dikshit, (2) Siddhantakaumudi with Balamanorama commentary and
 (3) Kashikavritti.
 4. Current version is version 1.1.0 (
 https://github.com/drdhaval2785/SanskritVerb/releases/tag/v1.1.0)
-
 Thanking you,
-
 Dr. Dhaval Patel, I.A.S and Dr. Shivakumari Katuri
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20151017/0109d07b/attachment.htm>
-

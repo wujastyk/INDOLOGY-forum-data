@@ -1,15 +1,6 @@
-From emstern at VERIZON.NET  Sun Mar 25 01:10:21 2012
-From: emstern at VERIZON.NET (Elliot M. Stern)
-Date: Sat, 24 Mar 12 21:10:21 -0400
-Subject: Utilising printed edition for a critical edition
-In-Reply-To: <1332604995.5177.YahooMailNeo@web193201.mail.sg3.yahoo.com>
-Message-ID: <161227095737.23782.5608572166384941495.generated@prod2.harmonylists.io>
-
+Utilising printed edition for a critical edition
 While I do not want to pick a fight when you have also made a good point, I must note that you have unfairly cut what I have said. I said: "While it may be necessary to collate printed editions, it may not be required to report their readings in a critical edition, if the editor is confident that the only significant readings are conjectures. The critical editor may eliminate previous editions: if the editor is reasonabally confident that a given editor used manuscripts represented in his or her edition, it should be acceptable to report only the readings in the previous editions that appear to be conjectural. Printed editions whose only contribution is the odd contribution [sic - here should have said emendation or conjecture] clutter a critical edition's apparatus and make it more difficult for the reader to evaluate the editor's choices."
-
 I am well aware that not all editors are careful to identify their emendations and conjectures. Further, they do not all carefully identify the manuscripts they used, if indeed they identify them at all. The Pandit edition of vidhiviveka.h and nyaayaka.nikaa, for example, identifies the manuscripts of nyaayaka.nikaa simply as 1 pu. paa. and 2 pu. paa. The same edition fails to mention that it reconstructs the beginning of vidhiviveka.h and one or two other passages from nyaayaka.nikaa.
-
-
 Elliot M. Stern
 552 South 48th Street
 Philadelphia, PA 19143-2029
@@ -17,33 +8,4 @@ United States of America
 telephone: 215-747-6204
 mobile: 267-240-8418
 emstern at verizon.net
-
-
-
 On 24 Mar  2012, at 12:03 PM, Dipak Bhattacharya wrote:
-
-> INDOLOGY at liverpool.ac.uk
-> 24mr12
-> There was a well-meant advice: <While it may be necessary to collate printed editions, it may not be required to report their readings in a critical edition> But this raises some questions.
-> There is an understood assumption here that the editor has distinguished between an emendation effected on the previous edition and an original MS reading retained in that and has represented the previous goings on without creating any misconception about MS readings. In actual practice this understood rule has often been flouted often leading the reader to wrong ideas about MS-readings. 
-> I can give two examples where the rule has been flouted.
-> Cary?caryavini?caya H.P.??stri Bangiya Sahitya Parishat, Calcutta 1916
-> Cary?g?tiko?a P.C.Bagchi and ??nti Bhik?u ??str?, Visva-Bharati
-> When H.P.? retains an MS-reading and ?.B.? emends he reports the 1916 edition?s reading with H. This creates the impression that H.P.? had emended the MS reading while the same has been retained by ?.B.?. But the opposite is the case.
-> Thus, vs. 1d, pa??ho MS; ?.B.?. pa??h?; ?.B.? critical apparatus marks pa??ho with H meaning that it is the reading selected by H.P.?.  But there was no selection to make because it was the MS reading. All such MS-readings retained by H.P.? have thus been marked with H. There are seven such reports in the first five verses alone.
-> On the other hand MS readings emended by H.P.?. with notice in the Critical apparatus have not been reported as emendation and the MS reading can be found only in the 1916 edition. Thus Commentary vs.1d sadvartmovagam?ya MS; *sadvartm?vagam?ya H.P.?;   ?.B.? repeats H.P.? without mentioning the MS reading.
-> Such lapses will be found in the VVRI edn. Of the AV? too.
-> AVP 18.22.10c j?ta? j?tr?r yath? h?d??; Visva Bandhu edits the parallel AV? 20.48.2c as j?t?? j?nir y?th? h?d??. The c.a. just notes j?tr??r y?th? ?a?.p? meaning S.P.Pandit?s edition has j?tr??r while WHITNEY reads j?nir. It is missed that WHITNEY?s mss too read j?tr??r. Since the twentieth k???a was not translated by WHITNEY only those who have access to the 1856 edition will know that the reading j?tr??r is the uniform AV? reading that is confirmed as the original AV reading by the AVP and that j?nir is an emendation by WHITNEY.
->  
-> In both cases unscientific reporting of the printed text reading creates wrong impression about the original reading.
-> Best
-> DB
->  
->  
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120324/780966d4/attachment.htm>
-

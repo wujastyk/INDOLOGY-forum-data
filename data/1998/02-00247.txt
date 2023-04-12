@@ -1,15 +1,9 @@
-From athr at LOC.GOV  Tue Feb 17 22:03:26 1998
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Tue, 17 Feb 98 17:03:26 -0500
-Subject: Chess in India
-Message-ID: <161227035774.23782.16614964944036461654.generated@prod2.harmonylists.io>
-
+Chess in India
 The century old but still important works of van der Linde on the history of
 chess have much on Indian chess literature.  L. was helped in his
 researches L. by Albrecht Weber.  I append a list of various versions on L's
 major works, including microfilmed and reprint eds.  Again, these are OCLC
 FirstSearch records, not Library of Congress records.
-
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Geschichte und litteratur des schachspiels
     PLACE: Berlin,
@@ -24,9 +18,7 @@ PUBLISHER: J. Springer,
             1 microfilm reel ; 35 mm.
   SUBJECT: Chess -- History.
            Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 29084237
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Quellenstudien zur Geschichte des Schachspiels :
@@ -39,9 +31,7 @@ PUBLISHER: Biblio-Verlag,
     NOTES: Bibliographical footnotes.
   SUBJECT: Chess -- History.
            Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 27698889
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Quellenstudien zur geschichte des schachspiels
@@ -55,9 +45,7 @@ PUBLISHER: J. Springer,
            19--. 1 reel. 35 mm.
   SUBJECT: Chess -- History.
            Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 8234903
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Geschichte und Literatur des Schachspiels /
@@ -67,16 +55,13 @@ PUBLISHER: Edition Olms,
  PUB TYPE: Book
    FORMAT: xi, 422, 154, xvi, 524 p. : ill., port. ; 23 cm.
    SERIES: Darstellungen und Quellen zur Geschichte des Schachspiels ; Bd.
-
            20
     NOTES: Originally published: Berlin : Springer, 1874.
            Includes index.
      ISBN: 3283000794
   SUBJECT: Chess -- History.
            Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 6684487
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Quellenstudien zur geschichte des schachspiels,
@@ -87,9 +72,7 @@ PUBLISHER: J. Springer,
    FORMAT: vii, [1], 412 p. illus. 19 cm.
   SUBJECT: Chess -- History.
            Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 5619598
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Das erste Jartausend der Schachlitteratur (850-1880) :
@@ -102,9 +85,7 @@ PUBLISHER: Caissa Limited Editions,
    SERIES: Caissa limited editions ; v. 3
      ISBN: 9060030214
   SUBJECT: Chess -- Bibliography.
-
  Next Record
-
 ACCESSION: 1319775
    AUTHOR: Linde, Antonius van der, 1833-1897.
     TITLE: Quellenstudien zur Geschichte des Schachspiels.
@@ -117,13 +98,7 @@ PUBLISHER: Biblio-Verlag,
     NOTES: Bibliographical footnotes.
   SUBJECT: Chess -- History
            Chess -- Bibliography
-
-
-
 Allen Thrasher
-
-
-
 Allen W. Thrasher, Ph.D,
 Senior Reference Librarian
 Southern Asia Section
@@ -135,7 +110,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732
 fax  202-707-1724
 athr at loc.gov
-
-
-
-

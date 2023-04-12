@@ -1,66 +1,21 @@
-From patte at MATH-INFO.UNIV-PARIS5.FR  Wed Sep 23 17:03:35 1998
-From: patte at MATH-INFO.UNIV-PARIS5.FR (Francois Patte)
-Date: Wed, 23 Sep 98 19:03:35 +0200
-Subject: Query: unknown quantities (fwd)
-Message-ID: <161227041444.23782.13780984522995340641.generated@prod2.harmonylists.io>
-
+Query: unknown quantities (fwd)
 Mary McGee wrote:
-
-> Kim Plofker at Brown provided this response to the recent posting
-> regarding mathematical texts.  I forward it as another piece of
-> information on this matter.
->
-> Mary McGee
->
-> ---------- Forwarded message ----------
-> Date: Tue, 22 Sep 1998 17:36:22 -0400 (EDT)
-> From: Kim Plofker <Kim_Plofker at Brown.edu>
-> To: Mary  McGee <mm383 at columbia.edu>
-> Subject: Re: Query: unknown quantities (fwd)
->
-> Mathematical texts generally use verbal abbreviations for unknown quantities
-> (e.g., "ya" for the first syllable of "yavat").  I've read that different
-> colors of ink were used for different variables (hence, I suppose, Bhaskara's
-> terms "ekavarna" and "anekavarna" for equations in one or more unknowns,
-> respectively), but I've never seen this used.  Look in Datta & Singh's
-> _History of Hindu Mathematics_ or Hayashi's _The Bakhshali Manuscript_ for
-> detailed discussions.
->
-> Kim
-
 Here is the stanza from Bhaskara's bijaganitam:
-
 yaavattaavatkaalako niilako.anyo var.na.h piito
 lohita"scaitadaadyaa.h|
 avyaktaanaa.m kalpitaa maanasa.mj~naastatsa.mkhyaana.m
 kartumaacaaryavaryai.h||
-
 black, blue, yellow, red are the first names of unknown quantities that we use
 to note: x, y, z, t ...
-
 To calculate there is a formalism:
-
 yaa 3 ruu 5 means: 3x + 5 (ruu stands for ruupa.m: "integer")
-
 yaava 5 yaa 3 ruu 2 means: 5x^2 + 3x + 2 (va stands for varga.h: square)
-
 This can be more sophisticated:
-
 yaava 2 kaava 3 niiva 2 yaakaabhaa 23 yaaniibhaa 12 kaaniibhaa 6 yaa 2 kaa 9 nii
 5 ruu 7
-
 2x^2 + 3y^2 + 2z^2 + 23xy + 12 xz + 6 yz + 6x + 9y + 5z + 7
-
 bhaa, in yaakaabhaa stands for bhaavita.m: "product"
-
 There is also a minus sign: a dot over the number, but I don't know how to
 produce it with my keyboard!
-
--- Fran?ois Patte. UFR de math?matiques et informatique.
 45 rue des St P?res. 75270 Paris Cedex 06
-Tel: 01 44 55 35 59 -- Fax: 01 44 55 35 35
 http://www.math-info.univ-paris5.fr/~patte
-
-
-
-

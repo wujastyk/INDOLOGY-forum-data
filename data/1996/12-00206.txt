@@ -1,26 +1,16 @@
-From Claude_Setzer at fcsmtp.mum.edu  Sat Dec 14 05:00:05 1996
-From: Claude_Setzer at fcsmtp.mum.edu (Claude_Setzer at fcsmtp.mum.edu)
-Date: Fri, 13 Dec 96 23:00:05 -0600
-Subject: 7 Bit fonts
-Message-ID: <161227027569.23782.10994092870665071319.generated@prod2.harmonylists.io>
-
+7 Bit fonts
 Dera Indology members:
-
 My last posting was a simple one page note, the same one contained below. It
 was sent to both Indology and to ISO_TC46. For some reason, the one that went
 to Indolgy got about 800 blank pages inserted into it. The other version, the
 exact same file came back fine. I have no idea what happened on the Indology
 server, but I hope this one comes through correctly.
-
 Sorry for the inconvenience that this caused.   I assure you that it was not a
 prank. I have no idea what caused it.
-
 Claude Setzer
 xxxxxxxxxxxxxxxxxxxxxxxxx
-
 This message is a response to messages on both Indology and ISO-TC46. Sorry if
 some of you dont have all the background information.
-
 First of all, I will respond to the John Clews message regarding readability
 of capital letters in the middle of text. I think it is not only extremely
 difficult to read but also extremely inelegant, to the point of being ugly and
@@ -35,14 +25,12 @@ on Mars, why on earth are we so timid about using this minuscule advancement
 in technology . It has been easily useable for many years and its technology
 is so simple that it is like comparing algae to human consciousness when we
 compare 8 bits fonts to the standard features of INTERNET today.
-
 When I read all of these passionate messages about 7 Bit fonts/character sets
 it reminds me vividly of a popular television series from a few years ago, Max
 Headroom. It was a very futuristic setting where the entire world was run by
 all-knowing, all-powerful, conscious computers. The weird thing was that
 humans input data to the computer using a 1940s style mechanical typewriter
 instead of a modern keyboard.
-
 This is the same type of incredibly archaic technology we are discussing here.
 It is even more incredible that we are discussing it on the INTERNET with
 almost instant communication from people all around the world. For those of
@@ -54,7 +42,6 @@ had ever been developed by humankind. Now there are thousands (maybe hundreds
 of thousands) of websites that have moved on to never technology and are no
 longer interested in communicating with anyone who will not upgrade their
 software. 
-
 It would seem to me that the purpose/goal of  ISO-TC46 and Indology is to help
 the world move smoothly and comfortably into the future. However, it seems
 that their current function is to lock us inextricably into the past and
@@ -64,7 +51,6 @@ to force the world to suffer because a few people are still using software
 that hasnt been update for year and years. Why do we not refuse to use their
 ancient systems and update to some slightly less primitive
 one????????!!!!!!!!!!!!!!
-
 Regarding the use of Romanized fonts to represent Sanskrit, all of the 7 Bit
 schemes seem to almost totally loose the feel of Sanskrit. I cannot understand
 why anyone would spend major parts of their life studying a civilization or a
@@ -83,25 +69,14 @@ which scheme the current author is using and what it means. It is very ironic
 that these schemes seem to have come up largely for use of computers, when the
 computers themselves can easily handle technology a thousand times more
 advanced. What are we doing???!!!!
-
 What we should be doing is working on affordable software that automatically
 allows email (on or off the INTERNET) to instantly appear in the native font
 of its origin (Devanagari, Telegu, Tamil, Kanji, etc.), rather than wasting
 all of our time fighting over which archaic 7 bit font to use!!! There is no
 reason to use ANY 7 Bit font!! Until we can use natural fonts, let us at least
 move on to an 8 Bit Romanized font!!
-
 Claude Setzer		csetzer at mum.edu  or cssetzer at mum.edu
-
-
---
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
          Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
                ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
-
-
-

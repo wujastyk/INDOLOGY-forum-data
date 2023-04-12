@@ -1,9 +1,4 @@
-From selvakum at VALLUVAR.UWATERLOO.CA  Tue Nov 10 19:27:13 1998
-From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
-Date: Tue, 10 Nov 98 14:27:13 -0500
-Subject: Paired Horse and PIE breakup
-Message-ID: <161227042566.23782.7412757479044105596.generated@prod2.harmonylists.io>
-
+Paired Horse and PIE breakup
 *
 *"C.R. Selvakumar" <selvakum at VALLUVAR.UWATERLOO.CA> wrote:
 *
@@ -20,8 +15,6 @@ Message-ID: <161227042566.23782.7412757479044105596.generated@prod2.harmonylists
 *between Classical Greek and Hittite.  Not much, but about the same as
 *between Classical Greek and Modern English (I don't have
 *Greek-Sanskrit handy, but Latin-Sanskrit is about 45 matches).
-
-
      Thanks for your explanation. Can you please contrast the
      features of syntax ? Are there any better lists than Swadesh 100?
      I remember that there was a list of 1000.
@@ -36,8 +29,6 @@ Message-ID: <161227042566.23782.7412757479044105596.generated@prod2.harmonylists
 *words, which resulted in a 3-gender system (masc., fem. and inanimate
 *(neuter)).  It is tempting to see that in the context of a
 *"masculinization" of society, but I doesn't necessarily follow.
-
-
       Interesting. Is it an accepted view that animate/inanimate(A-I)
       classification is *prior* to the 'evolution' of the three genders?
       I was curious about the animate/inanimate because Sumerian
@@ -48,18 +39,11 @@ Message-ID: <161227042566.23782.7412757479044105596.generated@prod2.harmonylists
       'losing masculine/feminine gender', gramatically speaking,
       I don't know how many IE languages have (or had) this
       animate/inanimate feature.
-
       Thanks for your remarks,
-
       Selvaa
-
 *
 *=======================
 *Miguel Carrasquer Vidal
 *mcv at wxs.nl
 *Amsterdam
 *
-
-
-
-

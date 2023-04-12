@@ -1,45 +1,20 @@
-From jan.kucera at matfyz.cz  Thu Sep 22 08:47:14 2022
-From: jan.kucera at matfyz.cz (=?UTF-8?Q?Jan_Ku=C4=8Dera?=)
-Date: Thu, 22 Sep 2022 10:47:14 +0200
-Subject: [INDOLOGY] Ligature/conjunct problem with Devanagari MT
-In-Reply-To: <4cb257e6679b4bcd8567f6f5754c99f9@mi.parisdescartes.fr>
+[INDOLOGY] Ligature/conjunct problem with Devanagari MT
 References: <CAASxWBG9WA7uhUWg0dNdN0NEvE9sK0jXpfvfr100diLMiJ8N2w@mail.gmail.com>
  <CAASxWBGy-TMS6BPERwAYjaf_ZcYw=WFkk6pYk5tp0poYrHZ-9w@mail.gmail.com>
  <CAASxWBG576yZZ80nqiuWm70zRur0bn9a46EMR7SKeb+NUpXLew@mail.gmail.com>
  <CA+H=kyQdrJ0nzVHTZHhT7P-SUW3TFjBc1hrwZbdAigrbObYDKQ@mail.gmail.com>
  <4cb257e6679b4bcd8567f6f5754c99f9@mi.parisdescartes.fr>
-Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAGVbFsYBxB5Arp2NsB5h93QBAAAAAA==@matfyz.cz>
-
 I believe this one has ddva on glyph 286.
-
 dba should be 272
 ?na I don?t think I see in this font, ?ma should be 206
 ?ga should be 204
 ?ka should be 201
-
 Hope this helps,
 Jan Ku?era
-
------Original Message-----
-From: INDOLOGY <indology-bounces at list.indology.info> On Behalf Of Fran?ois Patte
 Sent: Wednesday, September 21, 2022 3:54 PM
-To: Alex Watson <alex.watson at ashoka.edu.in>
-Cc: Indology List <indology at list.indology.info>
-Subject: Re: [INDOLOGY] Ligature/conjunct problem with Devanagari MT
-
+Re: [INDOLOGY] Ligature/conjunct problem with Devanagari MT
 Le 2022-09-21 08:30, Alex Watson via INDOLOGY a ?crit :
-> Dear Colleagues
-> 
-> A question about XeLaTeX and the font Devanagari MT.
-> 
-> In order to produce Sanskrit editions in devan?gar? script with 
-> several layers of apparatus, I use XeLaTeX.
-> 
-> My font of choice is Devanagari MT,
-
 It seems that there are several Devanagari MT fonts... Which one do you use?
-
---
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -48,16 +23,6 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 https://list.indology.info/mailman/listinfo/indology
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: DevanagariMT.png
-Type: image/png
-Size: 522834 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20220922/d5ce0f54/attachment.png>
-

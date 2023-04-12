@@ -1,63 +1,32 @@
-From lmfosse at ONLINE.NO  Mon Nov  9 21:09:36 1998
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Mon, 09 Nov 98 21:09:36 +0000
-Subject: SV: SV: SV: On logic and fuzziness
-Message-ID: <161227042515.23782.578693412051216713.generated@prod2.harmonylists.io>
-
+SV: SV: SV: On logic and fuzziness
 H.M.Hubey wrote:
-
 This requires some kind of a committee and which could/should start with
 a small number of words (like the Swadesh list) and then build bottom up.
-
 LMF: Oh dear, we are dealing with glottochronology here. I am afraid that glottochronology has been rather a fiasco. The linguistic premises simply don't work. I read a bit of glottochronology when I did my Ph.D. and the sad fact is that languages don't behave in the way the theory presupposes. That is why it is not so hot anymore. See, among others, R. M. W. Dixon: "The rise and fall of languages", 1997 and Bergsland and Vogt, 1962: "On the Validity of Glottochronology". Current Anthropology, 3.115-58.
-
-> LMF: I wish it were that easy. You really owe us a precise definition of such a distance.
-
 Definition of distance is precise and well known.
-
         d(x,z) <= d(x,y) + d(y,z)
-
 It means simply that if I take a detour (to go to z from x) via y then
 the sum of the two distances which comprise the detour (i.e. d(x,y)+d(y,z))
 must be greater than or equal to the direct distance d(x,z). Any kind
 of a function that satisfies this can be called a distance metric.
-
 LMF: Could you give us a couple of precise examples from a linguistic context?
-
 If the concept of distance is used (which cannot be used now because the
 semantic distance is missing) all the powerful tools of math, analysis,
 probability theory, correlation-regression analysis, fuzzy-logic, differential equations etc become available.
-
 LMF: I doubt very much that a semantic distance can be produced. It has to be given a clear unequivocal definition, and then it must be measured on some kind of pragmatic basis, which is impossible for lack of data. 
-
 1. Are there any lists in which these people congregate? I would like to
 join and even invite them to building this semantic space even if only for the
 Swadesh-100 list to test the ideas.
-
 LMF: There used to be a list for statistical linguistics, but I haven't seen anything from it for a long time. I believe it was called "pragmatist" or something to that effect. There is also a journal called Literary and Linguistic Computing (If I remember correctly, I can't find any references right now). It is absolutely worth reading, you will find a lot of exciting stuff there.
-
 Economists are forced to deal with real world data from different
 countries from different time periods and different soci-economic systems and they have developed all sorts of mathematical tools to deal with all problems that crop up. Linguists have the same problem. They deal with data from different time periods, from different languages with different syntax, and different lexicons.
-
 LMF: As far as I know, economists are good at dealing with modern (or relatively modern) data, but economic theories about the ancient world are as full of question marks as historical linguistics or archaeology. In fact, I think the economists have much less data to work on that we do. You should take a look at some of the economic histories written in the field, and you will find a great many ifs and buts. As usual, it is the lack of appropriate data that is the problem. (You might for instance want to read A. H. M. Jones:  The Later Roman Empire. A social, economic and administrative survey. Oxford 1973. ) Therefore, it is not so certain that economics offer us the wonder-tools that we need. But it might be worth trying. 
-
 My basic point is this: Statistics and maths have a lot to offer the linguist or analyst of style. But everything has to be thought through from scratch: which methods are useful, how should they be used, how should the data be interpreted, etc.? Here are a couple of words from Douglas Biber, a highly competent linguist-cum-statistician: "First you spend two years preparing your data for analysis. Then you spend 20 seconds running them through your computer. Then you spend the next two years interpreting them". (Quoted from memory). You do simply not know in advance which methods are useful, and whatever you do statistically stands and falls with the quality of your linguistic or philological scholarship. You cannot automatically transfer methods or metrics from other branches of scholarship, you have to prove or demonstrate that a given method actually gives meaningful results in a linguistic or philological environment. 
-
 Best regards,
-
 Lars Martin Fosse
-
 Dr. art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
 Phone: +47 22 32 12 19
 Fax:      +47 22 32 12 19
 Email: lmfosse at online.no
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 3974 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19981109/d9b5de08/attachment.bin>
-

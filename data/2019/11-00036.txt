@@ -1,10 +1,4 @@
-From rolfheiner.koch at gmail.com  Sun Nov  3 10:55:07 2019
-From: rolfheiner.koch at gmail.com (Rolf Heinrich Koch)
-Date: Sun, 03 Nov 19 11:55:07 +0100
-Subject: [INDOLOGY] Script tables
-In-Reply-To: <20191103113844.Horde.omD_CLpooI-_qDkMtR93HoI@home.staff.uni-marburg.de>
-Message-ID: <0a350b3a-79bb-9485-580f-3b2910c56d5f@gmail.com>
-
+[INDOLOGY] Script tables
 Dear Matthew,
 if you want to construct any script or devanagari *font *(eg .ttf) for 
 using in word documents:
@@ -20,45 +14,6 @@ assign the letters to any keyboard key.
 When you are finished the app will produce a .ttf font for the 
 windows/font folder.
 Of course you can also use this font for a script table.
-
 Heiner
-
-
 Am 03.11.2019 um 11:38 schrieb Roland Steiner via INDOLOGY:
-> Dear Andrew,
->
-> You could also contact Dragomir Dimitrov who produced several script 
-> tables:
->
-> -- The Bhaik?uk? Manuscript of the Candr?la?k?ra. Study, Script 
-> Tables, and Facsimile Edition. By Dragomir Dimitrov. Cambridge, Mass., 
-> London: Harvard University Press 2010 (Harvard Oriental Series. 729).
->
-> -- "Tables of the Old Bengali Script (on the basis of a Nepalese 
-> manuscript of Da??in's K?vy?dar?a), in: ?ikhisamuccaya?. Indian and 
-> Tibetan Studies. Ed. by Dragomir Dimitrov, Ulrike Roesler and Roland 
-> Steiner. Wien: Arbeitskreis f?r tibetische und buddhistische Studien, 
-> Universit?t Wien 2002 (Wiener Studien zur Tibetologie und 
-> Buddhismuskunde. 53), pp. 27-78.
->
-> Best,
-> Roland
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing 
-> committee)
-> http://listinfo.indology.info (where you can change your list options 
-> or unsubscribe)
-
--- 
 www.rolfheinrichkoch.wordpress.com
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191103/98cdcb4b/attachment.htm>
-

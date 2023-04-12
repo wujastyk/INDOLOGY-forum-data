@@ -1,17 +1,7 @@
-From athr at LOC.GOV  Thu Oct 23 20:28:20 2008
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 23 Oct 08 16:28:20 -0400
-Subject: sati
-Message-ID: <161227083724.23782.55007464440579725.generated@prod2.harmonylists.io>
-
+sati
 If you go to the Library of Congress online catalog <catalog.loc.gov> and do a Basic search browsing on subject Sati, you will find 18 titles, most of them scholarly and fairly recent, and more titles under Sati--India--*. (the English version of Weinberger's book recommended by Paul Hackett is here.)  Also try Widows--India--social conditions.  Finally, do a keyword search on suttee and a lot of 19th c. titles will pop up where that was part of the title or otherwise occurs in the record.  Actually, I am a bit surprised there aren't more books solely on the subject.  The 19th c. ones mostly seem to deal with it in conjunction with other abuses like the lot of widows who don't become sati, women's issues in general, infanticide, human sacrifice, etc.
-
 You can do the same with the free vanilla version of WorldCat at < http://www.worldcat.org/ >.
-
 Allen Thrasher
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -21,7 +11,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

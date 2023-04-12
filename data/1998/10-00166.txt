@@ -1,30 +1,16 @@
-From stone_catend at COMPUSERVE.COM  Wed Oct 21 10:02:08 1998
-From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
-Date: Wed, 21 Oct 98 06:02:08 -0400
-Subject: Draft 7-bit Indic transliteration scheme
-Message-ID: <161227041893.23782.5728561704625150683.generated@prod2.harmonylists.io>
-
+Draft 7-bit Indic transliteration scheme
 Dear Colleagues
-
 In connection with the proposed International Standard for Indic
 transliteration, I have put on the Web a draft 7-bit scheme, as well as
 notes on the draft scheme with diacritics.    The 7-bit scheme is not
 supposed to be the best for all purposes, but is intended principally for
 the transmission and storage of text for direct reading.   See:
-
    http://ourworld.compuserve.com/homepages/stone_catend/trdcd0a.htm
-
 Please give your comments and suggestions (which are very welcome) before
 the end of November 1998.
-
 With apologies to those who receive more than one copy of this posting,   
 Tony Stone
-
 Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
 Indic scripts.  
 Thinking aloud on transliteration:
    http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
-
-
-
-

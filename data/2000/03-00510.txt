@@ -1,24 +1,12 @@
-From ucgadkw at UCL.AC.UK  Thu Mar 23 11:26:41 2000
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 23 Mar 00 11:26:41 +0000
-Subject: [ADMIN] list volume
-Message-ID: <161227057370.23782.82102883484311558.generated@prod2.harmonylists.io>
-
+[ADMIN] list volume
 I have discussed the recent high volume of INDOLOGY postings with the
 maintainers of the list in Liverpool.  They too have been finding the list
 harder to manage because of the very high volume.  Because we are guests
 on their system, it is very important for INDOLOGY to be perceived as
 "well behaved" from a technical point of view as well as from a social
 point of view.
-
 We have agreed to reduce the upper limit on the number messages per day
 from 50 to 40.  We have also decided to reduce the maximum number of
 postings per day per person from 3 to 2.
-
---
 Dominik Wujastyk,
 Founder, INDOLOGY list
-
-
-
-

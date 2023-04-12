@@ -1,15 +1,8 @@
-From yanom at JPNKSUVX.EARN  Wed Feb 17 13:03:11 1993
-From: yanom at JPNKSUVX.EARN (yanom at JPNKSUVX.EARN)
-Date: Wed, 17 Feb 93 13:03:11 +0000
-Subject: MAGIC SQUARES
-Message-ID: <161227015700.23782.15273680935201879108.generated@prod2.harmonylists.io>
-
+MAGIC SQUARES
 Because Takao Hayashi has some trouble in sending e-mail to Indology,
 he asked me to transfer his reply.  I got this today through
 a Japnese commercial e-mail network.   Michio YANO
-----------------------------
 Dear lovers of Indian magic squares,
- 
   Sorry, but for me e-mails seem to take longer time than regular ones.
   I am sure that my knowledge about the history of Indian magic squares
 is quite insufficient, and on the other hand I am not very sure about
@@ -30,16 +23,13 @@ natural numbers with the constant sum 98 in the last chapter (called
 bhadraga\nita) of N\ar\aya\na's Ga\nitakaumud\i (A.D. 1356), which
 mathematically treats magic squares as well as magic figures of various
 shapes in a quite general manner.
- 
 ===== Secondary sources for Indian magic squares =====
- 
 ***G. Abe, 1985, N\ar\ayana pandita no h\ojin.  Sugakushi Kenkyu 104,
 32-34. [Comments on N\ar\aya\na's magic squares.]
 ***G. Abe, 1991, Var\ahamihira no 4 h\ojin to Aru-B\un\i no 4 h\ojin ni
 tsuite. Sugakuhsi Kenkyu 131, 3-11.  [On the relationship between
 Var\ahamihira's magic square of order four and al-B\un\i's.]
 ***A.A.K. Ayyangar, 1954, Magic Squares.  Mathematics Student 20, 1952, 166.
- 
 [= Indian Magic Squares, Scripta Mathematica 20, 202.  Contains a
 magic square of order four "which is quoted in verse by many elderly
 persons in the village parts of India.]
@@ -57,7 +47,6 @@ phically ascribed to the 12th or the 13th century.]
 83-84. [Construction method, stated in the Kak\sapu\ta, of magic squares
 of order four with any optional sum.]
 ***G.A. Grierson, 1881, An American Puzzle.  The Indian Antiquary 10, 89-90.
- 
 [Construction method, stated in Raghunandana's Sm\rtitattva (ca. A.D.
 1500), of magic squares of order four.]
 ***T. Hayashi, 1986, H\ojinzan.  Epist\em\e (Tokyo: Asahi Press) II, 3,
@@ -125,10 +114,3 @@ square.  See Cunningham above.]
 Takao Hayashi,
 Doshisha University,
 Kyoto 602 Japan.
- 
- 
-
-
-
-
-

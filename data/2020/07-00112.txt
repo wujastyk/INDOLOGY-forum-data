@@ -1,38 +1,15 @@
-From rmahoney at indica-et-buddhica.org  Wed Jul 15 10:35:57 2020
-From: rmahoney at indica-et-buddhica.org (Richard Mahoney | Indica et Buddhica)
-Date: Wed, 15 Jul 20 22:35:57 +1200
-Subject: [INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
-In-Reply-To: <235CEA58-4240-4E4D-89A7-B2AAD159112D@tending.to>
-Message-ID: <32797a284f57eb41306c5242cb29865cdaf7b306.camel@indica-et-buddhica.org>
-
+[INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
 Dear All,
-
 Is this what you're after?
-
 https://bombay.indology.info/
-
 and:
-
 https://bombay.indology.info/software/fonts/induni/index.html
-
-
-
 Best, Richard
-
-
-
------Original Message-----
-From: Prof. W Tuladhar-Douglas via INDOLOGY <
 indology at list.indology.info>
-Reply-To: Prof. W Tuladhar-Douglas <will at tending.to>
-To: INDOLOGY <indology at list.indology.info>
-Subject: Re: [INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
-Date: Wed, 15 Jul 2020 11:18:48 +0100
+Re: [INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
 Mailer: Apple Mail (2.3608.80.23.2.2)
 X-Spam-Score: 0.0
-
 Dear Alex and all,
 I just did a DNS check  (dig oriental.cam.ac.uk), and neither
 bombay.oriental.cam.ac.uk nor indeed oriental.cam.ac.uk apparently
 still exist. 
-

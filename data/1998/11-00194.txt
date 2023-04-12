@@ -1,68 +1,46 @@
-From mcv at WXS.NL  Mon Nov  9 10:14:14 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Mon, 09 Nov 98 10:14:14 +0000
-Subject: SV: SV: Paired Horse and PIE breakup
-In-Reply-To: <36465005.D9C382CF@jps.net>
-Message-ID: <161227042499.23782.10197408637289204825.generated@prod2.harmonylists.io>
-
+SV: SV: Paired Horse and PIE breakup
 Paul Kekai Manansala <kekai at JPS.NET> wrote:
-
->There was never any such racial criteria for the older classification of
->languages. In fact, it was more racially neutral than the current
->classification.  For example, Cushitic languages were grouped together
->with Semitic ones.  Now they are separated.
-
 They're not.  You've got it backwards.
-
 Let's see how "racially neutral" pre-Greenberg classifications of
 African languages were, and how "racist" Greenberg's is.
-
 Starting point for the history of African language classification are
 the two obvious and long recognized language families of the
 continent: Semitic (which besides Arabic, now widely spoken in
 Northern Africa, includes the Ethiopic languages [Ge'ez, Amharic,
 Tigrinya, etc.]) and Bantu (the group where most languages from
 Central, Eastern and Southern Africa belong).
-
 Beyond these obvious families, linguists studying the African
 languages soon came to realize that some of the other 900 ~ 1000
 languages spoken in the continent showed affinities with either Bantu
 or Semitic.  The first attempt at a full classification was that of
 the German Egyptologist Lepsius.  He divided the African languages
 into three groups (1880):
-
 1. Semitic
 2. Hamitic (Egyptian, Berber-Hausa, Cushitic, Nama [Hottentot])
 3. Bantu-Negro
-
 Note that the "Hamitic" group consists of those languages which show
 "Semitoid" characteristics (such as noun gender), but they are not
 included within the same group as Semitic.  On the other hand, the
 "Negro" subgroup, classified with Bantu, consists of languages with
 "Bantoid" characteristics, plus all other languages spoken by
 black-skinned peoples (except such as already included in Hamitic).
-
 A different classification was arrived at by an Austrian scholar,
 Friedrich Mueller.  Using mainly hair types [sic] as a criterion, he
 arrived at the following classification:
-
 1. Semitic
 2. Hamitic (Egyptian, Berber, Cushitic)
 3. Nuba-Fula-Maasai
 4. Khoisan (Nama, San)
 5. Negro
 6. Bantu
-
 But the most influential classification before Greenberg's was
 undoubtedly that of Meinhof, as published in his "Die Sprachen der
 Hamiten" (1912).  Meinhof divided African languages in three groups:
-
 1. Hamito-Semitic:
    a. Semitic
    b. Hamitic (Egypt., Berber, Cushitic, Hausa, Fulani, Maasai, Nama)
 2. Sudanic (East-Sudanic, West-Sudanic)
 3. Bantu
-
 Meinhof's "Hamitic" group included languages with obvious linguistic
 links to Semitic (Ancient Egyptian, Berber, Cushitic and
 Hausa/Chadic), but also languages that only share typological traits
@@ -78,7 +56,6 @@ the Near East, establishing Egyptian civilization, and had further
 penetrated in the African continent, providing it with its more
 vigorous, war-like peoples, despite subsequent admixture of Negroid
 blood.
-
 Unfortunately for Meinhof, the linguistic evidence shows that the
 "Nilo-Hanmitic" languages are most closely related to those of the
 more sedentary Nilotic peoples (Dinka, Nuer) of S. Sudan, and that
@@ -88,13 +65,11 @@ scheme, principally from his erstwhile pupil Westermann and from
 French anthropologists and linguists.  Westermann's scheme (roughly
 equivalent to the French one of Delafosse, Homburger, Cohen etc.)
 was:
-
 1. Hamito-Semitic
    a. Semitic
    b. Hamitic (Egyptian, Berber, Cushitic)
 2. Khoisan (Nama, San)
 3. Negro (Bantu, Semi-Bantu/Western Sudanic, Eastern Sudanic)
-
 Note that in this scheme (which is apparently still current in France
 today), Hamitic is stripped of languages which on linguistic grounds
 do not belong (Nama, Masai, Fulani, Nubian), but also of Hausa and
@@ -104,11 +79,9 @@ classified within Negro/Western Sudanic, presumably because the Hausa
 are racially indistinguishable from their black West African
 neighbours.  Also, Semitic is still seen as related to, but distinct
 from a single "Hamitic" group.
-
 What Greenberg did in the 1950's and 60's, was to simply look at the
 linguistic evidence, independent of race, hair-type or mode of
 subsistance, and teh conclusion he reached were the following:
-
 1. There is no reason to divide the "Hamito-Semitic" into Semitic
 versus "all the rest".  Pending further research on the
 subclassification, it should be renamed to "Afro-Asiatic", consisting
@@ -128,7 +101,6 @@ level group called Nilo-Saharan.
 6. The Nama language (Hottentot) belongs with the San (Bushman)
 languages, and so do the two "click" languages of Eastern Africa,
 Hatsa and Sandawe.  This group was labelled "Khoisan" by Greenberg.
-
 Greenberg's conclusions 1-4 are now fully accepted and
 uncontroversial (despite initial opposition from Bantuists to point
 number 4).  Point 5, the Nilo-Saharan hypothesis, is accepted as a
@@ -140,24 +112,12 @@ inclusion of Hatsa and Sandawe.  It is possible that Greenberg was
 wrong here, led astray, like his predecessors in African
 classification, by racial (the Khoi-San physical type) and
 typological (the presence of clicks in these languages) criteria.
-
->> Greenberg saying two language groups are unrelated?  Reference!
->
->Well, let's just say that the current language classification in vogue
->is that accepted by Greenberg.
-
 That's either a really good joke, or a sign of complete ignorance
 about Greenberg's position and how it's regarded by "establishment"
 linguists.  Please, next time you throw around accusations of racism,
 get yourself informed first of what those people's views actually
 are.
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

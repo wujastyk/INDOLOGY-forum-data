@@ -1,20 +1,13 @@
-From thrapp at helios.nosc.mil  Fri Oct 28 00:05:40 1994
-From: thrapp at helios.nosc.mil (thrapp at helios.nosc.mil)
-Date: Thu, 27 Oct 94 17:05:40 -0700
-Subject: Yoga Sutra verse differences
-Message-ID: <161227017642.23782.3244001057340039913.generated@prod2.harmonylists.io>
-
+Yoga Sutra verse differences
 I have noticed a discrepancy between versions of the
 Yoga Sutras in chapter 1, verse 35.  The last word
 of the verse in some versions is 'sthitinibandhanii' and
 and in others it is 'sthitinibandhinii'.
-
 'nibandhanii' appears to the nominative singular of a
 feminine noun meaning 'bond'.  'nibandhinii' seems to be
 the nominative singular, feminine form of the adjective
 'nibandhin' meaning 'producing'.  The entire verse is
 "vi.sayavatii vaa prav.rttirutpannaa manasa.h sthitinibandh[a|i]nii."
-
 I am a beginning student of Sanskrit and there are many things
 about the grammar of this verse that confuses me.  In some ways
 'nibandhinii' seems to fit making the last part of the verse
@@ -25,18 +18,8 @@ with 'nibandhanii' seems to be "the bond of steadiness of mind."
 Perhaps this could be an equivalence with the first part of the
 verse meaning "<first part> is the bond of steadiness of mind"
 which would explain the nominative case.
-
 I would greatly appreciate your thoughts on which version is
 accurate, and any comments on the whole verse.  Thank you
 very much.
-
--------------------------------------------------------------
-
 Gary R. Thrapp
 thrapp at nosc.mil
- 
-
-
-
-
-

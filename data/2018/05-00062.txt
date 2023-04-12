@@ -1,14 +1,6 @@
-From ondracka at ff.cuni.cz  Thu May 10 20:38:30 2018
-From: ondracka at ff.cuni.cz (=?utf-8?Q?Lubom=C3=ADr_Ondra=C4=8Dka?=)
-Date: Thu, 10 May 18 22:38:30 +0200
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Association_between_n=C4=81=E1=B8=8D=C4=ABs_and_dv=C4=81ras_within_Jainism=3F?=
-In-Reply-To: <facad8df9c6c7e9e763e72b3d03609a0@fabularasa.dk>
-Message-ID: <20180510223830.c6b1f32c86fced284048eac0@ff.cuni.cz>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Association_between_n=C4=81=E1=B8=8D=C4=ABs_and_dv=C4=81ras_within_Jainism=3F?=
 Dear Jacob,
-
 I cannot help you with Jaina yoga texts, but in ha?hayoga texts the association of n???s with dv?ras is quite common. Or, to be more precise, most of the HY texts only list the main n???s (usually ten or fourteen), but some of them provide more details about their position. One of these systems (with 14 n???s) is described in the Vasi??hasa?hit? 2.34?40, where the link of n???s with dv?ras is as follows:
-
 1/ kuh??: ?me?hr?nta?
 2/ pi?gal?: y?mye n?s?nta?
 3/ p???: y?mye netr?ntra?
@@ -19,7 +11,6 @@ I cannot help you with Jaina yoga texts, but in ha?hayoga texts the association 
 8/ i??: savyan?s?nta?
 9/ alambu??: p?yum?l?d
 The same verses are in Yogay?j?avalkya 4.39?45  (Divanji ed.) and similar system is e.g. in the compendium Ha?hatattvakaumud? 23.15?18.
-
 More texts describe ten main n???s, e.g. ?ivasvarodaya (Lonavla ed.) 38?40:
 i?? v?me sthit? bh?ge pi?gal? dak?i?e sm?t? |
 su?umn? madhyade?e tu g?ndh?r? v?macak?u?i ?38?
@@ -28,65 +19,14 @@ ya?asvin? v?makar?e ?nane c?py ala?bu?? ?39?
 kuh?? ca li?gade?e tu m?lasth?ne tu ?a?khin? |
 eva? dv?ra? sam??ritya ti??hanti da?a n??ik?? ?40?
 = Gorak?a?ataka 29?31 (Nowotny ed.) etc.; slightly different system is in ?ar?gadharapaddhati 4309?4312.
-
 Many of these verses are used in various Yogopani?ads, e.g.:
 Dar?anopani?ad 4.13?22
 Yogac???ma?yupani?ad 18?21
 Brahmayogin on ????ilyopani?ad 1.10
 cf. also J?b?ladar?anopani?ad 3.7?22.
-
 Outside the yoga texts, several later tantras make this connection too, see e.g. Ahirbudhnyasa?hit? 32.24?30.
-
 Thus it seems that in various Hindu yoga systems the association of n???s with dv?ras was common. This, however, does not mean anything for Jaina yoga. A few Jaina texts I am familiar with (e.g. Hemacandra's Yoga??stra or Haribhadra's Yogad???isamuccaya) do not describe system of n???s. I would recommend you to check Hemacandra's autocommentary on his Yoga??stra (Svopaj?avivara?a) - this is a great treasure of Jaina yoga concepts.
-
 Best,
 Lubomir
-
-
-
-
-
 On Thu, 10 May 2018 17:43:12 +0200
 Jacob Schmidt-Madsen via INDOLOGY <indology at list.indology.info> wrote:
-
-> Dear all,
-> 
-> I am currently working on an analysis of Jain gy?n b?z? (Snakes & 
-> Ladders) charts. Evidence seems to indicate that the nine snakes which 
-> routinely appear on the charts are associated with "the nine great 
-> energy channels" (mah? nav n???) of the human body, and that the nine 
-> rows of the charts are likewise associated with the nine "gates" (dv?r) 
-> of the human body (i.e. eyes, ears, nostrils, mouth, anus, urethra). The 
-> gates are furthermore associated with various rebirth categories, and 
-> the implied logic seems to be that by "closing off" the nine gates, one 
-> will be able to cut off the heads of the snakes, so to speak, stop the 
-> process of rebirth, and open up the tenth gate (brahmarandhra), thereby 
-> attaining liberation (and winning the game).
-> 
-> I am aware that Gorakhn?th associates ten n???s with the ten dv?ras in 
-> Siddhasiddh?ntapaddhati 1.67, but I have not been able to find a similar 
-> association within Jainism. It is not at all impossible that N?th 
-> thinking influenced the Jain charts in this respect, but I am not 
-> sufficiently well versed in Jain yoga to make such a call. If anybody is 
-> aware of such an association within Jainism or elsewhere, or perhaps 
-> even an association between dv?ras and rebirth categories, I would be 
-> very interested to know about it.
-> 
-> Kind regards,
-> Jacob
-> 
-> Jacob Schmidt-Madsen
-> PhD Fellow (Indology)
-> University of Copenhagen
-> Denmark
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-

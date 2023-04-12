@@ -1,12 +1,5 @@
-From CXEV at CA.MCGILL.MUSICA  Sun Oct 20 21:36:17 1991
-From: CXEV at CA.MCGILL.MUSICA (Richard P. Hayes)
-Date: Sun, 20 Oct 91 16:36:17 -0500
-Subject: Buddhist studies discussion group
-Message-ID: <161227015150.23782.17192129705984010011.generated@prod2.harmonylists.io>
-
-
+Buddhist studies discussion group
 NEW DISCUSSION GROUP FOR SCHOLARS OF BUDDHISM
- 
 An electronic discussion group called BUDDHA-L has recently been
 formed towards the end of providing a means for those interested
 in Buddhist Studies to exchange information and views. It is hoped
@@ -17,7 +10,6 @@ Buddhism. It may also serve as a forum for discussion of issues
 connected to the teaching of Buddhist studies at the university
 level, and as a palce for posting notices of employment
 opportunities.
- 
 The primary purpose of this list is to provide a forum for serious
 academic discussion. It is open to all persons inside and outside
 the academic context who wish to engage in substantial discussion
@@ -26,45 +18,27 @@ not to be used for proselytizing for or against Buddhism in
 general, any particular form of Buddhism, or any other religion or
 philosophy, nor is it to be used as a forum for making
 unsubstantiable confessions of personal conviction.
- 
 The discussion on the list is to be moderated, not in order to
 suppress or censor controversies on any topic, but rather to limit
 irrelevant discussions and idle chatter, and to redirect or return
 messages sent to the list by accident. Content or style will never
 be altered by the moderator, whose only responsibility will be to
 forward all appropriate postings to the list.
- 
 If you wish to subscribe to BUDDHA-L, send an appropriate message
 to LISTSERV at ULKYVM.
- 
 If you are connected to BITNET, the simplest way to send a message
 to LISTSERV is interactively, that is, by issuing commands from
 your system's command line. If you are on a VM/CMS system, you
 begin an interactive command to LISTSERV at ULKYVM with the string:
- 
      TELL LISTSERV AT ULKYVM SUBSCRIBE BUDDHA-L <your name>
- 
 On a VAX/VMS system, the subscription command is worded:
- 
      SEND LISTSERV at ULKYVM "SUBSCRIBE BUDDHA-L <your name>"
- 
 The second way to communicate with LISTSERV at ULKYVM is to send an
 e-mail message. The message should contain only the following
 command:
- 
       SUBSCRIBE BUDDHA-L <name>
- 
- 
- 
 Richard Hayes <cxev at musica.mcgill.ca>
 Faculty of Religious Studies, McGill University
- 
 James A. Cocks <jacock01 at ulkyvm>
 Senior Consultant Research/Instruction
 University of Louisville
- 
-
-
-
-
-

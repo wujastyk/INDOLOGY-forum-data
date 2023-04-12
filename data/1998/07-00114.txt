@@ -1,32 +1,4 @@
-From thillaud at UNICE.FR  Thu Jul  9 08:27:09 1998
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Thu, 09 Jul 98 10:27:09 +0200
-Subject: Sanskrit
-In-Reply-To: <l03110700b1c924f78afa@[206.205.247.13]>
-Message-ID: <161227040683.23782.5775754436565801177.generated@prod2.harmonylists.io>
-
->Let us now look at the Sanskrit examples Sandra van der Geer
->provided (in a message Re: Sanskrit Fri, 3 Jul 1998 09:37:14 +0200)
->
->1) rAmo nalAya pustaka.m dadAti
->2) rAme.na nalAya pustaka.m dIyate
->3) nalo rAme.na pustaka.m dApyate
->
->1) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
->book by R.".
->2) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
->book by R.".
->3) does not mean the same thing as 1) and 2). I believe it should be
->paraphrased as "raamo nalaM pustakaM daapayati", and mean "R. makes N. give
->a book"/"N. is made by R. to give a book" (N.B., if Apte explains an
->utterance like this, I missed it. So be cautioned that the source of this
->interpretation (Elliot) is a lesser, and fallible, authority!)*
->
->If Sandra meant that 3) is semantically equivalent to 1) and 2), I too
->would like to know how that can be so.
->
->Elliot
-
+Sanskrit
         Perhaps just a problem with 'semantically'.
         At low-level we can consider passive and causative being reciprocal
 functions:
@@ -40,10 +12,5 @@ fully semantical equivalence. The same occurs with the double negation: not
 just an assertion but a strong assertion.
         Regards,
 Dominique
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

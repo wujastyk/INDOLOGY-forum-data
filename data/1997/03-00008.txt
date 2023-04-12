@@ -1,24 +1,15 @@
-From Sfauthor at aol.com  Sun Mar  2 20:01:49 1997
-From: Sfauthor at aol.com (Sfauthor at aol.com)
-Date: Sun, 02 Mar 97 15:01:49 -0500
-Subject: Final post on copyright
-Message-ID: <161227028696.23782.2383544324708901794.generated@prod2.harmonylists.io>
-
+Final post on copyright
 I should preface my final remarks by stating that I am not a lawyer (and all
 my other habits are good, too) and that nothing I say should be construed as
 giving legal advice.
-
 Copyright protects original works. Writing is original, retyping is not,
 translating is.
-
 What exactly is original is a subject for debate (lobbying, bribery,
 litigation . . . ) as we move into an economy where most of us assemble,
 modify, distribute and reassemble pieces of information. In fact, there is a
 panel at the ACM conference discussing the topic this very day, March 2nd.
 Info at:
-
 http://www.acm.org/acm97/conference/special_events.html
-
 Those of us expending considerable effort on work that may not be
 copyrightable may want to consider a quick technological fix. (And I bet you
 thought quick technological fixes were a mythical beast on a par with
@@ -29,24 +20,14 @@ unchangeable. If one created a file consisting solely of an ancient text
 title page stating your name, that it is freely given to the public, that it
 is not to be resold and so on. This would make it difficult for anyone to
 resell.
-
 I stand by my statement regarding the body of the U. S. Constitution vs.
 amendments. It was clearly stated by a currently practicing intellectual
 property attorney speaking on a panel devoted to copyright. 
-
 I apologize for my remark on German motives for lengthening the duration of
 copyright. Never take satire literally. (Here, I violated the
 corollary--never use satire where it might be taken literally or where nerves
 are exposed. I believe I am of 1/4 German ancestry. Or is it 1/8? I'll have
 to ask mom. I'm fairly sure I'm not my own grandpa.)
-
 Best wishes to every last one of you,
-
 Brian Akers
 sfauthor at aol.com
-
-
-
-
-
-

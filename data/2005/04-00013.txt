@@ -1,18 +1,10 @@
-From silk at HUMNET.UCLA.EDU  Sun Apr 10 19:29:50 2005
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Sun, 10 Apr 05 12:29:50 -0700
-Subject: metre of MMK
-Message-ID: <161227076196.23782.15468282499208238852.generated@prod2.harmonylists.io>
-
+metre of MMK
 I am wondering if anyone has run a metrical analysis of Nagarjuna's
 MMK. I know there were at some point programs around which could
 produce automated analyses of metre, but I'm a computer illiterate,
 and in any event, I think those programs never ran on Macs anyway.
 But any pointers would be most appreciated.
-
-
 thanks so much, JAS
---
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -23,7 +15,3 @@ Los Angeles, CA 90095-1540
 phone: (310)206-8235
 fax:  (310)825-8808
 silk at humnet.ucla.edu
-
-
-
-

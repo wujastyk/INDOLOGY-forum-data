@@ -1,13 +1,3 @@
-From acollins at GCI.NET  Tue Feb  1 11:45:46 2005
-From: acollins at GCI.NET (Al Collins)
-Date: Tue, 01 Feb 05 02:45:46 -0900
-Subject: diacritics
-Message-ID: <161227075813.23782.1672483426614919939.generated@prod2.harmonylists.io>
-
+diacritics
 Can someone recommend a simple MS Word add-on for Sanskrit diacritics, plus Vedic accents?  I had used NotaBene in the past, but am so used to Word now that I hesitate to switch back.
-
 Al Collins
-
-
-
-

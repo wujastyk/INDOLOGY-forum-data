@@ -1,9 +1,4 @@
-From vsundaresan at HOTMAIL.COM  Wed Dec 27 06:32:01 2000
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Wed, 27 Dec 00 06:32:01 +0000
-Subject: the so-called "double-truth"
-Message-ID: <161227065957.23782.11169535103322323270.generated@prod2.harmonylists.io>
-
+the so-called "double-truth"
 I think the comparative approach teaches a few things
 otherwise unknown. However, I think one should make a
 distinction between accommodation as a purely strategic
@@ -15,7 +10,6 @@ Anyone who makes a philosophical statement about change
 and continuity, or universals and particulars, could
 easily conclude with a hierarchy of two-truths. It
 doesn't have to be all hermeneutical in origin.
-
 Now that Galileo has been mentioned, here is an example
 of "two truths" in science. Relativistic mechanics holds
 true for velocities close to that of light, but Newtonian
@@ -29,9 +23,4 @@ assumptions of Newtonian mechanics, and ended up showing
 that the latter was only a special case (therefore, a
 lower truth), while the former was a more general one
 (thus, a higher truth).
-
 Vidyasankar
-
-
-
-

@@ -1,17 +1,7 @@
-From ondracka at TIGER.VSCHT.CZ  Fri Jan  5 12:16:57 2001
-From: ondracka at TIGER.VSCHT.CZ (Lubomir Ondracka)
-Date: Fri, 05 Jan 01 12:16:57 +0000
-Subject: question on recaka-pUraka-kumbhaka
-In-Reply-To: <F257T2NqFJ3sl3xbYiM0000109f@hotmail.com>
-Message-ID: <161227066302.23782.11390692955198931483.generated@prod2.harmonylists.io>
-
-> The Yaajnavalkyasm.rti does not. I don't have Yogayaajnavalkya
-> with me, so any help would be greatly appreciated.
-
+question on recaka-pUraka-kumbhaka
 There is a controversy regarding the date and authorship of these two texts:
 1) Yogayajnavalya[samhita]
 2) Brhadyogiyajnavalkyasmrti /BYS/
-
 For the discussion on this problem see these articles:
 P. C. Divanji, Brhad Yogi Yajnavalkya-Smrti and Yoga Yajnavalkya,
                ABORI 34 (1953): 1-29
@@ -21,14 +11,10 @@ C. T. Kenghe, Some Further Observations on the Problem of the Original
                Yogayajnavalkya. ABORI 52 (1971): 49-65
 M. L. Gharote and V. B. Bedekar, The Real One, in Brhadyogiyajnavalkyasmrti,
                Engl. transl., Lonavla:  S.M.Y.M. Samiti, 1982, pp. 134-167
-
 Good summary of this discussion has Kane, History of Dharmasastra, vol.1,
 pt. 1, 2nd ed., pp. 449-459, and vol. 5, pt. 2, 2nd ed., pp. 1403-1408.
-
 BYS has the terms recaka-puraka-kumbhaka (in 8th chapter on pranayama),
 but be aware that this text is quite late (cca 7-10th c.).
-
---
  Lubomir Ondracka
 =============================================
  Institute of Philosophy & Religious Studies
@@ -36,12 +22,6 @@ but be aware that this text is quite late (cca 7-10th c.).
  Namesti Jana Palacha 2
  116 38 Prague 1
  Czech Republic
----------------------------------------------
  e-mail:   ondracka at tiger.vscht.cz
----------------------------------------------
  phone:    00420-2-21619356
 =============================================
-
-
-
-

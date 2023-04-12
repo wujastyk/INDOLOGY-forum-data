@@ -1,158 +1,50 @@
-From palaniappa at aol.com  Fri Nov 15 04:10:11 2013
-From: palaniappa at aol.com (palaniappa at aol.com)
-Date: Thu, 14 Nov 13 23:10:11 -0500
-Subject: [INDOLOGY] Brahmin Priestesses
-Message-ID: <8D0AFCFB5EB6CB6-230C-30C3@webmail-d260.sysops.aol.com>
-
-
+[INDOLOGY] Brahmin Priestesses
 Thanks for the responses. Here are my thoughts on the etymologies proposed.
-
-
 1. dev?ntik?
-
-
 One problem with this etymology is the long '?' as the first vowel while the Tamil form has short 'a'.  The second problem is the semantics. 'R?k?asa or daitya' does not fit either as a proper name or a class name for a brahmin girl or a temple priestess.
-
-
 2. c?-/c?ma-nt-i> c?mant? > t?vanti 
 One problem with this is that it cannot explain the variant T?vantikai. The second problem is that t?vanti is not attested in any literary or colloquial usage. In Tamil, the only forms known are c?manti, civanti, cevanti, and cevvanti.
-
-
 3. devavandy?
 This is indeed the most attractive of the three. Indeed I too gave this a lot of thought before settling on devavandhy?. The reasons are these.  vanti or vantiyai or vantikai is not attested as either as a proper name of a woman or a generic name of a praiseworthy woman in Tamil usage. The Tamil compilers of the Tamil Lexicon made up an amazing brain trust of Tamil scholarship that existed at that time, but with an overwhelming majority from upper caste - Aiyars, Aiyangars, Sastris, Pillais, Mudaliars,  Chettiar, etc. While Iyodhi Doss and Abraham Pandithar were exceptions in terms of caste background, they were also highly informed with respect to Sanskritic usage. If vanti/vantiyai/vantikai had been used in the Tamil domain either as a proper noun or as a generic/class name to refer to a praiseworthy woman, they would have most probably listed it in the Tamil Lexicon with that meaning. The fact that Tamil Lexicon does not list it suggests that there is no attestation of such usage. That is my reason for rejecting it in favor of vanti/vantiyai/vantikai in the sense of 'childless woman'. All three of these usages are listed in Tamil Lexicon. 
-
-
 As for barren/childless woman, one may not give a newborn child that name. But if the author has a tendency to use a generic/class name, such as the name for the childless woman in the Tiruvi?aiy??al Pur??am in some cases (possibly because he did not know the real name if the story had been already popular as possible in the case of the Cilappatik?ram), then the name 'childless woman' fits very well especially if other sources such as Pu?an????u 372 specifically mention that attribute of a priestess. (Another such usage is the case of Tarumi in the Tiruvi?aiy??al Pur??am, where as an ?di?aiva brahmin bachelor, he has to get married to be a priest but lacks the necessary money. But he is already given the name Tarumi meaning 'temple priest.)  This is like naming a girl who is going to become a nun later in life 'childless woman'. There is nothing pejorative about it. It is merely descriptive.  That is how some of these authors named their characters. 
-
-
 Regards,
 Palaniappan
-
-
-
------Original Message-----
-From: Whitney Cox <wmcox at uchicago.edu>
-To: Suresh Kolichala <suresh.kolichala at gmail.com>
-Cc: indology <indology at list.indology.info>
 Sent: Thu, Nov 14, 2013 12:45 pm
-Subject: Re: [INDOLOGY] Brahmin Priestesses
-
-
+Re: [INDOLOGY] Brahmin Priestesses
 Equally, and by a set of sound changes essentially identical to those described by Palaniappan, the second element in t?vantikai could be referred to -vandy? ('praiseworthy').  Skt. Devavandy?, I find, occurs in list of 1008 names of the G?yatr? mantra: this slightly obscure place notwithstanding, it also makes better sense semantically: "she who is to be praised by the gods" rather than "a barren woman of [?] the gods", thus "a divine barren woman".  
-
-
-
-
-
-
-
-
 On Thu, Nov 14, 2013 at 12:24 PM, Suresh Kolichala <suresh.kolichala at gmail.com> wrote:
-
-
-
 A more plausible derivation for t?vanti/t?vantikai would be from  the flower name c?mant?/s?mant?/s?mantika ?the Indian white rose Rosa glandulifera?.
-
-
 The alternation of  the radical vowel between ?- and ?- would point to a possible presence of palatal.  In Telugu, this flower is known as c?mant?, c?mant? or c?vanti. Irregular word-initial c- > t- is not uncommon in Tamil and other Dravidian languages[1][2], as evident in the transformations of the following borrowings from Indo-Aryan:
-
-
 sattva ?strength? > cattuvam, tattuvam
 sn?nam ?bath? > t?nam
 samtati ?lineage? > tantati
 ?sanam ?posture? > ?canam > ?tanam
-
-
 Intervocalic /m/ > /v/ is well-known in South Dravidian.
-
-
 Therefore, I propose:
-
-
 *c?-/c?ma-nt-i> c?mant? > t?vanti ?the Indian white rose Rosa glandulifera?.
-
-
 It goes well with the other flower names used for characters in the Cilappatik?ram such as m?tavi (related to m?dhavi).
-
-
 Regards,
 Suresh.
-
-
 [1] Emeneau, Murray, Proto-Dravidian *c-:Toda t-" BSOAS 1953
 [2] Emeneau, Murray, Proto-Dravidian *c- and Its Developments JAOS1988.
-
-
-
-
 On Thu, Nov 14, 2013 at 6:43 AM, Tieken, H.J.H. <H.J.H.Tieken at hum.leidenuniv.nl> wrote:
-
-
 Instead of devavandhy?, could t?vantikai not correspond to Skt dev?ntik?, fem. of dev?nta(ka), a name of a r?k?asa and of a daitya (MW)?
-
-
-
 Herman Tieken
 University of Leiden
 The Netherlands
-
 website:hermantieken.com
-
-
-
-
 Van: INDOLOGY [indology-bounces at list.indology.info] namens palaniappa at aol.com [palaniappa at aol.com]
 Verzonden: donderdag 14 november 2013 12:11
-To: indology at list.indology.info
 Onderwerp: [INDOLOGY] Brahmin Priestesses
-
-
-
-
 Dear Indologists,
-
-
-
-
 The Cilappatik?ram, the Tamil epic, has a character named T?vanti/T?vantikai.  She was a brahmin and was a friend of the heroine, Ka??aki. She married C?tta?, a god in human form. Eight years after marriage, he revealed to her his real nature and left her asking her to come to his temple. Accordingly, she worshipped at the temple of C?tta?. At the end of the epic, when  the temple to Ka??aki is inaugurated, T?vantikai, under possession by C?tta?, T?vantikai entered a trance and danced and C?tta? spoke through her. Later, the C?ra king Ce?ku??uva? established a grant for worship and daily celebration at the Ka??aki temple and appointed her to offer flowers, incense, and fragrances at the temple. After worshipping Ka??aki, the king and others including a brahmin named M??ala? entered a separate sacrificial hall where T?vantikai again spoke as an oracle.
-
-
-
-
-
-
-
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
-
-
-
-
-
--- 
-
 Whitney Cox
 Associate Professor and Director of Graduate Studies
 South Asian Languages and Civilizations
 University of Chicago
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 http://listinfo.indology.info
-
- 
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131114/0545bd5e/attachment.htm>
-

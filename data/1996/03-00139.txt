@@ -1,19 +1,11 @@
-From aklujkar at unixg.ubc.ca  Thu Mar 14 20:09:25 1996
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Thu, 14 Mar 96 12:09:25 -0800
-Subject: "Discovered" Khajuraho inscription
-Message-ID: <161227023366.23782.14586604966063852676.generated@prod2.harmonylists.io>
-
+"Discovered" Khajuraho inscription
 Thanks to the diligent eyes of Professor Madhav M. Deshpande, I have been
 able to discover the typos that remained in my earlier hurried copying of
 the by-now-famous Khajuraho inscription. 
-
  (Hushsh! It is not easy to visit Khajuraho overnight and return to Canada
 the next day to teach the Ma.ni-cuu.daavadaana and the Yoga-bhaa.sya.)
-
 Here is the corrected version (most of the inaccuracies in the earlier
 version were cases of typing "a" where "aa" was needed): 
-
 tvan-netra-sukha-kaariidam asmacchilpa.m, na sa.m;saya.h /
  bhavya.m divya.m ;siva.m kaavya.m paa.saa.ne.su prasaaritam //1//
 yathaa sajiivataa.m yaayaan nirjiivaapi ;silaa tathaa /
@@ -38,9 +30,3 @@ yathaa sajiivataa.m yaayaan nirjiivaapi ;silaa tathaa /
  d.r.s.tyaa s.r.s.ti.m vyatikramya bhukti.m muktyaa vi;sodhaya //11//
  raajaa vaa raaja-gopaalo gopaalo vaavi;se.sa.na.h /
  ima.m lekha.m pa.thed ya.h sa bhaved buddha.h sva-jiivane //12// 
-
-
-
-
-
-

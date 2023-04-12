@@ -1,35 +1,17 @@
-From ucgadkw at UCL.AC.UK  Wed Feb 10 16:49:51 1999
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Wed, 10 Feb 99 16:49:51 +0000
-Subject: ayurveda in Europe?
-In-Reply-To: <Pine.SGI.3.95.990208125828.2669A-100000@chass.utoronto.ca>
-Message-ID: <161227046130.23782.18159832746464995331.generated@prod2.harmonylists.io>
-
+ayurveda in Europe?
 On Mon, 8 Feb 1999, Bo Klintberg wrote:
-
-> 1) When was ayurvedic knowledge introduced in Europe?
-
 See Zysk, Medicine in the Veda (Delhi, 1996), pp.261-276, "Bibliographical
 Essay", which is a good historiography of European ayurveda studies.
-
 See also Arion Rosu, Un demi-siecle de recherches ayurvediques: Gustave
 Lietard et Palmyr Cordier, travaux sur l'histoire de la medicine indienne.
 Documents reunis e presentes (Paris, 1989), which has a long and important
 historiographical introduction.  There is a brief but useful summary in
 English.
-
-> 2) Was the knowledge transferred by Arabian scholas (al-Biruni, et al)?
-
 Yes, there were Arabic translations of several major ayurvedic texts.
 These were not very influential, however, with the exception of
 at-Tabari's Firdaws al-Hikma, which was a popular Arabic work written in
 c.850 and gave a longish summary of ayurvedic ideas.  See Manfred Ullmann,
 Islamic Medicine (Edinburgh, 1978), p.20 et passim.
-
-> 3) Does the knowledge in the Ayur-vedic scriptures talk about the
-> circulation of the blood? (i.e. is it possible that Harvey could have
-> gotten the idea from ayurveda?)
-
 No, this is completely impossible.  There is no concept of blood
 circulation in pre-modern Sanskrit texts, ayurvedic or otherwise. The
 metaphors tend to be agricultural: irrigation, ebb and flow, flowing
@@ -39,7 +21,6 @@ descriptions, for example of the ventricles.  Nor is there any awareness
 shown of the crucial question of how the blood gets to the left ventricle
 and into the arterial system (which is also not distinguished in ayurveda
 from the venous system).
-
 These issues were taken up by Islamic scholars in the thirteenth century.
 Ibn-an-Nafis of Damascus, in particular, wrote a commentary on Ibn-Sina's
 al-Qanun in which he made a number of penetrating remarks about the exact
@@ -52,42 +33,27 @@ out of the ventricles separately without crossing through the heart. See
 Ullmann, pp.68f.  In this he was correct, and appears to be the very first
 physician to understand this issue.  His description stops short, however,
 of a full description of blood circulation a la Harvey.
-
 There no evidence that Harvey knew anything whatsoever about ayurveda,
 although it is not impossible that he may have been acquainted with some
 Arabic medical works.  I'm afraid I simply don't know.  It seems very
 unlikely.  Further, the descriptions by Harvey of his own experimental
 work establish beyond reasonable doubt that he developed his ideas
 independently.
-
-> 4) What are the best, from an academic, scholarly, standpoint, books on
-> ayurveda? And where do I find references about transmission issues?
-
 Modesty forbids, of course.
-
 The classic work Indian Medicine by Julius Jolly (1901, Eng. tr. repr.
 Delhi 1977) is still very useful, since it functions as an index to the
 original texts on a wide range of important and well-organized topics.
-
 See also the recently announced History of Indian Medical Literature by G.
 Jan Meulenbeld (Groningen 1999, ISBN 90 6980 124 8) which is extremely
 important, and will revolutionize the field with a mass of new information
 on all aspects of the history of ayurveda.  Five volumes, fl. 1100!  Has
 many passages on transmission issues.
-
 There are many other books that could be mentioned.  See the
 bibliographies to Zysk's Medicine in the Veda, and my Roots.
-
 Best wishes,
-
---
 Dominik Wujastyk
 Wellcome Institute for the History of Medicine
 183 Euston Road
 London NW1 2BE, UK
 FAX: +44 171 611 8545
 http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
-
-
-
-

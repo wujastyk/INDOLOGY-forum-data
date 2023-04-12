@@ -1,9 +1,4 @@
-From selvakum at VALLUVAR.UWATERLOO.CA  Fri Jul  3 15:11:52 1998
-From: selvakum at VALLUVAR.UWATERLOO.CA (C.R. Selvakumar)
-Date: Fri, 03 Jul 98 11:11:52 -0400
-Subject: Sanskrit
-Message-ID: <161227040504.23782.7721273625931050582.generated@prod2.harmonylists.io>
-
+Sanskrit
 @Jacob Baltuch wrote:
 @
 @>[in Drav. langauges?] locatives can be raised to subject position in a
@@ -60,20 +55,13 @@ Message-ID: <161227040504.23782.7721273625931050582.generated@prod2.harmonylists
 @1) nAn avan-ukku oru pustukam ko.tu-tt-E.n
 @2) oru pustukam avan-ukku enn-Al ko.tukkap-pa.t-.t-atu
 @3) * avan oru pustakam enn-Al ko.tukkap-pa.t-.t-An
-
       Why not the following?
-
       mErikku 'John'aal nUl kodukkappattathu.
-
       or
-
       mEri 'John'aal puththakkam peRRaaL(/peRRuk koNDaaL)
-
       If you want to use your example of tamil, the following appears
       okay.
-
       avanukku oru puththakam ennaal kodukkappattathu
-
       (sorry my transliteration scheme is not the same).
 @
 @Hindi
@@ -84,8 +72,6 @@ Message-ID: <161227040504.23782.7721273625931050582.generated@prod2.harmonylists
 @
 @In Tamil some locative phrases can move to subject position in a passive =
 @clause.
-
-
      May be my examples fall under this category ?
 @
 @Example
@@ -107,10 +93,4 @@ Message-ID: <161227040504.23782.7721273625931050582.generated@prod2.harmonylists
 @Netherlands
 @email info at ticonsole.nl
 @http:\\www.ticonsole.nl\books\science\bhasa.htm
-
-
     C.R.(Selva) Selvakumar
-
-
-
-

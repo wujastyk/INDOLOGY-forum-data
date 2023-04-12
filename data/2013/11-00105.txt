@@ -1,30 +1,15 @@
-From hellwig7 at gmx.de  Sun Nov 24 21:08:53 2013
-From: hellwig7 at gmx.de (Oliver Hellwig)
-Date: Sun, 24 Nov 13 22:08:53 +0100
-Subject: [INDOLOGY] dvandvas
-Message-ID: <52926AE5.7070704@gmx.de>
-
+[INDOLOGY] dvandvas
 Dear list,
-
 a very basic question about Sanskrit syntax: Are dvandvas, in 
 traditional Sanskrit grammar, considered to be inherently binary, which 
 means that dvandvas consisting of n>2 words should be bracketed by (n-1) 
 brackets when constructing a dependency tree?
-
 Ex.:
 kaTutiktakashAyaushadha = "a herb that is kaTu, tikta and kashaya"
-
 Should a dependency tree constructed from this expression look like ...
 a. ((((kaTu + tikta)[dvandva] + kashAya)[dvandva]) + aushadha)[...] = 
 "nested" dvandva
 or like
 b. ((kaTu + tikta + kashAya)[dvandva] + aushadha)[...]
-
 Any comment is welcome!
-
 Best regards, Oliver Hellwig
-
-
-
-
-

@@ -1,9 +1,4 @@
-From aklujkar at unixg.ubc.ca  Thu Jul  1 01:20:17 1993
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Wed, 30 Jun 93 18:20:17 -0700
-Subject: Indic sorting, e-texts, earthquakes
-Message-ID: <161227015959.23782.18058277223649048556.generated@prod2.harmonylists.io>
-
+Indic sorting, e-texts, earthquakes
         1.  A while ago there was an inquiry on the Indology network
 regarding a paper in preparation on computerized alphabetic sorting
 according to the order found in Indic scripts. Mr. Wakankar was mentioned
@@ -84,11 +79,3 @@ of a/the Buddha takes place. Perhaps the experts of Buddhist art can
 provide information on where such events are depicted.  A third possibility
 is isolated passages in the Raaja-tara.ngi.nii text series of Kashmir. 
 ..
-
-
- 
-
-
-
-
-

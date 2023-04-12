@@ -1,92 +1,67 @@
-From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Tue Apr 14 15:14:29 2009
-From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
-Date: Tue, 14 Apr 09 17:14:29 +0200
-Subject: Tolkaappiyam & Tolkaappiyan2 (Re: "kaapya-" vs. "kaapeya-" (Re:              Actual use of gotra (=vr.ddha) and yuvan
-In-Reply-To: <eceac9c00904140525m68175cc2r40d14381e1c41ed5@mail.gmail.com>
-Message-ID: <161227085821.23782.7083038634929556952.generated@prod2.harmonylists.io>
-
+Tolkaappiyam & Tolkaappiyan2 (Re: "kaapya-" vs. "kaapeya-" (Re:              Actual use of gotra (=vr.ddha) and yuvan
 Dear Jan,
-
 thanks for you stimulating and thoughtful feedback:
 (<http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0904&L=indology&D=1&O=D&F=P&P=7929>)
-
 Commenting only on your "remarque liminaire" [SEE BELOW],
 I wish to provide more detail on the situation.
-
 *(A)*
 Occurences of the word /k?ppiyam/, where it is an adaptation to Tamil of 
 the Sanskrit word /k?vya/ are met with in Tamil. Nobody denies that.
-
 An obvious example is the expression /aim-peru?-k?ppiyam/ ("the five big 
 k?ppiyam") which certainly emulates the Sanskrit list(s) of 5 /mah?k?vya/-s
-
 That expression is for instance seen inside the commentary by 
 Mayilain?tar (13th cent.) to Na???l 387, inside the enumeration:
 "aimperu?k?ppiyam, e?peruttokai, pattupp???u, pati?e?k??kka?akku"
 which lists, after the 5 big K., the 8 anthologies, the 10 songs and the 
 18 minor works.
-
 The earliest attestation of /k?ppiyam/ (= /k?vya/) in Tamil literature 
 might be inside the Ma?im?kalai (19:80).
-
 *(B)*
 Occurrences of the word /k?ppiya?/, which is the adaptation to Tamil of 
 the Sanskrit /k?pya/, which belongs to the gotra-related vocabulary and 
 which is derived from /kapi/ (as per the discussion which has just taken 
 place) are also found.
-
 For the recent discussion, see 
 <http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0904&L=indology&D=1&O=D&F=P&P=6075>
-
 For an instance (and its interpretation), see the page 172, and the 
 entry /k?ppiyan/ inside the
 /Tami?k Kalve??uc Collakar?ti/ [Glossary of Tamil Inscriptions], 
 compiled by Professor Y. Subbarayalu
 [2 volumes, Santhi Sadhana Trust, Chennai, 2002]
-
 In that glossary, Professor Subbarayalu explains /k?ppiyan/ as /k?ppiya 
 k?ttirattaic c?rntava?/ ("one who belongs to the gotra /k?ppiya/") and 
 gives as an illustration an inscription dated 941, which is precisely 
 the one mentionned by S. Palaniappan in the discussion, and which I have 
 reproduced in the following post:
-
 <http://listserv.liv.ac.uk/cgi-bin/wa?A2=ind0904&L=indology&D=1&O=D&F=P&P=6668>
-
 *(C)*
 The problems starts when one wants to explain the name of the 
 grammatical work called /tolk?ppiyam/.
-
 The traditional view, expressed in all commentaries is that the name of 
 the book /tolk?ppiyam/ is derived from the name of its author 
 /tolk?ppiya?/ (honorific: /tolk?ppiya??r/ ).
-
 As a matter of fact, what also happens is that commentaries often 
 contain a section that explains how books are named and that that 
 derivation is given as one among several examples (just like the grammar 
 /Akattiyam/ is said to derive its name from its author /Akattiya?(?r)/).
-
 On top of that explanation, the name /tolk?ppiya?/ (honorific: 
 /tolk?ppiya??r/ ) is explained as "born in the /k?ppiyak ku?i/" (See 
 Madras Tamil Lexicon, p. 2098), where /ku?i/ is the Tamil equivalent of 
 /gotra/.
-
 One point which remains to be explained is why the component /tol/ is 
 added and this was one of my reasons for trying to understand the inner 
 workings of the opposition /v?ddha/ vs. /yuvan/. And I am aware that my 
 explanation is tentative.
 [Subsidiary question: what does the "pal" component mean inside the name 
 "pal-k?ppiya?" (another grammarian)?]
-
 *(D)*
 As for the "alternative theory", it is found for instance in the section 
 written by Pierre Meile inside L'Inde Classique (1953, Tome II, ? 1904) 
 where he mentions
 "le trait? didactique intitul? le ? Vieux Po?me ?, /Tolk?ppiyam/" and 
 where he sends the reader to the paragraph ?1539.
-
 Inside the /Lexicon of Tamil Literature/ (1995), Kamil Zvelebil writes 
 (on pages 705-706):
-
 <BEGIN QUOTE>
 The name /tol-k?ppiyam/ prob. means "ancient composition" (i.e. DEDR 
 3516 old, ancient + /k?ppiyam/ < Skt. /k?vya-). This etymology is not 
@@ -96,31 +71,14 @@ the name of the book, although different interpretation is possible:
 "the ancient (/tol/) scion of the K?vyas', i.e. members of the /gotra/ 
 of Kavi (cf. /k?ppiyakku?i/ in --> /Cilappatik?ram/ XXX.83 /k?ppiya-t 
 tolku?i/, ancient Brahmin family of K?vya /gotra/ in T?r?r [...]
-
 <END QUOTE>
-
 Although I admire the work of the late Professor Zvelebil, I would have 
 presented the data in the opposite order.
-
 *(E)*
 I suppose the explanation to the confusion is that, as soon as the word 
 /k?ppiyam/, (adaptation of /k?vya/) became current, it became impossible 
 not to think of it while referring to somebody who had the /k?ppiya?/ 
 (derived from gotra "kapi") component in his name. The semantic 
 attraction produced a kind of "popular etymology".
-
 Best wishes
-
--- Jean-Luc Chevillard
-
-
 Jan E.M. Houben a ?crit :
-> Dear Jean-Luc,
-> As for kaappia in Tol-kaappian/-n2 it would still be worthwhile to mention
-> the alternative theory, viz. that it derives from kaavya so that the
-> grammar's name would become "old kaavya".
-> [...]
-
-
-
-

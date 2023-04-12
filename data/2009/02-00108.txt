@@ -1,19 +1,11 @@
-From gruenen at SUB.UNI-GOETTINGEN.DE  Thu Feb 19 09:00:09 2009
-From: gruenen at SUB.UNI-GOETTINGEN.DE (Gruenendahl, Reinhold)
-Date: Thu, 19 Feb 09 10:00:09 +0100
-Subject: "Visit SANSKNET while you can"
-Message-ID: <161227084964.23782.9290583067742049903.generated@prod2.harmonylists.io>
-
+"Visit SANSKNET while you can"
 Apologies for distracting from more important issues, but this may be the
 window of opportunity for all those who know the SANSKNET project only by
 hearsay (or from the numerous links on the GRETIL main page) to actually
 visit the site:
- 
 http://sansknet.ac.in/
- 
 In the last few years it has been more off than on, but yesterday I
 discovered that it is online again. 
- 
 When there, click "Content" to start a tour through a labyrinth of e-texts.
 This is not the place to dicuss the pros (e.g., range of material) and cons
 (encodings, atomization of texts, layout etc.). There are lots of valuable
@@ -22,46 +14,26 @@ use the GRETIL versions provided for many of these texts (with more to
 follow). They have been converted to romanized Unicode (and alternative
 encodings), reformatted, and supplied with additional material, references,
 etc.
- 
 Compare, e.g., the Brhadaranyaka-Upanisad on SANSKNET (special fonts
 required)
 http://sansknet.ac.in/upanishads/shankarabhashya/Brhadaranyakopanishad/index.
 htm
- 
 and the converted version on GRETIL 
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_utf.htm#BrhUp
- 
- 
 Regards
 Reinhold Gr?nendahl
- 
- 
- 
- 
-________________________________________________ 
- 
 Dr. Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 Fachreferat sued- und suedostasiatische Philologien
 (Dept. of Indology)
- 
 37070 Goettingen, Germany
 Tel (+49) (0)5 51 / 39 52 83
- 
 gruenen at sub.uni-goettingen.de
- 
 FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
 In English:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
- 
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
- 
 GRETIL e-library:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm
- 
-
-
-
-

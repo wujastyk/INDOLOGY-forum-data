@@ -1,19 +1,8 @@
-From jkirk at SPRO.NET  Wed Feb 23 17:03:38 2011
-From: jkirk at SPRO.NET (JKirkpatrick)
-Date: Wed, 23 Feb 11 10:03:38 -0700
-Subject: curses
-Message-ID: <161227091592.23782.11202512187429769909.generated@prod2.harmonylists.io>
-
+curses
 A simple question, if I may: in the examples posted by Tim Lubin,
-
 why must the cow be black?
 What is the symbolic motive in the sin of killing a black cow,
 instead
 of any old cow?
- 
 Thanks and best wishes,
 Joanna Kirkpatrick
-
-
-
-

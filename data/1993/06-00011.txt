@@ -1,48 +1,12 @@
-From l.m.fosse at easteur-orient.uio.no  Thu Jun  3 06:01:19 1993
-From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
-Date: Thu, 03 Jun 93 11:01:19 +0500
-Subject: Issues in the creation and dissemination of Sanskrit e-texts
-Message-ID: <161227015853.23782.4037247780533597157.generated@prod2.harmonylists.io>
-
+Issues in the creation and dissemination of Sanskrit e-texts
 The subject of Sanskrit e-texts and grammatical analysis once again:
-
 Dominik writes:
-
-
->2/  It require very significant grammatical knowledge on the part
->    of the typist.
->
->        If the typist and the scholar are identical, as with
->        Peter Schreiner, then you can have large amounts of text,
->        already grammatically analysed.  But this is not commonly
->        the case.  Usually, I believe, a scholar gets a grant to
->        pay someone (a student) to type a text.  In very big
->        transcription projects, the typists may not even know the
->        language they are typing (this was the case with the
->        Greek TLG project, where Greek texts were typed by
->        Phillipino typists who just learned the Greek alphabet.)
->        In that situation, it would slow the project unacceptably
->        to require grammatical analysis as well as transcription.
-
 In my opinion, the world's x-hundred indologists should be able to put
 together a text corpus consisting of 2,000 word samples without the help of
 typists ignorant of Sanskrit. Analysing grammatically and tagging a sample
 of 2,000 words is not an impossible task. 200 indologists delivering one
 sample each would at the end of their travail have a corpus of 400,000
 words available, which is a very good start. 
-
->        It is still very important to have texts transcribed
->        verbatim, without the dissolution of sandhi, compounds,
->        cases and tenses.  I hope that in time it will be
->        possible to semi-automate these tasks.  As I mentioned in
->        my earlier note, Peter already has a substantial list of
->        analysed lemmata, and this list can be used to analyse
->        "samhita" texts.  In classical/Puranic literature, Peter
->        has found that up to 60% of words are common to all
->        texts.  So a semi-automatic analysis by reference to a
->        list (i.e., dictionary-based, as opposed to algorithmic)
->        should have a very substantial impact on the task.
-
 Frankly, I fail to se the advantage of entering texts on a WYSIWYG basis.
 If we just want to *read* the text, it is available in print. If we want to
 analyse it linguistically or otherwise, another text format would in my
@@ -53,20 +17,9 @@ an enormous amount of funding, but there is still no MT system around that
 is even close to perfection. Manual analysis is the low-tech solution - it
 can be done by any reasonably competent Sanskritist, and it is available
 right away.
-
->
->        Secondly, at the Leiden world Sanskrit conference, Aad
->        Verboom demonstrated an algorithmic sandhi analysis
->        program, and a grammatical analysis program.  I don't
->        know what has happened to this effort since then.  But
->        either it can be completed, or someone can do it again.
->        Aad's demonstration at Leiden provided a fully
->        satisfactory proof-of-concept.
-
 I wrote to Aad Verbom half a year ago to inquire about his project. I did
 not receive an answer, but I have heard that it ran into some sort of
 trouble (correct me if I am wrong). 
-
 Once again, a couple of words about the "TUSTEP" format: The interesting
 part is not how you represent the individual characters, but the way you
 enter the text. Words are written separately, sandhi is marked and
@@ -74,7 +27,6 @@ compounds are analysed. The fact that you can use this method for entering
 text without TUSTEP is in my opinion a great advantage. By using TUSTEP,
 you can produce a correct Sanskrit text by means of the king of filters
 made by Peter Schreiner. 
-
 On the other hand, you do not always have to enter texts yourself. By means
 of scanners and optical character reading programs you can scan Sanskrit
 texts into the computer. In Tuebingen I was shown the "Optopus" scanning
@@ -84,28 +36,13 @@ the speciol characters used for printing romanized Sanskrit. I was also
 told that they had taught it how to read devanagari, but that had been a
 rather troublesome process. With larger texts, the program would scan four
 times as quicly as you could type.
-
 But once again: Let's get together and share each other's texts!
-
 Best regards,
-
 Lars Martin Fosse
-
-
 Lars Martin Fosse
 Department of East European
 and Oriental Studies
 P. O. Box 1030, Blindern
 N-0315 OSLO Norway
-
-Tel: +47 22 85 68 48
 Fax: +47 22 85 41 40
-
 E-mail: l.m.fosse at easteur-orient.uio.no
-
- 
-
-
-
-
-

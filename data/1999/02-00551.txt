@@ -1,20 +1,7 @@
-From a018967t at BC.SEFLIN.ORG  Sat Feb 13 08:38:05 1999
-From: a018967t at BC.SEFLIN.ORG (=?utf-8?Q?Aditya=2C_the_=5D-=5Bindu__=24kepti=C2=A2?=)
-Date: Sat, 13 Feb 99 03:38:05 -0500
-Subject: rOman skript (was Re: Word splitting...)
-In-Reply-To: <Pine.SOL.3.96.990212151904.17592w-100000@galileo.ifa.hawaii.edu>
-Message-ID: <161227046259.23782.12991081794765148731.generated@prod2.harmonylists.io>
-
+rOman skript (was Re: Word splitting...)
 On 12 Feb 99,  Narayan S. Raja wrote:
-
-> (why is "Y" different from "y"?)
-
 Unfortunately the computer hardware prices came down too rapidly.
 Had IBM1400 etc with 6 bit characters remained standard for a few more
 years there would remained only capital letters as was the case in 60s.
 With 8bit characters, the inertia set in and it became impossible to get rid of
 the redundancy.
-
-
-
-

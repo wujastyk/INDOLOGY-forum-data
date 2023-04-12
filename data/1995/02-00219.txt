@@ -1,25 +1,17 @@
-From kichenas at math.umn.edu  Sat Feb 25 22:37:35 1995
-From: kichenas at math.umn.edu (kichenas at math.umn.edu)
-Date: Sat, 25 Feb 95 16:37:35 -0600
-Subject: Long vowels in Tamil (Re: CSX)
-Message-ID: <161227018735.23782.9075143143634855246.generated@prod2.harmonylists.io>
-
+Long vowels in Tamil (Re: CSX)
 Regarding the question of transliteration of Tamil raised by
 Dominik W., the distinction between short and long e and o
 is essential, and a macron is generally used for long letters
 in print. For reference, here is the complete Tamil alphabet
 as I would type it on a computer, with indications on 
 systems used in scholarly publications:
-
 Vowels: a A i ii u U e E ai o O au
 Consonants:
         k  c  T t  p R
         ng n~ N n' m n
         y r l v zh L
 Aytam: .h (or h, q)
-
 Note:
-
   1) ii is better than I because I looks like `el' on some terminals.
   2) n' is the dental n, but is less frequent than n
   3) e, o, R, n, zh, L and the Aytam do not exist in Sanskrit
@@ -51,7 +43,6 @@ The sign for the abbreviated Om (found at the beginning of every
 text) would be nice too. 
   8) Some Tamil word processing systems (which can interface 
 nicely with TeX) use other systems.
-
 At any rate, if all scholarly systems for Roman transliteration
 of Tamil must be used, one needs to have access to letters with
 (a) a macron; (b) a line, one or two dots under it; (c) a dot
@@ -59,15 +50,7 @@ over it at least (plus the British pound sign and a c+cedilla
 for some systems). Very old editions used to substitute the 
 circumflex for the macron, as is well-known, but this seems rare
 today.
-
-
                                 Satyanad Kichenassamy
                                 School of Mathematics
                                 University of Minnesota
                                 kichenas at math.umn.edu
- 
-
-
-
-
-

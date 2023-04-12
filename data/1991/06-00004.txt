@@ -1,5 +1,3 @@
->From shakti!anil Thu Mar 14 12:55:06 1991
-To: shakti!betaal!cse!postmaster (IIT/B CSE),
          shakti!betaal!dhruv!postmaster (IIT/B CYBER),
          shakti!betaal!sameer!root (SAMEER),
          shakti!betaal!postmaster (IIT/B CC),
@@ -20,26 +18,20 @@ To: shakti!betaal!cse!postmaster (IIT/B CSE),
          shakti!tifr!root (TIFR CYBER,Bombay),
         shakti!veccal!root (VEC Calcutta), shakti!vigyan!root (IISc Bangalore),
          shakti!vikram!root (DoE,Delhi), shakti!yantra!root (CAIR)
- 
  X-Organization: National Centre for Software Technology, Bombay, INDIA
-Subject: : Site list update
--------------------------------------------------------------------------------
- 
+: Site list update
  Topic: sites
  Document updated:  March 13, 1991
-Subject: : E-mail sites in India
+: E-mail sites in India
 ===============================================================================
  National Centre for Software Technology                  Phone: +91(22)6201606
  Project ERNET                                      Telex: +81(11)78260 NCST IN
  Gulmohar Cross Road # 9, Juhu               E-mail: postmaster at shakti.ernet.in
  Bombay - 400 049, India           InfoServer address: infoserv at shakti.ernet.in
  ==============================================================================
- 
                               SITES IN INDIA
- 
  TOTAL SITES = 46
  ------------------------------------------------------------------------------
- 
    +============== ADDRESSING INDIAN SITES FROM OUTSIDE INDIA ==============+
    |                                                                        |
    |  If you are at a site that can     |   USER at SITE.ernet.in              |
@@ -56,19 +48,15 @@ Subject: : E-mail sites in India
    |         the "!" characters in the mail address.  This can be done by   |
    |         using "\!" in place of "!".                                    |
    +========================================================================+
- 
       Each site is required to have a postmaster who can answer general
       inquiries about users and hosts at that site.
- 
  ------------------------------------------------------------------------------
  SITE        ORGANISATION/INSTITUTION                 UUCP-PATH
  ====        ========================                 =========
- 
  AHMEDABAD:
  iimahd      Indian Institute of Management           shakti!iimahd
  plasma      Institute for Plasma Research            shakti!plasma
  prl         Physical Research Labs                   shakti!prl
- 
  BANGALORE:
  crlbel      Central Res. Lab., Bharat Elec. Ltd.     shakti!crlbel
  cdacb       Centre for Development of Advanced Comp. shakti!cdacb
@@ -79,7 +67,6 @@ Subject: : E-mail sites in India
  vidyut      Indian Inst. of Sci. - EE Department     shakti!vigyan!vidyut
  vidya       Indian Inst. of Sci. - KBCS Group        shakti!vigyan!vidya
  yantra      Centre for AI and Robotics               shakti!yantra
- 
  BOMBAY:
  agni        IG Institute of Development Research     shakti!agni
  betaal      Indian Inst. of Technology - CC I        shakti!betaal
@@ -91,16 +78,13 @@ Subject: : E-mail sites in India
  +shakti     Nat'l. Centre for Software Technology    shakti
  tifr        Tata Institute of Fundamental Research   shakti!tifr
  #tifrvax    Tata Institute of Fundamental Research   shakti!tifrvax
- 
  CALCUTTA:
  bose        SN Bose Natl. Ctr. for Basic Sciences    shakti!bose
  isical      Indian Statistical Institute             shakti!isical
  kbcscal     Indian Statistical Inst. (KBCS Group)    shakti!kbcscal
  veccal      Variable Energy Cyclotron                shakti!veccal
- 
  CHANDIGARH:
  imtech      Institute of Microbial Technology        shakti!vikram!imtech
- 
  DELHI:
  aiims       Biotech Dept., AIIMS                     shakti!vikram!aiims
  cdotd       Centre for Development of Telematics     shakti!vikram!cdotd
@@ -112,34 +96,22 @@ Subject: : E-mail sites in India
  jnuniv      Jawaharlal Nehru Univ., Phy. Sci. Dept.  shakti!vikram!jnuniv
  netearth    Indian Inst. of Technology- CS Dept. II  shakti!vikram!netearth
  vikram      Dept. of Electronics, Govt. of India     shakti!vikram
- 
  HYDERABAD:
  cmch        CMC Limited                              shakti!cmch
- 
  KANPUR:
  kalyan      Indian Inst. of Technology               shakti!vikram!kalyan
- 
  KHARAGPUR:
  iitkgp      Indian Institute of Technology           shakti!iitkgp
- 
  MADRAS:
  imsc        Institute for Maths-Science              shakti!shiva!imsc
  shiva       Indian Inst. of Technology               shakti!shiva
  ssf         Spic Science Foundation                  shakti!shiva!ssf
- 
  PUNE:
  gmrt        Giant Metre-Wave Radio Telescope         shakti!gmrt
  iucaa       Inter-Univ Ctr. for Astronomy & Asphys.  shakti!iucaa
  parcom      Centre for Development of Advanced Comp. shakti!parcom
  unipune     University of Poona, CS Department       shakti!unipune
- 
- 
  + Site(s) connected for "news" and e-mail.
  # Site(s) connected to BITNET as well.
  * indicates problems accessing this site of late.
  =======================================================end of document=======
-
-
-
-
-

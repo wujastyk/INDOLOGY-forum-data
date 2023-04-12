@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Wed Sep 22 20:42:38 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Wed, 22 Sep 99 16:42:38 -0400
-Subject: Sandhis of word-final N
-In-Reply-To: <v02130500b40ee13b38f1@[128.174.233.13]>
-Message-ID: <161227052479.23782.12298185384471435747.generated@prod2.harmonylists.io>
-
+Sandhis of word-final N
 Another feature I have noticed in the execution of this particular sandhi
 in its Paninian/commentarial usage is that the doubling of the final
 dental n is followed more consistently, e.g. san+anta > sannanta.
@@ -17,7 +11,3 @@ is more or less regular.  Perhaps this has to do with the frequencies with
 which these consonants occur in the word-final position in normal
 Sanskrit.  Sorry about the mixed notation above.
                                         Madhav Deshpande
-
-
-
-

@@ -1,17 +1,5 @@
-From se224141 at HOTMAIL.COM  Wed Oct 27 10:44:10 1999
-From: se224141 at HOTMAIL.COM (Kailash Srivastava)
-Date: Wed, 27 Oct 99 10:44:10 +0000
-Subject: Roman Numerals
-Message-ID: <161227053034.23782.5102577458803901825.generated@prod2.harmonylists.io>
-
+Roman Numerals
 Egyptians used 23 symbols to write 986. How many symbols did Romans use to
 write this number?
-
 Thanx/Kailash Srivastava
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

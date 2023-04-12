@@ -1,25 +1,12 @@
-From silk at HUMNET.UCLA.EDU  Mon Jun 18 04:00:46 2007
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Sun, 17 Jun 07 21:00:46 -0700
-Subject: Finding Indological full-book PDFs on Google Books
-In-Reply-To: <4675B16B.5ADE.004A.0@wlu.edu>
-Message-ID: <161227080596.23782.16546236354870792797.generated@prod2.harmonylists.io>
-
+Finding Indological full-book PDFs on Google Books
 Dear  Tim,
-
 Just a quick note: I do understand the logic that something can be 
 better than nothing. But I think the concern is that if one is going 
 to do something, it should be done right (not as much as a 
 philosophical stance as a practical one). And if something is done by 
 Google, even if badly, is it then likely that it will be done later 
 better? Is it not a case of bad coin driving out good?
-
 Then, specifically:
-
->.  I did look at the pages Jonathan mentioned, and although several
->had distortions along the left edge of the pages, they were quite
->legible.
-
 Page 211--left side distorted, but yes, legible
 212: approximately 1/5 of the [right side of the] page missing 
 because it was placed on the scanner at a diagonal--to me, this does 
@@ -27,7 +14,6 @@ not count as 'quite legible'
 213 more or less = 211
 214 --the page was moved during scanning, such that a large part of 
 the right side is indeed not legible.
-
 All of these problems and worse can be found throughout the whole 
 book--at a very rough guess about every second or third page has this 
 type of trouble, which almost systematically leaves part of the text 
@@ -39,15 +25,12 @@ this does not even address the issue of huge portions of some books
 missing, the book scanned not being the book catalogued (e.g., who in 
 the Google group would scan PW when  their records indicate that they 
 already have it? yet, as I said, it is not PW at all...) etc
-
 Sorry--my quick note was not so quick. With this, I'm done with this 
 topic, with the wish that those of us with a professional interest in 
 a relatively narrow field might profitably discuss (in future, in a 
 different forum?) how to prepare the relatively limited corpus of key 
 materials we all are likely to find useful to have on our hard-drives.
-
 JAS
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -58,5 +41,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-

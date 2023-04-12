@@ -1,20 +1,9 @@
-From francois.patte at mi.parisdescartes.fr  Mon Jan 24 16:15:22 2022
-From: francois.patte at mi.parisdescartes.fr (=?UTF-8?Q?Fran=c3=a7ois_Patte?=)
-Date: Mon, 24 Jan 2022 17:15:22 +0100
-Subject: [INDOLOGY] quotation search..
-Message-ID: <f865f625-a5c4-1960-b38e-3f207ced6566@mi.parisdescartes.fr>
-
------BEGIN PGP SIGNED MESSAGE-----
+[INDOLOGY] quotation search..
 Hash: SHA1
-
 Bonjour,
-
 Is this text a quotation of some cosmogonical text:
-
 a??a? hira?maya? madhye... (I can't read what follows)
-
 Thank you.
-
 - -- 
 Fran?ois Patte
 UFR de math?matiques et informatique
@@ -24,11 +13,7 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
------BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
-
 iEYEARECAAYFAmHu0I8ACgkQdE6C2dhV2JX8/gCfXj4CwaZROr3IV1VtP/AM8ed5
 TzUAoKzRPoHUjDtZBtaIXc0PUvqfiU5E
 =0GJN
------END PGP SIGNATURE-----
-

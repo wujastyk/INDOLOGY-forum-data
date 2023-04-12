@@ -1,48 +1,27 @@
-From kellner at IPC.HIROSHIMA-U.AC.JP  Sat Jul  4 17:54:58 1998
-From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
-Date: Sun, 05 Jul 98 02:54:58 +0900
-Subject: Sanskrit
-Message-ID: <161227040561.23782.1047375589044715635.generated@prod2.harmonylists.io>
-
+Sanskrit
 Sandra van de Geer wrote:
-
-> C1 is a bit theoretical; not used in `normal' BBC English. The reason of non-moving/raising etc. is the fact that the loc phrase should have been deprived of the element that makes it a loc phrase if it would function as a subject. In other words, the preposition `into' should be missing. Therefore, C1 is not exactly the same as A (the rev. dumped tea into the ocean) in Deep Structure. `into' in C1 behaves more like a verbal preposition. But this is highly theoretical, especially if we consider the nature of C1.
->
-> We're drifting away from the pre-colonial India
-
 If I may be permitted to drift off a bit more, and to also admit to my
 utter ignorance of English grammar in the process, here's a simple
 question: What precisely ensures that the locative or dative phrase is
 in fact deprived of its defining element? Surely, the presence or
 absence of prepositions cannot be the decisive criterion. Consider
-
 (a) A friend gave the man a book.
 (b) The man was given a book by a friend.
-
 How do I know that "the man" in (b) does NOT function as a dative? In
 the analogous German examples
-
 (c) Ein Freund gab dem Mann ein Buch.
 (d) Dem Mann wurde von einem Freund ein Buch gegeben.
-
 this is easy to figure out because of the definite article "dem", (using
 proper names
 in the examples is not such a good idea, by the way, because this point
 gets obliterated). So the question is: How can it be known that (b) is
 not the exact syntactic equivalent of the German sentence (d), but
 actually exhibits loc raising?
-
 by the way, I also get attachments with all your postings; with filename
 "part 1,2", and filetype "ms-tnef". I tried to open one of these as a
 text-file; it just produces confused characters with "Microsoft Mail"
 printed somewhere in the middle. I'm using Windows 95 with Netscape
 communicator as e-mail software.
-
---
 birgit kellner
 department for indian philosophy
 hiroshima university
-
-
-
-

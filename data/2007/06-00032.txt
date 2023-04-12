@@ -1,10 +1,4 @@
-From magier at COLUMBIA.EDU  Tue Jun  5 16:12:21 2007
-From: magier at COLUMBIA.EDU (David Magier)
-Date: Tue, 05 Jun 07 12:12:21 -0400
-Subject: Halle Mission: really major publication
-In-Reply-To: <20070605T114332Z_AE4F00170000@loc.gov>
-Message-ID: <161227080385.23782.3885377019649697324.generated@prod2.harmonylists.io>
-
+Halle Mission: really major publication
 Of course,for edited volumes and collected works on Asian studies
 (esp. South Asia), full article citations with page numbers, for
 each item in each table of contents, can be found in the online
@@ -13,66 +7,5 @@ subscribe to...  Many libraries also purchase toc data (with page
 numbers) from commercial firms and load them into their individual
 online catalogs, though not necessarily uploaded to national
 utilities like OCLC WorldCat.
-
 David Magier
-
 Quoting Allen W Thrasher <athr at loc.gov>:
-
-> Dear Jonathan,
->
-> LC like a lot of other libraries is often adding t.c.'s nowadays,
-> but I don't know what the policy is on which titles get this
-> treatment or where Cataloging gets the information.  I think it
-> often comes from the publisher or the vendor and is simply cut
-> and pasted online. Likewise the publisher's description of the
-> book and its biographical information on the author (as you would
-> see on the dust jacket) are often available in our OPAC via a
-> link.  You are correct that the Gode t.c.'s were keypunched in by
-> hand at my request.  As you say, the pages numbers in the t.c.'s
-> are seldom available in online catalogs.  Also, I think sometimes
-> t.c.'s are scanned digitally and so the link shows up as an
-> image, not as text in whatever typeface the OPAC uses.
->
-> I will ask around about both policy and practice.
->
-> Allen
->
-> >>> Jonathan Silk <silk at HUMNET.UCLA.EDU> 06/05/07 11:02 AM >>>
->
-> Dear Allen
->
-> Thank you for this valuable information, regarding which, more
-> broadly, I have a question.  You quote a detailed TOC; does LOC
-> usually receive such information? (And I recall that for Prof
-> Gode's
-> collected works you apparently had to ask that the TOC be keyed
-> in.)
-> If so, is there a way of preserving this in the public record
-> somehow? It is my impression that occassionally one finds TOC
-> info in
-> catalogues, but not commonly, and to my (admittedly faulty)
-> memory,
-> never with page numbers. Inclusion of such info would have
-> obvious
-> advantages, especially for those who would want to order a
-> photocopy
-> of a specific page range.
->
-> Just asking--jonathan
->
->
-> --
-> Jonathan Silk
-> Department of Asian Languages & Cultures
-> Center for Buddhist Studies
-> UCLA
-> 290 Royce Hall
-> Box 951540
-> Los Angeles, CA 90095-1540
-> phone: (310) 206-8235
-> fax:  (310) 825-8808
-> silk (at) humnet.ucla.edu
-
-
-
-

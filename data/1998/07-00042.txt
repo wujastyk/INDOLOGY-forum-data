@@ -1,69 +1,18 @@
-From info at TICONSOLE.NL  Sat Jul  4 19:25:09 1998
-From: info at TICONSOLE.NL (T.I. Console)
-Date: Sat, 04 Jul 98 21:25:09 +0200
-Subject: Sanskrit
-Message-ID: <161227040534.23782.737664454528679973.generated@prod2.harmonylists.io>
-
+Sanskrit
 Vidyasankar Sundaresan wrote
-
->1) ta.n.nIr to.t.ti(y)-il niramp-i(y)-atu
->water - tank-LOC - fill-PAST
->2) to.t.ti enn-Al ta.n.nIr-Ati ko.n.tu nirappa-pa.t-.t-atu
->tank me-BY water-WITH fill-PAST-PASS
->
->
->Is 1) considered to be an active construction in Tamil? If so, it
->doesn't presume another agent, does it? It seems to me that sentence 2)
->is not the true passive form of 1). It relies on an additional agent,
->denoted by enn-Al in the passive construction. Another form would be
->
->2a) to.t.ti ta.n.nIr-(in)Al nirampiyatu/nirampi.r.ru.
->
-
 Here you are right. 2 is not meant here as the exact passive copy of 1. In fact, your
 sentence (2a) is a better example. In your example 2a, too, the locative phrase has been
 moved to subject position.
-
->
->Secondly, if 1) is not an active construction in Tamil, the comparison
->is somewhat confusing. The equivalent English sentences are -
->
->A. Water was filled in the tank.
->B. The tank was filled with water.
->
->A and B are both passive constructions, but the locative phrase in A has
->been moved/raised to subject position in B. But isn't this supposed to
->be impossible in IE languages?
-
 This is not the point, as 1) is an active consturction in Tamil. I wrote in a shorter notation here to save time and space on the web, but as you see, the contrary became true. I shoud have said PAST-PNG, or PAST with person-number-gender agreement. It's an active past tense.
-
->Or is it that in IE languages, a locative phrase in an *active*
->construction does not become subject in a *passive* construction? E.g.,
->
->A1. The revolutionaries dumped tea into the ocean.
->B1. Tea was dumped by the revolutionaries into the ocean.
-
 This is true. As you see in your example, ocean cannot be a subject in a passive construction. In Dutch, it seems to be possible, but on closer look the verb then has changed to a medium like one:
-
 1) hij wandelt op de straat
 he - walks - on - the - street
 2) de straat wordt bewandeld
 the - street - is - walked on
-
 That `bewandeld' is not a simple perfect passive form of the active `wandelt' in 1) is seen in the alternative active construction of 1) without the preposition:
-
 1b) hij bewandelt de straat
 he - walks on - the - street
-
 Sandra van der Geer
 Leiden
 NL
 info at ticonsole.nl
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 2464 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980704/756d5ce1/attachment.bin>
-

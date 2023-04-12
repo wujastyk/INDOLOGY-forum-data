@@ -1,24 +1,5 @@
-From wujastyk at GMAIL.COM  Wed Jul 13 12:36:55 2011
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Wed, 13 Jul 11 14:36:55 +0200
-Subject: Rajesh Rao, Computing a Rosetta Stone for the Indus Script
-Message-ID: <161227093116.23782.12413941359607813501.generated@prod2.harmonylists.io>
-
+Rajesh Rao, Computing a Rosetta Stone for the Indus Script
 TED talk, March 2011:
-
 begin quote:
-
-> Rajesh Rao is fascinated by "the mother of all crossword puzzles": How to
-> decipher the 4000 year old Indus script. At TED 2011 he tells how he is
-> enlisting modern computational techniques to read the Indus language, the
-> key piece to understanding this ancient civilization.
-
 end quote.
-
 http://www.ted.com/talks/rajesh_rao_computing_a_rosetta_stone_for_the_indus_script.html
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20110713/6cdb2ed0/attachment.htm>
-

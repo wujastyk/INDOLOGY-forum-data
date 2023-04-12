@@ -1,20 +1,9 @@
-From spmittal at GIASDL01.VSNL.NET.IN  Wed Mar  4 16:50:12 1998
-From: spmittal at GIASDL01.VSNL.NET.IN (Surya P. Mittal)
-Date: Wed, 04 Mar 98 22:20:12 +0530
-Subject: Sanskrit Poetics [::was Availability of 3 books]
-Message-ID: <161227036413.23782.16350686137175509997.generated@prod2.harmonylists.io>
-
+Sanskrit Poetics [::was Availability of 3 books]
 Ref: EME/FI-4163                                Mar 4, 1998
-
 Here is a list of 25 works on Sanskrit Poetics from India.
------------------------------------------------------------------
                 SELECT INDIAN PUBLICATIONS
-
                         ON
-
                    SANSKRIT POETICS
-
-
 1.      Bhattacharya, Bishnupada, 1921-
         New trends in Sanskrit poetics /  Bishnupada Bhattacharya.
         -- 1st ed. -- Dharwad : Prasaranga, Karnatak
@@ -27,7 +16,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         Includes bibliographical references.
         1. Poetics, Sanskrit.
         $1.00 (ubd.)    DK-55935
-
 2.      Dandin, 7th cent.
         [Kavyadarsa. Sanskrit & Tibetan]
         Kavyadarsa = Snan dnags me lon : a bilingual edition of the
@@ -45,7 +33,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit. 2. Sanskrit poetry--History and
         criticism.
         $16.70  DKS-1531
-
 3.      De, Sushil Kumar, 1890-1968.
         Some problems of Sanskrit poetics / Sushil Kumar De. --
         1st ed. -- Calcutta : Firma KLM, 1959, 1981 printing.
@@ -56,7 +43,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics. 2. Sanskrit poetry--History and
         criticism.
         $4.20   DK-24289
-
 4.      Dwivedi, Rewa Prasad, 1935-
         [Kavyalankarakarika. English & Sanskrit]
         Kavyalankarakarika : latest Sanskrit poetics / by Rewa
@@ -70,7 +56,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         considerations of Sanskrit poetics.
         1. Sanskrit poetry--History and criticism. 2. Poetics.
         $2.50   DK-14619
-
 5.      Glimpses of ancient Indian poetics, from Bharata to
         Jagannatha / edited by Sudhakar Pandey, V.N. Jha. --
         1st ed. -- Delhi, India : Sri Satguru Publications, 1993.
@@ -84,7 +69,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics--Congresses.  2. Poetics, Sanskrit--Congresses.
         3. Poetics,  Indic--Congresses.
         $16.70  DK-79959
-
 6.      Gupta, Savitri, 1946-
         Comparative and critical study of Ekavali : contribution
         of Vidyadhara to Sanskrit poetics / by Savitri Gupta ; with
@@ -99,7 +83,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Vidyadhara. Ekavali. 2. Poetics, Sanskrit.
         3. Sanskrit poetry--History and criticism.
         $25.00  DK-76129
-
 7.      Joshi, Natavarlal, 1942-
         Poetry, creativity, and aesthetic experience : [Sanskrit
         poetics and literary criticism] / Natavarlal Joshi ;
@@ -114,7 +97,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         ISBN 81-85133-94-8
         1. Poetics.  2. Sanskrit poetry--History and criticism.
         $20.80  DK-88277
-
 8.      Kane, P. V. (Pandurang Vaman), 1880-1972.
         History of Sanskrit poetics / P.V. Kane. -- Delhi : Motilal
         Banarsidass Publishers, 1994.
@@ -126,7 +108,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit.  2. Sanskrit poetry--History and
         criticism.
         $15.80  DK-89275
-
 9.      Karan, Anita, 1961-
         Pratiharendureja's contribution to Sanskrit poetics / Anita
         Karan. -- 1st ed. -- Delhi : Eastern Book Linkers, 1988.
@@ -138,7 +119,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         ISBN 81-85133-17-4
         1. Pratiharenduraja. 2. Poetics, Sanskrit.
         $4.60   DK-56966
-
 10.     Kulkarni, V. M. (Vaman Mahadeo), 1917-
         More studies in Sanskrit sahitya-sastra / V.M. Kulkarni.
         -- 1st ed. -- Ahmedabad : Saraswati Pustak Bhandar, 1993.
@@ -151,7 +131,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit.  2. Aesthetics, Sanskrit.
         3. Sanskrit literature.
         $20.80  DK-82912
-
 11.     Lahiri, P.C. (Prakas Chandra), 1906-
         Concepts of riti and guna in Sanskrit poetics in
         their historical development / P.C. Lahiri. -- 1st
@@ -166,7 +145,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit. 2. Sanskrit poetry--History and
         criticism. 3. Sanskrit language--Rhetoric.
         $8.30   DK-55883
-
 12.     Misra, Prafulla Kumar, 1954-
         Sanskrit poetics : with contribution of Orissa / Prafulla
         Kumar Misra. -- Delhi : Bharatiya Vidya Prakashan, 1988.
@@ -182,7 +160,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         ISBN 81-217-0037-X
         1. Poetics, Sanskrit. 2. Poets, Sanskrit--India--Orissa.
         $16.70  DK-57269
-
 13.     Mukherji, Ramaranjan, 1928-
         Literary criticism in ancient India / Ramaranjan Mukherji.
         -- 2nd ed. -- Calcutta, India : Sanskrit Pustak Bhandar, 1990.
@@ -192,7 +169,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         3. Aesthetics, Comparative.
         4. Sanskrit literature--History and criticism.
         $25.00  DK-85610
-
 14.     Nagendra, 1915-
         A dictionary of Sanskrit poetics / Nagendra. -- Delhi :
         B.R. Pub. Corp. ; New Delhi, 1987.
@@ -203,7 +179,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         2. Sanskrit language--Dictionaries--English.
         3. Sanskrit poetry--History and criticism.
         $10.40  DK-49364
-
 15.     Panda, P. K. (Pradipta Kumar), 1959-
         Concept of dhvani in Sanskrit poetics : Indian theory
         of suggestion and principles of literary criticism, in
@@ -218,7 +193,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         2. Misra, Madhusudan, 1872-1944. Avadhana.
         3. Poetics, Sanskrit.
         $10.00  DK-57211
-
 16.     Prakrit verses in Sanskrit works on poetics / edited by
         V.M. Kulkarni. -- 1st ed. -- Delhi : B.L. Institute of
         Indology, 1988-
@@ -230,7 +204,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         Vol. 1 (602, 40, 129 p.) rec'd ; to be complete in 2 v.
         1. Prakrit poetry. 2. Poetics, Sanskrit.
         $13.30 (v. 1)   DK-65449
-
 17.     Rajendran, C. (Chettiarthodi), 1952-
         A transcultural approach to Sanskrit poetics / C. Rajendran.
         -- [Calicut] : C. Rajendran, 1994.
@@ -240,7 +213,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit.
         2. Sanskrit poetry--History and criticism.
         $5.00 (ubd.)    DK-91398
-
 18.     Sadhale, Nalini, 1934-
         Katha in Sanskrit poetics /  by Nalini Sadhale. --
         1st ed. -- Hyderabad, A. P., India : Sanskrit Academy,
@@ -254,7 +226,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics. 2. Sanskrit literature--History and criticism.
         3. Prakrit literature--History and criticism.
         $1.30   DK-70871
-
 19.     Schelling, Andrew, 1953-
         Twilight speech : essays on Sanskrit and Buddhist poetics /
         Andrew Schelling. -- Calcutta : Punthi Pustak, 1993.
@@ -266,7 +237,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         3. Buddhist poetry--History and criticism.
         4. Prakrit  poetry--History and criticism.
         $15.40  DK-85792
-
 20.     Sharma, Brahmanand, 1923-
         [Rasalocana. English & Sanskrit]
         Reassessment of rasa theory = Rasalocanam / by Brahmanand
@@ -280,7 +250,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Sentimentalism in literature. 2. Sanskrit poetry--History
         and criticism. 3. Poetics, Sanskrit.
         $5.00   DK-47414
-
 21.      Shastri, Mool Chand, 1930-
         Buddhistic contribution to Sanskrit poetics / Mool Chand
         Shastri. -- 1st ed. -- Delhi : Parimal Publications, 1986.
@@ -291,7 +260,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit. 2. Buddhist poetry, Sanskrit--History
         and criticism. 3. Sanskrit poetry--History and criticism.
         $8.30   DK-48143
-
 22.     Siddhartha, Sundari.
         Post Mammata Sanskrit poetics : as reflected in
         Nanjarajayasobhusana / Sundari Siddhartha. -- Delhi :
@@ -307,7 +275,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         2. Poetics, Sanskrit--Early works to 1800.
         3. Poetics--Early works to 1800.
         $15.00  DK-80675
-
 23.     Sriramachandrudu, P. (Pullela), 1927-
         The contribution of Panditaraja Jagannatha to Sanskrit
         Poetics / P. Sri Ramachandrudu ; foreword by K.
@@ -321,7 +288,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Jagannatha Panditaraja, 17th cent. 2. Poetics.
         3. Sanskrit Poetry--History and criticism.
         $25.00 per set. DK-34762
-
 24.     Swaroop, Sharda, 1925-
         The role of dhvani in Sanskrit poetics / Sharda Swaroop ;
         foreword by P.L. Vaidya. -- Moradabad : Onkar Swaroop, [1984]
@@ -335,7 +301,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics, Sanskrit. 2. Sanskrit poetry--History and criticism.
         3. Rhythm. 4. Sound.
         $6.70   DK-45071
-
 25.     Visvanatha Kaviraja, 14th cent.
         [Sahityadarpana. English].
         The sahitya-darpana, or, Mirror of composition of
@@ -352,10 +317,6 @@ Here is a list of 25 works on Sanskrit Poetics from India.
         1. Poetics.  2. Poetics, Sanskrit.
         3. Sanskrit poetry--History and criticism.
         $29.20  DK-97058
-
--------------------------------------------------------
-
-
 Surya P. Mittal
 e-mailto:surya at pobox.com
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -364,31 +325,7 @@ D.K. AGENCIES (P) LTD.       Fax: (+91-11) 5647081, 5648053
 A/15-17 Mohan Garden         Phones: (011) 5648066, 5648067
 Najafgarh Road               E-mail: dka at pobox.com
 New Delhi - 110 059.         E-mailto:custserv at dkagencies.com
-
            Our Website :     http://www.dkagencies.com
          Online Search :     http://www.dkagencies.com/booksearch
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 Sreenivas Paruchuri wrote:
->
-> Could someone please tell me about the availability of following
-> three titles in India (and/or eventually elsewhere), preferably as
-> Paper-Backs:
->
-> Krishna Chaitanya: Sanskrit Poetics-A critical and comparative Study
-> Friedhelm Hardy:   Viraha Bhakti (OUP, 1980) and
-> N.R. Acharya: Subhaashita_ratna_bhaanDaara (NSP, 1978)
->
-> What about _Hist. of Sanskrit Poetics_ by P.V.Kane and S.K.De
-> (2 separate books!)? Or, are there any better works than the
-> aforementioned ones in the past ~20 years?
->
-> Thanks in advance!
->
-> Regards,                --Sreenivas
-
-
-
-

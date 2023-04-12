@@ -1,75 +1,36 @@
-From witzel at FAS.HARVARD.EDU  Tue Jun 30 13:36:54 1998
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Tue, 30 Jun 98 09:36:54 -0400
-Subject: h, s, s-hacek in Iranian
-In-Reply-To: <199806291806.OAA07699@math.mps.ohio-state.edu>
-Message-ID: <161227040418.23782.10857941037532534627.generated@prod2.harmonylists.io>
-
+h, s, s-hacek in Iranian
 On Mon, 29 Jun 1998, Vidhyanath Rao wrote:
-
-> In Iranian, PIIr *s becomes h, PIE *k' becomes s and the
-> ruki-conditioned s becomes s with hacek.
-
 (1) as is well known,
-
 IE * k'mtom >  Latin centum : Skt. s'ata- (zata-)   Avestan sata- /
 (satem)  e = schwa
 Hence, "Satem languages".
-
 and ruki  is`', us`' etc.
-
 but there are amny other cases.
-
->  Can these three be stuffed into just two phonemes? In particular, can h
-> and s-hacek be considered allophones of a single phoneme in Iranian?
-
 Certainly not. s`' (hacek) has several origins and is carefully
 distinguished from both s and h in Avestan.
-
 (2) s`' (hacek )  <  also from *k's/tk' (Avest. kas`'a/ Ved. kakSa);
 and from ps > wz`';  etc. etc.
 and of course from the ruki cases.
-
 The whole is made more difficult be several sub-dialects of Avestan
 How to write Avestan in a 7-bit scheme?!!
-
 (3)
 In addition there is also palatal s`' '  (hacek plus accent aigu on top)
 which developed from the equivalent of Vedic cy
 i.e. the famous Nirukta case of Kamboja (= East Iranian) s'avati  for
 Young Avestan s`' ' auua(i)ti. ~ Ved. cyavate
-
 In good MSS this is distinguished from simple s`'.
-
-
 (4)  s and h are of course also clearly distinguished.
-
 old *s is is only preserved in some cases (asti = ved. asti, etc.)
-
 All of these various development resulted in phoneme status. No longer
 just simple phonetic allohones of s/h/s`' sounds
-
 This is not just phonetics or a specialty of priestly  recitation
 You cannot substitute these in pairs.
-
-
 We thus have  by now 4 phonemes: s, h s`', s`' ',
-
-
 and one could add the dotted  s`' .  <   rt  (as`'.a ~ ved. Rta) Older
 pronunciation probbaly [hl] (lateral l) as shown in mpers ahlavan for
 Avest. as`',uuan-. Medieval (in India) > s`'.
-
 Plus the xi(i) case from sy, plus ngh < s  in -asa-/AsA- surrounding,
 plus xv  < sv etc etc
-
-
 I sum: many phonemes. Plus  some phonetic variants, mostly due to dialects
-
-
  ==========================================================================
 Michael Witzel                       witzel at fas.harvard.edu
-
-
-
-

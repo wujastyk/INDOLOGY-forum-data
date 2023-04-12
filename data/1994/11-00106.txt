@@ -1,31 +1,13 @@
-From nas_ng at lms420.jsc.nasa.gov  Thu Nov 17 20:58:17 1994
-From: nas_ng at lms420.jsc.nasa.gov (nas_ng at lms420.jsc.nasa.gov)
-Date: Thu, 17 Nov 94 14:58:17 -0600
-Subject: Other UMI databases
-Message-ID: <161227017857.23782.13388543212981629283.generated@prod2.harmonylists.io>
-
-
-
+Other UMI databases
         University Microfilms Inc (UMI) Database
         ----------------------------------------
 As Dr. D. Keown has written, UMI database can be searched
 for any dissertation on Religion, Theology and Philosophy.
 The gopher address is gopher://gopher.umi.com
-
 But is there a way to search the UMI database on doctoral dissertations
 on other subjects of indological interest like art, architecture, 
 language, literature, history, ethonology, arts and crafts, performing arts, 
 etc.,
-
 Any pointers??
-
 N. Ganesan
 nas_ng at lms461.jsc.nasa.gov
-
-
- 
-
-
-
-
-

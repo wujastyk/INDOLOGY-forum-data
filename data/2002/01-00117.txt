@@ -1,27 +1,16 @@
-From sbaums at GMX.NET  Wed Jan 30 20:06:35 2002
-From: sbaums at GMX.NET (Stefan Baums)
-Date: Wed, 30 Jan 02 12:06:35 -0800
-Subject: Is Unicode welcome yet on the list?
-In-Reply-To: <20020124015042.GK16009@deepthought>
-Message-ID: <161227070363.23782.14551906975813238676.generated@prod2.harmonylists.io>
-
+Is Unicode welcome yet on the list?
 Dear list,
-
 please bear with the length of this post.  I am addressing your
 questions re Unicode one by one.
-
 Regarding Valerie Roebuck's concern about the memory requirements of
 Unicode text:
-
    The form of Unicode used on the web and in email is called UTF-8.
    It continues to encode all Western European letters as single
    bytes, and would use 2 bytes for most letters with Sanskrit
    diacritics.  It thus has the exact same memory requirements as
    Harvard-Kyoto ('.n' etc. are also two bytes each).
-
 About those of us using older computers and software (voluntary or
 perforce):
-
    This would seem to be the greatest obstacle.  While it is
    relatively straightforward to update one's home computer to Unicode
    supporting software (any computer running Windows 9x or higher now
@@ -31,22 +20,16 @@ perforce):
    university computer service to upgrade to Unicode-aware program
    versions (the newest versions of Pine, e.g., are, and there is
    always Mutt 1.3.x / 1.4.x (http://www.mutt.org), see below).
-
 Note to Richard Mahoney concerning Mutt:
-
    Mutt 1.3.x and the upcoming 1.4.x have excellent support for
    Unicode.  This requires XFree86 4.x.x and an iconv implementation
    (there's one included in the GNU C library, and for BSD people
    there is a standalone implementation).  I am myself using Mutt.
-
 Note to J?rgen Hanneder concerning Unicode character input under
 GNU/Linux:
-
    I'm using GNU Emacs.  I'll send you my input method offlist.
    Anybody else who wants it, just email me.
-
 About Windows / Macintosh / GNU/Linux:
-
    I find it interesting that the two of you who did report success
    reading my Unicode email were using GNU/Linux.  (So much for
    Microsoft's assertion that free operating systems could never
@@ -56,31 +39,20 @@ About Windows / Macintosh / GNU/Linux:
    recent distributions).  Detailed, somewhat technical instructions
    at http://www.cl.cam.ac.uk/~mgk25/unicode.html, or email me for
    help.
-
    Under Windows, one probably just needs to set the (up-to-date)
    email program's font to one including the proper diacritics.  Arial
    Unicode is fine, or use Andrew Glass's excellent Gandhari Unicode
    font (http://staff.washington.edu/asg/Pages/Fonts.html).
-
    Unicode is possible under Macs, but I don't know the details.
-
 Unicode and the list:
-
    It does not make sense to use Unicode on the list as long as that
    excludes people from reading one's posts.  Unicode is, however, the
    best answer to Indologist encoding needs, so I suggest we discuss
    this issue again in the future.  One could also set up a webpage on
    the Indology site with hints on configuring systems for (the
    Indologically interesting part of) Unicode.
-
 Best regards,
 Stefan Baums
-
---
 Stefan Baums
 Asien-Instituttet
 K?benhavns Universitet
-
-
-
-

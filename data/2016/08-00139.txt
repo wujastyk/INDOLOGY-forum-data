@@ -1,25 +1,8 @@
-From franceschini.marco at fastwebnet.it  Sat Aug 20 16:23:12 2016
-From: franceschini.marco at fastwebnet.it (Marco Franceschini)
-Date: Sat, 20 Aug 16 18:23:12 +0200
-Subject: [INDOLOGY] avagraha and sanskrit meter
-In-Reply-To: <CAATk=rAL9wTpJWQ9cSjBxwpYseUM0=_bYd36gR7EW5Z4d3tdTg@mail.gmail.com>
-Message-ID: <7BA5B26C-80DB-45DD-87F1-E6285228401F@fastwebnet.it>
-
-> The V?jasaneyi Pr?ti??khya mentions that:
-> 
-> sam?se?vagraho hrasvasamak?la? (5.1)
-> 
-> ?In [the padap??ha of] a compound, the avagraha has the same time has a hrasva vowel.?
-
-
+[INDOLOGY] avagraha and sanskrit meter
 The same is stated in the ?gvedapr?ti??khya:
-
 m?tr? hrasva? (1.27) t?vad avagrah?ntaram (1.28): ?A short vowel has one mora. That much is the interval of an avagraha.?
-
 In his commentary Uva?a says: hrasvasvaro m?tr?k?lo devitavya? | yath? a ? i u ? iti |
-
 Best,
-
 Marco Franceschini
 ???????????
 Fixed-term Researcher
@@ -27,63 +10,4 @@ University of Bologna
 Department of History and Cultures
 via Zamboni 33 - 40126 Bologna - Italy
 marco.franceschini3 at unibo.it
----
-
 Il giorno 17/ago/2016, alle ore 03:34, Nityanand Misra <nmisra at gmail.com> ha scritto:
-
-> The V?jasaneyi Pr?ti??khya mentions that:
-> 
-> sam?se?vagraho hrasvasamak?la? (5.1)
-> 
-> ?In [the padap??ha of] a compound, the avagraha has the same time has a hrasva vowel.?
-> 
-> The commentaries of Uva?a and Anantabha??a explain that the ?avagraha? is separation of a compound into its constituent elements:
-> 
-> Uva?a: dvayo? padayo? p?thaggraha?o'vagraha?? n?n?graha ityartha?? hrasvasamak?lo hrasv?k?aratulyak?lo bhavati?
-> Anantabha??a: avagraho n?ma dvayo? padayo? p?thakkara?am? sa ca hrasv?k?arasamak?lo bhavati?
-> 
-> However, this applies to the padap??ha and not to the sa?hit?p??ha. 
-> 
-> Nowadays, the avagraha sign is used to show what is called ak?rapra?le?a. 
-> 
-> In Vedic sa?hit?p??ha or in laukika poetry, the avagraha is not considered a syllable for prosodic purposes.
-> 
-> For more on this, please refer the entry on ?????? (avagraha) in A Dictionary of Sanskrit Grammar by K.V. Abhyankar 
-> 
-> On 17 August 2016 at 05:14, Harry Spier <hspier.muktabodha at gmail.com> wrote:
-> Clarification about my question.  What I meant to ask was  avagraha ever pronounced as a pause and if so was it considered a syllable in Sanskrit metrics.
-> 
-> Thanks,
-> Harry
-> 
-> On Tue, Aug 16, 2016 at 6:12 PM, Harry Spier <hspier.muktabodha at gmail.com> wrote:
-> In Sanskrit meter is avagraha ignored or is it considered as a short syllable?
-> 
-> Thanks,
-> Harry Spier
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-> 
-> 
-> 
-> -- 
-> Nity?nanda Mi?ra
-> http://nmisra.googlepages.com
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160820/4f8f1f9a/attachment.htm>
-

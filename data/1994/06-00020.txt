@@ -1,9 +1,4 @@
-From jhelling at cs.ruu.nl  Mon Jun 20 11:35:49 1994
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Mon, 20 Jun 94 13:35:49 +0200
-Subject: Developments or work in Indian Languages(Hindi) area
-Message-ID: <161227016908.23782.2806470411104784405.generated@prod2.harmonylists.io>
-
+Developments or work in Indian Languages(Hindi) area
   > 
   > Hi, 
   > I got this address from Sally at University of California at Berkeley.
@@ -25,23 +20,12 @@ Message-ID: <161227016908.23782.2806470411104784405.generated@prod2.harmonylists
   >  
   > 
 Hi Ramesh,
-
 This sounds interesting. Maybe you already got a mail from Hein Wagenaar, but
 we are interested to learn more about your software. Please stay in contact,
 or contact Hein at <parikh at rullet.leidenuniv.nl>.
-
 We are a starting up company in Multimedia applications which will be located
 in Ahmedabad.
-
-
--- 
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
 't Zand 2                         Phone: +31-3473-73935 (home)
 4133 TB Vianen                    (18.00--21.00 GMT)
 The Netherlands                   Answer in English, German, or Dutch.
- 
-
-
-
-
-

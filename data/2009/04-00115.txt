@@ -1,34 +1,14 @@
-From kiepue at T-ONLINE.DE  Sun Apr 19 10:01:00 2009
-From: kiepue at T-ONLINE.DE (=?utf-8?Q?petra_kieffer-P=C3=BClz?=)
-Date: Sun, 19 Apr 09 12:01:00 +0200
-Subject: Zeitschriften der DMG digital
-In-Reply-To: <alpine.WNT.2.00.0904182003120.7516@Caraka>
-Message-ID: <161227085909.23782.18061825444465787596.generated@prod2.harmonylists.io>
-
+Zeitschriften der DMG digital
 Am 18.04.2009 um 20:08 schrieb Dominik Wujastyk:
-
->
->
-> Yes, I tried this, but what got saved on the disk was the html  
-> wrapper, without the digital image of the page.  But since you've  
-> had success, there must be some way round it on a PC (winXP) too.
-
 In saving a page one is asked whether one wants to save only the  
 frame, only the text or the whole website, etc.. The page of the  
 respective article is only saved if you choose "complete website". At  
 least that's the way I could save some articles.
-
 Best
 Petra Kieffer-P?lz
-
 **************
 Dr. Petra Kieffer-P?lz
 Wilhelm-K?lz-Str. 2
 99423 Weimar
 Germany
-Tel. 03643/770447
 kiepue at t-online.de
-
-
-
-

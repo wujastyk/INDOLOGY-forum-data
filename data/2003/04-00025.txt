@@ -1,37 +1,20 @@
-From birgit.kellner at UNIVIE.AC.AT  Sat Apr 19 15:18:23 2003
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Sat, 19 Apr 03 17:18:23 +0200
-Subject: Configuring keyboard for Sanskrit transliteration in Linux
-Message-ID: <161227072598.23782.1329228438865620257.generated@prod2.harmonylists.io>
-
+Configuring keyboard for Sanskrit transliteration in Linux
 Dear Colleagues,
-
 this is a fairly technical question, so responses would be probably more
 appropriate off-list.
-
 I'm just starting to migrate from Microsoft Windows to Linux (SuSE), using
 KDE 3.1 as a desktop manager.
-
 How can I customize the keyboard for input of diacritical characters? For
 instance, when pressing Alt + A, I want a long a displayed (Unicode
 encoding).
-
 Preferably this input method should be available in all X-based
 applications.I understand that such information can be entered in Xmodmap,
 but am still uncertain about the proper syntax.
-
 If someone has customized their keyboard to this end and could send me a
 sample Xmodmap file so that I could get a better grasp of the syntax, I
 would be very grateful.
-
 Other suggestions are welcome as well, of course - as I said, perhaps best
 off-list. If others are interested, I could later post a summary of all
 gathered information to the list.
-
 Best regards,
-
 Birgit Kellner
-
-
-
-

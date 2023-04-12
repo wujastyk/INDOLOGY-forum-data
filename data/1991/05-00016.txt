@@ -1,33 +1,17 @@
-From ucgadkw at UK.AC.UCL  Thu May 30 10:37:31 1991
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Thu, 30 May 91 11:37:31 +0100
-Subject: how to sign off INDOLOGY
-Message-ID: <161227015025.23782.2464381256561047931.generated@prod2.harmonylists.io>
-
- 
+how to sign off INDOLOGY
 Status: RO
-
 In response to Patrick's request to be removed from the INDOLOGY
 list, the way to do it is for Patrick to send the message
- 
      SIGNOFF INDOLOGY
- 
 to the address
- 
      LISTSERV at LIVERPOOL.AC.UK
- 
 (or whatever address you ususally use for INDOLOGY, but with "LISTSERV"
 in place of "INDOLOGY", since this is an instruction, not a message to
 everyone).
- 
 Later, to rejoin from a new site, send the command
- 
      SUBSCRIBE INDOLOGY Patrick Olivelle
- 
 to the LISTSERV.
- 
 I thought this might be of general interest.
- 
 ==============================================================================
 There is a lot of helpful documentation available about how the listserv
 software (which is how INDOLOGY works) functions.  It is all sitting on
@@ -35,17 +19,8 @@ the Liverpool machine, and indeed any machine that has the LISTSERV
 system running.  To find out what is available, and how to order it,
 try sending the following commands (but not what's in square brackets) to
 listserv at liverpool.ac.uk:
- 
 HELP         [this gets you some general help]
 INFO ?       [this gets you a list of the documentation files available]
 INFO REFCARD [this gets one of the files, a reference "card" of commands]
 ==============================================================================
- 
 Dominik
- 
- 
-
-
-
-
-

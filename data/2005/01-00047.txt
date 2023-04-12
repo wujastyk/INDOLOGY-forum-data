@@ -1,25 +1,12 @@
-From plamen at ORIENTALIA.ORG  Tue Jan 18 11:19:58 2005
-From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
-Date: Tue, 18 Jan 05 13:19:58 +0200
-Subject: Sanskrit Google
-Message-ID: <161227075756.23782.3427531675706114644.generated@prod2.harmonylists.io>
-
-> UTF-8 ???????? works, too.  Amazing.  I've come across
+Sanskrit Google
 http://sa.wikipedia.org/wiki/  (Sanskrit version of Wikipedia) that
 way.
-
 Here is the Indology fork of sa.wikipedia.org, containing excerpts from
 original Sanskrit works, like this
 http://deva.indopedia.org/Bhasya_101.html
-
 The problem is that Wikipedia works properly only with Code2000
 Even the TITUS fonts are failing to reproduce correctly the Sanskrit texts.
 Please, advise what font to install on Windows for covering both Devanagari
 and ALL diacritics.
-
 Thanks,
 Plamen
-
-
-
-

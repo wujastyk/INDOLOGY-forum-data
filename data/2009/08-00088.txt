@@ -1,17 +1,7 @@
-From glhart at BERKELEY.EDU  Thu Aug 27 14:00:25 2009
-From: glhart at BERKELEY.EDU (George Hart)
-Date: Thu, 27 Aug 09 07:00:25 -0700
-Subject: TimesIndian on the Mac -- new keyboard driver
-In-Reply-To: <4A967E66.5070004@uni-muenchen.de>
-Message-ID: <161227087475.23782.3923199166258081926.generated@prod2.harmonylists.io>
-
+TimesIndian on the Mac -- new keyboard driver
 Some on this list may use TimesIndian, a system for writing Indian  
 diacriticals for the Mac that I developed many years ago.   
 Unfortunately, the keyboard driver, which was developed on OS 9 and  
 has worked until now, is broken in Snow Leopard.  I have a new driver  
 (to be put in /Library/Keyboard Layouts) that works under SL.  If  
 anyone needs it, send me an email (glhart at berkeley.edu).  George Hart
-
-
-
-

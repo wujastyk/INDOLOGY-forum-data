@@ -7,4 +7,3 @@ part of the world, represented since 1993 in the International
 TUSTEP User Group (ITUG). Reports on important projects relying
 on TUSTEP and a list of publications (includig lexicograpic
 works and critical editions) can be found on the tustep webpage.
-

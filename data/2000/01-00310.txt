@@ -1,28 +1,14 @@
-From witzel at FAS.HARVARD.EDU  Tue Jan 18 17:11:24 2000
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Tue, 18 Jan 00 12:11:24 -0500
-Subject: Dating the Veda: Using the Horse and Planets
-In-Reply-To: <INDOLOGY%2000011812181018@LISTSERV.LIV.AC.UK>
-Message-ID: <161227055375.23782.8353417618352397560.generated@prod2.harmonylists.io>
-
-> Do languages of NW (including Gujarat, Sindh) reliably distinguish
->between the
->ass/donkey (Equus asinus) and the hemione (E heminous), subspecies Khur?
->[Sanskrit doen't seem to.]
-
+Dating the Veda: Using the Horse and Planets
 Of course it does:
-
 * horse = azva (Avest. aspa) (and many poetic names such as arvant, vaajin,
 haya etc.)
 * ass/donkey =  khara (Avest. xara), gardabha (cf. EJVS 1999), rAsabha (RV)
 * hemione/wild ass/onager  = parasvat- RV, AV++ (both in connection with
 sex, as typical for the ass until today... study Indian abuse terms!
 gardabha > Panj. ... gadhA etc, etc.); cf. also  VadhS.  gaura (below)
-
 * A mule, offspring of  donkey & horse, is azvatara ('more on the side of
 the horse'):  why this name if there was no difference between horse and
 donkey as has been maintained in a recent email??
-
 The hemione may also be mentioned in VadhB (Soma section)  by gaura 'pale,
 whitish', which fits the color of the wild ass/hemionus/onager quite well.
 It occurs in a list of animals, always of lower quality, next to the 5
@@ -31,15 +17,11 @@ azva horse, gaura "?";
 gauH cow, gavaya (wild buffalo, bos gavaeus),
 avi sheep, uSTRa camel (!)
 aja goat, zarabha (any horned wild animal)
-
 The dictionaries, of course, take gaura as wild buffalo as well; -- in need
 of detailed investigation...
-
 ***
-
 Modern languages are  quite another point. Some 3000 ++ years time
 difference. e.g., most have substituted Skt. ghoTaka for azva... etc.
-
 Horse:
 Avestan: aspa
 NW:     asp already in Alexander's biographers);
@@ -51,7 +33,6 @@ ghoRa etc (later Vedic, Skt. ghoTaka) for older azva:  W/E. Panj.  ghoRa
 etc.
 Sindhi: ?
 Gujarati:       ghoRA;
-
 Donkey:
 Avestan:        xara; Skt. khara, gardabha
 NW      kur, korU (Nuristani), Dardic :  khAr etc.; gadA, gada(Ro)
@@ -59,38 +40,20 @@ Panjabi:        khar; gadhA
 Sindhi:         kharu, ?
 Gujarati:       khar, gaddho
 etc. etc.
-
 Hemione/Onager/wild ass:
 parasvant-, apparently not retained in modern languages which have  khor...
 , probably from Skt. khara, but -o- would rather point to Skt. *khaura! ---
 probbaly a mix (cross) of Skt. khara and gaura > gor-  (as in Sindhi goro,
 Panj. gorA 'whitish etc.').
 (cf.also Late Ved. khora 'lame'??? -- as a term of abuse)
-
-> (1) E. asinus is native to North Africa and neighboring parts of Asia;
-> (2)All domestic donkeys seem to be E. asinus;
-> (3) E. heminous is native to Iran and NW India ... but never
->seems to have been domesticated.
-
 What about the hemione (onager) in Iran/Mesopotamia? It *was* used as
 draught animal early on. But given up when the horse was introduced from
 the north early in the 2nd mill. BCE.
-
->Note that any reference to wild asses in India must be to the Khur.
-
 If hemionus is intended.  Details/Summary  in R. Meadow 1999 (The
 Transition to Agriculture in the Old World. The Review of Archaeology
 (Special Issue ed. by Ofer Bar-Yosef) 19, 1998, 12-21 with earlier
 references).
-
-> Herodotus must be saying that Indians in Darius' army used
-> hemiones (also) to draw chariots.
-
 Indeed, Her. 7. 86 has: hippoi kai onoi agrioi 'horses and wild donkeys' as
 draught animals -- a study of  the Greek term is asked for ... Any
 possessors of the Greek thesaurus CD ?? -- Strange for this period. The
 Veda++ often talks of mule chariots...
-
-
-
-

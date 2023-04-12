@@ -1,45 +1,23 @@
-From buescher at HUM.KU.DK  Wed Mar 17 16:40:29 2004
-From: buescher at HUM.KU.DK (Hartmut Buescher)
-Date: Wed, 17 Mar 04 17:40:29 +0100
-Subject: Sanskrit syntax problem: Double bind constructions
-Message-ID: <161227074166.23782.17043400002283652214.generated@prod2.harmonylists.io>
-
+Sanskrit syntax problem: Double bind constructions
 With many thanks to both Ashok Aklujkar and Harunaga Isaacson, 
 I am forwarding the following exchange to the list. HB
-
-
-
 Dear Mr. Buescher, 
-
 At Prof. Aklujkar's suggestion, I forward you the following e-mail he wrote,
-
 which may if it seems fitting to you be posted/forwarded further to
 INDOLOGY. 
-
 With best wishes, 
-
 Harunaga Isaacson 
-
-
 [clip]
-
 Dear Haru, 
-
 I think the following will serve to clarify the issues further. If you 
 agree, pl forward the following text to <buescher at HUM.KU.DK>. 
-
 Thanks and best wishes. 
-
 ashok 
-
-
 Dear Mr. Buescher, 
-
 The following additional observations were made in two off-line exchanges 
 between Prof. Harunaga Isaacson and myself. With HI's agreement, I suggest 
 that you should post them on the? Indology list in the interest of 
 clarifying the issues further. 
-
 AA: Could you cite some passages where si.mhaavalokita-nyaaya or 
 simhaavalokana-nyaaya is actually used for a simultaneous two-way (backward 
 and forward) connection rather than for a connection only with what 
@@ -48,51 +26,36 @@ precedes? Also, does such a backward connection always deal with syntax
 [behind my asking these questions] is that if the si.mhaavalokita-nyaaya 
 matches the double bind (syntactic) construction phenomenon exactly, I need 
 not use the Skt name I suggested in 1991. 
-
 AA: Incidentally, according to Miimaa.msaa-ko;sa vol 7, p. 4324. lokana is 
 the form in Bhuvane;sa-nyaaya-saahasrii and lokita in 
 Bhaa.?.?a-cintaa-ma.ni. 
-
 HI: No doubt the si.mhaavalokita-/simhaavalokana-nyaaya should be studied 
 more carefully. We can distinguish between different usages of it, I think. 
 Here is however an instance where it appears to be explicitly used in a case
-
 of syntactic connection with both what precedes and what follows: in an 
 attempt to avoid the first of 3 do.sas which some have found in 
 Kiraataarjuniiya 1.1 (the three are that there is no nominative referring to
-
 the agent of ayu"nkta in b, that vidita in c is apparently active (kartari) 
 not passive (karma.ni), and that there is punarukti in the expression 
 dvaitavane vane in d), the learned and ingenious commentator Vidyaamaadhava 
 [around 1200 AD according to PK Gode] writes i.a.: uttaraardhaadau sthita.m 
 sa iti pada.m si.mhaavalokitanyaayenordhvam adha"s ca sambadhyate. 
-
 HI: By the way, the expression dehaliidiipanyaaya is used by 
 Hariva.m"sa"sarma (a commentator on the Suurya"sataka) to describe the 
 connection of vaasarasya with both the preceding praarambhe and the 
 following vyuparatisamaye in Suurya"sataka 3. 
-
 HI: kaakaak.sinyaaya or kaakaak.sivat (or, though I believe less commonly 
 attested, kaakaak.sigolakanyaaya) are also expressions that should be taken 
 into consideration, certainly. 
-
 AA: The Kiraataarjuniiya 1.1 instance is indeed syntactic. The only 
 difference from the situation I addressed is that veditum intervenes in the 
 puurvaardha connection of sa.h with ayu:nkta and var.ni-li:ngii vidita.h 
 intervene in the uttaraardha connection of samaayayau. 
-
 AA: Glad to find that someone (long ago?) thought along the same lines as I 
 did. The greater appropriateness in using the dehaliidiipanyaaya is that it 
 captures the feature of there being only one divider (dehalii) or only one 
 item at the juncture of two words and the feature that this intruder relates
-
 to or illumines (diipa) both the words simultaneously. 
-
 HI: I agree with you that dehaliidiipa is in some respects a more 
 appropriate expression. 
-
 a.a 
-
-
-
-

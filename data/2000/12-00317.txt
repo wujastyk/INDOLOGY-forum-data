@@ -1,19 +1,5 @@
-From rohan.oberoi at CORNELL.EDU  Sat Dec 16 14:21:35 2000
-From: rohan.oberoi at CORNELL.EDU (rohan.oberoi at CORNELL.EDU)
-Date: Sat, 16 Dec 00 09:21:35 -0500
-Subject: publication of IASS papers on CDROM
-Message-ID: <161227065511.23782.662787749762542928.generated@prod2.harmonylists.io>
-
+publication of IASS papers on CDROM
 Robert Zydenbos wrote:
-
->If you work with Linux or FreeBSD, the Acrobat writer software is not
->even necessary for producing PDFs. You write your text (with
->StarOffice, TeX, anything), but instead of printing it on paper you
->print it to a PostScript file. With the free program "ps2pdf" this
->can be converted to the PDF format.  In that other discussion, it was
->mentioned that also under Windows it should be possible to generate
->PDF's using the LaTeX distribution for Windows called 'MikTeX.'
-
 Robert, you don't need Linux or FreeBSD to print to PostScript or
 convert that to PDF.  On Windows, you can install a local printer
 entry (choosing the Apple LaserWriter or the HP LaserJet 4/4M PS
@@ -22,19 +8,11 @@ printing to this phantom printer from any application.  The file will
 be created as a .PRN file, but it's really a .PS file which the ps2pdf
 utility (available for Windows as part of GhostScript, from
 www.cs.wisc.edu/~ghost) will happily convert to PDF.
-
 1.  You can also choose FILE: instead of LPT1: when installing the
     printer entry, but I think the file dialogue it then gives you is
     less capable;
-
 2.  I haven't tried this on a Mac, though -- has anyone?
-
 3.  Of course, if you have the money and don't want the aggravation,
     you may as well just buy Acrobat.
-
 Regards,
 Rohan.
-
-
-
-

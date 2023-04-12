@@ -1,19 +1,8 @@
->?From P.Friedlander at wellcome.ac.uk 04 95 Jul EDT 17:28:00
-Date: 04 Jul 95 17:28:00 EDT
-From: P.Friedlander at wellcome.ac.uk
-Subject: Nastaliq script
-Reply-To: P.Friedlander at wellcome.ac.uk
+Nastaliq script
 Mime-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII
-
 Dear Members,
 Does anyone know of any ATM type 1 fonts for Nastaliq script? It is not hard 
 to get fonts for Naskh script but I am looking for something to write Urdu 
 in and wonder what resources there are available.
 Peter Friedlander
- 
-
-
-
-
-

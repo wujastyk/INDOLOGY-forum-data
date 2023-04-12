@@ -1,9 +1,1 @@
-From ucgadkw at UK.AC.UCL  Mon Jul 20 09:39:58 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Mon, 20 Jul 92 10:39:58 +0100
-Subject: Velthuis Devanagari fonts for Macintosh TeX (OzTeX)
-Message-ID: <161227015440.23782.4535528665099249428.generated@prod2.harmonylists.io>
-
-
---- Forwarded mail from Stephen Miller <STEPHEN at uk.ac.oxford.vax>
- 
+Velthuis Devanagari fonts for Macintosh TeX (OzTeX)

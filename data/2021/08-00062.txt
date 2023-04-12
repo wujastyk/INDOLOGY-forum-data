@@ -1,51 +1,15 @@
-From jonas.buchholz at sai.uni-heidelberg.de  Tue Aug 24 15:24:10 2021
-From: jonas.buchholz at sai.uni-heidelberg.de (Jonas Buchholz)
-Date: Tue, 24 Aug 2021 17:24:10 +0200
-Subject: [INDOLOGY] question about Tamil
-In-Reply-To: <312b8658fcc0491bbabc2674fa889fef@hum.leidenuniv.nl>
+[INDOLOGY] question about Tamil
 References: <312b8658fcc0491bbabc2674fa889fef@hum.leidenuniv.nl>
-Message-ID: <884f72c7-3394-407e-1286-93a2694a5776@sai.uni-heidelberg.de>
-
 Dear Herman,
-
-
 the Chicago electronic version of the Tamil Lexicon 
 (https://dsal.uchicago.edu/dictionaries/tamil-lex/) has a "words ending 
 with" function. By using this function, quite a lot of nouns ending in 
 -i? can be found. Many of them are obscure, but at least the words ????? 
 vayi?, "place", and ????? kavi?, "beauty", are well attested in 
 classical Tamil.
-
-
 Best regards,
 Jonas
-
-
 Am 24.08.2021 um 16:26 schrieb Tieken, H.J.H. via INDOLOGY:
->
-> Dear List members, or in particular those interested in Tamil,
->
->
-> I would like to know if there is a "reverse" (r?ckl?ufiges)?dictionary 
-> of Tamil. I am looking for free?nouns ending in -/i//? /(thus not 
-> /ni?/, the oblique of the second person singular pronoun).
->
-> Herman.
->
->
-> Herman Tieken
-> Stationsweg 58
-> 2515 BP Den Haag
-> The Netherlands
-> 00 31 (0)70 2208127
-> website: hermantieken.com <http://hermantieken.com/>
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
-
--- 
 Dr. Jonas Buchholz
 Research Fellow, DFG project "Temple Networks in Early Modern South India"
 Heidelberg University
@@ -53,10 +17,4 @@ South Asia Institute
 Department of Cultural and Religious History of South Asia
 Vo?stra?e 2, Building 4130
 69115 Heidelberg, Germany
-
 https://www.sai.uni-heidelberg.de/abt/IND/en/mitarbeiter/buchholz/buchholz.php
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210824/abc584ff/attachment.htm>
-

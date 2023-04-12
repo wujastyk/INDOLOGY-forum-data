@@ -1,22 +1,4 @@
-From magier at columbia.edu  Fri Jan 20 20:53:05 1995
-From: magier at columbia.edu (David Magier)
-Date: Fri, 20 Jan 95 15:53:05 -0500
-Subject: Yano' program
-Message-ID: <161227018271.23782.13184344560295980459.generated@prod2.harmonylists.io>
-
-> I just downloaded Prof. Yano's program from the Kyoto site. However, it
-> seems that I need a program called uudecode for the PC to decode the binary
-> file. Being a Mac user, I have access to uudecode for the Mac, which
-> apparently will not do the trick.
-
+Yano' program
 Have you tried uu-lite (Mac)? It is available by anonymous ftp from
 nic.switch.ch  in the path  /mirror/info-mac/cmp
-
 David Magier
-
- 
-
-
-
-
-

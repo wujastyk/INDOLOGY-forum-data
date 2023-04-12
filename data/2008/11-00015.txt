@@ -1,13 +1,7 @@
-From athr at LOC.GOV  Thu Nov  6 22:29:09 2008
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 06 Nov 08 17:29:09 -0500
-Subject: Corpus topographicum Indiae antiquae : complete in 2 vols.?
-Message-ID: <161227083880.23782.2221935587422762407.generated@prod2.harmonylists.io>
-
+Corpus topographicum Indiae antiquae : complete in 2 vols.?
 The catalog record for this book seems to indicate, by the angle
 brackets and space after 1990 and 1-2, that the catalogers thought that
 more vols. beyond vol. 2 were to be expected:
-
 LC Control No.:       75513010 
 Main Title:        Corpus topographicum Indiae antiquae : a sodalibus
                       Universitatis Gandavensis et Universitatis
@@ -17,19 +11,12 @@ Published/Created: Gent : Universitas Gandavensis, 1974-<1990   >
 Description:       v. <1-2   > : maps (some col.) ; 31 cm.
 pt. 1. Epigraphical find-spots / by R. Stroobandt -- pt. 2.
 Archaeological sites / by G. Pollet, P. Eggermont & G. van Damme.
-
-
 It is now 18 years since vol. 2, no other vols. appear in WorldCat, and
 the title appears to be o.p.  Does anyone know if the work is now
 complete, even more vols. were intended?  If so, I will get the catalog
 record changed.
-
 Thanks,
-
 Allen
-
-
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Team Coordinator
@@ -40,7 +27,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library
 of Congress.
-
-
-
-

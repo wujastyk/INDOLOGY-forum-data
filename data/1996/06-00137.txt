@@ -1,52 +1,32 @@
-From WIKNER at nacdh4.nac.ac.za  Thu Jun 27 13:44:24 1996
-From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
-Date: Thu, 27 Jun 96 15:44:24 +0200
-Subject: ANNOUNCE: Sanskrit Introductory via ftp
-Message-ID: <161227025179.23782.18316250689516555442.generated@prod2.harmonylists.io>
-
-
+ANNOUNCE: Sanskrit Introductory via ftp
 An introductory course to the Sanskrit language is now available
 by anonymous ftp from ftp.nac.ac.za/wikner/
-
 It is a 155 page 600-dpi Postscript file suitable for double-sided
 printing on a4 or letter size paper.
-
    ( The a4paper version prints happily on an HPLJ4+ with duplex 
      option; the adjusted margins for the letter paper version are 
      estimates only -- perhaps someone will inform me of errors?  )
-
 To give an idea of what is covered in this course, an ASCII 
 version of the Preface and Contents pages are appended below.
-
 BEWARE: there is a very thin piece of wire to South Africa, 
         and it is stretched rather taut, so the best time to
         ftp would be Sunday morning local time (GMT+2:00).
-
 The files are:
-
 sktintro.ps600-a4paper-june96         (9206k)
 sktintro.ps600-a4paper-june96-zip      (980k) - remember to set TYPE to BINARY
-
 sktintro.ps600-letter-june96         (9207k)
 sktintro.ps600-letter-june96-zip      (981k) - remember to set TYPE to BINARY
-
 Enjoy!
-
 Charles Wikner.
 wikner at nacdh4.nac.ac.za
 27-June-1996
-
         . . . . . . . . . . . . . . . . . . . .
-
-
 PREFACE
-
 This course of fifteen lessons is intended to lift the 
 English-speaking student who knows nothing of Sanskrit, 
 to the level where he can intelligently apply 
 Monier-Williams' dictionary(1) and the Dhaatu-Paa.tha(2) 
 to the study of the scriptures.
-
 The first five lessons cover the pronunciation of the basic
 Sanskrit alphabet, together with its written form in both
 Devanaagarii and transliterated Roman: flash cards are 
@@ -63,7 +43,6 @@ of alphabetical order, and suggest strategies for finding
 difficult words. The last lesson shows the extraction of the
 artha from the Dhaatu-Paa.tha, and the application
 of this and the dictionary to the study of the scriptures.
-
 In addition to the primary course, the first eleven lessons 
 include a `B' section which introduces the student to the 
 principles of sentence structure in this fully inflected language. 
@@ -71,66 +50,44 @@ Six declension paradigms and class-1 conjugation in the present
 tense are used with a minimal vocabulary of nineteen words. 
 In the `B' part of lessons ten and eleven the principles of
 compound words are introduced.
-
 The course aims at a practical _understanding_ of the basic
 principles, at getting a `feel' for the language, and not a 
 learning of rules by rote. To this end, each lesson concludes with
 exercises for the student to put that understanding into practice:
 answers to the exercises are presented in an appendix.
-
         . . . . . . . . . . . . . . . . . . . .
-
-
 The pronunciation offered in these lessons is optimised for the 
 English-speaking student to _understand_ the underlying 
 principles of sandhi (sound changes). 
-
 There are several variations in the pronunciation of some of the
 Sanskrit sounds, that have been handed down over generations.
 None of these traditions are wrong, although this may confuse the
 mind trained to think in terms of opposites, of right and wrong.
 Consider the English spoken in Britain and America for example:
 they are certainly different, but neither is wrong.
-
 Where there is a variation in the form of a character these lessons 
 standardize on the form that is most commonly used in currently 
 available printed editions of the Bhagavad Giitaa and Upani.sads.
 The common variations are illustrated in the ninth lesson.
-
         . . . . . . . . . . . . . . . . . . . .
-
-
 In the English-speaking world there is currently little appreciation 
 of the value of studying formal grammar: as a result it has become 
 unpopular, and many schools have ceased to teach it. In view of this 
 situation, an appendix of basic English grammatical terms is included.
-
         . . . . . . . . . . . . . . . . . . . .
-
-
 (1) Monier-Williams Sanskrit-English Dictionary is currently published 
     by Motilal Banarsidass in India and Oxford University Press in 
     England: although the two are printed from the same plates, the 
     latter is far superior in the quality of printing, paper, and 
     binding -- and this is reflected in its higher price.
-
 (2) The edition of the Dhaatu-Paa.tha referred to in these 
     notes is that edited by J.L.Shastri and published by Motilal 
     Banarsidass: it is a small book and quite inexpensive.
-
         . . . . . . . . . . . . . . . . . . . .
-
-
-
-
 CONTENTS
-
 Preface .................................................................... iii
- 
 Contents ...................................................................   v
-
 Invocation .................................................................  ix
-
 LESSON 1 ...................................................................   1
 A.1. Vowel Measures                   B.1. The Concept of Dhaatu
 A.2. Sanskrit Pronunciation           B.2. Introduction to Verbs
@@ -140,13 +97,11 @@ A.5. The Compound Vowels: e ai o au
 A.6. Summary of All Vowels
 A.7. The Sixteen "Sakti: a.m a.h
 A.8. Practicing the Alphabet
-
 LESSON 2 ...................................................................  13
 A.1. The Five Mouth Positions         B.1. More on Verbs
 A.2. The Twenty-Five Stops: ka to ma  B.2. Exercises
 A.3. Pronunciation of the Stops
 A.4. Devanaagarii Alphabet
-
 LESSON 3 ...................................................................  21
 A.1. The Four Semi-Vowels: ya ra la va  B.1. More on Verbs
 A.2. The Three Sibilants: "sa .sa sa  B.2. Introduction to nouns
@@ -154,22 +109,18 @@ A.3. The Final Consonant: ha          B.3. Exercises
 A.4. Summary of the Consonants
 A.5. The Alphabetical Order
 A.6. Devanaagarii Alphabet
-
 LESSON 4 ...................................................................  31
 A.1. Devanaagarii Alphabet            B.1. Summary of Verbs
                                       B.2. More on Noun Cases
                                       B.3. Exercises
-
 LESSON 5 ...................................................................  37
 A.1. Devanaagarii Alphabet            B.1. More on Noun Cases
                                       B.2. Exercises
-
 LESSON 6 ...................................................................  45
 A.1. Vowels after Consonants          B.1. Sentence Structure: English and Sanskrit
 A.2. History of Vowel Embellishment   B.2. Noun Gender
                                       B.3. Summary of Case Information
                                       B.4. Exercises
-
 LESSON 7 ...................................................................  53
 A.1. Halanta Consonants               B.1. Verbal Prefixes
 A.2. Conjunct Consonants              B.2. Exercises
@@ -177,41 +128,35 @@ A.3. Special Conjuncts k.sa and j~na
 A.4. Pronunciation of k.sa
 A.5. Pronunciation of j~na
 A.6. List of Conjunct Consonants
-
 LESSON 8 ...................................................................  63
 A.1. Special Symbols                  B.1. More Noun Declensions
 A.2. Savar.na                         B.2. Adjectives
 A.3. Nasal Substitution for Anusvaara B.3. Adverbs
 A.4. Devanaagarii Numerals            B.4. Vocabulary Summary
                                       B.5. Exercises
-
 LESSON 9 ...................................................................  71
 A.1. Vowels Accents                   B.1. Types of Words
 A.2. Variations in Devanaagarii Alphabet  B.2. Use of iti
 A.3. Variations in Sa.myoga           B.3. Exercises
 A.4. Revision
-
 LESSON 10 ..................................................................  77
 A.1. Introduction to Sandhi           B.1. Introduction to Compound Words
 A.2. Gu.na and V.rddhi                B.2. Joining Words in Writing
 A.3. Vowel Sandhi                     B.3. Exercises
 A.4. Exceptions to Vowel Sandhi
 A.5. Samprasaara.na
-
 LESSON 11 ..................................................................  85
 A.1. Visarga Sandhi                   B.1. Dvandva Samaasa
 A.2. Consonant Sandhi Grid            B.2. Tatpuru.sa Samaasa
 A.3. Internal Sandhi                  B.3. Avyayiibhaava Samaasa
                                       B.4. Bahuvriihi Samaasa
                                       B.5. Exercises
-
 LESSON 12 ..................................................................  91
 1. Monier-Williams Dictionary
 2. Alphabet and Transliteration
 3. Fundamental Structure
 4. Page Heading Words
 5. Dictionary Practice
-
 LESSON 13 ..................................................................  97
 1. Words beginning with Sa-
 2. Structure of Devanaagarii level
@@ -221,7 +166,6 @@ LESSON 13 ..................................................................  97
 6. Significance of Hyphen and Caret Symbols
 7. Supplement to the Dictionary
 8. Dictionary Practice
-
 LESSON 14 .................................................................. 103
 1. Tracing a Word to its Dhaatu
 2. Dhaatu Entry Information
@@ -229,7 +173,6 @@ LESSON 14 .................................................................. 103
 4. Misleading Words
 5. Difficult Words
 6. Dictionary Practice
-
 LESSON 15 .................................................................. 109
 1. Introduction to Dhaatu-Paa.tha
 2. The Contents Page
@@ -239,17 +182,7 @@ LESSON 15 .................................................................. 109
 6. Illustrations of Dhaatu-Paa.tha Use
 7. Study of the Scriptures
 8. Study Practice
-
 Appendix 1: Suggestions for Further Study .................................. 121
-
 Appendix 2: Answers to Exercises ........................................... 123
-
 Appendix 3: English Grammatical Terms ...................................... 135
-
 Sanskrit Glossary and Index ................................................ 141
-
-
-
-
-
-

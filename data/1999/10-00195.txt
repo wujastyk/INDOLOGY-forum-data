@@ -1,18 +1,3 @@
-From dlusthau at MAILER.FSU.EDU  Wed Oct 27 10:04:33 1999
-From: dlusthau at MAILER.FSU.EDU (Dan Lusthaus)
-Date: Wed, 27 Oct 99 05:04:33 -0500
-Subject: Roman Numerals
-In-Reply-To: <19991027084410.19352.qmail@hotmail.com>
-Message-ID: <161227053036.23782.6045208010989532847.generated@prod2.harmonylists.io>
-
->Egyptians used 23 symbols to write 986. How many symbols did Romans use to
->write this number?
-
+Roman Numerals
 CMDCCCVI
-
-
 Dan Lusthaus
-
-
-
-

@@ -1,30 +1,6 @@
-From ridgeway at blackbox.hacc.washington.edu  Wed Nov 16 14:32:34 1994
-From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
-Date: Wed, 16 Nov 94 07:32:34 -0700
-Subject: The incredible Professor Tokunaga
-Message-ID: <161227017844.23782.2545627324623073606.generated@prod2.harmonylists.io>
-
+The incredible Professor Tokunaga
 Michio Yano responded (>>) to my remarks (>) and Jonathan Silk
 followed up (>>>)
->  Query: how would you think it best to retranscribe the '..' '.'
->notation?  Possibly replace '..' by space and leave '.' as it is?
->>I will convey your message to Muneo Tokunaga, but changes of such
->>kind are better made by the user himself.
-
-> Also: in the Mahabharata ';' (semicolon) is sometimes used as a
->middle-of-line divider in addition to doing duty as 'hiatus' marker.
->>Tokunaga has put this mark in order to analyse meter of the epics.
->>His very interesting paper will soon appear.
-
->>>         Also, just as a clarification: it was not my impression that it was
->>> being suggested that any changes such as ".." to "space plus ." be made by
->>> Professor Tokunaga.  Rather, I think this refers to the the conversion of
->>> the files being prepared by Thomas B. Ridgeway at the University of
->>> Washington.  I for one cannot imagine asking Professor Tokunaga to make
->>> even one more iota of effort than he has already done -- except perhaps to
->>> take a bow and accept the applause and accolades of his world-wide
->>> admirers.
-    
   Jonathan is correct about my intention, and since I was not crytal clear 
 about saying what I meant the first time, allow me this opportunity to
 say that I think that the transcription of the epics is a magnificent gift
@@ -36,13 +12,5 @@ for other purposes, e.g. generating a concordance, I will no doubt retain
 the transcription with the period as division marker since it is, in some
 respects, easier to parse that way.  And, indeed, the changes I am 
 suggesting I intend to implement myself.
-
 cheers,
 Tom
--- 
- 
-
-
-
-
-

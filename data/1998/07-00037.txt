@@ -1,27 +1,6 @@
-From reusch at UCLINK4.BERKELEY.EDU  Sat Jul  4 16:06:53 1998
-From: reusch at UCLINK4.BERKELEY.EDU (B. Reusch)
-Date: Sat, 04 Jul 98 09:06:53 -0700
-Subject: Web site
-In-Reply-To: <01BDA676.DE26D300@ILIAS>
-Message-ID: <161227040527.23782.13295332515130265956.generated@prod2.harmonylists.io>
-
->Mathieu Latapy informed me:
->
->>The folowing address, published on the Indology mailing list,
->>doesn't seem to work :
->>http:\\www.ticonsole.nl\books\science\linguist\bhasa.html
->
->I don't understand what is going wrong.
-
+Web site
 I have not checked this Web site out. However, I believe the correct Url
 should be as follows:
-
 http://www.ticonsole.nl/books/science/linguist/bhasa.html
-
-
 Beatrice Reusch
 University of California, Berkeley
-
-
-
-

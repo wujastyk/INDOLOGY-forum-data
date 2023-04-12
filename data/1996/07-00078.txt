@@ -1,17 +1,10 @@
-From apandey at u.washington.edu  Sun Jul 21 19:53:58 1996
-From: apandey at u.washington.edu (Anshuman Pandey)
-Date: Sun, 21 Jul 96 12:53:58 -0700
-Subject: Electronic Saamaveda.
-Message-ID: <161227025371.23782.15629101301272508874.generated@prod2.harmonylists.io>
-
-
+Electronic Saamaveda.
 A few weeks ago I announced that I was going to begin work on creating an
 electronic text of the Saamaveda. I am writing to announce to those
 interested that I am doing the final input work on the project and will
 have it completed by this weekend. Once I have it completed I will conduct
 a quick proofreading of it and then work on inputing the accents on the
 proofread work.
-
 As I progressed through the project, one problem I encountered was
 deciphering the various methods used to categorize the hymns of the
 Saamaveda. I browsed through different Saamavedic texts, and found that
@@ -22,16 +15,6 @@ standards of categorizing Saamavedic hymns, and so am at a loss as to
 which system should be used. If anyone knows of such things or can provide
 me with information of materials which explain the categorization methods,
 I really appreciate the assistance.
-
 Thank you.
-
 Anshuman Pandey
 University of Washington
-
-
-
-
-
-
-
-

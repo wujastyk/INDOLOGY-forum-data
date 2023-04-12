@@ -1,14 +1,7 @@
-From tyler.g.neill at gmail.com  Fri May 28 18:44:49 2021
-From: tyler.g.neill at gmail.com (Tyler Neill)
-Date: Fri, 28 May 2021 14:44:49 -0400
-Subject: [INDOLOGY] =?utf-8?q?question_about_electronic_text_of_Tattvacin?=
+[INDOLOGY] =?utf-8?q?question_about_electronic_text_of_Tattvacin?=
  =?utf-8?b?dMSBbWHhuYdp?=
-Message-ID: <CADbR+Y9XLOr6gS6STr90mzXxuUGTgHntZwQGJzfg8hW6YyOOjQ@mail.gmail.com>
-
 Dear all,
-
 If there are Navya-Ny?ya fans out there, this question is for you.
-
 A number of electronic Sanskrit books were prepared by Central Sanskrit
 University and posted here <http://www.sanskrit.nic.in/ebooks.php> in PDF
 form. One of these e-books, prepared by the Guruvayoor Campus, is the
@@ -19,7 +12,6 @@ has been further made machine-searchable (here
 and here <https://github.com/sanskrit/raw_etexts/tree/master/nyAya-shAstram>),
 and I'm now working on further improving the plain-text, which I'll happily
 post for all to use.
-
 The data quality of this version seems relatively good, and it's the only
 such complete electronic text that I know of. I'm specifically interested
 in its particular division into sizeable paragraphs. However, I cannot yet
@@ -31,14 +23,8 @@ the Tirupati edition (e.g., vol. 1
 but neither of these seems to match. I fear that the e-book is an
 independent creation with no documentation, but I hold out hope for a more
 firmly established basis.
-
 Does anyone have further ideas concerning what this electronic version of
 the Tattvacint?ma?i was based on, or else, how one can effectively get in
 touch with the project team to ask?
-
 Kind wishes,
 Tyler
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210528/84223dbc/attachment.htm>
-

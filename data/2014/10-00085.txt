@@ -1,29 +1,12 @@
-From mkapstei at uchicago.edu  Tue Oct 21 08:44:40 2014
-From: mkapstei at uchicago.edu (Matthew Kapstein)
-Date: Tue, 21 Oct 14 08:44:40 +0000
-Subject: [INDOLOGY] query: roman>devanagari conversion
-Message-ID: <82C3E42590D939418C74DD76B97DDED037495D3C@xm-mbx-04-prod.ad.uchicago.edu>
-
+[INDOLOGY] query: roman>devanagari conversion
 Dear friends,
-
 I would appreciate recommendations for a readily available, efficient and accurate
 program to convert unicode Sanskrit romanization to devanagari. (Vedic accents
 are not needed.)
-
 with thanks in advance for your suggestions,
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20141021/3b7afd30/attachment.htm>
-

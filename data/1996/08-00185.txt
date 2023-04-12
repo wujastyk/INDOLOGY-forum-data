@@ -1,30 +1,5 @@
-From fp7 at columbia.edu  Thu Aug 29 13:38:31 1996
-From: fp7 at columbia.edu (Frances Pritchett)
-Date: Thu, 29 Aug 96 09:38:31 -0400
-Subject: typing Sanskrit
-Message-ID: <161227025850.23782.7077476073327062151.generated@prod2.harmonylists.io>
-
+typing Sanskrit
 On Thu, 29 Aug 1996, Anshuman Pandey wrote:
-
-> 
-> On Thu, 29 Aug 1996 HEIJSTEE at rullet.LeidenUniv.nl wrote:
-> 
-> > The value `sh' for `x' in Maltese is also found in Catalan and
-> > in Sardinian, both Roman languages. For me reason enough not to
-> > use the `x' to represent the modified `kh'.
-> >
-> > Sandra Van der Geer
-> 
-> This point may have already been expressed, but hasn't 'x' generally been
-> used as an alternative for the consonant cluster 'ksh' rather than the
-> modified 'kh' in the romanization of SA scripts, especially Devanagari?
-> 
-> Anshuman Pandey
-> 
-> ---
-> Anshuman Pandey | apandey at u.washington.edu | University of Washington
-> 
-> 
 Surely people don't write "xetra"?  I have never seen this, anyway.  I
 have of course seen "Laxmi" but mostly in casual and un-rationalized
 usages, not scholarly systems.  In transliterating Urdu, "x" is used in
@@ -38,9 +13,3 @@ Ghalib).  A complete transliteration of Urdu LETTERS is of course a much
 more complex proposition (remember the four letters that all sound like
 "z", and the wild-card vowel `ain...) and is perhaps outside the range of
 the present thread.
-
-
-
-
-
-

@@ -1,30 +1,16 @@
-From brendan.gillon at mcgill.ca  Sun Aug 25 10:09:41 2019
-From: brendan.gillon at mcgill.ca (Brendan S. Gillon, Prof.)
-Date: Sun, 25 Aug 19 10:09:41 +0000
-Subject: [INDOLOGY] Skt./Pkt. prose word order
-In-Reply-To: <CALoZ1nXr_VRMNPecK8DdyAgzkpfU5oAR8Wh9_6K6KdvU=QZ92Q@mail.gmail.com>
-Message-ID: <d623bd90-35fb-03a1-2414-aa91c8f09331@mcgill.ca>
-
+[INDOLOGY] Skt./Pkt. prose word order
 In addition to those mentioned by Walter Slaje, let me add these four:
-
 Staal, J. F. 1967 Word Order in Sanskrit and Universal Grammar. Dordrecht,
 Holland: D. Reidel Publishing Co. (Foundations of Language, SupplementarySeries: v. 5).
-
 Tikkanen, Bertil 1987 The Sanskrit Gerund: A Synchronic, Diachronic and
 Typological Analysis. Helsinki, Finland: Finnish Oriental Society (Studia Ori-
 entalia: v. 62).
-
 Gillon, Brendan S. 1996 Word order in Classical Sanskrit. Indian Linguistics: v. 57, n. 1, pp. 1?35.
-
 Gillon, Brendan S. 1995 The autonomy of word formation: evidence from Classical Sanskrit. Indian Linguistics: v. 56, n. 1-4, pp. 15?52.
-
 Best wishes,
-
 Brendan Gillon
-
 On 2019-08-24 2:02 p.m., Walter Slaje via INDOLOGY wrote:
 To cite but a few on prose compositions:
-
 V. S. Apte: The Student's Guide to Sanskrit Composition. 1885. 1st Reprint Delhi 1995.
 Delbr?ck, B.: Altindische Syntax. [Syntaktische For?schun?gen.5.] Halle 1888.
 Gren-Eklund, Gunilla: A study of Nominal Sen?ten?ces in the Ol?dest Upani?ads. [Ac?ta Universi?ta?tis Upsaliensis.3.] Upp?sa?la 1978 .
@@ -34,66 +20,40 @@ R. Harweg, Komposition und Katalysationstext vornehmlich im sp?ten Sanskrit. The
 H. Jacobi, ?ber den Stil des wissenschaftlichen Sanskrits. Indogerm. Forschungen 14 (1903): 236-251. [Kl. Schr. 6-21].
 Speyer, J.S.: Vedische und Sanskrit-Syntax. [Grundriss der Indo-Arischen Philologie und Altertumskunde.1,6.] 1896. Pho?to?mechan. Nachdruck. Graz 1974.
 Thommen, Eduard: Die Wortstellung im nachvedischen Alt?indischen und im Mittelindischen. G?tersloh. 1903. Nachdr. Bonn 1994 [Sarasvati ser. 11.].
-
 Gary A. Tubb, Emery R. Boose, Scholastic Sanskrit. [Treasury of the Indic Sciences series.]. New York  2007.
 Regards,
 WS
-
 Am Sa., 24. Aug. 2019 um 16:07 Uhr schrieb Christian Ferstl via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>:
 Dear friends and colleagues,
-
 I am still puzzled sometimes by the word order in prose dialogues of
 early Sanskrit and Prakrit stage plays and other prose compositions. And
 I am sure there are more studies on this than J.S. Speijer's Sanskrit
 Syntax. Can you please refer me to some of these?
-
 anug?h?to' smi yu?m?kam upak?re?a,
 Christian Ferstl
 University of Vienna
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
------------------------------
 Univ.-Prof. Dr. Walter Slaje
 Hermann-L?ns-Str. 1
 D-99425 Weimar
 Deutschland
-
 Ego ex animi mei sententia spondeo ac polliceor
 studia humanitatis impigro labore culturum et provecturum
 non sordidi lucri causa nec ad vanam captandam gloriam,
 sed quo magis veritas propagetur et lux eius, qua salus
 humani generis continetur, clarius effulgeat.
 Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
---
-
 Brendan S. Gillon                       email: brendan.gillon at mcgill.ca<mailto:brendan.gillon at mcgill.ca>
 Department of Linguistics
 McGill University                       tel.:  001 514 398 4868
 1085, Avenue Docteur-Penfield
 Montreal, Quebec                        fax.:  001 514 398 7088
 H3A 1A7  CANADA
-
 webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190825/e0c0669a/attachment.htm>
-

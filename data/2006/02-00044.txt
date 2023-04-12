@@ -1,9 +1,4 @@
-From falk at ZEDAT.FU-BERLIN.DE  Fri Feb 24 09:29:07 2006
-From: falk at ZEDAT.FU-BERLIN.DE (falk)
-Date: Fri, 24 Feb 06 10:29:07 +0100
-Subject: IndoSkript
-Message-ID: <161227077482.23782.4873771460909746429.generated@prod2.harmonylists.io>
-
+IndoSkript
 "IndoSkript - Eine indische Pal?ographie"
 The IndoSkript program is now available for downloading on
 http://userpage.fu-berlin.de/~falk/
@@ -15,7 +10,3 @@ Only after the first couple of revisions will the context-sensitive
 helpfile [F1] receive an English counterpart.
 Please report if you face difficulties while installing.
 H. Falk
-
-
-
-

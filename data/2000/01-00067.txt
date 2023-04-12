@@ -1,11 +1,5 @@
-From Mehta at MGMT.PURDUE.EDU  Thu Jan  6 15:49:13 2000
-From: Mehta at MGMT.PURDUE.EDU (Mehta, Shailendra)
-Date: Thu, 06 Jan 00 10:49:13 -0500
-Subject: Vital Statistics - Hindi
-Message-ID: <161227054901.23782.11364236740552258851.generated@prod2.harmonylists.io>
-
+Vital Statistics - Hindi
 On the points raised by Abbas, Elst, Ganesan, Karp and Malaiya:
-
 In connection with the number of Hindi speakers, I am surprised that no one
 referred to one of the largest social surveys done in recent years, by the
 magazine India Today in conjunction with ORG and MARG on the occasion of the
@@ -18,10 +12,7 @@ for East and West. Further, 61% said that there should be a national
 language; 77% said that the language should be Hindi. The breakdowns for the
 latter were North 97%, East 85%, West 75% and South 31%. For additional
 details look at the Issue of India Today, 18 August 1997.
-
-
 Four other points.
-
 1. One the opposition to Hindi seems to be declining in the South. The
 recent issue of The-Week published from Kerala, reported the following:
 "Hindi classes for TDP members
@@ -35,7 +26,6 @@ The glamour girl of the party, Jayaprada, was the only exception. She made a
 long speech in the Rajya Sabha in Hindi and even kept notes in Devnagari.
 Lok Sabha Speaker G.M.C. Balayogi is another Telugu Desam MP who has shown
 marked improvement in Hindi."
-
 2. At Purdue University, where I am,  Indians overtook the Chinese as the
 largest group of foreign students. There are 750 of them, with Indian
 passports. This does not count the second generation Americans, of course,
@@ -47,7 +37,6 @@ assert their identities as Indians, they regularly speak to each other in
 Hindi, in corridors, in hallways and in the labs - cutting across regional
 lines.  Hindi films, and Diwali and Republic Day functions (which too are
 almost exclusively based on Hindi-film linked programs) bring them together.
-
 3. Sanskritized Hindi is opposed by many in the North, who prefer
 Persianized Hindi (I am comfortable with both) but Malayalam, Telugu,
 Bengali, Gujarati etc.. speakers invariably find it easier to understand the
@@ -64,7 +53,6 @@ and Antarnaad. The former had a lot of Urdu words and invariably
 susurrations would break out as to what this or that Persian word (including
 the title) meant, and the questioners would ask in Telugu or Gujarati. With
 Antarnaad, there was no problem.
-
 4. One consequence of the earlier Southern Opposition to Hindi, and the
 antagonism thereby generated, has been that the literature and thought of
 the South has not really made a mark on the North. Punjabi, Bengali and
@@ -79,10 +67,4 @@ writing, its thought makes its mark on the North. And the Internet could
 play a major role in that, when Unicode for Indian languages is fully
 implemented and script becomes irrelevant in that any language could be read
 in any script.
-
-
 Shailendra Raj Mehta
-
-
-
-

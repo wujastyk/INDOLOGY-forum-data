@@ -1,58 +1,13 @@
-From info at TICONSOLE.NL  Mon Jul  6 09:27:28 1998
-From: info at TICONSOLE.NL (T.I. Console)
-Date: Mon, 06 Jul 98 11:27:28 +0200
-Subject: Sanskrit
-Message-ID: <161227040597.23782.9392257147366503824.generated@prod2.harmonylists.io>
-
+Sanskrit
 Birgit Kellner schrieb:
-
->(a) A friend gave the man a book.
->(b) The man was given a book by a friend.
-
->How do I know that "the man" in (b) does NOT function as a dative? 
-
 It cannot function as a dative, because it occupies the specifier-of-sentence position, in other words, it occupies the subject position. In English, which hardly has case-features, word order plays a decisive role. In German, which has case, word order plays a much smaller role in determining the role of a word or phrase.
-
->the analogous German examples
-
->(c) Ein Freund gab dem Mann ein Buch.
->(d) Dem Mann wurde von einem Freund ein Buch gegeben.
-
->this is easy to figure out because of the definite article "dem", (using
->proper names
->in the examples is not such a good idea, by the way, because this point
->gets obliterated). So the question is: How can it be known that (b) is
->not the exact syntactic equivalent of the German sentence (d), but
->actually exhibits loc raising?
-
 In my opinion, b indeed is not exactly the same as d. But there is more: a is not the equivalent in meaning of b, and c not of d. To stick to the German: `ein Freund' is not necessary the friend of the favoured man (`dem Mann'), while `einem Freund' sounds more like a real friend of the man in question (`dem Mann). You see, meaning has changed, so apparently the underlying structures differ a bit. As to your question, is not `ein Buch' denn in d der Subjekt? Is it not just an example of scrambling? Scrambling to the left of the dative (not the locative)? Or can you equally say in German
-
 e) Den Maennern wurden von einem Freund ein Buch gegeben.
-
 Ich denke nein. I think e) is not grammatical, while f) is:
-
 f) Dem Mann wurden von einem Freund einige Buechern gegeben.
-
 In f) the books (`einige Buechern') are the subject, in e) the man (`den maennern').
-
 Or am I totally wrong in my knowledge of German?
-
->by the way, I also get attachments with all your postings; with filename
->"part 1,2", and filetype "ms-tnef". I tried to open one of these as a
->text-file; it just produces confused characters with "Microsoft Mail"
->printed somewhere in the middle. I'm using Windows 95 with Netscape
->communicator as e-mail software.
-
 Is it possible that Netscape is the bad guy (in general, I am AGAINST Microsoft!), as I have a  friend who also uses Netscape, and she, too, receives the attachments?
-
 Sandra van der Geer
 Leiden, NL
 info at ticonsole.nl
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 2720 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980706/b1b217ae/attachment.bin>
-

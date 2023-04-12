@@ -1,19 +1,9 @@
-From ph2046 at COLUMBIA.EDU  Wed Mar 22 19:28:10 2006
-From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
-Date: Wed, 22 Mar 06 11:28:10 -0800
-Subject: Vedic Accents and Unicode
-Message-ID: <161227077697.23782.2851341852983390053.generated@prod2.harmonylists.io>
-
+Vedic Accents and Unicode
 Greetings,
-
 At 7:23 AM -0800 3/22/06, Dean Anderson wrote:
->I and a few others on this list have been agitating to get Vedic 
->Accents added to the Unicode standard.
-
 I know that at one time there was an Indic list-serve for Unicode 
 concerns (http://www.unicode.org/~emuller/iwg/) but it's current 
 status is unclear.
-
 On a related note, however, I have been encoding some Sanskrit text 
 in unicode and have been unable to locate the equivalent of a 
 headline ellipsis in the Devanagari range (0900-097F) or under 
@@ -21,11 +11,6 @@ headline ellipsis in the Devanagari range (0900-097F) or under
 been encoded in a non-obvious manner or as a variant form of another 
 glyph?  Otherwise, this would appear to be another candidate for 
 addition to the standard.
-
 Paul Hackett
 Dept. of Religion
 Columbia University
-
-
-
-

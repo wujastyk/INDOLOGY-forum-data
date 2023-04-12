@@ -1,9 +1,4 @@
-From ucgadkw at ucl.ac.uk  Fri Mar 19 20:49:28 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Fri, 19 Mar 93 20:49:28 +0000
-Subject: New program for transliteration
-Message-ID: <161227015732.23782.1249153907950404041.generated@prod2.harmonylists.io>
-
+New program for transliteration
 A new general-purpose program for character-set 
 transliteration has appeared.  INDOLOGISTs will all have been aware
 of Jeroen Hellingman's excellent patc program for some time, of 
@@ -11,10 +6,7 @@ course :-)  (it's part of his Malayalam package, anyway, but is
 of much broader use).  This new transliteration program appears 
 to cover some of the same ground.  I haven't tried it, but I 
 append the readme.doc file below, for your information.
-
 Dominik
-
-
 WHAT IS TRANSLIT PROGRAM
 ========================
 The TRANSLIT program is used to transliterate character codes.
@@ -27,7 +19,6 @@ to use units larger than 8-bits(1 byte) to represent foreign alphabets.
 For example, UNICODE will use 16-bit(2 byte) codes. At this moment, the
 TRANSLIT program supports only 8-bit codes, but will be expanded to
 UNICODE if there is enough interest.
-
 It is frequently necessary to convert from one representation to another
 representation of the foreign alphabet. E.g., in the Library of Congress
 transliteration, the Russian letter sha is transliterated as two Latin
@@ -35,7 +26,6 @@ letters "sh" while the popular word processors use a code 232 (decimal),
 the RELCOM network uses a code 221, and the KOI7 set uses character "["
 for the same letter. So if your screen driver, printer, word processor,
 etc. uses different codes than your text, you need to transliterate.
-
 The TRANSLIT program is a powerful tool for such tasks. It converts an input
 file in one representation to the output file in another representation using
 an appropriate, user defined, transliteration table. Transliteration table
@@ -44,7 +34,6 @@ plain character sequences, character lists, regular expressions (flexible
 matches), SHIFT-OUT/IN sequences and more. The program comes with documentation
 and examples of popular transliteration schemes for Russian language. Other
 files will be added with your collaboration.
-
 FILES IN THE PROGRAM DISTRIBUTION
 ================================
 The following files are currently in the distribution. They are all ASCII
@@ -52,7 +41,6 @@ The following files are currently in the distribution. They are all ASCII
 Please note that the copyright notice requires that, if you distribute this
 program, you have to distribute the complete set of files.
 TRANSLIT is copyrighted: Copyright (c) Jan Labanowski and JKL Enterprises, Inc.
-
   Name                   Description
       DOCUMENTATION
 readme.doc        This file
@@ -63,7 +51,6 @@ translit.1        [nt]roff version of the above in the format
 translit.txt      Plain text version of the above.
 order.txt         Order form for ordering the executable program (compiled
                   with installation script and instructions)
-
       TRANSLITERATION TABLES FOR RUSSIAN (read comments in the files)
 alt-gos.rus       ALT to GOSTCII table
 alt-koi8.rus      ALT to KOI8 table
@@ -83,21 +70,17 @@ pho-8sim.rus      Simple phonetic to KOI8
 pho-koi8.rus      Various phonetic to KOI8
 php-koi8.rus      Pokrovsky transliteration to KOI8
 tex-koi8.rus      LaTeX to KOI8
-
            EXAMPLES
 example.alt.uu    uuencoded example in ALT
 example.ko8.uu    uuencoded example in KOI8
 example.pho       phonetic transliteration example
 example.tex       LaTeX example
-
             TRANSLIT PROGRAM SOURCE in C.
 translit.c        Main program
 paths.h           Include file
 reg_exp.h         Include file
 reg_exp.c         Modified regular expression package by H. Spencer
 reg_sub.c         Modified regular expression package by H. Spencer
-
-
           PACKED FILES CONTAINING THE WHOLE DISTRIBUTION FROM ABOVE
 translit.tar.Z   ---   Compressed tar file with the whole distribution.
                           ON UN*X use:
@@ -128,13 +111,9 @@ translit.zip.uu  ---   Uuencoded file from above. Can be sent via e-mail but
                           uudecode message_file
                        where message_file is your saved message and then
                        "unzip" it as shown above.
-                    
-
            HOW TO OBTAIN THE FILES:
            =======================
-
 Via FTP (if you are on Internet):
----------------------------------
   ftp kekule.osc.edu           (or ftp 128.146.36.48)
   Login: anonymous
   Password: Your_email_address (Please...)
@@ -143,28 +122,23 @@ Via FTP (if you are on Internet):
   ftp> get file_name
      .....     (for each file)
   ftp> quit
-
 Via E-mail:
------------
   Send message:
      send translit/file_name from russian
   to OSCPOST at osc.edu or OSCPOST at OHSTPY.BITNET. You can retrieve more files
   with a single message by placing several lines of the above format.
   The file will be forwarded to your mailbox automatically.
-
 The "file_name" in the instructions above means any file from the list
 given above. If you do not know or have programs like uudecode, unzip, tar,
 zcat or uncompress, get all individual files one by one. If you know how
 to use the above programs it may be faster for you to get a tar or zip
 archive and unpack it.
-
 Program installation and compilation is described in the translit docs.
 Since the program requires that you make small changes to paths.h before
 compilation (depending on your system and environment), I cannot realy
 distribute generic executables (i.e., compiled programs). You have to modify
 paths.h to suit your needs and operationg system and compile the program using
 your favorite C compiler.
-
 GETTING THE READY TO RUN PROGRAM
 ================================
 If you do not have time, do not have resources, or for whatever reason
@@ -172,31 +146,15 @@ you wish a ready to run executable of TRANSLIT, you can order it for
 a very modest fee from JKL ENTERPRISES, INC. as described in the file:
 order.txt. It will come with an easy installation script which will ask
 you a few simple questions and install the program.
-
 I invite, and will try to answer, bug reports, comments and suggestions.
 If there is an interest I will work on optimizing the program, on supporting
 the UNICODE, and other enhancements which you suggest. If you use the
 program for commercial purposes, and on many computers in your organization,
 you might want to buy the program from JKL ENTERPRISES, INC., to aid further
 development, though you are not required to do so.
-
-
 Enjoy,
-
 Author coordinates:
 Jan Labanowski
 P.O. Box 21821
 Columbus, OH 43221-0821, USA
 jkl at osc.edu, JKL at OHSTPY.BITNET
-------------------------------
-
-
-
-
-
- 
-
-
-
-
-

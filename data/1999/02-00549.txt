@@ -1,19 +1,5 @@
-From a018967t at BC.SEFLIN.ORG  Fri Feb 12 23:35:54 1999
-From: a018967t at BC.SEFLIN.ORG (=?utf-8?Q?Aditya=2C_the_=5D-=5Bindu__=24kepti=C2=A2?=)
-Date: Fri, 12 Feb 99 18:35:54 -0500
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-In-Reply-To: <19990212164900.17813.qmail@hotmail.com>
-Message-ID: <161227046245.23782.16081332017436107790.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 On 12 Feb 99,  Christopher Fernandez wrote:
-
-> I have noticed on this list itself  that there is no unanimity to
->  represent the same Devnagri character with a unique Roman character.
->
->   Not really. A recent Indology posting is appended. Please
->   do click the URLs and have a look at the uniformity in
->   transliteration.
-
 Since you agreed in the last paragraph of this very message about the role
 of inertia, how do you expect clicking on url will help. There have been so
 many attempts made to have a unform system in the past that I doubt that
@@ -21,30 +7,14 @@ any new  system will be more accepted.  There are at least 5 Hindi
 newspapers on the net and all of them use a different font. If you can
 persuade them to print their papers in your Romanized font then I will
 believe that your url has any future.
-
->   The problem referred by you is fairly recent.  Indians usually
->   employed as Computer professionals write in nonscholarly forums
->   such as Newsgroups and mount their Websites depending on what
->   they think is more apt.
 On this very list, I have seem different "academics" of your type use z,s, c
 for the same devnagri character. You cannot blame computer professional
 for all the ills.
-
-> >The most important reason for failure of all such attempts is the
-> >inertia....
->
->   I agree with you 100%
-
 I hope it gets you in the best of spirits.
 ?1999   Aditya Mishra
           homepage: http://www.smart1.net/aditya
           or   http://members.rediff.com/adityanm
 Page me online via http://wwp.mirabilis.com/1131674
-
 Random thought of the day:
         Don't go around saying the world owes you a living.     The world owes
 you nothing. It was here first.---Mark Twain
-
-
-
-

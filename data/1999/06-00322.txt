@@ -1,20 +1,7 @@
-From yaap at XS4ALL.NL  Tue Jun 15 03:07:30 1999
-From: yaap at XS4ALL.NL (Jaap Pranger)
-Date: Tue, 15 Jun 99 05:07:30 +0200
-Subject: CSX+ fonts & cross-platform email exchange
-Message-ID: <161227050597.23782.16187676836361007299.generated@prod2.harmonylists.io>
-
+CSX+ fonts & cross-platform email exchange
 On Mon, 14 Jun 1999 13:25:30 +0200 Jan Seifert wrote:
-
->=80 anyone out there with experience of the indianlangkit for mac? (and is
->there a difference between the build in kit in OS 8.5 and the langkit?)
-
 You may find out at: <www.apple.com/macos/multilingual/indian.html>
-
-
 Two recent postings from the Nisus mailing list:
-
-
 *----------------------------------------------------------
 * At 10:06 PM +0300 5/26/99, raymond wrote:
 * >I use OS 8.6 on 6400/200 and, AFAIW, I don't use the hebrew language kit,
@@ -29,7 +16,6 @@ Two recent postings from the Nisus mailing list:
 * 8.5 and 6 you don't need HLK, although its still for sale, if you wish all
 * the fonts which come with it.
 * ----------------------------------------------------------
-
 * ----------------------------------------------------------
 * Zarlengo wrote:
 * > Is their an Arabic - Farsi update for Mac OS 8.6.  The fonts are not acking
@@ -49,12 +35,4 @@ Two recent postings from the Nisus mailing list:
 * already updated your Language Kit, you do not need to run the Language
 * Kit Updater again after updating to Mac OS 8.6.
 * ------------------------------------------------------------
-
-
 Jaap Pranger
-
---
-
-
-
-

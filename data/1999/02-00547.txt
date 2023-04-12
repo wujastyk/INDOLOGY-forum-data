@@ -1,22 +1,12 @@
-From a018967t at BC.SEFLIN.ORG  Thu Feb 11 21:24:26 1999
-From: a018967t at BC.SEFLIN.ORG (=?utf-8?Q?Aditya=2C_the_=5D-=5Bindu__=24kepti=C2=A2?=)
-Date: Thu, 11 Feb 99 16:24:26 -0500
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-In-Reply-To: <19990211194054.9295.qmail@hotmail.com>
-Message-ID: <161227046206.23782.13182607230052290075.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 On 11 Feb 99,  Christopher Fernandez wrote:
->  Are there any reasons why India cannot make a switchover
->  to AIR script?
 There have been several attempts made to adopt Roman script for Indian
 languages but none have succeeded so far partly because number of
 characters in Roman is not sufficient for Indian sounds and there could be
 no agreement as to which Roman character should correspond to a
 Devnagri or Urdu character.
-
 I have noticed on this list itself  that there is no unanimity to represent the
 same Devnagri character with a unique Roman character.
-
 The most important reason for failure of all such attempts is the inertia.
 Changing a script is most difficult thing to accept when USA has not even
 been able to accept the Metric system for weights and measures and UNO
@@ -24,7 +14,3 @@ has not been able to adopt the World Calender which was proposed
 several times in 60s and 70s. Do you think Russians would be ready to
 accept Roman script even though Cyrillic alphabet has so many common
 characters with Roman?
-
-
-
-

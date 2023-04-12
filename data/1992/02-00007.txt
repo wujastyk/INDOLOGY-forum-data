@@ -1,25 +1,15 @@
-From ucgadkw at UK.AC.UCL  Fri Feb  7 14:45:37 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Fri, 07 Feb 92 14:45:37 +0000
-Subject: Devanagari MF font
-Message-ID: <161227015236.23782.3211707033333865674.generated@prod2.harmonylists.io>
-
- 
-
+Devanagari MF font
 Stephen asked where the Devanagari font for TeX can be found.
 Firstly, yes it is free, though copyrighted (so it has to go
 on being free).  This free distribution was made possible by
 generous grants from the Computing Centre in Groningen and
 the Wellcome Institute in London.
- 
 As for where to get it, the London Archie server reports the
 following sites:
- 
 \begin{quotation}
- 
  > Date: Fri, 7 Feb 1992 14:10:17 GMT
  > From: Archive DB query <archie at uk.ac.ic.doc>
- > Subject: archie command: prog devnag
+ > archie command: prog devnag
  > To: ucgadkw at uk.ac.ucl
  >
  >
@@ -73,18 +63,9 @@ following sites:
  >
  > -------
  >
- 
 \end{quotation}
- 
 The .zip file is the orighinal distribution; the .tar.Z files contain
 mods for Unix.  I don't know what the devnagri.tar.Z file at Duke is: perhaps
 someone can tell us?
- 
 Hope that helps,
- 
 Dominik
-
-
-
-
-

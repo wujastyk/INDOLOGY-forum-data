@@ -1,43 +1,9 @@
-From ges94ahj at STUDSERV.UNI-LEIPZIG.DE  Mon Jun 14 11:25:30 1999
-From: ges94ahj at STUDSERV.UNI-LEIPZIG.DE (Jan)
-Date: Mon, 14 Jun 99 13:25:30 +0200
-Subject: CSX+ fonts & cross-platform email exchange
-Message-ID: <161227050502.23782.10363546326330838464.generated@prod2.harmonylists.io>
-
->On Sat, 12 Jun 1999, Jaap Pranger wrote:
->
->> ...
->
->> Can you easily exchange Tex documents with Windows and MacOS
->> users?  I guess you can, but please tell.
->
->Yes, you can.
->
->> BTW, John, last year in Conv-Dev you mentioned ACII.  You said: "ACII
->> is the name used for the full 8-bit character set comprising 7-bit ASCII
->> in the lower half and 7-bit ISCII in the upper half."
->> Is this charset in use anywhere? I can't imagine reasonable Nagari
->> coming out from a 7-bit subset.
->
->It is used in all of CDAC's products (ALP for DOS, iLeap for Windows, and
->others). The output Nagari (/Bengali/Gujarati/Tamil/etc.) is extremely
->good. This is because, like Unicode, an intermediate piece of software (a
->"renderer") handles conversion from logical character to actual glyph.
->
->John Smith
-
+CSX+ fonts & cross-platform email exchange
 just some questions:
 ? what is CDAC?
 ? is it availl. for mac?
 ? anyone out there with experience of the indianlangkit for mac? (and is
 there a difference between the build in kit in OS 8.5 and the langkit?)
 ? includes the Bengali all Assamese letters?
-
 greetings Jan Seifert
-
------------------------------------------
 end of transmission
-
-
-
-

@@ -1,10 +1,4 @@
-From EVERSON at IRLEARN.UCD.IE  Fri Jun 18 18:40:33 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Fri, 18 Jun 93 18:40:33 +0000
-Subject: Attn: Listowners
-Message-ID: <161227015878.23782.561113921586946957.generated@prod2.harmonylists.io>
-
- 
+Attn: Listowners
 Bernard Comrie and I are maintaining a list of lists specifically
 oriented toward various languages. I will be forwarding this to the
 LINGUIST list (linguist at tamvm1) and will forward it to your list
@@ -12,14 +6,7 @@ as well for the interest of your readers. If you do not want me to
 post this to your list, please tell me by 23 June. If you are not
 a listowner and would like to receive a copy of the list (in case it's
 not posted to your list), please subscribe to Linguist.
- 
 Thanks,
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
-
-
-
-
-

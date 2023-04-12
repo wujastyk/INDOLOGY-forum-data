@@ -1,33 +1,7 @@
-From d.wujastyk at UCL.AC.UK  Thu May 14 14:45:41 2009
-From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 14 May 09 15:45:41 +0100
-Subject: Devanagari Unicode fonts for the Mac?
-In-Reply-To: <a06210201c630a67063b0@[192.168.1.101]>
-Message-ID: <161227086194.23782.4409053449826642508.generated@prod2.harmonylists.io>
-
+Devanagari Unicode fonts for the Mac?
 It seems that Scribus, a free competitor for InDesign 
 (http://en.wikipedia.org/wiki/Scribus), doesn't do Indic fonts (i.e., 
 "complex script rendering") either yet 
 (http://wiki.scribus.net/index.php/Image:Rendering1.png).
-
 DW
-
-
 On Wed, 13 May 2009, Paul G. Hackett wrote:
-
-> Greetings,
->
-> I am attempting to typeset some Unicode Devanagari text in Adobe InDesign 
-> (CS3) on the Mac (OS X.5.6) but cannot seem to locate a Unicode font that 
-> will function correctly (i.e. form ligatures) in InDesign.  Does anyone know 
-> of any such font that will do so (free or otherwise)?
->
-> Thanks,
->
-> Paul Hackett
-> Columbia University
->
-
-
-
-

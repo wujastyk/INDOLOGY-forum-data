@@ -1,43 +1,23 @@
-From grotebev at uni-duesseldorf.de  Fri Mar 14 18:56:23 1997
-From: grotebev at uni-duesseldorf.de (Tobias Grote-Beverborg)
-Date: Fri, 14 Mar 97 18:56:23 +0000
-Subject: New Free Devanagari TrueType Font.
-Message-ID: <161227028944.23782.6040846370032497159.generated@prod2.harmonylists.io>
-
-
->A note of warning! I downloaded and installed this font, and then tried to
->read the doc-files into Word6 for Windows. Since then, all letters are
->printed more or less above each other. In order to get a readable text on or
->off screen, I have to define a distance of 4 points between each letter.
->Something is wrong, and I have not been able to solve the problem yet.
->Anyone out there witha similar problem?
->
->Lars Martin Fosse
-
+New Free Devanagari TrueType Font.
 Dear Lars Martin Fosse and Members of the List!
 I was rather shocked when I read Your message as I had also downloaded the
 Fonts today. I didn't have the problems You had, but I faced some problems
 during the unzip-process. Actually I didn't manage to unzip it on my PC but
 when I was at our Institute I downloaded the files on the Institute's PC and
 didn't have any problem to unzip it there.
-
 Well, I transferred the Fonts on my PC just now and after reading Your
 message checked whether I have a similar problem. 
-
 No, I don't have any problem. All letters appear correct on the screen and
 all other Fonts aren't influenced. Even in the same document everything
 appears to work properly.
-
 It's always a risk to download unfamiliar files and it reminds me to be very
 careful about recommendations.
 I usually only recommend files which I have downloaded myself.
-
 Anyway I hope You don't suffer a major breakdown of Your system, please,
 keep me informed about further development concerning the *RKSanskrit TTF*.
 If You want, I can attach my version of *RKSanskrit* and You could try out
 whether it works better.
 Good luck
-
 Tobias
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                 //OM//
@@ -53,9 +33,3 @@ ph/fax: 0049-211-6581306
 e-mail: grotebev at uni-duesseldorf.de
         grotebev at uni-koeln.de
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
-

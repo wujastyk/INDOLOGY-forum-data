@@ -1,12 +1,6 @@
-From alex.watson at ashoka.edu.in  Tue Jun  5 18:16:26 2018
-From: alex.watson at ashoka.edu.in (Alex Watson)
-Date: Tue, 05 Jun 18 23:46:26 +0530
-Subject: [INDOLOGY] Brackets in modern sanskrit translations
-Message-ID: <CA+H=kyQwagMOPyT8feRbTPKVxKevK8LApQwZBc+f0tSuf-Q1Ow@mail.gmail.com>
-
+[INDOLOGY] Brackets in modern sanskrit translations
 I found Dominik's list of reasons for using brackets incomplete / one-sided.
 I would include at least the two following positive reasons.
-
 1. While brackets may disrupt the flow for readers who are not also looking
 at the Sanskrit, they are helpful for those who are comparing your
 translation with the Sanskrit.  (Since translations of most Sanskrit
@@ -14,18 +8,14 @@ philosophical texts, especially the more technical ones, are extremely
 difficult to understand without simultaneously looking at the Sanskrit, I
 find the use of brackets in the translation of philosophical texts more
 desirable than undesirable.)
-
 2. Intellectual honesty.  Use of brackets signals what follows
 straightforwardly from the Sanskrit, and what is the result of addition or
 interpretation on your part ? which English etc. words correspond to
 Sanskrit words, and what you have chosen to add in to complete the sense,
 to disambiguate, or to make explicit to the reader what would have remained
 obscure if you had just stuck to rendering the Sanskrit words.
-
 Best
 Alex
-
--- 
 Alex Watson
 Professor of Indian Philosophy
 Head of Philosophy Department
@@ -33,41 +23,3 @@ Ashoka University
 *https://ashokauniversity.academia.edu/AlexWatson
 <https://ashokauniversity.academia.edu/AlexWatson>*
 <http://www.aas-in-asia2018.com/>
-
-
->
-> ---------- Forwarded message ----------
-> From: Dominik Wujastyk <wujastyk at gmail.com>
-> To: Harry Spier <hspier.muktabodha at gmail.com>
-> Cc: Indology <indology at list.indology.info>
-> Bcc:
-> Date: Sun, 3 Jun 2018 20:23:19 -0600
-> Subject: Re: [INDOLOGY] Brackets in modern sanskrit translations
-> Your question presses a big red button for me :-)  My thoughts are here
-> <https://cikitsa.blogspot.com/2016/04/on-use-of-parentheses-in-translation.html>
-> .
->
-> --
-> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ?,?
->
-> Singhmar Chair in Classical Indian Society and Polity
-> ?,?
->
-> Department of History and Classics
-> <http://historyandclassics.ualberta.ca/>
-> ?,?
-> University of Alberta, Canada
-> ?.?
->
-> South Asia at the U of A:
->
-> ?sas.ualberta.ca?
-> ??
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180605/8a6392af/attachment.htm>
-

@@ -1,48 +1,25 @@
-From svevo.donofrio at unibo.it  Thu Jul  4 11:00:24 2013
-From: svevo.donofrio at unibo.it (Svevo D'Onofrio)
-Date: Thu, 04 Jul 13 13:00:24 +0200
-Subject: [INDOLOGY] question for European Indologists
-In-Reply-To: <B277B865-A9B8-4278-965A-A9B0D5222D4C@uclouvain.be>
-Message-ID: <822F4A85-520D-4B47-B11B-CA7F65780F2D@unibo.it>
-
+[INDOLOGY] question for European Indologists
 In Bologna we have been using Della Casa since its first publication in 1980 (current edition is 2nd, 1998) for introductory Sanskrit courses. Texts are drawn mainly from the Epics and Katha literature, and there is no key to the exercises.
 For intermediate and advanced classes, reference works are usually Whitney and Speyer, and students are always encouraged to attend Sadananda's Spoken Sanskrit Course in Heidelberg.
-
 Best wishes,
 Svevo D'Onofrio
-
-
 Lecturer in Sanskrit Language and Literature
 Department of History, Cultures and Civilizations
 University of Bologna
-
-
-
-
-
 Il giorno 04/lug/2013, alle ore 12:35, Christophe Vielle <christophe.vielle at UCLOUVAIN.BE<mailto:christophe.vielle at UCLOUVAIN.BE>> ha scritto:
-
 It is not the first Indian testimony I hear about the practical qualities of Father Robert Antoine's Manual (which in its grammatical explanations follows the indigenous, synchronic, tradition, and in the same time is close to the Jesuit manuals of Latin or Greek which where in use in the European high schools until the 70s). I like it (including all its little defaults) and use it now for teaching in Louvain-la-Neuve since a few years - see more on it from Indology list archives 22-7-2008 below.
-
 I am surprised to not hear on this list about Sanskrit teaching in countries like France and Italy which both have a strong and long tradition in the matter (the Coll?ge the France will celebrate in 2014 the bi-centenary of the creation of the first occidental Sanskrit chair, started with Antoine-L?onard de Ch?zy). I would be interested to know more about the teaching tradition in Italy and the use of manuals such the ones by Pizzagalli (1931), Rampolla del Tindaro (1936) or Della Casa (1980).
 In France, I suppose that Victor Henry's "?l?ments de sanscrit classique" (1902), despite its 1963 reprint, is now forgotten. Abel Bergaigne's "Manuel pour ?tudier la langue sanscrite" (1st ed. 1883),  to the reprint of which Louis Renou added an "avant-propos" (1966) underlying the "good" difficulty of it, is still held in high esteem, but apparently no longer in use (to note that Sylvain Brocquet in his recent "grammaire ?l?mentaire et pratique", which is mainly a manual, proposes [p. 450] to start it... after having completed his own one!). Gonda's little grammar (which despite its French title "Manuel de grammaire" is not really a manual) in its French translation by Rosane Rocher (cf. now the 1997 ed. with Oguibenine's addenda), appears to be still widely used as a handout (I personally prefer to propose in this role Renou's "Grammaire ?l?mentaire", 1st ed. 1946).
 In French-speaking Belgium, Bergaigne's "Manuel" was used by Louis de La Vall?e Poussin (see what he says in the Pr?face to his former student Joseph Mansion's "Esquisse d'une histoire de la langue sanscrite"). I know that Etienne Lamotte was not fond of teaching elementary grammar: his students had to read and learn by themselves the paradigms etc., and, before to go through the texts, he limited his basic teaching to one lesson on the script, on lesson on the sandhi, and one on the compounds: I have made a .pdf copy of Lamotte's syllabus on the compounds available at
 http://belgianindology.blogs.lalibre.be/list/s-b-i-o-library/composition-en-sanskrit.html
 http://belgianindology.blogs.lalibre.be/list/s-b-i-o-library/1107017223.pdf
-
 Best wishes,
-
 Christophe Vielle
-
 Le 4 juil. 2013 ? 07:18, soni at staff.uni-marburg.de<mailto:soni at staff.uni-marburg.de> a ?crit :
 The first time I really ?studied? Sanskrit (and then understanding the mantras which we had learnt by rote), was in the 70s, and through the Jesuit priest Antoine?s book on Sanskrit. in 2 volumes. Now it sounds strange that a traditional Sanskritist here in Banaras used this as a text book, this was for English speaking students.
-
 By that time I had passed the stage of fearing the classical languages as with Latin when we said at school: Latin is a subject as dead as dead can be; it killed the ancient Romans and now it?s killing me!
 Sanskrit is now keeping me alive.
-
 Jay
-
-
 De :  Stella Sandahl <ssandahl at sympatico.ca<mailto:ssandahl at sympatico.ca>>
 Objet : Sanskrit Primers: R. Antoine's Sanskrit Manual
 Date : 22 juillet 2008
@@ -54,12 +31,10 @@ Coulson has too much transliteration, and since it is a teach-yourself-book, the
  There is no ideal text book out there - but there are many very good ones. All of them have their strong and weak points. As the grammar doesn't change from one year the only thing an instructor can change is the text book.
 Best regards to all
 Stella Sandahl
-
 De : Christophe Vielle <Christophe.Vielle at uclouvain.be<mailto:Christophe.Vielle at uclouvain.be>>
 Objet : Sanskrit Primers: R. Antoine's Sanskrit Manual
 Date : 22 juillet 2008
 ? :    INDOLOGY at liverpool.ac.uk<mailto:INDOLOGY at liverpool.ac.uk>
-
 Dear Colleagues,
 I dare to add another Sanskrit primer to the other excellent ones (Coulson, Deshpande, etc.) which could have been quoted in the discussion.
 Some years ago, I heard through an Indian friend (a Syriac scholar from Kottayam) about the high value of the Sanskrit Manual of Father R. Antoine s.j., a Belgian scholar who taught in St. Xavier's College, Calcutta (cf. http://www.goethals.in/collections/felixrajarticles/robert.htm<http://www.goethals.org/robert.htm> : Robert Antoine: The Indologist by J Felix Raj, SJ).
@@ -76,22 +51,11 @@ Christophe Vielle
 Antoine, R. 1953-1954, A Sanskrit Manual for High Schools, 2 vols, Calcutta : St. Xavier?s College.
 is available at :   http://www.ragalalit.net/priv/ (id = Lalit, pw = komalRe)
 A reprint of vol. 1 is available at: http://www.archive.org/details/sanskritmanualfo00antouoft
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 http://listinfo.indology.info
-
-
 5x1000 AI GIOVANI RICERCATORI
 DELL'UNIVERSIT? DI BOLOGNA
 Codice Fiscale: 80007010376
 www.unibo.it/Vademecum5permille
-
 Questa informativa ? inserita in automatico dal sistema al fine esclusivo della realizzazione dei fini istituzionali dell?ente.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130704/ad8f921d/attachment.htm>
-

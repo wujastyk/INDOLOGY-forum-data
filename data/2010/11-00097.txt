@@ -1,12 +1,5 @@
-From kengo.harimoto at UNI-HAMBURG.DE  Tue Nov 30 13:02:16 2010
-From: kengo.harimoto at UNI-HAMBURG.DE (Kengo Harimoto)
-Date: Tue, 30 Nov 10 14:02:16 +0100
-Subject: prayojanaabhidheya
-In-Reply-To: <20101130045219.AFF18563@mstore02.uchicago.edu>
-Message-ID: <161227090932.23782.15130785123747272567.generated@prod2.harmonylists.io>
-
+prayojanaabhidheya
 As for Buddhist:
-
 @article{funayama:prayojana,
   author =	 {Toru Funayama},
   title =	 {{A}rca\d{t}a, \'{S}\=antarak\d{s}ita,
@@ -17,31 +10,7 @@ As for Buddhist:
   pages =	 "181--201",
   year =	 1995,
 }
-
 I am not aware of studies on the Brahmanical side, but I find Kum?rila's ?lokav?rttika, Pratij??s?tra 11?25, the beginnings of Ny?yabh??ya/Ny?yav?rttika, to be relatively early treatment of the issue.
-
 Interesting is the beginning of the Vaiy?kara?amah?bh??ya where those terms, though pad?rtha instead of abhidheya, are used but in a different context.
-
--- 
 kengo harimoto
-
 On Nov 30, 2010, at 11:52 , mkapstei at UCHICAGO.EDU wrote:
-
-> Dear colleagues,
-> 
-> I'd be grateful for recommendations you may have
-> for articles or book chapters treating
-> prayojana-abhidheya-sambandha
-> whether in Bauddha, Jaina, or Brahmanical sources.
-> 
-> with thanks in advance,
-> 
-> Matthew T. Kapstein
-> Numata Visiting Professor of Buddhist Studies
-> The University of Chicago Divinity School
-> Directeur d'?tudes
-> Ecole Pratique des Hautes Etudes, Paris
-
-
-
-

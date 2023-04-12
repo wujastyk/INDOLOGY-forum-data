@@ -1,9 +1,4 @@
-From jage at loc.gov  Wed Jun 26 19:09:58 1996
-From: jage at loc.gov (James E. Agenbroad)
-Date: Wed, 26 Jun 96 15:09:58 -0400
-Subject: Conjuncts List Errors
-Message-ID: <161227025171.23782.14933111130433075775.generated@prod2.harmonylists.io>
-
+Conjuncts List Errors
                                   Wednesday, JUne 26, 1996
 Indic Scripts Computerizers,
      I'm sending this note to three lists (Indology, Unicode(tm) and
@@ -26,14 +21,8 @@ where given the original citations of sources are correct.
     585. f+TA (i.e., ph+nukta+ta)
           that should be lower case f+ta
     706. r+'n+k+.s+ma
-
      I regret any inconvienence this may have casued.
      Regards,
           JIm Agenbroad ( jage at LOC.gov )
      The above are purely personal opinions, not necessarily the
 official views of any government or any agency of any.
-
-
-
-
-

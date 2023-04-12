@@ -1,19 +1,6 @@
-From wujastyk at gmail.com  Sun Apr 17 03:22:37 2016
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sat, 16 Apr 16 21:22:37 -0600
-Subject: [INDOLOGY] IAST or ISO 15919 input tools for Windows 7
-In-Reply-To: <edb0824197cc60be1a24c6482289716e@cam.ac.uk>
-Message-ID: <CAKdt-Cfcx1jUQ7sfMrudfbRb3yC54Fq5+kbgQ5sqzBRa4Tg4KQ@mail.gmail.com>
-
+[INDOLOGY] IAST or ISO 15919 input tools for Windows 7
 see http://bombay.indology.info for John Smith's utilities for doing
 exactly this.
-
 Best,
 Dominik Wujastyk
 ?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160416/6bcc08f4/attachment.htm>
-

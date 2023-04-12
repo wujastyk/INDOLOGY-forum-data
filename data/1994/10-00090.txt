@@ -1,9 +1,4 @@
-From LEHMANN at VAX2.CONCORDIA.CA  Sat Oct 22 14:18:24 1994
-From: LEHMANN at VAX2.CONCORDIA.CA (LEHMANN at VAX2.CONCORDIA.CA)
-Date: Sat, 22 Oct 94 09:18:24 -0500
-Subject: sabhaparvan
-Message-ID: <161227017619.23782.15800732019506660829.generated@prod2.harmonylists.io>
-
+sabhaparvan
 Dear Fred. The same thing happened to me so I can empathize. The problem in my 
 case was the font I was using which was not encoded as per the International
 Association of Sanskrit Studies system. I had no problem when I switched to 
@@ -11,9 +6,3 @@ Washington Indic Roman regular which does have the correct encoding. I believ
 you can find this at the Indology ftp site though you may have to covert the
 PC Truetype to Mac Truetype before you start. There is a shareware Called TT
 Converter (and another called Font Clerk I believe) that does this. Good luck.
- 
-
-
-
-
-

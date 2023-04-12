@@ -1,26 +1,6 @@
-From saf at SAFARMER.COM  Sun Mar 12 20:17:59 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Sun, 12 Mar 00 12:17:59 -0800
-Subject: Dates of written Rgveda
-Message-ID: <161227056733.23782.10598327130322802802.generated@prod2.harmonylists.io>
-
+Dates of written Rgveda
 I wrote, in response to George Thompson:
-
-> Even Patrick
-> Olivelle, who gives me the impression of being a rather
-> conservative scholar, places the composition of later strata of
-> the Rgvedas (including, I assume, much of books 1 and 10) in the
-> early centuries of the first millennium BCE.
-
 Dr. Thompson responded:
-
-> I seriously doubt that Patrick Olivelle *gave* you this impression.  It would
-> seem to me rather that you just took it.  Patrick Olivelle knows that 500 BCE
-> is too late for the latest strata of the RV. If you would like to create
-> disagreements between me and Patrick Olivelle and Micahel Witzel, it will be
-> necessary to document them.  For as far as I know, there aren't any when it
-> comes to the dating of the Vedic period.
-
 Please note that I *didn't* say that Olivelle dated later strata
 of the RV to 500 BCE.  What I said, quite clearly, was that even
 Olivelle places later strata of the Rgveda "in the early
@@ -29,7 +9,6 @@ since you ask for proof. See, e.g., Olivelle's introduction to
 his Upanishads translations (1996: xxvii), where he writes of
 "the time of the latest hymns of the Rgveda, probably the early
 centuries of the first millennium BCE."
-
 I mentioned Olivelle only when questioning your claim that a
 consensus existed that placed the composition of the Rgveda
 between 1500 and 1200 BCE. Prof. Olivelle doesn't tell us which
@@ -37,11 +16,7 @@ parts of the Rgveda he has in mind (since people have
 subsequently raised that issue), but his dating nonetheless falls
 well after 1200 CE. I've seen references in other scholars to
 even later dates than Olivelle's.
-
 Thompson writes:
-
-> Your working assumption is the same as Goody's.
-
 The differences between my work and Goody's are profound. Goody
 dealt in ancient traditions only with what he thought were the
 consequences of sudden shifts from oral to written modes of
@@ -59,7 +34,6 @@ claims. My original post, instead, questioned Prof. Witzel's
 views that *after* the Vedic period a "near-perfect oral
 transmission" of the Rgveda existed until it was supposedly
 "first written down c 1000 CE."
-
 This point I do doubt. I suspect that the Rgveda was committed to
 writing much earlier than 1000 CE. I also suspect, despite the
 emphasis placed in tradition on oral transmission of the Rgveda,
@@ -68,43 +42,19 @@ least by the beginning of the common era. Apparently, judging
 from the private email responses that I've gotten over the last
 few days, there are quite a number of Indologists who agree with
 me.
-
 So where's the consensus?
-
 My views are in also agreement with those of Vishal Agarwal,
 which he published in this List:
-
-> ...the eclectic nature of Vedic citations in older works like the Shabara
-> Bhashya and even before that, in the Apastamba Srauta Sutra, attest to the
-> fact that Vedic manuscripts did exist much before 1000 CE. These authors
-> (and many others), quote dozens of Vedic works, and the only way they could
-> have done this was that they either possessed manuscripts (because it is
-> virtually impossible to memorise so many texts) or that they were helped by
-> a 'Parishad' of scholars belonging to different Vedic schools--which is not
-> attested by tradition.
-
 Vishal Agarwal goes on:
-
-> Despite the mnemonic devices and a host of texts facilitating
-> the oral tradition (these texts are called Lakshana granthas), the recitors
-> still use the written text as an aid in memorization, and for occassional
-> cross checking. The orally transmitted text is considered more accurate, but
-> is nevertheless supplemented by a written text (some recitors place it in
-> front of them, some behind them, while others who are perfect, do not use it
-> at all atleast in public because of the stigma attached to it). The same
-> thing has been pointed out by you also.
-
 I also take it that references to written versions of the Veda
 are strongly implied, e.g., in Manu 12.102-103, which reads
 (following Doniger/Smith):
-
   A man who knows the true meaning of the teachings of the Veda
   becomes fit for union with ultimate reality even when he remains
   here in this world....Those who read the books are better than
   those who do not know them; those who remember them are better
   than those who read them; those who understand them are better
   than those who remember them.
-
 The surrounding passages reinforce that suggestion by referring
 explicitly to the Rgveda. I agree with Thompson that "Manu 12.103
 does not establish that the RV was preserved by literate
@@ -115,31 +65,9 @@ as secondary memory aids. That point holds whether or not the
 whole of Manu dates from early centuries of the common era, as
 Dr. Thompson suggests. (I assume that the text, which is
 obviously heavily layered, was compiled over many centuries.)
-
 At one point in his posts, referring to Manu, Thompson writes:
-
-> That the Brahminical orality of this period may have been a a type of
-> secondary orality [influenced by literacy] does not negate the fact that
-> in the Vedic period itself we seem to have primary orality [no influence
-> of writing].
-
 I responded that:
-
-> the idea of Brahminical orality being "a type of
-> secondary orality (influenced by literacy)" is one that I can
-> live with -- and is in harmony as well with the views that Vishal
-> Agarwal put forward at length in his post. But it is *not* in
-> harmony with Witzel's claims [that the Rgveda was first written
-> down c 1000 CE], which you earlier represented as
-> the consensus view in the field.
-
 Thompson responded:
-
-> Let's be clear. Vedic is Vedic and Brahminical is Brahminical.  They are not
-> the same thing.  What you find impossible to accept on the one hand, and in
-> harmony with the views of one Vishal Agarwal on the other, has nothing to do
-> with the matter.  You are confused.
-
 To repeat my point again: My main question about Prof. Witzel's
 position has nothing to do with the Vedic period (although I do
 have secondary concerns about that issue). It has to do with the
@@ -147,7 +75,6 @@ way that the Rgveda was supposedly transmitted in the post-Vedic
 period. My only interest in making my original post was in
 flushing out evidence that the 1000 CE date for the text's first
 written form is in error.
-
 There may be a (rough) consensus of sorts on when the Rgveda was
 first composed. There clearly isn't a consensus on when the text
 was written down. Thompson's admission that Brahminical orality
@@ -159,44 +86,19 @@ oral and literate processes going on in the post-Vedic
 transmission of the Rgveda that reached back long before 1000 CE.
 Apparently there are at least some credible Indologists who agree
 with me.
-
 But let me drop references to Michael's Witzel's views and ask
 Prof. Thompson a direct question: When do *you* think that the
 first version of the Rgveda was written down? 1000 CE -- or
 earlier? Do you believe that written versions of the text might
 have served as secondary memory aids long before this date?
-
-> Thompson writes:
->
-> Like Goody, you have to come to terms with
-> the Vedic evidence and establish that Vedic bears the marks of literacy...
-
 Again, unlike Goody, my main concern involves the transmission of
 the Rgveda long after the Vedic period. I've repeatedly made that
 point and you keep missing it. To whit:
-
 I wrote:
-
-> ...*you* just made a pretty large
-> admission about the role of literacy in preserving Vedic
-> materials. [Referring to Thompson's statement that Brahminical
-> orality was "a type of secondary orality (influenced by literacy)."
-
 Thompson responded:
-
-> What are you talking about?  I have made no 'pretty large admission'
-> whatsoever.  The Vedic period was preliterate.  It preserved itself.  Even
-> after the arrival of literacy in the Indian subcontinent it continued to
-> preserve itself.  Why is this hard to understand?
-
 To repeat again: My central question was not about the Vedic
 period. However, I do admit that statements that Vedic tradition
 (I'm sure you don't mean Vedic period) "preserved itself" *is* a
 bit hard to understand.
-
 Warmest regards,
 Steve Farmer
-
-
-
-

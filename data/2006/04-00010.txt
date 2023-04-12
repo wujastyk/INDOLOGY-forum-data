@@ -1,15 +1,7 @@
->From IeB Catalogus, cf. <http://indica-et-buddhica.org/>
-
-
 Catalogus bibliothecarum search result
-
 Your query was: all fields=Gurujnanavasishtha
-
 Columbia University (New York, NY) (VOYAGER) - 3 record(s)
-
-________________________________________________________________________
 full USmarc record #1 in Columbia University (New York, NY) (VOYAGER)
-
 001 4653231
 005 20040908044919.0
 008 810528s1904 ii a 000 0 eng d
@@ -32,20 +24,9 @@ Chamier.
 700 1 a Chamier, L. M., e tr.
 740 41 a The song of the sun.
 900 a AUTH
-
-
-
 Best,
-
  Richard
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org
 Littledene      | telephone/telefax (man.): ++64 3 312 1699
 Bay Road        | cellular: ++64 27 482 9986
 OXFORD, NZ      | e-mail: r.mahoney[use"@"]iconz.co.nz
-
-
-
-

@@ -1,35 +1,12 @@
-From jacob.baltuch at infoboard.be  Fri Mar  7 02:03:58 1997
-From: jacob.baltuch at infoboard.be (jacob.baltuch at infoboard.be)
-Date: Fri, 07 Mar 97 03:03:58 +0100
-Subject: Korean/Tamil/Hindi (was Re: Query on var.nabheda)
-Message-ID: <161227028803.23782.1755038347036148806.generated@prod2.harmonylists.io>
-
->Japanese has not only one, but two alphabetic scripts as well as a third
->script of Chinese characters.
-
+Korean/Tamil/Hindi (was Re: Query on var.nabheda)
 As a matter of terminology, I think it is more standard to call
 them syllabaries, not alphabets.
-
 There may be arguments as to whether one should call Devanagari
 an alphabet or a syllabary, but I think there is none for hiragana
 and katakana: the 5 signs "ka ki ku ke ko" (say; and so on for the
 rest of the basic signs) bearing absolutely no relation to one other.
-
->The Korean alphabet is very sophisticated,
->and predates the Japanese script. It is often ascribed to an emperor of the
->Silla Dynasty (661-935).
-
 That is news to me. I thought Hangul was introduced by king Yi Sejong in 1443.
 I wonder what the source of your information is.
-
 Maybe what you're referring to is Idu? (But Idu seems to be a lot
 *older* than what you say, and is not an alphabet, and certainly does
 not have any Indic connection)
-
-
-
-
-
-
-
-

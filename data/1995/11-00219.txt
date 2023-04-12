@@ -1,13 +1,7 @@
-From kellner at ue.ipc.hiroshima-u.ac.jp  Wed Nov 29 16:46:29 1995
-From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
-Date: Thu, 30 Nov 95 01:46:29 +0900
-Subject: new translations
-Message-ID: <161227021844.23782.12227530527138514363.generated@prod2.harmonylists.io>
-
+new translations
 I don't have Stephen Phillips' book at hand, but here a few remarks on his
 remarks on translating (quotes, unless stated otherwise, from his posting; I
 will restrict my following comments to the translation of philosophical texts). 
-
 First of all, I got the impression, during the whole of the preceding
 discussion (which focused on Doniger's RV-translations), that Indologists
 live in a universe of their own, where they have to invent wheels anew all
@@ -32,9 +26,7 @@ Seyffort-Ruegg's article "Some Reflections on Translating Buddhist
 Philosophical Texts from Sanskrit and Tibetan", Asiatische Studien 46/1
 (1992), 367-391, who refers to many works which deal with philosophical
 translation in a non-Indological context. 
-
 End of literature-lesson with included statement of amazement. 
-
 The remarks made by Stephen Phillips refer to a specific type of
 translation, with a specific intention: (1) make a text accessible to an
 audience who is neither familiar with the source-language, nor with its
@@ -44,7 +36,6 @@ concepts of Western philosophy as a "delimiting device", a means of
 explaining, comparing, assessing the original text. At the same time, the
 translator considers both to "mirror Sanskrit syntax" and "convey meaning
 clearly and colloquially in English" as desirable. 
-
 Presuppose that the translation is one of Navya-Nyaaya-texts, I find the
 first desideratum  difficult, if not impossible, to achieve. How can one
 mirror a syntax which is abundant in nominal compounds and abstract nouns in
@@ -65,7 +56,6 @@ if, a translation with as few explanations as possible (mainly to clarify,
 to the specialist, how one analyzes the text in detail, or, in case of
 philologically problematic texts, to justify the constitution of the text),
 and a detailled study or interpretation. 
-
 As for the "need of an editor to fill out or in", which is described as "the
 origin of the parenthetic expressions" included in the translation - there
 has been a lot of shuffling around round, square or pointed brackets in
@@ -79,7 +69,6 @@ itself, and ultimetaly does not get you very far. I still stop at every
 brackets, while I might put them to better use such as how to understand why
 one can infer the absence of taste from the sensation of touch, when one
 swallows a lamp (sic). 
-
 The mean advisors thereby sequester pragmatic elements, which may be
 textually implicit but which may not have a lexcial representation on the
 textual surface, into the dungeon of surplus, of decorative ornaments. To
@@ -98,18 +87,9 @@ that different objectifiable criteria should be considered, too. It also,
 just to clarify possible misunderstandings, does not mingle with M. Witzel's
 criticism of Doniger's _inaccuracy_, for accuracy of measurements, plant
 names etc. is an altogether different question. 
-
 However, I will stop my monologue here in order to wait whether anybody is
 interested in these musings in the first place. Next week: Yet another mean
 piece of advice - "do not read anything into the text which is not there". 
-
 Birgit Kellner
 Institute for Indian Philosophy
 University of Hiroshima
-
- 
-
-
-
-
-

@@ -1,9 +1,4 @@
-From Gerard.Huet at inria.fr  Thu Sep 12 23:49:18 1996
-From: Gerard.Huet at inria.fr (Gerard Huet)
-Date: Fri, 13 Sep 96 01:49:18 +0200
-Subject: Latin Transcription of Sanskrit - one more try
-Message-ID: <161227026027.23782.3042085689246579953.generated@prod2.harmonylists.io>
-
+Latin Transcription of Sanskrit - one more try
 Now that the heat on anglo-saxon imperialism has subsided, I propose
 to return for a moment to the transcription discussion.
 First of all, to answer Leslaw Borowski's questioning why I qualified
@@ -16,7 +11,6 @@ roughly in 3 categories:
 30% boring technical stuff about fonts and transliteration systems
 30% noise (communalism, oppression of backward casts such as French, 
 Kashmir, widow-burning, chain letters, subscribe magazines, etc) :-)
-
 Now, returning to Francois.Voegeli's allusion to the standardised latin
 transcription used say in Renou's grammar and the difference with say
 ITRANS convention. Well, here again we fall in the confusion I denounced
@@ -26,14 +20,12 @@ augmented with diacritic marks (what I called level 3 previously), which does
 not give clues on possible computer encodings in the ASCII alphabet or
 other (what I called level 2, where competing conventions are ITRANS,
 DEVNAG, Borowski's system, etc).
-
 Now, let us see. I claim that discussing level 2 conventions is important,
 but a bit boring, in that this question occurs repeatedly in this forum,
 but is generally inconclusive, since as long as the convention is
 unambiguous it is mechanically translatable into any other one.
 But maybe the typographical look (level 3) may be agreed upon much more
 easily, since indeed most recent indological work use a de facto standard.
-
 So let us look at Renou's grammar for instance (or equivalently in the
 Stchoupak, Nitti and Renou `Dictionnaire Sanskrit-Franc,ais').
 And indeed this conforms more or less to the de facto standard, with one
@@ -52,11 +44,9 @@ and settled on \'s and {\d s} (in TeX notation, the latter means s with a dot
 down) for the two sibilants. I also considered several variants of the
 anusvAra, and settled on \.m (dot above m) for the `original' one,
 and {\d m} (dot under m) for the one which stands for another nasal.
-
 My feeling on these matters is that indeed it would be rather easy to come
 to an agreement on a standard on this typographical issue, possibly with a few
 slight variations. This could be finalised at the Bangalore conference in january.
-
 For historical completeness, we may mention MacDonnell's 1924 Practical
 Sanskrit Dictionary, whose latin transliteration, mixing straight and
 slanted letters, is remarkably unpractical. And still earlier, Emile Burnouf's
@@ -73,11 +63,5 @@ t's from ordinary t's without glasses, and I think this should just be put to re
 as indological archeology. Oh, I almost forgot. The Ecole de Nancy
 system used x for k.s, which answers a query from Frances Pritchett
 some time ago. It also used w instead of v, an interesting variation.
-
 Enough for today
 G. Huet
-
-
-
-
-

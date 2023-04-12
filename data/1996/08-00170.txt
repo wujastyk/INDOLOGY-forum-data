@@ -1,12 +1,6 @@
-From tantrapl at hektor.umcs.lublin.pl  Tue Aug 27 20:50:52 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Tue, 27 Aug 96 22:50:52 +0200
-Subject: typing Sanskrit
-Message-ID: <161227025814.23782.11290177636575412436.generated@prod2.harmonylists.io>
-
+typing Sanskrit
 I would like to thank and answer J. Cejka, S.Kalyanaraman, J.E. Agenbroad, 
 A.P. Stone and  P.J. Claus (sorry about wrong sequence).
-
 Before I do it a few remarks. There were a few voices about how people
 dislike to cope with romanized script in SA languages and that we should not
 give roman letters versions to students etc. IMHO we should take into
@@ -59,33 +53,9 @@ I think I did not say avagraha is  ' , udaatta is ' and svarita is `.
 Avagraha is written just before a consonant, accents just after a vowel. I
 was thinking of rendering avagraha as ? but I prefere to keep the tradition. 
 In print you can distinguish between ' an accent and ' an "upper comma"
-
 	I would like to know further proposals and opinions.
 	Regards,
 		Leslaw Borowski
-
 Could it be as below?  
-
-> >Pullat Devadas Das have asked for the actual rendering of the whole sequence
-> >of marks in BO. Here you are:
-> > 
-> >a, aa, i, ii,   u,  uu,  r_,  r_r_, l_, l_l_, e, ai, o, au,
-> >k, kh, g, gh, n-, 
-> >c, ch, j, jh, n~, 
-> >t, th, d, dh, n, 
-> >t_, t_h, d_, d_h, n_, 
-> >p, ph, b, bh, m,  
-> >y, r, l, v, 
-> >s-, s_, s, 
-> >h, h_ (visarga), 
-> >m- (anusvara),  [if necessary: m=  (anunaasika), l-] .
-> ' (avagraha),  ' (udatta), ` (svarita), % (for a part which is omitted)
 Hindi: q, x, z, f
 hiatus: _ 
- 
-
-
-
-
-
-

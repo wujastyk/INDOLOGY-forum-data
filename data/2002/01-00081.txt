@@ -1,44 +1,8 @@
-From vjroebuck at MACUNLIMITED.NET  Thu Jan 24 07:25:24 2002
-From: vjroebuck at MACUNLIMITED.NET (Valerie J Roebuck)
-Date: Thu, 24 Jan 02 07:25:24 +0000
-Subject: Is Unicode welcome yet on the list?
-In-Reply-To: <20020124015042.GK16009@deepthought>
-Message-ID: <161227070278.23782.8620335098668398623.generated@prod2.harmonylists.io>
-
+Is Unicode welcome yet on the list?
 (Gently...) I think it might be difficult for those of us with smaller and
 older computers, which can't run the latest software.  The example "sloka
 would not have been very easy to decode.  I imagine also that email with
 this coding would take up more memory and disk space?
-
 Valerie J Roebuck
 Manchester, UK
-
 At 5:50 pm -0800 23/1/02, Stefan Baums wrote:
->Dear List,
->
->since all the major operating systems and email clients have come to
->support Unicode by now (even though it might require some
->configuration), I was wondering whether its use for sending email
->messages with proper diacritics (instead of Harvard-Kyoto
->"transliteration") might be welcome on this list, or in other words,
->how many of the participants do not yet use software supporting it.
->As a test, here's the half-"sloka of my last post in proper Unicode
->encoding:
->
->   n??sty udyamasamo bandhu??* kurv?????o n??vas??dati
->
->I realise that this is a touchy subject, and that some out there even
->still continue to write "ae oe ue" for the German umlauts etc., so
->please be gentle...
->
->Kind regards,
->Stefan Baums
->
->--
->Stefan Baums
->Asien-Instituttet
->K??benhavns Universitet
-
-
-
-

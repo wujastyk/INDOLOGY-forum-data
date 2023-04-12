@@ -1,8 +1,4 @@
-From pwyzlic at uni-bonn.de  Fri Sep 17 23:13:37 2021
-From: pwyzlic at uni-bonn.de (Peter Wyzlic)
-Date: Sat, 18 Sep 2021 01:13:37 +0200
-Subject: [INDOLOGY] Grep tool for searching on Mac
-In-Reply-To: <CAB3-dzc5PEVqXF2sF2LnFNK-4c96wKg4jMcJKn5hngSH04Nz6w@mail.gmail.com>
+[INDOLOGY] Grep tool for searching on Mac
 References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
  <CAJ3b0o8g-wVSP+GNGxWE1T39K_WAd=RbMqC_=5cfqaMvVe20kw@mail.gmail.com>
  <6B91CD78-F906-4B80-B60B-811AC7F78CF9@gmx.de>
@@ -13,52 +9,18 @@ References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
  <A9CEF708-1936-494A-96D6-6EFB1D5B3465@wlu.edu>
  <CAANHO16H27QT9GH_6UH2FdDQUkrT1cF05KPYC444Uz6x1v8_zw@mail.gmail.com>
  <CAB3-dzc5PEVqXF2sF2LnFNK-4c96wKg4jMcJKn5hngSH04Nz6w@mail.gmail.com>
-Message-ID: <473A20A8-874C-4C8F-9043-D61F9839F564@uni-bonn.de>
-
 Am 18.09.2021 um 00:22 schrieb Madhav Deshpande via INDOLOGY <indology at list.indology.info>:
-> 
-> Thanks everyone for informing me about the use and benefits of GREP. One last question. Is GREP a downloadable software that will work on Mac?
-
 You already have it. 
-
 The program is in the Unix part of the system. Go to Spotlight Finder (generally opened by Command + Space), then type in "Terminal? and take the offered program icon or hit the Launchpad icon and type in "Terminal?. Grep is one of the base Unix commands that is invoked in the text terminal. 
-
 Base syntax: grep "search pattern? filename (like this: link: <https://i.postimg.cc/zBry4r9t/screenshot-01.png>):
-
 The program gives out lines that match the search pattern as simple text. Like this : <https://i.postimg.cc/Fs7HWzYF/screenshot-02.png>
-
 To get the command line options, type in "man grep? and hit enter.
-
 Text editors like BBedit give this a more amiable user interface, of course.
-
 All the best
 Peter Wyzlic
-
 (in case the screenshots do not pass the mailing list server, I provided links).
---
 Institut f?r Orient- und Asienwissenschaften
 Bibliothek
 Universit?t Bonn
 Br?hler Stra?e 7
 53119 Bonn
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210918/fef2f625/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: screenshot-01.png
-Type: image/png
-Size: 471655 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20210918/fef2f625/attachment.png>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: screenshot-02.png
-Type: image/png
-Size: 886527 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20210918/fef2f625/attachment-0001.png>
-

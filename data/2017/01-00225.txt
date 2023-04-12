@@ -1,123 +1,59 @@
-From LubinT at wlu.edu  Thu Jan 26 18:04:45 2017
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Thu, 26 Jan 17 18:04:45 +0000
-Subject: [INDOLOGY] Discussing Academia.edu - correction
-Message-ID: <D4AFA3E8.36F0B%lubint@wlu.edu>
-
+[INDOLOGY] Discussing Academia.edu - correction
 Just checked; the number of participating scholar on HC as of today (and probably yesterday too) is around 7500, not 370.  Still, very, very few Indologists.
 TL
-
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of "Lubin, Tim via INDOLOGY" <indology at list.indology.info<mailto:indology at list.indology.info>>
-Reply-To: Tim Lubin <lubint at wlu.edu<mailto:lubint at wlu.edu>>
-Date: Thursday, January 26, 2017 at 12:49 PM
-To: Indology <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Discussing Academia.edu
-
+Re: [INDOLOGY] Discussing Academia.edu
 Dear colleagues,
-
 I too read Sarah Bond?s blog posting with interest without proceeding to delete my Academia.edu account.  Sarah is a friend of mine, and was for two years my colleague at Washington and Lee (she was a Mellon Postdoc Fellow at the time).  Besides being a superb, rising scholar of late antique law, Roman epigraphy, with a focus on marginalized groups and legal stigmas such as infamia, she is a big proponent of open access scholarship and digital tools for the humanities.  Her criticisms of Academia.edu are salutary warnings for how the commercial nature of the company are ultimately  in tension with its role as a forum for increased open communication among scholars and the dissemination of knowledge.  I think she is correct that in the longer term, non-commercial venues will provide a more secure basis for this.
-
 Nevertheless, the world is in flux, and at the moment Academia.edu is serving a purpose that no other platform yet serves.  Like others who have written in, I have found that it not only allows others, including many in South Asia, to gain access to my own work but alerts me to much excellent work by colleagues in my own fields and in adjacent fields that I might otherwise have missed, or discovered only much later.  The opportunities of have online discussion of scholarly topics and others? work in progress are also valuable.  So I was astonished that another W&L scholar I know, who reads Sarah?s blogs and was a regular user of Academia.edu, appears immediately to have deleted her account!
-
 I am taking a more cautious, pragmatic approach.  The alternate venues that Bond (citing others) recommends ? Zenodo and Humanities Commons (HC) ? look promising.  I duly made accounts at both in order to find out what they offered.  Zenodo at present is almost entirely aimed at scientists, and it looks a very lonely place for an Indologist or Roman historian.  (Note that Ethan Gruber?s migration tool, mentioned in Sarah?s post, did not work smoothly for me and was mostly a waste of an hour.)  HC is more for "people like us? but as of yesterday, total current membership is around 370.  Almost none of you out there are participating.  So, for the present, it is no substitute for Academia.edu.  (I note that Sarah has not signed up for either Zenodo or HC, so far as I can see.)
-
 One other consideration:  Both Zenodo and HC are more scrupulous about observing the fine points of publisher restrictions on self-archiving of copyrighted publications.  This will hamper the ?free spread? of information.  So far, Academia.edu has been content to let individual users make the call about what they post.  This gets into murky legal territory, but it is a great boon to users.  As Audrey T. points out, the hegemonic publishing conglomerates currently occupy the legal high ground but the moral low ground, and it is the ?push-back? from masses of individuals through collective ?non-cooperation? (non-compliance) that will lead inexorably to more permissive regulations.  Zenodo and HC do not seem to be helping facilitate that.  In this respect, the Social Science Research Network (SSRN), which I use to reach legal studies audiences, is better.
-
 So I am taking a ?both ? and? approach for now: continuing to use Academia.edu so long as its utility outweighs its commercial distortions and interference, while also supporting the emergence of nonprofit, open access platforms that will (we hope) one day extricate us from for-profit corporations, both presses and networking sites.
-
 In solidarity,
-
 Tim
-
-
 Timothy Lubin
 Professor of Religion and Adjunct Professor of Law
 Chair of the Department of Religion
 Washington and Lee University
 Lexington, Virginia 24450
-
 http://home.wlu.edu/~lubint
 http://wlu.academia.edu/TimothyLubin
 http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
-
-
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of "Walser, Joseph via INDOLOGY" <indology at list.indology.info<mailto:indology at list.indology.info>>
-Reply-To: "Walser, Joseph" <Joseph.Walser at tufts.edu<mailto:Joseph.Walser at tufts.edu>>
-Date: Thursday, January 26, 2017 at 11:56 AM
-To: Indology <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Discussing Academia.edu
-
+Re: [INDOLOGY] Discussing Academia.edu
 I concur with Dominik and Audrey. Especially in our field, if I relied on university open access sites or some of the other sites that Bond mentions, I would not be alerted to scholarship done at Indian universities or universities in China or that done by scholars unaffiliated with any university. Scholarship can become something of an echo chamber. My own scholarship has benefited enormously from my daily email alerts to work from scholars whom I have never heard of working in places that I have never heard of.
 -j
-
-
 Joseph Walser
-
 Associate Professor
-
 Department of Religion
-
 Tufts University
-
-________________________________
-From: INDOLOGY [indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>] on behalf of Audrey Truschke via INDOLOGY [indology at list.indology.info<mailto:indology at list.indology.info>]
 Sent: Thursday, January 26, 2017 11:47 AM
-To: Dominik Wujastyk
-Cc: Indology
-Subject: Re: [INDOLOGY] Discussing Academia.edu
-
+Re: [INDOLOGY] Discussing Academia.edu
 I concur with Dominik on the valuable features of academia.edu<http://academia.edu>. I would add that I find the sins of academia.edu<http://academia.edu> quite minor compared to those of the large for-profit companies that own scholarly journals. We all publish in journals owned by Springer, John Wiley & Sons, and other commercial scholarly publishers that make significant profit margins off of our research, usually after taking the copyright and putting our work behind paywalls.
-
 If one wants to protest the commercialization of academic work and such, it seems that journals are the place to start.
-
 Audrey
-
 Audrey Truschke
 Assistant Professor
 Department of History
 Rutgers University-Newark
-
 On Thu, Jan 26, 2017 at 11:20 AM, Dominik Wujastyk via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Many of us use Academia.edu as a shop-window for our publications and our academic identity.
-
 There was a piece by Sarah Bond published in Forbes on Monday<http://www.forbes.com/sites/drsarahbond/2017/01/23/dear-scholars-delete-your-account-at-academia-edu/#39e520de2ee0> this week that raises a number of criticisms of Academia.edu, and recommends deleting your Academia.edu account.
-
 I've read Bond's piece carefully, and I find its arguments extremely weak.  I don't wish to do a point-by-point rejoinder here.  But I do want to signal to colleagues that Bond's alarmist critique of Academia.edu is something that I personally will ignore.
-
 I remain very happy with Academia.edu, while recognizing that there are some issues that require vigilance and discussion.  I have written to Richard Price the founder of Academia.edu and a former Fellow of All Souls, Oxford, more than once in the past, and he has always answered personally and discussed my concerns seriously.  Similarly with other staff members.  The areas where Academia.edu might need to watch its step are areas that apply to all other similar services.  The benefits that Academia.edu offers its users are substantial, for a combination of hosting research, for subject-specific awareness alerts, for networking, and for analytics.  I see no competitor out there that quite offers the same ecosystem with the same combination of benefits.
-
 Best,
 Dominik Wujastyk
-
-
 ?
---
 Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
 ?,?
-
 Singhmar Chair in Classical Indian Society and Polity
 ?,?
-
 Department of History and Classics<http://historyandclassics.ualberta.ca/>
 ?,?
 University of Alberta, Canada
 ?.?
-
 South Asia at the U of A:
-
 ?sas.ualberta.ca?<http://sas.ualberta.ca/>
 ??
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170126/d1c99c74/attachment.htm>
-

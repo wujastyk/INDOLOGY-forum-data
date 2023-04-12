@@ -1,10 +1,4 @@
-From wujastyk at gmail.com  Wed Nov 25 03:44:21 2020
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 24 Nov 20 20:44:21 -0700
-Subject: [INDOLOGY] Academia.edu and privacy issues
-In-Reply-To: <CAJ3b0o-Z8RuCrjeJ6eCZaRzsj-BHUWx8f+sO+ZOFP19z-MXjMw@mail.gmail.com>
-Message-ID: <CAKdt-CfNnoGzZDUQ9YpW3hTr+_-1N8h+8iLmYWxdFkrLpxXLOA@mail.gmail.com>
-
+[INDOLOGY] Academia.edu and privacy issues
 I've discovered that the puzzlingly appropriate recommendations I've
 received are being sent not from the domain academia.edu but from
 academia-mail.com.  But I think it is still the same outfit, so not
@@ -13,9 +7,3 @@ their notification
 system <https://www.academia.edu/settings#email-notifications> I'm
 wondering if it's that, somehow working much better than one would
 imagine.  But that doesn't explain your examples.
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20201124/352d4253/attachment.htm>
-

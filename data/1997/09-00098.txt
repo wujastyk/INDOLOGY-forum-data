@@ -1,18 +1,9 @@
-From narayana at hd1.vsnl.net.in  Sun Sep  7 12:04:55 1997
-From: narayana at hd1.vsnl.net.in (DEVARAKONDA VENKATA NARAYANA SARMA)
-Date: Sun, 07 Sep 97 17:04:55 +0500
-Subject: Dravidian Cryptography
-Message-ID: <161227032171.23782.13092076897502610884.generated@prod2.harmonylists.io>
-
+Dravidian Cryptography
 At 06:04 AM 9/6/97 BST, D.kumar wrote:
-
->The other Kannada word kanda, which is an inverted and substituted form of
 dinku, denotes: young child (DED. #1411), and Skanda or Muruga is knwon as
 an young boy, young man, a boy god; and he is associated with infants (Asko
 Parpola; Deciphering the Indud Script;1994;p.225; henceforth I shall refer
 to this work as: A.Parpola).
->
- 
 On the one hand it is claimed that `skanda' is the inverted/substituted form of
 `dinkisu' (= leap). On the other hand it is claimed that`kanda' which is the
 vikriti of `skanda' is the inverted/substituted form of `dinku' (= child).
@@ -20,10 +11,6 @@ How can a vikriti of one word which is a inverted/substituted form of
 `dinkisu' be an inverted/ substituted form of another word 'dinku'. One word
 should have
 only one origin.
-
-
-
->There are other correspondences involving different other aspects of this
 god and their related Dravidian words in light of the phenomenon of
 inversion and substitution, but let us just take the other name of this god:
 Kumara. In its inverted and substituted form, this name: Kumara, constitutes
@@ -33,8 +20,6 @@ DED. #2485 and 4889 respectively). And Muruku is also known as Shan-mukha,
 'sixfaced.' The same words Aru muka, with slight variation, become: ara
 maga, which in Kannada denote: king's son (Kt.p.37), and kumara has been
 defined as: heir apparent (Kt.p.143).
->
-
 The word `muka' is a vikriti of the sanskrit word `mukha', `h' being dropped
 for easiness of pronunciation. This word cannot be claimed as an original
 dravidian word. Then we have the situation mukha -> muka -> aru+muka ->
@@ -43,16 +28,12 @@ the dravidian is achieved.
 The word `muruga' of follows from `Arumuga' much more convincingly. Arumuga ->
 ( by dropping initial A) -> rumuga -> (interchange of first two letters) ->
 muruga.
- 
-
->Many scholars have expressed that it is a puzzle that Murukan is associated
 with the snake A.Parpola;p.226), because it is very rare to see a snake on
 or near the person of  Subrahmannya.  But it is not hard to see that when we
 subject the name Murukan to the phenomenon of inversion and substitution,
 (keeping in mind the correspondence k=g) it yields: nAgaram, which is the
 cobra. There are many other illustrations like this, but this is enough for
 us here.
->
 The word murugan with `n' ending is of tamilian origin. We can only say that
 inversion/substitution (if it is there) is exclusively tamilian. `nAga' is a
 sanskrit word for serpent. This means thar ancient tamilians gave their god
@@ -60,12 +41,6 @@ the attributes of a sanskrit word formed by the inversion/substitution of
 the name of their god.This also implies that by that time of seperation of
 dravidian
 into seperate dilects has solidified.
-
-
->Note to Professors N. Ganesan, and D.V.N.Sarma:
->
-
->I have thankfully noted your kind input regarding the correspondence
 between p and h. I would like to bring to your notice that when we are
 considering correspondences such as p becoming h, we must remember at least
 two important points. First of all, many of these correspondences (like the
@@ -83,9 +58,6 @@ dialects also, reflect the "roughness" and the "softness" of the idioms
 phonetically. Since the antiquity of the Dravidian dialects go to most
 ancient times, we can not pass judgement on such matters as certain
 correspondences based on a partial picture of them.
->
-
->Secondly, as you know, there is the significant difference between the
 speech form and the written form of Kannada. Even to this day the words
 written with an initial p almost always (I should really say always here,
 but I am trying to be accurate) are pronounced in the daily speech with an
@@ -122,7 +94,6 @@ DED. #4469) which is listed in the Tamil word list in DED. This needs to be
 studied too. This all goes to show that much needs to be done in the study
 of the Dravidian languages. We need to find out why these and other such
 things have occured, and we need to go as far back in time as we can. 
->
 It is obvious that whereas telugu, tamil and malayalam have retained their
 `p' kannada has changed its `p' to `h'. This is obvious because old kannada
 writes `p' in places where `h' is pronounced nowadays.And if the word
@@ -131,16 +102,6 @@ been changed to `h'.
 This I do not think this is possible. I think the transformation of `p' to
 `h' must be quite recent because you still have material which retains `p'
 atleast in writing.  
-
-
 Finally all these conjuctures and coincidences may be superficial and random.
 They have no more validity than the Baconian signatures in Shakespeare's plays.
-
-
 sarma.
-
-
-
-
-
-

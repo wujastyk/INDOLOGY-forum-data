@@ -1,14 +1,8 @@
-From aklujkar at unixg.ubc.ca  Tue Mar 12 21:48:43 1996
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Tue, 12 Mar 96 13:48:43 -0800
-Subject: Dravidian (Tamil) Sanskrit relation
-Message-ID: <161227023327.23782.15592820865006494061.generated@prod2.harmonylists.io>
-
+Dravidian (Tamil) Sanskrit relation
 On 8 March, <nas_ng at lms420.jsc.nasa.gov (Ganesan)> posted two very useful
 and balanced messages on the relation between Dravidian (Tamil) and
 Sanskrit. In one of them, he  has, if I recall correctly, once again,
 posted Prof. Hart's views. 
-
 While I agree with the thrust (the two linguistic traditions are much
 closer for a longer time than most introductory books depict) of Hart's
 views, it seems important to me to bear in mind that much of recent
@@ -17,13 +11,6 @@ India from a very early time -- an area in which languages belonging to
 different families had begun to share each other's features. In this
 situation, it is not as easy to determine syntactic borrowings and
 borrowings of literary conventions as Prof. Hart seems to have assumed. 
-
 An important article on the antiquity of relation between Tamil and
 Sanskrit is: Sharma, K.V. 1983. "Spread of Vedic culture in ancient south
 India." Adyar Library Bulletin 47:1-14.
-
-
-
-
-
-

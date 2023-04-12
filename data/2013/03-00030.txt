@@ -1,55 +1,21 @@
-From wujastyk at gmail.com  Sat Mar  9 18:07:50 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sat, 09 Mar 13 19:07:50 +0100
-Subject: [INDOLOGY] Fwd: New Sanskrit-Eng. dictionary (program)
-In-Reply-To: <003401ce1ceb$58967230$09c35690$@gmail.com>
-Message-ID: <CAKdt-CfVxtd=ozoVASZyZsZGHy9BjGU+Vm0uztDrSuzDDLX-PA@mail.gmail.com>
-
----------- Forwarded message ----------
-From: Petrovsky Vladislav (Mandala Pati dasa) <mandalapati at gmail.com>
-Date: 9 March 2013 18:27
-Subject: New Sanskrit-Eng. dictionary (program)
-To: indology-owner at list.indology.info
-
-
+[INDOLOGY] Fwd: New Sanskrit-Eng. dictionary (program)
+New Sanskrit-Eng. dictionary (program)
 Namaste!****
-
 ** **
-
 I'm glad to introduce new Sanskrit-Eng. dictionary (software). This
 particular dictionary based on the list on verbal roots of Srila Jiva
 Gosvami.****
-
 Devanagari and Eng. search is available through whole data-base.****
-
 Data-base of the dictionary has near 10 000 final forms.****
-
 http://sourceforge.net/projects/dhatu-patha/****
-
 All files for downloading (esp. "sandic.db") are available at: ****
-
 http://sourceforge.net/projects/dhatu-patha/files****
-
 ** **
-
 ** **
-
 Link for those who didn't see the main dictionary, created earlier:****
-
 http://sourceforge.net/projects/sandic/****
-
 All files at:****
-
 http://sourceforge.net/projects/sandic/files****
-
 ** **
-
 With gratitude, Mandala Pati dasa****
-
 ** **
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130309/2670e471/attachment.htm>
-

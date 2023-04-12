@@ -1,15 +1,6 @@
-From pwyzlic at UNI-BONN.DE  Wed Apr  4 22:46:37 2007
-From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
-Date: Thu, 05 Apr 07 00:46:37 +0200
-Subject: Pischel
-In-Reply-To: <Pine.WNT.4.64.0704040932440.3364@Caraka>
-Message-ID: <161227079846.23782.16276136339370612715.generated@prod2.harmonylists.io>
-
+Pischel
 On Wed, 4 Apr 2007 09:46:51 +0100
   Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
-
-> [DLI]  
-
 I'd like to add, that, at least, parts of the same scans 
 are available from the so called "Universal Library" (the 
 former "Million Books Project") via www.archive.org. 
@@ -19,7 +10,6 @@ in toto via FTP (generally a zip archive of the originial
 TIFFs as well as DjVu, PDF). If possible they seem to add 
 a plain text version produced by OCR software (I assume 
 this will not work properly on non-latin based scripts).
-
 The "Universal Library" is hosted by the Carnegie Mellon 
 University. By the way, they have a companion web site of 
 their own under the URL:
@@ -28,17 +18,10 @@ There you'll find some background information and a
 similar page-per-page viewing interface of the scans like 
 that of the DLI in Hyderabad. The search function is 
 rather bad, too, and cannot be trusted.
-
 All the best
 Peter Wyzlic
-
---
 Indologisches Seminar der
 Universit?t Bonn
 Regina-Pacis-Weg 7
 D-53113 Bonn
 Deutschland / Germany
-
-
-
-

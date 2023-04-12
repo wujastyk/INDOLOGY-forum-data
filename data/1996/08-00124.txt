@@ -1,20 +1,13 @@
-From ucgadkw at ucl.ac.uk  Thu Aug 22 10:44:50 1996
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 22 Aug 96 11:44:50 +0100
-Subject: typing Sanskrit
-Message-ID: <161227025721.23782.13077628208093440649.generated@prod2.harmonylists.io>
-
+typing Sanskrit
 Leslaw's system  "BO" seems just as good as any other 7-bit scheme.  I
 think it is probably better to decide which side of a letter your accents
 will appear -- BO has accent-markers on the left and on the right of
 letters, which makes automatic parsing much more fiddly.  
-
 However, Peter Schreiner's transliteration scheme is very similar to BO in
 general principle, and more fully worked-out.  In addition, there is a
 significant corpus of work in Peter's coding, which makes it worthwhile to
 develop conversion tables for moving in and out of his scheme (to TeX, for
 example).
-
 Finally, I should like to say *again*, pace Lars M. Fosse's remarks which
 I consider refutable, that no 7-bit coding scheme for Sanskrit is
 essentially better than any other, as long as ambiguity is avoided.  And
@@ -22,14 +15,4 @@ the tools for converting from one scheme to another are so widespread and
 easy to use, that surely we must ask whether the topic remains
 interesting?  Might we seriously consider replacing any typing on this
 topic by typing actual Sanskrit texts (in any coding :-)?
-
 Dominik
-
-
-
-
-
-
-
-
-

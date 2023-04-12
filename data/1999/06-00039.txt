@@ -1,26 +1,16 @@
-From nybia at TIN.IT  Tue Jun  1 19:53:57 1999
-From: nybia at TIN.IT (Emiliano Bianchi)
-Date: Tue, 01 Jun 99 21:53:57 +0200
-Subject: tithi
-Message-ID: <161227049860.23782.13859536019432017471.generated@prod2.harmonylists.io>
-
+tithi
 Dear Sirs,
- 
 can anyone please give me some information about the ancient lunar day (tithi) ?
 At the moment,  I found on the web the following informations:
-
-
 1) tithi is a lunar day. A tithi is shorter than a solar day. There are
 30 tithis in a lunar month; fifteen during the bright half known as shukla
 paksha and fifteen during the dark half known as krishna paksha.
-
 2) Different kinds of Tithis:
 Nanda        the 1st, 6th and 11 th lunar days 
 Bhadra       the 2nd, 7th and 1 2th lunar days
 Jaya            the 3rd, 8th and 1 3th lunar days
 Riktha         the 4th, 9th and 14th lunar days
 Poorna       the 5th, 10th and 15th lunar days
-
 3) Lunations are divided into 30 tithis, or lunar days. 
 Each tithi is defined by the time required for the longitude of the Moon to increase by 12o over the longitude of the Sun. 
 Thus the length of a tithi may vary from about 20 hours to nearly 27 hours. 
@@ -29,16 +19,7 @@ Occasionally a short tithi will begin after sunrise and be completed before the 
 Similarly a long tithi may span two sunrises. 
 In the former case, a number is omitted from the day count. 
 In the latter, a day number is carried over to a second day.
-
 I would like to know the duration (in hours) of the various tithis
- 
 Thanks in advance
- 
 Emiliano Bianchi
 nybia at tin.it 
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/19990601/7db78260/attachment.htm>
-

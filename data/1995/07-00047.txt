@@ -1,9 +1,4 @@
-From CXEV at MUSICA.MCGILL.CA  Sat Jul  8 16:30:30 1995
-From: CXEV at MUSICA.MCGILL.CA (Richard Hayes)
-Date: Sat, 08 Jul 95 12:30:30 -0400
-Subject: Tibetan workshop, Phase Two (Practical apoha)
-Message-ID: <161227019966.23782.1576496337094372985.generated@prod2.harmonylists.io>
-
+Tibetan workshop, Phase Two (Practical apoha)
 A few days ago I sent out a short sentence by Sa-skay Pa.n.dita without
 any context whatsoever (because none was available to me). Despite the
 fact that John Powers describes the sentence as unambiguous and
@@ -11,19 +6,16 @@ straightforward, I have so far received twelve different translations
 for it. These translations vary from one another not so much in minor
 details, such as choice of English words, but in their construal of the
 syntax of the sentence being translated.
-
 For the sake of easing the analysis of these translations, I have
 grouped them into six families. (In fact, there are really only four
 broad genera, since A&B can be seen as two species of one genus, as can
 C&D).
-
 The darker the room, the more loudly do we all shout that we can see
 clearly. Thus, along with some interesting grammatical analyses, we have
 all been entertained by some dazzling displays of scholarly hubris and
 immodesty that remind one of the behaviour of the fabulous brawl among
 the blind men in the great elephant-feeling contest. (Is there anything
 quite so amusing as the cocksure ego of a budding Buddhologist?)
-
 The variety of translations offered by our panel of experts seems to me
 to provide an opportunity for us amateurs to learn something about
 Tibetan grammar. In particular, I think we can safely conclude that,
@@ -31,7 +23,6 @@ unless Tibetan is utterly ambiguous and capable of almost unlimited
 syntactic interpretation, some of the following families of translation
 can be eliminated right away by some principle of Tibetan grammar or
 other. The question is: which can be eliminated, and by what principles?
-
 Everyone has had a chance to boast of the superiority of his [sic]
 translation. The next stage of this exercise, therefore, is to invite
 all ye acknowledged (and even all ye self-proclaimed) experts in the
@@ -41,92 +32,60 @@ family) can be eliminated from the set of grammatically allowable
 translations. PLEASE MAKE YOUR REASONS AS SPECIFIC AS POSSIBLE, towards
 the end of articulating some rules of Tibetan syntax that will serve us
 all.
-
 Please send your criticisms of what you think are the faulty
 translations to me (or to buddha-l, where I will intercept them). In the
 interest of reducing the currently high verbosity level on buddha-l, I
 shall summarize the results and post them sometime next week.
-
 Here again is the sentence in question:
-
     phung po'i rgyun rgyu las dang nyon mongs pas gang zhig zag pas
     gang zag ces bya'o.
-
 Here are the translations, grouped into families.
-
 The first two families, A and B, understand the overall structure of the
 sentence to be X IS CALLED Y.
-
 A. X = "gang zhig", Y = "gang zag":
-
    1. One who (gang zhig) is defiled/obscured (zag) by the karma which
    is a  cause -- the continuum of the aggregates -- and by the
    conflicting emotions, is a "person".
-
    2. Because it is that which is afflicted by the causes of the
    aggregates' continuum, karma and kle"sa, it is called the `person.'
-
    3. Because action and defilement cause the continuum of aggregates,
    whoever is with impurities is to be called a person.
-
 B. X = "phung po'i rgyun", Y = "gang zag":
-
    4. The continuum of the aggregates is called the 'person' because it
    is afflicted due to (its) causes, karma and kle"sa.
-
    5. The cause, namely, the continuum of aggregates, is called a
    person by anyone who is defiled by karma and afflictions.
-
    6. The continuum of aggregates, is called a person by anyone who is
    defiled by its cause, karma and afflictions.
-
    7. Due to being contaminated by actions and afflictions, the causal
    continuum of the aggregates is called 'full of contamination' [i.e.,
    "person"]."
-
 The third and fourth families, C and D, contain translation that do not
 take the overall structure to be X is called Y. Rather, it takes the
 structure as "GANG ZAG" IS SO-CALLED BECAUSE ...
-
 C. A particle such as "la" or "na" is assumed to be added after
 "phung po'i rgyu", and "gang zhig" is understood as a particle that
 separates two different reasons:
-
    8. "Person" is so called (1) due to the cause--karma and kle'sa
    within the continuum of aggregates and (2) because of contamination.
-
 D. "phung po'i rgyun" is taken as the subject of which "zag pa" is
 the predicate.
-
    9. It is called person ("the contaminated") because the continuum of
    aggregates is that which is contaminated by/due to [its] causes action
    and delusion.
-
    10. Due to the the causal continuum of the aggregates being
    contaminated by actions and afflictions, [person] is called 'full of
    contamination'.
-
 E. "las" is taken as a grammatical particle rather than as a noun
 meaning karman:
-
    11. The continuity of aggegates, because it is what is impure by
    cause (rgyu las) and by misery (dang nyon mongs pas), is called
    "pudgala."
-
 F. "phung po'i rgyun rgyu" is apparently taken as a bahuvrihi
 compound modifying "gang zag".
-
    12. Since any particular affliction results from karma or klesha,
    what is called personality is caused [by] the continuum of
    aggregates.
-
 I hope I have properly understood and correctly classified the different
 translations. And now, ladies and gentlemen, your criticisms please.
-
 Richard P. Hayes                                 <cxev at musica.mcgill.ca>
- 
-
-
-
-
-

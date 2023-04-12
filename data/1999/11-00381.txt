@@ -1,27 +1,14 @@
-From 103322.630 at COMPUSERVE.COM  Wed Nov 24 14:33:22 1999
-From: 103322.630 at COMPUSERVE.COM (Ulrich T. Kragh)
-Date: Wed, 24 Nov 99 09:33:22 -0500
-Subject: Diacritics font
-Message-ID: <161227054000.23782.15265330880629749054.generated@prod2.harmonylists.io>
-
+Diacritics font
 Dear List-members,
 I am in need of computer fonts for writing both diacritics as well as
 Devanaagarii.
-
 I am using a PC and have to write in MS Word 97 and MS Access.
-
 I have so far been using the Transliteration Vijay diacritics font, but
 have discovered that it is not fully compatible with MS Word 97, since the
 spaces between the letters are not recognized as such but as characters,
 which gives problems with line wrapping, etc.
-
 Can you share your experiences with me? Which fonts are the best to use
 with these PC programs?
-
 With best regards,
 Ulrich T. Kragh
 University of Copenhagen
-
-
-
-

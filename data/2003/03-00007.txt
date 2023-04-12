@@ -1,18 +1,6 @@
-From reusch at UCLINK.BERKELEY.EDU  Mon Mar  3 19:43:34 2003
-From: reusch at UCLINK.BERKELEY.EDU (Beatrice Reusch)
-Date: Mon, 03 Mar 03 11:43:34 -0800
-Subject: Outliner: corrected link
-Message-ID: <161227072455.23782.837485655679124451.generated@prod2.harmonylists.io>
-
+Outliner: corrected link
 If you get an error message by clicking on my previously posted url for
 NoteTaker, I have added a space for you convenience.
-
 Please click here for NoteTaker:
-
 http://www.aquaminds.com/index.jsp
-
 Beatrice Reusch
-
-
-
-

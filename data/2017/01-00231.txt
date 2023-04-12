@@ -1,40 +1,21 @@
-From drdhaval2785 at gmail.com  Fri Jan 27 09:35:09 2017
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Fri, 27 Jan 17 15:05:09 +0530
-Subject: [INDOLOGY] Siddhantakaumudi unicode in XML
-Message-ID: <CADSGPzWbQ5Lmk6Nfh6dqsDyaHeiPuwOC7hx3+tufvQcx72Ak+w@mail.gmail.com>
-
+[INDOLOGY] Siddhantakaumudi unicode in XML
 Apologies for cross posting.
-
 Dear all,
-
 I had been searching for Siddhantakaumudi in unicode for quite some time.
 Online resources of Paninian grammar usually had commentaries like
 Balamanorama available, but not original.
 I recently got one copy of SK from Mr. H. N. Bhat via mailing list
 Bharatiyavidvatparishat.
-
 After certain cleanups and addition of markups, SK unicode is being
 presented for computational purposes in XML format for further
 modifications.
 https://github.com/drdhaval2785/siddhantakaumudi/blob/master/sk.xml
 (Click on Download button to download)
-
 Issues regarding markups / features etc may be noted in
 https://github.com/drdhaval2785/siddhantakaumudi/issues.
-
 This is the github location where future correction to this XML file will
 be made. Git is chosen so that version changes are captured properly.
-
 Regards,
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Anand
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170127/4fe7337d/attachment.htm>
-

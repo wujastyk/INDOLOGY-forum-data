@@ -1,34 +1,23 @@
-From wujastyk at GMAIL.COM  Fri Aug 27 18:17:24 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Fri, 27 Aug 10 20:17:24 +0200
-Subject: Sanskrit texts in TEI/XML format available from SARIT
-Message-ID: <161227090222.23782.11080849171331378909.generated@prod2.harmonylists.io>
-
+Sanskrit texts in TEI/XML format available from SARIT
 I am pleased to announce that the SARIT project is now releasing the
 TEI<http://www.tei-c.org/index.xml>-encoded
 base files of five major Sanskrit works.  The Text Encoding Initiative (TEI)
 is a consortium which collectively develops and maintains a standard for the
 representation of texts in digital form.  The texts are:
-
    1. Brahmapurana
    2. Naradasmriti
    3. Astangahrdayasamita / Vagbhata
    4. Arthasastra / Kautalya
    5. Manusmrti
-
 These are all relatively long works, giving a good and varied sampling of
 vocabulary.  The TEI-encoded texts can be downloaded from
-
    - http://sarit.indology.info/downloads.shtml
-
 where the HTML and PDF versions have been available for some time.  The
 PostScript versions have been withdrawn.
-
 These files give excellent, high-quality examples of how to go about
 preparing a TEI-compliant file of a Sanskrit text.   Copyright issues have
 been checked and the files can be distributed free of charge for scholarly
 purposes.
-
 If you are new to the world of the eXtensible Markup Language and
 XML<http://en.wikipedia.org/wiki/Xml>files and TEI-encoding, one way
 to get started is to find an XML-aware editing
@@ -39,22 +28,14 @@ The oXygen XML editor <http://en.wikipedia.org/wiki/Oxygen_XML_Editor> is
 widely liked and is cheap ($64) for scholarly use.  It can be downloaded and
 tried out free.  It is a Java application, so it can run in Windows, Mac OS
 X, and Linux.
-
 For more advanced users, please feel free to integrated these TEI files into
 your own scholarly projects or databases.  If you develop further tagging or
 text-enrichment, SARIT would be glad to have the enhanced TEI files to add
 to the repository.
-
 The preparation of these files was made possible by funding from the British
 Academy and the British Association of South Asian
 Studies<http://www.basas.org.uk/>
 .
-
 Enjoy.
-
 Dr Dominik Wujastyk
 http://SARIT.indology.info
-
-
-
-

@@ -1,21 +1,10 @@
-From D.Wujastyk at ucl.ac.uk  Thu Jul  7 23:25:18 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 07 Jul 94 17:25:18 -0600
-Subject: Tamil dictionary dispute I.
-Message-ID: <161227016954.23782.13763488985492670879.generated@prod2.harmonylists.io>
-
-
-
+Tamil dictionary dispute I.
 Indian Express, Madras, Wednesday June 8, 1994.  Front page:
 ============================================================
-
                  GERMAN UNIVERSITY `LIFTS' FROM TAMIL DICTIONARY
                   A Madras scholar moves High Court for Remedy
-
                                 by Rasheeda Bhagat
                                       Madras
-
-
           Even as  there is  a lot  of debate  on intellectual  property
           rights  and  even  as  many  research  scholars  from   Indian
           universities take  flak  for plagiarising  Ph.D.  theses  from
@@ -23,7 +12,6 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           and publisher  accusing the  Indology department  of a  German
           university of  "lifting en  masse" a  modern Tamil  dictionary
           brought out by his company, has come to light.
-
           The infuriated scholar - S. Ramakrishnan, managing partner  of
           Cre-A Publishing House - has  moved the Madras High Court  for
           remedy.  Justice  Goverdhan has issued  an interim  injunction
@@ -36,15 +24,12 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           accuses of  infringing  on  his  copyright,  to  any  computer
           network or database, or the publication or distribution of the
           printed copies of its work.
-
           Advocate Sriram Panchu  who represented  Ramakrishnan in  this
           landmark case in the High  Court submitted that as the  German
           publication, which had  violated his  client's copyright,  was
           already available on the computer  network at the IIT and  the
-
           SPIC Science Foundation at Madras,  the Madras High Court  had
           jurisdiction to take up the case.
-
           Cre-A is an  innovative publishing house  in Tamil started  in
           1974, which has attempted  to explore the hitherto  unexplored
           areas in the language.  In  1987, ramakrishnan goat a Rs.  7.2
@@ -57,13 +42,11 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           use, words disappear, existing words lose some of their  sense
           or take additional  sense and forms  of words and  grammatical
           behaviour also change."
-
           To achieve this  objective, in  the initial stage,  a team  of
           Tamil scholars,  working  ont he  Dictionary  of  Contemporary
           Tamil (DCT), had  to plough through  140,000 pages of  various
           Tamil   texts   such   as   newspaper   reports,    government
           publications, magazines, fiction, school texts, etc.
-
           In the next stage, a team of English scholars were involved in
           the exercise.  As a result of six years of work the dictionary
           was published in January 1992,  with the copyright resting  on
@@ -75,7 +58,6 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           English meaning provided by the Madras work, being  translated
           into German.   Even  the  order of  the entries  has  remained
           unchanged.
-
           Worse the  Online Tamil-English  Lexicon (OTL)  of the  German
           University has been  made available  through the  E-Mail to  a
           computer network  to  which people  all  over the  world  have
@@ -89,7 +71,6 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           he said adding that only a couple of months ago he had sold  a
           machine readable copy (on diskettes) to a Japanese scholar  at
           US $2000.
-
           On October  19,  1993,  Ramakrishnan received  a  letter  from
           Dieter  B.  Kapp.    Director   of  the  IITS,  in  which   he
           categorically acknowledged that their "Tamil-German dictionary
@@ -97,14 +78,12 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           Tamil-English dictionary".    Later, however,  another  letter
           from the  Institute,  dated  March  5,  1994,  said  that  the
           dictionary was not to be published in the near future.
-
           Said Ramakrishnan, "I received this letter when the dictionary
           was already  in  circulation.    This  is  totally  unethical.
           Institutions which  should  set  high  standards  in  academic
           integrity and pave the way for intellectual cooperation  among
           various cultures, are doing things, which undermine this  very
           purpose.
-
           Advocate Sriram Panchu says that  the High Court interim  stay
           is the first step in the case. "In the midst of all this  GATT
           discussion, when we are  at the receiving  end of charges  and
@@ -113,7 +92,6 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
           years of work on the dictionary,  and it was atrocious on  the
           part of  the German  institute to  straightaway poach  on  the
           work.
-
           Ramakrishan adds  that the  most  serious implication  of  the
           whole issue  is that  the institute  might not  stop at  this.
           According to an E Mail communication exchange dated April  17,
@@ -128,9 +106,3 @@ Indian Express, Madras, Wednesday June 8, 1994.  Front page:
  Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
  Wellcome Institute,                               FAX: +44 71 611 8545
  183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

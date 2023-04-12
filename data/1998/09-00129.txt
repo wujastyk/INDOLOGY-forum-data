@@ -1,12 +1,5 @@
-From sumedh at CS.WUSTL.EDU  Mon Sep 28 21:16:21 1998
-From: sumedh at CS.WUSTL.EDU (Sumedh Mungee)
-Date: Mon, 28 Sep 98 16:16:21 -0500
-Subject: Best computer for Sanskrit?
-In-Reply-To: <Brian Akers's message of Mon, 28 Sep 1998 16:49:37 EDT>
-Message-ID: <161227041500.23782.1412441009764805286.generated@prod2.harmonylists.io>
-
+Best computer for Sanskrit?
 Hello,
-
         I am an amateur, but in my brief experience, I have found
 Linux to be the best platform for this kind of work. The xdvng
 devanagari fonts allow me to browse devanagari websites without
@@ -15,40 +8,9 @@ pages. The Emacs editor also has an excellent support for composing,
 viewing and saving articles in Devanagari fonts. Unicode support in
 Linux is also pretty good. Linux is far more stable than any version
 of Windows I have used.
-
         I am using Redhat Linux v5.1, running on a Pentium-400. All of
 the above software was free, and I bought the operating system for
 about 50 bucks, but it can be downloaded via the Net for free also,
 from www.redhat.com. Let me know if you need any more information.
-
 ~sumedh
-
 Brian Akers <Sfauthor at AOL.COM> writes:
-
-> Please post your responses to the list--I'm sure I'm not the only person in
-> this situation.
->
-> I'm nursing a six-year-old Macintosh computer that is at the end of its useful
-> life. I am going to buy a new computer by January, 1999. While the Apple
-> Computer Corporation certainly seems to be coming back to life, I am undecided
-> whether to stick with the Mac or switch to Windows.
->
-> What do members of this list feel is the best platform for multilingual
-> computing--esp. Indic languages and, most particularly, Sanskrit?
-> Who is doing the best job of implementing Unicode?
-> Which platform has the best Devanagari fonts?
-> Is WorldScript now a cutting-edge technology, average, or obsolete?
->
-> Thank you all for your input. I am looking forward to reading your comments.
->
-> Brian
->
->
-> --------------------
-> Brian Dana Akers
-> www.pipeline.com/~sfauthor/
-> sfauthor at aol.com
-
-
-
-

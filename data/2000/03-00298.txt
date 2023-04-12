@@ -1,20 +1,7 @@
-From ucgadkw at UCL.AC.UK  Thu Mar 16 13:10:13 2000
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 16 Mar 00 13:10:13 +0000
-Subject: [ADMIN] Indology Archive
-Message-ID: <161227056938.23782.7619249587360307046.generated@prod2.harmonylists.io>
-
----------- Forwarded message ----------
-Date: Thu, 30 Sep 1999 11:02:13 -0400 (EDT)
-
-Subject: Indology Archive
-
-
+[ADMIN] Indology Archive
+Indology Archive
 The Indology mirror archive is now set up, at the URL:
-
 http://listserv.linguistlist.org/archives/indology.html
-
-
                 **************************************
 Anthony Aristar                         Associate Professor
 Moderator, LINGUIST                     aristar at linguistlist.org
@@ -24,10 +11,4 @@ Dept. of English
 Wayne State University
 51 W. Warren
 Detroit, MI 48202
-
-URL: http://linguistlist.org/aristar/
                 **************************************
-
-
-
-

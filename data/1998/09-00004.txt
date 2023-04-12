@@ -1,10 +1,4 @@
-From steiner at MAILER.UNI-MARBURG.DE  Tue Sep  1 12:03:32 1998
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Tue, 01 Sep 98 14:03:32 +0200
-Subject: ciciir.su.h and dudru.su.h
-In-Reply-To: <199808301823.OAA05860@math.mps.ohio-state.edu>
-Message-ID: <161227041246.23782.11387282175787869118.generated@prod2.harmonylists.io>
-
+ciciir.su.h and dudru.su.h
 I have checked the critical edition of the Padmaprabh.rtakam by
 J. R. A. Loman ("The Padmapraabh.rtakam. An Ancient Bhaa.na Assigned
 to ;Suudraka." [Ph.D. thesis by] J. R. A. Loman. Amsterdam 1956) who
@@ -33,9 +27,6 @@ somewhat 'pretentious' rather than a wrong form. Therefore, I would
 suggest reading sa.mcicari.su.h instead of sa.mciciir.su.h. (perhaps
 a scribal error because of a wrong association with the well known
 form-cikiir.su.h).
-
-
---
 Dr. Roland Steiner
 Fachgebiet Indologie, FB 11 der Philipps-Universitaet
 Wilhelm-Roepke-Strasse 6
@@ -44,7 +35,3 @@ D-35039 Marburg (Paketanschrift / for parcels)
 Germany
 Tel.: +49-6421-282184; Fax: +49-6421-284995
 email: steiner at Mailer.Uni-Marburg.DE
-
-
-
-

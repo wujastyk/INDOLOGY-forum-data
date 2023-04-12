@@ -1,19 +1,11 @@
-From karp at UW.EDU.PL  Fri Dec 17 07:32:09 2004
-From: karp at UW.EDU.PL (Artur Karp)
-Date: Fri, 17 Dec 04 08:32:09 +0100
-Subject: Hindi geographical names
-In-Reply-To: <Pine.LNX.4.58.0412162036250.3467@ls03.fas.harvard.edu>
-Message-ID: <161227075488.23782.6898684186233230533.generated@prod2.harmonylists.io>
-
+Hindi geographical names
 Dear List Memebers:
-
 I was asked (by the Polish Geodetical Service) to prepare a list of Indian
 geographical names - with their Polish, Hindi and English versions.
 Being unable to locate in Poland any detailed map of India in Devanagari
 characters, I would like to ask for your kind assistance in determining
 the Hindi equivalents (Kyoto transcription, with retroflex consonants) of
 the following geographical names:
-
 Paithan Dam
 Aharbal Falls
 Barehipani Falls
@@ -31,9 +23,7 @@ Intanki N.P.
 Krem Um Lawan Cave
 Krem Maw Tynhiang Cave
 Borra Cave
-
 Peaks:
-
 Baintha Brakk
 Barabar
 Batura
@@ -73,9 +63,7 @@ Sonam
 Tatakuti
 Tent Peak
 Tungar
-
 Towns:
-
 Dhamtari
 Dhurbi
 Dindori
@@ -106,16 +94,8 @@ Sidhi
 Theni
 Tinsukia
 Tura
-
-
 Thanking you in advance,
-
 Artur Karp
-
 South Asian Studies Deptt
 University of Warsaw
 Poland
-
-
-
-

@@ -1,33 +1,6 @@
-From mmdesh at umich.edu  Thu May 11 12:08:36 2017
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Thu, 11 May 17 08:08:36 -0400
-Subject: [INDOLOGY] Font?
-In-Reply-To: <CALNcvFtbAb0a33p5Pc5ugqtM_3XXWDp1i2HkHKBdu6ayUTHFPQ@mail.gmail.com>
-Message-ID: <CAB3-dzcocMsV+ggRyNON_8gWvFr+R8MpM=iaHM29QS0HTSwocw@mail.gmail.com>
-
+[INDOLOGY] Font?
 Hello Artur,
-
      I have Gandhari Unicode installed on my Mac.  The question is how to
 access these characters.
-
 Madhav
-
 On Thu, May 11, 2017 at 7:55 AM, Artur Karp <karp at uw.edu.pl> wrote:
-
-> Dear Discutants,
->
-> let me repeat my earlier message:
->
-> Gandhari Unicode font has both l/L and r/R with rings (not dots!) below.
->
-> I use Windows, and have no problem with installing the font. Don't know if
-> it works with Mac.
->
-> Artur Karp
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170511/7483639b/attachment.htm>
-

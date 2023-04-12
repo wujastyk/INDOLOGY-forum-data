@@ -1,38 +1,14 @@
-From apandey at U.WASHINGTON.EDU  Wed Sep 17 23:48:52 1997
-From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
-Date: Wed, 17 Sep 97 16:48:52 -0700
-Subject: Downloading diacritic Roman fonts for Indian Languages
-In-Reply-To: <970917104231_-731882084@emout14.mail.aol.com>
-Message-ID: <161227032585.23782.4117679336098860573.generated@prod2.harmonylists.io>
-
+Downloading diacritic Roman fonts for Indian Languages
 On Wed, 17 Sep 1997, Sudalaimuthu Palaniappan wrote:
-
-> For quite sometime, I have been trying to download the Roman diacritic fonts
-> (CSX or Norman) from the the following site
-> ftp://bombay.oriental.cam.ac.uk/pub/john/software/fonts
-> I have not been successful. When I download the fonts like tm-csx.zip and
-> open it, the computer (PC) tries to treat it as a data file of an accounting
-> software I have (Bestware)  and gives up.
-
 I've experienced this problem before but not with the bombay site. Try
 holding down [shift] while you click on the filename. Perhaps your browser
 does not recognize the extension .zip. Go into your browser options can
 set zip as a valid file extension (zip-application). Best yet is to revert
 back to the old FTP software... :-> Can't go wrong with the tried and
 true.
-
-> Does anybody else know/have these or other similar fonts which I can easily
-> download and install? I would appreciate installation instructions also.
-> Thanks in advance.
-
 Installation is fairly straightforward for TrueType fonts in Windows 95.
 Just copy the fonts to the fonts directory and they should be available.
 Fot Windows 3.1: open up the Control Panel and choose Add Fonts. Add the
 fonts, and they should be available for use.
-
 Regards,
 Anshuman Pandey
-
-
-
-

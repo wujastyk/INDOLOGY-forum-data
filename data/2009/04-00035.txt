@@ -1,22 +1,9 @@
-From r.mahoney at INDICA-ET-BUDDHICA.ORG  Wed Apr  8 10:39:20 2009
-From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
-Date: Wed, 08 Apr 09 22:39:20 +1200
-Subject: RESOURCE> IndUni Fonts Upgraded (JD Smith)
-Message-ID: <161227085690.23782.5753946064219954436.generated@prod2.harmonylists.io>
-
+RESOURCE> IndUni Fonts Upgraded (JD Smith)
 Dear Colleagues,
-
 John has just upgraded his IndUni fonts. All users are encouraged to
 replace previous versions.
-
-
 Best regards,
-
  Richard Mahoney
-
-
----------------------------------------------------------------------
-
 April 7, 2009: I have created upgraded versions of my "IndUni" OpenType
 fonts. These are Unicode-compliant fonts that contain a comprehensive
 set of "Indological" characters, as well as all the European characters
@@ -24,7 +11,6 @@ that scholars are likely to need. They are available as freeware, and
 include high-quality lookalikes for Times, Palatino, New Century
 Schoolbook, Helvetica and Courier. They are based on the freeware fonts
 so generously contributed by URW++ of Germany.
-
 The upgraded fonts now contain all the forms required for Avestan, and
 a basic set of Greek letters. In addition they contain all the accented
 characters specified by MES-1, the smallest of the recognised
@@ -34,35 +20,22 @@ Pinyin; and a set of Cyrillic characters. This is, of course, in
 addition to all the characters known to be used in representing Indian
 languages in Roman script. The IndUni-T fonts (the Times-like ones)
 also contain versions of j-underdot, used for some Dardic languages.
-
 There was an unfortunate bug in the previous release, resulting in the
 omission of non-breaking space. This has been fixed.
-
 The fonts accept input in both "composed" and "decomposed" forms of
 Unicode -- e.g. the correct form for "a macron" will be used whether
 the document contains the one character U+0101 ("a macron") or the two
 characters U+0061 ("a") + U+0304 ("macron"). Since there seems to be
 something of a shift in usage under way here, this is a major
 advantage.
-
 The fonts can be downloaded from http://bombay.indology.info/.
-
 John Smith
-
-
 John Smith
 jds10 at cam.ac.uk
 http://bombay.indology.info
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 275 829 986
 OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indica et Buddhica: Materials for Indology and Buddhology
-
-
-
-

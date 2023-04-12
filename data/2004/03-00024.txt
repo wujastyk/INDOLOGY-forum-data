@@ -1,14 +1,3 @@
-> From Monier-Williams Sanskrit-English Dictionary.
-> Version: 0.1a_8. [mw]:
->
->   strIvraNa
->      3[ str'I-vraNa ] m. the female organ Kpr.
->
->
-> Best regards,
->
->  Richard MAHONEY
-
 Since there seem to be many colleagues out there who
 are very interested in the problem of how to
 understand rma byed pa and vraNa bhaGga, I would like
@@ -40,7 +29,6 @@ possible that Xuanzang had a Sanskrit text of the
 yogAcArabhUmi corrupted in two different places to
 something like *vandana instead of vraNa (or
 vraNabhaGga.
-
 The second YogAcArabhUmi passage mentioned above,
 however, contains a gloss, which seems to point in
 another direction. Unfortunately, it is quite
@@ -65,23 +53,10 @@ Indic *vaNa = Skt. and pAli vana. This would, of
 course, indeed imply that the correct understanding of
 the whole word has been lost quite early in the text
 transmission (of the mUlasarvAstivAdin).
-
 This must be sufficient for the time being, since I am
 running out of time.
-
 Best wishes,
 Martin Delhey
-
-
-
-
-
-
-__________________________________
 Do you Yahoo!?
 Yahoo! Search - Find what you?re looking for faster
 http://search.yahoo.com
-
-
-
-

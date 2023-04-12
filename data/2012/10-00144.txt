@@ -1,10 +1,4 @@
-From wujastyk at GMAIL.COM  Wed Oct 31 17:26:51 2012
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Wed, 31 Oct 12 18:26:51 +0100
-Subject: Improvements on La Tex?
-In-Reply-To: <8E11F3CB-16A2-4482-B85E-32A614A75681@smcm.edu>
-Message-ID: <161227097885.23782.16538187431071641841.generated@prod2.harmonylists.io>
-
+Improvements on La Tex?
 As one of the original authors of EDMAC (which morphed into LEDMAC and
 eLEDMAC), I obviously think that using XeTeX or XeLaTeX and LEDMAC (or
 variant, ho ho) is the True Path.  I've done editions this way, and have
@@ -18,7 +12,6 @@ http://en.wikipedia.org/wiki/Comparison_of_TeX_editors.  For Indic work, your
 editing program must have Unicode support, and must use the Unicode variant
 of TeX: XeTeX (with LaTeX and Polyglossia).  The links provided by Michael
 just now will tell you more.
-
 However, the Classical Text Editor by Stefan Hagel is also a capable
 program, if you absolutely need a MS Word-like interface.  I am using CTE
 myself these days, because I it was chosen as the project tool by the
@@ -27,19 +20,14 @@ CTE.  It has many real strengths, but also some weaknesses, some bugs, and
 some inconsistencies.  The author, Stefan Hagel, stands solidly behind his
 program, and fixes things as soon as you tell him, often within a couple of
 hours.
-
 In an ideal world, a front-end like CTE would export TeX or XML code that
 could be compiled by XeLaTeX.  I think that's not actually an unrealistic hope
 for the future, and some work in this direction has already been done by
 Sebastian Rahtz at Oxford (TEI/XML -> LEDMAC -> PDF).
-
 You should also look at Juxta. It addresses the issue of text editing in a
 completely different manner, but has real strengths.
-
 Best,
 Dominik
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
 ,
@@ -53,64 +41,4 @@ St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
 Project <http://www.istb.univie.ac.at/caraka/> | home
 page<http://www.academia.edu/DominikWujastyk>|
 PGP <http://wujastyk.net/pgp.html>
-
-
-
-
 On 31 October 2012 16:44, Slouber, Michael J. <mjslouber at smcm.edu> wrote:
-
-> Dear Jonathan and others,
->
-> Many critical editors now use the recently updated LaTeX package "eledmac"
-> along with XeLaTeX to be able to typeset with Mac fonts.  Here are a few
-> useful links:
->
-> The package itself:  <http://www.ctan.org/pkg/eledmac>
-> The users listserv:   <
-> https://lists.berlios.de/mailman/listinfo/ledmac-users>
-> The list archive:       <https://lists.berlios.de/pipermail/ledmac-users/>
-> Many useful posts: <http://cikitsa.blogspot.com/search/label/XeLaTeX>
-> Some sample files: <http://www.garudam.info/category/xetexledmac/>
-> Many useful tips:    <http://www.djdekker.net/ledmac/>
->
-> Best of luck,
->
-> Michael Slouber
-> Visiting Assistant Professor
-> Religious Studies
-> St. Mary's College of Maryland
-> http://garudam.info<http://garudam.info/>
->
->
->
-> On Oct 31, 2012, at 11:15 AM, Jonathan Edelmann wrote:
->
-> Dear All,
->
-> I use Mac and I've started to work with La Tex for the purpose of noting
-> variants in texts.  I find La Tex a bit non-user-friendly, and I'm
-> wondering if someone could recommend a good website for Indologist,
-> Sinologist, etc. who are making critical editions, or (preferably) if
-> anyone knows a better program that will allow for multiple footnote bars,
-> margin notes, etc.
->
-> Sincerely,
-> Jonathan Edelmann
->
->
-> Jonathan B. Edelmann, Ph.D.  Assistant Professor of Religion
-> Mississippi State University Department of Philosophy and Religion
-> 449 Hardy Road Etheredge Hall
-> Mississippi State 39762
-> Work Phone (662) 325-9363 Home Phone (662) 268-8314
-> University Website<
-> http://www.philosophyandreligion.msstate.edu/faculty/edelmann.php> | Book<
-> http://ukcatalogue.oup.com/product/academic/pn/neuroscience/9780199641543.do?sortby=pubDateDescend>
-> | Email Address<mailto:je374 at msstate.edu>
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20121031/39057be7/attachment.htm>
-

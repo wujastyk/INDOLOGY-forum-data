@@ -1,21 +1,11 @@
-From dermot at grevatt.force9.co.uk  Wed Nov  8 18:59:04 2017
-From: dermot at grevatt.force9.co.uk (dermot at grevatt.force9.co.uk)
-Date: Wed, 08 Nov 17 18:59:04 +0000
-Subject: [INDOLOGY] Sources on Relationship btw Oral/Literary Traditions
-In-Reply-To: <CAFdBLNgg7xhvrSgayxVaV09xEtvuVJPfCNibetLQj_Vhcg4+KQ@mail.gmail.com>
-Message-ID: <5A0353F8.22522.26700C7@dermot.grevatt.force9.co.uk>
-
+[INDOLOGY] Sources on Relationship btw Oral/Literary Traditions
 Dear Herman,
-
 A forthcoming article gives some of the history of the transformation of an oral corpus of 
 Kannada bhakti poetry into a printed corpus, initiated by missionaries in the 19th century. 
 Would that be relevant to your work? I give details and abstract below.
-
 Dermot Killingley
-
 "Dasa Sahitya: Some Notes on Early Publications" by Shashikantha Koudur. Religions of 
 South Asia 10.3 
-
 Abstract: Dasa Sahitya is a literary genre in Kannada, first seen in the late fifteenth 
 century. Making its mark both in literature and in Indian classical music, Dasa 
 Sahitya attracted the attention of missionaries and other colonial functionaries, 
@@ -30,9 +20,7 @@ produced. We refrain from classifying these works as either `colonial? or
 inextricably linked to the Brahmin community from the days of the early 
 publications, even as this community projected it as part of `Kannada? culture. We 
 also note evidence of cultural opposition to the change from manuscript to print.  
-
 On 7 Nov 2017 at 14:49, Herman Tull via INDOLOGY wrote:
-
 I've been following this discussion with great interest, not the least because I am just now writing a short piece on 
 the effect of the Bible on literacy in India. Of course, the introduction of the printing press into India (to ensure 
 distribution of Indian language bibles) is one obvious route into this. But, are there specific discussions of how the 
@@ -40,20 +28,16 @@ protestant-educated Hindus may have seen the missionary emphasis on literary cul
 leading to a "new" valuation of the Indian "textual" tradition (by this I refer to both oral and written text), favoring the 
 literary (in the sense of a "written" text)? I have collected some bits and pieces about this (especially Blackburn's 
 work and Oddie's), but if there are specific studies available, I would appreciate hearing about them.
-
 Herman Tull
 Lafayette College
-
 On Mon, Nov 6, 2017 at 12:30 PM, Nagaraj Paturi via INDOLOGY 
 <indology at list.indology.info> wrote:
     Another significant aspect she might want to focus on is "textualism" by which I mean: 
     to conclude about the reality outside the texts, purely on the basis of words in the texts. 
-
     In other words apart from the connections /interface / comparison / study of relative 
     significance - between oral and written texts, a similar focus on connections /interface / 
     comparison / study of relative significance - between texts and the reality of life, rituals, 
     and other facts also needs to be taken up. 
-
     On Mon, Nov 6, 2017 at 10:25 PM, Christophe Vielle via INDOLOGY 
     <indology at list.indology.info> wrote:
     In the margin of this thread, or as a very special case, following this article just 
@@ -75,12 +59,8 @@ On Mon, Nov 6, 2017 at 12:30 PM, Nagaraj Paturi via INDOLOGY
     Kampan Rm stanzas, with written and free amplifications, the former called 
     aalpau , mixing Tamil, Malayalam and Sanskrit), preserved (?...) by the 
     puppeteers.
-
-    
-
     Le 6 nov. 2017 ? 13:19, Tieken, H.J.H. <H.J.H.Tieken at hum.leidenuniv.nl> a 
     ?crit :
-
     Dear List members, 
     I am not sure if it is relevant to the topic at hand, but in the introductions of, 
     for instance, the Haracarita, Raghuva?sa and the Sanskrit plays the 
@@ -89,14 +69,12 @@ On Mon, Nov 6, 2017 at 12:30 PM, Nagaraj Paturi via INDOLOGY
     Introductions and Prefaces in Kavya", in: Bronner-Shulman-Tubb, 
     Innovations and Turningpoints, Oxford-Delhi 2014, pp. 86-108). 
     Herman
-
     Herman Tieken
     Stationsweg 58
     2515 BP Den Haag
     The Netherlands
     00 31 (0)70 2208127
     website:  hermantieken.com
-    
     Van: INDOLOGY [indology-bounces at list.indology.info] namens Christophe 
     Vielle via INDOLOGY [indology at list.indology.info]
     Verzonden:  maandag 6 november 2017 8:45
@@ -104,7 +82,6 @@ On Mon, Nov 6, 2017 at 12:30 PM, Nagaraj Paturi via INDOLOGY
     CC: indology at list.indology.info
     Onderwerp:  Re: [INDOLOGY] Sources on Relationship btw Oral/Literary 
     Traditions
-
     The periodical "Oral Tradition" might have relevant papers: 
     http://journal.oraltradition.org/issues/
     See Issues
@@ -114,24 +91,17 @@ On Mon, Nov 6, 2017 at 12:30 PM, Nagaraj Paturi via INDOLOGY
     List of several articles by searching s.v. "India"
     Best wishes,
     Christophe Vielle
-
     Le 5 nov. 2017 ? 20:18, Nagaraj Paturi via INDOLOGY 
     <indology at list.indology.info > a ?crit :
-
     It is Lauri Honko, the Finnish Folklorist who uses the word 
     "textualization" in the sense of bringing an oral text into a 
     written form: 
-
     https://books.google.co.in/books/about/Textualization_of_Ora 
     l_Epics.html?id=vyfOPBtlz54C
-
-
     On Mon, Nov 6, 2017 at 12:33 AM, Tyler Williams via 
     INDOLOGY  <indology at list.indology.info> wrote:
     One could also add: 
-
     Wilke, Annette, and Oliver. Moebus.  Sound and 
     Communication: An Aesthetic Cultural History of 
     Sanskrit Hinduism. Vol. v. 41. Religion and Society,. 
     Berlin: De Gruyter, 2011.
-

@@ -1,34 +1,18 @@
-From prajnapti at gmail.com  Thu Oct 17 03:32:10 2019
-From: prajnapti at gmail.com (Dan Lusthaus)
-Date: Wed, 16 Oct 19 23:32:10 -0400
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_sa=C3=B1j_sajjate?=
-In-Reply-To: <CAPW7aQHgXMjD9gN9=BdEs+XsRsqyVPXaZ9+34Tfp2=8iPV9=sg@mail.gmail.com>
-Message-ID: <086638F7-F469-4FE2-8DEB-D800DB4CED8C@gmail.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_sa=C3=B1j_sajjate?=
 Dear all,
-
 For what it is worth, a few Pali references, and a bit of Sanskrit:
-
 PTS Pali-English Dict
 https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Sajjati <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Sajjati>  
-
 1) Visajjati <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Visajjati&searchhws=yes> (p. 639 <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?page=639>) Visajjati Visajjati [vi+sajjati, Pass. of sa?j; the regular Act. would be visajati] to hang on, cling to, stick to, adhere (fig.); only in pp. visatta (q. v.). -- The apparent ger. form visajja belongs to vissajjati.
-
 1) Vissajjati <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Vissajjati&searchhws=yes> (p. 641 <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?page=641>) Vissajjati Vissajjati [vi+sajjati, of s?j. The ss after analogy of ussajjati & nissajjati, cp. ossajjati for osajjati]. A. The pres. vissajjati is not in use. The only forms of the simple verb system are the foll.: ger. vissajja, usually written visajja, in meaning "setting free," giving up, leaving behind Sn 522, 794, 912, 1060; Nd1 98; Nd2 596. -- grd. vissajjaniya [perhaps better to vissajjeti1] to be answered, answerable; nt. a reply Nett 161, 175 sq., 191; and vissajjiya to be given away: see under a?. <-> pp. vissa??ha. -- B. Very frequent is the Caus. vissajjeti (also occasionally as visajj?) in var. meanings, based on the idea of sending forth or away, viz. to emit, discharge J i.164 (ucc?ra -- pass?va?). -- to send Mhvs 8, 3 (leka? visajjayi). -- to dismiss PvA 81 (there). -- to let loose PvA 74 (ratha?). -- to spend, give away, bestow, hand over Pug 26 (visajj?); Nd1 262 (dhana?); Miln 41 (dha??a?); PvA 111, 119. -- to get rid of J i.134 (muddika?). -- to answer (questions), to reply, retort Sn 1005 (?essati, fut.); VvA 71; PvA 15, 59, 87. -- pp. vissajjita. -- Caus. II. vissajj?peti (in meanings of vissajjeti) J iv.2 (hattha?=to push away); Miln 143; Mhvs 6, 43.
-
 1) Sanga <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Sanga&searchhws=yes> (p. 666 <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?page=666>) Sanga Sanga [fr. sa?j: see sajjati1] cleaving, clinging, attach- ment, bond S i.25, 117 sq.; A iii.311; iv.289; Dh 170, 342, etc.; Sn 61, 212, 386, 390, 475, etc.; Dhs 1059; DhsA 363; J iii.201; the five sangas are r?ga, dosa, moha, m?na, and di??hi, Thag. 633=Dhp. 370; DhA iv.187; seven sangas, It. 94; Nd1 91, 432; Nd2 620.
    -- ?tiga one who has overcome attachment, free from attachment, an Arahant M i.386; S i.3, 23; iv.158= It 58; Sn 250, 473, 621; DhA iv.159.
-
 1) Sajjati <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Sajjati&searchhws=yes> (p. 668 <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?page=668>) Sajjati Sajjati [Pass. of sa?j or saj to hang. Cp. sanga] 1. to cling, to, to be attached S i.38, 111 (aor. 2 sg. sajjittho); ii.228; A ii.165; J i.376 (id. asajjittho); Sn 522, 536. ppr. (a)sajjam?na (un) -- attached Sn 28, 466; J iii.352. -- 2. to hesitate J i.376 (asajjitv? without hesitation). -- pp. satta1. -- Cp. abhi? & vi?.
-
 1) Satta <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?qs=Satta&searchhws=yes> (p. 673 <https://dsalsrv04.uchicago.edu/cgi-bin/app/pali_query.py?page=673>) Satta Satta1 [pp. of sa?j: sajjati] hanging, clinging or attached to Vin i.185; D ii.246; Nd1 23, 24; Dh 342; J i.376. Cp. ?satta1 & by?satta.
 ?
-
 Critical Pali Dictionary
 https://cpd.uni-koeln.de/search?article_id=8235 <https://cpd.uni-koeln.de/search?article_id=8235>  
-
 abhi-sajjati
-
 , pr. 3 sg. (orig. pass, of prec, cf. sa.
 sajjate, Buddh.sa. abhi-?ajyate, Av-? 1286,1), (a) Utt.
 to stick fast on, to linger in (g?me); (b) to take offence
@@ -46,14 +30,10 @@ tattha mamma? (so pt, Se; Ee tattha ca camma?)
 tudanto viya na laggi, Sv); 1 sg. ~sajji?, AN II 204,34
 (+ kuppi?, etc.); inf. ~itum (im?ya appamatt?ya),
 DN I 91,28 (= kodha-vasena laggitu?, Sv). 
-
-
 ?
 from Huet?s Sanskrit Grammar Companion: Conjugation
 https://sanskrit.inria.fr/cgi-bin/SKT/sktconjug.cgi?lex=MW&q=sa%7Enj&t=VH&c=1&font=roma <https://sanskrit.inria.fr/cgi-bin/SKT/sktconjug.cgi?lex=MW&q=sa~nj&t=VH&c=1&font=roma> 
-
 from the conjugation tables of sa?j.
-
 Causative conjugation:
 Participles
 Past Passive Participle
@@ -77,10 +57,3 @@ sajjan?ya m. <https://sanskrit.inria.fr/cgi-bin/SKT/sktdeclin.cgi?q=sajjaniiya;g
 Future Passive Participle
 sajjayitavya m. <https://sanskrit.inria.fr/cgi-bin/SKT/sktdeclin.cgi?q=sajjayitavya;g=Mas;font=roma;r=sa%7Enj;p=Pfutp;lex=MW> n. <https://sanskrit.inria.fr/cgi-bin/SKT/sktdeclin.cgi?q=sajjayitavya;g=Neu;font=roma;r=sa%7Enj;p=Pfutp;lex=MW> sajjayitavy? f. <https://sanskrit.inria.fr/cgi-bin/SKT/sktdeclin.cgi?q=sajjayitavyaa;g=Fem;font=roma;r=sa%7Enj;p=Pfutp;lex=MW>
 Dan
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20191016/9b744909/attachment.htm>
-

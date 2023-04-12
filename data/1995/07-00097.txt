@@ -1,10 +1,4 @@
-From giuseppe at imiucca.csi.unimi.it  Sun Jul 16 00:23:11 1995
-From: giuseppe at imiucca.csi.unimi.it (giuseppe at imiucca.csi.unimi.it)
-Date: Sun, 16 Jul 95 00:23:11 +0000
-Subject: Fonts and Copyright
-Message-ID: <161227020044.23782.16864500847911239336.generated@prod2.harmonylists.io>
-
-
+Fonts and Copyright
 Alec McAllister may be quite right in his analysis of what might be considered
 a copyright violation - obviousy I will not be sending anyone anything through
 e-mail or post until the issue is perfectly cleared (which doesn't seem likely).
@@ -16,12 +10,4 @@ it doesn't have, i.e. the modified font?
 I would appreciate comments on this matter - specifically, we are dealing with
 a personal, non-commercial use of a modified typeface which, in its basic form,
 is shipped with every Macintosh computer.
-
-
 Alex Passi
- 
-
-
-
-
-

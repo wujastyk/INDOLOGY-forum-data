@@ -1,26 +1,5 @@
-From zydenbos at GMX.LI  Thu Dec 28 00:06:32 2000
-From: zydenbos at GMX.LI (Robert Zydenbos)
-Date: Thu, 28 Dec 00 01:06:32 +0100
-Subject: the so-called "double-truth"
-In-Reply-To: <INDOLOGY%2000122706320206@LISTSERV.LIV.AC.UK>
-Message-ID: <161227066069.23782.8487599239306283977.generated@prod2.harmonylists.io>
-
+the so-called "double-truth"
 Vidyasankar Sundaresan schrieb am Wed, 27 Dec 2000:
-
-> Now that Galileo has been mentioned, here is an example
-> of "two truths" in science. Relativistic mechanics holds
-> true for velocities close to that of light, but Newtonian
-> mechanics holds true for much smaller speeds. The "higher
-> truth" of relativity theory itself becomes the "lower
-> truth" of classical physics, provided certain conditions
-> are met. This simply falls out of the mathematics involved,
-> irrespective of any strategic thinking of accommodation.
-> Indeed, the theory of relativity began by rejecting key
-> assumptions of Newtonian mechanics, and ended up showing
-> that the latter was only a special case (therefore, a
-> lower truth), while the former was a more general one
-> (thus, a higher truth).
-
 Is this not a confusing of two different types of "two-truth theories"?
 In the case of Newton and Einstein, the later theory includes the
 earlier without declaring the earlier theory false. (This is rather
@@ -30,9 +9,4 @@ not yet seen mentioned in this discussion.) As I have understood them,
 the Advaitin and Madhyamaka theories declare that there is a merely
 apparent truth and a real truth, and the former is declared false (cf.
 the metaphors of the snake and the rope, etc.).
-
 RZ
-
-
-
-

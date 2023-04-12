@@ -1,23 +1,4 @@
-From dran at cs.albany.edu  Tue Nov 30 18:49:35 1993
-From: dran at cs.albany.edu (dran at cs.albany.edu)
-Date: Tue, 30 Nov 93 13:49:35 -0500
-Subject: Hi!
-Message-ID: <161227016367.23782.17858390882607329394.generated@prod2.harmonylists.io>
-
-
+Hi!
 Dominik writes:
-
-> I use TeX and there are nice Devanagari, Telugu, Tamil and Malayalam fonts
-> available (as well as Arabic, Greek, Cyrllic, Thai, Japanese, and several
-> others).  
-
 I'd be very interested in getting the Malayalam fonts.
-
 Paliath Narendran
-
- 
-
-
-
-
-

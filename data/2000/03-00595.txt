@@ -1,35 +1,10 @@
-From koenraad.elst at PANDORA.BE  Fri Mar 31 22:12:16 2000
-From: koenraad.elst at PANDORA.BE (Koenraad Elst)
-Date: Sat, 01 Apr 00 00:12:16 +0200
-Subject: Date of Jyotisa Vedanga
-Message-ID: <161227057546.23782.3009822032653767499.generated@prod2.harmonylists.io>
-
+Date of Jyotisa Vedanga
  Luis Gonzalez-Reimann <reimann at UCLINK4.BERKELEY.EDU>
  wrote:
->
-> >As for the 1st millennium AD Tamil texts mentioning Krttika as the
 beginning
-> >of the lunar calendar: this is perfectly normal, as calendars once
-> >established tend to be preserved for ages (that is precisely their whole
-> >point: putting time on a permanent common denominator).
->
-> Then you agree that an old tradition can be preserved (you even consider
 it
-> "normal") even though it no longer corresponds to "what is actually
-> observed," which was your main complaint earlier.  But, somehow, this
-> should not apply to the JV, for you say that:
->
-> >But that is a very different matter from the JV,
-> >where the position of the solstices is given as such, not as a
 calendrical
-> >relic.
->
-> How is it different?  The JV is meant to provide calendrical information
-> for the celebration of the sacrifice, it is not an abstract text on
 astronomy.
-> In the JV how can you make a distinction between an astronomical position
-> "given as such" and one with a calendrical purpose?
-
 How it is different: well, very simple, the Christian calendar continues to
 use the birth of Christ at its starting point, but that doesn't mean that
 every text which uses that calendar will also anachronistically claim that
@@ -37,21 +12,8 @@ the birth of Christ is taking place at the time of writing.  The VJ is not
 merely using a calendar and mentioning its ancient starting-point, it is
 saying that certain stellar configurations are visible at the time of
 writing.
-
-> By the way, Pingree considers the nakSatras in  the VJ to be tropical, not
-> sidereal (Jyotihsastra: Astral and Mathematical Literature, p. 10.
-> Harrassowitz, 1981)
-
 Rather unlikely.  Even in the Hellenistic world, the shift from sidereal to
 tropical only took place with Ptolemy (2nd century AD), who by himself
 conditioned the whole European and Arabic traditions of astro-logy/nomy to
 use r-the tropical Zodiac.
-
-
-> Regards,
-
 Dr. K. Elst
-
-
-
-

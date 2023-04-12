@@ -1,10 +1,4 @@
-From victorvanbijlert at KPNPLANET.NL  Wed Feb 18 22:39:29 2009
-From: victorvanbijlert at KPNPLANET.NL (victor van Bijlert)
-Date: Wed, 18 Feb 09 23:39:29 +0100
-Subject: frequencies
-In-Reply-To: <alpine.WNT.2.00.0902181116310.10520@Caraka>
-Message-ID: <161227084932.23782.17054055843921798259.generated@prod2.harmonylists.io>
-
+frequencies
 Actually, I am also not certain. But I know for a fact that a word like
 bhaava can mean innumerable things depending on the context and the kind of
 text. In any case, it would perhaps be possible to discover the
@@ -20,33 +14,18 @@ from the twentieth century would not be unintellible to a reader from the
 first century is remarkable. Sanskrit never changed in grammar, perhaps a
 little in style and syntax. This might indicate that the language was always
 conceived of as 'eternal' and meant to formulate 'eternal matters'.
-
 Victor
-
------Oorspronkelijk bericht-----
 Van: Indology [mailto:INDOLOGY at liverpool.ac.uk] Namens Dominik Wujastyk
 Verzonden: woensdag 18 februari 2009 12:23
 Aan: INDOLOGY at liverpool.ac.uk
 Onderwerp: Re: frequencies
-
 On Wed, 18 Feb 2009, victor van Bijlert wrote:
-
-> I do agree that statistical and other analysis of the corpus of Sanskrit
-> texts would deliver interesting insights, for instance in the way
 technical
-> terms were invented by different sects in order to separate themselves off
-> from the 'competition'. Perhaps one could see in the Sanskrit texts
-> interference with the mothertongues of the authors. I think texts of Jains
-> and Buddhists should be included.
-> Victor
-
-
 I think the examples of research you outline above are not necessarily the 
 kind of result that can be found from corpus analysis.  The corpus doesn't 
 know, e.g., what a "technical term" is, unless it's be so tagged, and that 
 tagging is based on prejudgement.  The BNC page I cited mentions questions 
 like these:
-
   In what social situations is wicked a term of approval? Why does it
   "sound wrong" to say "The good weather set in on Thursday" although "The
 bad
@@ -54,15 +33,9 @@ bad
 a
   stone's throw away from here", can I also say "I'm going a stone's throw
   away from here?"
-
 I'm not sure that I would even agree with the suggestion above that we can 
 find out causes (answer "Why?" questions).  Language is, in the end, just 
 what people say and what passes between people in such a manner that they 
 believe they understand each other.  But maybe I'm wrong about that.
-
 Best,
 Dominik
-
-
-
-

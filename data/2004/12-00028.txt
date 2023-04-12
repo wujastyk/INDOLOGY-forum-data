@@ -1,11 +1,5 @@
-From karp at UW.EDU.PL  Mon Dec 20 07:16:19 2004
-From: karp at UW.EDU.PL (Artur Karp)
-Date: Mon, 20 Dec 04 08:16:19 +0100
-Subject: Hindi geographical names
-Message-ID: <161227075530.23782.2198865132930430061.generated@prod2.harmonylists.io>
-
+Hindi geographical names
 Dear List Memebers:
-
 My list is now considerably shorter. Many thanks to all who have already
 helped.  My only Devanagari
 map of India is too small (1: 4 500 000) to include every important
@@ -20,13 +14,7 @@ of India maps in Devanagari script, with standardized Hindi versions
 of  geographical names, but I am not
 aware of it. Are there any? Survey of India maps are not yet freely
 available on the Net:
-
 http://www.gisdevelopment.net/policy/india/technology/intech021.htm
-
-
-
-
-
 Aharbal Falls
 Nohkalikai Falls
 Nohsngithiang Falls
@@ -42,10 +30,7 @@ Intanki N.P.
 Krem Um Lawan Cave
 Krem Maw Tynhiang Cave
 Borra Cave
-
 Peaks:
-
-
 Chameringu
 Changabang
 Dapha Bum
@@ -72,9 +57,7 @@ Sonam
 TatakUti
 Tent Peak
 TungAr
-
 Towns:
-
 Dhurbi
 Godda
 Nongstoin
@@ -82,17 +65,8 @@ Oras
 Pakur
 Perambalur
 Reckong Peo
-
-
-
 Thanking you in advance,
-
 Artur Karp
-
 South Asian Studies Deptt
 University of Warsaw
 Poland
-
-
-
-

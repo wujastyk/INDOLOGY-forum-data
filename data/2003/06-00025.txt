@@ -1,57 +1,9 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Wed Jun 11 06:21:34 2003
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
-Date: Wed, 11 Jun 03 18:21:34 +1200
-Subject: Fwd: CTAN Submission -- Devanagari for TeX version 2.02
-Message-ID: <161227072845.23782.2849359042496681436.generated@prod2.harmonylists.io>
-
+Fwd: CTAN Submission -- Devanagari for TeX version 2.02
 fyi
-
-> From: Robin.Fairbairns at cl.cam.ac.uk (Robin Fairbairns)
-> Newsgroups: comp.text.tex
-> Subject: Re: CTAN Submission -- Devanagari for TeX version 2.02
-
-> Anshuman Pandey writes:
-
-> > I have uploaded velthuis.zip to the 'incoming' directory at
-> > ftp.tex.ac.uk. This zip archive contains version 2.02 of the
-> > Velthuis Devanagari for TeX package.
-> >
-> > This package belongs in /language/devanagari. There are three
-> > directories under this CTAN directory: 'contrib', 'distrib', and
-> > 'omega'. Please remove the 'contrib' and 'distrib'
-> > directories. The contents of those directories have been revised;
-> > some are included in this latest update, some are obsolete.
-> >
-> > Please unpack velthuis.zip into a new directory called 'velthuis'.
-> >
-> > You may post a message to comp.text.tex informing readers of the
-> > new release if you wish.
-
-> i've installed the new files, and deleted the old, as requested.
-> thanks for the upload.
-
-> in summary, the whole of the old devanagari/contrib and /distrib
-> directories are replaced (or superseded) by a new subtree
-> devanagari/velthuis; the existing subtree devanagari/omega is
-> untouched.
-
-> Robin Fairbairns
-
-> For the CTAN team
-
-
 Best regards,
-
  Richard Mahoney
-
-
---
 Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
 Woodfield Estate |         r.mahoney at comnet.net.nz
 Duncan Road, RD3 | fax: 0064-7-827-7140
 HAMILTON         | cellular: 0064-25-829-986
 NEW ZEALAND      | http://homepages.comnet.co.nz/~r-mahoney
-
-
-
-

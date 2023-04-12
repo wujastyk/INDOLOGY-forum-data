@@ -1,41 +1,26 @@
-From psdmccartney at gmail.com  Fri May 13 13:59:33 2022
-From: psdmccartney at gmail.com (patrick mccartney)
-Date: Fri, 13 May 2022 22:59:33 +0900
-Subject: [INDOLOGY] Google Translate for Sanskrit
-In-Reply-To: <SA2PR08MB6569193A54D3977A6B1A0029E7CA9@SA2PR08MB6569.namprd08.prod.outlook.com>
+[INDOLOGY] Google Translate for Sanskrit
 References: <CA+wUuzNXp9V9fL6E-CsW4BwLMXw=6B=H3KEyFfrCe7Uj7H4YZA@mail.gmail.com>
  <CAEzwJrBFeL-R6rtXd_z=LmmNBqHepbR+qWmte+McSNkp=dtazQ@mail.gmail.com>
  <SA2PR08MB6569193A54D3977A6B1A0029E7CA9@SA2PR08MB6569.namprd08.prod.outlook.com>
-Message-ID: <CAEzwJrAiygHaSh4pkza1AUyf0m2JNAzO9CS21xSdy-zKvOdwaw@mail.gmail.com>
-
 Thanks for the link, Aleksandar.
-
 For context, the problem with the census enumeration begins in the rules.
 The epistemological and ethical issues of enumeration in the Indian census
 go back to its first iteration in 1872. People eventually became able to
 provide up to 3 languages and the census enumerator is not allowed to
 investigate or challenge these claims. They can inform their supervisor if
 they think something is fishy.
-
 People can literally say anything.
-
 The 2021 census was apparently fully digitized, though I'm not sure of its
 extent. Now, the enumerator is bypassed as people are able to fill out the
 census themselves.
-
 The 1941 census was totally botched, partly due to changes to enumeration,
 which included people having the ability to self-select and the inclusion
 of a new format. These are the reasons why the 1941 census data for
 Sanskrit is not available.
-
 Ultimately, it seems better to not think of the Sanskrit tokens as relating
 1:1 with "Sanskrit speakers", but, rather, with "people who identify as
 speakers of Sanskrit".
-
-
-
 All the best,
-
 Patrick McCartney, PhD
 Adjunct Lecturer - Kyoto University, Kyoto, Japan
 Research Associate - Nanzan University Anthropological Institute, Nagoya,
@@ -44,141 +29,13 @@ Visiting Fellow - South and South-east Asian Studies Department, Australian
 National University
 Member - South Asia Research Institute (SARI), Australian National
 University
-
 Skype / Zoom - psdmccartney
-Phone + Whatsapp + Line:  +61410644259
 Twitter - @psdmccartney @yogascapesinjap
  Yogascapes in Japan <http://yogascapes.weebly.com/> Academia
 <https://patrickmccartney.academia.edu/> Linkedin
 <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>
  Modern Yoga Research <http://www.modernyogaresearch.org/events/>
-
 *bodhap?rvam calema* ;-)
-
-
-
-
-
-
-
    -
-
-
-
-
-
-
-
-
-
-
 On Fri, May 13, 2022 at 10:44 PM Uskokov, Aleksandar <
 aleksandar.uskokov at yale.edu> wrote:
-
-> >>Where does Google get the data to substantiate the claim that
->
->  "*Sanskrit*, used by about 20,000 people in India" ?<<
->
-> They could have googled it ?.
->
-> But are probably taking census data:
->
-> https://dataverse.harvard.edu/file.xhtml?fileId=4299666&version=1.0
->
-> Whatever its reliability.
->
-> Best wishes,
-> Aleksandar
->
-> Aleksandar Uskokov
->
-> Lector in Sanskrit
->
-> South Asian Studies Council, Yale University
->
-> 203-432-1972 | aleksandar.uskokov at yale.edu
->
->
-> *Office Hours Sign-up:* https://calendly.com/aleksandar-uskokov
-> ------------------------------
-> *From:* INDOLOGY <indology-bounces at list.indology.info> on behalf of
-> patrick mccartney via INDOLOGY <indology at list.indology.info>
-> *Sent:* Friday, May 13, 2022 6:08 AM
-> *To:* Martin Gluckman <m.gluckman at alumni.anu.edu.au>
-> *Cc:* Indology List <indology at list.indology.info>
-> *Subject:* Re: [INDOLOGY] Google Translate for Sanskrit
->
-> Where does Google get the data to substantiate the claim that
->
->  "*Sanskrit*, used by about 20,000 people in India" ?
->
->
-> All the best,
->
-> Patrick McCartney, PhD
-> Adjunct Lecturer - Kyoto University, Kyoto, Japan
-> Research Associate - Nanzan University Anthropological Institute, Nagoya,
-> Japan
-> Visiting Fellow - South and South-east Asian Studies Department, Australian
-> National University
-> Member - South Asia Research Institute (SARI), Australian National
-> University
->
-> Skype / Zoom - psdmccartney
-> Phone + Whatsapp + Line:  +61410644259
-> Twitter - @psdmccartney @yogascapesinjap
->  Yogascapes in Japan
-> <https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fyogascapes.weebly.com%2F&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KsC4%2FHNaGn680hdmSXEZEWsoy%2BGS%2B5%2FcGdmc6O66yss%3D&reserved=0>
->  Academia
-> <https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpatrickmccartney.academia.edu%2F&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=V2inPqzX8xgskPvMGwV5eVXkeBLkezkGXq3cttdpnfM%3D&reserved=0>
->  Linkedin
-> <https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D241756978%26trk%3Dnav_responsive_tab_profile&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=UwxAYsUhJ2Liaxo2onfHH%2FXvhRDPy8fYslN73fzMXiM%3D&reserved=0>
->  Modern Yoga Research
-> <https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.modernyogaresearch.org%2Fevents%2F&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9tjno%2B0oOQ%2BqCQsl3jMYc1MTCu68hJZmAoAlWQQTYjo%3D&reserved=0>
->
-> *bodhap?rvam calema* ;-)
->
->
->
->
->
->
->
->    -
->
->
->
->
->
->
->
->
->
->
-> On Thu, May 12, 2022 at 11:08 PM Martin Gluckman via INDOLOGY <
-> indology at list.indology.info> wrote:
->
-> Dear All,
->
-> Google Translate is now available for Sanskrit!
->
-> https://blog.google/products/translate/24-new-languages/
-> <https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblog.google%2Fproducts%2Ftranslate%2F24-new-languages%2F&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9dtCCtptNT3x%2BSWLmOlB9VOdTKc2HTkab96N82ohy0g%3D&reserved=0>
->
-> It seems quite promising!
->
-> Kindest wishes,
->
-> Martin
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> https://list.indology.info/mailman/listinfo/indology
-> <https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Caleksandar.uskokov%40yale.edu%7Cb50568ca286d4f7d5d2708da34c895b9%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637880333352308074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=L1h0NbpfDabzBFKjMYsyKygjZzAJpqRyX4q7mnumrMs%3D&reserved=0>
->
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220513/e3deb67b/attachment.htm>
-

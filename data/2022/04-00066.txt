@@ -1,24 +1,14 @@
-From satyanad.kichenassamy at univ-reims.fr  Wed Apr 13 11:56:00 2022
-From: satyanad.kichenassamy at univ-reims.fr (Satyanad Kichenassamy)
-Date: Wed, 13 Apr 2022 13:56:00 +0200
-Subject: [INDOLOGY] Colloquium talk on Indian Mathematics
-Message-ID: <20220413135600.cee583590bbd4141ee56d392@univ-reims.fr>
-
-
+[INDOLOGY] Colloquium talk on Indian Mathematics
 Dear Colleagues,
-
     As a part of the 75th anniversary celebrations of Indian 
 independence, HRI is organising a series of colloquia on the history of 
 Indian mathematics.
-
 I am glad to announce HRI Colloquium talk by Professor Satyanad 
 Kichenassamy from Laboratoire de Math?matiques de Reims  (CNRS, 
 UMR9008), France as per the following details :
-
 Title            :  What everybody should know about Indian Mathematics
 Date             :  15/04/2022
 Time             :  16:00-17:30
-
 Abstract: The main points are : (i) contemporary Mathematics is partly 
 Indian ; (ii) there were several conceptual frameworks in India, and 
 some of them have no modern equivalent ; (iii) rigorous derivations in 
@@ -27,20 +17,14 @@ Indian texts were typically encoded through the discursive structure
 mistook those texts for unsupported lists of rules ; (iv) tools 
 developed to understand Indian texts are relevant for understanding 
 other cultures as well.
-
 Zoom link for the talk:
 https://us06web.zoom.us/j/91631975622?pwd=SzdHdXNjQ0o3V2JycitFK0pXSnRXZz09
-
 Meeting ID: 916 3197 5622
 Passcode: 950340
-
 All are welcome.
-
 With regards,
 Ratnakumar P.K.
 (On behalf of Prof. C.S. Dalawat)
-
--- 
 **********************************************
 Satyanad KICHENASSAMY
 Professor of Mathematics
@@ -50,4 +34,3 @@ F-51687 Reims Cedex 2
 France
 Web: https://www.normalesup.org/~kichenassamy
 **********************************************
-

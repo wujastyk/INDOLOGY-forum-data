@@ -1,31 +1,10 @@
-From Sfauthor at AOL.COM  Thu Jan 22 03:09:54 1998
-From: Sfauthor at AOL.COM (Sfauthor)
-Date: Wed, 21 Jan 98 22:09:54 -0500
-Subject: IndoTimes Roman and copyright
-Message-ID: <161227034974.23782.949604831016218226.generated@prod2.harmonylists.io>
-
+IndoTimes Roman and copyright
 In a message dated 1/21/98 6:33:16 PM, you wrote:
-
->The second question I have is about (freely distributed) fonts (or fonts in
->generall) and copyrights. If I change some characters of a font, like adding
->characters to it, am I free to handle it as it were my own font ? Is it
->possible to distribute this font for an e-journal ?
-
-
 To the best of my knowledge, fonts are not copyrightable. ("Mere" variations
 of the letterforms are deemed insufficiently original to merit protection.)
-
 Commercial fonts, however, typically come with license agreements. These
 agreements spell out what you may do with them. For a noncommercial font, try
 checking with the creator.
-
-
-
---------------------
 Brian Dana Akers
 www.pipeline.com/~sfauthor/
 sfauthor at aol.com
-
-
-
-

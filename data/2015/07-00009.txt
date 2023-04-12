@@ -1,79 +1,20 @@
-From mmdesh at umich.edu  Fri Jul  3 15:11:33 2015
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Fri, 03 Jul 15 11:11:33 -0400
-Subject: [INDOLOGY] GRETIL update #467
-In-Reply-To: <044C4CE033BD474EBE2ACACE8E4B1D94BA36573F@UM-EXCDAG-A06.um.gwdg.de>
-Message-ID: <CAB3-dzdBax-zC01DBieOKS-DojMF3pzi4DmpsOVjZkWyxiWYAw@mail.gmail.com>
-
+[INDOLOGY] GRETIL update #467
 Dear Reinhold,
-
      The header of the file for ?abdavy?p?ravic?ra reads:
-
   Mammata: Sabdavyaparavicara
 Based on the ed. by Mangesh Ramkrishna Telang: Abhidha?vr?ttima?trika? of
 Mukula Bhatta and S?abdavya?pa?ravica?ra of Ra?ja?naka Mahimabhat?t?a,
 Bombay : Nirnaya Sagar Press, 1916.
-
 Is there a dispute over authorship of this text.  The header suggests that
 the edition of Mamma?a's ?abdavy?p?ravic?ra is based on the edition of
 ?abdavy?p?ravic?ra of R?j?naka Mahimabha??a.  I am wondering if there is
 some error involved in this reference.
-
 Madhav
-
 On Fri, Jul 3, 2015 at 11:04 AM, Gruenendahl, Reinhold <
 gruenen at sub.uni-goettingen.de> wrote:
-
->
-> GRETIL is pleased to be able to report the following addition(s) to its
-> collection:
->
->
-> Sanskrit:
->
-> Mammata: Sabdavyaparavicara
-> http://gretil.sub.uni-goettingen.de/gretil.htm#MamSabdvy
->
->
->
-> Pali:
->
-> Vibhanga: PTS/Dhammakaya edition, annotated and plain text
-> http://gretil.sub.uni-goettingen.de/gretil.htm#Vibhang
->
->
->
-> __________________________________________________________________________
->
-> "GRETIL is intended as a cumulative register of the numerous download
-> sites for electronic texts in Indian languages." (from the 2001 "mission
-> statement")
->
-> GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
->
-> http://gretil.sub.uni-goettingen.de/gretil.htm
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
-
--- 
 Madhav M. Deshpande
 Professor of Sanskrit and Linguistics
 Department of Asian Languages and Cultures
 202 South Thayer Street, Suite 6111
 The University of Michigan
 Ann Arbor, MI 48104-1608, USA
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150703/a3944f99/attachment.htm>
-

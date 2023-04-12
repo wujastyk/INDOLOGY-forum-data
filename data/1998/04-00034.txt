@@ -1,9 +1,4 @@
-From athr at LOC.GOV  Thu Apr  2 21:15:46 1998
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Thu, 02 Apr 98 16:15:46 -0500
-Subject: Philosophy bibliography
-Message-ID: <161227037372.23782.10162738557993393246.generated@prod2.harmonylists.io>
-
+Philosophy bibliography
 A number of requests for bibliographic information on topics, persons, and
 works in Indian philosophy have been posted on INDOLOGY recently.
 IMHO this list is an excellent venue for asking for critical bibliographic
@@ -12,7 +7,6 @@ best edition, does anyone know anything recent and good and important on
 this.  But I have the feeling some people are putting out queries absolutely
 cold.  Might I suggest that everyone first check the standard bibliography of
 Indian philosophy:
-
 ACCESSION: 38440888
    AUTHOR: Potter, Karl H.
     TITLE: Encyclopedia of Indian philosophies. Bibliography /
@@ -28,17 +22,12 @@ PUBLISHER: M. Banarsidass,
            Includes indexes.
      ISBN: 8120803086 (v. 1) 8120803078 (set)
   SUBJECT: Philosophy, Indic -- Bibliography.
-
 This is copublished in the U.S. by Princeton University Press and should be
 easily available in Europe from Otto Harrasowitz.
-
 It might be good when requesting bibliographical assistance to specify
 where one has already searched so helpful colleagues do not duplicate
 one's labors.
-
-
 Sincerely,
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian
 Southern Asia Section
@@ -49,9 +38,4 @@ Washington, DC 20540-4810
 tel. (202) 707-3732
 fax (202) 707-1724
 email: athr at loc.gov
-
 The opinions expressed do not represent those of my employer.
-
-
-
-

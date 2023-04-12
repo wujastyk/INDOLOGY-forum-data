@@ -1,9 +1,4 @@
-From A.Burton at student.anu.edu.au  Fri Apr 21 08:22:44 1995
-From: A.Burton at student.anu.edu.au (A.Burton at student.anu.edu.au)
-Date: Fri, 21 Apr 95 18:22:44 +1000
-Subject: font bugs
-Message-ID: <161227019199.23782.18091906759359033563.generated@prod2.harmonylists.io>
-
+font bugs
 I have been using a font called Laser Hindi for Windows in WordPerfect6.0a.
 It looks good on the screen and prints perfectly on a dot matrix printer
 (Fujitsu); however on an Apple Laser Printer the vowel maatras play up very
@@ -13,11 +8,3 @@ uu) I get strange results. One or both of the matras just doesn't print.
 Can I try to fix this, or is this an incurable disease? (I am finding this
 out after having written a major part of my thesis in this font)
 Adrian Burton
-
-
- 
-
-
-
-
-

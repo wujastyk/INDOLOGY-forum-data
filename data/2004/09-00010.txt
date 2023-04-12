@@ -1,9 +1,4 @@
-From jkirk at SPRO.NET  Fri Sep  3 14:14:53 2004
-From: jkirk at SPRO.NET (jkirk)
-Date: Fri, 03 Sep 04 08:14:53 -0600
-Subject: email addresses on Indology
-Message-ID: <161227074897.23782.669265297219714628.generated@prod2.harmonylists.io>
-
+email addresses on Indology
 I did not have to pay anything for Adaware, (maybe I got the wrong outfit
 when I typed Adaware into google--my icon clearly says Adaware, not
 Noadware, so maybe somebody has intruded on the ware I started with--this
@@ -11,58 +6,14 @@ happens a lot),
 nor did a friend who got it. There is something fishy here. Using what I
 have has done nothing negative to my winXP system. I had Spybot Search &
 Destroy before, but Adaware has seemed to be more effective.
-
 I will ask my computer geek friend to read your comment on Noadware--and he
 will find out what's going on.  Whatever I learn from him, if I've been
 hornswoggled, I will post to the list with an apology.
-
 It begins to look even to little old me that Noadware has captured a lot of
 people who want to connect with Adaware.
 Please stay tuned..........
 Joanna
 =============================================
------ Original Message -----
-From: "Dominik Wujastyk" <d.wujastyk at UCL.AC.UK>
-To: <INDOLOGY at liverpool.ac.uk>
 Sent: Friday, September 03, 2004 5:49 AM
-Subject: Re: email addresses on Indology
-
-
-> As far as I can see, Joanna, Noadware is not freeware.  You download it,
-> it tells you you have a problem, and then you have to register and pay to
-> get a version that can fix the problem.  Also, it gives a false-positive
-> on my system, telling me I have a "serious" spybot which, on investigation
-> isn't true.  In fact, it is pointing to an essential Windows 2000 registry
-> entry and system file, which controls the international keyboard, so if
-> you tried to fix the problem yourself in the registry, or by deleting the
-> indicated file, you would give your system and yourself a headache.
->
-> There are excellent programs in this genre that are completely free in all
-> respects, "A squared" from Malware, or the (free)market leader, "Spybot
-> Search and Destroy" (http://www.spybot.info/).  The latter is probably the
-> place to start.
->
-> Dominik
->
-> --
-> Email processed on Mondays and Thursdays.
->
->
-> On Thu, 2 Sep 2004, jkirk wrote:
->
-> > This is a serious problem, so please allow me to suggest getting some
-> > freeware that seeks out data miner spy implants (bots) and allows you to
-> > delete them. I run it every day before I begin doing email or internet.
+Re: email addresses on Indology
 It
-> > is called Adaware
-> > http://www.noadware.net/?hop=wintech
-> > It has reduced the amount of spam and virus infected stuff that comes my
-> > way.
-> > It also updates and that's free too.
-> > Best wishes,
-> > Joanna Kirkpatrick
->
-
-
-
-

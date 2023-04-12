@@ -1,61 +1,27 @@
-From magier at EDU.COLUMBIA.CC.CUNIXF  Mon Dec 14 12:07:07 1992
-From: magier at EDU.COLUMBIA.CC.CUNIXF (David Magier)
-Date: Mon, 14 Dec 92 07:07:07 -0500
-Subject: [Anita Lowry <lowry@cunixf.cc.columbia.edu>: [Elaine Brennan              <EDITORS@BROWNVM.brown.edu>: 6.0405 Rs: Sanscrit and Hungarian              E-Texts (2/216)]]
-Message-ID: <161227015563.23782.8169374187532737202.generated@prod2.harmonylists.io>
-
-
+[Anita Lowry <lowry@cunixf.cc.columbia.edu>: [Elaine Brennan              <EDITORS@BROWNVM.brown.edu>: 6.0405 Rs: Sanscrit and Hungarian              E-Texts (2/216)]]
 Cross-posting, for your info.   /David Magier Columbia University
                 ---------------
- 
 Return-Path: <lowry>
-Received: by cunixf.cc.columbia.edu (5.59/FCB/jba)
 	id AA10809; Sat, 12 Dec 92 22:55:55 EST
-Date: Sat, 12 Dec 92 22:55:54 EST
-From: Anita Lowry <lowry at cunixf.cc.columbia.edu>
-To: magier
-Cc: scottr
-Subject: [Elaine Brennan <EDITORS at BROWNVM.brown.edu>: 6.0405 Rs: Sanscrit and
+[Elaine Brennan <EDITORS at BROWNVM.brown.edu>: 6.0405 Rs: Sanscrit and
         Hungarian E-Texts (2/216)]
-Message-Id: <CMM.0.90.4.724218954.lowry at cunixf.cc.columbia.edu>
- 
- 
 David,
 FYI.
 /Anita
                 ---------------
- 
 Return-Path: <HUMANIST at BROWNVM.brown.edu>
-Received: from brownvm.brown.edu by cunixf.cc.columbia.edu (5.59/FCB/jba)
 	id AA04939; Fri, 11 Dec 92 20:13:54 EST
-Message-Id: <9212120113.AA04939 at cunixf.cc.columbia.edu>
-Received: from BROWNVM.BROWN.EDU by BROWNVM.brown.edu (IBM VM SMTP V2R2)
    with BSMTP id 0528; Fri, 11 Dec 92 20:07:32 EST
-Received: from BROWNVM.BITNET by BROWNVM.BROWN.EDU (Mailer R2.08 R208004) with
  BSMTP id 5066; Fri, 11 Dec 92 15:46:48 EST
-Date:         Fri, 11 Dec 1992 15:12:09 EST
-Reply-To: Elaine Brennan <EDITORS at BROWNVM.brown.edu>
 Sender: "HUMANIST: Humanities Computing" <HUMANIST at BROWNVM.brown.edu>
-From: Elaine Brennan <EDITORS at BROWNVM.brown.edu>
-Subject: 6.0405  Rs: Sanscrit and Hungarian E-Texts  (2/216)
-To: Multiple recipients of list HUMANIST <HUMANIST at BROWNVM.brown.edu>
- 
+6.0405  Rs: Sanscrit and Hungarian E-Texts  (2/216)
 Humanist Discussion Group, Vol. 6, No. 0405. Friday, 11 Dec 1992.
- 
- 
 (1)   Date:     Thu, 10 Dec 92 12:00:10 WST                   (21 lines)
-From: From:     Thomas B. Ridgeway <ridgeway at blackbox.hacc.washington.edu>
-Subject: bject:  Re: 6.0397  E-Text Query  (1/10)
- 
+bject:  Re: 6.0397  E-Text Query  (1/10)
 (2)   Date:     Wed, 9 Dec 1992 16:17 EST                     (195 lines)
-From: From:     Paul Mangiafico <PMANGIAFICO at guvax.acc.georgetown.edu>
-Subject: bject:  Sanskrit and Hungarian E-texts
- 
+bject:  Sanskrit and Hungarian E-texts
 (1) --------------------------------------------------------------------
-Date: Thu, 10 Dec 92 12:00:10 WST
-From: Thomas B. Ridgeway <ridgeway at blackbox.hacc.washington.edu>
-Subject: Re: 6.0397  E-Text Query  (1/10)
- 
+Re: 6.0397  E-Text Query  (1/10)
 John Haviland of Reed enquires re Sanskrit (or Hungarian) e-texts:
    A small sample of Sanskrit e-texts is available for anonymous
    ftp from blackbox.hacc.washington.edu in the directory pub/indic
@@ -74,10 +40,7 @@ Seattle, WA 98195   phone: (206)-543-4218            *  Ask me about  *
 Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 (2) --------------------------------------------------------------206---
-Date: Wed, 9 Dec 1992 16:17 EST
-From: Paul Mangiafico <PMANGIAFICO at guvax.acc.georgetown.edu>
-Subject: Sanskrit and Hungarian E-texts
- 
+Sanskrit and Hungarian E-texts
 Regarding John Haviland's request for Sanskrit and Hungarian e-texts,
 I was able to find a few with a quick search in Georgetown
 University's CPET (Catalogue of Projects in Electronic Text). I have
@@ -85,22 +48,16 @@ included a list below, beginning with the ten categories under which
 the data is classified, and followed by info on projects with Sanskrit
 e-texts and one project with Hungarian e-texts. I hope this information is
 useful to many HUMANISTs.
- 
 If you are in search of other e-texts, the Georgetown CPET may be of use
 to you as well. The CPET database can be accessed via Telnet or modem,
 or if you send me particulars on what you are looking for I can do a
 quick search for you and email the results. In any case, if you would
 like more information on this service, just send me a note.
- 
 Paul Mangiafico, project assistant
 Center for Text & Technology
 Georgetown University
- 
 pmangiafico at guvax.georgetown.edu
- 
- 
 **** CATEGORIES OF CLASSIFICATION ****
- 
 0.   Identifying acronym or short reference.
 1.   Name and affiliation of operation (with collaborators noted).
      References to any published description.
@@ -127,10 +84,7 @@ pmangiafico at guvax.georgetown.edu
      obtained from elsewhere (where)? Textual authority used for
      encoding? Titles of the works held, bibliographical
      information on them.
- 
- 
 **** PROJECTS WITH SANSKRIT E-TEXTS ****
- 
 Bamberg (Otto Friedrich Universita%t)/ Thesaurus of Texts in
           Ancient Indo-European Languages
      CPET#184

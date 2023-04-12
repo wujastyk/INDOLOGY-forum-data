@@ -1,28 +1,11 @@
-From WIKNER at nacdh4.nac.ac.za  Mon Oct  7 06:23:48 1996
-From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
-Date: Mon, 07 Oct 96 08:23:48 +0200
-Subject: Upanishads and their Vedas
-Message-ID: <161227026305.23782.333970495405919384.generated@prod2.harmonylists.io>
-
-
-
+Upanishads and their Vedas
 Anshuman Pandey <apandey at u.washington.edu> wrote:
-
-> I am looking for a comprehensive source which would provide me with a
-> listing of the Upanishads (the "genuine" 108 and perhaps the "ingenuine"
-> ones as well) and the Vedas/Vedic schools to which they belong.
-
 The attached NEWS item seems to answer your query.
-
 Regards,
 Charles Wikner.
 wikner at nac.ac.za
-___________________________ NEWS item ____________________________
-
-From: gmadras at pinto.engr.ucdavis.edu (Giri)
 Newsgroups: soc.religion.hindu
-Subject: Re: upanishads
-
+Re: upanishads
 	Previously, in this newsgroup and others, there has been some
 discussion on the authentic 108 upanishhads, and the list found in
 the muktika upanishhad. Earlier, Vijay Pai had posted a similar list,
@@ -30,7 +13,6 @@ and here is the modified list (with minor changes, and also now in
 ITRANS for sanskrit output).
 	Here is the list from the muktika upanishhad. This is 
 narrated by Sri Ramachandra to Hanuman.
-
 	The only means by which the final emancipation is attained is
 through maaNDUkya upanishhad alone, which is enough for the salvation for
 all aspirants. If GYAna is not attained therebym study the 10 upanishhads;
@@ -39,7 +21,6 @@ GYAna is not made firm, practice (study) well the 32 upanishhads. Thou
 shalt get release. If thou longest after videhamukti, study the 108
 upanishhads. I will truly state in order the (names of the) upanishhads
 with their Shaanti (purificatory mantras). Hearken to them. (They are:)
-
 iisha, kena, kaTha, prashna, muNDaka, maaNDukya, taittiriiya, aitareya,
 chhaandogya, bR^ihadaaraNyaka(10), brahma, kaivalya, jaabaala,
 shvetaashvatara, ha.nsa, aaruNeya, garbha, naaraayaNa, paramahaMsa,
@@ -62,7 +43,6 @@ mahaavaakya, paJNcha\-brahma, praaNaagni\-hotra, gopaala\-tapaNi,
 kR^ishhNa, yaaGYavalkya, varaaha, shaatyaayani, hayagriiva(100),
 dattaatreya, gaaruDa, kali\-saNTaaraNa, jaabaala, saubhaagya,
 sarasvatii\-rahasya, bahvR^icha, muktika\. 
---------------
 	19 upanishhads are from Shukla Yajur veda and have the Shaanti
            beginning 'puurNamada.'
 	32 upanishhads are from krishna yajur veda and have the Shaanti 
@@ -73,13 +53,5 @@ sarasvatii\-rahasya, bahvR^icha, muktika\.
            beginning 'bhadram\-karNebhiH.'
 	10 upanishhads are from Rig veda and have the Shaanti 
            beginning 'vaNme\-manasi.'
---------------
 Reference : Thirty minor upanishads translated by Narayanasvami aiyar.
  Chapter : Muktika upanishad
-______________________________________________________________________________
-
-
-
-
-
-

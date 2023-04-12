@@ -1,18 +1,9 @@
-From WIKNER at nacdh4.nac.ac.za  Mon Dec  2 07:30:13 1996
-From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
-Date: Mon, 02 Dec 96 09:30:13 +0200
-Subject: The word "upanishad"
-Message-ID: <161227027201.23782.12821924785372844107.generated@prod2.harmonylists.io>
-
-
+The word "upanishad"
 In response to Martin Gansten's enquiry about the word "upanishad",
 the following (rather old personal) notes (using Latex2.09 + Velthuis)
 may contain some references of interest:
-
 Regards,
 Charles Wikner.
-_____________
-
 @nolig 1 6 7 14 20 32 36 37 38 41 53 54 60 74 75 76 77 80 82 84 87 90 91 92 93 97
 \documentstyle[dev,emb,12pt]{article}
 \textwidth 6.5in
@@ -22,25 +13,18 @@ _____________
 \addtolength{\textheight}{2.3in}
 \parindent 0pt
 \parskip 1ex
-
 \hyphenpenalty=9999
 \renewcommand{\baselinestretch}{1.1}
 \newcommand{\key}[1]
 { \vspace{4ex}\hspace*{-2em}{\Large{#1}}
 }
-
 \begin{document}
 \pagestyle{empty}
-
 \underline{\underline{\Large{\dn upani.sad}}}\hfill 30 June 1993\vspace{2mm}
-
 {\large{\dn upa-ni-}$\surd$\,{\dn sad}\,}{\small +}{\large\,{\dn pratyaya kvip}}
-
 \key{\bf Dictionary}
-
 1.~{\em upa-ni-\d{s}ad} ({\em upa-ni-}$\surd${\em sad}) {\sc mw} 201/1
 to sit down near to, to approach, set about.
-
 2.~{\em upa-ni\d{s}ad} {\sc mw} 201/1 f.~(according to some) the sitting 
 down at the feet of another to listen to his words (and hence, secret 
 knowledge given in this manner; but according to native authorities 
@@ -51,72 +35,53 @@ doctrine, mysteries or mystical meaning, words of mystery; a class of
 philosophical writings (\ldots\,their aim is the exposition of the 
 secret meaning of the {\em Veda\/}, and they are regarded as the source 
 of the {\em Ved\={a}nta} and {\em S\={a}\d{m}khya} philosophies).
-
 {\Large{\dn upa||}} {\sc mw} 194.3 towards, near to, (opp.~to {\dn apa}\/)
 by the side of, with, together with, under, down
-
 {\Large{\dn ni||}} {\sc mw} 538.3 down, back, in, into, within
-
 {\Large$\surd$\,{\dn sad}} {\sc mw} 1138/2
 sit down, sit upon or in or at \ldots\\
 to sit down before, besiege, lie in wait for, watch.\\
 sink down, sink into despondency or distress, become faint or wearied
 or dejected or low spirited, despair, pine or waste away, perish.\\
 to put in distress, afflict, weary, exhaust, ruin, destroy.
-
 {\Large$\bullet$}
 {\em upa-}$\surd${\em sad} {\sc mw} 209/1 to sit upon, to sit near to, 
 approach, revere, worship; to approach asking, request, crave for \ldots
-
 {\Large$\bullet$}
 {\em ni\d{s}ad} ($\surd${\em sad\/}) {\sc mw} 561/3 to sit or lie down or 
 rest upon; to sink or go down (as a ship); to be afflicted, suffer pain;
 \ldots\ to set, found, establish, appoint.
-
 \key{\emb Dh\={a}tup\={a}\d{t}ha}
-
 \dnnum
 {\large{\dn .sad.l bhvaa@ pa@ a@ 18-2 vi"sara.nagatyavasaadane.su||}}\\
 {\large{\dn .sad.l tu@ pa@ a@ 36-2 vi"sara.nagatyavasaadane.su||}}
-
 [Incidentally, this is an example of a {\dn dhaatu} beginning with
 the letter {\dn s} which changes to {\dn .s} (when preceded by 
 certain letters), and thus, for brevity, listed in the {\dn dhaatupaa.tha}
 with this letter changed.]
-
 {\Large$\bullet$}
 {\large{\dn vi"sara.na}} {\sc mw} 991/3 n.~dissolution, killing, slaughter
-
 {\em vi-}$\surd${\em s\d{\={r}}} {\sc mw} 992/2 to be broken or shattered or
 dissolved, crumble or fall to pieces, waste away, decay; to be scattered 
 or dispersed; to be severed from; to be damaged or destroyed; perish.
-
 {\dn vi} {\sc mw} 949.3 apart, asunder, in different directions,
 to and fro, about, away, away from, off, without.\\
 Expresses division,distinction, distribution, arrangement, order, opposition,
 deliberation; sometimes opposite to idea in simple root, or intensifies idea
-
 $\surd${\em s\d{\={r}}} {\sc mw} xxx/x to crush, break, rend.
-
 {\Large$\bullet$}
 {\large{\dn gati}} {\sc mw} f.~going, movement, gait, deportment, motion in 
 general \ldots\\
 path, way, course, place of issue. Origin, reason, means, art, method.
-
 $\surd${\em gam} {\sc mw} 346/3 to go, move, go away, set out, come, 
 to go to or towards, to approach.
-
 {\Large$\bullet$}
 {\large{\dn avasaadana}} {\sc 105/1} n.~oppressing, disheartening
-
 {\em ava-}$\surd${\em sad} {\sc mw} 104/3 to sink (as into water); 
 to sink down, faint, grow lean; become exhausted or disheartened, 
 come to an end, perish.
-
 {\dn ava} {\sc mw} 96/1 off, away, down
-
 \key{\bf Commentators}
-
 The word {\em Upani\d{s}ad} has been derived variously by various scholars.
 ``The Western scholars,'' says Prof.~Max~M\"{u}ller, ``are agreed in deriving 
 {\em Upa-ni-\d{s}ad} from the root {\em sad} to sit down, preceded by the
@@ -126,14 +91,12 @@ to listen to his instructions.'' He himself also holds this view though he
 admits the word never occurs in this sense anywhere.\\
 {\small\sc Swami Madhavananda, Introduction p.~vii, Minor Upanishads}
 \vspace{3mm}
-
 This knowledge of {\em Brahman} is called `{\em Upani\d{s}ad\/}' because 
 it entirely removes this relative world together with its cause from those 
 who betake themselves to this study.\\
 {\small\sc \`{S}a\d{m}kara, Introduction p.1, B\d{r}had\={a}ra\d{n}yaka
 Upani\d{s}ad}
 \vspace{3mm}
-
 The word `{\em Upani\d{s}ad\/}' denotes {\em Brahma-Vidy\={a}} 
 or Theosophy, inasmuch as
 its etymology is applicable to nothing else. The prefix `{\em upa}' means
@@ -159,7 +122,6 @@ with Theosophy and is itself called {\em Upani\d{s}ad} as the plough is
 sometimes spoken of as a living.\\
 {\small\sc Vidyaranya, Introduction p.~1, Taittiriya Upanishad}
 \vspace{3mm}
-
 {\em Vidy\={a}} (knowledge of {\em Brahman\/}) is called {\em Upani\d{s}ad}
 because, in the case of those who devote themselves to it, the (bonds of)
 conception, birth, decay, etc., become \underline{unloosed}, or because it 
@@ -169,7 +131,6 @@ the Highest Good is \underline{seated}. As intended to produce this knowledge,
 the treatise is also called {\em Upani\d{s}ad\/}.\\
 {\small\sc \'{S}ankara, Introduction p.~11, Taittiriya Upanishad}
 \vspace{3mm}
-
 Knowledge is called {\em upani\d{s}ad} by virtue of its association with 
 this significance; It (viz.~knowledge) splits up, injures, or destroys 
 the seeds of worldly existence such as ignorance etc., in the case of
@@ -185,11 +146,9 @@ bearing the meaning (to loosen) of the root ({\em sad\/}), inasmuch
 as by leading to the result\,\ldots\,it weakens or loosens such 
 multitude of miseries as living in the womb, birth, old age, etc., 
 continually recurring in lives hereafter.
-
 {\sc Objection}: Is it not a fact that by the word {\em upani\d{s}ad\/},
 the readers refer to the book in such sentences as: ``We read the 
 {\em upani\d{s}ad\/},'' and ``We teach the {\em upani\d{s}ad\/}''\,?
-
 {\sc Answer}: Though, from this point of view, the meanings of the root 
 {\em sad}\,---\,such as loosening the causes of the world, viz.~ignorance
 etc.\,---\,are inapplicable with regard to a mere book, and applicable to 
@@ -202,10 +161,4 @@ viz.~the supreme {\em Brahman} that is the indwelling Self. And the purpose
 of this {\em upani\d{s}ad} is the absolute cessation of the transmigratory
 state, which consists in the attainment of {\em Brahman\/}.\\
 {\small\sc \'{S}ankara, Introduction, Ka\d{t}ha Upanishad}
-
 \end{document}
-
-
-
-
-

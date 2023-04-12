@@ -1,14 +1,4 @@
-From falk at ZEDAT.FU-BERLIN.DE  Sun Sep  2 09:38:18 2007
-From: falk at ZEDAT.FU-BERLIN.DE (Harry Falk)
-Date: Sun, 02 Sep 07 11:38:18 +0200
-Subject: avagraha in Malayalam Manuscript
-In-Reply-To: <A6A3D476-68DA-4547-B404-B402288D7682@uni-hamburg.de>
-Message-ID: <161227081071.23782.12688464146410928498.generated@prod2.harmonylists.io>
-
-> 
-> Speaking of Indoskript, I and some other Mac/Linux folks would very much 
-> appreciate if it becomes an online application.  Is there any such plan?
-
+avagraha in Malayalam Manuscript
 this plan was there from the outset and a version with just the query 
 and results pages is in the making. The very flexible map will probably 
 be lost on the way as certainly will the OCR feature, i.e. the 
@@ -23,7 +13,3 @@ version. Our invitation to send us interesting material for inclusion is
 a steady one: we need good scans and a transcription if the text is 
 little known.
 H. Falk
-
-
-
-

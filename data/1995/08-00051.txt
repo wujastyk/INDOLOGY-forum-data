@@ -1,8 +1,4 @@
->?From D-JOHN4 at vm1.spcs.umn.edu 10 95 Aug CDT 14:05:54
-Date: 10 Aug 95 14:05:54 CDT
-From: Donald C Johnson <D-JOHN4 at vm1.spcs.umn.edu>
-Subject: MSS in Orissa
-
+MSS in Orissa
 Mr. Zysk:
 The entry for the Orissa descriptive catalog is:
 Author:  Orissa State Museum.
@@ -10,9 +6,3 @@ Title:   A descriptive catalogue of Sanskrit manuscripts of Orissa in the
          collection of the Orissa State Museum, by Kedarnath Mahapatra.
 Published:  Bhubaneswar: Superintendent of Research & Museum, Govt. of
             Orissa, 1958-
- 
-
-
-
-
-

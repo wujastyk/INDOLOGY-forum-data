@@ -1,86 +1,13 @@
-From sjk3 at cornell.edu  Wed Dec  7 18:07:29 1994
-From: sjk3 at cornell.edu (Sandra Kisner)
-Date: Wed, 07 Dec 94 14:07:29 -0400
-Subject: Fw: reported e-mail virus
-Message-ID: <161227017945.23782.12128309480139717385.generated@prod2.harmonylists.io>
-
+Fw: reported e-mail virus
 Both the Good Times and xxx-1 "virus" warnings are hoaxes.  Please do
 not spread them.
-
 Sandra Kisner
 sjk3 at cornell.edu
-------------------------------
-Subject: reported e-mail virus
-
+reported e-mail virus
 This was just distributed by Mann Library technical staff.
-
->Attached is an excerpt from the Dec. 6, 1994 issue of CIAC Notes, a
->computer and net security pub from the US Dept. of Energy's Computer
->Incident Advisory Capability (CIAC) group.
->
->_Vin McLellan
->   The Privacy Guild
->
->////////////DOE CIAC Text Begins Here ///////////////////
->
->THE "Good Times" VIRUS IS AN URBAN LEGEND
->
->In the early part of December, CIAC started to receive information requests
->about a supposed "virus" which could be contracted via America OnLine, simply
->by reading a message.  The following is the message that CIAC received:
->
-> ---------------------------------------------------------------------------
->| Here is some important information. Beware of a file called Goodtimes.    |
->|                                                                           |
->|  Happy Chanukah everyone, and be careful out there. There is a virus on   |
->| America Online being sent by E-Mail.  If you get anything called "Good    |
->| Times", DON'T read it or download it.  It is a virus that will erase your |
->| hard drive.  Forward this to all your friends.  It may help them a lot.   |
-> ---------------------------------------------------------------------------
->
->THIS IS A HOAX.  Upon investigation, CIAC has determined that this message
->originated from both a user of America Online and a student at a university
->at approximately the same time, and it was meant to be a hoax.
->
->CIAC has also seen other variations of this hoax, the main one is that any
->electronic mail message with the subject line of "xxx-1" will infect your
->computer.
->
->This rumor has been spreading very widely.  This spread is due mainly to the
->fact that many people have seen a message with "Good Times" in the header.
->They delete the message without reading it, thus believing that they have
->saved themselves from being attacked. These first-hand reports give a false
->sense of credibility to the alert message.
->
->There has been one confirmation of a person who received a message with
->"xxx-1" in the header, but an empty message body.  Then, (in a panic, because
->he had heard the alert), he checked his PC for viruses (the first time he
->checked his machine in months) and found a pre-existing virus on his machine.
-> He incorrectly came to the conclusion that the E-mail message gave him the
->virus (this particular virus could NOT POSSIBLY have spread via an E-mail
->message).  This person then spread his alert.
->
->As of this date, there are no known viruses which can infect merely through
->reading a mail message.  For a virus to spread some program must be executed.
->Reading a mail message does not execute the mail message.  Yes, Trojans have
->been found as executable attachments to mail messages, the most notorious
->being the IBM VM Christmas Card Trojan of 1987, also the TERM MODULE Worm
->(reference CIAC Bulletin B-7) and the GAME2 MODULE Worm (CIAC Bulletin B-12).
-> But this is not the case for this particular "virus" alert.
->
->If you encounter this message being distributed on any mailing lists, simply
->ignore it or send a follow-up message stating that this is a false rumor.
->
->Karyn Pichnarczyk
->CIAC Team
->ciac at llnl.gov
->
->
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ben Trelease                                     EMail: bwt4 at cornell.edu
 Staff Computing Support                          Phone: (607) 255-3091
-
 Albert R. Mann Library                           Fax:   (607) 255-0318
 Cornell University
 Ithaca, NY 14850
@@ -89,11 +16,4 @@ Marty Schlabach
 Information Services Coordinator                E-mail: mls5 at cornell.edu
 Mann Library                                    Phone:  607-255-7959
 Cornell University, Ithaca, NY 14853            Fax:    607-255-0318      	
-      	
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
- 
-
-
-
-
-

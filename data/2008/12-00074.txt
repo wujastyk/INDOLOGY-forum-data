@@ -1,13 +1,4 @@
-From baums at U.WASHINGTON.EDU  Thu Dec 18 21:29:57 2008
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Thu, 18 Dec 08 21:29:57 +0000
-Subject: bodhisattva/bodhisatva
-In-Reply-To: <1LDKpp-0i5bBg0@fwd09.t-online.de>
-Message-ID: <161227084252.23782.170076474444005650.generated@prod2.harmonylists.io>
-
-> the linguistic and notional development of the term 
-> "bodhi-satva" (roughly: *sakta > ?satta > ?satva).
-
+bodhisattva/bodhisatva
 If MIA bodhisatta (= OIA *bodhisakta) is in fact the origin of
 Buddhist Sanskrit bodhisat(t)va, then it is conceivable that the
 association with sattva was made at an intermediate linguistic
@@ -23,15 +14,8 @@ supported by the notion that the word corresponded to OIA ?sattva
 rather than ?sakta. The attested G form is bosisatva. (3) One
 might consider whether the prevalence Buddhist Sanskrit satva with
 one t could be connected to G satva with one t.
-
 Best wishes for the holidays,
 Stefan Baums
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

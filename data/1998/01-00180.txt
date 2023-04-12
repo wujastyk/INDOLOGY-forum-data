@@ -1,42 +1,30 @@
-From Palaniappa at AOL.COM  Tue Jan 20 08:54:03 1998
-From: Palaniappa at AOL.COM (Palaniappa)
-Date: Tue, 20 Jan 98 03:54:03 -0500
-Subject: solution to the "kuyava' etymology
-Message-ID: <161227034897.23782.1094315808344026131.generated@prod2.harmonylists.io>
-
+solution to the "kuyava' etymology
 In a message dated 98-01-19 03:50:58 EST, bhk at HD1.VSNL.NET.IN writes:
-
 << Old Ta. uvaRu has no cognate in any other Drav. language. But u:Ru (<PD
  *u:_tu) occurs in South, South Central and Central Drav. languages. So there
  is no relation between OTa. uwaRu and u:Ru, the latter is NOT derived from
  the former (cf. DEDR 761). DEDR does not put these as related.>>
-
 Setting aside the example of "uvaRu" to be taken up later, let me quote
 examples from DED, Madras University Lexicon (which is available now on-line
 at the Cologne IITS web site which can be easily checked), and his own Telugu
 Verbal Bases, which I hope Dr. Krishnamurthy will accept. (I do not have
 access to DEDR today. So let me use examples from DED. If these are different
 from DEDR, we can consider them later.)
-
 DED 2794
 tuvaRal - raining, drizzling, sprinkling
 tURal - drizzling
-
 DEDS 525
 tukaL - dust, particle of dust, pollen;
 tUL - dust, powder, particle, pollen
-
 TVB 750
 niva - to rise, become high (puRanAn2Uru), grow (kalittokai); spread, swell,
 overflow (paripATal)
 nIttam - flood (from *nivattam)
-
 The reconstructed form is based on the paripATal reference Krishnamurthy seems
 to have used (paripAtal 12.34). The paripATal text is "nivantatu nIttam". The
 connection cannot be more clear. The meanings of individual words are:
 nivantatu - rose
 nITTam - flood (i.e., that which rose)
-
 In the following pair, the first item is left out of DED for no reason.
 nivaRu - to be powdered (Madras University Lexicon)
 nIRu - dust, ash (DED 3060)
@@ -45,7 +33,6 @@ Telugu, he uses both "nivuRu" and "nIRu". If he had also used the non-
 contracted form in Tamil "nivaRu", he could have easily seen that his model
 did not work. The contracted form in both Tamil and Telugu are the same
 "nIRu", even though the second vowel is "a" in Tamil and "u" in Telugu.
-
 Thus in each of the cases involving "u", the attested contracted form is "U"
 while Krishnamurthy's model would predict "O" in Tamil. Similarly, in each of
 the cases involving "i", the attested contracted form is "I", while
@@ -58,7 +45,6 @@ formulation may be due to two reasons. Either linguists with the required
 knowledge of Tamil did not address this issue or those linguists who addressed
 the issue did not have the required knowledge of Tamil. I do not know why else
 the problem in the model could not have been realized until now.
-
 <<Coming to
  kuyawa~kucawa, an intervocalic consonant is weakened and not strengthened by
  a natural phonetic process. -c- [-s-] thus gets weakened to -y- and not the
@@ -67,27 +53,21 @@ the problem in the model could not have been realized until now.
  note that Ma. and Tu. also have the
  -s- forms. The Vedic forms could not have been borrowed from SD in which -s-
  > -y-/-0- is found. >>
-
 I do not say that Vedic borrowed from SDr. Given the fact that the weakening
 of intervocalic "-c-" is traced to Proto-Dravidian, it is certainly possible
 to have the "-y-" form in the dialect encountered by Vedic.  Thus, even with a
 *kucava form, my etymology will hold good.
-
 As for the process of one-way change of "-c-" to "-y-", is it universal? Then,
 can somebody explain the following? In DED, we find the following.
-
 *kAy,  to grow hot, burn, etc. - Ta. kAy; Ma. kAyuka to be hot, To. ko.y-
 (ko.c-) to be hot; Tu. kAyuni to be hot; Go. kAsAnA to become hot.
-
 *koy, to pluck leaves, flowers, reap, harvest, etc. - Ta. koy; Ko. koy- (koc-)
 to cut; To. kwIy- (kwIs-) to pluck fruits, Go. kOiyAna harvest wheat or crops,
 etc., (M) koidAna to reap; Kur.  khoynA (khoss-) to cut down grass and the
 like with the sickle, mow, reap
-
 *kAy and *koy are PDr forms reconstructed by Dr. Krishnamurthy in his TVB.
 Clearly, we have here "y" changing to "c"/"s"/"t".  In what way, is the
 "kuyava"/"kucava" problem different, if we assume "kuy" is the base?
-
 Now why do I say, "kuy" might be a possible base. There is a stock Tamil
 expression which is considered by Madras University lexicon as just
 onomatopoetic expression signifying loud complaint. The expression is "kuyyO
@@ -97,7 +77,6 @@ means law or justice.) The first part can be interpreted as "O kuy!" calling
 for "kuy". If the original meaning of "kuy" was "some higher authority like
 king or chief", it will make perfect sense. After all, from whom will one seek
 justice?
-
 This is not as outlandish as one might think. Consider the interjection of
 grief "aiyO". DEDR considers this related to the word "ai" meaning "lord,
 master, husband, king, guru, priest, teacher, father". So DEDR lists the two
@@ -105,19 +84,12 @@ words as 196 (b) and 196 (a) respectively. The meaning of "kuyyO" has not been
 understood till now. Ultimately, this "kuy" may be related to "ku" meaning
 "high place" (or hill as Dr. Krishnamurthy pointed out) which can also be
 applied to a king. Compare the parallel similar concepts in Sanskrit "ka'kuda"
-
 Finally, I do agree that reconstructed words can help decide on a linguistic
 situation. Otherwise there is no way one can say Vedic borrowed anything from
 Dravidian. My reason of stating the chronology of "kuyava" vs "kucava" was to
 correct a factual error and satisfy my curiosity as to when "kucava" ever
 entered the literary world from the colloquial.
-
 I think I have tried to satisfactorily answer the questions/concerns raised
 regarding the issue. As always, I welcome comments.
-
 Regards
 S. Palaniappan
-
-
-
-

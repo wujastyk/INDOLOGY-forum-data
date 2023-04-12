@@ -1,26 +1,8 @@
-From rbm49 at STUDENT.CANTERBURY.AC.NZ  Fri Feb 16 04:13:45 2001
-From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Richard B Mahoney)
-Date: Fri, 16 Feb 01 17:13:45 +1300
-Subject: Lhasa to Nalanda - journey time by foot
-In-Reply-To: <"from emstern"@BELLATLANTIC.NET>
-Message-ID: <161227067518.23782.7719392455188846575.generated@prod2.harmonylists.io>
-
+Lhasa to Nalanda - journey time by foot
 Dear Eliot,
-
 On Thu, Feb 15, 2001 at 10:55:16PM -0500, Elliot M. Stern wrote:
-> I'm hoping that somebody on the list can answer this question. About how
-> long would it take to walk from Lhasa or its environs to Nalanda in Bihar?
-> References to 20th century journeys by foot in either direction between some
-> specified location in India to or from the Lhasa area would help , such as
-> books about Tibetan refugees' experiences.
->
-> The aim is to form an idea of how long it might have taken the Buddhist monk
-> zaantarakSita to travel to Tibet, and return in the 7th century.
->
-
 I'm not sure of "Saantarak.sita's route but for that of Marpa the
 Translator you could consult pp. xxvii ff. of:
-
 @Book{trungpa:life,
   editor =       "Ch\"{o}gyam Trungpa",
   title =        "The Life of Marpa The Translator: Seeing Accomplishes
@@ -34,22 +16,10 @@ Translator you could consult pp. xxvii ff. of:
                  ka (1452--1507) by the N\={a}land\={a} Translation Committee
                  under the direction of Ch\"{o}gyam Trungpa",
 }
-
 His journeys seem to have been protracted for various reasons not
 the least of which would have been the difficulty of
 acclimatisation.
-
-
 Many regards,
-
  Richard Mahoney
-
---
------------------------- Richard Mahoney -------------------------
 78 Jeffreys Rd                                      +64-3-351-5831
 Christchurch                                           New Zealand
---------------- mailto:rbm49 at csc.canterbury.ac.nz ----------------
-
-
-
-

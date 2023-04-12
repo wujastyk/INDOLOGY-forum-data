@@ -1,14 +1,7 @@
-From hellwig7 at GMX.DE  Sat Sep 11 08:38:20 2010
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Sat, 11 Sep 10 09:38:20 +0100
-Subject: New version of DCS
-Message-ID: <161227090278.23782.16941624893606892064.generated@prod2.harmonylists.io>
-
+New version of DCS
 Dear colleagues,
-
 a new version of the Digital Corpus of Sanskrit has been released at
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php.
-
 New features/texts:
 - 6th Book of the Mahabharata complete
 - Bigram search: The program automatically locates bigrams that contain a
@@ -25,18 +18,10 @@ http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_ngrams.
 - The site contains a list that includes references to the secondary
 literature found in the word meanings; refer to
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_xt_references.
-
 Comments and ideas for improvement are highly welcome!
-
 Best regards,
-
 Oliver Hellwig
---------------------
 PD Dr. Oliver Hellwig
 S?dasien-Institut, Universit?t Heidelberg
 Im Neuenheimer Feld 330, 69120 Heidelberg
 Germany
-
-
-
-

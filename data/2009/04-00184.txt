@@ -1,17 +1,7 @@
-From james.hartzell at GMAIL.COM  Wed Apr 29 11:11:09 2009
-From: james.hartzell at GMAIL.COM (James Hartzell)
-Date: Wed, 29 Apr 09 13:11:09 +0200
-Subject: typing Devanagari
-Message-ID: <161227086068.23782.3234099993187520190.generated@prod2.harmonylists.io>
-
+typing Devanagari
 Might a colleague advise me on whether there is a facile method for typing
 Devanagari in MS Word 2008 for Mac? Or, failing that, in NeoOffice 2.2.5
 Patch 8?  Or, in some other Mac-compatible program that would allow me to
 convert the created files to MS-Word/Neo Office format?
-
 James Hartzell
 U. of Manitoba
-
-
-
-

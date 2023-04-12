@@ -1,18 +1,9 @@
-From glhart at berkeley.edu  Tue Oct 15 19:48:29 2013
-From: glhart at berkeley.edu (George Hart)
-Date: Tue, 15 Oct 13 12:48:29 -0700
-Subject: [INDOLOGY] query: 18 ;"sre.nii jaatis
-In-Reply-To: <59623EF7-B859-43E9-9FC4-EED49FFF4966@earthlink.net>
-Message-ID: <14CAFD4A-3818-4C2F-AA6C-FE2257963A16@berkeley.edu>
-
+[INDOLOGY] query: 18 ;"sre.nii jaatis
 Actually, there is quite a bit of evidence for caste ? and untouchability ? in Sangam literature.  It should be kept in mind that references to j?ti (and especially untouchability) in Indian classical k?vya and the like are not common.   Still, there are mentions of ?people of low birth,? pulaiya?s (= Dalits or other low castes) and other epithets implying low caste and status.  The groups receiving these appellations are leatherworkers, drummers (of two types), and washermen, among others.  According to the Tamil Lexicon, the word pulai means "baseness, uncleanness, defilement [incurred from contact with a ritually polluting substance or person], evil, animal food, outcaste, and stench.?  The root pul is in the DED. Among its meaning in various languages are Kannada pole meaning menstrual flow, impurity from childbirth, defilement, Ko?agu pole, pollution caused by menstruation, birth, or death, Tulu pol?, pollution, defilement, and, far afield, Brahui p?ling, stain, stain on one?s character. Most of the Southern languages have some equivalent for Tamil pulaiya?, man of low caste. 
-
 An example is Pu?am 287.1, ?O Pulaiya? who beats the tu?i drum, O low one (i?ici?a) who [holds] sticks that strike [the drum].?
 ???? ??????? ?????!
 ??????? ???????? ??????!
-
 Another example is Pu?am 360:
-
 When people have been carried on the bier                                                                                               15
 to the burning ground, that fearful place of desolation,
 that salty wasteland overgrown with spurge, site of what
@@ -20,9 +11,7 @@ is other than life, and they lie there on grass, receiving toddy
 and a few grains of rice at the command of outcaste Pulaiya?,
 and then they have entered the mouth of fire,                                                                                           20
 for many of these who ate and grew fat no fame has flourished!
-
 (Note that ?outcaste? is added here for clarity).
-
 ?????????
 ??????? ????? ???????, ????
 ????? ????? ???? ?????????,
@@ -31,50 +20,6 @@ for many of these who ate and grew fat no fame has flourished!
 ??????? ???? ???????? ????????????,
 ?????????? ????? ????????,
 ???????????? ??????, ?????????? ????
-
-
 Palaniyappan, who believes there was no caste in Sangam times, has argued that the word pulai comes from poli, ?shine? and has positive connotations, but this does not accord with the DED or the uses of the word in other Dravidian languages.
-
 George
- 
 On Oct 14, 2013, at 10:53 AM, Rajam <rajam at earthlink.net> wrote:
-
-> This response is in reference to Whitney's comment:
-> 
-> /// I would like to revise that suggestion, and instead propose that we might see here a reflex of another set of South-Indian caste-communities referred to in Tamil as the ku?imakka?, perhaps best rendered 'people of the village'.  The entry s.v. in the Madras Tamil Lexicon reads (with my transliteration and bracketed translations):
-> 
-> ku?imakka? , n. < id. +. 1. Sub-castes rendering service in a village, being 18 in number, viz.,va???n? [washerman], n?vitan? [barber], kuyavan? [potter], ta???n? [goldsmith], kan?n??n? [brazier], kar?r?accan? [mason], kollan? [blacksmith], taccan? [carpenter], e??eyv??ikan? [oil merchant], uppuv??ikan? [salt merchant], ilaiv??ikan? [betel merchant], pa??i [watchman], p?m?laikk?ran? [garland maker], par?aiyan? [Dalit, pariah], k?vilku?iy?n? [conch-blower], occan? [? another Dalit community], valaiyan? [fisherman], p??an? [tailor]. /// 
-> 
-> 
-> 1. Re: The term "caste."  You can start from the entry in wikipedia: http://en.wikipedia.org/wiki/Caste. 
-> 
-> 2. The Portuguese started using the term "casta" when they came to the southern part of Tamilnadu (in the 16-th century) and tried to learn Tamil and describe Tamil in Portuguese for the sake of further missionary activities. "Casta" was the term they used to describe the various groups of people they noticed in the local society. I happened to have the opportunity to work through the Portuguese manuscript (from 1549 A.D.), by Fr. Henrique Henriques, which describes Tamil in Portuguese. As a "Latin grammarian," Henriques had problems categorizing people's local names when doing the declensions. So ? when he lists a set of local names for the first declension, he says, "Names for occupations. Such nouns for occupations are also nouns of castes."  For further details, please see our book "The Earliest Missionary Grammar, Harvard University Press, 2013." 
-> 
-> 3. Re: Madras Tamil Lexicon entries. Well ? there are discrepancies. For example, if anyone seriously wants to study the history of "castes" or any such thing, one should also look at all their entries beginning with the root/stem of the word. Just for fun, try all the words starting with the stem "ku?i," and you'll see that words such as "ku?imaka?," "ku?imakka?," and so on don't have contiguous semantics. 
-> 
-> 4. The term "c?ti/????/????" was never restricted to refer to humans in order to indicate high/low status. It just referred to different types of living beings. 
-> 
-> 5. There was no indication of "untouchability" in the Tamil society as reflected in early Tamil poems. 
-> 
-> 6. Even when Fr. Henriques (16-th century) listed the names/nouns for people in the Tamil land where he lived and served, he never indicated that there was "untouchability" due to the existence of certain people. 
-> 
-> ++++++++++++ 
-> 
-> It IS sad that some modern socio-anthro studies have presented local cultures in ways that the locals cannot understand or accept. To me, it all looks like a cookie-cutter analysis for individual academic progress. 
-> 
-> Thanks and regards,
-> Rajam
-> 
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131015/9887ac9b/attachment.htm>
-

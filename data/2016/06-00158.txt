@@ -1,40 +1,24 @@
-From drdhaval2785 at gmail.com  Fri Jun 24 16:32:44 2016
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Fri, 24 Jun 16 22:02:44 +0530
-Subject: [INDOLOGY] Database of Sanskrit Verb forms
-Message-ID: <CADSGPzXYX24wbjyH7FhsSKg5iv-QVEswz6dNSNCzAe2eT0ZW4A@mail.gmail.com>
-
+[INDOLOGY] Database of Sanskrit Verb forms
 Apologies for cross posting
----------------------------------------
-
 Respected scholars,
-
 As a result of our work on tiGanta generation tool for past some years,
 We present the following database of generated verb forms of Sanskrit
 language for Sanskrit NLP community.
-
 www.sanskritworld.in/sanskrittool/SanskritVerb/generatedforms/verbforms.tar.gz
-
 The file is in XML format and a typical line is in the following format -
-
 <f form="Bavati"><root name="BU" num="01.0001"/><law/><tip/></f>
-
 Data set has a total of 267797 entries.
 Data has verb forms for around 2240 verbs.
-
 Project code page -
 https://github.com/drdhaval2785/SanskritVerb/
 Project testing page -
 http://www.sanskritworld.in/sanskrittool/SanskritVerb/tiGanta.html
 N.B. - The code will also show up applicable Paninian rules and the effect
 thereof on the verb forms sequentially.
-
 Current version -
 v1.10.0 Date 24 June 2016
 Authors -
 Dr. Dhaval Patel and Dr. Shivakumari Katuri.
-
-
 Acknowledgements -
 1. Prof. Amba Kulkarni of Univ. of Hyderabad for allowing us access to her
 database of verb forms and various dhAtuvRttis
@@ -44,14 +28,6 @@ verbforms <http://sanskrit.inria.fr/DATA/XML/>.
 We have used these two existing databases for comparing our results
 against, and have made necessary corrections where there were evident
 errors.
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Anand
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160624/30a073f3/attachment.htm>
-

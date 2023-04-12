@@ -1,32 +1,18 @@
-From mark.allon at sydney.edu.au  Sun Feb 14 21:12:30 2016
-From: mark.allon at sydney.edu.au (Mark Allon)
-Date: Sun, 14 Feb 16 21:12:30 +0000
-Subject: [INDOLOGY] Gandhari Unicode Help
-In-Reply-To: <363679393C2EB44480CDA76B2F23C9F72C5277C9@P1KITMBX05WC03.unicph.domain>
-Message-ID: <1A46C9B65B1156439124252D1E715E51017DA6D476@ex-mbx-pro-04>
-
+[INDOLOGY] Gandhari Unicode Help
 Dear Ken,
-
 As you may know, Gandhari Unicode was created by Andrew Glass, who now works for Microsoft. I sent your query to Andrew and he sent me the following to post in response to your question.
-
 Best wishes
 Mark Allon
-
 At this point I no longer have time to support Gandhari Unicode and input systems that were developed for it more than 15 years ago. Fortunately operating systems have caught up with the needs of Indologists and such support is no longer required on Windows 10. I'm not in a position to comment on the status of input and display for diacritics on other systems.
-
 Windows 10 has numerous fonts that support Indological diacritics, for example, Times New Roman, Cambria, Calibri, Consolas, and Segoe UI.
 On Windows 10 there is a built in keyboard that supports input for Indological diacritics, namely, the English (India) keyboard. You can enable the English (India) keyboard with the following steps:
-
-
   1.  Press the Windows key,
   2.  Type "language"
   3.  Click on the link for the Language control panel
   4.  Click on Add a Language
   5.  Find English and open it
   6.  Select English (India) and click on add
-
 You can now use the combination Win+Space to switch input language to English (India). When English (India) is selected the following key combinations are available. Note that AltGr is the right Alt key.
-
 ?    AltGr+a
 ?    AltGr+i
 ?    AltGr+u
@@ -44,30 +30,18 @@ l?    AltGr+l
 ?    AltGr+n
 ?    AltGr+s
 ?    AltGr+x OR AltGr+.,s
-
 Because language settings are attached to your cloud identity in Windows 10, if you configure this keyboard once, you won't need to do it again on a new computer because your settings get remembered in the cloud.
-
 If someone has an interest in maintaining Gandhari Unicode, I'd be happy to discuss that.
-
 Cheers,
-
 Andrew
-
-
-From: INDOLOGY [mailto:indology-bounces at list.indology.info] On Behalf Of Kenneth Gregory Zysk
 Sent: Sunday, 14 February 2016 2:57 PM
-To: Indology List
-Subject: [INDOLOGY] Gandhari Unicode Help
-
+[INDOLOGY] Gandhari Unicode Help
 Dear List,
-
 Recently I received automatic updates from Microsoft and as a result lost all my key strokes for Gandhari Unicode fonts recorded in Normal.dot. It tried to reinstall a back-up of Normal.dot, but it failed.  My word programme is Word professional plus 7.
 Does anyone know how I can restore the key strokes for Gandhari Unicode?
 Many thanks for any help you can offer.
 Best,
 Ken
-
-
 Kenneth Zysk, PhD, DPhil
 Head of Indology
 Department of Cross-Cultural and Regional Studies
@@ -75,10 +49,3 @@ University of Copenhagen
 Karen Blixens Vej 4, Bygn. 10,
 DK-2300 Copenhagen S    Denmark
 Ph:  +45 3532 8951                          Email: zysk at hum.ku.dk<mailto:zysk at hum.ku.dk>
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160214/211daad5/attachment.htm>
-

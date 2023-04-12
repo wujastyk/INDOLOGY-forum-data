@@ -1,33 +1,16 @@
-From drdhaval2785 at gmail.com  Sat Dec 30 14:01:23 2017
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sat, 30 Dec 17 19:31:23 +0530
-Subject: [INDOLOGY] Python library for verb form information
-Message-ID: <CADSGPzUX+xLVWxCSP5r6Lkxt3arYun5tmoDQr7b1=C+G40LJGg@mail.gmail.com>
-
+[INDOLOGY] Python library for verb form information
 APOLOGIES FOR CROSS POSTING
-
 Dear all,
 This mail is primarily of interest to the people associated with
 computational and / or grammar background. Others may kindly ignore.
-
 A python package 'prakriya' is available now for finding out the prakriya
 and other related information for given verb form.
-
 Documentation on how to use -
 https://prakriya.readthedocs.io/en/latest/usage.html
 Github page - https://github.com/drdhaval2785/python-prakriya
 pypi page - https://pypi.python.org/pypi/prakriya
-
 Feedback, feature requests, bug reports and pull requests are welcome at
 https://github.com/drdhaval2785/python-prakriya/issues
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Anand
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20171230/8ac69363/attachment.htm>
-

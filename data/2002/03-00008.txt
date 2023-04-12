@@ -1,84 +1,49 @@
-From witzel at FAS.HARVARD.EDU  Wed Mar  6 01:35:07 2002
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Tue, 05 Mar 02 20:35:07 -0500
-Subject: Kh instead of S in Yajur Veda
-In-Reply-To: <978769.3224337875@pm472-34.dialip.mich.net>
-Message-ID: <161227070634.23782.1389340535347302369.generated@prod2.harmonylists.io>
-
+Kh instead of S in Yajur Veda
 Madhav has it right of course, as far as the Madhyandina are concerned.
 However, the Kanva often have the more archaic recitation, such as
 Upadhmaniya/Jihvamuliya for Visarga (i.e. nax kalpataam, still in my ears
 from ... 1973, a TN reciter);    even a Madhy. from the Kanva metropolis of
 Pandhapur had  S =kh 'sahasrashiirkha'.  Cannot remember about *any* Kanva
 pronunciation of S [kh] either.  Will check.
-
 As for the age of retroflex S > kh, it *is* old. I cannot really remember
 the *oldest* case as it is so common as writing mistake, and as it just
 gets filed away as "another case"....  However, there is the very typical
 reverse mistake, ... yathaa dRSTam, tathaa liSitam (!), found all over the
 northern MSS...
-
 Some early cases of  S > kh are the mispellings in the Kashmir Paippalada
 AV, written in Sarada script in CE [15]19 or even [14]19 , which go back to
 a *preceding* Nagari original of c.1250 CE, because:
-
 in Skt. pronunciation,  Kashmir  retains   both z and S  as [sh],  and s as
 [s], while in  North India and Nepal we have  z= s, S = kh,  s = s, in
 Bengal  all as [sh], in Orissa all as [s], and for example in Tamil Nadu
 z= s,  S =[sh] , s = s (where the  Drav. mother tongue causes another set
 of problems)   etc. etc. --  I remember  mispellings based on such
 pronunciations  from early inscriptions, but have no data here at home.
-
 In this regard, it is important to distinguish between modern pronunciation
 /Veda recitation and Middle Indian developments : virtually everywhere
 z,S,s  >  one sibilant phoneme pronounced as  [s], in Bengal pronounced as
 [sh], while the old distinction of the three z,S,s is kept alive only in
 the extreme northwest (Panini, Gandhari, modern Dardic, minus Kashmiri
 [where OIA z  has developed to NIA h] )...
-
 The beginnings can be seen already by 150 BCE, in Patanjali, who complains
 (intro.) that people (in Mathura?) pronounce  'hare' zaza as SaSa.
-
 Thus, Veda recitation  by necessity must substitute and has substituted
 differenly in different areas (see above)      {{ Note the similar case
 where y [j]  is dotted or written with stroke through (Nepal) to indicate
 pronunciation [y], and v [b]  is dotted to indicate  [v]...  }}
-
 As for S /kh ,  kh is is of course the next best thing for someone who only
 has [s] left in native speech:  S is a retroflex sibilant, kh at least has
 a strong (!) aspiration --- listen to a Vajasaneyin saying  '6' = Sat
 [khaT] !  ---  and the point of production of kh  is fairly close (upper
 palate/cacumen : velar).
-
 All such items really need to be collected; I have many data but ...as
 usual... unpublished.
 ananatam zaastram...
-
 MW
 =======
-
-
->However, all the references to this peculiarity of pronunciation (kh for
->.s) relate only to the Maadhyandina YV.  This peculiarity as well as the
->j-like pronunciation of initial y are noted in the two versions of the
->Kezaviizik.saa included in the Zik.saasa.mgraha and these texts make it
->clear that this happens only in the Maadhyandina YV.
->
->>
->>> Just to be more specific, the change of .s to kh takes place in the
->>> Maadhyandina trandition of the Zukla-Yajurveda, where the passage i.se
->>> tvaa is recited as ikhe tvaa.  The Maadhyandinas are found mostly in
->>> north India, their southernmost expansion reaching the region of northern
->>> Maharashtra.  I think there is a likely regional/dialectal connection of
->>> this pronunciation with northeastern regions,
 ========================================================
 Michael Witzel
 Department of Sanskrit & Indian Studies, Harvard University
 2 Divinity Avenue, Cambridge MA 02138, USA
-
 ph. 1- 617-496 2990 (also messages)
 home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
-
-
-
-

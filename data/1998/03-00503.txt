@@ -1,105 +1,59 @@
-From vidynath at MATH.OHIO-STATE.EDU  Tue Mar 31 18:32:59 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Tue, 31 Mar 98 13:32:59 -0500
-Subject: The horse argument, basic references
-Message-ID: <161227037280.23782.16468207408711036492.generated@prod2.harmonylists.io>
-
+The horse argument, basic references
 Here is the list of references I promised in another post.
-
------------------
-
  AUTHOR       Clutton-Brock, Juliet.
  TITLE        Horse power : a history of the horse and the donkey in human
                 societies / Juliet Clutton-Brock.
  PUBLISH INFO Cambridge, Mass. : Harvard University Press, 1992.
-
 A general introduction with pointers to more detailed references.
 Gives a good overview of equid use in 3rd-2nd millennium BCE
 Near East.
-
--------------------------
-
  AUTHOR       Shakespear, Henry.
  TITLE        The wild sports of India: with remarks on the breeding and
                 rearing of horses, and the formation of light irregular
                 cavalry. By Captain Henry Shakespear.
  PUBLISH INFO Boston, Ticknor and Fields, 1860.
-
 Written by a commander of an irregular (means that the soldiers
 furnished their own mount and weapons) cavalry unit, who seems to have
 one of the rare ones with first-hand knowledge of local horse market
 and breeding. Should disabuse anyone of thinking that horse breeding in
 India was difficult or was never practiced in a large scale.
-
--------------
-
  AUTHOR       Gilbey, Walter, Sir, 1831-1914.
  TITLE        Horse-breeding in England and India, and army horses abroad.
  EDITION      2d ed.
  PUBLISH INFO London, Vinton &amp; Co., 1906.
-
 Gives a thumb-nail sketch of horse breeding and local breeds at the
 turn of the [19th?] century.
-
--------------
-
 AUTHOR       Spruytte, J.
 TITLE        Early harness systems : experimental studies : contribution to
                the history of the horse / by J. Spruytte ; translated by Mary
                Littauer.
 IMPRINT      London : J. A. Allen, 1983.
-
 A very readable book on the practical side of harnessing. Also includes
 detailed description of experiments with reconstructions of Egyptian
 chariots. Explains why the ideas of des Noette on ancient harnessing
 are wrong.
-
------------
-
 AUTHOR       Littauer, M. A.
 TITLE        Wheeled vehicles and ridden animals in the ancient Near East / M.
                A. Littauer and J. H. Crouwel ; drawings by J. Morel.
 IMPRINT      Leiden : E. J. Brill, 1979.
-
 History of chariots in the Near East and arguments for local
 development of the war chariot and horse riding.
-
-
------------
 Littauer, M. A., ``Bits and pieces'', Antiquity 43 pp 289-300
-
 A very readable exposition of horse control and the various techniques
 used in 2nd-1st millennium BCE.
-
----
-
 [There is an article in v.42 about harnessing and yoke saddles. It may
 be worth noting that wrong information has not been eradicated in the
 ensuing years. I remember seeing a book in Barnes and Nobles in which a
 photo of a display from a museum in Florence was shown without noting
 that the yoke saddles were hung upside down, due to the influence of
 the wrong notions of des Noette.]
-
----
-
 Littauer, M. A.  and Crouwel, Antiquity v.70 (1996) pp 934--939
-
 Explain why the vehicle whose traces were found at Sintasha cannot be
 considered to be a war chariot.
-
------------
-
 AUTHOR       Cotterell, Brian, 1934-
 TITLE        Mechanics of pre-industrial technology : an introduction to the
                mechanics of ancient and traditional material culture / Brian
                Cotterell, Johan Kamminga.
 IMPRINT      Cambridge ; New York : Cambridge University Press, 1990.
-
 A somewhat technical (freshman level physics in the USA) discussion of
 harnessing, traction and such.
-
------------
-
-
-
-

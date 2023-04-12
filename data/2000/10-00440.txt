@@ -1,21 +1,13 @@
-From rah2k at UNIX.MAIL.VIRGINIA.EDU  Tue Oct 24 14:48:23 2000
-From: rah2k at UNIX.MAIL.VIRGINIA.EDU (Robert A. Hueckstedt)
-Date: Tue, 24 Oct 00 10:48:23 -0400
-Subject: English translation of Siddhanta Kaumudi
-In-Reply-To: <Pine.LNX.4.21.0010222334140.1682-100000@fujisan.local.net>
-Message-ID: <161227063023.23782.3374355531905350154.generated@prod2.harmonylists.io>
-
+English translation of Siddhanta Kaumudi
 Harry Spier, Peter Wyzlic, Dominik Wujastyk, and Indological colleagues:
 Peter Wyzlic is correct that the S.C. Vasu translation is the only
 "complete" one of the Siddhanta Kaumudi. One must treat it with some
 caution, however. While working on my little book on a history of the
 interpretations of Astadhyayi 6.1.77 iko ya.n aci, I discovered the
 following about S.C. Vasu's translation of the SK.
-
 1. He had previously written a translation of the Astadhyayi, accompanying
 each rule with a translation of at least part of the gloss of the
 Kaa"sikaa. That appeared in Allahabad in 1891.
-
 2. S.C. Vasu's translation of the SK, appearing first in 1906 in
 Allahabad, merely repeats the previous translation (ie, of the Kaa"sikaa),
 at least for the few rules I happened to pay close attention to. It's only
@@ -25,13 +17,7 @@ a logical inconsistency, because the Kaa"sikaa interprets iko ya.n aci
 with yathaasa"nkhya (respective correlation), while Bha.t.toji Diik.sita
 uses aantaryam (nearness). S.C. Vasu did not attempt to reconcile the
 difference or even point it out.
-
 For details, see my Nearness and Respective Correlation, pp 130--131.
-
 Bob Hueckstedt
 Professor of Sanskrit and Hindi
 University of Virginia
-
-
-
-

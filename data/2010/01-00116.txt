@@ -1,22 +1,7 @@
-From lubint at WLU.EDU  Tue Jan 26 16:03:25 2010
-From: lubint at WLU.EDU (Lubin, Tim)
-Date: Tue, 26 Jan 10 11:03:25 -0500
-Subject: BitComet as (simpler?) alternative to wget
-In-Reply-To: <d1c0c7391001260744l4eacc32dk67fcd03ea8ca7bfb@mail.gmail.com>
-Message-ID: <161227088312.23782.7508327023395815110.generated@prod2.harmonylists.io>
-
+BitComet as (simpler?) alternative to wget
 We Windows-using dinosaurs need to muddle along as best we can.
 I know it's like eating soup with a fork.
-
-________________________________________
-From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik Wujastyk [wujastyk at GMAIL.COM]
 Sent: Tuesday, January 26, 2010 10:44 AM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: BitComet as (simpler?) alternative to wget
-
+Re: BitComet as (simpler?) alternative to wget
 That's a good wheeze for people who use Windows.
 ...
-
-
-
-

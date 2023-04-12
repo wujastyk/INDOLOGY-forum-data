@@ -1,32 +1,10 @@
-From Vaidix at AOL.COM  Sun Jan 18 09:49:49 1998
-From: Vaidix at AOL.COM (Vaidix)
-Date: Sun, 18 Jan 98 04:49:49 -0500
-Subject: Linguists
-Message-ID: <161227034802.23782.8353596014134754749.generated@prod2.harmonylists.io>
-
+Linguists
 Subrahmanya,
-
-> It seems to me that linguists get all their "solutions" in
-> a very democratic manner.  Consensus seems to be the
-> methodology to get to "solutions".  One person suggests
-> a possible way a word could have changed and then the others come up with
-> their own versions and then the most  acceptable version is considered the
-> "solution".
-
 Can you use mathematics to solve a real world problem such as "What is the
 best college for my son to do his masters?"  You can only do what the
 linguists do.  Not a bit different.  What is the source of your data? Is there
 a formula to decide the "best college"?  If so who would give you data to
 prove that formula?  Neighbors? internet?
-
-> In mathematics - a initial 'assumption' is allowed, but again at
-> the end it has to be shown that no other 'assumption' would have
-> been valid.
-> "Linguistis" seems to have this fatal flaw in that-it
-> does not show that the initial assumption is the only valid possibility
-> and nothing else is possible. So, linguists
-> can add layers and layers of assumption and prove whatever they want.
-
 Whatever mathematics you mention in your letter is traditional mathematics
 based on crisp set theory.  Now it is all outdated with the advent of fuzzy
 set theory in 1960s.  The latter works precisely like a linguist.  Crisp set
@@ -37,36 +15,15 @@ to you than a "subsequent assumption"?  A "subsequent assumption" simply means
 you started on with your proof without considering all data.  Again, isn't it
 a fact that allowing "subsequent assumptions" starts a new branch of
 mathematics?
-
-> IMHO, researchers tend to get bogged down in linguistic evidence, because
-> it is the most accessible thing (compared to other methods
-> like archeology) to do. All you need are the original sources, a few cups
-> of coffee and a fertile imagination.
-
 Is linguistic evidence "the most accessible thing"?  The answer is yes or no.
-
 If we have all the lingustic evidence of the origin of a language say English,
 a book on that language would look like a book on calculus.  So the answer is
 no.
-
 Precisely for the reason that we do not have enough evidence, any new
 evidence, however silly, starts a new chain of thoughts leading to excitement.
 So the answer is yes.  Socialogically, "Just ask somebody who might know" is a
 good bet.
-
-> The most potent combination, would be a 'social scientist' and a
-> 'linguist' - put the two togethar in a room and one can expect the
-> solution all the problems in the world - and they will be absolutely
-> sure of it too.
-
 Good chance it may work just fine!  You never know.
-
-> It boggles my mind to see seemingly rational
-> people deriving a proto language existing thousands of years before and
-> hundreds of generations  ago spread out
-> over great land areas and through millions of people, based on
-> assumptions,and then adding more assumptions to it -
-
 It really boggles my mind, and I am really concerned about it, that when a
 scientist studies genetic patterns of dead skeletons in various parts of the
 world and declares for example, that  "African genes are the oldest" everybody
@@ -80,9 +37,6 @@ win!  What the linguists have been saying for ages, and we never get the
 message, is that the syllables and words we use today are encapsulated
 knowledge of earlier civilizations, and the same holds for languages of the
 future.
-
-> How in the world can one scientifically prove these assumptions ??
-
 That is whole crux of the need for fuzzy set theory.  Fuzzy set theory is
 needed precisely because it is not practical to prove those assumptions.  If I
 am in the middle of the road, and I see a speeding vehicle, how do I escape?
@@ -92,32 +46,13 @@ and seconds, it uses fuzzy "rule-sets" to assess the variables involved into
 "vague" terms like "fast", "somewhat far" and so on, decides on clear
 instructions for the body, refuzzifies the instructions and transmits to body
 organs to act such as "speed up a little a bit" or "step back a little".
-
-> How can one be so confident of assumptions - without logically
-> proving that it is the only possibility ??.
-> Linguists have a ingenious solution - they just call these initial
-> assumptions as "rules" - then there is no necessity for any scientific
-> proof, only consensus from fellow researchers is necessary.
-
 The question on "rules" is answered above.
-
 Ofcourse no linguist claims a "final" solution, but at present it is the best
 possible solution and no one can deny it without contributing to the subject
 in a positive way.  Any denial with proof gets included in the subject, and a
 denial without proof will be ignored.  As for conjectures, even mathematics
 has them!
-
-> When one reads Seidenbergs papers, one cannot but be impressed by the
-> mathematical thoroughness with which he derives his conclusions.
-> Linguists on the other hand tend to 'pick' and 'choose' options as and
-> when it suits their pet theories.
-
 I have no idea of Seidenbergs papers, but there are Seidenbergs who work on
 maths, computer science and linguistics together as one subject.  Check the
 internet.  More Seidenbergs in the making?
-
 Bhadraiah Mallampalli
-
-
-
-

@@ -1,20 +1,11 @@
-From conlon at U.WASHINGTON.EDU  Wed Jul  6 21:00:48 2005
-From: conlon at U.WASHINGTON.EDU (Frank Conlon)
-Date: Wed, 06 Jul 05 14:00:48 -0700
-Subject: some Arthashastra citations
-Message-ID: <161227076536.23782.761048272968149661.generated@prod2.harmonylists.io>
-
+some Arthashastra citations
 Lars:
-
 Here are a few items that I collected for 1990+ in the Bibliography of 
 Asian Studies Online.
-
 Frank
-
 Frank F. Conlon
 Univesity of Washington
 Managing Director, Bibliography of Asian Studies
-
 Record:1
 Collection:  Bibliography of Asian Studies
 Text ID:  362678
@@ -28,8 +19,6 @@ Subject:	 India
 Subject:	 Literature
 Subject term:
 <ISSN>0030-5324</ISSN>
-
-
 Record:2
 Collection:  Bibliography of Asian Studies
 Text ID:  361591
@@ -45,8 +34,6 @@ Subject:	 Hinduism
 Subject term:
 Language:	 English
 <ISSN>0378-1143</ISSN>
-
-
 Record:3
 Collection:  Bibliography of Asian Studies
 Text ID:  399656
@@ -61,8 +48,6 @@ Subject:	 Anthropology &amp; Sociology
 Subject:	 Urban Studies
 Subject term:
 <ISSN>0012-8424</ISSN>
-
-
 Record:4
 Collection:  Bibliography of Asian Studies
 Text ID:  408481
@@ -74,9 +59,6 @@ Page(s):	 47-50
 Subject:	 India
 Subject:	 Literature
 Subject term:
-
-
-
 Record:5
 Collection:  Bibliography of Asian Studies
 Text ID:  483425
@@ -90,9 +72,6 @@ Subject:	 India
 Subject:	 Literature
 Subject term:
 Language:	 English
-
-
-
 Record:6
 Collection:  Bibliography of Asian Studies
 Text ID:  557242
@@ -104,9 +83,6 @@ Page(s):	 49-52
 Subject:	 India
 Subject:	 Literature
 Subject term:
-
-
-
 Record:7
 Collection:  Bibliography of Asian Studies
 Text ID:  557241
@@ -118,7 +94,3 @@ Page(s):	 123-127
 Subject:	 India
 Subject:	 Politics &amp; Government
 Subject term:
-
-
-
-

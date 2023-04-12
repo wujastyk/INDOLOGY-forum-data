@@ -1,9 +1,4 @@
-From abigger at INDOGER.UNIZH.CH  Fri Feb 13 14:07:47 1998
-From: abigger at INDOGER.UNIZH.CH (Andreas Bigger)
-Date: Fri, 13 Feb 98 15:07:47 +0100
-Subject: Postscript Devanagari Font
-Message-ID: <161227035648.23782.2812496231273985999.generated@prod2.harmonylists.io>
-
+Postscript Devanagari Font
 Dear Indologists,
 I was absent from this list for some time, so please excuse if I ask a
 question recently asked: I am looking for a Postscript Devanagari
@@ -14,11 +9,5 @@ programms. I know of Wikners TEX-Devanagari-Font, but I believe it is only
 useful for TEX and not for other programms - or am I wrong in this?
 I am looking forward to your help!
 Andreas Bigger, Zurich
-
-------------------------------------------------------------------
 Andreas Bigger                          abigger at indoger.unizh.ch
 ==================================================================
-
-
-
-

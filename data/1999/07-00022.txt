@@ -1,42 +1,5 @@
-From sohum at MS.UKY.EDU  Sat Jul  3 13:05:31 1999
-From: sohum at MS.UKY.EDU (Avinash Sathaye)
-Date: Sat, 03 Jul 99 09:05:31 -0400
-Subject: Explanation to Chandogya Upanisad, again
-Message-ID: <161227051145.23782.10990480183702415577.generated@prod2.harmonylists.io>
-
+Explanation to Chandogya Upanisad, again
 Toke Lindegaard Knudsen wrote:
-
-> Dear list-members,
->
-> I found one passage in Datta and Singh's History of Hindu
-> Mathematics (Part I, page 3-4):
->
-> Skip...
-> Narada approached the sage Sanatkumara and
-> begged of him the Brahma-vidya or the supreme knowledge.
-> Skip...
-> Narada enumerated
-> the various sciences and arts studied by him.  This list included
-> astronomy (naksatra-vidya) and arithmetic (rasi-vidya).  Thus the
-> culture of the science of mathematics or of any other branch of
-> secular knowledge, was not considered to be a hindrance to
-> spiritual knowledge.  In fact, Apara-vidya ("secular knowledge") was
-> then considered to be a helpful adjunct to Para-vidya ("spiritual
-> knowledge")."
->
-> This passage seems interesting as a follow up on my previous
-> inquiry about the Chandogya Upanisad.  Here Datta and Singh
-> translate "rasi" as arithmetic rather than as mathematics as
-> Olivelle do.  This makes sense.
-> Skip...
-> Also, it is strange that Datta and
-> Singh write that Narada begged from Sanatkumara "Brahma-vidya"
-> as this is included in the list of sciences Narada presented (Olivelle
-> translates it as "science of ritual").  It does not seem to make
-> sense that Narada would beg from Sanatkumara Brahma-vidya only
-> to subsequently list this as a science he already learnt.  Can
-> anyone shed some light on this?
-
       Vidyasankar Sundaresan has already answered partly. Let me quote
 from Shankara's commentary:
 1. The raashividyaa is simply translated as gaNitam. This, in modern times
@@ -46,7 +9,6 @@ Arithmetic - as opposed to geometry!
 2. As far as brahmavidyaa is concerned, Shankara says:
 brahmaNaH R^ig-yajuH-saamaakhyasya vidyaaM brahmavidyaaM
 shixaakalpachchhandashcitayaH |
-
 This roughly means that "brahmas" means the mantras of the three vedas, so
 brahmavidyaa is their science, explicitly this is the collection of
 shixaa, kalpa, chhanda etc.
@@ -56,12 +18,5 @@ illustrate by an example. You see a big army and  all the royal entourage
 and assert "here is the king" even though you don't actually see or know
 the king. The detailed discussion is quite interesting and should be read
 from the original.
-
-
---
 With best regards,
 Avinash Sathaye sohum at ms.uky.edu Web Page: www.ms.uky.edu/~sohum
-
-
-
-

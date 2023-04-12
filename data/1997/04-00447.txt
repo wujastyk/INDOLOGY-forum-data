@@ -1,24 +1,5 @@
-From mmdesh at umich.edu  Sat Apr 26 21:25:51 1997
-From: mmdesh at umich.edu (Madhav Deshpande)
-Date: Sat, 26 Apr 97 17:25:51 -0400
-Subject: `Conversational Sanskrit' vs `Real Sanskrit'
-Message-ID: <161227029956.23782.17958009339576142218.generated@prod2.harmonylists.io>
-
+`Conversational Sanskrit' vs `Real Sanskrit'
 Robert Zydenbos recently wrote:
-
->Irrespective of our considerations on more abstract and debatable levels,
->what matters very much is the switch from "aha.m pa.thaami" to "mayaa
->pa.thitam", clearly visible in the surface grammar. Why should "aham" 
->suddenly become "mayaa"? Or, to take a parallel example from Urdu-Hindi: 
->"mai.m karataa huu.m", "mai.mne kiyaa hai", "mujh se karanaa hai". My
->point is that in Dravidian, the nominative case would be used to
->translate the agent in all three instances (hence I would actually
->prefer "agentive"  as a term for that case; but this does not matter
->here). This should be empirically absolutely clear, irrespective of
->whether we call something ergative, passive or anything else.  (If you
->want to call it ergative, that is fine with me, because it does not
->matter.) Hence "aha.m pa.thitavaan", etc.
-
 	I think it would be useful to differentiate the preference for
 different kinds of past participles in different varieties of Sanskrit.
 In Hindi, we have (split) ergativity, in that the ergative appears in the
@@ -53,9 +34,3 @@ distinctive phenomenon, and its underlying causes need to be distinguished
 from ergativity in Hindi and Marathi.
 	All the best,
 				Madhav Deshpande
-
-
-
-
-
-

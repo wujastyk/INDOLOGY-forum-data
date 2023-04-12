@@ -1,11 +1,5 @@
-From rt2036 at COLUMBIA.EDU  Sat Oct 17 16:42:17 2009
-From: rt2036 at COLUMBIA.EDU (Roy Tsohar)
-Date: Sat, 17 Oct 09 12:42:17 -0400
-Subject: NAgArjuna on polysemy
-Message-ID: <161227087704.23782.18389203978843300362.generated@prod2.harmonylists.io>
-
+NAgArjuna on polysemy
 Dear list members,
-
 I am currently working on some of Asanga's arguments in the
 vinizcayasaMgrahaNI, in which he uses polysemy to counter the notion
 of an invariable word-referent relation. Similar arguments appear in
@@ -16,11 +10,6 @@ an article of Johannes Bronkhorst citing Lindetner, but I could not
 find it. I would be grateful if anyone has a clue as to where this
 appears in NagArjuna or in which article it is cited.
 Many thanks,
-
 Roy Tzohar
 Columbia University
 Tel Aviv University
-
-
-
-

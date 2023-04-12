@@ -1,21 +1,6 @@
-From ucgadkw at UK.AC.UCL  Thu Apr  2 09:13:08 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Thu, 02 Apr 92 10:13:08 +0100
-Subject: responses about PostScript Indic fonts
-Message-ID: <161227015287.23782.16193499695984108695.generated@prod2.harmonylists.io>
-
-
+responses about PostScript Indic fonts
 I just thought you would like to hear the responses I have had
 to my query about the availability of PostScript Indic fonts.
- 
 None.
- 
 :-(
- 
 Dominik
- 
-
-
-
-
-

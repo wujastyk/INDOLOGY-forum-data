@@ -1,22 +1,4 @@
-From cejka at praha1.ff.cuni.cz  Mon Apr 18 12:16:26 1994
-From: cejka at praha1.ff.cuni.cz (cejka at praha1.ff.cuni.cz)
-Date: Mon, 18 Apr 94 14:16:26 +0200
-Subject: Transliteration Macros for WP
-Message-ID: <161227016769.23782.2514086856514682923.generated@prod2.harmonylists.io>
-
-> Type font in order for the transliteration to be printed out.  I could ask
-> people who still use dos for more advice if you wish.
->                                                       MIchael Sweet
->  
-> 
-
+Transliteration Macros for WP
 No, thanks, do not waste your time with me. I have developed some compromise 
 way of printing skt transliteration, and just wandered whether it would be 
 better and easier with WP. Thanks for info.
-
- 
-
-
-
-
-

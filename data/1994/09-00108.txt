@@ -1,22 +1,9 @@
-From ai927 at freenet.carleton.ca  Mon Sep 19 16:55:54 1994
-From: ai927 at freenet.carleton.ca (ai927 at freenet.carleton.ca)
-Date: Mon, 19 Sep 94 12:55:54 -0400
-Subject: translation of Les quatre sens de la vie
-Message-ID: <161227017312.23782.3904401611362093451.generated@prod2.harmonylists.io>
-
+translation of Les quatre sens de la vie
 Dileep Karanth just said: 
- 
-> Does anyone know of an English translation of the book "Les Quatre Sens 
-> de la Vie" by Alain Danielou ? 
-> 
-> I am afraid I do not know who the publisher of the original French book 
-> is. The book, I hear has a discussion of the caste system. 
- 
 Here is the information on the French text.  I don't know of an 
 English version, but I will check the French book to see if it 
 mentions one.  I will send you a direct email about that on Friday, 
 which is the soonest I can inspect the book. 
- 
 auth        Danie'lou, Alain 
 bind        paperback 
 isbn        2 268 01403 7 
@@ -25,12 +12,4 @@ pub         Editions du Rocher
 pub date    1992 
 title       *Les quatre sens de la vie: 
              et la structure de l'Inde traditionelle 
- 
    ... noel evans, ai927 at freenet.carleton.ca 
- 
- 
-
-
-
-
-

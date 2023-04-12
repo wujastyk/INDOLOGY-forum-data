@@ -1,18 +1,8 @@
-From athr at LOC.GOV  Tue Jan 27 16:54:46 1998
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Tue, 27 Jan 98 11:54:46 -0500
-Subject: Royal Palaces of Nepal
-Message-ID: <161227035147.23782.6666705469330795817.generated@prod2.harmonylists.io>
-
+Royal Palaces of Nepal
 There have been several books on the royal palaces of Nepal, records for
 which from OCLC are given below.  Accession number = OCLC number
 which an interlibrary loan librarian will need.  All of these are in the Library
 of Congress.
-
-
-
-
-
 ACCESSION: 27937506
    AUTHOR: Regmi, Jagadish Chandra, 1946-
     TITLE: Royal palace complex of Kathmandu /
@@ -27,9 +17,7 @@ PUBLISHER: Heritage Research,
     NOTES: Includes bibliographical references (p. 56-60).
   SUBJECT: Palaces -- Nepal -- Kathmandu.
            Kathmandu (Nepal) -- Description and travel.
-
   Next Record
-
 ACCESSION: 14167027
     TITLE: The royal buildings and Buddhist monasteries of Nepal :
            a report on the historic buildings of the Kingdom of Nepal.
@@ -48,12 +36,7 @@ Study of
            Historic buildings -- Nepal.
     OTHER: Nihon Kogyo Daigaku. Neparu Okoku Ko Okyu Chosadan.
            Neparu no okyu to Bukkyo zoin.
-
-
 Next record
-
-
-
 [A slightly different ed. of previous, or just a variation in cataloging of one
 and the same ed.?]
 ACCESSION: 18912619
@@ -70,11 +53,7 @@ PUBLISHER: Chuo-Koron Bijutu Shuppan,
            Monasteries, Buddhist -- Nepal.
            Historic buildings -- Nepal.
     OTHER: Nihon Kogyo Daigaku. Neparu Okoku Ko Okyu Chosadan.
-
-
-
  Next Record
-
 ACCESSION: 13271028
     TITLE: Neparu no toshi to okyu =
            Cities and royal palaces of Nepal.
@@ -89,9 +68,7 @@ PUBLISHER: Nihon Kogyo Daigaku Neparu Okoku Ko Okyu Chosadan,
            Nepal -- Description and travel.
     OTHER: Nihon Kogyo Daigaku. Neparu Okoku Ko Okyu Chosadan.
            Cities and royal palaces of Nepal.
-
  Next Record
-
 ACCESSION: 10876389, 9729275
     TITLE: The Royal buildings in Nepal :
            a report on the old royal palaces of the Kingdom of Nepal.
@@ -110,12 +87,7 @@ PUBLISHER: Nippon Institute of Technology,
            Architecture, Domestic -- Nepal -- Research.
     OTHER: Nihon Kogyo Daigaku. Neparu Okoku Ko Okyu Chosadan.
            Neparu no okyu kenchiku.
-
-
 Next Record
-
-
-
 ACCESSION: 5731675
    AUTHOR: Regmi, Mahesh C. (Mahesh Chandra), 1929-
     TITLE: Thatched huts and stucco palaces :
@@ -133,9 +105,7 @@ PUBLISHER: Vikas,
            Social classes -- Nepal.
            Peasantry -- Nepal.
            Nepal -- Rural conditions.
-
 Next Record
-
 [Touching on the palaces via their costs??? Or just mentioning them for a
 snappier title?]
 ACCESSION: 18745667
@@ -158,13 +128,7 @@ stucco
            palaces.
            Regmi, Mahesh C. (Mahesh Chandra), 1929- State and economic
            surplus.
-
-
 Hope this helps,
-
-
-
-
 Allen W. Thrasher, Ph.D,
 Senior Reference Librarian
 Southern Asia Section
@@ -176,7 +140,3 @@ Washington, DC 20540-4810
 tel. 202-707-3732
 fax  202-707-1724
 athr at loc.gov
-
-
-
-

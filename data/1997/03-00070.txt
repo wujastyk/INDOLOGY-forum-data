@@ -1,16 +1,4 @@
-From dlusthau at mailer.fsu.edu  Thu Mar  6 21:34:49 1997
-From: dlusthau at mailer.fsu.edu (Dan Lusthaus)
-Date: Thu, 06 Mar 97 17:34:49 -0400
-Subject: Korean/Tamil/Hindi (was Re: Query on var.nabheda)
-Message-ID: <161227028789.23782.6973065875093365633.generated@prod2.harmonylists.io>
-
->Interestingly, Korean is the only East-Asian
->language that has a phonetic alphabet.  At
->least one book that I've read about the subject
->claims that its inventors (in the 15th century)
->were familiar with Indian scripts (and their
->implicit phonological theories).
-
+Korean/Tamil/Hindi (was Re: Query on var.nabheda)
 Japanese has not only one, but two alphabetic scripts as well as a third
 script of Chinese characters. The Korean alphabet is very sophisticated,
 and predates the Japanese script. It is often ascribed to an emperor of the
@@ -22,13 +10,5 @@ The third Japanese alphabetic system is katakana, which still today is
 primarily used exclusively for transliterating foreign words. Katakana was
 invented/introduced by Kukai (774-835), to faciliate proper pronunciation
 of dhaaranii (he also introduced tantra to Japan).
-
 Dan Lusthaus
 Flordia State University
-
-
-
-
-
-
-

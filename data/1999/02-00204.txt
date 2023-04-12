@@ -1,52 +1,16 @@
-From hayavadana at HOTMAIL.COM  Mon Feb 15 10:22:19 1999
-From: hayavadana at HOTMAIL.COM (U Hayavadana)
-Date: Mon, 15 Feb 99 02:22:19 -0800
-Subject: Word splitting & hyphenation conventions in roman              transliteration
-Message-ID: <161227046349.23782.11521594857433769130.generated@prod2.harmonylists.io>
-
+Word splitting & hyphenation conventions in roman              transliteration
 At 16:12 13.02.99 -1000, Raja wrote:
->No, there are 52 letters in the
->rOman AElfabet.  Do you see any
->fisikal similarity between, say,
->"G" and "g"?
-
 there is a lot of fisikal similarity between s and S, z and Z, y and Y,
 o and O, p and P, v and V, w and W, x and X, c and C, u and U... :-)
-
 but you don't even need the other 26 if you write like me! and no indian
 script has capitals either.
-
->Another point: wen thuh rOman
->AElfabet haes bIn mawdifaid to
->akomodaet awl indiyan fOnIms,
->it wil involv a lawt mOr thaen
->jast 52 leters.  Luk aet a paej
->awf ViyetnAmIs taekst to sI wawt
->ai mIn.
-
 look at the transliteration scheme from geneva used by academic writers
 over the past 100 years or so and you'll see that it isn't as complex as
 vietnamese. see for instance the csx+ fonts. you just add some 6
 murdhanya's. long vowels you can just write double, like in finnish and
 some other languages.
-
->> and there are no
->> ligatures (samyuktakshara's). because printing technology in a linear
->> script (one letter next to another) is much more simply implemented
 and
->> we can use the technology that is already developed for western
->> languages (like standardised computer and printing equipment), and so
->> producing printed materials becomes easier. this is an important
->> advantage if we want to spread literacy among many millions of
 people.
->
->Gud nyUs:  printing technology for
->Indian scripts already exists.
->People in India aren't illiterate
->because of inability to print books
->in Indian script.  So this is not
->an issue.
-
 i hope you were thinking, like me, of the new possibilities for fast
 production of printed materials using computers, not of the already
 existing composing by hand with lead letters on a stick. in practice we
@@ -59,14 +23,5 @@ processor, say, wordperfect, you can easily extract that text (and
 usually text formatting too) for use in m$ word etc., and you can use
 the material in dtp software. the practical advantages are enormous. you
 can save great amounts of time. and that helps in spreading literacy.
-
 h
-
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

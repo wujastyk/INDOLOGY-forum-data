@@ -1,24 +1,12 @@
-From ORACLE at wl.aecl.ca  Tue Nov 14 18:59:43 1995
-From: ORACLE at wl.aecl.ca (ORACLE at wl.aecl.ca)
-Date: Tue, 14 Nov 95 13:59:43 -0500
-Subject: fonts
-Message-ID: <161227021630.23782.3113879626946553283.generated@prod2.harmonylists.io>
-
+fonts
 Yes, there is freeware postscript (and may be truetype also) available from
 the archive located at Wahingotn State University located in Seattle in USA.
 I have used postscript version of these fonts and they are very good. I even
 defined a set of Macros to make typing of diacritical chars very easy using
 these fonts. You can do the same using the Recorder application under Windows,
 but if you want my macro file I can send it free.
-
 regards,
 K.Desikachary,
 AECL, Canada,
 (204)256-3439 (home)
 (204)753-2311 ext 3062 (Work)
- 
-
-
-
-
-

@@ -1,12 +1,5 @@
-From birgit.kellner at UNIVIE.AC.AT  Wed Nov  7 20:34:29 2001
-From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
-Date: Wed, 07 Nov 01 21:34:29 +0100
-Subject: Register of electronic texts
-In-Reply-To: <5.1.0.14.0.20011107184054.035280c0@moka.ccr.jussieu.fr>
-Message-ID: <161227069899.23782.4935298462326694095.generated@prod2.harmonylists.io>
-
+Register of electronic texts
 As this may be of general interest, a reply to the list -
-
 as Dr. Gruenendahl indicated, GRETIL is still under construction, so I am
 not taking obvious omissions from the classificational grid too seriously;
 yet, the fact that "Buddhism"/"Bauddha" and "Jainism"/"Jaina" are omitted
@@ -16,12 +9,10 @@ traditions.
 I am not aware of any online Jaina philosophical treatises, but as for
 Buddhism, I would like to point to Ono Motoi's online texts of Dharmakirti:
 http://www.logos.tsukuba.ac.jp/~nagasaki/dharmakirti/e-text.html
-
 The page offers access to the entire PramANavArttikasvavRtti,
 PramANavArttika, NyAyabindu, Hetubindu, SambandhaparIkSA and VAdanyAya - no
 small undertaking! SantAnAntarasiddhi and PramANavinizcaya are "under
 construction".
-
 A question that always comes up in this context is whether the inclusion of
 texts should be based on the language in which they are transmitted or on
 the fact that they belong to an Indian cultural heritage irrespective of
@@ -31,70 +22,11 @@ online Tibetan version of the PramANavinizcaya because it is in Tibetan, or
 should one include it because it is after all a work of an Indian
 philosopher and was *originally* written in an Indian language, even though
 this original version is now (largely) lost?
-
 Whichever solution is adopted, I wish GRETIL much success in its future
 efforts to keep track of all the diverse efforts to digitize e-texts; I had
 once embarked on a similar enterprise (on a much smaller scale), but gave
 up because it was too time-consuming too maintain.
-
 Best regards,
-
 Birgit Kellner
 Institute for South Asian, Tibetan and Buddhist Studies
 Vienna University
-
-
->> Dear colleagues,
->>
->> please note that
->>
->> GRETIL,
->> the Goettingen Register of Electronic Texts in Indian Languages,
->>
->> is now available on an experimental basis under:
->> www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
->>
->> GRETIL is intended as a cumulative register of the numerous download
->> sites for electronic texts in Indian languages. It registers only
->> e-texts that are freely available for scholarly purposes and can be
->> employed for word search etc. in a standard word processing
->> programme.
->>
->> The register is still under construction, and some links may not be
->> functional at present.
->>
->> I sincerely hope that GRETIL is in accordance with the intentions of
->> all those who have made the registered e-texts available through
->> their unselfish efforts.
->>
->>
->> R. Gruenendahl
->>
->>
->>
->>
->> ********************************************************************
->>
->> Dr. Reinhold Gruenendahl
->> Niedersaechsische Staats- und Universitaetsbibliothek
->> Fachreferat sued- und suedostasiatische Philologien
->> (Dept. of Indology)
->> 37070 Goettingen
->> Germany
->> Tel (+49) (0)5 51 / 39 52 83
->> Fax (+49) (0)5 51 / 39 23 61
->> gruenen at mail.sub.uni-goettingen.de
->>
->>
->>
->> FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
->> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
->>
->> In English:
->> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
->>
->> *********************************************************************
-
-
-
-

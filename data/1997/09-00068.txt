@@ -1,27 +1,13 @@
-From GANESANS at cl.uh.edu  Fri Sep  5 15:00:40 1997
-From: GANESANS at cl.uh.edu (GANESANS at cl.uh.edu)
-Date: Fri, 05 Sep 97 10:00:40 -0500
-Subject: Dravidian Cryptography
-Message-ID: <161227032136.23782.7564119561952367729.generated@prod2.harmonylists.io>
-
-
-
-
+Dravidian Cryptography
 As one who has studied from Tamil Sangam literature onwards reasonably well
 for about 30 years, I want to say that the phenomenon of "inversion/cryptical"
 in Tamil is not common at all. May be for some
 onomatopoeic words. That's all.
-
 Kannada "hengasu" is from the Old Kannada "peNgasu".
 1000s of words of modern Kannada have transformed "p" into "h".
-
 Regards,
 N. Ganesan
-
-
-
 Once a friend sent me this:
->%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Kannada		telugu 		English		tamil	Malayaalam
 				meaning
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -70,11 +56,3 @@ huNNu				wound		puN
 huduga				boy		podiyan
 havaLa				pearl		pavaLam
 .. {If I had the dictionary in my front I can go on and on...}
-
-
-
-
-
-
-
-

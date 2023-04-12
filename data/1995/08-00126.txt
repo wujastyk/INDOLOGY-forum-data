@@ -1,36 +1,15 @@
-From martinez at em.uni-frankfurt.d400.de  Thu Aug 17 19:53:07 1995
-From: martinez at em.uni-frankfurt.d400.de (F.J. Martinez Garcia)
-Date: Thu, 17 Aug 95 13:53:07 -0600
-Subject: Fwd: TrueType-fonts with diacritical characters
-Message-ID: <161227020453.23782.6244536719208003402.generated@prod2.harmonylists.io>
-
-
->I am looking for Truetype- (or Postscript-) fonts with diacritical 
->characters for both Windows- and Mac- Computers. Would anybody 
->happen to know any FTP-site from where I could download them or 
->somebody I could ask for. 
-
+Fwd: TrueType-fonts with diacritical characters
 You'll find TrueType Fonts for WIN under
 (spanish)
 http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html/software/e-softwa.htm
 or (german)
 http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html/software/d-softwa.htm
-
 with best Regards J.M.
-
    =======================================================================
                        Dr. Fco. Javier Mart!nez Garc!a
-
    Vergleichende Sprachwissenschaft   |  tel.     +49- 69- 7982 2847
    Universitt Frankfurt              |   (sekr.) +49- 69- 7982 3139
    Postfach 11 19 32                  |  fax.     +49- 69- 7982 2873
    D-60054 Frankfurt                  |  martinez at em.uni-frankfurt.d400.de
      http: //www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html
    =======================================================================
-
- 
-
-
-
-
-

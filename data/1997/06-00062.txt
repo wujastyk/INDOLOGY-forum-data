@@ -1,12 +1,6 @@
-From kellner at ipc.hiroshima-u.ac.jp  Fri Jun  6 05:22:58 1997
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Fri, 06 Jun 97 14:22:58 +0900
-Subject: epics and oral traditions
-Message-ID: <161227030741.23782.15438593099729881643.generated@prod2.harmonylists.io>
-
+epics and oral traditions
 As the comparison of epics has recently sprung up, I thought it a good
 time to ask something that I've had on my mind for quite a while. 
-
 I was reading Walter Ong's "Orality and Literacy", where he quite
 extensively (and uncritically) reviews Milman Parry's work on the oral
 roots of the Homeric epics. The basic line of argument is that certain
@@ -14,19 +8,16 @@ properties of the transmitted texts allow to infer a predominantly oral
 origin. I shall not reproduce the quite complex arguments involved, but
 would like to ask for opinions on what Ong has to say about the alleged
 verbatim oral memorization of the Vedic hymns. 
-
 Ong does not question that there was considerable effort for a verbatim
 memorization of these hymns, but doubts that these really *preceded* the
 writing down of the texts. He quite heavily laments the state of
 research and is particularly critical of Louis Renou, who "does not even
 advert to the kinds of questions that arise in the wake of Parry's work"
 (p.65).  
-
 Not being a Vedicist, I would now like to know whether there were really
 no attempts to do something similar to Parry's work in the field of
 Vedic Studies. Are Indologists aware of the kind of reasonings applied
 to Homeric epics, are they critical of them, or do they simply not care? 
-
 Let me just add that I work mostly with philosophical Sanskrit texts,
 and it seems to me that oral transmission is quite commonly made the
 scapegoat for various textual oddities - not only insofar as it
@@ -34,14 +25,6 @@ scapegoat for various textual oddities - not only insofar as it
 interferes with the philosophical integrity of what the text says.
 However, the effects of orality, and how orality makes itself "known" or
 "shines through" in a written text, are hardly ever specified. 
-
--- 
 Birgit Kellner
 Department for Indian Philosophy
 Hiroshima University
-
-
-
-
-
-

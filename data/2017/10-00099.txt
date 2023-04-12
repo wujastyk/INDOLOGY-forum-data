@@ -1,11 +1,5 @@
-From martingansten at gmail.com  Mon Oct 23 03:15:08 2017
-From: martingansten at gmail.com (Martin Gansten)
-Date: Mon, 23 Oct 17 05:15:08 +0200
-Subject: [INDOLOGY] Northern and southern Devanagari
-Message-ID: <dd4d67ac-e790-cf90-5b77-cff8b9bb40bb@gmail.com>
-
+[INDOLOGY] Northern and southern Devanagari
 Apologies for what is perhaps a very basic question:
-
 I have always unreflectingly accepted the common distinction between 
 northern ('Calcutta-style') and southern ('Bombay-style') Devanagari. 
 Recently, though, I noticed that some manuscripts mix the two -- for 
@@ -15,13 +9,5 @@ Is there any special significance to this -- for example, particular
 regions and/or historical periods in which the two styles were less 
 distinct? Or should it just be seen as a personal quirk of the scribe 
 (perhaps an itinerant one)?
-
 Thanks in advance for any light on this,
 Martin Gansten
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20171023/18696109/attachment.htm>
-

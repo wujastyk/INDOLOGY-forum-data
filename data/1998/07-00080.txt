@@ -1,39 +1,8 @@
-From info at TICONSOLE.NL  Mon Jul  6 12:32:30 1998
-From: info at TICONSOLE.NL (T.I. Console)
-Date: Mon, 06 Jul 98 14:32:30 +0200
-Subject: passive of causatives (moving IO to SU in Skt)
-Message-ID: <161227040602.23782.14924931951441368758.generated@prod2.harmonylists.io>
-
+passive of causatives (moving IO to SU in Skt)
 Jacob Baltuch wrote:
-
->raamaM veedam adhyaapayati   '(he) teaches the V. to R.'
  >raamo vedam adhyaapyate      'R. is taught the V.'
-
->I hope there is no problem taking the accusative 'raamaM' as an *indirect*
->objet of 'adhyaapayati'. The same could apply to the first pair since (as
->far as I know) a construction with double accusative is in principle
->possible for 'darzayati' and it becomes a matter of whether you wish to
->see the passive sentence as the passive counterpart of the double accusative
->construction or of the accusative and dative construction like I do above.
->(Note: indirect object in the genitive also possible)
-
 I agree with you in considering one accusative the direct object, and the other accusative the indirect object, or the dative. As we all know, one and the same function or kAraka can be denoted by several cases.
-
->Btw, why Rama and Nala? Isn't it supposed to be Rama and Krishna? :-)
-
->Also why John and Mary in the Japanese example???
-
 Good point. Nala and DamayantI, and Ichiro and Kiyoko. Better?
-
 Sandra van der Geer
 Leiden, NL
 info at ticonsole.nl
-
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 1938 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980706/6e61b131/attachment.bin>
-

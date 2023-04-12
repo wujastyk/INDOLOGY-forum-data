@@ -1,16 +1,4 @@
-From magier at columbia.edu  Mon Jul 22 01:41:25 1996
-From: magier at columbia.edu (David Magier)
-Date: Sun, 21 Jul 96 21:41:25 -0400
-Subject: Wikner's Sanskrit Course
-Message-ID: <161227025373.23782.5992877301822075073.generated@prod2.harmonylists.io>
-
-> I have downloaded Wikner's Sanskrit Course. It is a 5 Mbyte file
-> that appears 
-> to be the text of instructions that are meant to be processed by 
-> a PostScript 
-> interpreter. Is the any commercial software for PCs or Macintoshes available 
-> that will allow me to print it? If so what is its name?
-
+Wikner's Sanskrit Course
 Every Macintosh postscript laser printer comes with a "print
 utilities" disk full of stuff (fonts, etc.), including a utility
 called LaserWriter Utility. This program (which may well be a
@@ -20,11 +8,5 @@ file", which you can use to send any postscript file (such as Wikner's
 if you've saved it as plain text) directly to the printer and will
 print perfectly. I've printed out my copy of the file in this fashion
 and it worked quickly and easily.
-
 David Magier
 Columbia University
-
-
-
-
-

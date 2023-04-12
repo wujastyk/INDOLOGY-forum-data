@@ -1,100 +1,13 @@
-From vasishtha.spier at gmail.com  Tue Apr 21 03:05:49 2020
-From: vasishtha.spier at gmail.com (Harry Spier)
-Date: Mon, 20 Apr 20 23:05:49 -0400
-Subject: [INDOLOGY] Grammatical question
-In-Reply-To: <CAB3-dzdCDBos+QwN5o2Xh=em_ms8G-EtVh6YznK9TPpQtayBTg@mail.gmail.com>
-Message-ID: <CAJ3b0o_HM-N6udwBUNwdzecYDTon=zBM7DZXYzb0_V=G4dqEMg@mail.gmail.com>
-
+[INDOLOGY] Grammatical question
 The two articles by S.K. Chatterji both titled "The Pronounciation of
 Sanskrit" but written 30 years apart address the pronounciation of anusvara
 in different parts of India and also whats considered "correct"
 pronounciation of sanskrit.  I've attached one article and given you a link
 to the second one on archive.ort
-
 Indian Linguistics 21:  pages 61-82
 I've attached this article
-
 K. B. Pathak Commemoration volume  pages 333 - 350
 https://archive.org/download/k.b.pathakcommemorationvolumes.k.belvalkar_272_w/K.B.%20Pathak%20Commemoration%20Volume%20-S.K.%20Belvalkar.pdf
-
 Harry Spier
-
-
-
 On Mon, Apr 20, 2020 at 10:51 PM Madhav Deshpande via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Dear George,
->
->      As per P??ini's rules, a word-final *m* changes to *anusv?ra *before
-> any consonant [*mo 'nusv?ra?, hali*].  Then come option rules.  Before
-> *y/v/l*, an *anusv?ra *can optionally change to nasal versions of *y/v/l*.
-> Before the stops, it can optionally change to a nasal homogeneous with
-> the following stop [*parasavar?a*].  This leaves *r/?/?/s/h*, and before
-> these it remains *anusv?ra*.  In some Vedic traditions, in this last
-> environment, it becomes *n?sikya *or *ra?ga*.  Then there are rules which
-> change *n* into an *anusv?ra *in some environments.  This is the general
-> description according to P??ini.  Some other grammars do allow an *m *occurring at
-> the end of an occurrence before a pause to change into *anusv?ra*,
-> reflecting some local variation.  Of course, the actual pronunciation of an *anusv?ra
-> *probably differed regionally as we notice today, and different Vedic
-> traditions have conventionally settled ways of its pronunciation.  Also
-> rules that are optional in P??ini don't necessarily remain optional in
-> various Vedic tradition.  In most Vedic recitations I have heard, the
-> change of an *anusv?ra *into a *parasavar?a *nasal is almost done
-> invariably.
->
-> Madhav
->
-> Madhav M. Deshpande
-> Professor Emeritus, Sanskrit and Linguistics
-> University of Michigan, Ann Arbor, Michigan, USA
-> Senior Fellow, Oxford Center for Hindu Studies
->
-> [Residence: Campbell, California, USA]
->
->
-> On Mon, Apr 20, 2020 at 6:59 PM George Hart via INDOLOGY <
-> indology at list.indology.info> wrote:
->
->> I?ve been enjoying the discussion on Indology. A friend had a question
->> about Sanskrit that I could not answer properly. It involves the
->> pronunciation of anusv?ra before various consonants. I believe that before
->> y, r, l and v, it is nasalized. Assuming that is correct, is it also
->> nasalized before ?, ?, s and h? Some people say samsk?ta, with an m sound,
->> but I always assumed it was a nasal sound. I think the nasal is put in the
->> same phonetic category as the ? etc. ? i.e.in a??a it is a palatal
->> nasal, in sa?sk?ta it is a dental nasal, and in si?ha it is sort of a velar
->> nasal sound. The problem is, everyone seems to say simha (m sound), not the
->> nasal sound. What do the grammarians say? Is there a correct pronunciation,
->> or can one choose between the nasal and the ?m? before ?, ?, s and h?
->> George Hart
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200420/538832b1/attachment.htm>
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: Chatterji.1960.PronuncnSkt.pdf
-Type: application/pdf
-Size: 1367066 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20200420/538832b1/attachment.pdf>
-

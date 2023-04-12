@@ -1,20 +1,10 @@
-From gruenen at SUB.UNI-GOETTINGEN.DE  Fri May  9 07:35:15 2008
-From: gruenen at SUB.UNI-GOETTINGEN.DE (Gruenendahl, Reinhold)
-Date: Fri, 09 May 08 09:35:15 +0200
-Subject: AW: "GRETIL e-library" now open > desiderata
-Message-ID: <161227082598.23782.4738464969611904239.generated@prod2.harmonylists.io>
-
-________________________________
-
+AW: "GRETIL e-library" now open > desiderata
 Jan E.M. Houben wrote:
-
   I noted that a word is sometimes to be searched through its "wrong OCR
 reading":
   To find Sa&#7745;v?dahymnen
   on p. 425 > p. 412 of Windisch vol. 1 we have to search for
 Sa&#7745;v?dahyrnnen (- h y r n n e n).
-
- 
 Thanks for pointing our that error, the two occurences of which will be
 corrected in the next version of Windisch. Anyway, this reminds us that OCR
 has its limitations: my sofware will jump at the slightest opening in the
@@ -22,9 +12,6 @@ arches of an "m", especially when processing light typeface, resp. poor print
 quality. The problem is compounded by the limitations in building adequate
 dictionaries with diacritics, which might teach the programme to read
 "sa.mhitaa" instead of "sarnhita".
- 
-___________
-  
   Among desiderata for this way of making available "older standard works" I
 would suggest:
   Chr. Lassen's Indische Alterthumskunde 2nd edition (at the basis of many
@@ -40,39 +27,24 @@ pages and other problems);
   Bruno Liebich's Ksiiratarangi.nii (the appendices on dhaatupaathas would
 become even more useful if machine searchable)  
   ...
-  
 Thanks for these suggestions. I'll see what I can do. Zimmer's "Altindisches
 Leben" is in the pipeline. However,  I'll have to find a balance between
 Veda, grammar, and other fields.
- 
- 
 Regards
 Reinhold Gr?nendahl
-
-
-________________________________________________
-
 Dr. Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 Fachreferat sued- und suedostasiatische Philologien
 (Dept. of Indology)
-
 37070 Goettingen, Germany
 Tel (+49) (0)5 51 / 39 52 83
-
 gruenen at sub.uni-goettingen.de
-
 FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
 <http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm> 
 In English:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
 <http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm> 
-
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
 <http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm> 
-
-
-
-

@@ -1,29 +1,14 @@
-From plamen at ORIENTALIA.ORG  Mon Jan 31 09:11:58 2005
-From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
-Date: Mon, 31 Jan 05 11:11:58 +0200
-Subject: Diacritics in MMK, attn R. Mahoney
-Message-ID: <161227075788.23782.11008890370722815305.generated@prod2.harmonylists.io>
-
+Diacritics in MMK, attn R. Mahoney
 Dear Richard,
-
 I see less than half of the diacritics in the online UTF-8 rendering of MMK
 http://homepages.comnet.co.nz/~r-mahoney/mmk_text/mmk_01_utf8.html
-
 Correctly represented are only:
 long vowels
 circumflex vowels
 palatal n and s
-
 all the rest is replaced by squares
-
 I am using Code2000 and it seems to have problems with all utf-8 pages containing Dev. transliteration. PC, Windows 98
-
 Any suggestions or known solutions to this issue would be appreciated. 
-
 Thanks,
 Plamen
 http://www.yogadarsana.org
-
-
-
-

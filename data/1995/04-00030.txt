@@ -1,11 +1,5 @@
-From JHUBBARD at ernestine.smith.edu  Thu Apr 13 18:43:11 1995
-From: JHUBBARD at ernestine.smith.edu (Jamie HUBBARD)
-Date: Thu, 13 Apr 95 14:43:11 -0400
-Subject: Diacritic fonts & WordPerfect drivers
-Message-ID: <161227019102.23782.17761404167297310147.generated@prod2.harmonylists.io>
-
+Diacritic fonts & WordPerfect drivers
 (Please excuse the cross-posting)
-
 I have finally updated my package of Times Roman fonts w/ diacritic
 characters. These fonts contain the roman characters w/ diacritics needed
 for Sanskrit and Japanese romanization together with printer drivers for
@@ -28,11 +22,4 @@ self- extracting ZIP file) can be FTP'ed from jhubbard.smith.edu
 and does get hung up often. If anybody with a more stable FTP site would
 like to add 'em to their collection or tell me where to upload them (ANU,
 Columbia??) I would be grateful.
-
 Jamie Hubbard, Smith College
- 
-
-
-
-
-

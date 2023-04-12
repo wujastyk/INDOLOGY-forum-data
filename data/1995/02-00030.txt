@@ -1,59 +1,27 @@
-From Alan.Thew at liverpool.ac.uk  Wed Feb  8 23:11:00 1995
-From: Alan.Thew at liverpool.ac.uk (Alan Thew)
-Date: Wed, 08 Feb 95 23:11:00 +0000
-Subject: New cti-textual-studies list on Mailbase (fwd)
-Message-ID: <161227018403.23782.15683425950256602781.generated@prod2.harmonylists.io>
-
+New cti-textual-studies list on Mailbase (fwd)
 This maybe of interest...
-
---
 Alan Thew
 [Note new numbers]
 alan.thew at liv.ac.uk   ...!uknet!liv!alan.thew   Tel: +44 151 794-4497
 University of Liverpool, Computing Services     Fax: +44 151 794-4442
-
----------- Forwarded message ----------
-Date: Wed, 8 Feb 1995 18:29:29 +0000 (GMT) 
-From: Donal Hanna <Donal.Hanna at newcastle.ac.uk>
-To: new-lists at mailbase.ac.uk
-Subject: New cti-textual-studies list on Mailbase 
-
+New cti-textual-studies list on Mailbase 
 		+-----------------------------------------+
 		|					  |
 		| A NEW LIST HAS BEEN STARTED ON MAILBASE |
 		|					  |
 		+-----------------------------------------+
-
-
 It is called cti-textual-studies
-
 Its description reads:
-
 cti-textual-studies is a moderated list used by the CTI Centre for Textual
 Studies to disseminate information of interest to people using computers
 in the teaching of literature, linguistics, philosophy and logic,
 religious studies and classics, film studies, theatre arts and drama. 
-
 To join this list send the command:
-
 	join cti-textual-studies firstname(s) lastname
-
 as the only text of an e-mail message to:
-
 	mailbase at mailbase.ac.uk
-
 (Remember to replace "firstname(s)" and "lastname" with your first name(s) 
 and last name)
-
-
--- 
 	 Donal Hanna, Mailbase, University Computing Service, 
 	Newcastle University, Newcastle upon Tyne, UK, NE1 7RU
 			Tel: 0191 222 8080
-
- 
-
-
-
-
-

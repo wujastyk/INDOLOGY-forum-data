@@ -1,11 +1,4 @@
-From K493750 at EARN.CZHRZU1A  Sun Oct 20 14:30:45 1991
-From: K493750 at EARN.CZHRZU1A (Peter Schreiner)
-Date: Sun, 20 Oct 91 14:30:45 +0000
-Subject: copyright
-Message-ID: <161227015146.23782.13015947357480713396.generated@prod2.harmonylists.io>
-
- 
-
+copyright
 In a?message of 12 September 1991 Dominik had replied to a question about
 Text Archives; I may mention that I responded (more than once) to
 requests for information about my inputs from James A. Wilderotter II, Project
@@ -14,7 +7,6 @@ Reiss Science Building, Room 238, Georgetwon University, Washington, DC 20057,
 USA. Unfortunately they have not responded to my request to send me a list of
 other projects etc. working with Sanskrit, which might be listed in that
 Catalogue of Archives.
- 
 In that same message Dominik attempted (successfully, as you can see) "to nudge
 him (me!) into giving a brief account of what he has done". I am not going to
 give that account here, but I may mention that I felt encouraged to submit the
@@ -26,7 +18,6 @@ conventions of transliteration etc. which we have been following. A first
 attempt to translate these input conventions into TEI format has not been
 successful; but any advice or models etc. in that direction will certainly be
 welcome.
- 
 I would like to use this first deposit of a text with the Archive to raise a
 discussion among my colleagues (using the INDOLOGY-discussion group, to begin
 with) concerning the copyright situation. Depositing the transliteration of a
@@ -48,15 +39,7 @@ is strictly "scholarly" (and not commercial); and I assume that this applies to
 all with whom I am going to share the outcome of my labours (via the Archive).
 Am I "reproducing", am I "reprinting", am I creating something new (which
 might entitle me to a copyright for "my" ChUp)??
- 
 Those who have information and-or experience in this matter should perhaps
 address their response not to me privately but to all INDOLOGYsts.
- 
- 
 Hoping to hear from you,
 Peter Schreiner
-
-
-
-
-

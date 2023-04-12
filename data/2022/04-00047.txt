@@ -1,18 +1,9 @@
-From jon.peterson at mail.utoronto.ca  Sun Apr 10 15:22:14 2022
-From: jon.peterson at mail.utoronto.ca (Jonathan Peterson)
-Date: Sun, 10 Apr 2022 15:22:14 +0000
-Subject: [INDOLOGY] Status of Karl Potter's online Bibliography of
+[INDOLOGY] Status of Karl Potter's online Bibliography of
  Indian Philosophies
-Message-ID: <7ADC8512-1675-4BFA-8C2C-B78EAFEAA718@mail.utoronto.ca>
-
 Hi Michael,
-
 Yigal Bronner?s PANDiT project vacuumed up all of the Potter data early in the project?s genesis. A lot of the Vedanta data have been picked over, supplemented, and, in many cases, corrected by myself and others at Toronto when we added the Vedanta BORI material. There are several ongoing projects doing similar work for other knowledge systems. In theory, the PANDiT project makes the digital version of Potter?s bibliography obsolete. If a case can be made for why the pdf is preferable, I?m sure Yigal would like to hear it?they?re always looking to ways to improve the user experience of the site. 
-
 Best wishes,
-
 Jonathan Peterson
 Postdoctoral Fellow
 Department of Religious Studies
 Stanford University
-

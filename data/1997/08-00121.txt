@@ -1,24 +1,6 @@
-From reusch at uclink4.berkeley.edu  Mon Aug 25 04:26:36 1997
-From: reusch at uclink4.berkeley.edu (B. Reusch)
-Date: Sun, 24 Aug 97 20:26:36 -0800
-Subject: verification
-Message-ID: <161227031935.23782.2921885003020702387.generated@prod2.harmonylists.io>
-
+verification
 At 13:54 +0100 8/17/97, David R. Israel wrote:
-> a
->quick glance at the TO field should generally suffice to serve as an
->excellent (albeint non-automated) verification mechanism . . . .
-
 One would also need to take a look at the *Cc* line, as the automatic reply
 puts the list address there as well.
-
 Beatrice Reusch
 University of California, Berkeley
-
-
-
-
-
-
-
-

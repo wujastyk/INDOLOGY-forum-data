@@ -1,69 +1,17 @@
-From ucgadkw at UCL.AC.UK  Wed Aug 20 20:14:54 2008
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 21 Aug 08 01:44:54 +0530
-Subject: Kadamba
-In-Reply-To: <032f01c9025d$a5065700$ef467257@zen>
-Message-ID: <161227083296.23782.7145104051989930835.generated@prod2.harmonylists.io>
-
+Kadamba
 The database at Kew Gardens can be helpful, but it is not an international 
 centralized solution to problems in botanical nomenclature.  It mainly 
 records all the different names that have been used, but doesn't actually 
 sort out the problems.  It leaves many major issues for further research.
-
 Hooker is good, but completely a-historical.  Although it's wonderful for 
 botanists, I've found it generally unhelpful for the kinds of problems we 
 routinely face.
-
 The reason I recommended the Sivarajan/Balachandran works in my last post, 
--- and this also goes for the 5-volume Indian Medicinal Plants volumes by 
 Warrier, Nambiar and Ramankutty, that Stella cited -- is that they were 
 prepared by collaborations between scholars who are/were 
 university-trained botanists, as well as Sanskritists and practicing 
 vaidyas in Kerala.  These chaps know their onions, so to speak.
-
 Dominik
-
--- 
 Dr Dominik Wujastyk
 University College London
-
-
-
 On Wed, 20 Aug 2008, Stephen Hodge wrote:
-
-> Michael,
->
->> There seem to be several Latin designations
->> for the same plant in this case.
->
-> This is true.  When many plants, especially non-European, were first named, 
-> sometimes they were inadvertantly named several times by different 
-> individuals.  Also the allocation of various plants to familes etc has been 
-> revised over the decades, so they needed to be renamed.  Some may still yet 
-> be changed with DNA studies.  But, in principle, there is (or should be) 
-> only one current valid scientific Latin name for each plant which is 
-> registered.  There is an international database which gives a ful listing 
-> for the world's entire scientifically known flora -- which also, if memory 
-> serves me, gives redundant names -- based at Kew Gardens in London.
->
-> Depending what your purposes are, you may find it useful to download a copy 
-> of Hooker's vast Flora Indica, which is very useful as it gives details of 
-> distribution in the Indian sub-continent.  There are other works available 
-> for download that are also useful if you are more interested in trees.
->
-> Of course, the problem always with many Indian flora (and fauna) names in 
-> Sanskrit is that one word can often designate several totally separate 
-> species or lump together distinct members of a family.  Context sometimes 
-> helps, though.
->
-> I too have been having fun and games recently with certain Indian flora in 
-> texts --- one of mine turned out to be Strychos nux-vomica !  But this, 
-> with other dats, has helped corroborate evidence for a geographical origin 
-> for my texts.
->
-> Best wishes,
-> Stephen Hodge
-
-
-
-

@@ -1,53 +1,21 @@
-From palaniappa at aol.com  Wed Jan 14 05:33:01 2015
-From: palaniappa at aol.com (palaniappa at aol.com)
-Date: Wed, 14 Jan 15 00:33:01 -0500
-Subject: [INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
-In-Reply-To: <20150113141414.Horde.ja_oKZMhG36qFx8AtEE5sA2@webmail.helsinki.fi>
-Message-ID: <14ae6ee3f77-2fe-f5f8@webstg-a06.mail.aol.com>
-
-
+[INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
 Dear Dr. Parpola,
-
 Thank you for your clarification. 
-
 You may remember in 2002, during the Harvard Roundtable on Ethnogenesis of South and Central Asia, when Bh. Krishnamurti presented "The Culture of Proto-Dravidian Speakers as Reconstructed from the  Dravidian Etymological Dictionary (DEDR)," Frank Southworth questioned the Proto-Dravidian nature of many of BhK's reconstructions, which were based on words found only in South Dravidian or South and Central Dravidian. BhK did acknowledge that Frank had a point. In your own paper you were right to point out that the cognates of *nek-V? are attested rather narrowly. In the case of 'nakar', considering it a sole survivor from Proto-Dravidian is too speculative. The danger of assuming 'nakar' to be Proto-Dravidian is made clear by Tamil philology. 
-
-
 Please see the Tamil Lexicon's entries given below.
-
 ?????-??? nakar-, 4 v. intr. 1. To creep, as a reptile; ??????. 2. To crawl or move along in a lying or sitting posture, as an infant; ???????. 3. To steal away, skulk; ????????? ?????.
- 
 ????? nakar, n. < nagara. 1. Town, city; ?????. ???????? ???????? ??????? (?????. 23). 2. [T. nagaru.] House, abode, mansion; ??????. ???????? ??????? ??????? (????. 15). 3. Temple, sacred shrine; ??????. ?????????????? ???? (?????. 6). 4. Palace; ???????. ?????????? ??????? (?????. 27, 200). 5. Dais for performing ceremonies; ?????? ???????? ????. ???? ???????? (????. 2633). 6. A furnished hall or place, decorated for ceremonial functions; ??????? ??? ??????? ???????. ??????? ?????????? (????. 701). 7. Wife; ?????. ????????????????? ??????? ??????? ???? (?????. 8).
-
 The noun nakar is attested from Classical Tamil times. The verb form nakar- is not shown with any old literary attestations. Indeed nakar- in the sense of  '1. To creep, as a reptile; ??????. 2. To crawl or move along in a lying or sitting posture, as an infant; ???????' does not occur in Classical Tamil texts or epics or the eighteen minor works, the Periyapuranam, etc. The only remotely possible occurrence is in T?v?ram 2:19:11.3. Even that is doubtful considering the textual variants given in the Digital T?v?ram. (See http://www.ifpindia.org/digitaldb/site/digital_tevaram/INDEX.HTM)
-
 So it is very doubtful if 'nakar-' has an ancient pedigree, let alone from Proto-Dravidian.
-
 One is led to wonder if the verb nakar- was coined from the noun nakar analogically based on the pair of noun ?r and verb ?r-, which are ancient. See the following from Tamil Lexicon.
-
 ????-??? ?r-, 4 v. [M. ?r.] intr. 1. To move slowly; to creep, as an infant; to crawl, as a snake; ???????. ????????? ??????????? (????. ?????????. 11). 2. To spread, circulate, as blood; to extend over a surface, as spots on the skin; ???????. ?????????? ???? ???????? ??? (?????, 1185). 3. To flow, as juice from the sugar-cane; ??????. ???????????? ???????? (?????, 34). 4. To come to close quarters; ???????. ?????? ???????? ??????? (?????. 27, 27, ?????.). 5. To be unloosed, relaxed; ???????. ????????? ??????? (?????. 100). 6. To itch; ??????????. ???????? ???? ??????????.--tr. 1. To mount; ??????. ????????? ???????? ?????? . . . ???????? . . . ???? (???????. 101). 2. To ride, as a horse; to drive, as a vehicle; ????????????. ?????? ?????????? ???????????? (?????, 37). 
-
 ???? ?r, n. < ????-. 1. Going, riding; ?????. ?????????????????????????? (??????. ????. 43). 2. [T. Tu. ?ru, K. M. ?r.] Village, town, city; ????????? ???. (????. ??. 37.) 3. Place; ????. ??? ???????? ???????????? (????. 2087). 4. Resident population; ???????????. ??? ?????? ?????????? (????. ??. 563). 5. Halo round the sun or moon; ??????????????? ?????? ????????. ????????? ???????? ????????? (??????. ?????. 9)
-
 Indeed Akan????u 306. 6 has a tortoise moving slowly up a sugarcane. If you compare the verbs nakar- and ?r-, one can see the semantic equivalence. The verb ?r-, noun ?r, and noun nakar have a long history of literary attestations. (Th verb ?r- (DEDR 749) is also attested in Tamil, Malayalam, and Konda.) The verb nakar- seems be of a much later coinage. 
-
 In other words, not only is nakar- not attested in languages other than Tamil, but even in Tamil, it is very late. So, in my opinion, Ganesan's proposal of *nakar as a Proto-Dravidian word for crocodile is not an acceptable etymology for Sanskrit nakra, etc.
-
-
 Regards,
 Palaniappan
-
-
-
-
------Original Message-----
-From: asko.parpola <asko.parpola at helsinki.fi>
-To: palaniappa <palaniappa at aol.com>; Sudalaimuthu Palaniappan via INDOLOGY <indology at list.indology.info>
 Sent: Tue, Jan 13, 2015 6:14 am
-Subject: Re: [INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
-
-
-
+Re: [INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
 I told Ganesan that Tamil nakar 'to creep (as a reptile), to crawl (as
 an infant), to sneak away' (TL), to which he had drawn my
 attention, might be the sole survivor of Proto-Dravidian *nakar
@@ -55,210 +23,5 @@ and in that case a better etymology for Sanskrit
 nakra etc. and Proto-Dravidian *nekaL than Proto-Dravidian
 *neka- (DEDR 3730) that I proposed on p. 19 of my crocodile
 paper (2011).
-
 Best regards, "Asokan"
-
-
 Quoting Sudalaimuthu Palaniappan via INDOLOGY <indology at list.indology.info>:
-
-> It is interesting that Dr. Rajam should have mentioned Prof. Asko  
-> Parpola. I have found an interesting post by Dr. Ganesan. In this he  
-> says that Dr. Parpola has changed some of his etymologies based on  
-> Dr. Ganesan's input.   
-> https://groups.google.com/d/msg/mintamil/enXUUa3WiAk/2P1pnvPRgdoJ
->
-> Having read Dr. Parpola's 2011 article recently, I would be very  
-> interested to know if Dr. Parpola has changed the etymologies of  
-> words for crocodile from what he postulated in his 2011 paper and,  
-> if so, what his current etymologies are.
->
->
-> Thanks in advance.
->
->
-> Regards,
-> Palaniappan
->
->
->
-> -----Original Message-----
-> From: rajam <rajam at earthlink.net>
-> To: palaniappa <palaniappa at aol.com>; indology <indology at list.indology.info>
-> Sent: Fri, Jan 9, 2015 11:49 am
-> Subject: Re: [INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
->
->
-> My good wishes to all for a very happy and productive New Year 2015!
->
-> Note: My own computer has been sent in for repair and I'm using an  
-> old, unstable, borrowed machine. So, the following is a quick  
-> response. I hope to send in my comments once I have a robust  
-> computer. The one I'm using now may crash anytime while I'm typing in.
->
-> Two attachments from the original mail on this topic didn't download  
-> properly. They just come out as a blank file.
->
-> ++++++++++++++++
->
-> WOW and Bravo, that's all I can say for now about the original  
-> article by Dr. Ganesan and the critique from Dr. Palaniappan.
->
-> I am deeply eager to hear responses from our esteemed colleagues,  
-> especially from Professors Asko Parpola, M. Witzel, Madhav  
-> Deshpande, George Hart, ..., and a savvy engineer Suresh G. (student  
-> of Bh. Krishnamurti), and many other scholars such as Jean Luc  
-> Chevillard on this list.
->
-> I'll share my thoughts when I have a robust computer since I need  
-> proper diacritics and a non-failing email client all to type.
->
-> Thanks and regards,
-> V.S. Rajam
->
->
-> -----Original Message-----
->> From: palaniappa at aol.com
->> Sent: Jan 8, 2015 10:46 PM
->> To: indology at list.indology.info
->> Subject: [INDOLOGY] N. Ganesan's Dravidian etymologies for 'makara', etc.
->>
->> Dear Indologists,
->>
->> I am sending this from a Windows machine. Hopefully, the diacritics  
->> will come through this time. Please disregard the earlier posts  
->> with a slightly different title.
->>
->>
->> I apologize for the length of this post. I summarize its contents  
->> first. Those who are interested in the details can read further.
->>
->> In multiple Internet posts N. Ganesan has mentioned an article of  
->> his entitled, "A Dravidian Etymology for Makara - Crocodile,"  
->> published by the International School of Dravidian Linguistics in  
->> 2011.  (See Attachment 1 for the article.) In this article, Ganesan  
->> offers new etymologies for words meaning crocodile such as Sanskrit  
->> makara, Sanskrit nakra/n?kra, Tamil mutalai, and Tamil  
->> vi?a?kar/i?a?kar. As far as I can see, the article seems to have  
->> serious flaws from the viewpoints of linguistics and philology.  
->> While usually an article of such a nature might not receive any  
->> serious attention from scholars, the fact that it is said to be  
->> published by International School of Dravidian Linguistics suggests  
->> that it undergo scrutiny by scholars.
->>
->> In the discussion below, I point out some of the problems I see in  
->> the article and I would appreciate any comments from the members of  
->> this list.
->>
->> ---------------------------------------------------------------------------------------
->>
->> Etymology for Sanskrit makara
->>
->> Dravidian Etymological Dictionary (Revised edition, abbreviated as  
->> DEDR) entry 4952 gives the following words for crocodile.
->>
->> 4952 Ta. mutalai, muta?ai, mucali crocodile. Ma. mutala. Ko. moca?.  
->> Ka. mosa?e, masa?e. Ko?. mosale. Tu. mosa??, mudal?, muda??,  
->> m?dal?. Te. mosali. Kol. (Kin.) moseli. Pa. m?ca. Kon?a (BB) m?di,  
->> m?di. Kur. (BB) b?ca. Malt. boce. / Cf. Skt. (lex.) m?cala-  
->> crocodile; (lex.) musali- house-lizard; alligator; Pkt. muduga- =  
->> gr?havi?esa-.
->>
->> Based on the above entry, Bh. Krishnamurti has given  * m?c- /  
->> *moc-V? as the Proto-Dravidian form for the word for crocodile.   
->> (Dravidian Languages, 2003, p. 13).
->>
->> However, on p.7 of his article, Ganesan states, "The  
->> Proto-Dravidian root for makara is *mokaray- a verbal noun from the  
->> verb, *mok-/*mo?ku- 'to eat greedily in large mouthfuls, eat  
->> voraciously, devour, gobble, swallow' (DEDR 5127+4897)."
->>
->> DEDR entries 4897 and 5127 are given below.
->>
->> 4897 Ta. mukku (mukki-) to eat in large mouthfuls; mokku (mokki-),  
->> mokki-tti?- to eat greedily in large mouthfuls. Ka. mukku to eat in  
->> a certain manner, put any dry grain, etc., into the mouth with the  
->> hollowed hand and gobble; mukku?, mukku?e mouthful of water for  
->> rinsing the mouth, rinsing the mouth, cleaning the teeth; mukku?isu  
->> to rinse the mouth, spit out, abandon, reject. Tu. mukkuni to  
->> gobble, swallow, devour; mukk?vuni to over-feed (tr.); mukkele  
->> voracious man; mukkuli, mukku?i mouthful of any liquid;  
->> mukkuliyuni, mukku?iyuni to gargle or rinse the mouth. Te. bokku to  
->> eat greedily, stuff the mouth and eat voraciously, gobble. Kui muka  
->> (muki-) to cast food into the mouth with the hand; mukal mouthful;  
->> mukal giva to rinse out the mouth, take a mouthful, gargle. Kuwi  
->> (Isr.) buk- (-it-) to gobble, swallow. Cf. 5127 Ma. m?kuka.
->>
->> 5127 Ma. m?kuka, m?ntuka to drink, sip; m?yikka to give to sip;  
->> m?val a gulp. Kur. m?xn? to eat (anything except cooked rice);  
->> pass. or refl. m?xrn?; m?xta'?n? to cause or allow someone to eat.  
->> Malt. m?qe to eat (as meat or fruit). ? Ta. moci (-pp-, -tt-) to  
->> eat; m?ntu (m?nti-) to eat, drink, experience, enjoy Cf. 4897 Ta.  
->> mukku.
->>
->> I do not understand how Ganesan could get the Proto-Dravidian  
->> 'root' *mo?ku- from these entries.
->>
->> Having postulated *mok-/*mo?ku- from DEDR 5127 and 4897, Ganesan states:
->>
->> "The Dravidian verb, mok-/mo?k- transforms to moc-/mo?c- in south  
->> Dravidian languages."
->>
->> As far as I know, there has been no basis for such a context-free  
->> transformation mentioned in any work on comparative Dravidian  
->> phonology. (Moreover, as one can see above in DEDR 4592, the words  
->> for 'crocodile' in north Dravidian languages, Kurukh and Malto,  
->> also have -c- and not -k- in DEDR 4952.)
->>
->> Then Ganesan goes on to say:
->>
->> "Hence Kannada and Telugu have mosale or mosali (< *mokaray), and  
->> Tamil and Malayalam derives its mosale> motalai > mutalai from the  
->> same verbal root, mok- with -r- > -l- alternation in the South."
->>
->> Ganesan has not presented any evidence of -oka- transforming to  
->> -oca- or -osa- in south Dravidian languages. So, in my opinion,  
->> Ganesan has not provided an acceptable Dravidian etymology that  
->> supposedly explains Sanskrit 'makara' as well as Tamil mutalai.
->>
->> Etymology for nakra/n?kra
->>
->> Ganesan also has given an etymology for Indo-Aryan words for 
->> gharial, the long-snouted crocodile.
->>
->> On p. 4 of his paper, Ganesan says, " The god ?iva in Tamil bhakti  
->> texts of the first millennium, is extolled as either nakkar or  
->> vi?a?kar indicating ?iva?s nudity and his virile lingam in  
->> particular. These epithets for ?iva and his lingam have origin in  
->> the names for gharial crocodile (Section 3.0). When vi?a?ku is  
->> used, it indicates the naked bhik???ana youth going rounds in the  
->> streets and attracting women: ma?aika? t??um talai kai ?nti  
->> vi?a?kar?kit tirivatu e???? (Tevaram 7.6.1)."
->>
->> The interpretation of Tamil vi?a?kar as indicating a naked ?iva is  
->> simply not valid according to Tamil philology.  Indeed the text  
->> quoted by Ganesan is translated by V. M. Subramanya Iyer in the  
->> Digital T?v?ram edition (from EFEO, Pondicherry) as "what is the  
->> reason for wandering from house to house, assuming a beauteous form  
->> and asking alms, " where he translates vi?a?kar as 'beauteous form?  
->> (http://tinyurl.com/p7vg2wl). ; That vi?a?kar is not naked is shown  
->> by T?v?ram 7.36.3, another verse by Cuntarar, the same person who  
->> authored the verse quoted by Ganesan too. In this verse translated  
->> by V. M. Subramanya Iyer, Vi?a?kar is explicitly described as  
->> wearing a loin-cloth as given below (http://tinyurl.com/nbns4gt).
->>
->> You are pure in your eyes, mouth and body, you wear a sewn  
->> loin-cloth, give up dancing along with p?y in the cremation-ground,  
->> are you a mad person? Our master! Civa?, who is known by the name  
->> of ?ra?iya vi?a?kar in Pai???li surrounded by a verdant garden  
->> which has mast wood trees, cool and green delight of the woods, and 
->> lotus flowers growing in the moats into which water flows.
->>
->> So there is no connection between nudity and vi?a?kar as claimed by Ganesan.
->>
->> On pp. 7-8 of his paper, Ganesan says, "In East India (Nepali,  
->> Bihari, Bengali) (3) nakar is the name of gharial [13], directly  
->> derivable from the Tamil verb, nakar- ?to creep, to crawl slowly?.  
->> Compared to muggers (< makara), gharials have much smaller, weak  
->> legs and cannot do ?high walk? as muggers can (Figures 7, 8). When  
->> gharials come to the shore for sun bathing or for laying eggs, they  
->> creep on the banks awkwardly pushing their huge bodies forward.  

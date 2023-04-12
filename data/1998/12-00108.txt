@@ -1,20 +1,8 @@
-From r.l.schmidt at EAST.UIO.NO  Fri Dec  4 08:35:31 1998
-From: r.l.schmidt at EAST.UIO.NO (Ruth Laila Schmidt)
-Date: Fri, 04 Dec 98 09:35:31 +0100
-Subject: Urdu speakers
-In-Reply-To: <Pine.LNX.4.05.9812041101530.32139-100000@iopb.iopb.res.in>
-Message-ID: <161227043286.23782.11880408071665291597.generated@prod2.harmonylists.io>
-
+Urdu speakers
 Dear Sama Abbas,
-
 I comment on your post at the relevant places. Perhaps there are other
 scholars who would like to contribute to this thread, as I do not have time
 to pursue it at length.
->
-> Zaban-e-Urdu actually developed in the camps of the armies of Mahmud of
->Ghazni. Zaban-e-Delhavi is derived from this Zaban-e-Urdu. The
->Ghaznavid Urdu is an amlagam of Persian, Arabic and Turkic.
-
 Please give me the names of the texts in Zaban-e-Urdu written by Mahmud of
 Ghazi so that I may take a look at them. To the best of my knowledge the
 only texts earlier than Amir Khusrau are Nath texts in Saddhukari. If texts
@@ -22,136 +10,41 @@ by Mahmud of Ghazni exist, I suspect they would be in Persian, as this was
 the language used by the various Muslim conquerors until the end of the
 Mughal Empire. A Persian text does not prove than the language of Ghazni is
 the same as Old Urdu.
->
->>> (3) Modern Urdu as standardized by the poets, written first in Delhi and
->> later also in Lucknow, and first mentioned as "Urdu" in a couplet written
->> by the poet Mushhafi (1750-1824), dated to ca. 1776.
->
->The first mention of `Zaban-e-Urdu' is in reference to the language
->of the camps of Mahmud of Ghazni. The first poet was Masud, who lived
->during the Ghaznavid era.
->
 We must have more than a reference to a name, as Zaban-e-Urdu mnerely means
 "language of the camp" and does not carry any linguistic information. In
 which text is this reference, and does the text supply any samples of the
 speech of "Zaban-e-Urdu"?
-
->> Khari Boli is the speech on which the Zabaan-e-Dehlavi is based, and after
->> the shifting of the Mughal Court to Delhi it survived as a sort of country
->> cousin of Zabaan-e-Dehlavi. Standard Urdu has abandoned many Khari Boli
->> forms.
->>
->>This is the older view propagated by the Sanskrit-centric Brahmanical
->fundamentalist scholars. As per this view,
->     Sanskrit -> Prakrit -> Apabrahmsa -> Khari Boli -> Urdu.
->These same linguists also claimed that Tamil, Greek, and English were
->degraded forms of Sanskrit. These same people have claimed that :
->
-> 1. "Taj Mahal is a Hindu temple" [cf. Oak's book]
-> 2. "Qutb Minar is a Hindu temple"
-> 3. "Shakespeare and Homer copied Sanskrit texts"
-> 4. "Aryans did not invade India, but were created by Brahma in the
->     Punjab" etc.etc.
->
 The term "Sanskrit-centric Brahmanical fundamentalist scholars" could
 hardly be applied to scholars like Abdul Haq and Inshaullah Khan and many
 other serious scholars who have worked on Urdu. Please supply the names of
 the scholars whose work you rely on.
-
->Fortunately, these lunacies have now been discarded by serios indologists.
->It is thus accepted that Tamil is a Dravidian langauge, and that Urdu is
->not a degraded form of Sanskrit. Sanskrit was created in 500 BC by Panini
->et al and did not exist before that.
-
 I leave comment on this above to my Sanskritist colleagues!
-
->> The identification of Urdu as Indo-Aryan is based on analysis of its
->> grammar (verbs, nouns, pronouns, postpositions) and its core vocabulary, as
->> contained in texts.
->
->It would be so if it were derived from Persian via the route
->      Persian -> Indo-Persian -> Urdu
->or if it were a hybrid langauge; it could still be classed as
->Indo-Iranian even in this case. This fact has been misused by Hindu
->fundamentalist linguists to claim that Urdu is derived from Sanskrit.
-
 We cannot throw out the principles of historical linguistics before we even
 begin our analysis. Several hundred years of historical research on many
 language families of the world have shown that we can still determine the
 grammatical and phonological basis of a language even when it has borrowed
 heavily and become, from the lexical standpoint, a mixed language.
->
->> Modern Urdu is indeed quite Persianized (and
->> Arabicized), but this was a gradual process.
->
->Urdu originally had only Perso-Arabo-Turkic words. It was the language of
->the Ghaznavid camp, where only Iranian, Turkish and Arab warrioirs were
->present. Khari Boli was not spoken in Afghanistan. How could they have
->adopted Khari Boli, which nobody there would have known? Also Khari Boli
->was not the literary language of India at the time; it was (mainly)
->Sanskrit. These Ghazis would obviously not have learned Sanskrit.
-
 Khari Boli was an important element in the devotional poetry of the (then)
 northen India, including modern Pakistan, so we know that it existed. The
 various Muslim courts as I mentioned used Persian (we have enormous numbers
 of records to prove it). They distinguished between this Persian and the
 languages of India, which they lumped together and did not consider fit for
 poetry.
-
->> The poems of Amir Khusrau
->> (1236-1324), which are usually considered the first Urdu texts, are not
->> heavily Persianized.
->
-> In fact the first Urdu poet is Masud who died a century after the death
->of Mahmud of Ghazni [ `Alberuni's India', transl. Sachau vol.II p.258 ].
->Sachau refers to him as `the Dante of Urdu'.
->
->  Actually Amir Khosrow was, along with Malik Muhammed Jaisi, one of the
->first Hindustani writers. Their langauge conatains a higher proportion of
->Prakrit, Vedic, Sanskrit, Dravidian etc. words, which they adopted into
->the original Zaban-e-Urdu. This was an innovation at the time.
->
->> The poets of the Delhi School of Urdu poetry  (Mir,
->> Sauda etc.) wrote a somewhat less Persianized Urdu than those of the later
->> Lucknow School.
->
->  These were attempts to restore the language to its purity as it existed
->in the Ghaznavid era, considered by many to have been a `golden age'.
->There were also periods of Turkic, Arabic and `New Hindustani' influences.
->It was just a question of fashion as to when Persian, Turkish, New
->Hindustani or Arabic words were preferred.
-
 Mir and Sauda are anything but linguistic reformers! Read their poetry, it
 is full of complaints about the dark days which had fallen on the Mughal
 Empire. Read Mir's memoirs.
-
->> Hindi and
->> Hindavi are Persian words.
->
->This in itself indicates that the language Hindi cannot be
->Sanskrit-derived. The Indians call English `Angrez', but the English will
->not start calling their language `Angrez' too. Similarly the Persians
->referred to Urdu os `Hindi'(as you say), but Indo-Aryans will not start
->referring to their langauges (Kanuaji, Braj etc. ) as Hindi. THis goes
->against the Sanskritic origin of Hindi.
-
 It doesn't indicate anything except the geographical location of the
 language. I can point out to you at least a dozen separate languages called
 "Kohistani" (of the mountains) in Pakistan. Knowing that they are "of the
 mountains tells us nothing, which we can find out by recording the
 languages.
-
 In short, you have brought many opinions for consideration, but you have
 not furnished names of scholars, names of texts, quotations from the text
 that contain more than the mere mention of the names of languages, or any
 of the other data which are indispensable for linguistic and textual
 analysis. I invite you to do so.
-
 With best wishes,
-
 Ruth Schmidt
-
-
 ***********************************************
 Ruth Laila Schmidt
 Dept of East European and Oriental Studies
@@ -161,7 +54,3 @@ N-0315 Oslo, Norway
 Phone: (47) 22 85 55 86
 Fax: (47) 22 85 41 40
 Email: r.l.schmidt at east.uio.no
-
-
-
-

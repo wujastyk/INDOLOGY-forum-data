@@ -1,13 +1,5 @@
-From kellner at IPC.HIROSHIMA-U.AC.JP  Sat Feb 21 06:05:44 1998
-From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
-Date: Sat, 21 Feb 98 15:05:44 +0900
-Subject: more on aatma-/asatkhyaati
-Message-ID: <161227035998.23782.12668511448012650074.generated@prod2.harmonylists.io>
-
+more on aatma-/asatkhyaati
 John Dunne wrote:
-
-> Well, since I don't really have time to be writing this message, I've been waiting for >someone else to state what is perhaps already obvious: the terms *aatmakhyaati* and >*asatkhyaati* are not "Buddhist" terms, in the sense that they were neither coined nor >favored by Buddhist authors. Dharmakiirti, for example, does not use them at all, and >to my knowledge, they are not employed by the two earliest commentators on >Dharmakiirti, namely, Devendrabuddhi and Zaakyabuddhi.
-
 This coincides with what can be gathered from Schmithausen's
 Vibhramaviveka-study (which is really a *must*! It covers a much wider
 range of epistemological issues than the title suggests). Schmithausen
@@ -24,22 +16,13 @@ the Naiyaayikas). (Warning: simplified presentation on my part). So, the
 absence of *khyaati*-terms in Dharmakiirti's texts should,
 chronologically speaking, not come as a surprise (IF Schmithausen is
 correct).
-
 An additional *khyaati*-term refers to the "odd" (Schmithausen's
 terminology, "merkwuerdig", p.268) theory of *alaukikakhyaati* of some
 Miimaam.sakas, which probably developed around the middle of 8th c. I
 think the earliest post-Man.d.ana-"khyaati-ist" Schmithausen mentions is
 Umbeka; Jayanta also uses the terminology.
-
->The question of perceptual illusion is particularly important in "pramaa.navaada" >discourse; hence, the fact that Dharmakiirti and his early commentators shun these >terms may suggest either that they were unaware of them, or that they perceived the >terms as a strategem to draw them into a debate that they could not win.
-
 This passage, taken together with the following John wrote further below
 -
-
-> I assume that Schmithausen is referring to Ma.n.danamizra's version of Yogaacaara
-> and Sautraantika. Since Dharmakiirti, at least, does not use these terms, it seems
-> highly problematic to apply them to his philosophy.
-
 - prompts me, in turn, to point out the obvious: occurrence or
 non-occurrence of certain terms is not a sufficient condition for the
 acceptance or rejection of concepts which can be associated with these
@@ -63,14 +46,11 @@ to larger issues, how the use of certain arguments is connected with
 basic doctrinal motivations ... <fade out> but applying terms which do
 not occur in certain texts to describe concepts advocated therein is not
 per se problematic.
-
-
 I am curious about what makes you think that Devendrabuddhi et al. may
 have perceived the *khyaati*-terms as "a strategem to draw them into a
 debate that they could not win". Are you thinking of the argument that
 an acceptance of a Niraakaaraj~naanavaada-type theory entails the
 acceptance of the (unwanted) doctrine of *asatkhyaati*?
-
 As far as the issue Madhyamaka and *asatkhyaati* is concerned -
 Schmithausen voices the opinion that Man.d.ana's representation of
 Madhyamaka arguments have an ontologizing tendency which runs against at
@@ -78,11 +58,6 @@ least Naagaarjuna's intentions. However, Schmithausen does not invoke
 the two-truth-framework in this context - what he considers problematic
 is the high emphasis placed on an "absolute non-existence" in the
 Maadhyamika position as it is presented by Man.d.ana.
-
-> For me, the best way to understand Buddhist theories of error is focus on the simple
-> and ubiquitous formulation: *atasmi.ms tadj~naana*.
-> But perhaps that is too easy an answer.
-
 Well, the other day, I discovered that the best way to understand
 Dharmakiirti's theory of negation was to focus on the simple fact that
 Dharmakiirti was a featherless biped. No feathered triped could have
@@ -92,35 +67,19 @@ over-abundant in Nyaaya-Vai'ses.ika literature (Nyaayabhaas.ya,
 Nyaayavaarttika, Padaarthadharmasa.ngraha, Candraananda's
 Vai'ses.ikasuutravr.tti, etc.). There's nothing specifically Buddhist
 about it; it's not too easy an answer, it's simply a non-starter.
-
 John makes two further remarks which arouse my curiosity (I don't know
 whether he really wants to get into these discussions, though)::
-
-> ... I am still unconvinced that
-> Dharmakiirti responds to the *Zlokavaartika* in his *Svav.rtti*.
-
 Do you intend that as a general statement, or with specific focus on
 theories of error? In the former case, I'm curious on what prompts your
 scepticism.
-
->Needless to say, *aalayavij~naana* and *vaasanaa* play an important
->role in Dharmakiirti's theory.
-
 This makes me really curious. I must confess that I have not yet
 considered the issue of Dharmakiirti and the *aalayavij~naana*, but I
 was just reminded that a couple of months ago, I was taught that
 Dharmakiirti does not accept an *aalayavij~naana* ...
-
 BTW, another article which covers theories of error is Eli Franco's
 "Studies in the Tattvopaplavasimha, II. The Theory of Error", Journal of
 Indian Philosophy 12/1984, 105-137. Franco modifies certain claims made
 by Schmithausen in connection with Nyaaya-theories and Kumaarila.
-
---
 Birgit Kellner
 Department for Indian Philosophy
 Hiroshima University
-
-
-
-

@@ -1,42 +1,7 @@
-From saf at SAFARMER.COM  Wed Dec 20 23:16:23 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Wed, 20 Dec 00 15:16:23 -0800
-Subject: Origins of the "double-truth"
-Message-ID: <161227065746.23782.16131616071246724755.generated@prod2.harmonylists.io>
-
+Origins of the "double-truth"
 I wrote:
-
->Attempts to show that one tradition derived this idea from
->another are complicated by the fact that some version of the
->double-truth sooner or later showed up in virtually every sacred
->or semi-sacred manuscript tradition known. Religious and
->philosophical exegetes world-wide recognized (in most cases, if
->not all, independently) that if conflicting concepts showed up in
->two authoritative texts or traditions, as a last resort the two
->sides could be reconciled by distinguishing different "levels" of
->reality and redistributing the conflicting concepts to those
->respective levels.
-
 Lance Cousins responded:
-
-> I think we have to distinguish the general case from the specific. We
-> have a particular distinction of two truths, often using the same or
-> similar terminology, which is widely used in several quasi-absolutist
-> traditions by the latter part of the first century A.D. i.e.
-> Mahaayaana, Gau.dapaada and among Jains by Kundakunda. These are
-> clearly related by their terminology and methodology. Only in the
-> Buddhist case do we have a clear earlier history. In fact the
-> distinction between the two truths derives from abhidharma. Indeed
-> the Sanskritization as sa.mv.rti has long been known to be erroneous.
-> It is clear that a distinction of two truths is integral to the
-> abhidhamma from a very early date and has strong roots in suttanta
-> material.
-
 On Arabic and Western scholastic uses of the concept, Lance comments:
-
-> We cannot rule out Indic influence on the Arab world. You would need
-> examples from Classical antiquity.
-
 Analogous concepts can be easily supplied from so-called gnostic
 and Middle Platonist documents in the Mediterranean and Daoist
 (also Neo-Daoist) texts in China -- all emerging about the same
@@ -54,7 +19,6 @@ eighteen Books of Chilam Balam and in the Popul Vuh. The origins
 of the strategy can be traced to basic strategies that the brain
 employs to handle contradictory data: You don't need to trace it
 to one or another ur-tradition.
-
 In saying this, I recognize that once some form of the
 "double-truth" took root locally, its systematic byproducts were
 often adopted by later, related, families of traditions without
@@ -67,7 +31,6 @@ of several candidate texts.) Similar source hunting, of course,
 can be used to link Latin and earlier Arabic and Hebrew and Greek
 uses of the Western versions of the "double-truth" -- if simple
 source hunting is your game.
-
 The idea of adoption can be generalized using theoretical
 concepts applicable to the evolution of complex systems in
 general: Obvious "path dependencies" show up in many points in
@@ -90,7 +53,6 @@ Center). Ralph Abraham, one of the mathematical founders of
 nonlinear dynamics (chaos theory, complex systems, etc.), has
 recently joined our collaboration and is helping refine our
 mathematical ideas.
-
 Lance: I think that one of the grounds of our apparent
 disagreement derives from nothing deeper than our different
 current research interests. As a comparative historian, I see
@@ -104,7 +66,6 @@ whatever it is modeling. I certainly appreciate unique local
 features of the "double-truth" in Abhadamma. But I'd also argue
 that many closely related exegetical byproducts evolved
 independently in many other scholastic traditions.
-
 Other grounds of disagreement, I suspect, may lie in differences
 in our attitudes towards the putative "truth value" of these
 traditions. (These are awkward terms, but I can't think of
@@ -117,7 +78,6 @@ fossilized in stratified textual traditions. In an
 Averroistic-style double-truth of my own, I suppose, I leave the
 purported "truth value" of the traditions I study out of the
 picture.
-
 P. Mumme, I think rightly, has emphasized that the structure of
 Indian religious and philosophical systems (including Advaita)
 were largely byproducts of exegetical processes "working up"
@@ -129,7 +89,6 @@ transformations through many layers of manuscript traditions, you
 discover clear emergent features in their structures (e.g.,
 multileveled mirroring structures of various familiar scholastic
 subtypes).
-
 My own textual studies began by looking in minute detail at the
 exegetical dynamics of extreme hyperscholastic systems at the end
 of the manuscript era in the West -- at systems which in a sense
@@ -145,9 +104,4 @@ the opposite direction from those currently pursued by extreme
 nationalistic elements in the Middle East, S. Asia, or China. We
 are living in a global environment, and I think the time is ripe
 for our historical methodologies to take cognizance of that fact.
-
 Steve Farmer
-
-
-
-

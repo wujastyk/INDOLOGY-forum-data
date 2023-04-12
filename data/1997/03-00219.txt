@@ -1,16 +1,5 @@
-From mgansten at sbbs.se  Tue Mar 18 07:51:50 1997
-From: mgansten at sbbs.se (mgansten at sbbs.se)
-Date: Tue, 18 Mar 97 08:51:50 +0100
-Subject: nak.satras
-Message-ID: <161227029008.23782.5199804930016336434.generated@prod2.harmonylists.io>
-
+nak.satras
 Fred Smith wrote:
-
->This year the vernal equinox occurs in aa;sle.sa nak.satra, and the
->pit.rpak.sa begins this year on Sept 17 (Bhaadrapada k.r.s.na pratipadaa,
->in Uttara Bhaadrapadaa nak.satra. Thanks goes to my trusty Kaalnir.nay
->Marathi calendar.
-
 We seem to have understood Edwin's question differently. To clarify: on the
 day of the vernal equinox, the *moon* will occupy Aa'sle.sa, as Fred's
 calendar tells him -- and this is what is normally meant by a nak.satra
@@ -19,11 +8,4 @@ this equinoctial point (the apparent position of the sun in relation to the
 zodiac at the time of the equinox), slowly regressing through the fixed
 stars, which gives rise to the difference between the tropical and sidereal
 zodiacs.
-
 Martin Gansten
-
-
-
-
-
-

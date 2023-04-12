@@ -1,11 +1,5 @@
-From mgansten at SBBS.SE  Tue Jul 28 08:02:55 1998
-From: mgansten at SBBS.SE (Martin Gansten)
-Date: Tue, 28 Jul 98 10:02:55 +0200
-Subject: Converting Devanagari
-Message-ID: <161227041038.23782.3410959964641763474.generated@prod2.harmonylists.io>
-
+Converting Devanagari
 Daniel,
-
 The name of the TTF to go with your version of Devawin is different from the
 one I bought some years ago. But if it is indeed the same font, you can
 switch the diacritic function on and off (provided Devawin is up and
@@ -13,13 +7,7 @@ running) by pressing <Alt + ;>. (Depending on your keyboard, it may not
 actually be the <;> key, but the <,> or some other; you'll have to
 experiment with this.) Once the diacritic function is on, you get diacritics
 by using the same <;> key -- that is, ;a gives aa, etc.
-
 Once you have typed the transliterated word, sentence, etc, you cut it, run
 Devawin (by <Alt+F5>), paste it, and convert it to the Devanagari font.
-
 Best regards,
 Martin Gansten
-
-
-
-

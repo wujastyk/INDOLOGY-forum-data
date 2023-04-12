@@ -1,61 +1,27 @@
-From hubeyh at MONTCLAIR.EDU  Sun Nov  8 00:55:46 1998
-From: hubeyh at MONTCLAIR.EDU (H.M.Hubey)
-Date: Sat, 07 Nov 98 19:55:46 -0500
-Subject: On logic and fuzziness
-Message-ID: <161227042438.23782.12371314153296053482.generated@prod2.harmonylists.io>
-
+On logic and fuzziness
 Artur Karp wrote:
->
->
-> Sorry, but the logic of your teacher's "joke" kind of keeps escaping me -
-> even with the new set of two variables - A and X.
-
 The correct version was posted by someone; it is mix A&X, B&X, and C&X
 giving the impression that X must have alcohol while it is perfectly
 easy to have A, B and C to be alcoholic drinks.
-
 The real question is if this is a problem of probability or logic
 or possibility.
-
 1. If it is one of probability and if any bottle can be alcoholic or
 nonalcoholic with equal probability then we can compute which is more
 likely.
-
 2. If it is one of logic, then someone can purposefully rig it in
 any way, and we should not deduce one or the other.
-
 3. Fuzzy logic is supposed to deal with "possibility theory". We have
 then other tools to decide if one or the other is "possible" etc.
-
 Many problems in HL (historical linguistics) are about attempts to
 reach conclusions. These may be deduced; they may be "most likely"
 events, or "possible" events, or simply beliefs due to inertia (and lots
 of wishful thinking and a residue of past ethnic/national chauvinism
 without the proponents being aware that it is so).
-
-> Which brings me to the question of logic as opposed to the way of thinking
-> that you seem to believe is prevalent in some "fuzzy" disciplines (like
-> historical linguistics).
->
-> But first - a bit of personal reminiscing.
->
-> During 1968/69 I had the opportunity to work as a documentalist at the
-> neolithic site (VI-II M BC) in Bylany (Czech Republic). I still remember
-> with what great caution syntheses were formulated, even if the specialists
-> working there had at that time over 250 000 carefully documented (and
-> statistically processed) objects at their disposal. The main problem - if I
-> remember well - had to do with the difficulty in evaluating the possible
-> impact of some important variables, like the natural horizontal and
-> vertical movement of the archaeological strata.
-
 There are two separate but related concepts here:
-
 1. Reliability & Validity (of measurement)
 2. Certainty
-
 The first is about errors in measurement, and that can also affect the
 second which is about how certain we are of the most likely answer.
-
 In physical measurements (such as with a ruler) both precision and
 accuracy usually go hand in hand. IOW, if we have a high-precision
 instrument we usually get good accuracy. For example, suppose I send
@@ -67,14 +33,12 @@ accurate. In nonphysical sciences, these terms are reliability and
 validity. Reliability refers to the capability to get the same
 measurement over and over if nothing changes. Validity refers to how
 good the measurement actually measures what it purports to measure.
-
 For example if I take 10 shots at a target and miss the bullseye with
 all but the shots all cluster in a small spot, I shot reliably (but
 not accurately/validly); if the shots scatter all around the target but
 are distributed randomly, the average can be bullseye (so it is not
 reliable but valid/accurate because social science tests are repeated in
 large numbers and averages are taken).
-
 2. Now suppose I take some random samples of something (i.e. like
 a social science questionnaire) and average the results to arrive at
 some most likely conclusion. The relevant statistic is not just the
@@ -85,16 +49,6 @@ at all, so the variance (uncertainty) is high. But if I take a sample of
 average height is small. In this case we don't have problems with
 reliability and validity because measuring spatial distance is easy,
 and reliable and valid.
-
-
-> Scantier or more doubtful material would have allowed only weak, tentative
-> hypotheses. With "fuzzy" stratigraphy (in historical linguistics - "fuzzy"
-> etymology and "fuzzy" diachronical fonology/morphonology), the use of
-> sophisticated statistical instruments isn't necessarily conducive to
-> producing better quality theories. [Question: why cannot the Painted Grey
-> Ware be dated more precisely?] But it certainly gives work to statisticians
-> and probability theory specialists.
-
 That is the small sample problem if the PGW contains carbon compounds.
 If it
 had carbon from living things it could be calculated reasonably
@@ -102,18 +56,10 @@ accurately.
 I do not know if PGW contains such material or if the material is mixed
 with
 noncarbon compounds.
-
-> What kind of result can one expect if one wants to analyze statistically  a
-> very limited set of words? Like the one posted by S. Kalyanaraman on Nov. 5
-> (where he says: <<Since there are lots of theoretical possibilities, let us
-> also look at some transportation lexemes and IE synonyms, from Carl Darling
-> Buck to formulate some statistically testable hypotheses>>).
-
 If it is limited (small sample) the result is highly uncertain.
 Probability
 theory at least gives you a real number of uncertainty. As Pascal said;
 "Probability is common sense in numbers."
-
 But it also provides more. It makes it possible to compare things to
 each other by normalization. It also makes it possible to compute some
 baseline figures for comparison purposes. For example, we should have
@@ -121,27 +67,9 @@ some idea of how many words could "resemble" each other between
 different
 languages if these languages were created independently of each other
 so that there would be no correlation of sounds and meanings.
-
->
-> What is the minimum size of statistical series, below which there can be no
-> talk of statistically meaningful results (since probabilities would just
-> tend to dissolve in the thin air)? What happens if such a set contains
-> material of uncertain quality (mistakes, borrowings, calques; S.
-> Kalyanaraman's set has all these characteristics)?
-
 YOu can tell if some occurrence is possible/likely due to chance or
 not.
-
-> I do not think the reluctance with which historical linguists reach for
-> mathematics-derived methods has anything to do with the "fuzziness" of
-> their discipline, or lack in logic, or the unwilingness to let themselves
-> tested against the presence of some <<"Aryan Racist Philosophy" of the 20th
-> century>> virus. It's rather - it seems - a question of the very basic
-> demands - testable quality and a proper size of series of objects (words)
-> being the most important of them.
-
 I only do that if I am insulted :-)
-
 Most of this is "inertia". People stick to what they learned in
 school. This happens in comp sci too. It is not as well developed
 as math or even engineering. So if a student sees something in a book
@@ -153,42 +81,16 @@ residue tends to hang around. There was email going around about a year
 ago that the width of the British railroads was due to an old Roman
 standard on road width which had to do with accomodating a two horse
 chariot. That's how long things can persist.
-
-
-> Employing probability theory as neutral referee (<<It is math, and its
-> branch of probability theory is younger but is available for all those not
-> too pompous.>>) may be only warranted by the kind of material one has at
-> hand. Certainly, it is available - but not always helpful. (Although -
-> ultimately, it might help someone suddenly discover their ability to speak
-> in prose...)
-
 There is one are in which it is immensely helpful. Speech recognition
 algorithms of computer science (which should have been "linguistics").
 But it will also be immensely helpful if we can decide that two
 languages
 might have up to N chance "cognates".
-
->
-> There are times when one is clearly better off by sticking to good old
-> s(t)olid procedures.
->
-> Such procedures, however, since they are the product of pre-post-modernist
-> modes of thought, do not permit everything to be connected with everything.
-
 The reason I bring this up, is really point out that much of what passes
 for science (or truth) is basically "assertion" and "vote". Things get
 repeated for 2 decades and then nobody will change his mind. Only when
 pointed questions are asked are people forced to think about something
 which they thought they knew for sure.
-
-> Regards,
->
-> Artur Karp, M.A.
->
-> University of Warsaw
-> Poland
-
---
 Best Regards,
 Mark
 -==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -202,7 +104,3 @@ or entities other than the intended recipient is prohibited. If you
 received this in error, please contact the sender and delete the
 material  from any computer.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-
-

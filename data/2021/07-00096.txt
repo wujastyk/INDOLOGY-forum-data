@@ -1,11 +1,5 @@
-From wujastyk at gmail.com  Mon Jul 26 18:09:37 2021
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Mon, 26 Jul 2021 12:09:37 -0600
-Subject: [INDOLOGY] Velthuis nagari font for linux
-In-Reply-To: <CAHfOVECyjzJUW1kvnxD1yoPFV-oR4c8skd0uDcDEcG_Wa4oGwQ@mail.gmail.com>
+[INDOLOGY] Velthuis nagari font for linux
 References: <CAHfOVECyjzJUW1kvnxD1yoPFV-oR4c8skd0uDcDEcG_Wa4oGwQ@mail.gmail.com>
-Message-ID: <CAKdt-Cd=kWYcuUzE72+bQJSVu4L8j5FqAhLmuFhv-b-i8fBOzg@mail.gmail.com>
-
 No, it's not available as a Unicode font for Linux, to my knowledge.  But
 it is available as an Adobe Type1 font (see the type1 directory at CTAN
 <https://ctan.org/tex-archive/language/devanagari/velthuis/?lang=en>).  So
@@ -14,7 +8,3 @@ converted to PDF (dvitopdf) with embedded vector fonts.  But that's not
 quite what you are looking for.
 Best,
 Dominik Wujastyk
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210726/bec63244/attachment.htm>
-

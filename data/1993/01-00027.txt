@@ -1,23 +1,14 @@
-From kak at max.ee.lsu.edu  Wed Jan 27 15:19:48 1993
-From: kak at max.ee.lsu.edu (kak at max.ee.lsu.edu)
-Date: Wed, 27 Jan 93 09:19:48 -0600
-Subject: The Rigveda
-Message-ID: <161227015624.23782.6164734582533507659.generated@prod2.harmonylists.io>
-
+The Rigveda
 Several colleagues have urged me to announce on this network
 the discovery of an astronomical code in the Rigveda.
 Several papers on this code are in the process of publication.
 Two papers that have just appeared in print are:
-
 Subhash Kak, "Astronomy of the Vedic altars and the Rigveda",
 Mankind Quarterly, vol 33, 1992, pp. 43-55.
-
 Subhash Kak, "Astronomy in the Shatapatha Brahmana", Indian J. of 
 the History of Science, vol. 28, 1993, pp. 14-33.
-
 I shall give the exact references of the other papers in the series
 as soon as they appear in print in the various scholarly journals.
-
 The Rigveda has been studied extensively in the West for more than
 a hundred years (and it has been studied for centuries in India) but
 no one had suspected that an astronomical code existed in the
@@ -31,7 +22,6 @@ They reconciled the solar and the lunar years through a 95 year
 correction cycle.  This means that their solar year was equal
 to 365.24675 days which is a remarkably accurate value.
 They were also interested in many abstract properties of numbers.
-
 This work also suggests that the astronomical code was forgotten
 in India about 3000 years ago.  This provides a time-marker to
 determine the age of composition of
@@ -40,13 +30,7 @@ Figuratively, the decipherment provides a new Rosetta
 stone to study the Rigveda which is like a Stonehenge in text.
 Other scholars have expressed great excitement with characterization of
 this work in terms such as `revolutionary' and `monumental'.
-
 The discovery of the astronomical code of the Rigveda
 implies that the traditional view that Vedic knowledge has
 three aspects, namely the cosmos, the nature, and the man
 stands vindicated.
-
-
-
-
-

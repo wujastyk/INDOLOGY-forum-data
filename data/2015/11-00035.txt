@@ -1,46 +1,4 @@
-From jpo at uts.cc.utexas.edu  Fri Nov  6 02:00:59 2015
-From: jpo at uts.cc.utexas.edu (Patrick Olivelle)
-Date: Thu, 05 Nov 15 20:00:59 -0600
-Subject: [INDOLOGY] Database of manuscripts digitized by National	Manuscript Mission
-In-Reply-To: <CADSGPzUaJ2Fpau_6sSkRFOqLBtKeuABFHQuKiufPH8EJNZ27FQ@mail.gmail.com>
-Message-ID: <5134D365-924D-4AD3-A53B-7B8A97B4CBCC@uts.cc.utexas.edu>
-
+[INDOLOGY] Database of manuscripts digitized by National	Manuscript Mission
 Thank you so much for this very important database. You have done a great service. Now if we can only obtain actual manuscripts from NAMAMI we would be in a perfect world, like the Nepali manuscripts from the central archive. Thanks again.
-
 Patrick
-
-
-
 On Nov 5, 2015, at 7:03 PM, dhaval patel <drdhaval2785 at gmail.com> wrote:
-
-> Dear friends,
-> Sorry for cross posting.
-> 
-> I am attaching herewith a complete database of manuscripts digitized by http://namami.org/, which I received from them after a year long legal issue.
-> I am thankful to National Manuscript for Manuscript to have provided this valuable data.
-> 
-> Dropbox link - https://www.dropbox.com/s/9g703gcxqdl0vc5/Namami_Digitization.xlsx?dl=0.
-> 
-> Total Manuscripts digitized - 2,10,573
-> 
-> Total Manuscript repositories - 51
-> 
-> Notes - 
-> 1. Each record has the following fields
-> Sr. No. ManusID Acc. No. Title Number of pages Script Repo Code Notes
-> 
-> 2. Repository codes are placed in 'Abbrv' worksheet of the same file.
-> 
-> 3. Because of different transliteration conventions used in base files, the transliteration is not uniform
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20151105/89b69e7b/attachment.htm>
-

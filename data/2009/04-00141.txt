@@ -1,9 +1,4 @@
-From j_e_m_houben at YAHOO.COM  Sat Apr 25 07:09:30 2009
-From: j_e_m_houben at YAHOO.COM (Jan Houben)
-Date: Sat, 25 Apr 09 00:09:30 -0700
-Subject: On Sarasvati as mighty glacier fed river ... (was: Re: On Indus              Civ. signs)
-Message-ID: <161227085980.23782.9728397820066652925.generated@prod2.harmonylists.io>
-
+On Sarasvati as mighty glacier fed river ... (was: Re: On Indus              Civ. signs)
 Dear Michael, 
 This and the German article of your next message contain nothing new but are, indeed, interesting exercises in rhetorics. 
 Since "even" you seem to accept that the Sarasvati "once upon a time" was a mighty river almost as big as the Indus, the following research (publ. in Current Science 2004 vol. 87, no. 8) would in my view deserve more critical attention. Acording to it the Ghaggar (even by you identified as the [late] Sarasvati of Vedic texts) NEVER WAS A SNOW FED RIVER because "Sr and Nd isotopic composition of the Ghaggar alluvium as well as Thar Desert sediments suggests a Sub-Himalayan sediment source, with no contribution from the glaciated regions". According to a friend in archeology who has nothing to do with the Sarasvati debate (and does not work on South Asia) the research looks solid and the conclusion compelling. 
@@ -41,7 +36,6 @@ Its conclusions about 'script', language, etc. therefore are baseless, wrong and
 Garbage in, garbage out, as? has been reported by www.newscientist.com..
 Instead, see our (S. Farmer, R. Sproat, M. Witzel) brief refutation, published on the same day as the Rao paper, at:
 <http://www.safarmer.com/Refutation3.pdf>
-----------
 SOME INITIAL DETAILS:
 Rao et al. somehow managed to get through the review process at Science, though it took them 4 months to do so.
 They did so by failing to indicate in their? paper proper that their "representative examples of nonlinguistic signs"? are *made-up* corpora..? These "non-linguistic signs" lie at the center of their argument (i..e., that Indus signs are *not*? nonlinguistic).? But, their Type 1 and Type 2 systems of signs (tokens) are radically different from anything found in the real world.
@@ -51,15 +45,12 @@ Instead, they barely indicate the "assumed" nature of their data, and this only 
 If they had calculated the 'conditional entropy' (certain signs necessarily following others) of ANY *real* nonlinguistic symbol system, they would instead have found that there are frequent statistical overlaps with linguistic systems. Not unexpectedly also with the Indus symbols. In fact, real world nonlinguistic signs will fall somewhere in the middle: no sign system is either totally disordered or totally disordered.
 We (Farmer, Sproat, WItzel) have already shown precisely that for symbol frequencies in our 2004 paper that they supposedly refute. See:? <http://www.safarmer/fsw2.pdf> (see the chart on p. 27)
 Again, if they had calculated the entropy of any genuine, not made up, "representative nonlinguistic symbols" they would have found that they looked much like writing as well. Take a look the? Scottish heraldic signs in our paper.
------
 There are many more technical arguments than the ones we list in our little Refutation -- involving gross misuse of the concept of conditional entropy, language structure, attestation and localization of ancient Sumerian, Vedic and Tamil, etc.? -- that we can lay out in a little piece later.
 In the margin: the? Rao, et al. paper is depends on an article by Claude Shannon "A Mathematical Theory of Communication," in The Bell System Technical Journal 27 (1948), pp 379-423 and 623-656. See the employment
 of the phrase: "conditional entropy."
 Rao, et.al., however, do not even bother to give the title of this article in their bibliography. The Shannon article is available here (see esp. pp. 14-15 of that study):
 http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
-
 More to come SOON.
-----------
 Amusingly, even A. Parpola, who has spent most of his career on the 'decipherment' of the Indus signs, the? so-called Indus script, comments:
 "It's a useful paper," said University of Helsinki archaeologist Asko Parpola, an authority on Indus scripts, "but it doesn't really further our understanding of the script."
 Parpola said the primary obstacle confronting decipherers of fragmentary Indus scripts ? the difficulty of testing their hypotheses ? remains unchanged." (see:? <http://blog.wired.com/wiredscience/2009/04/indusscript.html>)
@@ -71,11 +62,9 @@ Others however, who too have? been heavily involved in this futile exercise, suc
 None of them, apparently, has read the supplementary materails carefully. O si tacuisses...
 I will tell him so in our May Round Table at Kyoto, where Indus specialists will get together from Japan, S. Asia, America. Perhaps he will then rethink this "working together" with them...
 By the way,? Kenoyer is an earth digging archaeologist, not a linguist --? not? by any stretch of imagination :^)
-
 Conclusion: read the "footnotes" carefully, not the hype.
 Cheers!
 MW
-
 ============
 Michael Witzel
 witzel at fas.harvard.edu
@@ -87,7 +76,6 @@ phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496 8571;
 my direct line:? 617- 496 2990
 ?
 ?
--- 
 Prof. Dr. Jan E.M. Houben,
 Directeur d Etudes ? Sources et Histoire de la Tradition Sanskrite ?
 Ecole Pratique des Hautes Etudes, SHP,
@@ -97,10 +85,3 @@ JEMHouben at gmail.com
 www.jyotistoma.nl? 
 ?
 ?
-
-
-      
-
-
-
-

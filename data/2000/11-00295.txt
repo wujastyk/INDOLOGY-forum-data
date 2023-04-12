@@ -1,9 +1,4 @@
-From Axel.Michaels at URZ.UNI-HEIDELBERG.DE  Sat Nov 11 16:53:51 2000
-From: Axel.Michaels at URZ.UNI-HEIDELBERG.DE (t70)
-Date: Sat, 11 Nov 00 17:53:51 +0100
-Subject: Arrangement of the INDOLOGY Digest
-Message-ID: <161227064005.23782.13475767939096457818.generated@prod2.harmonylists.io>
-
+Arrangement of the INDOLOGY Digest
 A question to Dominik or Chris: The increasing number of contributions to the
 indology list makes it increasingly difficult to enjoy it because only every tenth
 message or so is of  interest for oneself. Would it be possible to arrange the digest
@@ -14,7 +9,3 @@ select quickly such messages which are really of interest for oneself.  It would
 also, I guess, stimulate the active participation in the various discussions.
 Best
 Axel Michaels
-
-
-
-

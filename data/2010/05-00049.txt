@@ -1,76 +1,10 @@
-From wujastyk at GMAIL.COM  Tue May 11 16:03:57 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Tue, 11 May 10 18:03:57 +0200
-Subject: ADMIN: Change in the "reply" function of INDOLOGY
-In-Reply-To: <3E2F5F44-4B01-480C-BF67-B56903978B1A@mail.smu.edu>
-Message-ID: <161227089555.23782.5017101585890159054.generated@prod2.harmonylists.io>
-
+ADMIN: Change in the "reply" function of INDOLOGY
 Okay, I've done this too ("[INDOLOGY]" in the subject header).
-
 Incidentally, all members of this forum can tweak these kinds of setting for
 themselves, individually, if they wish.
-
 And I had to replace "Steven Lindquist <slindqui at mail.smu.edu>" in the reply
 field of this email with the INDOLOGY address.  So it's working.
-
 Best,
 Dominik
 INDOLOGY list duty committee member
-
 On 11 May 2010 17:57, Steven Lindquist <slindqui at mail.smu.edu> wrote:
-
-> An alternative might be to have all list emails come automatically tagged
-> with "INDOLOGY" at the start of the subject line.  At least then there is an
-> immediate visual cue that it is not a personal message (something similar
-> has worked well, but not flawlessly, on certain others lists I use).
->
-> --
-> Steven Lindquist, Ph.D.
-> Assistant Professor
-> Department of Religious Studies
-> Southern Methodist University
-> Homepage: http://faculty.smu.edu/slindqui
-> --
->
-> On May 11, 2010, at 10:43 AM, Dominik Wujastyk wrote:
->
-> > I've just switched the list's default behaviour to "Reply to Sender"
-> rather
-> > than "Reply to List".  Let's see how we like it.
-> >
-> > In the 20-year history of this INDOLOGY list, this topic has of course
-> come
-> > up before.  In the past, the consensus has been that "reply to list" is a
-> > greater convenience, and "reply to sender" is not what most people want
-> for
-> > most postings.
-> >
-> > Anyhow, let's see.  Times change.
-> >
-> > Best,
-> > Dominik Wujastyk
-> >
-> > INDOLOGY duty committee member
-> >
-> >
-> > On 11 May 2010 16:21, Steven Lindquist <slindqui at mail.smu.edu> wrote:
-> >
-> >> I strongly urge the moderators to find a way to change the format of
-> list
-> >> emails: they appear in inboxes as sent by individuals, but then they
-> "reply
-> >> to" the group.  This is clearly the reason for such errors (at least, it
-> was
-> >> in the case in my own misposting in the not too distant past).  I have
-> >> myself set up email rules to shuffle list emails into a special folder
-> to
-> >> try to avoid this problem, but this should be unnecessary (I have no
-> such
-> >> issues with any other list).
-> >>
-> >>
->
-
-
-
-

@@ -1,27 +1,12 @@
-From hcf1dahl at EARN.UCSBUXA  Fri Jan 31 15:11:24 1992
-From: hcf1dahl at EARN.UCSBUXA (hcf1dahl at EARN.UCSBUXA)
-Date: Fri, 31 Jan 92 07:11:24 -0800
-Subject: More on connection
-Message-ID: <161227015218.23782.14056454423022921241.generated@prod2.harmonylists.io>
-
- 
+More on connection
 Status: RO
-
 After getting a message to India returned to me, and after
 dissecting my mail headers, I think that the correct address
 for Professor Sundaram at the University of Madras is:
- 
       unimad!sundaram at iitm.ernet.in
- 
 The two segments of the part of the address before the @ should
 be in reverse order from what I first thought.
- 
 Eric Dahlin
 Humanities Computing Facility
 University of California, Santa Barbara
 HCF!DAHL at ucsbuxa.bitnet
-
-
-
-
-

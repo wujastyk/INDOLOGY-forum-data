@@ -1,24 +1,4 @@
-From g.v.simson at EAST.UIO.NO  Fri Jan 14 12:07:04 2000
-From: g.v.simson at EAST.UIO.NO (Georg von Simson)
-Date: Fri, 14 Jan 00 13:07:04 +0100
-Subject: Etymology: sambar, the dish?
-In-Reply-To: <387E246E.41C76D62@life.bio.sunysb.edu>
-Message-ID: <161227055254.23782.6229830243227376878.generated@prod2.harmonylists.io>
-
->Not along lines of most "Indological" questions, but there may be
->interesting issue lurking here, so I hope you will take the query seriously.
->
->I haven't been able to find the word in the two Tamil dictionaries I
->have, nor in anything on line. The dish is common in Karnataka, Andhra
->Pradesh, and Tamil Nadu, but the word seems to be nonexistent (it seems
->to be more commonly used in Tamil)! What is the origin of the word? Does
->it have anything to do with the SE Asian 'sambal' (which is more a
->condiment, like a chutney than a 'curry' like sambar)?
->
->Thanks for any leads.
->
->--Geeta
-
+Etymology: sambar, the dish?
 sambar seems to be the same word as Sanskrit saMvara, which is found in
 some Buddhist texts, i. e. DivyAvadAna and PrAtimokSasUtra. See Edgerton,
 Buddhist Hybrid Sanskrit Dictionary, s.v. saMvara (3): "provisions of food,
@@ -28,11 +8,5 @@ mean a special dish, but probably something one needs to prepare the food a
 monk would get in his almsbowl, perhaps the "ingredients"? An originally
 general meaning of the term might later on have narrowed down to mean
 special dishes.
-
 Regards
-
 Georg v. Simson
-
-
-
-

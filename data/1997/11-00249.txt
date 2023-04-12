@@ -1,27 +1,10 @@
-From thillaud at UNICE.FR  Sun Nov 23 01:40:36 1997
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Sun, 23 Nov 97 02:40:36 +0100
-Subject: Eurindian or Dravidian ?
-In-Reply-To: <19971122040259.4758.qmail@hotmail.com>
-Message-ID: <161227033895.23782.17610640116111368688.generated@prod2.harmonylists.io>
-
+Eurindian or Dravidian ?
 At 5:02 +0100 22/11/97, S Krishna wrote:
-
-> In this context, can anybody please tell me about the accepted
->derivation of the Sanskrit word "idam"(This) and the draviDian words
->"itu"( in tamil), "idi"( in telugu) and "idu"( in KannaDa){don't know
->the malayalam word for "this"}..the words are similar but did they
->travel one from one language into another?... I'm not sure if the above
->idea can be applied to pronouns since it is possible for two languages
->to have the same pronouns independent of each other.....
-
         About skr. "idam"
-
 There are difficulties to reconstruct Eurindian pronominal forms because
 they are subject to many agglutinations and suppletions, and because they
 involves very short (frequently monophonematic) particles. Many details can
 be found in F. Bader's work but, here, the situation is almost clear:
-
         1) we can't separate "id-am" from "tad" and "ad-as", direct neutral
 forms and bases for compounds (tatpuruSa, idaMvid, adomUla).
         2) we can't separate "id-am" from "id-A"
@@ -34,12 +17,9 @@ enclitic by homeric hotti < *yod-ti)
 suffix -i) we can see in ved. "id" (= "eva") and in skr. "iti". (Remark:
 the existence of vedic "id" justify the necessity of the casual redondance
 "id-am" to avoid ambiguities)
-
         This reconstruction is well sustained by
         the vocabulary: lat. "id", got. "it-a" (engl. "it"), old Irish "ed".
         the flexion: lat. neutral "id", masc. "is" ; got. neutral "it-a",
 masc. "is".
-
         (Remark: lat. "idem" (= same) is not skr. "idam", but *i(s)-dem
 where *dem is an other particle (identity), as in "ibidem" and many others.)
-

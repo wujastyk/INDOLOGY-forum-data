@@ -1,9 +1,4 @@
-From mmdesh at UMICH.EDU  Wed Aug  4 15:55:46 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Wed, 04 Aug 99 11:55:46 -0400
-Subject: use of "draavi.da"?
-Message-ID: <161227051434.23782.10836718461799922128.generated@prod2.harmonylists.io>
-
+use of "draavi.da"?
 Hello,
         Monier-Williams says that the Sanskrit word "draavi.da", among
 other things, collectively refers to the speakers of Telugu, Kannada,
@@ -15,7 +10,3 @@ sense in modern times, but was there such a collective single reference in
 pre-modern times?
         Best,
                                         Madhav Deshpande
-
-
-
-

@@ -1,19 +1,8 @@
-From ucgadkw at UCL.AC.UK  Sat Dec  7 23:08:17 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sat, 07 Dec 02 23:08:17 +0000
-Subject: ConTeXt support for UTF-8 Roman Translit and Nagari
-In-Reply-To: <20021207225840.GG220@ext.canterbury.ac.nz>
-Message-ID: <161227071828.23782.15948540443928072269.generated@prod2.harmonylists.io>
-
+ConTeXt support for UTF-8 Roman Translit and Nagari
 I met Hans Hagen at the recent TeX conference in Trivandrum, and he
 mentioned among other things that he was planning to put support into
 ConTeXt for critical edition formatting.  Could be very valuable,
 especially with all the other features ConTeXt has.  I've never used it
 myself, though.
-
 Best,
 Dominik
-
-
-
-

@@ -1,9 +1,4 @@
-From thomaskintaert at GMAIL.COM  Wed May 19 11:50:26 2010
-From: thomaskintaert at GMAIL.COM (Thomas Kintaert)
-Date: Wed, 19 May 10 12:50:26 +0100
-Subject: Help with keyboard
-Message-ID: <161227089636.23782.4250955339285567354.generated@prod2.harmonylists.io>
-
+Help with keyboard
 Although I don't use Windows 7 myself, its "Windows XP Mode" might also be 
 of help. It is available as a free download, however only for owners of the 
 Professional, Ultimate or Enterprise edition of Windows 7. See
@@ -11,9 +6,7 @@ http://windows.microsoft.com/en-us/windows7/products/features/windows-xp-
 mode
 and
 http://arstechnica.com/microsoft/reviews/2010/01/windows-xp-mode.ars 
-
 Here is some more information including further requirements:
-
 "Microsoft is using its Virtual PC technology to allow Windows 7 users to 
 run programs that work in Windows XP but not in Windows Vista. [...] XP Mode 
 needs a beefier system than that required to just run Windows 7 or XP alone, 
@@ -28,9 +21,4 @@ noted that XP Mode isn't a security solution. Indeed, to protect their
 systems, users will need antivirus software running both on their Windows 7 
 desktop as well as a copy running inside their Windows XP virtual machine."
 (http://news.cnet.com/8301-13860_3-10229125-56.html)
-
 Thomas
-
-
-
-

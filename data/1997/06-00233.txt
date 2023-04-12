@@ -1,9 +1,4 @@
-From egge at midway.uchicago.edu  Tue Jun 17 04:24:58 1997
-From: egge at midway.uchicago.edu (James Egge)
-Date: Mon, 16 Jun 97 23:24:58 -0500
-Subject: Winword 97 diacritics-problems
-Message-ID: <161227031048.23782.2358055819590862639.generated@prod2.harmonylists.io>
-
+Winword 97 diacritics-problems
 I have also had difficulty with non-MS fonts and Word 7.0/Office 97, the 
 biggest being that writing wraps around at the end of a line instead of 
 breaking at word divisions.  Another problem I had was that I could not 
@@ -11,70 +6,53 @@ convert from non-MS fonts to MS fonts, but I got around this (I think by
 applying a template with the MS font).  I've been using Times New Roman 
 with inserted Nina characters, which is not a bad looking solution if you 
 use the TNR long vowels available from the extended character sets.
-
 Some problems do stem from the fact that Office 97 does not want the same 
 position used for different characters.  You may be able to get around some 
 of your problems by applying a template.  Your problem with Courier just 
 sounds bizarre!
-
 At the suggestion of a  list member I contacted some folks at Microsoft and 
 I received the following reply:
-
 Hello, thanks for the email.
-
 If you'll send me a list of the characters (or glyphs) needed I'll see
 what I can do.
-
 Do you ONLY care about transliteratation, or are you also interested in
 display of Indic languages in their native scripts? I am working on a
 project to enable this in a future version of Windows NT.
-
 F. Avery Bishop
 Complex Script Enabling
 averyb at microsoft.com
 206-703-3905
-
 I am going to send him a list of characters that I would like to see, and I 
 would appreciate it if you would take a look at it first.  I originally 
 hoped to include characters for standard transliterations for all Indian 
 languages, but I realized that this would involve too much research on my 
 part.  Instead I want to cover only Vedic and classical Sanskrit, Pali, and 
 other Prakrits.
-
 Vowels:
 R, L with small circle underneath
 R, L with small circle underneath and A, I, and U: all five with macron 
 (extended lists already include A, I, and U with macron)
-
 All vowels should be available with acute and grave accents.
 Ideally, vowels with macrons should also be available with combination of 
 macron and cup/candra [what is this called?] indicating either long or 
 short vowel.
-
 Consonants:
 T, D, N, S, M, L, H with dot underneath
 N with dot above
 S with acute accent (already included in extended lists)
 N with tilde (already standard)
-
 [Should the list also include m with candrabindu or does this indicate the 
 same sound as m with dot?]
-
 James Egge
 University of Chicago
 e-mail: egge at midway.uchicago.edu
-
-
------Original Message-----
 From:	Birgit Kellner [SMTP:kellner at ipc.hiroshima-u.ac.jp]
 Sent:	Monday, June 16, 1997 12:20 PM
 To:	Members of the list
 Subject:	Winword 97 diacritics-problems
-
 I have recently upgraded a computer to (Japanese) Windows 95 and find
 that Winword 97 behaves quite erratically with my diacritics fonts. Two
 problems:
-
 (1) Previously, I used a slight modification of Norman-TTFs with Word 6.
 I have transported some macros to Winwrd 97, which I use to convert my
 documents into ASCII-diacritics-conventions (Kyoto-Harvard and such). I
@@ -87,37 +65,26 @@ of Unicode? Or is it, again, a by-product of two-byte-encoding? Just to
 stress this: Characters are rightly treated (I can search for them with
 the correct ANSI-numbers), but not properly displayed. The only way to
 get them right is by manually overwrite them ...
-
 (2) I have transported a group of documents which share a template from
 Winword 6 to Word 97. Some of the diacritics display as rectangles. Even
 when I try to input them manually, they only come out as rectangles. The
 character table displays rectangles in their position as well. The only
 way to get them right is to manually paste them into the document from
 some other file.
-
 Is is possible that the modifications I have carried out with Norman
 have resulted in low quality, and that the erratic behaviour described
 above simply expresses Winword's contempt for my poorly designed fonts?
-
 On top of all this, since yesterday, standard-viewing has decided to
 display all fonts as Courier. The layout-mode displays as it should, so
 what's wrong now?
-
 I would really appreciate hints from other Word-users who may have had
 similar experiences. Replies via privae e-mail are perhaps more
 appropriate, I could then post information of general interest to the
 list later on.
-
 Thanks in advance.
-
-
---
 Birgit Kellner
 Department for Indian Philosophy
 Hiroshima University
-
-
-
 begin 600 WINMAIL.DAT
 M>)\^(A($`0:0" `$```````!``$``0>0!@`(````Y 0```````#H``$(@ <`
 M& ```$E032Y-:6-R;W-O9G0 at 36%I;"Y.;W1E`#$(`0V ! `"`````@`"``$$
@@ -257,9 +224,3 @@ M``# ````````1@`````XA0```0````$`````````'@`]``$````%````4D4Z
 /( `````#``TT_3<``):]
 `
 end
-
-
-
-
-
-

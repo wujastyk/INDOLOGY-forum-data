@@ -1,47 +1,23 @@
-From xpolakis at HOL.GR  Fri Mar 13 16:36:29 1998
-From: xpolakis at HOL.GR (Antreas P. Hatzipolakis)
-Date: Fri, 13 Mar 98 18:36:29 +0200
-Subject: Indian Philosophy and Mathematics
-Message-ID: <161227036639.23782.12157846601243413446.generated@prod2.harmonylists.io>
-
+Indian Philosophy and Mathematics
 Hello,
-
 Following is a message I received from Prof. B. Ravindra.
 I am fwd-ing it to the Indology list (with his permission), since one paragraph
 (marked with ********) is related to Indian Philosophy.
-
-I have some questions on the Subject: Indian Philosophy and Mathematics
-
+I have some questions on the Indian Philosophy and Mathematics
 1. Which was the role of the Indian Philosophy (Brahmanism)
 in great S. Ramanujan's Mathematics?
-
 2. Are there influences of Indian Philosophies on Modern Mathematical Theories/
 inventions?
-
 Thanks, and apologies for this long message and my bad English.
-
-
 Greetings from Athens
-
 Antreas
-
-
 FWD Message -------------------------------------------------------------------
-
-From: Ravindra  <ravindra at ag2.mechanik.tu-darmstadt.de>
-Subject: Re: Request
-To: xpolakis at hol.gr (Antreas P. Hatzipolakis)
-Date: Fri, 13 Mar 1998 15:42:49 +0100 (MET)
-
-
+Re: Request
 Dear Antreas,
-
 [...]
-
 Some reflections on the recent debate in Math-history list concerning
 Dieudonne's 'mathematics as the Music of Reason', Whiggism in Math-history
 and the role of external factors in the development of pure mathematics:
-
 In history and philosophy of science there is a distinction between
 'context of discovery' and 'context of justification'. For some,
 context (and process) of discovery is not a meaningful category.
@@ -51,7 +27,6 @@ might play a role in the process of discovery.
 Kepler is one good example in this case. But perhaps, Riemann is a  better
 example. Felix Klein speculated that Riemann might have used Electrostatic
 analogies to obtain his results in complex function theory.
-
 ******** Whatever may be the case with Riemann's inspiration in complex
 function theory, his investigation of Geometry was influenced also by the
 teachings of the psychologist Johann Friedrich Herbart (1776-1841).
@@ -72,7 +47,6 @@ spurious.
 and Bourbaki's program have similarities. There is enough room
 for speculation in Weil and Levi-strauss. (One can see its impact on
 Philosophy of Stegmueller).
-
         The topic of this discussion is deep and one needs to
 discuss 'poverty of historicism'  and how
 it was countered by various philosophers and historians.
@@ -82,7 +56,6 @@ is a decisive break.
 For some, paradigm is a dirty word and for Kuhn
 'deconstruction' is not acceptable. One need to judge their relevance to
 math-history.
-
 Scientific process always involves in breaking with tradition and again
 seeking a reunion with it.
 Mathematicians (and scientists) take comfort in (whiggish?)
@@ -90,7 +63,6 @@ historical reflections (exception: Van der waerden). It is necessary for their
 sustenance in their profession and inspiration for further work.
 Tracing their lineage as far back in time as possible.. Was it
 Schrodinger who wrote '2400 years of quantum mechanics'?
-
 History is an ongoing dialogue between the past and the present.
                                                         (Carr!)
 Another (whiggish?) example:
@@ -102,35 +74,24 @@ when the general definition of an integral had not yet appeared. The
 mathematical theory of Feynman's magnificient integrals, which physicists
 write in vast numbers, is not really far removed from the stereometry of
 wine barrels. - Y. Manin, Mathematics and Physics, P93, Birkhaeuser.
-
 (btw, is there an account of history of volume computations of wine barrels?
 reminds me of Heidelberg schloss wine barrels!)
-
 Recently, we learnt that volume computation is difficult!
 (Computing the Volume is difficult: Proc. of the 18th Annual Symp.on
 Theory of computing, pp 442-447, 1986, by  I. Barany, Z. Furedi.)
-
 Juxtaposing these facts in such a  manner might look silly
  for a historian, but it
 is exciting for those who pursue scientific activity!
-
 As Borges said ''Every genius creates its own ancestors''.
-
 History is not static and just a dead pile of facts.
-
 Of course one needs to remember:
-
 Alisdair MacIntyre in After Virtue (1984, p91):
-
 'Charles II once invited the members of the Royal Society to explain
 to him why a dead fish weighs more than the same fish alive; a number of
 subtle explanations were offered to him. He then pointed out
 that it does not'.
-
 On mathematicians as the vanguards of reason and rationality:
-
 Chance and Chaos, D. Ruelle, Chapter 2 (page 8):
-
 ''Mathematical talent often develops at an early age. This is a common
 observation, to which the great Russian Mathematician Andrei N. Kolmogorov
 added a curious suggestion. He claimed that the normal psychological
@@ -142,10 +103,8 @@ age of twelve. He gave only an age of eight to his compatriot
 of Academician Vinogradov corresponded, according to Kolmogorov, to
 the age when little boys tear off the wings of butterflies and attach
 old cans to the tails of cats.
-
         Probably it would not be too hard to find counterexamples to
 Kolmogorov' theory, but it does seem to be right remarkably often.''
-
 I do not know where does one put Dieudonne in this scale
 but  do believe, it is not a good idea to insist that only
 eminent Mathematicians (or Field medallists alone) should tell us
@@ -154,10 +113,8 @@ will disappear if we shift the analogy from music to atheleticism in sports.
 Indeed Hardy does compare Mathematics to doing sport, as it is difficult
 to prove big theorems, as one gets older. Probably the same thing
 is not true for music.
-
 Best regards,
 Ravindra
--------------------------------------------------------------------------------
 Dr B. Ravindra                                  Residence:
 Care Professor P. Hagedorn                      wohnung 3,
 Institut fur mechanik II                        Dieburger strasse, 241
@@ -165,12 +122,5 @@ Hochschul str. 1                                Lichtenberg house
 TU, Darmstadt, 64289                            Darmstadt-64287
 Darmstadt, Germany
 E-mail: ravindra at ag2.mechanik.tu-darmstadt.de   Phone:
-Phone (off): 49-(0)-6151-162285                 (Res) 49-(0)-6151-700823
 Fax: 49-(0)-6151-164125
--------------------------------------------------------------------------------
-
 END ---------------------------------------------------------------------------
-
-
-
-

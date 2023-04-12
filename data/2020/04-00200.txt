@@ -1,20 +1,6 @@
-From zydenbos at uni-muenchen.de  Mon Apr 13 02:27:48 2020
-From: zydenbos at uni-muenchen.de (Robert Zydenbos)
-Date: Mon, 13 Apr 20 10:27:48 +0800
-Subject: [INDOLOGY] sanskrit and computers?
-In-Reply-To: <CAEjEOsBVW4nqbtMnnXxAj2_WxA7k71R7eiqf3MPjJs-+NN-PvA@mail.gmail.com>
-Message-ID: <20569bbb51f9ab49b6bfdeb1dad2be66@uni-muenchen.de>
-
+[INDOLOGY] sanskrit and computers?
 On 2020-04-12 21:43, Antonia Ruppel via INDOLOGY wrote:
-
-> [?] I've attached an article about Sanskrit use for NLP that I've 
-> sometimes seen referred to as 'proof' that this is a 
-> respectable/serious subject for academic study. (It is IEEE, but from 
-> the proceedings of a conference rather than one of their own 
-> (prestigious) publications.)
-
 Such articles make me very sad.
-
 Evidently none of the four authors, nor any editor before the article 
 was published, noticed that seven vibhaktis are mentioned (section V) -- 
 and then comes a list of eight. This is only one of many problems I have 
@@ -23,19 +9,10 @@ is ?a phrase in English language "I like apple" can suggest a brand of
 Computer or a kind of fruit apple? (no!), another one is the total 
 irrelevance of section IX, especially as soon as we are dealing with 
 non-Indo-European languages.)
-
 Nothing really good comes from such publications.
-
 RZ
-
--- 
 Prof. Dr. Robert J. Zydenbos
 Institute of Indology and Tibetology
 Department of Asian Studies
 Ludwig-Maximilians-Universit?t M?nchen (University of Munich ? LMU)
 Germany
-
-
-
-
-

@@ -1,46 +1,17 @@
-From hubeyh at MONTCLAIR.EDU  Mon Nov  9 18:14:11 1998
-From: hubeyh at MONTCLAIR.EDU (H.M.Hubey)
-Date: Mon, 09 Nov 98 13:14:11 -0500
-Subject: SV: SV: On logic and fuzziness
-Message-ID: <161227042507.23782.17895703345101486616.generated@prod2.harmonylists.io>
-
+SV: SV: On logic and fuzziness
 Lars Martin Fosse wrote:
->
->
->
-> LMF: First of all: I was not referring specifically to linguistics or semantics, >although these disciplines are certainly affected by the general problems I try to >describe. Now a "standardization of semantic distance" sounds interesting. Could you >be more specific here? Are you thinking of the amount of semantic "material" that is >common to certain languages (such as: A and B speakers understand 20% of each other's >language), or are you talking about the development of a certain root or stem?
-
 This requires some kind of a committee and which could/should start with
 a small
 number of words (like the Swadesh list) and then build bottom up.
-
-
-> And that necessitates
-> the use of
-> the concept of distance. Nobody can go far without it. Once the concept
-> of distance
-> becomes embedded in linguistics many problems will solve themselves.
->
-> LMF: I wish it were that easy. You really owe us a precise definition of such a distance.
-
 Definition of distance is precise and well known.
-
         d(x,z) <= d(x,y) + d(y,z)
-
 It means simply that if I take a detour (to go to z from x) via y then
 the
 sum of the two distances which comprise the detour (i.e. d(x,y)+d(y,z))
 must be greater than or equal to the direct distance d(x,z). Any kind
 of a function that satisfies this can be called a distance metric.
-
 IT is easy to create phonological distances this way. What is lacking
 is semantic distance.
-
-
-> The more difficult a problem is the more powerful the tools must be.
->
-> LMF: I couldn't agree more. I think we would all like to adopt that sentence as our morning mantra. It is just finding those tools, and find a way to calibrate them. You see, it is so terribly difficult to experiment with the past. (Not counting Thor Heyerdahl, who has proved beyond a shadow of doubt that people in the old days could sail anywhere in a shoebox).
-
 If the concept of distance is used (which cannot be used now because the
 semantic
 distance is missing) all the powerful tools of math, analysis,
@@ -48,41 +19,15 @@ probability theory,
 correlation-regression analysis, fuzzyl-logic, differential equations
 etc
 become available.
-
-
-> Linguistics has been blessed with lots of measurable things so it is in
-> much better
-> shape than say, psychology or even parts of sociology. If math is good
-> enough for them,
-> for physicists, engineers and everyone else, it is good enough for
-> linguists.
->
-> It's irrational to deny it or claim the opposite.
->
-> LMF: I couldn't agree more. But as I said, there is a busy little group of linguists >just wallowing in computers and statistics, analysing Shakespearean drama by means of >clustering techniques and what not. The fact is: Some problems in linguistics and >philology are numerical problems, and in the past, philologists have not unfrequently >made themselves look silly when handling such problems. However, not ALL problems are >numerical, and not EVERYTHING can be quantified. And statistics or maths will not always >produce interesting answers to the really interesting questions.
-
 1. Are there any lists in which these people congregate? I would like to
 join and
 even invite them to building this semantic space even if only for the
 Swadesh-100
 list to test the ideas.
-
 2. If there are people interested in building up this semantic distance
 metric
 I think they should join language at csam.montclair.edu by sending email to
 majordomo at csam.montclair.edu and it can be discussed in detail there.
-
-
-> One does not need complete sets. Economists are faced with this problem
-> and have devised ways to get around it.
->
-> LMF: This is an interesting remark. I always thought that linguists/philologists should "read around" in other fields of knowledge to see if they could pick up new ideas to experiment with. My own assumption regarding data sets is that there is a kind of critical limit: When you are past that limit, the data set is basically clear and unambiguous, even it is not entirely complete. (it is like an ordinary puzzle: when you have assembled most of the puzzle, you understand what the motive is, even if you haven't got all the details). Unfortunately, very often we are not even close to that critical limit. If you could offer us a practical remedy, most of us would probably be quite happy.
->
-> Regards,
->
-> Lars Martin Fosse
-
-
 Economists are forced to deal with real world data from different
 countries from
 different time periods and different soci-economic systems and they have
@@ -92,9 +37,6 @@ Linguists
 have the same problem. They deal with data from different time periods,
 from
 different languages with different syntax, and different lexicons.
-
-
---
 Best Regards,
 Mark
 -==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -108,7 +50,3 @@ or entities other than the intended recipient is prohibited. If you
 received this in error, please contact the sender and delete the
 material  from any computer.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
-
-

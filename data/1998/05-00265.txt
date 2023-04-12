@@ -6,8 +6,6 @@
 |                classification. These results indicate that there is more
 |                dental morphological variation among American Indian
 |                populations than previously shown.
-
-
  AUTHOR:  Reichart PA; Neuhaus F; Sookasem M
 |      ADDRESS:  Department of Oral Surgery (North), Free University of
 |                Berlin, West Germany.
@@ -15,8 +13,6 @@
 |                Germans and Thai.
 |       SOURCE:  Community Dent Oral Epidemiol (DNF), 1988 Feb; 16 (1): 61-4
 |     LANGUAGE:  English
-
-
 |     ABSTRACT:  Torus palatinus (TP) was recorded in 13.5% of 1317 German
 |                patients (606 men, 711 women). There was no statistically
 |                significant difference between the sexes. Torus palatinus
@@ -35,7 +31,3 @@
 |                seen in this group. While the etiology of TP and TM is still
 |                no quite clear, racial factors must definitely be
                 considered.
-
-
-
-

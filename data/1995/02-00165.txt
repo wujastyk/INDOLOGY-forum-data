@@ -1,27 +1,11 @@
-From martinez at em.uni-frankfurt.d400.de  Tue Feb 21 11:49:00 1995
-From: martinez at em.uni-frankfurt.d400.de (Francisco Javier Martinez Garcia)
-Date: Tue, 21 Feb 95 12:49:00 +0100
-Subject: inofficial e-texts
-Message-ID: <161227018634.23782.6705076970163251826.generated@prod2.harmonylists.io>
-
-> Kellner <kellner at ue.ipc.hiroshima-u.ac.jp>
-> Mon, 20 Feb 1995 12:59:52 GMT
-> To: Members of the list <indology at liverpool.ac.uk>
-> Subject: inofficial e-texts - interested???
-> 
-> Still working on my directory of Tibetan/Buddhist/Indic Studies-resources on
-> the Internet, I noticed that I hardly know anything about available e-texts. I
-
+inofficial e-texts
  We are also interested in such texts. There is a Project since 1985, wich
 intends to collect all works of Indo-European Languages.
--------------------------
 "Thesaurus Indogermanischer Text- und Sprachmaterialien"
                       (TITUS)
-
 Vorliegende und in Bearbeitung befindliche Texte
 (vorl?ufige Liste: Stand 26. Januar 1995)
 ...............
-
 A) alt-, mittel- und neuindisch:
   a) vedisch:
    Rgveda-Sa?hit?: Eingabe unter der Leitung von W.P. Lehmann (Austin, Texas) durch H.S.
@@ -34,7 +18,6 @@ A) alt-, mittel- und neuindisch:
    Gobhila-Grhya-S?tra: Eingabe durch Carlos Jord?n C?lera, (Zaragoza)
   b) episches und klassisches Sanskrit:
    Tantr?khy?yika (Buch 1 und 2): Eingabe durch L.M. Fosse (Oslo)
-
 B) alt-, mittel- und neuiranisch:
   a) avestisch:
    Avesta-Gesamtcorpus: Eingabe (ohne Nirangistan) durch S. Gippert-Fritz und J. Gippert (Frankfurt);
@@ -62,7 +45,6 @@ B) alt-, mittel- und neuiranisch:
    Sogdisches Corpus (alles publizierte Material au?er M?ller-Lentz, Sogd.Texte II, Text 1-3): Eingabe
      durch N. Sims-Williams (Cambridge)
    Buddhistische und Manich?ische Texte: zweite Eingabe durch Y. Yoshida (T?ky?)
-
 C) anatolisch:
   a) hethitisch:
    Hethitische Ritualtexte: Eingabe durch Chr. Zinko (Graz)
@@ -76,7 +58,6 @@ C) anatolisch:
    Lykisches Corpus: do.
   f) phrygisch:
    Phrygisches Corpus: Eingabe durch A. Lubotsky (Leiden; in Bearb.)
-
 D) armenisch:
    4 Evangelien und Psalter: Eingabe nach der Zohrab-Bibel durch H. Palan?ian (Montreal)
    4 Evangelien: Eingabe nach der Edition K?nzle durch J. Weitenberg (Leiden)
@@ -84,10 +65,8 @@ D) armenisch:
    Patmow?iwn vra?: do.
    Aganthangelos: Eingabe durch J. Gippert und R.-P. Ritter (Frankfurt; in Bearb.)
    ?arakno? und div. andere Texte: Eingabe durch H. Palan?ian (Montreal; in Bearb.)
-
 E) baltisch:
    Duonelaitis, Metai: Eingabe durch G. Keydana (M?nster)
-
 F) germanisch:
   a) gotisch:
    Gotische Bibel: Eingabe durch W. Griepentrog (N?rnberg)
@@ -109,11 +88,9 @@ F) germanisch:
    dass., Pr?fatio Victoris Capuani / ?bersicht der Capitel?berschriften / Pariser Fragmente: Eingabe durch
      R. Schuhmann (Gie?en); Weiterbearbeitung durch J. Brysch (Gie?en)
    Notker: Eingabe unter der Leitung von R. L?hr (Jena; in Bearb.)
-
 G) griechisch:
    Septuaginta: Eingabe an der University of Pennsylvania
    Neues Testament: do.
-
 H) italisch:
   a) oskisch:
    Tabula Bantina: Eingabe durch J. Gippert (Frankfurt; in Bearb.)
@@ -121,7 +98,6 @@ H) italisch:
   b) umbrisch:
    Tabulae Iguvinae: do.
    Umbrische Inschriften: do.
-
 I) keltisch:
   a) altirisch:
    Aided Oenfir A?fe; Compert Con Culainn; De chophur in da muccida; Esnada Tige Buched; Fled D?in
@@ -129,7 +105,6 @@ I) keltisch:
      Gartn?in; Sc?la Mucce Meic Dath?; Serglige Con Culainn; T?in b? Fro?ch; Togail Bruidne d? derga:
      Eingabe durch D. Durkin (M?nster)
    W?rzburger Glossen: Eingabe durch J. Gippert (Frankfurt; in Bearb.)
-
 Wegen der Integration anderer bestehender Textdatenbanken bestehen bereits Absprachen mit:
   University of Toronto: Altenglisches Corpus
 Anfragen wegen einer Kooperation wurden au?erdem gerichtet an:
@@ -147,27 +122,13 @@ Weitere geplante Beitr?ge:
   Pa?catantra; Hitopade?a; K?lid?sa, Kum?rasa?bhava; Nalopakhy?na; Dandin, Da?akum?racarita;
    Har?acarita: L.M. Fosse, Oslo
   Mah?va??a: J. Gippert (Frankfurt)
-
-
 Please contact with
-
   Prof.Dr. Jost Gippert, Universit?t Frankfurt, Postfach 11 19 32, D-60054 Frankfurt
   Tel.: +49-69-798 8591 oder 3139; Fax: +49-69-798 2873; e-mail: gippert at em.uni-frankfurt.d400.de!
-
--------END-----------
-
-
    =======================================================================
                   Dr. Fco. Javier Mart?nez Garc?a
-
    Vergleichende Sprachwissenschaft   |  tel.     +49- 69- 798 2847
    Universit?t Frankfurt              |   (sekr.) +49- 69- 798 3139
    Postfach 11 19 32                  |  fax.     +49- 69- 798 2873
    D-60054 Frankfurt                  |  martinez at em.uni-frankfurt.d400.de
    =======================================================================
- 
-
-
-
-
-

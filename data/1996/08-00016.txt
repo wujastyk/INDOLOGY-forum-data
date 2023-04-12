@@ -1,67 +1,43 @@
-From sohum at ms.uky.edu  Fri Aug  2 19:49:53 1996
-From: sohum at ms.uky.edu (sohum at ms.uky.edu)
-Date: Fri, 02 Aug 96 15:49:53 -0400
-Subject: After the dust settles . . .
-Message-ID: <161227025519.23782.3031037896064116161.generated@prod2.harmonylists.io>
-
+After the dust settles . . .
 Dear John,
-
 You asked:
 ||After the many postings, updatings, and format revisions, where best did 
 ||Charles Wikner's Sanskrit Course wind up?  THere were several FTP's 
 ||suggested, as well as URL's-- I was hoping to find the 8 1/2 x 11" paper 
 ||size format.
-
 Well, I did download and print it. These are about 145 pages, though.
 Do you really want a copy?
 You can have the file from me, if you feel like downloading it. let me
 know. I do not feel like printing the file again - it took a long time
 and I had to fight with the cartridge (it was low on ink). I could
 have a xerox made in a commercial place and mail it!
-
 P.S. I had some more comments about your site:
-
 BTW, I got the message that the site http://vedavid.org/rvb.html
 does not exist (could not be found)!
-
 Also,  the top title seems to be wrong, it reads:
 Welcome to Vedvid ##namaani##
                         ^^^
 You probably mean ##namaami##
-
 OR is this some obscure Vedic form and my face is about to become
 red..?
-
 More corrections:
 In rv.html : it reads ##R^igveda sa\m+hita## I find the \m+ or the
 Vedic chandrabindu unusual, but more importantly it should be
 ##saMhitaa##.
-  
 About the Kashi font:
 The word ##aatman.h## appears as ##tman.h##.
 The word ##kratu## uses an unusual form of the ##rakaara##, besides,
 it is misplaced - shifted to the right, when done properly, the top of
 the angle should be at the foot of the letter ##ka##. The letter
 ##ha## in ##brahman.h## is missing its left lower curve. 
-
 The letters also don't appear aligned properly, but that may be an
 html problem. I think, you should use something as nice as ITRANS-TeX,
 or use Madhav's madhushree font - it is WYSIWIG and beautiful!
-
 If you give me the list, I can easily make the ps files of these few
 words! But really, you should get the full implementation of ITRANS.
-
 As a poor-man's ITRANS, you can try this utility of Atul, whereby you
 send an ips or itx file and you get a postscript file back in mail!
-
--- 
 |Avinash Sathaye Phone:(606)277-0130(Home), (606)257-8832(Office) |
 And now, the next thought is from our CPU ...
->>>>>>>>>>>>
 We don't know who discovered water, but we're certain it wasn't a
 fish.
-
-
-
-
-

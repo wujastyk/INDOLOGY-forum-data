@@ -1,15 +1,9 @@
-From hellwig7 at GMX.DE  Sat Feb 16 15:54:26 2008
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Sat, 16 Feb 08 15:54:26 +0000
-Subject: Kielhorn/Digital library
-Message-ID: <161227082004.23782.6952679081331495871.generated@prod2.harmonylists.io>
-
+Kielhorn/Digital library
 A late addition to the discussion about a digital library. A few months 
 ago, I began designing a PHP/MySQL based interface for digital texts. 
 Other work interfered, therefore it is still in a really rudimentary 
 stage. A web-based interface for secondary literature would be really 
 great and could, for example, use this code as a starting point. 
-
 I think any web library should only offer scanned/digitalized versions of 
 texts; page images are not really useful because they are not searchable. 
 With some modifications and postprocessing, programs like FineReader can 
@@ -17,9 +11,4 @@ recognize Indian texts printed in Latin letters and
 German/English/French...- Sanskrit/Prakrit/... mixes found in secondary 
 literature, so creating digital versions instead of images should not be a 
 problem anymore.
-
 Best, Oliver
-
-
-
-

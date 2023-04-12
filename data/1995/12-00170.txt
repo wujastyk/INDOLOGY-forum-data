@@ -1,28 +1,16 @@
-From garzilli at HULAW1.HARVARD.EDU  Tue Dec 19 00:28:43 1995
-From: garzilli at HULAW1.HARVARD.EDU (garzilli at HULAW1.HARVARD.EDU)
-Date: Mon, 18 Dec 95 19:28:43 -0500
-Subject: IJTS - Vol. 1, No. 2
-Message-ID: <161227022200.23782.11321198893039018546.generated@prod2.harmonylists.io>
-
+IJTS - Vol. 1, No. 2
 I am very glad to announce that the second issue of the *International 
 Journal of Tantric Studies* has been published on our web pages:
-
 http://www.shore.net/~india/ijts/
-
 The paper of Dr. C. Cantwell is accompanied by her 18 wonderful pictures
 of the Tibetan "Guru's Eight Aspects" ritual dance.
-
 * I would like to remind you that you can search our web space by keywords.*
 You will find a link to our search page in the Index of each issue.
-  
 You can also download an ASCII copy of the issue from our FTP server:
 ftp://ftp.shore.net/members/india/
-
 On our server you can also find fonts, utilities, and IJTS's back issues.
-                     
                       ----------------------            
   IN THIS ISSUE:
-
 - NOTE FROM THE EDITOR
 - A DEB... 
 - Paper: THE DANCE OF THE GURU'S EIGHT ASPECTS, by Cathy Cantwell 
@@ -31,11 +19,9 @@ On our server you can also find fonts, utilities, and IJTS's back issues.
 - LETTERS TO THE EDITOR
 - COPYRIGHT NOTICE
                       ----------------------
-                                           
             THE  DANCE  OF  THE  GURU'S  EIGHT  ASPECTS  
                               by 
                          Cathy Cantwell
-
 ABSTRACT
 The Dance of the Guru's Eight Aspects (Guru mTshan brgyad 'chams) is 
 a ritual dance which derives from the visions of the thirteen century 
@@ -48,13 +34,3 @@ underlie it, and the specific tantric ritual practices performed by
 the monks in preparation for the dances. How interpretations of the 
 VajrayAna imagery shed light on its meaning and the significance of 
 the concept of ''Liberation through seeing'' are explored.
-
-
-
-
- 
-
-
-
-
-

@@ -1,36 +1,4 @@
-From GRUENEN at mail.sub.gwdg.de  Mon Jun 19 07:52:10 1995
-From: GRUENEN at mail.sub.gwdg.de (GRUENENDAHL)
-Date: Mon, 19 Jun 95 07:52:10 +0000
-Subject: nyAyas
-Message-ID: <161227019751.23782.4274512556946403939.generated@prod2.harmonylists.io>
-
-> Date sent:      Sat, 17 Jun 1995 23:28:33 BST
-> Send reply to:  indology at liverpool.ac.uk
-> From:           torella at rmcisadu.cisadu.uniroma1.it
-> To:             Members of the list <indology at liverpool.ac.uk>
-> Subject:        nyAyas
-
-> 
-> Dear Colleagues,
-> 
-> I am looking for the largest collections of nyAyas (maxims, examples)
-> available either in printed or manuscript form. They often prove to be
-> an unvaluable help for understanding the gist of the arguments within
-> which they occur. 
-> I have already got in my personal or Department library:
-> G.A. Jacob, LaukikanyAyAJjali
-> S.B. Singh, NyAyAvali
-> Chavinath Mizra, NyAyoktikoza.
-> The latter often refers to one NyAyasAhasrI. Does anybody know where
-> I can find this text ? Any information about this and other texts of this
-> kind will be welcome.
-> 
-> Raffaele Torella
-> <torella at rmcisadu.cisadu.uniroma1.it>
-  
-
-
-
+nyAyas
 Generally speaking, it is always a good idea to turn to the New
 Catalogus Catalogorum (and Aufrecht's Cat. Cat.), an often neglected 
 reference tool. There you will find a short entry for the NyAyasAhasrI 
@@ -40,18 +8,9 @@ some day it will be completed.
 Another possible source of information are printed library catalogues 
 of Sanskrit books, in particular the India Office Library Catalogue 
 in four volumes, however, not in this particular case, it seems.
-
 Sorry to bother you with such elementary stuff.
-
-
 Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 37070 Goettingen
 Germany
 Phone: 0551/395283
- 
-
-
-
-
-

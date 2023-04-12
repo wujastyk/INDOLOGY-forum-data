@@ -1,40 +1,25 @@
-From wujastyk at gmail.com  Sat Apr 16 23:10:42 2022
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Sat, 16 Apr 2022 17:10:42 -0600
-Subject: [INDOLOGY] [RISA-L LIST] Indologica Taurinensia: The official
+[INDOLOGY] [RISA-L LIST] Indologica Taurinensia: The official
  organ of the International Association of Sanskrit Studies -IASS
-In-Reply-To: <CAArHMvBtMxfFC7ztubwEgVQY-R6pR6Q=Ts3BMNUTJc5AM45-_g@mail.gmail.com>
 References: <CAArHMvBtMxfFC7ztubwEgVQY-R6pR6Q=Ts3BMNUTJc5AM45-_g@mail.gmail.com>
-Message-ID: <CAKdt-CcTSH_Uu-ueLetZUiokyJsDyygL3iS3PwtjLCBn0ip-Dg@mail.gmail.com>
-
 I've fetched all the *Indologica Taurinensia* files from
 www.asiainstitutetorino.it, and unfortunately there are some corrupted PDF
 files, listed below.  I have tried getting these from the WayBackMachine,
 but they are corrupted (sth?l?pul?kany?yena) in every snapshot there too.
-
 If anyone finds a different, non-corrupted version of the journal files,
 please let me know.  Perhaps this is some quirk of my system, but
 unfortunately I don't think it is.
-
 Best,
 Dominik Wujastyk
-
--------------------------------------
-
 Corrupted files, that could not be repaired with acrobat, ghostscript or
 mupdf-tools:
-
 * vol15-16_art04_BANSATBOUDON.pdf
 * vol15-16_art13_KHAN.pdf
 * vol15-16_art24_SARMA.pdf
 * vol15-16_art27_SINGH.pdf
-
 * vol17-18_art01_BAILEY.pdf
 * vol17-18_art06_CHANDRA.pdf
 * vol17-18_art10_INSLER.pdf
-
 * vol31/12_Wada.pdf
-
 * vol32/01_Chenet.pdf
 * vol32/02_Emmrich.pdf
 * vol32/03_Filigenzi.pdf
@@ -46,7 +31,3 @@ mupdf-tools:
 * vol32/10_varghese.pdf
 * vol32/XXXII_Report.pdf
 * vol32/XXXII_reviews.pdf
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220416/773489df/attachment.htm>
-

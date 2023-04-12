@@ -1,31 +1,14 @@
-From ucgadkw at ucl.ac.uk  Wed Jul 14 18:28:08 1993
-From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
-Date: Wed, 14 Jul 93 19:28:08 +0100
-Subject: Tibetan text processing with LaTeX available
-Message-ID: <161227015981.23782.8137863749146047575.generated@prod2.harmonylists.io>
-
-
+Tibetan text processing with LaTeX available
 Sitting quietly on princeton.edu in /pub is a file called
 latextibetan.tar.Z which contains a simple 300dpi bitmap-based system
 for typesetting Tibetan with LaTeX.  There's a preprocessor that lets
 you type a sensible input coding, and takes care of the fiddly bits you
 don't want to worry about.
-
 No MF files, but TFMs and PK files at 300dpi.  Looks very good on a 300
 dpi laser printer, and might even stand up at higher res, since Tibetan
 is made of thick, calligraphic strokes.
-
 Hats off to the implementor, Jeff Sparkes.  Was it really done
 as long ago as 1987?  Why didn't word get out?
-
 All the best,
-
 Dominik
-
 NB to use this you need to have the free typesetting system TeX installed.
- 
-
-
-
-
-

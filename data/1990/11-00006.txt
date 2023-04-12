@@ -1,53 +1,32 @@
-From ucgadkw at UK.AC.UCL  Wed Nov 28 21:32:36 1990
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Wed, 28 Nov 90 21:32:36 +0000
-Subject: OED 2 errors
-Message-ID: <161227014910.23782.9915872077588907005.generated@prod2.harmonylists.io>
-
- 
-
+OED 2 errors
 I don't know why, but about once every couple of months I write to a
 dictionary about a word they have wrong.  This time it is the OED,
 second edition, and since it has been mentioned here recently, I
 thought I'd share my <tiny> observation.
- 
 The spine of volume V of the OED has a Sanskrit word on it: "dvandva",
 the first entry in that volume.  It caught my eye, so I looked it
 up.  I was surprised to see it there in the first place, because
 it is *definitely* a Sanskrit word, never used in English as
 an English word (unlike, say, "yoga" or "guru"). But maybe I have
 missed some arcane point of lexicographical principle here.
- 
 There are two errors in this entry.  First, the Sanskrit word is
 "dvandva" not "dvandva"
                   .
- 
 i.e., the "n" is a normal one, not a retroflex one: no underdot.  I
 thought it might be a bit of fly dirt on my copy, but it's not.
- 
 Secondly,  the relationship between the member words of a dvandva
 compound is certainly not the copula; it is the sense of "and".
- 
 The mistake probably comes from believing the pericope from Monier
 Williams; the following one by someone else (I'm doing this from
 memory, or rather the lack of) which mentions the example
 "Prince-Regent" is better, but still misleading.  It could be read as
 "The Regent who is also a Prince", whereas a true "dvandva" meaning
 would be "Prince and Regent", or even "the Prince and the Regent".
- 
 In Sanskrit, dvandvas are often used just to string things together
 "catsdogssheepdonkeysgoats", meaning just "cats and dogs and ...".
- 
 I have noticed other cases where the OUP dictionaries follow
 Monier Williams uncritically.  Probably because they publish
 his Sanskrit-English dictionary.  But he is wrong about a lot
 of things, and you really need to know the language to use
 his dictionary safely.
 Dominik
- 
- 
-
-
-
-
-

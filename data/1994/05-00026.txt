@@ -1,48 +1,27 @@
-From D.Wujastyk at ucl.ac.uk  Fri May 27 23:09:04 1994
-From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 27 May 94 17:09:04 -0600
-Subject: Dasakumaracarita
-Message-ID: <161227016856.23782.12468597808024328859.generated@prod2.harmonylists.io>
-
-
+Dasakumaracarita
 Thanks are due to Lars Martin Fosse for adding another text to our swelling
 archive of machine-readable Sanskrit texts.  Lars has presented selections
 from the Dasakumaracarita of Dandin (chs. 3, 5, 6).
-
 The file is available as dandin-dasakumaracarita.zip from
 ftp.bcc.ac.uk:/pub/users/ucgadkw/indology.
-
 I append some notes on the file, from Lars's readme.
-
 Many thanks, Lars,
-
 Dominik
-
-
-
 ========================== extract from DOC file =====================
-
 Extracts from the Da/sakum-aracarita of Da.n.din..
 Ucchv-asas 3, 5 and 6.
 Edition: The Da/sakum-aracarita of Da.n.din, with a
 commentary, edited by M.
 R. Kale, Fourth Edition, Motilal Banarsidass 1966.
-
 Transliteration by: Veda Varidhi P. Ramanujan
 Transliteration commissioned by: Lars Martin Fosse
 Proofreading by: Lars Martin Fosse
-
 ...
-
 1.4. Variant readings
-
 Variant readings have not been recorded in this
 transliteration version.
-
 ...
-
 2. Processing
-
 Several programs have been utilized in the encoding of the
 text. These include Word for the Macintosh, WordPerfect (PC-
 version) as well as TUSTEP, the Tuebingen System of
@@ -52,22 +31,13 @@ the appropriate filters (TUSTEP programs written for this
 purpose), you can get a printout with proper romanized
 Sanskrit characters. The text can easily be converted to
 other formats.
-
 Comments can be addressed to:
 Lars Martin Fosse,
 Department of East European and Oriental Studies
 University of Oslo
 POB 1030, Blindern
 0315 Oslo
-Tel: +47 22 85 68 48
 Fax: +47 22 85 41 40
 Email: fosse at hedda.uio.no
---
 Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
 Wellcome Institute, 183 Euston Road, London NW1 2BE.
- 
-
-
-
-
-

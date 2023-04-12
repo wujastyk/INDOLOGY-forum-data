@@ -1,14 +1,8 @@
-From ZYSK at ACFcluster.NYU.EDU  Tue Jun  1 14:18:17 1993
-From: ZYSK at ACFcluster.NYU.EDU (ZYSK at ACFcluster.NYU.EDU)
-Date: Tue, 01 Jun 93 09:18:17 -0500
-Subject: Issues in the creation and dissemination of Sanskrit e-texts
-Message-ID: <161227015845.23782.7852133872917585177.generated@prod2.harmonylists.io>
-
+Issues in the creation and dissemination of Sanskrit e-texts
 I thank Dominik for his argument for electronic text dissemination. It
 so happens that I am working on a text that could be sent out, but
 I don't have the technical know-how to do so. Let me explain and perhaps
 others could offer some advice. 
-
 The text is the Naagarasarvasva of Padmashrii with commentary. I am
 working on a "critical" edition of the text from manuscripts and
 two printed Indian editions, one with commentary, the other is
@@ -20,16 +14,9 @@ doubling of certain consonants, etc. Random checks of previous work indicates
 that the margin of error fits into that mentioned by Dominik. The
 imput of the draft edition is about 4/5ths completed, with completing
 completion expected by the end of summer. 
-
 Ideally, I should like to make the draft available to as many
 specialists as possible, so that their comments could be used
 in the revision process. The question I have is how can I do it
 through the network? How can I make the text in Chiwriter available
 by the current methods? Any and all suggests would be most appreciated.
 K.G. Zysk
- 
-
-
-
-
-

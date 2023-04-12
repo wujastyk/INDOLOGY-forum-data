@@ -1,26 +1,15 @@
-From tony_stewart at NCSU.EDU  Fri Feb 17 21:07:17 2006
-From: tony_stewart at NCSU.EDU (Tony K. Stewart)
-Date: Fri, 17 Feb 06 16:07:17 -0500
-Subject: Commercial Nagari font? (fwd)
-In-Reply-To: <1FACh2-0u5ya00@fwd26.sul.t-online.de>
-Message-ID: <161227077438.23782.17113184029550654887.generated@prod2.harmonylists.io>
-
+Commercial Nagari font? (fwd)
 Dear Prof. Hanneder:
-
 I would suggest that as a first step you consult the resource guide  
 on fonts at the South Asia Language Resource Center, a collaborative  
 effort of the US Department of Education's Title VI National Resource  
 Centers for South Asia.  The SALRC is located at the University of  
 Chicago.
-
 See:  http://salrc.uchicago.edu/
-
 The font section is listed under "resources"":  http:// 
 salrc.uchicago.edu/resources/fonts/
-
 Cheers,
 tony
-
 Tony K. Stewart
 Professor of South Asian Religions and LIteratures
 Dept. of Philosophy and Religion
@@ -29,34 +18,4 @@ North Carolina State University
 Raleigh, NC 27695-8103 USA
 ph. 919.515.6335
 email <tony_stewart at ncsu.edu>
-
 On Feb 17, 2006, at 8:56 PM, Walter Slaje wrote:
-
-> ------- Weitergeleitete Nachricht / Forwarded message -------
-> Datum:   	Fri, 17 Feb 2006 17:41:28 +0100 (CET)
-> Von:            	"Dr. Juergen Hanneder"
-> <juergen.hanneder at indologie.uni-halle.de>
-> Betreff:        	Weiterleitung an Indology
-> -------------------------------------------------------
-> To: INDOLOGY at liverpool.ac.uk
-> Subject: Commercial Nagari font?
-> --text follows this line--
->
-> Dear Colleagues,
->
-> can anyone recommend high quality Devanagari fonts for Sanskrit.
->
-> I think that I have probably seen most of the free Nagari fonts
-> available and I am of course aware that some of them are quite
-> good. And, of course, looking at the glyph table of some of the
-> commercial fonts is slightly disappointing, but I have not yet given
-> up hope for more professional tools for printing.
->
-> Kind regards
->
-> Juergen Hanneder
-> University of Halle
-
-
-
-

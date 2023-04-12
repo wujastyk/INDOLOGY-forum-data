@@ -1,12 +1,5 @@
-From apandey at U.WASHINGTON.EDU  Tue Mar 10 23:25:20 1998
-From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
-Date: Tue, 10 Mar 98 15:25:20 -0800
-Subject: Electronic texts, irt Jan Dvorak.
-In-Reply-To: <19980310143054.21185.qmail@dec59.ruk.cuni.cz>
-Message-ID: <161227036582.23782.2701935463476262019.generated@prod2.harmonylists.io>
-
+Electronic texts, irt Jan Dvorak.
 Hello,
-
 Jan Dvorak raised an important question in a recent post about whether
 there exists a list of available electronic texts. I know that the
 Sanskrit Documents Project housed at jaguar.cs.utah.edu maintains such a
@@ -19,22 +12,9 @@ each with links or texts not found on other lists, ie. John Smith's
 bombay.oriental.cam.ac.uk server and the kyoto file server upon which
 reside the texts of Profs. Yano, Tokunago, Ikari, et al., and John
 Gardner's Vedavid.
-
 Are there any opinions as to whether a comprehensive list of Indic
 electronic texts ought to be compiled, and whether such a list would be
 beneficial?
-
 Regards,
 Anshuman Pandey
-
 On Tue, 10 Mar 1998, Jan Dvorak wrote:
-
-> working on a project dealing with the old Indo-Aryan and Dravidian
-> literatures we plan to type some texts. I attach a proposed list and ask
-> you to let me know if some of them have already been typed anywhere in
-> the world. Or is there any center collecting information on available
-> electronic texts? Thank you for your responses.
-
-
-
-

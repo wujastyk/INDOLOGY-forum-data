@@ -1,14 +1,4 @@
-From SINSLER at YaleVM.YCC.Yale.Edu  Wed Feb 10 16:49:10 1993
-From: SINSLER at YaleVM.YCC.Yale.Edu (STANLEY INSLER)
-Date: Wed, 10 Feb 93 11:49:10 -0500
-Subject: Magic Squares
-Message-ID: <161227015690.23782.5977510539003193508.generated@prod2.harmonylists.io>
-
+Magic Squares
 An extensive section on magic squares and their mathematical solutions can be
 found at the end of the GaNitakaumudi: (cap = cerebral, : = long vowel).  S.
 Insler
-
-
-
-
-

@@ -1,20 +1,9 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Mon Jun  3 02:22:40 1996
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Mon, 03 Jun 96 11:22:40 +0900
-Subject: Kyoto dharma files added to INDOLOGY web pages
-Message-ID: <161227024924.23782.17693555494660030012.generated@prod2.harmonylists.io>
-
+Kyoto dharma files added to INDOLOGY web pages
 After I placed the dharma files at my ftp directory
 I found some mistakes --- especially unnecessary linebreaks
 in prose texts.  So I updated some files.  We will continue
 improving our e-texts.
-
 Michio YANO
 Kyoto Sangyo Univesity
 yanom at ksuvx0.kyoto-su.ac.jp (for indology mailing list)
 yanom at cc.kyoto-su.ac.jp (for private communications)
-
-
-
-
-

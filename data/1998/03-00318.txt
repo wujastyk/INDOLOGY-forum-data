@@ -1,10 +1,4 @@
-From ucgadkw at UCL.AC.UK  Fri Mar 20 17:14:01 1998
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Fri, 20 Mar 98 17:14:01 +0000
-Subject: Electronic texts, irt Jan Dvorak.
-In-Reply-To: <Pine.OSF.3.96.980310151010.2700A-100000@saul2.u.washington.edu>
-Message-ID: <161227036888.23782.9166497099918649150.generated@prod2.harmonylists.io>
-
+Electronic texts, irt Jan Dvorak.
 A "union list" of Sanskrit, Prakrit, Persian, Tamil, or other e-texts
 would be extremely useful.  But it would also be a pretty labour-intensive
 task.  My experience with such projects is that they are hardest and most
@@ -13,7 +7,6 @@ year or two it can become less interesting.  However, the initial work
 done on such a union list would be extremely important and of great
 general interest.  I would be delighted to host such a list on the
 INDOLOGY web site.
-
 Another possibility is for all e-texts to be systematically submitted to
 an institutionally-funded site such as the Oxford Text Archive or the
 Rutgers Center for Electronic Texts.  These places have paid staff who
@@ -24,18 +17,11 @@ copyright, and some of the texts which we cheerfully exchange with
 each other might turn out to be infringing others' copyright.  The present
 rather laissez-faire situation does not properly address these issues,
 which is not to say that they may not become more prominent in the future.
-
 If we are going to submit all texts to, say, the OTA, I could certainly
 act as one conduit for such submissions.
-
---
 Dominik Wujastyk
 Wellcome Institute for the History of Medicine
 183 Euston Road, London NW1 2BE, England.
 FAX +44-171-611-8545
 email: d.wujastyk at ucl.ac.uk
 WWW: http://www.ucl.ac.uk/~ucgadkw
-
-
-
-

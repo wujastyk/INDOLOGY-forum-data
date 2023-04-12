@@ -1,20 +1,6 @@
-From csr at wipinfo.soft.net  Fri Jan 17 20:22:40 1997
-From: csr at wipinfo.soft.net (Raghavendra C.S)
-Date: Fri, 17 Jan 97 15:22:40 -0500
-Subject: Fonts Question
-Message-ID: <161227027879.23782.6438386008937891829.generated@prod2.harmonylists.io>
-
+Fonts Question
 namaste,
-
 Are there any True-Type or Adobe Devanagari Fonts
 available for FREE on internet ?
-
 Regards,
 - Raghavendra.
-
-
-
-
-
-
-

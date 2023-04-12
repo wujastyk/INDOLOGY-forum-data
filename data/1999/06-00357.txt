@@ -1,24 +1,7 @@
-From lmfosse at ONLINE.NO  Tue Jun 15 19:36:22 1999
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Tue, 15 Jun 99 21:36:22 +0200
-Subject: Pythagoras mentioned in Vedas?
-Message-ID: <161227050653.23782.15338371085047065545.generated@prod2.harmonylists.io>
-
+Pythagoras mentioned in Vedas?
 Bo Klintberg wrote:
-
-> Dear Lars Martin Fosse:
->
-> This is just a short letter to tell you that I am <truly> sorry if I have
-> <personally> offended you. I thought that I just scrutinized some
-> argumenents that potentially I thought were yours. Once again, I am truly
-> sorry if I in any way disturbed or offended your person.
->
-> That doesn't, however, mean that I like your way of doing statistics. I
-> still don't. :-)
-
 I disliked your argument about chimpanzees, which seemed to indicate that I had rather
 primitive ideas about Indians. However, you are forgiven.
-
 Now, my statistical views have to do with a certain kind of inferential logic that is used
 extensively in the humanities, in politics and in law. I think a debate along such lines
 would be interesting, and I invite you to such a debate. I'll promise to be serious, and
@@ -34,23 +17,18 @@ for instance the situation in the late Roman empire. We know today that this int
 is wrong, and that there are other models or analogies available, so that the modalities of
 the intrusion of Indo-Aryans into India can be interpreted in other ways. This leads me to
 a more general consideration:
-
 Assume that the phenomenon A always is accompanied by the phenomenon B. Then we have an
 ironclad rule, and we know that whenever we find A, we have B as well (if B is not
 physically present any more, we must assume that it once was). Then consider the following
 situation:
-
 A is accompanied by B in 50 % of the cases
                             by C in 25% of the cases
 and                       by D in 25% of the cases.
-
 Now if you find A (and only A), you have to make a choice between B, C and D. Since we have
 statistics based on experience, the most likely candidate to accompany A is B, but both C
 and D are possible. In other words, finding A, you make the inference that A is most likely
 accompanied with B (even if you don't find B).
-
 Now consider:
-
  A is accompanied by B, or C, or D. We have no statistics. We have in other words three
 possible interpretations, but no way of deciding which one is the most probable. This is
 the situation that obtains in a large number of cases, both in ancient history, in
@@ -61,11 +39,5 @@ you treat such conundrums methodically. Which is why I used the old trick questi
 you stopped beating your wife?" (Yes or no!) in a slightly revamped version. If you are
 ever dragged into court accused of wife-battering, you will soon find out that probability
 thinking matters if physical proof or eyewitnesses are missing.
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
-

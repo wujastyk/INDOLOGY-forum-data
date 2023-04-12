@@ -1,41 +1,18 @@
-From baums at UW.EDU  Sun Jul  4 13:43:32 2010
-From: baums at UW.EDU (Stefan Baums)
-Date: Sun, 04 Jul 10 22:43:32 +0900
-Subject: (Xe)(La)TeX, (L)Edmac, and Velthuis query
-In-Reply-To: <4C306209.1000904@asia-europe.uni-heidelberg.de>
-Message-ID: <161227089867.23782.5968049316121333161.generated@prod2.harmonylists.io>
-
+(Xe)(La)TeX, (L)Edmac, and Velthuis query
 Dear Birgit,
-
 I very much agree with you that that marking up primary texts and our
 scholarly output in TEI would be worthwhile, for each of us
 individually and for the field.
-
-> If you know any scripting language that can deal with XML
-> (perl, php, python), getting a TEI-compliant XML source text
-> for a critical edition to LaTeX source code for printing with
-> ledmac, or to HTML for online publication, is quite simple
-> (time-consuming, but simple).
-
 Another route that I have been dabbling with and plan to use more
 seriously (for automated edition typesetting from our G?ndh?r?
 database) is via TeXML:
-
    http://getfo.org/texml/
-
 This is a little preprocessor for TeX that allows one to express
 (La)TeX files in XML syntax, turning the programming task into a
 transformation from one form of XML (TEI) into another (TeXML), which
 can be accomplished quite elegantly and efficiently using XSLT.
-
 All best,
 Stefan
-
--- 
 Dr. Stefan Baums
 Graduate School of Literature
 Bukkyo University
-
-
-
-

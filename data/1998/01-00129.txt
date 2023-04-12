@@ -1,20 +1,5 @@
-From mahadevasiva at HOTMAIL.COM  Sun Jan 18 22:15:48 1998
-From: mahadevasiva at HOTMAIL.COM (S Krishna)
-Date: Sun, 18 Jan 98 14:15:48 -0800
-Subject: Linguists
-Message-ID: <161227034815.23782.14367811416613210094.generated@prod2.harmonylists.io>
-
+Linguists
 Sn Subrahmanya writes:
->In mathematics - a initial 'assumption' is allowed, but again at
->the end it has to be shown that no other 'assumption' would have
->been valid.
->"Linguistis" seems to have this fatal flaw in that-it
->does not show that the initial assumption is the only valid possibility
->and nothing else is possible. So, linguists
->can add layers and layers of assumption and prove whatever they want.
-
-
-
 Dear MR Subrahmanya, your argument seems to be going the way in which
 many discussions among our beloved expatriate Indians go-A certain
 standard is introduced for what ever reason( in many cases, convenience)
@@ -34,7 +19,6 @@ Substitute Engineering in this paragraph by "Archeology" and Medicine by
 (BTW, I myself am an engineer, and have degrees in two different
 engineering subjects, so there is no reason for me to envy/despise
 engineers)
-
  What makes you think that "archeology" is such a powerful tool? In the
 hands of the wrong person, anything can be misused..as an example,
 please read the writings of Shri P.N.Oak who always tells us that
@@ -43,28 +27,10 @@ the dome has been modified..this ostensibly appears logical and is
 chronological (Buddhism precedes ISlam) ; but show it to any trained
 archeologist or architecht and they will tell you ten different reasons
 why this couldn't have been true.
-
-
->
->It boggles my mind to see seemingly rational
->people deriving a proto language existing thousands of years before and
->hundreds of generations  ago spread out
->over great land areas and through millions of people, based on
->assumptions,and then adding more assumptions to it -
->How in the world can one scientifically prove these assumptions ??
->How can one be so confident of assumptions - without logically
->proving that it is the only possibility ??.
-
-
 Well, since the word "assumption" seems to be bothering you so much,
 would it be OK if we called the same stuff "axioms" a la Euclid?:-)
 (Please try to prove any "axiom" as opposed to a theorem)
-
->
->When one reads Seidenbergs papers, one cannot but be impressed by the
->mathematical thoroughness with which he derives his conclusions.
  -------------------------
-
 I am not impressed by this "mathematical thoroughness"( an engineering
 /sciences concept, not true of liberal arts) thing...there are fields
 that can be described as mathematical, there are others that aren't, so
@@ -78,13 +44,6 @@ proof; mathematics was something that Diderot knew nothing about. Euler
 said " for all a>0,b>0, (ax+b)**n= m, therefore God exists..prove me
 wrong if you can..." . If you now try to pass off "Euler's proof " as
 being mathematical, you know what reaction you will be eliciting
-
 Regards,
 Krishna
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

@@ -1,25 +1,10 @@
-From vineet at bocaraton.ibm.com  Sun Feb 19 16:40:39 1995
-From: vineet at bocaraton.ibm.com (vineet at bocaraton.ibm.com)
-Date: Sun, 19 Feb 95 11:40:39 -0500
-Subject: Indology Research desk
-Message-ID: <161227018621.23782.13335617711040682227.generated@prod2.harmonylists.io>
-
+Indology Research desk
 Hello,
 	I am currently writing a proposal to make a research platform which
 an indologist can use for the research and related activities. 
 I would like to know from the list members  what all this piece of software 
 should have and can optionally have. All suggestions and criticisms are most
 welcome.
-
 Thanks,
 Vineet
 INTERNET  :  vinet at gator.bocaraton.ibm.com
-
-			     
-			     
- 
-
-
-
-
-

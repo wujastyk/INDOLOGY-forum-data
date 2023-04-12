@@ -1,94 +1,38 @@
-From ucgadkw at UCL.AC.UK  Mon Dec 26 14:20:41 2005
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 26 Dec 05 14:20:41 +0000
-Subject: http://indology.info is now live
-In-Reply-To: <20051224102519.88151.qmail@web8513.mail.in.yahoo.com>
-Message-ID: <161227077246.23782.7235240411026594369.generated@prod2.harmonylists.io>
-
+http://indology.info is now live
 The indology.info website contains a lot of information on copyright, 
 including links to authoritative external copyright statements.
-
 See http://indology.info/etexts/
-
 To be very general about this, if the RSV is going to put materials on the 
 web, then it has to recognise that these materials will be taken and used 
 by anybody for anything.  The whole point of putting Sanskrit and related 
 texts on the web is to make these materials available to scholarship.
-
 The one thing most text-providers do not want is for third parties to take 
 what we put on the web, and sell it for profit.   This isn't likely to be 
 a great danger, since any re-seller has to compete with the free 
 availability of materials on the net.  But the reseller could add value, 
 e.g., display fonts, search engines, TEI retagging, etc.
-
 If we want to stop profiteering, then we should put a license at the top 
 of the documents we release saying, broadly, "These texts are free for 
 scholars; anyone else must contact the text-provider for a 
 appropriate license".
-
 One possible actual statement is that put at the top of the Astangahrdaya 
 files by Emmerick and Das:
-
 == begin quote ==
-
 The copyright holders give permission for this file to be distributed
 freely for academic, non-commercial purposes.  This file may not be sold
 or distributed in any manner requiring payment, either alone, or with
 other texts.  And it must not be used as part of any software system
 which is sold or distributed other than freely.
-
 If you desire to make such use of this file, you must contact the
 copyright holders for permission to do so.
-
 Any (free) software system that makes use of this file must include a
 clear acknowledgement of the copyright holders' copyright which should
 display each time the program runs.
-
 The copyright holders would be grateful to be informed of any
 substantial uses made of this file.
-
 == end quote ==
-
-
-
 Once the RSV materials are public, I should be delighted to add a link
 from indology.info.
-
 Best,
 Dominik Wujastyk
-
-
-
-
 On Sat, 24 Dec 2005, Srinivasa Varakhedi wrote:
-
-> Dear meber,
->   Kindly tell me if anybody knows about the copyright principles for E-contents presented on web?
->
-> New website of SANSKNET {Rasshtriya Sanskrit Vidyapeetha} is ready to 
-> host. But, the authorities want to have some licence for downloading 
-> etc., Kindly write to me personally if anybody of you is knowldegable in 
-> such issues.
->
->  regards,
->  shrivara.
->
-> Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
->  You can access the new indology website as
->
-> http://www.indology.info
->
-> or as just
->
-> http://indology.info
->
-> Enjoy!
->
->
->
-> Send instant messages to your online friends http://in.messenger.yahoo.com
->
-
-
-
-

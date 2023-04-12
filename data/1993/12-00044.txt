@@ -1,47 +1,28 @@
-From ami01 at rs1.rrz.Uni-Koeln.DE  Thu Dec 23 18:05:07 1993
-From: ami01 at rs1.rrz.Uni-Koeln.DE (Thomas Malten)
-Date: Thu, 23 Dec 93 19:05:07 +0100
-Subject: Release of Online Tamil Lexicon (OTL)
-Message-ID: <161227016453.23782.10863641140573849892.generated@prod2.harmonylists.io>
-
+Release of Online Tamil Lexicon (OTL)
 INSTITUTE OF INDOLOGY AND TAMIL STUDIES (IITS), KOELN UNIVERSITY, GERMANY
-
                                                                 23.12.93
-
-
                               ************
                               ANNOUNCEMENT
                               ************
-
 The Institute of Indology and Tamil Studies announces the release of
 the first part of its Online Tamil Lexicon (OTL) on the
-
       Gopher Information Server at linus.informatik.uni-koeln.de.
-
 It can be reached by typing:
-
 "gopher linus.informatik.uni-koeln.de"
-
 At present the OTL consists of above 130,000 entries. Included are
 all the main entries in the Madras Tamil Lexicon (TL) and Supplement
 (TLS), with English meanings. The OTL can be searched for ENGLISH as
 well as TAMIL meanings.
-
 The OTL will be constantly updated and expanded to include materials
 from other dictionaries (Proenca, Beschi, Fabricius, Rottler, Winslow
 etc.) as well as from classical and modern Tamil texts.
-
 IMPORTANT: Read INFO.OTL first for information on Tamil transliteration
 used on the gopher server. Also for further information on the scope and
 uses of the OTL.
-
-
-
 For technical assistance thanks to:
 - Offshore Indology, Chidambaram, esp. their Portable Panini (TM) programs
 - Institut fuer Informatik, Universitaet Koeln, Martin Olschewski
 - RRZ der Universitaet Koeln, Andreas Strotmann
-
 **************************************************************************
 * NOTE: The Online Tamil Dictionary (OTL) is copyright (c) 1993 IITS,    *
 * Koeln. It may be used for any bonafide non-commercial research purpose.*
@@ -50,8 +31,6 @@ For technical assistance thanks to:
 * Koeln, Germany. Accessing the OTL constitutes the acceptance of these  *
 * conditions.                                                            *
 **************************************************************************
-
-
 As has been announced earlier
 the Gopher is to provide access to the data of the "Thesaurus of Tamil
 Texts" (TTT), a project by the Institute of Indology and Tamil Studies,
@@ -60,13 +39,7 @@ Institute, Heidelberg University. TTT consists of the major classical
 Tamil texts starting with Sangam literature. All the texts are also
 indexed cumulatively. The texts on the Gopher Server will be expanded
 continuously. ======
-
 * Further information, suggestions and corrections:
 * ami01 at rs1.rrz.uni-koeln.de (Thomas Malten)
-
 -Thomas Malten
-
 ***This File is C:/NET/ANNOUNC.TL, Last update 23.12.93
- 
-
-

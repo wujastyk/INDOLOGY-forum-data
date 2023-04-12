@@ -1,24 +1,10 @@
-From athr at loc.gov  Mon Aug 19 16:03:59 1996
-From: athr at loc.gov (Allen Thrasher)
-Date: Mon, 19 Aug 96 12:03:59 -0400
-Subject: bhagavadgita in Russian
-Message-ID: <161227025669.23782.15734812173967046757.generated@prod2.harmonylists.io>
-
+bhagavadgita in Russian
 On Sun, 18 Aug 1996, Hans G. Tuerstig wrote:
-
-> Does anyone know whether there exists a translation of the Bhagavadgita
-> into Russian?
-> Thanks.
-> Hans-Georg Tuerstig
-> 
-
 OCLC shows the following trans. of the BG and trans. of or books on the
 Mbh.  I have eliminated those which I could see were clearly translations
 of other parts excluding the BG.
-
 Allen Thrasher
 Library of Congress
-
 ACCESSION: 24068623
     TITLE: Kniga o Bkhishme :
            otdel "Bkhagavadgita," kn. VI, gl. 13-24. Kniga o poboishche 
@@ -38,9 +24,6 @@ ALT TITLE: Bhagavadgita. Russian. Selections.
            Turkmenistan SSR ylymlar akademiiasy.
            Mahabharata. Mausalaparvan. Russian. 1981.
            Kniga o poboishche palitsami.
-
- 
-
 ACCESSION: 31976863
     TITLE: Makhabkharata.
     PLACE: Sankt-Peterburg :
@@ -55,10 +38,7 @@ PUBLISHER: "Nauka",
 ALT TITLE: Mahabharata. Drona parva. Russian.
     OTHER: Kalianov, V. I.
            Institut vostokovedeniia (Rossiiskaia akademiia nauk)
-
  Next Record 
-
-
 ACCESSION: 28761175
     TITLE: Makhabkharata.
     PLACE: Leningrad :
@@ -72,8 +52,6 @@ PUBLISHER: Izd-vo "Nauka", Leningradskoe otd-nie,
            Microfilm. Moskva : Vsesoiuznaia gos. biblioteka inostrannoi lit-
            ry, 1991. 1 microfilm reel ; 35 mm.
 ALT TITLE: Mahabharata. Udyogaparva. Russian.
-
- 
 ACCESSION: 28067364
    AUTHOR: Neveleva, S. L. (Svetlana Leonidovna)
     TITLE: Makhabkharata :
@@ -91,10 +69,7 @@ PUBLISHER: "Nauka," Glav. red. vostochnoi lit-ry,
      ISBN: 5020167401 :
   SUBJECT: Mahabharata.
     OTHER: Mahabharata.
-
  Next Record 
-
-
 ACCESSION: 24401106
     TITLE: Makhabkharata /
     PLACE: Moskva :
@@ -105,14 +80,8 @@ PUBLISHER: Izd-vo Akademii nauk SSSR,
    SERIES: Akademiia nauk SSSR. Literaturnye pamiatniki.
 ALT TITLE: Mahabharata. Russian
     OTHER: Kalianov, V. I.
-
  Next Record 
-
-
 (Record for Mbh trans. as whole:)
-
- 
-
 ACCESSION: 19734733
     TITLE: Makhabkharata :
            chetyre skazaniia /
@@ -129,10 +98,7 @@ PUBLISHER: Izd-vo Khudoshch. lit-ra,
            piati bratev i ikh zheny.
 ALT TITLE: Mahabharata. Selections. Russian
     OTHER: Lipkin, Semen Izrailevich.
-
  Next Record 
-
-
 ACCESSION: 17069559
     TITLE: Sozhzhenie zmei :
            skazanie iz indiiskogo eposa Makhabkharata /
@@ -141,11 +107,7 @@ PUBLISHER: Gos. izd-vo khudozh. lit-ry,
      YEAR: 1958     
  PUB TYPE: Book
    FORMAT: 148 p. : ill. ; 21 cm.
-
  Next Record 
-
-
-
 ACCESSION: 13511972
     TITLE: Makhabkharata.  Ramaiana /
     PLACE: Moskva :
@@ -156,9 +118,7 @@ PUBLISHER: Khudozh. lit-ra,
    SERIES: Biblioteka vsemirnoi literatury. Seriia pervaia ; t. 2
     OTHER: Grintser, P. A. (Pavel Aleksandrovich)
            Ramaiana.
-
  Next Record 
-
 ACCESSION: 13307852
     TITLE: Makhabkharata /
   EDITION: 2-e perer. izd.
@@ -172,9 +132,7 @@ PUBLISHER: Izd-vo Akademii nauk Turkmenskoi SSR,
 ALT TITLE: Mahabharata. Russian
     OTHER: Smirnov, B. L. (Boris Leonidovich)
            Turkmenistan SSR ylymlar akademiiasy.
-
  Next Record 
-
 ACCESSION: 3026243
    AUTHOR: Ilin, G. F. (Grigorii Fedorovich)
     TITLE: Starinnoe indiiskoe skazanie of geroiakh drevnosti Makhabkharata 
@@ -187,11 +145,3 @@ PUBLISHER: Izd-vo Akademii nauk SSSR,
    SERIES: Nauchno-populiarnia seriia
   SUBJECT: Mahabharata.
     OTHER: Mahabharata.
-
-
-
-
-
-
-
-

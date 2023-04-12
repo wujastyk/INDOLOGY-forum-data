@@ -1,56 +1,30 @@
-From mkapstei at uchicago.edu  Wed Jul  9 09:26:09 2014
-From: mkapstei at uchicago.edu (Matthew Kapstein)
-Date: Wed, 09 Jul 14 09:26:09 +0000
-Subject: [INDOLOGY] Alchemy metaphor
-In-Reply-To: <946CD1F9-2252-4947-B989-1BE97C5AB628@gmail.com>
-Message-ID: <82C3E42590D939418C74DD76B97DDED03746924A@xm-mbx-04-prod.ad.uchicago.edu>
-
+[INDOLOGY] Alchemy metaphor
 Dear Ashok,
-
 While I share your reservations in regard to the possible semantic transformations (for want of a better term) of vedh-/vyadh-, I do agree with Christopher that, in some instances, a strict adherence to the lexically established meanings is not sufficient. It was for this reason that I point to Bodhicary?vat?ra 1.10 and its gloss by Praj??karamati. This discussion has caused me to look carefully again at the latter and its Tibetan translation, which prove more revealing than I had first recalled. To begin, here is the whole of the verse in question:
-
 a?ucipratim?? im?? g?h?tv?
 jinaratnapratim?? karoty anargh??/
 rasaj?tam at?va vedhan?ya?
 sud??ha? g?h?ata bodhicittasa?j?am//
-
 Here is a slavishly literal translation:
-
 Having taken hold of this impure image [i.e. body],
 It [= the bodhicitta] makes the priceless buddha-jewel-image.
 Rasaj?ta [the alchemical agent] is exceedingly vedh-able.
 Grasp most firmly the so-called bodhicitta.
-
 Now, it is clear enough what the verse is telling us: just as the rasaj?ta turns a base substance into gold, so the bodhicitta turns this impure human body into the a buddha-body. 
-
 But our question is: how, literally, is vedh- being used here. It doesn?t seem to make very good sense to insist on the strict, literal meaning: ?rasaj?ta is exceeding pierceable? or something like that. If we take the extended meaning ?to infuse,? I think we can get a bit closer to what?s meant: ?rasaj?ta is exceedingly infusable.? But this works only if we understand by this ?apt to infuse? and not ?apt to be infused,? although the latter might be what we?d expect if we insist on the most literal reading. Now, I take it that Praj??karamati is indicating something like this when he says: kartari an?ya? kara?e v? (though, knowing your unsurpassed insight into grammatical usage, I?d be more interested in your view of this than my own). Praj??karamati does have a bit more to say about this. Here?s his entire gloss on  ?rasaj?tam at?va vedhan?ya??:
-
 ata eva rasaj?ta? rasaprak?ram/ atyuccavedhak?ritv?d at?va vedhan?yam/ kartari an?ya? kara?e v?
-
 So there is no doubt but that he is interpreting vedh- causatively here: ras?j?ta is that which ibrings about infusion in the object subject to alchemical transformation.
-
 The Tibetan translation paraphrases all of this. The third line of the verse is rendered:
 gser sgyur rtsi yi rnam pa mchog lta bu, ?like the finest type of gold-transformation-essence.?
 In the commentary, it drops ?kartari an?ya? kara?e v?? altogether and reads (for : atyuccavedhak?ritv?d at?va vedhan?yam)  ?shin tu cher sgyur bar byed pa?i phyir mchog tu sgyur ba?o?. 
 ?It is the finest transformer because it causes very great transformation.?
-
 And, lest we think that the Tibetans are just off on their own here, the work was translated in collaboration with an Indian pa??ita, Sumatik?rti, and the colophon even lists the chapters in which he was considered particularly competent, including the first in which this passage occurs.
-
 Conclusion: the semanic drift from ?to pierce? to ?to transform? has at least some precedent.
-
 I have a vague recollection, by the way, of discussing this with David Pingree back in the 80s, and he pointed me to an old, but interesting monograph on Indian chemistry (not alchemy) that had some interesting things to say about vedh-. I?ll try to locate the reference, but no doubt others on this list will be more familiar with the literature in this area.
-
 All best,
 Matthew
-
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-
-
-
-

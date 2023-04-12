@@ -1,28 +1,13 @@
-From jhelling at cs.ruu.nl  Thu Jan 28 11:09:36 1993
-From: jhelling at cs.ruu.nl (Jeroen Hellingman)
-Date: Thu, 28 Jan 93 11:09:36 +0000
-Subject: Candrabindu with LaTEX
-Message-ID: <161227015636.23782.3385957327776938657.generated@prod2.harmonylists.io>
-
+Candrabindu with LaTEX
 Hi,
-
 I think it will be possible to make the positioning of the candrabindu
 independent of the font, by using the font-specific dimensions provided by
 TeX, i.e. em and ex -- I have made some macros to place accents on top of each
 other, and place acccents meant to be put on top of a letter below them, that
 use explicit box-constructions. I do not have them here, but maybe I should
 post them on Indology and or comp.text.tex
-
 Jeroen
-
-
--- 
 Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
 't Zand 2                         Phone: +31-3473-73935 (home)
 4133 TB Vianen                    (18.00--21.00 GMT)
 The Netherlands                   Answer in English, German, or Dutch.
-
-
-
-
-

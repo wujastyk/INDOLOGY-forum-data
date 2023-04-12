@@ -1,101 +1,18 @@
-From wujastyk at GMAIL.COM  Wed Feb 22 16:21:12 2012
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Wed, 22 Feb 12 17:21:12 +0100
-Subject: A Query re the development of garbha
-In-Reply-To: <295B513C-48EE-4F57-B077-C5A60327F69A@googlemail.com>
-Message-ID: <161227095377.23782.6629325962265960670.generated@prod2.harmonylists.io>
-
+A Query re the development of garbha
 murch/m?rch meaning "congeal" is also common in rasa??stra literature,
 where m?rcchana (various spellings) is one of the standard eighteen
 sa?sk?ras or operations performed on chemical substances.  See, e.g., *
 Rasaratnasamuccaya* chapter 11, vv. 15 ff.
-
 P. C. Ray did not know this, and translates m?rch- as "swoon" throughout
 his foundational "A History of Hindu Chemistry".
-
 See the DCS:
-
    -
    http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=einzelwort&IDWord=113622
-
-
 DW
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies,
 University of Vienna,
 Spitalgasse 2-4, Courtyard 2, Entrance 2.1
 1090 Vienna
 Austria
-
-
-
 On 20 February 2012 22:16, Andrey Klebanov <andra.kleb at googlemail.com>wrote:
-
-> concerning the meaning of "murch/m?rch" and related words I would like to
-> call your attention to an [unfortunately still] forthcoming paper by Dr.
-> Jan Meulenbeuld, which I was lucky to listen to during a small workshop in
-> Copenhagen organized by Prof. Zysk. Here Dr. Meulenbeld has demonstrated on
-> the basis of numeral passages from Sanskrit medical literature that the
-> meanings of murch/m?rch could be boiled down to smth. like 'to become one
-> homogeneous mass'. Exactly this meaning, I believe, could be rather
-> naturally applied to both the passages quoted by Prof. Vielle. I wonder
-> which passage Artur Karp actually had in mind, while asking his question
-> and whether there too m?rch could be understood acc. to Dr. Meulenbeld's
-> finding.
->
-> What ka?hina is concerned, I would like to briefly second Prof. Goodall's
-> statement concerning the term ghana. In fact, the passage in Su?rutasa?hit?
-> (3.3.18 acc. to GRETIL's e-text) applies this designation to a
-> two-months-old embryo. The commentator ?alha?a briefly states on it:
-> "ghana? ka?hina? |"
->
-> Best wishes
-> with great respect for the passed away scholar
-> Andrey Klebanov
->
->
->
->
-> On 20.02.2012, at 11:09, Christophe Vielle wrote:
->
-> A very detailed comparative study of various passages on embryology
-> (including puraa.nas, medical sa.mhitaas, etc.) will be to be found in:
->  Sandra Smets, *La question de la non-dualit? dans la Jaimin?yasa?hit? du
-> Brahm???apur??a. Le Janakapra?na* *?dit?, traduit et comment?*,
-> Louvain-la-Neuve: Publications de l'Institut orientaliste de Louvain no. 63
-> (Leuven: Peeters Press), 2012
-> now in press (http://www.peeters-leuven.be/boekoverz.asp?nr=9120 - I join
-> for information a special list of Indological books published in this
-> series. A reprint of Lamotte's Sa.mdhinirmocanasuutra with a new
-> introduction by H. Durt is planned).
-> So, for answering Karp's question on the basis of Smets' researches :
-> The verb m?rch is used in JaiSa 47.7:
-> p.rthivyaadi.su bhuute.su muurchito dhaatur antima.h |
-> sa.mti.s.thati draviibhuuta.h prathame maasi garbhaga.h ||
-> Cf. Yaj?S III.75 and Mit. ad loc.
-> (Smets states that muurch should be here rather translated by "expanded",
-> "increased" or "filled" with, viz. "mixed")
-> and also the Pari/si.s.ta ad Vaaraaha/srautasuutra xxvi.1 (cf. P.
-> ROLLAND, 'Un fragment me?dical ? ve?dique ? : Le premier khan?d?a du
-> Va?ra?haparis?is?t?a Bhu?totpatti', in Mu?nchener Studien zur
-> Sprachwissenschaft 30 (1972), p. 129-138):
-> tad vaayu/s ce.s.tayaty aakaa/se cetanaadhaatu.m muurchayati
->
-> Best wishes,
-> Christophe Vielle
->
-> Le 19 f?vr. 2012 ? 21:49, Artur Karp a ?crit :
->
->
-> <PIOL-indianisme et bouddhisme.pdf>
->
->
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20120222/d117bf2f/attachment.htm>
-

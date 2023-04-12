@@ -1,36 +1,7 @@
-From patte at MATH-INFO.UNIV-PARIS5.FR  Wed May 13 16:12:11 1998
-From: patte at MATH-INFO.UNIV-PARIS5.FR (Francois Patte)
-Date: Wed, 13 May 98 18:12:11 +0200
-Subject: Proposed changes to Velthuis Devanagari fonts.
-Message-ID: <161227038667.23782.400528615276634534.generated@prod2.harmonylists.io>
-
+Proposed changes to Velthuis Devanagari fonts.
 Anshuman Pandey wrote:
-
-> Hello,
->
-> There is a proposal to change the glyphs of three conjunct characters in
-> the Devanagari Metafont designed by Frans Velthuis. These these glyphs are
-> "h+n", "h+l", and "h+v". The current and proposed glyphs, as well as
-> further details, are given in the file available at:
->
->         http://weber.u.washington.edu/~apandey/dvng-chg.ps
->
-> I am requesting that users of Mr. Velthuis's package please review the
-> proposal and respond with comments.
->
-> Regards,
-> Anshuman Pandey
-
 I forgot to tell you this morning that "h+r" could be changed in the same
 way.
-
 Regards.
-
--- Fran?ois Patte. UFR de math?matiques et informatique.
 45 rue des St P?res. 75270 Paris Cedex 06
-Tel: 01 44 55 35 59 -- Fax: 01 44 55 35 35
 http://www.math-info.univ-paris5.fr/~patte
-
-
-
-

@@ -1,27 +1,13 @@
-From manufrancis at gmail.com  Tue Aug  2 13:25:49 2016
-From: manufrancis at gmail.com (Manu Francis)
-Date: Tue, 02 Aug 16 15:25:49 +0200
-Subject: [INDOLOGY] Fwd:  Ms colopon from Nepal, need help
-In-Reply-To: <CANVHsm5MJ+gvT2VFaFpfGnDjvSW0AYHgrEiUjxwt4Pm_7rfFAw@mail.gmail.com>
-Message-ID: <CANVHsm6nKE8uSYQ=djCj=nT-yNdiJQ4WO7b-GH78bKvA7D7g4Q@mail.gmail.com>
-
+[INDOLOGY] Fwd:  Ms colopon from Nepal, need help
 Oops! I forgot to "reply all" the message forwarded below and see now that
 Alessandro Battistini has a good proposition for solving the question of
 -khacare (which I took for two words).
 So the date would be 2 (ayana) 5 (?ara) 9 (khacara), i.e 952 Nepalese era =
 1831/32 CE.
-
----------- Forwarded message ----------
-From: Manu Francis <manufrancis at gmail.com>
-Date: 2016-08-02 9:53 GMT+02:00
-Subject: Re: [INDOLOGY] Ms colopon from Nepal, need help
-To: fifield at fas.harvard.edu
-
+Re: [INDOLOGY] Ms colopon from Nepal, need help
 Dear Justin,
-
 (a)ya?a?arakhacare is a chronogram or bh?tasamkhy?, that is the date in the
 Nepalese era is expressed here by words.
-
 See Richard Salomon, 1998, Indian Epigraphy, p. 173:
 "The date of an era may be given in numerical figures, words, or both. In
 verse
@@ -40,7 +26,6 @@ But see note 31 in R. Salomon: "Occasionally, however, chronograms are
 intended to be read in normal order".
 R. Salomon provides references where you can find lists of words used with
 numerical significance.
-
 In the present case, I suggest ya?a-?ara-kha-care means 2-5-0-?, i.e. ?052.
 ya?a = ayana in sandhi = 2, because the sun has two courses in a year (one
 towards north, the other towards south).
@@ -48,22 +33,14 @@ towards north, the other towards south).
 kha = 0, because the word means vacuity.
 As for cara, I do not know. But the nepalese era starting in 879 CE, if I
 am not wrong, we can surmise that it stands for 1 or 0.
-
 So 0052 of the Nepalese era = 931/32 CE. (I would exclude cara as 0,
 because if the date is 52, I would expect just ya?a?are.)
 Or 1052 of the Nepalese era = 1931/32 CE.
-
 Now you can check these possible dates against the palaeography of the MS.
 And you can check the lists referred to by R. Salomon, looking for cara.
 And colleagues may have met cara in other chronograms and might provide
 confirmation of the corresponding figure?
-
 With very best wishes.
-
---
-
-
-
 Emmanuel Francis
 Charg? de recherche CNRS, Centre d'?tude de l'Inde et de l'Asie du Sud (UMR
 8564, EHESS-CNRS, Paris)
@@ -74,39 +51,4 @@ Associate member, Centre for the Study of Manuscript Culture (SFB 950,
 Universit?t Hamburg)
 http://www.manuscript-cultures.uni-hamburg.de/index_e.html
 https://cnrs.academia.edu/emmanuelfrancis
-
 2016-08-01 23:10 GMT+02:00 Justin Fifield <aksobhya.buddha at gmail.com>:
-
-> Dear list,
->
-> In manuscript E 1160/3 of the National Archives of Nepal (Nepal German
-> Manuscript Project)--also cataloged by the Asha Saphu Kuti as 5229--the
-> following colophon is given at the end of the text:
->
-> nep?lavar?e ya?a?arakhacare vidy?nandena likhita? hi ?ubha? bh?y?t ||
->
-> Does anyone know what "ya?a?arakhacare" designates?
->
-> Attached is a photo of the folio (if it goes through).
->
-> Thanks for any help.
->
-> - Justin Fifield
->
-> fifield at fas.harvard.edu
->
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160802/d371c7f4/attachment.htm>
-

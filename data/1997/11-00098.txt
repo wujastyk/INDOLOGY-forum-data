@@ -1,22 +1,5 @@
-From jacob.baltuch at EURONET.BE  Mon Nov 10 18:53:13 1997
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Mon, 10 Nov 97 19:53:13 +0100
-Subject: IE & Semitic roots. Was: Script on excavated terracotta seals              from Harappa deciphered????
-Message-ID: <161227033560.23782.15449693610451719929.generated@prod2.harmonylists.io>
-
+IE & Semitic roots. Was: Script on excavated terracotta seals              from Harappa deciphered????
 Luis Gonzalez-Reimann wrote:
-
->I'm not sure I understand what you mean by IE roots not having an intrinsic
->vowel.  When you state an IE root, it has a vowel.  Say, for instance, *paa
->(Skt. paal); *men (Skt. man); *deik (Skt. dRz); *do (Skt. daa); *dus (Skt.
->duS).  There are also IE roots that consist solely of vowels; such as *ai,
->*ei, *o.  These can then have different grades.  (I am using Calvert
->Watkins' simplified notation).
-
->On the other hand, when you state a Semitic root there are no vowels, one
->has to provide them. Yes, there are fixed patterns for applying the vowels,
->they are necessary for vocalizing, but they are not part of the root.
-
 Well what I was trying to say was that if one looks closely, maybe
 there isn't that much difference between how IE roots work and how
 Semitic roots work, in _this respect_ whereas there is an essential
@@ -27,24 +10,19 @@ obviously much more fundamental features the Semitic system and the
 IE/Sanskrit system are very far apart. But a diachronic relationship
 and a synchronic resemblance (especially on one limited point) are two
 different things.
-
 Someone said an IE is root is normally given as *CeC. So what? An Arab
 when talking of the root QTL might say 'qatala'.
-
 In either case (IE and Semitic) the vowel is not _normally_ part of
 the meaning of the root (ok, with exceptions for IE). All the meaning is
 in the consonants. The possible grades (not all attested of course for
 all roots) are the same in principle for all roots, e, e:, o, o: or zero.
-
 I mean the very _fact_ that you can say the root is normally given as CeC
 shows that the vowel is not intrinsic. If the vowels _were_ intrinsic
 you would have roots CeC but also roots CoC etc. (Compare with Sanskrit
 where the vowel is part of the meaning of the root: 'dih' is not the
 same root as 'duh').
-
 Yes there are many exceptions in IE but the basic pattern of an IE root
 is *CeC where e is not part of the meaning, only the consonants are.
-
 The case is essentially different with Sanskrit root where the roots
 'dih' and 'duh' mean something different and their different grades
 look essentially different: dih, deh, daih in one case, duh, doh, dauh
@@ -52,35 +30,23 @@ in the other). In Sanskrit the vowel is intrinsic. It changes the
 meaning. In IE (and Semitic) the vowel(s) is (are) just part of the
 conventional way to state the root. But the meaning of the root is
 all in its consonants. (For the 3rd time: with exceptions in IE)
-
 Maybe you find it shocking that Sanskrit roots are on one side
 and Semitic/IE roots on another side (using the criteria whether
 the vowels are part of the meaning), but if you look at it objectively
 I think you can't get away from it. That doesn't change the fact
 that in many more much more important respects the Sanskrit and IE
 root system are much closer and both far apart from the Semitic system!
-
 Also the fact that _diachronically_ the grades of a Sanskrit root
 go back to the grades of an IE root doesn't change the fact that
 _synchronically_ the system looks different in this _one, _minute_
 respect of whether the vowels are normally part of the meaning or not.
-
 Anyway, I did not mean to start an argument. I thought that was
 more or less obvious and just an amusing limited observation. If anyone
 has a problem with this I'll be happy to drop it.
-
->In fact, vowels are not part of Semitic alphabets, whereas IE alphabets (as far
->as I know) all include the vowels.
-
 Well by and large, but don't forget the use of ' (alif), y and w as
 matres lectionis for long vowels.
-
 Plus I'm not sure what the writing systems have to do with all of this.
 Language is one thing. The writing system is another. I can write Hebrew
 with a Latin alphabet. That doesn't make it an IE language. Maybe it is
 good to keep the two issues separate. What the Semitic roots are or are
 not has nothing to do with how the language is written.
-
-
-
-

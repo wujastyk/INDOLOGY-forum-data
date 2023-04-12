@@ -1,24 +1,6 @@
-From jonathan.silk at YALE.EDU  Mon Mar  1 13:29:24 1999
-From: jonathan.silk at YALE.EDU (jonathan silk)
-Date: Mon, 01 Mar 99 08:29:24 -0500
-Subject: Yet another areal feature in SA languages?
-In-Reply-To: <36DA27F5.F3BCFF4D@ipc.hiroshima-u.ac.jp>
-Message-ID: <161227047110.23782.11722477992494950746.generated@prod2.harmonylists.io>
-
+Yet another areal feature in SA languages?
 Since this now has nothing to do with Indology, I'll make this the last:
-
->Regarding the Japanese -te shimau connection, it is to be noted that the
->completive aspect of this construction applies throughout *all* tenses
->and forms, and is not limited to the past.
-
 yes, this is correct.
->
->The feature of undesirability however is characteristic for the past
->tense -te shimatta, and even then it is not always present. As an
->example, the grammar book cites "boku wa osake o nonde shimatta" which
->could mean, depending on the situation, (a) I finished drinking sake,
->(b) I drank sake (which I shouldn't have done).
-
 Neither I nor Birgit (nor Michael Witzel, I may add) are native speakers of
 Japanese. But according to my wife, who is a native speaker, there
 certainly *is* a negative connotation in this expression; my wife says it
@@ -31,22 +13,8 @@ undesirable; I drank all the sake, so there's none left for you! (there's
 only beer left) = boku wa osake o nonde shimatta; biiru shika nokote inai.
 Whether that's really undesirable depends on the friendship with the
 guest...
-
-
->As should become obvious from these examples, it is not really
->meaningful to analyze features such as the (un)desirability of an
->action/state under the heading of verb *aspect*; they are better treated
->in the domain of pragmatics, i.e. as situation-dependent attitudes on
->the part of speakers/hearers.
-
 Perhaps this is so in general, but at least with this particular
 construction, aspect seems fine.  We need the comments of a Japanese
 linguist, I think...  But privately I think.
-
 Jonathan SILK
-
 jonathan.silk at yale.edu
-
-
-
-

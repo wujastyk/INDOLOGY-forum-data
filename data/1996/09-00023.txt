@@ -1,9 +1,4 @@
-From tantrapl at hektor.umcs.lublin.pl  Sun Sep  8 12:46:08 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Sun, 08 Sep 96 14:46:08 +0200
-Subject: typing Sanskrit
-Message-ID: <161227025914.23782.5907981008864632999.generated@prod2.harmonylists.io>
-
+typing Sanskrit
 This is an answer to G. Huet who is a lexicographer and definitely
 a man of wast experience in rendering Sanskrit. I would not like 
 to deny any of his statements. In fact, I lack knowledge on many issues
@@ -14,21 +9,9 @@ which are not expert philologist and computer wizzard but would like to
 discuss Indian problems while using some system of transcription which is
 easy to learn, convenient to type, and close to the international
 transcription.
-> First of all, let us not confuse 3 completely different views of
-> computerized sanskrit:
-> 1. What actual keys you type on your keybord when inputing
-> 2. What ASCII characters get entered in the computer text file
-> 3. What printing characters you get when you process this file with
-> a text processing system, either on paper or on your computer screen.
-> 
-> What happens at 1 is basically your own problem: no two keyboards are the same,
-> different operating systems interpret keys differently, you may customize your
-> favorite text editor with macro-characters, etc etc 
-> No need of standardisation here, everyone manages his own input convention.
 	I am glad to get support for my distinction between production and
 presentation and I think it is important to further distinguish between 1
 and 2.
-
 I think many keyboards are very similar and the number of popular text editors
 is limited but principally it is true that one can customize this or that to
 get an expected result on a screen or paper. However customization requires
@@ -42,19 +25,6 @@ often inconvenient procedures while typing say a text in German or Polish
 about Indian words for this discussion list or "usenet news" it could be 
 good to have a possibility of typing without using keys like ctrl and alt 
 (I imagine in German you would have to use some of the keys very often).  
-  
-
-> 2 is important, because it is computer files which are shipped around and
-> processed by computer tools on which we must agree. But, as Dominik said
-> many times, it does not really matter what is the convention as long as it
-> is unambiguous, since these conventions are parseable with easy grammars
-> amenable to tools such as oak/sed/lex/yacc/perl etc to translate into each
-> other. 
-
-> The second mode permits the TeX processing convention for diacritics,
-> so that my romanized transliteration at level 3 will be with standard
-> REAL diacritics (i.e. not prefix or infix, but two-dimensional with a nice
-> dot below the "s"). 
 However, people don't use much TeX for less specific tasks. I am not sure it
 it ever will be as popular as Word or WordPerfect and I am not sure if it
 can be easily applied for post editor.
@@ -62,11 +32,9 @@ I would like to thank for the explanation of point 2. It helped to realise
 the problems which are important. However, I don't quite know if it could
 be possible to accept a convention of write eg s_  instead of .s. Judgeing
 by D. Wujastyk and G. Huet words it could be possible. 
-> I hope I did not add to the confusion...
 No, definitely not. You simply helped to realize the complexity of the
 problem. While my preocupation were points 3) and (a little) 1)
 G. Huet seems to concentrate on 2).
-
 I have to say I cannot give definitive answers on how one should render
 Hindi words. My general idea is the rendition should not be essentialy
 different from the proposed scheme for Sanskrit and it should take into
@@ -82,16 +50,3 @@ lines of it please do. I am not sure if this could be a subject of general
 discussion on the list. Maybe it is better to shift it to private post.
  Thank you,
 		Leslaw Borowski
-
-
- 
-> 
-> 
-> 
-> 
-
-
-
-
-
-

@@ -1,9 +1,4 @@
-From SILK at AC.GRIN.EDU  Wed Feb  1 17:13:34 1995
-From: SILK at AC.GRIN.EDU (SILK at AC.GRIN.EDU)
-Date: Wed, 01 Feb 95 11:13:34 -0600
-Subject: Taking proper care when in search of data
-Message-ID: <161227018356.23782.10115727286549746426.generated@prod2.harmonylists.io>
-
+Taking proper care when in search of data
 David Magier recently gave some very useful and important tips on reference
 searching, including information on CARL UNCOVER.  In that context he
 mentioned the possibility of ordering  "full-text copy of many articles by
@@ -13,14 +8,5 @@ EXTREMELY UNWISE to enter confidential data such as one's credit card
 number on any form of electronic system, such as the internet.   There is
 no way to control access to this information, and the possible  results are
 not happy to contemplate.  We should all beware.
-
 Jonathan Silk
 SILK at AC.GRIN.EDU
-
-
- 
-
-
-
-
-

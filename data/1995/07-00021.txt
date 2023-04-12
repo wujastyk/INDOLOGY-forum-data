@@ -1,19 +1,10 @@
-From vidynath at math.ohio-state.edu  Wed Jul  5 21:02:49 1995
-From: vidynath at math.ohio-state.edu (Vidhyanath K. Rao)
-Date: Wed, 05 Jul 95 17:02:49 -0400
-Subject: Critical editions and .Rksa.mhita
-Message-ID: <161227019910.23782.17847062000774544472.generated@prod2.harmonylists.io>
-
-
-
+Critical editions and .Rksa.mhita
 I have a couple of questions concerning two points made about critical
 editions and the .Rksa.mhita.
-
 Firstly, there was the remark that there is no `critical edition' of
 the .Rksa.mhita. I remember reading somewhere (Gonda's book on
 Vedic literature?) that there are no variations among the manuscripts
 of the .Rksa.mhita. Can someone clarify this point?
-
 Second concerns Profesor Witzel's remark about the oral tradition of
 .Rgveda being a `tape recording' of the text circa 10th century BCE.
 Every discussion of the textual history of the sa.mhita and pada paa.thas
@@ -24,12 +15,4 @@ vowels i, ii u, uu .r, at the end of a word, are not replaced by a
 semi-vowel when a vowel follows, but only shortened. I do not remember
 the books of Staal or Howard about Vedic recitation saying anything
 about this either.
-
-
 Nath Rao (natharao+ at osu.edu)		614-366-9341
- 
-
-
-
-
-

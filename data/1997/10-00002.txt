@@ -1,47 +1,25 @@
-From martinez at EM.UNI-FRANKFURT.DE  Wed Oct  1 10:02:14 1997
-From: martinez at EM.UNI-FRANKFURT.DE (Javier Martinez Garcia)
-Date: Wed, 01 Oct 97 11:02:14 +0100
-Subject: Confs. 6. Int. Conf. - Use of Computers in Historical and              Comparative Linguistics
-Message-ID: <161227032873.23782.133410452962448820.generated@prod2.harmonylists.io>
-
+Confs. 6. Int. Conf. - Use of Computers in Historical and              Comparative Linguistics
 This message has been sent to several  Lists . Apologies for
 cross-postings!
-------------------------------
-
             6. International Conference about the Use of Computers
                      in Historical and Comparative Linguistics
                        Frankfurt a.M., 21.?24. October 1997
-
                                  2nd circular
-
-
       This is the second circular concerning the 6. International
 Conference about the Use of Computers in
       Historical and Comparative Linguistics. It is being distributed to
 all those who have registered for
       participation and contains:
-
-
             I. The preliminary conference programme
             II. A preliminary list of participants
             III. Information materials about Frankfurt
-
-
       The materials as enclosed here can also be found under the
 following internet address (URL):
       http://titus.uni-frankfurt.de/curric/frankf-97b.html
       We look forward to meet you in Frankfurt!
-
-
-
                                      J.
 Gippert                                F.J. Mart?nez Garc?a
-
-
-
       Preliminary Conference Programme
-
-
             Di. 21.10
             10:00 Begr??ung
             10:30 Josef Wallmannsberger -- Corpora travelling on a
@@ -51,12 +29,8 @@ shoestring: The ?arte povera?
             11:30 Cirilo Garc?a Rom?n -- La elaboraci?n electr?nica de
 ?ndices y concordancias de
             textos biling?es: soluciones pr?cticas a problemas t?cnicos.
-
             12:00 Fco. Javier Mart?nez Garc?a -- ??
-
             -- Mittagspause --
-
-
             14:30 Eva Maria Lill -- The future user of a dictionary -
 will he be better informed than
             ever? The use of machine readable full texts and electronic
@@ -65,12 +39,9 @@ facsimiles in the making of
             15:00 Klaus B?rger -- Flexionsmorphologie der deutschen
 Verben der
             Gegenwartssprache. Entwicklung einer Datenbank im Rahmen der
-
             Nat?rlichkeitstheorie.
             16:00
             16:30
-
-
             Mi. 22.10
             10:00 Daniel Ria?o Rufilanchas -- An?lisis y etiquetado
 sint?ctico del corpus de los
@@ -82,10 +53,7 @@ Indoeuropean
             11:30 Arash Zeini -- Ein Digitales Iranisches W?rterbuch
             12:00 Jes?s-Luis Cunchillos Ilarri -- El Analizador
 Morfol?gico Ugar?tico
-
             -- AUSFLUG --
-
-
             Do. 23.10
             10:00 Istv?n. S. B?tori -- Das Projekt UEDB
             10:30 Hansje Braam -- CALC Project (Central Asian Languages

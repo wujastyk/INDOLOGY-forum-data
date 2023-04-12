@@ -1,52 +1,12 @@
-From mmdesh at UMICH.EDU  Wed May 19 15:26:12 2010
-From: mmdesh at UMICH.EDU (Deshpande, Madhav)
-Date: Wed, 19 May 10 11:26:12 -0400
-Subject: FW: [INDOLOGY] order of letters
-In-Reply-To: <3AF9B038A6B07641B36C799ED4EBB0D713E319AE64@ITCS-ECLS-1-VS3.adsroot.itcs.umich.edu>
-Message-ID: <161227089646.23782.2141920618294240133.generated@prod2.harmonylists.io>
-
+FW: [INDOLOGY] order of letters
 Dear Colleagues,
-
 Even the great Panini did not include the sounds (anusv?ra, visarga, jihv?m?l?ya, upadhm?n?ya and the so-called yamas) in his ?ivas?tras.  They are called ayogav?ha sounds.  The tradition incorporates them in two places in the ?ivas?tras (so that they can be included in the two separate praty?h?ras: a? and ?al).  The jihv?m?l?ya and upadhm?n?ya are lost in most common writing forms, and are expressly lost in some Vedic schools like the M?dhyandina Yajurveda.  The two surviving sounds, the anusv?ra and visarga are conventionally accommodated at the end of vowels and represented as a? and a?.   This lack of a fixed location for these sounds has created a free-for-all pattern in modern dictionaries.
-
 Madhav M. Deshpande
-
-________________________________________
-From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Elena Bashir [ebashir at UCHICAGO.EDU]
 Sent: Wednesday, May 19, 2010 10:02 AM
-To: INDOLOGY at liverpool.ac.uk
-Subject: Re: [INDOLOGY] order of letters
-
+Re: [INDOLOGY] order of letters
 This would seem to be an important issue for electronic dictionaries -
 in connection sorting and searching.
-
-
 On 5/19/2010 8:38 AM, Herman Tull wrote:
-> I am putting together some simple rules for first year students.  In
-> dealing with the order of the letters, there is the ever present
-> confusion over the placement of anusvAra and visarga.  I notice that
-> Monier Williams and Macdonell are consistent in their placement of the
-> anusvara (placing it after the vowels when it precedes the semi-vowels
-> or the sibilants).  But, they seem not to agree on the placement of
-> the visarga.  Macdonell follows the rule that he states in his student
-> grammar (p. 3), that the visarga follows the vowels when it precedes
-> "k" and "p" and that it when it precedes a sibilant it is placed in
-> the consonantal order of the sibilants.  E.g., on p. 17 of his
-> dictionary he has an article for antaH-ka... and then on p. 18 he has
-> the article for antaH-sa...
->
-> Monier-Williams, on the other hand, combines this all into one article
-> (p. 43, "antaH"), and so does not distinguish between visarga before
-> "k" and "p" on the one hand, and before the sibilants on the other,
-> treating all of it as if it precedes "antar" (which seems incorrect,
-> since antaH-sa would not precede antar according to the rule).
->
-> A small matter (especially with the advent of the electronic
-> dictionary), perhaps, but can anyone shed light on this?
->
-> Herman Tull
-
---
 E. Bashir, Ph.D., Senior Lecturer in Urdu
 Department of South Asian Languages and Civilizations
 The University of Chicago, Foster 212
@@ -54,7 +14,3 @@ The University of Chicago, Foster 212
 Chicago, IL 60637
 Phone:  773-702-8632
 Fax:    773-834-3254
-
-
-
-

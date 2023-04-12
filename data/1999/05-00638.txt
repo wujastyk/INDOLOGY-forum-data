@@ -1,24 +1,9 @@
-From witzel at FAS.HARVARD.EDU  Sat May 29 14:53:04 1999
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Sat, 29 May 99 09:53:04 -0500
-Subject: Gentoo studies (details on SR)
-In-Reply-To: <Pine.LNX.4.10.9905271809160.15230-100000@zeus.ia.net>
-Message-ID: <161227049666.23782.17331918511753117673.generated@prod2.harmonylists.io>
-
+Gentoo studies (details on SR)
 The rest of my post re: SR  is probably  useless for him (since he *knows*
 already) and for persons of his mindset. I suggest to them to stop reading
 right here. Others may (?) be interested.
-
-
 MW
 ===================
-
->>  popular etymologizing of
->> Yaaska is interesting  as such (and a valuable document of *his* time), not
->> as a help to decipher a Rgvedic stanza.
->If that be a consideration, then the same criticism could be made of any
->work whatsoever, ..., including yourself.
-
 Again, no idea of historicity and one's consciousness of being bounded by
 one's own time frame. The difference between Yaaska and us today is that
 he, firmly rooted in his tradition, guesses as to the meaning of words
@@ -26,18 +11,8 @@ he, firmly rooted in his tradition, guesses as to the meaning of words
 explanations and only then decide, based on  on attestation, context,
 related languages, etc. (see again K.Hoffmann, on how to establish
 etymologies, in:   Aufsaetze zur Indo-Iranistik, Wiesbaden 1991).
-
 <MIMAMSA>
->> Why? First, it is post-Vedic, second it deals mostly with prose sentences
->> in the Brahmanas, third it is interested in ritual procedures.
->There are several unwarranted assumptions made: that the Vedas can be
->accurately dated to a certain time, that anything that comes after this
->accurate date is of limited value, that the Brahmanas are not part of the
->Vedas themselves, and that interest in ritual is a limitation.  I will
->deal primarily with the second of these here.
-
 All of these are  just SR's assumptions, not mine:
-
 Of course the Veda, like any text, can be dated once one finds the right
 means. E.g., one cannot date the RV in 7000 BCE as it has copper/bronze
 implements, and with good reasons not below 1200 BCE as it has no evidence
@@ -45,52 +20,25 @@ of iron.
 But it is full of horses and chariots. There are no horses (in stratified
 archaeological contexts) in all of South Asia BEFORE 1700 BCE , etc. etc.
 One can see how we get closer and closer to the date ...
-
 Anything after the RV is NOT "of limited value", just of  limited value as
 to the *interpretation* of the BY THEN already archaic RV. (So, what about
 Yaska,Sayana?)
-
 Brahmanas of course are part of the Vedas, they are just later than the RV:
 after all, they quote from the already *closed, collected* RV...
-
 Early Mim. has a special interest in ritual, but the RV *also* is
 complicated late-Indo-European, Indo-Iranian poetry, -- one among many
 other items.
-
 So *what* is SR talking about?
-
-
 <VEDA STUDY>
-
->> > Why do you think the classical period of study of the Vedas is 12 years?
->> Not to study Mim., but to learn one's Veda by heart and to study ritual.
->A gross oversimplification, but we won't press it.
-
 Read the Krsna YV Maitrayani Samhita, it will tell you! (of course, there
 is no commentary or translation of this text)
-
 <ITIHASA>
-
->> > Also ...`itihAsapurANAbhyAM veda samupabR^iMhayet', etc.
->> A post-Vedic statement and already biased by its very timeframe.
->Why, doesn't
->  itihAsapurANAder vedamUlatva-kAraNAt.h  |
->  prAmANyaM nAnyathA tasya prAmANyam upapadyate  ||
->  (Sureshvara, bR^ihadvArtika II-4-319)
->sound sensible?
-
 According to later tradition yes. But the RV or even other early Samhitas
 do not say so. (Where? SR did not answer...)
 Who cares what Sur. or Gonda think -- as long as they cannot prove that
 their interpretation is RV-immanent? And as long as the do not show the
 original intent of its authors (sorry, of its "no author"!)
-
 <INTERPRETATION, again >
-
->  .... for reason of being
->post-Vedic, then one needs must observe that *you*, being post-Vedic, can
->say nothing about the Vedas either.
-
 This kind of logic may look nice in perfect isolation, but neither do I
 play an ancient vivaada game here, nor am I fearing to loose my head:
 SR simply shows that he does not know at all what I am talking about.
@@ -99,17 +47,9 @@ Again, Philologists try to approach & approximate the "original intent" (of
 the RV) , not its understanding by a medieval philosopher, a modern
 believer or a modern casual reader. After 150 years of controlled
 experiments, we are closer than Yaska.
-
-
 <MORE INTERPRETATION>
-
->... then the Vedas must be completely opaque to us, since no possible
->direct knowledge of them could exist now, given the efflux of time, and
->since anything that came in between would be ruled out by your paradigm.
-
 Nice logic, but see above. -- And we have MANY means to approach these
 ancient texts .
-
 Note : If "western" approaches would not work, then we would also have to
 throw out the reading & interpretation of, by 1800 CE still completely
 unknown scripts & texts,
@@ -119,82 +59,36 @@ inscriptions and Maya steles, to mention but a few.
 in the same way with this text. Traditional Christians are not happy about
 it, for example to hear that the Old testament had 3 different
 authors/compilers. But 'we' proceed anyhow).
-
 Why should just the Veda elude us??
 Traditional people such as SR always claim special status for THEIR
 sacred/national texts.
-
-
-
 <ITIHASA>
-
->Difficulties with the texts of the Mahabharata are very well documented
->...Any standard that makes
->such a sweeping dismissal cannot be considered a serious barrier to the
->Mahabharata.
-
 Not to the Mbh, -- just, the *present* Mbh
       ((with all its Greeks, , Sakas, Pahlavas and even the 5th century CE
 (Hara-)Hunas)) ,
 is not  =  *THE* Vedic Itihaasa. And certainly not Vedavyaasa's etc.,
 account of (post-)Battle times.
-
-
 <PANINI>
-
->> >The grammar of Panini, ... does not explain, e.g., the RV
->> grammatical category of the Injunctive ...  Described (and understood)
->>only in 1967 by K.
->> Hoffmann, Der Injunktiv im Veda .
->Good for Dr. Hoffman, and for you, too, but one wonders what crystal ball
->he used to make his determination.
-
 Easy answer:  SLOW READING. And a lot of study of ALL sentences involved &
 comparisons of data, over many years.            Other people use crystal
 balls. Or dark glasses.
-
-
 <LANGUAGE & DATES>
-
->> Language always changes, even Vedic, -- from Rgvedic to Upanisadic
->> language, not to speak of Epic & Classical or modern Sanskrit.
->If that be used as an assumption in dating the various texts involved,
->then it cannot also be offered as a fact arising from said dating.  There
->is a circularity involved in doing so.
-
 I think, I get tired now:  We  date texts with *many* means, e.g., such
 simple ones as the Brahmanas or Upanisads QUOTING the RV text. No
 circularity here, just accumultive evidence.
 By now it should be clear that SR has not read the texts with the open mind
 that they deserve.
-
-
 <EPITHETS>
-
->Does it?  Let's look at just one "epithet" of the RV, shall we?  What is
->the RV's word for "author"?
-
 'author' is not an "epithet'' just a noun. Here SR needs to check his
 ENGLISH dictionary.  --
-
 'inane' as in 'inane contributor' is one, just as 'tradition-blinded' as in
 'tradition-blinded contributor' is one.
-
-
->If you're translating `R^ishhi' as "author," then one cannot agree;
-
 You have to show us WHY? The burden of proof is on SR's side
-
 There is Rsi, there is Kavi (which even means 'poet', later on), there even
 is: mantra-krt (RV 9.114.2) .  How do you make your RV mantra if you are
 not a poet?
 There are dozens of passages which speak of poetic composition by dhii.
 (Here even the maligned J. Gonda's book on Inspiration may help).
-
->the
->Nirukta says `R^ishhadarshanAt.h', pointing to the R^ishhi being "one who
->sees."
-
 Here, Nir. is right as far as the expression for 'conceiving in one's mind'
 is concerned. Why:
 As a study of expressions in the RV and in the Veda in general will show,
@@ -204,63 +98,27 @@ inspired' to 'see/hear'.  --- (after all, we also say "I see!"and mean "I
 understand", and the very word Veda comes from 'to know'   from earlier
 'to see', cf. Latin vid-eo "I see", Engl. wit-ness) .
 Cf. Gondas study.
-
 Andd which apauruSeyatvam told the Rsis to ask for gifts of 100 cows or a
 chariot with slave girls?
-
->Your argument about the RV's "authors" is thus without value.  Further,
->said argument has been rebutted in the RV itself, as I pointed out on
->March 5.
-
 With all that is going on on this list, I have long forgotten ... I may
 look at it some other time.
 I hope the argument is not of the same type as exposed in earlier messages:
 We do not have the time to rewrite SR's RV quotations and wrong
 translations. And I only gave up this amount of time to indicate how far
 blind adherance to Tradition will lead someone. Not exactly hot news...
-
 ApauruSeya-tva:
->> > ...several classical scholars have pointed out that it originates
->>By Sayana, yes, but also by Shankara, Ramanuja, Anandagiri, and Madhva, to
->name a few.
-
 All I asked for was *proof* that this is said in the Vedas, not just
 asserted by later commentators such as Sayana!
-
-
 (IN SUM:>
-
 In short, I echo R.Zydenbosch's statement:
->On Thu, 27 May 1999, Robert Zydenbos wrote:
->
->> I think I discern a fundamental
->> misunderstanding .... Theology is
->> not the same as philology, nor as Religionswissenschaft (what in
->> English is vaguely called 'religious studies'). Later thinkers, also
->> traditionalistic RV scholars, may have interesting things to say
->> about scripture etc., but from a contemporary theological standpoint.
-
-
 But 'we', "western" philologists have no such dogmas.
-
 Just as in natural science, we adjust or change our interpretations when
 new evidence comes up or proof is shown that earlier interpretations were
 misguided or wrong. We keep striving, to quote the Buddha, to *approach*
 the original intent and do not take *anybody's*  (and certainly not our
 colleagues'  !!) word on faith...
-
-
-
-
-
-
  ==========================================================================
 Michael Witzel                          Elect. Journ. of Vedic Studies
 Harvard University                  www1.shore.net/~india/ejvs
----------------------------------------------------------------------------
 my direct line (also for messages) :  617- 496 2990
 home page:     www.fas.harvard.edu/~witzel/mwpage.htm
-
-
-
-

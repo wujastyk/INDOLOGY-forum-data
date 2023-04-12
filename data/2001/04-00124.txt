@@ -1,9 +1,4 @@
-From ucgadkw at UCL.AC.UK  Tue Apr 10 21:59:07 2001
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 10 Apr 01 22:59:07 +0100
-Subject: Staal on Baudhayana
-Message-ID: <161227069063.23782.6076834288389044179.generated@prod2.harmonylists.io>
-
+Staal on Baudhayana
 Prof. Staal has written as follows (apparently this is not in print, I'm
 afraid):
 \begin{quote}
@@ -13,16 +8,9 @@ Chomsky crowd who had asked me how the Indians expressed the theorem. I
 wrote to Hayashi what he thought of it and he said it was certainly true
 that it could be interpreted thus but that the only interpretations he had
 come across were with regard to squares.
-
 It seems unlikely, then (though Takao is may be too careful a philologist
 to have taken that step!) that the Indians thought of other polygons or
 half-circles. Would be fascinating to find evidence.
 \end{quote}
-
---
 Dominik Wujastyk
 Founder, INDOLOGY list.
-
-
-
-

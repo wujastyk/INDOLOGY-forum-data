@@ -1,17 +1,4 @@
-From wujastyk at GMAIL.COM  Sat May 14 09:03:35 2011
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Sat, 14 May 11 11:03:35 +0200
-Subject: xetex-devanagari in TeXlive
-Message-ID: <161227092523.23782.5173068018866569385.generated@prod2.harmonylists.io>
-
+xetex-devanagari in TeXlive
 Thank you very much for this, Daniel!
-
 See: http://www.ctan.org/pkg/xetex-devanagari
-
 Dominik
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20110514/ca6ea305/attachment.htm>
-

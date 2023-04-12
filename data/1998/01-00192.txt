@@ -1,16 +1,6 @@
-From bhk at HD1.VSNL.NET.IN  Tue Jan 20 13:15:09 1998
-From: bhk at HD1.VSNL.NET.IN (Bh. Krishnamurti)
-Date: Tue, 20 Jan 98 18:15:09 +0500
-Subject: solution to the "kuyava' etymology
-Message-ID: <161227034905.23782.4456656591859848163.generated@prod2.harmonylists.io>
-
+solution to the "kuyava' etymology
 At 03:54 20/01/98 EST, you wrote:
-
  >DED 2794
->tuvaRal - raining, drizzling, sprinkling
->tURal - drizzling
->
-
 Exceptions do not invalidate rules. DEDR 3398. In the case of Ta. tuvaR-:
 tu:R-, there is no guarantee that the underlying V2 was a and not i or
 u.Here the ultimate root seems to be *tum- which occurs in a closed syllable
@@ -30,51 +20,16 @@ mosaru > *moyar (no where attested) > mo:r (DEDR 4902)(Ta.has mocar, mo:r,
 Ma. mo:r,Ko. Ka. have the c/s forms); in terms of natural phonology, without
 the intermediate y form, you cannot have contraction. Since it is not
 attested you cannot call the rule is invalid.
-
-
->As for the process of one-way change of "-c-" to "-y-", is it universal? Then,
->can somebody explain the following? In DED, we find the following.
-
->*kAy,  to grow hot, burn, etc. - Ta. kAy; Ma. kAyuka to be hot, To. ko.y-
 (ko.c-) to be hot; Tu. kAyuni to be hot; Go. kAsAnA to become hot.
->*koy, to pluck leaves, flowers, reap, harvest, etc. - Ta. koy; Ko. koy- (koc-)
->to cut; To. kwIy- (kwIs-) to pluck fruits, Go. kOiyAna harvest wheat or crops,
->etc., (M) koidAna to reap; Kur.  khoynA (khoss-) to cut down grass and the
->like with the sickle, mow, reap
->*kAy and *koy are PDr forms reconstructed by Dr. Krishnamurthy in his TVB.
->Clearly, we have here "y" changing to "c"/"s"/"t".  In what way, is the
->"kuyava"/"kucava" problem different, if we assume "kuy" is the base?
-
 Go. ka:s is a restuctured stem from the past ka:si:, just like Modern Telugu
 has ka:s-tu:; I discussed elsewhere how the roots have incorporated tense
 morphemes and got restructured. (Also discussed in TVB); in the case of koy
 what you find in parenthese are past stems with c/t in Sandhi. Kota koy-t
---> koc; so  also Toda; Kur. khoss- is past stem; -ss- is past tense marker
 in Kur-Malto.
-
->Now why do I say, "kuy" might be a possible base. There is a stock Tamil
->expression which is considered by Madras University lexicon as just
->onomatopoetic expression signifying loud complaint. The expression is "kuyyO
->muRaiyO" describing how one laments. It can be interpreted as consisting of
->two words. The second word "muRaiyO" means "Is it lawful/just?". ("muRai"
->means law or justice.) The first part can be interpreted as "O kuy!" calling
->for "kuy". If the original meaning of "kuy" was "some higher authority like
->king or chief", it will make perfect sense. After all, from whom will one seek
->justice?
-
 Telugu also has kuyyo: moRRo:; This root kuy- is related to PD *ku: 'crow,
 cry, shout, call' etc. How in the world can it be the basis of kuy-awa..
 'potter'
 on this root?
-
->This is not as outlandish as one might think. Consider the interjection of
->grief "aiyO". DEDR considers this related to the word "ai" meaning "lord,
->master, husband, king, guru, priest, teacher, father". So DEDR lists the two
->words as 196 (b) and 196 (a) respectively. The meaning of "kuyyO" has not been
->understood till now. Ultimately, this "kuy" may be related to "ku" meaning
->"high place" (or hill as Dr. Krishnamurthy pointed out) which can also be
->applied to a king. Compare the parallel similar concepts in Sanskrit "ka'kuda"
-
 This I must say is imagination running riot; not the science of etymology.
 Thanks.
 Bh.K.
@@ -86,7 +41,3 @@ Hyderabad 500 017, A.P.
 India
 Telephone (R)(40)701 9665
 E-mail: <bhk at HD1.VSNL.NET.IN>[all small letters]
-
-
-
-

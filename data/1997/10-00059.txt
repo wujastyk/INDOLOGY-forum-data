@@ -1,20 +1,5 @@
-From reusch at UCLINK4.BERKELEY.EDU  Mon Oct  6 03:05:40 1997
-From: reusch at UCLINK4.BERKELEY.EDU (B. Reusch)
-Date: Sun, 05 Oct 97 20:05:40 -0700
-Subject: VBA Modul Devanagariconverter is ready!
-In-Reply-To: <UPMAIL16.199710052211230506@classic.msn.com>
-Message-ID: <161227032986.23782.18248304275162286689.generated@prod2.harmonylists.io>
-
+VBA Modul Devanagariconverter is ready!
 At 11:11 PM +0000 10/5/97, Rolf Heinrich Koch wrote:
->
->N o   M a c i n t o s h
->Good luck
-
 That says it all.
-
 Beatrice Reusch
 University of California, Berkeley
-
-
-
-

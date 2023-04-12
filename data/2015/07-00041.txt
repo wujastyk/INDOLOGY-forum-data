@@ -1,140 +1,60 @@
-From LubinT at wlu.edu  Tue Jul  7 20:39:00 2015
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Tue, 07 Jul 15 20:39:00 +0000
-Subject: [INDOLOGY] Religious Literature with Political Purposes
-In-Reply-To: <56FAA727-A955-42DA-BBD3-C5A21F02289E@berkeley.edu>
-Message-ID: <D1C1AA5E.1E616%lubint@wlu.edu>
-
-> Were the people who composed the Rig Veda ?tribal??
-
+[INDOLOGY] Religious Literature with Political Purposes
 Yes, so it seems.
-
-> Is the Rig Veda a ?cult? document?
-
 Yes.
 (at least, when it takes the form of a document, which was a secondary development).
-
-> What would this mean?
-
 It means that is was a collection of poetry made, at least in it surviving form, largely as a ?hymnal? and training text for priests of the hot? group in the ?rauta-yaj?a service (and for many other ritual purposes besides).  Ma??ala 9 is a sub-section consisting entirely of poems praising "Soma as he is becoming pure? at a key point in the Soma ritual.  Ma??alas 1 and 10 contain some other material, but ?cultic text? ? mantras, by virtue of their application in cultic activities ? described the collection well.  ?Cult? of course in the classical sense of ?a particular system of ritual veneration and devotion.?  The various collections of the S?maveda and Y?jurveda were likewise supplied the mantras for the other main groups of officiants.
-
-> 90% or more of the Indian population would not be non-vegetarian
-
 That is precisely the context in which it is a big statement to adopt a vegetarian diet (or norm for temple offerings, as at the Jejuri Kha??ob? temple).  Sanskritization is certainly not the whole story of Indian culture.  It is not even the whole story of commonalities linking the whole cultural region.  But it is certainly a big part of the latter.
-
-> And in the Tamil language, good formal writing, whether by Brahmins or others, scrupulously avoids Sanskrit words.
-
 The fact that scruples are needed for this, I think, testifies to the presence of the effects of past Sanskritizing, doesn?t it?  Latterday anti-Brahmanism, and Dravidian linguistic purity, is precisely a counterpoise or resistance to the opposite pressure, or its traces anyway.
-
 And strictly speaking, though the use of obvious tatsamas can be avoided, it is hardly possible to speak Tamil without using words that originated as Indo-Aryan loans (e.g., from Prakrit).  Those are there as a result of influence from the north, mediated through political developments and cultural cosmopolitanism, much of which was not Sanskritization in the narrowest sense, but some of which was, arguably.  Multifarious, no doubt, and partial (or limited more to some spheres than others), but one of the factors to be considered from early on.
-
 TL
-
-
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of George Hart <glhart at berkeley.edu<mailto:glhart at berkeley.edu>>
-Date: Tuesday, July 7, 2015 at 3:54 PM
-To: Indology List <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Religious Literature with Political Purposes
-
+Re: [INDOLOGY] Religious Literature with Political Purposes
 Dear Timothy,
-
 I?ll grant your point that ?tribal? is not necessarily pejorative, though it has been used that way. The bigger problem with it is that it is nebulous. Were the people who composed the Rig Veda ?tribal?? Is the Rig Veda a ?cult? document? What would this mean? Certainly one could argue that the Rig Veda was both of these things. Instead of ?tribal? would it not be germane to actually name the group (or ?tribe?) involved? That would certainly make things clearer. ?Folk? is another problematic term. Instead of ?folk? it would be good to be more specific. (And let?s not get into ?little? and ?great? tradition?.)
-
 The problem with the term ?Sanskritization? in my view is that it?s a mask or calk put over a system that has an almost endless number of processes going on at once. If a South-Indian Brahmin goes into a village and asks people about their culture, they will tell him something they think will make him respect them. It may or may not reflect what they actually do or believe. If an upper-caste non-Brahmin does the same thing, they will probably say something quite different?and that may not be accurate either. In Tamil Nadu among some groups (e.g. Chettiars), the use of Tamil and the Tamil tradition is a sign of higher status. They eschew Sanskrit. And in the Tamil language, good formal writing, whether by Brahmins or others, scrupulously avoids Sanskrit words. Even in a language like Malayalam, which uses practically the entire Sanskrit lexicon (and, indeed, extends it), using indigenous Malayalam words does not lower the status of writing, as a glance at the Manipravalam works in the language shows. If you go among such many non-Brahmin groups in South India, you?ll find that the last thing they wish to do is emulate Brahmins. That, at least, is my experience, not only with Tamil groups but also with people from Andhra and Kerala. There is no doubt that the work of Srinivas has validity, but I think it?s important to realize that he brings out only one perspective on a very complex system. If Sanskritization were as thorough-going as you suggest, 90% or more of the Indian population would not be non-vegetarian. I am not against giving the Brahmins their due. Their influence has been pervasive and long-lasting. But at the same time, village India is full of worlds in which Brahmins and Brahmanical ideas scarcely enter. To see the entire culture in terms of Brahmins or Sanskritization is simply inaccurate, in my opinion. George
-
 On Jul 7, 2015, at 12:03 PM, Lubin, Tim <lubint at WLU.EDU<mailto:lubint at WLU.EDU>> wrote:
-
 Prof. Hart,
-
 The spirit of your point is commendable, but I would like to urge some caution on the specifics.  First, the example you cite in the first paragraph are not quite analogous.  The "n-word? and ?untouchable? are labels exclusively used to denigrate and enforce hierarchical subordination.  In the case of the word ?tribal? (and of course ?tribe?), it really much more depends on context.  In anthropological and social historical scholarly discourse it is usually intended as a value-neutral descriptor for a sort of social and political organization, and many of the cultural factors that tend to accompany tribal organization.  In other contexts, especially in popular usage, it can take a pejorative tone, but even there, no necessarily, I think.  And of course I don?t mean to overlook the fact that earlier (esp. colonial-era) scholarship betrayed some ?unscientific,? prejudiced attitudes or assumptions about such groups.  But we know that they were apt to betray such attitudes about other Indian groups as well.  For that matter, Brahmins often got tarred as obscurantist, superstitious, etc.
-
 To my mind, the bigger problem with the category of ?tribal? is that it over-homogenizes.  But I don?t think ?indigenous? solves that problem, and may get us into further murkiness if it is understood as ?aboriginal? or ??div?s?,? since that raises often unanswerable questions about who got here first, who has prior claim, etc., not to mention the politics of Indo-Aryan or Dravidian nationalism.  But there are certainly times when one needs some word to use when observing common (if not universal) features of such groups.
-
 As for ?Sanskritization,? this concept still has a lot of utility in my view, and the usual objections raised against it, including those offered here, seem to miss the point.  Sanskritization need not imply the presence of a fully homogeneous culture, the presence of a large or increasing number of Brahmins, or the actual adoption of Sanskrit language.  If refers either:
-
 (1) to a "bottom-up? process in which a particular social group publicly begins to adopt certain practices or norms otherwise associated with putatively ?higher? castes, which usually includes the adoption of ritual or dietary practices advocated in Sanskrit texts (though direct appeal to Sanskrit texts is not necessarily involved ? the whole process may be mediated through vernacular sources, though part of the process tends to be an increasing use of ?Sanskritic? terms and registers of the vernacular.  (This was what Srinivas was talking about.)
-
 or (2) to a more ?top-down? process in which political or other social elites adopt a policy of fostering ritual, dietary, etc., norms derived from Sanskrit discourses or the usage of Brahmins and other already-more-Sanskritized groups.  (See Eschmann & Kulke et al.?s Orissa Research Project publications, but many many others.  I would mention Sontheimer on the worship of Kha??ob? as well, and the whole sthalapur??a phenomenon.)
-
 Both types of process may be involved simultaneously, of course.  Now discomfort with the word ?Sanskrit? has led to some people preferring to speak of Hinduization (which may be appropriate where markedly un-Sanskritic cultural features are adopted by groups such as the ones habitually called tribes in India, but in practice it seems to me usually to amount to the same thing as Sanskritization.   One sometimes sees ?Brahmanized,? which is all right if one is speaking of the spread of loosely ?Brahmanical? ideas or practices, but it is more misleading insofar as it seems to imply that Brahmins are the direct model of emulation, rather than certain habits (e.g., vegetarianism, patronage of Brahmin priests, use of Sanskrit mantras, wearing of the thread) that can be observed in use more widely.
-
 Other directions of emulation certainly exist. Kulke, speaking of Brahmin zamindars emulating K?atriyas, wrote of ?K?atriya-ization.?
-
 Anyway, the fact that Brahmins are such a small minority in most places, and ??dras and other groups so numerous in comparison is no argument against the existence of Sanskritization as a social phenomenon or political policy in particular times and places.  It has taken many different forms, ensuring that India remains a diverse patchwork of cultural cells.  It is just one of the factors in the perpetual negotiations of identity and status in the Indian cultural sphere.  Indeed, the fact that it has been one of the features of that sphere for three millennia despite the small number of actual Brahmins and their changing fortunes over time makes the phenomenon worthy of our attention.  It should not be ignored or denied simply out of a sentiment of ?let's leave off talking about Brahmins and Sanskrit already!? or ?let?s give group X its due, finally.?
-
 Best,
-
 Timothy Lubin
 Professor of Religion and Adjunct Professor of Law
 Washington and Lee University
 Lexington, Virginia 24450
-
 http://home.wlu.edu/~lubint
 http://wlu.academia.edu/TimothyLubin
 https://twitter.com/TimothyLubin
-
 ?
-
-
-
-
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of George Hart <glhart at berkeley.edu<mailto:glhart at berkeley.edu>>
-Date: Tuesday, July 7, 2015 at 1:46 PM
-To: Indology List <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Religious Literature with Political Purposes
-
+Re: [INDOLOGY] Religious Literature with Political Purposes
 Might I gently suggest that words like ?tribal? and ?tribal cults? should be avoided. Like ?untouchable? and the n-word, these words have long been used to marginalize, demean, and patronize various ethnic groups?and they are so nebulous that they have no real meaning (for me, at least). ?Indigenous? might be a good substitute. Words like ?tribal? and ?tribal cult? in my opinion serve to obscure the fact that the groups they are applied to are comprised of human beings whose cultures are quite as complex and sophisticated as the Brahmanical culture to which they are contrasted.
-
 I am also bothered by the use of the term ?Sanskritization,? It is, in my opinion, a simplification of a very complex series of processes and interactions and is, in the end, quite misleading. In most areas, India has a cellular culture. Many different groups with varied identities, histories, practices, social views, etc. exist side by side, interacting with each other in complex ways. People may get status by eating more meat, less meat, or no meat at all, and the same goes for many other practices, beliefs and customs. It is perhaps useful to point out that in a place like Tamil Nadu, about 25% of the people are Dalits (3% are Brahmins). They have their own social hierarchies, no doubt, but they are not driven by ?Sanskritization.? Nor, for the most part, are the great majority of the rest of the people, all of whom are considered ?Sudras? by the Brahmins. George Hart
-
 On Jul 7, 2015, at 5:38 AM, Artur Karp <karp at UW.EDU.PL<mailto:karp at UW.EDU.PL>> wrote:
-
-> two poles: one "sanskritisation", the other "tribalisation".
-
 The question is: who functions in the role of priests at Kamakhya Devi?
-
 Priests of local tribal cults?
-
 If not, I would rather see there not "tribalization", but rather "controlled Sanskritization" of tribal cultural elements, undertaken not by the tribals, but by the local representatives of Sanskritic culture. Motivated, as you have noticed, by the political need to communicate on one hand with the local population, on the other - with the broader network of sub-continental cult/pilgrimage centers.
-
 Artur K.
-
 2015-07-07 12:20 GMT+02:00 Paolo Eugenio Rosati <paoloe.rosati at gmail.com<mailto:paoloe.rosati at gmail.com>>:
 I complitely agree.
 But why "we" talk about "sanskritisation" phenomena if a goddess and her devotional cult are dominated by tribal elements? I would like to describe this goddesses as "tribalised", maybe because they represent a manipulation of the "mainstream" Hindu Devi, to whom are overimposed tribal elements.
-
 If the sanskritisation (or brahmanisation) process can be described as a vertical axis where are different degrees of sanskritisation; maybe we could describe this axis with two poles: one "sanskritisation", the other "tribalisation"... obviously the dialectic between cultures bring to hybrid phenomenon, but in my opinion the Hindu-Assamese culture is widely dominated by tribal traditions, and this probably depend by ancient politic needs.
-
 Best,
 Paolo
-
 P.S.: Maybe someone has a pdf copy of Kunal Chakrabarti "Religious Processes: The Puranas and the Making of a Regional Tradition" (2001).
-
-
 On 7 July 2015 at 11:25, Artur Karp <karp at uw.edu.pl<mailto:karp at uw.edu.pl>> wrote:
 Dear Paolo,
-
-> So that are we sure that Kamahya is a sanskritised goddess? Or should we consider the reverse process? Doesn't seem that were the Hindus to emulate the tribal-men incorporating tribal worship elements?
-
 To my mind, both.
-
 A perfect example of a dialogic situation, whatever the motivation behind the move to set up a new, structurally enriched place of worship and a newly conceived object of veneration.
-
 Best,
-
 Artur
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-
-
-
---
 Paolo E. Rosati
 Oriental Archaeologist
 PhD candidate in Civilisations of Asia & Africa
@@ -145,17 +65,7 @@ paoloe.rosati at uniroma1.it<mailto:paoloe.rosati at uniroma1.it>
 paoloe.rosati at gmail.com<mailto:paoloe.rosati at gmail.com>
 Mobile: (+39) 3387383472<tel:%28%2B39%29%203387383472>
 Skype: paoloe.rosati
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150707/aa103ff3/attachment.htm>
-

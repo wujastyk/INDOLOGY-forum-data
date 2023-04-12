@@ -1,22 +1,9 @@
-From vsundaresan at HOTMAIL.COM  Thu Feb  1 08:42:24 2001
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Thu, 01 Feb 01 08:42:24 +0000
-Subject: SV: Did you hear this?
-Message-ID: <161227066937.23782.11450066799191426819.generated@prod2.harmonylists.io>
-
->I  know that this is not Indology -- but! Can you provide me with a living
->example of evolution? We hear so much about Darwinism and evolution, but is
->it not a case of evolution happened in the past, evolution will happen in
->the future, but evolution is not happening just now?!
->
->I am asking about evolved living entities, not microbes etc.
-
+SV: Did you hear this?
 A question of time scales. Evolution would happen over tens
 of thousands of years, but nobody has lived that long. It can
 be seen as what is called a quasi-steady state approximation.
 There is a long-term time dependence, but this is so slow that
 one would not see changes in the short-term.
-
 Also, there is no one universal view of evolution. What people
 think about it today is approximately neo-Darwinian evolution,
 not strict Darwinism. Some think evolution occurs through
@@ -24,11 +11,5 @@ accumulated changes. Others argue for jerky genetic mutations
 and sudden breaks in speciation events. A few people are even
 reconsidering Lamarckian evolution nowadays. See Science (the
 journal), 7 April 2000, p. 38, and 30 Jun 2000, p. 2318.
-
 Vidyasankar
-_________________________________________________________________________
 Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
-
-
-
-

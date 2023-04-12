@@ -1,56 +1,28 @@
-From r.mahoney at INDICA-ET-BUDDHICA.ORG  Wed May  6 21:46:53 2009
-From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
-Date: Thu, 07 May 09 09:46:53 +1200
-Subject: INDOLOGY updates now on _Twitter_
-Message-ID: <161227086139.23782.6154549929279006322.generated@prod2.harmonylists.io>
-
+INDOLOGY updates now on _Twitter_
 Dear Colleagues,
-
 Lately I've been wondering about the best way to quickly provide
 updates on the INDOLOGY web site and the SARIT Project &c., so I've
 decided to try something new. The existing RSS Feed for the site:
-
  http://indology.info/rss1.xml
-
 is being replaced by a new RSS Feed courtesy of _Twitter_:
-
  *RSS Feed of INDOLOGY's Updates*
  http://twitter.com/statuses/user_timeline/38036206.rss
-
 People are asked to update their feed readers and perhaps consider
 following our updates through _Twitter_ itself:
-
  *INDOLOGY on Twitter*
  http://twitter.com/INDOLOGY
-
-
 For those curious about why _Twitter_ is being tried these links may
 be helpful:
-
  This is how we do it: @nlnz on Twitter (National Library of New
  Zealand / Te Puna M?tauranga o Aotearoa)
  http://tinyurl.com/dx2ktf
-
  Why I Love Twitter by Tim O'Reilly
  http://radar.oreilly.com/2008/11/why-i-like-twitter.html
-
-
-
-
 Best regards,
-
  Richard
-
-
-
--- 
 Richard MAHONEY | internet: http://indica-et-buddhica.org/
 Littledene      | telephone/telefax (man.): +64 3 312 1699
 Bay Road        | cellular: +64 275 829 986
 OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indica et Buddhica: Materials for Indology and Buddhology
-
-
-
-

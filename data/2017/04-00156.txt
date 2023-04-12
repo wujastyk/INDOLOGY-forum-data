@@ -1,106 +1,52 @@
-From camillo.formigatti at bodleian.ox.ac.uk  Mon Apr 24 12:29:49 2017
-From: camillo.formigatti at bodleian.ox.ac.uk (Camillo Formigatti)
-Date: Mon, 24 Apr 17 12:29:49 +0000
-Subject: [INDOLOGY] Sanskrit literature in numbers
-In-Reply-To: <CAGsvHi9oMnMDXQb4PPYgE1_r+0eu2YAOrEjbbp7XtTnTd07Utg@mail.gmail.com>
-Message-ID: <0C647B6E904DBB4BAD3A28D522DC73151DA6BD06@MBX05.ad.oak.ox.ac.uk>
-
+[INDOLOGY] Sanskrit literature in numbers
 Dear Hartmut,
-
 Many thanks for the very swift reply.
-
 I have to confess that I do not understand why you are still replying to my e-mails. I totally agree with all your assessments and I do not see why you seem not to understand it. We all know how difficult it is to work with manuscripts, therefore I expected a more relaxed environment in which to exchange opinions.
-
 As to my article on the history of Sanskrit print, I do not understand what you mean by Shaw-related. I obviously rely on the research of previous scholars, as everybody else does in every field of research. I think this is the spirit of research. I have consulted your catalogue of Sanskrit manuscripts several times and I find it a very useful and good resource.
-
 As to the place and time where and when to have scholarly discussions, you?d be amazed to know that again, I totally agree with you on this one as well. I think that the Indology list is one of the best places to have these type of discussions and this is why I dared to reply to Dagmar Wujastyk?s question.
-
 On the other hand, please forgive me if I felt that we were not having a discussion, but you were trying to convince me that I am wrong about everything. If this is not the case, then I deeply apologize for having misunderstood your intentions. If you are still interested, we can continue our discussion off-line, I?d be more than happy to exchange views with a fellow colleague on the very fascinating issues that you raised.
-
 Best wishes,
-
 Camillo
-
-
-________________________________
-
 Dr Camillo A. Formigatti
 John Clay Sanskrit Librarian
-
 Bodleian Libraries
 The Weston Library
 Broad Street
 Oxford
 OX1 3BG
-
 Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
-Tel. (office): 01865 (2)77208
 www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
-
-From: Hartmut Buescher [mailto:buescherhartmut at gmail.com]
 Sent: 24 April 2017 12:56
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk>
-Cc: Dagmar Wujastyk <d.wujastyk at gmail.com>; indology <INDOLOGY at list.indology.info>; Dominik Wujastyk <wujastyk at gmail.com>
-Subject: Re: [INDOLOGY] Sanskrit literature in numbers
-
->P.S. One small point though: there are printed Sanskrit texts much older than you think.
-
+Re: [INDOLOGY] Sanskrit literature in numbers
 Your own recent Shaw-related assessment (?A Bird?s Eye View of Sanskrit Print Culture?),
 being in this respect similar to the one in Dominik Wujastyk?s (?Indian Manuscripts?, 2011:3f.) short overview (unfortunately omitting any reference to VOHD) represents also
 my state of awareness.
-
-> I believe research publications in every form are the best of way of conveying one?s own
 research and ideas, surely not a mailing list.
-
 Without wishing to defend my vices, this rather socio-historical and politico-philosophical
 issue of the context-related relative merit/benefit for the production and/or provocation of
 insights that contrasts institutional normativity with spontaneous alterity is indeed not suitable to be addressed within the framework of this thread.
-
 All the best, just another Cracking Sound
-
-
 On Mon, Apr 24, 2017 at 11:25 AM, Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>> wrote:
 Dear Hartmut,
-
 Many thanks for the very long and detailed reply.
-
 Unfortunately, as I have repeated many times even in my last e-mail, I do not think that this list is the correct arena to tackle huge problems such as the periodization of Sanskrit literature, the definition of what is a text and many others that you raised?including the definition of what is a manuscript.
-
 At the cost of sounding like a broken record, I constantly deal every day with such questions and I usually think it is better to work slowly and examine as much primary material as possible, before being able to say anything meaningful. It is for this reason that I believe research publications in every form are the best of way of conveying one?s own research and ideas, surely not a mailing list.
-
 I believe it is better if we both go back to our wonderful manuscript collections and continue to catalogue them to the best of our knowledge for the sake of research.
-
 Best wishes,
-
 Camillo
-
 P.S. One small point though: there are printed Sanskrit texts much older than you think.
-
-
-________________________________
-
 Dr Camillo A. Formigatti
 John Clay Sanskrit Librarian
-
 Bodleian Libraries
 The Weston Library
 Broad Street
 Oxford
 OX1 3BG
-
 Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
-Tel. (office): 01865 (2)77208
 www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
-
-From: Hartmut Buescher [mailto:buescherhartmut at gmail.com<mailto:buescherhartmut at gmail.com>]
 Sent: 22 April 2017 09:38
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>>
-Cc: Dagmar Wujastyk <d.wujastyk at gmail.com<mailto:d.wujastyk at gmail.com>>; indology <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>; Dominik Wujastyk <wujastyk at gmail.com<mailto:wujastyk at gmail.com>>
-
-Subject: Re: [INDOLOGY] Sanskrit literature in numbers
-
+Re: [INDOLOGY] Sanskrit literature in numbers
 Dear Camillo,
-
 felt reminded that Gadamer once said, ?dass man anders versteht,
 wenn man ?berhaupt versteht? (?that one understands differently,
 in the case one understands at all?), an assertion that reflects the condition
@@ -125,7 +71,6 @@ but perhaps this is not substantiated by data??).
 Be it in view of comparing it with the literatures of other pre-modern cultures
 or not, how can we assess the size of the pre-modern body of Sanskrit literature,
 in the first place? What are the valid data? How complex and problematic are these?
-
 Given printed books of Sanskrit works (unlike, e.g., Chinese or Tibetan printed works)
 first appear at the end of pre-modern times, these have no substantiating significance
 for the question at hand. Here we seem to agree, as on many other points, which you
@@ -136,7 +81,6 @@ as forming part of our valid data with regard to assessing the magnitude of
 pre-modern works composed (despite differences relative to genres & periods).
 That is, unless your statement ?I fail to see how this is relevant for a count of the
 works composed? was meant to suggest something else.
-
 Of course, as you say, ?what counts is the number of works composed,
 even if lost and known only through indirect transmission?, but where
 ? original Sanskrit works now extant only in the form of translations apart ?
@@ -154,13 +98,11 @@ Thus reemphasizing a number of aspects regarding these complexities
 was likewise meant as a means of refinement addressing mere speculations
 on the basis of educated guesses (Pingree was mentioned earlier) related to
 the vast quantities of MSS lying around in various parts of India (and abroad).
-
 Canonical works in translation (especially Chinese and Tibetan ones), while covering
 mainly specific areas of Buddhist literature, are another vast resource (largely unrelated
 to what today has survived in the form of Sanskrit MSS) for quantitative assessments,
 though not without problems as to what is authentic, what apocryphal (as has already
 been thematized from early on in respectively the Chinese and the Tibetan tradition).
-
 Admittedly, given the conditions of the Indian climate, a major problem
 contributing to uncertainties about the survival rate of works, once produced,
 in the form of extant MSS generated by means of lineages of transmission
@@ -171,7 +113,6 @@ for the extrapolation of useful data. That is, the higher the percentage of work
 we may assume to have been successfully transmitted from generation to generation
 the more significant is what has survived for a quantitative evaluation of what existed
 in an earlier period.
-
 That these lineages of textual transmission have generally disappeared nowadays,
 while it is unclear to what extent contemporary Indian institutional efforts of professional
 conservation may offer sufficiently adequate substitution, is another dilemma.
@@ -182,20 +123,13 @@ taken in 2015 on one of my visits to the University of Madras to get
 the newest volumes of the NCC], this raises the question of how much
 of the material listed in the New Catalogus Catalogorum actually still
 exists, or to what extent are the NCC references increasingly becoming fictive?).
-
 Best wishes for your research project on these topics,
-
 Hartmut
-
 .
-
 On Fri, Apr 21, 2017 at 2:29 PM, Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>> wrote:
 Dear Colleagues,
-
 It seems that my replies have started a discussion in which what I intended to be simply short remarks without any intention of being precise or exhaustive, have been partly misinterpreted. I was simply pointing out my own, little personal experience and random thoughts on this matter.
-
 I will tackle each topic with a separate reply, for the sake of clarity.
-
 ??After all, his assertion (given with reference to ?estimates of the number
 of South Asian manuscripts?) that ?numbers again are simply telling us
 ?in an unreliable way?how many books have survived, not how many works
@@ -203,10 +137,7 @@ were composed? is unfortunately not quite adequate;
 [?]  there is still this
 lingering implicit assumption that a manuscript may be equated with a work/book
 that needs to be radically discarded.??
-
 I thought that all this was implicit in what I wrote and did not need to be further explained, since I supposed I was writing to an audience of experts. I would be a very poor librarian and cataloguer of manuscripts indeed?not to say textual scholar?if I hadn?t already grasped this simple notion after more than a decade spent working with manuscripts and books at various levels.
-
-
 ??Not only do we all as Sanskrit scholars know that the production of a critical edition
 of a single work usually is based on a number of available manuscripts that in fact,
 depending on the work to be edited, may greatly vary from just a few to dozens (& more),
@@ -215,11 +146,7 @@ enormous variation regarding the proportion that exists between a given work and
 the amount of manuscripts transmitting it.
 [?]  as the case may be, crucial textual variants,
 insights into the given textual transmission, etc. ??
-
-
 I fail to see how this is relevant for a count of the works composed. It doesn?t matter how many manuscripts of a given text are extant, nor their condition or philological value, because what counts is the number of works composed, even if lost and known only through indirect transmission. This is precisely one?and I stress only one, lest somebody thinks I am oversimplifying?of the reasons why I said that the numbers of extant books (and I mean books, not only manuscripts, because I was dealing with printed books as well in my article) is not that useful for this type of assessment. I was simply suggesting a bibliographical reference, admittedly in a self-promoting way and albeit not quite relevant, we might argue. Still, I thought it could be a starting point to assess the supposed dimensions of Sanskrit literature vis-?-vis other literatures by using quantitative data at our disposal before applying for a grant to start a research project on the topic.
-
-
 ??On the other hand, huge texts, the more so when provided with a commentary,
 cannot be comprised by single manuscripts, even when complete.
 Presently engaged in describing a so-called Pa??it Collection
@@ -227,23 +154,16 @@ Presently engaged in describing a so-called Pa??it Collection
 I recall, just to give an example, that each of the 12 books (skandha)
 of the Bh?gavatapur??a with ?r?dhara?s commentary Bh?v?rthad?pik?
 conveniently amounted to a separate manuscript. ??
-
 Same as above, this argument was implied in what I wrote and I thought it didn?t need to be expressed for this audience. Nevertheless, I would like to point out that given the very nature of South Asian books, which are (more often than not, again I am writing a short reply and I can?t be exhaustive) bundles of loose leaves, we should be more cautious in cases like this one and maybe consider whether these twelve volumes might were conceived as one single, multi-volume manuscript or not. I am not saying that this is the case for these specific set of 12 manuscripts of the Bhagavatapurana?after all, only the cataloguer can decide and I haven?t seen them?, I?m simply saying that obviously we faced similar challenges while cataloguing the Cambridge manuscripts. We learned very soon that things are often more complicated than we could ever imagine. How do we know that such volumes weren?t meant to be one single manuscript? If they were commissioned by one single person and written within a specific, limited timespan, using the same type of paper etc., then why don?t we consider them as one single manuscript? Is it because the hand changes between the volumes? Even in this case, they were still conceived as a single project, and sometimes in long manuscripts we see different scribes at work (the hand changes amid one single page, and I mean precisely page, not folio), and yet we catalogue them as a single manuscript. Is the foliation not continuous? If not, then we might think that these are indeed separate manuscripts. However, in the case of South Asian manuscritps, in my modest opinion the notion of single manuscript is blurred precisely because of the loose nature of the binding. Yet, there could be cases where even if the foliation restarts and the manuscripts are transmitted separately, they were probably conceived to be a single collection (https://cudl.lib.cam.ac.uk/view/MS-ADD-01709/1). Please note the fact that for these three manuscripts, there is a catch-number linking them, and yet we considered them as separate items and catalogued them accordingly. Did we make the right choice? I?m not sure, for in other cases we decided to group into one single manuscript, and thus one entry, manuscripts that somebody more knowledgeable than us, i.e. Cecil Bendall, catalogued as separate manuscripts, precisely because each part contained a different text (https://cudl.lib.cam.ac.uk/view/MS-ADD-01380-01381/1).
-
-
 ??Yet again, a given MS may likewise, easily in the case of stotras, various kinds of
 ritual texts (and other textual genres), contain many more than just a single work.??
 I?m not sure we want to discuss this matter in a mailing list, because it would raise even more questions than we could easily answer. Again, we discussed similar cases at length in the Cambridge project and we took particular care in our catalogue to represent in a clear, yet precise way even very complex cases of multi-text, composite manuscripts, like this manuscript of the Astasahasrika (https://cudl.lib.cam.ac.uk/view/MS-ADD-01643/1). Please have a look also at this case of a multi-text collection of Avadanas: https://cudl.lib.cam.ac.uk/view/MS-ADD-01615/1, or again at this extreme case: https://cudl.lib.cam.ac.uk/view/MS-OR-02359/1. I will partly deal with this issue and our approach in the article on the history of the Cambridge collections I mentioned some time ago in the list.
-
-
 ??Neither should it be felt as particularly surprising when discovering that
 what at some time had been assembled (and put into an envelope), say, by an owner
 of a Sanskrit collection as if consisting in a single MS turns out, on closer inspection,
 to actually consist in numerous fragments of altogether heterogeneous character
 (in terms of textual sources, scribes, material quality, etc.).??
 We have dealt with a similar cases too, and I ought to repeat that this too was implicit in my very casual remark in my first e-mail on the topic.
-
-
 In other words, given also the published version of the hopefully ongoing project of
 the New Catalogus Catalogorum has (even with the future conclusion of the letter h)
 to be characterized as being, though already advanced, still only a preliminary assessment
@@ -253,36 +173,20 @@ of ?manuscript? itself is considerably complex (on the empirical level of what i
 actually found in Sanskrit collections), thus turning the correlation between MSS
 and proper works into an highly problematic issue, if taken as a basis for quantitative
 estimates of the literary cultures expressed in the medium of that language.
-
 I believe we all agree with this statement and again, I thought all of what I wrote above was implicit in what I wrote in my first, brief reply.
-
 Best wishes,
-
 Camilllo
-
-
-________________________________
-
 Dr Camillo A. Formigatti
 John Clay Sanskrit Librarian
-
 Bodleian Libraries
 The Weston Library
 Broad Street
 Oxford
 OX1 3BG
-
 Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
-Tel. (office): 01865 (2)77208
 www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
-
-From: Hartmut Buescher [mailto:buescherhartmut at gmail.com<mailto:buescherhartmut at gmail.com>]
 Sent: 20 April 2017 19:46
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>>
-Cc: Dagmar Wujastyk <d.wujastyk at gmail.com<mailto:d.wujastyk at gmail.com>>; indology <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>
-
-Subject: Re: [INDOLOGY] Sanskrit literature in numbers
-
+Re: [INDOLOGY] Sanskrit literature in numbers
 Some remarks in addition to Camillo?s reflections seem necessary,
 since there are further reasons ?to be baffled by the fact that it seems
 very difficult to get reliable quantitative data to start with?.
@@ -294,7 +198,6 @@ and if rectified by saying at least ?in an extremely unreliable way?, as is unav
 to do for someone familiar with collections of Sanskrit manuscripts, there is still this
 lingering implicit assumption that a manuscript may be equated with a work/book
 that needs to be radically discarded.
-
 Not only do we all as Sanskrit scholars know that the production of a critical edition
 of a single work usually is based on a number of available manuscripts that in fact,
 depending on the work to be edited, may greatly vary from just a few to dozens (& more),
@@ -304,12 +207,10 @@ the amount of manuscripts transmitting it.
 As to the notion of a ?manuscript? hereby, in lucky cases the given MS is complete.
 Frequently, however, if not most frequently (another uncertain proportion),
 it is fragmentary.
-
 Yet, of course, also fragmentary MSS (be it even one consisting in a single folio or less)
 must be principally regarded as being able to provide valid manuscript evidence,
 supportive readings and, as the case may be, crucial textual variants,
 insights into the given textual transmission, etc.
-
 On the other hand, huge texts, the more so when provided with a commentary,
 cannot be comprised by single manuscripts, even when complete.
 Presently engaged in describing a so-called Pa??it Collection
@@ -317,7 +218,6 @@ Presently engaged in describing a so-called Pa??it Collection
 I recall, just to give an example, that each of the 12 books (skandha)
 of the Bh?gavatapur??a with ?r?dhara?s commentary Bh?v?rthad?pik?
 conveniently amounted to a separate manuscript.
-
 Yet again, a given MS may likewise, easily in the case of stotras, various kinds of
 ritual texts (and other textual genres), contain many more than just a single work.
 Neither should it be felt as particularly surprising when discovering that
@@ -325,7 +225,6 @@ what at some time had been assembled (and put into an envelope), say, by an owne
 of a Sanskrit collection as if consisting in a single MS turns out, on closer inspection,
 to actually consist in numerous fragments of altogether heterogeneous character
 (in terms of textual sources, scribes, material quality, etc.).
-
 Furthermore, to address the problem of quantification from yet another perspective,
 not all the MSS contained in a given collection (like the mentioned Pa??it Collection)
 may a priori be counted as philologically ? implying philology to be a methodologically
@@ -336,7 +235,6 @@ a not all too great, but an uncertain (if tiny) percentage of MSS simply represe
 the work ? throwing tangible light on the sociological aspects of textual transmission ?
 consisting in the more or less clumsy writing exercises by pupils (typically found
 in the areas of both ?ruti and sm?ti).
-
 In other words, given also the published version of the hopefully ongoing project of
 the New Catalogus Catalogorum has (even with the future conclusion of the letter h)
 to be characterized as being, though already advanced, still only a preliminary assessment
@@ -346,113 +244,56 @@ of ?manuscript? itself is considerably complex (on the empirical level of what i
 actually found in Sanskrit collections), thus turning the correlation between MSS
 and proper works into an highly problematic issue, if taken as a basis for quantitative
 estimates of the literary cultures expressed in the medium of that language.
-
 Best wishes,
-
 Hartmut
-
---------------------------------
 Hartmut Buescher, PhD,
 Research Librarian
 The Royal Danish Library, Copenhagen
 (Det Kongelige Bibiliotek)
 [http://www.kb.dk/en/index.html]
-
-
-
 On Thu, Apr 20, 2017 at 12:16 PM, Camillo Formigatti via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 Dear Dagmar,
-
 As to Latin and Greek literature, I believe that choosing a good periodization is difficult, if you want to do it for comparative purposes. Would you consider Byzantine Greek literature or not? If yes, then why not consider Latin literature from late antiquity, medieval times and Renaissance too?  Would it be on linguistic grounds? I think that then you would be forced to compare the periodization let?s say of South Asian or Central Asian history and the history of each language with that of Latin and Greek. Assuming we are talking also of scientific and technical literature, you would also face the issue of assessing the impact of the late diffusion of printing technology in South Asia and on the other hand how this phenomenon might have affected a possible increase in the composition of works in cultures were printing technology was employed early on, such as China and Japan, due to economic reasons. After all, printers and publishing houses wanted to sell more and more books, and in order to do it they had to publish something.
-
 In one of my articles I briefly touched upon the numbers of Latin, Greek, and vernacular languages manuscripts from the 6th to the 15th century as compared to various estimates of the number of South Asian manuscripts, but again, these numbers again are simply telling us?in an unreliable way?how many books have survived, not how many works were composed.
-
 I apologize for the long and unstructured reply, but lately I?ve been fascinated by questions like the one you asked, only to be baffled by the fact that it seems very difficult to get reliable quantitative data to start with.
-
 Best wishes,
-
 Camillo
-
-________________________________
-
 Dr Camillo A. Formigatti
 John Clay Sanskrit Librarian
-
 Bodleian Libraries
 The Weston Library
 Broad Street
 Oxford
 OX1 3BG
-
 Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
-Tel. (office): 01865 (2)77208
 www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
-
-From: Dagmar Wujastyk [mailto:d.wujastyk at gmail.com<mailto:d.wujastyk at gmail.com>]
 Sent: 19 April 2017 17:32
-To: Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>>
-Cc: indology <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>
-Subject: Re: [INDOLOGY] Sanskrit literature in numbers
-
+Re: [INDOLOGY] Sanskrit literature in numbers
 Dear Camillo,
-
 I must admit I am a bit uncertain where to draw the line. Trying to quantify Latin literature, I think I would want total numbers that could then be split up in classical and then everything later? I am not sure what the cut off date would be.
-
 Best, Dagmar
-
-
-
 On 19 April 2017 at 10:19, Camillo Formigatti <camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>> wrote:
 Dear Dagmar,
-
 This is a very interesting question indeed. May I add two other questions to it? Would you like to know the numbers of extant works only or the number of works in general, even if lost? Also, when you write Latin language, for instance, do you mean only classical Latin (whatever this might mean) or every work that has been written in Latin until today (and I?m not thinking of today?s Latin used in the Vatican, I was rather thinking of authors like the Italian poet Giovanni Pascoli (1855 ?1912), who wrote poems in Latin too)?
-
 Best wishes,
-
 Camillo
-
-
-________________________________
-
 Dr Camillo A. Formigatti
 John Clay Sanskrit Librarian
-
 Bodleian Libraries
 The Weston Library
 Broad Street
 Oxford
 OX1 3BG
-
 Email: camillo.formigatti at bodleian.ox.ac.uk<mailto:camillo.formigatti at bodleian.ox.ac.uk>
-Tel. (office): 01865<tel:01%20865> (2)77208
 www.bodleian.ox.ac.uk<http://www.bodleian.ox.ac.uk/>
-
-From: Dagmar Wujastyk [mailto:d.wujastyk at gmail.com<mailto:d.wujastyk at gmail.com>]
 Sent: 19 April 2017 16:53
-To: indology <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>
-Subject: [INDOLOGY] Sanskrit literature in numbers
-
+[INDOLOGY] Sanskrit literature in numbers
 Dear colleagues,
-
 Might anyone be able to point me to a publication/data on the relative quantities of Sanskrit works and other pre-modern works in languages such as Latin, Chinese, Tamil, Arabic or Persian?
-
 We all know that there is a very large body of Sanskrit literature, but how does the number of Sanskrit works compare to works written in other languages? My sense has always been that Sanskrit literature is particularly large, but perhaps this is not substantiated by data?
-
 Best wishes,
 Dagmar Wujastyk
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170424/95a0a8db/attachment.htm>
-

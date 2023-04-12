@@ -4,7 +4,6 @@ published before 1923. So you need an IP address in the
 USA to access these titles (compare the criticism by K. 
 Graf, in
 http://archiv.twoday.net/stories/1073534/)
-
 The way to fool Google is to use a proxy server with an 
 American IP address or an anonymizer. But these services 
 (at least the free ones) generally do not allow 
@@ -14,17 +13,10 @@ in a link to a Google Books entry into the field
 "Translate webpage" and you have access to the otherwise 
 blocked page. But nowadays it may not work properly 
 anymore.
-
 All the best
 Peter Wyzlic
-
---
 Indologisches Seminar der
 Universit?t Bonn
 Regina-Pacis-Weg 7
 D-53113 Bonn
 Deutschland / Germany
-
-
-
-

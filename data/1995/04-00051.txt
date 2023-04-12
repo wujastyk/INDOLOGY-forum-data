@@ -1,23 +1,5 @@
-From yanom at ksuvx0.kyoto-su.ac.jp  Sun Apr 16 23:49:43 1995
-From: yanom at ksuvx0.kyoto-su.ac.jp (yanom at ksuvx0.kyoto-su.ac.jp)
-Date: Mon, 17 Apr 95 08:49:43 +0900
-Subject: Conventions of Indian calendars
-Message-ID: <161227019130.23782.17617111414563460493.generated@prod2.harmonylists.io>
-
+Conventions of Indian calendars
 Frank Conlon asked:
-
->recall that in the definition of months, in north India and south India
->(roughly) there was a difference as to whether the month began with the
->bright (shukla) half or the dark (krishna) half.
->Would some of you be so kind as to refresh my memory as to whether
->
->(1) I am correct in my recollection?
->(2) Which region has shukla or krishna first?
->(3) Can we identify a sort of calendrical frontier where practice changes?
->(4) Does this really mean that if we use a date of shukla 10th of one
->month that in another part of India that day would be recorded as krishna
->of the adjacent month?
-
 Here is my answer:
 (1) Yes, you are correct.
 (2) In general in the north it is 'pUrNimAnta' (full moon ending)
@@ -27,12 +9,5 @@ Here is my answer:
     of my survey.
 (4) Difference of month names occurs only in kRSNapakSa, and there is
     no variation in zuklapakSa, as Dominik said.
-
 Michio YANO
 yanom at cc.kyoto-su.ac.jp    
- 
-
-
-
-
-

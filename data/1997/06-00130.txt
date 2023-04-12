@@ -1,29 +1,14 @@
-From ucgadkw at ucl.ac.uk  Thu Jun 12 11:56:57 1997
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Thu, 12 Jun 97 12:56:57 +0100
-Subject: Tibetan/LaTeX (forwarded query)
-Message-ID: <161227030870.23782.6282724261915491641.generated@prod2.harmonylists.io>
-
-
+Tibetan/LaTeX (forwarded query)
 The following message is from someone who needs help compiling the C
 pre-processor used for the LaTeX+Tibetan text processing system.  If you
 can help, please send your reply not to me (Dominik), nor to INDOLOGY, but
 directly to the originator of the query, Angel Munoz
 (constisevilla at arrakis.es). 
-
 I confess that I am forwarding this to the list partly because I so
 enjoyed the machine translation.  How could I ever hold a grudge against
 the groins of anyone so polite?
-
 Dominik
-
-
----------- Forwarded message ----------
-Date: Thu, 12 Jun 1997 13:40:19 +0200
-From: angel mu^?oz <constisevilla at arrakis.es>
-To: d.wujastyk at ucl.ac.uk
-Subject: jeff sparkes
-
+jeff sparkes
 I request to her answer to some problems related to their your program
 "Latex-tibetan" and "Sirlim":
 I have attempted to compile it with "Turbo c ++", and not me has been
@@ -37,10 +22,3 @@ a computer
 thank you very much
 Angel Mu?oz  (Sevilla-Spain)
 constisevilla at arrakis.es
-
-
-
-
-
-
-

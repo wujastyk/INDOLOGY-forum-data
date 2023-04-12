@@ -1,32 +1,9 @@
-From ucgadkw at UCL.AC.UK  Wed Oct 30 23:01:24 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Wed, 30 Oct 02 23:01:24 +0000
-Subject: Unicode fonts (for the Mac)
-In-Reply-To: <p05111b03b9e3755b6915@[205.219.66.13]>
-Message-ID: <161227071567.23782.12170500002187355322.generated@prod2.harmonylists.io>
-
+Unicode fonts (for the Mac)
 On Mon, 28 Oct 2002, B. Reusch wrote:
-
-> >One question that Unicode does not resolve is exactly what repertoire of
-> >characters is to be used for a particular purpose. I don't know if any
-> >Sanskritists have attempted to standardize Unicode representation of
-> >their preferred orthography, but I suspect that work has been done on
-> >this. It may be the case that very little is needed in that regard.
-
 Yes, this has been done, by Dr Anthony Stone, and it is part of the ISO
 standard that Anthony authored dealing with Indic transliteration.
-
 See
-
 http://homepage.ntlworld.com/stone-catend/translit.htm
-
 I've added a link to that site on the INDOLOGY website, under "Position
 and Review Papers".
-
-
---
 Dominik Wujastyk
-
-
-
-

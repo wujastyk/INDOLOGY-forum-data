@@ -1,102 +1,59 @@
-From huntington.2 at OSU.EDU  Fri Mar 18 18:45:24 2005
-From: huntington.2 at OSU.EDU (John Huntington)
-Date: Fri, 18 Mar 05 13:45:24 -0500
-Subject: cartography
-In-Reply-To: <7D67E8AF-97CB-11D9-BC15-000D93515A04@theol.rug.nl>
-Message-ID: <161227076087.23782.16070053935401579000.generated@prod2.harmonylists.io>
-
+cartography
 Arlo and others with similar interests:
-
 We do a great deal of map making here using Adobe Illustrator. It can
 be a very simple process.
 The most recently published map is in the Circle of Bliss catalog.
-____________________________________________
-
 A few basic thoughts:
-
 The first  decision is what scale do you want: the whole of India, a
 geographic region, a state,  a few districts, a single district, a
 narrowly focused plot of an excavation? This dictates the size and
 detail of a base map.
-
 Find an appropriately scaled base map. It need not have the find
 spots on it at all. Scan it at the cm or inch dimension you need, but
 it need not be at more that 100% at 72 dpi (however I do usually make
 bigger maps and then  reduce to 40% or less them for publication.
 Larger is easier to work on and small print size makes them look more
 detailed without the artist [me] going blind).
-
 After you have created the base map simply locate your find spots,
 key features and  anything else you want to include by adjacent
 geographic features, etc.
-_________________________________________________
-
 But there is much more to map making:
-
 There are 1000s of web sites with information hear are a few that I
 have found helpful
-
 If you want all 375, 000 of them search Google for:  "Illustrator" Maps
-
 To get an understanding of what you want try
-
 http://math.rice.edu/~lanius/pres/map/mapres.html
-
 http://www.lib.berkeley.edu/EART/MapCollections.html (very important
 for when you start making maps)
-
 http://www.mappingsciences.org.au/journal.htm
-
 http://geography.about.com/cs/cartography/ (lots of annoying adds but
 good sources)
-
 Technical Info:
-
 A "lite" introduction
 http://www.nps.gov/hfc/carto/production-tips.htm
-
 Read the layer list at the left of this page to understand how a map
 is structured in illustrator.
 http://www.mapresources.com/search/detailresults.html?subscription=&subscriberLoggedIn=&productID=gpw2-india01
-
 Useful stuff
 http://www.cartagram.com/carta_lab/illustrator.html
-
 Re: India
-
 http://geography.miningco.com/library/maps/blindia.htm
-
 Pre drawn maps in Illustrator (for general maps [I never use them])
-
 http://www.mapresources.com/
-
   If I can be of any further assistance please do not hesitate to ask
-
 John
-
-
---
 John C. Huntington, Professor
     (Buddhist Art and Methodologies)
 Department of the History of Art
 108 North Oval Mall
 The Ohio state University
 Columbus, OH 43210-1318 U.S.A.
-
 huntington.2 at osu.edu
 Phones:
 Direct Line to office (614) 688-8198
 Main Department Office: (614) 2927481
 Fax: (614) 292-4401
-
-
 Please see Dr. Dina Bangdel's and my 2003-2004 exhibition at:
 http://kaladarshan.arts.ohio-state.edu/exhib/circleofbliss/index.html
-
-
 Please visit the Huntington Archive website at:
 http://kaladarshan.arts.ohio-state.edu
-
-
-
-

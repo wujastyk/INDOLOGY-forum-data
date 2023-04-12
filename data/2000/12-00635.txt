@@ -1,13 +1,4 @@
-From vsundaresan at HOTMAIL.COM  Fri Dec 29 21:52:26 2000
-From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
-Date: Fri, 29 Dec 00 21:52:26 +0000
-Subject: the so-called "double-truth"
-Message-ID: <161227066101.23782.9965322756280342582.generated@prod2.harmonylists.io>
-
->Is this not a confusing of two different types of "two-truth theories"?
->In the case of Newton and Einstein, the later theory includes the
->earlier without declaring the earlier theory false. (This is rather
-
+the so-called "double-truth"
 I don't mean to say that relativity vs. Newtonian physics
 corresponds to absolute vs. relative truth in philosophy.
 I just pointed out that this is *a* kind of two-truth view,
@@ -22,7 +13,6 @@ one sees syAdvAda/anekAntavAda or mAyAvAda/advaitavAda in
 this is a function of one's own original philosophical
 inclinations. See for example, Nancy Cartwright's "How the
 Laws of Physics Lie" 1983, NY: OUP.
-
 L. Cousins did mention Kundakunda once, but the point that
 most still seems to miss is that the paramAttha-sammuti
 distinction in madhyamaka is quite different from the
@@ -31,13 +21,6 @@ is not clear to me on what basis one can classify "double-
 truth" theories into types, and say that this type is
 different from that one. Each such theory presents its own
 unique features.
-
 Best,
 Vidyasankar
-
-_________________________________________________________________________
 Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
-
-
-
-

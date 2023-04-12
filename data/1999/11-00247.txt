@@ -1,15 +1,5 @@
-From steiner at MAILER.UNI-MARBURG.DE  Wed Nov 17 11:20:28 1999
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Wed, 17 Nov 99 12:20:28 +0100
-Subject: Asvaghosa's texts
-In-Reply-To: <17NOV99.05429470.0014.MUSIC@MUSICB.MCGILL.CA>
-Message-ID: <161227053723.23782.18339034181438009636.generated@prod2.harmonylists.io>
-
+Asvaghosa's texts
 On 17 Nov 99, at 5:01, GHOSE,LYNKEN,MR wrote:
-
-> According to E.H. Johnston, the 2 manuscripts for the Saundarananda
-> are in the library of H.H. the Maharaja of Nepal. Now, this was a
-> while back, so I'm not sure where they are now.
 The two manuscripts of the Saundarananda (in "Nevaarii script"
 and in "Praacii.nanevaarii script" respectively) are listed and
 described in the following catalogue: Nepaalaraajakiiya
@@ -17,15 +7,12 @@ Viirapustakaalayasthapustakaanaa.m B.rhatsuuciipatram. [...]
 T.rtiiyakha.n.dah [...]. Kaa.thamaa.n.duu. Sa.m 2023, pp. 125-
 127. Johnston?s "L" dates from about 1165 A.D. and is partly
 damaged, whereas Johnston?s "P" (18th cent.) is complete.
-
 One palmleaf ms of the Buddhacarita is located in the National
 Archives Kathmandu, two modern paper mss are found in the
 Tokyo University Library (in Nepalese characters and in
 Devanaagarii respectively), see Seiren Matsunami: A Catalogue
 of the Sanskrit Manuscripts in the Tokyo University Library,
 Tokyo 1965, Nos. 256 and 257.
-
-> I believe Luders published some- thing on this,
 Heinrich Lueders: Bruchstuecke buddhistischer Dramen. Berlin
 1911. (Kleinere Sanskrittexte. Heft 1.) [Repr.: Wiesbaden 1979
 (Monographien zur indischen Archaeologie, Kunst und
@@ -35,8 +22,6 @@ A"svagho.sa. Berlin 1911. (Sitzungsberichte der Koeniglich
 Preussischen Akademie der Wissenschaften, Berlin) [Reprinted
 in: Heinrich Lueders. Philologica Indica. Goettingen 1940, pp.
 190-213].
-
-> but I'm not sure if there's been more recent work.
 Biswanath Bhattacharya: A"svagho.sa. A Critical Study of his
 Authentic Kaavyas, and the Apocryphal Works [...].
 Santiniketan 1976 (see also the justified critical review by Jan
@@ -49,10 +34,5 @@ Bechert on the Occasion of His 65th Birthday. Swisttal-
 Odendorf 1997 (Indica et Tibetica. 30.), pp. 615-623 [concerning
 Warder?s conclusion for the "technicalities of composition" in
 A"svagho.sa?s play Raa.s.trapaalanaa.taka].
-
 With regards,
 Roland Steiner
-
-
-
-

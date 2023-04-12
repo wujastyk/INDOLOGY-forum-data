@@ -1,29 +1,4 @@
-From jacob.baltuch at EURONET.BE  Wed Aug 12 21:36:16 1998
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Wed, 12 Aug 98 22:36:16 +0100
-Subject: SV: Fortunatov's Law and tolkAppiyar's rules
-Message-ID: <161227041172.23782.2255353145411450065.generated@prod2.harmonylists.io>
-
+SV: Fortunatov's Law and tolkAppiyar's rules
 Miguel Carrasquer Vidal wrote:
-
->Indeed.  We know that for instance the change *k(w)e > c^e is
->independent in Slavic (c^etyre), Indo-Iranian (catva:ra-) and
->Armenian (c^'ork') [PIE *kwetwores "4"].  This is very common sound
->change, which makes it unsurprising that it should have happened
->independently many times over.  The "satem"-change (*k^ becomes some
->kind of s(h)ibilant) is just as common and trivial, but there are
->reasons to believe that this change was not independent, but affected
->a single dialect of IE.  This has to do with the fact that the
->"satem" languages have several other things in common, things that
->less trivial.  One of them is the RUKI-rule (*s > /s^/ after i, u, r,
->k (and H?)).  This makes it more likely that we are dealing with a
->set of shared innovations, and that it is probably justified to speak
->of a "satem" subgroup of IE (on the other hand, there is no "centum"
->group: those are just the languages that fail to be "satem").
-
 Wouldn't it be better then to speak of "rooky" IE? (since satm includes
 Albanian)
-
-
-
-

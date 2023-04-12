@@ -1,15 +1,5 @@
-From harunaga at SAS.UPENN.EDU  Thu Feb 20 11:40:42 2003
-From: harunaga at SAS.UPENN.EDU (Harunaga Isaacson)
-Date: Thu, 20 Feb 03 06:40:42 -0500
-Subject: 2 956 900 vessels/k.sutila/ku.duba
-In-Reply-To: <000701c2d8d2$fe4bafa0$3fc809c0@indoc>
-Message-ID: <161227072349.23782.8239314851970154475.generated@prod2.harmonylists.io>
-
+2 956 900 vessels/k.sutila/ku.duba
 Quoting DEVI IFP <deviprasad at IFPINDIA.ORG>:
-
-> Respected Sir,
-> I think instead of "kutilaa" , it is wrongly written as "k.sutila".
-
 Certainly not impossible, but (since the word you have in mind is ku.tila with
 a retroflex .t) this  assumes corruption of not just one but two syllables (ku -
 -> k.su and ti > .ti). Aside from my earlier suggestion to interpret the
@@ -24,13 +14,9 @@ only possible one. I am still slightly skeptical, however, of that locative.
 And though emendation is certainly often necessary, and may prove in the end
 necessary here, it is well to first consider if one can interpret the
 transmitted text in a satisfactory way (sthitasya gati"s cintaniiyaa).
-
 In any case I think we can probably agree that there is no very good reason to
 assume a lexeme k.sutila, if that is indeed, as I suspect, hitherto unattested.
-
 Harunaga Isaacson
-
---
 Harunaga Isaacson
 South Asia Studies
 University of Pennsylvania
@@ -39,7 +25,3 @@ University of Pennsylvania
 Philadelphia, PA 19104-6305
 USA
 tel. +1 215 898 6047
-
-
-
-

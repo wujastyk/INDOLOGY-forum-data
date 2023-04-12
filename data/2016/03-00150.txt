@@ -1,9 +1,4 @@
-From will.sweetman at gmail.com  Thu Mar 17 01:57:33 2016
-From: will.sweetman at gmail.com (Will Sweetman)
-Date: Thu, 17 Mar 16 14:57:33 +1300
-Subject: [INDOLOGY] Publishing contracts
-Message-ID: <56EA0F0D.2090301@gmail.com>
-
+[INDOLOGY] Publishing contracts
 In the last few months I've been asked to sign two contracts with Indian 
 publishers which included what seem to me to be very sweeping liability 
 statements. Both required me to warrant that the works in question were 
@@ -12,23 +7,19 @@ contained nothing obscene, indecent, objectionable or libelous (one
 added scandalous and indecent). Both contracts required authors and 
 editors to indemnify the publishers against any costs or losses incurred 
 as a result of breach of these warranties.
-
 In both cases these were for edited volumes that included editors and 
 contributors based in India, and I had concerns about the possible 
 implications of these clauses for those based in India for reasons that 
 I suspect no-one on this list will need to have specified.
-
 Comparing these contracts with others I've signed with publishers based 
 in the UK and US, I find that the major difference is that the 
 warranties required there related only to "obscene, libelous or 
 unlawful" material, and the indemnity in some cases is limited to losses 
 or costs arising from breach of copyright alone.
-
 My question is whether "objectionable" in Indian law simply has the same 
 sense as "unlawful" in other jurisdictions. It seems to me that 
 objectionable covers a much wider range - but perhaps there is a more 
 technical sense.
-
 Incidentally, one publisher agreed to amend the contract to a much more 
 limited warranty and indemnity. In the other case, I was unable to 
 persuade my fellow editors to push for an amendment, so I'll never know 
@@ -36,13 +27,5 @@ whether we might have achieved a better position. I think academics too
 often sign contracts without any negotiation, and I'd be very interested 
 to hear (whether on or off list) whether others have been successful in 
 getting contracts amended.
-
 Best wishes
-
 Will
-
-
-
-
-
-

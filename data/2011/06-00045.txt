@@ -1,9 +1,4 @@
-From s.hodge at PADMACHOLING.PLUS.COM  Thu Jun 23 07:30:35 2011
-From: s.hodge at PADMACHOLING.PLUS.COM (Stephen Hodge)
-Date: Thu, 23 Jun 11 08:30:35 +0100
-Subject: Tibeten~Sanskrit Idiom Query
-Message-ID: <161227092812.23782.16925338363005562557.generated@prod2.harmonylists.io>
-
+Tibeten~Sanskrit Idiom Query
 Thinking further last night, I conclude that Dominik's proposal, with 
 Tibetan confirmed by Andrey, must be the underlying term.  According to the 
 reverse index to Lokesh Chandra's Tib-Skt lexicon, "nyan mi btub pa" is 
@@ -11,24 +6,15 @@ included somewhere in there, but it is well hidden since it does not turn up
 under any of the Tibetan components as far as I can see.  However, the 
 A????gah?daya was one of his sources.  It would have been nice to have 
 another attestation, however.
-
 I also think that "avidheya" accounts for the Chinese version which must 
 have read "avij?eya" or similar, probably via a Pkt form, which would be a 
 typical misreading for my Chinese source.  In fact, this was exactly the 
 problem I was trying to account for.
-
 The probability of an underlying "avidheya" is corroborated by the next part 
 of the Tibetan text, since I note also that the form "vidheya" was used 
 inter alia for "khas len-pa" which is close enough to the converse 
 "len-par-byed-pa" in my text.
-
 This all just goes to show how retroverting Tibetan to Sanskrit can be 
 fraught with difficulties for less common words and phrases.
-
 Anyway, many thanks to everybody for the suggestions !
-
 Stephen Hodge 
-
-
-
-

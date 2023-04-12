@@ -1,18 +1,4 @@
-From jean.fezas at wanadoo.fr  Tue Nov  5 07:45:39 1996
-From: jean.fezas at wanadoo.fr (Jean Fezas)
-Date: Tue, 05 Nov 96 08:45:39 +0100
-Subject: Kaamazaastra reference
-Message-ID: <161227026714.23782.16111186250116284864.generated@prod2.harmonylists.io>
-
->From: Madhav Deshpande <mmdesh at umich.edu>
->To: Members of the list <indology at liverpool.ac.uk>
->Subject: Re: Syntax of `yabh'
-
->	I think there is no grammatical answer to this question, but there
->may be other answers, "in the heat of things" as they say.  Consider the
->Kaama"saastra warning : raticakre prav.rtte tu na "saastram na ca
->"saastri.na.h.  Our Kaama"saastra experts on the list may remember the
->source of this quotation.  So, even if it is a dead horse ...  
+Kaamazaastra reference
 [...]
 Quotation reference : 
 vaatsyaayana kaamasuutra 2.2.31
@@ -24,9 +10,3 @@ J.Fezas
         prabhavanti yato lokaaH pralayaM yaanti yena ca.
         saMsaara-vartma vivRtaM kaH pidhaatuM tad iizvaraH..
 (Somadeva, KathaaSaritSaagara 6.2.182)
-
-
-
-
-
-

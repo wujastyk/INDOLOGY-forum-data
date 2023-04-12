@@ -1,13 +1,7 @@
-From gm at ANTHOSIMPRINT.COM  Tue Dec 19 18:01:54 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Tue, 19 Dec 00 19:01:54 +0100
-Subject: PDF (was publication of IASS papers on CDROM)
-Message-ID: <161227065638.23782.4309224020035230508.generated@prod2.harmonylists.io>
-
+PDF (was publication of IASS papers on CDROM)
 Dear Richard,
 my only issue in the last mail was with people who ENFORCE TeX on others. There
 are such people, believe me.
-
 You seem to be somebody who uses TeX successfully. Perfect -- why not use it if
 it works for you.
 Nobody would deny that TeX is a powerful programming language.
@@ -18,7 +12,6 @@ the building. Tools have a lifetime, and so have software tools. Factually, TeX
 is dead outside of two settings:
 (1) Power users who have an affinity to programming.
 (2) Some mostly academic computing services.
-
 Reason for its virtual disappearance: usability. With TeX, you have to PROGRAM
 footnotes. But normal users (i.e. non-programmers) with a time schedule for
 finishing their books don't want to program footnotes. You want to edit them in a
@@ -30,16 +23,13 @@ be so much more productive with powerful packages such as Adobe FrameMaker/SGML
 or some other good packages around. These can also be taught to regular users who
 don't want to program their text, but write it... Their output can easily be made
 compatible with international document norms, without programming knowledge.
-
 Again, if you can achieve that with TeX, why not go on using it. But I am sure
 you will agree that many of our colleagues find TeX a user-hostile thing, and
 don't want to become programmers.
-
 Anyway, I have no vested interest in fighting TeX, and I was only recommending
 that TeX should not be artificially kept alive against the interest of normal
 users for reasons that are not technical. The people who are playing this game
 will know what I mean...
-
 So please don't force me to talk about TeX. I'd rather read some more on things
 like preserving Indian birch-bark and palm-leaf manuscripts, writing usable
 metadata for them, digitizing them, publishing them, publishing articles and
@@ -48,99 +38,13 @@ do and safe for the future. Nobody denies you your constitutional right to choos
 whatever software tool you wish to create your data with in the first place. What
 concerned us was how to present the resulting data to colleagues now and in
 future.
-
 Anyway, sorry if I rubbed some TeXies the wrong way. No, I don't think you are
 perverse. I just think you are way more computer-savvy than virtually all of us,
 and that's without flattery.
-
 Yours,
 Gunthard Mueller
 gm at e-ternals.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 My problem is not with (1) the power user, nor (2) the computing services that
 for some internal reason cannot take the next step.
 My problem is
-
-
-
 Richard B Mahoney wrote:
-
-> Dear Gunthard,
->
-> I am not usually one to rise to the bait but your words seem to
-> display a certain partiality. I can only imagine that your candour
-> reflects a belief that TeX and LaTeX are not entirely redundant.
->
-> It is true that -- in common with all methods of electronic
-> typesetting or wordprocessing -- TeX has its
-> disadvantages. Nonetheless, for people such as Indologists,
-> Budhologists, Tibetologists and the like, who often have to typeset
-> heavily footnoted multilingual documents, the use of TeX is not
-> without its benefits.
->
-> Faced with the demands of one's work, each person has to decide for
-> themselves which is the best approach to take. And of course one
-> always has to keep in mind one's ability to share information with
-> others.
->
-> Personally, I think it is important for people to have choice. I also
-> find the spectre of everyone using the same approach, or the same
-> software, a little disturbing. I do not believe it is helpful, then,
-> for anyone to attempt to marginalise what is a perfectly legitimate
-> way to get one's work done.
->
-> If anyone wishes to emplore these issues further then they might wish
-> to follow this link:
->
->    http://www.ecn.wfu.edu/~cottrell/wp.html
->
-> Many regards,
->
->  Richard Mahoney
->
-> On Mon, Dec 18, 2000 at 03:15:48PM +0100, Gunthard Mueller wrote:
->
-> [snip]
->
-> > Concerning TEX: I generally discourage using TEX altogether. Only TEXies (a
-> > special form of esoteric computer guru scene) favours it, because it has
-> > become part of their lifestyle and provides them with a digital survival
-> > zone within which they are indispensable and therefore cannot be abolished.
-> > There is actually no need to use TEX anymore for anything. I have been
-> > involved with writing TEX converters and creating metafonts when that was
-> > an interesting technology (about 12 years ago), but the world has moved on.
-> > You only find TEX gurus nowadays in artificially preserved biotopes where
-> > they can go on playing with dinosaurs without penalty. The rest of the
-> > world has moved on to SGML tools and Unicode. The best thing you can do to
-> > TEX is to convert it to modern formats and then put it on the shelf for
-> > good.
->
-> [snip]
->
-> --
-> end
-> ======================================================================
-> Richard Mahoney                              Telephone: +64-3-351-5831
-> 78 Jeffreys Rd
-> Christchurch
-> NEW ZEALAND                          mailto:rbm49 at csc.canterbury.ac.nz
-> ----------------------------------------------------------------------
-
-
-
-

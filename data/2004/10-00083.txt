@@ -1,25 +1,13 @@
-From k.harimoto at LET.RUG.NL  Sun Oct 31 23:44:56 2004
-From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
-Date: Mon, 01 Nov 04 00:44:56 +0100
-Subject: Devanagari
-In-Reply-To: <41854251.9060001@u.washington.edu>
-Message-ID: <161227075190.23782.7162447151453892600.generated@prod2.harmonylists.io>
-
-> I am not aware of the situation with Devanagari input on Linux and Mac
-> systems.
-
+Devanagari
 Mac OS X (since 10.0?) comes with Devanagari support.  One has to tell
 the installer to install Indic languages support upon fresh install, or
 run the System installer later telling it to install the support.
-
 Two Devanagri input methods come with the system: Devanagari QWERTY and
 Devanagari.  I assume the latter is in accordance with the ISCII
 keyboard layout.
-
 The Devanagari suport has been improving consistently.  The current
 version of the Mac OS X is 10.3.  I think it has come to the point of
 being usable by now.
-
 Most OpenType unicode fonts work to some degree.  It appears that
 Apple's OpenType support is not yet perfect.  For example, I don't see
 conjunct characters on screen.  (In utf-8, I understand that the input
@@ -27,27 +15,17 @@ stream is something like ka + viraama + ta for kta.  If a font has that
 conjunct character, it should appear as kta, but that's not the case
 with Devanagari OpenType unicode fonts on  OS X.  I see ka + viraama +
 ta on screen.)
-
 The Devanagari fonts provided by Apple (AAT font) better supports
 conjunct characters.  However, there are still some bugs and not all
 the ligatures that should be available in the font may not appear on
 screen.
-
 I might also add that keyboard layout presupposes Hindi rather than
 Sanskrit, so, some commonly used symbols are not easily available.  For
 example, long vocalic r was not accessible through standard keyboard
 layout (QWERTY version).  A slight modification to the keyboard layout
 was necessary.
-
 All the Cocoa applications, meaning applications that don't run on
 Classic Mac OS (<= Mac OS 9.x)[1], support utf-8, including Devanagari.
-
 [1] Things are much more complicated, but this is the best
 simplification I can make with regard to what Cocoa applications are.
-
---
 kengo harimoto
-
-
-
-

@@ -1,41 +1,16 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Sat Jan 29 20:28:43 2005
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard MAHONEY)
-Date: Sun, 30 Jan 05 09:28:43 +1300
-Subject: e-Monier Williams Dictionary for Macs
-In-Reply-To: <1159280.1107019236@ead21.divinity.cam.ac.uk>
-Message-ID: <161227075786.23782.1888336283987088550.generated@prod2.harmonylists.io>
-
+e-Monier Williams Dictionary for Macs
 On Sat, 2005-01-29 at 17:20 +0000, Elizabeth De Michelis wrote:
-
-> I have tried installing some e-versions of the Monier Williams Sanskrit
-> dictionary on my computer, but they were for PCs and as I am a Mac-only
-> user I found they were not compatible with my Mac.
-
 [snip]
-
-> Would any of you be able to suggest:
-
 [snip]
-
-> 2) Whether Mac-compatible e-versions of the MW exist, and how to get hold
-> of them if they do.
-
 I'd recommend the DICT (http://www.dict.org/links.html) version at:
-
  http://homepages.comnet.co.nz/~r-mahoney/mw_dict/mw_dict.html
-
 To use it under Mac OSX you will need to install DICTatoro:
-
  http://www.ropersonline.com/dict/
-
 I flagged this version some while back:
-
  http://homepages.comnet.co.nz/~r-mahoney/mw_dict/mw_DICT_notify
-
 The DICT version should be useful for those using Mac OSX, or a UNIX or
 UNIX-like system. It enables one to search for a number of head words at
 the same time using various strategies:
-
 Strategies available:
  exact      Match headwords exactly
  prefix     Match prefixes
@@ -46,19 +21,9 @@ Strategies available:
  soundex    Match using SOUNDEX algorithm
  lev        Match headwords within Levenshtein distance one
  word       Match separate words within headwords
-
-
 Best regards,
-
  Richard
-
-
---
 Richard MAHONEY | www: homepages.comnet.net.nz/~r-mahoney
 Littledene      | phone/fax (man.): +64 3 312 1699
 Bay Road        | cell: +64 25 829 986
 OXFORD, NZ      | email: r.mahoney at comnet.net.nz
-
-
-
-

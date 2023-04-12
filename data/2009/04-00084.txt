@@ -1,11 +1,5 @@
-From steiner at MAILER.UNI-MARBURG.DE  Thu Apr 16 06:58:46 2009
-From: steiner at MAILER.UNI-MARBURG.DE (Roland Steiner)
-Date: Thu, 16 Apr 09 08:58:46 +0200
-Subject: Fwd: Zeitschriften der DMG digital
-Message-ID: <161227085835.23782.14269985482394130102.generated@prod2.harmonylists.io>
-
+Fwd: Zeitschriften der DMG digital
 Dear colleagues,
-
 The periodicals published by the "Deutsche Morgenlaendische  
 Gesellschaft" (DMG -- German Oriental Society) have now been  
 digitized. The resulting digital collection comprises 132.000 images.  
@@ -17,23 +11,17 @@ any restrictions. The digital images are catalogued into databases of
 the Deutsche Nationalbibliothek (DNB -German National Library) the  
 Zentrales Verzeichnis Digitalisierter Drucke (ZVDD - Central Directory  
 of Digitzed Imprints) and DigiZeitschriften.
-
 http://menadoc.bibliothek.uni-halle.de/dmg
 http://www.dmg-web.de/?page=23
-
 Best,
 Roland Steiner
-
------ Weitergeleitete Nachricht von pohlus at INDOLOGIE.UNI-HALLE.DE -----
       Datum: Wed, 15 Apr 2009 21:46:23 +0200
         Von: Andreas Pohlus <pohlus at INDOLOGIE.UNI-HALLE.DE>
 Antwort an: Informationsaustausch der deutschsprachigen Indologie  
 <INDOLOGIE at LISTSERV.UNI-HEIDELBERG.DE>
     Betreff: Zeitschriften der DMG digital
          An: INDOLOGIE at LISTSERV.UNI-HEIDELBERG.DE
-
 Liebe Listenteilnehmer,
-
 im Rahmen eines von der DFG gef?rderten Projekts der Universit?ts- und  
 Landesbibliothek Sachsen-Anhalt an der Martin-Luther-Universit?t  
 Halle-Wittenberg wurden die von der Deutschen Morgenl?ndischen  
@@ -42,7 +30,6 @@ Gesellschaft publizierten Zeitschriften in einem Umfang von etwa
 Inhaltsverzeichnissen der B?nde wie auch in den Volltexten der  
 enthaltenen Beitr?ge erschlossen. Es handelt sich um die folgenden  
 Zeitschriften:
-
 Zeitschrift der Deutschen Morgenl?ndischen Gesellschaft (ZDMG).  
 Leipzig: Brockhaus; Wiesbaden: Steiner; Harrassowitz, 1.1847 -  
 155.2005 (ISSN: 0341-0137) und Supplementa I - XI (DOT)
@@ -56,18 +43,10 @@ Komm.], 1.1922 - 10.1935/1936; damit Erscheinen eingestellt (ISSN:
 Zeitschrift f?r Semitistik und verwandte Gebiete, hrsg. im Auftrag der  
 Deutschen Morgenl?ndischen Gesellschaft. Leipzig: Brockhaus, 1.1922 -  
 10.1935; damit Erscheinen eingestellt (ISSN: 0259-7934)
-
 Die elektronischen Exemplare der Zeitschriften der DMG bilden einen  
 ersten umfangreicheren Bestand des Volltextrepositoriums MENAdoc der  
 ULB Halle, SSG Vorderer Orient  
 (http://menadoc.bibliothek.uni-halle.de/dmg;  
 http://www.dmg-web.de/?page=23) und sind frei zug?nglich.
-
 Beste Gr??e,
 A. Pohlus
-
------ Ende der weitergeleiteten Nachricht -----
-
-
-
-

@@ -1,14 +1,4 @@
-From l.m.fosse at easteur-orient.uio.no  Thu Aug 24 11:04:48 1995
-From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
-Date: Thu, 24 Aug 95 12:04:48 +0100
-Subject: Poverty -Reply
-Message-ID: <161227020667.23782.14741240251752579570.generated@prod2.harmonylists.io>
-
->I'm also curious about this.  I thought CSX encoding used sh for the first
->and shh for the second.  The only table I've seen for 7-bit ICSS encoding
->comes from itrans documentation by Avinash Chopde.
->
-
+Poverty -Reply
 There are several ways of encoding Sanskrit. The CSX uses certain ASCII
 numbers to represent special Sanskrit characters, and the font page will
 ensure that your screen shows the correct character. In other words: One
@@ -19,38 +9,20 @@ and sorting mechanisms. Z for sh (first s) is another way of representing
 this character by means of another single character. The following table
 shows three different solutions for representing the s'es. (TZ-format =
 Tuebingen-Zuerich format)
-
         CSX     TZ     Harvard-Kyoto
 sh      247     /s      z
 shh     249     .s      S
 s       s       s       s
-
 There are other  ways of transliterating Sanskrit as well, but only two
 basic principles: Either one ASCII character = once Sanskrit character, or
 two (or more) ASCII characters = one Sanskrit character.
-
 Best regards,
-
 Lars Martin Fosse
-
-
-
 Lars Martin Fosse
 Research Fellow
 Department of East European
 and Oriental Studies
 P. O. Box 1030, Blindern
 N-0315 OSLO Norway
-
-Tel: +47 22 85 68 48
 Fax: +47 22 85 41 40
-
 E-mail: l.m.fosse at easteur-orient.uio.no
-
-
- 
-
-
-
-
-

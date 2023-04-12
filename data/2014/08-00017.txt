@@ -1,47 +1,33 @@
-From baums at lmu.de  Tue Aug  5 16:17:18 2014
-From: baums at lmu.de (Stefan Baums)
-Date: Tue, 05 Aug 14 18:17:18 +0200
-Subject: [INDOLOGY] Font with Brahmi characters
-In-Reply-To: <DUB114-W101453697F62BED9D5CF9D9A5E30@phx.gbl>
-Message-ID: <20140805161717.GK2485@deepthought>
-
+[INDOLOGY] Font with Brahmi characters
 Dear Arlo,
-
 I address part of your question in the first pages of my
 2006 article, where I explain the differece between
 character coding (Unicode) and glyph shapes.
-
 In brief, there are three levels at which you can encode the
 paleographic information you are interested in in your
 research:
-
    ? Character coding: This captures the fact that a ?ka?
      is a ?ka,? independently of what it looks like in a
      particular source.
-
    ? Font: This represents the graphical appearance of
      characters in a particular script or source or group of
      sources. Depending on what you want to discuss, a font
      can be rather abstract (?standard Kharo??h??) or very
      specific (the hand of a particular scribe).
-
    ? Textual markup: If you want to capture the type of
      variation you observed in your epigraphic work:
-
         I am presently reading inscriptions of the time of
         Devap?la, for instance, and am struck by the fact
         that there are at least three very different forms
         of syllable-final <t> (one of which actually lacking
         any vir?ma element), two very different forms of ?a,
         etc., occurring in single documents.
-
      you can do so using TEI/EpiDoc tags for whatever your
      classification is (?t* type 1,? etc.). If
      additionally you want to capture the typical graphical
      appearance of the three types of t in your corpus, you
      could do so at the font level (using the OpenType
      mechanism for alternate glyphs).
-
 The main point is that each of these levels captures unique
 kinds of information. The contribution of the the character
 coding level is to capture the abstract identity of a
@@ -56,16 +42,8 @@ generalizatin (a ?ka? is a ?ka?) and to do things like
 searching an original?script paleographical corpus spanning
 several centuries for all instances of a particular letter
 to study its graphical development.
-
 All best,
 Stefan
-
--- 
 Dr. Stefan Baums
 Institute for Indian and Tibetan Studies
 Ludwig Maximilian University of Munich
-
-
-
-
-

@@ -1,20 +1,5 @@
-From jds10 at CUS.CAM.AC.UK  Fri Mar  5 09:41:43 1999
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Fri, 05 Mar 99 09:41:43 +0000
-Subject: Ref. check verse 6.41 Bhagavad Gita
-In-Reply-To: <01J8GTTPKEK28WWC3J@nacdh4.nac.ac.za>
-Message-ID: <161227047201.23782.1755072630042095244.generated@prod2.harmonylists.io>
-
+Ref. check verse 6.41 Bhagavad Gita
 On Fri, 5 Mar 1999, Charles Wikner wrote:
-
-> On Thu, 04 Mar 1999, John Smith <jds10 at CUS.CAM.AC.UK> wrote:
->
-> > An optional sandhi for final -n before initial l- is simply to write the
-> > -n as an anusvara.
->
-> Is there authortity for that?  I had assumed that the use
-> of anusvAra here was due to ignorance or font limitations.
-
 It's not so much a question of authority as of usage. (I am here going to
 use "pure" Harvard-Kyoto ASCII: "M" means anusvara, "&" means
 candrabindu.)  Whitney, for instance, notes that the normal MS usages are
@@ -30,25 +15,9 @@ usage. Indeed, the sandhi -n + l- -> -M + l- occasionally finds its way
 into print -- there's an example in one or other of the Brahmana paasages
 in Boehtlingk's Chrestomathie, for instance, though a rapid search fails
 to locate the exact spot.
-
-> ...
-
-> Translations to hand take puNyakRtAm as genitive plural of
-> puNyakRt: worlds of the meritorious (=merit-performers), but
-> I see no objection to taking puNyakRtAn as accusative plural
-> of bahuvrIhi puNyakRta: worlds prepared for the meritorious/
-> created by merit (as dvaita/advaita interpretations).
-
 I presume you mean tatpuruSa, not bahuvrIhi.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
-
-

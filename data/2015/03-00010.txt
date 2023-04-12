@@ -1,18 +1,10 @@
-From wujastyk at gmail.com  Mon Mar  2 13:07:49 2015
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Mon, 02 Mar 15 14:07:49 +0100
-Subject: [INDOLOGY] Ayurvedic query
-In-Reply-To: <CABEB9q+7=PZdTXg_PGc_DhR4ZHOyhg6V6P+w1re8cbknMk1q9w@mail.gmail.com>
-Message-ID: <CAKdt-CdKKVaFzPCdfevj0D_OkfF=gf4sRM3zGRoSFk5R_se78Q@mail.gmail.com>
-
+[INDOLOGY] Ayurvedic query
 Dear Prof. Bhattacharya,
-
 Do you mean Saussurea lappa (Decne.) C. B. Clarke, or Saussurea lappa
 (Decne.) Sch. Bip.?  Are you ruling out Aplotaxis lappa Decne., or do you
 think it's the same thing?  If so, why?  But probably you mean Saussurea
 costus, (Falc.) Lipsch., no?  (last updated 28 August 2014, and syn. Aucklandia
 costus Falc.).
-
 What I'm getting at, in an ungraceful manner (sincere apologies!), is that
 one really, really can't just give out a name like "Saussurea lappa".  It's
 not a real botanical name, because no authority is given.  It's like a
@@ -21,24 +13,20 @@ formally decommissioned <http://www.theplantlist.org/tpl/record/gcc-142953>
 as a botanical name, in favour of S. costus (Falc.) Lipsch.  It's not that
 easy to find this stuff out; it's a specialized field.  But I strongly
 recommend anyone using botanical terminology to use resources like
-
    - http://botanicus.org
    and
    - http://www.ubio.org
    and
    - http://www.tropicos.org
-
 in the first instance, to get a handle on up-to-date nomenclature and
 authorities.  Botanicus offers a huge free library of scanned and indexed
 botanical publications from the fifteenth century onwards, that all are
 searchable and downloadable.  It includes many early works from India and
 Sri Lanka, and give a wonderful entry-point for finding images of plants by
 early engravers, and so forth.
-
 There are lots of other recent online resources for botanical
 nomenclature.  Some people love this stuff, and get quite OCD about it,
 which is helpful for us outsiders.
-
 I would also say that any identification of the type "Sanskrit plant X =
 Linnean plant Y" is not helpful.  There's so much confusion and error in
 this field, that it's vital in serious work to give some parameters for the
@@ -52,21 +40,11 @@ languages, local knowledge (past and present), and so forth.  Also, plants
 mutate, and two thousand years is plenty of time for change, in
 evolutionary terms.  The time of simple uncommented lists of the form X=Y
 is past.
-
 I am almost as guilty as any: see the index of *Roots of Ayurveda*, which
 is just such an X=Y index.  I say "almost" because for that index, I did in
 fact collect extensive reference and comparison data of the type described,
 but I didn't publish it in the final book.
-
 </rant>  :-)
-
 Best,
 Dominik
-
 ?
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20150302/ac7b4256/attachment.htm>
-

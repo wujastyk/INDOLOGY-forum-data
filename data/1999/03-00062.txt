@@ -1,22 +1,5 @@
-From mmdesh at UMICH.EDU  Sat Mar  6 12:36:52 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Sat, 06 Mar 99 07:36:52 -0500
-Subject: Anusvaara for word-final 'n'?
-In-Reply-To: <Pine.SOL.3.96.990305091650.18412A-100000@taurus.cus.cam.ac.uk>
-Message-ID: <161227047251.23782.16450589671170363361.generated@prod2.harmonylists.io>
-
+Anusvaara for word-final 'n'?
 John Smith writes:
-
->Whitney, for instance, notes that the normal MS usages are "trIMlokAn" or
->"trI&llokAn", and suggests that a "better" usage would be "trI&l lokAn".
->(Grammar, 206a.) He also states that, "according to the Hindu
->grammarians", final *m* before l- becomes a nasalised "l", in exactly the
->same way as happens to final -n (71, 206, 213d) -- so that the use of
->anusvara for -n is "just as reasonabl[e]" as for -m. Nasalisation is a
->notoriously difficult area, and I'd be interested to know what "the Hindu
->grammarians" do actually say here, since Whitney is not the most reliable
->witness; but there is no reason to mistrust his comments on MS usage.
-
         As far as the usage of the MS goes, I have noticed the same thing
 that a word-final 'n' is often turned into an Anusvaara, before 'l' and
 before other consonants as well.
@@ -33,7 +16,3 @@ the Anusvaara, which cannot be changed to a retroflex '.n'.
 sanction for turning a word-final 'n' into an Anusvaara.
         Best,
                                 Madhav Deshpande
-
-
-
-

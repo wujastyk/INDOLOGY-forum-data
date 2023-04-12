@@ -1,39 +1,26 @@
-From perichandra at YAHOO.COM  Tue May  4 15:56:27 1999
-From: perichandra at YAHOO.COM (Periannan Chandrasekaran)
-Date: Tue, 04 May 99 08:56:27 -0700
-Subject: Etymology of Skt. rAma (part 2 of 2)
-Message-ID: <161227048495.23782.13344781503524796210.generated@prod2.harmonylists.io>
-
+Etymology of Skt. rAma (part 2 of 2)
 Skt. rAma's derivation from Tamil roots - part 2 of 2
------------------------------------------------- ------
 [draft]
 Periannan Chandrasekaran
 perichandra at yahoo.com
-
 There are multiple routes possible:
------------------------------------
 All of them must take care of the prominence to the "m" phoneme
 in the word "rAm" especially when deriving from Ta. irA or Ta. iravu.
 Accounting for the phoneme "rA" is straighforward from Ta. irA, irum
 etc.
-
 But from the discussion above it is clear that inroduction of the
 "m" phoneme is not going to be diffiuclt at all since that phoneme
 is the soul of another root in Tamil meaning "black" and "viSNu".
 1. Skt. rAm < ....< Ta. irA
 2. Skt. rAm < ....< Ta. irum
 3. skt. rAm <...< Ta.
-
 We take route #1 which involves the most work to account for "m".
-
 Skt. rAm <...Ta. irA.
----------------------
 It must be noted that even from the "irA" root, adding
 "m" to extend is frequent when the word ends in the long vowel "A".
 This is witnessed with respect to most classical Tamil names for
 trees (which interestingly are usually one syllable and end in "A")
 which have "trivial" alternate names by extending them with "m".
-
 Ta. marAm < Ta. marA = cadamba
 Ta. viLAm < Ta. viLa  = wood apple
 Ta. kurAm < Ta. kurA   =
@@ -49,7 +36,6 @@ dark complexion of a lady in akam poetry is often
 compared to the young leaf of mango tree.
 kamparAmAyaNam itself uses this to describe Sita's forehand:
 kampan:2(ayOtiyAkANTam):685:3]
-
 Here it must also be noted that the word-final long vowel "A"
 in words conforming to certain patterns such as
  "<short vowel><the long vowel "A>"
@@ -59,23 +45,18 @@ Ta. viLavam < Ta. viLA
 Ta. kuravam < Ta. kurA
 Ta. cuRavu /cuRavam < Ta. cuRa = shark
 Ta. naRavam < Ta. narA
-
 Dropping of word-initial "i"
-----------------------------
 It is common to drop the  word-initial "i" followed by "r" or "l"
 especially in colloquialisms:
 Ta. (colloquial) rA < Ta. irA.
 Ta. (colloquial) rAvu < Ta. iravu < Ta. irA
 Ta.  (colloquial)      ravai < Ta. iravu etc.
-
 "v"/"m" interchange:
----------------------
 And since both "v" and "m" are at leat partly labial, "v" <->"m"
 interchange
 is expected. And it is attested by the Tamil rules of prosody for
 assonance
  where "v"/"m" are assonant pairs.
-
 Skt. rAma < rAmu < Ta. rAvu < Ta. irA
 Skt. rAma < rAm < irAm < Ta. irA
 skt. rAma < rAvam < iravam < Ta. iravu < Ta. irA
@@ -84,28 +65,14 @@ Skt. rAma < rAm <
 < Ta. irAvan2 <
 < Ta. irAvan2 ("v" cementing consonant)
 <Ta. irA + Ta. an2 (male singular nominal suffix) < ta. irA
-
 Conclusion:
-----------
 I have attempted to establish the framework for deriving Skt. rAma
 from Dravidian root words. It would also be interesting to see
 1. any IE roots/cognates  for rAm in the senses of beauty and of
 darkness
 2. Any known Skt. texts using rAm in the sense of darkness also.
-
 Regards
 Chandra
 Atlanta, GA.
-
-
-
-
-
-
-_________________________________________________________
 Do You Yahoo!?
 Get your free @yahoo.com address at http://mail.yahoo.com
-
-
-
-

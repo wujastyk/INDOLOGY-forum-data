@@ -1,9 +1,4 @@
-From gm at ANTHOSIMPRINT.COM  Wed Dec 27 21:21:06 2000
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Wed, 27 Dec 00 22:21:06 +0100
-Subject: 35 mm microfilm / manuscripts
-Message-ID: <161227065988.23782.9087292978326503307.generated@prod2.harmonylists.io>
-
+35 mm microfilm / manuscripts
 Dear Claude,
 thank you very much for your thoughtful suggestions.
 Your idea about having a contact film done sounds like a good way to go.
@@ -37,7 +32,6 @@ investing in a customized scanner solution at least for the moment, and
 as long
 as we haven't fully explored the above alternatives.
 I'll keep you posted!
-
 What we have access to:
 we have put together a state-of-the-art digitisation system and
 developed
@@ -46,7 +40,6 @@ Indian
 manuscripts and prints. We normally digitise directly, without
 microfilm. The
 quality with direct digitisation is infinitely better than microfilm--no
-
 comparison in fact (full colour, very high resolution, no or minimal
 loss of
 contrast, minimal light intensity, etc.).
@@ -55,12 +48,10 @@ leaves
 that were not physically blackened. The result looks eerily like a
 physically
 blackened leaf, but without the damage that physical blackening normally
-
 entails.
 And: we can now finally PRINT unblackened palm-leaf books! We digitise
 them,
 blacken them digitally, then print them. The result is so good that some
-
 scholars to whom we showed colour prints of physically blackened palm
 leaves and
 some of our digitally blackened ones could not discern which one was
@@ -74,7 +65,6 @@ high lux levels. (The flash has the danger of starting chemical
 reactions in the
 material, which has so far prevented the digitisation of many sensitive
 materials.)
-
 We publish both the authentic (unblackened) and the digitally blackened
 versions
 together on digital media. We publish two types of media: (1) normed
@@ -98,7 +88,6 @@ individual
 scholars, and US$100,-- for an unlimited internal-use license for
 organisations
 (university libraries, research institutes, etc.).
-
 We are currently digitising many thousand manuscripts in India itself.
 Some of
 the manuscripts are very exciting, many of them never published before.
@@ -110,7 +99,6 @@ institutions
 who preserve original manuscripts have already approached us and have
 offered
 cooperation.
-
 We have also got good relations with the German National Library in
 Berlin, and
 we hope that next year we will be allowed to publish some of their
@@ -120,17 +108,14 @@ treasures, among them for example the probably oldest existing palm leaf
 have already digitised it). They also have beautiful material like
 gold-and-colour miniature paintings, very exquisite, from the Jehangir
 collection. We have already digitised a sample. There are also wonderful
-
 birch-bark texts in Sarada script. We might also publish other
 materials,
 especially Chinese, Tibetan, Mongolian. Possibly also some very
 exquisite Jewish
 material.
-
 Similarly, we are in touch with other libraries, museums, archives and
 other
 organisations around the world for possible cooperation.
-
 Currently available are:
 (1) The Tattva-viveka by Pillai Lokacharya (13th century, Sanskrit, in
 Grantha
@@ -146,8 +131,6 @@ preface by
 Dr. M. A. Venkatakrishnan, University of Chennai. This edition is in the
 quality
 check now, available from January.
-
 In preparation: a multimedia edition of the gadyatrayam, and a
 transliteration
 and a translation of the above Tattva-viveka.
-

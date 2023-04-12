@@ -1,28 +1,4 @@
-From jacob.baltuch at euronet.be  Mon May 19 12:31:03 1997
-From: jacob.baltuch at euronet.be (jacob.baltuch at euronet.be)
-Date: Mon, 19 May 97 14:31:03 +0200
-Subject: yuga, VarNa and colour
-Message-ID: <161227030337.23782.5505541548322117239.generated@prod2.harmonylists.io>
-
->Actually the digits of any number that is a multiple of 9 will have a
->sum of 9 as well.
-
+yuga, VarNa and colour
 Not true: 9 * 11 = 99
-
->Since all of the numbers mentioned are products of
->360, which is 9x40, they will all be multiples of 9.
-
 A number that has 9 as the sum of its digits will be a multiple of 9
 but it doesn't necessarily go the other way (as the example above shows).
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,28 +1,6 @@
-From cejka at praha1.ff.cuni.cz  Fri Apr 15 13:49:58 1994
-From: cejka at praha1.ff.cuni.cz (cejka at praha1.ff.cuni.cz)
-Date: Fri, 15 Apr 94 15:49:58 +0200
-Subject: Transliteration Macros for WP
-Message-ID: <161227016755.23782.5480256814143979363.generated@prod2.harmonylists.io>
-
-> 
-> I'd also be interested in the miraculous macro.  But failing that, I've
-> found that standard Sanskrit translit. can be created in WP5.1-5.2 for
-> Windows, and then kept on the button bar for easy access while writing.  Can
-> send further details to anyone who is interested--email me.
-> 
-> Michael Sweet
-
+Transliteration Macros for WP
 to what address??
-
-
 If it is possible even for WP 51 run whithout windows simply under DOS, I 
 would much appreciate your advice
 	Thanks
-
 cejka at praha1.ff.cuni.cz
- 
-
-
-
-
-

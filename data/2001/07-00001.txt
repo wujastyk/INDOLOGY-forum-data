@@ -1,12 +1,6 @@
-From ucgadkw at UCL.AC.UK  Thu Jul 12 10:03:56 2001
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 12 Jul 01 11:03:56 +0100
-Subject: Constitution and Rules of this List
-Message-ID: <161227069432.23782.9984035486236933748.generated@prod2.harmonylists.io>
-
+Constitution and Rules of this List
 The Scope and Guidelines of the INDOLOGY list
 11 July 2001
-
 (I) Definitions: INDOLOGY is an internet discussion group whose primary
 purpose is to provide a forum for discussion among professional scholars
 of classical Indian civilization.  The central focus of the list is the
@@ -16,7 +10,6 @@ archaeology, art history, folklore, history, linguistics, literature and
 literary criticism, medicine, musicology, numismatics, philology,
 philosophy, political science, psychology, religion, science, and
 sociology.
-
 (II) In this context, "India" refers to the greater Indian cultural
 region, including primarily the regions of modern political India, Sri
 Lanka, Pakistan, Bangladesh, Burma and Nepal and secondarily culturally-
@@ -27,7 +20,6 @@ relating to developments in India after roughly A.D.  1800, while not
 absolutely prohibited, are discouraged.  Such topics are only to be
 tolerated insofar as they pertain specifically to advancing research on
 ancient and classical India.
-
 (III) Membership: INDOLOGY was created to serve as a medium of
 communication between accredited scholars of India who are engaged in
 teaching and research at colleges, universities, and research institutes.
@@ -42,15 +34,12 @@ preferred, even though individuals who are not formally affiliated with a
 university or a similar organization may join provided that their
 scholarly commitment can be made plausible to the list-committee through
 their CV.
-
-
 (IV) Non-members: Non-members will be free to read the discussions in the
 archive and - technology permitting - to receive daily digests by email.
 But they will not be allowed to post messages to the group.  They may,
 however, send questions to the committee for possible forwarding to the
 group.  A formal procedure for the submission of indological queries will
 be established.
-
 (V) Application procedures: Prospective members should compose a concise
 message describing their credentials relevant to Indological
 studies-including such details as advanced degree(s) held, research
@@ -60,7 +49,6 @@ the INDOLOGY committee, at an address to be announced, so that the
 application can be processed.  Applications will be considered on an
 ongoing basis and will be approved by a consensus of the committee
 members.
-
 (VI) Rules: Full members will be expected to maintain commonly-accepted
 standards of decorum in their postings to the group.  Contributions are
 expected to be polite and well-considered.  Members who violate these
@@ -72,8 +60,6 @@ constitutes improper use of the List shall be a matter for the List
 committee.  Members must be familiar with the standard rules of
 netiquette, such as those in RFC 1855 (at, e.g.,
 http://marketing.tenagra.com/rfc1855.html ).
-
-
 (VII) Governing Committee:  The Governing Committee shall consist of
 between five and ten persons who are Full Members of the List and shall be
 chosen by and serve at the discretion of the List Owner.  They shall be
@@ -81,7 +67,6 @@ drawn from a diverse geographical areas and shall be active scholars of
 Indian Studies.  Committee members will be responsible for the maintenance
 and smooth functioning of the list and may be asked to share moderation
 duties on an rotating basis.
-
 (VIII) Encouraged forms of communication: Members may start discussions,
 ask or answer questions, post announcements of publications, meetings,
 conferences or other forms of events characteristic of academia.  Job
@@ -89,13 +74,11 @@ announcements are equally welcome.  Announcement of book publications as
 well as of new journal issues on the part of their authors or editors is
 welcome.  Book catalogues may be linked to the list web-page upon request,
 but should not be posted directly to the list.
-
 (IX) Discouraged forms of communications:  List members are discouraged
 from posting messages that are not part of a discourse on indology.  In
 particular, commercial or advertising messages are strongly deprecated,
 and may lead to suspension.  (On the other hand, authors are positively
 encouraged to post news of their recent academic publications.)
-
 (X) Technical limitations: Due to the danger of spreading computer
 viruses, sending email attachments to the list is forbidden; the same goes
 for e-mail messages containing markup (HTML).  In general, it is suggested
@@ -104,16 +87,7 @@ these on a www- site and request that the link thereto be posted on the
 INDOLOGY website.  Members should restrict quotes from other messages to
 the utmost minimum and not post any messages that exceed two screenfuls of
 text (including quotes).
-
 (XI) Privacy: Reference to and quotation from list messages in
 publications - print or electronic - is permitted only under the express
 permission of the author.
-
-
----
-
 This document was prepared by the INDOLOGY committee.
-
-
-
-

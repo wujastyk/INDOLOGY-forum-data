@@ -1,59 +1,23 @@
-From r.mahoney at INDICA-ET-BUDDHICA.ORG  Wed Aug 11 02:21:00 2010
-From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
-Date: Wed, 11 Aug 10 14:21:00 +1200
-Subject: Sorting Paragraphs
-Message-ID: <161227090139.23782.15712566000195239918.generated@prod2.harmonylists.io>
-
+Sorting Paragraphs
 Dear Philipp,
-
 It might be worth looking at initially manipulating your material in a
 simple unicode encoded text file and only later -- once you're happy
 with what you have -- transfering the material to a RTF file. You
 might also find this Perl script useful. It will run under any system
 with Perl and the Sort::ArbBiLex module.
-
  Sort utf-8 Sanskrit
  Arbitrary lexicographic sorting: Sort UTF-8 encoded Romanised
  Sanskrit.
  http://indica-et-buddhica.org/sections/repositorium-preview/materials/software/sort-utf8-sanskrit
-
 One directory up there is also a script for sorting Wylie
 translit. Tibetan.
-
-
 Kind regards,
-
  Richard
-
-
-
 On Tue, Aug 10, 2010 at 02:21:47PM +0200, Philipp Maas wrote:
-> Dear Colleagues,
-> 
-> I am currently preparing a glossary of Sanskrit terms in transliteration,
-> for which I would like to use a software that sorts paragraphs automatically
-> in a sequence according to the Sanskrit alphabet. I am working with a
-> Unicode font and a Windows operating system. The software (share- or freeware
-> preferred) should be RTF compatible in order to preserve the font formats of
-> the original file.
-> 
-> Any suggestions?
-> 
-> With many thanks in advance and best regards,
-> 
-> Philipp Maas
-> 
-
--- 
 Richard MAHONEY
-
 Littledene, Bay Road, OXFORD 7430, NZ
 PO Box 25, OXFORD 7443
 +64 3 312 1699 / +64 275 829 986
 r.mahoney at indica-et-buddhica.org
 http://indica-et-buddhica.org
 http://camera-antipodea.indica-et-buddhica.com
-
-
-
-

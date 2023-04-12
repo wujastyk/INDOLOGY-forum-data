@@ -1,30 +1,11 @@
-From apandey at u.washington.edu  Thu Jul 31 08:32:24 1997
-From: apandey at u.washington.edu (Anshuman Pandey)
-Date: Thu, 31 Jul 97 01:32:24 -0700
-Subject: HACC indic fonts for MAC
-Message-ID: <161227031700.23782.3567768170395887003.generated@prod2.harmonylists.io>
-
-
+HACC indic fonts for MAC
 The BLACKBOX server was shutdown quite some time ago. Some files from that
 server were moved over to the Indology archive. Tom Ridgeway developed the
 Washington Romanized Indic (WNRI) fonts which are available in Metafont,
 TrueType, and Postscript formats. If these are the HACC fonts you are
 referring to then you may get them from the Indology file area.
-
 If not, then I can ask the folks at CARTAH (formerly known as HACC) for
 further details.
-
 Regards,
 Anshuman Pandey
-
 On Wed, 30 Jul 1997, Carlos Lopez wrote:
-
-> Can someone tell me where I can get a hold of the HACC fonts for MAC.  I
-> tried accessing them through ftp at blackbox.hacc.washington.edu but was
-> unable to get them.  It seems that the ftp is no longer there.
-
-
-
-
-
-

@@ -1,9 +1,4 @@
-From jage at loc.gov  Fri Aug 25 13:20:28 1995
-From: jage at loc.gov (James E. Agenbroad)
-Date: Fri, 25 Aug 95 09:20:28 -0400
-Subject: Encoding
-Message-ID: <161227020698.23782.14466377693023302478.generated@prod2.harmonylists.io>
-
+Encoding
                                         Friday, August 25, 1995
 In November 1991 the Bureau of Indian Standards (BIS) issued
 "Indian standard: Indian script code for information interchange" (IS 13194)
@@ -19,9 +14,3 @@ The above is a purely personal opinion, not the official view of any
 government or any agency of any.
      Regards,
           Jim Agenbroad ( jage at LOC.gov )
- 
-
-
-
-
-

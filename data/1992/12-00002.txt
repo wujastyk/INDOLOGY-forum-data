@@ -1,16 +1,5 @@
-From ucgadkw at UK.AC.UCL  Sun Dec  6 17:56:41 1992
-From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
-Date: Sun, 06 Dec 92 17:56:41 +0000
-Subject: indhist
-Message-ID: <161227015556.23782.1092838228865204012.generated@prod2.harmonylists.io>
-
-
+indhist
 On Dec 5,  7:00pm, Narain wrote:
- 
-> I read through the indhist message, but i did not find any executable
-> files and databases....can anyone please explain how to get these??(do i
-> need to ftp these from some site?)
- 
 The file I sent out was just the readme file.  The whole package is available
 from the INDOLOGY fileserver at Liverpool.  Send the message
 "get indhist xxe" to the address "listserv at liverpool.ac.uk" and the
@@ -20,10 +9,4 @@ will have to run the Install routine.  For me, on an AIX host,
 this worked smoothly, and made an Indhist executable for me in a
 matter of minutes.  NB  Indhist is currently written for Unix, and
 doesn't work on Macs or DOS PCs.
- 
 Dominik
-
-
-
-
-

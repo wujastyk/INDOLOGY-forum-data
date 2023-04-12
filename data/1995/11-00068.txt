@@ -1,12 +1,6 @@
-From ucgadkw at ucl.ac.uk  Tue Nov 14 11:31:48 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Tue, 14 Nov 95 11:31:48 +0000
-Subject: Doniger O'Flaherty's translations (2 of 2)
-Message-ID: <161227021617.23782.16396970960294048288.generated@prod2.harmonylists.io>
-
+Doniger O'Flaherty's translations (2 of 2)
 [sorry, this message was meant to go out at the same time as "1 of 2",
 but a gremlin got it.  It suffered an error ....]
-
 Error
 Anybody who has published a book knows that it is virtually impossible
 to be free from error.  I personally admire enormously the practice
@@ -36,7 +30,6 @@ message that comes out of his critique is that there is a great deal of
 important secondary literature in German which we ignore to our cost. It
 seems to me that this is a more worthwhile discovery, for those who
 didn't know it already, than that WDO makes errors.
-
 Going back to Knuth, he kept a ten-year record of the errors that he and
 others discovered in one of the major computer programs he wrote (TeX),
 and published an analysis of these in an article entitled "The Errors of
@@ -44,27 +37,13 @@ TeX" (_Software practice and experience_ 19 (1989), 607--685, and
 reprinted in _Literate Programming_ (Stanford Univ., 1992)).  This
 analysis has been of great importance to software authors and project
 managers.
-
 Just think how valuable it would be to have an analysis of this sort for
 work in the field of indological translation and editing.
-
-
--- 
-
 Dominik Wujastyk,
 Wellcome Institute,
 183 Euston Road,
 London NW1 2BE.
-
 FAX: +44 171 611 8545
 email: d.wujastyk at ucl.ac.uk
-
 For my PGP public key etc., see my WWW home page:
 http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
-
- 
-
-
-
-
-

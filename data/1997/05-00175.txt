@@ -1,41 +1,19 @@
-From das at netcom.com  Sun May 18 22:27:49 1997
-From: das at netcom.com (Das Devaraj)
-Date: Sun, 18 May 97 15:27:49 -0700
-Subject: yuga, VarNa and colour
-Message-ID: <161227030320.23782.3938294208255785982.generated@prod2.harmonylists.io>
-
+yuga, VarNa and colour
 On Sun, 18 May 1997, Patricia Meredith Greer wrote:
-
-> And what can we make of the fact that the sum of the units 
-> in each of these numbers = 9? eg. 1 728 000 = 
-> 1+7+2+8=18=1+8=9?  This is true of so many of the "indic" 
-> numbers we come across -- the japa mala of 108 beads,etc. 
-> Are there any specific references to this number in the 
-> ancient literature? Or should we look to the 3?  
-
 This is NOT a scholarly opinion -- in any sense of that word :-). 
 During an idle holiday few years ago, I was fooling around with
 various "indic" numbers, calculations etc.  They *seemed* to be 
 based on trinary logic.
-
 A rudimentary example is how easy it is to factor numbers - 108
 is (3**3) x (2**3) --  of course, if you like symmetry and sequences
 you can also multiply that by (1**3)!  That would make 3 factors, 
 3 numbers in a sequence and 3 cubes.  The other number mentioned 
 1,728,000 can be trivially split as (2**3) x (3**3) x (2**3) x (10**3).  
 [ By the way, "a**b" means "a" raised to the power of "b".]
-
 Bizarre?  Certainly.  But most numbers that I looked at had the 
 "thread of 3", interwoven in it.
-
 das
--------------------------------------------------------------------
 Interested in Vegetarianism?             Vegetarian Restaurant Trek
 Web    http://www.VegInfo.com                712 Bancroft Road #320
 e-mail info at VegInfo.com (subject Help)       Walnut Creek, CA 94598
 Interactive Voice/fax Response  (510) 256-8420                  USA
-
-
-
-
-

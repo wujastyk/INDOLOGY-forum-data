@@ -1,18 +1,8 @@
-From hspier.muktabodha at gmail.com  Thu Mar 21 18:37:07 2019
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Thu, 21 Mar 19 14:37:07 -0400
-Subject: [INDOLOGY] Non-standard sandhi
-In-Reply-To: <8b5b5fc1-035f-1578-d456-bca62084838d@gmail.com>
-Message-ID: <CAPW7aQFyFT3dsvUzLmOaPhFOQKFHCJ5HytJ_bPwWfnCLTJ0Q0A@mail.gmail.com>
-
+[INDOLOGY] Non-standard sandhi
 As I said this is a very small sample.  Let me know if you want me to send
 you the entire list.
 Note also that the Rg-veda version used was Aufrechts not the metrically
 restored edition of Van Hooten and Holland.
 Harry
-
 On Thu, Mar 21, 2019 at 2:27 PM Martin Gansten <martingansten at gmail.com>
 wrote:
-
-> Thank you, Harry. Most of these are just instances where sandhi has not
-> been implemented, or (in the case of Veda) where a text has been metrically

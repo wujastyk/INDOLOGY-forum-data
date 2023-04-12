@@ -1,31 +1,22 @@
-From AppuArchie at AOL.COM  Sat Feb 14 13:12:58 1998
-From: AppuArchie at AOL.COM (Ramalingam Shanmugalingam)
-Date: Sat, 14 Feb 98 08:12:58 -0500
-Subject: FREE Yarzhan Thamizh Editor Installation.
-Message-ID: <161227035674.23782.9711733728309410773.generated@prod2.harmonylists.io>
-
+FREE Yarzhan Thamizh Editor Installation.
 Hello,
       Since the CPDYTE file was compressed, some have experienced installation
 problems. This situation has been corrected and made easier. It is important
 to read the README.TXT before attempting instalallion. Hence a copy of
 README97.TXT is attached for ready reference. If you still have any problem
 please contact me. Thank you. R. Shanmugalingam. February 14, 1998.
-
 YOU MUST READ AND AGREE TO THIS LISCENSE AGREEMENT BEFORE USING THE
 SOFTWARE. IMPORTANT INSTALLATION AND SUPPORT INSTRUCTIONS
 ARE INCLUDED IN THIS DOCUMENT.
-
 ***********************************************************************
 *  Character Phonetic Dependencies Editor: Yarzhan Tamil Editor V2.1  *
 *  Copyright 1995 - 1998  C. Harrises / R. Shanmugalingam             *
 ***********************************************************************
-
 WARNING: THIS COMPUTER PROGRAM IS PROTECTED BY COPYRIGHT LAW AND
 INTERNATIONAL TREATIES.  UNAUTHORIZED REPRODUCTION OR DISTRIBUTION
 OF THIS PROGRAM, OR ANY PORTION OF THIS PROGRAM, MAY RESULT IN SEVERE
 CIVIL AND CRIMINAL PENALTIES.  VIOLATORS WILL BE PROSECUTED TO THE
 MAXIMUM EXTENT POSSIBLE UNDER THE LAW.
-
 This software is provided to you for evaluation and use throughout 1998.
 You are free to use this software to generate and read Tamil and English
 documents, but for those uses only. This is a full version of the Yarzhan
@@ -34,24 +25,16 @@ offered to you for no charge at this time in the interest of helping all
 those that desire a fast and simple method for typing Tamil on a standard
 computer keyboard.  You must read and agree to the following License
 Agreement before installing, copying, or using the Yarzhan Tamil Editor.
-
-
-
     L I C E N S E   A G R E E M E N T
     ---------------------------------
-
 Use of the Yarzhan Tamil Editor is subject to the following terms and
 conditions.
-
 Title To The Licensed Software
-------------------------------
 Title to the licensed software is NOT transferred or sold to the end user.
 The end user is granted a non-exclusive license to use the software on a
 SINGLE computer or computer workstation. EACH computer or computer
 workstation must have its own licensed copy of the software.
-
 Copyright Protection
---------------------
 The Yarzhan Tamil Editor is copyrighted material. It is protected by the
 copyright laws of the United States, the State of New Hampshire,
 international treaties, and other proprietary rights of
@@ -59,19 +42,15 @@ C. Harrises / R. Shanmugaingam. You may not make any changes or
 modifications to the Yarzhan Tamil software or documentation. You may not
 decompile, disassemble, or otherwise reverse-engineer the software in any
 way.
-
 You may make copies of the Yarzhan Tamil Editor only under the terms of the
 section entitled "Limited License To Copy The Licensed Software".
-
 You may use the Yarhan Tamil Editor throughout 1998 on a trial basis only,
 provided you do not violate the protection afforded the licensed software
 by the copyright laws, and you agree to the terms of the license agreement.
 The Yarzhan Tamil Editor Software V2.1 expires after 1998. If you wish to
 use the Yarzhan Tamil Editor after the expiration date you must purchase
 the software.
-
 Limited Warranty
-----------------
 C. Harrises / R. Shanmugalingam does not warrant that the licensed software
 will meet your requirements or that the operation of the software will be
 uninterrupted or error free.  The warranty does not cover any media or
@@ -79,20 +58,15 @@ documentation which has been subjected to damage or abuse by you or others.
 The software warranty does not cover any copy  of the licensed software
 which has been altered or changed in any way. Stated clearly, THERE IS NO
 WARRANTY PROVIDED FOR USE OF THE YARZHAN TAMIL EDITOR SOFTWARE.
-
 ANY IMPLIED WARRANTIES INCLUDING ANY WARRANTIES OF MERCHANTABILITY OR
 FITNESS FOR A PARTICULAR PURPOSE ARE LIMITED TO THE TERM OF THE EXPRESS
 WARRANTIES. Some States do not allow limitations on how long an implied
 warranty lasts, so the above limitation may not apply to you.
-
 Other Warranties
-----------------
 The warranties set forth above are in lieu of any and all other express or
 implied warranties, whether oral, written, or implied, and the remedies set
 forth above are the sole and exclusive remedies.
-
 Limitation Of Liability
------------------------
 C. Harrises / R. Shanmugalingam is not responsible nor liable in anyway
 for any problems or damage caused by the licensed software that may result
 from using the licensed software. This includes, but is not limited to,
@@ -106,18 +80,14 @@ C. Harrises / R. Shanmugalignam OR ITS AGENTS OR DISTRIBUTORS HAVE BEEN
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  Some states do not allow the
 exclusion or limitation of incidental or consequential damages, so the above
 limitation or exclusion may not apply to you.
-
 In no case shall C. Harrises / R. Shanmugalingam's liability exceed the
 license fees paid for the right to use the licensed software, or a sum no
 greater than one Dollar ($1.00), whichever is less.
-
 Limited License To Copy The Software
-------------------------------------
 You are granted a limited license to copy the Yarzhan Tamil Editor ONLY FOR
 THE TRIAL USE OF OTHERS subject to the terms of this software license
 agreement described herein, and that the conditions described below are
 met:
-
   *  The Yarzhan Tamil Editor MUST be copied in an unmodified form, provided
      as the file TAMED.EXE which MUST contain only the following eleven
      files:
@@ -132,19 +102,12 @@ met:
        WELCOME.TXT
        WINSTALL.INF
        YARZHAN.TTF
-
   *  No fee, charge or other compensation may be accepted or requested by
      anyone without the express written permission of
      C. Harrises / R. Shanmugalingam.
-
-
 The above constitutes the license agreement for the Yarzhan Tamil Editor.
 It supersedes any and all previous license agreements.
-
-
 Support
--------
-
 FOR ADDITIONAL INFORMATION, CONTACT:
   R. Shanmugalingam ("Shan")
   International Products Group
@@ -152,11 +115,7 @@ FOR ADDITIONAL INFORMATION, CONTACT:
   Marblehead, MA 01945, USA
   Voice/FAX (617)639-2612
   email: appuarchie at aol.com
-
-
-
 DOCUMENTATION:
---------------
 The user should read not only this file (README.TXT), but the online help
 within the editor.  Two files are provided as a courtesy to the user:
   TAMCHRT.WB3
@@ -164,10 +123,7 @@ within the editor.  Two files are provided as a courtesy to the user:
 These are Quatro Pro Version 7 spreadsheet files which contain the
 Character-Keyboard Dependencies Chart and the Keyboard Layout.  The printout
 of these files may be easier to read than the graphics in the online help.
-
-
 INSTALLATION INSTRUCTIONS:
---------------------------
 The file TAMED.EXE is self-extracting and self-installing.
 For Windows 3.1:
 1.  For Windows 3.1, from the Program Manager menu, click on "File".
@@ -180,21 +136,11 @@ For Windows 3.1:
 5.  Follow the instructions on the screen.
 6.  After installation you must exit Windows.  The required fonts will be
     correctly installed only after you restart Windows.
-
-
 TO RUN THE PROGRAM:
--------------------
 1.  Double click on the group "Thamizh Editor"
 2.  Double click on the item "Editor"
-
-
 RELEASE NOTES:
---------------
 1.  Due to a limitation in WordPerfect "cutting" from this editor and
     "pasting" into a WordPerfect document does not work properly.
     "Pasting" into Microsoft Write, Microsoft WordPad, and Microsoft Word
     does work fine.
-
-
-
-

@@ -1,50 +1,14 @@
-From ucgadkw at UCL.AC.UK  Tue Feb 17 14:47:37 2009
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 17 Feb 09 14:47:37 +0000
-Subject: frequencies
-In-Reply-To: <b98072d03dcca14cea88ae66276a3867.squirrel@webmail.uoa.gr>
-Message-ID: <161227084896.23782.14884572457737509410.generated@prod2.harmonylists.io>
-
-
+frequencies
 Dear Alexandra,
-
 The new SARIT service can do this.
-
 E.g.,
-
    http://sarit.indology.info/newphilo/getwordcount.pl?indologica.0.1
-
 is a wordlist of the Arthasastra, sorted in descending order of frequency. 
 Ca and v? head the list, as one would expect.  One can also do Manu.
-
 The Intratext service does this too.  See
-
  	http://www.intratext.com/BHI/
-
 There are the Skt texts of the RV, Kasikavrtti and Mahabhasya.
-
 Best,
 Dominik
-
-
-
-
--- 
 Dr Dominik Wujastyk
-
-
-
-
 On Tue, 17 Feb 2009, Alexandra Vandergeer wrote:
-
-> Dear Sanskritists,
->
-> Did anyone ever compile a frequency list of Sanskrit nouns, verbs and
-> adjectives in terms of use per 1000 lemmas?
->
-> Alexandra van der Geer
->
-
-
-
-

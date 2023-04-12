@@ -1,17 +1,9 @@
-From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Sun Jun 28 11:15:38 2009
-From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
-Date: Sun, 28 Jun 09 13:15:38 +0200
-Subject: Orthographic conventions (Re: New discovery in Tamil Nadu
-In-Reply-To: <20090628054451.GB13588@ubuntu>
-Message-ID: <161227086854.23782.4392698998149056482.generated@prod2.harmonylists.io>
-
+Orthographic conventions (Re: New discovery in Tamil Nadu
 Dear Stefan Baums,
 Dear George Hart,
 dear list members,
-
 it is possible that the spelling is simply dictated by the orthographic 
 conventions of that time.
-
 In the system which is described/codified  for ancient tamil in the 
 Tolk?ppiyam E?uttatik?ram (TE)
 (i.e. the first book [having 483 s?tras] inside of the Tolk?ppiyam [a 
@@ -23,27 +15,21 @@ which were probably not written with special signs at the time
 but which are important in the precise description
 of the conditions of application of a number of morpho-phonological rules
 and also for the correct scansion of verse.
-
 The twelve vowels are: a ? i ? u ? e ? ai o ? au
 and the eighteen consonants are: k ? c ? ? ? t n p m y r l v ? ? ? ?
-
 All the vowels (except au, to my current knowledge)
 are attested inside the corpus of early inscriptions
 but there are nevertheless a number of things to be noted.
-
 "ai" is nominally a long (ne?il) vowel but is in fact "reduced" in 
 duration most of the time
 See what s?tra TE57i says [i.e. s?tra 57 according to the numbering by 
 the commentator I?amp?ra?ar]:
-
 ?ra?a p?ku mi?a?um? ru??? // t?ru? k?lai mo?ivayi ???a (TE57i).
-
 "There are also environments/places wherein (they) become one a?apu 
 (unit measure of time).
 When one examines, (it will be seen that it happens so when they are 
 employed) in words"
  [TE57i translation by V.S. Rajam, 1981]
-
 Later grammarians explain that, except when naming itself (in a 
 metalinguistic context),
 the vowel "ai" is reduced [they call it "aik?rak ku?ukkam] and has a 
@@ -54,74 +40,37 @@ a duration of 1 unit of time.
 ["aik?rak ku?ukkam" was precisely the topic of a presentation I made at 
 the last ICHoLS conference, at Potsdam, in september 2008,
 and which should be published at some point in the future]
-
 However, one must add that several grammarians insist on the fact that 
 "ai" has sometimes a duration of 1,5 measure (especially in the first 
 syllable of words).
-
 That seems to mean that:
-
--- in the initial syllable of a word, what is written "ai" stands for 
 "ay" or "?y" (the opposition a/? being neutralized before "y"), which 
 has a duration of 1.5 measures
-
--- in other syllables, what is written "ai" stands for the short vowel 
 "?" ["aik?rak ku?ukkam" = reduced "ai"), which has a duration of 1 measure.
-
 However, a number of other facts have to be mentionned:
-
 TE54i and TE56i describe what is often explained [by later writers] as 
 alternate spellings for "ai" [they mention those spellings as "p?li 
 e?uttu"], but it is possible that it was in some cases the only way to 
 spell.
-
 The spelling convention described in TE56i makes use of "y"
 (I?amp?ra?ar says that "aiva?am" can be written "ayva?am"
-
 As explained by I.Mahadevan[2003:183], the earliest occurence of "ai" as 
 standalone "initial vowel" is found in a 6th century A.D. va??e?uttu 
 inscription at Thirunatharkunru (see Mahadevan[2003:473] for an 
 idealized facsimil?). However, combined with a consonant, the "medial 
 -ai" sign is found from the 2nd century B.C. onwards (see 
 Mahadevan[2003:317).
-
 I.Mahadevan [2003:269] notes that "-ai" is often followed by "paragogic" 
 suffix "y".
-
 All this may suggest that the spelling "vayra" (as given by the article 
 in The Hindu) might be the spelling [va-ya-ra] used in those days
 to write what would be written nowadays as vai-ra (or vai-ra-m).
-
 It may have been pronounced "v?yra" (or v?ra ?).
-
 Of course, it is slightly (very? :-)
 unreasonable to speculate solely on the basis of an article in The Hindu,
 but hopefully, we shall have in the near future more scholarly sources 
 of information,
 thanks to scholars such as Y.Subbarayalu, K. Rajan and  I.Mahadevan.
 But of course, journalists are always impatient.
-
 Best wishes
-
--- Jean-Luc Chevillard (Paris)
-
-
 Stefan Baums a ?crit :
-> The Pali (and other MIA) word is vajira with epenthesis, so I
-> imagine that that is what was borrowed into Tamil. The further
-> sound change of intervocalic j to y could have happened either in
-> MIA (certainly in the Northwest at the same time) or, apparently,
-> in Tamil. ? Why it would be written vayra (not vayira) in the new
-> inscription remains puzzling, especially if it is still vayiram in
-> modern Tamil, but maybe the newsreport just omitted the i. Well, I
-> assume photos will be published in due course, and then we will
-> see.
->
-> Best regards,
-> Stefan Baums
->
->   
-
-
-
-

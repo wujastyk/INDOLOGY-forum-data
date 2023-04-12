@@ -1,33 +1,13 @@
-From martinez at em.uni-frankfurt.d400.de  Fri Jul 21 03:12:50 1995
-From: martinez at em.uni-frankfurt.d400.de (F.J. Martinez Garcia)
-Date: Thu, 20 Jul 95 21:12:50 -0600
-Subject: Sanskrit fonts
-Message-ID: <161227020076.23782.18154017768651802086.generated@prod2.harmonylists.io>
-
-
->Would you kind people on this list please give me some information about
->the fonts for computers now available for Sanskrit, particularly the Roman
->script with the proper accents? Or the original? Thank you in advance.
-
+Sanskrit fonts
 You can have a look at
 http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/
 public_html/software/e-softwa.html
-
 Best regards J.M.
-
    =======================================================================
                   Dr. Fco. Javier Mart!nez Garc!a
-
    Vergleichende Sprachwissenschaft   |  tel.     +49- 69- 7982 2847
    Universitt Frankfurt              |   (sekr.) +49- 69- 7982 3139
    Postfach 11 19 32                  |  fax.     +49- 69- 7982 2873
    D-60054 Frankfurt                  |  martinez at em.uni-frankfurt.d400.de
      http: //www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html
    =======================================================================
-
- 
-
-
-
-
-

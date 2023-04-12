@@ -1,22 +1,8 @@
-From zydenbos at flevoland.xs4all.nl  Wed Apr 16 19:59:06 1997
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Wed, 16 Apr 97 18:59:06 -0100
-Subject: `Conversational Sanskrit' vs `Real Sanskrit'
-Message-ID: <161227029745.23782.5036451502606231791.generated@prod2.harmonylists.io>
-
-
+`Conversational Sanskrit' vs `Real Sanskrit'
 Replies to msg 16 Apr 97: indology at liverpool.ac.uk
 (vidynath at math.ohio-state.edu)
-
  voe> From: Vidhyanath Rao <vidynath at math.ohio-state.edu>
- voe> Subject: Re: `Conversational Sanskrit' vs `Real Sanskrit'
-
-> It is possible (or likely?) that a parallel, though certainly not
-> cognate,
-> construction in the Dravidian languages has contributed to the popularity
-> of -tavant, namely the combination of a relative participle with a
-> pronominal ending. E.g.: Kannada maa.dida-, or Tamil ceyta-, [...]
-
+ voe> Re: `Conversational Sanskrit' vs `Real Sanskrit'
  voe> I don't know Kannada. But in colloquial Tamil, the past
  voe> tense is not
  voe> expressed using participle like forms. The typical
@@ -27,12 +13,10 @@ Replies to msg 16 Apr 97: indology at liverpool.ac.uk
  voe> of relative claueses and to put emphasis on the subject,
  voe> but not, AFAIK,
  voe> as the typical means of expressing the past tense.
-
 Of course, "vii.tukku poo_nava_n naa_n" would be more literally translated
 something like: "The one who went home am I." And this is hardly a typical
 everyday past tense construction -- just as, we may add, the Sanskrit past in
 -tavant is unusual.
-
 But passive constructions in the Dravidian languages are cumbersome and little
 used, which is a reason why South Indians (and not only they: me too!) have
 difficulties in using the Urdu-Hindi past tense of transitive verbs, which is
@@ -47,11 +31,4 @@ endings resemble each other phonetically, which is helpful in memorizing the
 construction. Furthermore, avoiding a conjugated active past-tense verb form by
 using a verbal agentive noun reduces the amount of grammar which the learner
 needs to learn and thus further simplifies this neo-Sanskrit.
-
 - Robert Zydenbos
-
-
-
-
-
-

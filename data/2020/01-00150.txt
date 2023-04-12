@@ -1,29 +1,13 @@
-From drdhaval2785 at gmail.com  Sun Jan 26 14:30:33 2020
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sun, 26 Jan 20 20:00:33 +0530
-Subject: =?utf-8?B?W0lORE9MT0dZXSDgpI/gpJXgpL7gpLDgpY3gpKXgpKjgpL7gpK7gpK7gpL7gpLLgpL4sIOCkpuCljeCkteCljeCkr+CksOCljeCkpeCkqOCkvuCkruCkruCkvuCksuCkviBvZiDgpLjgpYzgpK3gpLDgpL8=?=
-Message-ID: <CADSGPzVVR3h52aDMu8Vy6pyNF6yej1R+yGOjcn5JdJrrj0KZ3A@mail.gmail.com>
-
+=?utf-8?B?W0lORE9MT0dZXSDgpI/gpJXgpL7gpLDgpY3gpKXgpKjgpL7gpK7gpK7gpL7gpLLgpL4sIOCkpuCljeCkteCljeCkr+CksOCljeCkpeCkqOCkvuCkruCkruCkvuCksuCkviBvZiDgpLjgpYzgpK3gpLDgpL8=?=
 Dear scholars,
-
 It is my pleasure to present before you the two lexica
 1. Ek?rthan?mam?l? of Saubhari
 2. Dvyak?ar?n?mam?l? of Saubhari.
-
 https://github.com/sanskrit-kosha/kosha/blob/master/ekarthanamamala_saubhari/orig/ekarthanamamala.txt
 and
 https://github.com/sanskrit-kosha/kosha/blob/master/dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt
-
 The data was taken from sansknet archive at https://wilbourhall.org/ and
 corrections / additions made.
-
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Surat
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200126/d4a1242e/attachment.htm>
-

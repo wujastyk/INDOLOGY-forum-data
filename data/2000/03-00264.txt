@@ -1,11 +1,5 @@
-From swamiji at VSNL.COM  Tue Mar 14 20:37:16 2000
-From: swamiji at VSNL.COM (Dr Shivamurthy Swamiji)
-Date: Wed, 15 Mar 00 02:07:16 +0530
-Subject: Ganakashtadhyayi - A Software on Panini's Sutras
-Message-ID: <161227056845.23782.12027122679362814009.generated@prod2.harmonylists.io>
-
+Ganakashtadhyayi - A Software on Panini's Sutras
 Dear scholars of Indology,
-
 The 11th World Sanskrit Conference scheduled to be held in Turin in the
 beginning of next month reminds me of its previous conference held at our
 Taralabalu Kendra in Bangalore 3 years ago. I had the privilege of being the
@@ -14,17 +8,13 @@ Bangalore conference and presented scholarly papers.  Some of you even
 helped me in organizational/academic matters with good advice and active
 participation.  After the conference was over, I could not personally thank
 you enough, for all that help I received.
-
 On the eve of the Turin Conference and the Sanskrit year, I wish to offer
 all of you a small gift in the form of a software developed by me on
 Panini's sutras.  The software is named as Ganakashtadhyayi  (windows
 version 1.0) and is freely downloadable from the site:
-
 http://www.vsna.org/swamiji/panini/win/win_panini.html
-
 The present version (1.0) is only a preliminary version containing minimum
 features:
-
 1. All the Sutras of Panini are given in Roman script using standard
 diacritical marks.
 2. Pada-Patha:  Splitting of Sandhis in the Sutras for easy comprehension
@@ -33,24 +23,15 @@ diacritical marks.
 (Incomplete)
 4. Sutras can be sorted in the order of Ashtadhyayi, Siddhanta Kaumudi or
 Laghu Kaumudi.
-
 We have tested the software with Internet Explorer (4.0) and Netscape (4.7)
 on the operating system Windows 98.  However, Windows NT users are advised
 not to download.
-
 Any comments or suggestions for the improvement of the software are most
 welcome.
-
 Looking forward to seeing some of you at the Turin conference!
-
 Dr Shivamurthy Swamiji
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Taralabalu Kendra, 3rd Main, 2nd Block, RT Nagar, Bangalore - 560 032,
 India
 * swamiji at vsnl.com   Fax: +91-(0)80-3334541, Tel: +91-(0)80-3332759
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-

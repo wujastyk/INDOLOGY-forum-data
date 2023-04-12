@@ -1,14 +1,6 @@
-From athr at LOC.GOV  Thu Jul 28 18:23:02 2011
-From: athr at LOC.GOV (Thrasher, Allen)
-Date: Thu, 28 Jul 11 14:23:02 -0400
-Subject: A Question
-In-Reply-To: <CAEgrCzCJqouwqMo394Akw-mWH6ttXMfh7iHYTOXNjydCNn1EBA@mail.gmail.com>
-Message-ID: <161227093265.23782.3567512784108957021.generated@prod2.harmonylists.io>
-
+A Question
 Artur,
-
 There appear to be two publications translating the edicts into Sanskrit but not mentioning Smith, according to my library's online catalog:
-
 LC control no.:       95909046 
 Type of material:  Book (Print, Microform, Electronic, etc.)
 Personal name:     Bhat?t?a, Jana?rdana.
@@ -35,9 +27,7 @@ Series:            SAMP early 20th-century Indian books project ; item 21532.
 LC classification: Microfilm CSL-HIN-168 (P)
 CALL NUMBER:       Microfilm CSL-HIN-168 (P) So Asia
                    Copy 1
--- Request in:     Asian Reading Room (Jefferson, LJ150)
 ================================================================================
-
 LC control no.:       58015474 
 Type of material:  Book (Print, Microform, Electronic, etc.)
 Personal name:     As?oka, King of Magadha, fl. 259 B.C. 
@@ -54,21 +44,12 @@ Series:            Institute of Indology series, no. 7
 LC classification: DS451.5 .A23 1956
 CALL NUMBER:       DS451.5 .A23 1956
                    Copy 1
--- Request in:     Jefferson or Adams Building Reading Rooms
-
 =================
-
 I see a probable spelling error or two in the record which I will get corrected.
-
 WorldCat shows a single copy of a second ed. of the first book, published Dilli, Pablikesansa Divizana, 1957, in a single volume. This is in Chicago.
-
 However, it is possible what is offered is a Hindi translation of Smith, which someone has identified as Sanskrit from the Nagari script.  I cannot locate online a Hindi or Sanskrit translation of Smith, but Western libraries would not buy such a work and Indian libraries are not on OCLC/WorldCat yet, for the most part.
-
 WWW.used.addall.com shows this title with a reference to Amazon.com, but with the additional information that it was from  Munshiram Manoharlal, being published in 1992.  Perhaps you could ask Munshiram < http://www.mrmlonline.com > if that is indeed what it was.
-
-
 Allen
-
 Allen W. Thrasher, Ph.D.
 Senior Reference Librarian and Team Coordinator
 South Asia Team
@@ -79,9 +60,3 @@ USA
 tel. 202-707-3732
 fax 202-707-1724
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
- 
-
-
-
-

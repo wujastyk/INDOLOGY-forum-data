@@ -1,29 +1,18 @@
-From LubinT at wlu.edu  Wed Oct 30 19:40:49 2013
-From: LubinT at wlu.edu (Lubin, Tim)
-Date: Wed, 30 Oct 13 19:40:49 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Pata=C3=B1jali's_syntax?=
-In-Reply-To: <B257C7D7-CFD2-4622-B99D-F41651ACD6AD@usp.br>
-Message-ID: <CE96CBA0.1EC45%lubint@wlu.edu>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Pata=C3=B1jali's_syntax?=
 Dear Adriano,
-
 However one wishes to explain yad here, this basic sentence structure -- [predicate noun/adj] [+/- ha/hi] [+/- vai] [demonstative pronoun as subject] yad [noun] is ubiquitous in Br?hma?a prose.  Just try a mechanical search of Vedic prose and you get many hits.  The meaning is pretty clear.  For what it is worth, Hans's explanation seems best to me.  Clearly all these yads cannot be glossed with yasm?t!
-
 from KS:
 utsannayaj?o v? e?a yad agni?
 devaratho v? e?a yad yaj?as
 sam?tayaj?o v? e?a yad dar?ap?r?am?sau   << note that e?a agrees with yaj?a? perhaps by attraction
-
 TS:
 mah?n hy e?a yad agnis  2.5.9.1
 vipr? hy ete yac chu?ruv??sa?  2.5.9.2
 pur???yatano v? e?a yad agnis  5.1.2.4
 vajr? v? e?a yad a?vas 5.1.2.6
 etc. etc.
-
 JUB 1.22:
 indra e?a yad udg?t?
-
 ?BM:
 devap?tra? v? e?a yad agnis  (1.4.2.13)
 devap?tra? v? e?a yad va?a?k?ra? (1.7.2.13)
@@ -32,100 +21,46 @@ b?haspatisavo v? e?a yadv?japeyam (5.2.1.19)  << same lack of agreement
 praj?patir v? e?a yad ajar?abha[?]  (5.2.1.24)
 varu?asavo v? e?a yad r?jas?ya?  (5.3.4.12)   << lack of agreement
 etc. etc.
-
 This is only a portion found from one search ("e?a yad"; plus one found by chance); using all the other forms of e?a-, and other sandhi for yad will produce a list of hundreds.
-
 e.g., from KS:
 s???ir v? etad had agnihotram
-
 TS 2.4.11.1:
 g?yatr? v? e?? yad u??ih?
 TS 6.2.10.4:
 vajra iva v? e?? yad abhrir
-
 It would seem that setting off the subject by the intervening yad has the effect of relaxing the sense that the demonstrative pronoun must agree with it, allowing occasional attraction to the predicate.
-
 Best wishes,
 Tim
-
 Timothy Lubin
 Professor of Religion
 Washington and Lee University
 Lexington, Virginia 24450
-
 http://home.wlu.edu/~lubint
 http://wlu.academia.edu/TimothyLubin
 http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
-
-
-
-
-From: Adriano Aprigliano <aprigliano at usp.br<mailto:aprigliano at usp.br>>
-Date: Wednesday, October 30, 2013 2:34 PM
-To: George Cardona <cardonagj at verizon.net<mailto:cardonagj at verizon.net>>
-Cc: Indology <indology at list.indology.info<mailto:indology at list.indology.info>>
-Subject: Re: [INDOLOGY] Pata?jali's syntax
-
+Re: [INDOLOGY] Pata?jali's syntax
 Dear colleague,
-
 Still on the order matter, in the commentary you quote, the commentator understands e?a? as bound to apa?abda?, forming the subject part of the sentence (e?o'pa?abda?), and mleccha? as the predicate ?if I understood it right? ("this deviant word is [indeed] barbaric, known as barbaric"). But if that is so, how to account, syntactically, for yad being in between e?a? and apa?abda? in the original text? Would it be possible with e?a? as an adjective pronoun?
-
 Best wishes
-
 Prof. Dr. Adriano Aprigliano
 ?rea de L?ngua e Literatura Latina
-
 Faculdade de Filosofia, Letras e Ci?ncias Humanas
 Universidade de S?o Paulo
 S?o Paulo, Brasil
-
-
-
-
-
-
-
-
 Em 30/10/2013, ?s 13:00, George Cardona escreveu:
-
 Dear colleague, If I understand you properly, you consider that the expected form should be ya?, construed with apa?abda?, hence the syntactic problem.  On the other hand, yad can be adverbial, equivalent to yasm?t.  This is the syntax given in the S?ktiratn?kara (ed. Vaman Shastri Bhagavat, p. 44.5-6): ???????? ?????????????? ? ??? ???????????????? ???????? ???????????????????? ?????????
 On Oct 30, 2013, at 8:38 AM, Adriano Aprigliano wrote:
-
 Dear colleagues,
-
 I have been having doubts on how to translate this MBh?? sentence (Kielhorn, p.2, line 8):
-
 te'sur??. te sur? helayo helaya iti kurvanta? par?babh?vu?. tasm?d br?hma?ena na mlecchitavai n?pabh??itavai. mleccho ha v? e?a yad apa?abda?.
-
 The problem is on the last sentence, what to make of that yad apa?abda?. I start with ' for this one/he is indeed a mleccha...".
-
 Any suggestions?
-
 best wishes
-
 Prof. Dr. Adriano Aprigliano
 ?rea de L?ngua e Literatura Latina
-
 Faculdade de Filosofia, Letras e Ci?ncias Humanas
 Universidade de S?o Paulo
 S?o Paulo, Brasil
-
-
-
-
-
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 http://listinfo.indology.info
-
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131030/c7421a69/attachment.htm>
-

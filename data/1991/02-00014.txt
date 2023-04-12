@@ -1,52 +1,30 @@
-From hcf1dahl at EARN.UCSBUXA  Thu Feb 28 20:34:13 1991
-From: hcf1dahl at EARN.UCSBUXA (hcf1dahl at EARN.UCSBUXA)
-Date: Thu, 28 Feb 91 12:34:13 -0800
-Subject: REACH on FTP
-Message-ID: <161227014980.23782.82374757641192174.generated@prod2.harmonylists.io>
-
- 
-
+REACH on FTP
 This is an addendum to my recent posting on the availability
 through anonymous FTP of _REACH_, Research and Educational
 Applications of Computers in the Humanities, the newsletter
 of the Humanities Computing Facility of the University of
 California, Santa Barbara.
- 
 If you are FTPing from a computer using the CMS operating
 system, you'll find that CMS will insist on each file having
 a two part name of the "filename filetype" construction.
- 
 You won't have any trouble transferring the files containing
 the various issues of _REACH_, because each of those has a
 compound UNIX name such as "reach.9101" which CMS happily
 turns into a "filename filetype" construction during the FTP
 file transfer process.
- 
 However, CMS doesn't like the "readme" file with its single
 part name, and will give you an error message if you try to
 transfer it without renaming it during the transfer process.
- 
 Fortunately, such renaming during the FTP process is quite
 straightforward. To transfer the "readme" file just use the
 command:
- 
      get readme readme.memo
- 
 This will transfer the "readme" file to your machine as
 "readme.memo," which CMS will find quite acceptable.
- 
 I did ask our local FTP wizard if it might not be a good
 idea for me to rename my "readme" file to "readme.memo" and
 eliminate the problem at its source, but he advised against
 that technique, citing long established UNIX conventions.
- 
 Regards,
- 
 Eric Dahlin
 HCF1DAHL at ucsbuxa.bitnet
- 
-
-
-
-
-

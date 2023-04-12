@@ -1,16 +1,5 @@
-From pdb1 at columbia.edu  Thu Jun 19 16:20:28 1997
-From: pdb1 at columbia.edu (Peter D Banos)
-Date: Thu, 19 Jun 97 12:20:28 -0400
-Subject: hindu once again
-Message-ID: <161227031130.23782.15846450659012999227.generated@prod2.harmonylists.io>
-
+hindu once again
 On Sun, 15 Jun 1997, Jacob Baltuch wrote:
-
-> In the same vein, can anyone explain the Hebrew name of India, "hodu"?
-> (That's the modern pronunciation. Originally it should be "hoddu" or "hodhu",
-> I don't remember which but I suspect it should be the latter; it can be found
-> in the Bible, in the first verse of the Book of Esther, for example)
-
 Klaus Karttunen has pointed out that the assimilation of _nd_ to _dd_ is
 not unusual in Hebrew. This however does not explain how the vowel became
 _o_. 
@@ -23,12 +12,5 @@ all. So something looking like "hnd" or "hndw" could have been misread as
 "hwd" or "hwdw" - which would give the form written in the Book of Esther.
 Like I say, this is pure speculation; it is based only on 
 my having seen even weirder things happen with scripts like the Pahlavi.
-
 						-Peter D. Banos
 						  Columbia University
-
-
-
-
-
-

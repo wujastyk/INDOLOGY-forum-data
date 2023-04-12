@@ -1,21 +1,11 @@
-From scharfpm7 at gmail.com  Tue Apr  5 02:57:54 2022
-From: scharfpm7 at gmail.com (Peter Scharf)
-Date: Mon, 4 Apr 2022 21:57:54 -0500
-Subject: [INDOLOGY] Indian linguistic studies in honor of George Cardona
-In-Reply-To: <SY7PR01MB81734781C0DFACFF4BDA9006DDE49@SY7PR01MB8173.ausprd01.prod.outlook.com>
+[INDOLOGY] Indian linguistic studies in honor of George Cardona
 References: <D82C93A6-9661-4FE0-838B-07FE3DFDCA15@gmail.com>
  <SY7PR01MB81734781C0DFACFF4BDA9006DDE49@SY7PR01MB8173.ausprd01.prod.outlook.com>
-Message-ID: <1FADAA59-4243-4245-8F64-7A7DA94A9FC4@gmail.com>
-
 Dear Mark and other Colleagues,
-
 Mark Allon alerted me to the fact that the contributors lists and tables of contents are not shown on the Lulu Press page for the volumes in honor of Professor Cardona as I had written in my announcement.  I?m not sure why these are not displayed but I copy what I submitted to the Press below.
-
 Yours,
 Peter
-
 Volume I: vy?kara?a and ??bdabodha
-
 Contributor Notes (2255 / 2500)
 ?Anuja P. Ajotikar, Lecturer in Sanskrit, Department of P?li and Languages, Shan State University, Taunggyi, Myanmar; Research Associate, Text Surrounding Text Project, Universit?t Hamburg.
 ?Tanuja P. Ajotikar, Assistant Professor, The Sanskrit Library, Providence, Rhode Island; Co-Director, India Programs, Department of Sanskrit, Maharishi Vedic University, Vlodrop, Holland.
@@ -36,76 +26,12 @@ Contributor Notes (2255 / 2500)
 ?????? ?????, Assistant Professor, Sanskrit Department, University of Delhi, Delhi.
 ?Toru Yagi, Professor Emeritus, Osaka Gakuin University, Osaka, Japan.
 ?Toshihiro Wada, Professor Emeritus, Nagoya University, Nagoya, Japan
-
 Table of Contents (1870 / 2500)
 ?Preface ... iii. ?Contributors ... xv. ?Tables of contents ... xix. ?????????????????????????: a work on variations in the s?tras of the A???dhy?y? by Tanuja P. Ajotikar, Anuja P. Ajotikar, and Peter M. Scharf ... 1. ?Rule-prioritization principles in the derivation of compound absolutives in \textbf{l}ya\textbf{p}. by Peter M. Scharf ... 55. ?Are taddhita affixes provided after pr?tipadikas or after padas? by Peter M. Scharf ... 125. ?On the necessity of immediate sequence (?nantarya) in the A???dhy?y? by Sharon Ben-Dor ... 121. ?P??ini's definition of the bahuvr?hi as ?e?a `remainder' by Masato Kobayashi ... 217. ?On the formation of ekade?isam?sas by Andrey Klebanov ... 237. ?Sarvadar?anasa?graha and V?kyapad?ya by Johannes Bronkhorst ... 297. ?On the construction artha + instrumental by Toru Yagi ... 313. ?The Vedic subjunctive prescribed in A.~3.4.7 by Eijir? D?yama ... 323. ?Fragments of ancient versified Sanskrit grammars? by Hartmut Scharfe ... 375. ?Singling out the place where rules apply: materials from the discussion on P??ini's description of substitution by Maria Piera Candotti and Tiziana Pontillo ... 385. ?Two levels of optionality in the Kacc?yana Vy?kara?a by Aleix Ruiz-Falqu?s ... 431. ?Sanskrit grammatical schools: a first overview by ?milie Aussant ... 467. ?Correct speech (?abda): from the perspective of the Veda and P??inian grammar by Junichi Ozono ... 481. ?An eccentric commentator on the Mah?bh??ya: ?ivar?mendra Sarasvat? by Pierre-Sylvain Filliozat ... 509. ???likan?tha's theory of the sentence-referent by Kei Kataoka ... 531. ?Navya-ny?ya views of the meaning of verbal suffixes: Ga?ge?a and Raghun?tha by Toshihiro Wada ... 557. ???????????? ???????????????????? by ????? ????? ... 583. ?Appendix: Bibliography of George Cardona?s publications ... 601. ?Index of primary texts cited ... 629. ?Author index ... 659.
-
-
 Volume II: Historical linguistics, Vedic, etc.
-
 Contributor Notes (2490 / 2500)
 ?Lauren M. Bausch, Assistant Professor, Dharma Realm Buddhist University, Ukiah, California. ?Adam A. Catt, Associate Professor, Department of Linguistics, Graduate School of Letters, Kyoto University, Kyoto, Japan. ?Madhav M. Deshpande, Professor Emeritus, Department of Asian Languages and Cultures, and Department of Linguistics, University of Michigan, Ann Arbor, Michigan. ?George Dunkel, Professor Emeritus, Institut f?r vergleichende Sprachwissenschaft, Universit?t Z?rich, Z?rich, Switzerland. ?Edwin D. Floyd, Associate Professor Emeritus, Department of Classics, University of Pittsburgh, Pittsburgh, Pennsylvania. ?Eli Franco, Professor, Institute for Indology and Central Asian Studies, University of Leipzig, Leipzig. ?Edwin Gerow, Professor, Reed College, Portland, Oregon. ?Robert P. Goldman, William and Catherine Magistretti Distinguished Professor Emeritus in South and Southeast Asian Studies and Distinguished Professor in the Graduate School, The University of California at Berkeley, Berkeley, California. ?Laura Grestenberger, Postdoctoral Research Fellow, Austrian Academy of Sciences, Vienna, Austria. ?Hans Henrich Hock, Professor Emeritus, Department of Linguistics, University of Illinois, Urbana, Illinois. ?Peter Edwin Hook, Professor Emeritus of Linguistics and Indo-Aryan Languages, Department of Asian Languages and Cultures, University of Michigan, Ann Arbor, Michigan. ?Kyo Kano, Professor, Kobe Women?s University, Kobe, Japan. ?Yuto Kawamura, Associate Professor, Department of Indian Philosophy, Hiroshima University, Higashi-Hiroshima, Japan. ?ShashiPrabha Kumar, Dean, Sri Sankaracharya Sanskrit Mahavidyalaya; Bharatiya Vidya Bhavan, New Delhi, India. ?Joseph LaRose, Rangjung Yeshe Institute, Kathmandu, Nepal. ?William W. Malandra, Professor Emeritus, Classical and Near Eastern Studies, University of Minnesota, Minneapolis, Minnesota. ?Asko Parpola, Professor Emeritus, South Asian Studies, University of Helsinki, Helsinki, Finland. ?Karin Preisendanz, Professor, Department of South Asian, Tibetan and Buddhist Studies, Faculty of Philological and Cultural Studies, University of Vienna, Vienna, Austria. ?Don Ringe, Professor, Department of Linguistics, University of Pennsylvania, Philadelphia, Pennsylvania. ?Yasuko Suzuki, Professor, School of English Language and Communication, College of Foreign Studies, Kansai Gaidai University, Hirakata, Japan. ?Kiyotaka Yoshimizu, Research Fellow, Toyo Bunko (The Oriental Library), Saitama, Japan.
-
 Table of Contents (2049 / 2500)
 ?Preface ... 3. ?Contributors ... xi. ?Tables of contents ... xv. ?Formation of the Indo-Iranian languages: locations and dates according to archaeological evidence by Asko Parpola. ... 1. ?Stative perfects by Don Ringe. ... 85. ?Ved. -anta, Gk. -????, and the thematic aorist in Vedic and Greek by Laura Grestenberger. ... 99. ?A deeper look at Vedic vidh- and Old Avestan v?d- ?honor, serve? by Adam A. Catt. ... 127. ?Avestan meter and the problem of catalectic p?das by William W. Malandra. ... 153. ?The development of r-clusters and syllabic r? in the A?okan Rock Edicts by Yasuko Suzuki. ... 171. ?Vedic view of language as power by ShashiPrabha Kumar. ... 207. ?How to define the god of fire: fresh perspectives on Y?ska?s etymologies of agni by Yuto Kawamura ... 221. ?Testing the Anukrama?? by George Dunkel. ... 241. ?The changing face of the ?aunak?ya Atharvaveda by Madhav M. Deshpande. ... 259. ?Tat tvam asi once again: philological and linguistic considerations by Hans Henrich Hock. ... 277. ?Dual var?a in Vedic texts by Lauren M. Bausch. ... 293. ?On the poetics of the first poem: genre, aesthetics, and sentiment in the V?lm?kir?m?ya?a by Robert P. Goldman. ... 323. ?Layers of Memory: some Homeric problems from a Vedic (and Old English) perspective by Edwin D. Floyd. ... 355. ?Why did Bharata mention just four figures of speech? by Edwin Gerow. ... 391. ?Lost in edition: punctuation in an Indian monastic code by Joseph LaRose. ... 403. ?On the unreliability of Tibetan translations for the reconstruction of the original text of Buddhist Sanskrit works: observations on rNgog lo tsa ba?s translation of Yam?ri?s Pram??av?rttik?la?k?ranibandha by Eli Franco and Karin Preisendanz. ... 421. ?The theory of demonstration in the Ny?yabh??ya: the preceding stage of Dign?ga?s apoha theory by Kyo Kano. ... 459. ?Arth?patti in Kum?rila?s Tantrav?rttika by Kiyotaka Yoshimizu. ... 489. ?Some remarks on word order in Garhwali and Kashmiri by Peter Edwin Hook ... 523. ?Index of primary texts cited ... 533. ?Author index ... 537.
-
 Peter Scharf
 scharfpm7 at gmail.com
-
-> On 4 Apr 2022, at 8:38 PM, Mark Allon <mark.allon at sydney.edu.au> wrote:
-> 
-> Dear Peter,
->  
-> I cannot find the table of contents listing paper titles that you note at https://www.lulu.com/en/us/shop/peter-scharf/%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%A8%E0%A4%97%E0%A4%AE-indian-linguistic-studies-in-honor-of-george-cardona/hardcover/product-pz6685.html?page=1&pageSize=4 <https://www.lulu.com/en/us/shop/peter-scharf/%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%A8%E0%A4%97%E0%A4%AE-indian-linguistic-studies-in-honor-of-george-cardona/hardcover/product-pz6685.html?page=1&pageSize=4>
->  
-> Can you please point me in the right direction?
->  
-> Best wishes
-> Mark
->  
-> Dr Mark Allon
-> Chair, Dept. of Indian Subcontinental Studies
-> Woolley Building A20
-> The University of Sydney NSW 2006
-> Australia
-> W https://sydney.edu.au/arts/schools/school-of-languages-and-cultures/department-of-indian-subcontinental-studies.html <https://sydney.edu.au/arts/schools/school-of-languages-and-cultures/department-of-indian-subcontinental-studies.html>
->  
->  
->  
-> From: INDOLOGY <indology-bounces at list.indology.info> On Behalf Of Peter Scharf via INDOLOGY
-> Sent: Tuesday, 5 April 2022 3:20 AM
-> To: indology at list.indology.info
-> Subject: [INDOLOGY] Indian linguistic studies in honor of George Cardona
->  
-> Dear Colleagues,
->                 The Sanskrit Library has just published two volumes I edited consisting of 37 papers on linguistics and related disciplines in honor of Professor George Cardona.  The first volume contains 18 papers on Indian grammatical traditions (vy?kara?a) and cognitive linguistics (??bdabodha).  The second volume contains 19 papers on archaeology, historical linguistics, Vedic, philosophy and critical editing.  The papers, by prominent scholars world-wide, make essential contributions to these fields.  Many of the papers make ground-breaking or critical contributions.  The Sanskrit Library publications page
->  
-> https://sanskritlibrary.org/publications.html <https://sanskritlibrary.org/publications.html>
->  
-> contains links to my page at Lulu which I include here as well:
->  
-> https://www.lulu.com/spotlight/scharf <https://www.lulu.com/spotlight/scharf>
->  
-> where links to full descriptions of each volume with lists of the contributors and paper titles are provided.
->  
-> Now through April 8th, Lulu is offering 15% off.
-> Use code COOKBOOK15
->  
-> Please consider acquiring these volumes for yourself or your institution?s library.
-> Yours,
->  
-> Peter
->  
-> Peter Scharf
-> scharfpm7 at gmail.com <mailto:scharfpm7 at gmail.com>
-> ******************************
-> Peter M. Scharf, President
-> The Sanskrit Library
-> scharf at sanskritlibrary.org <mailto:scharf at sanskritlibrary.org>
-> https://sanskritlibrary.org <https://sanskritlibrary.org/>
-> ******************************
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20220404/f9aef388/attachment.htm>
-

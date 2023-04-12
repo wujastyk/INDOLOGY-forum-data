@@ -1,23 +1,7 @@
-From jacob.baltuch at EURONET.BE  Thu Oct 30 18:56:39 1997
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Thu, 30 Oct 97 19:56:39 +0100
-Subject: Marathi repha
-Message-ID: <161227033331.23782.7349741658238711741.generated@prod2.harmonylists.io>
-
+Marathi repha
 Ashok Aklujkar wrote:
-
->The sign seems to have phonemic significance in Marathi: daryaa, plural of
->darii 'cave, cavern, valley,' pronounced without stress on "a" and written
->as daR'yaa,  means something different from daryaa 'ocean, sea, pronounced
->with stress on "a" and written as daRyaa.
-
 So the _only_ difference between R and R' is that a cluster beginning with
 R' does not make the preceding vowel heavy?
-
 Can that R' occur at the beginning of clusters of more than 2 consonants,
 and _if_ the answer to that is no, could one analyze the situation as if
 for example R'y was not a sequence of two phonemes but one single phoneme?
-
-
-
-

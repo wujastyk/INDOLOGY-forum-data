@@ -1,18 +1,3 @@
-From witzel at HUSC3.HARVARD.EDU  Fri Oct  6 01:13:26 1995
-From: witzel at HUSC3.HARVARD.EDU (witzel at HUSC3.HARVARD.EDU)
-Date: Thu, 05 Oct 95 21:13:26 -0400
-Subject: Q: URL addresses
-Message-ID: <161227021060.23782.16309440141548768330.generated@prod2.harmonylists.io>
-
-
-
+Q: URL addresses
 This URL *always* for me (on Netscape) for the TITUS project:
-
-
 http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html/
- 
-
-
-
-
-

@@ -1,31 +1,13 @@
-From ph2046 at COLUMBIA.EDU  Tue Jan 12 23:04:26 2010
-From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
-Date: Tue, 12 Jan 10 23:04:26 +0000
-Subject: Abhandlungen der K=?Windows-1252?Q?=F6niglichen?= Akademie              der Wisse nsch aften zu Berlin
-In-Reply-To: <c4c5a5431001121417l53563495g301572f1445c8191@mail.gmail.com>
-Message-ID: <161227088203.23782.263832997434026856.generated@prod2.harmonylists.io>
-
+Abhandlungen der K=?Windows-1252?Q?=F6niglichen?= Akademie              der Wisse nsch aften zu Berlin
 Jonathan,
-
   Try Bulkloader. Available from
-
 http://www.thhdesign.com
-
 It works for files with sequentially numbered filenames, and runs as fast as your connection will allow without the overhead of a full web browser.
-
 Best,
-
 Paul Hackett
 Columbia University
-
 Sent from my Verizon Wireless BlackBerry
-
------Original Message-----
-From: Jonathan Silk <kauzeya at gmail.com>
-Date:         Tue, 12 Jan 2010 23:17:36 
-To: <INDOLOGY at liverpool.ac.uk>
-Subject: Re: Abhandlungen der K?niglichen Akademie der Wisse nsch aften zu Berlin
-
+Re: Abhandlungen der K?niglichen Akademie der Wisse nsch aften zu Berlin
 Thanks to all; I already (on an earlier Mac OS) have long used a delightful
 little piece of software called Combine PDFs, which for instance allows you
 to remove and reorder and reorient pages in a multi-page document. The
@@ -33,113 +15,10 @@ problem is not putting things together but the necessity to download a long
 article page by page... quicker to go to library and xerox the original, and
 run that through a scanner (for a long paper, if you have access to a good
 library, yes, I know).
-
 thanks!  Jonathan
-
 2010/1/12 Christian Coseru <coseruc at cofc.edu>
-
-> Birgit Kellner wrote:
->
-> > I gather on a recent Mac OS, there should already be tools available in
-> the operating system for the job.
-> >
-> > I trust the real geeks on the list can provide further advice :-)
->
->
-> Thankfully, the real geeks at Apple have made it easy for those of us using
-> Macs.
->
-> It's pretty simple on the Mac (at least if your running a recent OS, 10.5x
-> or 10.6). Download all the JPEG files with the wget command as Birgit
-> suggested.
->
-> In Finder navigate to the directory where the image files are stored, then
-> simply do a Select All (? A) and Copy (? A).
->
-> Now open your Preview application and go to File > New from Clipboard (? N)
-> and voil?! All the image files have been added to an untitled document,
-> which you now can save as a PDF file.
->
-> Best,
-> Christian
->
->
-> Christian Coseru, Ph.D.
-> Assistant Professor
-> Department of Philosophy
-> College of Charleston
-> 66 George Street
-> Charleston, SC 29424
->
-> Office:
-> Phone: 843 953-1935
-> Facsimile: 843 953-6388
-> Email: coseruc at cofc.edu
->
-> On Jan 12, 2010, at 4:11 PM, Birgit Kellner wrote:
->
-> > Jonathan Silk wrote:
-> >> I have a feeling I may be an idiot (well, I'm sure in other respects,
-> but in
-> >> this case...): I learn from Indologica that we can find online the
-> >> *Abhandlungen
-> >> der K?niglichen Akademie der Wissenschaften zu Berlin. *
-> >>
-> >> When I go, however, for example to
-> >>
-> http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige/index_html?band=07-abh/1844&seite:int=711
-> ,
-> >> I can only get one page at a time; is there not a way to download an
-> entire
-> >> article?
-> >>
-> >> Thanks for your advice!  Jonathan
-> >>
-> >>
-> > The interface unfortunately doesn't offer the possibility to download
-> several pages at once (as a PDF, for instance), no.
-> >
-> > There is a workaround, but it's a bit time-consuming:
-> >
-> > 1.) Click on a page image with the desired size ("large", for instance).
-> You see the JPG file and get a link like this in the browser's URL line:
-> >
-> >
-> http://bibliothek.bbaw.de/thumbnail?band=07-abh/1844&aufloesung:int=2&img=DAS_jpg/07-abh/1844/jpg-1000/00000002.jpg&seite:int=2
-> >
-> > This means that the image file is stored in this directory:
-> >
-> > http://bibliothek.bbaw.de/DAS_jpg/07-abh/1844/jpg-1000/
-> >
-> > 2.) If you have the wonderful little tool wget installed, run
-> >
-> > wget -r http://bibliothek.bbaw.de/DAS_jpg/07-abh/1844/jpg-1000/
-> >
-> > from the command line.
-> >
-> > This gets you all images for the volume in question to a local folder.
-> You can then create a PDF file with these images (even run OCR on them
-> before), with, for instance Adobe Acrobat Pro (on Windows); I gather on a
-> recent Mac OS, there should already be tools available in the operating
-> system for the job.
-> >
-> > I trust the real geeks on the list can provide further advice :-)
-> >
-> > Best,
-> >
-> > b
->
-
-
-
--- 
 J. Silk
 Instituut Kern / Universiteit Leiden
 Postbus 9515
 2300 RA Leiden
 Netherlands
-
-
-
-
-

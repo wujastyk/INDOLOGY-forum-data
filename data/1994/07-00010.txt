@@ -1,17 +1,10 @@
-From aklujkar at unixg.ubc.ca  Thu Jul  7 16:04:37 1994
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Thu, 07 Jul 94 09:04:37 -0700
-Subject: None
-Message-ID: <161227016948.23782.13497079210976492345.generated@prod2.harmonylists.io>
-
+None
 Recently, Tim Bryson (bryson at harvarda.harvard.edu) wrote: "A friend of mine
 plans to take a Mac SE to India for a year.  She is asking for
 recommendations on computer insurance, specifically any company in the USA
 that will insure the computer such that she could
 buy a replacement computer if the SE breaks down or gets lost or stolen. If
 anyone has any experiences or recommendations to share I will pass them on.
- 
-
 I doubt if any insurance company  will replace a machine if it breaks down
 during normal use or due to willful action. However, the main reason I am
 responding is that I do have experience of using MacSEs in India for four
@@ -35,10 +28,3 @@ munis whose knowledge, curiosity and willingness to adapt to new technology
 far surpass those of most professional Sanskritists at Indian
 universities).  I would highly recommend investment  in  a Powerbook or
 something like it. 
-
- 
-
-
-
-
-

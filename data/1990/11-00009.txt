@@ -1,15 +1,4 @@
-From bkessler at COM.HP.HPL.HPLB  Thu Nov 29 20:09:50 1990
-From: bkessler at COM.HP.HPL.HPLB (Brett Kessler)
-Date: Thu, 29 Nov 90 12:09:50 -0800
-Subject: OED 2 errors
-Message-ID: <161227014923.23782.3169808656195182267.generated@prod2.harmonylists.io>
-
-
->  I was surprised to see it there in the first place, because
-> it is *definitely* a Sanskrit word, never used in English as
-> an English word (unlike, say, "yoga" or "guru"). But maybe I have
-> missed some arcane point of lexicographical principle here.
- 
+OED 2 errors
 Oh, but it's a fine English word, too, at least in my dialect
 (California Linguistics Student).  Morphologists often use terms like
 dvanda and bahuvrihi to describe types of nominal compounds.  In fact,
@@ -17,7 +6,6 @@ my old Random House dictionary gives, as a definition for
 "copulative", "of the dvandva type", with "bittersweet" as an example,
 thus demonstrating both my assertion that dvandva is an English word
 and Richard Hayes's point about the broader meaning of "copulative".
- 
 Dominik Wujastyk also misinterprets the dot under the "n".  This is
 not a sign of retroflection, but a sign that the word is of Indian
 provenance.  This is the normative use of diacritics in English, at
@@ -25,11 +13,4 @@ least according to the American Ice Cream School (Ha<umlaut>agen Dazs,
 Frusen Gla<umlaut>dje<acute!>): diacritics are decorations that show
 that words are precious and exotic.  The Indological community should
 feel honoured that "dvandva" was felt to merit an underdot.
- 
- 
  -- Brett Kessler   kessler at csli.stanford.edu
-
-
-
-
-

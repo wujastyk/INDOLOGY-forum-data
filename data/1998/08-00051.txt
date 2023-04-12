@@ -1,15 +1,5 @@
-From mcv at WXS.NL  Thu Aug 13 06:17:06 1998
-From: mcv at WXS.NL (Miguel Carrasquer Vidal)
-Date: Thu, 13 Aug 98 06:17:06 +0000
-Subject: SV: Fortunatov's Law and tolkAppiyar's rules
-In-Reply-To: <v01530501b1f7b96a9e1d@[195.74.194.11]>
-Message-ID: <161227041173.23782.15625862430107399184.generated@prod2.harmonylists.io>
-
+SV: Fortunatov's Law and tolkAppiyar's rules
 Jacob Baltuch <jacob.baltuch at EURONET.BE> wrote:
-
->Wouldn't it be better then to speak of "rooky" IE? (since satm includes
->Albanian)
-
 Yes, "ruki" in principle would make a better diagnostic than "satem".
 However, the term "satem-group" is traditional, and there are a few
 problems with the RUKI-rule.  Because it affects less words than the
@@ -19,17 +9,14 @@ Albanian and Armenian are satem, but less easy to determine whether
 they are RUKI.  I know little about Albanian, but from the sound laws
 as given in Beekes' "Comparative IE Linguistics", it is impossible to
 determine whether Albanian is a RUKI-language or not:
-
 *s => sh- (initially before unstressed vowel: shtate" < s(ep)tmti- 7)
    => gj- (initially before stressed vowel: gjashte" < sek^sti- 6)
    => sh  (before consonant: asht "bone" < *Host-)
           (between vowels: jeshe" < esa < esm "I was")
    => zero (before resonants, final: mi < muHs "mouse")
-
 If Albanian was RUKI, the evidence has disappeared, either because
 other instances of *s became sh, or because both normal *s and
 RUKI-*s disapeared in certain positions.
-
 The case of Armenian is even more complex, as the RUKI-ness of
 Armenian and the fate of PIE *s in Armenian in general are linked to
 the old problem of the origin of the Armenian plural in -kh.  The
@@ -39,13 +26,7 @@ cluster -rs appears in Armenian as <r.> (/rr/), presumably by way of
 *dhghu:s), and -k` (aspirated /kh/) as the plural marker (from *-es
 or from *-u:s < *-o:s ?).  But normally, *s (RUKI or not) becomes /h/
 or disappears (e.g. nu "sister-in-law" < *hnuh < *snuso-).
-
-
 =======================
 Miguel Carrasquer Vidal
 mcv at wxs.nl
 Amsterdam
-
-
-
-

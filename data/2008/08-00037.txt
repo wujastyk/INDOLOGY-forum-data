@@ -1,9 +1,4 @@
-From mkapstei at UCHICAGO.EDU  Fri Aug  8 15:42:05 2008
-From: mkapstei at UCHICAGO.EDU (mkapstei at UCHICAGO.EDU)
-Date: Fri, 08 Aug 08 10:42:05 -0500
-Subject: svArtha derivation and subtypes of taddhita pratyaya affixes
-Message-ID: <161227083152.23782.6528992487677330721.generated@prod2.harmonylists.io>
-
+svArtha derivation and subtypes of taddhita pratyaya affixes
 I am travelling and away from my library just now,
 but if my recollection is correct then
 Skt. taddhita should be Tib. de la phan pa.
@@ -20,16 +15,8 @@ unchanged from Skt. Might it have referred, then,
 to a derivation in which the derived term conserves
 the form of its source (as is the case, e.g., in
 gu.na derivations where the vowel is short a)?
-
- 
-
 Matthew T. Kapstein
 Numata Visiting Professor of Buddhist Studies
 The University of Chicago Divinity School
-
 Directeur d'?tudes
 Ecole Pratique des Hautes Etudes, Paris
-
-
-
-

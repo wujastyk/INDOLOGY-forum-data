@@ -1,11 +1,5 @@
-From shimj at USA.NET  Sat Aug 26 19:32:58 2000
-From: shimj at USA.NET (JAEKWAN SHIM)
-Date: Sat, 26 Aug 00 19:32:58 +0000
-Subject: Inputting Sanskrit Dictionary(Bon-wa Daijiten)
-Message-ID: <161227061141.23782.13810143856302952148.generated@prod2.harmonylists.io>
-
+Inputting Sanskrit Dictionary(Bon-wa Daijiten)
 Dear members of list,
-
 I almost finished the inputting of the Sanskrit-Chinese(Japanese)
 Dictionary(Kan-yaku Taisho Bon-wa Daijiten by Unrai Wogiwara and Naoshiro
 Tsuji) in computer.(100,198 line / 2,947page-letter size / 2.2Mbite) 
@@ -15,18 +9,9 @@ Dictionary. I'am converting the words(having diacritics for Korean use) into
 Harvard-Tyoto system.
 But, I have no idea how to upload the text with Chinese characters on web
 site, and don't know much about the copyright for this case.
-
 Anybody have good idea or know the websites to handle this?
-
-
 Jaekwan Shim
 Dept. of Philosophy
 Kangnung National University
 South Korea.
-
-____________________________________________________________________
 Get free email and a permanent address at http://www.netaddress.com/?N=1
-
-
-
-

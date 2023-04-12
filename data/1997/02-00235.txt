@@ -1,33 +1,16 @@
-From csr at wipinfo.soft.net  Mon Feb 24 14:05:24 1997
-From: csr at wipinfo.soft.net (C.S.Raghavendra)
-Date: Mon, 24 Feb 97 19:05:24 +0500
-Subject: Sanskrit sentences in Devnagari
-Message-ID: <161227028513.23782.17453431418416984336.generated@prod2.harmonylists.io>
-
+Sanskrit sentences in Devnagari
 namaste,
-
 Recently a new mailing list (sanskrit-l at hindunet.org) has been started
 (announcement came on the Indology List) to assist learning of simple
 spoken Sanskrit. The subscribers of the list get daily five sentences
 along with a Sanskrit quotation.
-
 Now, these sentences are available as simple HTML text files
 in Devanagari ! These pages use XDVNG font developed by
 Sri Sandeep Sibal (for Unix) and Sri Arun Gupta (for Windows and Macintosh).
-
 ** Check out http://rbhatnagar.ececs.uc.edu:8080/sanskrit/mlist.html **
-
 Of late, magazines, newspapers etc. in Indian languages are appearing
 in this format (HTML text file with a font). One needs Netscape 3.0
 upwards or Internet Explorer 3.0 to view these files in the native
 language fonts.
-
 - Raghavendra.
----------------------------------------------------------------------------
 ** Visit Samskrita Bharati Home Page at http://www.hindunet.org/sanskrit **
----------------------------------------------------------------------------
-
-
-
-
-

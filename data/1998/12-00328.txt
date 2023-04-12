@@ -1,42 +1,24 @@
-From narayana at HD1.DOT.NET.IN  Fri Dec 18 01:34:52 1998
-From: narayana at HD1.DOT.NET.IN (DEVARAKONDA VENKATA NARAYANA SARMA)
-Date: Fri, 18 Dec 98 06:34:52 +0500
-Subject: Itranslator 98
-Message-ID: <161227043697.23782.10498520590091132792.generated@prod2.harmonylists.io>
-
+Itranslator 98
 A new freshly baked Windows98  compatible version
 (works on Win 95 and NT also) of Itranslator is released.
 It is a free ware. The bugs present in ITRANSlator 1.2 (Beta)
 are coreected. It can be downloaded from
-
 http://www.geocities.com/~omkara/Itrans.htm
-
 Below is the description of the software.
---------------------------------------------------------------------------
 Itranslator
-
 Itranslator is a free utility for PCs developed by Omkarananda Ashram
 Himalayas, which converts ITRANS 5.1 (as well asITRANS 4)
 Sanskrit text or text files into Devanagari scipt (True Type),
 which can then be exported or pasted via the
 clipboard to any application. Itranslator produces results that are fully
 editable, printable on any printer, and of book-quality.
-
 This is usefull for converting existing texts like those available
 at the Sanskrit Documents List into Devanagari, as well as for
 typing your own texts. You do not need ITRANS, TeX, LaTeX,
 ghostview/ghostscript, web browser, MS words or any
 word processor to get this program working.
-
 Itranslator is not well-suited for Hindi, Marathi and other languages,
 since it uses ligatures that are not commonly used in
 those languages, while it lacks some of the characters needed for them.
----------------------------------------------------------------------------
-
 regards,
-
 sarma.
-
-
-
-

@@ -1,27 +1,10 @@
-From vidynath at math.ohio-state.edu  Wed Mar  5 18:16:28 1997
-From: vidynath at math.ohio-state.edu (Vidhyanath Rao)
-Date: Wed, 05 Mar 97 13:16:28 -0500
-Subject: Copyright
-Message-ID: <161227028752.23782.18071026893038245593.generated@prod2.harmonylists.io>
-
-
-
+Copyright
 Thanks to Geprg v Simon for pointing out an absurdity in my previous
 post. I had written:
-
   The owner of a manuscript possesses only those rights the author would
   possess, if he/she is/were alive.
-
 The point is that nowdays the duration of copyright is defined as
 life of the author + n years (except for works `made for hire'?)
 So the last part should be changed ``to if he/she is alive or
 been dead for less than 50 (70 in Germany etc) years''.
-
------------
-
 Nath Rao (nathrao+ at osu.edu)		614-366-9341
-
-
-
-
-

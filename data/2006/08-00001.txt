@@ -1,35 +1,16 @@
  From the Linguist List,
-
 A book of interest to Vedicists:
-
 George Thompson
-
--------------------------Message 1 ---------------------------------- 
-Date: Tue, 01 Aug 2006 10:31:07
-From: Eric van Broekhuizen < E.van.Broekhuizen at rodopi.nl >
-Subject: Le d?sid?ratif en v?dique: Heenen 
- 
-
-
-
+Le d?sid?ratif en v?dique: Heenen 
 Title: Le d?sid?ratif en v?dique 
 Series Title: Leiden Studies in Indo-European Vol. 13  
-
 Publication Year: 2006 
 Publisher: Rodopi
 	   http://www.rodopi.nl/
-	
-
 Book URL: http://www.rodopi.nl/senj.asp?BookId=Leiden+13 
-
-
 Author: Fran?ois Heenen
-
 Hardback: ISBN: 9042020911 Pages: 267 Price: Europe EURO 58.00
-
-
 Abstract:
-
 Il s'agit de la premi?re ?tude compl?te sur le d?sid?ratif v?dique, bas?e
 sur une collection exhaustive des exemples attest?s du Rigveda aux anciens
 ?rautas?tras. Toutes les variations morpho-phonologiques des th?mes sont
@@ -45,7 +26,6 @@ interpr?t?s. Cet ouvrage est aussi bien destin? aux indologues qu'aux
 linguistes, qu'ils soient int?ress?s par la reconstruction du syst?me
 verbal indo-europ?en, ou intrigu?s par une cat?gorie verbale
 typologiquement rare.
-
 This is the first comprehensive research on the vedic desiderative, based
 on the entire collection of the examples from the Rigveda to the
 ?rautas?tras. Every morpho-phonological variation in the formation of the
@@ -59,7 +39,3 @@ stem. More than 400 examples are quoted and interpreted. The book is aimed
 at indologists as well as linguists, whether interested in the
 reconstruction of the indo-european verbal system or wish to know more
 about a typologically rare verbal category. 
-
-
-
-

@@ -1,21 +1,9 @@
-From Gerard.Huet at INRIA.FR  Tue Sep 19 12:41:52 2006
-From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
-Date: Tue, 19 Sep 06 14:41:52 +0200
-Subject: Release of XML SKT morphology
-Message-ID: <161227078305.23782.14355528050289035634.generated@prod2.harmonylists.io>
-
+Release of XML SKT morphology
 To scholars interested in interoperable Sanskrit computerization.
-
 I have now released my Sanskrit morphology databases in XML format,
 conformant to a simple DTD specifying the allowed morphological tags.
 Please visit the page http://sanskrit.inria.fr/DATA/XML/ which gives
 some explanations.
-
 All comments (and of course error reports) will be gratefully  
 appreciated.
-
 GH
-
-
-
-

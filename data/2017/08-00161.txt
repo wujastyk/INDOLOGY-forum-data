@@ -1,21 +1,10 @@
-From francois.patte at mi.parisdescartes.fr  Thu Aug 31 12:08:17 2017
-From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
-Date: Thu, 31 Aug 17 14:08:17 +0200
-Subject: [INDOLOGY] help on a citation
-Message-ID: <13e36317-2376-bb34-0298-d670bc6b396f@mi.parisdescartes.fr>
-
+[INDOLOGY] help on a citation
 Bonjour,
-
 I would have some help about a sentence which appears as a citation in a
 Hal?yudha commentary on Pi?gala chanda???stram:
-
 dvandv?t paro ya? ?r?yate
-
 Where does it come from and what is its meaning?
-
 Thank you.
-
--- 
 Fran?ois Patte
 UFR de math?matiques et informatique
 Laboratoire CNRS MAP5, UMR 8145
@@ -24,12 +13,3 @@ Universit? Paris Descartes
 F-75270 Paris Cedex 06
 T?l. +33 (0)6 7892 5822
 http://www.math-info.univ-paris5.fr/~patte
-
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: signature.asc
-Type: application/pgp-signature
-Size: 234 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/20170831/ed51fbb1/attachment.sig>
-

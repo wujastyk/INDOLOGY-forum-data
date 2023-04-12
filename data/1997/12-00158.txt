@@ -1,10 +1,4 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Tue Dec 16 04:31:48 1997
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Mon, 15 Dec 97 22:31:48 -0600
-Subject: Apple Indian language kit
-In-Reply-To: <199712160235.NAA14888@anugpo.anu.edu.au>
-Message-ID: <161227034435.23782.10878893937660055981.generated@prod2.harmonylists.io>
-
+Apple Indian language kit
 I was using it during ht etext phase.  In that time the "B" in WordPerfect
 would not render a devanagari b-- or anything else.  the absense of
 accents were also a problem (someday when I finish my dissertation Apple's
@@ -20,7 +14,6 @@ try it out.  Academic price is about $200 or less, and a dealer should
 have it installed onsite for a try-out.  the typing interface is a joy,
 and the output is great quality .  Just make sure the spacing from
 line-to-line is okay.
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 John Robert Gardner      Obermann Center
 School of Religion         for Advanced Studies
@@ -30,20 +23,4 @@ http://vedavid.org       http://www.uiowa.edu/~obermann/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is ludicrous to consider language as anything other
 than that of which it is the transformation.
-
 On Tue, 16 Dec 1997, Royce Wiles wrote:
-
-> The Apple Indian language kit supporting Devanagari (plus Gujarati and
-> Punjabi scripts) was released earlier in 1997. Has anyone on this list used
-> it to prepare camera-ready copy? Maybe they could share some comments on
-> what it's like and whether the investment has been worth it.
->
-> I'm particularly keen to know if it works well with PageMaker 6.5.
->
-> Royce Wiles
-> Australian National University
->
-
-
-
-

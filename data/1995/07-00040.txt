@@ -1,17 +1,5 @@
-From aklujkar at unixg.ubc.ca  Fri Jul  7 22:35:22 1995
-From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
-Date: Fri, 07 Jul 95 15:35:22 -0700
-Subject: ACH and ALLC addresses
-Message-ID: <161227019957.23782.15176576779685251786.generated@prod2.harmonylists.io>
-
+ACH and ALLC addresses
 In a recent conference announcement the bodies ACH (= Association for
 Computers in the Humanities) and (ALLC  = Association for Literary and
 Linguistic Computing) were mentioned. Can anyone provide their postal or
 e-mail addresses? Thanks. -- ashok aklujkar
-
- 
-
-
-
-
-

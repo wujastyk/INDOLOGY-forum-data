@@ -1,37 +1,3 @@
-From jpo at austin.utexas.edu  Thu Jun  8 19:52:30 2017
-From: jpo at austin.utexas.edu (Olivelle, J P)
-Date: Thu, 08 Jun 17 19:52:30 +0000
-Subject: [INDOLOGY] Issues with Sanskrit 2003 font
-In-Reply-To: <CAB3-dzdnMQ80fmSEqjqP8WyW=fXKf_ZveQAmCj0QGeUCv+o9_A@mail.gmail.com>
-Message-ID: <8A61884E-618E-4C67-B1E5-3F3EBACA6ADA@austin.utexas.edu>
-
+[INDOLOGY] Issues with Sanskrit 2003 font
 You are absolutely right. I have the same problem and do not know how to resolve it. Any insights gratefully accepted.
-
 Patrick
-
-
-
-> On Jun 8, 2017, at 9:01 AM, Madhav Deshpande via INDOLOGY <indology at list.indology.info> wrote:
-> 
-> Dear Colleagues,
-> 
->      I have been using the Sanskrit 2003 unicode Devanagari font for some time, and have noticed that for some characters, the anusv?ra almost merges with characters like sign for short "i".  Here are a few sample lines:
-> 
-> 
->      Am I alone in seeing these problems, or is this happening only on Mac computers, and not on Windows?  I have written to Omkarananda Ashram about this and I am hoping to hear from them.
->     If someone has a solution to this font problem, I would appreciate hearing it.  
-> 
-> Madhav Deshpande
-> Ann Arbor, Michigan, USA
-> 
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-

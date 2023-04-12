@@ -1,29 +1,10 @@
-From harunaga at SAS.UPENN.EDU  Mon Dec  9 18:55:32 2002
-From: harunaga at SAS.UPENN.EDU (Harunaga Isaacson)
-Date: Mon, 09 Dec 02 13:55:32 -0500
-Subject: Fwd: OpenType Version of URW Palladio UNI for ISO 15919 (fwd)
-Message-ID: <161227071842.23782.8125985618293569094.generated@prod2.harmonylists.io>
-
+Fwd: OpenType Version of URW Palladio UNI for ISO 15919 (fwd)
 I have been asked to forward this message to the list.
-
 Harunaga Isaacson
-
-
-
 ================================
-
 OpenType Version of URW Palladio UNI for ISO 15919
-
 An OpenType version of URW Palladio UNI can be designed, provided that
 at least 20 indologists are interested in it. Technical specifications
 of this OpenType version are described in the document
-
    http://home.t-online.de/home/ulrich.stiehl/opentype.pdf
-
 Ulrich.Stiehl at t-online.de
-
------ End forwarded message -----
-
-
-
-

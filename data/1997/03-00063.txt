@@ -1,24 +1,14 @@
-From raja at galileo.IFA.Hawaii.Edu  Thu Mar  6 21:15:20 1997
-From: raja at galileo.IFA.Hawaii.Edu (Narayan S. Raja)
-Date: Thu, 06 Mar 97 11:15:20 -1000
-Subject: Korean/Tamil/Hindi (was Re: Query on var.nabheda)
-Message-ID: <161227028787.23782.1335592974266560524.generated@prod2.harmonylists.io>
-
-
-
+Korean/Tamil/Hindi (was Re: Query on var.nabheda)
 My two paise, based on my limited
 knowledge of the Korean language...
-
 I don't even know if this is relevant,
 but "varna" reminds me that in Korean,
 some vowels ("aw" and "u") are classified
 as "dark", whereas other vowels ("a"
 and "o") are classified as "light".
-
 Then, a rule of light/light and dark/dark
 harmony is used to determine which vowel
 can follow which, e.g. when conjugating a verb.
-
 E.g., the root verb "bo" ("to see"), ending in
 the "light vowel" "o", must be combined with "a" 
 (a light vowel) to conjugate it, i.e., it
@@ -27,23 +17,17 @@ root verb "ju" ("to give"), ending in the
 "dark vowel" "u", must be combined with "aw"
 (a dark vowel), i.e., it becomes "ju" + "aw"
 (= jaw, "give").
-
 Please excuse the simplified discussion above,
 but that's the general idea.  So much for "varna".
--------------------------------------------------------
-
 Interestingly, Korean is the only East-Asian
 language that has a phonetic alphabet.  At
 least one book that I've read about the subject
 claims that its inventors (in the 15th century)
 were familiar with Indian scripts (and their
 implicit phonological theories).
-
 Of course, Korean is unrelated to Chinese.
 But you know how it is... all of us orientals
 look the same... so I thought I'd mention it.
-
-
 Another remarkable fact about Korean... in some
 elusive way, it is very similar to my mother tongue,
 Tamil.  In most cases, I can plug in Tamil words 
@@ -55,7 +39,6 @@ E.g., to say "teach me" in Tamil, you would say "solli
 tha" (literally, "teach and give").  Same thing in
 Korean: "garuchyo juseyo" ("teach and give").
 This general pattern works for many sentences.
-
 Now that I think about it, the same pattern 
 can be applied in modern Indian non-Dravidian languages
 like Hindi ("teach me" = "sikha de", i.e., teach and give).
@@ -64,7 +47,6 @@ just "sikhao".  But in Tamil you MUST say "solli tha",
 i.e., teach and give.  In Indo-European languages
 from Europe, e.g., English or German, you don't add
 the "give".  Nor in Sanskrit (?)
-
 Anyway, learning Korean has left me with a new
 appreciation of:  1) how much there is in COMMON between
 Indo-European languages from India and Europe
@@ -74,24 +56,11 @@ and Dravidian languages, e.g., Tamil and Hindi;
 3) how little there is in common between, say,
 English and Korean (no surprise!); and most surprisingly,
 4) how much there is in COMMON between Korean and Tamil.
-
 Despite the surprising similarity of "flavour", however, 
 I've only found about 15 words that sound similar
 in Tamil and Korean.
-
 Just having fun... just an amateur, don't roast me,
-
-
 Xie xie,
 Annyonghikeseyo,
 vanakkam,
-
-
 Narayan Sriranga Raja.
-
-
-
-
-
-
-

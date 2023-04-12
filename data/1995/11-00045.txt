@@ -1,10 +1,4 @@
-From ucgadkw at ucl.ac.uk  Fri Nov 10 12:24:15 1995
-From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
-Date: Fri, 10 Nov 95 12:24:15 +0000
-Subject: Doniger O'Flaherty's translations (1 of 2)
-Message-ID: <161227021581.23782.8968193892188383458.generated@prod2.harmonylists.io>
-
-
+Doniger O'Flaherty's translations (1 of 2)
 Categories of writing
 It seems to me that the translations of Prof. Wendy Doniger / O'Flaherty
 (henceforth WDO) that Prof. Michael Witzel (henceforth MW) has critiqued
@@ -29,18 +23,15 @@ they might be -- successfully achieve the aim of making the overall
 meaning of texts in question available to a general English reader, and
 distinguishing the Sanskrit texts from, say, Beowulf, The Epic of
 Gilgamesh, or the Cloud of Unknowing.
-
 The errors in WDO's JB translation sound more serious, and since the
 book does seem to try to aim higher in academic terms, perhaps it is
 the more culpable.
-
 I think it is unfair to say of WDO's Manu that,
  > In view of all of this, I wonder indeed whether D's translation would
  > have been accepted in the Harvard Oriental Series rather than in Penguin
  > (p. lxviii).
 when the very point WDO makes on p.lxviii is that her work is in Penguin
 and not in the HOS, which latter is aimed at a quite different audience.
-
 Sometimes the aims of producing good English and accurate translation
 are incompatible (even when not irreducibly opposed, these aims are
 usually at odds to some greater or lesser degree).  In such cases, the
@@ -53,7 +44,6 @@ most earlier translations of the same Sanskrit texts, her use of English
 language is a huge step forward.  In the kinds of books under
 discussion, aimed at mass audiences of non-specialists, this is a vital
 achievement.
-
 It is also a reasonable justification for retranslating materials that
 have already been put into European languages.  As MW points out, there
 are thousands of fascinating untranslated Sanskrit texts.  But if the
@@ -65,7 +55,6 @@ make a profit selling a new translation, that's a reason for doing it.
 Bound up in that simple financial fact is a whole nexus of factors to do
 with readership, desire, interest, quality, availability, copyright on
 earlier translations, and so forth.
-
 The argument about critical editions is also worth thinking about in a
 more general context.  I am the first to argue for the vital importance
 of critical editions.  But if, as MW says, even a Manu manuscript from
@@ -83,7 +72,6 @@ commentators.  This approach, however, does need to be made explicit.
 The translator needs to say "I am translating a vulgate from the end of
 the first millennium AD; if you want Ur-Manu you will have to wait a few
 decades for the Penguin reissue, and perhaps forever".
-
 When judging a book, we *have* to take into account what the author was
 trying to do.  Why criticise an author's book for failing to achieve
 what the author never intended in the first place?  If WDO had claimed
@@ -95,19 +83,8 @@ not really a fair target for the reviewer.  But WDO takes great pains to
 point out in her introduction that her translation is not aimed at
 indologists, but at the general English-language reader of Penguin
 Classics.  Given that as the aim, I think the errors in her translations
--- though possibly serious in some cases -- are outweighed by the
 accessibility of her prose and the wide availability of the books, and
 the volume of material that has been made available.  WDO is also very
 explicit about her debt to previous translators; in her RV she lists at
 the back of the book each translation she has looked at for every hymn.
-
 [continued ...]
-
-
-
- 
-
-
-
-
-

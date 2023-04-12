@@ -1,13 +1,5 @@
-From s.hodge at PADMACHOLING.PLUS.COM  Fri May 29 19:41:17 2009
-From: s.hodge at PADMACHOLING.PLUS.COM (Stephen Hodge)
-Date: Fri, 29 May 09 20:41:17 +0100
-Subject: Ageusia
-Message-ID: <161227086516.23782.2127810603418003596.generated@prod2.harmonylists.io>
-
+Ageusia
 Ashok Aklujkar wrote:
-
-> It would be better to share the passage with your potential helpers.
-
 Sorry to have been unintentionally a bit cryptic. Actually, with a bit more 
 thought, I think I have solved the problem myself.  The term I was looking 
 for may have been "?u?ka" or perhaps "sa??u?ka", used as a pun in the 
@@ -17,10 +9,8 @@ got lost in translation.  The problem was that I was not fully aware that
 the more common (in Buddist texts) "vi?u?ka".
 The passage occurs in the Mah?yana Mah?parinirv??a-s?tra, with glosses 
 bracketed off thus < ... >:
-
         gsol pa | sems can <ma rungs pa 'jigs su rung ba> | <lce dang | rkan 
 dang | lkog ma> tshig pa rnams ci las 'gyur lags ||
-
         bka' stsal pa | gzhi gsum rtag pa mi shes pa gang yin pa de dag ni 
 sems can <ma rungs pa 'jigs su rung ba> | <lce dang | rkan dang | lkog ma> 
 tshig par 'gyur ro || dper na mi <dang dung 'gro'i> lce tshig pa rnams kyis 
@@ -29,10 +19,8 @@ dang | kha ba dang | bska ba rnams za ba na ro'i bye brag mi phyed pa de
 bzhin du sems can mi shes pa | lce dang | rkan dang | lkog ma tshig pa <ma 
 rungs pa 'jigs su rung ba> | gzhi gsum rtag par mi shes pa gang yin pa de 
 dag ni | <lce dang | rkan dang | lkog ma> tshig pa zhes bya'o ||
-
         "How come there are <harsh, terrifying> beings who are/have parched 
 <tongues, palates and throats> ?"
-
         "Those who do not know the Three Bases [= Three Jewels] are 
 permanent become <villainous, terrifying> beings <whose tongues, palates and 
 throat> are burnt/parched. For example, humans <and animals> who tongues are 
@@ -42,7 +30,6 @@ astringent. Similarly, ignorant beings <who are villainous and terrifying>,
 whose tongues <palates and throats> are burnt/parched, who do not know that 
 the three grounds are permanent, are said to be/have "?u?ka" < tongues, 
 palates and throats>.
-
 This is not the place to describe in detail the many peculiarities of the 
 Tibetan version of the Mah?yana Mah?parinirv??a-s?tra, but reading this 
 against the two Chinese versions, it is now clear to me that the Tibetan 
@@ -57,7 +44,6 @@ Tibetan versions, and later the gloss "ma rungs pa 'jigs su rung ba" (harsh,
 frightening) was also added ~ but only in the Tibetan ms lineage. I would 
 also imagine that some of the other connotations of "?u?ka", if that was the 
 word used, are also implied here well such as "vain, useless".
-
 As a footnote to this, if they have bothered to read this far, I wonder if 
 anybody (Jonathan, Matthew ?) has come across the expression "gzhi gsum" for 
 the tri-ratna ? This is used consistedly by preference throughout the 
@@ -65,11 +51,5 @@ Mah?parinirv??a-s?tra>. Maybe I haven't read attentively / widely enough (I
 do try, though), but I have never seen this term used in any other Tibetan 
 translations of Indic texts. It would be nice to know what the underlying 
 Skt word here would have been.
-
 Best wishes,
-
 Stephen Hodge
-
-
-
-

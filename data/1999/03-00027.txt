@@ -1,19 +1,7 @@
-From witzel at FAS.HARVARD.EDU  Wed Mar  3 21:54:59 1999
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Wed, 03 Mar 99 16:54:59 -0500
-Subject: Yet another areal/DETAILS
-In-Reply-To: <001a01be6565$cb674e80$2c70fe8c@raol.lucent.com>
-Message-ID: <161227047163.23782.5617962988700313538.generated@prod2.harmonylists.io>
-
+Yet another areal/DETAILS
 Vidyanath Rao wrote :
 ....
-
 DETAILS, HOWEVER, MOSTLY ABOUT SKT:
-
->BK> Regarding the Japanese -te shimau connection, it is to be noted that
->BK> the completive aspect of this construction applies throughout *all*
->BK> tenses and forms, and is not limited to the past.
-
 -te shimau is of course indicating action type (to finish s.th.), which you
 can do now, yesterday or tomorrow.  It is not grammaticalized as aspect.
 We have only  tabe-ru 'to eat, he eats', tabe-ta "he has eaten, ate",  etc.
@@ -21,21 +9,10 @@ We have only  tabe-ru 'to eat, he eats', tabe-ta "he has eaten, ate",  etc.
 action, such as tabe-te shimatta / tabecchatta (how to write colloquial
 Jpn.?) :: tabe-te iru /tabeteru "he is eating", just as in English,  Hindi
 etc.; Old Jpn. is another question.
-
-> Of course in RV, the aorist stem is used
->in the moods also, even if sigmatic optatives and imperatives are
->extremely rare.
 Well, sigmatic maybe; this is just *one* of a handful  of Aor. formations;
 but there are subj., opt., imper. (and injunctives) of the Aor. (and
 Perfect). All  listed, according to contemporary understanding in
 MacDonell, Vedic Grammar, now some 90 years old.
-
-----------
-
->JS> [Witzel] has also alluded, again silently, to another feature ...
->JS> namely that it implies a negative result;
->BK> The feature of undesirability [...] is not always present [in the
->BK> past].
 It is the problem when certain aspects (sorry: feelings, speaker's ad hoc
 interpretations) get in the way here. Of course, it is 'negative,
 undesirable', if you say "I have (just) done this or that" (wrongly),  with
@@ -45,24 +22,12 @@ distinguished from the *main* function, which can never be found out by ad
 hoc examples, also not by native speakers, but only by studying a large set
 of cases and by comparing them IN CONTEXT (as done in Hoffmann's
 Injunktiv).
-
->Now my confusion is back. Will the -te shimau construction be used to
->translate ``The king has arrived!''?
 My gramm. feeling says, no:  (*ki-te shimashita/ shimatta, kicchatta, or
 probably worse, *tsuite shimatta, tsuicchatta ???)  --  But I am not a
 native speaker. --  ki-ta, ki-mashita, tsuki-mashita, tsui-ta would be
 enough   (since 'to arrive, come' already is terminative ...)
 We have to check modern Jpn. grammar books.
-
->-----
-
->Jan Gonda (The aspectual functions of the Rgvedic present and aorist) ...
->gives a long list of aorists that occur with imperfects.
 (See immediately below)
-
-> Remoteness distinctions, in some languages that
->have them, is not usually applied in narrative contexts.
-
 The opens another can of worms. In such cases we can use the Vedic
 injunctive, or "neutral" forms such as the Jpn. 'present' (taberu), or the
 Turkish 'aorist' - since, in certain languages,  WITHIN a tale, it is not
@@ -70,11 +35,6 @@ necessary to indicate each time that the happenings are  remote, long ago,
 past... Cf. the 'historical present'  or Skt. narrative literature where
 tales can begin with  asti  "(Once upon a time) there was ...  < from
 older: asti sma... or (the even IE type)  AsIt (rAjA...) ...
-
->  even closely related
->dialects may differ on whether the distinctions are strict and
->obligatory or based on the subjective conception of the speaker.
-
 Or the poet! -- That is what makes RV interpretation difficult (and what
 threw Gonda off the track).
 Of course, you can state the same thing (Indra slew the dragon) in various
@@ -90,27 +50,9 @@ Note, again, that  remoteness/nearness is a Vedic development. (And it
 probably changes over time, another can of worms, unstudied, see my
 preliminary notes in Tracing Vedic Dialects, in : Les dialectes indiennes,
 ed. C. Caillat Paris 1989)
-
->---------
->
->MW> * imperfective aspect ( expressed by present stem, e.g. imperfect:
->MW> a-ga-ccha-t; type of verbs: durative) and
->MW> * perfective aspect (expressed by aorist stem, a-gan-(t), ...
->MW> should be translated (Vedic
->MW> exx.) as: "he came :: he has come just now." Panini knows that.
->
->Remoteness distinctions have nothing to do with aspect.
-
 See above. The 'meaning'/function  ('just now') of the Vedic Aor. is a
 special development
 of Vedic on its way away from Indo-European.  I speak about Vedic, not IE.
-
->In languages
->that have both, remoteness distinction may be limited to the perfective
->.... I have not heard
->of an example in which remote past = imperfective and recent past =
->perfective.
-
 This must be a misunderstading of terminology. The gramm.
 'meaning'/function remote past is espressed by the Vedic past 'tense' (=
 imperfect 'tense') which is part of the present stem which signifies
@@ -122,7 +64,6 @@ as durative, terminative,fientive ) and their grammaticalization as aspects
 (pres./aor. stems).
 In short lexical meaning : grammatical function  :  grammatical form.
 Otherwise we get the mess we have seen so far.
-
 But V. Rao's query above (remote past = imperf. ***stem*** (= present stem,
 past tense)  is exactly what has happened in  the Vedic past tenses :
 Past or Imperfect (from present stem = imperfect. stem) ::
@@ -131,20 +72,7 @@ Vedic prose has zillions of cases (we would have  to look some of them  up;
 I am on sabb. leave and writing from home and from memory)
  Such reading  will show exactly  what K. Hoffman says and what I
 translated above.
-
-> a stage between PIE and Vedic in which the
->imperfect is an imperfective limited to remote past and narration while
->aorist is perfective in those context and is also used for recent past
->and statements (without regard to aspect?). Without a living example,
->this sounds too ad-hoc.
-
 Living examples in Vedic prose (Maitrayani, Katha, Taittiriya Samhita etc.)
-
->There is also a reason why I don't want to assume a priori that the root
->and sigmatic forms were used suppletively from the beginning:
->... the distinction between the imperfect
->and aorist is fuzzy in RV [Elizerenkova)
-
 For IE, see above; then:  Well, we know that RV poetry is not a
 straightforward "report" of what Indra etc.  did... Better to check prose
 texts ...
@@ -156,57 +84,31 @@ injunctive.  (Impf./Past.: of past experiences, AsIH , AzRNoH, anu Ayam,
 Asata, avardhayan, atrasan etc.  ::  Aor. prAkramiSam, of statement?; --
 especially nice, the distinction, based on meaning of verbs in the diff.
 pres./aor. injunctives used: mA  mRthAs, mA  pra paptas, mA  kSan!)
-
 and this has been attributed
->[Watkins?] to an original unmarked status of root forms. I don't think
->that it is accidental that classifying root forms of RV sometimes gets
->quite complicated.
-
 see above:  --The IE unmarked root = action type, is classified as
 pres./aor. stem.    See Rix's vol.
 Then classification becomes easier.
-
->MW> What about ... even the English
->MW> forms in -ing ( I was sitting :: I sat)??? (and colloquial N.W. German).
->>English -ing is a progressive.
-
 well 'progressive' is the type of action that is expressed by imperf.
 aspect (if grammaticalized).  See above.  -ing  is an Aktionsart, not
 *grammaticalized* aspect.
 I was giving examples  in the context of a hypothetical peculiarity of the
 INDIAN LINGUISTC AREA, where we find a lot of Aktionsarten that underly the
 grammatical function "aspect".
-
 The past limited  discussion (4 people?) has shown, that no one is very
 clear what he/she means by aspect, terminative, tense, (original)
 grammatical system and periphrastic forms, etc.
-
->MW> I think one of our Amer. linguistic colleagues (who?) ...in medieval
->Sanskrit
->MW> (Narrative literature: periphrastic constructions)
-
 I now seem to remember  it was Craig Melchert, but where did he publish his
 lecture?
-
-
 MW
-
  ==========================================================================
 Michael Witzel
         witzel at fas.harvard.edu
 Wales Professor of Sanskrit
-
 Dept. of Sanskrit & Indian Studies,
 Harvard University                              www.shore.net/~india/ejvs
 2 Divinity Avenue                               (Electronic Journal of
 Vedic Studies)
 Cambridge MA 02138, USA                 (Harvard Oriental Ser., Opera Minora)
-
 phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496 8571
----------------------------------------------------------------------------
 my direct line (also for messages) :  617- 496 2990
 home page:     www.fas.harvard.edu/~witzel/mwpage.htm
-
-
-
-

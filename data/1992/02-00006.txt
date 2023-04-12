@@ -1,20 +1,8 @@
-From STEPHEN at UK.AC.OXFORD.VAX  Fri Feb  7 12:15:00 1992
-From: STEPHEN at UK.AC.OXFORD.VAX (Stephen Miller)
-Date: Fri, 07 Feb 92 12:15:00 +0000
-Subject: Devanagari MF font
-Message-ID: <161227015233.23782.8098554980109057361.generated@prod2.harmonylists.io>
-
-
+Devanagari MF font
 If I am correct Velthuis' Devanagari font has been placed in the public
 domain: unfortunately I cannot remember where I saw this nor the details
 of where to pick it up from. Can someone in the know post the knowledge?
 Thanks.
- 
 Stephen Miller
 National Academic Typesetting
 Oxford University Computing Services
-
-
-
-
-

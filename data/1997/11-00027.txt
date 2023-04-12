@@ -1,43 +1,27 @@
-From jacob.baltuch at EURONET.BE  Mon Nov  3 23:48:38 1997
-From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
-Date: Tue, 04 Nov 97 00:48:38 +0100
-Subject: m/anusvAra & s/visarga
-Message-ID: <161227033407.23782.15159421534253543846.generated@prod2.harmonylists.io>
-
+m/anusvAra & s/visarga
 Do sequences <...sk...>, <...skh...>, <...sp...> or
 <...sph...> ever occur in the middle of any Sanskrit word?
-
 Yes, I know there are sandhi rules that normally force
 the conversion of <s> in such sequences to visarga or <S>
 (according to the previous vowel). What I'm asking is,
 are there, by any ill chance, words where, for some weird
 reason, those rules did not function?
-
 The reason I'm asking is this:
-
 Since I do a lot of ASCII input and typing <H> and <M>
 is a pain in the neck. I want to use in <s> for <H> (visarga)
 (or if it comes before a sibilant, that sibilant)
 and <m> for <M>. But before going ahead I want to be
 fairly sure I will always be able to restaure things
 from the context when I need to.
-
 For anusvAra I am 100% sure but I'd thought I'd mention
 it so as to make 101% sure.
-
 For the visarga, of course no problem can be ex-
 pected at the end of a word since <s> always turns
 into visarga there. In the middle of a word the only
 place I could find visarga is before <k>, <kh>, <p>
 and <ph>.
-
 Therefore I was asking: am I sure I will never find
 <s> there in some weird word? (hence the first question)
 since I need to know that after having changed all
 my visarga to <s> I can restaure all those <s> to visarga.
-
 Thanks for your help.
-
-
-
-

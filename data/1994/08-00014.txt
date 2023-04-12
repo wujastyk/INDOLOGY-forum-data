@@ -1,9 +1,4 @@
-From cardona at unagi.cis.upenn.edu  Fri Aug  5 10:50:56 1994
-From: cardona at unagi.cis.upenn.edu (cardona at unagi.cis.upenn.edu)
-Date: Fri, 05 Aug 94 06:50:56 -0400
-Subject: Grammar query
-Message-ID: <161227017022.23782.11166007935206898037.generated@prod2.harmonylists.io>
-
+Grammar query
 A brief comment on Michael Sweet's question with Gary Tubb's answer.  In
 the Siddhaantakaumudii edition by Giridhara Sarma Caturvedi and
 Paramesvarananda Sarma (vol II.90), the text is: na strii pumaan .
@@ -16,10 +11,3 @@ given as ready-made, assuming certain operations to occur (nipaatyate
 puMsaka.  In brief, the compound napuMsaka is assumed to be a ready-made
 derivate in which puMsaka represents a combination of strii and pums.George
 Cardona 
-
- 
-
-
-
-
-

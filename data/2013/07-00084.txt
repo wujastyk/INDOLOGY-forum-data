@@ -1,23 +1,9 @@
-From wujastyk at gmail.com  Wed Jul 17 08:53:07 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Wed, 17 Jul 13 10:53:07 +0200
-Subject: [INDOLOGY] INDOLOGY,	SARIT and Bombay websites: possible service interruption tonight
-Message-ID: <CAKdt-CeT0nGBOh6k-63TdVG2FM-ykZu1d2oKg4P5Oh_axHh6Jw@mail.gmail.com>
-
+[INDOLOGY] INDOLOGY,	SARIT and Bombay websites: possible service interruption tonight
 The company that runs our INDOLOGY server is doing some maintenance tonight:
-
 During the (Central European) night of Wednesday, 7/17/2013 to Thursday,
 7/18/2013 between 23.00 and 05:00 we are carrying out maintenance on the
 host systems.  There may be interruptions in the availability of your
 server during this period.
-
 Email to and from the INDOLOGY discussion list should not be affected.
-
 Best,
 Dominik Wujastyk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20130717/37d8282e/attachment.htm>
-

@@ -1,10 +1,4 @@
-From wmcox at UCHICAGO.EDU  Fri May 23 09:27:19 2008
-From: wmcox at UCHICAGO.EDU (Whitney Cox)
-Date: Fri, 23 May 08 04:27:19 -0500
-Subject: cha
-Message-ID: <161227082683.23782.3097758837770981544.generated@prod2.harmonylists.io>
-
-
+cha
 As Peter Scharf?s question was about non-Brahmanical MSS
 containing the sign ?cha?, there are two indirect pieces of
 evidence of which I?m aware that might prove helpful.  I?ve
@@ -29,7 +23,6 @@ very grateful if anyone who might have suggestions about how
 to acquire MSS from Jaisalmer could contact with off-list, as
 I?m very eager to get digital photos of this early and
 important source.
-
 The edition of Some?vara is based in a single ms., for which
 Nagar includes the following information (Intro., pp.
 vii-viii): ?It existed [sic] only in a palm-leaf Ms. belonging
@@ -43,7 +36,6 @@ Pattan, compiled form the notes of the Late. Mr. C. D. Dalal
 with introduction, indices, and appendices by Lalchandra
 Bhagwandas Gandhi, in two volumes, Vol 1: Palm-leaf Mss. 
 Baroda: Oriental Institute, 1937.)
-
 In the Vikram??k?bhyudaya, which is written mostly in gadya,
 the ?cha? (picked out by double da??as on either side) is met
 with quite frequently.  So there is a ?cha? closing off the
@@ -56,7 +48,6 @@ and his queen V?calladev?, pp. 20-22), and still others on pp.
 use does not appear entirely consistent, it seems that the
 ?cha? is here used to break off longish subsections of the
 text, either lengthy prose sentences or closing verses.
-
 The western provenance of these sources leads me to wonder
 whether the ?cha? might have, at least initially, been
 meaningful.  I am far from being an authority of such things,
@@ -64,49 +55,11 @@ but it's my understanding that the verb ?to be? in Western
 languages like Rajasthani and Marwari is chai, chai?, etc. 
 Could this sign have originated in the west and then gradually
 became just a purely graphic convention?
-
-
 Whitney Cox
-
-
----- Original message ----
-
->
->Dear Colleagues,
->	I would like to request your help in answering a question
 regarding  
->how to name or categorize a certain character in the Unicode  
->Standard.  Many Indic manuscripts use a decorative character
 that  
->looks like a devanagari cha without the horizontal bar to
 fill space  
->between dandas or double dandas at the end of manuscripts or
 between  
->chapters of a manuscript.  (flower shapes are often used
 similarly.)   
->Have any of you seen the "cha" pu.spikA in manuscripts or  
->publications of Buddhist, Jain, or other clearly non-Vedic
 (in the  
->broadest sense of the term) textual traditions?  If so, could
 you  
->provide a reference and or a digital image?
->	Thanks.
->	Peter
->
->
->
->*********************************************************
->Peter M. Scharf                           (401) 863-2720 office
->Department of Classics             (401) 863-2123 dept.
->Brown University
->PO Box 1856                               (401) 863-7484 fax
->Providence, RI 02912                Scharf at brown.edu
->http://www.brown.edu/Departments/Classics/people/facultypage.php?
-
->id=10044
->http://sanskritlibrary.org/
->*********************************************************
-
-
-
-

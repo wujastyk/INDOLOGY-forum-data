@@ -1,10 +1,4 @@
-From K493750 at EARN.CZHRZU1A  Thu Feb 14 20:53:21 1991
-From: K493750 at EARN.CZHRZU1A (Peter Schreiner)
-Date: Thu, 14 Feb 91 20:53:21 +0000
-Subject: ALLC Report
-Message-ID: <161227014971.23782.3616304762538033300.generated@prod2.harmonylists.io>
-
-
+ALLC Report
 At one of the conferences of the ALLC some years ago a Specialist Group
 on languages and literatures of the Indian Subcontinent was formed, of
 which I have been acting as "representative". The hope was that the group
@@ -15,12 +9,5 @@ projects, prospects, programs, activities, publications, method(ology),
 software, etc., etc. which might be mentioned in the report for the benefit
 not only of indologists but also of a wider public interested in literary
 and linguistic computing.
- 
 Thanks and greetings,
- 
 Peter Schreiner
-
-
-
-
-

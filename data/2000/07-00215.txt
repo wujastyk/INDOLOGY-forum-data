@@ -1,15 +1,5 @@
-From ucgadkw at UCL.AC.UK  Thu Jul 13 08:42:07 2000
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Thu, 13 Jul 00 09:42:07 +0100
-Subject: New book
-In-Reply-To: <003D0A33B331D2119E470008C72892CD029B5937@SMGMAIL>
-Message-ID: <161227059865.23782.4403767582157214207.generated@prod2.harmonylists.io>
-
+New book
 On Wed, 12 Jul 2000, Rajarshi Banerjee wrote:
-
-> Inoculation against chicken pox was practiced in India and China
-> before the practice was discovered by western medicine.
-
 I'm afraid this is rather a muddle.  Inoculation against smallpox (not
 chicken pox, which isn't normally lethal) was practiced in India at least
 as far back as the eighteenth century, when it is reported by Holwell in
@@ -17,41 +7,25 @@ as far back as the eighteenth century, when it is reported by Holwell in
 pox in the East Indies with... observations on the... mode of treating
 that disease in those parts, London, 1767.)  Probably the method was
 practiced earlier, but there's no historical evidence for it.
-
 The earliest evidence for smallpox inoculation (completely different from
 vaccination, of course) comes from Chinese sources.  More on this in
 Chang's paper in the recently published Contagion book.
-
 Inoculation was never "discovered" by western medicine.  The practice was
 noticed in the bazaars of Istanbul by Lady Wortley Montague in the
 mid-eighteenth century, and she had her children inoculated.  She then
 carried out a personal campaign to promote inoculation back in
 England.  This was partly successful, though controversial.  Inoculation
 was eclipsed from the late 1790s by Jenner's famous discoveries.
-
-
-> A book by dharampal lists extensive records kept by the british on
-> innoculation practices in India. Weakened germ cultures were mantained
-> in Varanasi and people were sent out as far as bengal to innoculate
-> people.
-
 Dharampal's book does not list such records, unfortunately.  At least not
 his book on science in the 18th century.  I only wish such "extensive
 British records of inoculation practices" did exist, but they don't.  One
 has to scour contemporary newspapers (materials from about 1800 onwards),
 travellers narratives, and other contemporary sources to find such
 information.
-
 Dharampal's book is very interesting, incidentally.  There's much more
 written on contagion and epidemics in India.  A quite large secondary
 literature.  No excuse not to read (as usual!).  Start with David Arnold's
 excellent Colonizing the Body, and continue with Ranger & Slack, Epidemics
 and Ideas.  Etc. etc. etc.
-
---
 Dominik Wujastyk
 Founder, INDOLOGY list.
-
-
-
-

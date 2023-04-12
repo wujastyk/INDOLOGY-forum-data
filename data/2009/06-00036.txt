@@ -1,17 +1,5 @@
-From baums at U.WASHINGTON.EDU  Fri Jun  5 17:09:34 2009
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Fri, 05 Jun 09 10:09:34 -0700
-Subject: here,              here (was: Re: What Devanagari text would you most like as an              e-text_
-In-Reply-To: <421926.97070.qm@web8603.mail.in.yahoo.com>
-Message-ID: <161227086711.23782.18434028140817465784.generated@prod2.harmonylists.io>
-
+here,              here (was: Re: What Devanagari text would you most like as an              e-text_
 Dear Dipak Bhattacharya,
-
-> Coordinating printed Dictionaries reasonably saves time. But the
-> Gandhari mss have not themselves been coordinated, an absurd
-> prosposition till a critical index is prepared, a work that
-> requires hard manual labour, a case by case inductive procedure.
-
 just briefly. With the G?ndh?r? material we were facing a special
 chicken?and?egg situation in that the ambiguities of the writing
 system, the fragmentation of the manuscripts etc. made it arguably
@@ -19,7 +7,6 @@ more important than for better?preserved Sanskrit texts to have a
 grammar and dictionary to help in their decipherment, but then of
 course a grammar and dictionary would have to be based on a
 decipherment of the material in the first place, as you mention.
-
 Our solution to this problem was preparing transliterations of the
 complete corpus of G?ndh?r? texts (both published and not) to the
 best of our abilities here and now. This goal has been mostly
@@ -42,20 +29,12 @@ the sort ?what happens to OIA i in closed syllable when preceded
 by a palatal,? with full statistics), and then there is the
 complete catalog of texts and the bibliography, so it is not only
 still less but also quite a bit more than a dictionary already.
-
 In addition to the benefits given by Andrew and Stephen,
 digitizing BHSD would then allow us to integrate it into our
 overall system so one can seamlessly navigate back and forth
 between G?ndh?r? and BHS entries.
-
 All best,
 Stefan
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

@@ -1,44 +1,6 @@
-From thayashi at doshisha.ac.jp  Tue Jun 27 14:55:24 1995
-From: thayashi at doshisha.ac.jp (thayashi at doshisha.ac.jp)
-Date: Tue, 27 Jun 95 23:55:24 +0900
-Subject: Pointers to Katapayadi formula needed
-Message-ID: <161227019826.23782.12127900056767868015.generated@prod2.harmonylists.io>
-
+Pointers to Katapayadi formula needed
 At  5:26 AM 95.6.27 +0100, Krishna Kunchithapadam wrote:
->Anand Venkt Raman writes:
->:
->: [ questions about the katapayadi sankhya deleted ]
->:
->
->
->I too have a question regarding the sankhya.  I have come across
->a sloka which encodes the digits of the the decimal expansion of
->pi (correct to about 20+ decimal places) based on the katapayadi
->sankhya.
->
->I would like to know the source of the sloka.  Those readers with
->Web access can check out:
->
->    http://www.cs.wisc.edu/~krisna/pi.html
->
->[The reason I am giving a Web address is that the page has the
->sloka in devanagari---which might avoid some of the problems in
->transliteration]
->
->For those without Web access, the sloka approximately
->transliterates as:
->
->    gopi bhaagya madhu vrata, srngisho dadhisandhiga |
->    khalajivita khatava, galahata rasandhara ||
->
->I appreciate a pointer to the source or any other relevant
->information.  Thank you.
->
->--Krishna
-> 
-
 A few comments about the sloka mentioned by Krishna (I cannot find its source).
-
 (1) The sloka gives the 32 digits,
 3141592653589793238462643386(3?)2792(5?), in the descending order, that is,
 from the highest (g=3) to the lowest (r=2) decimal places, while the
@@ -67,15 +29,7 @@ navanikharvamite vRtivistaare paridhimaanam idaM jagadur budhaaH //
 This says that the circumference of a circle is 2827433388233 (expressed in
 the so-called bhutasamkhya system) when its diameter is measured by `nine
 nikharva' (9 times the 11th power of ten).
-
 Takao Hayashi
 Science and Engineering Research Institute,
 Doshisha University,
 Kyoto, Japan.
-
- 
-
-
-
-
-

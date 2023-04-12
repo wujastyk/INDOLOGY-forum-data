@@ -1,22 +1,13 @@
-From cejka at praha1.ff.cuni.cz  Tue Feb 14 16:51:11 1995
-From: cejka at praha1.ff.cuni.cz (cejka at praha1.ff.cuni.cz)
-Date: Tue, 14 Feb 95 17:51:11 +0100
-Subject: moderating rules
-Message-ID: <161227018503.23782.3276435714241717080.generated@prod2.harmonylists.io>
-
+moderating rules
 Dear members of indology
-
 some of us (including me) have suggested to stop lengthy discussions on
 moderating yes/no and simply to organize some vote on it.
 Others, then, suggested we should first decide on rules how to moderate the
 list. 
-
 O.K. Let's start suggesting, please, those who have some ideas what as to
 what should be not let through to all list members, write them. Then those
 interested may discuss them (SHORTLY please).
-----------------------------------------------------------------------------
 1) I personally suggest not to let through:
-
 one of the messages which appear twice (why do they?)
 subscribe/unsubscribe requests
 messages containing only the FAQ's
@@ -24,7 +15,6 @@ queries about addresses if these are in the Directory of South Asia Scolars
       (for the last 3 mentioned the moderator should have standard
 	reply-files prepared to send them directly to the asking person)
 automatical confirmations of receiving a message
-
 messages longer than some number of lines (say 200 ??)
    these messages should be only announced (brief description of content)
    as available by some ftp, gopher, or via email from the author
@@ -35,15 +25,12 @@ messages longer than some number of lines (say 200 ??)
     but would announce their availability if they are too long
     - this is important for us who have quotas and those who pay for bytes  
     of postings)
-
 2) And some general rules should be simply accepted by the members (and
 included in the subscribers file):
-
 When replying to a posting which has been posted quite recently one should
 not copy the original message, or, at least, one should spend the few
 minutes necessary for finding only the crucial lines in the original message 
 which are only to be copied.
-
 When asking something what is not sure to interest all the others one should
 includ his own e-mail address to be replied to. (Anyway I think that most
 e-mail software has the option to read message with complete header where
@@ -53,27 +40,14 @@ And those who reply should think about their reply whether it is to be sent
 privately or to the list. The originator of the question may again be asked
 privately by somebody else to send replies to him too. (He may also post a
 shortened version of all that has been replied)
-
 Thanks for reply and negative emotions should be sent only to that
 particular person.
-
 etc. etc.
-
 Please do add other suggestions, argue (briefly) against these of mine and
 let's finish quickly this discussion by organizing a vote (please Dominik,
 would you do it somehow?  
-
 For those who want democracy: possibly we might vote every several years if
 we like the rules and "behaviour" of the moderator.
 (But this seems to me superfluous, I'd prefer to vote once)
-
  Jakub Cejka
- 
--- 
 cejka at praha1.ff.cuni.cz    (this message had 67 lines before posting)
- 
-
-
-
-
-

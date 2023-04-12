@@ -1,20 +1,4 @@
-From ddsg at SATYAM.NET.IN  Wed Jul  9 21:27:04 2003
-From: ddsg at SATYAM.NET.IN (Dominic Goodall)
-Date: Thu, 10 Jul 03 02:27:04 +0500
-Subject: Raghuvamsa 2.35
-Message-ID: <161227072970.23782.8753563226101426791.generated@prod2.harmonylists.io>
-
->the problem of Nikumbha in Raghuva.m/sa
->2.35 pp. 257-58. So Vallabha interprets it as the lion of P-arvat-i.
->C-aritravardhana  (13th-14th century; given in Nandargikar ed.) says either
->it refers to one of the ga.nas of /Siva or the son of Kumbhakarna. And
->Aru.nagirin-atha seems the only one to interpret correctly as the ga.na of
->/Siva, in refering to the story told in the "MBh" but which has in fact to
->be found in its khila, viz. the HV, (CE) Appendix I no. 7 (occuring in
->numerous mss.) ll. 61/68-138 (an "interpolation" that Brinkhaus has
->recently shown to be anterior to the corresponding V-aP 92/B.dP2,3,67
->version, cf. Kirfel's PPa?c p. 372-76). 
-
+Raghuvamsa 2.35
 You might be interested to know that actually Vallabhadeva's commentary,
 according to the text of the Kashmirian manuscripts,
 does not identify Nikumbha with Paarvatii's lion.  About the paada in
@@ -22,15 +6,12 @@ question
 (kumbhodara.m naama nikumbhamitram), Vallabhadeva says the following:
 naama prakaa"sye| nikumbhaakhyasya ga.nasya prakhyaatatvaat tanmaitryaa
 pra"sa.msaa.
-
 As we have argued in our edition (which didn't come out in 2002, but which
 we are expecting to come out this month), the non-Kashmirian manuscripts
 purporting to transmit Vallabhadeva's commentary do not really do so.
 Hitherto it has been the non-Kashmirian sources for Vallabha's commentary
 that have been consulted by editors such as S.P. Pandit and Nandargikar,
 who records that `Vallabha' gave the gloss paarvatiivaahana.h si.mha.h.
-
-
 ================================
 Dr. Dominic Goodall,
 Head,
@@ -40,10 +21,4 @@ Ecole fran?aise d'Extr?me-Orient
 P.O. Box 151,
 Pondich?ry 605001,
 INDIA
-
-Tel. 0091 413 2334539/2225689
 Fax 0091 413 2330886
-
-
-
-

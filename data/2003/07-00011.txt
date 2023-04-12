@@ -1,20 +1,9 @@
-From Somadevah at AOL.COM  Tue Jul 22 09:12:01 2003
-From: Somadevah at AOL.COM (Somadeva Vasudeva)
-Date: Tue, 22 Jul 03 05:12:01 -0400
-Subject: =?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Sanskrit_word_order_sort_program_=3F?=
-Message-ID: <161227072981.23782.6257739622557060093.generated@prod2.harmonylists.io>
-
+=?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Sanskrit_word_order_sort_program_=3F?=
 You can download two Perl programs (to run from terminal) from John Smith's
 ftp site that will sort entries into the CSX+ order of the Sanskrit alphabet.
 They are called ``ssort'' and ``ssort.unix'':
 ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/
-
 If you use a Macintosh I can send you a Perl filter to run from the ``text
 filters'' menu in ``BBedit'' that does the same for the encoding of the Norman
 typeface.
-
 S.D.Vasudeva
-
-
-
-

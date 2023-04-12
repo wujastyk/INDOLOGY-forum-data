@@ -1,36 +1,19 @@
-From d.wujastyk at UCL.AC.UK  Mon Aug 30 17:22:58 2004
-From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 30 Aug 04 18:22:58 +0100
-Subject: 18.180 advice on Sanskrit text? (fwd)
-Message-ID: <161227074863.23782.10030572355166165968.generated@prod2.harmonylists.io>
-
+18.180 advice on Sanskrit text? (fwd)
 This message appeared on HUMANIST today.  Anyone who feels like answering,
 please reply to HUMANIST and/or the author, Tambovtsev.
-
 DW
-
-
-
----------- Forwarded message ----------
-Date: Mon, 30 Aug 2004 10:15:47 +0100
 From:
      "Humanist Discussion Group (by way of Willard McCarty <willard.mccarty at kcl.a
      c.uk>)" <willard at LISTS.VILLAGE.VIRGINIA.EDU>
-To: humanist at Princeton.EDU
-Subject: 18.180 advice on Sanskrit text?
-
+18.180 advice on Sanskrit text?
                Humanist Discussion Group, Vol. 18, No. 180.
        Centre for Computing in the Humanities, King's College London
                    www.kcl.ac.uk/humanities/cch/humanist/
                         www.princeton.edu/humanist/
                      Submit to: humanist at princeton.edu
-
-
-
          Date: Mon, 30 Aug 2004 09:28:14 +0100
          From: "Yuri Tambovtsev" <yutamb at mail.cis.ru>
-         Subject: Sanskrit "Shriimad bhaagavatam" in elekronic form
-
+         Sanskrit "Shriimad bhaagavatam" in elekronic form
 Dear Humanist colleagues, we'd like to add Sanskrit to our collection of
 our data of 157 world languages. We'd like to compare our data on the
 phonemic frequency of these 157 world languages to Sanskrit. We have
@@ -41,7 +24,3 @@ long vowels will be shown as two vowels. What can you advise us? Will it be
 easier to feed the Sanskrit text or will it be easier to find it in the
 electronic form? Looking forward to hearing from you soon to
 <mailto:yutamb at hotmail.com>yutamb at hotmail.com Yours sincerely Yuri Tambovtsev
-
-
-
-

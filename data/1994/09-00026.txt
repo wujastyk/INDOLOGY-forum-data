@@ -1,31 +1,17 @@
-From magier at columbia.edu  Thu Sep  8 15:44:43 1994
-From: magier at columbia.edu (David Magier)
-Date: Thu, 08 Sep 94 11:44:43 -0400
-Subject: None
-Message-ID: <161227017173.23782.181253941655735429.generated@prod2.harmonylists.io>
-
+None
 The following information was sent to me by a colleague. I thought it
 might be of use to you all.     David Magier
                 ---------------
-
 All U.K. telephone and fax numbers are being changed, by the addition
 of a number 1 before the area code.  This means that when dialled from
 overseas, numbers in London will now become 
-
 +44 171 nnn nnnn 
-
 or 
-
 +44 181 nnn nnnn
-
 rather than 
-
 +44 71 nnn nnnn 
-
 or 
-
 +44 81 nnn nnnn. 
-
 Similarly Liverpool numbers will become +44 151 nnn nnnn, Cambridge
 numbers +44 1223 etc, and Oxford numbers +44 1865 etc.  At the moment
 the old and the new numbers are said to be interchangeable, but the
@@ -34,11 +20,3 @@ become permanent.  Please change your address books accordingly. This
 is the consequence of the change of the international dialing code for
 calls made FROM the UK from 010 to the international standard OO
 (still not in use in the US where it is 011)
-
-
- 
-
-
-
-
-

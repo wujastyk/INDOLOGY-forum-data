@@ -1,29 +1,16 @@
 to and From JANET" has the following to say about India (sect. 9.21).
- 
    Apart from the Tata Institute which has two nodes on BITNET (TATAVAX
    and TIFRVAX, reached as explained in section 3), the majority of
    reachable sites in India are accessed via UUCP.  However, it appears
    that the only site registered in the maps is shakti.  To reach other
    sites one has to use addresses with "!"s in them from shakti, as
    explained in section 5 above.
- 
    For more information send a message to NETSERV at UK.AC.EARN-RELAY
    containing the text GET A01MAY26 HELPNEWS
- 
 This is quoted from the issue of "Hints" dated 23 March 1990, so things
 may have changed in the last year.
- 
 Finally, if you have access to USENET news, I'm sure that a query to
 the group soc.culture.india about email would generate several up-to-date
 replies.
- 
- 
 Let us know of any successes.
- 
 Dominik
- 
-
-
-
-
-

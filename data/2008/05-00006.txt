@@ -1,26 +1,13 @@
-From ucgadkw at UCL.AC.UK  Mon May  5 19:18:31 2008
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 05 May 08 14:18:31 -0500
-Subject: Mahabhasya now available in Intratext version
-Message-ID: <161227082534.23782.1068727533682817529.generated@prod2.harmonylists.io>
-
+Mahabhasya now available in Intratext version
 Thanks to the staff and funding at the intratext.com project, and to the 
 original data-analysis and data-entry project under Prof. Cardona, the 
 Mahabhasya of Patanjali is now available with the Intratext coding:
-
    http://www.intratext.com/ixt/san0011/_INDEX.HTM
-
 This makes the generation of KWIC indexes trivially easy, as well as 
 providing various statistical and lexical analyses of the text.
-
 Best,
--- 
 Prof. Dominik Wujastyk
 Visiting Associate Professor (Spring Semester '08)
 Department of Asian Studies
 University of Texas at Austin
 http://www.utexas.edu/cola/depts/asianstudies/
-
-
-
-

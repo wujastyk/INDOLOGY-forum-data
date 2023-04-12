@@ -1,16 +1,6 @@
-From silk at HUMNET.UCLA.EDU  Sat Feb 25 19:51:58 2006
-From: silk at HUMNET.UCLA.EDU (Jonathan Silk)
-Date: Sat, 25 Feb 06 11:51:58 -0800
-Subject: dak.si.naa-patha
-In-Reply-To: <E72AA24F-6FEA-4D68-B27F-489260EFA5EA@osu.edu>
-Message-ID: <161227077497.23782.12462603378908688776.generated@prod2.harmonylists.io>
-
->D.C. (Dipakchandra) Sircar
+dak.si.naa-patha
 ...
-
-
 Read: Dinesh (or Dines) Chandra.
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -22,7 +12,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-
-
-

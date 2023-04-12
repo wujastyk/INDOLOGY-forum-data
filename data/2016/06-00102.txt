@@ -1,45 +1,25 @@
-From hspier.muktabodha at gmail.com  Sat Jun 18 18:40:19 2016
-From: hspier.muktabodha at gmail.com (Harry Spier)
-Date: Sat, 18 Jun 16 14:40:19 -0400
-Subject: [INDOLOGY] ISO transliteration standard for devanagari
-Message-ID: <CAPW7aQGpnP80i5Sz81EoA-xp0SO5L1RwHEp5gB-eH-iX1NknpA@mail.gmail.com>
-
+[INDOLOGY] ISO transliteration standard for devanagari
 I have just been going through the ISO standard for transliteration of
 Devanagari and related Indic scripts ISO-15919 and I found something quite
 surpriseing.
-
 Note the following rule quoted exactly  from the standard is a requirement
 not an option. The rule includes an example from Sanskrit.
----------------------
-
 8.1 Special requirements
 Rule 3.
 a)
-
 In modern vernaculars, anusvara before a stop or class nasal shall be
 transliterated as the corresponding class nasal; in other languages,
 anusvara before a stop or class nasal shall be transliterated as
 thecorresponding
 class nasal unless it arises from sandhi (euphonic combination) of final m
 with that consonant.
-
 EXAMPLE 1 Sanskrit* ???* is transliterated as *sa?ga *when it represents
 the noun formed from *sam* + root *gam*, but as *sa?ga* when it represents
 the noun derived from the root *sa?j*
-------------------------------
-
 That means in many cases  if you transliterated a manuscript exactly as it
 was keeping all anusvaras as anusvaras you would not be following the ISO
 standard for transliteration.  It also seems to me the standard is crossing
 the line from transliteration into "interpretation".
-
 I'm somewhat surprised this found its way into the standard.
-
 Harry Spier
 .
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160618/b3a48670/attachment.htm>
-

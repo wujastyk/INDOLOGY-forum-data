@@ -1,19 +1,8 @@
-From navadipanyaya at HOTMAIL.COM  Fri May 29 13:16:01 2009
-From: navadipanyaya at HOTMAIL.COM (JAGANADH GOPINADHAN)
-Date: Fri, 29 May 09 13:16:01 +0000
-Subject: Sanskrit IAST data entry tool
-In-Reply-To: <alpine.WNT.2.00.0905291422280.4500@Caraka>
-Message-ID: <161227086494.23782.717320454400059351.generated@prod2.harmonylists.io>
-
-
+Sanskrit IAST data entry tool
 Dear friends
 Which is the best tool to data entry Sanskrit text in IAST from(Unicode). 
 e.g Text with diacritics. (A????gah?daya)
 Please provide the name of font and tool can be used to enter Devanagari text in the above given format.
-
-
-
-_____________________________________________________________________________________________________
 JAGANADH.G 
 LINGUIST 
 HDG-LTS
@@ -25,14 +14,5 @@ E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.c
 http://sabdabodha.googlepages.com
 www.malayalammorph.blogspot.com
 www.malayalamresourceceter.org
-
-
-
-
-_________________________________________________________________
 Planning the weekend ? Here?s what is happening in your town.
 http://msn.asklaila.com/events/
-
-
-
-

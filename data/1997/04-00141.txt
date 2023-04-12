@@ -1,27 +1,7 @@
-From apandey at u.washington.edu  Tue Apr  8 00:08:25 1997
-From: apandey at u.washington.edu (Anshuman Pandey)
-Date: Mon, 07 Apr 97 17:08:25 -0700
-Subject: Call for co-op: webpage on different standards of  transcription/transliteration]
-Message-ID: <161227029460.23782.12801170925767615837.generated@prod2.harmonylists.io>
-
-
+Call for co-op: webpage on different standards of  transcription/transliteration]
 Mr. Philip Jonsson wrote:
-
-> I'm preparing a webpage dealing with transcription of various scripts and
-> languages, as well as phonetic notation, in ASCII and HTML. Any suggestions
-> and/or pointers to existing standards/proposals/existing habits are most
-> welcome. ALL languages and scripts are of interest.
-
 I am nearly finished with a small paper on the transliteration of Urdu. It
 should be completed within the next week. If you'd be interested in it,
 please me mail me and I'll forward you a copy of the Postscript output.
-
 Regards,
 Anshuman Pandey
-
-
-
-
-
-
-

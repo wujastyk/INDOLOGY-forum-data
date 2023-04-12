@@ -1,40 +1,19 @@
-From baums at lmu.de  Tue May 19 20:59:59 2015
-From: baums at lmu.de (Stefan Baums)
-Date: Tue, 19 May 15 22:59:59 +0200
-Subject: [INDOLOGY] subscript dot diacritic
-In-Reply-To: <555B8241.2050702@u.washington.edu>
-Message-ID: <20150519205959.GT3230@deepthought>
-
+[INDOLOGY] subscript dot diacritic
 Dear Rich and Arlo,
-
-> in Kharosthi script a line above indicates various
-> kinds of variant pronunciations
-
 Brough, G?ndh?r? Dharmapada, pp. 59?60 has a detailed
 discussion of this and does suggest that the line
 originated from a dot. In the Kharo??h? manuscript
 material that I work with, sometimes a stray j or ?
 with dot above occurs, even though the form with line
 above is normal.
-
 On a side note, wondering what the antecedents of dot
 below for retroflex in Indic transliteration are, I
 came across the following Wikipedia page:
-
    https://en.wikipedia.org/wiki/Dot_%28diacritic%29
-
 with a wealth of examples for diacritic dots above
 and below in Latin?based orthographies.
-
 All best,
 Stefan
-
--- 
 Dr. Stefan Baums
 Institute for Indian and Tibetan Studies
 Ludwig Maximilian University of Munich
-
-
-
-
-

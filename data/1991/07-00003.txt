@@ -1,17 +1,10 @@
-From ROSTEN_AJ at NZ.AC.USP  Fri Jul  5 00:28:00 1991
-From: ROSTEN_AJ at NZ.AC.USP (alan)
-Date: Fri, 05 Jul 91 12:28:00 +1200
-Subject: signoff
-Message-ID: <161227015073.23782.13896337771227167427.generated@prod2.harmonylists.io>
-
-
+signoff
 To List subscribers -
   I enclose copies of certain communications received by users of
 the vax maintained by
 The Computer Centre,
 University of the South Pacific,
 Suva.Fiji.
- 
 I have sent them prior to unsubscribing through the appropriate
 listserver. Perhaps some member has had experience of similar
 problems and may be able to provide information of how the problem
@@ -20,7 +13,6 @@ could be approached.
 If anyone would wish to reply it may be wise to reply directly to
 me since communications with the list would probably be shut down
 by then.
- 
 -I-
 INTERNATIONAL COMPUTER COMMUNICATIONS FROM USP
 1. INTRODUCTION
@@ -56,7 +48,6 @@ approximate figures are as follows:
     Feb 91              6.4
     Mar 91              8.6
     Apr 91             17.1
- 
 Although it is heartening to see this increase, the associated
 costs have become unacceptable. The cost for the April traffic was
 over $FJ 6 000. At the time of writing, the projected cost of the
@@ -98,7 +89,6 @@ INFO-VAX. If departments considered access to a service to be
 essential, a means might be found to cost this so that it could be
 charged. This is difficult, as it is not possible to predict the
 amount of traffic which will be received.
- 
 3. DIRECT ACCESS TO REMOTE SYSTEMS
    For direct on-line access to remote systems and data-bases,
 direct dial-up if often possible, as an alternative to network
@@ -121,7 +111,6 @@ section 1. This is the only option which will provide the
 facilities which USP requires. Such connectivity has also to be
 seen in the context of the internal regional communication needs of
 the university.
- 
 -II-
 Log in message appearing 5th July,1991
    Due to the cost of the service and the unavailability of funds,
@@ -132,13 +121,5 @@ services please cancel their registration immediately.
   It is hoped that this move will be temporary, while alternative
 arrangements are sought.
          Computing Centre Director.
- 
     We are indeed blessed in our Computer Services Committee
- 
 Alan Rosten      a.j.rosten at usp.ac.nz
- 
-
-
-
-
-

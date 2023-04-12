@@ -1,34 +1,5 @@
-From bpj at netg.se  Mon Apr  7 08:26:58 1997
-From: bpj at netg.se (bpj at netg.se)
-Date: Mon, 07 Apr 97 10:26:58 +0200
-Subject: VYAKARAN: Re: Classical Sanskrit Accent
-Message-ID: <161227029435.23782.285560768733888962.generated@prod2.harmonylists.io>
-
+VYAKARAN: Re: Classical Sanskrit Accent
 At 23:00 6.4.1997 +0100, Jacob Baltuch wrote:
->B.Philip.Jonsson wrote:
->
->>>how about the meaning of the word 'saNskRta'? shouldn't we strive for one
->>>(re)constructed standard of decent pronounciation and rise above our indian
->>>or
->>>western prakRta?
->>
->>Maybe we SHOULD, but could those of us who are not phoneticians? And is it
->>worth it with a read-only language? Every language teacher sometimes ponder
->>the question which is most reasonable: striving for a goal of perfection
->>that some or most students cannot attain, or striving for an accent that,
->>while "foreign" causes as little misunderstanding and embarrasment as
->>possible?
->
->Aren't you confusing the question of what quality of prononunciation
->to accept from a student, which is one thing, and the question of
->what model to propose, which is another thing? Arguing over whether
->to accept "Marathi Sanskrit" or "Reconstructed Sanskrit" as a model
->can to some extent make sense to me, but can it ever make sense to
->aim at "French Sanskrit" or "Swedish Sanskrit"? Can "French Sanskrit"
->or "Swedish Sanskrit" be targets or can they only be something one
->unwillingly accepts because there are higher priorities and time is
->limited? It's not clear to me which of the two you are saying here.
-
 OK, let's put the question this way: given that most students will effect a
 broken pronunciation, should one allow _any and all deviations_, or should
 we aim for a pronunciation that, while broken, preserves as much as
@@ -50,39 +21,20 @@ Finnish, German and Turkish learners follow quite different spontaneous
 strategies here! A parallel in Sanskrit is the distinction of long final
 vowels: should students be encouraged to stress these, to preserve this
 functionally rather highly loaded distinction?
-
->Incidentally I think it would be interesting to hear from people
->who are teaching Sanskrit, whether the question of the prononciation
->model is an issue for them, how they have settled it (if they have),
->how much importance they attach to oral proficiency and a good pronun-
->ciation (if at all), how much importance and interest their students
->appear to attach to those questions, etc.
-
 Yes, and how do they explain/describe the relevant distinctions to students
 without phonetic training? When I took part in a group learning Tibetan
 from tapes the problem wasn't with reproducing the tones accurately, but
 with understanding their distinctiveness and applying them correctly. And
 that in spite of Swedish being a tone language!
-
 The phonetically untrained are often not aware even of the distinctions of
 their own language. A fact, btw, that king Seidzong noted among Koreans
 half a millennium ago: people thought that the sounds of their language
 were those that the rhyme dictionaries described for Middle Chinese! I
 wonder if this applies wrt to Sanskrit in relation to modern Indic
 vernaculars also?
-
 Philip <bpj at netg.se>
-
-
 *************************************************
 *  B.Philip Jonsson <bpj at netg.se>               *
 *  Editor, Translator (English <-> Swedish),    *
 *  Scholarly font-designer, Web-book designer   *
 *************************************************
-
-
-
-
-
-
-

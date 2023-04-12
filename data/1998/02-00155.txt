@@ -1,18 +1,4 @@
-From thillaud at UNICE.FR  Wed Feb 11 08:42:44 1998
-From: thillaud at UNICE.FR (Dominique.Thillaud)
-Date: Wed, 11 Feb 98 09:42:44 +0100
-Subject: indrAdayaH surAH
-In-Reply-To: <v01530500b105e08fa462@[195.99.80.132]>
-Message-ID: <161227035617.23782.16971148845534288235.generated@prod2.harmonylists.io>
-
->Indra is the LokapAla of the east direction. The directions are generally
->surveyed starting from the east and clockwise. In Tantric ritual texts one
->often sees the expression indrAdI"sAnaparyantam meaning "from east to
->north-east" (ex. AjitAgama XXIX.195). In this way indrAdayaH surAH may be
->the LokapAla-s.
->
->Pierre-Sylvain Filliozat
-
+indrAdayaH surAH
         Thanks. That seems a good explanation but open an other request.
 The MMW dictionary (s.v. lokapAla) gives, refering to Mn.V,96, the list:
 E: indra
@@ -28,10 +14,5 @@ and he gives the variants nirRti for SW and IzAnI or pRthivI for NE.
 explained? I can't believe the choice was randomly made!
         Best,
 Dominique
-
 Dominique THILLAUD
 Universite' de Nice Sophia-Antipolis, France
-
-
-
-

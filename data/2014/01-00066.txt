@@ -1,10 +1,4 @@
-From wujastyk at gmail.com  Tue Jan 14 13:10:27 2014
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Tue, 14 Jan 14 14:10:27 +0100
-Subject: [INDOLOGY] Precomposed characters vs combining characters
-In-Reply-To: <1712AE20-8631-47D0-BBF9-ACD63D238655@fastwebnet.it>
-Message-ID: <CAKdt-CcwD-QNS-vd8kcm4TbWwL+DPpappGBtgq+yEGV8OtLndg@mail.gmail.com>
-
+[INDOLOGY] Precomposed characters vs combining characters
 Although the Unicode standard describes both forms as canonically
 normalized,* <https://en.wikipedia.org/wiki/Unicode_equivalence> I would
 recommend precomposed (or NFC, *Normalization Form Canonical Composition*).
@@ -21,20 +15,14 @@ processing utilities are required to handle all NF(K)C and NF(K)D forms
 without blinking.  Also, W3C normalization requires NFC. So if a text is
 going to be rendered on a website, it should be in NFC (or in a character
 reference entity, which looks nice but is normally horrible to work with).
-
 See also question two, in the Unicode normalization
 FAQ<http://www.unicode.org/faq/normalization.html>:
 "NFC is the best form for general text, since it is more compatible with
 strings converted from legacy encodings."
-
 ?Best,
 Dominik?
-
---
 ?See also. <http://www.unicode.org/reports/tr15/#Implementation_Notes>
 ?
-
---
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
 ,
@@ -48,75 +36,5 @@ St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
 Project <http://www.istb.univie.ac.at/caraka/> | home
 page<http://www.academia.edu/DominikWujastyk>|
 HSSA <http://hssa.sayahna.org> | PGP <http://wujastyk.net/pgp.html>
-
-
-
-
-
 On 14 January 2014 01:01, Marco Franceschini <
 franceschini.marco at fastwebnet.it> wrote:
-
-> Dear friends,
->
->
-> I?m devising a keyboard layout (on OS X) for the Italian "physical"
-> keyboard, that allows the user to type all the combinations of a base
-> character with one or more diacritics that are used for the transliteration
-> of many Indian scripts as well as Arabic and Perso-Arabic scripts, in
-> conformity with the main standards and transliteration schemes used in
-> scholarly publications. I?m using Ukelele for this purpose.
->
-> My keyboard layout makes extensive use of dead keys: it allows the user to
-> combine up to three diacritics to one base character, in order to let
-> her/him to add Vedic tone signs (represented by grave/acute or vertical
-> stroke above/underbar) to the transliterated text. Diacritics can be typed
-> in any order, and the base character must be typed after them. The complete
-> list of the allowed combinations is available here:
->
-> https://www.dropbox.com/s/6k057ksula49zqf/TABELLA.pdf
->
-> My question is: should I encode the output as precomposed characters (or
-> as combinations of a precomposed character plus added diacritics ?as far as
-> precomposed characters are available, of course) or should I use combining
-> characters throughout (that is: sequences of the codes of all the
-> glyphs that constitute the final character)?
->
-> My keyboard is based on the ?Italiano - Pro? keyboard layout that comes
-> with OS X, in which just a few combinations of a base character+diacritic
-> are provided. With a few exceptions, they are not used in the
-> transliteration of Indian/Arabic scripts, but they are widely used in
-> Italian language (e.g.: ? ? ? ? ? etc.). All of these combinations are
-> encoded by the ?Italiano - Pro? keyboard layout as precomposed characters.
->
-> I?m tempted to use combining characters throughout (and to convert the
-> encoding of the combinations inherited from the ?Italiano - Pro? keyboard
-> accordingly). But I hesitate, because I know that only a few word
-> processors (e.g. Nisus, which I'm using) are able to recognize the two
-> different encodings (precomposed and combining characters) as equivalent
-> for Finding/Replacing and Sorting purposes, while the most widespread
-> softwares are not (Word for Mac, Neo Office, Open Office); and this fact
-> would create problems if one adds/mixes text typed with my keyboard layout
-> to an old file typed with the ?Italiano - Pro? keyboard layout.
->
->
-> Precomposed characters or combining characters? This is the dilemma. Has
-> any of you already faced such a quandary?
->
->
-> Best,
->
->
-> Marco Franceschini
-> ---
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> http://listinfo.indology.info
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140114/10dbb6d1/attachment.htm>
-

@@ -1,35 +1,9 @@
-From lmfosse at ONLINE.NO  Wed Aug 12 20:05:34 1998
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Wed, 12 Aug 98 20:05:34 +0000
-Subject: SV: Fortunatov's Law and tolkAppiyar's rules
-Message-ID: <161227041168.23782.16806913251395645756.generated@prod2.harmonylists.io>
-
+SV: Fortunatov's Law and tolkAppiyar's rules
 I have a question regarding these sound changes:
-
->The change c^ -> c cannot be later than the second palatalization (change
->of PIE *k/*k-super-w to c^ before e/i) which must have preceded the
->merger of e/o/a. So, under the above scenario, the merger of e/o/a must
->be later than the split of Indian from Iranian.
->
->I find this quite incredible.
-
 It depends on the exact phonetics of Proto-Indo-Iranian.
-
 Clearly, the satem and the ruki-phenomena are the oldest, as they are
 shared by Indo-Iranian, Balto-Slavic and Armenian.  For "proto-satem"
 (proto-East-Indo-Eropean), we can assume:
-
 The fact that a certain phenomenon is shared by some languages does not exclude the possibility that they occurred independently in some of  - or all of - the languages. How do we know that the changes are not independent?
-
-
 Best regards,
-
 Lars Martin Fosse
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 1820 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980812/5c9d0aaa/attachment.bin>
-

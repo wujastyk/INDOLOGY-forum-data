@@ -1,29 +1,19 @@
-From srini at engin.umich.edu  Tue Jun 17 21:45:20 1997
-From: srini at engin.umich.edu (Srinivasan Pichumani)
-Date: Tue, 17 Jun 97 17:45:20 -0400
-Subject: epics and oral traditions
-Message-ID: <161227031084.23782.6283939789175244967.generated@prod2.harmonylists.io>
-
-
+epics and oral traditions
 Jacob >> Re the influence of writing on the transmission of 
 Jacob >> the Samaveda, I have read of cases of interference
 Jacob >> of writing, in that the musical value of certain
 Jacob >> signs in the manuscripts was misinterpreted, which in
 Jacob >> turn seems to show that the recitation was learned at
 Jacob >> least in some cases from the written down version.
- 
 Jacob >> Does anyone know what I am talking about? 
-
 I think you are referring to the "old" and "new" schools of 
 Samavedic chant in Tamil Nadu.
-
 The "old" school, also called the composite style of North Arcot 
 or the MuLLaNtiram school, had cadjan leaf manuscripts which used
 ka-ca-Ta syllable notation for the gAnAs.  Since these notational 
 syllables were printed inline with the gAnas themselves, a student 
 following the written gAnas without the guidance of a teacher was 
 likely to include these syllables too in the course of his chant.
-
 So, a Krishnaswami S'rautigal of TiruvaiyyAru went to Poona and 
 copied the Saman texts available there with the numeral notation 
 of the Northern Kauthumas, and printed it in Grantha characters.  
@@ -33,13 +23,10 @@ cut up and dissected the musical phrases beyond all recognition
 and was therefore useless.  However, the printed book prevailed
 in the Southern (i.e. Tanjore/Tiruchi) districts, while the North 
 Arcot, Kanchipuram pATas'AlAs stuck to the prAcIna school.
-
 Wayne Howard's book "Samavedic Chant" (Yale Univ Press, 1977)
 has this info, taken from a lecture given in 1957 by a T.K.
 Rajagopala Iyer... but does not mention the timeframe when this
 happened... I believe it is from the end of the 19th century. 
-______________________
-
 In a more recent article in the Journal of the Indian Musicological
 Society (~ 1989),  Wayne Howard and L.S.Rajagopalan have reported
 on the prAcIna Kauthuma Samavedic chant among Tamil Brahmins of 
@@ -47,7 +34,6 @@ Palghat District... which is on the verge of extinction.  These
 Tamil Brahmins migrated a long while ago, mainly from the Tanjore 
 region (apparently, Vaideesvaran Koil in Tanjore Dt is the place from
 where most of the initial migrants hailed).  
-
 When one of the followers of this style chanted before the late 
 ParamAcArya of Kanchi Kamakoti Pitham in the 80s, the AcArya is 
 supposed to have been very pleased and honored him personally, 
@@ -56,18 +42,14 @@ reportedly prevalent in Tanjore a while ago, and that the present
 style in Tanjore was a modified one... he jokingly referred to the 
 navIna style of chanting as Ramanna sAman, after one Ramanna who 
 was responsible for it.
-__________________________
-
 Jacob >> On the other hand there do seem to be traditions which
 Jacob >> do not use (have never used?) writing at all, for example
 Jacob >> Nambudiri Samavedins.
-
 Klaus >> Thet learn their Vedas by heart, but in fact they do have 
 Klaus >> manuscripts, too, and have had quite a some time (centuries, 
 Klaus >> at least). Nambudiris have been literally very active and 
 Klaus >> composed, in addition to works belonging to other genres 
 Klaus >> of literature, commentaries to their own Vedic texts.
-
 Wayne Howard reports that the Jaiminiya Samavedic tradition has
 been strictly oral, and that they are not acquainted with any
 system of notation... in direct contrast to Kauthumas of the
@@ -75,14 +57,6 @@ North with their numeral notation, Kauthuma-Ranayaniyas of the
 South with their syllable notation, and Tamil Jaiminiyas with
 their syllable notation (and manuscripts in both Malayalam and
 Grantha scripts).
-
 This suggests that they at least don't have manuscripts of the
 Jaiminiya grAmageyagAna and other songbooks. 
-_________________
-
 -Srini.
-
-
-
-
-

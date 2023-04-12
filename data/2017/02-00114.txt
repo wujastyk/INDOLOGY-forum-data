@@ -1,31 +1,14 @@
-From drdhaval2785 at gmail.com  Fri Feb 17 15:45:43 2017
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Fri, 17 Feb 17 21:15:43 +0530
-Subject: [INDOLOGY] SK XML version 1.1.0 - vArtikas markup added
-In-Reply-To: <CADSGPzXEdWZ8JeF3aNhQrpegKWv=DLsV-NxjQ2Oy3=9G7=kJCw@mail.gmail.com>
-Message-ID: <CADSGPzUFcUWy1G9TR=2xtOBinpjhErFiUi-ZQ_OooDEU34B4Vw@mail.gmail.com>
-
+[INDOLOGY] SK XML version 1.1.0 - vArtikas markup added
 Apologies for cross posting.
-
 Dear all,
 Just to keep all of you abreast, we have recently launched new version
 v1.3.1 of the XML file.
 For those who prefer to see HTML,
 https://drdhaval2785.github.io/siddhantakaumudi/ is the location where
 latest HTML generated from XML is placed.
-
 There is also an epub file for those wishing to read on ebook reader.
 https://github.com/drdhaval2785/siddhantakaumudi/blob/master/docs/sk.epub
-
-
 Major changelog is attached below.
-
 For source code - https://github.com/drdhaval2785/siddhantakaumudi/
 For bug report / feature request -
 https://github.com/drdhaval2785/siddhantakaumudi/issues
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170217/05d8b45f/attachment.htm>
-

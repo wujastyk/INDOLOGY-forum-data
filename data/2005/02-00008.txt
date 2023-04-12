@@ -1,38 +1,13 @@
-From lnelson at SANDIEGO.EDU  Wed Feb  2 14:04:26 2005
-From: lnelson at SANDIEGO.EDU (Lance Nelson)
-Date: Wed, 02 Feb 05 06:04:26 -0800
-Subject: diacritics
-In-Reply-To: <001001c50853$91750400$0200a8c0@anchorageak.net>
-Message-ID: <161227075816.23782.15546703118070464564.generated@prod2.harmonylists.io>
-
+diacritics
 Al,
-
 I'd recommend you check out Aksharamala, which I have found to be
 quite a good program, fully compatible with MSWord 2000+.  See:
-
 http://www.aksharamala.com
-
 Cost is reasonable (about $40), and they provide prompt and helpful
 tech support by email if you should need it.  Also handles most other
 Indian languages.
-
 Lance
-
 On 1 Feb 2005 at 2:45, Al Collins wrote:
-
-> Can someone recommend a simple MS Word add-on for Sanskrit diacritics,
-> plus Vedic accents?  I had used NotaBene in the past, but am so used
-> to Word now that I hesitate to switch back.
->
-> Al Collins
-
-
-
-----------------------
 Lance Nelson
 Theology & Religious Studies
 University of San Diego
-
-
-
-

@@ -1,19 +1,8 @@
-From vidynath at MATH.OHIO-STATE.EDU  Wed Jun 24 16:41:20 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Wed, 24 Jun 98 12:41:20 -0400
-Subject: Retroflexion in IA
-Message-ID: <161227040248.23782.1196602442986994396.generated@prod2.harmonylists.io>
-
+Retroflexion in IA
 George Thompson <thompson at JLC.NET> wrote:
->Now, either retroflexion arose internally or it arose as a result of
->contact between two distinct language families in the Indian sub-continent.
->As far as I can tell, there is still no definitive argument in favor of
->either one of these alternatives.
-
 A basic methodological question is how to pick the null hypothesis?
 After all, change happens all the time. Should we look for external
 causes every time?
-
 Another question is the mechanism of how contact produced retroflexion.
 Mispronounciation by Dravidian speakers has to meet some serious
 objections (Hock mentions one, another which I have mentioned before
@@ -21,30 +10,14 @@ is the preservation of voiced/voiceless and aspirated/unaspirated
 distinctions). Are are any others? At least Hock gives a potential
 mechanism in internal evolution, one which has similarities to
 what has happened elsewhere.
-
 Bh. Krishnamurti wrote:
->Such a transformation of Skt phonological system is possible only
->under a contact situation.
-
 Isn't this basically what is being questioned? Is there a universally
 applicable theory that predicts what kind of changes can occur
 internally and what cannot and which is applicable to reftroflexion?
 [This is not rhetorical, but is a reflection of my ignorance.]
-
 George Thompson wrote:
->Hock also seems inconsistent when he insists upon the relevance of
->retroflexion in Norwegian and Sicilian, etc.[where retroflexion seems
->allophonic rather than structural, as Jacob Baltuch has observed ], whereas
->he balks at the relevance of Dravidian retroflexion with regard to IA
->retroflexion, because Dravidian makes a three-fold distinction between
->dental-alveolar-retroflex, in contrast to the IA two-fold distinction
->between dental-retroflex. Could someone explain to me why a proto-Dravidian
->language with such a three-fold distinction COULD NOT HAVE INFLUENCED early
->IA in such a way as to induce a dental-retroflex distinction?
-
 I have no idea of what Hock had/has in mind. But to me he seems to be
 criticizing two claims that have been made in the past.
-
 The first is that retroflexes are so bizarre, so alien to IE that they
 cannot arise by internal development and can only be due to substratum
 influence. [Perhaps nobody will openly admit to believing this in this
@@ -53,14 +26,12 @@ For example, I don't know why anyone should cringe at retroflexed
 pronunciation of -rt- etc in AE. I wonder how much of this cringing is
 due to how one was taught English pronunciation, or class distinctions
 inferred from such a pronunciation in India.]
-
 Second is the claim that retroflexes are due to Dravidians
 mispronouncing alveolars. People do not confuse sounds which belong to
 distinct phonemes in their primary language. There are other objections
 to this theory which I have mentioned before. [Anyway, where were t/d/dh
 produced in PIE/PIIr? At the alveolar ridge, at the `roots of the teeth'
 as said by some praati"sakhyas, or at the middle/edge of the teeth?]
-
 A question that just struck me: How should we define a phoneme or a
 minimal pair? Should we use (inflected forms of) words as actually
 pronounced in speech or do we use (dictionary forms of) stems without
@@ -69,31 +40,19 @@ the stem of each word they say.] If we take the former view, then there
 is at least one minimal pair: iDA'/iLA' (inst. sing. of iD) vs. idA'
 (adverb). Also, do we really want to consider SaT (six) and sat
 (existent) as homophones?
-
 Of course, you can argue that Dravidian contact influenced the course of
 evolution of incipient tendencies already present. But that is different
 from arguing that the distinction cannot have any basis in internal
 development.
-
-----------
-
 I don't know who said that retroflexes are remarkably stable in
 Dravidian languages. I wonder if that is 100% true. The table of
 correspondences given in DEDR show .t (and _t) undergo all sorts of
 changes in Central and North Dravidian languages. Unfortunately the few
 sources on individual languages that I have access to (or DEDR) do not
 come with notes such as `the sound listed as r/rr (or y or s/z) here is
->not retroflex<'.
-
 Of course, in many of these, n/_n and .n merge. Again I wonder if the
 merged phoneme is always retroflex rather than alveolar. [If IA had a
 dental vs non-dental contrast, while PD had only n/_n vs .n contrast,
 contact may have produced some pressure towards eliminating all
 contrasts. Perhaps that is what we are seeing here and in those
 Prakrits where n and .n fall together.]
-
-------------
-
-
-
-

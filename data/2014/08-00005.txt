@@ -1,67 +1,6 @@
-From rajam at earthlink.net  Sat Aug  2 00:30:19 2014
-From: rajam at earthlink.net (rajam)
-Date: Fri, 01 Aug 14 17:30:19 -0700
-Subject: [INDOLOGY] Font with Brahmi characters
-In-Reply-To: <DE808899-05FD-4050-A19B-255B41E29EF4@btinternet.com>
-Message-ID: <7B48A225-9EE9-4C85-A2EF-38AB9A027268@earthlink.net>
-
+[INDOLOGY] Font with Brahmi characters
 I think we need more clear instructions for end users. I downloaded all of those types but got nowhere from there. 
-
 I?m sure, scholars like ?ri Shriramana Sharma <jamadagni at gmail.com> and his colleagues who developed the Tamil Brahmi font would be able to help us here.
-
 Best,
 Rajam
-
-
 On Aug 1, 2014, at 2:16 PM, Valerie J Roebuck <vjroebuck at btinternet.com> wrote:
-
-> Most of what I got didn?t look like Brahmi, however pixellated, and my Mac warned of problems when I installed them. I thought it might be that they hadn?t been adapted for Mac OS. In the end I just deleted them. 
-> 
-> Valerie J Roebuck
-> Manchester, UK
-> 
-> On 1 Aug 2014, at 22:11, Andrew Ollett <andrew.ollett at gmail.com> wrote:
-> 
->> The Brahmi glyphs are in the file "unifont_upper-7.0.03.ttf" (since they are above the basic multilingual plane). You will need some input method (or a character map) to produce the characters.
->> 
->> These glyphs seems to be included just for the sake of completeness, since they're very pixellated and the combining characters don't work (11038-11045).
->> 
->> 
->> On Fri, Aug 1, 2014 at 12:21 PM, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
->> Somehow I too was not successful. Such failure is rare.
->> Best
->> DB
->> 
->> 
->> On Fri, Aug 1, 2014 at 6:12 PM, Valerie J Roebuck <vjroebuck at btinternet.com> wrote:
->> Could someone please give me a clue as to how to download the Brahmi characters from that page? 
->> 
->> Thanks -
->> 
->> Valerie J Roebuck
->> Manchester, UK
->> 
->> On 1 Aug 2014, at 10:30, Dominik Wujastyk <wujastyk at GMAIL.COM> wrote:
->> 
->>> The June 2014 release of the free Unicode font "Unifont" added the Brahmi character set.  Link:
->>> http://unifoundry.com/unifont.html
->>> DW
->>> 
->>> _______________________________________________
->> 
->> 
->> _______________________________________________
->> 
->> _______________________________________________
->> _______________________________________________
->> 
-> 
-> _______________________________________________
-> 
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140801/f62c3efc/attachment.htm>
-

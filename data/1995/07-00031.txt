@@ -1,9 +1,4 @@
-From hueckst at cc.UManitoba.CA  Thu Jul  6 22:00:40 1995
-From: hueckst at cc.UManitoba.CA (RAH)
-Date: Thu, 06 Jul 95 17:00:40 -0500
-Subject: Font Encoding
-Message-ID: <161227019936.23782.6201654079625251298.generated@prod2.harmonylists.io>
-
+Font Encoding
 To All,
 I have just finished a rough draft of a font encoding that is an attempt 
 to improve on the HACC encoding.  If anyone would like to see it, please 
@@ -16,18 +11,9 @@ I happen to like is in the retroflex-aspirate characters. I have made
 them distinct, individual characters so that the dot can be placed 
 between them, instead of just under the initial d or t. (How 'bout that, 
 'eh? Enough for some form of immortality?(:-))
-
 sevAyAm,
 Bob Hueckstedt
-
 Robert A. Hueckstedt, Associate Professor of Indic Languages
 Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
 Winnipeg, Manitoba R3T 2N2 Canada email: hueckst at cc.umanitoba.ca
 fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
-
- 
-
-
-
-
-

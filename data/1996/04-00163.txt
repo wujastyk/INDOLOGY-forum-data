@@ -1,13 +1,6 @@
-From zydenbos at flevoland.xs4all.nl  Thu Apr 18 23:45:02 1996
-From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
-Date: Thu, 18 Apr 96 22:45:02 -0100
-Subject: Email in Benares
-Message-ID: <161227023923.23782.18048186715979220552.generated@prod2.harmonylists.io>
-
-
+Email in Benares
 Replies to msg 18 Apr 96: indology at liverpool.ac.uk
 (MDSAAA48 at GIASMD01.VSNL.NET.IN)
-
  MVNI> The best option will be to open an account
  MVNI> (TCP/IP)(PPP)with VSNL, New Delhi
  MVNI> and make an STD call from Benares to Delhi to get into the
@@ -15,16 +8,7 @@ Replies to msg 18 Apr 96: indology at liverpool.ac.uk
  MVNI> will be Rs. 15000 per year of 250 hours whichever is
  MVNI> earlier. Good luck.
  MVNI> Dr. S. Kalyanaraman
-
 That is the expensive option. If simple email (using a Unix interface, with the
 Pine mailer program) is enough, then it costs only Rs.6000 (=Rs.5000 + Rs.1000
 registration).
-
 Robert Zydenbos
-
-
-
-
-
-
-

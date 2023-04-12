@@ -1,20 +1,10 @@
-From eastwestcultural at yahoo.com  Tue Jan  5 15:11:24 2021
-From: eastwestcultural at yahoo.com (Dean Michael Anderson)
-Date: Tue, 05 Jan 21 15:11:24 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Brahmagupta's_Tantrapar=C4=ABk=E1=B9=A3=C4=81_in_Br=C4=81hmasphu=E1=B9=ADasiddh=C4=81nta?=
-In-Reply-To: <d31d193d3f06f9643c52d87596c442c6@imapproxy.vub.ac.be>
-Message-ID: <157580240.4493657.1609859484169@mail.yahoo.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Brahmagupta's_Tantrapar=C4=ABk=E1=B9=A3=C4=81_in_Br=C4=81hmasphu=E1=B9=ADasiddh=C4=81nta?=
  Thanks! I would greatly appreciate the photos of just the English pages. If I need to go deeper, I can try to find the originals.
 Yes, my first name is Dean and my middle name is Michael. Actually, you just solved a mystery for me: why I am occasionally called Michael. People must assume it's the academic title. Dean is a not uncommon name in the US ... regardless of educational qualifications. In fact, sometimes I wonder if there's not generally an inverse correlation. :-)
-
 Best,
 Dean
-
     On Tuesday, January 5, 2021, 8:31:36 PM GMT+5:30, jmdelire via INDOLOGY <indology at list.indology.info> wrote:  
- 
  Dear Michael (or is Dean also your name ?),
-
 I have at my disposal a discussion of the 11th chapter in an edition of 
 the BSS by "A Board of Editors headed by ACHARYAVARA RAM SWARUP SHARMA, 
 Chief Editor and Director of the Indian Institute of Astronomical and 
@@ -23,193 +13,12 @@ Vijnana and Hindi Commentaries. Are you interested by a scan, or rather
 photos because the (bulky) book is uneasy to scan. I also have the 
 edition (without translation nor discussion) by M.S.Dvivedin, Banaras, 
 1902.
-
 Best regards,
-
 J.M.Delire,
 Lecturer on Science and Civilization of India - Sanskrit Texts, IHEB 
 (University of Brussels, Belgium)
-
-
 Le 04.01.2021 08:07, Dean Michael Anderson via INDOLOGY a ?crit?:
-> I ran across this mention of Brahmagupta criticizing ?ryabha?a
-> 
-> Does anyone know where I might find an English translation or
-> discussion of this? I fear I would soon be lost in a sea of technical
-> mathematical and astronomical terms if I tried to read it in Sanskrit!
-> 
-> The eleventh chapter of the _Br?hmasphutasiddh?nta_, which is called
-> "Tantrapar?ks?," and is devoted to severe criticism of previous
-> works on astronomy, is chiefly devoted to criticism of ?ryabhata.
-> 
-> Best,
-> 
-> Dean
-> 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata [1]
-> 
-> The _Br?hmasphutasiddh?nta_ of Brahmagupta was composed in 628 A.D.,
-> just 129 years after the ?ryabhat?ya, if we accept 499 A.D., the
-> date given in III, 10, as being actually the date of composition of
-> that work. The eleventh chapter of the _Br?hmasphutasiddh?nta_,
-> which is called "Tantrapar?ks?," and is devoted to severe criticism
-> of previous works on astronomy, is chiefly devoted to criticism of
-> ?ryabhata. In this chapter, and in other parts of his work,
-> Brahmagupta refers to ?ryabha?a some sixty times. Most of these
-> passages contain very general criticism of ?ryabha?a as departing
-> from _sm?ti_ or being ignorant of astronomy, but for some 30 stanzas
-> it can be shown that the identical stanzas or stanzas of identical
-> content were known to Brahmagupta and ascribed to ?ryabha?a. In XI,
-> 8 Brahmagupta names the _Ary???a?ata_ as the work of
-> ?ryabha?a, and XI, 43, _j?n?ty ekam api yato n?ryabha?o
-> ga?itak?lagol?n?m_, seems to refer to the three sections of our
-> Ary???a?ata. These three sections contain exactly 108 stanzas.
-> No stanza from the section on mathematics has been quoted or
-> criticized by Brahmagupta, but it is hazardous to deduce from that, as
-> Kaye does,[4] [2] that this section on mathematics is spurious and is
-> a much later addition.[5] [3] To satisfy the conditions demanded by
-> Brahmagupta's name Ary???a?ata there must have been in the work
-> of ?ryabha?a known to him exactly 33 other stanzas forming a more
-> primitive and less developed mathematics, or these 33 other stanzas
-> must have been astronomical in character, either forming a separate
-> chapter or scattered through the present third and fourth sections.
-> This seems to be most unlikely. I doubt the validity of Kaye's
-> contention that the _Ga?itap?da_ was later than Brahmagupta. His
-> suggestion that it is by the later ?ryabha?a who was the author of
-> the _Mah?siddh?nta_ (published in the "Benares Sanskrit Series" and
-> to be ascribed to the tenth century or even later) is impossible, as a
-> comparison of the two texts would have shown.
-> 
-> I feel justified in assuming that the ?ryahha??ya on the whole is
-> genuine. It is, of course, possible that at a later period some few
-> stanzas may have been changed in wording or even supplanted by other
-> stanzas. Noteworthy is I, 4, of which the true reading _bh??_, as
-> preserved in a quotation of Brahmagupta, has been changed by
-> Parame?vara or by some preceding commentator to _bham_ in order to
-> eliminate ?ryabha?a's theory of the rotation of the Earth.
-> 
-> Brahmagupta criticizes some astronomical matters in which ?ryabha?a
-> is wrong or in regard to which ?ryabha?a's method differs from his
-> own, but his bitterest and most frequent criticisms are directed
-> against points in which ?ryabha?a was an innovator and differed
-> from _sm?ti_ or tradition. Such criticism would not arise in regard
-> to mathematical matters which had nothing to do with theological
-> tradition. The silence of Brahmagupta here may merely indicate that he
-> found nothing to criticize or thought criticism unnecessary.
-> Noteworthy is the fact that Brahmagupta does not give rules for the
-> volume of a pyramid and for the volume of a sphere, which are both
-> given incorrectly by ?ryabha?a (II, 6-7) . This is as likely to
-> prove ignorance of the true values on Brahmagupta's part as lateness
-> of the rules of ?ryabha?a. What other rules of the_Ga?itap?da_
-> could be open to adverse criticism? On the positive side may be
-> pointed out the very close correspondence in terminology and
-> expression between the fuller text of Brahmagupta, XVIII, 3-5 and the
-> more enigmatical text of _?ryabha??ya_, II, 32-33, in their
-> statements of the famous Indian method (kuttaka) of solving
-> indeterminate equations of the first degree. It seems probable to me
-> that Brahmagupta had before him these two stanzas in their present
-> form. It must be left to the mathematicians to decide which of the two
-> rules is earlier.
-> 
-> The only serious internal discrepancy which I have been able to
-> discover in the _?ryabha??ya_ is the following. Indian astronomy,
-> in general, maintains that the Earth is stationary and that the
-> heavenly bodies revolve about it, but there is evidence in the
-> _?ryabha??ya_ itself and in the accounts of ?ryabha?a given by
-> later writers to prove that ?ryabha?a maintained that the Earth,
-> which is situated in the center of space, revolves on its axis, and
-> that the asterisms are stationary. Later writers attack him bitterly
-> on this point. Even most of his own followers, notably Lalla, refused
-> to follow him in this matter and reverted to the common Indian
-> tradition. Stanza IV, 9, in spite of Parame?vara, must be interpreted
-> as maintaining that the asterisms are stationary and that the Earth
-> revolves. And yet the very next stanza (IV, 10) seems to describe a
-> stationary Earth around which the asterisms revolve. Quotations by
-> Bha??otpala, the V?san?v?rttika, and the Mar?ci indicate that
-> this stanza was known in its present form from the eleventh century
-> on. Is it capable of some different interpretation? Is it intended
-> merely as a statement of the popular view? Has its wording been
-> changed as has been done with I, 4? I see at present no satisfactory
-> solution of the problem.
-> 
-> Colebrooke[6] [4] gives _caturvi??aty a??ai? cakram ubhayato
-> gacchet_ as a quotation by Mun??vara from the _?ry???a?ata_
-> of ?ryabha?a. This would indicate a knowledge of a libration of the
-> equinoxes. No such statement is found in our _?ry???a?ata_ .
-> The quotation should be verified in the unpublished text in order to
-> determine whether Colebrooke was mistaken or whether we are faced by a
-> real discrepancy. The words are not found in the part of the Mar?ci
-> which has already been published in the _Pandit_.
-> 
-> The following problem also needs elucidation. Although Brahmagupta
-> (XI, 43-44)
-> 
-> ?j?n?ty ekam api yato n?ryabha?o ga?itak?lagol?n?m |
-> ?na may? prokt?ni tata? p?thak p?thag d??a??ny e??m
-> ||
-> ??ryabha?ad??a??n?m sa?khy? vaktu? na ?akyate
-> yasm?t |
-> ?tasm?d ayam udde?o buddhimat?ny?ni yojy?ni ||
-> 
-> sums up his criticism of Aryabhata in the severest possible way, yet
-> at the beginning of his _Kha??akh?dyaka_, a _kara?agrantha_
-> which has recently been edited by Babua Misra Jyotishacharyya
-> (University of Calcutta, 1925), we find the statement _vak?y?mi
-> Kha??akh?dyakam ?c?ry?ryabha?atulyaphalam_. It is curious
-> that Brahmagupta in his Kha??akh?dyaka should use such respectful
-> language and should follow the authority of an author who was damned
-> so unmercifully by him in _Tantrapar?k??_ of his
-> _Br?hmasphu?asiddh?nta_. Moreover, the elements of the
-> Kha?_?akh?dyaka_ seem to differ much from those of the
-> _?ryabha??ya_.[7] [5] Is this to be taken as an indication that
-> Brahmagupta here is following an older and a different ?ryabha?a?
-> If so the _Br?hmasphua?asiddh?nta_ gives no clear indication of
-> the fact. Or is he following another work by the same ?ryabha?a?
-> According to D?k?it,[8] [6]
-> 
-> THE ARYABHATIYA OF ARYABHATA - WIKISOURCE, THE FREE ONLINE LIBRARY
-> 
->? the _Kha??akh?dyaka_ agrees in all essentials with the old form
-> of the _S?ryasiddh?nta_ rather than with the
-> _Br?hmasphua?asiddh?nta_. Just as Brahmagupta composed two
-> different works so ?ryabha?a may have composed two works which
-> represented two different points of view. The second work may have
-> been cast in a traditional mold, may have been based on the old
-> _S?ryasiddh?nta_, or have formed a commentary upon it.
-> 
-> 
-> 
-> Links:
-> ------
-> [1] https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata
-> [2] 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata#cite_note-4
-> [3] 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata#cite_note-5
-> [4] 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata#cite_note-6
-> [5] 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata#cite_note-7
-> [6] 
-> https://en.wikisource.org/wiki/The_Aryabhatiya_of_Aryabhata#cite_note-8
-> 
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing 
-> committee)
-> http://listinfo.indology.info (where you can change your list options
-> or unsubscribe)
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-  
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210105/9364ecc8/attachment.htm>
-

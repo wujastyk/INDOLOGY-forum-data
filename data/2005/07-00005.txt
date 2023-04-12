@@ -1,16 +1,7 @@
-From conlon at U.WASHINGTON.EDU  Wed Jul  6 21:29:15 2005
-From: conlon at U.WASHINGTON.EDU (Frank Conlon)
-Date: Wed, 06 Jul 05 14:29:15 -0700
-Subject: some additional citations re: Kautilya's Arthasastra
-Message-ID: <161227076539.23782.1554815649178166194.generated@prod2.harmonylists.io>
-
+some additional citations re: Kautilya's Arthasastra
 Lars:
-
 Some more citations from the BAS.
-
 Frank
-
-
 Record:1
 Collection:  Bibliography of Asian Studies
 Text ID:  39871
@@ -23,9 +14,6 @@ Subject:	 India
 Subject:	 Politics &amp; Government
 Subject:	 Public Administration
 Subject term:
-
-
-
 Record:2
 Collection:  Bibliography of Asian Studies
 Text ID:  63174
@@ -37,9 +25,6 @@ Page(s):	 90-93
 Subject:	 India
 Subject:	 Politics &amp; Government
 Subject term:
-
-
-
 Record:3
 Collection:  Bibliography of Asian Studies
 Text ID:  76828
@@ -53,8 +38,6 @@ Subject:	 India
 Subject:	 Politics &amp; Government
 Subject term:
 <ISSN>0019-5510</ISSN>
-
-
 Record:4
 Collection:  Bibliography of Asian Studies
 Text ID:  109507
@@ -66,9 +49,6 @@ Date:	 1990
 Subject:	 India
 Subject:	 Language
 Subject term:
-
-
-
 Record:5
 Collection:  Bibliography of Asian Studies
 Text ID:  124504
@@ -80,9 +60,6 @@ Date:	 1990
 Subject:	 India
 Subject:	 Philosophy &amp; Religion
 Subject term:
-
-
-
 Record:6
 Collection:  Bibliography of Asian Studies
 Text ID:  149219
@@ -96,8 +73,6 @@ Subject:	 Asia Only
 Subject:	 Philosophy &amp; Religion
 Subject term:
 <ISSN>0009-4455</ISSN>
-
-
 Record:7
 Collection:  Bibliography of Asian Studies
 Text ID:  253071
@@ -113,8 +88,6 @@ Subject:	 International Relations
 Subject:	 South Asia
 Subject term:
 <ISSN>1012-9804</ISSN>
-
-
 Record:8
 Collection:  Bibliography of Asian Studies
 Text ID:  255158
@@ -128,9 +101,6 @@ Subject:	 India
 Subject:	 Economics
 Subject:	 Economic Theory
 Subject term:
-
-
-
 Record:9
 Collection:  Bibliography of Asian Studies
 Text ID:  362680
@@ -144,9 +114,6 @@ Subject:	 India
 Subject:	 History
 Subject:	 Archaeology &amp; Prehistory
 Subject term:
-
-
-
 Record:10
 Collection:  Bibliography of Asian Studies
 Text ID:  362678
@@ -160,8 +127,6 @@ Subject:	 India
 Subject:	 Literature
 Subject term:
 <ISSN>0030-5324</ISSN>
-
-
 Record:11
 Collection:  Bibliography of Asian Studies
 Text ID:  408481
@@ -173,9 +138,6 @@ Page(s):	 47-50
 Subject:	 India
 Subject:	 Literature
 Subject term:
-
-
-
 Record:12
 Collection:  Bibliography of Asian Studies
 Text ID:  483432
@@ -194,8 +156,6 @@ Subject:	 Anthropology &amp; Sociology
 Subject:	 Social Customs
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:13
 Collection:  Bibliography of Asian Studies
 Text ID:  483427
@@ -210,8 +170,6 @@ Subject:	 Anthropology &amp; Sociology
 Subject:	 Social Customs
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:14
 Collection:  Bibliography of Asian Studies
 Text ID:  483428
@@ -230,8 +188,6 @@ Subject:	 Finance
 Subject:	 Taxation
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:15
 Collection:  Bibliography of Asian Studies
 Text ID:  483430
@@ -247,8 +203,6 @@ Subject:	 Agriculture
 Subject:	 Animal Culture
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:16
 Collection:  Bibliography of Asian Studies
 Text ID:  483429
@@ -263,8 +217,6 @@ Subject:	 Economics
 Subject:	 Agriculture
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:17
 Collection:  Bibliography of Asian Studies
 Text ID:  483431
@@ -282,8 +234,6 @@ Subject:	 Economics
 Subject:	 Agriculture
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:18
 Collection:  Bibliography of Asian Studies
 Text ID:  483426
@@ -304,8 +254,6 @@ Subject:	 Anthropology &amp; Sociology
 Subject:	 Social Customs
 Subject term:
 <ISSN>0971-7730</ISSN>
-
-
 Record:19
 Collection:  Bibliography of Asian Studies
 Text ID:  488067
@@ -318,9 +266,6 @@ Subject:	 India
 Subject:	 History
 Subject:	 Numismatics &amp; Philately
 Subject term:
-
-
-
 Record:20
 Collection:  Bibliography of Asian Studies
 Text ID:  493264
@@ -332,9 +277,3 @@ Page(s):	 51-60
 Subject:	 India
 Subject:	 Literature
 Subject term:
-
-
-
-
-
-

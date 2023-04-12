@@ -1,31 +1,7 @@
-From info at TICONSOLE.NL  Sat Jul  4 19:39:55 1998
-From: info at TICONSOLE.NL (T.I. Console)
-Date: Sat, 04 Jul 98 21:39:55 +0200
-Subject: Sanskrit
-Message-ID: <161227040542.23782.14319273279087420539.generated@prod2.harmonylists.io>
-
+Sanskrit
 Jacob Baltuch wrote
-
->C1. The ocean was dumped tea into by the revolutionaries.
->
->Why is that *not* a raising (or move-alpha or whatever) of
->the locative to a subject position?
->
->Is it simply that it is not correct English? (not such a
->far-fetched option :-) or is there some other reason...?
-
 C1 is a bit theoretical; not used in `normal' BBC English. The reason of non-moving/raising etc. is the fact that the loc phrase should have been deprived of the element that makes it a loc phrase if it would function as a subject. In other words, the preposition `into' should be missing. Therefore, C1 is not exactly the same as A (the rev. dumped tea into the ocean) in Deep Structure. `into' in C1 behaves more like a verbal preposition. But this is highly theoretical, especially if we consider the nature of C1.
-
 We're drifting away from the pre-colonial India
-
 Sandra van der Geer
 Leiden
 NL
--------------- next part --------------
-A non-text attachment was scrubbed...
-Name: attachment.bin
-Type: application/ms-tnef
-Size: 1756 bytes
-Desc: not available
-URL: <https://list.indology.info/pipermail/indology/attachments/19980704/1db07737/attachment.bin>
-

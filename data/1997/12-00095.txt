@@ -1,9 +1,4 @@
-From emil.hersak at ZG.TEL.HR  Tue Dec  9 17:56:22 1997
-From: emil.hersak at ZG.TEL.HR (=?utf-8?Q?Emil_HER=C5=A0AK?=)
-Date: Tue, 09 Dec 97 17:56:22 +0000
-Subject: Question
-Message-ID: <161227034310.23782.5412751109055883030.generated@prod2.harmonylists.io>
-
+Question
 I was wondering whether anyone on this list is using unicode TTF fonts for
 Indian languages on Word97, on a Pan-European or otherwise Western
 Win95 platform. All the Windows TTF fonts for Indian languages I have so far
@@ -13,12 +8,6 @@ of the necessary information for coding the glyphs already - the problem,
 however, is in generating the code pages and keyboard drivers. Actually the
 keyboard driver itself should not be a problem, but the nls files and the
 languages ID to be placed in the Windows registry.
-
 Any information on this matter will be appreciated.
-
 Emil Hersak
 emil.hersak at zg.tel.hr
-
-
-
-

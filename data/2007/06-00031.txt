@@ -1,21 +1,9 @@
-From athr at LOC.GOV  Tue Jun  5 15:43:32 2007
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Tue, 05 Jun 07 11:43:32 -0400
-Subject: Halle Mission: really major publication
-Message-ID: <161227080381.23782.9532506598731139172.generated@prod2.harmonylists.io>
-
+Halle Mission: really major publication
 Dear Jonathan,
-
 LC like a lot of other libraries is often adding t.c.'s nowadays, but I don't know what the policy is on which titles get this treatment or where Cataloging gets the information.  I think it often comes from the publisher or the vendor and is simply cut and pasted online. Likewise the publisher's description of the book and its biographical information on the author (as you would see on the dust jacket) are often available in our OPAC via a link.  You are correct that the Gode t.c.'s were keypunched in by hand at my request.  As you say, the pages numbers in the t.c.'s are seldom available in online catalogs.  Also, I think sometimes t.c.'s are scanned digitally and so the link shows up as an image, not as text in whatever typeface the OPAC uses.
-
 I will ask around about both policy and practice.
-
 Allen
-
->>> Jonathan Silk <silk at HUMNET.UCLA.EDU> 06/05/07 11:02 AM >>>
-
 Dear Allen
-
 Thank you for this valuable information, regarding which, more 
 broadly, I have a question.  You quote a detailed TOC; does LOC 
 usually receive such information? (And I recall that for Prof Gode's 
@@ -26,11 +14,7 @@ catalogues, but not commonly, and to my (admittedly faulty) memory,
 never with page numbers. Inclusion of such info would have obvious 
 advantages, especially for those who would want to order a photocopy 
 of a specific page range.
-
 Just asking--jonathan
-
-
--- 
 Jonathan Silk
 Department of Asian Languages & Cultures
 Center for Buddhist Studies
@@ -41,7 +25,3 @@ Los Angeles, CA 90095-1540
 phone: (310) 206-8235
 fax:  (310) 825-8808
 silk (at) humnet.ucla.edu
-
-
-
-

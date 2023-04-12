@@ -1,24 +1,9 @@
-From baums at U.WASHINGTON.EDU  Sun May 24 09:44:05 2009
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Sun, 24 May 09 02:44:05 -0700
-Subject: On the technical term "pra t=?utf-8?Q?=C4=ABka"?=
-In-Reply-To: <4A1910AB.1000202@univie.ac.at>
-Message-ID: <161227086394.23782.7646941346122937947.generated@prod2.harmonylists.io>
-
+On the technical term "pra t=?utf-8?Q?=C4=ABka"?=
 Dear Birgit,
-
-> the indigenous use of "prat?ka" is limited only to the words of
-> the root-text taken up at the very beginning of the commentary
-> section that is concerned with it
-
 that was my impression too, but I can?t back it up with more than
 MW s.v.: ?the first part (of a verse), first word Br. &c. &c.?
 right now. (The first p?da of a verse being what traditionally
 served to identify it, hence its lemma.)
-
-> are people comfortable with then using an indigenous term with
-> extended semantics
-
 I would rather not. What I currently do is use ?lemma quotation?
 for prat?ka proper and ?quotation? for other quotations. Not
 elegant, but I guess it could be whittled down to just ?lemma?
@@ -28,15 +13,8 @@ however, is a three-way distinction between (1) root-text lemma,
 quotation from somewhere else than the root text. The extended use
 of ?prat?ka? in Western scholarship is probably partly due to the
 fact that it handily distinguishes (1) and (2) from (3).
-
 Cheers,
 Stefan
-
--- 
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

@@ -1,12 +1,5 @@
-From EVERSON at IRLEARN.UCD.IE  Wed Sep 22 16:13:32 1993
-From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
-Date: Wed, 22 Sep 93 16:13:32 +0000
-Subject: DRAFT ISCII-ENCODED TIBETAN CHARACTER SET
-Message-ID: <161227016157.23782.335554969628183222.generated@prod2.harmonylists.io>
-
- 
+DRAFT ISCII-ENCODED TIBETAN CHARACTER SET
 TIBETAN DRAFT CHARACTER NAMES
- 
 @       Syllable marker
 1000    TIBETAN TSEG
 @       Vowel modifiers
@@ -188,20 +181,14 @@ TIBETAN DRAFT CHARACTER NAMES
 107E    TIBETAN LETTER ZA
 107F    TIBETAN LETTER AA
 ==========
- 
- 
 Note on punctuation: Das 1902 gives the following:
- 
 RKYANG-SHAD or TSEG-SHAD: single perpendicular stroke (U+1064 here)
 NYIS-SHAD: double perpendicular stroke (U+1065 here)
 BZHI-SHAD: quadruple perpendicular stroke (U+1076 here)
 TSEG: dot separating syllables (U+1000 here)
- 
 Das also appears to unify U+1074 and U+1075 here. Correct nomenclature
 should be ascertained.
- 
 Hannah 1912 agrees, giving:
- 
 RKYANG-SHAD or TSEG-SHAD: single perpendicular stroke (U+1064 here)
 [apparently the reason it is called TSEG-SHAD by Das is that if it is
 final there is no written TSEG before it, except in the case of NGA,
@@ -210,7 +197,6 @@ NYIS-SHAD: double perpendicular stroke (U+1065 here) Equivalent to full
 stop.
 BZHI-SHAD: quadruple perpendicular stroke (U+1076 here) Equivalent to
 paragraph or section marker.
- 
 Hannah gives squiggley SHADs and SHADs with two or three dots over them
 as glyph variants of the ordinary SHADs. Hanna gives a SHAD with an
 o-vowel above as an honorific "indicating a fresh beginning", called
@@ -220,7 +206,6 @@ elements from top to bottom:
 RADIANCE-GEM-LOTUS-LOTUS
 RADIANCE-GEM-LOTUS-LOTUS-LOTUS
 RADIANCE-GEM-LOTUS-LOTUS-LOTUS-STALK
- 
 The SINGLE ORNAMENT described in these terms would be called GEM-LOTUS.
 This LOTUS is not the same as the one in the LOTUS-AND-STALK. If the
 SINGLE ORNAMENT is NYI-ZLA, then GEM could be replaced by SUN and LOTUS
@@ -230,15 +215,7 @@ simply "ornamented shad". RIN-CHEN-PHUNG-SHAD (U+1074 here) means "gem
 body shad". I would appreciate knowing the full forms of the terms for
 U+1051 --> U+1057 and U+1072 --> U+1073) in the Vienna Congress of
 Orientalists transliteration (used e.g. by Das).
- 
 ==========
- 
 Michael Everson
 School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
 Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
- 
-
-
-
-
-

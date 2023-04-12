@@ -1,37 +1,7 @@
-From harryspier at HOTMAIL.COM  Thu Sep 16 22:07:23 1999
-From: harryspier at HOTMAIL.COM (Harry Spier)
-Date: Thu, 16 Sep 99 18:07:23 -0400
-Subject: Posting of computer,              transliteration and font etc. questions to Indology
-Message-ID: <161227052308.23782.934023372736747137.generated@prod2.harmonylists.io>
-
+Posting of computer,              transliteration and font etc. questions to Indology
 Brian Akers wrote:
 ...maybe a separate forum, perhaps called _Indological
->Publishing_ would be in order? It could deal with all facets of the
->process:
->
->1) Computers: fonts, keyboard layouts, operating systems, transliteration
->standards, etc.
->
->2) Sources: locating critical (and other) editions, locating previous
->translations, resolving copyright questions, etc.
->
->3) Translations: requesting and receiving help with difficult passages,
->etc.
->
->4) Other: perhaps also a meeting place for translators, authors,
->publishers,
->editors, etc.
->
->Excluded would be all topics extraneous to preparing and publishing
->Indological works.
->
->That's my two cents for now.
->
->Brian
->
-
 Dear Brian:
-
 My idea was not to set up a different list from Indology but to come up with
 a way to have detailed technical discussions on the above topics without
 clogging up Indology's bandwidth and still letting the list members know
@@ -43,14 +13,6 @@ isn't working etc. I post a short simple message on Indology like "Having
 problem with software please see details on Indology-computer-problem chat
 room" and then anybody interested could respond or monitor and if there was
 general interest a summary of solution could be posted to Indology.
-
 Yours,
-
 Harry Spier
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

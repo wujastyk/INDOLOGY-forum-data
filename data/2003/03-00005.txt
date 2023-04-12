@@ -1,56 +1,31 @@
-From Gruenen at MAIL.SUB.UNI-GOETTINGEN.DE  Mon Mar  3 07:59:10 2003
-From: Gruenen at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
-Date: Mon, 03 Mar 03 07:59:10 +0000
-Subject: Digitization centre of Sanskrit texts
-Message-ID: <161227072445.23782.13391271241391813629.generated@prod2.harmonylists.io>
-
+Digitization centre of Sanskrit texts
 Muneo Tokunaga wrote:
-
-> It's a pity we don't have (or I don't know) a sort of center which
-> gathers and tells us the LATEST news on the digitization of Sanskrit
-> texts around the world. The center will save our duplicate job.
-
 In a way, that's just what GRETIL was intended for. A "news centre"
 registering - and perhaps coordinating - all ongoing activities could
 be set up in no time at all. In case anyone is interested, please let
 me know.
-
 By the way, if you would like to register e-texts in Indian languages,
 or know of e-texts that have not been registered in GRETIL so far,
 I'd bee much obliged if you would drop me a line.
-
 One more thing: Some of you may have noticed that all GRETIL files
 have at last been converted to UTF-8. However, I'm not so sure
 whether I should also convert them to a 7-bit encoding along the
 lines of the ATIL scheme, as announced in December. If you have an
 opinion on this, please let me know (off-list?).
-
-
 Best regards
-
 Reinhold Gruenendahl
-
-
 ********************************************************************
-
 Dr. Reinhold Gruenendahl
 Niedersaechsische Staats- und Universitaetsbibliothek
 Fachreferat sued- und suedostasiatische Philologien
 (Dept. of Indology)
-
 37070 Goettingen, Germany
 Tel (+49) (0)5 51 / 39 52 83
 Fax (+49) (0)5 51 / 39 23 61
 gruenen at mail.sub.uni-goettingen.de
-
 FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
 In English:
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
-
 GRETIL - Goettingen Register of Electronic Texts in Indian Languages
 http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
-
-
-
-

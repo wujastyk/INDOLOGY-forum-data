@@ -1,9 +1,4 @@
-From drdhaval2785 at gmail.com  Mon Jun 30 03:34:22 2014
-From: drdhaval2785 at gmail.com (dhaval patel)
-Date: Mon, 30 Jun 14 09:04:22 +0530
-Subject: [INDOLOGY] Display issues
-Message-ID: <CADSGPzWp5X4UmhFSknPQs5OfyRheNXvJz0GHbNAyXVq7J7twqg@mail.gmail.com>
-
+[INDOLOGY] Display issues
 Dear all,
 I am new to this group.
 I am attaching a sample of how the group message digests  are seen in my
@@ -12,14 +7,6 @@ There are a lot of ????s everywhere.
 Accent marks and devanagari text are completely changed to ?s.
 I am using Windows 7 and Chrome as browser.
 Can anyone help?
-
--- 
 Dr. Dhaval Patel, I.A.S
 District Development Officer, Rajkot
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20140630/5b5158e4/attachment.htm>
-

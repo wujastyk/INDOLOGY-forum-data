@@ -1,14 +1,3 @@
-From lubint at WLU.EDU  Sun Jul  4 06:59:36 2010
-From: lubint at WLU.EDU (Lubin, Tim)
-Date: Sun, 04 Jul 10 02:59:36 -0400
-Subject: (Xe)(La)TeX, (L)Edmac, and Velthuis query
-In-Reply-To: <SNT133-w305F2CD0AEC7F3E598A3E6A5B00@phx.gbl>
-Message-ID: <161227089862.23782.13117572302966556888.generated@prod2.harmonylists.io>
-
+(Xe)(La)TeX, (L)Edmac, and Velthuis query
 Many thanks, Arlo, and also Andrew Ollett and Dominik, who replied off-list, for detailed and explicit guidance.  It looks like a software upgrade will solve my problems.
-
 TL
-
-
-
-

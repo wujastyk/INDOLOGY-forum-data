@@ -1,6 +1,5 @@
 from any word processor. From what I understand, it automatically
 creates the necessary ligatures.
-
 2. Nai Duniya has enormous libraries of material in Hindi, which they
 created and own which can be used for teaching and learning Hindi at all
 levels - material suitable for children, for adults, cartoons etc..
@@ -15,7 +14,6 @@ has been accumulated on line, as also to resources for teaching Sanskrit
 which have also been proliferating on the net. (Both of these efforts
 have been hampered by the necessity of using the Roman script to mediate
 any information flow.)
-
 3. We can go one step further. The main problem of the Indian
 subcontinent is not the proliferation of languages, since most of us can
 understand each other's speech quite well, especially as it gets more
@@ -39,7 +37,6 @@ can be resurrected on the Net on a major scale. I truly look forward to
 reading the Tirukkural in Devanagari along with a Hindi translation.
 Indeed Hindi readers have long accessed Urdu and Persian classics this
 way, with almost total comprehension.
-
 4. As those of us who try to speak very pure forms of Indic languages
 are aware, there is always a term which stumps you. I am quite capable
 of carrying on a literate conversation about Science, Philosophy or
@@ -59,7 +56,6 @@ updated by the scholars working in conjunction with Shastri Bhavan) of
 several million terms. It turns out that it is already in machine
 readable form. Perhaps we could persuade the government to put it on
 line? 
-
 5. Unfortunately, to the best of my knowledge, the Government of India
 undertakes this exercise only for Hindi. The responsibility for the
 other Indian languages resides with their respective state governments,
@@ -70,7 +66,6 @@ which the browser views the database, the entire corpus is made
 available to every Indic language. To take one example, the phrase
 "elasticity of supply" will be purti-locha in both Kannada and Bengali
 and they can all access this phrase by looking at the same database.
-
 6. One could go a lot further. For example we can have readings of texts
 (via real audio) keyed to viewings of the text on a browser. Several
 prominent theatre personalities have expressed a keen interest in create
@@ -79,7 +74,6 @@ project hosted by Vedika Software in Singapore will be happy to provide
 a permanent home to any such efforts, along with a fast Internet
 connection, and they could be mirrored world wide. This database could
 then be added to, on a volunteer basis.
-
 However, before we get to all of that and more, I have one apprehension
 which is the main motivation for posting this message. We need a common
 standard. We certainly do not want the situation with Hindi typewriter
@@ -91,21 +85,8 @@ if network externalities (i.e. a standard is valued not only for its
 technical efficiency but also for the number of people who use it) are
 present. Can we devise a way for Nai Dunia, ISO, ITRANS and others to
 all come under a common umbrella? 
-
 The software experts, and I refer to Messers Wujastyk, Pandey, Sibal
 among others, should certainly be able to enlighten us on this score as
 they have done on numerous previous occasions.
-
 Shailendra Raj Mehta
 mehta at mgmt.purdue.edu
-
-
-
-
-
-
-
-
-
-
-

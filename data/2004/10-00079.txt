@@ -1,18 +1,5 @@
-From baums at U.WASHINGTON.EDU  Sun Oct 31 20:35:58 2004
-From: baums at U.WASHINGTON.EDU (Stefan Baums)
-Date: Sun, 31 Oct 04 12:35:58 -0800
-Subject: Devanagari
-In-Reply-To: <41854251.9060001@u.washington.edu>
-Message-ID: <161227075181.23782.16470821434987745159.generated@prod2.harmonylists.io>
-
-> This was then used as the basis for a comprehensive Devanagari
-> font, called Sanskrit 2003 by Omkarananda Ashram.
-
+Devanagari
 I believe it was Stiehl himself who made the font for the Ashram.
-
-> I am not aware of the situation with Devanagari input on Linux
-> and Mac systems.
-
 Linux comes with input support for Gujarati, Gurmukhi, ?Hindi?
 (i.e., Devanagari), Kannada, Oriya, Tamil and Telugu.  If you use
 KDE or Gnome as your desktop environment, you can just add any of
@@ -24,14 +11,7 @@ where the dentals are in one corner of the keyboard, the labials
 in another, then you get the corresponding aspirates by pressing
 Shift, etc.  So quite systematic really, but I guess it does take
 some getting used to.
-
 Stefan
-
---
 Stefan Baums
 Asian Languages and Literature
 University of Washington
-
-
-
-

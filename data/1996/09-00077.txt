@@ -1,19 +1,4 @@
-From vidya at cco.caltech.edu  Fri Sep 13 00:12:32 1996
-From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
-Date: Thu, 12 Sep 96 17:12:32 -0700
-Subject: Sanskrit in scientific terminology
-Message-ID: <161227026029.23782.1909150946755710082.generated@prod2.harmonylists.io>
-
-
-> undiscovered elements with certain properties that he specified.  He 
-> named his predicted elements by prefixing the Sanskrit numerals eka-, 
-> dvi-, tri-, shchatur- [sic] to the names of the corresponding known 
-> elements.  (Unfortunately, the predicted elements were given new 
-> nationalistic names when they were later discovered, e.g. Mendeleev's 
-> "eka-aluminium" became gallium, "eka-boron" became scandium, 
-> "eka-silicon" became germanium, "dvi-tellurium" became polonium, and 
-> "tri-manganese" became rhenium.)
-
+Sanskrit in scientific terminology
 This is interesting. I knew about eka-boron but not about dvi-tellurium
 and tri-manganese. Still, I think it is a good thing that new names were
 given to the elements after they were discovered. Chemistry would have
@@ -23,16 +8,6 @@ atomic weight) and its structure (separation of A and B sub-groups,
 introduction of a separate positions for lanthanide and actinide series,
 etc.) since Mendeleev's original proposition. So there was no overriding
 reason to maintain his names for the as yet undiscovered elements. 
-
-> 
-> Why did Mendeleev use Sanskrit terminology here rather than Greek or
-> Latin as is normal?  Could it be that he knew about the Sivasutras?
-> If he did, he must have seen that they are really a periodic system of
-> the Sanskrit sounds, amazingly similar to his own periodic system of
-> chemical elements even in their arrangement. So could the Sanskrit
-> names have been meant as homage to Panini?
-> 
-
 How about the simpler possibility that Mendeleev was proposing something
 new and therefore wanted to avoid confusion? The Greek and Latin suffixes
 had already come to have other meanings in chemistry. For example,
@@ -43,24 +18,15 @@ hears a word with a prefix like di-, he does not think of a completely
 different element, which just happens to have a related position in the
 periodic table. Rather he would think of a different form of the same
 element. 
-
 The prefixes mono-, di- and tri- are still used in compound names,
 although not very often in names of elements. As such, the use of such
 prefixes would have been confusing. "Di-tellurium" could have well meant
 some bizarre creature like a molecule composed of two tellurium atoms.
 "Dvi-tellurium" would have drawn attention to the fact that Mendeleev was
 not talking of such a tellurium molecule. 
-
 Interestingly, the term "Unnil" is used to denote the heaviest elements
 which do not occur naturally, but are seen within extremely short
 half-lives in some radioactive processes. Thus, "unnilpentium" is
 an element with atomic number 105 (here "pentium" is not that computer
 thingy :-)). Looks like Latin has won out once again. 
-
 S. Vidyasankar
-
-
-
-
-
-

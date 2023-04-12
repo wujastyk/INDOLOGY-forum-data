@@ -1,23 +1,13 @@
-From Palaniappa at aol.com  Wed Apr  9 07:17:50 1997
-From: Palaniappa at aol.com (Palaniappa at aol.com)
-Date: Wed, 09 Apr 97 03:17:50 -0400
-Subject: Amazing PataJjali, lakSaNa, and vyAkaraNa
-Message-ID: <161227029503.23782.13666342719903481004.generated@prod2.harmonylists.io>
-
+Amazing PataJjali, lakSaNa, and vyAkaraNa
 In a message dated 97-04-08 18:11:11 EDT, pfilliozat at magic.fr (Pierre
 Filliozat) writes:
-
 << This remarkable stanza has been commented by Pata?jali in MahAbhA.sya,
  Paspa"sA,p. 4 (Kielhorn ed.). Pata?jali interprets it as a praise of
  VaiyAkara.na-s. Lak.smI is given by him as derived from the root lak.s but
  in the meaning of "shining,light".
- 
  Regards
- 
  Pierre-Sylvain Filliozat >>
-
 My heart-felt thanks to Pierre-Sylvain Filliozat.
-
 Scholars of Sanskrit grammar may not be aware of this. But PataJjali plays a
 pivotal role in dating the Tamil literature. Based on the use of the word
 ?ilakkaNam? by tolkAppiyar and an explanation for the location of the word
@@ -32,7 +22,6 @@ supposed to say "sabdo lakSya sUtram lakSaNam"!) Since the language of the
 Classical Tamil texts is supposed to be close to what is described by
 tolkAppiyam, Zvelebil says that there could hardly have been a wide gap of
 time between the two. 
-
 Vaiyapuri Pillai and Zvelebil, when they saw similar expressions in
 tolkAppiyam and mahAbhASya, they did not consider the possibility that both
 could be drawing on a common tradition. They simply assumed that Tamil
@@ -42,7 +31,6 @@ need not have modeled his grammar after any one tradition, such as that of
 pANini. Even after this result, Tamil literary historiography is still based
 on Zvelebil?s work. Even the recent translation of cilappatikAram by
 Parthasarathy uses a 5th century CE date based on Zvelebil.
-
 For a long time, I have felt that there was some common tradition that
 tolkAppiyar and PataJjali shared at least partly. If PataJjali was a kApya
 and tolkAppiar was also a kApya, then there might have been some common
@@ -51,12 +39,10 @@ research on ?ta?ntra?, I came upon Rig Veda 10.71.2 serendipitously. I was
 immediately reminded of Zvelebil?s discussion of the first use of ?lakSaNa?
 by PataJjali and how this might relate to the Tamil word for grammar
 ?ilakkaNam?.
-
 It may be a coincidence but only yesterday, in response to a personal query
 from Srini Pichumani on the native word in Tamil for grammar, I was
 explaining a possible etymology for ?ilakkaNam?, the word used to denote
 grammar in Tamil. (I had no idea what PataJjali has said.) I wrote,
- 
 <<'ilakku' also means 'to brighten', (effective form for the affective
 ilaGku) synonymous with viLakku (effective form for the affective viLanku).
 Whenever something is made brighter, it becomes easier to
@@ -67,7 +53,6 @@ it in the context of a term 'explaining' a particular language. Now 'ilakku'
 and 'lakS' can be equivalents. The question is did 'ilakku' come first or
 'lakS'? We do not know. In "Old Indian" by J. Gonda on page 222, he says, "
 The origin of the base lakS- is however in dispute." >>
-
 It is in this context, PataJjali?s explanation of the root ?lakS? as
 signifying ?shining/light? is absolutely amazing. Consider Tamil ?ilanku?
 meaning  ?to shine, glisten, glitter? (DED 707) the affective form of an
@@ -83,12 +68,9 @@ cluster (Dravidian Tamil ?pAkkam? meaning ?sea-side village, etc.? > Sanskrit
  ?pakSaNa? meaning ?village inhabited by savages?) If the same process has
 occurred along with the well-known Dravidian tendency of apical displacement
 or loss of root vowel before r, l, etc., then , we will have
-
 ilakk- > lakk > lakS
-
 This will explain the connection between the origins of Dravidian ilakkaNam
 and Sanskrit lakSaNa. 
-
 Based on my experience with ?sUtra? and ?ta?ntra?, I tested to see if there
 was any semantic connection between ?vyAkaraNa? and ?viLakku?, the Tamil
 synonym for ?ilakku?. The result was unbelievable. vyAkaraNa means
@@ -106,7 +88,6 @@ obvious. The Dravidian/ Tamil terms are linked by the concept of brightness.
 The Sanskrit terms seem to come from different roots. But the linkage can be
 seen in Tamil. The cognates of root ?viL? are found in all the Dravidian
 language groups. Thus this can be traced to proto-Dravidian.
-
 If we remember that this is the hymn by bRhaspati AGgirasa, in which he has
 also used the word ?ta'ntra', then we know that definitely
 Dravidian/pre-Vedic influence was there. Thus, even the concept of the
@@ -114,22 +95,11 @@ grammar as ?something which explains/makes thing bright by
 separation/analysis? seems to be Dravidian/pre-Vedic as well. The meaning of
 ?mark,sign? might have developed because of the brightness of the signs
 painted on ?targets to aim and shoot at?.
-
 If Pali and Prakrit words for grammar are ?lakkhaNa?, then they may represent
 a form closer to the original ?ilakkaNam?. So, no wonder Jains and probably
 Buddhists were well-versed in grammar.
-
 In conclusion, PataJjali was amazingly ?on target? when he tried to explain
 ?lakS? as meaning ?bright?.  
-
 I would like to hear the reaction of the Sanskrit scholars on this list. 
-
 Regards.
-
 S. Palaniappan
-
-
-
-
-
-

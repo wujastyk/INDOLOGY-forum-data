@@ -1,44 +1,19 @@
-From wujastyk at GMAIL.COM  Tue May 18 14:39:46 2010
-From: wujastyk at GMAIL.COM (Dominik Wujastyk)
-Date: Tue, 18 May 10 16:39:46 +0200
-Subject: Help with keyboard
-In-Reply-To: <414326.65727.qm@web94801.mail.in2.yahoo.com>
-Message-ID: <161227089606.23782.2198155290846210126.generated@prod2.harmonylists.io>
-
+Help with keyboard
 If you have Windows 7, you can still use www.Virtualbox.org to run a genuine
 WinXP session in a window on the Windows 7 desktop.   You'll need the
 original WinXP installation disks, and 10GB or so of disk space.  Then you
 can - in your WinXP window - run all your familiar stuff.
-
 John Smith's Windows keyboard handler for Indic Unicode has been mentioned a
 couple of times.  It's here:
-
    - http://bombay.indology.info/software/fonts/induni/index.html
-
 It works with Windows 7.  In his README.txt file, he says,
-
 (On Vista or Windows 7 systems, if clicking on setup.exe fails to
-> install the layout, you may need to disable Microsoft's User Account
-> Control mechanism (UAC). Go into the Control Panel and type "UAC" into
-> the search box. Follow the link that appears to "Turn User Account
-> Control (UAC) on or off", and then uncheck the box for "Use User
-> Account Control (UAC) to help protect your computer", and click "OK".
-> You will have to reboot for the change to come into effect.)
-
-
 It's possible that these instructions may help with other keyboard-handlers
 too, I don't know.
-
 Dominik
-
-
 Dr Dominik Wujastyk
 Institut f?r S?dasien-, Tibet- und Buddhismuskunde
 Universit?t Wien
 Spitalgasse 2-4, Hof 2, Eingang 2.1
 A-1090 Vienna
 Austria
-
-
-
-

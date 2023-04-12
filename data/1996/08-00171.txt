@@ -1,28 +1,11 @@
-From kellner at ipc.hiroshima-u.ac.jp  Tue Aug 27 16:58:13 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Wed, 28 Aug 96 01:58:13 +0900
-Subject: compound analysis in e-texts
-Message-ID: <161227025806.23782.4115772616692581515.generated@prod2.harmonylists.io>
-
+compound analysis in e-texts
 Lars Martin Fosse wrote: 
-
-> This is not a good argument against compound analysis as such. I have worked
-> with people who typed text for me, some of them analysing compounds very
-> competently, others not. When I got non-analysed text, I sent it to another
-> person who was able to analyse the compounds. Using the TZ-format, I never
-> have any problem recreating a sandhi-text by means of macros, thus getting
-> the best of two worlds. The compound-analysed text is essential for a number
-> of analytical tasks performed by computer, e.g. language statistics, word
-> collocation studies etc. 
-
 That's all very well, as long as you have competent people to analyze the
 compounds, and as long as the time spent on producing e-texts is not a major
 concern. 
-
 One problem, which Jakub Cejka mentioned before, are ambiguous compounds
 which are read in different ways by the tradition itself, and I would like
 to second his question whether you have a policy on such cases. 
-
 Add to which, my current experience with preparing an e-text version of the
 complete works of J~naana'sriimitra (short: JNA) tells me that "competence"
 is a very, very relative concept. I have typed in quite a lot of his texts
@@ -45,7 +28,6 @@ are concerned. This, of course, does not prevent one from preparing
 compound-analyzed texts for the tasks you mentioned (indexing, collocations
 etc.). Maybe one should differentiate different target-audiences for
 different types of e-texts in the first place. 
-
 Another question I would like to ask is what principles people apply when
 carrying out compound-analysis. Motoi Ono, Jun'ichi Oda and Jun Takashima,
 for example, separated compounds with hyphens in their recently published
@@ -59,7 +41,6 @@ su-, sva- are not separated; (6) some compounds which are considered as
 technical terms are not separated, e.g. padaartha, agnihotra,
 ayogavyavaccheda, prasajyapratis.edha, svabhaavapratibandha. 
 I would be very interested in getting opinions on this policy. 
-
 As to Lars' argument that compound-analyzed texts facilitate students'
 efforts - this leads on to another discussion, that whether facilitating
 reading Sanskrit for students should be made into a general policy for
@@ -71,13 +52,6 @@ students as such, but on the assumption that Sanskrit is a foreign language
 with its own distinct writing style, and that it should be taught as such.
 But, as I said, this leads on to another discussion, which is why I shall
 stop here. 
-
 Birgit Kellner
 Department for Indian Philosophy
 University of Hiroshima
-
-
-
-
-
-

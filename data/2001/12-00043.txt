@@ -1,14 +1,8 @@
-From Isaacson at UNI-HAMBURG.DE  Wed Dec 19 13:13:27 2001
-From: Isaacson at UNI-HAMBURG.DE (Harunaga Isaacson)
-Date: Wed, 19 Dec 01 14:13:27 +0100
-Subject: Query: Did classical Indian philosophers revise their works?
-Message-ID: <161227070072.23782.10779037691120014631.generated@prod2.harmonylists.io>
-
+Query: Did classical Indian philosophers revise their works?
 A much bigger problem than determining whether something is an addition
 (to mention only one form which revision can take) is determining
 whether the addition is by the original author. In most cases that I
 have seen the odds seemed to be very heavily against that.
-
 Though Birgit's original question was about revisions of their own work
 by 'classical Indian philosophers', perhaps it might be worth looking at
 Michael Coulson's remarks in the introduction to his 'A Critical Edition
@@ -16,8 +10,6 @@ of the Maalatiimaadhava' (Delhi: OUP 1989). Coulson is of the opinion
 that Bhavabhuuti revised his own play, and, as he points out, he is not
 the first person to suggest that Bhavabhuuti did such a thing. I recall
 finding his discussion interesting, though by no means fully persuasive.
-
-
 As for autographs (single ones) of Sanskrit texts, I think there are
 certainly a number that exist, though usually indeed of relatively late
 authors. To mention only one, a manuscript that I have seen myself---the
@@ -28,9 +20,4 @@ least started to compose, on Ratnaakara's Haravijaya. The manuscript
 contains, if I remember rightly, commentary on sarga 1 only,
 unfortunately. I suppose it is quite likely that Ratnaka.n.tha never
 finished the huge task that he had embarked on.
-
 Harunaga Isaacson
-
-
-
-

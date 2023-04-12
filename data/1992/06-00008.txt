@@ -1,13 +1,6 @@
-From FO90030%BITNET.DHHUNI4 at DE.GMD.VM  Thu Jun  4 14:54:30 1992
-From: FO90030%BITNET.DHHUNI4 at DE.GMD.VM (FO90030)
-Date: Thu, 04 Jun 92 14:54:30 +0000
-Subject: None
-Message-ID: <161227015367.23782.13681631955500520313.generated@prod2.harmonylists.io>
-
+None
 Re: Diacritics with WordPerfect 5.1 DOS
- 
 Status: RO
-
 WordPerfect 5.1 (DOS) supports the use of 512 screen characters with EGA/VGA-
 compatible adaptors, whereby 256 of those characters can be freely defined by th
 e user.
@@ -24,7 +17,6 @@ fficient
 for most purposes. It can include all the diacritics used for Indian and Iranian
  studies as
 well as Cyrillic.
- 
       Screen fonts can be easily produced using WordPerfect's Screen Font Editor
 ,
 which however must be purchased separately. It does however contain definitions
@@ -38,7 +30,6 @@ nd visarga
 etc.) are not included. They can however be incorporated into character set 12 (
 the user-
 definable character set).
- 
       WordPerfect 5.1 also supports user-defined keyboard layout files. It is po
 ssible to
 shift from one layout to another by means of a designated key. Thus I use a keyb
@@ -50,8 +41,3 @@ English and Sanskrit etc. This keyboard also makes use of the number sign (ASCII
 to invoke a macro that enables me to enter a code for characters that I do not f
 ind it
 convenient to locate under simple keys or combinations of keys with ALT and CTRL
-
-
-
-
-

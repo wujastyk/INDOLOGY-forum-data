@@ -1,19 +1,10 @@
-From lmfosse at ONLINE.NO  Thu Mar  8 17:48:53 2001
-From: lmfosse at ONLINE.NO (Lars Martin Fosse)
-Date: Thu, 08 Mar 01 18:48:53 +0100
-Subject: SV: An article mentioning History of Science
-Message-ID: <161227068082.23782.15988193618285816202.generated@prod2.harmonylists.io>
-
+SV: An article mentioning History of Science
 Ravi Chaudhary [SMTP:Ravi9 at HOTMAIL.COM] skrev 8. mars 2001 00:38:
-> How valid are the theories of Seidenberg, and  Playfair ?
-
 The references for Seidenberg's papers are:
-
 Seidenberg, A. 1962. The Ritual Origin of Geometry. Archive for History of
 Exact Sciences 1:488-527.
 Seidenberg, A. 1978. The Origin of Mathematics. Archive for History of
 Exact Sciences 18:301-342.
-
 Seidenberg's papers are serious research and contain much interesting
 information. However, he has not met with general approval as far as his
 main hypothesis is concerned ("Vedic origins"). An indirect critique of
@@ -21,17 +12,13 @@ Seidenberg is found in Carl B. Boyer. A History of Mathematics, page 7.
 (Seidenberg's papers are mentioned in the bibliography). Boyer essentially
 says that we cannot determine where geometry originated, nor for that
 matter whether it originated in one or several places independently.
-
 A discussion of John Playfair and Indian Astronomy is found in Thomas
 Trautmann "Aryans and British India" (p 84-89). The bottom line is that his
 views on the primacy of Indian astronomy were rejected by no less a man
 than the Marquis de Laplace. (I recommend Trautmann's book for a number of
 reasons.)
-
 Best regards,
-
 Lars Martin Fosse
-
 Dr. art. Lars Martin Fosse
 Haugerudvn. 76, Leil. 114,
 0674 Oslo
@@ -41,7 +28,3 @@ Mobile phone: +47 90 91 91 45
 Fax 1:  +47 22 32 12 19
 Fax 2:  +47 85 02 12 50 (InFax)
 Email: lmfosse at online.no
-
-
-
-

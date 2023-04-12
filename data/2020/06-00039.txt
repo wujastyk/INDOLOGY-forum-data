@@ -1,91 +1,17 @@
-From kauzeya at gmail.com  Mon Jun  8 15:37:44 2020
-From: kauzeya at gmail.com (Jonathan Silk)
-Date: Mon, 08 Jun 20 17:37:44 +0200
-Subject: [INDOLOGY] Searching archive.org: Canada/Sanskrit (Jonathan Silk)
-In-Reply-To: <CAMGmO4++_sYTHF+MjgDczv6UXcNC+sM2XDWDAx2oT5baiViVxA@mail.gmail.com>
-Message-ID: <CAMGmO4JM52tw1hrBH1PPdZsh2cQ7Od6yrS-RAJodOAn3H8h2-A@mail.gmail.com>
-
+[INDOLOGY] Searching archive.org: Canada/Sanskrit (Jonathan Silk)
 just something else I noticed today: there are several volumes of the
 Orientalistische Literaturzeitung on Archive from the Toronto Library,
 entirely without any indication of date or volume number! It simply cannot
 be the case that this is the complete metadata in the UT library system,
 this would make no sense. So something has gone wrong somewhere in
 transferring materials into Archive, i fear.
-
 Jonathan
-
 On Sun, Jun 7, 2020 at 12:04 PM Jonathan Silk <kauzeya at gmail.com> wrote:
-
-> Just thinking out loud: I wonder if there is a way to crowd-source
-> correction of such metadata.
-> As all of us who have used Archive.org know, finding things is often a
-> real matter of hit and miss, since so many things are put up with either
-> wrong or horribly incomplete data. Moreover, one of the first things I
-> noticed in the Canadian data is that there seem to be cases where all the
-> diacritical letters in a title have either disappeared, or simply do not
-> appear on screen -- I didn't do any systematic sort of survey. But the
-> resources are wonderful and often really crucial for us, most especially in
-> this lockdown situation, so it would be a positive thing if there were a
-> way to make the resource better.
->
-> (Another) Jonathan
->
-> On Sat, Jun 6, 2020 at 8:23 PM Jonathan Peterson via INDOLOGY <
-> indology at list.indology.info> wrote:
->
->> The University of Toronto?s library system has contributed nearly 215,000
->> titles from their collections to the Internet Archive project. The library
->> has devoted a sizable area of the John P. Robarts Library's 7th floor to
->> the ongoing scanning and digitization of material. Curious about metadata
->> problems with their digitized Sanskrit collection, I spoke a few years ago
->> to a librarian who liaises between Robarts and Internet Archive. If I
->> recall correctly, they mentioned that the metadata for their digital
->> collection on Archive.org is drawn directly from the UToronto library
->> system itself. Due to staffing, budget, and expertise constraints, there is
->> little scope for correcting metadata on a mass scale. Doing so, they
->> emphasized, would require a cumbersome process of first correcting data on
->> library-side AACR2/RDA listings, which would then be used to update
->> Archive.org.
->>
->> With best wishes,
->> Jonathan Peterson
->> University of Toronto
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->
->
-> --
-> J. Silk
-> Leiden University
-> Leiden University Institute for Area Studies, LIAS
-> Matthias de Vrieshof 3, Room 0.05b
-> 2311 BZ Leiden
-> The Netherlands
->
-> copies of my publications may be found at
-> https://leidenuniv.academia.edu/JASilk
->
-
-
--- 
 J. Silk
 Leiden University
 Leiden University Institute for Area Studies, LIAS
 Matthias de Vrieshof 3, Room 0.05b
 2311 BZ Leiden
 The Netherlands
-
 copies of my publications may be found at
 https://leidenuniv.academia.edu/JASilk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200608/6a597769/attachment.htm>
-

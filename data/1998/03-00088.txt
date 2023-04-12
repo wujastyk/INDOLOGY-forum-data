@@ -1,99 +1,66 @@
-From GANESANS at CL.UH.EDU  Thu Mar  5 04:03:35 1998
-From: GANESANS at CL.UH.EDU (N. Ganesan)
-Date: Wed, 04 Mar 98 22:03:35 -0600
-Subject: Tamil Pronunciation
-Message-ID: <161227036431.23782.3872150445466247628.generated@prod2.harmonylists.io>
-
+Tamil Pronunciation
 Let me try one more time. I did this about  a year ago.
-
 Regards
 N. Ganesan
-
 ****************************************
-Date: Mon, 12 May 1997
-Subject: Re: Thoughts on Sanskritization
-
+Re: Thoughts on Sanskritization
                        Re: Thoughts on Sanskritization
-
 Dr. Vidyasankar Sundaresan wrote:
-
 + Shouldn't we be distinguishing between the script used for writing a
 + language from the language as a spoken entity? Does anyone *pronounce*
 + gan(g)gaikoNDacOzhan as kan(g)kaikoNTacOzhan? Surely, Tamil speakers
 + distinguish between k and g in speech, although not in writing. Similarly,
 + the sounds s and S frequently occur in speech, although the script allows
 + strictly only for c (e.g. sol/Sol as variants of col).
-
 Sure. All Tamil speakers in villages, knowing no other
 language,  tell my name as "kaNEsan" and not as "gaNEsan".
 In Tamil, written  "ka+G+kai" is pronounced as "kaGgai".
 So, it is "kaGgaikoNDacOzhan". River Ganga is pronounced
 as "GaGgai", only if the speaker knows that in Sanskrit
 or other Indic languages, it is so.
-
 Tamil grammar starting from TolkAppiyam allows for distinguishing
 between "k" and "g/h", "c" and "J/j", "T (.t)" and "D (.d)",
 "t" and "d","p" and "b", etc., in speech, EVEN THOUGH
 THEY ARE WRITTEN ONLY AS "k", "c", "T", "t", "p" respectively.
 These letters are called 'hard' consonants - vallinam in tamil.
 But kh, gh etc., sounds are alien to Tamil.
-
 According to the rules,
 a) when the hard consonants occur in the word in a
 non-initial position and not surrounded by another hard
 consonant, they are pronounced 'soft'.
-
 b) For the doubling 'hard' consonants in a non-initial position,
 they are pronounced as  written, (ie 'hard').
-
 c) Hard consonants do not get pronounced
 soft when they are the first letters of the word.
-
 The rule is simple and always followed intuitively.
-
 Examples:
   Writing              Pronounced as
 ****************      ***************
 ka + G +kai            kaGgai (Ganges) (k is pronounced as g)
 a + G + ku             aGgu (there) (k pronounced as g)
-
 taa + k + ka +m          taakkam (impact) (Note the "k""k")
 taa + ka + m             taaham  (thirst) (Note there only one "k")(k->h)
-
 pa + c +cai              paccai (green) (Note doubling c)
 pa + J + cu (cotton)     paJju (cotton) (Note the only c)
-
 paa + T + Tu             paaTTu (song) (Note doubling T)
 paa + Tu                 paaDu (to sing) (Note the only T)
-
 vi + tai                  vidai (seed) (one t)
 vi + t + tai              vittai (vidyA) (Double t)
-
 a + m + pu               ambu (arrow) (one p)
 ka + m + pa + n          kamban, a great poet (one p)
 a + p + pa + n           appan, dad or a dear person (double p)
-
 and so on.
-
 "k" as a non-first letter of a word and for single
 occurence, has other sounds too, eg., pi + Ra + ku (piRaku = later)
 is pronounced as "piRahu". North of Madurai, c is pronounced as s.
-
 ++ c, T, t, p. Tamil resistance to include
 ++ these additional characters is because it would lead to excessive use
 ++ of Sanskrit words and native Tamil/Dravidian words will face extinction,
-
 Sundaresan wrote:
 +It is the Tamil
 +resistance to excessive use of Sanskrit that has helped it to maintain its
 +identity to date. Varying degrees of accommodation of and resistance to
 +words of Sanskrit origin are seen among all south Indian languages.
-
 I agree.
-
 Regards,
 N. Ganesan
-
-
-
-

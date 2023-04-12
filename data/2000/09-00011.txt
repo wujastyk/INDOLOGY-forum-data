@@ -1,13 +1,7 @@
-From rajarshi.banerjee at SMGINC.COM  Fri Sep  1 22:53:15 2000
-From: rajarshi.banerjee at SMGINC.COM (Rajarshi Banerjee)
-Date: Fri, 01 Sep 00 18:53:15 -0400
-Subject: vowel shifts in mordern indian
-Message-ID: <161227061289.23782.3035595801120616881.generated@prod2.harmonylists.io>
-
+vowel shifts in mordern indian
 Here is a snippet form a thread in another group.I was wondering if someone
 with knowledge of comparitive indian grmmars can throw light on some of the
 questions
-
 GJ>It is just that the evidence for e/o is only indirect *as I said, it
 substist before velars, because velar before the front vowels e palatalise).
 RB>Just want to clear something. does the front vowel e change the preceding
@@ -25,9 +19,4 @@ root.
 3) Bengali is the only language I know which has undergone a backing of
 vowels rather than fronting, are there other cases like this?
 regards
-
 RB
-
-
-
-

@@ -1,15 +1,5 @@
-From magier at columbia.edu  Fri Jun 13 12:58:45 1997
-From: magier at columbia.edu (David Magier)
-Date: Fri, 13 Jun 97 08:58:45 -0400
-Subject: temporary SARAI outage
-Message-ID: <161227030886.23782.14411252864241120348.generated@prod2.harmonylists.io>
-
+temporary SARAI outage
 In order to upgrade servers, the web server running SARAI (South Asia
 Resource Access on the Internet) at Columbia University will be taken
 down today (Friday, 6/13 - unlucky day) from 7:30am to approximately
 10:30am New York time.       David Magier
-
-
-
-
-

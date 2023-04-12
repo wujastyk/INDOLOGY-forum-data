@@ -1,19 +1,10 @@
-From nmisra at gmail.com  Tue Mar 22 05:26:54 2016
-From: nmisra at gmail.com (Nityanand Misra)
-Date: Tue, 22 Mar 16 10:56:54 +0530
-Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0JRXhhbXBsZShzKSBvZiDigJjhuaNyL+Ckt+CljeCksOCljeKAmQ==?=
-In-Reply-To: <56E179B6.60906@fas.harvard.edu>
-Message-ID: <CAATk=rDQD8ct8WQAhwyWzTgpy8GZb6emM6gB6s1dKEB2bcDrCg@mail.gmail.com>
-
+=?utf-8?B?UmU6IFtJTkRPTE9HWV0JRXhhbXBsZShzKSBvZiDigJjhuaNyL+Ckt+CljeCksOCljeKAmQ==?=
 Thank you, Prof. Ryan, Prof. Deshpande, and Prof. Cardona for your
 responses. I had been travelling and so could not respond earlier.
-
 Here are some quick comments.
-
 1) ??u?r??am???n?m? is certainly a digitization error. The reading in
 Bh?gavata Pur??a 1.1.13 is ??u?r??am???n?m? with the palatal  ???. The
 ?tmanepada is from ?j???rusm?d???? sana?? (A 1.3.57).
-
 2) The RV example of ?aju?ran? is a non-Paninian form, the Paninian form
 being ?aju?anta? from the root ?ju?? pr?tisevanayo?? (DP 1288). The two
 non-Paninian features are the ?ru?? augment and the use of ?parasmaipada?.
@@ -21,16 +12,12 @@ S?ya??c?rya explains the ?parasmaipada? by ?vyatyaya? (which would refer to
 ?vyatyayo bahulam?, A 3.1.85), and the ?ru?? by ?bahula? chandasi? (which
 would specifically be the rule 7.1.8). I have attached the snaps of the
 mantra and the commentary (Vaidic Samshodhan Mandal, 1935, Volume I).
-
 3) I have not had the opportunity to cross-check the cited examples against
 published editions the ?atapatha Br?hma?a, hence I cannot comment on them
 now.
-
 4) In a word boundary, a final ??? cannot occur in the Paninian system due
 to ?jhal?? ja?o'nte? (A 8.2.39) which will change a terminal ??? to a ???
-
 Most likely, the examples of ??r? do not occur in the Paninian system.
-
 My interest to trace an attested form was partly because I wanted to see
 how the conjunct was printed in old books. It appears that the printing
 press where the Vaidic Samshodhan Mandal book was printed did not have a
@@ -41,70 +28,7 @@ would expect the glyph for ??r? to be similar to that of ?pr?, with a
 slanting diagonal line as seen in modern fonts. Perhaps manuscripts of RV
 would need to be seen to ascertain how the glyph was actually written by
 scribes before the use of printing presses in India.
-
 Thanks, Nityanand
-
-
 On 10 March 2016 at 19:12, Kevin M. Ryan <kevinryan at fas.harvard.edu> wrote:
-
-> Dear Nityanand,
->
-> Here are a few items I found in the GRETIL corpus:
->
-> aju?ran (RV 1.71.1c)
-> pari?rita? (3x), pari?rayati (1x), mi?ram (?atapatha Br?hma?a)
-> zu?r??am???n?m (Bh?gavata Pur??a 1.1.13)
->
-> It could also in principle be found across a word boundary, when a word is
-> left to stand with final ? (e.g. jyoti? rajas, Nirukta).
->
-> Best,
-> Kevin
->
->
-> On 3/10/16 5:07 AM, Nityanand Misra wrote:
->
->> Dear list
->>
->> In Ulrich Stiehl?s list of 807 conjuncts attested in Sanskrit, the
->> two-consonant conjunct ??r? (????) is listed as the 786th entry (third
->> from left in last line of page 4 of the PDF under
->> http://www.sanskritweb.net/sansdocs/mathe.pdf
->> <
->> https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sanskritweb.net_sansdocs_mathe.pdf&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=NqkhTuN1wmPpoGV7HfN9h9sjzhrforkotCX8AEc5N5k&m=I2YYnpny_JHcilQBv0xpTkUgPu2gNjPwORPDYANfhnY&s=HkqxA0_r_eDluRij4xM7zMHZVLLHzba0JOX-99c58Ac&e=
->> >).
->>
->> I have been unable to trace any word in which this conjunct would occur
->> in Sanskrit.
->>
->> Prefix and infix expression search on Advanced search on Monier
->> Williams, V?caspatyam, and ?abdakalpadruma? yielded no result (except
->> for ???????? in M-W which has the three-syllable conjunct k?r)
->>
->> Does anybody know of an example of a word or verse/sentence in which the
->> usage of this conjunct is attested?
->>
->> Thanks, Nityanand
->>
->>
->>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> indology-owner at list.indology.info (messages to the list's managing
->> committee)
->> http://listinfo.indology.info (where you can change your list options or
->> unsubscribe)
->>
->>
-
-
--- 
 Nity?nanda Mi?ra
 http://nmisra.googlepages.com
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160322/e103c408/attachment.htm>
-

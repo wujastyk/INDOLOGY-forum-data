@@ -1,108 +1,52 @@
-From mkapstei at uchicago.edu  Mon May 13 21:43:05 2019
-From: mkapstei at uchicago.edu (Matthew Kapstein)
-Date: Mon, 13 May 19 21:43:05 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Another_Ud=C4=81na_enquiry?=
-In-Reply-To: <91DD0D72-2D86-4041-9537-11FF12936760@gmail.com>
-Message-ID: <DM5PR11MB17872DBEC22348222634152FA10F0@DM5PR11MB1787.namprd11.prod.outlook.com>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Another_Ud=C4=81na_enquiry?=
 Dear Dan,
-
-
 The THL translation tool is of no use unless it is used intelligently by someone who has learned the Tibetan language the old-fashioned way. As a specialist in Tibetan Studies, I have been frequently dismayed by the dependency of current students on tools that they do not adequately control.
-
-
 In this case, "definitely emerge" is a red herring. It results from a failure to understand that nges(-par) as used here is simply a calque substitute for the Skt. upasarga nir- and that the verb 'byung, though often meaning "to emerge" has a broader semantic range and can also mean "to happen, occur," "to obtain," "to be born" and "to arrive, come."
-
-
 As you may recall, one of the nice old renderings of the Buddhist term niH-sR  is "to come forth" and this, indeed, is pretty close to what the Tibetans were after with their coinage nges-par 'byung.
-
-
 It would be a good thing to definitely emerge from unwarranted misreadings.
-
-
 all best,
-
 Matthew
-
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-From: Dan Lusthaus <yogacara at gmail.com>
 Sent: Monday, May 13, 2019 4:22:12 PM
-To: Valerie Roebuck
-Cc: Matthew Kapstein; indology List List
-Subject: Re: [INDOLOGY] Another Ud?na enquiry
-
+Re: [INDOLOGY] Another Ud?na enquiry
 Dear Valerie and Matthew,
-
 If you go to the online THL Tibetan to English Translation Tool and enter nges par ?byung it will spit out:
-
 JH-ENG definitely emerge/arise
 JH-OE, IW, RY going forth
 JH-OE {C}*; goes forth; go forth
 JH-T 'byung 'byung byung byung
 JH-SKT {C,MV}niryANa; (nir _/yA): {C,MSA,MV}niryAti; {C}niryAyanAya; {MSA}niHsRti
-
 http://www.thlib.org/reference/dictionaries/tibetan-dictionary/translate.php
-
 Dan
-
 On May 14, 2019, at 6:08 AM, Valerie Roebuck via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
 Dear Matthew
-
 Thank you, that does explain it. The most likely corresponding verse in the Sanskrit then seems to be 15.19, which has nai?kramya. The order of the verses in the Sanskrit (ed. Bernhard) and the Tibetan must be different in this chapter. Considering that this comes from a long series of verses repeated with only one or two words changed each time, it is easy to see how this could happen.
-
 Valerie J Roebuck
 Manchester, UK
-
 On 13 May 2019, at 20:52, Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>> wrote:
-
 Dear Valerie,
-
 "Definite emergence" is the translator's rendering of nges par 'byung, the standard Tibetan for niHsaraNa and  niryANa and some similar expressions. As I do not have the Skt text of the UdAnavarga handy right now, I cannot verify exactly what it translates here.
-
 Broadly, translators of Buddhist Tibetan have divided between those who prefer to translate according to the Indic terms in the background, and those who prefer to represent more literally the Tibetan. The latter practice can be in some cases misleading, as it is here. The most authoritative Tibetan-Tibetan dictionary (the Tshigs mdzod chen mo, p. 658), for instance, defines nges par 'byung in this way:
 "it is the attitude that is desirous of freedom from the imprisonment of saMsAra and of arriving at the happiness of nirvANa..." I do not think that this is very well conveyed by "definite emergence."
-
 best regards,
 Matthew
-
 Matthew Kapstein
 Directeur d'?tudes,
 Ecole Pratique des Hautes Etudes
-
 Numata Visiting Professor of Buddhist Studies,
 The University of Chicago
-________________________________
-From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Valerie Roebuck via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
 Sent: Monday, May 13, 2019 9:20:35 AM
-To: Indology List List
-Subject: [INDOLOGY] Another Ud?na enquiry
-
+[INDOLOGY] Another Ud?na enquiry
 Dear Friends
-
 Following my previous enquiry about Rockhill?s translation of the Tibetan Ud?navarga, I now have Gareth Sparham?s rather more recent version, The Tibetan Dhammapada: Sayings of the Buddha. Needless to say, it is quite free of stray spiders. However as an indologist who doesn?t read Tibetan, I find many of his translations of Buddhist terminology  idiosyncratic, to say the least. E.g. the equivalent of apram?da is translated as ?caution? (ch. 1 passim), sam?dhi apparently as ?stabilization? (13.8 of the Sanskrit Ud?na, 13.6 of Sparham?s version, which seems to put several verses together earlier in the chapter). A particularly puzzling one is ?definite emergence? in Sparham?s 15.26, referring to some meditation state - possibly for bh?van? in the Sanskrit, though there seems to be a big difference in word order here.
-
 Do these translation choices reflect anything in the Tibetan, or is the translator simply trying to get away from earlier translations he regards as hackneyed? I would be very grateful for any insights.
-
 Valerie J Roebuck
 Manchester, UK
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190513/568195f9/attachment.htm>
-

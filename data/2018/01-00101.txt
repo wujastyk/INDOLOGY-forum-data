@@ -1,46 +1,18 @@
-From hhhock at illinois.edu  Thu Jan 18 02:49:24 2018
-From: hhhock at illinois.edu (Hock, Hans Henrich)
-Date: Thu, 18 Jan 18 02:49:24 +0000
-Subject: =?utf-8?Q?Re:_[INDOLOGY]_Pronunciation_of_j=C3=B1?=
-In-Reply-To: <CAPW7aQHxuV8D1GKV5yKyR6Ahbz9PiG=qEY3+wf75vGN1DOtGZw@mail.gmail.com>
-Message-ID: <9833FBC1-A9C5-447A-9642-AFF639E4F892@illinois.edu>
-
+=?utf-8?Q?Re:_[INDOLOGY]_Pronunciation_of_j=C3=B1?=
 The Sanskrit phonetic tradition characterizes j as a voiced, palatal stop (not as an affricate). As it turns out, voiced stops before homorganic (voiced) nasal are historically unstable, not just because they may (or not) be difficult to produce but more important, because their acoustic identity is masked by the following homorganic nasal. As a consequence, the prehistoric sequence dn became nn even in Vedic times (as in *sad-na- > san-na-). It is therefore not surprising that j? should have undergone a similar change in Pali, where it turns into ??, simplified in initial position (in fact, it could be considered surprising that j? survived in Sanskrit). Once j? was no longer an acceptable consonant sequence, substitutes had to be found, and the various realizations referred to by Chatterji are different solutions to the problem in contemporary varieties of Sanskrit.
-
 Happy New Year,
-
 Hans Henrich
-
-
-
 On 17 Jan 2018, at 20:24, Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
-
 Thank you to Tim Lubin , Madhav Deshpande, , David and Nancy Reigle, and Dhaval Patel
-
 Harry Spier
-
 On Wed, Jan 17, 2018 at 7:43 PM, Dhaval Patel via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
 I floated similar query some years ago and the discussion and references therein may be of some use.
-
 https://groups.google.com/forum/m/#!search/%E0%A4%9C%E0%A5%8D%E0%A4%9E/samskrita/Qu5-mIvGLS4
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
 http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20180118/c41b569f/attachment.htm>
-

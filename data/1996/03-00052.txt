@@ -1,9 +1,4 @@
-From hueckst at cc.UManitoba.CA  Tue Mar  5 21:33:56 1996
-From: hueckst at cc.UManitoba.CA (RAH)
-Date: Tue, 05 Mar 96 15:33:56 -0600
-Subject: Velthuis's Devanagari and hyphenation
-Message-ID: <161227023205.23782.4640996916912107477.generated@prod2.harmonylists.io>
-
+Velthuis's Devanagari and hyphenation
 I used Velthuis's Devanagari script to typeset a book, and Dominik 
 Wujastyk helped me immensely. I, too, complained then about no 
 hyphenation, so 
@@ -15,21 +10,11 @@ find dev2e.sty, and then you should be all right. One little problem I
 had was that at first the hyphenation would work fine in the body of the 
 text but not in footnotes. To solve that problem I had to use fnfix.sty. 
 Dominik may be able to help more. 
-
 To use dev2e.sty, however, you will have to use LaTeX2e.
-
 Best,
 Bob Hueckstedt
-
 Robert A. Hueckstedt, Associate Professor of Indic Languages
 Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
 Winnipeg, Manitoba R3T 2N2 Canada
 http://www.umanitoba.ca/faculties/arts/asian_studies
 fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
-
-
-
-
-
-
-

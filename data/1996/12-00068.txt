@@ -1,51 +1,17 @@
-From vidynath at math.ohio-state.edu  Wed Dec  4 22:12:26 1996
-From: vidynath at math.ohio-state.edu (Vidhyanath Rao)
-Date: Wed, 04 Dec 96 17:12:26 -0500
-Subject: "Out of India"
-Message-ID: <161227027316.23782.8483577592477390415.generated@prod2.harmonylists.io>
-
-
+"Out of India"
 Lars Martin Fosse <l.m.fosse at internet.no> wrote:
-
->>In cluster analysis, the aim is to study how the different variables
->>or different subjects group together. The results can be displayed
->>as a tree diagram. Closest neighbors are grouped together
->>and joined to a single vertex. Something not more closely related to
->>some compared to the others is left as an isolated twig. Then this
->>process is repeated with each group obtained at this stage. This is the
->>kind of diagram that is found in write-ups of the `African Eve' theory,
->for example.
-
->It should be added that there are several algorithms for cluster analysis
->that yield somewhat different results. It would be foolhardy simply to
->produce a cluster analysis and accept the result as authoritative, several
->attempts with different sets of criteria and different algorithms would have
->to be done.
-
 That creates its own set of problems.
-
 Large scale migrations are rare events. The burden of proof is on
 those who assert that such an event occurred. If you do several
 such analyses, you must report all of them and >explain< any negative
 results; for example, that they failed to take into account all
 measurable traits.
-
 And any way, this thread started with Joe reporting hearsay report that
 Lukacs had `shown' evidence of population discontinuity. I fail to see
 that being questioned.
-
->>It may be worthwhile if Indology courses did require a course in
->>understanding statistics. For example, a rank correlation test on
->>the different attempts to arrange the books of Rgveda in a
->>chronological sequence would be eye opening.
-
->This has been attempted by Walter Wuest, but the result is not quite as
->eye-opening as one would wish. 
-
 I guess I must stop being too cryptic. I was talking about comparing the
 results arrived by different methods, but was avoiding mentioning
 specific names.
-
 I have in mind a statement by Witzel (in ``The Indo-aryans of South
 Asia'', see p.96) that the chronological ordering of the books of Rgveda
 by Wuest and by Hoffmann agree ``more or less''. I took the Wuest's
@@ -58,18 +24,7 @@ ties, and ignoring within group order improves the rank correlation to
 only .22, (p-value .290).] [In this example, the p-value is the probability
 that two random ordering of the books would produce correlation
 coefficient at least this large.] 
-
->Since I wrote my thesis on the use of
->statistics in Indology, I second the opinion that such methods are valuable,
->but they are fraught with a large number of theoretical and practical
->difficulties that have to be solved. If anything is to be gained by using
->statistical methods in the study of Sanskrit texts, that "anything" will be
->gained with a great deal of very hard, painstaking drudgery, not to mention
->the problem of communicating the result to one's non-statistical colleagues
->afterwards!
-
 I would like to read your thesis. Please let me where you published it.
-
 There is one issue that I am sure you must have addressed, but which
 I cannot resist talking about.
 This is the use of controls. Let me share an experiment
@@ -86,23 +41,16 @@ Raghuvamsa were composed by different persons. The most serious objection
 would be that I did not look at Trishtub and Jagati patterns, where
 Kalidasa conforms to the traditional poetical theory, but Mahabharata does
 not. Then there is the question of critical edition of Kalidasa]
-
 The point is that without controls, there is no good way of knowing
 if the statistical significance says anything about practical
 significance. In particular, the frequency of vipulas in short
 works would remain suspect in my eyes as a valid means of
 comparison, till someone explains the strange case of Kalidasa.
-
 Girish Beeharry <gkb at ast.cam.ac.uk> wrote:
->This adds another item to the list of 'I don't understand'; which
->algorithms are more 'objective'? Has non-parametric statistics
->(eg maximum likelihood) been used in this area?
-
 I have not personally done cluster analysis. So, don't take my word
 on this. And I got interested in cluster analysis because of
 the `Out of Africa' theory, where the problems are different in
 nature.
-
 As I understand it, we can't quite call one method more objective
 than the other. Some methods look for clusters of some particular
 shape. Others do not for clusters as such, but build trees by
@@ -111,18 +59,9 @@ by their average etc. [Out of Africa analysis has the problem of
 large data-sets, which should not a problem in HLK case.] There does
 not seem to be any clear agreement as to which method suits a given
 situation better than others.
-
 But, I doubt that in the case of small data-sets, the different methods
 would give widely divergent answers. I don't believe that reanalyzing the
 HLK data would produce the conclusion that there was a discontinuity
 between 2000 BCE and 1000 BCE.
-
-
-
 -Nath
 Nath Rao (nathrao+ at osu.edu)		614-366-9341
-
-
-
-
-

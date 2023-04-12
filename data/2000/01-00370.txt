@@ -1,10 +1,4 @@
-From witzel at FAS.HARVARD.EDU  Tue Jan 25 14:46:20 2000
-From: witzel at FAS.HARVARD.EDU (Michael Witzel)
-Date: Tue, 25 Jan 00 09:46:20 -0500
-Subject: Vedic accent...
-In-Reply-To: <388D1812.4F23@del3.vsnl.net.in>
-Message-ID: <161227055483.23782.4517639228957362013.generated@prod2.harmonylists.io>
-
+Vedic accent...
 The preceding discussion on recitation certainly is very interesting.
 Finally, some information is coming in on this very much neglected topic...
 In spite of books such as Staal's Namburiri recitation and the various ones
@@ -12,52 +6,33 @@ by Howard... We should finally make a detailed survey of recitation (and
 the zaakhaas, gotras etc. of the Vaidika Brahmins) of all parts of the
 subcontinent (I have collected recitation on tapes from Kashhmir to Madras
 and from Saurastrra to Orissa).
-
 NB: Answreing a previous question: I forget about Maitrayaniya pitch, but
 they definitely follow their older style, not the printed editions of von
 Schroeder and Satvalekar: they keep, for example, s- s-, and do not
 substitute Visarga + s. Will check the tapes in my office & answer.
-
-
->Madhav Deshpande wrote:
-
->> Bharat Gupta.....  There is no doubt
->> that the current recitation of the TS, especially in south India, is far
->> more musicalized, as compared to the recitation of the same Samhita in the
->> region of Maharashtra, where the musical distances between Udaatta,
->> Anudaatta, and Svarita are much smaller.
-
 May I draw attention to the 'tonal curves' published by E. Gray in BSOAS in
 the late sixties?
-
 They show that, even with the medieval and modern way of recitation, e.g.,
 an udaata (middle level, rising) is frequently not  recited that way  but
 undergoes all sorts of modifications.
 In part 'tonal sandhi', as expected in tone languages when two extreme
 tones get together (cf. various realizations of the Chinese 3rd tone...).
-
 But there are other, not yet explained forces at work here. We need more
 recordings and (computer) analysis. Our ears are not always good enough,
 especially those of people whose language does not contain tones (exc. for
 the rising one in questions).
-
-
 Another point I have been wondering about for long.
-
 Panini's udaatta seems to be reflected in Staals' recording of Kerala
 (Nambudiri) Rgveda ---but only in the PadapaaTha (see his book Namb. Veda
 Rec., 1961): it is recited as highest tone.
-
 I have noticed a similar case during my long stay in Nepal in the Seventies
 (unpublished), in the
 recitation of the local Raajopadhyaaya Brahmins. This group of Nepalese
 Brahmins speaks Newari and has been there sinceat least  c. 500 CE
 (inscriptions); they do not intermarry with other Maadhy.Vaajasaneyins who
 have arrived in the Kathmandu Valley much later.
-
 In their recitation udaata also is the highest tone. This preserves, at
 both ends of the subcontinent something old...
-
 The problem is the following. Like in other Indian languages (North AND
 South), long vowels (especially long a) seem to be pronounced with a
 certain higher pitch, a definite raise in tone.
@@ -65,18 +40,7 @@ This, of course, interfers with recitation, making any unaccented
 (non-udaatta) long syllable liable for higher pitch/rising tone. And that's
 why I have not yet published about Nep. recitation: it needs a lot of
 detailed study.
-
 Any ideas about this higher tone of aa (etc.) ? I have only once seen it
 mentioned in some more or less recent (last 20 years) book on a modern NIA
 language but forget where.
 Discussion welcomed!
-
-
->>  Historically, it seems to me
->> that a certain distinction must be made between the musicalized renderings
->> of the Vedic accents, and the Vedic accents as described by Panini and
->> Praatizaakhyas.
-
-
-
-

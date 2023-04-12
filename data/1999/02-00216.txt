@@ -1,10 +1,4 @@
-From mmdesh at UMICH.EDU  Mon Feb 15 20:24:28 1999
-From: mmdesh at UMICH.EDU (Madhav Deshpande)
-Date: Mon, 15 Feb 99 15:24:28 -0500
-Subject: On 'patra/pattra' again!
-In-Reply-To: <Pine.SOL.3.96.990215093615.20512B-100000@ursa.cus.cam.ac.uk>
-Message-ID: <161227046387.23782.8564472662607486084.generated@prod2.harmonylists.io>
-
+On 'patra/pattra' again!
 John Smith raises the following question:
 "Could you make clear just how far you are going here, Madhav? I have no
 problems with your remarks on put(t)ra, but how many other -tra words are
@@ -12,7 +6,6 @@ suspect in your view? Surely not astra, zastra, zAstra, pAtra, chat(t)ra,
 vaktra, etc., etc.? If not all cases, then which ones? And what is the
 basis for discriminating between them (so that pat(t)ra is suspect but --
 presumably -- zastra is not)?"
-
 My general response is that the orthography of Sanskrit words is
 independent of their etymology.  While the orthography and pronunciation
 are guided by other factors, the etymology is often an after-the-fact
@@ -55,7 +48,3 @@ determining proper orthography of words on the basis of etymology are
 indeed very shaky.
         Best,
                                         Madhav Deshpande
-
-
-
-

@@ -1,10 +1,4 @@
-From dharmaprof108 at yahoo.com  Fri Jul 15 15:48:39 2016
-From: dharmaprof108 at yahoo.com (Jeffery Long)
-Date: Fri, 15 Jul 16 15:48:39 +0000
-Subject: [INDOLOGY] Unicode Devanagari on Mac
-In-Reply-To: <CAMGmO4+udr2bpEgB7c7NkiQB5MLeyqN0Eyyjdi9Wu2bFectzKw@mail.gmail.com>
-Message-ID: <1752931590.3816319.1468597719883.JavaMail.yahoo@mail.yahoo.com>
-
+[INDOLOGY] Unicode Devanagari on Mac
 The ABC Extended keyboard on the Mac is good for all diacritical marks. ?Combining the option key with a gives the macron: ?, ?, etc. ?Option + x =?underdot: ?, ?, etc. ?Option + w = overdot: ?. ?Option + e = accent mark: ?. ?Tilde is of course option + n: ?.
 All the best,Jeff?Dr. Jeffery D. Long
 Professor of Religion and Asian Studies
@@ -12,88 +6,50 @@ Elizabethtown CollegeElizabethtown, PA
 https://etown.academia.edu/JefferyLong
 Series Editor,?Explorations in Indic Traditions: Theological, Ethical, and PhilosophicalLexington Books
 Consulting Editor,?Sutra Journalhttp://www.sutrajournal.com
-
 "One who makes a habit of prayer and meditation will easily overcome all difficulties and remain calm and unruffled in the midst of the trials of life." ?(Holy Mother Sarada Devi)
- 
-
     On Friday, July 15, 2016 9:17 AM, Jonathan Silk <kauzeya at gmail.com> wrote:
- 
-
  Maybe indeed I'm missing something but the Asian Extended keyboard (made, if I am not wrong, by Nobumi Iyanaga) works perfectly for diacritics, no mess, no fuss.
 Jonathan
 On Fri, Jul 15, 2016 at 2:47 PM, Madhav Deshpande <mmdesh at umich.edu> wrote:
-
 David,
 ? ? ?The old Easy Unicode keyboard-layout does work on my Mac that has the latest operating system and the latest MS Office 360.? Try reinstalling the keyboard file, if you have it.? If not, I can send it to you.? Best,
 Madhav
 On Fri, Jul 15, 2016 at 8:44 AM, David Mellins <dmellins at gmail.com> wrote:
-
 Yes, This is true, but have you found a convenient way to enter the full range ?of diacritica for Romanized Sanskrit without having to resort to Emoji/Latin/favorites inserts??
 This is not the worst thing in the world, but slower than the old Easy Unicode or Dev Unicode keyboards.
 David
-
 Sent from my iPhone
 On Jul 15, 2016, at 8:37 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
-
-
 I'm shocked.? I don't pay much attention to the Mac world, but I've been typing Devanagari into everything on my computer for many years (Linux).? I had no idea that this wasn't possible or easy on a Mac.? Wow.? And the Mac used to be the byword for multilingual support.? I'm glad it's okay now, at least.
 Dominik
---
 Professor Dominik Wujastyk*
 Singhmar Chair in Classical Indian Society and Polity
 Department of History and Classics
 University of Alberta, Canada
-
 ?sas.ualberta.ca?
-
 On 15 July 2016 at 12:58, Madhav Deshpande <mmdesh at umich.edu> wrote:
-
 Dear Indologists,
 ? ? ?To my happy surprise, I found that with the combination of the latest version of Microsoft Office 360 for Mac and the latest Mac Operating System OS X El Capitan, it is now possible to directly enter Unicode Devanagari in a Word document with the Devanagari - QWERTY keyboard layout.? Previously, I had to enter Unicode Devanagari in something like TextEdit and then copy and paste into a Word document, but was not able to edit it in the Word document.? The new development of software has happily changed that situation.? Hope this information will be of use to some of you.? Best,
 Madhav Deshpande
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
-
--- 
 J. Silk
 Leiden University
 Leiden University Institute for Area Studies, LIASMatthias de Vrieshof 3, Room 0.05b2311 BZ Leiden
 The Netherlands
 copies of my publications may be found at
 http://www.buddhismandsocialjustice.com/silk_publications.html
-_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)
 http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-  
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20160715/fe4108e0/attachment.htm>
-

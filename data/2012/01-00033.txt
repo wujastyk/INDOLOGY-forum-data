@@ -1,19 +1,7 @@
-From james.hartzell at GMAIL.COM  Mon Jan 23 16:14:04 2012
-From: james.hartzell at GMAIL.COM (James Hartzell)
-Date: Mon, 23 Jan 12 17:14:04 +0100
-Subject: Sanskrit formant frequencies
-Message-ID: <161227094960.23782.17281272883213005968.generated@prod2.harmonylists.io>
-
+Sanskrit formant frequencies
 HI
-
 Would anyone know of where I could find a formant frequency table for
 Sanskrit?  I don't find it easily looking on the web.
-
--- 
 James Hartzell, PhD
 Center for Mind/Brain Sciences (CIMeC)
 The University of Trento, Italy
-
-
-
-

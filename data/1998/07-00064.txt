@@ -1,30 +1,20 @@
-From Palaniappa at AOL.COM  Mon Jul  6 01:07:03 1998
-From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
-Date: Sun, 05 Jul 98 21:07:03 -0400
-Subject: Sanskrit, centamiz, and diglossia
-Message-ID: <161227040582.23782.2816178090571639982.generated@prod2.harmonylists.io>
-
+Sanskrit, centamiz, and diglossia
 In a message dated 98-07-05 07:08:20 EDT, jlc at CCR.JUSSIEU.FR writes:
-
 << I would be interested to know on what basis
  you give such an early date.
-
  I have always thought that S.Vaiyapuri Pillai, editor
  of Tamil Lexicon (1924-1936 & 1938-39) argued convincingly
  that a big part of Sangam literature pre-dated Tolkappiyam,
  (and not the other way round).
-
  He proposes that what we have of Sangam litterature was composed
  after the beginning of the Christian Era (and later collected
  into anthologies) but that Tolkappiyam was composed
  in the second half of 5th century CE.
-
  I know he was somehow BLACK-LISTED in Tamil Nadu
  for giving late dates to Tamil classics
  [this infuriated some people:
  see the introduction to NCBH revised edition (1988)
  of his "History of Tamil language and literature" (1956)].
-
  This black-listing may have been part of the reason for Zvelebil
  proposing (in the Smile of Murugan, if I remember correctly)
  that an Ur-Tolkappiyam  was composed very early
@@ -34,7 +24,6 @@ In a message dated 98-07-05 07:08:20 EDT, jlc at CCR.JUSSIEU.FR writes:
  (As we say in French, I thought he wanted to please
  "la ch?vre et le chou" [the goat and the cabbage]
  at the same time)
-
  I am personnaly interested in matters more a-temporal
  (we do not need to know precisely when a text was composed
  before we find it interesting or not ...)
@@ -43,27 +32,21 @@ In a message dated 98-07-05 07:08:20 EDT, jlc at CCR.JUSSIEU.FR writes:
  So I would be very glad to know what you find
  most authoritative in recent literature
  concerning the chronology of Tamil corpora of classical texts.
-
  Best regards >>
-
-
 I think it is high time scholars gave a decent burial to SVP's date for
 Tolkappiyam, for the following reasons. Since I have only access to his tamizc
 cuTar maNikaL I am basing my arguments on that. I think the views of SVP found
 in TCM are essentially the same as the ones in HTLL because Zvelebil, in his
 discussion of the date of Tolkappiyam uses TCM as well as HTTL.
-
 There are two relevant issues here. One is the relative dating of T with
 respect to Classical Tamil texts and the absolute dating based on the relative
 dating of T w.r.t to Patanjali.
-
 1. In his discussions, whenever there is a similarity between a feature in
 Sanskrit and Tamil, SVP assumes Sanskrit is the donor and Tamil the borrower.
 Take for example the etymology of the word "mAlai" garland. In page 25, he
 says it is borrowed from Sanskrit into Tamil. However, with their
 comparative/historical linguistic perspective Burrow and Emeneau, in DED 3954,
 derive it from Dravidian.
-
 2. As for similarities between Tolkappiyam and any specific Sanskrit
 Grammarian, there is a problem here as well. I do not have access to V. S.
 Rajam's dissertation. But this is what the dissertation abstract says. "The
@@ -88,16 +71,13 @@ Considering all this, this study proposes a 'galaxy model' for the ancient
 Indian grammatical tradition. This 'galaxy model' considers the authors of the
 unknown grammatical works as numerous unidentifiable stars and the authors of
 the extant grammatical works as giant stars."
-
 In short, there is no clear linkage between any one particular Sanskrit
 grammarian and Tolkappiyam. Any resemblance between T and a Sanskrit
 grammarian could be just due to the different grammatical traditions. Thus one
 cannot really say anything about the relationship between T and Patanjali.
 (For a related discussion see a post entitled Amazing Patanjali... last year.
-
 As for the relative dating of T with respect to CT, Zvelebil's arguments are
 logical as found in The Smile of Murugan, pp.142-143.
-
 As for the 5th century date for T, SVP asumes the integrity of the whole text
 which others do not. That itself opens a fatal logical flaw. For instance, he
 considers the contents of the pAyiram as valid. In fact, he uses that to
@@ -113,22 +93,15 @@ latest of Natyasastra, Arthasastra, Manava Dharmasastra and Kamasutra's dates
 is wrong. The only way to resolve is to allow for the possibility of
 interpolations/additions to an earlier text. This is what other scholars have
 done.
-
 As for the reasons of using 1st or 2nd century BC for T in my discussion, KZ
 says, "Thus, the nuclear portions of Tolkappiyam were probably born sometime
 in the 2nd or !st Cent. B.C., but hardly before 150 B.C." (The Smile of
 Murugan, p. 147). The nURpAs I discussed were in the first book of T and I
 think they are generally considered to be part of the earlier text.
-
 Interestingly, the later the date of Tolkappiyam is, the more valid my
 argument for a strong tradition of a Standard/high Tamil becomes. If we take
 SVP's date of 5th century AD, it means almost a millennium after pANini, Tamil
 had still maintained the distinction between l and L rather successfully, with
 deviations from the standard being discouraged on the whole quite well.
-
 Regards
 S. Palaniappan
-
-
-
-

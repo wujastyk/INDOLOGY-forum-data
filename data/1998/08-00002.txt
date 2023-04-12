@@ -1,28 +1,9 @@
-From vidynath at MATH.OHIO-STATE.EDU  Sun Aug  2 11:46:41 1998
-From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
-Date: Sun, 02 Aug 98 07:46:41 -0400
-Subject: Fortunatov's Law and tolkAppiyar's rules
-Message-ID: <161227041088.23782.15910121682758882230.generated@prod2.harmonylists.io>
-
+Fortunatov's Law and tolkAppiyar's rules
 Miguel Carrasquer Vidal <mcv at WXS.NL> wrote:
-> c^ => s^
->    => c => s
->         => T => s
->              => t
-
 Doesn't PIE *k't become s^t in Avestan (and OP?). In the above
 development, we will need a special treatment for that.
-
-> I don't see what else it could have been: it's "sh" in Balto-Slavic
-> too.  I see the Iranian developments as:
-
 Beekes, in his recent paper (JIES) on historical phonology of
 Iranian suggests that ruki-s was .s to begin with.
-
 In the past, the there was a strong prejudice that retroflex sounds
 could not occur in `real IE', and people attempted to restrict it
 to Indic. Old habits die hard.
-
-
-
-

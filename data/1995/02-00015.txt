@@ -1,16 +1,10 @@
->From Stephen Clark (srlclark at liverpool.ac.uk)
-
 I can't recall if this was one of the FREELANCE group or one of the thinknet
 group. Both groups have moved.
-
 1.  FREELANCE:
-
         The Free Lance Academy now has its own proprietary
         domain name:  freelance.com.
-
         The address of the listserv is now:
         listserv at freelance.com
-
         The domain name (the part of the address after @)
         for all the mailing lists at the site is now
         freelance.com.  If you have the old domain name
@@ -19,89 +13,4 @@ group. Both groups have moved.
         changing to a new Internet provider and that address
         will no longer be valid.  The freelance.com address
         will follow to the new provider.
-
 2. THINKNET:
-
-> From: listserv at apeiron.uucp.netcom.com (NetXpress Listserv)
-> 
-> This is the help file for the dialognet email lists at Thinknet BBS.
-> 
-> Thinknet is dedicated to thoughtful conversation in cyberspace.
-> 
-> Thinknet is part of the Dialognet network of philosophy email lists.
-> 
-> To subscribe send the message "sub <email-list> <user-name>" to
-> listserv at apeiron.uucp.netcom.com
-> 
-> The following email-lists are available:
-> 
-> adorno
-> autopoiesis         (self-organizing systems)
-> bakhtin
-> bataille
-> baudrillard
-> buddhist-philosophy
-> chinese-philosophy
-> creativity
-> deleuze             (slowreading -- primary list at majordomo at world.std.com)
-> derrida
-> dialognet-admin     (administration of the lists)
-> dialognet-announce  (announcements for the lists)
-> dialognet-moderators
-> dialognet-rules
-> feyerabend          (slowreading -- primary list at majordomo at world.std.com)
-> foucault            (slowreading -- primary list at majordomo at world.std.com)
-> heidegger           (slowreading -- primary list at majordomo at world.std.com)
-> husserl
-> kristeva
-> marx                (slowreading -- primary list at majordomo at world.std.com)
-> merleau-ponty
-> lacan
-> literature          (philosophy of literature)
-> mindbody
-> myth                (philosophy of myth)
-> nietzsche           (slowreading -- primary list at majordomo at world.std.com)
-> nihilism
-> process-philosophy
-> sartre
-> software-engineering
-> sufi
-> surrealism
-> systems-engineering
-> taoism
-> test -- for system testing
-> wittgenstein
-> zen
-> 
-> There is also a cluster of philosophy lists for general discussion
-> called Philosophy Cluster One.
-> 
-> pc1-topics
-> pc1-disucssion
-> pc1-talk-one
-> pc1-talk-two
-> pc1-talk-three
-> pc1-talk-four
-> pc1-significa
-> pc1-trivia
-> 
-> 
-> To unsubscribe send the message "unsub <email-list> <username>"
-> 
-> To make sure you are on the list send the message "confirm <email-list>"
-> 
-> If you have a problem send a message to
-> thinknet at apeiron.uucp.netcom.com
-> or thinknet at netcom.com
-> 
-> Kent Palmer
-> palmer at apeiron.uucp.netcom.com
-> palmer at netcom.com
-> 
-
- 
-
-
-
-
-

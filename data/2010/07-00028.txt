@@ -1,29 +1,13 @@
-From franceschini.marco at FASTWEBNET.IT  Thu Jul  8 16:35:09 2010
-From: franceschini.marco at FASTWEBNET.IT (Marco Franceschini)
-Date: Thu, 08 Jul 10 18:35:09 +0200
-Subject: Access to Updated Vedic Concordance
-In-Reply-To: <523628767.158356.1278450136172.JavaMail.root@sz0152a.westchester.pa.mail.              comcast.net>
-Message-ID: <161227089915.23782.4038660229392768159.generated@prod2.harmonylists.io>
-
+Access to Updated Vedic Concordance
 Dear list members,
-
 a new Vedic Concordance has been published in 2007 in the HOS series 
 (no. 66), two volumes and CD (Unicode compliant files also). With 
 respect to the 2005 version, the HOS one had been enhanced by the 
 inclusion of some 11,000 mantras taken from Baudhayana Srautasutra.
-
 Anyhow, you can download the old, free 2005 version at:
-
 http://orient.dslo.unibo.it/OSite/vedicconc2005.html
-
 Please note that all the files are now Unicode compliant: they work 
 both on Mac and Windows machines and there's no need to install 
 special fonts any more.
-
 Best wishes,
-
 Marco Franceschini
-
-
-
-

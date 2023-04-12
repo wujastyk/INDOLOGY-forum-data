@@ -1,19 +1,11 @@
-From hellwig7 at GMX.DE  Tue Sep  6 19:55:16 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Tue, 06 Sep 11 20:55:16 +0100
-Subject: New version of the Digital Corpus of Sanskrit
-Message-ID: <161227093785.23782.15581473560760720295.generated@prod2.harmonylists.io>
-
+New version of the Digital Corpus of Sanskrit
 Dear list,
-
 I would like to announce a new version of the Digital Corpus of Sanskrit at 
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
-
 The new version includes new texts, a new layout, and new features (refer to 
 http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?
 contents=help_center
 for details).
-
 I suppose that the topic search may be the most interesting feature of this 
 version. During the last few years, I have assigned topics such as 
 "Medicine", "dharma" or "politics" to chapters in the Sanskrit corpus (for 
@@ -37,13 +29,6 @@ function"; this means that, for example, all chapters in alchemical texts
 were assigned globally to the topic "Alchemy". This may result in wrong 
 attributions in some cases (chapters of alchemical texts that do not contain 
 any alchemical content etc.).
-	
------
 PD Dr. Oliver Hellwig
 Department of Classical Indology, South-Asia Institute
 University of Heidelberg, Germany
-	
-
-
-
-

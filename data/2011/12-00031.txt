@@ -1,35 +1,13 @@
-From aprigliano at USP.BR  Sun Dec 11 18:29:31 2011
-From: aprigliano at USP.BR (Adriano Aprigliano)
-Date: Sun, 11 Dec 11 16:29:31 -0200
-Subject: Devanagari verse and LATEX
-Message-ID: <161227094709.23782.10886342915926977622.generated@prod2.harmonylists.io>
-
+Devanagari verse and LATEX
 Dear list members,
-
- 
-
 I?ve been trying to use the devanagari package together with ledmac and
 ledpar to produce facing page output and it works fine for prose texts
 (though I have some doubts on how many text chunks should be handled at each
 Pages environment) , but when a I try to write verse ---either with the
 \stanza or {astanza} environments---, it doesn?t work. Could anyone give me
 a hand on that?
-
 Best wishes
-
 Adriano Aprigliano
-
- 
-
 Universidade de S?o Paulo
-
 S?o Paulo/SP
-
 Brasil 
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20111211/c3999069/attachment.htm>
-

@@ -1,9 +1,4 @@
-From tantrapl at hektor.umcs.lublin.pl  Wed Jul 31 09:54:59 1996
-From: tantrapl at hektor.umcs.lublin.pl (tantrapl at hektor.umcs.lublin.pl)
-Date: Wed, 31 Jul 96 11:54:59 +0200
-Subject: German libraries
-Message-ID: <161227025456.23782.8913379129640546405.generated@prod2.harmonylists.io>
-
+German libraries
 Dear List Members,
 I would like to know how to get access to German libraries via internet. I
 was trying to find some telnet addresses in Hytelnet services but all of
@@ -18,8 +13,3 @@ and "Anthropology and Humanism Quarterly", Dec 1983)
 Could anybody give some suggestions?
 	Thank you in advance
 				Leslaw Borowski
-
-
-
-
-

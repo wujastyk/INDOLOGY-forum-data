@@ -1,19 +1,6 @@
-From ucgadkw at UCL.AC.UK  Tue Nov 26 00:02:23 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Tue, 26 Nov 02 00:02:23 +0000
-Subject: CSX+ Encoding and other Encodings used by Indologists (fwd)
-Message-ID: <161227071767.23782.1489572222061689778.generated@prod2.harmonylists.io>
-
----------- Forwarded message ----------
-Date: Mon, 25 Nov 2002 14:01:15 -0500
-From: Harry Spier <harryspier at hotmail.com>
-
-Subject: CSX+ Encoding and other Encodings used by Indologists
-
-
-
+CSX+ Encoding and other Encodings used by Indologists (fwd)
+CSX+ Encoding and other Encodings used by Indologists
 Re: CSX+ Encoding and other Encodings used by Indologists
-
 I think the fact that so few copies of the new CSX+  fonts were downloaded
 versus downloads of itranslator99 may give a false impression that CSX+
 encoding is not being used anymore.  My own experience has been that in
@@ -37,16 +24,9 @@ texts) CSX+ was the most common diacritical encoding.  I suspect that
 Itranslator99 is used mainly for its VERY USER FRIENDLY conversion of ITRANS
 to Devanagari.  In this case also I had the impression that for Windows
 XDVNG was the more common devanagari encoding (at least for on-line texts).
-
 Regards,
 Harry
-
-
 Harry Spier
 371 Brickman Rd.
 Hurleyville, New York
 USA 12747
-
-
-
-

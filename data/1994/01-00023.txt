@@ -1,37 +1,20 @@
-From ECL6TAM at lucs-01.novell.leeds.ac.uk  Wed Jan 19 12:49:57 1994
-From: ECL6TAM at lucs-01.novell.leeds.ac.uk (T.A.MCALLISTER)
-Date: Wed, 19 Jan 94 12:49:57 +0000
-Subject: Malayalam fonts
-Message-ID: <161227016497.23782.11105671299800546097.generated@prod2.harmonylists.io>
-
+Malayalam fonts
 I would be grateful for help on this point.
-
 I have just downloaded two Windows fonts for Malayalam from the 
 CICA archive. They look quite good and print well.
-
 Unfortunately, the documentation is sparse, without the name or address 
 of the sender. I suspect the person who sent the fonts might not be their 
 originator or copyright owner. Obviously, I can't release the fonts for use 
 until the question of copyright has been settled.
-
 I have examined the fonts and found embedded in them a copyright 
 notice consisting only of the words "Ethno Multimedia". Does anyone 
 recognize that name? It looks like the name of a company, but there is no 
 business address, so it might be the name of a group of enthusiasts.
-
 Any help or suggestions would be greatly appreciated.
-
 ..
-
 Alec McAllister
 Arts Computing Development Officer
 Computing Service
 University of Leeds
 LS2 9JT
 tel 0532 335399
- 
-
-
-
-
-

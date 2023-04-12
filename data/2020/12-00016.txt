@@ -1,41 +1,24 @@
-From drdhaval2785 at gmail.com  Sat Dec 12 12:53:33 2020
-From: drdhaval2785 at gmail.com (Dhaval Patel)
-Date: Sat, 12 Dec 20 18:23:33 +0530
-Subject: =?utf-8?B?W0lORE9MT0dZXSDgpJXgpYvgpLfgpJXgpLLgpY3gpKrgpKTgpLDgpYEgb2Yg4KS14KS/4KS24KWN4KS14KSo4KS+4KSl?=
-Message-ID: <CADSGPzX6z_3wPxh_j=7Up2Fr1ND2UDmDS3ENqZHpE0eym0q-3g@mail.gmail.com>
-
+=?utf-8?B?W0lORE9MT0dZXSDgpJXgpYvgpLfgpJXgpLLgpY3gpKrgpKTgpLDgpYEgb2Yg4KS14KS/4KS24KWN4KS14KSo4KS+4KSl?=
 Respected Scholars,
 Please find attached the digitized version of the following voluminous work
 on Sanskrit lexicography.
 Ko?akalpataru of Vi?van?tha
 ?????????? of ????????
-
 https://github.com/sanskrit-kosha/kosha/blob/master/koshakalpataru_vishvanatha/orig/koshakalpataru.txt
-
 Credits -
 1. Part 2 of this work was typed in painstakingly by Mr. Pradeep Rastogi.
 2. Mr. Nagabhushana Rao of Andhrabharati website provided an alternative
 digitized version against which the work was compared and checked.
 Details in credits part of metadata.
-
 As usual,
 1. The work would be available as API in kosha.sanskritworld.in/
 and
 2. The frontend would be working on
 https://www.sanskritworld.in/sanskrittool/kosha-search/kosha.html with
 Dictionary code KKTV.
-
 Please send your corrections and suggestions at
 https://github.com/sanskrit-kosha/kosha/issues .
-
 With warm regards,
--- 
 Dr. Dhaval Patel, I.A.S
 Collector and District Magistrate, Surat
 www.sanskritworld.in
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20201212/6a98df2c/attachment.htm>
-

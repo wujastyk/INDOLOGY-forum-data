@@ -1,24 +1,9 @@
-From kellner at ipc.hiroshima-u.ac.jp  Fri Jun 28 18:42:02 1996
-From: kellner at ipc.hiroshima-u.ac.jp (Birgit Kellner)
-Date: Sat, 29 Jun 96 03:42:02 +0900
-Subject: Harvard-Kyoto
-Message-ID: <161227025195.23782.5072391754670533640.generated@prod2.harmonylists.io>
-
+Harvard-Kyoto
 At 16:22 1996-06-28 BST, Harry Falk wrote:
-
->good idea to initiate a Vedic bibliography - but using the Harvard-
->Kyoto transcription would result in a nightmare. Any z in a personal
->name or non-Skt term would be converted to /s, Jolly would end up
->as ~nolly etc. The usual aa>A conversion gives similar trouble if
->you think of Staal or Fujii. It might be advisible to use the Vienna
->codes or create something new, but any standard which does not lend
->itself to automatic conversion should be banished.
-
 Any convention which uses either interpunctional marks (e.g.
 Tuebingen-Zuerich) or commonly used Latin characters to encode diacritics
 will face problems in case of automatic conversion, as soon as other
 languages than Sanskrit are used in the file. 
-
 As I have done before, I would like to jump in and bluntly advertise the
 "@-convention", which we use in Hiroshima, and which quite a few other
 people in Japan (or Vienna) use for transmitting their e-texts. Basically,
@@ -26,23 +11,12 @@ every diacritical character is replaced by the base-letter, followed by an
 ad-mark (e.g. long a = a@; cerebral t=t@). There are a few exceptions where
 ambiguity occurs (e.g. with the n's and the s's or the vocalic r's, where
 other base-letters have to be used). 
-
 We plan to use this convention in our - currently under construction -
 Web-page, where we will - amongst other things - collect fragments from
 pra at ma@n at a-texts. Admittedly, it's not easy to read and takes a little time
 to get used to (as does Devanagari:)) , but when texts are supposed to be
 down-loaded and used in different environments, it is definitely the best I
 have seen so far. 
-
-
-
-
 Birgit Kellner
 Department for Indian Philosophy
 University of Hiroshima
-
-
-
-
-
-

@@ -1,10 +1,4 @@
-From andrew.ollett at gmail.com  Mon Aug 28 17:48:59 2017
-From: andrew.ollett at gmail.com (Andrew Ollett)
-Date: Mon, 28 Aug 17 13:48:59 -0400
-Subject: [INDOLOGY] Grammar of the Jain phrase
-In-Reply-To: <CAB3-dzdhqCKiywU-fgDicA0Cqo8+V1HTxhu7o1K0JWp3kA4j_Q@mail.gmail.com>
-Message-ID: <CAANHO15jRER14chQKkLyLoJtzWJTciXeWTz0RTJ-F0NTNSa45w@mail.gmail.com>
-
+[INDOLOGY] Grammar of the Jain phrase
 Interesting suggestion. It is possible for m? + icch?mi to be micch?mi in
 Ardham?gadh? (or pseudo-Ardham?gadh?) because lopa-sandhi is common in such
 contexts (see Pischel ?158), but since the phrase occurs in the context of
@@ -12,35 +6,5 @@ the pratikrama?a, and in a few cases specifically refers to the evil of an
 already-committed transgression (ja? kha??iya? ja? vir?hiya? tassa micch?
 mi dukka?a?), it seems more natural to me to read it in the traditional way
 rather than as a resolution not to desire evil deeds in the future.
-
 2017-08-26 7:26 GMT-04:00 Madhav Deshpande via INDOLOGY <
 indology at list.indology.info>:
-
-> Dear Colleagues,
->
->      Someone recently asked me the meaning of the Jain phrase "micch?mi
-> dukka?am".  On most of the web sources, the explanation is given like this:
-> micch? mi dukka?am (Skt. mithy? me du?kr?tam) meaning "May my evil deed be
-> ineffective".  I am wondering whether micch?mi in this phrase is originally
-> "m?+icch?mi" and the phrase meaning: "May I not wish evil."  In several
-> textual contexts, micch?mi occurs with other first person singular verbs
-> like kh?memi: ???????? ???????? ?????? ???? ????, ????? ???? ????? ???  I
-> will appreciate any light that our Prakrit scholars can shed on this.  With
-> best wishes,
->
-> Madhav Deshpande
->
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20170828/908720bb/attachment.htm>
-

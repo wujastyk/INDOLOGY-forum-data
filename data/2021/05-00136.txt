@@ -1,8 +1,4 @@
-From andrew.ollett at gmail.com  Wed May 12 12:36:04 2021
-From: andrew.ollett at gmail.com (Andrew Ollett)
-Date: Wed, 12 May 2021 07:36:04 -0500
-Subject: [INDOLOGY] The Buddhist term sutta
-In-Reply-To: <CAANHO163O0+kK2f6afypP42duC_hDMSfpKuzAX88CkZqx8_zqQ@mail.gmail.com>
+[INDOLOGY] The Buddhist term sutta
 References: <92BD55D3-AC74-45FC-B352-D453528F15DC@comcast.net>
  <CAANHO14XkrHHzQ=TiQSBhPB5ORS1Q8dNdg3m9TDSTpD6aJdWTg@mail.gmail.com>
  <24EF1A7D-E179-4A9A-A8FA-D6F225051DA4@wlu.edu>
@@ -15,13 +11,9 @@ References: <92BD55D3-AC74-45FC-B352-D453528F15DC@comcast.net>
  <CAKdt-CfUQAEzTeZ118ESBxDteiE4ZCEUMOzNr5bovPBgr1FoEQ@mail.gmail.com>
  <447A8ABB-E047-4F2D-844B-1C295C83191E@g.harvard.edu>
  <CAANHO163O0+kK2f6afypP42duC_hDMSfpKuzAX88CkZqx8_zqQ@mail.gmail.com>
-Message-ID: <CAANHO17BmPP8s+eBK6mUJet_ND4FYGKwsrjunpfcmSgPXjAoBg@mail.gmail.com>
-
 Hi everyone,
-
 I am reminded by Professor Paul Dundas of a few other points that might be
 relevant to this discussion:
-
    - Paul Dundas (?Somnolent S?tras: Scriptural Commentary in ?vet?mbara
    Jainism," *Journal of Indian Philosophy* 24: 73?101, 1996) says the
    following (p. 78: see the notes for the sources):
@@ -57,118 +49,6 @@ etymologies:
    Boll?e suggested that it might come from *s?ca-kr?ta- or *s?ca-gata- (in
    his glossary to *Studien zum S?yaga?a*, vol. 1, p. 197). Compare the
    Sanskrit word *s?c?*.
-
 Andrew
-
 On Tue, May 11, 2021 at 1:45 PM Andrew Ollett <andrew.ollett at gmail.com>
 wrote:
-
-> Since Rupert asked about the "wider Prakrit evidence," I can just cite the
-> following verse that is included in the "late canonical" Anuy?gadv?ra of
-> the ?v?t?mbara Jains (p. 91 of vol. 1 of Jamb?vijayaj?'s edition):
->
-> S?tram (giving a list of synonyms for suya, i.e., ?ruta, learning):
->     suya-sutta-gantha-siddhanta-s?sa?? ??a-vaya?a-uvad?s?
->     pa??ava?a-?gam? y? ?ga??h? pajjav?-sutt?
->
-> C?r?i? of Jinad?sa: gur?hi? a?akkh?ta? jamh? ?? bujjhati tamh?
-> p?suttasama? sutta? (i.e. deriving *sutta*- from *supta-*)
-> Vivr?ti? of Haribhadra: s?can?t s?tram.
-> Vr?tti of H?macandra: arth?n?? s?can?t s?tram.
->
-> The idea of taking *suttam* from the verbal root ?*s?c *is clever (via
-> something like *s?k-tra-*), but of course ?*s?c *is secondary from ?*s?* (via
-> the noun *s?-c??-*), so maybe it doesn't work.
->
-> Sanskrit of ukt?- usually corresponds to vutta- in Middle Indic (including
-> Ardhamagadhi), and although utta- is used too under the influence of
-> Sanskrit at a later period.
->
-> Andrew
->
->
->
-> On Tue, May 11, 2021 at 1:15 PM Dan Lusthaus <lusthaus at g.harvard.edu>
-> wrote:
->
->> Dominik,
->>
->> The A?guttara passage contrasting sutta with vinaya would appear to pose
->> sutta and vinaya as referring to two of what became three pi?akas
->> (abhidhamma had yet to appear).
->>
->> Bhikkhu Bodhi translates that passage (and the following one) this way.
->>
->> ?Here, bhikkhus, a bhikkhu might say: ?In the presence of the Blessed One
->> I heard this; in his presence I learned this: ?This is the Dhamma; this is
->> the discipline; this is the Teacher?s teaching!?? That bhikkhu?s statement
->> should neither be approved nor rejected. Without approving or rejecting it,
->> you should thoroughly learn those words and phrases and then check for them
->> in the discourses and seek them in the discipline.{893} If, when you check
->> for them in the discourses and seek them in the discipline, [you find that]
->> they are not included among the discourses and are not to be seen in the
->> discipline, you should draw the conclusion: ?Surely, this is not the word
->> of the Blessed One, the Arahant, the Perfectly Enlightened One. It has been
->> badly learned by this bhikkhu.? Thus you should discard it.
->>
->> ?But a bhikkhu might say: ?In the presence of the Blessed One I heard
->> this; in his presence I learned this: ?This is the Dhamma; this is the
->> discipline; this is the Teacher?s teaching!?? That bhikkhu?s statement
->> should neither be approved nor rejected. Without approving or rejecting it,
->> you should thoroughly learn those words and phrases and then check for them
->> in the discourses and seek them in the discipline. If, when you check for
->> them in the discourses and seek them in the discipline, [you find that]
->> they are included among the discourses and are to be seen in the
->> discipline, you should draw the conclusion: ?Surely, this is the word of
->> the Blessed One, the Arahant, the Perfectly Enlightened One. It has been
->> learned well by this bhikkhu.? You should remember this first great
->> reference.
->>
->> Bhikkhu Bodhi?s note {893} is interesting:
->> T?ni padabya?jan?ni . . . sutte ot?retabb?ni vinaye sandassetabb?ni. Mp
->> gives various meanings of sutte and vinaye here, some improbable. Clearly,
->> this instruction presupposes that there already existed a body of
->> discourses and a systematic Vinaya that could be used to evaluate other
->> texts proposed for inclusion as authentic utterances of the Buddha.
->> Ot?retabb?ni is gerundive plural of ot?renti, ?make descend, put down or
->> put into,? and otaranti, just below, means ?descend, come down, go into.?
->> My renderings, respectively, as ?check for them? and ?are included among?
->> are adapted to the context. Sandassetabb?ni is gerundive plural of
->> sandassenti, ?show, make seen,? and sandissanti means ?are seen.?
->>
->> Like Woodward, Bodhi will on occasion indicate when he finds the
->> commentaries unhelpful or misleading.
->>
->> Dan
->>
->> On May 11, 2021, at 12:11 PM, Dominik Wujastyk via INDOLOGY <
->> indology at list.indology.info> wrote:
->>
->> Interesting that in some of those citations, Dan, sutta is in the
->> singular.  That suggests, to me, a genre rather than "texts".  (I'm not on
->> secure ground here;  my Pali grammar is a bit rusty.)
->>
->> On another topic, my teacher Richard Gombrich also taught me that sutta
->> could be *<s?kta .  But I'd like to note that he wasn't dogmatic about it.
->> It was represented as a possibility.
->>
->> Best,
->> Dominik
->>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> https://list.indology.info/mailman/listinfo/indology
->>
->>
->>
->> _______________________________________________
->> INDOLOGY mailing list
->> INDOLOGY at list.indology.info
->> https://list.indology.info/mailman/listinfo/indology
->>
->
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20210512/d4a9a253/attachment.htm>
-

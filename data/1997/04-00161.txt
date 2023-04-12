@@ -1,21 +1,5 @@
-From apandey at u.washington.edu  Tue Apr  8 22:58:34 1997
-From: apandey at u.washington.edu (Anshuman Pandey)
-Date: Tue, 08 Apr 97 15:58:34 -0700
-Subject: ALA-LC romanization tables
-Message-ID: <161227029496.23782.1019629452432901926.generated@prod2.harmonylists.io>
-
-
+ALA-LC romanization tables
 On Mon, 7 Apr 1997, Royce Wiles wrote:
-
-> For the webpage on various scripts, you might want to have a look at the 
-> following title which gives a considerable number of romanization tables 
-> etc.
-> 
->  TITLE        ALA-LC romanization tables : transliteration schemes for non-
->                 Roman scripts / approved by the Library of Congress and the
->                 American Library Association ; tables compiled and edited by
->                 Randall K. Barry.
-
 One would imagine that an such a publication would maintain some sort of
 constancy in the transliteration of various scripts derived from a single
 script such as Arabic. But such an assumption may largely be due to my 
@@ -23,17 +7,8 @@ ignorance on academic/scholarly standardizations. I was complexed as to
 why certain characters of the Urdu script which are found in the Arabic as
 well were transliterated differently from that of the Arabic. There were
 also some differences in the transliteration between Urdu and Persian.
-
 Could anyone clarify as to why such variations were decided upon?
-
 Regards,
 Anshuman Pandey
 University of Washington
 apandey at u.washington.edu
-
-
-
-
-
-
-

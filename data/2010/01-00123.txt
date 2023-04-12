@@ -1,21 +1,12 @@
-From vjroebuck at MACUNLIMITED.NET  Fri Jan 29 06:27:45 2010
-From: vjroebuck at MACUNLIMITED.NET (Valerie J Roebuck)
-Date: Fri, 29 Jan 10 06:27:45 +0000
-Subject: Workshops on Logic in India and the West
-Message-ID: <161227088324.23782.7131628999245866088.generated@prod2.harmonylists.io>
-
+Workshops on Logic in India and the West
 I have been asked to forward information about a 
 workshop likely to be of interest to many on the 
 List. The email contact is <mhgorisse at gmail.com>. 
 Apologies for cross-posting.
-
 Valerie J Roebuck
-
 Dialogues and Games: Historical Roots and Contemporary Models.
 Monday, the 8th and Tuesday, the 9th February
 University of Lille 3, France
-
-
 This workshop is completely organized by the ILLC 
 (University of Amsterdam) as part of the 
 activities of the prgram EUROCORES 
@@ -23,7 +14,6 @@ activities of the prgram EUROCORES
 of the informal working group 
 <http://www.illc.uva.nl/medlogic/DDAHL/index.html>DDAHL. 
 They are hosted in Lille by STL.
-
 Studies in the history of logic have shown that 
 the medieval traditions, both in western Europe 
 and in India, have many distinctive dialogical 
@@ -34,7 +24,6 @@ Recently, it has become apparent that these
 shared characteristics can be fruitfully modeled 
 in the context of modern developments in logic, 
 which are dynamic and dialogical in flavor.
-
 We believe that investigating the common 
 properties of these two historical approaches can 
 advance our understanding of these philosophical 
@@ -50,26 +39,18 @@ Western and the Indian, to gain knowledge of
 current modeling techniques and those on the 
 technical side access to new problems and 
 theories to model.
-
 The four fields that we intend to represent are:
-
 - the dialogical tradition in logic in India 
 (Claus Oetke and Marie-H?l?ne Gorisse)
 - obligationes in medieval Western logic ( Aude Popek and Sara Uckelman)
 - dialogical semantics and dialogue models (Luca 
 Tranchini, Nicolas Maudet and Tero Tulenheimo)
 - and games for dialogues and semantics (Daniele Porello and Pietro Galliani).
-
 For further informations: 
 <http://www.illc.uva.nl/medlogic/DDAHL/DiG.html>http://www.illc.uva.nl/medlogic/DDAHL/DiG.html
 Wishing to meet you in Lille,
 With best regards,
-
 Marie-H?l?ne Gorisse
 PhD-student in Jain Philosophy
 Hosting this event
 <http://stl.recherche.univ-lille3.fr/sitespersonnels/rahman/rahmanequipegorissefrancais.html>http://stl.recherche.univ-lille3.fr/sitespersonnels/rahman/rahmanequipegorissefrancais.html
-
-
-
-

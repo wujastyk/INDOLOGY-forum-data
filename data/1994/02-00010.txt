@@ -1,26 +1,4 @@
-From dholmes at garnet.acns.fsu.edu  Sat Feb  5 14:51:39 1994
-From: dholmes at garnet.acns.fsu.edu (Dwight Holmes)
-Date: Sat, 05 Feb 94 09:51:39 -0500
-Subject: UniVerse
-Message-ID: <161227016533.23782.790203165557754359.generated@prod2.harmonylists.io>
-
-> 
->  Question: experience and impressions of users of UniVerse Software
->  --------- for Oriental languages
->  
->  
->  May we ask experienced users of UniVerse /Gamma Productions/ working
->  with its Hindi/Sanskrit modules for a short review of this programme
->  or just a recommendation/warning to its potential buyers?
->  
->  						Thanks.
->  --
->       Lubomir Ondracka
->       Institute of Indology
->       Charles University
->       Prague, Czech Republic
->       e-mail:ondracka at tiger.vscht.cz
-
+UniVerse
 In brief, I think it's fundamentally a sound program--and looks/prints
 beautifully.  The character set is not yet complete/perfected.  I have
 sent a list of 10-12 redundancies & omissions to them and have been told
@@ -29,20 +7,10 @@ letters--also the o-like/degree-symbol-like 'o' which is used for
 abbreviations and the normal English period/full stop (which is
 needed, after all, as a decimal point).  Oh yes, and the keyboard stickers
 include some of the omitted letters which aren't yet in the character set!
-
 I'm confident it's going to be a fine program once it's polished up.  
- 
-
 ============================================================================
 Dwight R. Holmes                                       
 LSI/Center for International Studies   INTERNET: dholmes at garnet.acns.fsu.edu
 Florida State University                                 VOICE: 904-644-5442
 Tallahassee, FL 32306                                      FAX: 904-644-3783
 ============================================================================
-
- 
-
-
-
-
-

@@ -1,21 +1,10 @@
-From GANESANS at CL.UH.EDU  Fri Jun 19 22:11:27 1998
-From: GANESANS at CL.UH.EDU (N. Ganesan)
-Date: Fri, 19 Jun 98 16:11:27 -0600
-Subject: Draft transliteration scheme on the Web
-Message-ID: <161227040058.23782.15321184409674583668.generated@prod2.harmonylists.io>
-
+Draft transliteration scheme on the Web
 Thanks for choosing l_macron-b for
 the special "l" found only in Tamil and Malayalam.
-
 As for Tamil literature, in all the US university press
 publications and especially those of K. Zvelebil starting from his
 Smile of Murugan to the recent "Lexicon of Tamil
 literature" (E. J. Brill), l_mac-b is consistently
 used following Madras univ. Tamil lexicon.
-
 Regards,
 N. Ganesan
-
-
-
-

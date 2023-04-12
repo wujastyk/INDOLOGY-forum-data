@@ -1,151 +1,23 @@
-From raik.strunz at indologie.uni-halle.de  Tue Dec  4 10:55:44 2018
-From: raik.strunz at indologie.uni-halle.de (Raik Strunz)
-Date: Tue, 04 Dec 18 11:55:44 +0100
-Subject: [INDOLOGY] Correction and updates of Nirnay Sagar Fonts
-In-Reply-To: <CAB3-dzd7mWVpuA=1JcamZYZ7Q6jxZ=wjTXrSn1tngqHw2U_Yfg@mail.gmail.com>
-Message-ID: <6A1E46C6-F4D2-49BB-8939-0F45718C1030@indologie.uni-halle.de>
-
+[INDOLOGY] Correction and updates of Nirnay Sagar Fonts
 Dear Krishnaprasad,
 dear colleagues, 
-
 the Nirnaya Sagara font looks really interesting already. I just want to add some little aspects if I may. 
-
    First, regarding the i vocalization, I would like to know if you are restituting the historical glyphes, or if you are enhancing these. Because, if you are going to restitute the original glyphes there is no need in composing a dynamic i vocalization. Your vi?tu?ma?rha?nti example shows just two differing vocal bows of the i ? if at all ?, one more rounded and aimed at the vertical base (vi), and one straight and hence more open due to the conjunction (nti), or is it just me seeing it. If this is a consistent feature in the NirSag glyphes, it should be implemented into the font you are working on, I believe. If you are going to enhance the font, I would perhaps think about the suggestion made by Prof. Deshpande and add this feature, although admittingly it could be time consuming (I am trying it with another one). And, the less conjunctions you have in your font, the wider the vocalization will have to span its bow.
    To get an idea of the complexity regarding the font tables necessary ? once one?s adding more conjunctions and dynamic vocalizations ?, I have to recommend to take a look at the font tables of the Uttara & Chandas <http://www.sanskritweb.net/cakram/> fonts developed by Mihail Bayaryn, they?re really really impressive!
-
-
-
    The gaps between the aks?aras are useful for Sanskrit readers at the very start, Alessandro Graheli?s font shows that really well; would there be any chance having this ?variation? implemented into the font like upright & italic for the Latin script, but changing between gaps on and off? With a historically adequate NirSag font in mind, one would have to stick to the original typeset.
-
    The e & ai vocalization seems to be inaccurate though, since the glyphes in the prints are not connected to the horizontal baseline whilst o & au indeed are connected to the vertical a? base, compare s?lo?ka with ma?he?s?va?re or s?ce?ti.
-
    Finally, may I ask on how many printed works the font is based? For example, working with Schlegel?s typeset, there are slight differences between works using his glyphes, e.g. if you compare Speijer?s Sanskrit Syntax with B?htlingk & Roth?s Sanskrit-W?rterbuch, there are conjunctions missing (dhva, ntva, etc.) or partly missing (stra, nta, etc.) in Speijer?s. It will be useful to have a look at and compare early printings as well as later ones.
-
 I am interested in the final font, keep up the good work!
-
 All the best,
-
-
 Raik Strunz
-
-
 ???????????
-
-
 Raik Strunz, M.A.
-
 Wissenschaftlicher Mitarbeiter
 Email: raik.strunz at indologie.uni-halle.de <mailto:raik.strunz at indologie.uni-halle.de>
 Tel.: +49 345 / 55 23656
-
 Martin-Luther-Universit?t Halle-Wittenberg
 Institut f?r Altertumswissenschaften
 Seminar f?r Indologie
 Emil-Abderhalden-Stra?e 9
 D-06108 Halle (Saale)
-
 www.indologie.uni-halle.de <https://mail.uni-halle.de/gw/www.indologie.uni-halle.de>
-> Am 04.12.2018 um 05:34 schrieb Madhav Deshpande via INDOLOGY <indology at list.indology.info>:
-> 
-> Dear Krishnaprasad,
-> 
->      One more thing I want to mention is that ideally the curve of short "i" over a consonant (?) should touch the vertical center line of a character like ??.  With the increasing length of consonant clusters, ideally one needs a variable length for the curve of ?.  Some computer fonts are able to do this, and others are not.  The end of the curve of ? not touching the vertical line of the final consonant of a cluster does not look that great, though even many printed editions fall short in this respect.  
-> 
-> Madhav M. Deshpande
-> Professor Emeritus
-> Sanskrit and Linguistics
-> University of Michigan
-> [Residence: Campbell, California]
-> 
-> 
-> On Mon, Dec 3, 2018 at 5:59 PM Krishnaprasad G via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> <IMG-20181201-WA0013.jpg>
-> Dear Dominik Wujastyk
-> 
-> Initially, the design had gaps between the letters, check here attachment, but I am getting suggestions to retain it now. So I will work on it. 
-> The comment about verticle stroke is very helpful thanks.
-> 
-> 
-> On Mon, Dec 3, 2018 at 11:41 PM Dominik Wujastyk <wujastyk at gmail.com <mailto:wujastyk at gmail.com>> wrote:
-> Dear Krishnaprasad,
-> 
-> I am really interested in your font work.  I have two main comments, that I hope will be welcome.
-> 
-> First, one of the major features of the NS font is the small space in the m?tr? line between ak?aras.  In your font, you have made a continuous head-line.  I think the small spaces, which emulate the usage of many manuscript scribes, is a major aid to legibility.  I also consider it aesthetically pleasing. 
-> 
-> My friend Alessandro Graheli has also made a Devanagari font recently.  He used it in his 2015 book on Jayanta, but he does not yet consider it ready for public release.  I attach a sample from the book.   Alessandro thought a lot about design, and with sophistication.  He decided that a main feature of his font would be the small m?tr?-spaces between ak?aras, and you will see the result in the attached page.  I think it works really well.  If one isn't alerted to the fact, one hardly notices it; yet it aids smooth reading.
-> 
-> The second comment I wish to make concerns the shaping of vertical strokes in your font.  In the original NS font samples, the vertical strokes do not have parallel sides.  They swell slightly from top to bottom.  This is like an extended serif.  Again, I think it adds a unique flavour of the NS fonts, and again aids legibility, visually balancing the complexity of the upper parts of the Devanagari letters with a little weight at the bottom parts.   See the attached scans of your samples, with my comments.
-> 
-> Thank you again for your work!  This is going to be great, when you are finished.
-> 
-> Best,
-> Dominik
-> 
-> --
-> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>,
-> Singhmar Chair in Classical Indian Society and Polity,
-> Department of History and Classics <http://historyandclassics.ualberta.ca/>,
-> University of Alberta, Canada.
-> South Asia at the U of A: sas.ualberta.ca <http://sas.ualberta.ca/>
-> 
-> 
-> 
-> On Mon, 3 Dec 2018 at 10:07, Krishnaprasad G via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
-> <IMG-20181203-WA0021.jpg>
-> OLD
-> <IMG-20181203-WA0027.jpg>
-> 
-> On Mon, Dec 3, 2018 at 10:32 PM Krishnaprasad G <krishnaprasadah.g at gmail.com <mailto:krishnaprasadah.g at gmail.com>> wrote:
-> First 3 images are wrong. Please ignore
-> 
-> On Mon, Dec 3, 2018 at 10:31 PM Krishnaprasad G <krishnaprasadah.g at gmail.com <mailto:krishnaprasadah.g at gmail.com>> wrote:
-> <IMG-20181203-WA0030.jpg>
-> 
-> <IMG-20181203-WA0029.jpg>
-> 
-> <IMG-20181203-WA0022.jpg>
-> 
-> <IMG-20181203-WA0020.jpg>
-> <IMG-20181201-WA0015.jpg>
-> 
-> <IMG-20181201-WA0012.jpg>
-> 
-> <IMG-20181203-WA0024.jpg>
-> 
-> <IMG-20181203-WA0023.jpg>
-> 
-> <IMG-20181203-WA0028.jpg>
-> 
-> <IMG-20181202-WA0000.jpg>
-> 
-> <IMG-20181201-WA0015.jpg>
-> 
-> Dear all 
-> difficulty is selecting ? cause the book has more than 5 designs
-> 
-> Nirnaya Sagara fonts 
-> 
->  
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
-> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
-> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
-> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing committee)
-> http://listinfo.indology.info (where you can change your list options or unsubscribe)
-
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20181204/ae6ea26d/attachment.htm>
-

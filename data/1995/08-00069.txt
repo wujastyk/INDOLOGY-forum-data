@@ -1,32 +1,8 @@
-From mhcrxlc at dir.manchester-computing-centre.ac.uk  Mon Aug 14 12:39:29 1995
-From: mhcrxlc at dir.manchester-computing-centre.ac.uk (mhcrxlc at dir.manchester-computing-centre.ac.uk)
-Date: Mon, 14 Aug 95 13:39:29 +0100
-Subject: Norman diacritic fonts for Macintosh
-Message-ID: <161227020310.23782.14464568488340506177.generated@prod2.harmonylists.io>
-
+Norman diacritic fonts for Macintosh
 Birgit Kellner asks:
-
->>Professor K.R. Norman's diacritic fonts for Macintosh have now been added
->>to John Smith's ftp server. They can be obtained by anonymous ftp from:
->>bombay.oriental.cam.ac.uk. They are currently to be found at:
->>/pub/john/software/fonts/norman/NORM.SEA.HQX.
->
->Er, I only get error-messages telling me that this server does not
->have an IP-address. What's wrong?
-
 Nothing, as far as I know. I just tried connecting to:
 bombay.oriental.cam.ac.uk with Fetch and had no problems in  making an
 immediate connection.
-
 Lance Cousins
-
 MANCHESTER, UK
 Email: mhcrxlc at dir.mcc.ac.uk
-
-
- 
-
-
-
-
-

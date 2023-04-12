@@ -1,9 +1,4 @@
-From harryspier at HOTMAIL.COM  Tue Feb  9 19:06:20 1999
-From: harryspier at HOTMAIL.COM (harry spier)
-Date: Tue, 09 Feb 99 11:06:20 -0800
-Subject: More on word splitting and hyphenation in transliteration
-Message-ID: <161227046093.23782.1515047944984767088.generated@prod2.harmonylists.io>
-
+More on word splitting and hyphenation in transliteration
 Thank you for the replies to my question about guidelines or accepted
 standards for word splitting and hyphenation in  roman transliteration.
 I was surprised by the answer for the reason stated by Dr. Smith in his
@@ -11,7 +6,6 @@ letter. (see letters from Dr. Smith and Dr. Killingley dated Feb. 8)  As
 he indicates putting spaces between words wherever possible results in
 some unpronounceable words being written separately in roman.  i.e. "tv
 asti" for "tvasti" etc.
-
 This is the very problem that I am trying to avoid.  I am preparing a
 new edition of the Bhagavad Geeta for publication which will contain
 both the devanagari and the roman transliteration. One of the uses of
@@ -19,45 +13,28 @@ the edition will be to chant the Geeta.  Some of those who use the text
 will have Hindi as a first language and use the devanagari,  and some of
 those who use it will have English as a first language.  In general the
 majority will not know Sanskrit.
-
 1) Isn't this one of the main uses of written Sanskrit (both now and
 historically)? i.e. as an aid to proper recitation for those who do not
 know the text by memory.  And shouldn't any standard address this need.
 The pronounciation of the written phrase "tvidam" is much more obvious
 than the phrase written as "tv idam" etc..  A space intuitively
 indicates hiatus.
-
 2) Also this standard seems to fall somewhere in the middle.  Of course
 not producing a pada text, but making a samhita text "look" outwardly a
 little like a pada text.  i.e. looking like individual words.  Thus
 making some difficulties for recitation but not really making it much
 easier for analysis.
-
 3) My idea was to either:
-
 a) Have the roman transliteration mirror the devanagari.  (To my western
 trained eye this made long undivided sentences seem complicated.)  I
 think Dr. Killingley indicates in his letter that this is an alternative
 practice.
-
 b) Put spaces between words except where there were any changes due to
 sandhi.  Thus avoiding the problem of unpronouncable words and making
 the text easier to chant by avoiding both unpronouncable words being
 written separately and extremely long unbroken syllable strings.  Is
 this an acceptable practice?
-
 Comments or Suggestions Please.
-
-
 Thank you
-
-
 Harry Spier
-
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

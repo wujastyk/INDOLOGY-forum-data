@@ -1,18 +1,9 @@
-From jgardner at BLUE.WEEG.UIOWA.EDU  Tue Oct 21 18:29:08 1997
-From: jgardner at BLUE.WEEG.UIOWA.EDU (JR Gardner)
-Date: Tue, 21 Oct 97 13:29:08 -0500
-Subject: Indian computing?
-In-Reply-To: <v01530509b07294136d88@[195.74.194.46]>
-Message-ID: <161227033216.23782.16938051820019386936.generated@prod2.harmonylists.io>
-
+Indian computing?
 There are a great deal of such places.  Some time ago I gathered what
 seemed the best collection of links-- and links-to-links --Dominik's
 INdology Page is an ideal start and is included at:
-
 http://vedavid.org/methtech.html
-
 Happy hunting.
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 John Robert Gardner      Obermann Center
 School of Religion         for Advanced Studies
@@ -22,25 +13,4 @@ http://vedavid.org       http://www.uiowa.edu/~obermann/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is ludicrous to consider language as anything other
 than that of which it is the transformation.
-
 On Tue, 21 Oct 1997, Jacob Baltuch wrote:
-
-> 1. Does anyone know of places on the net where I can find the various
->    official specs relevant to computing & Indian languages (ISCII, etc.)
->
-> 3. What's the 8-bit standard that has the characters needed for translit-
->    teration (letters with macrons, underdots, overdots, etc.)? (Incidentally
->    does Unicode make room for such characters? where do I find the Unicode
->    spec?)
->
-> 2. Is there a reference book for computing & Indian languages (I'm thinking
->    of something along to lines of what Ken Lunde's "Understanding Japanese
->    Information Processing" is for Japanese)
->
-> Thanks
-> Jacob
->
-
-
-
-

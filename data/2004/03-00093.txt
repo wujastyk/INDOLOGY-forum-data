@@ -1,17 +1,5 @@
-From Somadevah at AOL.COM  Sat Mar 20 19:16:16 2004
-From: Somadevah at AOL.COM (Somadeva Vasudeva)
-Date: Sat, 20 Mar 04 14:16:16 -0500
-Subject: =?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Convert_Devanagari_into_romanized_text:_any_automatic_tools=3F?=
-Message-ID: <161227074229.23782.12347502334539595066.generated@prod2.harmonylists.io>
-
+=?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Convert_Devanagari_into_romanized_text:_any_automatic_tools=3F?=
 In a message dated 20/3/04 5:30:43 pm, birgit.kellner at UNIVIE.AC.AT writes:
-
-
-> I was wondering whether there are any utilities which can convert
-> Devanagari writing into romanized text and also implement proper
-> word-separation. I doubt that something like this would be possible, but
-> maybe I'm thinking along the wrong lines.
->
 Going from Roman to Devanaagarii is comparatively easy. Probably the best way
 is to write a PERL text filter. For instance, if you take the huge and
 fabulous (despite many typos) collection of "saastric etexts available from the
@@ -22,16 +10,9 @@ unexpected errors (tp for pt etc.) because there are often several ways to input
 conjunct characters, so I ended up spending an afternoon writing a PERL
 filter. Still not perfect but the remaining errors can be removed by hand when
 reading through the texts.
-
 I have never tried word-separation but it is not impossible. There are
 electronic Sanskrit parsers available, see for instance "Desika" at
 http://tdil.mit.gov.in/nlptools/ach-nlptools.htm.
-
 best wishes,
-
 Somdev Vasudeva
 (happy to send the PERL filter for Sansknet to anyone who needs it)
-
-
-
-

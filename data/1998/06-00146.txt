@@ -1,9 +1,4 @@
-From jds10 at CUS.CAM.AC.UK  Thu Jun 11 11:26:01 1998
-From: jds10 at CUS.CAM.AC.UK (John Smith)
-Date: Thu, 11 Jun 98 12:26:01 +0100
-Subject: Announcing CSX+
-Message-ID: <161227039750.23782.12393126499203853415.generated@prod2.harmonylists.io>
-
+Announcing CSX+
 Subscribers to the Conv-dev mailing list on transliteration of
 Indian languages <conv-dev at elot.gr> may already be aware that there
 is a proposal to implement a new computer encoding (character set)
@@ -18,20 +13,13 @@ which the Conv-dev discussion has produced. This amounts to an
 attempt to provide the most useful possible set of "Indian" accented
 characters, and I should welcome input from others to ensure that
 the best choice is made.
-
 Documents presenting the draft standard for transliteration can be
 seen at:
-
   http://ourworld.compuserve.com/homepages/stone_catend/trdcd1a.htm
-
 Those interested in contributing to a debate on what CSX+ ought to
 be like should read on; others can simply await future announcements
 with interest or apathy, as appropriate.
-
---------------------------------------------------------------------
-
                                CSX+
-
 1.  The two attachments to this email message present two different
 "views" of a proposed CSX+ standard, one ordered by character
 sequence, the other alphabetically by character name. The remainder
@@ -39,7 +27,6 @@ of this document consists of an explanation of how the proposal has
 been arrived at. Earlier drafts were seen by and discussed with
 Dominik Wujastyk, Anshuman Pandey, Anthony Stone and John Clews; I
 am grateful to them for their comments.
-
 2.  The underlying philosophy is that CSX+ ought to be a strict
 superset of CSX, so that "upgrading" is painless; CSX text should
 appear unchanged in CSX+ fonts. Specifically, (A) there should be no
@@ -50,7 +37,6 @@ will appear in the same place in CSX+ as it does in CSX, even though
 the draft standard states that the preferred usage for Sanskrit long
 vocalic "r" is "r-underring-macron". (The form with underring will
 also be made available, of course.)
-
 3.  A single compromise has proved to be necessary, in the area of
 aim (A) above. CSX, which came into being in the MS-DOS era, uses
 position 160 (decimal) for a-acute. That slot on modern PCs is
@@ -60,7 +46,6 @@ position. Fortunately, this one incompatible change will not
 inconvenience the majority of users: documents containing Vedic are
 likely to be the biggest problem. (The Macintosh uses slot 202 for
 its non-breaking space, and this too will be held vacant.)
-
 4.  Strictly speaking, a-acute is not part of the CSX character set,
 but belongs to the PC's code page 437, along with other "European"
 accented characters that CSX borrows. If we add all these characters
@@ -71,13 +56,11 @@ u-macron-tilde), we find that 91 positions in the upper half of the
 encoding are already occupied, leaving 37 vacant for new characters.
 However, to keep both Mac and PC non-breaking space free, this has
 to be reduced to 35.
-
 5.  The draft ISO standard requires the following 24 characters that
 do not form part of CSX. Only lower-case versions are shown, and
 where the standard proposes a "productive" usage (e.g. "tilde over a
 vowel means nasalised vowel"), only forms known to occur are
 included (so no "e-macron-tilde"):
-
    ae-macron
    u-breve
    r-underring
@@ -102,13 +85,11 @@ included (so no "e-macron-tilde"):
    c-circumflex
    h-underbar
    h-underbreve
-
 Note that the precise *form* of some of these may still change; for
 example, there has been a recent proposal to replace r-underdieresis
 by z-underdot. But such changes will not affect the number of
 necessary new characters, and the final form of the draft submission
 to ISO should be available very soon.
-
 6.  I would wish to add M-overdot, since the draft standard now
 recommends m-overdot for anusvara, and it would otherwise become the
 only "core" character without a capital equivalent. I would also
@@ -119,24 +100,20 @@ all but five of the "spare" character positions. ("Smart quotes"
 cannot, alas, be made to work in Word, since the program assumes
 that the characters in question are located at specific positions,
 and none of the positions in question is free for this use.)
-
 7.  There is a single "European" accented character, y-dieresis,
 that CSX borrows from code page 437 but that is not used in any
 Indian or European language. (It was probably a mistaken version of
 "Dutch y", written "ij".) I have eliminated it to save one more
 slot: thus six slots are available for further new characters.
-
 8.  It seems to me that the best use for these and any other spare
 slots that we can manufacture is to assign them to capitalised
 versions of those new characters with the most need for capital
 forms. I have tentatively given these first six to AE-macron,
 E-macron, O-macron, Kh-underbar, G-overdot and C-circumflex.
-
 9.  A case could perhaps be made to eliminate some of the more
 outr'e Sanskrit characters, if there are other genuinely worthy
 claims to their slots. But it is clear that the room for manoeuvre
 is very slight, so good cases would have to be made.
-
 10. I am aware of one further problem, which affects character 183
 in some of Gates's operating systems. There appears to be no
 documentation of this feature, so I describe it as well as I can: in
@@ -154,7 +131,6 @@ behave. I do not favour a change to the CSX(+) character set to get
 round the problem, but it might be necessary to think up some way of
 making i-macron-acute available to those who need it and cannot
 currently use it.
-
 10. I would welcome comments on these proposals. However, there are
 real constraints on the time that can be spent on a discussion, so I
 hope it can be brisk and focused. I should say that it would be very
@@ -165,7 +141,6 @@ shall place a copy of this message on Conv-dev also, but I suggest
 that discussion takes place on Indology <indology at liverpool.ac.uk>.
 I shall be happy to do a reasonable amount of message-forwarding for
 Conv-dev members who do not subscribe to Indology.
-
 11. After, say, two weeks of discussion, I shall finalise the CSX+
 standard and build a set of fonts to implement it: virtual fonts for
 TeX, and Type 1 PostScript and TrueType fonts for PCs and
@@ -176,16 +151,11 @@ volunteer to do the job?) The fonts should be available within a
 matter of a few days once the standard is agreed. As time permits I
 shall also try to produce programs to handle conversion of text in
 other encodings to CSX+.
-
 John Smith
-
---
 Dr J. D. Smith                *  jds10 at cam.ac.uk
 Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
 Sidgwick Avenue               *  Fax  01223 335110
 Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
-
-
 # CSX+ encoding for mkt1font and vpl2vpl
 #
 # Extended version of CSX (Classical Sanskrit eXtended encoding)
@@ -196,8 +166,6 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 # It also seeks to implement the (draft) ISO/TC46/SC2 standard, while
 # retaining a useful set of European accented characters and adding
 # dashes and directional double quotes.
-
-
 128	C cedilla
 129	u dieresis
 130	e acute
@@ -328,10 +296,8 @@ Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
 253	M underdot
 254	h underdot
 255	H underdot
-
 # Alphabetical index of characters contained in proposed CSX+
 # character set
-
 A dieresis		142
 A macron		226
 A ring			143
@@ -460,7 +426,3 @@ umacron breve		170
 umacron grave		190
 umacron tilde		216
 y overdot		188
-
-
-
-

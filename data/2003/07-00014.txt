@@ -1,39 +1,14 @@
-From rbm49 at EXT.CANTERBURY.AC.NZ  Tue Jul 22 09:27:44 2003
-From: rbm49 at EXT.CANTERBURY.AC.NZ (Richard Mahoney)
-Date: Tue, 22 Jul 03 21:27:44 +1200
-Subject: Sanskrit word order sort program ?
-In-Reply-To: <000701c34ff0$2262c6f0$7616893e@zen>
-Message-ID: <161227072983.23782.4008915308149885837.generated@prod2.harmonylists.io>
-
+Sanskrit word order sort program ?
 On Tue, Jul 22, 2003 at 02:24:55AM +0100, Stephen Hodge wrote:
-
-> Does anybody know if there is a program around for sorting romanized
-> Sanskrit into correct dictionary order.  I have a tri-lingual
-> (Skt/Ch/Tib) index containing 30,000+ entries that I need to sort
-> for sanskrit.  I'd be grateful for any pointers
-
 for CSX text John Smith has written a couple of perl scripts, `ssort'
 & `ssort.unix'. See:
-
  ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/README
-
  ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/ssort
-
  ftp://bombay.oriental.cam.ac.uk/pub/john/software/programs/ssort.unix
-
-
 Best regards,
-
  Richard Mahoney
-
-
---
 Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
 Woodfield Estate |         r.mahoney at comnet.net.nz
 Duncan Road, RD3 | cellular: 0064-25-829-986
 HAMILTON, NZ     | http://homepages.comnet.net.nz/~r-mahoney
 http://homepages.comnet.net.nz/~r-mahoney/pgp_public_key.txt
-
-
-
-

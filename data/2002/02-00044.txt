@@ -1,25 +1,13 @@
-From ucgadkw at UCL.AC.UK  Sun Feb 10 22:00:16 2002
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Sun, 10 Feb 02 14:00:16 -0800
-Subject: Indological bookshop virus
-Message-ID: <161227070470.23782.9392465971624509875.generated@prod2.harmonylists.io>
-
+Indological bookshop virus
 I've had an email from a company purporting to be an Indological
 publisher, something like "Indological Books and CDs", associated with a
 person with the surname Jain.  Very plausible.  There's a website and an
 email address ending in the domain ".cc".  I haven't got the details to
 hand because I've deleted it all.
-
 But I'm pretty sure this is nothing more than a new way of distributing a
 virus.  If you try to view the company's website, at
 something.something.cc, you get asked to install a program, and offered a
 file "readme.exe".  It's all viral stuff.
-
 Stay clear of it.
-
 Best,
 Dominik
-
-
-
-

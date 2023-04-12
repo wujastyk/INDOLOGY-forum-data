@@ -1,9 +1,4 @@
-From falk at ZEDAT.FU-BERLIN.DE  Wed May 17 13:37:38 2006
-From: falk at ZEDAT.FU-BERLIN.DE (falk)
-Date: Wed, 17 May 06 15:37:38 +0200
-Subject: StII relaunch
-Message-ID: <161227077895.23782.10643706163854472566.generated@prod2.harmonylists.io>
-
+StII relaunch
 "Studien zur Indologie und Iranistik" (1975-1999) was one of those rare 
 journals in German speaking countries focusing on the languages and 
 culture of South Asia and Western Iran. It was founded by Albrecht 
@@ -26,7 +21,3 @@ the homepages of our institutes at Berlin and G?ttingen. Presently, the
 addresses are:
 - http://web.fu-berlin.de/indologie/
 - http://www.indologie.uni-goettingen.de/seminarreihe.htm
-
-
-
-

@@ -1,29 +1,9 @@
-From zydenbos at uni-muenchen.de  Tue Sep 22 14:13:09 2020
-From: zydenbos at uni-muenchen.de (Robert Zydenbos)
-Date: Tue, 22 Sep 20 16:13:09 +0200
-Subject: [INDOLOGY] Kannada font
-In-Reply-To: <CAJ3b0o_hSZVJJ0URSF=i+d8sDt-m5kEPMj1onF9e1H6Kyf_EwQ@mail.gmail.com>
-Message-ID: <db9f564a-5e6b-e40d-08f2-a24eff457e07@uni-muenchen.de>
-
+[INDOLOGY] Kannada font
 For my students I made a few help pages on how to type Kannada on Linux, Mac and and Windows machines:
-
 http://lmu.zydenbos.net/kannada/kannada-osx.html
 http://lmu.zydenbos.net/kannada/kannada-windows.html
 http://lmu.zydenbos.net/kannada/linux/kannada-linux.html
-
 I use the font Kedage for my Kannada work. A number of fonts can be found here: http://kannada.nd4.org/kannada-fonts
-
 (Sorry for this very late response. I was out of station for a few weeks when the original query was sent to the list, and I saw it just now, while cleaning up my computer.)
-
 Robert Zydenbos
-
 On 14.03.20 13:40, Harry Spier via INDOLOGY wrote:
-> Thank you to everyone who replied on and off line.? The font is for a colleague who will be entering small amounts of text (bhajans) and will be having some helpers typing in from home.? So are there on-line or dpwnloadable tools for typing in Kannada text? (keyboards or online sites for text conversion etc.)?
-> Thanks,
-> Harry Spier
-
-
-
-
-
-

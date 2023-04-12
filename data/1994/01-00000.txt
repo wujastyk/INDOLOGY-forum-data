@@ -1,20 +1,8 @@
-From rozehnal at praha1.ff.cuni.cz  Fri Jan  7 12:18:15 1994
-From: rozehnal at praha1.ff.cuni.cz (rozehnal at praha1.ff.cuni.cz)
-Date: Fri, 07 Jan 94 13:18:15 +0100
-Subject: ttf devanagari fonts
-Message-ID: <161227016462.23782.4759230440062812119.generated@prod2.harmonylists.io>
-
+ttf devanagari fonts
 Dear Indologists!
 I suppose this is very frequently asked question, but for me it is relevant 
 only now.
 Does enybody know about devanagari truetype fonts for Windows?
 Thank you very much.
---------------------
 Miroslav Rozehnal, Institut of Indology, Charles University Prague, Czech 
 Republic, e-mail: rozehnal at praha1.ff.cuni.cz
- 
-
-
-
-
-

@@ -1,10 +1,4 @@
-From kauzeya at gmail.com  Mon Mar 30 17:59:05 2020
-From: kauzeya at gmail.com (Jonathan Silk)
-Date: Mon, 30 Mar 20 19:59:05 +0200
-Subject: [INDOLOGY] Metrical inconsistencies and tradition
-In-Reply-To: <20200330185112.Horde.NQKbFQLWp6bC8zbq010lIcG@home.staff.uni-marburg.de>
-Message-ID: <CAMGmO4+QPZ4=bxDGAzbCnsooOSVzUH6rMjVHN6zAq4+rkEWxqA@mail.gmail.com>
-
+[INDOLOGY] Metrical inconsistencies and tradition
 I am extremely reticent to join a discussion of metrics with specialists,
 but I might just dare to mention that in Buddhist texts the matter has been
 much discussed, especially in light of the clear tendency to transfer
@@ -18,60 +12,14 @@ cluster pr must be read as metrically short..." I also tabulated the cases
 with other clusters.
 The whole paper is available here:
 https://www.academia.edu/9535404/The_Nature_of_the_Verses_of_the_K%C4%81%C5%9Byapaparivarta
-
 Very best, Jonathan
-
 On Mon, Mar 30, 2020 at 6:51 PM Roland Steiner via INDOLOGY <
 indology at list.indology.info> wrote:
-
-> Please excuse the silly typo (now corrected).
->
->
-> > there are a few rare occurrences where we can apply the so-called *muta
-> cum liquida* rule
-> > In Sanskrit such an indulgence is rather rare and appears to be more
-> > frequently applied in Prakrit poetry and "Epic" Sanskrit. In the latter
-> > case several types of consonant clusters do not cause the preceding
-> > syllable to be guru.
->
-> By the way, Colebrooke already described the phenomenon in 1808:
->
-> "By poetical license, a vowel may be short before certain conjuncts (viz.,
-> *pra* and *hra*; as also *bra* and *kra*. [*...*]."
-> (H. T. Colebrooke, "On Sanskrit and Pr?krit Poetry", in: *Miscellaneous
-> Essays*, Vol. 3, London 1873, p. 65)
->
-> In his PhD thesis of 1988 Michael Balk noted the same metrical license for
-> the *Ud?navarga* (especially for the case of *pr*- and *br*-). See M.
-> Balk: *Untersuchungen zum Ud?navarga. Unter Ber?cksichtigung
-> mittelindischer Parallelen und eines tibetischen Kommentars*. Marburg
-> 2011 (Indica et Tibetica. 53), pp. 39-42.
->
-> With best regards,
-> Roland Steiner
-> _______________________________________________
-> INDOLOGY mailing list
-> INDOLOGY at list.indology.info
-> indology-owner at list.indology.info (messages to the list's managing
-> committee)
-> http://listinfo.indology.info (where you can change your list options or
-> unsubscribe)
->
-
-
--- 
 J. Silk
 Leiden University
 Leiden University Institute for Area Studies, LIAS
 Matthias de Vrieshof 3, Room 0.05b
 2311 BZ Leiden
 The Netherlands
-
 copies of my publications may be found at
 https://leidenuniv.academia.edu/JASilk
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200330/610abf72/attachment.htm>
-

@@ -1,9 +1,4 @@
-From K493750 at CZHRZU1A.EARN  Mon Jun  7 17:20:25 1993
-From: K493750 at CZHRZU1A.EARN (peter schreiner)
-Date: Mon, 07 Jun 93 17:20:25 +0000
-Subject: Sanskrit e-texts
-Message-ID: <161227015870.23782.9828857207043112562.generated@prod2.harmonylists.io>
-
+Sanskrit e-texts
 My name has been mentioned repeatedly in the recent discussion on the
 dissemination of Sanskrit e-texts so that I feel called upon to make some
 comments. I support Dominik's initiative whole-heartedly; perhaps an
@@ -11,7 +6,6 @@ initiative with personal commitment is going to be more successful than the
 institutionalized attempts to centralize and pool Sanskrit texts; at least
 I have never received any feedback to the several questionaires which I
 filled in and sent back.
- 
 To the problem of the level of perfection which provides Dominik's starting
 point I would like to add the problem of the competitiveness of academic life;
 after all one would like to get some kind of acknowledgement for the effort.
@@ -19,14 +13,12 @@ This is not my personal problem, but it may be among the causes which hinder
 the free sharing of resources. Another problem area may be the copyright about
 which I need not bother as long as I am using the electronic copy of a printed
 book only privately.
- 
 Concerning the level of perfection, I have no qualms about typing errors
 (there may be plenty in this letter), but I tend to be embarrassed when it
 comes to inaccuracies of tagging or mistakes in the analysis (e.g. of
 compounds). Another aspect of the competitiveness? I am not pleading for
 lowering the standards but for allowing for more teamwork in getting closer
 to the ideal.
- 
 When planning the Tuebingen Puraa.na Project we were advised to follow the
 strategy assumed also by the TLG. The Brahmapuraa.na was typed twice by
 two Sanskritists; however, we "cheated" in typing two different printed
@@ -40,7 +32,6 @@ Vi.s.nupuraa.na where the same mistake was repeated four times in the four
 versions of one chapter produced by three Sanskritists: It was not a typing
 error but a combination of words which was entered as compound where a compound
 was syntactically not possible.
- 
 "TUSTEP--format" is somewhat of a misnomer, as has been pointed out. The
 Tuebingen System of Textprocessing Programs (TUSTEP) is the tool used to
 handle the input. Dominik calls it the "Schreiner format" -- I feel honoured,
@@ -58,13 +49,5 @@ make for a "tagged" texts. I suppose tagging should be and must be problem
 oriented; there is probably no such thing as a "fully tagged" text as long
 as anyone can conceive of a new problem or a new method to be applied to a
 (to the same) text.
- 
 I hope Dominik's initiative will have tangible results.
- 
 Peter Schreiner
- 
-
-
-
-
-

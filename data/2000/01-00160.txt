@@ -1,39 +1,19 @@
-From naga_ganesan at HOTMAIL.COM  Mon Jan 10 18:28:49 2000
-From: naga_ganesan at HOTMAIL.COM (N. Ganesan)
-Date: Mon, 10 Jan 00 10:28:49 -0800
-Subject: Vital Statistics
-Message-ID: <161227055132.23782.17465324976536067098.generated@prod2.harmonylists.io>
-
+Vital Statistics
    Probably, you are confusing roman script with roman numerals.
 As recommended in the Indology homepage, a look/study into Indological
 jls. and transliterated Indic into roman script (*NOT* roman numbers)
 may help.
-
 Regards,
 N. Ganesan
-
 PS: I have abou 10 books on place-value notation.
-
-
----------------------------------
 RB>     I am confused. My impression is that the place value notation of
 today was never used by romans. Even Binary     arithmatic in microchips is
 dependant on the place value notation ( scaling up by an order magnitude
 with a bit      shift). I would like to know about other non INdian cultures
 which independantly evolved such a notation. The chinese        abacus would
 be one example but I dont know if that predates such systems in India.
-
          Even the mordern arabic numerals used through out the world
 resemble and originate from indian numerals.
-
-
 regards
-
 Rajarshi
-
-______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
-
-
-
-

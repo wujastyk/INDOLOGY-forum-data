@@ -1,9 +1,4 @@
-From vasishtha.spier at gmail.com  Sat Jul 18 23:36:37 2020
-From: vasishtha.spier at gmail.com (Harry Spier)
-Date: Sat, 18 Jul 20 19:36:37 -0400
-Subject: [INDOLOGY] Pronounciation and transliteration of Marathi
-Message-ID: <CAJ3b0o9T4htqm7oJAYUW13A3f7jQHd49UY+wzgQugBBoS5ig8Q@mail.gmail.com>
-
+[INDOLOGY] Pronounciation and transliteration of Marathi
 Dear list members,
 I need to provide a transliteration scheme to transliterate marathi hymns
 for english speakers to chant.  What I need is a list of those Marathi
@@ -11,17 +6,9 @@ devanagari letters that have two pronounciations and what those
 pronounciations are.  For example in Marathi ? is pronounced in some
 contexts as ja and in others as za . I need to know the pronounciations for
 the other Marathi letters with two pronounciations.
-
 Also I have contradictory information about which letters have two
 pronounciations.  One source says its ? ? ? ? , another source (the wiki
 page on Marathi phonology https://en.wikipedia.org/wiki/Marathi_phonology)
 says its:  ?  ? ? ?
-
 Thanks,
 Harry Spier
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20200718/c8b77d40/attachment.htm>
-

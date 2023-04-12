@@ -1,32 +1,16 @@
-From hellwig7 at GMX.DE  Tue Aug 23 18:12:18 2011
-From: hellwig7 at GMX.DE (Oliver Hellwig)
-Date: Tue, 23 Aug 11 19:12:18 +0100
-Subject: DCS update
-Message-ID: <161227093657.23782.13468300519338097870.generated@prod2.harmonylists.io>
-
+DCS update
 Dear list,
-
 the DCS now offers the possibility to search for Sanskrit words based on 
 their meanings found in the MW:
  * Activate the field "Search for meanings" on the query page (http://kjc-
 fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=abfrage).
  * Type, for instance, *tree* to find all Sanskrit lexemes that may have to 
 do something with a tree.
-
-
 Please note that the results of this function do NOT prove that any of the 
 meanings is also referenced in the DCS! 
-
 Best regards,
-
 Oliver Hellwig
-
-------
 PD Dr. Oliver Hellwig
 South-Asia Institute
 Im Neuenheimer Feld 330
 69120 Heidelberg, Germany
-
-
-
-

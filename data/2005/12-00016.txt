@@ -1,19 +1,6 @@
-From ucgadkw at UCL.AC.UK  Mon Dec  5 21:26:30 2005
-From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
-Date: Mon, 05 Dec 05 21:26:30 +0000
-Subject: http://indology.info is now live
-Message-ID: <161227077204.23782.5971624747667660668.generated@prod2.harmonylists.io>
-
+http://indology.info is now live
 You can access the new indology website as
-
   http://www.indology.info
-
 or as just
-
   http://indology.info
-
 Enjoy!
-
-
-
-

@@ -1,19 +1,7 @@
-From kharimot at SAS.UPENN.EDU  Sat Jan  6 02:17:18 2001
-From: kharimot at SAS.UPENN.EDU (Kengo Harimoto)
-Date: Sat, 06 Jan 01 03:17:18 +0100
-Subject: question on recaka-pUraka-kumbhaka
-In-Reply-To: <200101052359.f05NxTd06400@orion.sas.upenn.edu>
-Message-ID: <161227066323.23782.14816565433821449864.generated@prod2.harmonylists.io>
-
+question on recaka-pUraka-kumbhaka
 Hello Vidyasankar Sundaresan and the list members,
-
 [Since I am receiving Indology in digest, I am going to comment on
 multiple messages.]
-
-> Meanwhile, just to satisfy my curiosity quickly - is there evidence
-> to differentiate between a Brhadyogiyajnavalkyasmrti text and a
-> plain Yajnavalkyasmrti?
-
 Oh, they are totally different.  Or maybe a few shared verses?  Kane
 and other references given by Ondracka, et al, should answer the
 question regarding between the two, I think.  Or, if at all possible,
@@ -21,36 +9,13 @@ just a look at the two makes it clear that they are different :-) But
 the Trivandrum Sanskrit Series is hard to come by.  The plain
 Yaaj~navalkyasm.rti is a dharma"saastra and the
 B.rhadyogiyaaj~navalkyasm.rti is a yoga"saastra.
-
 Shingen Takagi also wrote a couple of articles on the
 B.rhadyogiyaaj~navalkyasm.rti and the Yogayaaj~navalkyasm.rti.  (Sorry
 I do not have the reference at the moment.  But they are in Japanese
 anyway.)
-
-> This was what prompted my original request for references. In a 1998
-> paper in JIP, T. S. Rukmani interprets this "anye" (others) as a
-> reference to Vaacaspati Mizra, and argues that the vivara.na is
-> therefore a later text. I doubt whether the vivara.na on the
-> Yogasuutrabhaa.sya is by the author of the Brahmasuutrabhaa.sya, but
-> I nevertheless question the assertion that the reference in the
-> vivara.na is a straightforward one to Vaacaspati Mizra.
-
 Rukmani's articles are not very much reliable (to say the least).
 Since it happens that the Vivara.na on the Yogabhaa.sya is what I
 dealt with in my dissertation, I am a bit familiar with the issue :-)
-
-> In the bhagavadgiitaabhaa.sya (4. 29), the terms puuraka, recaka and
-> kumbhaka are used as a matter of course, in order to explain the
-> sacrifice of praa.na in apaana and vice versa, controlling the
-> movement of both. There is also a full description of baahya and
-> aabhyantara v.rttis in this connection. Here, "apare" (others) comes
-> from the Giitaa verse itself, but the Bhaas.ya clearly shows that
-> Zankara himself was quite aware of all these details. Swami
-> Tyagananda pointed to the Zvetaazvatarabhaa.sya reference, but the
-> attribution of this commentary to Zankara is doubted. On the other
-> hand, after the work of Raghavan, Ingalls and Mayeda, there is now
-> no doubt whatsoever about the Giitaabaa.sya.
-
 If you read the Vivara.na on YS 2.28--55, there are rather frequent
 reference to others/aacaaryas/yoga"saastraantara.  The impression I
 got from examining them is that the author was quite familiar with a
@@ -58,52 +23,33 @@ yoga"saastra that teaches 6-a"nga yoga.  The a"ngas lack yama and
 niyama of 8-a"nga of the Paata~njalayoga"saastra, but at least aasanas
 and praa.naayaama were among them.  There are further interesting
 observations possible.
-
 I once wrote a short article in Japanese on the issue, but that was
 rather like suutras (due to space limitation) and not quite
 intelligible even from my own perspective.  (Again, since it is in
 Japanese, I do not want to ask anyone to bother.)  I have been trying
 to rewrite the whole thing in English, but haven't finished editing
 and yet to submit to any journal.
-
 Some of the highlights from my observations would be:
-
 1) that I thought the yoga"saastra could have been ascribed to
 Hira.nyagarbha (see the Vivara.na on YS 3.39), the legendary original
 teacher of yoga.
-
 2) and that the yoga"saastra appears to be quite similar (if not the
 same) yoga"saastra "Sa"nkara knew.  As you are aware, "Sa"nkara was
 familiar with more than one yoga"saastras, including the
 Paata~njalayoga"saastra.
-
 Compare the BSBh 2.1.3: yoga"saastre .api ``atha tattvadar"sanopaayo
 yoga.h'' iti samyagdar"sanaabhyupaayatvenaiva yogo.a"ngiikriyate|
 (BSBh NSP ed. p. 438, ll. 8--9)
-
 Vivara.na 2.28:  tathaa caacaaryair uktam, ``yogas
 tattvaj~naanaartha.h'' i iti|| (Vivara.na, p. 208, ll. 9--13)
-
 BSBh 4.2.10: ata eva padmakaadiinaam aasanavi"se.saa.naam upade"so
 yoga"saastre (BSBh NSP ed. p. 949, l. 15)
-
 Vivara.na 2.46: "saastraantaraprasiddhaani naamaani padmaasanaadiini
 pradar"syante|| (p. 225, l. 18)
-
 etc.
-
 Interestingly, Jacobi somehow thought that the reference in the BSBh
 2.1.3 was to Hira.nyagarbha's yoga"saastra. (See his ``Ueber das
 urspruengliche Yogasystem,'' in Kleine Schiriften, p. 701, n. 2.)
-
-> Any Atharvavedic references available?
-
 AV 15.15--7 was what Hauer dealt with.  But Eliade did not think the
 excercise in the AV was already praa.naayaama (Yoga, p. 104).
-
---
 kengo
-
-
-
-

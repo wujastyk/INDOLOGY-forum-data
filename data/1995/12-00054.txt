@@ -1,11 +1,5 @@
-From JHOUBEN at rullet.LeidenUniv.nl  Thu Dec  7 10:21:48 1995
-From: JHOUBEN at rullet.LeidenUniv.nl (JHOUBEN at rullet.LeidenUniv.nl)
-Date: Thu, 07 Dec 95 11:21:48 +0100
-Subject: Sanskrit perfect Interlingua
-Message-ID: <161227021980.23782.17904005465670948544.generated@prod2.harmonylists.io>
-
+Sanskrit perfect Interlingua
 Dear Colleagues,
-
 In an article by Achyutananda Dash ("K?raka-theory for knowledge 
 representation", in Sa.mbh?.s? (University of Nagoya) 1992, vol. 13) reference 
 was made to the well-known discussion on the potential of shastric Sanskrit to 
@@ -19,7 +13,6 @@ Digest, 5 Oct. 1984, volume 2, issue 131." Unfortunately, I could not find any
 "A.I., List Digest" in our Library or in other library-catalogue accessible to 
 me by computer. Moreover, it is strange (and probably incorrect) that critical 
 reactions to an article of 1985 would have appeared in an issue of 1984. 
-
 Is there anyone who can help me find the correct reference to the critical 
 reactions of Kiparsky and others to Briggs' article? The context in which Dash 
 refers to Kiparsky and others suggests that they criticized Briggs' ideas by 
@@ -27,18 +20,10 @@ pointing out that Sanskrit has anaphoric constructions, pronouns, synonyms,
 homonyms, reflexive constructions, poetry, etc., something which would exclude 
 this language beforehand from being a useful interlingua for Machine 
 Translation.  
-
 I would be very much obliged if someone could help me find the correct 
 reference to the "AI List Digest" criticism of Briggs' ideas. I am also 
 interested in further references to discussions of this subject. 
-
 Jan E.M. Houben
 International Institute for Asian Studies
 P.O. Box 9515
 2312 RA Leiden, the Netherlands. 
- 
-
-
-
-
-

@@ -1,21 +1,5 @@
-From muthu at lecter.Stanford.EDU  Thu Aug 26 00:55:13 1993
-From: muthu at lecter.Stanford.EDU (muthu at lecter.Stanford.EDU)
-Date: Wed, 25 Aug 93 17:55:13 -0700
-Subject: Tamil fonts
-Message-ID: <161227016053.23782.5298197501115274116.generated@prod2.harmonylists.io>
-
-
-
+Tamil fonts
 Hi, I am looking for Tamil fonts for IBM compatible PCs (preferably
 for Windows 3.0 or higher). A friend of mine suggested I contact you
 folks. If anyone has information on where I can get the fonts (ftp
 sites?), please let me know. Thanks.
-
--- Muthu
-
- 
-
-
-
-
-

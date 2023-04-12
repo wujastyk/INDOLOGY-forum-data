@@ -1,15 +1,6 @@
-From athr at LOC.GOV  Mon Aug 14 18:42:07 2006
-From: athr at LOC.GOV (Allen W Thrasher)
-Date: Mon, 14 Aug 06 14:42:07 -0400
-Subject: OCLC/WorldCat online for free
-Message-ID: <161227078224.23782.17272654041589039894.generated@prod2.harmonylists.io>
-
+OCLC/WorldCat online for free
 The gigantic online database OCLC's search interface WorldCat is now available online free at < http://www.worldcat.org >.  It is an online union catalog of thousands of research libraries in North America, Europe, Japan, Australia, and elsewhere.  Academics probably have access to it through their institution, but this version is available to everyone. This version allows a limit command to find the copies nearest to oneself.  See also a news release about it at < http://www.oclc.org/news/releases/200632.htm >.   Another pertinent news release is at < http://www.oclc.org/news/releases/200625.htm >, which tells of the agreement between OCLC and RLG/RLIN, the other great online union catalog, to merge with each other.
-
 Allen Thrasher
-
-
-
 Allen W. Thrasher, Ph.D., Senior Reference Librarian
 South Asia Team, Asian Division
 Library of Congress, Jefferson Building 150
@@ -17,7 +8,3 @@ Library of Congress, Jefferson Building 150
 Washington, DC 20540-4810
 tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
 The opinions expressed do not necessarily reflect those of the Library of Congress.
-
-
-
-

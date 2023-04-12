@@ -1,29 +1,11 @@
-From wagers at iglobal.net  Mon Jul  8 13:00:29 1996
-From: wagers at iglobal.net (wagers at iglobal.net)
-Date: Mon, 08 Jul 96 08:00:29 -0500
-Subject: Wikner's Sanskrit Course
-Message-ID: <161227025249.23782.7698849882457464032.generated@prod2.harmonylists.io>
-
+Wikner's Sanskrit Course
 Dear Indologists,
-
 Charles Wikner's materials for Introductory Sanskrit are now available under
 "Sanskrit" at the European mirror of ousia:
-
         http://www.inca.de/user/will/ousia/Indologist.html
-
 Please use this site instead of Wikner's FTP site to download the materials.
 That server is rather slow and overloaded. The larger files are zipped.
-
 Regards,
-
 Will Wagers        "Reality is the best metaphor."
-
 ousia: http://www.iglobal.net/pub/wagers/ousia
 Web Mechanix: http://www.10mb.com/webmechanix
-
-
-
-
-
-
-

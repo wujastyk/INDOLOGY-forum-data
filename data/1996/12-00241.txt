@@ -1,12 +1,5 @@
-From Toru.Tomabechi at orient.unil.ch  Mon Dec 16 22:24:50 1996
-From: Toru.Tomabechi at orient.unil.ch (Toru Tomabechi)
-Date: Mon, 16 Dec 96 23:24:50 +0100
-Subject: 7 Bit tutorial
-Message-ID: <161227027632.23782.954011503969742203.generated@prod2.harmonylists.io>
-
-
+7 Bit tutorial
 A few words on 7bit/8bit issue.
-
 There seems to be some confusion between character-sets and their
 encodings. No official character set (except for UNICODE which uses
 16bits) is necessarily either 8bit- or 7bit-encoded. For example,
@@ -17,7 +10,6 @@ IS0-2022-JP encoding. It should also be noted that huge
 character-sets, such as Japanese Kanji, can be encoded with two
 7bit-sequences (see Ken Lunde's _Understanding Japanese Information
 Processing_, O'Reilly & Associates, 1993).
-
 As for the mail-transfer protocol, it uses only 7 bits. Nevertheless,
 it can handle correctly ISO-8859-1 characters along with
 US-ASCII. This is done by an encoding-decoding convention which is to
@@ -35,15 +27,8 @@ Latin 1, 2, 3, 4, 5, Cyrillic (ISO-8859-5), Greek (ISO-8859-7),
 Chinese GB, Korean KSC, Thai TIS620, ... characters (devanagari is now
 under development).  And these character-sets are all encoded with
 only 7 bits (or two 7bit sequences).
-
 Apologies if Claude already knows what I wrote above. My point is: the
 discussion should be not on the `8bit-7bit' issue, but on the
 character-set which we need.
-
 Toru Tomabechi
 University of Lausanne
-
-
-
-
-

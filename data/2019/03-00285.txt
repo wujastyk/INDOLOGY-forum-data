@@ -1,52 +1,33 @@
-From ambapradeep at gmail.com  Tue Mar 26 03:11:34 2019
-From: ambapradeep at gmail.com (Amba Kulkarni)
-Date: Tue, 26 Mar 19 08:41:34 +0530
-Subject: [INDOLOGY] 2nd CFP for International Sanskrit Computational Linguistics Symposium
-Message-ID: <CAFffahCM4NX_+WTm7RFYOZhZxzbrxMrVqBbK1itX=CW7TC2i2w@mail.gmail.com>
-
+[INDOLOGY] 2nd CFP for International Sanskrit Computational Linguistics Symposium
 Dear list members,
-
 Apologies for cross posting.
-
 Please consider contributing papers and distribute to your colleagues who
 may be
 interested
-
 Best,
-
 Amba Kulkarni
-
-------------------------------------------------------------------------------------------------------
 6th International Sanskrit Computational Linguistics Symposium (6th ISCLS)
 Indian Institute of Technology Kharagpur, West Bengal, India -- 721302
 October 23-25, 2019
 Website: https://iscls.github.io/
 Convenor: Pawan Goyal, IIT Kharagpur
-------------------------------------------------------------------------------------------------------
-
 CALL for papers
-
 Dear Colleagues,
-
 FULL papers are invited on original and unpublished research on various
 aspects of Computational Linguistics and Digital Humanities related to
 Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit,
 etc.
-
 Important Dates:
 Submission Deadline: May 10th, 2019
 Notification of Acceptance: July 5th, 2019
 Camera Ready Version Due: July 25th, 2019
-
 You are requested to submit your research paper using the EasyChair
 Submission Portal: https://easychair.org/conferences/?conf=6thiscls. The
 submissions should not exceed 20 pages, and will be reviewed by the program
 committee members, as listed below. To prepare your submission, please use
 the latex source files listed on the website, and follow the instructions
 provided there.
-
 The areas of interest include, but are not limited to:
-
 * Sanskrit Computational linguistics: with extensions to related ancient
 Indian languages (Vedic, Pali, Prakrits)
 - Digital lexicons, thesauri and wordnets
@@ -60,12 +41,10 @@ Indian languages (Vedic, Pali, Prakrits)
 - Machine Learning approaches to computational processing
 - Navya Ny?ya technical language processing and semantic analysis
 - Information extraction
-
 * Sh?stric Sanskrit texts and computation
 - Computer modeling and simulation of Paninian and other traditional
 grammars
 - Theories of ??bdabodha and Sanskrit computational processing
-
 * Sanskrit digital libraries management:
 - Tools for acquisition & maintenance of Sanskrit digital corpus
 - Library crawlers or search tools in Sanskrit corpus
@@ -83,14 +62,11 @@ establishment of critical editions, and other philological applications
 - Collaborative annotation and editing
 - Alignment of text with images (including manuscripts)
 - User interface design
-
 * Misc computer applications relevant to Sanskrit:
 - Software tools for teaching Sanskrit
 - Sanskrit speech recognition and synthesis
 - Social media applications for Sanskrit dissemination
-
 Programme Committee
-
 Stefan Baums (University of Munich)
 Laxmidhar Behera (IIT Kanpur)
 Pawan Goyal (IIT Kharagpur)
@@ -107,42 +83,26 @@ Ganesh Ramakrishnan (IIT Bombay)
 Peter Scharf (IIIT Hyderabad)
 Srinivasa Varakhedi (KKSU, Ramtek)
 K Varalakshmi (Osmania University, Hyderabad)
-
 Web Chair: Amrith Krishna, IIT Kharagpur
-
 Previous Editions:
 INRIA Paris Rocquencourt (2007), Brown University, USA (2008), University
 of Hyderabad, India (2009), JNU, Delhi, India (2010) and IIT Bombay (2013)
-------------------------------------------------------------------------------------------------------
 Regards,
 Pawan Goyal
 Assistant Professor
 Department of Computer Science and Engineering
 Indian Institute of Technology Kharagpur,
 West Bengal, India -- 721302
-
-
--- 
-
 ? ?? ?????: ?????? ????? ??????: ll
 Let noble thoughts come to us from every side.
 - Rig Veda, I-89-i.
-
 Professor & Head
 Department of Sanskrit Studies
 University of Hyderabad
 Prof. C.R. Rao Road
 Hyderabad-500 046
-
 (91) 040 23133802(off)
-
 http://scl.samsaadhanii.in <http://sanskrit.uohyd.ac.in/faculty/amba>
 http://sanskrit.uohyd.ac.in/scl
 http://tdil-dc.in/scl <http://sanskrit.uohyd.ac.in/scl>
 http://sanskrit.uohyd.ac.in/faculty/amba
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20190326/dbc6bef5/attachment.htm>
-

@@ -1,20 +1,5 @@
-From magier at columbia.edu  Fri Oct  6 18:12:07 1995
-From: magier at columbia.edu (David Magier)
-Date: Fri, 06 Oct 95 14:12:07 -0400
-Subject: Q: URL addresses
-Message-ID: <161227021090.23782.149528708041973297.generated@prod2.harmonylists.io>
-
-> I have also tried the address http://asnic.utexas.edu/asnic/html and
-> received the error message "unknown addressee."            ^
+Q: URL addresses
                                                              ^
 That's because you have typo here: it's supposed to be a     ^
 period there ("asnic.html") instead of a slash...............|
-
 David Magier          
-
- 
-
-
-
-
-

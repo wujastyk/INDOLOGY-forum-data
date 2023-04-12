@@ -1,15 +1,8 @@
-From gm at ANTHOSIMPRINT.COM  Tue Mar 13 23:48:17 2001
-From: gm at ANTHOSIMPRINT.COM (Gunthard Mueller)
-Date: Wed, 14 Mar 01 00:48:17 +0100
-Subject: How long are the  Indus and Brahmaputra (Was re: question)
-Message-ID: <161227068201.23782.15932228466532695450.generated@prod2.harmonylists.io>
-
+How long are the  Indus and Brahmaputra (Was re: question)
 That was a very thoughtful message.
-
 On a more flippant note: I thought the Indus kept changing its bed,
 thus creating continuous political and military upheaval where
 it is considered the political border...
-
 Mathematically, I think one way of doing it would be to decide
 on a common resolution (or fractal scale) for both rivers
 (assuming that rivers have comparable curving properties),
@@ -17,50 +10,8 @@ then vectorize.
 I would venture a guess that there is probably a geometrical
 standard for this type of resolution, because otherwise relative
 geometry would be difficult.
-
 I promise I won't produce any more silly input on this issue...
 Yours,
 Gunthard
-
 gm at e-ternals.com
-
 Harry Spier wrote:
-
-> Rajesh Kochhar wrote:
->
-> Of the two Himalayan rivers Indus and Brahmaputra ( both about 1800miles /
-> 2900km ) which one is  the longer and by how much?
->
-> Allen Thrasher wrote:
->
-> This question should be answerable by a consultation of an
-> encyclopedia, a world almanac, or a visit to your university or public
-> library.  It is an easy one by that route ...
->
-> I thought the mathematicians on the list would jump on this.  The question
-> of how long is a river is not that simple a question.  Because the shape of
-> a river is whats known as a "fractal" the length of the river depends on the
-> scale at which the measurement is taken (in a much more fundamental way than
-> just the accuracy of the measuring device).  I.e. a river curves back and
-> forth and as you go to finer and finer scales it still curves back and forth
-> so the length keeps increasing.
->
-> See  http://life.csu.edu.au/complex/tutorials/tutorial3.html
-> (For "How long is the coast of Britain?" substitute "How long is the Indus
-> river?".)
->
-> Or better yet see "The Fractal Geometry of Nature" by Mandelbrot .
->
-> Best,
->
-> Harry Spier
-> 371 Brickman Rd.
-> Hurleyville, New York
-> USA 12747
->
-> _________________________________________________________________
-> Get your FREE download of MSN Explorer at http://explorer.msn.com
-
-
-
-

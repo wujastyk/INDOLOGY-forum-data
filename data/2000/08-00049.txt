@@ -1,14 +1,8 @@
-From saf at SAFARMER.COM  Sun Aug  6 08:30:53 2000
-From: saf at SAFARMER.COM (Steve Farmer)
-Date: Sun, 06 Aug 00 01:30:53 -0700
-Subject: Harappan animal icons/inscriptions
-Message-ID: <161227060646.23782.9269383156284551914.generated@prod2.harmonylists.io>
-
+Harappan animal icons/inscriptions
 I'd like to note one small but interesting piece of
 evidence on links between Harappan animal icons and
 inscriptions that surfaced while researching the
 "horse seal" fiasco last week.
-
 Not long ago Ferenc Ruzsa (in Budapest) pointed me to
 prima facie evidence in I. Mahadevan's 1977 concordance of
 Harappan script that in rare cases -- contrary to claims
@@ -23,7 +17,6 @@ necessary to check on the "one inscription/different animal"
 evidence that Dr. Ruzsa pointed to, and one piece of data that
 turned up when Mahadevan's concordance was checked against the
 originals turned out to be very interesting indeed.
-
 A series of scanned images made by Prof. Witzel, forwarded
 to Dr. Ruzsa, shows that in most cases Mahadevan's concordance
 is in error on the "same inscription/different animals" issue.
@@ -35,7 +28,6 @@ importance of doublechecking claims in the concordances,
 which further mask subtle but potentially key differences
 in Harappan characters by using a standardized computer-generated
 script.
-
 But the prima facie evidence that Dr. Ruzsa gleaned from
 Mahadevan *has* turned up one clear case where the
 same inscription *does* show up linked to different
@@ -46,7 +38,6 @@ not unique. This one is signaled in the final footnote
 refers back to photos of two seals found in John
 Marshall, _Mohenjodaro and the Indus Civilization_,
 1931, Vol. III, Plate CIX #252 and Plate CXII #378.
-
 The photos of the these two seals in Marshall are tiny and of
 poor quality, making it difficult to get good scans of them.
 The quality of the rather dim scans that I've posted at
@@ -61,17 +52,14 @@ one of several examples of a composite beast he characterizes
 as "a ram, with the horns of a bull, a human face, and the
 trunk and tusks of an elephant." The scans show that #252 and
 #378 both clearly carry the same two-character inscription.
-
 One critical piece of evidence is not mentioned by
 Mahadevan or Mackay. Examination of the tables in Vol. II,
 pp. 403-4 of Marshall reveals that both seals were discovered at
 *exactly* the same location (HR 2596) and same depth (3' 0") in
 Mohenjo-daro.
-
 I think that these two seals throw into doubt the most common
 interpretation of the relationship between animal icons and
 one frequent type of "seal" inscription.
-
 Since the majority of Harappan "seals" (including these two) have
 round protuberances ("bosses") with holes at the back --
 presumably for threading with a cord or string -- it
@@ -83,13 +71,11 @@ on these "ID tags" are personal names. If this is true, one might
 reasonably guess that the animal icons are quasi-totemic symbols
 of some kind -- standing, perhaps, for clans or professions or
 rank/class or place of origin of the owners.
-
 This reasonable chain of hypotheses is weakened by the evidence
 seen in Marshall #252 and #378. If the inscriptions of
 this type were personal names, it would be difficult to explain
 why two identical "ID tags" show up in the same place
 inscribed with different animal icons.
-
 This suggests the alternative hypothesis that the
 *inscription* refers to a general classification --
 that is, to a profession, rank, sub-clan, or other
@@ -99,7 +85,6 @@ could, on this view, be easily explained by the presence
 in that place of two members of the same rank or profession
 (identified by the inscription) but from different clans or
 places of origin (symbolized by the quasi-totemic animal icon).
-
 This is, of course, only a good guess. What does seem
 clear is that it is difficult to reconcile the evidence of
 Marshall #252 and #378 with the common view that inscriptions
@@ -107,12 +92,6 @@ on these putative "ID tags" contain personal names. The fact
 that we find a number of duplicates of the much more common
 "same inscription/same animal" perforated seals also argues
 against the inscription = personal name hypothesis.
-
 Does this line of argument seem reasonable? Can anyone
 suggest other plausible alternatives?
-
 Steve Farmer
-
-
-
-

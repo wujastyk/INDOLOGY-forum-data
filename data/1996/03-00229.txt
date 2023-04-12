@@ -1,9 +1,4 @@
-From cardona at unagi.cis.upenn.edu  Thu Mar 21 16:58:54 1996
-From: cardona at unagi.cis.upenn.edu (George Cardona)
-Date: Thu, 21 Mar 96 11:58:54 -0500
-Subject: Why not a definitive devnagri font
-Message-ID: <161227023516.23782.14433207201518085951.generated@prod2.harmonylists.io>
-
+Why not a definitive devnagri font
 Since Madhav Deshpande has mentioned my work in connection with this
 discussion, let me add a few words.  Although I do not say this explicitly, my
 practice has been this: sutras and examples are given both in Devanagari and
@@ -19,12 +14,3 @@ scripts too should not be used.  For communicating on a network such as this,
 on the other hand, it may well be simplest to stick to transliterations, most
 of which are not all that hard.  The audience is such that this would appear
 adequate.  George Cardona
-
-
-
-
-
-
-
-
-

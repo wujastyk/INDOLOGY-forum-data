@@ -1,23 +1,9 @@
-From wujastyk at gmail.com  Wed Oct 23 17:14:43 2013
-From: wujastyk at gmail.com (Dominik Wujastyk)
-Date: Wed, 23 Oct 13 19:14:43 +0200
-Subject: [INDOLOGY] test of html - please ignore
-Message-ID: <CAKdt-CcUPik_93OioBQ4p=HD9vvx28zTqEYXFUEFa_jRa+PLHw@mail.gmail.com>
-
+[INDOLOGY] test of html - please ignore
    - ?bullet
    - bullet
-
 indent
-
-
    1. number
    2. number
    3. font font
    4. font font
    5. colour colour colour
-
-
--------------- next part --------------
-An HTML attachment was scrubbed...
-URL: <https://list.indology.info/pipermail/indology/attachments/20131023/5bf8d665/attachment.htm>
-

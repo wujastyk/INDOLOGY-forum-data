@@ -1,17 +1,5 @@
-From P.G.Moore at ukc.ac.uk  Sat Sep 17 11:22:24 1994
-From: P.G.Moore at ukc.ac.uk (P.G.Moore at ukc.ac.uk)
-Date: Sat, 17 Sep 94 12:22:24 +0100
-Subject: PC Windows Devanagari?
-Message-ID: <161227017278.23782.6601010715187352699.generated@prod2.harmonylists.io>
-
+PC Windows Devanagari?
 Perhaps it's time for some brave soul (or no-soul) to put together a
 FAQ on Asian script fonts for computers.  Or is the scene changing so
 fast that this would be confusing?
-
 peter moore, canterbury, uk
- 
-
-
-
-
-
