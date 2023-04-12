@@ -181,3 +181,12 @@ fn should_split_between_words() {
     println!("{:?}", actually);
     assert_eq!(expected, actually);
 }
+
+/*
+Token {
+    term: Stack("brackets"),
+    start_offset: 604,
+    position: 109,
+    lemma: Stack("bracket")
+}
+*/
