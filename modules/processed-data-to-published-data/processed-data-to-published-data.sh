@@ -2,11 +2,9 @@
 
 base_data_dir=$(realpath "data")
 
-cp "$base_data_dir/01-00003.txt" "$base_data_dir/_test"
-
 for i in {1990..2022}
 do
-    current_data_dir=$(realpath "$base_data_dir/$i")
+    current_data_dir="$base_data_dir/$i"
     
     for file in "$current_data_dir/*.txt"
     do
