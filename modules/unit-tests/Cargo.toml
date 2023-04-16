@@ -1,12 +1,9 @@
 [package]
-name = "text-data-to-index-cards"
+name = "unit-tests"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-arrayvec = "0.7.2"
-glob = "0.3.1"
-rust_lemmatizer = "0.3.0"
-solirom-lemmatizer = { path = "../solirom-lemmatizer"}
+ngrammatic = "0.4.0"
