@@ -1,5 +1,0 @@
-{
-    "rust-analyzer.linkedProjects": [
-        "./modules/text-data-to-index-cards/Cargo.toml"
-    ]
-}

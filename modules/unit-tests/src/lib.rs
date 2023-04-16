@@ -9,7 +9,7 @@ fn ngrammatic() {
     corpus.add_text("Pr?ti??khya");
     corpus.add_text("cIvakacintAmaNi");
     corpus.add_text("???avaci??am");
-    corpus.add_text("k□lacakra");
+    corpus.add_text("k?lacakra");
 
     println!("{:?}", corpus);
 
@@ -30,6 +30,7 @@ fn ngrammatic() {
 // https://github.com/wolfgarbe/SymSpell
 // https://github.com/justinwilaby/spellchecker-wasm
 // https://github.com/forrestthewoods/lib_fts/blob/master/code/fts_fuzzy_match.js
+// https://lib.rs/crates/fuzzywuzzy
 
 // Algorithms
 // https://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/
