@@ -13,3 +13,4 @@ do
         sed -i 's|Subject: ||g' $file        
     done
 done
+# filter out //  At 08:48 AM

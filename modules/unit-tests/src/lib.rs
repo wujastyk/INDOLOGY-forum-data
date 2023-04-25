@@ -31,6 +31,7 @@ fn ngrammatic() {
 // https://github.com/justinwilaby/spellchecker-wasm
 // https://github.com/forrestthewoods/lib_fts/blob/master/code/fts_fuzzy_match.js
 // https://lib.rs/crates/fuzzywuzzy
+// https://github.com/heyimalex/wafu
 
 // Algorithms
 // https://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/
