@@ -2,4 +2,4 @@ target/
 Cargo.lock
 lemma.en.txt
 public/
-tantivy/
+search-engines
