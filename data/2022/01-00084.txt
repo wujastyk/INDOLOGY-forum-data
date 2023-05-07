@@ -1,5 +1,4 @@
 [INDOLOGY] Devanagari Unicode question
-References: <CAPXn1XVGDrRQuqbmYVFa7_=YnSW_AXG94bZ8wHjjSh3HiT9DmA@mail.gmail.com>
  <CAPXn1XV4mg4t1JPc02+6xpuV96VmL7vMHTKmhwSCvfR_trOVcA@mail.gmail.com>
  <CA+H=kyQJtuTVmpyjr1C5tk5AtOaBLTH3KWabHBLFge7A5sEC-w@mail.gmail.com>
 Is there an assigned Unicode position for the old-style Devanagari 'o', 

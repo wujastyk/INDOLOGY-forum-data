@@ -1,6 +1,5 @@
 [INDOLOGY] [RISA-L LIST] Indologica Taurinensia: The official
  organ of the International Association of Sanskrit Studies -IASS
-References: <CAArHMvBtMxfFC7ztubwEgVQY-R6pR6Q=Ts3BMNUTJc5AM45-_g@mail.gmail.com>
 I've fetched all the *Indologica Taurinensia* files from
 www.asiainstitutetorino.it, and unfortunately there are some corrupted PDF
 files, listed below.  I have tried getting these from the WayBackMachine,

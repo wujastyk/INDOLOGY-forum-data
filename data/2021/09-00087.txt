@@ -1,5 +1,4 @@
 [INDOLOGY] Grep tool for searching on Mac
-References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
 Most good text editors have both a "find in files" feature that allows you
 to search in multiple files or whole directories at a time and also have a
 "regular expressions" feature that allow you to do what you call "grep"

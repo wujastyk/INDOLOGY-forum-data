@@ -1,5 +1,4 @@
 [INDOLOGY] Grep tool for searching on Mac
-References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
 Dear list members,
 While the utilities like grep are good for languages with simple
 morphology, for Sanskrit, the regular expressions would result either in

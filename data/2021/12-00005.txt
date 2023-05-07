@@ -1,5 +1,4 @@
 [INDOLOGY] OCR for sanskrit transliteration
-References: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
  <CAPz9vj-A3KOoyie_8ynJZ_4nB8T9sCU36==-+416EeUcD4RM_w@mail.gmail.com>
 I have found that SanskritCR misses far too many underdots (i.e., not even rendering with cedillas) to be useful.  My bad luck?
 Tim Lubin

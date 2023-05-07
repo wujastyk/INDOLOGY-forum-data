@@ -1,5 +1,4 @@
 [INDOLOGY] Grep tool for searching on Mac
-References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
  <CAJ3b0o8g-wVSP+GNGxWE1T39K_WAd=RbMqC_=5cfqaMvVe20kw@mail.gmail.com>
  <6B91CD78-F906-4B80-B60B-811AC7F78CF9@gmx.de>
 BBEdit is most common for grepping on Mac, but some other editors do it, e.g., Oxygen xml editor.

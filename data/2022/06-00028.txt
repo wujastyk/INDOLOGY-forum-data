@@ -1,5 +1,4 @@
 [INDOLOGY] Indic rendering
-References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
 Attached is a pdf of the list of conjunct consonents from  MacDonell's
 grammar, in the fonts Murty Sanskrit, Sanskrit 2003, Chandas and Adishila.
 I've also attached a MSWord file of this, in case anyone wants to

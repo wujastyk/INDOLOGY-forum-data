@@ -1,5 +1,4 @@
 [INDOLOGY] =?utf-8?b?QsO8aGxlcidzIEFwRGhT?=
-References: <38476139-bb11-3df7-56af-e7b749e67c6a@gmx.de>
  <C2AB8605-6866-436A-AF8F-BA767B91778B@uclouvain.be>
  <bda38a1c-1fdc-02d9-7149-428a075ede80@gmx.de>
  <DB3PR0302MB31788E511A58EFDF20F47F96973E9@DB3PR0302MB3178.eurprd03.prod.outlook.com>

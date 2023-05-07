@@ -1,5 +1,4 @@
 [INDOLOGY] =?utf-8?q?dh=C4=ABmahi?=
-References: <CAB3-dzfX3yjH9wx9nG5bS40fZhVbpD=cPmnv1zTsLYR8dFTfKw@mail.gmail.com>
 Hi Madhav,
 1) The search function for the list appears to only work for the most
 recent few months.

@@ -1,5 +1,4 @@
 [INDOLOGY] Adobe & Devanagari works perfectly fine
-References: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
  <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAAyHo+E6YABIlxU7G7FJJooBAAAAAA==@matfyz.cz>
  <CAEjEOsDimYqwRVYiOBeq-Sr2Pf0yH0q5DGgnNtp3JNOzY5=3Rw@mail.gmail.com>
 I think the Murty Sanskrit font looks good when printed on paper, but a lot

@@ -1,5 +1,4 @@
 [INDOLOGY] Ligature/conjunct problem with Devanagari MT
-References: <CAASxWBG9WA7uhUWg0dNdN0NEvE9sK0jXpfvfr100diLMiJ8N2w@mail.gmail.com>
  <CAASxWBGy-TMS6BPERwAYjaf_ZcYw=WFkk6pYk5tp0poYrHZ-9w@mail.gmail.com>
  <CAASxWBG576yZZ80nqiuWm70zRur0bn9a46EMR7SKeb+NUpXLew@mail.gmail.com>
 Dear Colleagues

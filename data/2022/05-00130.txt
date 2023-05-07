@@ -1,5 +1,4 @@
 [INDOLOGY] Indic rendering
-References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
 Dear Jan,
 I am not sure this is what you are after, but I am aware of the following
 problems. I am not sure the Devanagari renderings I see on my screen will

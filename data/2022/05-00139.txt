@@ -1,5 +1,4 @@
 [INDOLOGY] Indic rendering
-References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
 On Mon, May 30, 2022 at 9:45 AM Jan Ku?era <jan.kucera at matfyz.cz> wrote:
 There are these issues with the characters in both the unicode devanagari
 extensions block and the unicode vedic extensions block and Microsoft Word.

@@ -1,5 +1,4 @@
 [INDOLOGY] Google Translate for Sanskrit
-References: <CA+wUuzNXp9V9fL6E-CsW4BwLMXw=6B=H3KEyFfrCe7Uj7H4YZA@mail.gmail.com>
  <CADKD_zh4etGYUtcSYZ+zLO0X-uAcd3xn9NbyChP76_WLakKNDA@mail.gmail.com>
 Hi Charles et al,
 It seems that if you just start typing into the google translate box, it will detect it as Sanskrit though the language name doesn?t show up yet. Maybe it?s a soft roll-out. Seems to do OK for simple sentences but not so much for k?vya, though the results are hilarious.

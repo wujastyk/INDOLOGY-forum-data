@@ -1,5 +1,4 @@
 [INDOLOGY] Visualisation of Sanskrit Phonetics
-References: <121241632311723@mail.yandex.ru>
 Dear Marcis et al,
 I don?t know if this will be useful for your purposes, but the Linguistics department here at UBC has designed a website called ?eNunciate!? with various linguistics learning tools, including ?Sounds of the World?s Languages?, which provides videos illustrating the pronunciation of a broad range of IPA consonants and vowels, including, presumably, all sounds within the Sanskrit syllabary. 
 They feature both graphical representations like you are looking for, as well as actual ultrasound captures of a live speaker.

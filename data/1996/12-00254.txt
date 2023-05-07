@@ -10,7 +10,6 @@ Organization: None.
 X-Mailer: Mozilla 3.0 (X11; I; IRIX 5.3 IP22)
 Mime-Version: 1.0
 Re: [Claude_Setzer at fcsmtp.mum.edu: 7 Bit tutorial]
-References: <199612171918.TAA16244 at cass29.ast.cam.ac.uk>
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Content-Length: 2516

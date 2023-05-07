@@ -1,5 +1,4 @@
 [INDOLOGY] OCR for sanskrit transliteration
-References: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
   Dear Harry,
   Something I do (not perfect) is taking the digital Devanagari text and
 input it to Google Translate set to Nepali. The phinetic transcription

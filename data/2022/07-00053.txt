@@ -1,5 +1,4 @@
 [INDOLOGY] =?utf-8?q?Dum=C3=A9zil_book?=
-References: <CAAyw6CnzeTiHp2Rb=32RTB3_8C2B42L3_6+5UqjYJSqcF6rfKg@mail.gmail.com>
 Hi there,
 The text is available here, on a great French repository of digital works:
 https://gallica.bnf.fr/ark:/12148/bpt6k3340292b.texteImage

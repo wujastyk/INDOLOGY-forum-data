@@ -1,5 +1,4 @@
 [INDOLOGY] Adobe & Devanagari works perfectly fine
-References: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
 I responded to Daniel offline but thank you both for your responses.
 A lot of the proper rendering depends on the font indeed. I am looking for things that even fonts are not allowed to do but should be, on Windows commonly exhibited using dotted circles.
 Thank you Oliver for the font link! Note that the Chandas font appears to be over 15 years old, with the latest characters coming from Unicode 5.0. For all the later additions such as Vedic signs and tones, the oe/ue/aw and other vowels, private use characters need to be used.

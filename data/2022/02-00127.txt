@@ -1,5 +1,4 @@
 [INDOLOGY] Transliteration font for Mac 11.5.2
-References: <3816B9D6-57D3-4ECF-918C-A1F6235C0268@illinois.edu>
 Dear Friends and Colleagues,
 Thanks to those who already responded.
 In the meantime I have been able to solve the issue, and I am sharing this in case somebody else might encounter the same problem.

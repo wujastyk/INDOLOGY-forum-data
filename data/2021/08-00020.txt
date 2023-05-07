@@ -1,6 +1,5 @@
 [INDOLOGY] =?utf-8?q?Item_shared_with_you=3A_=22Anandavardhana+D?=
 	=?utf-8?b?aHZhbnlhzIRsb2thLnBkZiI=?=
-References: <bf6a47bc-d1b1-4931-8880-85396077148d@docs-share.google.com>
 I've shared an item with you:
 Anandavardhana+Dhvanya?loka.pdf
 https://drive.google.com/file/d/1d23dPNpoXNTFsU2iGINJTqhbnWeaDGsD/view?usp=sharing&ts=611c4865&sh=1xGP-ePwiORKdPL7&ca=1

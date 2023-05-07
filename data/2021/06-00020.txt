@@ -1,6 +1,5 @@
 [INDOLOGY] =?utf-8?b?UERGIHJlcXVlc3Q6IFZp4bmj4bmHdWRoYXJtb3R0?=
 	=?utf-8?b?YXJhcHVyxIHhuYdhLCBmaXJzdCBraGHhuYfhuI1h?=
-References: <CAAsHCVpJ+C6XpGH-kW660U=eS674m=LrwDAviLhxyR13hGGJ+A@mail.gmail.com>
 @Book{sarm-1912,
   date       = {1912},
   editor     = {Madhus?dana ?arman and M?dhavapras?da ?arman},

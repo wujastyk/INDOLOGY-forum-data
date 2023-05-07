@@ -1,5 +1,4 @@
 [INDOLOGY] Adobe & Devanagari works perfectly fine
-References: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
  <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAAyHo+E6YABIlxU7G7FJJooBAAAAAA==@matfyz.cz>
 I know this does not quite address the original question, but given that
 good fonts are always of interest: Tiro Devanagari Sanskrit, originally

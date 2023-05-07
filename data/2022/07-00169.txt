@@ -1,5 +1,4 @@
 [INDOLOGY] New version of Bloomfield's Vedic Concordance
-References: <8ccaef04-1df7-3666-eda2-ce760cdc9989@gmx.de>
 Looks very impressive! Congratulations! 
 Mere XML version may not be useful for those that are not software/programming savvy, I think. 
 Any possibility of this data being represented in a visual mode, say for example, see Visual Thesaurus (https://www.visualthesaurus.com <https://www.visualthesaurus.com/>)? 

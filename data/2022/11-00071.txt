@@ -1,7 +1,6 @@
 [INDOLOGY] 
  =?utf-8?q?Published_translations_of_the_G=C4=81yatr?=
  =?utf-8?b?xKs/?=
-References: <277223a3-bbc6-c153-aca8-72e1b835842a@haas.asia>
 I would like to thank *Axel Michaels*, *Vlad Soravel*, *Walter Slaje*, 
 *Sylvia Stapelfeldt*, *Adriano Aprigliano*, *G?rard Huet*, *Christoph 
 Vielle*, and *Rapha?l Voix* for their responses.

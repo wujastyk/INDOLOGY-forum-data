@@ -1,5 +1,4 @@
 [INDOLOGY] Fwd:  Grantha fonts for Mac
-References: <C16E1307-E3C0-4BE1-AD88-9F99ABD7817D@uclouvain.be>
  <0620B71F-5671-4F19-8C44-B0E5D837224F@uclouvain.be>
 Le 15/03/2022 08:55, Christophe Vielle via INDOLOGY a ?crit?:
 The problem of e-Granthamil is the unicode encoding: it uses the bengali 

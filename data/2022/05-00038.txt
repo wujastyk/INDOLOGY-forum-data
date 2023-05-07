@@ -1,5 +1,4 @@
 [INDOLOGY] Google Translate for Sanskrit
-References: <CA+wUuzNXp9V9fL6E-CsW4BwLMXw=6B=H3KEyFfrCe7Uj7H4YZA@mail.gmail.com>
 Well, this seems like it would be fun to play with. However, none of the
 languages listed in the link Martin Gluckman shared appear for me when I go
 to the Google Translate website (even after updating Chrome). Perhaps there

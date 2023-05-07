@@ -1,5 +1,4 @@
 [INDOLOGY] article about the epigraphist V. Venkayya
-References: <e3250e34abf841b682c64fe749edf7d9@hum.leidenuniv.nl>
 When I click on that link, I get a message:
 403 - Forbidden: Access is denied.
 You do not have permission to view this directory or page using the credentials that you supplied.

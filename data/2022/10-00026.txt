@@ -1,5 +1,4 @@
 [INDOLOGY] Bhujimol script
-References: <BY5PR11MB433852F12D2DA50E54885260A1229@BY5PR11MB4338.namprd11.prod.outlook.com>
 Not particularly on its evolution, but in case you haven?t seen it, some
 sources are in https://www.unicode.org/L2/L2014/14283-bhujinmol.pdf
 Thanks,

@@ -1,5 +1,4 @@
 [INDOLOGY] Nagari conversion
-References: <2f45ae32-0d83-9b1d-593a-0d3f2cd976ee@gmx.de>
  <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
 Thanks a lot, Harry, for explaining the technical background. This
 definitely explains the strange encoding. For the time being, re-OCRing

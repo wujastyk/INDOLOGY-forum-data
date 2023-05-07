@@ -1,5 +1,4 @@
 [INDOLOGY] OCR for sanskrit transliteration
-References: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
 Dear Harry,
    The O - Sanskrit CR (pronounced "Seer") also does a tolerably good job
 cedillas with dots, etc., as global replacements.  (Just as Diego

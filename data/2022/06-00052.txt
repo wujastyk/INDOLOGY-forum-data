@@ -1,5 +1,4 @@
 [INDOLOGY] Nagari conversion
-References: <2f45ae32-0d83-9b1d-593a-0d3f2cd976ee@gmx.de>
 Oliver,
 When I open the link you gave, in a browser it gives the file name in the
 upper left corner as drahyayana_shrauta_sutra.qxd . The extension qxd is

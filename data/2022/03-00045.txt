@@ -1,5 +1,4 @@
 [INDOLOGY] Grantha fonts for Mac
-References: <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662.ref@aol.com>
  <0566AC8B-980C-4DB0-9AB2-DF8C40CD8662@aol.com>
 Sorry, I meant a Unicode font for Grantha for Word for Mac.
 Regards,

@@ -1,7 +1,6 @@
 [INDOLOGY] =?utf-8?b?TmV3IFNhbnNrcml0IHRleHRib29rOiDgpLbgpKw=?=
  =?utf-8?b?4KWN4KSm4KSs4KWN4KSw4KS54KWN4KSu4KSo4KWNOiBBIGxpbmd1aXN0aWMg?=
  =?utf-8?q?introduction_to_Sanskrit?=
-References: <AB2E638A-D7C2-4010-8506-4758C8A0BFA2@lisco.com>
 Dear Colleagues,
 The Sanskrit Library has just published my new Sanskrit textbook in two volumes:
 I: Text and exercises, and

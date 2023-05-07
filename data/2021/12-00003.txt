@@ -1,5 +1,4 @@
 [INDOLOGY] OCR for sanskrit transliteration
-References: <CAJ3b0o_C0Lp7yRm51s92riyQ8AjV5SdXHovV_U1Jwy0anRo4aA@mail.gmail.com>
  <CAPwhWdvF3fm6aTL27eNnFvsgSuJ5DpXyP6=XopkmQMTexKA3_g@mail.gmail.com>
 "phonetic", not "phinetic"...
 On Wed, Dec 1, 2021, 7:18 AM DIEGO LOUKOTA SANCLEMENTE <
