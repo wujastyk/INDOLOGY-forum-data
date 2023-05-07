@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_Does_Devan=C4=81gar=C4=AB_Unicode_work_in_QuarkXpress_=3F?=
 Dear All,
 I am facing a problem using Unicode Devan?gar? font in desktop publishing software QuarkXpress.
 I have a text typed in Devan?gar? Unicode using the font "Devnagri MT". When I copy this text (or import the file) to a new file in QuarkXpress (I tired versions 8, 9 and 10) it breaks all the sandhis and shows separated alphabets with vir?ma/halanta.

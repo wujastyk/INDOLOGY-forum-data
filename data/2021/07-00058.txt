@@ -1,4 +1,3 @@
-[INDOLOGY] =?utf-8?q?dh=C4=ABmahi?=
 Hi Madhav,
 1) The search function for the list appears to only work for the most
 recent few months.

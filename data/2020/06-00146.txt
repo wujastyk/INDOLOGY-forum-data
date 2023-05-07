@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_Unicode_fonts_for_=C5=9A=C4=81rad=C4=81_and_Bhujimol_scripts=3F?=
 Dear Colleagues,
 Could you please suggest any Unicode (TTF or OTF) font to input the ??rad?
 and Newari Bhujimol scripts?

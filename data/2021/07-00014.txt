@@ -1,5 +1,3 @@
-[INDOLOGY] =?utf-8?b?YW7EgWRpciBheWHhuYMgxIFsb2tvOiB0cmFjaW5n?=
-	=?utf-8?q?_the_origin_of_a_stanza_from_a_Pali_Grammar?=
 Dear list,
 I am working on a short grammatical text in Pali called the Kacc?yanas?ra,
 composed in Burma, probably around the 14th century. It is a Pali version

@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
 Dear List,
 I am having trouble with the factory Hindi and Gujarati fonts on my Macbook
 Pro. In the middle of typing they just reverted to the Latin font. The Urdu

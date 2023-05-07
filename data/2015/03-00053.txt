@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 Dear indologists,
 	We noticed a quirk in the display of puur.n virAma (i.e. in the Sanskrit Library phonetic ascii encoding pUrR = KH pUrN) in Devanagari and wonder whether anyone has seen this display properly in a webpage with the proper characters.  Here is the Devanagari qwerty input:
 ?????	This is p U r f N

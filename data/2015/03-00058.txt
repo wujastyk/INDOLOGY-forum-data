@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 I think Pr Hock is right, it is a platform problem.
 The devanaagarii rendering of the OSX rendering engine is incorrect in the handling of halant in several corner cases.
 For instance, the conjunct consonant cCr is incorrectly handled. You may check by this test. When you look at the source of the page, you see the UTF8 encoding of tacCrutvA as:

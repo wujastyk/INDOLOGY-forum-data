@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Fwd:_Font_for_sanskrit/p=C4=81li?=
 The Brill font is quite good, and designed for languages that Brill regularly publishes, including Pali.
 According to Brill?s End User License Agreement, the font is free to use for non-commercial publication. (see: https://brill.com/page/FontsEndUserLicenseAgreement/brill-fonts-end-user-license-agreement) So it should be OK for a dissertation that isn?t being put up for sale (as the original inquiry had stated, I think). If a publication is being marketed commercially, it would anyway be the publisher?s responsibilty to purchase a license for whichever commercial font they need for typesetting your work. 
 Gentium and a couple of other fonts released by SIL (e.g., Charis as suggested by another colleague) have very good coverage of diacritics, and they describe which ranges of the Unicode standard they cover: https://software.sil.org/gentium/

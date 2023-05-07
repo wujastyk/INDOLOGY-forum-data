@@ -1,4 +1,3 @@
-=?utf-8?B?UmU6IFtJTkRPTE9HWV0Je+CkreCkvuCksOCkpOClgOCkr+CkteCkv+CkpuCljeCkteCkpOCljeCkquCksOCkv+Ckt+CkpOCljX0gQXJ0aWZpY2lhbCBOZXVyYWwgTmV0d29yayBmb3IgU2Fuc2tyaXQgcHJvZ3JhbW1pbmc=?=
 A correction:
 Please read "The performance figures for 56 tags were as follows" as "The
 performance was as follows".

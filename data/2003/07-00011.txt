@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Sanskrit_word_order_sort_program_=3F?=
 You can download two Perl programs (to run from terminal) from John Smith's
 ftp site that will sort entries into the CSX+ order of the Sanskrit alphabet.
 They are called ``ssort'' and ``ssort.unix'':

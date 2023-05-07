@@ -1,4 +1,3 @@
-wget (was: Re: Ab handlungen der K=?utf-8?Q?=C3=B6ni?=              gliche n Ak  ademie der Wissensch aften zu B erli)
 Except for grep I don't use cygwin much at all these days and have never heard of "curl" before now. For what it may be worth (NOT a one-line solution, and evidently superceded), the last time I tried to download anything from the DLI I used the technique described below in a note I wrote for a student. The "575" in the third script was determined by manual inspection of the files on the DLI ahead of tiime. Later attempts to download other books from the DLI consistently failed to display even one page in the browser, so I gave up on it completely. I'm glad to hear it's up and "running" again.
 Regards, Jim Fitzgerald
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

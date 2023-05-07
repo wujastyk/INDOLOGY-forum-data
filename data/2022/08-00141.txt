@@ -1,5 +1,3 @@
-[INDOLOGY] =?utf-8?q?Solved=3A_Bhartr=CC=A5hari=27s_=C5=9Aatakat?=
-	=?utf-8?b?cmF5YW0gd2l0aCBEaGFzxIFyYWdh4bmHaScgY29tbS4=?=
 Thanks to Lbomir Ondracka and Martin Straube.
 b.w.
 Adriano

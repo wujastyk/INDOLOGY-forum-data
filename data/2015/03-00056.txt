@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 Here is an almost immediate confirmation of my hunch that this is a platform issue. While the message showed the vir?ma on my iPhone, it does not do so on my MacBook Air.
 Go figure ?
 Hans Henrich

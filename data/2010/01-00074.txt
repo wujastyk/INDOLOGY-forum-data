@@ -1,4 +1,3 @@
-wget (was: Re: Abhandlungen der K=?utf-8?Q?=C3=B6nigliche?= n              Akademie der  Wissensch aften zu Berli)
 Birgit is quite right about the value of wget.  It's an amazing little
 tool.  I use it routinely to get books from the Digital Library of India,
 where texts are presented only as individual pages.

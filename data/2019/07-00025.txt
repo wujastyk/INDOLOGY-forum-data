@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Mah=C4=81bh=C4=81rata_concordance=3F?=
 Dear Prof. Ruppel,
 thanks for the attached concordance. It may be helpful in some cases, though it only gives a very limited orientation.
 The 'received' method to find your way from the BORI edition to Ganguli's translation is to calculate as exactly as possible the verse number of the Bombay and/or Calcutta edition(s) by means of the verse numbers for "B" and/or "C" in the upper left (even pp.) and lower right (uneven pp.) margins of the BORI edition. You can then look up these numbers in S. S?rensen's "Concordance to the Bombay and Calcutta editions and P.C. Roy's translation", given in his "Index to the Names in the MBh" (pp. IX-XLI). The accuracy of the respective page number in Ganguli's translation depends on the edition you use, but the discrepancy should not be very great.

@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]=09Digital_file_of_Ny=C4=81yas=C5=ABtrav=C4=81rtika_of_Uddyotakara?=
 ?I use the Remote Desktop stuff that comes with Linux (Mint).  That means
 that wherever I am in the world, I can log on to my home or office machine
 and do whatever I need, including fetching files, etc.

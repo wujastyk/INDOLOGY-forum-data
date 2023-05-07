@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Indische_Spr=C3=BCche?=
 Thanks a lot to Reinhold and Phillipp for their responses. The GRETIL e-edition is as convenient as possible, short of an e-text.
 I take the opportunity of asking if anyone knows who typed the attached file, which I received in a batch from a colleague, who doesn't remember from whom he got it. I am correcting the typing errors, adding the Old Javanese paraphrases, and formatting the whole in TEI. The resulting xml file will in due course be made available via suitable channels. I'd like to acknowledge the work of the person who typed the Sanskrit stanzas.
 Arlo Griffiths

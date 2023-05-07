@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
 Similar problem here, as of yesterday.  Whenever I open a Word doc the keylayout switches to Devanagari. If I remove Dev from the list, it switches to US Extended, which cannot be removed. I normally use a customized version of EasyUnicode. The problem seems limited to Word.
 Tim Lubin
 Sent from my iPhone

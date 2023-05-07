@@ -1,4 +1,3 @@
-=?utf-8?Q?accented_=C5=9AB_files_in_Unicode=3F?=
 In a similar vein, does anyone know if there is a downloadable transliterated unicode version of the ?atapatha Br?hma?a (accented, in either recension)?  I am aware of GRETIL's version of M (no accents), JR Gardner's vedavid.org version, and the TITUS accented version of M (which is what I often use, but it is not downloadable as far as I can tell; K is listed as in preparation).
 I hadn't searched for this in a long time, but in doing so now I was pleased to find that archive.org has a full scan of Eggeling's translation.
 Best,

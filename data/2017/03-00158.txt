@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Converting_Gretil_formats_to_devan=C4=81gar=C4=AB?=
 Dear McComas,
 You can use an browser-based conversion tool like this one: 
 http://www.learnsanskrit.org/tools/sanscript

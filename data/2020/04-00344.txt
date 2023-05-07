@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_dy=C5=AB_and_similar_ligatures?=
 I am trying to write words like dy?tam in n?gar? in MS Word (using Keyman) but I end up without the ligature: it seems that whenever d is followed by consonant+u/?/?, the d ends up followed by vir?ma. This affects things like dy?, ddh?, etc. I will type the n?gar? here, but your systems may well correct it:
 ???????, -?????-, -??????-
 When followed by -a-, the ligatures dy, db, ddh, etc come out correctly, but they split (into d-vir?ma-y etc) as soon as another vowel follows.

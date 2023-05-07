@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Converting_Gretil_formats_to_devan=C4=81gar=C4=AB?=
 Dear McComas,
 on a side note (as I get the question about conversion a lot), many if not most of GRETILs texts are available at www.sanskritworld.in<http://www.sanskritworld.in> converted to n?gar?. The Vi??upur??a however is not the version contributed by Peter Schreiner and blanks are sometimes unconventional in those files, too.
 Best wishes,

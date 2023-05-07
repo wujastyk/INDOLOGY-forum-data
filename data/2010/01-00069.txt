@@ -1,4 +1,3 @@
-Abhandlungen der K=?utf-8?Q?=C3=B6niglichen?=  Akademie der              Wissenschaften zu B erlin
 dear colleagues,
 for those, who use firefox as a webbrowser, the add-on DownThemAll  
 (https://addons.mozilla.org/en-US/firefox/addon/201)

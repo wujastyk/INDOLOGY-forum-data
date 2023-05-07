@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
 I can't speak to the exact problem with Hindi, etc. (I don't use them, though both of your problems sounds suspiciously similar to problems I've had before with keyboard layouts and also Apple/Microsoft more generally), and I've usually been able to find (often inelegant) workarounds from various places.  The always obvious solution is to give up on Microsoft (but I'm too stubborn).
 Barring that or a fix from either corporation, I would try (a) use a hot key to toggle layouts quickly, (b) toggle on/off the 'use document input source,' (c) change keyboard input at login, or (d) modify the hidden default file (I've never done this one since I didn't know it was possible, but it showed up in the link below; if I understand it properly, this could solve your US Extended problem, Tim).
 When you find a solution, do let me know as I'm sure I'll encounter the problem soon enough.

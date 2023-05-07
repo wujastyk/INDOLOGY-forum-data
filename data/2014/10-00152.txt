@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Looking_for_"=C5=9Aukran=C4=ABti_s=C4=81ra"?=
 Dear Patrick, et al:
 Below is a technique to download whole books from the DLI from a blog posting that is not my own.  The scholar no longer maintains the blog, so may no longer endorse the technique:
 DLI to PDF with BBEdit<http://pratibham.blogspot.com/2010/06/dli-to-pdf-with-bbedit.html>

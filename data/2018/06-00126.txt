@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_=C5=9Avet=C4=81mbara_Jain_texts_available_in_digital_format_(Unicode_Devan=C4=81gar=C4=AB)?=
 I would like to mention two points regarding the ?vet?mbara Jain 
 canonical texts ( Anandsagarsuri) at? Jain eLibrary:
 1. I opened one .docx-file: there is no searchable Unicode text but just 

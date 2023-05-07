@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 Dear Peter,
 it seems like the problem is common to all ligatures having an r- as their first sign, e.g. rg[vir?ma], rt[vir?ma], rp[vir?ma] and so on. I didn?t noticed that before.
 Yours,

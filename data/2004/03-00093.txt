@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_=C2=A0_=C2=A0_=C2=A0_Convert_Devanagari_into_romanized_text:_any_automatic_tools=3F?=
 In a message dated 20/3/04 5:30:43 pm, birgit.kellner at UNIVIE.AC.AT writes:
 Going from Roman to Devanaagarii is comparatively easy. Probably the best way
 is to write a PERL text filter. For instance, if you take the huge and

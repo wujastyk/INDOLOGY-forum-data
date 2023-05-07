@@ -1,5 +1,3 @@
-[INDOLOGY] =?utf-8?q?hack_for_searching_Apte_1957=E2=80=9359_=28?=
-	=?utf-8?q?Rev=2E_and_Exp=2E=29_online_in_IAST?=
 Dear all,
 I thought I would share this online dictionary hack I implemented today. If
 you enter this URL...

@@ -1,4 +1,3 @@
-=?utf-8?B?W0lORE9MT0dZXSBMYVRlWCBzb3VyY2UgZmlsZXMgZm9yIOKAmEFkaHnEgXRtYXLEgW3EgXlh4bmHZeKAmXDEgeG5h2luxKt5YXByYXlvZ8SB4bmHxIHhuYMgVmltYXLFm2HhuKXigJk=?=
 Dear list members
 For those intersted, the LaTeX source files for the book Adhy?tmar?m?ya?e?
 <https://www.academia.edu/25018408/Adhy%C4%81tmar%C4%81m%C4%81ya%E1%B9%87e_Ap%C4%81%E1%B9%87in%C4%AByaprayog%C4%81%E1%B9%87%C4%81%E1%B9%83_Vimar%C5%9Ba%E1%B8%A5>

@@ -1,2 +1,1 @@
-=?utf-8?Q?Re:_[INDOLOGY]_=E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3_Devanagari_conjunct_display_issue?=
 The implementation of Tamil on the Mac had several problems on Snow Leopard and Lion (as I remember).  These were fixed in Mavericks.  It is possible that the problem with Devanagari arises because people are not running the latest Mac OS.  George Hart

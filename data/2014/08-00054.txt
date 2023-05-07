@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Fwd:_devan=C4=81gar=C4=AB_font?=
 No trouble with typing d?ac???ic? or ???????? in Linux, using any program.
  When I have no choice but to use a word-processor, I use LibreOffice.
  Normal writing, I use a plain-text editor, currently TeXStudio.

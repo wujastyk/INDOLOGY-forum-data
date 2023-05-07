@@ -1,4 +1,3 @@
-=?utf-8?Q?AW:_[INDOLOGY]_[INDOL_OGY]_New_E_JVS_issue:___J.Rotaru__on_the_AV______________=C5=9A=C4=81nty_udak_avidhi?=
 Arlo, 
 in technical terms, the journal HAU uses a now very common and widespread open source and free software system called Open Journal System. In Heidelberg it's for instance used for the Journal of Transcultural Studies (http://transculturalstudies.org/) and for the Journal of the International Association of Buddhist Studies (http://archiv.ub.uni-heidelberg.de/ojs/index.php/jiabs/index). 
 The system has many options and therefore there is some learning curve involved, but I would wholeheartedly recommend it to anyone interested in publishing a journal online (or bringing archives of a journal online). Some university libraries now run their own installations, thus removing the need for journal editors or publishers to install and configure software and take care of maintenance. 

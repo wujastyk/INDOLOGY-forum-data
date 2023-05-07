@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
 Dear Hans Heinrich,
 On Aug 19, 2014, at 17:00 , "Hock, Hans Henrich" <hhhock at illinois.edu> wrote:
 My experiences could hardly be better. The native file format is ODT (OpenDocument Text), which is becoming increasingly the standard with governmental organizations across the world, and even with NATO (see http://en.wikipedia.org/wiki/OpenDocument#Worldwide_adoption).

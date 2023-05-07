@@ -1,4 +1,3 @@
-=?utf-8?B?W0lORE9MT0dZXSBYZUxhVGVYIGFuZCDgpKHgpY3gpK3gpL8=?=
 Dear colleagues,
 Does anyone know a way to get the ligature ???? to display without vir?ma in Devanagari MT, if need be through some amount of XeTeXglyph fiddling?
 I am pasting below the list of ligatures for which I have found it necessary so far to fake special measures using Devanagari MT. If it is clear that adopting a different font will make most of these special cases go away, please advise me.

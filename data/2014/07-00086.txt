@@ -1,4 +1,3 @@
-=?utf-8?Q?[INDOLOGY]_SARIT_update:_Su=C5=9Brutasa=E1=B9=83hit=C4=81.?=
 I am pleased to announce the addition of the Su?rutasa?hit? to the SARIT
 library.
    - http://sarit.indology.info/newphilo/navigate.pl?indologica.8

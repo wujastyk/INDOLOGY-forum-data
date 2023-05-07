@@ -1,4 +1,3 @@
-=?utf-8?Q?Re:_[INDOLOGY]_Pronunciation_of_j=C3=B1?=
 The Sanskrit phonetic tradition characterizes j as a voiced, palatal stop (not as an affricate). As it turns out, voiced stops before homorganic (voiced) nasal are historically unstable, not just because they may (or not) be difficult to produce but more important, because their acoustic identity is masked by the following homorganic nasal. As a consequence, the prehistoric sequence dn became nn even in Vedic times (as in *sad-na- > san-na-). It is therefore not surprising that j? should have undergone a similar change in Pali, where it turns into ??, simplified in initial position (in fact, it could be considered surprising that j? survived in Sanskrit). Once j? was no longer an acceptable consonant sequence, substitutes had to be found, and the various realizations referred to by Chatterji are different solutions to the problem in contemporary varieties of Sanskrit.
 Happy New Year,
 Hans Henrich
