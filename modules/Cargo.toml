@@ -1,7 +1,5 @@
 [workspace]
 
 members = [
-    "text-data-to-index-cards",
-    "solirom-lemmatizer",
     "unit-tests",
 ]
