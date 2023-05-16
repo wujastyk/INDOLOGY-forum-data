@@ -36,7 +36,7 @@ jobs:
       - name: Generate the indexes
         run: |
           mkdir ./public
-          cp ./data/ ./public
+          cp -r ./data/ ./public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
