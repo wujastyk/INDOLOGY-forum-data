@@ -37,7 +37,7 @@ jobs:
         run: |
           mkdir -p ./public/indexes
           cp -r ./data/ ./public
-          ./modules/text-data-to-index-cards/text-data-to-index-cards "./data" "**/*.txt" "./public/indexes"
+          ./modules/text-data-to-index-cards/text-data-to-index-cards "$GITHUB_WORKSPACE/data" "**/*.txt" "$GITHUB_WORKSPACE/public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
