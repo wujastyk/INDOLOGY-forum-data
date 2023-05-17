@@ -38,7 +38,8 @@ jobs:
           mkdir -p ./public/indexes
           cp -r ./data/ ./public
           ./modules/text-data-to-index-cards/text-data-to-index-cards "$GITHUB_WORKSPACE/data" "**/*.txt" "$GITHUB_WORKSPACE/public"
-          ls -l "$GITHUB_WORKSPACE/public"
+          cp "$GITHUB_WORKSPACE/modules/index-cards-to-indexes/indexes-config.json" "$GITHUB_WORKSPACE/public/indexes"
+          ./modules/index-cards-to-indexes/index-cards-to-indexes "$GITHUB_WORKSPACE/public/index-cards/**/*.idxc" "$GITHUB_WORKSPACE/public/indexes/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
