@@ -35,11 +35,16 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Generate the indexes
         run: |
-          mkdir -p ./public/indexes
+          mkdir -p $GITHUB_WORKSPACE/public/{indexes,indexes-ngram}
+          public_dir_absolute_path="$(realpath $GITHUB_WORKSPACE/public)"
           cp -r ./data/ ./public
           ./modules/text-data-to-index-cards/text-data-to-index-cards "$GITHUB_WORKSPACE/data" "**/*.txt" "$GITHUB_WORKSPACE/public"
-          cp "$GITHUB_WORKSPACE/modules/index-cards-to-indexes/indexes-config.json" "$GITHUB_WORKSPACE/public/indexes"
-          ./modules/index-cards-to-indexes/index-cards-to-indexes "$GITHUB_WORKSPACE/public/index-cards/**/*.idxc" "$GITHUB_WORKSPACE/public/indexes/"
+          cp "$GITHUB_WORKSPACE/modules/index-cards-to-indexes/indexes-config-fulltext.json" "$GITHUB_WORKSPACE/public/indexes/indexes-config.json"
+          cp "$GITHUB_WORKSPACE/modules/index-cards-to-indexes/indexes-config-ngram.json" "$GITHUB_WORKSPACE/public/indexes-ngram/indexes-config.json"
+          time $GITHUB_WORKSPACE/modules/index-cards-to-indexes/index-cards-to-indexes "$public_dir_absolute_path/index-cards/**/*.idxc" "$public_dir_absolute_path/indexes/"
+          time $GITHUB_WORKSPACE/modules/index-cards-to-indexes/index-cards-to-indexes "$public_dir_absolute_path/index-cards/**/*.idxc" "$public_dir_absolute_path/indexes-ngram/"
+          cp -a "$GITHUB_WORKSPACE/public/indexes-ngram/." "$GITHUB_WORKSPACE/public/indexes/"
+          rm -rf "$GITHUB_WORKSPACE/public/indexes-ngram"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
