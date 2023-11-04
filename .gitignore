@@ -1,4 +1,3 @@
-input/
 target/
 Cargo.lock
 lemma.en.txt
