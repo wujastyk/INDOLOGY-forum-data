@@ -1,0 +1,108 @@
+[INDOLOGY] Introducing JainGPT.org - Semantic Search
+fyi
+Unlock the World of Jain Literature: Introducing JainGPT.org -
+Semantic Search
+*Announcing JainGPT ? A Semantic search for Jain literature*
+*(chatgpt for Jain Literature)*
+We are thrilled to unveil our latest achievement: *JainGPT.org*, a website
+powered by Semantic search & Machine Learning, dedicated to Jain
+literature. Our team member, *Anish Visaria* has been hard at work,
+processing an immense collection of over half a million pages of literary
+texts. The outcome of these efforts is nothing short of remarkable - a
+robust semantic search capability, akin to the incredible ChatGPT by
+OpenAI. This feature allows you to delve deep into Jain texts, making it
+easier than ever to uncover their true meanings.
+Here's how you can experience the magic of JainGPT
+1.    *Visit us at JainGPT.org <http://jaingpt.org>*
+2.    Simply *type your question* or use the provided examples in the
+prompt box.
+3.    In no time, you'll receive chat responses that convey the *semantic
+meanings* you seek along with source reference.
+4.    Click on the *source* page links to access the exact page and book
+files on jainelibrary.org
+Please note that our system primarily supports *English queries* at the
+moment. However, it's now equipped to *extract basic meaning* from Hindi,
+Gujarati, and Sanskrit.
+But that's not all! We have exciting plans for the future:
+   1. *Content Refinement*: We're dedicated to elevating the quality of our
+   JaineLibrary OCRed book content. To achieve this, we'll be using
+   cutting-edge Language Models like GPT3.5 and Llama 2 to clean and organize
+   the material. This refined content will be readily available on JainGPT,
+   enhancing accessibility and usability.
+   2. *Generative Responses*: We understand the unique challenges posed by
+   Jain vocabulary and context limitations. Yet, we're exploring the
+   possibility of enabling generative responses using Language Models on
+   JainGPT. This, of course, hinges on achieving the required accuracy levels
+   and usefulness.
+*Few examples* of our search and results it provides?
+1.    Why do Jains do paryushan?
+?         The purpose of life according to Jain teachings is to realize
+oneself, as well as to experience wholeness, peace, compassion, and
+reverence for all life. Therefore, the real purpose of Paryushan is to
+purify our soul by observing and correcting our own faults, asking for
+forgiveness for the mistakes we have committed, and taking vows to minimize
+our faults. During Paryushan we should strive to minimize our worldly
+affairs so that we can.
+?         Paryushan Parva is the most important festival of Jains. During
+that eight-day period, many Jains fast and carry out religious activities.
+Paryushan Parva falls during the months of August and/or September. The
+word Paryushan is derived from two words meaning, 'Resorting to all round
+spiritual pursuit', and Parva means celebration. It is a period of
+repentance for the acts during the year and of austerities to help shed the
+accumulated karmas
+2.    Why should you not eat after sunset ?
+?         A widely popular Jain practice is to avoid any food after sunset.
+People attribute several reasons behind it including the inability to cook
+during night as there was no electricity in ancient times. Some reason was
+that it was to avoid insects etc. But, Mahapragva says that the true reason
+is far more important and scientific: the digestion of food is accelerated
+in the presence of sunlight. Our 1cars-sharir gets its energy from the sun.
+?         Jains usually try to eat before sunset since many visible and
+invisible lives thrive at night and we are in danger of consuming them.
+Eating before sunset also allows plenty of time for the digestive system to
+function properly.
+3.    Explain Anuyog in simple words
+?         ANUYOG (Inquiry and Research) Anuyog means exposition,
+description, or explanation. In the Jain Shastras there are expositions of
+countless subjects. These have been classified into four kinds. Therefore,
+there are mainly four kinds of Anuyog.
+?         107. Question-What is this, Anuyog? Answer-Anuyog is said to be
+of two types-1. Mools Prathamanuyog, and 2. Gandikanuyog.
+So basically, we can just type our questions in semantic words and
+respective answers with the sources from the books will show up. Hope you
+can utilize it to answer your religious, spiritual and Jain cultural
+questions.
+Our commitment remains steadfast in improving platforms and projects that
+promote Jain literature. Your feedback, from the Jain community and beyond,
+is invaluable to us as we continue this journey. If you have any questions
+or suggestions, please don't hesitate to get in touch on this *feedback
+form*
+<https://docs.google.com/forms/d/e/1FAIpQLSeos_5VhmdW9jtd8MZ_BGmamgOnQEK_6LCe02to1xuq6QVn0w/viewform>
+.
+Support our mission to spread Jainism knowledge through Jain ELibrary,
+delivering free books to readers. Your generous donation helps our
+volunteer-based organization thrive, ensuring accessible learning for all,
+now and in the future.
+Donate us:
+*1.*    *Paypal: paypal.me/jainelibrary <http://paypal.me/jainelibrary>*
+*2.*    *Zelle: treasurer at jainelibrary.org <treasurer at jainelibrary.org>*
+*3.*    *Other options: https://jainelibrary.org/ways-to-donate/
+<https://jainelibrary.org/ways-to-donate/>*
+Here?s the list of all our sites.
+Project -- Website / URL
+   - Jain Elibrary -- https://jainelibrary.org/
+   - Jain Quantum -- https://jainqq.org/
+   - Jain GPT -- https://jaingpt.org/
+   - Agam Search -- https://jainelibrary.org/aagam-listing/
+   - JAB - Jain Academic Bowl -- https://bit.ly/JainAcademicBowl
+   - Jainism-Says Blog -- https://jainism-says.blogspot.com/
+   - Jain Adult Workshops -- https://www.youtube.com/jainworkshopusa
+For any question about jaingpt or jainqq please contact
+*Anish Visaria ? quantum at jainelibrary.org <quantum at jainelibrary.org>*
+For other queries reach out to
+Pravin Shah | Jain eLibrary - In charge
++1 919-889-1900 | jainaedu at gmail.com
+Raj J Salecha | Co-ordinator
++1 401-400-2030 | contact at jainelibrary.org
+To unsubscribe from this group and stop receiving emails from it, send an
+email to world_01+unsubscribe at jainelibrary.org.
