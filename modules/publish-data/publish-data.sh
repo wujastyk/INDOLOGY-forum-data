@@ -2,6 +2,7 @@
 GITHUB_WORKSPACE=$(pwd)
 input_dir_path=$GITHUB_WORKSPACE/input
 data_dir_path=$GITHUB_WORKSPACE/data
+raw_data_dir_path=$GITHUB_WORKSPACE/raw-data
 
 rm -rf "$GITHUB_WORKSPACE/public"
 mkdir -p "$GITHUB_WORKSPACE/public"
@@ -17,21 +18,23 @@ for file in $input_dir_path/*.txt; do
     file_stem_name=${file_name%.txt}
     IFS=- read -r year month_name <<< $file_stem_name
     month_number=${months[$month_name]}
-    new_file_name=$year-$month_number.txt
-    mv $file $input_dir_path/$new_file_name
+    new_file_name=$month_number.txt
+    mkdir -p $input_dir_path/$year
+    mv $file $input_dir_path/$year/$new_file_name
 done
 
 # split each file in the 'input' into messages
-for file in $input_dir_path/*.txt; do
+for file in $input_dir_path/**/*.txt; do
     file_name=${file##*/}
     file_stem_name=${file_name%.txt}
-    IFS=- read -r year month_number <<< $file_stem_name
-    mkdir $input_dir_path/$year
-    file_prefix=$input_dir_path/$year/$month_number-   
+    file_prefix=$input_dir_path/$year/$file_stem_name-   
     echo $file_prefix
     csplit -s -z "$file" --prefix "$file_prefix" --suffix "%05d.txt" --elide-empty-files '/From /' '{*}'
     rm "$file"
 done
+
+# copy all the files from 'input' folder to 'raw-data' folder
+cp -a $input_dir_path/. $raw_data_dir_path/
 
 # process every file in the 'input' folder
 for file in "$input_dir_path/**/*.txt"; do
@@ -41,16 +44,12 @@ for file in "$input_dir_path/**/*.txt"; do
 done
 
 # copy all the processed files in 'input' folder to 'data' folder
-for folder in "$input_dir_path/**"; do
-    folder_name=$(basename $folder)
-    target_dir_path=$data_dir_path/$folder_name
-    mkdir $target_dir_path
-    cp $folder/*.txt $target_dir_path/
-    rm -rf $folder
-done
+cp -a $input_dir_path/. $data_dir_path/
+
+# copy the raw data to the 'public' folder
+cp -r "$GITHUB_WORKSPACE/raw-data/" "$GITHUB_WORKSPACE/public"
 
 # copy the data to the 'public' folder
-public_dir_absolute_path="$(realpath $GITHUB_WORKSPACE/public)"
 cp -r "$GITHUB_WORKSPACE/data/" "$GITHUB_WORKSPACE/public"
 
 # generate the triples

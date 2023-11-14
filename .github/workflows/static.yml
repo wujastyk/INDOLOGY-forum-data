@@ -28,14 +28,18 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Generate the indexes
         run: |
           ./modules/publish-data/publish-data.sh
+      - name: Commit the changes
+        uses: stefanzweifel/git-auto-commit-action@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
