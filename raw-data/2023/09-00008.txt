@@ -1,0 +1,32 @@
+From arlogriffiths at hotmail.com  Mon Sep  4 11:46:54 2023
+From: arlogriffiths at hotmail.com (Arlo Griffiths)
+Date: Mon, 4 Sep 2023 11:46:54 +0000
+Subject: [INDOLOGY] the sign/sound nexus in Indic scripts
+Message-ID: <AS8PR10MB73269B2FBA2BAA327AEB72A0A5E9A@AS8PR10MB7326.EURPRD10.PROD.OUTLOOK.COM>
+
+Dear colleagues,
+
+Scholars of Sanskrit are lucky in being able to work with a writing system that is tailor-made to express the sounds of the language and a pretty well established set of scholarly conventions for Romanization. There is no great difference between a graphemic and a phonological representation of Sanskrit. This probably holds for several other South Asian languages too. And there seems to a be a great stability in the relationship between sign and sound, as least in the languages that I know. The Oriya ?, the Bengali ?, the Tamil ? are palaeographically related and all represent the same consonant phoneme ? although the accompanying vowel differs. There are some other regional differences, but my entirely subjective impression is that stability of the sign-sound nexus is more impressive than differentiation in the history of script-use in India.
+
+I am pondering this matter and am wondering if it has given rise to scholarly analysis and interesting publications that members of the list might be able to refer me to.
+
+The background is formed by cases of significant change in the script/sound nexus that I have encountered in Southeast Asian languages and my concern about what they mean for Romanization strategies (in particular the applicability if ISO 15919). Two examples:
+
+1. https://id.wikipedia.org/wiki/Batak_(blok_Unicode)
+
+In the Batak writing system of North Sumatra, the word pustaha means ?book? and we can all guess the origin of this word. The last syllable is represented by ? (Unicode U+1BC2 BATAK LETTER HA), which is palaeographically related to the three ak?aras shown above and yet maps to a different phoneme. (In fact, in some Batak dialects other than the culturally dominant Toba dialect, which has been followed by Unicode, the same word spelt with the same ak?ara is pronounced as the Sanskrit word pustaka.)
+
+2. https://en.wikipedia.org/wiki/Cham_(Unicode_block)
+
+In the modern Cham script of Vietnam and Cambodia, ? (palaeographically related to ?, ? etc.) represents a consonant /n/ with a particular high vowel (maybe something like [?]) and is defined as CHAM LETTER NUE in Unicode, while the ligature ? that palaeographically matches with ??? is pronounced as /na/ and hence called CHAM LETTER NA in Unicode, any notion of a voiced stop /d/ being absent from the minds of native speakers when they think about this ak?ara.
+
+I will be grateful for pointers to help think about such phenomena in a comparative way.
+
+Arlo Griffiths
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20230904/b15ef308/attachment.htm>
+

@@ -1,0 +1,172 @@
+[INDOLOGY] Fwd: Michael Meyer papers was: Request for paper by
+ Malamoud
+ <CWXP265MB50100259C00328A006B4A8DF9CE4A@CWXP265MB5010.GBRP265.PROD.OUTLOOK.COM>
+ <CANYWBZfOQN_CuXkLdn=q7W7bgFqgbXmKQnaHfTsi_4KywYtt=g@mail.gmail.com>
+ <910C6A59-518B-4174-875D-7C0C3310FD33@uclouvain.be>
+ <CAJ3b0o_ksW+UL4=vFYUMS_1QDhmaS+ZAEiHEKZoREanA2c6-Rw@mail.gmail.com>
+ <DA396591-A521-46DE-BD9B-C6607FCA7067@uclouvain.be>
+ <3BAD6BED-7793-49A9-ADCF-39ECDE2065D4@uclouvain.be>
+Harry Spier
+Re: Michael Meyer papers was: [INDOLOGY] Request for paper by
+Malamoud
+It works again at least now...
+https://michaelmeyer.fr/sanskrit
+Sanskrit Dictionaries
+Last updated April 15, 2023
+This page allows you to search a Sanskrit term across most of the
+dictionaries available online, all at once. You can input terms in the
+International
+Alphabet for Sanskrit Transliteration
+<https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
+or in the Velthuis encoding scheme <https://en.wikipedia.org/wiki/Velthuis>.
+See below for more details on input conventions.
+The available dictionaries are given in the table below.
+Year Name Language
+1832 Wilson Sanskrit-English Dictionary en
+1846 Yates Sanskrit-English Dictionary en
+1847 Bopp *Glossarium Sanscritum* la
+1855 B?htlingk and Roth Grosses Petersburger W?rterbuch de
+1856 Goldst?cker Sanskrit-English Dictionary en
+1861 *Abhidh?naratnam?l?* of Hal?yudha sa
+1866 Benfey Sanskrit-English Dictionary en
+1866 Burnouf Dictionnaire Sanscrit-Fran?ais fr
+1872 Monier-Williams Sanskrit-English Dictionary (1st ed.) en
+1873 *V?caspatyam* sa
+1873 Grassmann W?rterbuch zum Rig Veda de
+1879 B?htlingk Sanskrit-W?rterbuch in k?rzerer Fassung de
+1884 Bergaigne ?tudes sur le lexique du ?gveda fr
+1884 Lanman?s Sanskrit Reader Vocabulary en
+1885 Whitney Roots en
+1886 *?abdakalpadruma* sa
+1887 Cappeller Sanskrit W?rterbuch de
+1890 Apte Practical Sanskrit-English Dictionary en
+1891 Cappeller Sanskrit-English Dictionary en
+1893 Macdonell Sanskrit-English Dictionary en
+1899 Monier-Williams Sanskrit-English Dictionary (2nd ed.) en
+1900 *?abdas?gara* Sanskrit-English Dictionary en
+1904 Index to the Names in the *Mah?bh?rata* en
+1906 Caland & Henry Termes techniques de l?*Agni??oma* fr
+1912 The Vedic Index of Names and Subjects en
+1928 Schmidt Nachtr?ge zum Sanskrit-W?rterbuch de
+1932 Stchoupak Dictionnaire Sanscrit-Fran?ais fr
+1951 The Pur??a Index en
+1953 Edgerton Buddhist Hybrid Sanskrit Dictionary en
+1954 Renou Vocabulaire du rituel v?dique fr
+1957 Renou Terminologie grammaticale du Sanskrit fr
+1958 Renou ?tudes sur le vocabulaire du ?gveda fr
+1959 Apte Enlarged Practical Sanskrit-English Dictionary en
+1962 Aufrecht?s *Catalogus Catalogorum* en
+1965 *K?dantar?pam?l?* sa
+1966 Indian Epigraphical Glossary en
+1974 Meulenbeld?s Sanskrit Names of Plants en
+1975 Puranic Encyclopedia en
+1978 Personal and Geographical Names in the Gupta Inscriptions en
+1993 *Mah?bh?rata* Cultural Index en
+2000 *T?ntrik?bhidh?nako?a* fr/en/de Input Conventions
+Here is how to input each phoneme:
+? a ? ? ? aa ? i ? ? ii ? u ? ? uu
+? ? r? .r ? ? r?? .rr ? ? l? .l ? ? l?? .ll
+? e ? ai ? o ? au
+?? ? ? .m ?? ? .h
+? k ? kh ? g ? gh ? ? f ?n
+? c ? ch ? j ? jh ? ? ~n
+? ? .t ? ?h .th ? ? .d ? ?h .dh ? ? .n
+? t ? th ? d ? dh ? n
+? p ? ph ? b ? bh ? m
+? y ? r ? l ? v
+? ? z ? ? .s ? s ? h
+? ? ? _l
+To represent a hiatus, either follow the convention of adding a diaeresis
+to the second vowel?as in *pra?ga*?or insert a space character between the
+two vowels?as in * pra uga*.
+Cross-references
+At the top of dictionary entries, immediately after the headword, there is
+often a list of terms that might be the same as the one you looked for, or
+that might be related to it, grammatically speaking. For instance, within
+the entry *gandharva*, you will find links to the entries *gandharbba*,
+*gandharva?*, *gandharvva*, *gandharvva?* and *ga?dharva?*.
+These clusters of terms are generated mechanically through a set of rules,
+and can thus be inaccurate. Some cases are inherently ambiguous. For
+instance, a term that ends with *-?* might either be a stem or the
+nominative masculine singular of a term that ends with *-in*. I am
+experimenting with machine learning to address these issues, but much work
+remains to be done. The end goal is to make this aggregation process
+transparent.
+As a general rule, when searching for nouns and adjectives, you should
+input the stem instead of a declined form, and then follow
+cross-references, if any. If the term you are looking for does not appear
+as a stem in any of the available dictionaries, you will still probably
+find it among suggested approximate matches.
+Browsing through Terms
+It is sometimes useful to browse through terms. You can jump to a given
+location in the dictionaries lexicon by typing the hash symbol # in the
+search field, followed by a few characters. While doing so, you will be
+presented with a list of terms that start with the prefix you typed so far.
+This autocomplete feature is currently only available for romanized input.
+Confirming the query will bring you to the first term that starts with the
+prefix you typed, or, if there is none, to the closest term that follows
+it, lexicographically speaking. Try for instance the query #uddh?r
+<https://michaelmeyer.fr/sanskrit?q=%23uddh%C4%81r>. Submitting the query #
+<https://michaelmeyer.fr/sanskrit?q=%23> just brings you to the very
+beginning <https://michaelmeyer.fr/sanskrit/meta/pages/1> of the lexicon.
+Advanced Search
+It is possible to find terms that match a pattern by using wildcard
+characters. The question mark character ? matches a single phoneme; the
+star character * matches a sequence of zero or more phonemes. Note that
+matching is performed at the phoneme level, not at the character level.
+Thus a?i matches abhi, but ab?i does not match it, since bh represents a
+single phoneme.
+It is also possible to find terms through approximate matching?sometimes
+called ?fuzzy matching.? The metric used for comparing strings is the
+Levenshtein
+distance <https://en.wikipedia.org/wiki/Levenshtein_distance>. This
+matching mode is enabled by appending a tilde ~ at the end of the search
+string. The query mandra~ <https://michaelmeyer.fr/sanskrit?q=mandra~>, for
+instance, returns terms like *mandra*, *ma?dra*, *madra*, * mantra*, etc.
+Approximate matching can be performed with wildcard patterns, not just
+string literals. This is particularly useful for finding occurrences of a
+given term within compounds. The query *uddyota~
+<https://michaelmeyer.fr/sanskrit?q=*uddyota~>, for instance, matches terms
+that end with something close to *uddyota*, and returns, among else,
+*uddyota*, * ??ntyuddyota*, *?c?roddyota*, *udyota*, etc.
+Credits
+Most of the above dictionaries were prepared and encoded by Jim Funderburk,
+Thomas Malten *et al.* at Cologne University
+<https://www.sanskrit-lexicon.uni-koeln.de/>. The textual version of
+Whitney?s *Roots* comes from Peter Scharf <https://sanskritlibrary.org/>,
+with some emendations of my own. The enlarged edition of Apte?s dictionary
+is derived from the data prepared at the University of Chicago
+<https://dsal.uchicago.edu/dictionaries/apte>.
+I prepared indices for the following dictionaries:
+   - Whitney * Roots* <https://michaelmeyer.fr/whitney-roots>
+   - Renou * Terminologie grammaticale du sanskrit*
+   <https://michaelmeyer.fr/renou-terminologie>
+   - Renou * Vocabulaire du rituel v?dique*
+   <https://michaelmeyer.fr/renou-vocabulaire>
+   - Renou *?tudes sur le vocabulaire du ?gveda*
+   - *T?ntrik?bhidh?nako?a* (vols. 1 and 2) <https://michaelmeyer.fr/tak>
+   - Bergaigne *?tudes sur le lexique du ?gveda*
+   <https://michaelmeyer.fr/bergaigne-lexique>
+   - Caland & Henry *Termes techniques de l?Agni??oma*
+Le 5 sept. 2023 ? 09:02, Christophe Vielle <christophe.vielle at uclouvain.be>
+a ?crit :
+The server is indeed now suddenly disconnected...! Hoping it is
+temporarily...
+The first link enabled a multiple search in nearly all the Sanskrit
+dictionaries available online (except the NWS).
+For the rest, here samples of what there was
+<Renou - Terminologie grammaticale Index.docx>
+<Renou - Voc. rituel ve?dique Index.docx>
+<Whitney Roots Index.docx>
+Le 5 sept. 2023 ? 02:36, Harry Spier <vasishtha.spier at gmail.com> a ?crit :
+These links to Michael Meyer's papers provided by Christophe Vielle don't
+seem to work.
+Harry Spier
+On Mon, Sep 4, 2023 at 3:24?AM Christophe Vielle via INDOLOGY <
+indology at list.indology.info> wrote:
+???????????????????
+Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+Louvain-la-Neuve
+???????????????????
+Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+Louvain-la-Neuve
