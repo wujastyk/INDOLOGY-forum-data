@@ -1,0 +1,60 @@
+From Claude_Setzer at fcsmtp.mum.edu  Wed Dec  4 05:00:06 1996
+From: Claude_Setzer at fcsmtp.mum.edu (Claude_Setzer at fcsmtp.mum.edu)
+Date: Tue, 03 Dec 96 23:00:06 -0600
+Subject: Sanskrit Computer Dictionary
+Message-ID: <161227027278.23782.889213905034179704.generated@prod2.harmonylists.io>
+
+>I am new to this list so let me give a short introduction of myself. My
+>name is Swami Vishvarupananda, and I am working on a long term project on
+>Shakta Philosophy, particularly Shriyantra and Shri Vidya. I am also
+>fascinated by Kashmir Shaivaism and its striking parallels to Shri Vidya.
+>I am also interested in the general study of Hindu Scriptures.
+
+>At present I would be happy if anyone could tell me where I can find a
+>computer dictionary for Sanskrit-English and possibly also
+>English-Sanskrit. I have found an online Sanskrit Dictionary at
+>http://reality.sgi.com/employees/atul/sanskrit/dict/search.html
+>but what I am really searching for is a dictionary I can install on my PC
+>(Pentium running Windows 95).
+>Thanks, 
+
+>Swami Vishvarupananda
+>Omkarananda Ashram Himalays
+>omkar at giasdl01.vsnl.net.in
+
+For those who have missed past comments, Thomas Malten and his group have been
+working for several years on entering and editing the entire Monier Williams
+dictionary and it is near release time even now.
+
+Very extensive software is in process of completion by Ralph Bunker, with help
+from work of several others, including George Cardonna's  and Peter Scharff's
+work on Paaninii. The software will take the very terse listing of Sanskrit
+words by Williams and expand it to virtually all possible forms, add in
+extensive grammatical information, remove the extensive abbreviations of
+Williams, and otherwise make Williams truly useful as an automatic spelling
+checker and translation reference. Ralph probably will not be in Bangalore,
+but several of his friends will be and we hope to have some prototypes of this
+and other software available for examination at the conference. Ralph is also
+trying to complete prototypes of a very powerful text processor with extensive
+transliteration abilities, including support for over a thousand variations of
+characters in a single Devanagari font.
+
+This is incredibly exciting, because it seems that finally Sanskrit will begin
+the process of developing the extensive proofing tools that have been
+available for so many years in simple scripts like English.!!!
+
+Claude Setzer  csetzer at mum.edu
+
+
+
+--
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+         Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
+               ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+

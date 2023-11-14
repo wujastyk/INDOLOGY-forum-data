@@ -1,0 +1,134 @@
+From aditya at icanect.net  Wed Mar 20 23:01:20 1996
+From: aditya at icanect.net (aditya at icanect.net)
+Date: Wed, 20 Mar 96 23:01:20 +0000
+Subject: Glossary of Sanskrit Terms. Need 10 people 15 minutes daily for a  month
+Message-ID: <161227023504.23782.10474460279736659126.generated@prod2.harmonylists.io>
+
+Nandu Abhyankar <abhyankn at plk.af.mil> has recently written an
+interesting message which I am forwarding since it may be of interest
+to many of you as well.:
+
+                                                Happy New Year
+                                                chaitra pratipadaa
+                                                varshhapratipadaa
+                                                yugaadii
+                                                March 20, 1996
+Dear friends,
+
+This is a message regarding glossary of Sanskrit terms.
+Please read it carefully since it has a long-term/far-reaching
+consequences on the glossary preparation, the planned
+work of many minds accessing Sanskrit digest!
+
+We encourage your participation whole-heartedly to show any
+significant achievement.
+
+The planned work is an on-line one-line meaning representation of
+a large collection of Sanskrit words.
+
+There is an on-going project of encoding
+Monier-Williams' dictionary for on-line use. The work is initiated
+in Europe, and will be useful since it will give a wider
+understanding of each Sanskrit word.  It is also a scholarly work,
+although we do not know its copyright implications or possible cost
+involved.
+(http://www.uni-koeln.de/phil-fak/indologie/index.html).
+
+We realize that everyone interested in Sanskrit
+must have a printed/published, well prepared , personal
+Sanskrit-English-Sanskrit type dictionary.  This is mainly because
+Sanskrit, or any language for that matter, should not/cannot be learnt
+by
+sitting in front of computer screen, although it may be the future
+trend!
+
+So our attempt is not to substitute other dictionaries but provide
+something complementary and comprehensive, something for ready 
+reference when the access to your living room dictionary 
+copy is not possible!
+
+With this relevant introduction, let us try to understand what has
+already
+been done to create an example of Sanskrit words glossary/dictionary 
+consisting of about 2500 words.  
+We expect that you will join us in providing additional help.
+
+The glossary is available for browsing, word-searching,
+and adding more words in a certain format.  Please access it using
+Web-URL
+http://reality.sgi.com/employees/atul/sanskrit/sanskrit.html
+under the category of Sanskrit Dictionary.
+
+You can use the search procedure to do meaningful searches based on 
+prefix or exact words strictly according to the ITRANS transliteration
+scheme.
+
+You can directly browse the present version of the dictionary file
+which
+has words in the format
+Devanagari (English transliteration) = meaning
+The file is kept for reading only.  The words are arranged in the
+Devanagari letter sequence with little modifications.
+
+We request that you visit words-add page and add meanings to Sanskrit
+words
+in the format
+word = meaning
+one per line.  After adding your list you can browse a file addlist
+in http://reality.sgi.com/employees/atul/sanskrit location to check
+if your entry is included.  Please note that it is important that you
+follow a strict ITRANS transliteration to avoid hours of editting 
+by a volunteer later on.  This addlist will then be processed
+to enlarge the existing version of the word-meaning pair.  
+
+If web/www access is not possible from your computer, please let us
+know
+so that we can place a file for FTP access or email it directly.
+
+Anyone interested in the programming procedure or in assisting in
+software efforts should contact Atul Narkhede atul at sgi.com .
+All the software scripts are written in Perl for Unix-based
+workstations.
+
+Independently we request you to prepare short files with
+word = meaning
+pair one on each line.  Other suggestion is to take-up a small stotra
+available on jaguar site, 
+(ftp://jaguar.cs.utah.edu/private/sanskrit/sanskrit.html)
+split-it into words and give meanings to the shloka
+and words, as a result we will have both word/meaning pair as well
+as meanings to the stotra-s.
+For a list of large number of words please access
+sanshab.itx(or sanshab_557_pages.ps) from jaguar site.
+
+Our expectation is that ten people would spend 15 minutes of
+their time *daily* to give us 20 word/meaning pairs per day for at 
+least a month.  Can we do that?  5000 words per month, more the
+better!
+After such a collection, it will be editted to eliminate typing
+errors.
+That leads us to request you to give accurate transliteration and
+meanings.
+
+We consider it a beginning and your cooperation is invaluable!
+
+Please join us in providing an on-line preliminary Sanskrit words
+glossary,
+one among many Sanskrit related projects presented at jaguar site.
+----------------------------------------------------------------------------
+
+
+Have a nice day. 
+---------------
+Aditya Mishra  
+http://www.icanect.net/~aditya   
+***********************************************************
+The opinions expressed herein are continually mutating and*
+might have already been changed  by the time you read them* 
+owing to the more recent information that became available*
+***********************************************************
+
+
+
+
+

@@ -1,0 +1,33 @@
+From apandey at U.WASHINGTON.EDU  Fri May  8 10:24:15 1998
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Fri, 08 May 98 03:24:15 -0700
+Subject: computers and Indology (fwd)
+Message-ID: <161227038361.23782.8351784160423228725.generated@prod2.harmonylists.io>
+
+Apologies for sending a private message to the list.
+
+-Pandey
+
+
+
+> It is possible much more straightforwardly if the text in question is
+> coded in ISCII: the software can simply switch from script to script on
+> demand. If you haven't yet done so, download ALP Personal from CDAC's
+> website and play with it: it's a reduced version of a DOS-based word
+> processor modeled on WordStar, and thus somewhat ancient in look and feel,
+...
+
+Hello John,
+
+I can't seem to find the CDAC website, I've checked the site from where
+Leaplite is available, but I can't find ALP? Do you happen to recall the
+URL for ALP?
+
+Thank you!
+
+Best regards,
+Anshuman
+
+
+
+

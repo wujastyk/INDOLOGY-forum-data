@@ -1,0 +1,46 @@
+From info at TICONSOLE.NL  Mon Jul  6 19:15:16 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Mon, 06 Jul 98 21:15:16 +0200
+Subject: Sanskrit
+Message-ID: <161227040616.23782.8059593599121507217.generated@prod2.harmonylists.io>
+
+Jacob Baltuch wrote
+
+>>(a) A friend gave the man a book.
+>>(b) The man was given a book by a friend.
+>>How do I know that "the man" in (b) does NOT function as a dative?
+>
+>It cannot function as a dative, because it occupies the specifier-of-sentence
+>position, in other words, it occupies the subject position.
+
+>Hmm, you can say "to the man a book was given by a friend" with the
+>dative opening the sentence. A bit "poetical" maybe but certainly
+>grammatical.
+>
+>So your reason seems convincing only in conjuction with stating that
+>in that position a dative needs to be overtly expressed by a preposition.
+
+And that is because immediately before the SPEC to I position (generally subject position) there is a COMPlement, the landing place for preambles, and raised phrases, like subordinated clauses and indirect objects, like in your example ``to the man a book etc''. In your example, the book still is the subject. Elements are moved to COMPlement in order to provide stress, emphasis, as we all know without studying Generative Grammar.
+
+COMP - SU - V - Obj - IObj.
+
+>But I think it is entirely adequate to say like Elliot that it is
+>immediately clear "the man" cannot be a dative just by replacing the
+>man with a pronoun (it's *he* was given a book by a friend and not **him
+>was given a book by a friend) which is much quicker and simpler and
+>just as adequate than all the reasons above.
+
+
+Certainly! Simple and adequate. It is a nice mnemonic aid. Remember, however, it is not an explanation, it's only an adequate help to your memory.
+
+Sandra van der Geer
+Leiden, NL
+info at ticonsole
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 2156 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19980706/49802d19/attachment.bin>
+

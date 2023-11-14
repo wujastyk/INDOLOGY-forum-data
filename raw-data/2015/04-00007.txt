@@ -1,0 +1,48 @@
+From hspier.muktabodha at gmail.com  Thu Apr  2 22:11:05 2015
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Thu, 02 Apr 15 18:11:05 -0400
+Subject: [INDOLOGY] Accessing the NGMCP title list
+In-Reply-To: <56F23CC4-5B49-4746-8949-B30AD1939943@uni-hamburg.de>
+Message-ID: <CAPW7aQGzBCkgcH_NXkQAEDfRnbpuf4V4jauuURosw2ThpWa83Q@mail.gmail.com>
+
+Thanks Kengo but when I click on the "Online Title List" icon which is link
+"http://catalogue.ngmcp.uni-hamburg.de:3000/" it still gives me "could not
+connect to server".
+
+Thanks,
+Harry Spier
+
+On Thu, Apr 2, 2015 at 6:01 PM, Kengo Harimoto <kengoharimoto at gmail.com>
+wrote:
+
+> Should be fine now.
+>
+> --
+> Kengo Harimoto
+>
+> > On Apr 2, 2015, at 23:45, Harry Spier <hspier.muktabodha at gmail.com>
+> wrote:
+> >
+> > Dear list members,
+> >
+> > I tried to access the NGMCP catalogue title list through this link from
+> their website:
+> > http://catalogue.ngmcp.uni-hamburg.de/
+> >
+> > but it gives me "page unavailable".  Is there another link to the title
+> list that works.
+> >
+> > Thanks,
+> > Harry Spier
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > http://listinfo.indology.info
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150402/d61672e0/attachment.htm>
+

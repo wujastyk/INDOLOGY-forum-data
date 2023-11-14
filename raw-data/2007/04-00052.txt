@@ -1,0 +1,82 @@
+From Gerard.Huet at INRIA.FR  Wed Apr 11 12:52:47 2007
+From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
+Date: Wed, 11 Apr 07 14:52:47 +0200
+Subject: Question regarding sorting order & Visarga
+In-Reply-To: <E4F6F36F6B0C7B409966C9B7242458149549D3@ECLUST2-VS4.adsroot.itcs.umich.edu>
+Message-ID: <161227079930.23782.4567638735562968420.generated@prod2.harmonylists.io>
+
+The nagging question of the place of visarga in the sorting order of  
+Sanskrit arises in two subtle problems.
+
+1. Should the visarga assimilated to a sibilant count as this  
+sibilant in the sorting order ?
+This seems logical, and parallel to the ranking of anusvaara as the  
+homophonic nasal of the following consonant,
+in the case of "non-original" anusvara.
+Thus in my lexicon, I put <du.h"sala> after <du"sce.s.taa>, not  
+before, as would be suggested by the rules just given
+by Ashok Aklujkar.
+Monier-Williams avoids the difficulty, by having an entry du.h-  
+carrying compounds such as <du.h"sala>.
+
+2. Where should one list <du.hkara>, obtained by sandhi from dus- 
+kara, whereas its usual spelling is <du.skara>?
+Some arbitrary choice has to be made, it seems, since the 2 spellings  
+are at different places in the sorting order.
+Monier-Williams indicates this dilemma at entry du.h- p. 483, where  
+he signals that du.h-k and du.h-p are to be
+looked at du.s- p 487. Thus for him the word <du.h.sama> is listed  
+(under du.h-) BEFORE <du.hkara> listed as <du.skara>.
+But he does not apply the same reasoning to <du.skha>, which he  
+refers under du.s- as link to <du.hkha> listed
+not in du.h- but as an independent entry, which he begins with some  
+discussion on the etymology of the word.
+
+If we want to standardize this issue, the first question to ask is  
+whether the position of a string of letters/phonemes
+is determined strictly by lexicographic order induced by the standard  
+collating sequence of the alphabet,
+or whether it is the position of some standardized form where  
+anusvara (and presumably visarga) is to be taken
+as the possible homophonic nasal (resp. homophonic sibilant) of the  
+next consonant. This second choice, the usual one,
+is context-sensitive. It is contradictory with Monier-Williams' use  
+of an entry <du.h-> which is schizophrenic with
+respect to ordering.
+
+Then, if we do decide to assimilate say .m to n in <sa.mdhi>, as is  
+usual, does that mean that the reverse is true,
+i.e. is it legal to write say <sasa.mja> instead of <sasa~nja> for  
+the perfect of root <sa~nj> ? This is debatable,
+since here anusvara does NOT come from morphological sandhi, but  
+merely as an abbreviation for the nasal savar.na with j.
+Thus, it is not obvious to me that issues of sorting order are  
+decided just at the phonemic level, without considering
+how the phonemes arise from morphological operations. This issue is  
+polluted by typographical considerations, since
+anusvaara avoids complex ligatures with nasals.
+
+In the same vein, there are many representational issues with hiatus  
+(eg tita_u pra_uga pra_ucya in morphology,
+ka.ta_aaste in syntax), with candrabindu versus anusvaara, and with  
+the elusive avagraha. All these problems
+arise in classical Sanskrit, even if we ignore Vedic difficulties.
+
+G?rard Huet
+
+Le 11 avr. 07 ? 00:13, Deshpande, Madhav a ?crit :
+
+> Dear Indologists,
+>
+>      Harry Spier asked me the following question:  "where does  
+> visarga come in the sorting order of
+> Sanskrit letters?"  Is there a standard placement for the Visarga  
+> in the sorting order  that is generally followed these days?
+>
+> Madhav M. Deshpande
+>
+>
+
+
+
+

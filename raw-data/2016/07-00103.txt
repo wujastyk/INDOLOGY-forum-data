@@ -1,0 +1,24 @@
+From mmdesh at umich.edu  Fri Jul 15 10:58:01 2016
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Fri, 15 Jul 16 06:58:01 -0400
+Subject: [INDOLOGY] Unicode Devanagari on Mac
+Message-ID: <CAB3-dzeP93j_7zywr_V+2Z7Jsubj30Y0+4UvFy7UOAyTttPTcg@mail.gmail.com>
+
+Dear Indologists,
+
+     To my happy surprise, I found that with the combination of the latest
+version of Microsoft Office 360 for Mac and the latest Mac Operating System
+OS X El Capitan, it is now possible to directly enter Unicode Devanagari in
+a Word document with the Devanagari - QWERTY keyboard layout.  Previously,
+I had to enter Unicode Devanagari in something like TextEdit and then copy
+and paste into a Word document, but was not able to edit it in the Word
+document.  The new development of software has happily changed that
+situation.  Hope this information will be of use to some of you.  Best,
+
+Madhav Deshpande
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160715/9027a385/attachment.htm>
+

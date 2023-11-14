@@ -1,0 +1,35 @@
+From jds10 at CAM.AC.UK  Wed Jan  5 10:25:48 2000
+From: jds10 at CAM.AC.UK (John Smith)
+Date: Wed, 05 Jan 00 10:25:48 +0000
+Subject: CARB fonts: proposed character set
+Message-ID: <161227054833.23782.9471284850200918731.generated@prod2.harmonylists.io>
+
+A few weeks ago I announced a plan to launch a set of fonts to supplement
+the Times Norman and CSX+ fonts. These were to be called CARB, standing
+for "Character/Accent RagBag", and were to contain whatever weird and
+wonderful accented characters Indologists require that are not already
+found in the standard fonts.
+
+I have received numerous suggestions, and I attach to this message a
+definition file listing (and assigning encoding slots to) the characters
+which I propose to include in CARB. Final suggestions are welcome; there
+are still 24 vacant slots, so if you have a burning need for
+n-underring-macron-acute, now is your chance!
+
+After a few days to allow people to comment I shall build and release the
+fonts.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: CARB.def
+URL: <https://list.indology.info/pipermail/indology/attachments/20000105/991670bd/attachment.ksh>
+

@@ -1,0 +1,17 @@
+From markandeia at gmail.com  Sat Jun 20 09:34:12 2020
+From: markandeia at gmail.com (Nataliya Yanchevskaya)
+Date: Sat, 20 Jun 20 05:34:12 -0400
+Subject: =?utf-8?Q?[INDOLOGY]_Unicode_fonts_for_=C5=9A=C4=81rad=C4=81_and_Bhujimol_scripts=3F?=
+Message-ID: <CAJZXY-SnRQ++8frDmjBTaezCR5D56kv-xpcS+N_FR7SMunEpbg@mail.gmail.com>
+
+Dear Colleagues,
+Could you please suggest any Unicode (TTF or OTF) font to input the ??rad?
+and Newari Bhujimol scripts?
+Thank you and best wishes,
+Nataliya
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200620/00a40692/attachment.htm>
+

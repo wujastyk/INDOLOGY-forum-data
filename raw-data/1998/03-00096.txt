@@ -1,0 +1,60 @@
+From ucgadkw at UCL.AC.UK  Thu Mar  5 09:56:24 1998
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Thu, 05 Mar 98 09:56:24 +0000
+Subject: WinMASS LIPI... (fwd)
+Message-ID: <161227036441.23782.9331518648158489327.generated@prod2.harmonylists.io>
+
+---------- Forwarded message ----------
+Date: Thu, 5 Mar 1998 17:13:41 +0800 (SGT)
+From: Das Menon <dmenon at pacific.net.sg>
+Subject: WinMASS LIPI...
+
+Dear Indian Language Lovers,
+
+Scripts India is please to announce the release of their Indian Scripts
+"enabler" software for Windows 95, called WinmASS LIPI.
+
+The software enables multi-lingual capabilities  in products like Word,
+Netscape, Eudora, Internet Explorer etc., enabling these application to sent
+and receive information in Indian Languages.
+
+Anyone familiar with the standard QWERTY keyboard will find it very easy to
+type in the Indian Script of their choice, since most of the vowels and
+consonents have been mapped phonetically to the QWERTY keys (with the
+notable exception of  ~na; "na; .Ta; .Tha, .Da; .Dha; .Na, and
+Malyalam/Tamil "zha").
+
+The program also supports the automatic formation of conjunct characters.
+
+The first release of the software supports the following scripts:
+
+1.      Devanagari
+2.      Gujarati
+3.      Gurmukhi
+4.      Malayalam
+5.      Tamil
+
+Roman input method is available for Tamil in this release. The next release
+will have Roman input support for the other scripts (based on the Vethuis
+scheme).
+
+The next release is planned with support for Assamesse/Bengali, Kannada and
+Telugu.
+
+The software is being retailed at US$99.00, inclusive of the above five scripts.
+
+Those interested to receive more information on this product or to place an
+order, please contact the undersigned.
+
+Thanks & Regards...Das
+
+Das Menon
+Scripts India Pte Ltd
+52 Chin Swee Road #05-00
+Singapore 169875
+
+email:  dmenon at pacific.net.sg
+
+
+
+

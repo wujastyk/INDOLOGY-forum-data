@@ -1,0 +1,39 @@
+From mcv at WXS.NL  Wed Aug 12 19:24:39 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Wed, 12 Aug 98 19:24:39 +0000
+Subject: SV: Fortunatov's Law and tolkAppiyar's rules
+In-Reply-To: <01BDC62C.AC8B1A60@ti01a24-0124.dialup.online.no>
+Message-ID: <161227041170.23782.5517136097575772624.generated@prod2.harmonylists.io>
+
+Lars Martin Fosse <lmfosse at ONLINE.NO> wrote:
+
+>The fact that a certain phenomenon is shared by some languages does not exclude
+>the possibility that they occurred independently in some of  - or all of - the
+>languages. How do we know that the changes are not independent?
+
+Indeed.  We know that for instance the change *k(w)e > c^e is
+independent in Slavic (c^etyre), Indo-Iranian (catva:ra-) and
+Armenian (c^'ork') [PIE *kwetwores "4"].  This is very common sound
+change, which makes it unsurprising that it should have happened
+independently many times over.  The "satem"-change (*k^ becomes some
+kind of s(h)ibilant) is just as common and trivial, but there are
+reasons to believe that this change was not independent, but affected
+a single dialect of IE.  This has to do with the fact that the
+"satem" languages have several other things in common, things that
+less trivial.  One of them is the RUKI-rule (*s > /s^/ after i, u, r,
+k (and H?)).  This makes it more likely that we are dealing with a
+set of shared innovations, and that it is probably justified to speak
+of a "satem" subgroup of IE (on the other hand, there is no "centum"
+group: those are just the languages that fail to be "satem").
+
+But there can't be 100% certainty: the satem-change might have
+happened in all these languages independently.
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

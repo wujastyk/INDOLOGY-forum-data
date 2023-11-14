@@ -1,0 +1,823 @@
+From caf57 at cam.ac.uk  Sat Nov 23 19:03:12 2013
+From: caf57 at cam.ac.uk (C.A. Formigatti)
+Date: Sat, 23 Nov 13 19:03:12 +0000
+Subject: [INDOLOGY] unidentified Grantha manuscript (C.A. Formigatti)
+In-Reply-To: <mailman.1028.1385232541.20999.indology_list.indology.info@list.indology.info>
+Message-ID: <30536ed9a453386416924fd7f75122cf@cam.ac.uk>
+
+P.S. We have only two manuscripts of the S?maveda in the CUL 
+collections: a Devan?gar? paper ms acquired By C. Bendall from Bhagvan 
+D?s Kevaldas at Bombay in 1885, and a palm-leaf Devan?gar? ms of which I 
+do not remember the provenance at the moment (I will check again). They 
+still have to be catalogued, though.
+
+Camillo Formigatti
+
+Research Associate
+Sanskrit Manuscripts Project, Cambridge
+Faculty of Asian & Middle Eastern Studies
+University of Cambridge
+Sidgwick Avenue
+Cambridge CB3 9DA
+
+On 2013-11-23 18:49, indology-request at list.indology.info wrote:
+> Send INDOLOGY mailing list submissions to
+> 	indology at list.indology.info
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://list.indology.info/mailman/listinfo/indology_list.indology.info
+> 
+> or, via email, send a message with subject or body 'help' to
+> 	indology-request at list.indology.info
+> 
+> You can reach the person managing the list at
+> 	indology-owner at list.indology.info
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of INDOLOGY digest..."
+> 
+> Today's Topics:
+> 
+>    1. Re: unidentified Grantha manuscript (Marco Franceschini)
+>    2. Re: unidentified Grantha manuscript (C.A. Formigatti)
+> 
+> Many thanks to all the colleagues who helped identifying the text!
+> 
+> I've uploaded in DropBox some pictures of the manuscript, for those of
+> you who are interested in having a look at it:
+> 
+> https://www.dropbox.com/s/mxyeq3ruo82wbgt/MS-OR-02345.zip [1]
+> 
+> As you will see, the colophon (found in [66v], added by a second hand)
+> is uninked: I hope the pictures are good enough to read it.
+> 
+> Some remarks about the points that have been raised (but please
+> remember that I'm far from being an expert of Tamil script, so you'd
+> better check the readings yourself!):
+> 
+> - _cuppa?am_ / _uppa?am_: the word is found in the final colophon
+> [66v2] and in the final rubric of the _Ark??ip??ha_ [43v6]. In
+> both places the word is written in Tamil script: therefore, if
+> _cuppa?am_ stands (erroneously) for _uppa?am_, the confusion did
+> not arise because of the graphic similarity between _cu_ and _u_,
+> since Tamil _cu_/_su_ and _u_ are graphically quite different.
+> 
+> - _muki?catu_ / _muti?catu_: my transcription was wrong, the
+> manuscript reads _muku?catu_ [66v3]
+> 
+> - _kurantam_ / _kirantam_: I'm almost sure that the manuscript
+> actually reads _?ra?akurantam_ in [66v2] and _?ra?akurentam_ in
+> [43v6]
+> 
+> - the word _kesava[??]_ is scratched also on the upper wooden cover
+> 
+> Coming to Asko Parpola's questions, this is the first manuscript of
+> the Jaimin?ya S?maveda I find in the UL collection, but at present
+> I've catalogued only one fourth of the 40 Grantha manuscripts that are
+> part of the collection. I'll let you know in case I find more.
+> As for the provenance of this manuscript, I think that the question
+> will be soon (and more conveniently) answered by Camillo Formigatti,
+> who knows far better than me about the history of the UL collection.
+> 
+> Best wishes,
+> 
+> Marco Franceschini
+> ---
+> 
+> Links:
+> ------
+> [1] https://www.dropbox.com/s/mxyeq3ruo82wbgt/MS-OR-02345.zip
+> 
+> List-Post: <mailto:indology at list.indology.info>
+> Content-Transfer-Encoding: quoted-printable
+> From: "C.A. Formigatti" <caf57 at cam.ac.uk>
+> Precedence: list
+> MIME-Version: 1.0
+> To: indology at list.indology.info
+> References:
+> <mailman.970.1385209840.20999.indology_list.indology.info at list.indology.info>
+> In-Reply-To:
+> <mailman.970.1385209840.20999.indology_list.indology.info at list.indology.info>
+> Date: Sat, 23 Nov 2013 18:48:58 +0000
+> Message-ID: <fb7a3a4cb3914a01434008b38bfa51e0 at cam.ac.uk>
+> Content-Type: text/plain; charset=UTF-8;
+>  format=flowed
+> Subject: Re: [INDOLOGY] unidentified Grantha manuscript
+> Message: 2
+> 
+> Dear Colleagues,
+> 
+> I will try to answer the question about the provenance of the 
+> Grantha=20
+> mss in the Cambridge Collections. We have very scanty information 
+> about=20
+> the provenance of most of the South Indian mss in the Cambridge=20
+> University Library.  The ms catalogued by Marco Franceschini has 
+> been=20
+> acquired by the Library between 1990 and 1991 from the book dealer=20
+> Robert E. Stolper. It belongs to a batch of manuscripts which 
+> included=20
+> also Malayalam mss (in Sanskrit and Malayalam language) as well as 
+> Shan=20
+> mss, for a total of ca 130 mss. Unfortunately, there is no record of=20
+> this acquisition in the University Library, and the only source at 
+> our=20
+> disposal is a hand-list that only notes if a ms is "Shan" or 
+> "Malayalam"=20
+> (sometimes a title is mentioned, but this is usually an educated 
+> guess;=20
+> there is no mention of Grantha mss at all, and therefore Marco=20
+> Franceschini is cataloguing and mapping them).
+> 
+> I'm sorry to disappoint you, but I'm afraid this is the only piece 
+> of=20
+> information we are able to provide about this part of the 
+> collections=20
+> (the provenance of other parts of the collections is better 
+> documented).
+> 
+> Camillo Formigatti
+> 
+> Research Associate
+> Sanskrit Manuscripts Project, Cambridge
+> Faculty of Asian & Middle Eastern Studies
+> University of Cambridge
+> Sidgwick Avenue
+> Cambridge CB3 9DA
+> 
+> On 2013-11-23 12:30, indology-request at list.indology.info wrote:
+>> Send INDOLOGY mailing list submissions to
+>> 	indology at list.indology.info
+>> =20
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>> 	http://list.indology.info/mailman/listinfo/indology_list.indology.info
+>> =20
+>> or, via email, send a message with subject or body 'help' to
+>> 	indology-request at list.indology.info
+>> =20
+>> You can reach the person managing the list at
+>> 	indology-owner at list.indology.info
+>> =20
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of INDOLOGY digest..."
+>> =20
+>> Today's Topics:
+>> =20
+>>    1. Re: unidentified Grantha manuscript (palaniappa at aol.com)
+>>    2. Re: unidentified Grantha manuscript (asko.parpola at helsinki.fi)
+>>    3. Re: unidentified Grantha manuscript (Dipak Bhattacharya)
+>> =20
+>> The word =C4=81ra=E1=B9=87am can also refer to Veda in general. Here 
+>> is t=
+> he
+>> Tamil Lexicon entry.
+>> =20
+>> *=E0=AE=86=E0=AE=B0=E0=AE=A3=E0=AE=AE=E0=AF=8D =C4=80RA=E1=B9=86AM
+>> , _n_. cf. _=C4=81ra=E1=B9=87yaka_. 1. A portion of the V=C4=93da. See
+>> =E0=AE=86=E0=AE=B0=E0=AE=A3=E0=AF=8D=E0=AE=AF=E0=AE=95=E0=AE=AE=E0=AF=8D=
+> =2E (=E0=AE=9A=E0=AE=BF. =E0=AE=9A=E0=AE=BF. 8, 27, 
+> =E0=AE=AE=E0=AE=B1=E0=
+> =AF=88.) 2.
+>> V=C4=93da, by synecdoche; 
+>> =E0=AE=B5=E0=AF=87=E0=AE=A4=E0=AE=AE=E0=AF=8D=
+> =2E
+>> =E0=AE=86=E0=AE=B0=E0=AE=A3=E0=AE=A4=E0=AF=8D=E0=AE=A4=E0=AF=81=E0=AE=B1=
+> =E0=AF=88=E0=AE=AF=E0=AF=81=E0=AE=B3=E0=AE=BE=E0=AE=AF=E0=AF=8D 
+> (=E0=AE=95=
+> =E0=AE=AE=E0=AF=8D=E0=AE=AA=E0=AE=B0=E0=AE=BE.
+>> =E0=AE=A4=E0=AE=BE=E0=AE=9F=E0=AE=95=E0=AF=88. 2).
+>> =20
+>> So please do not look for any =C4=80ra=E1=B9=87yaka text here. It 
+>> might b=
+> e a a
+>> S=C4=81ma Vedic text.
+>> =20
+>> Regards,
+>> Palaniappan
+>> =20
+>> -----Original Message-----
+>>  From: palaniappa <palaniappa at aol.com>
+>>  To: franceschini.marco <franceschini.marco at fastwebnet.it>; indology
+>> <indology at list.indology.info>
+>>  Sent: Fri, Nov 22, 2013 9:34 pm
+>>  Subject: Re: [INDOLOGY] unidentified Grantha manuscript
+>> =20
+>> Here is a possible translation of the first Tamil sentence:
+>> =20
+>> _(The manuscript which) Cuppa=E1=B8=B7am Kesavan wrote and 
+>> tied/bundled o=
+> r
+>> completed in the year 1039 (of the Kollam era) on the fifth day of the
+>> month of K=C4=81rttikai._
+>> =20
+>> Is it possible muki=C3=B1catu is really muti=C3=B1catu? It could mean
+>> tied/bundled or completed.
+>> =20
+>> The name Cuppa=E1=B8=B7am is interesting linguistically. There is a 
+>> place
+>> called Uppa=E1=B8=B7am near Colachel in Kanyakumari district. 
+>> Uppa=E1=B8=
+> =B7am
+>> means salt pan. If the name Cuppa=E1=B8=B7am was still prevalent in 
+>> the 1=
+> 9th
+>> century, this might be an instance of an existence of PDr. Cuppu in
+>> this compound in Tamil even up to 19th century!
+>> =20
+>> Normally Grantha will be Tamilized as kirantam. Here it seems to be
+>> kurantam
+>> =20
+>> The text seems to be dealing with 
+>> ark=C4=81=E1=B9=87ip=C4=81=E1=B9=ADha o=
+> f the 14th S=C4=81ma,
+>> 6th kha=E1=B9=87=E1=B8=8Da.
+>> =20
+>> Hope this helps
+>> =20
+>> Regards,
+>> Palaniappan
+>> =20
+>> -----Original Message-----
+>>  From: Marco Franceschini <franceschini.marco at fastwebnet.it>
+>>  To: Indology <indology at list.indology.info>
+>>  Sent: Fri, Nov 22, 2013 5:51 pm
+>>  Subject: [INDOLOGY] unidentified Grantha manuscript
+>> =20
+>> Dear Collegues,
+>> =20
+>> I'm desperately trying to find out which text is contained in a
+>> manuscript that I'm currently cataloguing.
+>> =20
+>> The manuscript (belonging to the Cambridge UL collection) is written
+>> in Grantha script. The text appears to be composed of four
+>> _p=C4=81=E1=B9=ADha_s, called _ark=C4=81=E1=B9=87i_, _vrat=C4=81ni_, 
+>> _dun=
+> du_, _=C5=9Bukl=C4=81=E1=B9=87i_:
+>> the _p=C4=81=E1=B9=ADha_s are organized into sections called (from the 
+>> la=
+> rger to
+>> the smaller) _kha=E1=B9=87=E1=B8=8Da_, _s=C4=81ma_, _mantra_ (this 
+>> last a=
+> lways
+>> abbreviated as _ma._).
+>> =20
+>> The beginning of the text runs like this:
+>> =20
+>> om v=C4=81co v=E1=B9=9Bte dve | huve v=C4=81c=C4=81m | t=C4=AB | 
+>> v=C4=81c=
+> a=E1=B9=83 v=C4=81ca=E1=B9=83 huve v=C4=81k
+>> | =E1=B9=ADhya =E1=B9=ADya ta =C5=9Ba | =C5=9B=E1=B9=9B=E1=B9=87otu 
+>> =C5=
+> =9Br=E1=B9=87otu v=C4=81g v=C4=81k | hy=C4=AB dya ta
+>> =C5=9Ba | samai tu samai tu v=C4=81g v=C4=81k | re | 
+>> ramat=C4=81=E1=B9=83=
+>  ramat=C4=81=E1=B9=83
+>> ram=C4=81t=C4=81 au ho v=C4=81 | kilu kha=C5=9Bi | ih=C4=81 ih=C4=81 
+>> ih=
+> =C4=81 | t=C5=AB | s=C4=81ma=E1=B9=83 | 1
+>> | huv=C4=81 iv=C4=81 c=C4=81=E1=B9=83 | =E1=B9=AD=C4=AB ca | 
+>> v=C4=81ca=E1=
+> =B9=83 huv=C4=81 i | k=C4=81c c=C4=81 =C5=9Ba |
+>> v=C4=81k | ta =C5=9Ba | =C5=9Br=E1=B9=87otu 
+>> =C5=9B=E1=B9=9B=E1=B9=87ot=C5=
+> =AB v=C4=81g v=C4=81k | c=C4=81=C5=9Ba c=C4=81ka
+>> phaplata =C5=9Ba |
+>> ---
+>> =20
+>> The explicit runs like this:
+>> =20
+>> =C5=9Bukro=E1=B9=83 | c=C4=81 | =C5=9Bukra ho i | dvi=E1=B8=A5 | 
+>> =C5=9Buk=
+> ra h=C4=81 =C4=81 uv=C4=81 | =E1=B9=ADyu
+>> =E1=B9=ADya | e bhr=C4=81 X=C4=81 bhr=C4=81j=C4=81 | tac ka 
+>> =E1=B9=ADya k=
+> ha | ma | 40 |
+>> pr=C4=81j=C4=81patya=E1=B9=83 g=C4=81yatra=E1=B9=83 
+>> pr=C4=81j=C4=81patya=
+> =E1=B9=83 g=C4=81yatra=E1=B9=83 | tat savitur
+>> pare=E1=B9=87yo=E1=B9=83 | ca =C5=9Br=C5=AB | bhargo devasya 
+>> dhim=C4=81h=
+> =C4=81=E1=B9=83 =C4=AB dhiyo yo
+>> n=C4=81=E1=B8=A5 pr=C4=81c=C4=81rha=E1=B9=83 bh=C4=81 o v=C4=81 | 
+>> =E1=B9=
+> =ADy=E1=B9=9Bc ka=E1=B9=ADyi sa=E1=B9=AD ca=C5=9Baka |
+>> =E1=B9=ADya =E1=B9=ADyac | ov=C4=81 hu=E1=B9=83 bh=C4=81 | sa=E1=B9=AD 
+>> ac=
+>  =E1=B9=ADya | o v=C4=81 | c=C4=81 | 41 |
+>> ---
+>> =20
+>> Final rubric:
+>> =20
+>> =C5=9Bukl=C4=81=E1=B9=87i p=C4=81=E1=B9=ADhasam=C4=81pta=E1=B8=A5 | 
+>> hari =
+> om | ity
+>> =C4=81ra=E1=B9=87ap=C4=81=E1=B9=ADhasam=C4=81pta=E1=B8=A5 | 
+>> =C5=9Bubham a=
+> stu =C5=9Br=C4=ABgurubhyo nama=E1=B8=A5 |
+>> ---
+>> =20
+>> Colophon (in Tamil language and script, added by a different hand):
+>> =20
+>> cuppa=E1=B8=B7am kesava=E1=B9=89 =C4=81ra=E1=B9=87akuranta=E1=B9=83 
+>> 1039 =
+> =C4=81m TA k=C4=81rttika m=C4=81cam 5
+>> til e=E1=B8=BButi muki=C3=B1catu
+>> ---
+>> =20
+>> The words _cuppa=E1=B8=B7am kesava=E1=B9=89 
+>> =C4=81ra=E1=B9=87akuranta=E1=
+> =B9=83_ recur also in the
+>> final rubric of the _ark=C4=81=E1=B9=87ip=C4=81=E1=B9=ADha_:
+>> =20
+>> s=C4=81ma=E1=B9=83 14 | kha=E1=B9=87=E1=B8=8Da=E1=B9=83 6 | 
+>> ark=C4=81=E1=
+> =B9=87ip=C4=81=E1=B9=ADha sam=C4=81pta=E1=B8=A5 |
+>> cuppa=E1=B8=B7am kesava=E1=B9=89 =C4=81ra=E1=B9=87akurenatam |
+>> ---
+>> =20
+>> The title seems to be "=C4=80ra=E1=B9=87akurantam (=3D 
+>> =C4=80ra=E1=B9=87y=
+> a-grantha?) of
+>> Kesava=E1=B9=89", but I can't find any text bearing such a title (or a
+>> similar one) in any catalogue nor in the internet. Any suggestion will
+>> be highly appreciated!
+>> =20
+>> Many thanks in advance,
+>> =20
+>> Marco Franceschini
+>> ---
+>> =20
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info
+>> =20
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info [1]
+>> =20
+>> =20
+>> =20
+>> Links:
+>> ------
+>> [1] http://listinfo.indology.info
+>> =20
+>> List-Post: <mailto:indology at list.indology.info>
+>> Content-Transfer-Encoding: 8bit
+>> From: asko.parpola at helsinki.fi
+>> Precedence: list
+>> MIME-Version: 1.0
+>> To: indology at list.indology.info
+>> References:=20
+>> <CAMGmO4++RNSJMCwLsg_eVm1fVOveNB4URBWuF2mxYKZGSiPccQ at mail.gmail.com>
+>> 	<OF3AA60C13.54BAFE11-ON80257BB1.00328A09-80257BB1.00328A0E at cardiff.ac.uk=
+>> 
+>> 	<1374634618.62517.YahooMailNeo at web163001.mail.bf1.yahoo.com>
+>> 	<F4A1F9E0-DD6D-45EE-BB4F-0D4B00F3F340 at gmail.com>
+>> 	<CAHRgzy1k-7AsRei-q2w4UwsLDmmxKx_Q1FbVxH=3DYcfaR2-=3DraQ at mail.gmail.com>
+>> 	<CAKdt-Ccx0yka_EnhhKJCbEWP33z3vMibKmbWtkPtD1CXGq6dmg at mail.gmail.com>
+>> 	<CAHRgzy3dVn_5tUsbbtsH4X+Tr6uYOLh50xE=3DKM+NVFBEB9QQHQ at mail.gmail.com>
+>> 	<E69E9B0A-5804-4EF0-8E4D-697CFF5503B0 at fastwebnet.it>
+>> 	<1385175179.91786.YahooMailNeo at web193503.mail.sg3.yahoo.com>
+>> In-Reply-To:=20
+>> <1385175179.91786.YahooMailNeo at web193503.mail.sg3.yahoo.com>
+>> Date: Sat, 23 Nov 2013 10:02:12 +0200
+>> Message-ID:
+>> <20131123100212.Horde.J6fStG38SMt1YoN8Au-OHw7.aparpola at webmail.helsinki=
+> =2Efi>
+>> Content-Type: text/plain; charset=3DUTF-8; format=3Dflowed; 
+>> DelSp=3DYes
+>> Subject: Re: [INDOLOGY] unidentified Grantha manuscript
+>> Message: 2
+>> =20
+>> =20
+>> I can confirm that this is a complete manuscript of the 
+>> =C3=84=E2=82=ACra=
+> =C3=A1=C2=B9=E2=80=A1yaka=20
+>> G=C3=84na
+>> of the Jaimin=C3=84=C2=ABya S=C3=84maveda, from the beginning of the 
+>> Vrat=
+> a parvan to
+>> the end of the Pr=C3=84j=C3=84patya=C3=A1=C2=B9=C6=92 g=C3=84yatram, 
+>> whic=
+> h is the final s=C3=84man.
+>> In the beginning, read vrate instead of v=C3=A1=C2=B9=E2=80=BAte. The 
+>> sev=
+> enth syllable=20
+>> t=C3=84=C2=AB
+>> is Jaimin=C3=84=C2=ABya svara notation.
+>> =20
+>> The manuscript must be from the Kanyakumari District, where there 
+>> still
+>> are Tamil Jaimin=C3=84=C2=AByas, as Masato Fujii and I could find out 
+>> in =
+> our=20
+>> search
+>> for Jaimin=C3=84=C2=ABya manuscripts. They would naturally use the 
+>> granth=
+> a script=20
+>> but
+>> also the Kollam era of Kerala. In grantha, u and cu are not too=20
+>> different,
+>> so probably you have to read Uppa=C3=A1=C2=B8=C2=B7am mentioned by 
+>> Palani=
+> appan instead=20
+>> of
+>> Cuppa=C3=A1=C2=B8=C2=B7am.
+>> =20
+>> Are there any other manuscripts of the Jaimin=C3=84=C2=ABya 
+>> S=C3=84maveda=
+>  in=20
+>> Cambridge,
+>> and is there any information of the provenance of this manuscript?
+>> Who has presented it, and when?
+>> =20
+>> =20
+>> With best regards, Asko Parpola
+>> =20
+>> Quoting Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>:
+>> =20
+>>> Looks like Saamavrdic Ara.nya gaana. Compare Jaiminiiya Samhitaa of
+>>> the Saamaveda
+>>> DB
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> On Saturday, 23 November 2013 5:21 AM, Marco Franceschini
+>>> <franceschini.marco at fastwebnet.it> wrote:
+>>> =20
+>>> Dear Collegues,
+>>> =20
+>>> I'm desperately trying to find out which text is contained in
+>>> a=C3=82=C2=A0manuscript that I'm currently cataloguing.
+>>> =20
+>>> The manuscript (belonging to=C3=82=C2=A0the Cambridge UL 
+>>> collection)=C3=
+> =82=C2=A0is written
+>>> in Grantha script. The text appears to be composed of 
+>>> four=C3=82=C2=A0p=
+> =C3=84=C3=A1=C2=B9=C2=ADhas,
+>>> called=C3=82=C2=A0ark=C3=84=C3=A1=C2=B9=E2=80=A1i,=C3=82=C2=A0vrat=C3=84=
+> ni,=C3=82=C2=A0dundu,=C3=82=C2=A0=C3=85=E2=80=BAukl=C3=84=C3=A1=C2=B9=E2=80=
+> =A1i: the=C3=82=C2=A0p=C3=84=C3=A1=C2=B9=C2=ADhas are=20
+>>> organized
+>>> into sections called (from the larger to the
+>>> smaller)=C3=82=C2=A0kha=C3=A1=C2=B9=E2=80=A1=C3=A1=C2=B8a,=C3=82=C2=A0s=
+> =C3=84ma,=C3=82=C2=A0mantra=C3=82=C2=A0(this last always abbreviated=20
+>>> as=C3=82=C2=A0ma.).
+>>> =20
+>>> The beginning of the text runs like this:
+>>> =20
+>>> om v=C3=84co v=C3=A1=C2=B9=E2=80=BAte dve | huve v=C3=84c=C3=84m | 
+>>> t=C3=
+> =84=C2=AB | v=C3=84ca=C3=A1=C2=B9=C6=92 v=C3=84ca=C3=A1=C2=B9=C6=92 
+> huve v=
+> =C3=84k |=20
+>>> =C3=A1=C2=B9=C2=ADhya =C3=A1=C2=B9=C2=ADya
+>>> ta =C3=85=E2=80=BAa | 
+>>> =C3=85=E2=80=BA=C3=A1=C2=B9=E2=80=BA=C3=A1=C2=B9=
+> =E2=80=A1otu =C3=85=E2=80=BAr=C3=A1=C2=B9=E2=80=A1otu v=C3=84g v=C3=84k 
+> | h=
+> y=C3=84=C2=AB=C3=82=C2=A0dya=C3=82=C2=A0ta =C3=85=E2=80=BAa | samai 
+> tu=20
+>>> samai tu
+>>> v=C3=84g v=C3=84k | re | ramat=C3=84=C3=A1=C2=B9=C6=92 
+>>> ramat=C3=84=C3=A1=
+> =C2=B9=C6=92 ram=C3=84t=C3=84 au ho=C3=82=C2=A0v=C3=84 | kilu 
+> kha=C3=85=E2=
+> =80=BAi |=20
+>>> ih=C3=84
+>>> ih=C3=84 ih=C3=84 | t=C3=85=C2=AB | s=C3=84ma=C3=A1=C2=B9=C6=92 | 1 | 
+>>> hu=
+> v=C3=84 iv=C3=84 c=C3=84=C3=A1=C2=B9=C6=92 | 
+> =C3=A1=C2=B9=C2=AD=C3=84=C2=AB=
+>  ca | v=C3=84ca=C3=A1=C2=B9=C6=92 huv=C3=84=20
+>>> i |=C3=82=C2=A0k=C3=84c
+>>> c=C3=84 =C3=85=E2=80=BAa | v=C3=84k | ta =C3=85=E2=80=BAa | 
+>>> =C3=85=E2=80=
+> =BAr=C3=A1=C2=B9=E2=80=A1otu 
+> =C3=85=E2=80=BA=C3=A1=C2=B9=E2=80=BA=C3=A1=C2=
+> =B9=E2=80=A1ot=C3=85=C2=AB v=C3=84g v=C3=84k | c=C3=84=C3=85=E2=80=BAa 
+> c=C3=
+> =84ka=20
+>>> phaplata =C3=85=E2=80=BAa |
+>>> ---
+>>> =20
+>>> The explicit runs like this:
+>>> =20
+>>> =C3=85=E2=80=BAukro=C3=A1=C2=B9=C6=92 | c=C3=84 | =C3=85=E2=80=BAukra 
+>>> ho=
+>  i | dvi=C3=A1=C2=B8=C2=A5 | =C3=85=E2=80=BAukra h=C3=84 =C3=84 
+> uv=C3=84=20
+>>> |=C3=82=C2=A0=C3=A1=C2=B9=C2=ADyu=C3=82=C2=A0=C3=A1=C2=B9=C2=ADya=C3=82=
+> =C2=A0| e
+>>> bhr=C3=84=C3=82=C2=A0X=C3=84 bhr=C3=84j=C3=84 | tac 
+>>> ka=C3=82=C2=A0=C3=A1=
+> =C2=B9=C2=ADya=C3=82=C2=A0kha | ma | 40 
+> |=C3=82=C2=A0pr=C3=84j=C3=84patya=
+> =C3=A1=C2=B9=C6=92=20
+>>> g=C3=84yatra=C3=A1=C2=B9=C6=92
+>>> pr=C3=84j=C3=84patya=C3=A1=C2=B9=C6=92 g=C3=84yatra=C3=A1=C2=B9=C6=92 
+>>> | =
+> tat savitur pare=C3=A1=C2=B9=E2=80=A1yo=C3=A1=C2=B9=C6=92 
+> |=C3=82=C2=A0ca =
+> =C3=85=E2=80=BAr=C3=85=C2=AB=C3=82=C2=A0|
+>>> bhargo=C3=82=C2=A0devasya dhim=C3=84h=C3=84=C3=A1=C2=B9=C6=92 
+>>> =C3=84=C2=
+> =AB dhiyo yo 
+> n=C3=84=C3=A1=C2=B8=C2=A5=C3=82=C2=A0pr=C3=84c=C3=84rha=C3=A1=
+> =C2=B9=C6=92=C3=82=C2=A0bh=C3=84 o v=C3=84=20
+>>> |=C3=82=C2=A0=C3=A1=C2=B9=C2=ADy=C3=A1=C2=B9=E2=80=BAc
+>>> ka=C3=A1=C2=B9=C2=ADyi=C3=82=C2=A0sa=C3=A1=C2=B9=C2=AD 
+>>> ca=C3=85=E2=80=BA=
+> aka |=C3=82=C2=A0=C3=A1=C2=B9=C2=ADya=C3=82=C2=A0=C3=A1=C2=B9=C2=ADyac 
+> | ov=
+> =C3=84=C3=82=C2=A0hu=C3=A1=C2=B9=C6=92=C3=82=C2=A0bh=C3=84 | 
+> sa=C3=A1=C2=B9=
+> =C2=AD=20
+>>> ac=C3=82=C2=A0=C3=A1=C2=B9=C2=ADya=C3=82=C2=A0| o v=C3=84 | c=C3=84 |
+>>> 41 |
+>>> ---
+>>> =20
+>>> Final rubric:
+>>> =20
+>>> =C3=85=E2=80=BAukl=C3=84=C3=A1=C2=B9=E2=80=A1i 
+>>> p=C3=84=C3=A1=C2=B9=C2=AD=
+> hasam=C3=84pta=C3=A1=C2=B8=C2=A5 | hari om |=C3=82=C2=A0ity 
+> =C3=84ra=C3=A1=
+> =C2=B9=E2=80=A1ap=C3=84=C3=A1=C2=B9=C2=ADhasam=C3=84pta=C3=A1=C2=B8=C2=A5=
+> =20
+>>> | =C3=85=E2=80=BAubham
+>>> astu =C3=85=E2=80=BAr=C3=84=C2=ABgurubhyo nama=C3=A1=C2=B8=C2=A5 |
+>>> ---
+>>> =20
+>>> Colophon (in Tamil language and script, added by a different hand):
+>>> =20
+>>> cuppa=C3=A1=C2=B8=C2=B7am kesava=C3=A1=C2=B9=E2=80=B0 
+>>> =C3=84ra=C3=A1=C2=
+> =B9=E2=80=A1akuranta=C3=A1=C2=B9=C6=92=20
+>>> 1039=C3=82=C2=A0=C3=84m=C3=82=C2=A0ta=C3=82=C2=A0k=C3=84rttika=C3=82=C2=
+> =A0m=C3=84cam=C3=82=C2=A05=C3=82=C2=A0til=C3=82=C2=A0e=C3=A1=C2=B8=C2=BButi
+>>> muki=C3=83=C2=B1catu
+>>> ---
+>>> =20
+>>> The words=C3=82=C2=A0cuppa=C3=A1=C2=B8=C2=B7am 
+>>> kesava=C3=A1=C2=B9=E2=80=
+> =B0 
+> =C3=84ra=C3=A1=C2=B9=E2=80=A1akuranta=C3=A1=C2=B9=C6=92=C3=82=C2=A0recu=
+> r also in the=20
+>>> final
+>>> rubric of 
+>>> the=C3=82=C2=A0ark=C3=84=C3=A1=C2=B9=E2=80=A1ip=C3=84=C3=A1=C2=
+> =B9=C2=ADha:
+>>> =20
+>>> s=C3=84ma=C3=A1=C2=B9=C6=92 14 | 
+>>> kha=C3=A1=C2=B9=E2=80=A1=C3=A1=C2=B8a=
+> =C3=A1=C2=B9=C6=92 6 | 
+> ark=C3=84=C3=A1=C2=B9=E2=80=A1ip=C3=84=C3=A1=C2=B9=
+> =C2=ADha=20
+>>> sam=C3=84pta=C3=A1=C2=B8=C2=A5=C3=82=C2=A0|=C3=82=C2=A0cuppa=C3=A1=C2=B8=
+> =C2=B7am
+>>> kesava=C3=A1=C2=B9=E2=80=B0=C3=82=C2=A0=C3=84ra=C3=A1=C2=B9=E2=80=A1akur=
+> enatam |
+>>> ---
+>>> =20
+>>> The title seems to be 
+>>> "=C3=84=E2=82=ACra=C3=A1=C2=B9=E2=80=A1akurantam (=
+> =3D =C3=84=E2=82=ACra=C3=A1=C2=B9=E2=80=A1ya-grantha?) of
+>>> Kesava=C3=A1=C2=B9=E2=80=B0", but I can't find any text bearing such 
+>>> a t=
+> itle (or a
+>>> similar one) in any catalogue nor in the internet. Any suggestion
+>>> will be highly appreciated!
+>>> =20
+>>> Many thanks in advance,
+>>> =20
+>>> Marco Franceschini
+>>> ---
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> http://listinfo.indology.info
+>> =20
+>> =20
+>> =20
+>> =20
+>> =20
+>> =20
+>> Dear Asok,
+>> Thanks for confirming. But I had checked before suggesting the
+>> Jaiminiya Saamagaanam. I had Vibhuutibhuushan Bhattacharya's
+>> Sampurnanand Sanskrit Iniv. edn with me
+>> Best
+>> Dipak
+>> =20
+>>  On Saturday, 23 November 2013 1:32 PM, "asko.parpola at helsinki.fi"
+>> <asko.parpola at helsinki.fi> wrote:
+>> =20
+>> I can confirm that this is a complete manuscript of the 
+>> =C4=80ra=E1=B9=87=
+> yaka
+>> G=C4=81na
+>> of the Jaimin=C4=ABya S=C4=81maveda, from the beginning of the Vrata 
+>> parv=
+> an to
+>> the end of the Pr=C4=81j=C4=81patya=E1=B9=83 g=C4=81yatram, which is 
+>> the =
+> final s=C4=81man.
+>> In the beginning, read vrate instead of v=E1=B9=9Bte. The seventh 
+>> syllabl=
+> e
+>> t=C4=AB
+>> is Jaimin=C4=ABya svara notation.
+>> =20
+>> The manuscript must be from the Kanyakumari District, where there
+>> still
+>> are Tamil Jaimin=C4=AByas, as Masato Fujii and I could find out in our
+>> search
+>> for Jaimin=C4=ABya manuscripts. They would naturally use the grantha
+>> script but
+>> also the Kollam era of Kerala. In grantha, u and cu are not too
+>> different,
+>> so probably you have to read Uppa=E1=B8=B7am mentioned by Palaniappan
+>> instead of
+>> Cuppa=E1=B8=B7am.
+>> =20
+>> Are there any other manuscripts of the Jaimin=C4=ABya S=C4=81maveda in
+>> Cambridge,
+>> and is there any information of the provenance of this manuscript?
+>> Who has presented it, and when?
+>> =20
+>> With best regards, Asko Parpola
+>> =20
+>> Quoting Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>:
+>> =20
+>>> Looks like Saamavrdic Ara.nya gaana. Compare Jaiminiiya Samhitaa of
+>>> the Saamaveda
+>>> DB
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> On Saturday, 23 November 2013 5:21 AM, Marco Franceschini
+>>> <franceschini.marco at fastwebnet.it> wrote:
+>>> =20
+>>> Dear Collegues,
+>>> =20
+>>> I'm desperately trying to find out which text is contained in
+>>> a manuscript that I'm currently cataloguing.
+>>> =20
+>>> The manuscript (belonging to the Cambridge UL collection) is written
+>> =20
+>>> in Grantha script. The text appears to be composed of four
+>> p=C4=81=E1=B9=ADhas,
+>>> called ark=C4=81=E1=B9=87i, vrat=C4=81ni, dundu, 
+>>> =C5=9Bukl=C4=81=E1=B9=
+> =87i: the p=C4=81=E1=B9=ADhas are
+>> organized
+>>> into sections called (from the larger to the
+>>> smaller) kha=E1=B9=87=E1=B8=8Da, s=C4=81ma, mantra (this last always 
+>>> abb=
+> reviated as
+>> ma.).
+>>> =20
+>>> The beginning of the text runs like this:
+>>> =20
+>>> om v=C4=81co v=E1=B9=9Bte dve | huve v=C4=81c=C4=81m | t=C4=AB | 
+>>> v=C4=81=
+> ca=E1=B9=83 v=C4=81ca=E1=B9=83 huve
+>> v=C4=81k | =E1=B9=ADhya =E1=B9=ADya
+>>> ta =C5=9Ba | =C5=9B=E1=B9=9B=E1=B9=87otu =C5=9Br=E1=B9=87otu v=C4=81g 
+>>> v=
+> =C4=81k | hy=C4=AB dya ta =C5=9Ba | samai
+>> tu samai tu
+>>> v=C4=81g v=C4=81k | re | ramat=C4=81=E1=B9=83 ramat=C4=81=E1=B9=83 
+>>> ram=
+> =C4=81t=C4=81 au ho v=C4=81 | kilu
+>> kha=C5=9Bi | ih=C4=81
+>>> ih=C4=81 ih=C4=81 | t=C5=AB | s=C4=81ma=E1=B9=83 | 1 | huv=C4=81 
+>>> iv=C4=
+> =81 c=C4=81=E1=B9=83 | =E1=B9=AD=C4=AB ca |
+>> v=C4=81ca=E1=B9=83 huv=C4=81 i | k=C4=81c
+>>> c=C4=81 =C5=9Ba | v=C4=81k | ta =C5=9Ba | =C5=9Br=E1=B9=87otu 
+>>> =C5=9B=E1=
+> =B9=9B=E1=B9=87ot=C5=AB v=C4=81g v=C4=81k | c=C4=81=C5=9Ba
+>> c=C4=81ka phaplata =C5=9Ba |
+>>> ---
+>>> =20
+>>> The explicit runs like this:
+>>> =20
+>>> =C5=9Bukro=E1=B9=83 | c=C4=81 | =C5=9Bukra ho i | dvi=E1=B8=A5 | 
+>>> =C5=9Bu=
+> kra h=C4=81 =C4=81 uv=C4=81 | =E1=B9=ADyu
+>> =E1=B9=ADya | e
+>>> bhr=C4=81 X=C4=81 bhr=C4=81j=C4=81 | tac ka =E1=B9=ADya kha | ma | 40 
+>>> | =
+> pr=C4=81j=C4=81patya=E1=B9=83
+>> g=C4=81yatra=E1=B9=83
+>>> pr=C4=81j=C4=81patya=E1=B9=83 g=C4=81yatra=E1=B9=83 | tat savitur 
+>>> pare=
+> =E1=B9=87yo=E1=B9=83 | ca =C5=9Br=C5=AB |
+>>> bhargo devasya dhim=C4=81h=C4=81=E1=B9=83 =C4=AB dhiyo yo 
+>>> n=C4=81=E1=B8=
+> =A5 pr=C4=81c=C4=81rha=E1=B9=83 bh=C4=81 o
+>> v=C4=81 | =E1=B9=ADy=E1=B9=9Bc
+>>> ka=E1=B9=ADyi sa=E1=B9=AD ca=C5=9Baka | =E1=B9=ADya =E1=B9=ADyac | 
+>>> ov=C4=
+> =81 hu=E1=B9=83 bh=C4=81 | sa=E1=B9=AD ac
+>> =E1=B9=ADya | o v=C4=81 | c=C4=81 |
+>>> 41 |
+>>> ---
+>>> =20
+>>> Final rubric:
+>>> =20
+>>> =C5=9Bukl=C4=81=E1=B9=87i p=C4=81=E1=B9=ADhasam=C4=81pta=E1=B8=A5 | 
+>>> hari=
+>  om | ity
+>> =C4=81ra=E1=B9=87ap=C4=81=E1=B9=ADhasam=C4=81pta=E1=B8=A5 | 
+>> =C5=9Bubham
+>>> astu =C5=9Br=C4=ABgurubhyo nama=E1=B8=A5 |
+>>> ---
+>>> =20
+>>> Colophon (in Tamil language and script, added by a different hand):
+>>> =20
+>>> cuppa=E1=B8=B7am kesava=E1=B9=89 =C4=81ra=E1=B9=87akuranta=E1=B9=83 
+>>> 1039=
+>  =C4=81m ta k=C4=81rttika m=C4=81cam
+>> 5 til e=E1=B8=BButi
+>>> muki=C3=B1catu
+>>> ---
+>>> =20
+>>> The words cuppa=E1=B8=B7am kesava=E1=B9=89 
+>>> =C4=81ra=E1=B9=87akuranta=E1=
+> =B9=83 recur also in the
+>> final
+>>> rubric of the ark=C4=81=E1=B9=87ip=C4=81=E1=B9=ADha:
+>>> =20
+>>> s=C4=81ma=E1=B9=83 14 | kha=E1=B9=87=E1=B8=8Da=E1=B9=83 6 | 
+>>> ark=C4=81=E1=
+> =B9=87ip=C4=81=E1=B9=ADha sam=C4=81pta=E1=B8=A5 |
+>> cuppa=E1=B8=B7am
+>>> kesava=E1=B9=89 =C4=81ra=E1=B9=87akurenatam |
+>>> ---
+>>> =20
+>>> The title seems to be "=C4=80ra=E1=B9=87akurantam (=3D 
+>>> =C4=80ra=E1=B9=87=
+> ya-grantha?) of
+>>> Kesava=E1=B9=89", but I can't find any text bearing such a title (or 
+>>> a
+>>> similar one) in any catalogue nor in the internet. Any suggestion
+>>> will be highly appreciated!
+>>> =20
+>>> Many thanks in advance,
+>>> =20
+>>> Marco Franceschini
+>>> ---
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> =20
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> http://listinfo.indology.info [1]
+>> =20
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info [1]
+>> =20
+>> =20
+>> =20
+>> Links:
+>> ------
+>> [1] http://listinfo.indology.info/
+>> =20
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://list.indology.info/mailman/listinfo/indology_list.indology.info
+> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://list.indology.info/mailman/listinfo/indology_list.indology.info
+
+
+
+
+

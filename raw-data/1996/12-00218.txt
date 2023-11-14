@@ -1,0 +1,40 @@
+From ucgadkw at ucl.ac.uk  Sat Dec 14 18:35:49 1996
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Sat, 14 Dec 96 18:35:49 +0000
+Subject: 7 Bit fonts
+Message-ID: <161227027582.23782.16419133511928755304.generated@prod2.harmonylists.io>
+
+On Sat, 14 Dec 1996, Claude Setzer wrote:
+
+> My last posting was a simple one page note, the same one contained
+> below. It was sent to both Indology and to ISO_TC46. For some reason,
+> the one that went to Indolgy got about 800 blank pages inserted into it.
+> The other version, the exact same file came back fine. I have no idea
+> what happened on the Indology server, but I hope this one comes through
+> correctly. 
+
+There was no fault with INDOLOGY's listserv; what was distributed is what
+you sent.  I am surprised you risked sending the message a second time,
+after the comments you received. 
+
+Given the point you were making, it seems ironic that the header of your
+email contained the following line:
+
+        Content-Transfer-Encoding: 7bit
+
+This is the reason why 7bit encodings are -- regrettably -- still
+important.
+
+Best wishes,
+
+Dominik
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+From apandey at U.WASHINGTON.EDU  Tue Nov  4 04:35:36 1997
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Mon, 03 Nov 97 20:35:36 -0800
+Subject: m/anusvAra & s/visarga
+In-Reply-To: <v0153050cb08436779274@[195.74.194.49]>
+Message-ID: <161227033423.23782.4675640269228639309.generated@prod2.harmonylists.io>
+
+On Tue, 4 Nov 1997, Jacob Baltuch wrote:
+
+> Damn! The real pain is to have to reach for that shift key.
+> I think I'll just use <x> for visarga then. How does this
+> look: duxkha, azvax?
+
+Now you're stepping into upadhaaniiya territory! Is reaching for shift
+really that burdensome?! :-> Just consider it phlangeal calisthenics.
+
+Also, one point to consider is whether you will be processing this text
+into Devanagari script. Having to convert from your scheme to another
+scheme each time would cause you a greater pain than just sticking to an
+already defined scheme.
+
+Best,
+
+Anshuman Pandey
+
+
+
+

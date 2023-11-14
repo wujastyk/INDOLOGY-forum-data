@@ -1,0 +1,35 @@
+From ljmccrea at midway.uchicago.edu  Sun Dec  1 21:16:34 1996
+From: ljmccrea at midway.uchicago.edu (Lawrence J. McCrea)
+Date: Sun, 01 Dec 96 15:16:34 -0600
+Subject: Translation help requested
+Message-ID: <161227027197.23782.12769801508767524678.generated@prod2.harmonylists.io>
+
+In message Sun,  1 Dec 1996 18:25:31 GMT,
+  mgansten at sbbs.se (Martin Gansten)  writes:
+
+> In a Sanskrit text I am currently translating, I found three words not
+> listed in any of my dictionaries: (1) andolya; (2) vi.dvara; (3) du'scilka
+> (this last word should have some astrological meaning). Does anyone out
+> there know the meanings of these words? Thanks in advance.
+>
+> Martin Gansten
+> mgansten at sbbs.se
+>
+     Andolya would seem to be the gerundive form of the verb andolayati
+("oscillate, move to and fro"); Apte does not list this form, but does give
+the verb and the verbal noun andolanam ("oscillation").  Du'scilka is
+presumably a variant form of du'scikya, which Apte [in the appendix to the
+fourth edition] defines as "an astrological term for the third raa'si from
+the lagna"-- i.e. the third zodiacal house from the point at which the
+course of a planet intersects the horizon.  Vi.dvara is a mystery to me, but
+Apte does give the word vi.dvaraja ("born of vi.dvara") as a name for lapis
+lazuli.  Hope this is of some help.
+
+                                    Yours Sincerely,
+                                          Lawrence J. McCrea
+                                          University of Chicago
+
+
+
+
+

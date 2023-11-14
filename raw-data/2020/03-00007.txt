@@ -1,0 +1,71 @@
+From nagarajpaturi at gmail.com  Mon Mar  2 10:31:59 2020
+From: nagarajpaturi at gmail.com (Nagaraj Paturi)
+Date: Mon, 02 Mar 20 16:01:59 +0530
+Subject: [INDOLOGY] Pali suttas in Burmese alphabet
+In-Reply-To: <CAKA8X41aqXA4UY0c5xn6PCMZTo7vRL+w5N6SnCmEf25JKUyXEA@mail.gmail.com>
+Message-ID: <CAJGj9eaxxDvUTd4n_s8ZwwHw5+TbL9NdTZgeKtagD2fiovH7EQ@mail.gmail.com>
+
+There is this unicode related multilingual support discussion here:
+
+https://en.wikipedia.org/wiki/Help:Multilingual_support_(Burmese)
+
+There is an online tool here:
+
+https://www.ushuaia.pl/transliterate/?ln=en
+
+Please check if it helps.
+
+On Mon, Mar 2, 2020 at 2:29 PM James Hartzell via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Hi
+>
+> A colleague not on this list sent me the following question:
+>
+> "I had a request from someone wanting to transliterate Pali suttas
+> written in the Burmese alphabet using the roman alphabet.
+>
+> Do you know anyone who may be able to help with this transliteration
+> work, or who I might ask for help."
+>
+> Any suggestions will be much appreciated
+>
+> Cheers
+> James
+>
+> --
+> James Hartzell, PhD (2x)
+> Basque Center on Cognition, Brain and Language (BCBL), Donostia, Spain
+> Center for Mind/Brain Sciences (CIMeC), The University of Trento, Italy
+> Center for Buddhist Studies, Columbia University, USA
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director,  Inter-Gurukula-University Centre , Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200302/718fb90c/attachment.htm>
+

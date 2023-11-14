@@ -1,0 +1,72 @@
+From grotebev at UNI-KOELN.DE  Thu Nov 27 20:51:14 1997
+From: grotebev at UNI-KOELN.DE (Tobias Grote-Beverborg)
+Date: Thu, 27 Nov 97 21:51:14 +0100
+Subject: IITS - Univ. of Koeln Website
+Message-ID: <161227034040.23782.17866118963057751000.generated@prod2.harmonylists.io>
+
+Dear Mr. Ganesan,
+dear members of the list,
+after reading this very encouraging feedback I guess its time to announce
+the new feature of IITS-Website:
+
+*Cologne Digital Sanskrit Lexicon
+<http://www.uni-koeln.de/phil-fak/indologie/tamil/mwd_search.html>
+*Cappeller's Digital Sanskrit Lexicon
+<http://www.uni-koeln.de/phil-fak/indologie/tamil/cap_search.html>
+*Tamil Text Thesaurus
+<http://www.uni-koeln.de/phil-fak/indologie/tamil/ttt_search.html>
+
+You can also access these pages via our homepage
+<http://www.uni-koeln.de/phil-fak/indologie/index.e.html>
+and entering *Indological Resources* in the menu.
+
+It still has to be tested.
+That's why there was no official announcement on this list.
+There are still some problems like the one Mr. Ganesan mentions but we are
+working on it.
+Please, give your feedback.
+Have a nice surf.
+
+At 18:42 26.11.97 -0600, N. Ganesan wrote:
+>  Tamil Text Thesaurus
+>tolkAppiyam, patineNkIzk kaNakku, pazamozi, tirukkuRaL,
+>cilappatikAram, maNimEkalai, cIvaka cintAmaNi are correctly
+>installed.
+>
+>However,
+>a) cangkam texts are not linked.
+>b) tiruvAcakam, tEvAram are not there
+>c) If one searches tEvAram, he gets the results
+>   from nAlaTiyAr.
+>d) Instead of nAlaTiyAr, villi pAratam comes.
+>e) Instead of kampan, tirumantiram shows up.
+>f) Instead of villi pAratam, tiruviLaiyATal purANam
+>   is linked. But in the tiruviLaiyATal puraaNam,
+>   some other string other than what one looks for shows up!
+>g) tirumantiram, tiruviLaiyATal, periya purANam, kanta purANam,
+>   tEmpAvaNi are not available.
+
+Correct. Try the option *ALL* and it should work.
+
+Yours
+
+Tobias
+***********************************
+Mr. T. Grote-Beverborg
+Duerenerstr. 272, 50935 Koeln, Germany
+Fon: 0049-221-4302193
+e-mail: grotebev at uni-koeln.de
+http://www.sds.de/remscheid/vereine/dig/index.html
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                //OM/
+                        SARVE BHAVANTU SUKHINAH/
+                         SARVE SANTU NIRAMAYAH/
+                        SARVE BHADRANI PASYANTU/
+                      MA KASCHIT DUKHA BHAG BHAVET/
+                        OM SHANTI SHANTI SHANTI//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+

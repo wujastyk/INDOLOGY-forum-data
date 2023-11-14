@@ -1,0 +1,90 @@
+From ucgadkw at UK.AC.UCL  Fri Feb  7 14:45:37 1992
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Fri, 07 Feb 92 14:45:37 +0000
+Subject: Devanagari MF font
+Message-ID: <161227015236.23782.3211707033333865674.generated@prod2.harmonylists.io>
+
+ 
+
+Stephen asked where the Devanagari font for TeX can be found.
+Firstly, yes it is free, though copyrighted (so it has to go
+on being free).  This free distribution was made possible by
+generous grants from the Computing Centre in Groningen and
+the Wellcome Institute in London.
+ 
+As for where to get it, the London Archie server reports the
+following sites:
+ 
+\begin{quotation}
+ 
+ > Date: Fri, 7 Feb 1992 14:10:17 GMT
+ > From: Archive DB query <archie at uk.ac.ic.doc>
+ > Subject: archie command: prog devnag
+ > To: ucgadkw at uk.ac.ucl
+ >
+ >
+ > Host duke.cs.duke.edu   (128.109.140.1)
+ > Last updated 13:53  5 Feb 1992
+ >
+ >     Location: /dist/sources
+ >       FILE      rw-r--r--    550535  Sep 14 16:10   devnagri.tar.Z
+ >
+ > Host ftp.uu.net   (137.39.1.9)
+ > Last updated 04:49  7 Feb 1992
+ >
+ >     Location: /systems/msdos/simtel20/tex
+ >       FILE      rw-r--r--    329870  Dec 17 14:00   devnag.zip
+ >
+ > Host forwiss.uni-passau.de   (132.231.20.10)
+ > Last updated 03:21  7 Feb 1992
+ >
+ >     Location: /pub/incoming
+ >       FILE      rw-r--r--    329870  Aug 26 16:39   devnag.zip
+ >
+ > Host labrea.stanford.edu   (36.8.0.47)
+ > Last updated 16:29  5 Feb 1992
+ >
+ >     Location: /pub/tex/incoming
+ >       FILE      rw-rw-rw-    329870  Aug 26 14:09   devnag.zip
+ >
+ > Host june.cs.washington.edu   (128.95.1.4)
+ > Last updated 16:12  5 Feb 1992
+ >
+ >     Location: /tex
+ >       FILE      rw-r--r--    329870  Sep  3 16:37   devnag.zip
+ >
+ > Host sol.cs.ruu.nl   (131.211.80.5)
+ > Last updated 23:47  5 Feb 1992
+ >
+ >     Location: /TEX/FONTS
+ >       FILE      rw-r--r--    442298  Sep  7 08:31   devnag.tar.Z
+ >
+ > Host labrea.stanford.edu   (36.8.0.47)
+ > Last updated 16:29  5 Feb 1992
+ >
+ >     Location: /pub/tex/incoming
+ >       FILE      rw-rw-rw-    442574  Aug 26 14:11   devnag.tar.Z
+ >
+ > Host june.cs.washington.edu   (128.95.1.4)
+ > Last updated 16:12  5 Feb 1992
+ >
+ >     Location: /tex
+ >       FILE      rw-r--r--    442298  Sep 19 15:50   devnag.tar.Z
+ >
+ > -------
+ >
+ 
+\end{quotation}
+ 
+The .zip file is the orighinal distribution; the .tar.Z files contain
+mods for Unix.  I don't know what the devnagri.tar.Z file at Duke is: perhaps
+someone can tell us?
+ 
+Hope that helps,
+ 
+Dominik
+
+
+
+
+

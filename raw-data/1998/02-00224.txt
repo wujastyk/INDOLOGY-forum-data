@@ -1,0 +1,58 @@
+From kellner at IPC.HIROSHIMA-U.AC.JP  Mon Feb 16 04:32:28 1998
+From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
+Date: Mon, 16 Feb 98 13:32:28 +0900
+Subject: negations and their names
+Message-ID: <161227035738.23782.6011368287261950526.generated@prod2.harmonylists.io>
+
+> On Mon, 16 Feb 1998, jonathan silk wrote:
+>
+> > I recently was warned by Katsura Shoryu that it is incorrect to write a
+> > hyphen in the expression Paryudasa- and Prasajya-pratisedha. According to
+> > Katsura,  "there is no cp. like 'paryudasa-pratisedha'. 'paryudasa' means
+> > 'negation.'"
+> >
+> > However, I have found the term in Mahavyutpatti 4510; to this Katsura
+> > suggests it may be a retranslation from Tibetan. OK. Again, I pointed out
+> > that in Frits Staals' Reader in the Skt. Grammarians, p. 496, note 55,  so
+> > great an authority as Louis Renou uses the same term. OK. Even Homer nods.
+> >
+> > QUESTION: does the compound paryudaasa-pratis.edha exist in actual Sanskrit
+> > texts? (I would expect that if it comes up, it would be in grammar or
+> > logic, but any actual attestation would be of interest. )
+
+I have never come across the compound paryudaasa-pratis.edha in a
+Sanskrit text, that is, in Buddhist writings on the subject-matter of
+apoha or anupalabdhi, and in related discussions (about abhaava and
+anupalabdhi) in Nyaaya or Miimaam.saa-treatises.
+
+It seems to me that the lexical asymmetry between the two technical
+terms
+paryudaasa and prasajyapratis.edha was definitely perceived, and
+occasionally deemed problematic. However, the commonly followed strategy
+to
+balance it out was cutting off the "pratis.edha" of prasajyapr. (which
+leads to constructions such as "paryudaasapaks.e ...., prasajyapaks.e tu
+...", or other occurrences of "prasajya" in the sense of
+"prasajyapratis.edha"). The other option, that is, adding "pratis.edha"
+to "paryudaasa", does not seem to have been realized.
+
+The Tibetan translations "ma yin dgag" and "med dgag" (for
+paryudaasa/prasajyapratis.edha) are based on conceptual content rather
+than on an analysis of the terms into component parts, and I think
+Katsura is justified in considerind MVy 'paryudaasa-pratis.edha' as a
+retranslation (and not a good one at that).
+
+It might be of interest that Prof. Kajiyama has raised the same question
+at the last Dharmakiirti-conference (November last year in Hiroshima),
+and to my
+recollection, nobody could come up with a reference for
+"paryudaasapratis.edha".
+
+--
+Birgit Kellner
+Department for Indian Philosophy
+Hiroshima University
+
+
+
+

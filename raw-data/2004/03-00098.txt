@@ -1,0 +1,55 @@
+From A.Griffiths at LET.LEIDENUNIV.NL  Sun Mar 21 10:55:32 2004
+From: A.Griffiths at LET.LEIDENUNIV.NL (Arlo Griffiths)
+Date: Sun, 21 Mar 04 12:55:32 +0200
+Subject: Convert Devanagari into romanized text: any automatic tools?
+In-Reply-To: <20040321011153.GA267@mahoney.remote.comnet.co.nz>
+Message-ID: <161227074243.23782.17492834986624284679.generated@prod2.harmonylists.io>
+
+Is the following reference of help?
+
+http://www.sanskritreader.de/
+
+Arlo Griffiths
+
+
+
+> From: Richard MAHONEY <rbm49 at EXT.CANTERBURY.AC.NZ>
+> Reply-To: Indology <INDOLOGY at liverpool.ac.uk>
+> Date: Sun, 21 Mar 2004 13:11:53 +1200
+> To: INDOLOGY at liverpool.ac.uk
+> Subject: Re: Convert Devanagari into romanized text: any automatic tools?
+>
+> Dear Birgit,
+>
+> On Sat, Mar 20, 2004 at 07:26:13PM +0100, Birgit Kellner wrote:
+>> No, I'm not talking about OCR.
+>>
+>> What I'm talking about is that in Devanagari, words are not always
+>> separated by spaces, but in romanized Sanskrit they are. I am talking
+>> about conversion from non-separated Devanagari text to romanized text
+>> where all words are separated with spaces. If you know of any macros
+>> that can do this, please let me know. I'm having a hard time even
+>> imagining this would be possible, let alone writing macros for this
+>> purpose ...
+>
+> December last, Peter Scharf mentioned that he and a colleague were
+> working on producing `morphological generation and analysis software
+> for Sanskrit'. This software may be able to parse non-separated
+> Devanagari text and then convert it into separated Romanised text. You
+> might like to mail Scharf about the status of his project.
+>
+>
+> Kind regards,
+>
+> Richard
+>
+>
+> --
+> Richard MAHONEY | internet: homepages.comnet.net.nz/~r-mahoney
+> Littledene      | telephone / telefax (man.): ++64 3 312 1699
+> Bay Road        | cellular: ++64 25 829 986
+> OXFORD, NZ      | e-mail: r.mahoney at comnet.net.nz
+
+
+
+

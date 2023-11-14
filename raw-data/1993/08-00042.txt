@@ -1,0 +1,50 @@
+From banks at vax.oxford.ac.uk  Tue Aug 31 17:55:54 1993
+From: banks at vax.oxford.ac.uk (banks at vax.oxford.ac.uk)
+Date: Tue, 31 Aug 93 17:55:54 +0000
+Subject: India office OPAC?
+Message-ID: <161227016082.23782.7239751736378648189.generated@prod2.harmonylists.io>
+
+
+>Dominik: I saw your posting on the BL.
+>
+>> I can sit in my office and consult LC, but not the BL which is about two 
+>>hundred
+>
+>I would be very much interested if you could please let us know about this 
+>possibility on this net.
+>
+>kind regards
+>Devendra Singh
+
+and:
+
+>Can someone tell me how to access the British library catalogues via INTERNET?
+>Actually, their availability comes as  a (pleasant) surprise, since ten years
+>ago, the Bodleian for example, did not even have a proper card catalogue. I
+>routinely dial into the various American library catalogues, of course.
+
+>Shailendra Raj Mehta
+>mehta at mgmt.purdue.edu
+
+There is a very useful (and very long) document detailing precise
+instructions on how to connect to over 100 on-line libraries, mostly in the
+US, but also including many in the UK, including Bodley.
+
+The document is called "Internet-Accessible Library Catalogs and Databases"
+and is coauthored by Dr.Art St. George of the University of New Mexico and
+Dr.Ron Larsen of the University of Maryland.
+
+To quote from a recent announcement:
+
+----------------------------------
+
+To obtain the revised file [ie. the latest version], send mail or a command
+to
+LISTSERV at UNMVM.  The body of the mail or command should say
+GET INTERNET LIBRARY. This will retrieve the ascii version of
+the file.  The Postscript version is obtained by using the
+command GET LIBRARY PS.  Because of the size of the PS
+file, some users may experience difficulties in retrieving
+it.
+
+Both the ascii and PS files are also obtainable via

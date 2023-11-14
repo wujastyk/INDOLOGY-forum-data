@@ -1,0 +1,168 @@
+From jlfitzgerald at COMCAST.NET  Fri Jun 23 22:28:22 2006
+From: jlfitzgerald at COMCAST.NET (James L. Fitzgerald)
+Date: Fri, 23 Jun 06 18:28:22 -0400
+Subject: Times CSX Font
+In-Reply-To: <001401c69711$9702d020$0200a8c0@Yudhisthira>
+Message-ID: <161227078043.23782.12537824800504529803.generated@prod2.harmonylists.io>
+
+    I forgot that we could not send attachments to the list. Here is the table cut & pasted, which obliterates some of the niceties of the table. I hope each row survives transmission over the wire. In each row, the fields are: Indic Transliterator Char, Visual Basic Unicode Code, TNR Character, TNR Code [TNR = "TimesNewRoman"] I've given the generic forms for those diacritic characters not present in TNR. (Maybe in the next iteration of Word?) Many of the IndicTranslit characters have become nonsense here, but they're superfluous anyway.  jlf
+    
+    ? ChrW(61633) a ChrW(257)
+    ? ChrW(61658) A ChrW(256)
+    ? ChrW(61678) i ChrW(299)
+    ? ChrW(61605) i ChrW(299)
+    ? ChrW(61601) I ChrW(298)
+    ? ChrW(61590) ? ChrW(241)
+    ? ChrW(61572) ? ChrW(209)
+    ? ChrW(61580) S ChrW(346)
+     ChrW(61637) s ChrW(347)
+    ? ChrW(61694) S ChrW(346)
+    ? ChrW(61606) u ChrW(363)
+    ? ChrW(61664) U ChrW(362)
+    
+ ChrW(61622) <ud>d <ud>d
+    ? ChrW(61675) <ud>D <ud>D
+    ? ChrW(61690) <ud>h <ud>h
+    ? ChrW(61691) <ud>l <ud>l
+    ? ChrW(61621) <ud>m <ud>m
+    ? ChrW(61669) <ud>M <ud>M
+    # ChrW(61638) <ud>n <ud>n
+    ? ChrW(61679) <ud>N <ud>N
+    ? ChrW(61609) <od>n <od>n
+    ? ChrW(61693) <od>N <od>N
+    ? ChrW(61636) <ud>r <ud>r
+    ? ChrW(61676) <ud>R <ud>R
+    ? ChrW(61607) <ud>s <ud>s
+    * ChrW(61655) <ud>S <ud>S
+    + ChrW(61642) <ud>t <ud>t
+    ? ChrW(61695) <ud>T <ud>T
+    
+    > -----Original Message-----
+    > From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of James L.
+    > Fitzgerald
+    > Sent: Friday, June 23, 2006 6:09 PM
+    > To: INDOLOGY at liverpool.ac.uk
+    > Subject: Re: Times CSX Font
+    > 
+    >     Dear David,
+    > 
+    >     I can't speak to either CSX or CSX+; I've never used them. But you
+    > should NOT have to rekey your texts, even if CSX+ doesn't work. To
+    > convert
+    > your text to Unicode you would set up a macro in Word's Visual Basic
+    > Editor
+    > (Tools\Macro Menu) and run a series of universal substitutions of one
+    > character (or character string) for another. There are different ways
+    > to do
+    > this, some more elegant than others. One simple and transparent way is
+    > illustrated below.
+    > 
+    >     For years I used Ecological Linguistics "Indic Transliterator"
+    > and, or,
+    > generic coding of roman letters needing diacritics. This illustration
+    > converts from generic coding to the Indic Transliterator font, but the
+    > find
+    > a replace strings could be anything and the target font could be any
+    > font on
+    > your machine. You just have to feed in the proper characters or codes.
+    > Also,
+    > you need to use the CHRW() function for Unicode codes. You could just
+    > take
+    > the following code and, after changing all relevant data, plug it into
+    > the
+    > VB editor and run it on your text. I'm attaching a .pdf of a table I
+    > made
+    > giving the Unicode codes for .Replacement.Font.Name = "Arial Unicode
+    > MS"; it
+    > also contains the codes for the characters available in
+    > .Replacement.Font.Name = "TimesNewRoman"   Good luck! Jim Fitzgerald
+    > 
+    >     With Selection.Find
+    >     .ClearFormatting
+    >     .MatchCase = True
+    >     .MatchWholeWord = False
+    >     .Replacement.Font.Name = "IndicTranslit"
+    >     .Execute FINDText:="<ud>d", ReplaceWith:=Chr(182),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>h", ReplaceWith:=Chr(250),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>l", ReplaceWith:=Chr(251),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>m", ReplaceWith:=Chr(181),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>n", ReplaceWith:=Chr(198),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>r", ReplaceWith:=Chr(196),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>R", ReplaceWith:=Chr(236),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>s", ReplaceWith:=Chr(167),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>S", ReplaceWith:=Chr(215),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ud>t", ReplaceWith:=Chr(202),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<od>n", ReplaceWith:=Chr(169),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ac>s", ReplaceWith:=Chr(197),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<ac>S", ReplaceWith:=Chr(254),
+    > Replace:=wdReplaceAll
+    >     .Execute FINDText:="<tid>n", ReplaceWith:=Chr(150),
+    > Replace:=wdReplaceAll
+    > 
+    >     End With
+    > 
+    >     > -----Original Message-----
+    >     > From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of
+    > Dominik
+    >     > Wujastyk
+    >     > Sent: Friday, June 23, 2006 4:22 PM
+    >     > To: INDOLOGY at liverpool.ac.uk
+    >     > Subject: Re: Times CSX Font
+    >     >
+    >     > First, try using the newer CSX-plus fonts.  That may sort you
+    > out.
+    >     > (This
+    >     > is a theoretical suggestion; I'm afraid I've never used Word.)
+    >     >
+    >     > Dominik
+    >     >
+    >     >
+    >     >
+    >     > On Fri, 23 Jun 2006, David Rustin Mellins wrote:
+    >     >
+    >     > > Dear Members
+    >     > >
+    >     > > Sorry to flood the list with yet another dreary font inquiry,
+    > but I
+    >     > > have struggled with this difficulty for a long time to no
+    > avail.
+    >     > > When I wrote my dissertation, I used a Times CSX font
+    > (Version:
+    >     > > Altsys Fotographer 4.0 , dated 26/6/97 - URW Software 1994)
+    > for
+    >     > > diacritics. The operating system on my computer was Microsoft
+    > XP,
+    >     > > version 2002, and my word processing program was Microsoft
+    > Word
+    >     > > 2000 (9.0.3821 SR-1). For some reason, when I install these
+    >     > > original CSX fonts on Windows based computers with more
+    >     > > contemporary versions of XP and Word and try to open files my
+    >     > > dissertatio, the more contemporary systems to not elicit the
+    > full
+    >     > > range of diacritics.
+    >     > >
+    >     > > Has anybody successfuly negotiated this difficult? Thank in
+    > advance
+    >     > > for any hopeful recommendations. I will need to send this
+    > document
+    >     > > to the publisher soon, and dread having to retype all these
+    >     > > diacritics in a different unicode complian font.
+    >     > >
+    >     > >                            David Mellins
+    >     > >
+
+
+
+

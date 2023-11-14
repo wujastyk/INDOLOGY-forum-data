@@ -1,0 +1,60 @@
+From jacob.baltuch at euronet.be  Fri May 23 02:15:35 1997
+From: jacob.baltuch at euronet.be (jacob.baltuch at euronet.be)
+Date: Fri, 23 May 97 04:15:35 +0200
+Subject: mathematics , mysticism......
+Message-ID: <161227030444.23782.2558497934046251933.generated@prod2.harmonylists.io>
+
+Dominique Thillaud wrote:
+
+>>In any case I assume such properties should only be included if
+>>a culture possesses a decimal positional system, which seems to
+>>exclude pretty much all cultures except India and those who borrowed
+>>the decimal positional system from India, i.e. Muslim civilization
+>>and Western Europe. It seems to exclude China, Egypt, Rome and
+>>Greece, as well as the hypothetical speakers of PIE since presumably
+>>they were not using positional systems, but also Mesopotamia
+>>(60-based positional system) or Mesoamerica (20-based positional
+>>system). Of course I'd be happy to be corrected on any of this.
+>
+>        There is here some confusion between numbers (mathematical and very
+>abstract) and their representations with digits (symbols) who are just
+>linguistical: one, 7, two, fourty are digits (words), 37, fourty-two are
+>representations of numbers with sentences.
+
+No, representations with digits is just as mathematical an object
+as the numbers themselves. It is a mapping of the natural numbers
+(say) in the set of finite sequences of a finite set of symbols
+(the digits).
+
+Yes, at the linguistic level, there is also a kind of numeration
+system, if you consider "one", "two", "three", "four", ..., "a hundred",
+"a thousand", ..., "a million", to be its digits, and "one million
+two thousand three hundred twenty [= two tens] (and) three" to be
+a sequence of "digits", but that was *not* the numeration system
+that I was talking about. In that sense the Indian system (that is
+that of the, say, Sanskrit language) is no more positional than that
+of Latin or Chinese.
+
+The linguistic numeration systems are never positional, that I know,
+so it should have been pretty clear that I did not have that one
+in mind.
+
+123 and "one hundred twenty three" are belong to two distinct numeration
+systems as sequence of symbols.
+
+You should distinguish the digit 3 and the digit "three". One is a
+graphical-symbolic object, the other is a linguistic object.
+
+It should be obvious that the two do not coincide, and neither is
+a representation of the other. You don't read "13" as "one three"
+but as "thirteen".
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+From ECL6TAM at lucs-01.novell.leeds.ac.uk  Wed Aug  3 09:44:47 1994
+From: ECL6TAM at lucs-01.novell.leeds.ac.uk (T.A.MCALLISTER)
+Date: Wed, 03 Aug 94 09:44:47 +0000
+Subject: Diacritics fonts for Word for Windows? Please.
+Message-ID: <161227017008.23782.15270656408640693459.generated@prod2.harmonylists.io>
+
+> Date:          Tue, 2 Aug 1994 18:05:40 BST
+> Reply-to:      indology at liverpool.ac.uk
+> From:          edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
+> To:            Members of the list <indology at liverpool.ac.uk>
+> Subject:       Diacritics fonts for Word for Windows? Please.
+
+> 
+> Dear Colleagues,
+> I am trying to find a means of writing diacritics for Sanskrit
+> transcription using Microsoft Word for Windows on a PC.
+> Has anybody any suggestions? Or can somebody point me to where
+> I can look?
+> Specifically I need to be able to write:
+>   = a dot under 'n', 'm', 'h', 'th', and 's'
+>   = a circle under 'r' (or a dot will do)
+>   = matra over vowels (and 'r')
+>   = acute accent over 's'
+> Any help appreciated. Thanks in advance.
+> Edeltraud (eclear at bronze.ucs.indiana.edu)
+
+I have created a set of TrueType fonts and WinWord macros which can 
+handle the accented letters of over 60 languages, including transliterated 
+Sanskrit, Prakrit etc. The diacritics are handled by macros which are run 
+with a single keystroke each, e.g. you type the letter "s", then you press 
+the "/" key, which runs the acute accent macro and gives you s-acute. 
+Typing the accented characters is therefore as quick and intuitive as 
+typing ordinary characters.
+
+The package is shareware, but there is no set price: pay what you think it 
+is worth (if anything) ... or don't pay, and use the software just the same, 
+with my best wishes. 
+
+I will be attempting to upload the package (called LeedsBit) to the CICA 
+(Indiana) and SRC (London) archives in the next few hours, but I've 
+never uploaded anything before, so if it isn't there in the next day or two, 
+please feel free to contact me directly.
+
+There will be a second version in a few month's time, with more 
+languages and smaller, better-designed macros, but the present version is 
+to allow people to work in the meantime.
+
+I'm currently working on a similar package to cover Cyrillic languages, 
+after which will come Mongolian (traditional alphabet, running vertically 
+in WinWord) and, if I get the chance, a Devanagari package. How much 
+time (if any) I can dedicate to these projects depends on whether I can 
+convince my boss that there is a demand for such things, so if you would 
+be interested, please let me know.
+
+Alec.
+
+..
+
+Alec McAllister
+Arts Computing Development Officer
+Computing Service
+University of Leeds
+LS2 9JT
+tel 0532 335399
+ 
+
+
+
+
+

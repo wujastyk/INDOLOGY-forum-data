@@ -1,0 +1,24 @@
+From rhayes at UNM.EDU  Sun Nov 30 04:08:30 2008
+From: rhayes at UNM.EDU (Richard Hayes)
+Date: Sat, 29 Nov 08 21:08:30 -0700
+Subject: Compatible Font for Macs and PCs...
+In-Reply-To: <B4975A17-6BCF-4915-8053-F375D3E02522@mac.com>
+Message-ID: <161227084051.23782.16385711233825465822.generated@prod2.harmonylists.io>
+
+On Sat, 2008-11-29 at 13:49 +0530, Mary Storm wrote:
+
+> Yes, I tried Gandhari Unicode and it won't work. I think the problem  
+> is OS X, but that has now been out on the market for a while. . . so  
+> somebody has surely tackled this problem for Macs.
+
+I was unable to get Gandhari Unicode to work in OpenOffice on a Linux
+platform. Fortunately, plenty of other Unicode fonts work quite well.
+
+-- 
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+
+

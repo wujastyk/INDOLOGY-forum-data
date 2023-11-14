@@ -1,0 +1,83 @@
+From ucgadkw at UK.AC.UCL  Thu Nov 29 10:42:30 1990
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Thu, 29 Nov 90 10:42:30 +0000
+Subject: e-text project survey
+Message-ID: <161227014912.23782.9044379567355898630.generated@prod2.harmonylists.io>
+
+
+This message is forwarded to INDOLOGY from the HUMANIST group.  Apologies
+to those who are members of both.  I thought this survey might be of
+interest to Indologists.  I haven't looked at it myself, but I would
+assume that it mentioned, for example, the Pali Tripitaka project(s),
+and perhaps the Austin/Delhi Ramayana/Mahabharata project.
+ 
+Dominik
+ 
+------- Forwarded Message
+ 
+Date:         Wed, 28 Nov 90 23:22:09 EST
+Reply-To: Elaine Brennan & Allen Renear <EDITORS at edu.brown.brownvm>
+Sender: HUMANIST Discussion <HUMANIST at edu.brown.brownvm>
+From: Elaine Brennan & Allen Renear <EDITORS at edu.brown.brownvm>
+Subject: 4.0776  New List of Electronic Text Projects   (1/47)
+To: Multiple recipients of list HUMANIST <HUMANIST at brownvm>
+ 
+Humanist Discussion Group, Vol. 4, No. 0776. Wednesday, 28 Nov 1990.
+ 
+Date:     Mon, 12 Nov 90 08:35 EST
+From: Jim Wilderotter -- Georgetown Center for Text and
+Subject: Electronic Text Projects
+ 
+ 
+Fellow Humanists:
+ 
+For the past eighteen months, the Georgetown Center for Text and
+Technology has been involved in creating a catalogue of projects
+involving electronic text at institutions and companies around the
+world.  Present accounting shows that we have on record a total of 312
+projects over 27 countries.
+ 
+We will be offering public access to an on-line version of this
+catalogue sometime before the end of the current year.
+ 
+Presently we are offering the list of project names and addresses
+included in our catalogue.  If you desire more specific information
+about any project, contact me personally at the address below, and I
+will be happy to forward this information along to you.
+ 
+James A. Wilderotter II
+Project Assistant
+Georgetown Center for Text and Technology
+Academic Computing Center
+Reiss Science Building, Room 238
+Georgetown University
+Washington, DC 20057
+ 
+Tel. (202) 687-6096
+BITNET: wilder at guvax
+Internet: edu%"wilder at guvax.georgetown.edu"
+ 
+ 
+                                 [...]
+ 
+ 
+                          --------------------
+ 
+[A complete version of this list is now available through the
+fileserver, s.v.  PROJECTS ETEXTS.  You may obtain a copy by issuing
+the command -- GET filename filetype HUMANIST -- either interactively or
+as a batch-job, addressed to ListServ at Brownvm.  Thus on a VM/CMS system,
+you say interactively:  TELL LISTSERV AT BROWNVM GET filename filetype
+HUMANIST; if you are not on a VM/CMS system, send mail to
+ListServ at Brownvm with the GET command as the first and only line.  For
+more details see the "Guide to Humanist".  Problems should be reported
+to David Sitman, A79 at TAUNIVM, after you have consulted the Guide and
+tried all appropriate alternatives.]
+ 
+------- End of Forwarded Message
+ 
+
+
+
+
+

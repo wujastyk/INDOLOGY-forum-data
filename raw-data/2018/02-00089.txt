@@ -1,0 +1,25 @@
+From wujastyk at gmail.com  Sun Feb 25 00:08:35 2018
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 25 Feb 18 00:08:35 +0000
+Subject: [INDOLOGY] INDOLOGY mailman migration
+Message-ID: <CAKdt-CeKr+HzVXDs0RwQeSezEgEfR1vVzSxo3abWWqrrqva9-Q@mail.gmail.com>
+
+I have been informed by the company that hosts our INDOLOGY mail server
+that the server software is being migrated later this week to a new cloud
+platform.
+
+This should be transparent to all users; you need do nothing, and service
+will continue unchanged.  However, there may be an INDOLOGY forum outage
+for an hour or two this week, while I am reconfiguring some technical
+details of the mailman host.
+
+Sincerely,
+Dominik Wujastyk
+
+INDOLOGY committee member.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180225/25cecd42/attachment.htm>
+

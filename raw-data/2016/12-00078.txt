@@ -1,0 +1,99 @@
+From tylerwwilliams at gmail.com  Fri Dec 16 21:17:57 2016
+From: tylerwwilliams at gmail.com (Tyler Williams)
+Date: Fri, 16 Dec 16 15:17:57 -0600
+Subject: [INDOLOGY] Does chandrabindu occur in Hindi
+In-Reply-To: <CAPW7aQFTryVmZLN+sPLQZC-ctkqHLgNt1qvk8AFpDJs2FAaYTA@mail.gmail.com>
+Message-ID: <CAHRgzy2ZEOfeLwREMNmH5HjJgrnSj7TK0OQc=bFpOx=XqbvX7A@mail.gmail.com>
+
+Dear Harry,
+
+There are a couple of ways of doing the transliteration. The challenge is
+that, in both precolonial manuscripts and in print editions, a single bindu
+(without the candra) can denote both a nasalized vowel sound, OR a nasal
+consonant that is the first member of a consonant conjunct. For example,
+??? can represent both ??? and ????. (If the Devanagari doesn't come
+through: a?t (where ? is a single bindu) can represent both a?t (where ? is
+true vowel nasalization) and ant (where n is the dental nasal in a conjunct
+with t).
+
+Consequently, transliteration schemes diverge. Some scholars (myself
+included) prefer ? for the 'ambiguous' bindu, ? for the proper candrabindu
+(vowel nasalization), and the appropriate nasal consonant (?, ?, ?, n, m)
+for, well, the nasal consonant. But there is another way that is also quite
+popular (and perhaps more elegant): it is to place the tilde over the
+nasalized vowel. This is certainly a simpler solution. But when dealing
+with pre-modern texts, it can sometimes obscure aspects of the originals,
+and make automatic scansion more difficult. (Because pre-modern poets often
+used the ambiguity of vowel nasalization/nasal consonants to play with
+meter.)
+
+Best,
+Tyler
+
+
+On Fri, Dec 16, 2016 at 8:37 AM, Harry Spier <hspier.muktabodha at gmail.com>
+wrote:
+
+> Thank you Dipak and Dick,
+>
+> Just to confirm. Is  chandrabindu  usually transliterated in Hindi as
+> tilde ( ~ ) ?.  I'm asking because I've seen tilde used in Hindi and
+> marathi but the ISO standard is m with chandrabindu.
+>
+> thanks,
+> Vasishha
+>
+> On Thu, Dec 15, 2016 at 3:16 AM, Dick Plukker <d.plukker at inter.nl.net>
+> wrote:
+>
+>> Dear Harry,
+>>
+>> Yes, it does. Hindi vowels can be, and are very often, nasalised.
+>> Nasality is shown by the sign candrabindu (?). However, when there is a
+>> vowel sign above the top line, only the dot wil be written.
+>> Transliteration: tilde, sometimes an m with under- or overdot.
+>>
+>> ???, ??? ??? ? Yes, I am.
+>>
+>> Dick Plukker
+>>
+>>
+>> Op 14-12-2016 om 23:06 schreef Harry Spier:
+>>
+>> Dear list members,
+>>
+>> Does the letter chandrabindu occur in Hindi
+>>
+>> Thanks,
+>> Harry Spier
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing listINDOLOGY at list.indology.infoindology-owner@list.indology.info (messages to the list's managing committee)http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161216/8ad4aa66/attachment.htm>
+

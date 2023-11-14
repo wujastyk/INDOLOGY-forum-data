@@ -1,0 +1,49 @@
+From hgroover at qualitas.com  Wed Jul 12 19:38:27 1995
+From: hgroover at qualitas.com (Henry Groover)
+Date: Wed, 12 Jul 95 15:38:27 -0400
+Subject: Sanskrit mailing list
+Message-ID: <161227020009.23782.9892733711077596280.generated@prod2.harmonylists.io>
+
+Subscribe
+
+Please add me to your mailing list.  Address: Hgroover at Qualitas.com
+
+Thank you.
+
+ 
+
+Original-Received:  from blue.weeg.uiowa.edu by 
+                   ns-mx.uiowa.edu (8.6.10/19950309.1)	on Wed, 12 Jul 1995 
+                   14:49:25 -0500 id OAA20317 with ESMTP 
+PP-warning: Illegal Received field on preceding line
+Original-Received:  from 
+                   red.weeg.uiowa.edu by blue.weeg.uiowa.edu (8.6.12/940408)	 
+                   on Wed, 12 Jul 1995 14:51:31 -0500 id OAA71299 with ESMTP 
+PP-warning: Illegal Received field on preceding line
+From: "J. Walkup" <jwalkup at blue.weeg.uiowa.edu>
+Received: by red.weeg.uiowa.edu (8.6.12/client-1.3)	id OAA91149;
+          Wed, 12 Jul 1995 14:51:09 -0500
+Date: Wed, 12 Jul 1995 14:51:09 -0500
+Message-Id: <199507121951.OAA91149 at red.weeg.uiowa.edu>
+To: adgl at cornell.edu, doug at essex.ac.uk, indology at liverpool.ac.uk
+Subject: Seeking Sanskrit fonts for Windows 3.1
+
+Greetings,
+	I want to typeset some text in Devanagari and with a Roman
+transliteration font.  If you are aware of sources for Microsoft Windows-comp
+compatible (preferably TrueType) fonts for Devagari and transliteration (with
+diacriticals for long vowels, dots under d,s,t, etc.), please contact me.
+	A reference to vendors or repositories (gopher, archie, etc.) will 
+suffice.  Also, if you can pass this along or recommend people who might advise
+me, I will be grateful.
+	Thanks to all in advance.
+	Please respond to 102011.2245 at compuserve.com (preferred) or to 
+jwalkup at blue.uiowa.edu.
+
+Cheers, James Walkup  Iowa City, USA and Calicut District, Kerala
+ 
+
+
+
+
+

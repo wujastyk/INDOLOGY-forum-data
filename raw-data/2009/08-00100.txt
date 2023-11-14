@@ -1,0 +1,94 @@
+From r.mahoney at INDICA-ET-BUDDHICA.ORG  Sat Aug 29 02:37:03 2009
+From: r.mahoney at INDICA-ET-BUDDHICA.ORG (Richard MAHONEY)
+Date: Sat, 29 Aug 09 14:37:03 +1200
+Subject: Follow up to Font/Print Problems
+In-Reply-To: <4A986C87.6050503@wfu.edu>
+Message-ID: <161227087497.23782.7154485318965729029.generated@prod2.harmonylists.io>
+
+Hello Jarrod,
+
+On Fri, Aug 28, 2009 at 07:47:19PM -0400, Jarrod L Whitaker wrote:
+> I have narrowed the problem of spacing down to vocalic "r" and many  
+> (long) accented vowels (aa', uu', r.', etc.). The problem occurs when I  
+> type the characters with shortcut keys in Word 2007. My best guess is  
+> that somehow the documents I am working on have been changed in the  
+> Style sheet. Anyway, 50% of the time when I enter one of these  
+> characters I get too much of a space (e.g., "Rgveda " with vocalic "r"  
+> will look like "R gveda"; that is with too much a space). When I delete  
+> it and retype it, the word correctly displays. However I am having a  
+> hell of a time with "m" with chandrabindu. It just won't give up the  
+> space (e.g., in "mahaa' m." with final chandrabindu). Anyway, if anyone  
+> can help with both of these issues I would be eternally grateful. 1/  
+> Character spacing/typing issues; 2/ print spacing, losing characters.
+
+Just a random thought -- though hopefully not completely off the mark
+... is it possible that what you're seeing here has something to do
+with unicode character normalisation, i.e., that r underdot, say, or a
+macron &c. are being displayed by Vista in their `decomposed' form,
+rather than as combining characters. For background on all this please
+see:
+
+ Unicode Standard Annex #15 :: Unicode Normalization Forms
+ http://www.unicode.org/unicode/reports/tr15/
+
+And possibly:
+
+ Charlint - A Character Normalization Tool
+ http://www.w3.org/International/charlint/
+
+
+Admittedly nothing more than a stab in the dark but ...
+
+
+Kind regards,
+
+ Richard
+
+
+
+
+> Sorry for the second message
+> JLW
+>
+>
+> Dear List:
+> I have just started experiencing some problems with character spacing  
+> when I print to various printers on VISTA Office 2007. I use Titus  
+> Cyberbit Basic Font, which I have had no problems to date. Essentially I  
+> am getting a separation of characters by a open blank space (esp. with  
+> vocalic "r" (r with open circle underneath), and many long accented  
+> vowels). I also have a problem with some characters just dropping  
+> out/disappearing from the page when printed (random characters in both  
+> Sanskrit and English, but all in Titus Cyberbit Basic). I just upgraded  
+> to a new computer with VISTA and Office 2007. Is any one else  
+> experiencing this problem? Thoughts? Is it a problems with new VISTA  
+> printer drivers? Office 2007?
+>
+> JLW
+>
+> *Jarrod L. Whitaker, Ph.D.*
+> Assistant Professor, South Asian Religions
+>
+> Wake Forest University
+> Department of Religion
+> PO Box 7212
+> Winston-Salem, NC, 27109
+> Email whitakjl at wfu.edu
+> Tel: 336.758.4162
+> Fax: 336.758.4462
+>
+>
+>
+>
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+
+

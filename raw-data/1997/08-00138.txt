@@ -1,0 +1,53 @@
+From magier at columbia.edu  Wed Aug 27 16:50:40 1997
+From: magier at columbia.edu (David Magier)
+Date: Wed, 27 Aug 97 12:50:40 -0400
+Subject: Roman fonts
+Message-ID: <161227031965.23782.12140063433680159718.generated@prod2.harmonylists.io>
+
+The url for directly accessing these fonts with one click in any web
+browser is:
+
+ftp://bombay.oriental.cam.ac.uk/pub/john/software/fonts/
+
+David Magier
+
+---------- Forwarded message ----------
+Date: Wed, 27 Aug 1997 12:05:06 BST
+From: John Smith <jds10 at cus.cam.ac.uk>
+Reply-To: indology at liverpool.ac.uk
+To: Members of the list <indology at liverpool.ac.uk>
+Subject: Roman fonts for Indian languages
+
+A few weeks ago I made a set of fonts available for representation of
+Indian-language material in Roman script. They exist for both PC and Mac,
+in both TrueType and PostScript Type 1 forms, and they are available
+in both the CSX and Norman encodings. 
+
+At the time I released these fonts, I was unaware of the specific
+restrictions imposed by Adobe Type Manager on the form of a Type 1
+PostScript font, with the result that ATM rejected the .pfb files I
+supplied. This has now been fixed, and Windows users who would like to
+make use of the PostScript forms of these fonts should download the new
+versions.
+
+The ftp site is bombay.oriental.cam.ac.uk. Change to directory
+/pub/john/software/fonts/norman or /pub/john/software/fonts/csx_fonts as
+appropriate.. Alternatively, use your web browser to connect to
+http://bombay.oriental.cam.ac.uk/index.html and follow the "fonts" link.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+
+
+
+
+
+

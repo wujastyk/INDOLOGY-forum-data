@@ -1,0 +1,22 @@
+From vasubandhu at EARTHLINK.NET  Mon Sep 14 17:06:19 2009
+From: vasubandhu at EARTHLINK.NET (Dan Lusthaus)
+Date: Mon, 14 Sep 09 13:06:19 -0400
+Subject: GRETIL update #357
+Message-ID: <161227087585.23782.16015709079505896582.generated@prod2.harmonylists.io>
+
+The links to
+
+Asanga: Trisatikayah Prajnaparamitayah Karikasaptatih
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#ATrisPPk>
+
+do not appear to be working. One gets a "404 File not found", whether 
+looking for the html, csx or ree version. I'm sure this is just a simple 
+oversight that can be easily remedied.
+
+Thank you wonderful work.
+
+Dan Lusthaus 
+
+
+
+

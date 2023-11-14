@@ -1,0 +1,49 @@
+From mcclint at FAS.HARVARD.EDU  Wed Aug  1 19:21:33 2001
+From: mcclint at FAS.HARVARD.EDU (Sara McClintock)
+Date: Wed, 01 Aug 01 14:21:33 -0500
+Subject: query: jodi.mga
+In-Reply-To: <Pine.SUN.4.21.0107301210340.4778-100000@socrates-a.ucl.ac. uk>
+Message-ID: <161227069505.23782.15432292932964055463.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+I have a query concerning a Sanskrit term from the Tattvasa.mgrahapa~njikaa of
+Kamala'siila (8th century Buddhist 'saastric work). The term is jodi.mga, a
+word which does not appear in the Sanskrit-English dictionaries available to me
+here. The Tibetan translation has ro sreg mkhan, which would seem to indicate a
+person whose job is burning corpses. The term occurs twice, both in the same
+context but differing slightly with regard to syntactical relations to other
+words in the sentence.
+
+The context in which the phrase appears is one in which the author is trying to
+establish that mental qualities such as compassion and so on are capable of an
+extraordinary degree of perfection (praka.r.saparyanta). An example is then
+given:
+
+First instance (TSP ad TS 3409-3412): yathaa 'srotriyajodi.mganairgh.r.nyam
+Second instance (TSP ad TS 3437-3412): 'srotriyasya jodi.mganairgh.r.nyavat
+
+In both instances, the Tibetan indicates a dvandva relation between the terms
+'srotriya and jodi.mga. I am especially confused by the genitive 'srotriyasya
+in the second instance, and I am at a loss as to how to account for it.
+
+My tentative translation of the first instance is: "like the cruelty of
+brahmins and jodi.mgas." The idea is that just as compassion can be cultivated
+to an extraordinary degree, so too can cruelty. Remember, this is a Buddhist
+text which at points is quite critical of Brahmanic religion (especially animal
+sacrifice), so the idea that brahmins are cruel fits the overall tenor of the
+work.
+
+One possibility that comes to mind is that the 'srotriyajodi.mga is a
+particular kind of brahmin. Or perhaps jodi.mga is an alterative for jo.ti.mga,
+which Monier-Williams identities as an ascetic who subjects himself to severe
+penances. Or perhaps I am overlooking something relatively obvious. In any
+case, I would appreciate any insight or ideas that Indology list subscribers
+might have.
+
+Thank you very much in advance.
+Sara McClintock
+
+
+
+

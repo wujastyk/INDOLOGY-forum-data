@@ -1,0 +1,92 @@
+From kekai at JPS.NET  Tue Jan 11 17:50:53 2000
+From: kekai at JPS.NET (Paul Kekai Manansala)
+Date: Tue, 11 Jan 00 09:50:53 -0800
+Subject: AIT, NEW genetic evidence
+Message-ID: <161227055128.23782.5196748050158482814.generated@prod2.harmonylists.io>
+
+Vidyasankar Sundaresan wrote:
+>
+ For that,> you will have to study something inherited solely from the
+father. However,> if you know biology, you will find there is no such
+thing. During production> of haploid reproductive cells, there is a
+phenomenon called cross-over,> where portions of DNA from complementary
+chromosomes are mixed up, in order> to ensure greater genetic diversity.
+In other words, the Y chromosome sperm> produced by a man is not
+identical to the Y chromosome sperm that produced
+> him. It carries genetic material inherited from both his father and his
+> mother.
+
+Recombination is very rare with the Y chromosome as compared to nuclear
+DNA, which was the basis of earlier studies. This has been proven in
+extensive clinical tests and is one reason that it is considered a
+fairly reliable marker of paternal descent.
+
+You are right on mtDNA, but a recent article in Science suggests there
+is at least some male effect on mtDNA.  I'll try to dig up the citation.
+
+With regard to mtDNA, Indians show greatest similarity to East Asian
+populations and also Ethiopians. This is shown in the tables below:
+
+Genetic Distances between Continental Populations
+Group                African       Indian      Asian
+ _______________________________________________________________
+African
+Indian               0.00440
+Asian                0.00584       0.00085
+European             0.658         0.00115      0.00046
+_______________________________________________________________
+(Bamshad et al, (1996) "mtDNA
+Variation in Caste Populations," Human Biology, v. 68, 1,)
+
+
+
+---------------------------------------------------------
+Frequency of Ddel(10,394)Alul(10,397)Haplotypes in Punjab
+----------------------------------------------------------
+                              Haplotypes
+                    ------------------------------
+                     ++         +-         --
+             no.     (%)        (%)        (%)
+ _________________________________________________________
+Caucasoids        383     1.0        21.4        77.6
+Punjabi            78     26.9       12.8        60.2
+Indians (Delhi)    76     48.7        2.6        48.7
+Indians (A.P.)     57     73.7        1.7        24.6
+Tribals (A.P.)     30     60.0        0          40.0
+East Asians       153     44.4        7.2        48.4
+Siberians         412     56.3       10.0        33.7
+Tibetans           54     61.1        0          38.9
+Sub-Sah. African  197      1.5       88.7         9.6
+-----------------------------------------------------------
+Source: Passarino et al., "mtDNA Polymorphisms in Northern
+India,"  _American Journal of Human Genetics_, 59:927-934, Oct. 1996.
+
+There is also a study showing similar results by Mountain et
+al.(Mountain et al.,(1995) "Demographic History of India and
+mtDNA-Sequence Diversity,"  American journal of human genetics,
+APR 01 1995 v 56 n 4, p. 979).
+
+A newer publication deals with mtDNA haplotype M, which was formerly
+thought of as Asian origin, but which now may be connected with the
+first migration out of Ethiopia, and strangely enough into India!
+
+Quintana-Murci L, et al.
+Genetic evidence of an early exit of Homo sapiens sapiens from Africa
+through eastern Africa. Nat Genet. 1999 Dec;23(4):437-41.
+
+Regarding Y chromosomes, global studies have placed South Asians in a
+cluster with Southeast Asians.
+
+The proto-European p49/TaqI haplotype 15 is not an important type in
+India according to studies I have seen. There are African YAP+
+haplotypes in India, but many Indian haplotypes appear to be of Indian
+origin.
+
+Regards,
+Paul Kekai Manansala
+--
+Check out http://AsiaPacificUniverse.com/
+
+
+
+

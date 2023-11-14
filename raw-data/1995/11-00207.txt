@@ -1,0 +1,81 @@
+From phillips at uts.cc.utexas.edu  Wed Nov 29 19:43:48 1995
+From: phillips at uts.cc.utexas.edu (Stephen H. Phillips)
+Date: Wed, 29 Nov 95 13:43:48 -0600
+Subject: new translations
+Message-ID: <161227021852.23782.15284693549590209894.generated@prod2.harmonylists.io>
+
+
+
+On Wed, 29 Nov 1995, Birgit Kellner wrote:
+
+> Presuppose that the translation is one of Navya-Nyaaya-texts, I find the
+> first desideratum  difficult, if not impossible, to achieve. How can one
+> mirror a syntax which is abundant in nominal compounds and abstract nouns in
+> a language which lacks these possibilities? 
+
+Well, it's not so hard to render, in some cases, subjects and predicates
+preserving the Sanskrit order and relation.  Shouldn't one do so, other 
+things being equal?  Of course, often there can't be much syntactical 
+mirroring.
+
+As to the second desideratum -
+> how can you be colloquial and clear in English where the original text is
+> neither?
+
+I beg to disagree.  Gan;ges;a is often lucid, and maybe not colloquial
+but entirely clear.  And when he is not straigtforwardly clear (he is 
+after all writing about perception, inference, analogical acquisition of 
+vocabulary, and comprehension of what someone says, matters with which we 
+all have a direct acquaintance), his thought can be made clear in comments.
+
+ To be precise: The Navya-Naiyyayikas, as much as every other Indian
+> philosophical author, addressed an audience which was well-informed about
+> their theories - they did not write for the Dhobi-wallah next door, as much
+> as modern scholars don't write for their caretakers (I don't mean to sound
+> elitist - I just refer to sociolects). Hence, what they wrote was clear to
+> those with the same educational background, and might even be called
+> "colloquial" in this environment, but, alas, none of this is around anymore.
+> When Stephen Phillips refers to a "non-specialist" audience, I take it he
+> means philosophers with no training in Sanskrit (correct me, if this is
+> wrong). In this case, and especially in the case of Navya-Nyaaya with
+> English as a target-language, I would not attempt a translation at all - or
+> if, a translation with as few explanations as possible (mainly to clarify,
+> to the specialist, how one analyzes the text in detail, or, in case of
+> philologically problematic texts, to justify the constitution of the text),
+> and a detailled study or interpretation. 
+> 
+Yes, I have presupposed in my audience some familiarity with the history of
+Western philosophy, about that of a junior undergraduate philosophy 
+major, and have not presupposed familarity with Indian thought.  But, I 
+am sorry, translation for this audience is not so difficult as you make 
+out.  Long compounds with an abstract suffix in the ablative or 
+instrumental case of course have to be rendered as subordinate clauses 
+or the like in English, but I should think it would not be too hard for a 
+student of Sanskrit to be able to retrace my renderings of Gan;ges;a; 
+there is a correspondence, though not a word-for-word relationality.
+
+I try to restrict using parentheses for true propositional anaphora and
+ellipsis.  I use a separate section labelled "Comments" for elaboration 
+and presentation of further background.
+
+Probably what I mean by propositional anaphora (paradigmatically, "it" 
+used to refer to whole views) is a part of what Kellner means by:
+> 
+ Just because a textual element is not lexically represented on
+> the textual surface doesn't mean it's not a part of the text.
+
+But he probably also means more.  Maybe I shouldn't feel the need for 
+parentheses.  However, like everything else, there is a way of using them 
+well.
+
+Stephen Phillips
+
+I plan to read in the literature on translation Kellner mentions.  Thank 
+you, sir.
+
+ 
+
+
+
+
+

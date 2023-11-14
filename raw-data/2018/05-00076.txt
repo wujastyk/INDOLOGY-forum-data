@@ -1,0 +1,68 @@
+From glhart at berkeley.edu  Sat May 12 01:31:19 2018
+From: glhart at berkeley.edu (George Hart)
+Date: Fri, 11 May 18 21:31:19 -0400
+Subject: [INDOLOGY] Date of the Tolkappiyam
+In-Reply-To: <D3CD0569-27A3-4A07-A450-10268FAED718@earthlink.net>
+Message-ID: <4BEE3F21-FAFC-4CA7-911E-28C6A2E3F8B0@berkeley.edu>
+
+Dear Rajam,
+
+As you know, I am not an expert on the Tolk?ppiyam. With that proviso, let me respond to your post. 
+
+1. Regarding the derivation of Tolk?ppiyam, I had the same problem you did. To translate ?Tolk?ppiyam? as ?Old K?vya? does not make sense, since the work is not a k?vya.
+
+(My comments on to 2 and 3 do not apply to the Poru?atik?ram, which is not a grammatical work in the common sense of the term).
+
+2. As far as ?layers? are concerned, my point was that after the Tolk?ppiyam was written down, it might have come into the keeping of a group of (Jain?) scholars, monks, or others who wished to keep it current and added to it or emended it. It is possible, though obviously it?s just speculation, that the section on the pu??i was added when the ?dot? (pu??i) started to be incorporated into the writing system. It is equally possible that the work itself postdates the appearance of the pu??i and that it is not layered at all but is actually the product of one person (or conceivably a group of people) who lived at a certain period. 
+
+3.  It seems to me likely that if the text was added to and/or emended, those who did so would have been careful to keep the name of the original author in order to maintain the legitimacy of the text.
+
+I wonder whether there is any way additions or emendations, if they exist, could be identified. Is there a change in the use of language or any other aspect of the text/content that could be identified as not fitting with some of the other parts of the work? I think this is unlikely, as the emenders (if they existed) would have been careful to add/change things so they appeared to fit with the older text. 
+
+I think a better case can be made that the Poru?atik?ram is layered, or at least that it has disparate elements. It is my impression that the grammatical parts of the Tolk?ppiyam (Collatik?ram, E?uttatik?ram) are more coherent.
+
+George
+
+
+> On May 11, 2018, at 4:39 PM, rajam via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear List Members,
+> 
+> [Disclaimer: I?m not a social historian, nor an interpretive socio-anthro person, nor an etymologist. I?m just a morphologist/grammarian. ;-) I?m not an expert in ?dating? any ancient texts. In fact, I won?t worry if someone declares that the Tolkappiyam was written/verbally transmitted in the remotely unknown BCE times or in the late CE times. What matters to me is the content of the Tolkappiyam, which is quite sophisticated in my opinion.]
+> 
+> Anyway, I have some questions which occurred when I read through this discussion thread.
+> 
+> Questions:
+> 
+> 1. Doesn?t the word k?vya refer to something related to literature? If that would be the case, how can the Tolkappiyam, which is a grammar, can be connected with that?
+> 
+> 2. This question is for George. George, could you please explain the ?layer?ed aspect of the Tolkappiyam? Exactly which parts of the Tolkappiyam are layered and how? 
+> 
+> I?ve heard about this ?layer?ed business of the Tolkappiyam in the Tamil circles where some people are like parrots just repeating what the West has said. But, so far, to my knowledge, no one seems to have explained precisely what parts of the Tolkappiyam belong to which layer, and so on. 
+> 
+> 3. This question is for everybody ascribing to the ?layer?ed nature of the Tolkappiyam. So ? if it took several centuries to compose the Tolkappiyam, how many authors were involved? Why only one author is known now and what happened to the rest?
+> 
+> I would appreciate precise answers to my questions.
+> 
+> Thanks and regards,
+> rajam
+> 
+> 
+>> On May 7, 2018, at 8:26 AM, George Hart via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>> 
+>> It was my impression that, like many older Indian works (cf. the Vy?sa Mah?bh?rata, the Rig Veda, probably the N??ya??stra), the Tolk?ppiyam is a collection of things that may have been composed at different dates. Some parts may be quite early, some later, but I would be pretty surprised if anything in the work is as late as the 9th century. My opinion is that parts of the work may go back to (or mirror/be influenced by) things as early as the 1st century BCE (and conceivably even earlier) while other parts may be as late as the 3rd or even 4th century CE. Burnell's work relating the Tolk?ppiyam to the Sanskrit Aindra (On the Aindra School of Sanskrit Grammarians: Their Place in the Sanskrit, available on Google) is important. One might note that P??ini describes things that are earlier than the Sanskrit used when he composed his work ? I am not a vaiy?kara?ika, but I am sure people on this list can speak to this. The writers of grammars, whether in Sanskrit or Tamil, do not appear out of thin air. George
+>> 
+>>> On May 7, 2018, at 5:40 AM, Jan E.M. Houben via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>>> 
+>>> Dear Paniappan, 
+>>> As an old student of Prof. Kamil Zvelebil and of his student Dr Saskia Kersenboom I am not convinced that his translation is wrong or outdated. 
+>>> Moreover, even with his translation you can argue that the imperative is prescriptive for the first time. 
+>>> In other words, his translation is here only cited as a "strawman" with the WISH to attribute a more ancient date to the Tolk?ppiyam.
+>>> Since, however, the most generally accepted etymogy of  Tolk?ppiyam is "old K?vya" and since K?vya has a convincing etymology from the Vedic-Old Persian kav? this grammar was apparently composed or at least "named" after Sanskrit K?vya developed as a literary phenomenon. Which would match the datings proposed by Prof. Tieken in his recently reprinted study on this issue. 
+>>> Best regards, 
+>>> Jan Houben
+>>> 
+>>> 
+>>> On 7 May 2018 at 00:52, Sudalaimuthu Palaniappan via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>>> Responding to a query on the date of the Tolk?ppiyam, I obtained some pages in the 2nd edition of Early Tamil Epigraphy (ETE) by Iravatham Mahadevan published in 2014. In his first edition Mahadevan had said on p. 231, ?It is thus clear that this grammatical work must have been composed after the pu??i was invented and had become an integral part of Tamil writing. Judging from the available evidence of the earliest occurrence of the pu??i from about the end of the 1st century A.D., Tolk?ppiyam was composed most probably not earlier than the Late Tamil-Br?hm? Period (ca. 2nd-4th centuries A.D.)? Unfortunately, Mahadevan had not consulted a crucial article by Rajam Ramamurti of 1982 entitled, "The Relevance of the Term Mey, O??u, and Pu??i To the System of Tamil Morpho-phonemics" in International Journal of Dravidian Linguistics, 11 , no. 1, pp. 167-183. In this article, it is stated:
+>>>  

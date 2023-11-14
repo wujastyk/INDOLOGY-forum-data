@@ -1,0 +1,19 @@
+From FALK at DE.UNI-FREIBURG.RUF.IBM  Thu Mar 12 12:44:29 1992
+From: FALK at DE.UNI-FREIBURG.RUF.IBM (harry)
+Date: Thu, 12 Mar 92 12:44:29 +0000
+Subject: chess
+Message-ID: <161227015272.23782.3495755756393348512.generated@prod2.harmonylists.io>
+
+Status: RO
+
+a collegue asks me to put his question before this audience:
+is there a computer program playing chess according to (ancient) Indian
+rules: queen only moving one step diagonally, bishops not much brighter etc.?
+If not: would it be possible to write a new or patch an existing program
+to implement the necessary rules?
+Harry
+
+
+
+
+

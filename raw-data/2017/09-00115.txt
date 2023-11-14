@@ -1,0 +1,227 @@
+From wujastyk at gmail.com  Sun Sep 17 21:52:46 2017
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 17 Sep 17 15:52:46 -0600
+Subject: [INDOLOGY] Fwd: Auto-discard notification
+In-Reply-To: <mailman.412.1505452395.28781.indology_list.indology.info@list.indology.info>
+Message-ID: <CAKdt-CcVMLGVh34=V+MacCZAcLTGHYy1ufLxvNkmDftZaDLj+w@mail.gmail.com>
+
+For technical reasons, Agathe Keller's posts on the Bakhshali discussion
+were not circulated to the INDOLOGY list at large.  I will post them in
+this and the next emails.
+
+Dominik Wujastyk, INDOLOGY committee member.
+
+
+
+
+
+---------- Forwarded message ----------
+From: Agathe Keller <kelleragathe600 at gmail.com>
+To: Karine Chemla <chemla at univ-paris-diderot.fr>
+Cc: Indology List <indology at list.indology.info>
+Bcc:
+Date: Fri, 15 Sep 2017 07:12:25 +0200
+Subject: Re: [INDOLOGY] Once again on the origin of zero: the date of the
+Bakhshali manuscript (or manuscripts?)
+Dear all, Dear Camillo,
+
+Concerning the use of a small circle to denote an empty space, and thus
+zero in the decimal place value notation. Takao Hayashi in his reference
+study of the text more than twenty years ago (*The Bakhsh?l? Manuscript: An
+Ancient Indian Mathematical Treatise *Egbert Forsten, 1995) wrote on p. 89:
+"
+
+A dot (?) is used for denoting a vacant place both in the decimal notation
+and in the ?Statement? or the tabular presentation of numerical data in the
+BM: in the former case it stands for a cipher, and in the latter for an
+unknwon number.
+
+So nothing is new here, despite what seems to claim Marcus du Sautoy in the
+video associated with the article.
+
+I think we would all like to know if indeed, it is possible to date and
+analyze the ink used on the birch bark. Just to be sure also that we get
+the information you are providing us right, is it that according to your
+study folio 16 would be almost certainly from a date ranging in between 224
+and 383 of the CE while folio 17 and 33 would be of much later date? Can
+you tell us just a bit more about what is a calibrated age and a confidence
+interval?
+
+yours
+
+Agathe Keller
+
+
+On 15 Sep 2017, at 02:41, Andrea Acri via INDOLOGY <
+indology at list.indology.info> wrote:
+
+Dear Camillo
+
+thank you for sharing this news, and especially for your (in)valuable work
+on this most important document. Let me point out at the very outset that
+all I know about this manuscript derives from the Guardian article and
+Wikipedia (disclaimer: I have no access to a library right now!), so please
+forgive me for being so naive.
+
+If the manuscript (however fragmentary it may be) is thought to contain a
+single, unitary text, then the date of its copying (and/or composition?)
+must be the 9th-10th century. I fail to see what is so sensational about
+this apart from the fact that it shows how writing supports that were
+centuries older might have been (re)utilized.  (By the way: is an analysis
+of the ink technically possible?). The earliest attestation of the written
+zero would still be the 8th-century Southeast Asian inscriptions (and not
+the Gwalior temple, as incorrectly reported in the article).
+
+But in your message, when you speak about different stratas and tables of
+ak.saras, you clearly imply that this/these manuscript(s) contain(s) a
+composite/heterogeneous text indeed, and that part of it might date back to
+the 3rd-4th century. May I ask you to anticipate/synthesize some of your
+key findings here, or at least clarify this point? And, what is the
+relationship between folios 16 and 17? Do all these folios contain the 0?
+
+Further: I'm not steeped in mathematics either, so I fail to grasp the full
+implications of this statement (especially the second sentence):
+
+"In the fragile document, zero does not yet feature as a number in its own
+right, but as a placeholder in a number system, just as the ?0? in ?101?
+indicates no tens. It features a problem to which the answer is zero, but
+here the answer is left blank".
+
+Hopefully some of our learned colleagues will be able to clarify this point.
+
+Best regards
+
+Andrea Acri
+
+Sent from my iPhone
+
+On 14 Sep 2017, at 17:15, Camillo Formigatti via INDOLOGY <
+indology at list.indology.info> wrote:
+
+Dear Colleagues,
+
+
+
+I?m pleased to be finally able to share this exciting news with you:
+
+
+
+https://www.theguardian.com/science/2017/sep/14/much-ado-
+about-nothing-ancient-indian-text-contains-earliest-zero-symbol
+
+
+
+I imagine that some of you might probably raise their eyebrows after
+reading this article. The results came as a big surprise to us too, and to
+me were literally jaw-dropping. I realize that these results have several
+implications not only for the history of mathematics, but also for our
+field of study, and I know that the article in The Guardian surely doesn?t
+answer the many questions you might be asking yourselves now. I will try to
+briefly anticipate some of them.
+
+
+
+The decision and implementation of radiocarbon dating the Bakhshali
+manuscript took several months of preparation on the part of the team of
+colleagues with which I collaborated. The team included colleagues from the
+Bodleian Libraries and other University of Oxford departments: David Howell
+(Bodleian Libraries? Head of Heritage Science), Dr Gillian Evison (Head of
+the Bodleian Libraries' Oriental Section & Indian Institute Librarian),
+Virginia M Llad?-Buis?n (Bodleian Libraries? Head of Conservation and
+Collection Care), Dr David Chivall (Chemistry Laboratory Manager at the
+School of Archaeology of the University of Oxford), and Prof. Marcus du
+Sautoy (Charles Simonyi Professor for the Public Understanding of Science
+and Professor of Mathematics at the Oxford University). We decided to take
+samples from three folios in order to be sure to have a sensible margin of
+certainty for the results. I chose folios 16, 17, and 33, and the analysis
+was conducted by Dr Chivall at the Oxford Radiocarbon Accelerator Unit. The
+results of the calibrated age (95.4% confidence interval / cal AD) are as
+follows:
+
+
+
+Folio 16:               224 (95.4%) 383calAD
+
+Folio 17:               680 (74.8%) 779calAD
+
+790 (20.6%) 868calAD
+
+Folio 33:               885 (95.4%) 993calAD
+
+
+
+We did not expect such a big difference in the date range of the three
+folios. I am currently preparing an article in which I provide the
+background for the choice of these three specific folios, tables of all
+ak?aras from the three folios as an aid to assign the extant folios to the
+different strata of the manuscript (including selected aksaras of other
+dated and undated manuscripts in similar scripts for comparison), and a
+first palaeographical appraisal of the results.
+
+
+
+Best wishes,
+
+
+
+Camillo
+
+
+------------------------------
+
+
+
+Dr Camillo A. Formigatti
+
+John Clay Sanskrit Librarian
+
+
+
+Bodleian Libraries
+
+The Weston Library
+
+Broad Street, Oxford
+
+OX1 3BG
+
+
+
+Email: camillo.formigatti at bodleian.ox.ac.uk
+
+Tel. (office): 01865 <01%20865> (2)77208
+www.bodleian.ox.ac.uk
+
+
+
+*GROW YOUR MIND*
+
+in Oxford University?s
+
+Gardens, Libraries and Museums
+
+www.mindgrowing.org
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing
+committee)
+http://listinfo.indology.info (where you can change your list options or
+unsubscribe)
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing
+committee)
+http://listinfo.indology.info (where you can change your list options or
+unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170917/cf56ac32/attachment.htm>
+

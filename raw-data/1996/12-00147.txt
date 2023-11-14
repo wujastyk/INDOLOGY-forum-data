@@ -1,0 +1,121 @@
+From bpj at netg.se  Wed Dec 11 21:02:04 1996
+From: bpj at netg.se (bpj at netg.se)
+Date: Wed, 11 Dec 96 23:02:04 +0200
+Subject: Representing diacritics in 7-bit ASCII
+Message-ID: <161227027443.23782.5106993360486906747.generated@prod2.harmonylists.io>
+
+At 14:22 11.12.1996 -0500, Alain LaBont/e'/ wrote:
+>At 16:44 96-12-11 +0200, B.Philip.Jonsson [Seeker of Useless Knowledge] wrote:
+>>REPRESENTING DIACRITICS IN 7-BIT ASCII
+>>
+>>by B.PHILIP JONSSON
+>>
+>>
+>>INTRODUCTION
+>>
+>>Some time ago my attention was drawn to the severe difficulty of
+>>representing the diacritics found in many orthographies as well as
+>>scholarly and bibliographic transcription-schemes. Even users of 8-bit
+>>systems must have access to special fonts to write and view such special
+>>characters; these fonts are hard to obtain, and there have as yet emerged
+>>no useful standards for the encoding of character-sets outside the
+>>orthographies of European languages. The different 8-bit systems (e.g.
+>>Macintosh and Windows) don't even agree wrt the encoding of diacriticized
+>>letters found in "major" languages like Spanish, French and German.
+>
+>!!!!!!!!!!!
+>
+>[Alain LaBont?] :
+>English does not agree either on the encoding of ASCII versus EBCDIC. This
+>consideration leads to sophisms (btw Latin 1 agrees with the encoding of
+>characters as used in Spanish, German or French!!!) One needs external
+>tagging of text data, even with ASCII. Furthermore fonts are not hard to
+>find. Fonts exist and are used by users of the languages to which they
+>apply. They also exist and are easy to find for scripts not in use in one's
+>language.
+
+Ever tried to get a font for Latinized Sanskrit, or Avestan, or Old
+English? They do exist, but it is hard, and then there are no universally
+agreed upon standards.
+
+>[Mr. Jonsson] :
+>>The solution then, must be to use linear strings of 7-bit ASCII-characters
+>>to represent diacriticised letters.
+>
+>[Alain LaBont?] :
+>If 7-bit means 7-bit octets (i.e. stripping 12% of the actual data out, and
+>that is what is being actually done in many places, as all 7-bit character
+>sets all use 8 bits nowadays in reality), this is not a solution, this is
+>the *major* [80%] source of the problem that plagues communications when
+>parochial English-speaking systems are involved. It is like saying that the
+>solution to reading a "bad" handwriting would be that the postman erase one
+>letter out of eight inside a sealed envelope to replace it by the postman's
+>annotation.
+>
+>Reduction of a character set into a smaller one is an alternative that
+>should be reserved to extreme cases, like morse code is reserved to cases
+>when radio communications links are extremely poor, weak and difficult. None
+>would however say that morse code is the universal solution to
+>communications problems. It is but a worst-case alternative, even if I
+>myself invented such a scheme, for worts cases indeed. That should not be
+>encouraged though as a way of the future.
+>
+>Alain LaBont?
+>Qu?bec
+
+My scheme was meant as a solution to the following problem: You sit there
+exchanging email of a scholarly linguistic content with other people. The
+only characters/glyphs you all share between you, and which can be
+error-proofly transmitted are these:
+
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijkl
+mnopqrstuvwxyz{|}~
+
+What, then, to do, if you are de-facto confined to this range of
+characters, because of incompatibility between systems, or by a system that
+in fact contains no other chars, if you want to convey/cite Latin script
+text using various traditional diacritics? The way you write your own name
+in your header shows that this is a real problem! I for one am tired of
+MIME-garbled diacriticized letters.
+
+My scheme was designed to give a representation of these traditional
+diacritics readily recognizable to the bare human eye under the
+circumstances described. It appears that I should have been more explicit
+at this point.
+
+Clearly all this animosity and misunderstanding results from our adressing
+the problems at different technical levels. I am quite savvy wrt
+writing-systems, glyph-forms and the history of writing and
+transliteration, but when it comes to (the inner life of) computers I'm as
+ignorant as anyones grandmother. I still think I may have something
+worthwhile to contribute.
+
+Maybe some of you technically savvy people could help me to get my
+(foreign) English language right, so that we all understand what we are
+talking about, before flaming me?
+
+It is curious that one should be harshly ridiculed for trying to offer
+simple, ad-hoc solutions to everyday problems.
+
+Best regards, hoping that this is all a misunderstanding of either of us.
+
+
+ _                     __  ___   __ ___ __
+|_) |_  * | *  _       (_ /_|| * (_ /_| (_ *
+|   | ) | | | |_)            |     \
+              |
+B.Philip Jonsson <bpj at netg.se>
+
+"Peace is not simply the absence of war.
+It is not a passive state of being.
+We must wage peace, as vigilantly as we wage war."
+(XIV Dalai Lama)
+
+"A coincidence, as we say in Middle-Earth"
+
+
+
+
+
+
+

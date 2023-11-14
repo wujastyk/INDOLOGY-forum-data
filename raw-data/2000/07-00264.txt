@@ -1,0 +1,84 @@
+From witzel at FAS.HARVARD.EDU  Sat Jul 15 15:07:49 2000
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Sat, 15 Jul 00 11:07:49 -0400
+Subject: was 22k
+In-Reply-To: <l03130305b5957b4c9dc9@[194.109.128.226]>
+Message-ID: <161227059969.23782.1699809164647301215.generated@prod2.harmonylists.io>
+
+Jaap Pranger wrote:
+>>Dr. Witzels posting on July 8th was 22k.
+>
+>>>> Posting number 22210, dated 8 Jul 2000 23:56:33
+>
+>Content-Type: multipart/alternative;
+>
+>Content-Type: text/plain; charset="us-ascii"     (10k)
+
+
+Oh well, according a little tertiary research in "email systens:":
+
+According to EUDORA:
+
+S       (Normal)                Indology        7/8/00  10      Re:
+Harappan Deciphered?!
+
+In my:  Better Telnet:   as returned by INDOLOGY:
+
+  232 Jul  8 To: INDOLOGY at LISTS (23,026) Re: Harappan Deciphered?!
+
+i.e. Parts/Attachments:
+   1   OK     248 lines  Text
+   2 Shown    382 lines  Text
+
+   1    248 lines   Text/PLAIN
+   2    382 lines   Text/ENRICHED
+
+no. 2,  Text/enriched, seems to be the guilty part.
+
+It must have been generated automatically and explains the size double of
+that intended. That's why attachments etc. are banned/refused automatically
+now, I suppose.
+Eudora, at which I normally look -- unless someone had used the obnoxious
+Outlook format which appears EMPTY in Eudora,  has only this:
+
+According to Eudora:
+
+S       (Normal)                Indology        7/8/00  10      Re:
+Harappan Deciphered?!
+
+-------------------------------
+
+Incidentally, I was talking about my  other nessage:
+
+> my decipherment post which had 11k in my Eudora program, especially as I
+>saw thatl
+ my older Telnet showed THE SAME message as 14,412 K. Should have split it
+up. Mea culpa ...... you get 22 k? <
+
+EUDORA:
+
+  S     (Normal)                Indology        7/8/00  10      Re:
+Harappan Deciphered?!
+
+
+TELNET:
+   237 Jul  9 To: INDOLOGY at LISTS (14,412) Re: Harappan Deciphered? DHOLAVIRA
+
+
+--------------------------
+
+Apparently we have to engange in a lot of Afterwissenschaft now.
+
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.fas.harvard.edu/~witzel/mwpage.htm
+
+Elect. Journ. of Vedic Studies:  http://www1.shore.net/~india/ejvs
+
+
+
+

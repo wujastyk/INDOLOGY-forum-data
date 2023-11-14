@@ -1,0 +1,93 @@
+From mmdesh at UMICH.EDU  Wed Nov 22 11:53:14 2000
+From: mmdesh at UMICH.EDU (Madhav Deshpande)
+Date: Wed, 22 Nov 00 06:53:14 -0500
+Subject: Differences between oral and written Taittiriya Samhita
+In-Reply-To: <F186AHmKqyPmBIzJ9sk00000f26@hotmail.com>
+Message-ID: <161227064510.23782.14585709658485620914.generated@prod2.harmonylists.io>
+
+This question points to one more dilemma, not just in western
+transcription of Vedic texts, but also in recognizing where the end of a
+metrical line occurs.  The end of a metrical line is obviously clear in
+metrical texts.  This allows a clear demarcation of the so called
+ardharca, where the sandhi-continuity ends in recitation.  This becomes
+particularly a problem in the prose texts.  There are traditional ways of
+marking the so called avasaanas even in prose texts, such as the
+repetition with -iti- in the middle, x-iti-x, in the recitation of
+Vikk.rtis like Ja.taapaa.tha.  For the particular example cited by Harry
+Spier, it looks like the divisions of the text into 4.5.2, 4.5.3 etc. mark
+the units which end in Avasaanas, but the sub-divisions of 4.5.2 into
+4.5.2.1 etc. do not end in Avasaanas.  This seems to be indicated in the
+Satavalekar edition of the TS, where only at the end of 4.5.2 we find the
+word nama.h not subject to combination with the following.  The
+subsections like 4.4.2.1 are directly combined in sandhi with the next
+segments and hence we see namo at the end of one and namo at the beginning
+of the next, because for the reciters this is a continuous text.  Problems
+like that exist also in the prose parts of the Zaunakiiya AV (15th
+Kaa.n.da) and are resolved clearly only in the Ja.taapaa.tha.  I have
+prepared a critical edition of some of these Vik.rtipaa.thas of the
+Zaunakiiya AV, and marking the Avasaanas is one of the important feature
+seen there.  Best,
+                                        Madhav Deshpande
+
+On Tue, 21 Nov 2000, Harry Spier wrote:
+
+> Dear list members,
+>
+> In comparing the audio tape (and the accompanying chanting book) I have of
+> the Rudram (satarudriya) i.e. Taittiriya Samhita 4.5 chanted by a
+> traditionally trained vedic priest of the Hiranyakesin school of the
+> Taittiriya Samhita from Satara Maharashtra with the TITUS on-line text (HTML
+> version)of Weber's edition of the Taittiriya Samhita I noticed the following
+> difference.
+>
+> In paragraphs 4.5.2 and 4.5.3 in the on-line Weber's edition all the padas
+> in these two paragraphs end in "namas".  But in the oral version I have all
+> the padas of theses two paragraphs end in "namo".
+>
+> For example:
+>
+> Oral version taittiriya samhita
+> namo hiraNyabAhave senAnye dizAm ca pataye namo / 4.5.2.1
+> namo vRkSebhyo harikezebhyaH pazUnAm pataye namo/ 4.5.2.2
+> etc.
+>
+> TITUS Weber's on-line taittiriya samhita
+> namo hiraNyabAhave senAnye dizAm ca pataye namas / 4.5.2.1
+> namo vRkSebhyo harikezebhyaH pazUnAm pataye namas/ 4.5.2.2
+> etc.
+>
+> 1) Can someone explain the reason for the difference between the oral
+> version I have and Weber's edition. (I am assuming that the on-line version
+> is not a misprint but agrees with the printed edition).  I was under the
+> impression that there were no variations in the taittiriya samhita. (A.B.
+> Keith says in his introduction to his translation that there are no "real"
+> variations).
+>
+> 2)Also if what is being done in Weber's edition is treating each pada as a
+> sentence then shouldn't it be "namaH" not "namas", perhaps someone could
+> explain that also.
+>
+> 3) Do the differences between Weber's edition and the oral version I have
+> represent two different oral traditions or styles (or even minor
+> variations)of chanting the taittiriya samhita.
+>
+> As an aside the corresponding padas from the satarudriya of the TITUS
+> on-line version (HTML) of Weber's edition of the Vajasaneyi Samhita
+> (Madhyandina) agree with the oral version of the Taittiriya samhita I have
+> and use "namo" and not "namas" at the end of these padas.
+>
+> Many thanks,
+>
+>
+> Harry Spier
+> 371 Brickman Rd.
+> Hurleyville, New York
+> USA 12747
+>
+> _____________________________________________________________________________________
+> Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
+>
+
+
+
+

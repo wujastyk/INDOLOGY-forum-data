@@ -1,0 +1,20 @@
+From mani at SHASTA.STANFORD.EDU  Thu Jul 23 23:23:48 1998
+From: mani at SHASTA.STANFORD.EDU (Mani Varadarajan)
+Date: Thu, 23 Jul 98 16:23:48 -0700
+Subject: Velthuis' Devanagari 1.5 for TeX on Macintosh
+In-Reply-To: <l03110702b1dd2c30284a@[206.205.247.11]>
+Message-ID: <161227040995.23782.17886630427807291545.generated@prod2.harmonylists.io>
+
+At one point, the Velthuis preprocessor could not handle
+the TAB character. Make sure all TABs are removed and
+spaces inserted instead. This is a serious bug that probably
+never got fixed.
+
+This is the only thing I can say without actually looking
+at your manuscript.
+
+Mani
+
+
+
+

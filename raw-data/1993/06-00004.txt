@@ -1,0 +1,16 @@
+From ZYSK at ACFcluster.NYU.EDU  Tue Jun  1 20:11:12 1993
+From: ZYSK at ACFcluster.NYU.EDU (ZYSK at ACFcluster.NYU.EDU)
+Date: Tue, 01 Jun 93 15:11:12 -0500
+Subject: Sharing Chi-Writer-based texts
+Message-ID: <161227015850.23782.3791222166309158361.generated@prod2.harmonylists.io>
+
+Thank you for the information about Chiwrite and its current problems with
+networking. Short of adopting an entirely new progam for my project, it
+appears that conversion to Kyoto-Harvard scheme might be the best way
+to go. Could someone give me more information about the Kyoto-Harvard 
+scheme. How it works in my case and where to obtain a copy of it.
+Thanks. 
+K.G. Zysk
+ 
+
+

@@ -1,0 +1,98 @@
+From witzel at FAS.HARVARD.EDU  Wed Jun  3 03:40:09 1998
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Tue, 02 Jun 98 23:40:09 -0400
+Subject: diphthongs
+In-Reply-To: <v01530502b19a0c949624@[194.134.29.11]>
+Message-ID: <161227039577.23782.4786817583355081970.generated@prod2.harmonylists.io>
+
+Since I dropped the hint some time ago, but did not get around to detail,
+I add a few words here:
+
+On Tue, 2 Jun 1998, Jacob Baltuch wrote:
+
+> There was some (entirely incidental) talk some
+> time ago from (at least two) people who knew
+> the phonetic realization of e/ai/o/au in
+> (or at some stage of) Vedic. Hence my question:
+> what is generally accepted as certain/probable
+> in that respect? (E.g. when -- i.e. in relative
+> chronology, relative to the texts that is -- did
+> the first component of ai/au become short? when
+> did e/o become phonetically pure vowels?)
+
+
+I am not sure there is a way to show all of this, but there are, as
+always, incidental obervations which can be expanded to more general
+statements, open to proof / or disproof.
+
+ long e < ai
+
+probably the best case scenario.
+
+We know from IA_Mitanni that eka was pronounced aika. We know the same
+from innumerable correspodences in Avestan (Av daEuua [daeva] : Ved. deva)
+But our recitation (no correct tape ecording here, perhaps) has -e-
+
+Metrics do not help, as ai and e are both counted as long syllables.
+
+(abhinihita  e ', o' needs a long special discussion, involving Panini 8).
+(Sandhi rules may also help, later!)
+
+Yet, we have an incidental case:
+words such as zreSTha are counted a having 3 syllables, in the Rgveda.
+This does not mean that metrics suddenly works here, just for this -e- as
+it does not in deva.
+Rather, we know that zreSTHa  is from the root zrI, from *IIr zriH,
+with laryngeal lengthening short i > I, long i.
+
+Thus, we get:
+         *zraiH-iSTha > zrai'iSTha (with hiatus? or glide, cf.
+jna-p-ayati)          > zreSTha,
+with e in manuscripts & recitation, but still counted as if 3 syllables!
+
+
+At some moment in the *post*-Rgvedic period thus, after the "RSis" who
+still made their verses using zreSTha having 3 syllables, the monophtong e
+developed. (nothing special about that, again in Pali, etc...)
+
+As for the exact date,I cannot now think of a way to determine it.
+Somewhere in the Pratisakhyas or in Grammar maybe, if the morae of a
+syllable are mentioned, `a la Panini :  short-long-pluti (extra long ) u
+in his rule about vowel length.
+
+As I said, his rules about Abhinihita or Sandhi can / may help, but that
+gets too long. Maybe another message. If here is interest. Note that
+interest is rather specific, atomistic and/or selective. No answers on the
+VERY interesting Q. about the development of Benares/Kashi so far...
+
+What do the ZiSTa-s think?
+
+
+> I'm more interested in how you can know such
+> things [*] (the methodological aspect of the
+> question, to use a word which has recently made
+> a comeback) than in what the precise answers
+> are.
+
+In this case, obviously, a mixture of Vedic philology, metrical
+information and historiacl linguistics, also general Indian (Skt.)
+grammar.
+
+
+PS: the old, Whitneyan, and partly still current, American method to write
+all ai, au  with macron seems inappropriate for the post_RV period when ai
+> e ...  (and au > o; by that time aai > ai and aau > au, I guess)
+
+
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+                                     www.fas.harvard.edu/~witzel/mwpage.htm
+
+phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496 8571
+---------------------------------------------------------------------------
+my direct line (also for messages) :  617- 496 2990
+
+
+
+

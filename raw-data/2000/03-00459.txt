@@ -1,0 +1,117 @@
+From selwyn at DTN.NTL.COM  Tue Mar 21 11:42:37 2000
+From: selwyn at DTN.NTL.COM (L.S.Cousins)
+Date: Tue, 21 Mar 00 11:42:37 +0000
+Subject: Dates of the written Rgveda
+In-Reply-To: <38D6E655.BFC8B083@safarmer.com>
+Message-ID: <161227057250.23782.4412215300507508339.generated@prod2.harmonylists.io>
+
+Dr. Farmer wrote:
+
+>  > There are what appear to be references to writing in the Pali
+>>  scriptures -- same as references in Manusmrti. I know that ways
+>>  exist to discount such citations, just as in the case of
+>>  references to script in Panini. But at a minimum the prima facie
+>>  evidence has to be dealt with, I'd think. E.g., in Nighanikaya 27.23,
+>  > we read:
+
+As was mentioned at an earlier point in these discussions, Pali
+evidence as to writing has been dealt with in detail in:
+Hin?ber, Oskar von, _Der Beginn der Schrift und fruhe Schriftlichkeit
+in Indien_, Abhandlungen der Geistes- und Sozialwissenschaftlichen
+Klasse / Akademie der Wissenschaften und der Literatur ;
+Jahrg.1989/Nr.11, Akademie der Wissenschaften und der Literatur,
+Mainz, 1990?, 3515056270 .
+
+As to the passage in the _Agga??a-sutta_ (D III 94), there is no need
+to be concerned here with the date of that. Gantha (in this sense) is
+a rather rare word. It does not occur at all elsewhere in the first
+four Nikaayas. It does occur in the Vinaya and Suttanipaata once each
+and it is clear from the passages in question that it means something
+like 'composition' i.e. it does not in the early period imply
+something written down.
+
+The passages are:
+
+Vinaya-pi.taka IV 15: anaapatti ekato uddisaapento, ekato sajjhaaya.m
+karonto, yebhuyyena pagu.na.m gantha.m (Ee gandha.m) bha.nanta.m
+opaateti, osaarenta.m opaateti, ummattakassa, aadikammikassaa ti.
+(I.B. Horner, _Book of the Discipline, Part 2, p. 193, translates:
+'There is no offence in making (him) recite it together, in studying
+it together, if while speaking he drops a phrase usually familiar, if
+he drops it while expounding, if he is mad, if he is the first
+wrong-doer.')
+
+There are perhaps problems with some parts of this rendering, but it
+is in any case clear that a gantha is something you say and in which
+you become proficient.
+
+Sutta-nipaata v. 303f. = 306f.:  braahma.naa te tattha mante
+ganthetvaa, Okkaaka.m tadupaagamu.m.
+(Norman translates: 'Having composed hymns for this purpose, they
+went up to Okkaaka again.')
+
+Here we see the verb gantheti lit. 'to tie' or 'string together', but
+in this usage 'to compose'.
+
+The transition from '(oral) composition' to '(written) book' is of
+course a very natural one.
+
+One mention also in a very late portion of the Canon:
+Apadaana II 503:
+
+  <205> Na ciren' eva kaalena sabbasattavisaarado
+
+  nipu.no Buddhavacane ahosi.m gu.nisammato. ||
+
+  <206> Tadaa catasso gaathaayo ganthayitvaa subya?janaa,
+
+  santhavitvaa tilokagga.m desayissa.m dine dine. ||
+
+Here the reference is to composing (ganthayitvaa) four stanzas.
+
+More generally, similar discussions of orality and oral literature
+arise for Pali too. See the bibliography to:
+
+Allon, Mark, _Style and Function. A study of the dominant stylistic
+features of the prose portions of P?li canonical sutta texts and
+their mnemonic function_, Studia Philologica Buddhica. Monograph
+Series XII, The International Institute for Buddhist Studies, Tokyo,
+1997, 4-906267-40-8 .
+
+According to Sinhalese works (extant from the late third or early
+fourth century  onwards) the Pali Canon was first put into writing in
+Ceylon in the first century B.C. (after an invasion and famine). This
+used to be thought rather early, but has gained credence from the
+recent discoveries of written texts from the area of modern
+Afghanistan. These belong to the parallel Canon of another Buddhist
+school and appear to date to the first century A.D.
+
+This would not preclude the use of some written texts earlier than
+this. Probably some of the verse texts of the Khuddaka-nikaaya
+existed in written form at an earlier date. Some too of the latest
+Canonical works (whose canonical status was disputed in early times)
+may have been added a little later.
+
+None of this invalidates the basic facts of the case. The major part
+of the Canon existed first of all (and for some time) in an oral form
+without being written down and this was almost certainly initially in
+a period when writing was unknown in the Gangetic area.
+
+I am uncertain whether the Vedas can really only have been written
+down as late as the end of the first millennium A.D. and would not be
+surprised if evidence for a somewhat earlier date should eventually
+surface. In any case not much hangs upon this. I would have thought
+that even 300 years of accurate oral preservation is quite remarkable
+enough. For the .Rgveda we can certainly be sure of a much longer
+time-span than that.
+
+Lance Cousins
+--
+OXFORD, UK
+
+CURRENT EMAIL ADDRESSES:
+L.S.Cousins at nessie.mcc.ac.uk or selwyn at dtn.ntl.com
+
+
+
+

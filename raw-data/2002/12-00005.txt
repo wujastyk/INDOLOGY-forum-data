@@ -1,0 +1,69 @@
+From gruenen at MAIL.SUB.UNI-GOETTINGEN.DE  Wed Dec  4 11:55:46 2002
+From: gruenen at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
+Date: Wed, 04 Dec 02 11:55:46 +0000
+Subject: Additional formats for e-texts in GRETIL
+In-Reply-To: <002d01c29b5e$76428fe0$49c8e182@zysk>
+Message-ID: <161227071798.23782.16397075285227431050.generated@prod2.harmonylists.io>
+
+Dear list members,
+the new "GRETIL experimental site"
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_exp.htm
+
+is intended to give an impression of the additional formats
+announces last week. There has been a change of course with
+regard to the "ASCII-only" format: Instead of "Kyoto-Harvard" it will
+be a new transliteration called ATIL (ASCII Transliteration for
+Indian Languages) - sincere appologies for burdening the world with
+another acronym!
+
+For details see:
+http://www.sub.uni-goettingen.de/ebene_1/
+fiindolo/gretil/gretdiac.pdf
+
+and   ... gretdias.pdf
+
+ATIL encompasses the entire range of CSX+ (Classical Sanskrit
+Extended+) characters, which covers everything indologists may
+need for the practical purpose of entering and handling e-texts in
+Indian languages, and a lot more besides. It should be gratefully
+remembered that the indological community owes the bulk of
+e-texts to our Japanese colleagues, who achieved this feat with far
+less than what CSX+ offers. On the other hand, the world is still
+waiting for contributions of similar import from those who
+sometimes seem all too willing to follow the path of compliance all
+the way down to Redmond.
+
+Since it will take at least another two weeks to convert the entire
+GRETIL archive, there is enough time to take into account your
+comments!
+
+Best regards
+
+Reinhold Gr?nendahl
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 G?ttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian
+Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+
+

@@ -1,0 +1,20 @@
+From rhayes at UNM.EDU  Mon Jun 18 13:29:30 2012
+From: rhayes at UNM.EDU (Richard Hayes)
+Date: Mon, 18 Jun 12 07:29:30 -0600
+Subject: Santipur OT
+In-Reply-To: <78129641-AF61-429D-A204-1F3DA0AADDE9@uts.cc.utexas.edu>
+Message-ID: <161227096558.23782.10172541227655040882.generated@prod2.harmonylists.io>
+
+On Jun 17, 2012, at 7:27 AM, Patrick Olivelle <jpo at UTS.CC.UTEXAS.EDU> wrote:
+
+> As many of us MAC-people know, all this can be accomplished easily on MACs by using the keyboard "Devanarati - QWERTY". Unfortunately, this does not work well with MS Word, which does not support Unicode well (at least on MACs).
+
+A few years ago I put together a set of Keynote presentations for teaching Sanskrit. Alas, when I converted them to PowerPoint and viewed them in Microsoft Office, they were badly garbled. The only workaround I could find to make them available to Windows-based students was to export them as PDF files. All the MS Office for Mac applications I have tested make a mess of Unicode once one uses non-roman scripts. Why can't Apple and Microsoft learn to get along?
+
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+
+

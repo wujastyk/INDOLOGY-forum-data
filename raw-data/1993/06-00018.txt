@@ -1,0 +1,70 @@
+From D.Wujastyk at ucl.ac.uk  Mon Jun  7 10:46:57 1993
+From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+Date: Mon, 07 Jun 93 10:46:57 +0000
+Subject: Indic Sorting Report Sought
+Message-ID: <161227015869.23782.7722213587581060576.generated@prod2.harmonylists.io>
+
+
+To: Jim Agenbroad
+
+Re: Indic sorting
+
+I do not know of the report you mention.
+
+But you might be interested to know that I developed a sorting program for
+Devanagari.  It works with source files originally created with
+Multi-Lingual Scholar and runs on a PC.  It is possible that depending on
+the nature of your source files it might be of use to you.  I could send
+you more details if you are interested. Devanagari sort order is dependent
+on the language also, as Hindi, Rajasthani, Marathi and Nepali have
+slightly different sort orders.fsf regards,
+
+Peter Friedlander
+
+
+[Forwarded by DW]
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+ 
+
+Original-Received: from 
+                   ellis.uchicago.edu by midway.uchicago.edu Mon, 7 Jun 93 
+                   08:00:39 CDT
+PP-warning: Illegal Received field on preceding line
+Date: Mon, 7 Jun 93 8:00:39 CDT
+From: james nye <jnye at midway.uchicago.edu>
+To: indology at liverpool.ac.uk
+Subject: TrueType fonts for Devanagari
+Message-Id: <CMM.0.90.4.739458039.jnye at ellis.uchicago.edu>
+
+  Dwight R. Holmes inquired last month about sources for Devanagari
+TrueType fonts.
+  The Center for Development of Advanced Computing (C-DAC) in Poona,
+(established by the Department of Electronics, Government of India)
+has a strikingly fine set of TrueType fonts for all the Indian
+languages.  (This is the same group responsible for the GIST card, a
+board for creating a multilingual machine from several different types
+of computers.)  Many of the scripts are available in multiple type
+faces.  For instance, as of April there were 9 faces each for
+Devanagari and Gujarati, 6 for Tamil, and 2 for Oriya.  Other scripts
+include:  Thai, Sinhala, Cyrillic, Persian, and Tibetan.
+  Characters are encoded using the Government of India standard,
+ISCII.
+  A staff member from C-DAC, stationed in Madras to work on Tamil,
+gave me a demonstration in April.  I also spoke with Mr. Rajaram Bhat
+of Quark Computers, one of the retail firms authorized to sell the
+fonts.  The pricing for Indian scripts is arranged according to
+levels.  Level one, for all the available fonts in any single script,
+is Rs. 12,000.  Level two, for any two languages, is Rs. 24,000.
+Level three, for all Indian scripts, is Rs. 38,000.  All of the non-
+Indian scripts are offered as a separate package for Rs. 30,000.  In
+each case, the price includes all additional fonts or improvements
+developed during the year after purchase.
+---------------------------------------------------------------------
+James Nye            jnye at midway.uchicago.edu            312-702-8430
+ 
+
+
+
+
+

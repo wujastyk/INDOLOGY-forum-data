@@ -1,0 +1,47 @@
+From WIKNER at nacdh4.nac.ac.za  Tue Mar 18 10:10:06 1997
+From: WIKNER at nacdh4.nac.ac.za (Charles Wikner)
+Date: Tue, 18 Mar 97 12:10:06 +0200
+Subject: ANNOUNCE: upgrade of SKT-series fonts
+Message-ID: <161227029011.23782.1890326543557421323.generated@prod2.harmonylists.io>
+
+
+ANNOUNCE: Upgrade of SKT-series Devanagari font package.
+
+In response to user requests, this package has undergone major changes:
+
+ o  Accents for ALL Vedas (23 symbols in devanagari, 25 in roman).
+    In transliteration the *form* follows that of the nagari.
+
+ o  Accent marking in colour or grey shading.
+
+ o  Choice of basic character forms (21), e.g. for a .r .na.
+
+ o  Wide selection of samyoga forms (70 interacting options):
+    a table in the documentation lists more than one thousand 
+    samyogas together with their optional forms in devanagari.
+
+ o  Range of inter- and intra-syllable spacing.
+
+ o  Dynamic option selection (replaces skt.opt file).
+
+The upgraded files are currently on CTAN in the /language/sanskrit
+subdirectory.  A 600-kByte 600-dpi PostScript print file of the 
+documentation and samples is available by anonymous ftp from:
+
+      ftp://ftp.nacdh4.nac.ac.za/wikner/sktdoc.ps600
+
+This site is rather overloaded: you may find the Jaguar temporary
+site more accessible:
+
+      ftp://t.ms.uky.edu/incoming/sanskrit/sktdoc.ps600
+
+Regards,
+Charles Wikner.
+wikner at nacdh4.nac.ac.za
+18-March-1997
+
+
+
+
+
+

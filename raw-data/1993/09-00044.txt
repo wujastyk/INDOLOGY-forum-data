@@ -1,0 +1,244 @@
+From EVERSON at IRLEARN.UCD.IE  Wed Sep 22 16:13:32 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Wed, 22 Sep 93 16:13:32 +0000
+Subject: DRAFT ISCII-ENCODED TIBETAN CHARACTER SET
+Message-ID: <161227016157.23782.335554969628183222.generated@prod2.harmonylists.io>
+
+ 
+TIBETAN DRAFT CHARACTER NAMES
+ 
+@       Syllable marker
+1000    TIBETAN TSEG
+@       Vowel modifiers
+1001    TIBETAN CANDRABINDU
+        = klad-kor
+        = lekhor
+1002    TIBETAN SIGN ANUSVARA
+        = nga-ro
+1003    TIBETAN SIGN VISARGA
+        = rnam-bcad     [sic]
+        = namchey
+1004
+@       Independent vowels
+1005    TIBETAN LETTER A
+1006    TIBETAN LETTER AA
+        precomposed glyph for Sanskrit compatibility
+1007    TIBETAN LETTER I
+        precomposed glyph for Sanskrit compatibility
+1008    TIBETAN LETTER II
+        precomposed glyph for Sanskrit compatibility
+1009    TIBETAN LETTER U
+        precomposed glyph for Sanskrit compatibility
+100A    TIBETAN LETTER UU
+        precomposed glyph for Sanskrit compatibility
+100B    TIBETAN LETTER VOCALIC R
+        precomposed glyph for Sanskrit compatibility
+100C    TIBETAN LETTER VOCALIC L
+        precomposed glyph for Sanskrit compatibility
+100D
+100E
+100F    TIBETAN LETTER E
+        precomposed glyph for Sanskrit compatibility
+1010    TIBETAN LETTER AI
+        precomposed glyph for Sanskrit compatibility
+1011
+1012
+1013    TIBETAN LETTER O
+        precomposed glyph for Sanskrit compatibility
+1014    TIBETAN LETTER AU
+        precomposed glyph for Sanskrit compatibility
+@       Consonants
+1015    TIBETAN LETTER KA
+1016    TIBETAN LETTER KHA
+1017    TIBETAN LETTER GA
+1018    TIBETAN LETTER GHA
+        precomposed glyph for Sanskrit compatibility
+1019    TIBETAN LETTER NGA
+101A    TIBETAN LETTER CA
+101B    TIBETAN LETTER CHA
+101C    TIBETAN LETTER JA
+101D    TIBETAN LETTER JHA
+        precomposed glyph for Sanskrit compatibility
+101E    TIBETAN LETTER NYA
+101F    TIBETAN LETTER TTA
+1020    TIBETAN LETTER TTHA
+1021    TIBETAN LETTER DDA
+1022    TIBETAN LETTER DDHA
+        precomposed glyph for Sanskrit compatibility
+1023    TIBETAN LETTER NNA
+1024    TIBETAN LETTER TA
+1025    TIBETAN LETTER THA
+1026    TIBETAN LETTER DA
+1027    TIBETAN LETTER DHA
+        precomposed glyph for Sanskrit compatibility
+1028    TIBETAN LETTER NA
+1029
+102A    TIBETAN LETTER PA
+102B    TIBETAN LETTER PHA
+102C    TIBETAN LETTER BA
+102D    TIBETAN LETTER BHA
+        precomposed glyph for Sanskrit compatibility
+102E    TIBETAN LETTER MA
+102F    TIBETAN LETTER YA
+1030    TIBETAN LETTER RA
+1031
+1032    TIBETAN LETTER LA
+1033
+1034    TIBETAN LETTER WA
+1035    TIBETAN LETTER SHA
+1036    TIBETAN LETTER SSA
+1037    TIBETAN LETTER SA
+1038    TIBETAN LETTER HA
+1039
+103A
+103B
+103C    TIBETAN UNDER RING
+103D
+@       Vowel signs
+103E    TIBETAN VOWEL SIGN AA
+        = aa-chung     [sic]
+103F    TIBETAN VOWEL SIGN I
+1040    TIBETAN VOWEL SIGN II
+1041    TIBETAN VOWEL SIGN U
+1042    TIBETAN VOWEL SIGN UU
+1043    TIBETAN VOWEL SIGN VOCALIC R
+1044    TIBETAN VOWEL SIGN VOCALIC RR
+1045
+1046
+1047    TIBETAN VOWEL SIGN E
+1048    TIBETAN VOWEL SIGN AI
+1049
+104A
+104B    TIBETAN VOWEL SIGN O
+104C    TIBETAN VOWEL SIGN AU
+@       Virama
+104D    TIBETAN SIGN VIRAMA
+        = srog-med
+104E
+104F
+1050
+1051    TIBETAN CANDRABINDU WITH ORNAMENT
+        =
+        = datsekthikley
+1052    TIBETAN HONORIFIC UNDER RING
+1053    TIBETAN LANGCHEN NYOBUM
+1054    TIBETAN JNIM ONE
+1055    TIBETAN JNIM TWO
+1056    TIBETAN HONORIFIC PREFIX
+1057    TIBETAN CHUCHENYIGE
+1058
+1059
+105A
+105B
+105C
+105D
+105E    TIBETAN LETTER FA
+105F    TIBETAN LETTER VA
+1060    TIBETAN LETTER VOCALIC RR
+        precomposed glyph for Sanskrit compatibility
+1061    TIBETAN LETTER VOCALIC LL
+        precomposed glyph for Sanskrit compatibility
+1062    TIBETAN VOWEL SIGN VOCALIC L
+        precomposed glyph for Sanskrit compatibility
+1063    TIBETAN VOWEL SIGN VOCALIC LL
+        precomposed glyph for Sanskrit compatibility
+@       Punctuation
+1064    TIBETAN SHAD
+        = rkyang-shad
+        x Devanagari danda --> 0964
+1065    TIBETAN DOUBLE SHAD
+        = nyis-shad
+        x Devanagari double danda --> 0965
+@       Numerals
+1066    TIBETAN DIGIT ZERO
+1067    TIBETAN DIGIT ONE
+1068    TIBETAN DIGIT TWO
+1069    TIBETAN DIGIT THREE
+106A    TIBETAN DIGIT FOUR
+106B    TIBETAN DIGIT FIVE
+106C    TIBETAN DIGIT SIX
+106D    TIBETAN DIGIT SEVEN
+106E    TIBETAN DIGIT EIGHT
+106F    TIBETAN DIGIT NINE
+@       Punctuation
+1070    TIBETAN RIGHT BRACE
+1071    TIBETAN LEFT BRACE
+1072    TIBETAN DITTO
+        = duyik
+1073    TIBETAN COMMA
+        = tertsek
+        glyph also used as a Tibetan visarga
+1074    TIBETAN RIN-CHEN-PHUNG-SHAD
+        = rinchen pung shey
+1075    TIBETAN RGYAN-SHAD
+        = druishey
+1076    TIBETAN QUADRUPLE SHAD
+        = bzhi-shad
+1077    TIBETAN SINGLE ORNAMENT
+        = nyi-zla
+        = goyik
+        honorific, marks the beginning of texts
+1078
+1079
+@       Additional consonants
+107A    TIBETAN LETTER TSA
+107B    TIBETAN LETTER TSHA
+107C    TIBETAN LETTER DZA
+107D    TIBETAN LETTER ZHA
+107E    TIBETAN LETTER ZA
+107F    TIBETAN LETTER AA
+==========
+ 
+ 
+Note on punctuation: Das 1902 gives the following:
+ 
+RKYANG-SHAD or TSEG-SHAD: single perpendicular stroke (U+1064 here)
+NYIS-SHAD: double perpendicular stroke (U+1065 here)
+BZHI-SHAD: quadruple perpendicular stroke (U+1076 here)
+TSEG: dot separating syllables (U+1000 here)
+ 
+Das also appears to unify U+1074 and U+1075 here. Correct nomenclature
+should be ascertained.
+ 
+Hannah 1912 agrees, giving:
+ 
+RKYANG-SHAD or TSEG-SHAD: single perpendicular stroke (U+1064 here)
+[apparently the reason it is called TSEG-SHAD by Das is that if it is
+final there is no written TSEG before it, except in the case of NGA,
+which always retains a TSEG.] Equivalent to comma.
+NYIS-SHAD: double perpendicular stroke (U+1065 here) Equivalent to full
+stop.
+BZHI-SHAD: quadruple perpendicular stroke (U+1076 here) Equivalent to
+paragraph or section marker.
+ 
+Hannah gives squiggley SHADs and SHADs with two or three dots over them
+as glyph variants of the ordinary SHADs. Hanna gives a SHAD with an
+o-vowel above as an honorific "indicating a fresh beginning", called
+LOTUS-AND-STALK. Hannah's SINGLE ORNAMENT is more elaborate than U+1077
+here, having three variants of increasing complexity, composed of
+elements from top to bottom:
+RADIANCE-GEM-LOTUS-LOTUS
+RADIANCE-GEM-LOTUS-LOTUS-LOTUS
+RADIANCE-GEM-LOTUS-LOTUS-LOTUS-STALK
+ 
+The SINGLE ORNAMENT described in these terms would be called GEM-LOTUS.
+This LOTUS is not the same as the one in the LOTUS-AND-STALK. If the
+SINGLE ORNAMENT is NYI-ZLA, then GEM could be replaced by SUN and LOTUS
+by MOON in the ornaments (but not in the LOTUS-AND-STALK shad). Quite
+possibly more ornaments should be added. RGYAN-SHAD (U+1075 here) means
+simply "ornamented shad". RIN-CHEN-PHUNG-SHAD (U+1074 here) means "gem
+body shad". I would appreciate knowing the full forms of the terms for
+U+1051 --> U+1057 and U+1072 --> U+1073) in the Vienna Congress of
+Orientalists transliteration (used e.g. by Das).
+ 
+==========
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

@@ -1,0 +1,17 @@
+From EVERSON at IRLEARN.UCD.IE  Sun Jun 20 00:58:23 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Sun, 20 Jun 93 00:58:23 +0000
+Subject: Romanized Indic metafont update available by ftp
+Message-ID: <161227015891.23782.3409070114506422185.generated@prod2.harmonylists.io>
+
+Is it possible to convert TeX format fonts to Postscript?
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

@@ -1,0 +1,27 @@
+From giuseppe at imiucca.csi.unimi.it  Sun Jul 16 00:23:11 1995
+From: giuseppe at imiucca.csi.unimi.it (giuseppe at imiucca.csi.unimi.it)
+Date: Sun, 16 Jul 95 00:23:11 +0000
+Subject: Fonts and Copyright
+Message-ID: <161227020044.23782.16864500847911239336.generated@prod2.harmonylists.io>
+
+
+Alec McAllister may be quite right in his analysis of what might be considered
+a copyright violation - obviousy I will not be sending anyone anything through
+e-mail or post until the issue is perfectly cleared (which doesn't seem likely).
+Being quite ignorant of the intricate folds of UK law, I will limit myself to
+one question: does the license granted by a manufacturer on a font cease if I
+modify the font to make it better suit my needs (using a legally obtained pro-
+gram)? Conversely, can a manufacturer ever grant me a license on a product which
+it doesn't have, i.e. the modified font?
+I would appreciate comments on this matter - specifically, we are dealing with
+a personal, non-commercial use of a modified typeface which, in its basic form,
+is shipped with every Macintosh computer.
+
+
+Alex Passi
+ 
+
+
+
+
+

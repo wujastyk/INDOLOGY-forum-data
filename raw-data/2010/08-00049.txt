@@ -1,0 +1,76 @@
+From wujastyk at GMAIL.COM  Fri Aug 27 07:19:56 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Fri, 27 Aug 10 09:19:56 +0200
+Subject: Fwd: Indices of Sanskrit Texts
+In-Reply-To: <AANLkTiksoNCnnDPRNcm6COxoCC0TJ8vMcxb8vrwfqr8Q@mail.gmail.com>
+Message-ID: <161227090214.23782.12888017993548950380.generated@prod2.harmonylists.io>
+
+---------- Forwarded message ----------
+From: Harry Spier <hspier.muktabodha at gmail.com>
+Date: 27 August 2010 02:19
+Subject: Re: Indices of Sanskrit Texts
+Re: Searchable Indices of Sanskrit Texts
+
+Dear list members,
+
+The digital library of the  Muktabodha Indological Research Institutes
+www.muktabodha.org contains around  two hundred searchable medieval
+religious texts (mostly Tantric and Agamic).  It contains a very powerful
+search engine that allows you to search for either simple words, expressions
+or complex patterns of words in both Kyoto-Harvard and Velthuis
+transliterations.  The search engine brings up all the lines in the texts
+where  the search pattern was found and clicking on a line brings up the
+full text at the highlighted line.
+
+For example, recently Madhav Deshpande asked on the list a question about
+anusvAra and bindu.  By searching in the Muktabodha digital library with the
+search pattern
+
+*<((nusvAr).*(bind))|((bind).*(nusvAr))>
+*
+This will give you about 25 references in 7 different tantric texts to where
+anusvAra and bindu are mentioned in the same sentence in tantric texts.  You
+can then click on any references you are interested in and the e-text will
+come up at the correct location.
+
+This is a complex search pattern but you can do much simpler searchs and
+with practice the "regular expression" syntax becomes easy.
+The *< >*in  *<((nusvAr).*(bind))|((bind).*(nusvAr))> *means you are using
+Harvard-Kyoto  I.e. everything between < and > is Harvard-Kyoto.  If you
+wish to use Velthuis then you put the search pattern between *{ *and *}*.
+
+
+*(nusvAr).*(bind) *means all sentences containing both nusvAr and bind no
+matter how separate in the same sentence(I'm truncating the words so you get
+them whatever the sandhi
+*(bind).*(nusvAr) *means all sentences containing both bind and nusvAr no
+matter how separate in the same sentence.
+
+The *| *means search for both patterns and the *( )*'s are just a simple way
+of separating items in the search pattern.
+These are whats known as a "regular expression" search pattern.
+
+*.** means there may be letters between the items searched for.
+
+The beauty of "regular expression" search patterns is that you can search
+for variations.  For example above I'm searching not only for where bindu
+follows anusvAra but also where anusvAra follows bindu.
+
+I've always thought that a "regular expression" search engine could be an
+extremely valuable tool in Indological research.
+
+To use another example, a few years back on the Yahoo Indology list Michael
+Witzel indicated that  the high frequency of "ha" at pada final in the
+Uttarakhanda of the Ramayana showed that that khanda was relatively late in
+response to someones question.  It was very easy to find all lines with "ha"
+and also all pada final "ha" with a regular expression search engine to get
+a relative count of its position in the pada.  (in that particular case it
+was the search engine of a programmers editor that was used).
+
+Regards,
+Harry Spier
+Muktabodha
+
+
+
+

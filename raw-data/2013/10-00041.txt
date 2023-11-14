@@ -1,0 +1,22 @@
+From gruenen at sub.uni-goettingen.de  Wed Oct  9 15:16:08 2013
+From: gruenen at sub.uni-goettingen.de (Gruenendahl, Reinhold)
+Date: Wed, 09 Oct 13 15:16:08 +0000
+Subject: [INDOLOGY] "GRETIL ALL" archive, 2013-10-09
+Message-ID: <044C4CE033BD474EBE2ACACE8E4B1D943FC5AC93@UM-excdag-a02.um.gwdg.de>
+
+Dear list members,
+occasionally, newcomers to GRETIL ask how they can build up a personal archive of e-texts on their hard disk for convenient "global search" ("grep") etc. To save them the trouble of having to download hundreds of individual files, a zipped archive of the presently 1,578 UTF-8 (Unicode) files is now made available for download:
+
+http://gretil.sub.uni-goettingen.de/gretil/GRETIL_ALL_2013-10-09_UTF8_FOR_PERSONAL_USE_ONLY.zip
+
+Please, note that this archive is intended for personal use only.
+
+Regards,
+Reinhold Gr?nendahl
+
+
+
+
+
+
+

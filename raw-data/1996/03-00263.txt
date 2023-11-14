@@ -1,0 +1,54 @@
+From aklujkar at unixg.ubc.ca  Thu Mar 28 19:19:06 1996
+From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
+Date: Thu, 28 Mar 96 11:19:06 -0800
+Subject: Velthuis' font
+Message-ID: <161227023588.23782.9843558711222196022.generated@prod2.harmonylists.io>
+
+Making an excuse of the recent posting regarding improvements in Velthuis'
+devanaagarii font, I would like to suggest that an improvement, originally
+suggested by Dr. Gary Tubb, should be made in Velthuis' conventions for
+Roman transliteration. 
+
+The palatal sibilant (commonly anglicized as "sh" and at present
+transcribed on the Indology list as ""s", that is, with a double quotation
+mark preceding "s") should be transcribed as ";s", that is, with a
+semicolon preceding "s".
+
+The palatal nasal (the sound coming after "c," "ch," "j" and "jh") can then
+be consistently transcribed as ";n". 
+
+For the guttural nasal ":n", tha is, "n" preceded by colon, should serve
+well.
+
+These changes would free up the double quotes for their normal use and also
+make the transcription of nasals easier and unambiguous. 
+
+I particularly appreciate the fact that  Velthuis scheme leaves the
+capitals or upper key letters available for their established use in Roman
+printing. 
+
+For the benefit of those who do not know what Velthuis  system at present
+is, I reproduce below the latest statement I have:
+I. Velthuis's conventions are as follows:
+1) LONG VOWELS ARE DOUBLED. (This also happens to be phonetically correct.)
+#The vowels of Sanskrit, then, are a, aa, i, ii, u, uu. An exception to the
+doubling rule occurs with long vocalic r, which is encoded .R
+2) CONSONANTAL DIACRITICS PRECEDE THE CONSONANTS MARKED BY THEM. Thus the
+retroflex class of vowels and consonants is written: .  .r .t .th .d .dh .n
+.s  Visarga is written: .h   The palatals that take diacritics are: ~n and
+"s  [My suggestion, following Tubb: ;n, ;s] The guttural nasal is written:
+"n [my suggestion, following Tubb: :n]
+3) DA.N.DA IS WRITTEN |
+
+INDOLOGY should continue to use Velthuis  conventions and should not create
+confusion through the use of a variety of Devanaagarii fonts (I am not
+opposed to the use of Devanaagarii if a standard, almost universally
+accepted system for its use in electronic communication emerges).
+
+
+
+
+
+
+
+

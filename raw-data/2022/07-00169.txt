@@ -1,0 +1,48 @@
+From rajam at earthlink.net  Sun Jul 31 19:01:50 2022
+From: rajam at earthlink.net (rajam)
+Date: Sun, 31 Jul 2022 12:01:50 -0700
+Subject: [INDOLOGY] New version of Bloomfield's Vedic Concordance
+In-Reply-To: <8ccaef04-1df7-3666-eda2-ce760cdc9989@gmx.de>
+References: <8ccaef04-1df7-3666-eda2-ce760cdc9989@gmx.de>
+Message-ID: <6C05083B-A92F-4F0D-AFED-6004BB562F2D@earthlink.net>
+
+Looks very impressive! Congratulations! 
+
+Mere XML version may not be useful for those that are not software/programming savvy, I think. 
+
+Any possibility of this data being represented in a visual mode, say for example, see Visual Thesaurus (https://www.visualthesaurus.com <https://www.visualthesaurus.com/>)? 
+
+I?ve been wanting to create one for Tamil for many years now, but I don?t have enough resources, so my wishful thinking remains as such. I contacted the developers at Thinkmap.com <http://thinkmap.com/> long time ago; they sent me a sample SDK (software development kit); it was great, but I could not proceed further because I couldn?t afford the price for their SDK. 
+
+You may want to try developing a Visual Thesaurus for your data. If you have the urge and willingness and enough resources ? you can contribute a marvelous search engine to the field of Indology! On your side, all you/one need(s) to know is some hands-on experience with HTML, XML, JavaScript and some latest Web Language such as PHP! 
+
+With Best Wishes,
+rajam 
+
+
+> On Jul 31, 2022, at 4:02 AM, Oliver Hellwig via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear all,
+> 
+> a new XML version of Bloomfield's VC can be found here, along with a
+> paper describing how we built it:
+> 
+> https://github.com/OliverHellwig/sanskrit/tree/master/papers/2023wsc
+> 
+> The new version is hopefully much easier to parse and and therefore more
+> accessible for searching as well as for computational approaches.
+> 
+> Best, Oliver
+> 
+> ---
+> Oliver Hellwig, IVS Z?rich/Universit?t D?sseldorf
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220731/a3910947/attachment.htm>
+

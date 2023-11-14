@@ -1,0 +1,41 @@
+From wujastyk at gmail.com  Mon Feb 25 18:46:08 2019
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 25 Feb 19 11:46:08 -0700
+Subject: [INDOLOGY] Fwd: [SILFontNews] Annapurna version 1.204 release
+In-Reply-To: <c301d08c-443c-4288-8d82-af609918c624@groups.sil.org>
+Message-ID: <CAKdt-Cdh+ThDeHkAVCMMwFghUaTv5=7wrZOxvocUD5JDbGpTQQ@mail.gmail.com>
+
+FYI for those who are not subscribed to the SIL Font News group:
+
+---------- Forwarded message ---------
+From: jon_coblentz <jon_coblentz at sil.org>
+Date: Mon, 25 Feb 2019 at 11:44
+Subject: [SILFontNews] Annapurna version 1.204 release
+To: SIL Font News <sil-font-news at groups.sil.org>
+
+
+AnnapurnaSIL (a Devanagari script font) version 1.204 is a maintenance
+release that fixes some Graphite bugs involving alternate renderings of the
+half forms of ya and removing duplicates in classes. It also fixes an issue
+with Scripture App Builder.
+
+The home page is http://software.sil.org/annapurna/.
+
+-- 
+Thank you for your interest in SIL fonts. This is not a discussion list, it
+is purely a place for SIL to give news and announcements related to all SIL
+font releases. If you need assistance with SIL fonts, please go to
+https://community.software.sil.org/c/silfonts
+---
+You received this message because you are subscribed to the Google Groups
+"SIL Font News" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to sil-font-news+unsubscribe at groups.sil.org.
+Visit this group at
+https://groups.google.com/a/groups.sil.org/group/sil-font-news/.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190225/9c5a986b/attachment.htm>
+

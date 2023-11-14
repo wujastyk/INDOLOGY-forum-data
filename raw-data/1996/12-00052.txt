@@ -1,0 +1,56 @@
+From apandey at u.washington.edu  Wed Dec  4 02:50:05 1996
+From: apandey at u.washington.edu (Anshuman Pandey)
+Date: Tue, 03 Dec 96 18:50:05 -0800
+Subject: Numeric notation in the SV and related works.
+Message-ID: <161227027276.23782.1568387223020881246.generated@prod2.harmonylists.io>
+
+
+Hello,
+
+I've come across, in the saamaveda and also in the chaandogya upaniShad,
+sequences of numbers within verses which I am assuming are some sort of
+notation system intended for accentuating syllables during chanting -
+usually in the manner of ''32111. I've included examples indicating this
+notation from the chaandogya upaniShad below.
+
+I would like to know what these numbers represent and what they
+are used for. I've considered looking at Wayne Howard's work on the
+notation of the Jaiminiiyas, but thought that as the chaandogya is of
+the Kauthuma shaakhaa, Howard's work might not be of much help. Perhaps
+such assumptions are not to be made, eh? Any suggestions as to any
+sources or treatises I could turn to, preferrably with English
+interpretation, to allow me further insight on this topic?
+
+Examples from the chaandogya upaniShad:
+
+(where \m+ indicates vedic anusvaara.)
+
+lo3kadvaaramapaavaa3rNuu 33 pashyema tvaa vaya\m+
+raa 33333 hu 3 m.h aa 33 jyaa 3 yo 3 aa 32111 iti .. 2.24.4..
+ 
+lo3kadvaaramapaavaa3rNuu33 pashyema tvaa vayaM
+vairaa33333 hu3m.h aa33jyaa 3yo3aa32111iti .. 2.24.8..
+ 
+lo3kadvaaramapaavaa3rNuu33pashyema tvaa vaya\m+ svaaraa 
+33333 hu3m.h aa33 jyaa3 yo3aa 32111 iti .. 2.24.12..
+ 
+aadityamatha vaishvadevaM lo3kadvaaramapaavaa3rNuu33 pashyema 
+tvaa vaya\m+saamraa33333 hu3m.h aa33 jyaa3yo3aa 32111 iti .. 2.24.13..
+
+Thank you in advance.
+
+Regards,
+Anshuman Pandey
+
+---
+Anshuman Pandey | apandey at u.washington.edu | University of Washington
+
+  "Life is an impossible scheme, and love an imperceptible dream. 
+   Face the facts, that's what it's always been. Relax. What you 
+   see is what you've seen, What you get is a new philosophy."
+
+
+
+
+
+

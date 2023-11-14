@@ -1,0 +1,82 @@
+From james.hartzell at GMAIL.COM  Thu May 14 09:36:37 2009
+From: james.hartzell at GMAIL.COM (James Hartzell)
+Date: Thu, 14 May 09 11:36:37 +0200
+Subject: Devanagari Unicode fonts for the Mac?
+In-Reply-To: <E35AAB66-E5A0-4B23-8235-45CB1313C8EE@gmx.de>
+Message-ID: <161227086186.23782.2587380374670903555.generated@prod2.harmonylists.io>
+
+Dear Sven
+I see that you're correct for ?????; I don't know how to get around this
+particular problem.
+Cheers
+James
+
+On Thu, May 14, 2009 at 9:09 AM, Sven Sellmer <sellmers at gmx.de> wrote:
+
+> Unfortunately, not all ligatures seem to work in this way: for example -Gg-
+> (as in gaGgA) appears (both in NeoOffice and in Mail) as G+vir?ma+g (?????).
+> This ligature I, for one, can only generate in TextEdit by enabling "All
+> ligatures". Or is there any way to get around this problem?
+> Best wishes,
+> Sven Sellmer
+>
+> ************************************
+> Dr. Sven Sellmer
+> Adam Mickiewicz University
+> Institute of Oriental Studies
+> South Asia Unit
+> ul. 28 czerwca 1956 nr 198
+> 61-485 Pozna?
+> POLAND
+> sven at amu.edu.pl
+>
+> Am 14.05.2009 um 01:25 schrieb James Hartzell:
+>
+>
+>  Madhav Deshpande had guided me through using the Devanagari QWERTY
+>> keyboard
+>> under the International input option on the Mac (see System Preferences).
+>> Then selecting the Arial Unicode MS.  This works perfectly well in
+>> NeoOffice, with all the ligatures required by typing an "f" after the
+>> relevant letter, then the next letter.  Aspirated letters come from shift,
+>> plus the letter, initial vowels from alt-letter, etc.  The alt-letter
+>> combo
+>> provides the retroflexes as well.
+>> ? from z
+>> ? from x
+>> ??? from alt s
+>> ? from shift s
+>> ? from shift n
+>> ? from alt n
+>> ?  from .
+>> ? from alt '
+>>
+>> for instance
+>> ???????:
+>> ???????: etc.
+>> not sure whether this will work in your Adobe program.
+>>
+>> ?????:
+>> James Hartzell
+>>
+>> On Wed, May 13, 2009 at 6:40 PM, Paul G. Hackett <ph2046 at columbia.edu
+>> >wrote:
+>>
+>>  Greetings,
+>>>
+>>> I am attempting to typeset some Unicode Devanagari text in Adobe InDesign
+>>> (CS3) on the Mac (OS X.5.6) but cannot seem to locate a Unicode font that
+>>> will function correctly (i.e. form ligatures) in InDesign.  Does anyone
+>>> know
+>>> of any such font that will do so (free or otherwise)?
+>>>
+>>> Thanks,
+>>>
+>>> Paul Hackett
+>>> Columbia University
+>>>
+>>>
+
+
+
+

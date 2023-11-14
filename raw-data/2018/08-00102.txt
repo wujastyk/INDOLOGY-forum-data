@@ -1,0 +1,237 @@
+From krishnaprasadah.g at gmail.com  Mon Aug 13 03:14:42 2018
+From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
+Date: Mon, 13 Aug 18 08:44:42 +0530
+Subject: [INDOLOGY] Deccan College sanskrit ditionary
+In-Reply-To: <CALoZ1nXOfsy3hMH_FWt6qH=aJ2EzbKtgUgno4H4pCSCFvT8T_w@mail.gmail.com>
+Message-ID: <CAODNnZi41Q-oenh3UbYaLAEznHp_d3=e4k88EM=r0_fdm3WmfA@mail.gmail.com>
+
+The most updated dictionary on Upasaraga and Dhatu is by Charudeva Shastri
+"Upasargarthacandrika" in 5 volumes , Author doesn't list "apavyaya" word
+in it.
+
+
+
+On Mon, Aug 13, 2018 at 12:03 AM Walter Slaje via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> The "classical" apavyaya- seems to hark back to the root vy?/v? [PW/pw =
+> MW/Apte "vye"] + prefix apa, not to "vyay/vyaya" as ultimately derived from
+> the root i.
+> This is why Gra?mann/PW/pw/MW relate the prefix apa exclusively to
+> vy?/v?/vye, but never to "vyay". See also Ch. Werbas "Verba Indoarica", pp.
+> 411 f.
+>
+> Usage of apa + vy?/vye is already attested in the Rigveda, semantically
+> perhaps still somewhat remote, yet not absolutely distant from the meaning
+> it acquires in the classical period:
+>
+> RV 6.75.7d    ?napavyayanta?
+>
+> RV 7.81.1c    ?po m?hi vyayati c?k?ase t?mo
+>
+>
+> Best,
+>
+> WS
+>
+>
+> -----------------------------
+> Univ.-Prof. Dr. Walter Slaje
+> Hermann-L?ns-Str. 1
+> D-99425 Weimar
+> Deutschland
+>
+> Ego ex animi mei sententia spondeo ac polliceor
+> studia humanitatis impigro labore culturum et provecturum
+> non sordidi lucri causa nec ad vanam captandam gloriam,
+> sed quo magis veritas propagetur et lux eius, qua salus
+> humani generis continetur, clarius effulgeat.
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+>
+> Am So., 12. Aug. 2018 um 15:49 Uhr schrieb Madhav Deshpande via INDOLOGY <
+> indology at list.indology.info>:
+>
+>> Dear Dan,
+>>
+>>      Thanks for these two references to apavyayam?na in old texts.  I
+>> just checked Kangle's translation of the Artha??stra passage and he
+>> translates this as "if the officer denies all charges."  I did find the ManuS,
+>> 8, 51.1
+>> <https://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=texte&PhraseID=22912>
+>>  arthe *'pavyayam?na?* tu kara?ena vibh?vitam / in Patrick Olivelle's
+>> critical edition, with numerous alternative readings.  I don't have his
+>> translation at hand, but Buhler translates this as "But him who denies a
+>> debt which is proved by good evidence."  So it looks like in both passages,
+>> the meaning of apavyayam?na is something like "one who denies charges."
+>> This is very different from the meaning of apavyaya as wasteful or improper
+>> use of money or time which it has in modern languages like Marathi, and
+>> which some of the Sanskrit dictionaries are reporting without a citation
+>> from a classical text.  Some of these expressions are re-entering Sanskrit
+>> in the modern usage of Sanskrit in meanings these expressions have in
+>> modern languages.
+>>
+>> Madhav M. Deshpande
+>> Professor Emeritus
+>> Sanskrit and Linguistics
+>> University of Michigan
+>> [Residence: Campbell, California]
+>>
+>>
+>> On Sun, Aug 12, 2018 at 6:29 AM Dan Lusthaus <prajnapti at gmail.com> wrote:
+>>
+>>> Not sure how significant this is, but the online Digital Corpus of
+>>> Sanskrit gives two fairly early occasions - one in Artha??stra and the
+>>> other in Manusm?ti.
+>>>
+>>> Manusm?ti
+>>> ManuS, 8, 51.1
+>>> <https://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=texte&PhraseID=22912> arthe
+>>> *'pavyayam?na?* tu kara?ena vibh?vitam /
+>>> Artha??stra
+>>> Artha?, 2, 8, 26.1
+>>> <https://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=texte&PhraseID=361111> aneke?u
+>>> *c?bhiyoge?vapavyayam?na?* sak?d eva parokta? sarva? bhajeta //
+>>>
+>>> See
+>>> https://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=lemma&IDWord=21160
+>>>
+>>> Dan
+>>>
+>>> On Aug 12, 2018, at 9:12 AM, Madhav Deshpande via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>> Thanks, Roland, for these references.  While vyaya is a common usage
+>>> going back to old classical texts, the particular formation of apavyaya is
+>>> a relatively newer formation.  It is more common in modern languages, and
+>>> probably entered into Sanskrit dictionaries through the usage of some
+>>> Pandits who were the source for western scholars.  That is my best guess.
+>>>
+>>> Madhav M. Deshpande
+>>> Professor Emeritus
+>>> Sanskrit and Linguistics
+>>> University of Michigan
+>>> [Residence: Campbell, California]
+>>>
+>>>
+>>> On Sun, Aug 12, 2018 at 3:31 AM Roland Steiner via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>> I assume that the source of MW's entry "apa-vyaya m. (? i),
+>>>> prodigality, L." (MW, 1st edition 1872: "apavyaya apa-vyaya, as, m.
+>>>> (rt. i with apa and vi), prodigality") is probably Wilson's
+>>>> Sanskrit-English Dictionary: "apavyaya m. (-ya?) Prodigality."
+>>>>
+>>>> Cp. also B?htlingk/Roth's PW s.v. 1. vyay:
+>>>>
+>>>> "(von vyaya), vyayati und ?te verausgaben, verthun, verschleudern:
+>>>> ko???stvamavyay?? Bha??. 15, 17. v?ri vyayati v?ride Spr. (II) 3936.
+>>>> k?udram?yaman?locya vyayam?na? svav??chay?  2020.  tadava?i??a? ca
+>>>> bhojanavyayena vyayitam Hit. 98, 17.  m??sam  60, 10. ? vyayayati
+>>>> dass. (vittasamutsa?rge) Dh?tup. 35, 78. gatau und ty?ge
+>>>> Kavikalpadruma  im ?kdr."
+>>>>
+>>>> ? MW s.v. 1. vyay: "cl. 1. ?. P. vyayati, ?te (rather Nom. fr. vyaya
+>>>> below), to expend, spend, waste, Bha??.; Hit.;  Subh.; cl. 10. P.
+>>>> vyayayati id., Dh?tup. xxxv, 78; to go, move, ib."
+>>>>
+>>>> * * *
+>>>>
+>>>> See also PW s.v. vyaya:
+>>>>
+>>>> "2) b) in Verbindung mit ko?asya, arthasya, vittasya, dhanasya,
+>>>> dravi?asya Einbusse ?, Hingabe ?, Verausgabung ?, Aufwand eines
+>>>> Schatzes u. s. w.: k?le c?sya (ko?asya) vyaya? kury?t K?m. N?tis. 5,
+>>>> 87. arthasya sa?grahe cain?? vyaye caiva niyojayet M. 9, 11. artha?
+>>>> Bh?g. P. 5, 26, 36.  H. 387. vittasya (vibh??a?a?) p?tre vyaya? Spr.
+>>>> (II) 1487. vittasya corubh?rasya cik?r?ansadvyayam Bh?g. P. 3, 2, 32.
+>>>> nijavittavyayabhayam Spr. 2380.  Sarvadar?anas. 3, 5.  dhana? Var?h.
+>>>> B?h. S. 103, 12  (?kar?) . Kath?s. 75, 34.  R?ja-Tar. 8, 748.  Da?ak.
+>>>> 62, 10.  l?va?yadravi?a? Spr. 2667.  Ohne solche Erg?nzung Ausgabe,
+>>>> Aufwand (Gegens. ?ya, ?gama, l?bha) Ak. 3, 3, 17.  H. 1516.  P. 1, 3,
+>>>> 36.  Vop. 23, 28.  vyaye c?muktahast? Spr. 5140.  ?par??nukh? Y?j?. 1,
+>>>> 83.  ?madhye R?ja-Tar. 6, 38.  Kath?s. 52, 317  (pl.). n?n?vyaye?u
+>>>> 57, 138.  eva? guptanig?r???st?nm?gayasv?muto vyayam (wohl vyaye zu
+>>>> lesen) so v. a. zu Ausgaben  141.  d?n?r?npr?gg?r??nvyaye?vad?t
+>>>> 151.fg.  vibhaj?vast?nd?n?r?nasti me vyaya? so v. a. mir stehen
+>>>> Ausgaben bevor  60, 217.  Var?h. B?h. S. 53, 77. 79, 5. 104, 10. 18.
+>>>> Pa?cat. 138, 4.  ?yavyayau M. 8, 419.  Y?j?. 1, 326.  Mbh. 3, 8599.fg.
+>>>>   ?ye vyaye mahaddu?kham Spr. (II) 605. (I) 5055.  kriyat?? vyaya? (so
+>>>> ed. Bomb., vyaya? ed. Calc.) Mbh. 15, 393.  M?rk. P. 81, 14. n?tyaya?
+>>>> ca vyaya? kury?t K?m. N?tis. 5, 77.  vyaya? vyadh? R?ja-Tar. 4, 661.
+>>>> kaccid?yasy?rdhena - vyaya? sa??odhyate tava wird der Aufwand
+>>>> bestritten? Mbh. 2, 204.  tena sarvavyayasa??uddhi? sa?padyate Pa?cat.
+>>>> 251, 16.  ku?umb?rthe k?to vyaya? M. 8, 166.  kaccinna p?ne dy?te v?
+>>>> kr???su pramad?su ca . pratij?nanti p?rv?h?e vyaya? vyasanaja? tava ..
+>>>> Ausgaben f?r Mbh. 2, 203.  samutth?na? M. 8, 287.  t?mb?l?di? Kath?s.
+>>>> 57, 149.  bhojana? Hit. 98, 17.  g?ha? Pa?cat. 251, 18.  svalpa? Spr.
+>>>> 2222. 5394.  Hit. 46, 8  (?vyaye mit Johns.  zu lesen). ati? Spr. (II)
+>>>> 154. 1959.  Hit. 104, 15.  atula? adj. R?ja-Tar. 8, 733.  nityavyay?
+>>>> adj. Spr. 3132.  ardhyap?tr?numitavyayasya r?gho? so v. a.
+>>>> Verausgabung alles Geldes Ragh. 5, 12.  ku?ya? Kosten Y?j?. 2, 223.
+>>>> Mittel zum Aufwand, Geld  2, 276.
+>>>>
+>>>> pw (= small Petersburg dictionray by B?htlingk) s.v. vyaya: "2)b)
+>>>> Einbusse, Verlust. c) Hingabe, Aufopferung. ki?, na kury?? ?aravyayam
+>>>> warum opferst (d.i. gebrauchst) du nicht deine Pfeile? d) ko?asya,
+>>>> arthasya, vittasya, dhanasya, dravi?asya oder in Comp. mit diesen
+>>>> Einbusse ~, Hingabe ~, Verausgabung ~, Aufwand eines Schatzes u.s.w.
+>>>> Ohne solche Erg?nzung Ausgabe, Aufwand, ~ f?r, Kosten von (Loc. oder
+>>>> im Comp. vorangehend). Auch Pl. e) Mittel zum Aufwand, Geld."
+>>>>
+>>>> ? MW s.v. vyaya:  "m. spending, expense, outlay, disbursement (opp. to
+>>>> ?ya, ?income?, and often with ko?asya, vittasya, dhanasya &c.; without
+>>>> a gen. = ?extravagance, waste, prodigality?; with loc. or ifc. =
+>>>> ?outlay for or in?), Mn. ; MBh.  &c. cost, sacrifice of (gen. or
+>>>> comp.; vyayena ifc. = ?at the cost of?), R. ; K?lid. wealth, money,
+>>>> Y?j?. ii, 276
+>>>>
+>>>> * * *
+>>>>
+>>>> pw, s.v. ativyaya:  "m. Verschwendung Spr.154."
+>>>>
+>>>> ? MW s.v. ativyaya: "m. lavish expenditure."
+>>>>
+>>>>
+>>>> Best,
+>>>> Roland Steiner
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>>>
+>>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180813/3f402f39/attachment.htm>
+

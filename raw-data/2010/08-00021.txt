@@ -1,0 +1,55 @@
+From kengo.harimoto at UNI-HAMBURG.DE  Tue Aug 10 17:45:25 2010
+From: kengo.harimoto at UNI-HAMBURG.DE (Kengo Harimoto)
+Date: Tue, 10 Aug 10 19:45:25 +0200
+Subject: Hiragana and Indic Scripts
+In-Reply-To: <13654A21-571D-4A3D-92E0-9413F65774E9@uni-muenchen.de>
+Message-ID: <161227090135.23782.5711828742580981048.generated@prod2.harmonylists.io>
+
+Ah, isn't Siddham simply Siddham?t?k??
+
+I think we should distinguish the scripts (man'yo-kana, hirakana, and katakana) and the order where kanas are arranged (goj?on) in this thread.
+
+I doubt Sanskrit (language) or Sidda(m?t?ik?) script has anything to do with the invention of hiragana and katakana (scripts).
+
+On the other hand, I always thought that it was well acknowledged that some knowledge of Sanskrit among Buddhist intellectuals contributed in establishing the 50 character table of kanas (goj?on). Note that the original kana was man'yo-kana that simply used existing Chinese characters to represent Japanese sounds. The arrangement of those in a Snaskrit-like order was independent of the invention of hiragana or katakana. (According to the wikipedia articles below, the oldest example of Goj?on predates that of Iroha. And they are apparently written in Man'yo-kana.)
+
+Some other things that have been mentioned in this thread I hadn't heard of was that Kukai invented katakana. Rather, I think it is widely believed that he brought Siddham/Siddham?t?k? to Japan, which may indeed be true.
+
+Even wikipedia entry on Goj?on seems well informed:
+
+http://ja.wikipedia.org/wiki/???
+
+http://en.wikipedia.org/wiki/Goj?on
+
+-- 
+Kengo Harimoto
+
+On Aug 10, 2010, at 14:54 , Robert Zydenbos wrote:
+
+> Apart from what Dan Lusthaus has already mentioned about the established view on the origination of the kana scripts, one should note that Siddham is very 'Indian' in its structure: like all the Brahmi-derived scripts, Siddham is of the script type known as 'abugida' (in which a basic syllabic sign is modified by means of secondary vowel signs to indicate that the vowel of the syllable is not 'a'), and the kana scripts are fundamentally different.
+> 
+> RZ
+> 
+> Op 10.08.2010, om 05:56 heeft Peter Friedlander het volgende geschreven:
+> 
+>> Dear Colleagues,
+>> any ideas on leads on Indic script connections with Japanese Hiragana/Katakana scripts?
+>> Hiragana/Katakana starts a i u e o ka ki ku ke ko etc.
+>> The organization of the Japanese sound system seems related to Indic systems, but Japanese histories of their scripts that I have seen are quite silent on the relationship between Siddham and Kana script systems that I have observed (my current notes on this at http://bodhgayanews.net/melbournehindi/?p=22).
+>> I am sure that somebody must have written on this, any idea where?
+>> regards
+>> 
+>> Peter Friedlander
+> 
+> 
+> Prof. Dr. Robert J. Zydenbos
+> Department f?r Asienstudien - Institut f?r Indologie und Tibetologie
+> Universit?t M?nchen
+> Deutschland
+> Tel. (+49-89-) 2180-5782
+> Fax  (+49-89-) 2180-5827
+> Web  http://www.lrz-muenchen.de/~zydenbos
+
+
+
+

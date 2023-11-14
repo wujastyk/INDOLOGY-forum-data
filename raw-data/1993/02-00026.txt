@@ -1,0 +1,39 @@
+From jhelling at cs.ruu.nl  Mon Feb  8 16:55:07 1993
+From: jhelling at cs.ruu.nl (Jeroen Hellingman)
+Date: Mon, 08 Feb 93 16:55:07 +0000
+Subject: MAGIC SQUARES
+Message-ID: <161227015669.23782.6889636358127548576.generated@prod2.harmonylists.io>
+
+Hi,
+
+I have done some research on the field of magically filled hexagons
+(i.e. that yield an equal sum in all three directions), and am very
+much interested in references to such things in Indian mythology/tradition.
+Also the other material (about magic squares and stars) has my interest.
+Can you please send me more about this subject.
+
+The Hexagons are interesting to me since there is only one way to fill
+a hexagonal grid of 19 cells with the numbers 1...19 in a 'magical'
+way. Larger hexagonal grids cannot be filled in a magical way with
+the numbers 1..n (for n = 37, 61, ...), as is easy to prove. A way out
+is using numbers from other intervals. I have made magical arrangements
+for 37-cell grids with the numbers 3...39. I wonder whether such things
+have been done in ancient India, since it costed me several days of 
+computer time to get it right, and I was not able to find any pattern
+in it.
+
+(for those interesting, a publication about this is somewhere in the
+process of going to a magazine... but it has nothing to do with indology)
+
+Jeroen
+
+-- 
+Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
+'t Zand 2                         Phone: +31-3473-73935 (home)
+4133 TB Vianen                    (18.00--21.00 GMT)
+The Netherlands                   Answer in English, German, or Dutch.
+
+
+
+
+

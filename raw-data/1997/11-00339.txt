@@ -1,0 +1,78 @@
+From ucgadkw at UCL.AC.UK  Fri Nov 28 17:17:38 1997
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Fri, 28 Nov 97 17:17:38 +0000
+Subject: TeX Users Group, India (fwd)
+Message-ID: <161227034057.23782.16460108336383501870.generated@prod2.harmonylists.io>
+
+--------- Forwarded message -----------------
+Date: Sun, 16 Nov 1997 23:01:39 +0530
+From: RADHAKRISHNAN C V <cvr at md2.vsnl.net.in>
+X-Url: http://www.tug.org/lugs.html
+Subject: Indian TeX Users Group
+
+*********************************************************************
+                   Indian TeX Users Group
+*********************************************************************
+
+The Indian TeX Users Group has been informally launched today
+at the academic premises of Department of Mathematics of University of
+Kerala, Trivandrum. Prof. KSS. Nambooripad, a world renowned
+mathematician and an ace TeX  programmer chaired the session.
+He was unanimously elected as the Chairman of the Indian TeX Users
+Group. Following are the office-bearers of the TUGIndia.
+
+Chairman:       Prof. (Dr.) K. S. S. Nambooripad
+Secretary:      C. V. Radhakrishnan
+Treasurer:      Dr. R. Rajendra
+
+Executive:
+                Dr. A. R. Rajan (University of Kerala)
+                Dr. E. Krishnan (University College, Trivandrum)
+                Dr. V. N. Krishnachandran (Vikram Sarabhai Space Center)
+                Dr. R. K. Chettiar (Department of Education, Govt. of
+                                        Kerala)
+                Mr. C. V. Rajagopal (University Observatory)
+                Mr. Deepak Tony Thomas, Oracle Corporation, Bangalore
+                Dr. Shivkumar, IIT, Bombay
+                Dr. P. Rameshkumar (MG University, Kottayam)
+                Dr. SRP. Nayar (Inter Univ. Center for Astronomy, Pune)
+
+These constitute the current executive committee. The committee further
+resolved to invite three honorouble representives  of the industry which
+predominently uses TeX into the executive committee. The current executive
+has the balance tilted towards Academy.
+
+A membership fee of Rs. 250 for individuals, Rs. 125 for students and
+Rs. 3000 for institutions per annum would be levied. The institutional
+membersip includes seven (7) individual subscriptions.
+
+The Indian TeX Users Group proposes to circulate a quarterly newsletter
+called TUGIndia, which shall be the official organ. The contents of
+the newsletter may range from articles on advanced TeX programming, TeX
+implementations, newer macros, developments in markup languages with
+special reference to TeX, new software/literature releases that may be
+interest to TeX programmers, etc., to courses and seminars organised by
+TUGIndia and International TeX Users Group as well.
+
+Formal inaugural ceremony would be somewhere at the end of December 1997
+or early January 1998 depending upon the availability of Mr. Sebastian Rahtz
+of Elsevier Science, London who has kindly agreed to inaugurate  TUGIndia.
+
+With best regards,
+
+Sincerely yours,
+
+Radhakrishnan
+Secretary
+TUGIndia
+Kripa, TC 24/548, Sastha Gardens
+Thycaud, Trivandrum 695014, India
+
+Tel. +91 471 324341
+Fax. +91 471 333186
+
+Email: tugindia at mailexcite.com
+
+
+
+

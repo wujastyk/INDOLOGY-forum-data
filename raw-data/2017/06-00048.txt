@@ -1,0 +1,90 @@
+From hspier.muktabodha at gmail.com  Fri Jun  9 01:32:02 2017
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Thu, 08 Jun 17 21:32:02 -0400
+Subject: [INDOLOGY] Issues with Sanskrit 2003 font
+In-Reply-To: <CAKdt-CfNAocz1ju0MjdMM6uX7UB6ZU_1bi+tg+FGKWtO8pdxXw@mail.gmail.com>
+Message-ID: <CAPW7aQHvqC4jZjTH4tFN+UrRfiiX6AQYnSDEwy_miYvd6YXPWg@mail.gmail.com>
+
+Thank you Dominik for that clarification.
+
+In that case there is a free open source font editor called fontforge which
+I have used for many years.  Its available for Mac, Windows and Linux.  It
+would be quite easy using this to move the position of the anusvara dot.
+
+The link is: https://fontforge.github.io/en-US/
+
+Harry Spier
+
+
+
+On Thu, Jun 8, 2017 at 9:11 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+>
+> On 8 June 2017 at 17:25, Harry Spier via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear Madhav,
+>>
+>> As far as I can see this is a problem with the font Sanskrit 2003 and it
+>> can't be solved without modifying the font  but I think modifying a font is
+>> prohibited under copyright law.
+>>
+>
+> ?In February this year, I was in correspondence with the Omkaranand Ashram
+> about the copyright of Sanskrit 2003.  I was urging them to be more
+> explicit about the freedom of the font.  In their opinion, the font is free
+> for all to use, and they only want to help and serve the world.  Here's
+> what the Swami said:
+>
+>
+>
+> We do not know about this licensing stuff, but the Sanskrit 2003 font is
+> made available freely to anyone to use.
+>
+>
+>
+> With kind regards,
+>
+>
+>
+> Swami Satchidananda
+>
+> Omkarananda Ashram Himalayas
+>
+> Muni-ki-reti, Rishikesh, India
+>
+>
+> I imagine they would be fine with someone modifying the font.  Obviously
+> it would be sensible to give the modified font a slightly different name.
+> And it would be appropriate to return the modifications to the Ashram in
+> case they wish to make a new release themselves in future.
+>
+> Everything the Ashram said to me makes leads me to believe that they would
+> never dream of taking anyone to court? over the font, and that on the
+> contrary, they are glad that people are finding it useful.
+>
+> Dominik
+>
+> --
+> ?| ?
+> Professor Dominik Wujastyk
+> ? |?
+> ? ?
+> Singhmar Chair in Classical Indian Society and Polit
+> ?y | ?
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>, ?University of Alberta, Canada
+> ? |?
+> ?
+> ?
+> ualberta.Academia.edu/DominikWujastyk
+> ?
+> | ?
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170608/363a521b/attachment.htm>
+

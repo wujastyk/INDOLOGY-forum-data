@@ -1,0 +1,127 @@
+From lmfosse at CHELLO.NO  Thu Feb  3 08:16:38 2005
+From: lmfosse at CHELLO.NO (Lars Martin Fosse)
+Date: Thu, 03 Feb 05 09:16:38 +0100
+Subject: SV: e-Monier Williams Dictionary for Macs
+In-Reply-To: <0213AD69-759E-11D9-B058-000D93C5A640@socrates.berkeley.edu>
+Message-ID: <161227075844.23782.12575899851961600030.generated@prod2.harmonylists.io>
+
+Interestingly,
+
+The experience given below concerning PC simulators on Macs exactly echo the
+experience I made with such a program 8 years ago. It worked slowly, it was
+unreliable, and it caused crashes. If the technology hasn't matured by now,
+the best solution is probably to buy a PC if you really need a PC software
+capability.
+
+Lars Martin Fosse
+
+ 
+
+From: 
+Dr.art. Lars Martin Fosse 
+Haugerudvn. 76, Leil. 114, 
+0674 Oslo - Norway 
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250 
+Mobile phone: +47 90 91 91 45 
+E-mail: lmfosse at chello.no 
+
+
+ 
+
+> -----Opprinnelig melding-----
+> Fra: Indology [mailto:INDOLOGY at liverpool.ac.uk] P? vegne av 
+> adheesh sathaye
+> Sendt: 3. februar 2005 05:42
+> Til: INDOLOGY at liverpool.ac.uk
+> Emne: Re: e-Monier Williams Dictionary for Macs
+> 
+> I have been using Virtual PC recently for assembling a font 
+> recommendations page [since I work on MAC OSX and most 
+> Unicode Open Type Devanagari fonts are non-functional in 
+> OSX]. It does work, in the sense that one indeed may run 
+> Windows applications inside a window in Mac OSX, but it is 
+> often inordinately slow. Especially if you wish to run any 
+> Mac programs at the same time. Furthermore, on occasion it 
+> has caused my Mac to do something it would never otherwise 
+> do: crash. I would recommend using this method sparingly.
+> 
+> Adheesh Sathaye
+> South Asia Language Resource Center
+> University of  Chicago
+> 
+> 
+> On Jan 31, 2005, at 10.08, John Huntington wrote:
+> 
+> > Dear List Members
+> >
+> > Elizabeth's message made me think (always a bad thing) of 
+> one possible 
+> > solution.
+> >
+> > I have not tried this, but maybe someone else has,
+> >
+> > There is a Microsoft product called  "Microsoft Virtual PC for Mac"
+> > (at least three versions of it) that is reviewed as running PC 
+> > software very well on a MAC.  If any one has tried this I 
+> would hope 
+> > that he or she could could tell us all how it worked. There 
+> are both 
+> > Sanskrit and Tibetan software for the PC that interest me, 
+> but I too 
+> > am (so far) a Mac only person.
+> >
+> > John
+> >
+> >
+> >> Dear All
+> >>
+> >> I have tried installing some e-versions of the Monier Williams 
+> >> Sanskrit dictionary on my computer, but they were for PCs 
+> and as I am 
+> >> a Mac-only user I found they were not compatible with my Mac.
+> >>
+> >> One of the versions I tried (based on the Cologne Digital Sanskrit
+> >> Lexicon)
+> >> worked in all respects except - the resident IT expert tells me - 
+> >> that the fonts provided were not compatible with a Mac. 
+> Thus I do get 
+> >> access to the html pages (one for each letter of the 
+> alphabet), but 
+> >> the Sanskrit characters show up as, for example, 
+> >> [khakAra]3[kha--kAra] rather than in correct transliteration or 
+> >> Devanagari.
+> >>
+> >> Would any of you be able to suggest:
+> >>
+> >> 1) how to get hold of a Mac-compatible font for the above programme
+> >>
+> >> AND / OR
+> >>
+> >> 2) Whether Mac-compatible e-versions of the MW exist, and 
+> how to get 
+> >> hold of them if they do.
+> >>
+> >> Many thanks for any suggestion
+> >>
+> >> With best wishes to you all
+> >>
+> >>
+> >> Elizabeth De Michelis
+> >>
+> >>
+> >> Dr Elizabeth De Michelis
+> >> University of Cambridge
+> >> Faculty of Divinity
+> >> Tel +44-(0)1223-763015
+> >> West Road
+> >> Fax +44-(0)1223-763014
+> >> Cambridge, UK      CB3 9BS
+> >>
+> >> for details of recently published book please see 
+> >> http://www.divinity.cam.ac.uk/CARTS/dhiir/publications/modyoga.html
+> >
+> 
+
+
+
+

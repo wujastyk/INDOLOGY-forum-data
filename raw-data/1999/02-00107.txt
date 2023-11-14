@@ -1,0 +1,58 @@
+From sohum at MS.UKY.EDU  Tue Feb  9 20:49:13 1999
+From: sohum at MS.UKY.EDU (Avinash Sathaye)
+Date: Tue, 09 Feb 99 15:49:13 -0500
+Subject: More on word splitting and hyphenation in transliteration
+Message-ID: <161227046095.23782.3196160445001232824.generated@prod2.harmonylists.io>
+
+In his latest letter, Harry Spier made his original question very clear and
+I would like to propose a solution as follows.
+
+As I understand, the problem is that one likes to have the roman text follow
+the devnagari saMhitaa version closely to help recitation/recognition but it
+is better to have split words to help analysis. How about using a centered
+dot ? in place of a space.
+For example write tv?asti in place of tv asti or tvasti. if this is done
+systematically, then a computer can easily perform the necessary analysis as
+well.
+
+In his version of Ashhtaadhyaayii, S.M. Katre had indeed used the symbols -
+and = to break words, where one indicated a samaasa and the other a sandhi.
+While logically correct, the symbols are distracting to read and recite. It
+would be nice, however, to come up with another non distracting symbol.
+
+BTW, the center dot is has ascii code 0183, in standard roman font. They are
+the same in the csx font.
+if you want to type it in. It is possible to use a bold version "?" too,
+namely the ascii code 0149, but I don't know if it is sufficiently distinct.
+
+harry spier wrote:
+
+> >snip..snip
+>
+> This is the very problem that I am trying to avoid.  I am preparing a
+> new edition of the Bhagavad Geeta for publication which will contain
+> both the devanagari and the roman transliteration. One of the uses of
+> the edition will be to chant the Geeta.  Some of those who use the text
+> will have Hindi as a first language and use the devanagari,  and some of
+> those who use it will have English as a first language.  In general the
+> majority will not know Sanskrit.
+>
+> 1) Isn't this one of the main uses of written Sanskrit (both now and
+> historically)? i.e. as an aid to proper recitation for those who do not
+> know the text by memory.  And shouldn't any standard address this need.
+> The pronounciation of the written phrase "tvidam" is much more obvious
+> than the phrase written as "tv idam" etc..  A space intuitively
+> indicates hiatus.
+> Snip>..Snip...
+>
+
+--
+|Avinash Sathaye Phone:(606)277-0130(Home), (606)257-8832(Office) |
+Web page: www.ms.uky.edu/~sohum
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/19990209/b9efa886/attachment.htm>
+

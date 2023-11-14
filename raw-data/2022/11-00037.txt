@@ -1,0 +1,141 @@
+From mmdesh at umich.edu  Sun Nov 13 19:04:22 2022
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Sun, 13 Nov 2022 11:04:22 -0800
+Subject: [INDOLOGY] iti in Sanskrit
+In-Reply-To: <1275E64C-E9AC-4BA8-BADC-865AB60C181E@illinois.edu>
+References: <43a2bfe2-2812-88aa-8ede-14bf280c25ea@mcgill.ca>
+ <833F1614-E6E1-4793-9BF0-31C72FEB166A@austin.utexas.edu>
+ <CAB3-dzfJL=dXJikAszMRwpFPiNqwk42g45RjfizajX6N5ESHCQ@mail.gmail.com>
+ <1275E64C-E9AC-4BA8-BADC-865AB60C181E@illinois.edu>
+Message-ID: <CAB3-dzfJiceAptjRWJEsAo7bNaWTsSPJ7UqT4CgaKjc1HnuMzg@mail.gmail.com>
+
+Thanks, Hans, for sharing these two papers and more food for thought. Best,
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Sun, Nov 13, 2022 at 10:49 AM Hock, Hans Henrich <hhhock at illinois.edu>
+wrote:
+
+> Thanks, Madhav.
+>
+> I have indeed dealt with the use of *iti* in Sanskrit on several
+> occasions. The best (but still incomplete) account is in the attached paper
+> (two copies, one a scan of the original publication, the other with neater
+> formatting). (Note especially the structures in examples (62) and (73), to
+> which post-Vedic examples with *yad ? iti* could be added. These
+> structures (and similar ones in Modern Indo-Aryan, e.g. varieties of
+> Marathi) constitute interesting challenges to formal approaches to syntax.)
+>
+> What is not discussed in that paper is the convention of the Epics not to
+> use *iti* at the end of a poetic line, except when the passage is a quote
+> within a quote. More work is needed for post-Classical Sanskrit, especially
+> as regards genre differences. It seems to me that *iti *is used much more
+> strictly in technical literature (such as the Mah?bh??ya) and less strictly
+> in narrative literature (but even in this genre, we may need to distinguish
+> between Epic and Fable genres, and possibly others). It would also be
+> interesting to determine when and where *it?ti* first occurs (marking a
+> cited form within a quote).
+>
+> In addition there is the modern use of *itika-* used frequently to
+> incorporate a foreign noun into Sanskrit discourse, by making the word
+> inflectable according to Sanskrit grammar. Monier-Williams does not list
+> this usage. Is there any evidence for it before the modern period?
+>
+> So, a fair number of questions remain, and there is room for a lot of
+> additional work.
+>
+> All the best,
+>
+> Hans Henrich
+>
+>
+>
+> On 12 Nov2022, at 10:34, Madhav Deshpande via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> If I remember correctly, the possibility of the "iti" constructions being
+> an areal phenomena have been discussed  for many decades. The best person
+> to provide information regarding this topic may be Hans Hock. I will see if
+> I can locate any of these older publications.
+>
+> Madhav M. Deshpande
+> Professor Emeritus, Sanskrit and Linguistics
+> University of Michigan, Ann Arbor, Michigan, USA
+> Senior Fellow, Oxford Center for Hindu Studies
+> Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+>
+> [Residence: Campbell, California, USA]
+>
+>
+> On Sat, Nov 12, 2022 at 6:28 AM Olivelle, Joseph P via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> See the many explanations of ?iti? in Gary Tubb and Emery Boose?s book
+> ?Scholastic Sanskrit?.
+>
+> Patrick
+>
+>
+>
+>
+> > On Nov 12, 2022, at 8:10 AM, Brendan S. Gillon, Prof. via INDOLOGY <
+> indology at list.indology.info> wrote:
+> >
+> > Dear colleagues,
+> >
+> > I am wondering if any of you know of articles on the use of `iti' in
+> > Sanskrit.
+> >
+> > Best wishes,
+> >
+> > Brendan
+> >
+> > --
+> >
+> > Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+> > Department of Linguistics
+> > McGill University                       tel.:  001 514 398 4868
+> > 1085, Avenue Docteur-Penfield
+> > Montreal, Quebec                        fax.:  001 514 398 7088
+> > H3A 1A7  CANADA
+> >
+> > webpage:
+> https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwebpages.mcgill.ca%2Fstaff%2Fgroup3%2Fbgillo%2Fweb%2F&amp;data=05%7C01%7C%7C40005a48e3d64c7af97308dac4b84054%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638038592882519039%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SHfWYYtZKaf%2FjbNNUQwJhnoaLp8V7WAqPSZGcXaH2xU%3D&amp;reserved=0
+> <https://urldefense.com/v3/__https://nam12.safelinks.protection.outlook.com/?url=http*3A*2F*2Fwebpages.mcgill.ca*2Fstaff*2Fgroup3*2Fbgillo*2Fweb*2F&amp;data=05*7C01*7C*7C40005a48e3d64c7af97308dac4b84054*7C31d7e2a5bdd8414e9e97bea998ebdfe1*7C0*7C0*7C638038592882519039*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&amp;sdata=SHfWYYtZKaf*2FjbNNUQwJhnoaLp8V7WAqPSZGcXaH2xU*3D&amp;reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUl!!DZ3fjg!_xq12zJhsOKQZsPft6EP-OSEaUgZyw2ALoLqvOVgJDKlOVr7TXuSLQtJjyP7qgnZ9guBqJW1tniZmUlXfoHDqn5Py3eL$>
+> >
+> >
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> >
+> https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&amp;data=05%7C01%7C%7C40005a48e3d64c7af97308dac4b84054%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638038592882519039%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=GhfFm1DiIXicrk1S%2Fzv%2F6so6YoU5TCCdm0kHp6esElI%3D&amp;reserved=0
+> <https://urldefense.com/v3/__https://nam12.safelinks.protection.outlook.com/?url=https*3A*2F*2Flist.indology.info*2Fmailman*2Flistinfo*2Findology&amp;data=05*7C01*7C*7C40005a48e3d64c7af97308dac4b84054*7C31d7e2a5bdd8414e9e97bea998ebdfe1*7C0*7C0*7C638038592882519039*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&amp;sdata=GhfFm1DiIXicrk1S*2Fzv*2F6so6YoU5TCCdm0kHp6esElI*3D&amp;reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!DZ3fjg!_xq12zJhsOKQZsPft6EP-OSEaUgZyw2ALoLqvOVgJDKlOVr7TXuSLQtJjyP7qgnZ9guBqJW1tniZmUlXfoHDqicMxTan$>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+> <https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!_xq12zJhsOKQZsPft6EP-OSEaUgZyw2ALoLqvOVgJDKlOVr7TXuSLQtJjyP7qgnZ9guBqJW1tniZmUlXfoHDqvsh8t79$>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+>
+> https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!_xq12zJhsOKQZsPft6EP-OSEaUgZyw2ALoLqvOVgJDKlOVr7TXuSLQtJjyP7qgnZ9guBqJW1tniZmUlXfoHDqvsh8t79$
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221113/e2551460/attachment.htm>
+

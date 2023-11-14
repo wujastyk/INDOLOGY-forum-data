@@ -1,0 +1,33 @@
+From astpf at LURE.LATROBE.EDU.AU  Thu May  1 23:31:39 1997
+From: astpf at LURE.LATROBE.EDU.AU (Peter Friedlander)
+Date: Fri, 02 May 97 09:31:39 +1000
+Subject: Bitstream charter csx font and Word 97
+Message-ID: <161227030036.23782.14434123145933969859.generated@prod2.harmonylists.io>
+
+Dear list members, are you using Bitstream charter csx font and Word 97?
+
+A friend tells me that the Bitstream charter csx font with diacritic marks
+no longer works in Word 97 for windows. Due I suspect to a some changes made
+by Microsoft in how fonts are handled.
+
+Is anyone else is experiencing this problem?
+
+I ask this because I compiled the font which is in the Indology archive and
+if this problem is general would like to replace it with a new version that
+works even in Word 97.
+
+On a more general note is it not depressing that upgrades to software often
+seem to create as many problems as they solve?
+Dr Peter G Friedlander
+Department of Asian Studies
+La Trobe University
+Bundoora 3084
+Victoria
+Australia
+tel:(03) 9479 2064
+
+
+
+
+
+

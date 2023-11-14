@@ -1,0 +1,81 @@
+From pwyzlic at UNI-BONN.DE  Wed Nov 15 12:38:35 2000
+From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
+Date: Wed, 15 Nov 00 13:38:35 +0100
+Subject: Dutt, Ghosa, Lefmann & Levi.
+In-Reply-To: <20001114182516.A187@student.canterbury.ac.nz>
+Message-ID: <161227064230.23782.9339738559904817964.generated@prod2.harmonylists.io>
+
+On Tue, 14 Nov 2000, Richard B. Mahoney wrote:
+>
+> If any readers know of the availability -- either for copying, for
+> loan, or for sale -- of any of these four editions I would be very
+> grateful if they could mail me.
+>
+> @Book{ghosa,
+>   editor =       "P. Ghosa",
+>   title =        "\'{S}atas\={a}hasrik\={a}
+>                   praj\~{n}\={a}p\={a}ramit\={a} s\={u}tra",
+>   publisher =    "Asiatic Society of Bengal",
+>   year =         "1902--1913",
+>   key =          "ghosa:1913",
+>   series =       "Bibliotheca Indica",
+>   address =      "Calcutta",
+>   note =         "Nos. 146--148, ed. of incompl. text",
+> }
+
+The numbering scheme of the Bibliotheca Indica is very confusing. The real
+volume number of Pratapacandra Ghosa's Satasahasrika edition is:
+Bibliotheca Indica Vol. 153. There are, however, various fascicle numbers;
+Sieg and Nobel list ca. 19 fasc. nos., published from 1902 onwards. The
+copy we have in our library ends with the prathamakhanda on page 1676. I'm
+not aware of a reprint of this work.
+
+> @Book{lefmann,
+>   editor =       "S. Lefmann",
+>   title =        "Lalitavistara",
+>   publisher =    "Waisenhaus",
+>   address =      "Halle a. S.",
+>   year =         "1902--1908",
+>   key =          "lefmann:1908",
+>   note =         "ed. of compl. Skt. text",
+> }
+
+Lefmann's edition has been reprinted in Japan. Some years ago, I have seen
+an advertisement of the publisher Meicho Fukyu Kai, Tokyo indicating a 2
+volume reprint (for Yen 19,000). I do not know if it is still
+available. By the way, you know that Koichi Hokazono has published a new
+edition of chap. 1-14 together with a Japanese translation? The title is:
+
+        Hokazono, Koichi: Raritavisutara no kenkyu / Hokazono Koichi
+        cho. -- Jo-kan. -- Tokyo : Daito Shuppan-sha, 1994. -- X, 989 p.
+
+I am not sure if part 2 has been published.
+
+> @Book{levi,
+>   editor =       "S. L\'{e}vi",
+>   title =        "Mah\={a}y\={a}nas\={u}tr\={a}la\d{m}k\={a}ra",
+>   publisher =    "Librarie Honr\'{e} Champion",
+>   year =         "1907",
+>   key =          "levi:1907",
+>   number =       "159",
+>   series =       "Biblioth\`{e}que de l'\'{E}cole des Hautes
+>                   \'{E}tudes",
+>   address =      "Paris",
+>   note =         "ed. of compl. Skt. text",
+> }
+
+I remember vaguely that there was a Japanese reprint of this work (maybe
+Rinsen?).
+
+Peter Wyzlic
+
+--
+Peter Wyzlic
+Indologisches Seminar, Universitaet Bonn
+Regina-Pacis-Weg 7
+D-53113 Bonn
+Deutschland/Germany
+
+
+
+

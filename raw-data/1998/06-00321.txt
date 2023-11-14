@@ -1,0 +1,105 @@
+From bhk at HD1.VSNL.NET.IN  Sun Jun 21 08:00:20 1998
+From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
+Date: Sun, 21 Jun 98 13:00:20 +0500
+Subject: Retroflex sounds
+Message-ID: <161227040109.23782.17439578955622311542.generated@prod2.harmonylists.io>
+
+At 02:51 21/06/98 +0100, you wrote:
+   In any case the examples adduced so
+>far also seem to contrast with the Indian example in that they are
+>not a system involving a whole series of phonemes of the language.
+>I would imagine such isolated features would, for the sake of economy,
+>tend to get simplified out of the system (even if it is the case that
+>they are phonemic). Which brings me to the following: isn't a unique
+>feature of the Indian linguistic area the stability of retroflexes?
+>If proto-Dravidian had them, that's something like 5000 years of retro-
+>flexion. This doesn't seem to be the case in the other examples where
+>the retroflexes seem to be (relatively) ephemeral intermediate steps
+>in sequences of phonetic changes. Is that really the case?
+
+Dear Indologists;
+
+This is the most crucial argument. Let us make two assumptions:
+
+Assumption 1: A non-inherited phonological feature can develop internally
+within a language,  not induced by contact with other languages.
+
+Assumption 2: A non-inherited phonological feature can develop internally
+within a language induced by contact with other languages, which genetically
+possess such a feature.
+
+By A1, several languages may have developed retroflexion as isolated
+instances,like Sweedish, Norwegian, certain Italian dialects, etc., first
+allophonically and later perhaps phonemically. They only change the
+distribution of certain phonemes marginally but not the whole phonological
+system; mid-Western American English retro r in girl, world, word, is also
+part of this phenomenon. The case of Australian languages is different,
+since they have retroflexes as part of their genetic make-up.
+
+By A2, through prolonged contact a language naturalizes a foreign
+phonological feature by integrating it its system. Sanskrit retroflexion is
+one such phenomenon. Look at the chronological profile.
+
+Stage 1: Indo-Iranian and Slavonic share a phonetic rule (later called
+ruki-rule in Sanskrit), i.e PIE dental s becomes retracted to alveopalatal
+postion as s' or s" (like English sh)when preceded by high  vowels, r, .r
+and k, all of which carried the feature [+hi]. This is a reconstructable
+allophoneic change at an undivided stage.
+
+Stage 2: Both Indic and Iranian perhaps had the same pronunciation, but when
+Indic seperated,  Iranian retained s" (s with wedge=sh) but Old Ind speakers
+phonetically changed this sound into a retroflex. At this point the
+different phonetic representations betwen Iranian and Indic need to be
+explained. This could be the impact of initial contact with Dravidian.
+
+Stage 3: Maybe simultaneously with Stage2 was the developemnt of.t, .th, .d
+and .dh from internal sandhi of *s"t, *s"th, *z"d, *z"dh; the dental stops
+first became retroflexes phonetically after s" which then changed s" to a
+retroflex. The articulation of phonemic s" (<*s *s') in Pre-OInd could have
+been retroflexed by then. OI v.ri.s.ti, ni:.da, u:.dha are thus accounted
+for. These do not account for intervocalic .t and .th which  deveoped later
+during the Middle Indic period.
+
+Stage 4: A precedig r or .r changed a dental to retroflex; thus we get
+na.ta- from n.rt-, vika.ta- from vik.rta-; we notice this happening already
+by the time of As'okan inscriptions. H.Hock says that the retroflex
+representation was more in Northwest and East than in West and Central. This
+distribution broadly corresponds to the concentration of Dravidian (and
+Munda in the East)speaking peoples of that time.
+
+There could be a few  missing links in the above scenario.I am not a
+Sanskritist or a IE-ist. Such a transformation of Skt phonological system is
+possible only under a contact situtaion. And retroflexion is one  of the so
+many other features of Middle Indic both in phonology, morphology and syntax
+that look to a Dravidian source. A phonlogical rule shared by both IA and
+Drav is the emergence of the favourite syllable type (C)V:C or (C)VCC to the
+elimination of *(C)V:CC.
+
+H.Hock's argument that both IA and Drav developed retroflexes on parallel
+lines is not defensible, because Dravidian had both *_t and *.t basically in
+a large no of morphmes. It is true that in sandhi also _t and .t develop
+from l+t, and .l+t. But Middle Indic retroflexes are a result of sandhi
+alone and became phenemic later to fill a gap in the phonological system.
+The Drav sandhi may have triggered these but such a mysterious convergence
+without contact and large scale bilingualism does not make sense.
+
+Aryan Migration from India westward. One can go from stage 1  to stage 2 and
+not the other way round. To be explicit, we cannot  derive niz"d- (Indo-Ir.)
+from ni:.da (old Indic).  It is impossible to a reverse a merger of that
+kind by a subsequent sound change. If Aryans went westward, how do we get
+retentions of an older stage in Avestan, and still older ones
+reconstructable to Indo-Ir-Slavonic. Professor Witzel, I remember has
+mentiond this point,  but I did not follow the thread later.
+
+Regards, Bh.K.
+
+
+Bh.Krishnamurti
+H.No. 12-13-1233, "Bhaarati"
+Street 9, Tarnaka
+Hyderabad 500017
+Telephone:40-7019665
+
+
+
+

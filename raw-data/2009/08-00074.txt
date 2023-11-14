@@ -1,0 +1,35 @@
+From vasubandhu at EARTHLINK.NET  Sat Aug 22 22:28:13 2009
+From: vasubandhu at EARTHLINK.NET (Dan Lusthaus)
+Date: Sat, 22 Aug 09 18:28:13 -0400
+Subject: ZDMG articles downloadable as single files
+Message-ID: <161227087436.23782.13262690044751731337.generated@prod2.harmonylists.io>
+
+I believe the problem is not related to versions of Adobe, since I am even 
+able to read them in Adobe 6. The problem is the slow server speed feedling 
+the pdfs. The first few articles I tried to download also were broken and 
+unreadable.
+
+To test whether that is case, look at the size (in k or MBs) of the file you 
+are trying to download, and then look at the size of what you have 
+downloaded. If the one on your computer is smaller, you've downloaded an 
+incomplete file which won't open.
+
+The server is sending them at such a slow rate, that downloads terminate, 
+without warning or error message, prematurely. That can only be cured by 
+faster server speed on the ZDMG end.
+
+An intermediate work-around, which worked for me, is to go the page where a 
+small facimile of the first page of the article appears; on the left, under 
+download, is a link to the PDF. Instead of right clicking and saving the 
+link, just click the box and let the file be downloaded that way -- it has 
+less tendency to break off before completing. And then compare the size of 
+the file with the file size mentioned in the box. To be sure, try opening 
+the file.
+
+Hope that helps.
+
+Dan Lusthaus 
+
+
+
+

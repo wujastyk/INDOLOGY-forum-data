@@ -1,0 +1,46 @@
+From wujastyk at gmail.com  Sun Feb  7 17:31:00 2021
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 07 Feb 21 10:31:00 -0700
+Subject: [INDOLOGY] Upgrade of the Mailman software
+Message-ID: <CAKdt-Cf=+-GckrM4ECaxY-c03RbyEewYtC5285+0WEJNX9+HZA@mail.gmail.com>
+
+Dear friends,
+
+The INDOLOGY mail forum runs on a piece of software called Mailman.  Our
+installation was recently upgraded from version 2 to version 3
+<https://docs.mailman3.org/projects/mailman/en/latest/src/mailman/docs/NEWS.html>.
+At the same time, our service provider has changed the interfaces for
+registering and controlling our accounts and for consulting the archive.
+
+The links on the main indology website, INDOLOGY.info were updated several
+days ago; if you find any errors there, please inform the INDOLOGY committee
+<indology-owner at list.indology.info>.
+
+The new interface for managing your account is here:
+
+   - https://list.indology.info/list/indology.list.indology.info
+
+The software interface is called "Affinity."  Your INDOLOGY subscription
+will work as always without taking any action.  But if you would like to
+change the settings of your subscription, you need to "register."  The
+procedure is simple and self-evident.
+
+The new interface for the INDOLOGY Archive is now here:
+
+   - https://list.indology.info/empathy
+
+The software is called "Empathy."  As before, the archive is open to the
+public.
+
+Please let the committee <indology-owner at list.indology.info> (not me!) know
+if you discover any bugs.
+
+Best wishes,
+Dominik Wujastyk
+INDOLOGY list <http://indology.info> committee member
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210207/c7127e3c/attachment.htm>
+

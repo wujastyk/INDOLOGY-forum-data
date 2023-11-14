@@ -1,0 +1,95 @@
+From nehrdbsd at googlemail.com  Mon Feb  4 02:38:12 2019
+From: nehrdbsd at googlemail.com (Sebastian Nehrdich)
+Date: Mon, 04 Feb 19 11:38:12 +0900
+Subject: [INDOLOGY] GRETIL quotation network
+In-Reply-To: <CAB3-dzeVegnw7OJjxOe2W51fmp+7fM1gfYhobvPDA=NkfsXoYQ@mail.gmail.com>
+Message-ID: <CAOB6=r-oji6_SYETLKdzbWcUUaKbDC2fHWSbcxpJO06wMHrL7A@mail.gmail.com>
+
+Dear Madhav,
+
+Thank you very much for the feedback and thank you for pointing out the
+missing etext of the  Atharvaveda-Sa?hit?. I do remember that there was a
+problem with the encoding in a few cases and the splitter thus failed to
+process a couple of etexts but when I spot-checked I couldn't locate the
+problem. I think it should be easy to fix and I will look into it the next
+days.
+Regarding the V?kyapad?ya, this should be the file:
+http://buddhist-db.de/sanskrit-html/vakyp1au.html
+When I scraped the data from GRETIL, all I could use in order to provide
+the filenames was the information included in the headers of the etexts,
+which is usually without diacritics and sometimes in a strange formatting,
+so using the list I provided has it's own challenges. Unfortunately there
+is not yet  a good well-formatted list of the (about 1300) etexts in this
+collection, that would be very helpful.
+With best wishes,
+
+Sebastian
+
+On Sun, Feb 3, 2019 at 8:47 AM Madhav Deshpande <mmdesh at umich.edu> wrote:
+
+> Dear Sebastian,
+>
+>      Congratulations for an amazing achievement.  I tested a few texts and
+> they worked well.  The one that did not open was Atharvaveda-Sa?hit?.  So
+> there may be a few glitches here and there.  I saw Bhartr?hari's ?atakas.
+> Is the V?kyapad?ya inculded?  I may have missed it in the long list.
+>      In any case, thank you so much for providing this wonderful
+> resource.  With best wishes,
+>
+> Madhav
+>
+> Madhav M. Deshpande
+> Professor Emeritus
+> Sanskrit and Linguistics
+> University of Michigan
+> [Residence: Campbell, California]
+>
+>
+> On Sat, Feb 2, 2019 at 3:23 PM Sebastian Nehrdich via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Hello everybody,
+>>
+>> Based on the Sandhi-splitter that Oliver Hellwig and me developed last
+>> year (
+>> https://github.com/OliverHellwig/sanskrit/blob/master/papers/2018emnlp/sandhi-rnn-hellwig-nehrdich.pdf),
+>> I have calculated approximate quotations and parallel passages within the
+>> GRETIL corpus. The HTML-tables of the quotations can be accessed here:
+>> http://buddhist-db.de/sanskrit-html/index.html
+>> The tables are in a very simple format, but since links to the quoted
+>> passages are provided, it can be quite entertaining to navigate through the
+>> files and jump to the quoted passages.
+>>
+>> The code and a small description of the used tools are on github:
+>> https://github.com/sebastian-nehrdich/gretil-quotations
+>>
+>> The algorithm is based on fasttext vector representations of sequences
+>> with a fixed length of six tokens. This is short enough to match sets of
+>> two p?das of an anu??ubh stanza and long enough to avoid yielding too much
+>> unwanted results. I set the cutoff for the similarity intentionally low, so
+>> even matches which might be just very loosely related are included in the
+>> results. I think it is better to have some unrelated results from time to
+>> time than to miss something that might be of importance. Also the
+>> formatting of the GRETIL files is quite different from file to file, and it
+>> might have happened that during the process of extracting and splitting the
+>> Sanskrit sentences something did not go perfectly well. It is therefore
+>> always a good idea to check back with the original etext files.
+>> With best wishes,
+>>
+>> Sebastian Nehrdich
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190204/a0e5ae49/attachment.htm>
+

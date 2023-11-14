@@ -1,0 +1,81 @@
+From ecl6tam at lucs-01.novell.leeds.ac.uk  Thu Sep 12 16:46:27 1996
+From: ecl6tam at lucs-01.novell.leeds.ac.uk (Alec McAllister)
+Date: Thu, 12 Sep 96 16:46:27 +0000
+Subject: Accented Characters
+Message-ID: <161227026012.23782.16831207269996052152.generated@prod2.harmonylists.io>
+
+On 12 Sep 96 at 15:25, Dominik Wujastyk wrote:
+
+>On Thu, 12 Sep 1996, Alec McAllister wrote:
+>
+>> >>I'm currently working on TrueType fonts which code accents and 
+>> >>characters separately, so any accent(s) can be used with any 
+>> >>character.
+>> >>http://www.leeds.ac.uk/ucs/software_distribution/win3.x/
+>
+>May I ask how the accents are floated to the appropriate positions over
+>the characters, when using applications like MS Word?  Is there some trick
+>I don't know?
+
+There are two basic techniques:
+
+a) use WFW's equation editor feature (badly documented and clumsy,
+but still there and still useful, especially if you create macros for 
+easy use) to overstrike two or more symbols to create accented 
+characters; and
+
+b) create fonts in which the accents have zero advance-width (i.e.
+the cursor doesn't move when you type them) and which are actually
+situated to the left of the cursor, so they appear above, below or
+through the previous letter.
+
+One of my fonts uses the latter technique, and produces quite 
+reasonable results on its own, i.e. you simply type the character, 
+then the accent, and the result is pretty good and perfectly legible. 
+It's adequate for first drafts, notes and student work, where the 
+occasional off-centre accent over a particularly wide or narrow 
+letter doesn't matter much.
+
+However, for really accurate results (i.e. camera-ready copy), it is 
+necessary to use overstriking, which enable the writer to centre the 
+accents exactly over the characters, regardless of their variable 
+width. I've created variants of the basic font to make that easier.
+
+
+>
+>Secondly, are you aware of the modified Bistream and Utopia fonts
+>available via the INDOLOGY web site?  These fonts contain extra accented
+>characters (accent+char = single glyph) for work with Indian languages. 
+
+Yes. They are excellent fonts.
+
+My LeedsBit package was also based on Bitstream Charter, which is a
+good font, and all the better for being public domain.
+
+My fonts are not in competition with those on the INDOLOGY site. I'm 
+trying to do something different. I'm trying to create a very small 
+number of fonts which can handle a large number of different 
+languages, so they are not tailor-made for transliterating Indian 
+langs.
+
+My latest fonts also look different. Bitstream Charter is slightly 
+"blocky", so I'm trying to modify it into something which looks 
+rather more like Times New Roman ... but not so similar that I breach 
+Monotype's copyright!  :-)
+
+Best wishes,
+
+Alec.
+
+Alec McAllister
+Arts Computing Development Officer
+Computing Service
+University of Leeds
+United Kingdom
+tel 0113 233 3573
+email: T.A.McAllister at Leeds.AC.UK
+
+
+
+
+

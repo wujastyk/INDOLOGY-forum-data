@@ -1,0 +1,92 @@
+From s.hodge at PADMACHOLING.FREESERVE.CO.UK  Fri Jul  7 00:16:12 2000
+From: s.hodge at PADMACHOLING.FREESERVE.CO.UK (Stephen Hodge)
+Date: Fri, 07 Jul 00 01:16:12 +0100
+Subject: Harappan non-texts
+Message-ID: <161227059641.23782.711127806235956629.generated@prod2.harmonylists.io>
+
+Dr Farmer wrote:
+>   In terms of differences in style, the characters in Text A
+>   are written in 'small seal' form, an old style of writing
+>   that was to be abandoned in the Han;  the characters in Text B
+>   by way of contrast, are written in the more modern "clerical"
+>   script. This is one indication that Text A was copied before Text
+B.
+
+According to Chinese sources on the development of the script, the
+"small seal" style (Text A) was the official script during the Qin
+period but because it was awkward to write quickly the clerical script
+(Text B) was developed but these existed in tandem -- a bit like
+Egyptian hieroglyphs with hieratic and later demotic.   However, the
+various styles of writing Chinese were used anachronistically for
+various purposes down to the present -- Japanese personal seals used
+daily by millions still use small seal script.
+
+I agree overall with the other authorities you quote although it does
+rather seem to be a matter of emphasis -- the Chinese seem to prefer
+to emphasize the continuity aspect.  Thus Yin Binyong, a senior
+academician at the Beijing Institute of Applied Linguistics, says
+"although there have been many changes in their forms, from the point
+of view of the writing system as a whole, there has been no basic
+qualitative change."
+
+> M. Witzel is right: All specialists agree that before the Han
+> dynasty ancient Chinese was anything *but* "fixed" !
+>
+But that is not quite the same as saying "the Chinese script of 300
+BCE is not that of 300 CE" -- true there are many changes,
+simplifications and changes in calligraphic style but the bulk of
+characters in use during the Han period and later can be traced
+clearly back to the small and earlier large seal scripts.   A quick
+look at Morohashi or the Hanyu Dazidian dictionaries will confirm
+this.
+There have also been many non-standard characters in existence
+throughout Chinese literary history that are recognized as variants on
+"official" forms.   Anyway, all this corroborates your views about
+scribal pressures towards simplification to produce literature in bulk
+which is something not apparent in IV script -- even if that script
+was preserved as an official "archaic" form one would expect more
+cursive forms of the script to have been used in tandem as with
+Chinese and other languages.
+
+***************
+Michael Witzel wrote:
+Yes, in modern N. Chinese (Beijing). And that's an extreme case, with
+just CV or CV+Nasal shapes of syllables. Even modern S. Chinese and
+earlier N. Chinese have more possibilities. Add, for ex.
+southern -p, -t, -k (as in Chang Kai Chek) and you get quite a few
+more than 420...
+*****
+Yes, I am aware of this as I use early medieval Chinese transcriptions
+to reconstruct Indic original terms from Buddhist texts.   But there
+were still a fairly limited number of possible syllables since I
+believe you do not get final p/t/k in all possible post-vocalic
+combinations.  It is a moot question whether ancient Chinese was tonal
+at all but some theorize that tones arose with the impoverishment of
+the permissible shape of words and phonetic system.  This can be seen
+with modern Tibetan which has rapidly become a tonal language over the
+past 50 years for similar reasons (under Chinese influence, no doubt).
+
+>>if the [IV] script
+>>worked on a syllabic basis as with Chinese words you might expect
+>>around 400 -- 600 signs.
+
+>Based on what type of language ??
+
+I was just commenting on the coincidence rather than theorizing any
+particular language.  Through your own research, you have certain
+theories about what the IV language might have been like and I am not
+in a position to disagree with you since that is not my field of
+expertise though I note that other people have other theories --
+Dravidian etc.  A "mono-syllabic" Tibeto-Burman type of language might
+fit this small range of signs but I will leave that to others to argue
+over.  It does seem to me however that 400 - 600 logographic signs is
+pretty sparse for a sophisticated writing system which adds weight to
+the mnemonic theory -- in which case there is probably no hope of ever
+deciphering the script as with Easter Island rongo-rongo.
+
+Best wishes,
+Stephen Hodge
+
+
+
+

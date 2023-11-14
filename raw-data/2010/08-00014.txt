@@ -1,0 +1,76 @@
+From vasubandhu at EARTHLINK.NET  Tue Aug 10 09:33:22 2010
+From: vasubandhu at EARTHLINK.NET (Dan Lusthaus)
+Date: Tue, 10 Aug 10 05:33:22 -0400
+Subject: Hiragana and Indic Scripts
+Message-ID: <161227090116.23782.11961916062295504403.generated@prod2.harmonylists.io>
+
+Dear Peter,
+
+As you've discovered the orgins of the kana scripts is still disputed and
+unclear.
+
+Early on, hiragana was considered a script only to be used by women; men
+were expected to use kanji (Chinese characters). The idea that hiragana
+primarily developed from a cursive form of Chinese characters is fairly
+pervasive. See, for instance,
+
+http://www.omniglot.com/writing/japanese_hiragana.htm
+and
+http://en.wikipedia.org/wiki/Hiragana
+
+And legend (along with many uncritical modern works) considers K?kai
+(774?835), who established the Shingon (= tantra) school in Japan, to be
+the creator of the katakana script. There is a poem, or set of gathas,
+called "Iroha" in Japanese, that offer a summary of the teaching of
+impermanence from the Nirvana Sutra; the poem employs the full set of
+katakana, and this poem had been attributed to K?kai who was believed to
+have devised it as a clever mneumonic, but more recent scholarship has
+undermined that legend. See
+
+http://en.wikipedia.org/wiki/Iroha
+and
+http://tinyurl.com/3xx74ko
+
+Note that the order of the syllabary was not always in the current order,
+and that the order of appearance in the Iroha was standard for many
+centuries. Rearrangement to align it with Sanskrit order might have occurred
+later as Japanese scholars developed an interest in linguistics and grammar
+(under German via Dutch influence) and turned to Sanskrit prototypes (via
+Chinese Buddhist translations) to set this out.
+
+You are correct that Siddham script, not Devanagri, would have been familiar
+to the Japanese. The Sanskrit script studied in China and then subsequently
+the rest of E. Asia was primarily Siddham. By the time Devanagri was
+developed, the transmission to China had been disrupted. K?kai spent some
+time in China studying with translators (including Manichaeans), and,
+because of the tantric interest in mantras and seed syllables, developed an
+interest in siddham pronunciation and script (one still finds siddham used
+in certain Japanese Buddhist cemeteries, etc.). That is probably why he
+comes to be associated with the development of katakana.
+
+One largely unexplored but potentially important source for both hiragana
+and katakana is Chinese musical notation, especially as developed during the
+Tang and Song dynasties. What started as Gongche notation ("?" g?ng and "?"
+ch?) using Chinese characters to represent notes, developed into a cursive
+form that has many evident overlaps with Japanese kana.
+
+On Gongche, see
+http://en.wikipedia.org/wiki/Gongche_notation
+
+For the more relevant musical notation, see
+
+Rulan Chao Pian, _Song Dynasty Musical Sources and Their Interpretation_,
+Harvard-Yenching, Harvard University Press, 1967, esp. the illustrations
+following p. 42 and passim.
+
+You may also find the following useful for tracking the history of East
+Asian awareness of Sanskrit sounds and scripts:
+
+Chaudhuri, Saroj Kumar, _Siddham in China and Japan_, a monograph published
+through Victor Mair's Sino-Platonic Papers series. (No. 88, Dec. 1998).
+
+Dan Lusthaus
+
+
+
+

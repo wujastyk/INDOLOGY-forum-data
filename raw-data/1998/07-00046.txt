@@ -1,0 +1,43 @@
+From info at TICONSOLE.NL  Sat Jul  4 20:07:45 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Sat, 04 Jul 98 22:07:45 +0200
+Subject: Sanskrit
+Message-ID: <161227040536.23782.4991744768823880173.generated@prod2.harmonylists.io>
+
+Jacob Baltuch wrote:
+
+>Regarding your Sanskrit example: if pushed I would have probably guessed
+>that Sanskrit does not allow indirect objects to be raised to subject,
+>since I'd never have thought of the passive of the *causative*, but you
+>make an ingenious use of it, although it is not completely clear to me.
+
+>1) rAmo nalAya pustaka.m dadAti
+>2) rAme.na nalAya pustaka.m dIyate
+>3) nalo rAme.na pustaka.m dApyate
+
+>I'd always thought the meaning of (3) was "N. is made to give a book by R."
+>(passive of "raamaH naalaM pustakaM daapayati" or "raamaH naaleNa pustakaM
+>daapayati", i.e. "R. makes/has N. give a book").
+>But "nalo raameNa pustakaM daapyate" in the meaning of "N. is given a book
+>by R." with the crucial raising of the indirect object to the subject position
+>entirely stumps me.
+
+I do not know if you understand Dutch (I see you have .BE as country code), but maybe you understand 3) if I say
+
+1) rama geeft nala een boek
+rama - gives - nala - a book
+2) een boek wordt door rama aan nala gegeven
+a book - is - by rama - to nala - given
+3) nala is een boek gegeven geworden (door rama) / gegeven doen worden
+nala - is - a book - been given (by rama) / given cause to be
+
+Here, the idea of dative-like subject is felt.
+
+Sandra van der Geer
+Leiden
+NL
+info at ticonsole.nl
+
+
+
+

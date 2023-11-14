@@ -1,0 +1,99 @@
+From jacob.baltuch at EURONET.BE  Tue Dec 16 20:33:15 1997
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Tue, 16 Dec 97 21:33:15 +0100
+Subject: Delocutives
+Message-ID: <161227034448.23782.11606305509358242926.generated@prod2.harmonylists.io>
+
+[resend]
+
+I have (what else) other questions...
+
+First look at these French examples, those of Dominique's
+
+>PS: about 'yes-man', you can compare the funny French equivalent
+>'beni-oui-oui', an Arabo-French chimera 'son of oui!oui!' (issued from the
+>Maghreb colonization by the France, but today completely naturalized, the
+>'beni' beeing understand 'blessed', 'simpleton').
+
+and a few others
+
+  le qu'en-dira-t-on
+  une Marie-couche-toi-l?
+  le pourquoi/le comment (d'une chose)
+  un bon tiens vaut mieux que deux tu l'auras
+
+It seems in Fr. any utterance can be thought of as an invariable noun when
+used meta-linguistically as the name of the action of uttering it:
+"Il commence a m'enerver avec ses je le ferai plus tard" (Doesn't that work
+in English: "He's getting on my nerves with his I'll do it later"?)
+
+Now George Thompson  writes:
+
+>See RV 7.99.7:  va'SaT te viSNav Asa' A' kRNomi
+>                O ViSNu, I do the vaSaT to you from out of my own mouth.
+>
+>This material is interesting because it shows us the verb kR- being used as
+>a speech-act verb [verbum dicendi]. The context in which this material
+>developed was a highly ritualized one, with well-defined ritual utterances
+>[vyAhRtis] that were to be performed [kR-] at fixed occasions. Perhaps it
+>casts interesting light on the term 'karman' as ritual performance.
+
+_If_ in Sanskrit you can, like in French, consider the 1st member of those
+kr compounds to stand for the name of the action of uttering it (thus one
+could analyze "tvam" in tvamkR as "the _action_ of uttering tvam") then
+you don't need any special meaning of kR, kR in its usual meaning of "perform"
+seems to work doesn't it? So, is it sensible to analyze it this (my) way? Can
+one say that in the Vedic example "vaSaT" is the "accusatif" of an invariable
+noun which designates the action of uttering "vaSaT"? Of course things
+would be different in composition with verbs meaning say, utter, cf
+an example mentioned by Dominique, bhoovaadin. What is its precise meaning?
+Also I'd be curious if bhooH can also enter in composition with kR as say
+"bhooHkarooti"? I guess that would depend on "bhooH" having an affective
+content, e.g. the "gurum tvamkarya" of Martin's examples implies a show of
+disrespect or familiarity. Since "bhooH" seems pretty neutral I wouldn't
+expect it to have a transitive kR compound but let me ask anyway.
+
+Now I'm do not think that the Sanskrit usage is as free as the
+French one. Those Sanskrit compounds _seem_ to be restricted to two cases:
+
+(1) where the 1st member is a "sound" either ritual or onomatop.
+    (those are the intransitive compounds, George Thompson is in
+     this category -- except it is not a compound :) -- but you know
+     what I mean. Note the construction is with the dative tee and
+     not with the accusative tvaa)
+
+(2) where the 1st member has some sort of affective content
+    (those are the transitive compounds, Martin Gansten's example
+    falls in this category)
+
+In the first case the 1st member X would stand for the "action of uttering
+X", in the second case the 1st member X would stand for the "action of
+using X to address (someone)".
+
+Now are these generalizations at all warranted? Of course they go
+back to my question to which Martin gave one answer.
+
+Btw I'm still waiting
+for an answer about the existence or non-existence of _transitive_
+?dhikkarooti? I'm curious about this because it falls sort of in between
+the two categories above. Apparently you can say "dhik tvaam muurkha"
+but that's not what I'm asking. I'm asking, can you say "tvaam dhikkarooti"?
+
+In fact George's example is also interesting as it might also fall in between
+depending what the precise meaning of "vaSaT" is. What exactly is the content
+of "vaSaT"? Is Vishnu supposed to be honored by that utterance? Can such
+compounds ever be transitive -- with tvaam/tvaa instead of tubhyam/tee?
+Or are Vedic gods just too much above being really affected by the worshipper
+uttering those sounds (at least in the same way a human "guru" is
+affected by one calling him "tvam" at least to the point that he gets put
+in the accusative)? In other words I'm curious what the
+implication is of using a transitive vs an intransitive construction in
+cases which admit both (in case there are such)
+
+Re: impropriety of using "tvam". Martin was writing his example was
+a rare testimony of that fact. Also Renou's grammar mentions that
+Mhbh XIII 163 53 forbids "tvaMkaara" from inferior to superior.
+
+
+
+

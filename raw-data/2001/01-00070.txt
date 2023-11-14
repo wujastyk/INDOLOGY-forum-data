@@ -1,0 +1,76 @@
+From jddunne at FACSTAFF.WISC.EDU  Sat Jan  6 21:14:59 2001
+From: jddunne at FACSTAFF.WISC.EDU (John Dunne)
+Date: Sat, 06 Jan 01 15:14:59 -0600
+Subject: Yogacara idealism
+In-Reply-To: <18906331.20010106162151@univie.ac.at>
+Message-ID: <161227066351.23782.5424500565716123536.generated@prod2.harmonylists.io>
+
+This is just a quick note in regard to sahupalambhaniyama; the following
+supports Birgit Kellner's position. [Abbreviations: PS =
+Pramaa.nasamuccaya; PSV = PS-v.rtti; PV = Pramaa.navarttika]
+
+In brief, Dharmakiirti's argument from the sahopalambhaniyama are NOT his
+primary critique against the existence of external objects (baahyaartha).
+This argument on its own cannot be used for this purpose because, to
+restate Dr. Kellner's point in a slightly different fashion, the
+sahoplambhaniyama is necessary to demonstrate the impossibility of external
+objects, but it is not in itself sufficient evidence for any such
+demonstration.
+
+This is best understood by recalling the primary purpose for the
+presentation of the sahopolambhaniyama: namely, to demonstrate that pramiti
+(equated here with pramaa.naphala) and pramaa.na are not distinct
+entities.The upshot is that the aakaara ("image") in cognition, inasmuch as
+it is identical to that cognition, is at once the means of knowledge
+(pramaa.na) and the knowledge itself (pramiti/pramaa.naphala). This holds
+true REGARDLESS of whether or not one accepts external objects.
+
+Dignaaga makes this point in PSV ad PS1.1.8cd-10 (Hattori 1968:28-29; cf.
+Hattori's notes, 1.55-67, pp.97-107). Dharmakiirti discusses the same issue
+at several points, the most salient being PV3.311-319 and PV3.334-341.
+
+Now, it is true that in the latter section (PV3.334-341), Dharmakiirti does
+indeed make an argument for the nonexistence of external objects (334-336).
+However, within that same section, he specifically explains how
+sahopalambhaniyama ALSO holds true when the object of perception is assumed
+to be other than the mind (PV3.339). This quite clearly demonstrates that
+the argument from the sahopalambhaniyama is not in itself sufficient to
+demonstrate the nonexistence of external objects. And without wishing to be
+harsh, I would say that any claims to the contrary are simply uninformed.
+
+If the argument from the sahopalambhaniyama is not sufficient to disprove
+external objects, why then would Dharmakiirti dismiss external objects when
+discussing this niyama at PV3.334-336? The reason is that he has already
+presented his definitive argument against external objects, and he is here
+simply building on that earlier discussion. The definitive argument is
+found at PV3.194-224, where Dharmakiirti analyses the possibility of
+citrataa in both the object of cognition and cognition itself. The upshot
+of this argument is that, at the highest level of analysis, external
+objects cannot exist because they cannot pass the test of being either one
+(eka) or many/variegated (citra, which in the finaly analysis amounts to
+being sthuula). When pushed to its limit, this argument leads to the
+conclusion that Dharmakiirti is an aliikaakaaravaadin, as is demonstrated
+by the earliest known commentaries on PV, namely, those of Devendrabuddhi
+and S'aakyabuddhi.
+
+At the risk of seeming immodest I will add that, in addition to covering
+portions of the above in my dissertation, I have also recently presented a
+(quite rough) paper on the topic along with translations of the relevant
+passages from PV. I hope to have some of this in print before too terribly
+long.
+
+Yours,
+
+John Dunne
+
+
+
+=========================
+John D. Dunne
+Assistant Professor
+Languages and Cultures of Asia
+University of Wisconsin-Madison
+
+
+
+

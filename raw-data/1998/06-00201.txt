@@ -1,0 +1,111 @@
+From bhk at HD1.VSNL.NET.IN  Tue Jun 16 08:59:13 1998
+From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
+Date: Tue, 16 Jun 98 13:59:13 +0500
+Subject: Draft transliteration scheme on the Web
+Message-ID: <161227039852.23782.376971601504203204.generated@prod2.harmonylists.io>
+
+I do not care what Palaniappan uses for Tamil. For Prot0-Dravidian, z-subdot
+makes better sense. As already pointed out by prof. Antony P. Stone, subbar
+is used for alevolars consistently, _n, _r, _t. Let us not confuse
+transliteration between Tamil and Proto-Dravidian. Let Tamil scholars
+continue to use whatever they want. I appeal to Dr. Stone to provide
+z-subdot for the benefit of those who decide  to use it.In my TVB I used
+only l-sub-macron, but changed it later. LVRAiyar and French Scholars
+consistently used z-subdot. The latest book on Dravidian languages
+(Routledge, 1998) prefers z-subdot.If Tamil scholars think that the
+phonetics of _l and PD *.z are the same (I do not know on what evidence!),
+they can use either of  their pet symbols. While the use of symbols can be
+arbitrary, there can be a method even in madness, just like using h for
+aspirate stops, p:ph, k:kh, etc. Bh.K.
+
+
+
+At 22:42 15/06/98 EDT, you wrote:
+>In a message dated 98-06-15 05:12:27 EDT, bhk at HD1.VSNL.NET.IN writes:
+>
+><< An aditional reason in favour of z-subdot is how early Skt borrowings are
+> represented in Tamil, e.g. u.sa: u.zai, se:.sa- :ce:.zam. Phonetically a
+> voiced counterpart of IndoA .s is not far off the mark of PDr or Ta. .z. I
+> published a longish paper on the developments of PD *.z as early as 1958
+> (Indian Linguistics, Turner Jubilee Volume). PD *.z becomes .l, .d, .r, r,
+> in most lgs.Toda also has .s and s(wedge-supra)beside the above. Being a
+> frictionless continuant, it leads to y and 0 also. The amjor advantage is to
+> match it with other retrofexes and .z eminently suits this. l-macr-b is ill
+> suited and is not used by scholars like like zvelebil. Bh.K. >>
+>
+>P. S. Subrahmanyam in his Dravidian Comparative Phonology (1983), p. 422-423
+>says the following.
+>
+>"Different symbols are used for its transcription by different authors: r_dia-
+>b is used by Burrow and Emeneau (DED(S) and other works), z_dot-b by Ramaswami
+>Aiyar (1938) and Krishnamurti (1958b and subsequent works only in writing the
+>reconstructed forms), l by Narasimhia,  l_macr-b by Tamil lexicon, P. S.
+>Subrahmanya Sastri, L. V. Ramaswami Aiyar and Krishnamurti (1961), l_dia-b by
+>A.C. Sekhar and G. S. Gai and r_dot-b by Zvelebil and Pfeiffer. As remarked by
+>Emeneau (loc.cit,) it is futile to argue which symbol is correct. l_macr-b is
+>used in the present work mainly because of convenience in typing and printing.
+>As pointed out by Burrow (1968b) Krishnamurti's practice of writing z_dot-b
+>for this sound in the reconstructed forms in order to distinguish it from the
+>corresponding sound in Tamil-Malayalam and KannaDa (this reason was stated by
+>Krishnamurti) has little justification since there is no evidence that the
+>concerned proto-sound is phonetically different from the corresponding sound
+>in Tamil-Malayalam."
+>
+>Contrary to what Krishnamurti says, Kamil Zvelebil in his writings on Tamil
+>literature uses l_macr-b (eg. The Smile of Murugan, 1973, E. J. Brill,  Tamil
+>Traditions on Subrahmanya-Murugan, 1991, Institute of Asian Studies) V. S.
+>Rajam's A Reference Grammar of Classical Tamil Poetry, 1992, American
+>Philosophical Society also uses l_macr-b.
+>
+>The Tamil Lexicon's l_macr-b was adopted in 1936.  Ramaswami Aiyar used z_dot-
+>b in 1938. Thus in terms of their history they are virtually identical. But
+>l_macr-b is being used more widely than z_dot-b til today.
+>
+>If one goes to any library with South Asian collection, the number of books
+>dealing with Dravidian linguistics using z_dot-b will be relatively few. The
+>number of books dealing with different Indological fields such as literature,
+>religion, archeology, history, etc. using Tamil materials using l_macr-b will
+>be considerably more.  Examples are John Carman and Vasudha Narayanan's Tamil
+>Veda , 1984, University of Chicago Press, Asko Parpola's Deciphering the Indus
+>Script, 1994, Cambridge University Press, Rajeshwari Ghose's The Lord of Arur:
+>The Tyagaraja Cult in Tamilnadu, 1996, Motilal Banarasidass.
+>
+>Vidyanath Rao wrote:
+>>For those who know Tamil/Malayalam, the actual symbol makes little
+>>difference; humans can get used to almost anything. I no longer
+>>blanch when I see z for "s.  But for others,
+>>z-underdot may be too confusing:
+>
+>I agree with this in general with one minor exception. As Rao said, many
+>ordinary Tamils would identify 'zh' used in commonly-encountered words
+>correctly. However I have heard them when they come across a word which they
+>have not encountered ordinarily, and they mispronounce it so badly any lover
+>of Tamil would cringe. I expect the same will happen with z_dot-b also. But as
+>Emeneau stated, it is futile to argue which is the "correct" one. My criterion
+>would be to choose one which causes the least number of people to change their
+>system.
+>
+>One note about Tamil borrowing of Sanskrit words with "S". While there are a
+>few cases where IA "S" is replaced by Tamil l_macr-b, most of the time "S" is
+>replaced by "T"  as in meSa > mETam, veSa > vETam, etc.
+>
+>Right now when diacritic marks are not used in writing, the word "Tamil_macr-
+>b" is written just without the macron  as "Tamil" and there is not much of a
+>difference between the two. But, if one were to follow the suggestion of
+>z_dot-b, are we going to end up with two different ways "Tamiz" and "Tamil"?
+>If the goal is to bring uniformity, this will actually work against it. It is
+>going to cause more confusion.
+>
+>Regards
+>S. Palaniappan
+>
+>
+Bh.Krishnamurti
+H.No. 12-13-1233, "Bhaarati"
+Street 9, Tarnaka
+Hyderabad 500017
+Telephone:40-7019665
+
+
+
+

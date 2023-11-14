@@ -1,0 +1,83 @@
+From christophe.vielle at uclouvain.be  Thu Jun 16 15:16:56 2022
+From: christophe.vielle at uclouvain.be (Christophe Vielle)
+Date: Thu, 16 Jun 2022 15:16:56 +0000
+Subject: [INDOLOGY] Translation of Ratirahasya? Richard Schmidt
+In-Reply-To: <CALaEieio9w9NLBTbasrhEzpARe53s544VJ4qiv8zUvbxVfc5Mg@mail.gmail.com>
+References: <CADKwQ2nS7bdgzb=GaaUr5QfXGA6g7WmaFna5WuE4Y-mJESGq5A@mail.gmail.com>
+ <CALaEieio9w9NLBTbasrhEzpARe53s544VJ4qiv8zUvbxVfc5Mg@mail.gmail.com>
+Message-ID: <9FE00F87-FCA2-40FF-BFD4-113E8A46CDF5@uclouvain.be>
+
+Very interesting. In the uploader's description on Archiv the date of 1923 is given, and at the end of the scan the mention "Druck von Grimme, Berlin" is visible. This seems to be the English translation ascribed to Richard Schmidt (https://www.indologie.uni-halle.de/institutsgeschichte/richard_schmidt/) referred to in the following notice:
+https://www.worldcat.org/title/ratirahasyam-or-the-secret-of-sexual-pleasure/oclc/829456170
+(cf. given pages: 101 + 35 + 4 like here)
+unfortunately without library location (however, this ref. must correspond to some catalogue notice).
+I found the following reference (https://books.google.com/books?id=Jye0BQAAQBAJ p. 519) which could match therewith:
+"Schmidt, R. Kokkoka's Ratirahasyam. Gesch. u. Gesellsch., N. F. XII. 145 ff.'
+Unfortunately, the issue 12, 1924/1925, of the "Geschlecht und Gesellschaft" periodical seems unavailable:
+https://de.wikisource.org/wiki/Geschlecht_und_Gesellschaft
+By the way, the printer, place and typography of the available issues of this journal (in German only) do not correspond to the scan on Archiv, unless it was an autonomous, supplemental, publication of  the Berlin "Institut f?r Sexualwissenschaft" which published the journal (https://magnus-hirschfeld.de/institut/personen/forscher/ ). The fact is that Schmidt published also "Das Weib im altindischen Epos" in Geschlecht und Gesellschaft Bd . 10, 1921  (Dresden Verlag R. A. Giesecke ), pp. 15-23, 57?64 : https://archive.org/details/geschlecht-und-gesellschaft-10.1921/page/14/mode/2up
+Possibly, Richard Schimdt had prepared/published a German translation before (of which there is no concrete trace, only a reference "[1903] Das Ratirahasyam: Die indische Ars Amatoria", Berlin", at:  http://repo.komazawa-u.ac.jp/opac/repository/all/29339/rbb036-20.pdf p. [90]).
+His English translation was reissued in Calcutta, Medical Book Company [1949], ed. T.N. Ray, together with the translation by Yato Dharma Tato Jaya of the Tamil version of Ativi?rara?ma Pa?n?t?iyar
+https://www.worldcat.org/title/secrets-of-love/oclc/1245331259
+https://www.worldcat.org/title/kokkokam/oclc/637342456
+https://www.worldcat.org/title/secrets-of-love/oclc/5587060
+2nd rev. ed. of , Calcutta : S. Ghattack for Medical Book Co, 1960
+https://www.worldcat.org/title/kokkokam/oclc/249083479
+https://www.worldcat.org/title/kokkokam-rati-rahasyam/oclc/233904615
+It can be seen that the notes of this translation refer to two London IO mss. also dealt with by Schmidt in his work on Indian erotics (3rd ed. 1922; 1st ed. 1901, 2nd ed. 1910):
+https://archive.org/details/beitrgezurindi00schm/page/64/mode/2up
+
+Bw
+Christophe
+
+
+Le 16 juin 2022 ? 07:05, Ajit Gargeshwari via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> a ?crit :
+
+The book is  Koka Shastra: Being The Ratirahasya Of Kokkoka And Other Medieval Indian Writings On Love By Alex Comfort .
+The Book has 176 Pages and the one at archives  for which you have given the link has 146 pages.  I Suppose The introductory and cover pages are missing..
+
+The complete  book is available to borrow and read at archives.org<https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Farchives.org%2F&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gB%2BP5%2BRW1EHpEwM9hja851nnhsxmVvP0x7wrYjyU9eg%3D&reserved=0>
+The Koka shastra; being the Ratirahasya of Kokkoka and other medieval Indian writings on love : Kokkoka, 8th cent : Free Download, Borrow, and Streaming : Internet Archive<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fkokashastrabeing00kokk%2Fmode%2F2up&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BdtGeY209vbVF8bGvI3o%2FVRpG5ovdHQE3LKxHrxA9HU%3D&reserved=0>
+Regards
+Ajit Gargeshwari
+
+Website: https://www.indoscripts.org/<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.indoscripts.org%2F&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ck3XUOsZ3%2FomGUCCrWld1EkYdICqcdG1akJl8nlpjiw%3D&reserved=0>
+View our Digitized Collections
+Indo Script Raksha Trust : Free Texts : Free Download, Borrow and Streaming : Internet Archive<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Findo-script-raksha-trust&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q%2BmptjlMxD88fPhtFXXEmiFFEDgV%2BnJyRh%2FzZBOzOkA%3D&reserved=0>
+https://archive.org/details/@sri_gargeshwari_digital_foundation<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2F%40sri_gargeshwari_digital_foundation&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4HdqSToiUGbd9BHIrhnyw3fjDIiujsWiYNGT302IH0Q%3D&reserved=0>
+https://archive.org/details/karnatakasamskritauniversity<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fkarnatakasamskritauniversity&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FOqYnxdHE27GqjB8Ovh2Wv9rA33qdC4noFLhbwWtNLo%3D&reserved=0>
+
+? ????? ??????? ?? ??????????? ?????? ????? ?? ? ?????
+??? ?????? ?????????? ?????? ? ?????? ???????? ???????2.20??
+
+
+On Thu, Jun 16, 2022 at 8:58 AM Yang Qu via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Dear List Members,
+
+Greetings!
+
+I wonder if anyone could kindly provide me with more information about this particular translation of Ratirahasya (Koka??stra)?
+
+https://archive.org/details/in.ernet.dli.2015.219313/page/n3/mode/2up<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fin.ernet.dli.2015.219313%2Fpage%2Fn3%2Fmode%2F2up&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iebw2Gujarrk4qmxtaZsERyG8mMYNF9i%2BVLTQlY866o%3D&reserved=0>
+
+Neither its translator nor publishing place is indicated in the document, and it's clear that it's not the translation of either Alex Comfort or S. C. Upadhyaya. I would really appreciate it if anyone could kindly shed some light on this.
+
+Thank you so much!
+
+best wishes,
+Yang Qu
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7Ce7d973d709d24b91224f08da4f55e0bb%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637909527512265522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nVmy6khcUCSPwqh8YP%2Fy6p98jexXut%2Brvcp4FH7gXv4%3D&reserved=0>
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220616/692733b9/attachment.htm>
+

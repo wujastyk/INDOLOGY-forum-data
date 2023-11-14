@@ -1,0 +1,40 @@
+From nagarajpaturi at gmail.com  Wed Jun 11 18:38:15 2014
+From: nagarajpaturi at gmail.com (Nagaraj Paturi)
+Date: Thu, 12 Jun 14 00:08:15 +0530
+Subject: [INDOLOGY] Anusvara plus nasal
+Message-ID: <CAJGj9eZ-aEa=HXd-QYa5QQnZsrzmvTAOFnjb1J1uvguHiGp3Ow@mail.gmail.com>
+
+1. In Telugu (probably in all Dravidian) inscriptions, anusv?ra , a full
+circle,  was a later borrowing from Northern Brahmi orthography.
+
+2. There is ardha (half) anusv?ra, a verticle half of a circle also in
+classical Telugu orthography.  There is evidence to believe that this
+script symbol was used to indicate nasalization of the preceding vowel.
+
+There is evidence also to believe that the script symbol survived even
+after the nasalization was lost in pronunciation by the preceding vowel.
+
+3. The ardha (half) anusvara, the verticle half of a circle is a later
+invention in the Telugu orthography. During early Telugu inscriptions, when
+the ardha (half) anusvara, the verticle half of a circle was not invented
+yet, full anusv?ra, full circle itself was used in the place of ardha
+anusv?ra also. A full circle not followed by a glyph for a nasal indicated
+the ardha (half) anusvara (nasalization of the preceding vowel) whereas a
+full circle followed by a nasal indicated full anusv?ra (nasal first part
+of a cluster).
+
+This is just to see if this provides any clue here.
+
+Nagaraj
+
+
+
+-- 
+Prof.Nagaraj Paturi
+Hyderabad-500044
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140612/f125d6d5/attachment.htm>
+

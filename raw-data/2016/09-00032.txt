@@ -1,0 +1,123 @@
+From dnreigle at gmail.com  Mon Sep  5 02:51:20 2016
+From: dnreigle at gmail.com (David and Nancy Reigle)
+Date: Sun, 04 Sep 16 20:51:20 -0600
+Subject: [INDOLOGY] aja as ajaya?
+In-Reply-To: <4A23878E-5B77-473F-9DB9-50FA68F458B5@gmail.com>
+Message-ID: <CAPAZekaq2E6NUh9aeN1ifTpQodvxob66xwvrwtjw83EWSYvd1A@mail.gmail.com>
+
+Dear Ashok (and all),
+
+Your well-considered observations on this puzzling problem are very much
+appreciated. They make perfect sense to me, and few doubts would remain if
+we were dealing with a text written in normal Sanskrit. The m?la
+*K?lacakra-tantra*, however, is not written in normal Sanskrit. Nor is it
+written in Buddhist Hybrid Sanskrit, the language described by Franklin
+Edgerton that is seen in old verses preserved in Buddhist texts. It is not
+even written in ?just bad Sanskrit,? as David Snellgrove characterized the
+language of the Buddhist *Hevajra-tantra* in 1959, often repeated by others
+since. The peculiarities of its language were briefly described by
+Pu??ar?ka at the end of the third introductory section of his *Vimalaprabh?*
+commentary on the laghu *K?lacakra-tantra*, pp. 29-30 in the 1986 printed
+edition (link given earlier). These peculiarities were discussed in detail
+by John Newman in the article that Matthew referred to, ?Buddhist Sanskrit
+in the K?lacakra Tantra? (attached).
+
+
+One of the items in Pu??ar?ka?s summary of its linguistic peculiarities
+specifically pertains to meter: kvacit v?tte yati-bha?ga?. While the *yati*
+or metrical pause is not the particular problem that we are dealing with,
+it does serve to show that we should not expect the meter to be regular.
+Indeed, this is what we find. In the small sample of just twenty-one and
+one-half verses, besides the p?da containing *aja* that is one syllable
+short, there are four p?das that are one syllable long: 11a.  tantre 'smin
+??ikul?d?n?m; 13c. sarvanivara?avi?kambh?; 15b. trayoda??nye krame?a te;
+22a. laghutantre ma?juvajra? ca. In this text, then, we cannot take for
+granted that the verses were originally written correctly in regular meter,
+as we can in normal Sanskrit. Snellgrove found the same thing in his
+edition of *The Hevajra Tantra* (vol. 2, p. ix): ?More than a hundred lines
+are quite irregular, and although they clearly represent *?lokas* of a
+kind, it is impossible to see how many of them can ever have been anything
+but irregular.?
+
+
+If we posit that samudravijayo 'ja? in 17b is an error for samudravijayo 'jaya?
+that occurred in the copy of the m?la *K?lacakra-tantra* used by Pu??ar?ka,
+we must assume that Pu??ar?ka did not catch the error, but retained it in
+his quotation from that text and then adopted the erroneous name *aja* in
+his commentary on laghu *K?lacakra-tantra* 1.27. Pu??ar?ka is supposed to
+be the son of Ma?ju?r? Ya?as, who prepared the laghu or condensed
+*K?lacakra-tantra* from the now mostly lost m?la or root *K?lacakra-tantra*.
+So he should be ?in the know? about the linguistic peculiarities that he
+summarized. Indeed, Pu??ar?ka several times at other places in his
+*Vimalaprabh?* commentary points out these very linguistic peculiarities;
+for example, saying that here in such and such a word the locative case is
+used for the ablative (several examples are given by John Newman in his
+article). Yet he did not correct *aja* to *ajaya* in the list of the kings
+of ?ambhala, where he himself appears as the second kalk? king, but on the
+contrary he adopted *aja* in his commentary at 1.27. While we can explain
+the perpetuation of an error in the *Vimalaprabh?* by an unwillingness of
+copyists to emend the text, it is harder to explain an error by its author
+himself. It is easier to accept such a seeming error as one of the
+linguistic peculiarities that he was fully aware of.
+
+
+As for the meaning of the name, while *ajaya*, ?unconquerable,? clearly
+makes a better king?s name, there are a few other names in this list that,
+like *aja*, ?unborn,? seem more fitting for some philosophical or cosmic
+principle. These are, in the list of kalk? kings: no. 15. *ananta*,
+?infinite?; and no. 13. vi?var?pa, ?he whose body is the all, i.e., the
+universe?; and in the list of dharmar?ja kings: no. 6. vi?vam?rti, ?he
+whose form is the all, i.e., the universe.? We have no indication from
+Pu??ar?ka what he understood the name to mean. The earliest of the Tibetan
+translations is the one that apparently took *aja* as *abja*, *chu skyes*,
+?water-born.? I have no confidence that the next Tibetan translation, *rgyal
+dka'*, ?unconquerable,? was any more correct.
+
+
+Best regards,
+
+
+David Reigle
+
+Colorado, U.S.A.
+
+
+On Sat, Sep 3, 2016 at 1:08 PM, Ashok Aklujkar <ashok.aklujkar at gmail.com>
+wrote:
+
+> Dear David,
+>
+> My general experience is that copyists in the Sanskrit/Indic tradition are
+> very conservative. Almost always, they do not make emendations and, if they
+> do, they usually note them in the margins. Secondly, your mss do not seem
+> to fall into versions or recensions. In effect, you have only one ms
+> reading aja. Also, you have indicated that the source of the (seemingly)
+> multiple attestations is unlikely to have been distant from the autograph
+> or a copy that was made available for further copying. There is thus room
+> to believe that an oversight made in the autograph or in a released copy of
+> the autograph has been faithfully retained. Therefore, unless another
+> independent occurrence of aja in the sense of ajaya is found, the
+> emendation that occurred to Madhav and you should be accepted. Just as we
+> do not accept in a critically constituted text grammatically wrong forms
+> obviously incongruent with the rest of an author?s/scribe?s style or
+> standard, we should not accept a word for which no external corroboration
+> is available, especially if the meaning of that word (?unborn? in this
+> case) is unlikely to be confused or associated with a meaning several of us
+> have viewed as contextually likely and the expresser of that meaning gives
+> us a metrically sound text.
+>
+> I hope I make sense even if I fail to create conviction.
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160904/ddee911d/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: BuddhistSanskritintheKalacakraTantraJohnNewman1988.pdf
+Type: application/pdf
+Size: 2326628 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20160904/ddee911d/attachment.pdf>
+

@@ -1,0 +1,49 @@
+From birgit.kellner at UNIVIE.AC.AT  Sat May 30 14:55:11 2009
+From: birgit.kellner at UNIVIE.AC.AT (Birgit Kellner)
+Date: Sat, 30 May 09 16:55:11 +0200
+Subject: What Devanagari text would you most like as an e-text
+In-Reply-To: <E59AFD1D-D46C-4902-B482-AC2AFB2B84E9@uni-bonn.de>
+Message-ID: <161227086571.23782.3814955989761416292.generated@prod2.harmonylists.io>
+
+Peter Wyzlic wrote:
+> Am 30.05.2009 um 08:44 schrieb mkapstei at UCHICAGO.EDU:
+>
+>> Among philosophical works, I have not so far found
+>> e-texts of (pardon the omitted diacritical marks):
+>>
+>> Santaraksita's Tattvasamgraha and its Panjika
+>>
+>> Sarvadarsanasamgraha attr. to Sayanamadhava (or to Ceni Bhatta)
+>>
+>> Haribhadrasuri's Saddarsanasamuccaya and its comms.
+>
+> Scanned versions (without searchable e-text) are made available by the 
+> Digital Library of India (Bangalore division). Unfortunately, the 
+> access is not very user-friendly (and the URLs are not easy to cite, 
+> therefore shortened here):
+>
+> E.g. Tattvasa?graha vol. 1 ed. E. Krishnamacharya: 
+> <http://tinyurl.com/lgyrwj>
+> Tattvasa?graha, vol. 2: <http://tinyurl.com/klsykq>
+> Sarvadar?anasa?graha ed. V.S. Abhyankar: <http://tinyurl.com/l4r2l9>
+> ?a?dar?anasamuccaya ed. L. Suali: <http://tinyurl.com/m3hcux> and 
+> <http://tinyurl.com/mxwgkq>
+The Tattvasa?graha and the -pa?jik? were at some point made available as 
+e-texts by Jong Cheol Lee, as were a numer of other Buddhist texts, as 
+part of a project called "Sanskrit Database for a Polyglot Buddhist 
+Dictionary". These e-texts do circulate, but they do not seem to be 
+available for download from any website officially. I also don't know 
+what became of Lee's project.
+
+The ?a??ar?anasamuccaya (Suali ed.) was digitized by Muneo Tokunaga, 
+with Gu?aratna's commentary, and can be found here: 
+http://tiger.bun.kyoto-u.ac.jp/mtokunag/skt_texts/SaDDS.txt 
+(Kyoto-Harvard transliteration).
+
+Best regards,
+
+Birgit Kellner
+
+
+
+

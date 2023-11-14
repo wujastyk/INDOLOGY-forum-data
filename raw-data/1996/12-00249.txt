@@ -1,0 +1,59 @@
+From Claude_Setzer at fcsmtp.mum.edu  Tue Dec 17 17:36:32 1996
+From: Claude_Setzer at fcsmtp.mum.edu (Claude_Setzer at fcsmtp.mum.edu)
+Date: Tue, 17 Dec 96 11:36:32 -0600
+Subject: file corruption and 7 bit
+Message-ID: <161227027649.23782.15780345961579062076.generated@prod2.harmonylists.io>
+
+Dear Dominik,
+
+you said....
+>About the 7-bit problem; the present incarnation of the 
+>Internet protocol is inherently a 7-bit data transport 
+>system.  So even if you use an email
+>program that says it can give and take 8-bit
+> mail (mine can, for instance), it only works
+ >between certain similarly-enabled hosts.............
+
+Thank you for your nice and very informative note. I feel like we are finally
+getting down to finding some solutions, with your post and several others in
+the last few days.
+
+
+I am very sorry that I personally do not have a large amount of time to devote
+to this, but something I think would be very useful would be to compile a
+detailed list of compatible and non-compatible means of transferring 8 bit
+character/glyph sets over INTERNET.
+This could, perhaps be hosted by the Indology Web site. Based on this I think
+we might be able to arrange for all or most of the members of  Indology to
+start using this more complete system. 
+
+I have absolutely no argument with anything you said, but others seem to think
+that it is possible to transfer 8 bit character sets even when a 7 bit
+encoding scheme is used. I have found that Microsoft's (free) INTERNET mail
+software has several methods of encoding 8 bit character sets. My experiments
+seem to favor the UUencode method rather than the MIME for transfer of high
+characters. (This is the label Microsoft gives it. Their encoding labeled MIME
+seems to work less easily. Uuencode gives actual high characters, base 64
+gives gibberish, Quoted gives an = sign followed by the character number on my
+email receiver (the one that eliminates the last bit of character map when
+sending). But perhaps some simple software would reinterpret the = and
+character to give the proper glyph.)
+
+Thanks for your input!!
+
+Sincerely ,
+
+Claude Setzer
+
+
+--
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+         Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
+               ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+

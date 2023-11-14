@@ -1,0 +1,72 @@
+From james.hartzell at gmail.com  Mon Dec  9 08:43:35 2013
+From: james.hartzell at gmail.com (James Hartzell)
+Date: Mon, 09 Dec 13 09:43:35 +0100
+Subject: [INDOLOGY] Sanskrit Dictionary
+In-Reply-To: <CAO-4jUnuGz9K0Whybd2u4uJ8G2oqQ6vsMg3LS21giTygN-ZFZg@mail.gmail.com>
+Message-ID: <CAKA8X43FcnqYKt981M3fZ9-aO_EwhEDVz0Nv=hHGUe6GuZmN_w@mail.gmail.com>
+
+Thanks Peter for the information on your Integrated Sanskrit Dictionary --
+what a fantastic resource; congratulations on such a major achievement.  I
+see that your Apte also links to definitions that include the head word,
+which is a really useful feature.  It would be lovely if later versions
+could include hyperlinks within the definitions--Tony Duff built such a
+feature into his Illuminator, and it's often very handy. By the way,  I
+noticed that the links to 'Bothlink' and to 'Scharf's Ramopakhyana' don't
+seem to be working this morning.  If you could send a link to the app Ralph
+Bunker developed that would be great.
+
+Cheers
+
+
+On Mon, Dec 9, 2013 at 6:36 AM, Peter Scharf <scharfpm7 at gmail.com> wrote:
+
+> Congratulations to the Harvard team for creating another Sanskrit-English
+> Dictionary application.
+>
+> Indologists should be aware that Sanskrit dictionaries have been available
+> on the web and in other apps for some time and are currently under
+> development in a major NEH/DFG-funded project undertaken by The Sanskrit
+> Library and the University of Cologne (see http://sanskritlibrary.orgunder "Projects") or click this
+> link<http://sanskritlibrary.org/tomcat/sl/BC?name=NEHDFG2009&context=~Personnel,~Projects&title=Digital+Sanskrit+Library+Integration%3C/h1%3E>
+> .
+>
+> The Sanskrit Library currently displays (at http://sanskritlibrary.orgunder "Reference" under "Integrated Sanskrit Dictionary" an integrated
+> web interface<http://sanskritlibrary.org/tomcat/sl/FunderburkInterface?type=1>of 10 Sankskrit dictionaries.  We are currently testing on our development
+> site an expanded version with 15 dictionaries.  Our project, in conjunction
+> with the University of Cologne, will soon expand the set even further.  We
+> expect to offer the entire integrated dictionary in an app next year.
+>
+> Several years ago Ralph Bunker developed a Monier-Williams app which was
+> renewed with the organizing direction of Kaj Hoffman and programming of
+> Gabriel Vincent.
+>
+> --
+>  ******************
+> ***
+> Peter M. Scharf
+> scharf@
+> 
+> <peter.scharf at univ-paris-diderot.fr>s
+> anskritlibrary.org
+>
+> ******************
+> ***
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131209/7587f5e1/attachment.htm>
+

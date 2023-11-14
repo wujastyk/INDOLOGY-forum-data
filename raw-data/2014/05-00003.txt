@@ -1,0 +1,18 @@
+From wujastyk at gmail.com  Wed May  7 19:35:21 2014
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 07 May 14 21:35:21 +0200
+Subject: [INDOLOGY] Typing IAST transliteration in Windows 8
+Message-ID: <CAKdt-CejbJkc1BRQb4ypq+Ms813UaHmVGV29iu9hbKynO+K+0g@mail.gmail.com>
+
+I'm not a Windows user, so could someone who uses Windows 8 let me know
+what utility they find convenient for typing Sanskrit in IAST
+transliteration, in Unicode?
+
+Many thanks,
+Dominik
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140507/8c18a460/attachment.htm>
+

@@ -1,0 +1,94 @@
+From vidya at cco.caltech.edu  Mon Dec  9 06:50:11 1996
+From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
+Date: Sun, 08 Dec 96 22:50:11 -0800
+Subject: definition of sAmAnAdhikara.nya
+Message-ID: <161227027415.23782.13509771251499918599.generated@prod2.harmonylists.io>
+
+
+
+On Thu, 5 Dec 1996, John Dunne wrote:
+
+[...]
+
+>  'sabdaanaa.m tv ekasmin prav.rrttes tadvaacyaanaam aikaatmyabhrama.h /
+>  
+>  This in many ways summarizes the basic point of his comments; that is,
+>  although saamaanaadhikara.nya might appear to require that the vaacya of
+>  the expressions in question be identical, it would be mistake to assume
+>  any such identity. In making this point, Vaacaspati re-affirms the
+>  realist ontology to which he is committed.
+
+Not always. The same Vaacaspati, in his Bhaamatii, uses
+saamaanaadhikara.nya in a very different way, to come to advaita
+conclusions. tat and tvam in tattvamasi refer to the same entity, i.e.
+brahman, although usually conceived of as limited by different adjuncts.
+Here, Vaacaspati has given up the contention that it is a bhrama to insist
+on aikaatmya. 
+
+To clarify, within each work of his, Vaacaspati is faithful to the school
+he is expounding, so it is not as if Vaacaspati is himself committed to a
+realist ontology. Rather, nyaaya is committed to a realist ontology, and
+Vaacaspati is being faithful to nyaaya in the taatparya-.tiikaa. 
+
+>  
+>  For the purposes of this discussion, what is interesting about the above
+>  quoted statement is simply that Vaacaspati appears to presume the same
+>  type of gloss given by Kar.nakagomin, Raamaanuja, and so forth.
+>  
+
+Note however, that even Raamaanuja accepts that tat and tvam refer to the
+same entity in tattvamasi, although he explains it in terms of a
+'sariira-'saariirin analogy, instead of the limiting adjuncts of Advaita
+Vedaanta. 
+
+It seems to me that saamaanaadhikara.nya is used in many different ways
+depending upon context, and depending upon the intention of the author. I
+do not think that the majority of Indian philosophers used it in only in
+one particular way. For example, even advaitins, e.g. Sure'svara, notice
+that normally saamaanaadhikara.nya requires a sambandha (e.g. of
+vi'seshana and vi'seshya) between the two terms (as in 'sukladadhi), but
+reject this requirement in favor of a jahadajahallaksha.na which is
+possible on a different application of saamaanaadhikara.nya, on the
+grounds that no such sambandha can be postulated between tat and tvam.
+Specifically, this interpretation requires a real identity of the two
+vaacyas, which is the only relation between "tat" and "tvam", at least in
+Advaita Vedaanta. 
+
+>  Birgit also suggests that "co-referentiality" is the best translation,
+>  but I am not particularly satisfied with it. The problem is that this
+>  translation raises the entire issue of "reference," which, given its uses
+>  in Euro-american philosophy, can be quite misleading in the Indian
+>  context. On Vaacaspati's Naiyaayika ontology, for example, what would be
+>  the "referents" of the two terms in the expression *'sukladadhi*? On
+>  Vaacaspati's view, one should argue that the "referents" of the terms
+>  must be distinct. Hence, it would be a mistake to say that both of these
+>  terms "refer" to the dravya, but on the most straightforward
+>  interpretation of "reference" as it is used these days, this is what the
+>  translation "co-referentiality" would suggest.
+>  
+>   The advantage of "co-instantiation" is that it points to the manner in
+>  which the vast majority of Indian philosophers conceived of
+>  saamaanaadhikara.nya; that is, it is a state of affairs in which two
+>  entities are somehow instantiated in the same locus such that the 'sabda
+>  for those entities are applicable to (or "refer to") that same locus. A
+
+"Co-instantiation" seems to require that the two entities that are
+instantiated in the same locus are necessarily different. The question 
+also arises whether the two entities being instantiated are the same as or 
+different from this locus, and so on. This would clearly be misleading in
+a discussion of Advaita Vedaanta, which certainly accounts for a great 
+number of Indian philosophers, probably more than most other schools. To
+me, it seems that saamaanaadhikara.nya plays the role of co-instantiation
+in some contexts and co-referentiality in others. 
+
+How about coordinate predication? I have seen this used in translations of
+both Advaita and Vi'sish.taadvaita works by Indian authors.
+
+S. Vidyasankar
+
+
+
+
+
+
+

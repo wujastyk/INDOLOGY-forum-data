@@ -1,0 +1,39 @@
+From John.Powers at anu.edu.au  Mon Jul  7 06:47:24 1997
+From: John.Powers at anu.edu.au (John.Powers at anu.edu.au)
+Date: Mon, 07 Jul 97 17:47:24 +1100
+Subject: Sanskrit OCR
+Message-ID: <161227031426.23782.11393565503028658625.generated@prod2.harmonylists.io>
+
+David Dargie asks:
+
+>I think I am safe in assuming that no-one has yet developed an optical
+>character recognition (OCR) system for the devanagari script.
+
+In the case of a typeset manuscript (as opposed to a handwritten one), it's
+theoretically possible, but the time involved to make it work is probably
+prohibitive, since the program would have to be taught how to read
+different manuscripts. With the new teachable programs, typeset manuscripts
+could be read with varying degrees of accuracy, but in the case of
+consonant clusters, there would inevitably be some errors, and it would
+probably be much faster to type it.
+
+go, but I have not heard any more about it.
+>
+>In any case, does anyone know of an OCR system that is accurate for roman
+>transliteration.  Has anyone tried to input text in this way?
+>
+I have done this, but the problem is that I haven't seen any program that
+can accurately read diacritical marks. Some of them do come out pretty
+well, and can be changed globally, but there are so many errors that it's
+still faster to type it manually, and probably generally more accurate.
+
+John Powers
+Faculty of Asian Studies
+Australian National University
+
+
+
+
+
+
+

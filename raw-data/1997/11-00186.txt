@@ -1,0 +1,46 @@
+From kappa-y at SH0.PO.IIJNET.OR.JP  Mon Nov 17 12:53:58 1997
+From: kappa-y at SH0.PO.IIJNET.OR.JP (Yasuhiro Okazaki)
+Date: Mon, 17 Nov 97 21:53:58 +0900
+Subject: New Mac Software for TeX
+Message-ID: <161227033746.23782.5794051856243030283.generated@prod2.harmonylists.io>
+
+Dear Members
+I have uploaded the three preprocessor of Tibetan LaTex,
+Wikner's Skt and  itrans compiled for Macintosh to
+ ftp.ucl.ac.uk
+
+in the directory
+
+  /pub/users/ucgadkw/indology/software
+And Dr. Wujastyk wrote a kind readme for these programs.
+
+They have Mac interface, though it is poor, and are linkable with OzTeX.
+The source codes that I have used are based on the newest version of
+them. So if somebody want to use my program, he get the following versions.
+1) Tibetan LaTeX: Sam Sirlin's version
+
+2) Wikner's SKT: version 2.0
+
+3) Itrans: version 5.1
+
+1) and 2) can be gotten from, for example,
+ftp://ftp.cs.rmit.edu.au/tex-archive/languages/,
+ftp://ftp.cs.rmit.edu.au/tex-archive/languages/, etc., and 3) from
+http://www.paranoia.com/~avinash/itrans.html.
+Happy texing !
+
+If you find some bugs or feel uneasiness, please tell me.
+
+Best Regards
+Yasuhiro Okazaki
+613-2 Arima, Chiyoda-cho,
+Hiroshima-ken, Japan 731-15
+TEL&FAX +81-826-72-8851
+Office Hiroshima Prefectual Kabe High School
+TEL +81-82-814-2032
+E-mail: kappa-y at sh0.po.iijnet.or.jp
+           : khb12400 at niftyserve.or.jp
+
+
+
+

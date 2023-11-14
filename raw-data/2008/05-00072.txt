@@ -1,0 +1,56 @@
+From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Fri May 23 17:10:53 2008
+From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
+Date: Fri, 23 May 08 19:10:53 +0200
+Subject: cha
+In-Reply-To: <FE999E05-B356-46A3-BEF0-128B9B437717@brown.edu>
+Message-ID: <161227082703.23782.6120773562736342932.generated@prod2.harmonylists.io>
+
+Since nobody seems to have mentionned it,
+it might be useful to state here that
+in volume 1 of the
+"Catalogue of Jain Manuscripts of the British Library"
+(by Nalini Balbir, Kanhaiyalal V. Sheth,
+Kalpana K. Sheth and Candrabhal Bh. Tripathi)
+[The British Library & The Institute of Jainology, London, 2006]
+{ISBN 0 7123 4711 9}
+we find on p.16 (Abbreviations) the following mention:
+
+"[x]  the way to represent the cha, a symbol found at the end of 
+manuscripts."
+
+I hope this is useful
+
+-- Jean-Luc Chevillard (CNRS, Paris)
+
+
+Peter M. Scharf a ?crit :
+> Dear Colleagues,
+>     I would like to request your help in answering a question 
+> regarding how to name or categorize a certain character in the Unicode 
+> Standard.  Many Indic manuscripts use a decorative character that 
+> looks like a devanagari cha without the horizontal bar to fill space 
+> between dandas or double dandas at the end of manuscripts or between 
+> chapters of a manuscript.  (flower shapes are often used similarly.)  
+> Have any of you seen the "cha" pu.spikA in manuscripts or publications 
+> of Buddhist, Jain, or other clearly non-Vedic (in the broadest sense 
+> of the term) textual traditions?  If so, could you provide a reference 
+> and or a digital image?
+>     Thanks.
+>     Peter
+>
+>
+>
+> *********************************************************
+> Peter M. Scharf                           (401) 863-2720 office
+> Department of Classics             (401) 863-2123 dept.
+> Brown University
+> PO Box 1856                               (401) 863-7484 fax
+> Providence, RI 02912                Scharf at brown.edu
+> http://www.brown.edu/Departments/Classics/people/facultypage.php?id=10044
+> http://sanskritlibrary.org/
+> *********************************************************
+>
+
+
+
+

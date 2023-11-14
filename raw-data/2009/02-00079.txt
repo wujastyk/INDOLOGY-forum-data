@@ -1,0 +1,60 @@
+From kauzeya at GMAIL.COM  Tue Feb 17 14:38:17 2009
+From: kauzeya at GMAIL.COM (Jonathan Silk)
+Date: Tue, 17 Feb 09 15:38:17 +0100
+Subject: frequencies
+In-Reply-To: <63f8ba07cee0a922e84a9bf72ef663e9.squirrel@webmail.uoa.gr>
+Message-ID: <161227084894.23782.4455339122563903764.generated@prod2.harmonylists.io>
+
+Just a quick note (in addition to correcting the misprint pointed out by
+Jan--yes, of course, linguist!): Whether or not one wants to include the
+lexicon of Buddhist texts as "Sanskrit"--and there was long ago more than
+one discussion about this, about whether we also want to speak of Jaina
+Sanskrit, architectural Sanskrit and so on--the language of these texts is
+not in any sense "derived from Pali". While the two are related, to be sure,
+and some portion of Buddhist(ic) Sanskrit vocabulary may have been borrowed
+or adapted from Middle Indic (--that is, *some* Buddhist[ic] Skt is
+'Sanskritized Prakrit'), I am not aware of any case in which it can be shown
+that the Middle Indic in question is Pali (but I have not looked into
+this--has anyone?).
+
+This is slightly off the topic, but the point is that if one wants to decide
+to exclude particularly Buddhist lexica from a lexicon of Skt, the grounds
+for this cannot be that the words are not Skt.
+
+On Tue, Feb 17, 2009 at 2:39 PM, Alexandra Vandergeer
+<geeraae at geol.uoa.gr>wrote:
+
+> Naturally, but the same is valid for present-day English. Frequency lists
+> are based on a wide spectrum, including newspapers, books, literature,
+> spoken language, but not necessarily poems. In the case of Skt, I'd expect
+> epics, philosophical texts in the broadest sense, shastras, [Buddhist
+> texts not, likely derived from Pali] to give a reasonable sample of the
+> Sanskrit language as is.
+>
+> And I agree with Jonathan that the lexicon suggested by Himal is likely a
+> 'useful' vocabulary to read avarage Skt texts. Anyway, thanks Himal for
+> the suggestion.
+>
+> Alexandra van der Geer
+> Athens
+>
+> > I am not sure whether the question is even meaningful for classical
+> > Sanskrit. Frequency where? In Epic literature? In philosophical
+> > literature? In dharmasaastra or Buddhist texts? Each genre has its own
+> > special vocabulary, and its own frequencies.
+> > Best wishes
+> > EF
+>
+
+
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+
+

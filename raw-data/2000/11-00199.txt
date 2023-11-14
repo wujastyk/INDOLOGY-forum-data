@@ -1,0 +1,53 @@
+From vsundaresan at HOTMAIL.COM  Wed Nov  8 21:29:07 2000
+From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
+Date: Wed, 08 Nov 00 21:29:07 +0000
+Subject: Analogies,              valid and invalid (was Re: Scenario of language replacement)
+Message-ID: <161227063809.23782.6011395854015291965.generated@prod2.harmonylists.io>
+
+>I've heard counterarguments like Arun Gupta's repeatedly, but
+>they always overlook a glaring problem. Indo-European languages
+.....
+>Anatolia, Greece, and the Italian peninsula. The Indian problem
+>is not as unique as chauvinistic writers make it out to be.
+
+Alas, here we go again. I daresay Arun Gupta can respond to this himself,
+but I need to make certain points here, as the points he raised struck me as
+curious too. This post is addressed to all those who agree with Steve
+Farmer's comments quoted above.
+
+1. Just as "Western Indologists" do not all want to be clubbed together into
+one stereotypical category, "Indian amateurs" do not want to be stereotyped
+either. To make a comment about the analogies used by Parpola (and by most
+everybody else in "mainstream" academia) is not to be chauvinistic about
+India. Every once in a while, can we just discuss issues, instead of
+attitudes?
+
+2. Those list members who are interested in Indian philosophical thought may
+appreciate the following. Some schools of thought accept perception
+(pratyaksha), inference (anumAna), analogy (upamAna), postulation
+(arthApatti), non-being/non-availability (abhAva/anupalabdhi) and testimony
+(Sabda) as valid sources of gaining knowledge. Other schools, e.g. the nyAya
+school of logic, accept only three, perception, inference and testimony,
+taking the others to be special cases of inferential argument. In the nyAya
+structure of valid logical argument, analogy does find a role, through the
+example (d.r.s.tAnta) that needs to be cited to make the argument complete.
+If the example does not satisfy the conditions of the propostion sought to
+be proved, the argument is invalid.
+
+3. In modern science, analogy plays an important role. When people first
+discovered that electricity can flow, they tried to understand it through
+analogy with fluid flow. It succeeded quite well, at least with respect to
+Newtonian fluids and current through a simple ohmic resistor. Electric
+current was analogous to flow rate and voltage was analogous to pressure
+drop. It succeeded so well that today students first learn about electricity
+and when they come to learn about fluid flow, they are taught to first think
+of it in terms of electric flow. When we model new things based on our
+knowledge of previously known things, we look for at least a few points of
+similarity. If we can't find them, we reject the proposed model and look for
+better models. All this is simply to say that although Aristotleian logic
+does not put much emphasis on the validity of analogy, human beings look for
+existing examples of something similar when trying to understand a new
+phenomenon. If the analogy fails on certain counts, our understanding of the
+new phenomenon correspondingly fails or remains faulty, till something else
+happens to improve the state of knowledge.
+

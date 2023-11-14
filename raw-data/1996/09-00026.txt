@@ -1,0 +1,114 @@
+From vidya at cco.caltech.edu  Mon Sep  9 22:22:09 1996
+From: vidya at cco.caltech.edu (Vidyasankar Sundaresan)
+Date: Mon, 09 Sep 96 15:22:09 -0700
+Subject: typing Sanskrit an other Indian languages
+Message-ID: <161227025925.23782.6137011574897880974.generated@prod2.harmonylists.io>
+
+
+On Sat, 7 Sep 1996, Leslaw Borowski wrote:
+
+> 
+> I) Is it useful to have a Roman script transcription of Indic languages for 
+> presentation (on a computer screen or in a printed form)? 
+> I think it is. Reasons: 
+
+I agree that it is useful to have Roman script transcription of Indic
+languages for computer screens. However, I think we must remember that the
+computer screen is, for all purposes, a different medium than paper. This
+has implications for some of the points below.  
+
+> II) What features should such a system of transcription possess?
+> I think it should:
+> 
+> 1) be close to traditional (especially internationally accepted) systems of
+> transcription for languages in question.
+
+This may be desirable, but here it is important to remember that the
+traditional system of transcription is meant for printed matter. Computers
+being more than a medium to present text, it is conceivable that a scheme
+evolved for computer screens differs widely in some repects from the
+accepted transliteration schemes. 
+
+
+> * It would be no major problem if the same sounds were rendered by
+> different sets af signs in different languages (that is their respective
+> systems of transcriptions) especially when the languages are either very
+> different or spoken by people who leave far away from one another. You can
+> always mark the language the word belong to in case of doubt eg. skr.
+> 
+> 2) It should not go against internationally accepted conventions of using
+> Roman script (like usage of capital letters). Let us not get mistaken by
+> names like INTRANS which are rather expression of aspiration (and tool of 
+  ^^^^^^^^^^^^^^^^^^^^
+
+You are talking of ITRANS, I suppose. 
+
+> promotion) than real respect for international conventions.
+
+I beg to differ, especially on the use of capital letters. If an entire
+text is to be transcribed, there is no reason why conventions of Roman
+script should be strictly adhered to. The Roman script becomes simply a
+convenient medium to present a text in a non-European language. 
+
+Conventions regarding the use of capital letters are not uniform. In
+English, one does not use the capital letter to begin every noun. In
+German, I still see the use of capital letters for every proper and common
+noun. I don't know how it is in Swedish or some other European language,
+but I can generally identify that a scientific paper is by an author from
+Europe, if it uses capital letters in words like "Sulphuric Acid" or
+"Carbon", even in the middle of a sentence. These words would not be
+capitalized by British, Indian and American authors, unless they occur at
+the beginning of the sentence. 
+
+Given these differences in conventions among the traditional users of
+Roman script, I see nothing problematic with using capital letters for
+transcription, especially if there are easy software solutions that
+convert the transcribed text to an Indic script. These conventions are
+still ad-hoc, but the governing motive is ease of use, rather than any
+ambition for self-promotion. 
+
+For example, in a web-page that talks of advaita and Sankara, it is
+tedious to use an extra sign (either before or after the s) every time.
+The resulting text also looks awkward. Neither ";Sa.nkara" nor "S;an.kara" 
+is very appealing. It is easier to simply denote it as "S", and reserve 
+the lower-case letter "s" for the sibilant. This is important because
+there is no key combination which will allow me to put the acute symbol on
+top of the letter s. This is not a problem for the print media. Right here
+is a major difference between computer key-boards and conventional print
+media. Similarly with the long vowels and the cerebral consonants. It
+becomes tedious to write "ii;sa", "aananda", "tiirtha", "ma.tha" etc. when
+I can easily write "ISa", "Ananda", "tIrtha", "maTha" and so on. You
+simply mark the language as Sanskrit or Hindi or whatever else, and cease
+to expect European conventions for the use of the Roman script.
+
+This peculiar use of capital letters, if accepted on a popular level, will
+just become another convention for computer-oriented use of the Roman
+script for Indic languages. There is no reason why transliteration
+conventions developed in the context of print media should restrict those
+developed for computer screens. For the sake of continuity, the existing
+conventions may be taken as normative, but need not become prescriptive.
+
+
+> 4) It should be relatively easy to type for many people (and not only to
+> a few martyrs who produce devanagari electronic texts and differ largely
+> in their ways; my high regards and thanks to them for their benedictine work) 
+
+The use of capital letters satisfies this criterion too, does it not?
+There is no introduction of extra characters to serve as diacritical
+marks, and no bothering with whether the mark comes before or after a
+letter. All one has to do is to hold down the shift key, and the
+assignation of characters becomes very logical. a = a , shift-a = A, and
+so on.
+
+Regards, 
+
+S. Vidyasankar
+
+
+
+
+
+
+
+
+

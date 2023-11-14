@@ -1,0 +1,79 @@
+From Antoine.Leca at RENAULT.FR  Thu Apr 13 11:01:30 2000
+From: Antoine.Leca at RENAULT.FR (Antoine Leca)
+Date: Thu, 13 Apr 00 13:01:30 +0200
+Subject: Vedic Characters & Unicode
+Message-ID: <161227057779.23782.4038329081580100817.generated@prod2.harmonylists.io>
+
+Messieurs,
+
+[ copies to both Indology and Unicode lists. ]
+
+> Date: Tue, 11 Apr 2000 09:20:59 -0400
+> From: John Robert Gardner <jrgardn at EMORY.EDU>
+> Reply-To: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+> To: INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject: Re: Vedic Characters & Unicode
+>
+> It is my understand that the vedic accent set, and quite a large one at
+> that, is part of std. subsequent to ISCII-1988 (My copy is not here in the
+> office), and this set is part of Annex G of the set.
+
+Minor point: Is it ISCII-1988, or ISCII-1991 ?
+
+>  It's complete, but not implemented anywhere I know of. [...] It
+> was IS 13194:1991 (which is out of synch with Unicode 1.0, though unicode
+> is a superset of ISCII:1991).  Alas, Annex G is expressly excepted from
+> [Unicode].
+
+Well, Unicode have four characters that are intended be used for Vedic:
+  0951;DEVANAGARI STRESS SIGN UDATTA;Mn;230;ON;;;;;N;;;;;
+  0952;DEVANAGARI STRESS SIGN ANUDATTA;Mn;220;ON;;;;;N;;;;;
+  0953;DEVANAGARI GRAVE ACCENT;Mn;230;ON;;;;;N;;;;;
+  0954;DEVANAGARI ACUTE ACCENT;Mn;230;ON;;;;;N;;;;;
+
+Problems are, what are they supposed to mean, and how should they be used?
+
+The problem is particularly acute (sorry) for the two "accents",
+since I never saw accents used with Devanagari, but rather with Latin
+transcriptions or translitterations. So what was the initial intent here?
+
+Then come the "stress signs". ISCII-91, and most sources I had read
+on this matter, distinguish three "signs": udatta, anudatta and svarita
+(resp. high "tone", low or lacking "tone", and combined raise and
+falling "tone"); it seems that tradition is well established for them
+to be represented *in*transcription* as resp., acute accent, no accent,
+and grave accent. On the other hand, use of these "stress signs" in
+Devanagari does not appear to be consistent among the varying Veda
+and vedic texts: for example, I understand that Rigveda (the most
+important text) uses nothing for udatta, the sign represented as U+0952
+for anudatta and the sign U+0951 for svarita. But others uses U+0951 for
+udatta (Yajurveda's Maitrayaniya, according to ISCII-91), or U+0952 for
+the only accent noted in Shatapatha (there is discussion on this
+subject, for example see <URL:http://vedavid.org/accent.html>).
+
+
+ISCII-91 is mentionning (among others) kampa, and show for it two forms,
+according to length: being Devanagari figure 1 (U+0966) or figure 3 (U+0968)
+marked with both signs figured by U+0952 and U+0951 in Unicode.
+I *guess* these should be encoded as resp. \u0966\u0953\u0952 and
+\u0968\u0953\u0952, but I would like to have some confirmation from
+the Unicode gurus.
+
+Also, ISCII-91 mentions another special sound(s), described as half-visarga,
+and known as jihvamuliya before gutturals (ka, kha), and upadhmaniya before
+labials (pa, pha). ISCII-91 gives only one sign (looking like a x-cross),
+but Pr. Stone gives detailled explanations on this matter and shows
+two signs (<URL:http://ourworld.compuserve.com/homepages/stone_catend/tr4.htm#p7>)
+Does they have to be uniformly encoded in Unicode as visarga U+0903?
+
+
+Thanks in advance for your answers,
+
+
+Cordialement,
+
+Antoine Leca
+
+
+
+

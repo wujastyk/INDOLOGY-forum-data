@@ -1,0 +1,17 @@
+From mkapstei at MIDWAY.UCHICAGO.EDU  Thu Feb 27 10:28:56 2003
+From: mkapstei at MIDWAY.UCHICAGO.EDU (Matthew Kapstein)
+Date: Thu, 27 Feb 03 04:28:56 -0600
+Subject: XML/TEI-Sanskrit texts, anyone?
+In-Reply-To: <9898062.1046369295@[192.168.2.0]>
+Message-ID: <161227072416.23782.16990879629445179475.generated@prod2.harmonylists.io>
+
+A model Tibetan language project using XML is
+the Samantabhadra archive project at the
+University of Virginia. You can find
+it through www.thdl.org
+
+Matthew Kapstein
+
+
+
+

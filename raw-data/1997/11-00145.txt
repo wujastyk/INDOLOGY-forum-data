@@ -1,0 +1,44 @@
+From bhk at HD1.VSNL.NET.IN  Sat Nov 15 04:54:04 1997
+From: bhk at HD1.VSNL.NET.IN (Bh. Krishnamurti)
+Date: Sat, 15 Nov 97 09:54:04 +0500
+Subject: Roman transliteration of Tamil n's
+Message-ID: <161227033667.23782.7329378539941441977.generated@prod2.harmonylists.io>
+
+At 09:51 14/11/97 -0500, you wrote:
+>In a message dated 97-11-14 08:44:24 EST, bhk at HD1.VSNL.NET.IN writes:
+>
+><<  Like Old Tamil,Old Telugu and
+> Old Kannada also had two r's but in modern languages there is only one; the
+> trill R merged with the flap r. Only Tamil scholars try to distinguish the
+> two in reading. In some cases older n_t became n_r in Old Tamil, Old Telugu,
+> and the other South-Central Dravidian languages,e.g. Old Tamil muunRu (mdn.
+> muuNN.u), Old Telugu muunRu, later muuNDu/muuDu, KonDa muunRi 'three'. >>
+>
+>Sri Lankan Tamil dialect maintains the distinction between "r" and "R". So
+>does Malayalam. Malayalam also maintains alveolar stop "R" in geminate ("RR"
+>pronounced like English "tt") and in post-nasal ("n2R" pronounced as English
+>"nd") contexts. I believe this also applies to some dialects in parts of
+>Tirunelveli and Kanyakumari districts.
+>
+>Regards
+>
+>S. Palaniappan
+
+Yes, I did not go into other details. It is true that Jaffna Tamil,
+Malayalam and Toda preserve the distinctiion of the two r's.I was addressing
+the limited question of how to phonetically define and transliterate the
+different n's, l's and r's that Ganesan was interested in. In modern spoken
+Tamil, word initial n is also an alveolar and not a dental as it is in
+Modern Malayalam. In Old Tamil word initial n was described as a dental, as
+also the n preceding dental stops; elsewhere it was an alveolar (except for
+three words werin, porun, etc.). In spoken Telugu and Kannada also word
+initial n is a post-dental/alveolar. Dental n occurs only before dental
+stops. For Modern Malayalam we need seperate symbols for dental  n and
+alveolar _n/n'.Malayalam is one of the few languages in the world with six
+phonemic nasals which may be transliterated in text mode as: bilabial m,
+dental n, alveolar _n or n', palatal ~n, retroflex N, velar ,n.
+Bh. Krishnamurti.
+
+
+
+

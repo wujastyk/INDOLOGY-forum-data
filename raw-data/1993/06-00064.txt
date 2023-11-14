@@ -1,0 +1,39 @@
+From EVERSON at IRLEARN.UCD.IE  Tue Jun 29 18:00:04 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Tue, 29 Jun 93 18:00:04 +0000
+Subject: WNRI outline fonts available for ftp
+Message-ID: <161227015946.23782.1371516588656614007.generated@prod2.harmonylists.io>
+
+Thomas' Washington Romanized Indic fonts are _not_ Macintosh ready!
+I received the file WNRIR.TTF today and it is only a text file.
+It is possible to _translate_ this to a Mac TrueType format
+by changing the filetype to BINA and the creator type to mdos and
+then opening the font in Fontographer and saving it as a
+Mac TrueType font. Obviously not everyone has Fontographer so
+I'll be happy to convert them into a readable format and then
+send them to blackbox.hacc.washington.edu or directly to Thomas
+so he can put them there. I would suggest creating a folder
+just for Mac versions and another for the PC versions already there.
+ 
+I have some misgivings still about the suitability of one-to-one
+mapping of CSX PC encoding to the Macintosh format. This is because
+utilities which routinely transfer text from one format to the other
+(say from WordPerfect DOS to MacWrite) automatically perform
+character substitution between the two character sets--so as far as
+I can see the Mac CSX layout will have to be different. Would anyone
+like to help me test this? It should be simple. I'll upload a very short
+text, say a few pieces of the Cha/ndogyopanis*ad in 7-bit format.
+Someone who uses a PC and Thomas' new fonts (or any canonical PC CSX
+font) will reset the text into a WordPerfect document, .ZIP it up
+and send it to me. I can unzip it and try to transfer it to my Mac.
+Then we'll see if it works. Anyone game?
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

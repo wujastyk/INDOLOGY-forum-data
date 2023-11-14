@@ -1,0 +1,61 @@
+From reusch at UCLINK4.BERKELEY.EDU  Wed Jun 17 06:29:35 1998
+From: reusch at UCLINK4.BERKELEY.EDU (B. Reusch)
+Date: Tue, 16 Jun 98 23:29:35 -0700
+Subject: saras 2
+In-Reply-To: <l03020900b1abb25bff58@[134.59.129.67]>
+Message-ID: <161227039900.23782.13020015522692774608.generated@prod2.harmonylists.io>
+
+Dominique.Thillaud wrote:
+
+>It could be perhaps useful to have the Sanskrit text,
+
+>"with reference to these" being the key.
+
+
+Although George already posted the Skt. for NighaNTu 1.11 and Nirukta
+2.23, I am pasting it all together here along with a few more details
+on VAc, for easy reference.
+
+
+NighaNTu 1.11:
+
+
+zlokaH | dhArA | ifA [f = Vedic L]| gauH | gaurI | gandharvI | gabhIrA
+| gambhIrA | mandrA | mandrAjanI | vAzI | vANI | vANIcI | vANaH | paviH
+| bhAratI | dhamaniH | nAfI [in some MSS nIliH] | mefiH | menA [in some
+MSS meniH]| sUryA | sarasvatI | nivit | svAhA | vagnuH [in some MSS
+gagnuH] | upabdiH | mAyuH | kAkut [in some MSS kAkup] | jihvA | ghoSaH
+| svaraH | zabdaH | svanaH | Rk | hotrA | gIH | gAthA | gaNaH | dhenA |
+gnAH [in some MSS gnA] | vipA | nanA [in some MSS nagnA] | kazA |
+dhiSaNA | nauH | akSaram | mahI | aditiH | zacI | vAk | anuSTup |
+dhenuH | valguH [in some MSS vagnuH] | galdA | saraH [in some MSS
+rasaH] | suparNI | bekurA-iti saptapaJcAzadvAGnAmAni || 11 ||
+
+
+George:
+
+"p.s. I wonder if there is any significance to the variant reading for
+saras: rasaH."
+
+
+Out of the above 57 names of vAc, Nirukta elaborates only on one:
+sarasvatI, which "is [the only one] used both in the sense of 'a river'
+and of 'a deity' in Vedic passages" (nadIvad devatAvacca nigamA
+bhavanti).
+
+As I see it, this is the sense of "whith reference to these," which is
+L.S.'s translation of *tatra* in Nir. 2.23 below.
+
+
+Nirukta 2.23:
+
+
+vAGnAmAnyuttarANi saptapaJcAzat | vAk kasmAd | vaceH | tatra
+sarasvatItyetasya nadIvad devatAvacca nigamA bhavanti | tad yad
+devatAvadupariSTAt tad vyAkhyAsyAmaH | athaitannadIvat || 23 ||
+
+
+L. Sarup's (complete) translation of Nirukta 2.23:
+
+
+'The following fifty-seven (words) [in the NighaNTu] are synonyms of

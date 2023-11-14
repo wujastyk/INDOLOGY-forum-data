@@ -1,0 +1,65 @@
+From JACOCK01 at ULKYVM.LOUISVILLE.EDU  Wed Feb 23 21:06:34 1994
+From: JACOCK01 at ULKYVM.LOUISVILLE.EDU (Jim Cocks)
+Date: Wed, 23 Feb 94 16:06:34 -0500
+Subject: South Asia Internet lists
+Message-ID: <161227016576.23782.13769385341747149295.generated@prod2.harmonylists.io>
+
+
+Hi Haines,
+
+You've probably had all the answers to your Indology query that you
+want :-)  I pass this on just in case.
+
+Cheers,
+ Jim Cocks
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+>BUDDHIST at JPNTOHOK.         Indian and Buddhist Studies  [not
+>           sure this node functions as listserver]
+>                BUDDHIST at JPNTUVM0      (peer)    [list functional as of 2-94]
+
+ JPNTUVM0 functions as the listserver for BUDDHIST.
+
+>INDIA at PCCVM.               The India List.  [? Not at PCCVM 2-94.
+>           Defunct?][a sub request forwarded to Listserv at cunyvm,
+>           where it apparently died.]
+
+ This list is active at CUNYVM.  I had no trouble subscribing
+ just now.
+
+>INDIA-D at vm.temple.edu.    (bitnet: TEMPLEVM)  The India
+>           News and Discussion
+>INDIA-D at UKCC.uky.edu.      India News and Discussion Network
+
+ INDIA-D is the digest version of INDIA-L.  The list is peered
+ with peer nodes  TEMPLEVM, UKCC, UTARLVM1
+
+>INDIA-L at UKCC.       uky.edu.  India News Network
+>INDIA-L at vm.temple.edu.    (bitnet:  TEMPLEVM)  India News
+>           Network [are these three lists peers?]
+>INDIA-L at UTARLVM1.         India interest list
+
+ INDIA-L is peered at TEMPLEVM, UKCC, UTARLVM1
+
+>PAKISTAN at asuvm.inre.asu.edu.  (bitnet: ASUACAD).  Pakistan News
+>           Service
+>PAKISTAN at PSUVM.psu.edu.   Pakistan News Service [are these
+>           two lists peers?]
+
+ Yes, PAKISTAN is peered at ASUACAD and PSUVM  which have as
+ Internet addresses  asuvm.inre.asu.edu  and  psuvm.psu.edu
+
+>INDIANWS at PCCVM.           (journal) The India List (NeWS) [no
+>           longer at PCCVM 2-94; defunct?]
+
+ I can find no listing for INDIANWS at PCCVM.
+
+ There is also the academic discussion list for Buddhist issues,
+ BUDDHA-L, housed here at ulkyvm.louisville.edu  or  its BITNET
+ node  ULKYVM.
+ 
+
+
+
+
+

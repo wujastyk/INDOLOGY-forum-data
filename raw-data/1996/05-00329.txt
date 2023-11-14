@@ -1,0 +1,125 @@
+From witzel at HUSC3.HARVARD.EDU  Mon May 20 22:53:52 1996
+From: witzel at HUSC3.HARVARD.EDU (witzel at HUSC3.HARVARD.EDU)
+Date: Mon, 20 May 96 18:53:52 -0400
+Subject: PTS style Tipitaka CD-ROM ...$150
+Message-ID: <161227024746.23782.6467795387554271685.generated@prod2.harmonylists.io>
+
+
+
+L.S. COUSINS wrote on the threelectronic Pali Tipitakaversions:
+
+> 1. Mahidol University (Thailand) with the DOS program BUDSIR.
+> This is the Thai script version of the Pali Canon and Commentaries.... 
+> some errors...  data  encrypted.... no
+> cross-references to PTS page numbers
+
+<NB: the numbering used inside the texts themselves also differs between 
+PTS and Thai versions!>
+
+> 2. IBRIC  (Sri Lanka)
+> This is the 'free' version, based upon the edition in Sinhala script. Only
+> the Canon... freeware ...for searching on the Mac ... does contain 
+> references to <most> PTS editions ...  still an uncorrected version.  You 
+> can of course put the texts on your hard drive. 
+> 
+> 3. Dhammakaaya Foundation (Thailand)
+> ... based upon the PTS edition of the Canon. It includes a DOS version
+> of a search program with various facilities. (Searching 1) by word or
+> phrase; 2) by page and line; 3) context; 4) word index to the Canon.)  Due
+> out in June. 
+> A more advanced version for Windows together with the
+> Commentaries is promised for December 1997 and a Mac version soon after
+> that. 
+
+  NB: SEE SEPARATE, forthc. ANNOUNCEMENT on this list.
+
+<D. Wujastyk>: 
+> > I think the people publishing CDROM versions for money
+> >have failed dramatically to evaluate the publishing situation correctly.
+<L. COUSINS:>
+> I don't think it is as simple as this. Even when the final versions are out
+> (and others to come?), textual scholars will find the differences between
+> the Thai, Sinhala and Roman editions important (and useful).
+
+OF COURSE: and not just "textual scholars" but anybody who has worked a
+little bit with Pali texts knows that there are a lot of
+textual/transmission problems in the texts. <<Cf. now also J. Silk's
+message>>.This is not the Rgveda which has come down orally/written
+without (almost) any changes. As O. v. Hinueber has frequently shown, the
+Pali Canon has been subject to constant redactorial change even late in
+this millennium. 
+
+Clearly, it makes a difference, e.g., if a king deals, in matters of
+state, with caara "spies" or cora "thieves"... (even if tax officials
+anywhere seem to combine both aspects). 
+
+Anybody who wants to work with a reliable text has to make use of the 4
+versions represented by the PTS editions and which are now available on
+the new CD-ROM (Sinhala, Burmese, Thai and Cambodian) -- though,
+unfortunately, it now comes with a price tag of $150, differently from the
+original intent of the Dhammakaya Foundation (as announced in Sept. 93). 
+
+This version also has the avantage that it allows to search for other 
+mistakes of the type described above (cora/caara) -- and that will allow 
+you to solve your textual problems more easily as you will find plenty of 
+evidence of such mistakes. In short: scholars who pay attention to the 
+*exact* wording of the text need *this* electronic version.
+
+If you are content, however, with just having *any* version (to have a
+rough idea of the text/context) you can use the electronic Sinhala or Thai
+versions or just use the printed 5-6 versions. (In that case, as has been
+pointed out by others, you will loose some time in finding the
+corresponding PTS version.)
+
+
+> I agree
+> that when IBRIC completes their work this may be the most useful starting
+> point for many people. Of course, prices of the other two may come down or
+> even disappear eventually.
+
+WE HOPE SO, and cf. the original Dhammakaya announcemnet of Sept. 93...
+
+> One needs to remember that these are mostly volunteer projects and there
+> may be limits as to what they are capable of doing initially.
+
+THAT remains to be seen. I know that the 400 Dhammakaya volunteers have
+typed in the text with (very) good accuracy. Since then, the texts have
+been proofread several times. They also have typed in commentaries and
+*other* very useful materials. It remains to be seen what the PTS will allow
+on CD. 
+
+> The PTS obviously has a right to seek to protect its market (particularly
+> that to libraries).
+
+That might be so. The copyright question, however, is moot.I wonder how you 
+can claim copyright on, say Oldenberg's ed. of the Vinaya made a hundred
+years ago, when the PTS began to copyright its texts only in the Sixties...
+Let some clever British lawyers figure that out.
+
+> I suspect myself that they are worrying unnecessarily
+> but it is certainly important to be able to continue to produce new Pali
+> texts and translations.
+
+Yes, find some other way. And remember that Oldenberg etc. gave their work
+free... to have the texts available for scholarship (etc.). A hundred
+years ago that was by printing them, but now......
+
+Or, to be more radical: Since we (almost all of us) type our new texts
+and translations we can as well put them on a server somewhere and get rid
+of overpriced publications (especially in some EUROPEAN COUNTRIES)..... 
+Let us return to this topic 10 years from now... 
+
+
+
+M. Witzel
+Wales Prof. of Sanskrit
+Harvard University
+617-495 3295
+witzel at husc3.harvard.edu
+
+
+
+
+
+
+

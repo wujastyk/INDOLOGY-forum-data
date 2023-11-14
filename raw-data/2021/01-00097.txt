@@ -1,0 +1,38 @@
+From tyler.g.neill at gmail.com  Tue Jan 19 15:41:39 2021
+From: tyler.g.neill at gmail.com (Tyler Neill)
+Date: Tue, 19 Jan 21 10:41:39 -0500
+Subject: [INDOLOGY] skrutable for transliteration, scansion, and meter identification
+Message-ID: <CADbR+Y_TrELE=L9pmhZ-p0w5g9C2CXCqSQh1mqVurXfMXHufJA@mail.gmail.com>
+
+Dear all,
+
+I wrote a month ago mentioning a tool I've been working on, which I said
+could be used to analyze the meter of whole texts (the R?m?ya?a, for
+example). Fortunately, I was able to give it more time since then, and I'm
+pleased to say that it's finally in good shape and ready to be used more
+widely.
+
+Access it online here: skrutable.pythonanywhere.com
+
+The web app should hopefully be easy to use, even on mobile devices, and it
+also gives point-and-click access to whole-file analysis. Meter
+identification was already able to give good detail on such things as
+anu??ubh vipul?s and unmetrical p?das, but now it's also able to handle
+even more difficult cases like tri??ubh upaj?tis. As a nice bonus, I was
+also able to optimize it for speed in a major way, such that where it was
+taking 20 minutes to finish the R?m?ya?a before, now it can do it in just
+10 or so seconds(!)
+
+I'm hoping that this tool will come in handy not only for research but also
+for helping students learn about and enjoy Sanskrit meter. Please do give
+it a try and also pass it on. I'm interested to follow up with people on
+their experiences with it.
+
+Kind wishes,
+Tyler
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210119/f882e2e9/attachment.htm>
+

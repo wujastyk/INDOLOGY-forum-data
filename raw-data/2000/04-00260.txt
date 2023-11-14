@@ -1,0 +1,31 @@
+From jage at LOC.GOV  Thu Apr 27 20:30:11 2000
+From: jage at LOC.GOV (James E. Agenbroad)
+Date: Thu, 27 Apr 00 16:30:11 -0400
+Subject: RA + RI = ?
+Message-ID: <161227058108.23782.136637315983816632.generated@prod2.harmonylists.io>
+
+                                                 Thursday, April 27, 2000
+I assume that Hester Lambert's Introduction to Devanagari (page 24) is
+correct that the RA consonant followed by the RI vowel sound is written as
+the stand-alone form of the vowel with a reph above it rather than as RA
+with the RI matra/vowel sign.  Are there any other similar cases where a
+matra is replaced by a stand-alone vowel? Is this mentioned in other
+books, preferably ones with Indian authors? I am not an indologist, just a
+librarian/systems analyst who hopes to persuade the authors of the Unicode
+standard that their RA + halant + the stand-alone RI vowel is a less
+plausible way to encode what appears as "RI with reph".  I know this
+combination is uncommon--it's not mentioned in ISCII, the Indian standard
+for assgining computer codes to Indian scripts--maybe because it's too
+obvious to Indians?  If I'm wrong let me know that too.
+Thank you,
+
+     Regards,
+          Jim Agenbroad ( jage at LOC.gov )
+     The above are purely personal opinions, not necessarily the official
+views of any government or any agency of any.
+Phone: 202 707-9612; Fax: 202 707-0955; US mail: I.T.S. Dev.Gp.4, Library
+of Congress, 101 Independence Ave. SE, Washington, D.C. 20540-9334 U.S.A.
+
+
+
+

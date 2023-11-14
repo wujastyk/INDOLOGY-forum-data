@@ -1,0 +1,32 @@
+From buescher at HUM.KU.DK  Sun Oct 10 15:07:10 2004
+From: buescher at HUM.KU.DK (Hartmut Buescher)
+Date: Sun, 10 Oct 04 17:07:10 +0200
+Subject: Question about writing Sanskrit without breaks between words
+Message-ID: <161227075046.23782.885889034084312406.generated@prod2.harmonylists.io>
+
+Dear Madhav Deshpande,
+
+in the classical times -- and that is most probably still at the time
+of the Ashokan inscriptions -- the Greek script consisted of only
+capital letters, and the texts were written without breaks between
+words and sentences. Thus the reader was not immediately able to
+recognize textual units, but had to read very slowly (and the practice
+was to do so with a loud voice). Best,
+
+Hartmut Buescher
+
+
+
+
+
+Madhav Deshpande wrote:
+
+> Dear Colleagues,
+>
+>   A question arose in one of my Sanskrit classes, and perhaps some of you may have some sugestions to shed light on it.  The notion of putting gaps between the words of a Sanskrit text is pervasive in printed Sanskrit materials, but is rather non existent in Sanskrit manuscripts.  The printing technology, a colonial importation to the subcontinent, brought along with it English-based notions of putting gaps between the words in print.  Since the Sanskrit manuscripts are written without any such gaps, any attempt to break up a text into its constituent words provides only one possible way of reading the text.  Looking back at even the Ashokan inscriptions, the first readable texts in Indian history, one finds the same thing.  The lines of text run without any breaks between words.  Since the common scholarly view today is that the Brahmi and the Kharosthi scripts of Ashokan inscriptions were developed by modifying the Aramaic characters, the question that arises in my mind is whether the idea of running a text without word-breaks is also inherited from Aramaic writing.  It is also clear that the NW corner of the Indian subcontinent was familiar with greek writing (called the yavana script in Panini).  Was Greek written in those days without word-breaks?  So the question is whether the notion of writing a text without breaks in a continuous format is an importation from Greek or Aramaic ways, or, as is equally likely, simply a result of the notions of Sanskrit grammarians about Sandhis being a natural part of language.  Any suggestions?  Best,
+>
+> Madhav Deshpande
+
+
+
+

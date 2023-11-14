@@ -1,0 +1,42 @@
+From francois.patte at mi.parisdescartes.fr  Wed Oct  9 15:03:58 2019
+From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
+Date: Wed, 09 Oct 19 17:03:58 +0200
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_XeLaTeX_and_=E0=A4=A1=E0=A5=8D=E0=A4=AD=E0=A4=BF?=
+In-Reply-To: <AM0PR09MB416123DB5FDB8A24FE8EF997A5950@AM0PR09MB4161.eurprd09.prod.outlook.com>
+Message-ID: <813e012b-7485-bea2-ffea-825fb387794f@mi.parisdescartes.fr>
+
+Le 09/10/2019 ? 15:59, Arlo Griffiths via INDOLOGY a ?crit?:
+> Dear colleagues,
+> 
+> Does anyone know a way to get the ligature ???? to display without vir?ma
+> inDevanagari MT, if need be through some amount of XeTeXglyph fiddling?
+> 
+> I am pasting below the list of ligatures for which I have found it
+> necessary so far to fake special measures using Devanagari MT. If it is
+> clear that adopting a different font will make most of these special
+> cases go away, please advise me.
+
+It seems that devanagari MT has some problems with ligatures (see
+https://discussions.apple.com/thread/1274475).
+
+I use without any problem the FreeSerif fonts (avalaible with Texlive
+and (I think) MikTex). The sanskrit 2003 fonts are also easy to use.
+
+-- 
+Fran?ois Patte
+UFR de math?matiques et informatique
+Laboratoire CNRS MAP5, UMR 8145
+Universit? Paris Descartes
+45, rue des Saints P?res
+F-75270 Paris Cedex 06
+T?l. +33 (0)6 7892 5822
+http://www.math-info.univ-paris5.fr/~patte
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 195 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20191009/66c57430/attachment.sig>
+

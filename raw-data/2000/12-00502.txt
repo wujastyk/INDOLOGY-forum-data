@@ -1,0 +1,57 @@
+From birgit.kellner at UNIVIE.AC.AT  Sat Dec 23 19:15:19 2000
+From: birgit.kellner at UNIVIE.AC.AT (birgit kellner)
+Date: Sat, 23 Dec 00 14:15:19 -0500
+Subject: Questions on Indian idealism
+In-Reply-To: <INDOLOGY%2000122218595306@LISTSERV.LIV.AC.UK>
+Message-ID: <161227065836.23782.217021361545333719.generated@prod2.harmonylists.io>
+
+Thursday, December 21, 2000, 12:16:02 AM, Dmitri wrote:
+
+D> I am interested in various meanings of "aalambana".
+D> Monier-Williams gives as one of possible renderings:
+
+D> aalambana 153.2 the natural and necessary connection of a sensation
+D> with the cause which excites it (Saahitya-Darpa.na)
+
+D> This meaning is the same as used in Yoga-Suutra (at least, as I understand
+D> it).
+
+MW gives a wide variety of meanings, not in a particularly systematic
+fashion. I am not familiar with the SD-passage (note that MW adds "(rhetoric)" to
+this item, so it might be altogether irrelevant for establishing the
+meaning of "Alambana" in epistemological contexts); nor am I familiar
+with the passages from YS you refer to. The meaning "... natural and necessary connection" which MW gives for
+SD strikes me as strange insofar as I am only aware of "Alambana" as
+referring to an object, or a factor, but not to a *relationship*. One
+would have to look closer at the passage in question to ascertain
+whether MW is correct.
+
+For the AlambanaparIkSA, the relevant context is given with the Abhidharmic distinction between four causal
+conditions (pratyaya), i.e. Alambanapratyaya, hetupratyaya,
+adhipatipratyaya and samanantarapratyaya. The Alambanapratyaya is the
+"causal condition which supports [the effect]", "causal condition on
+which [the effect] rests", in the case of perceptual cognition taken
+to be its object-support. In his commentary on the AP, VinItadeva
+likens the Alambanapratyaya to a walking-stick which supports someone.
+This analogy serves to explain how the Alambanapratyaya, while being a
+"causal condition", can nevertheless be given simultaneously with its
+effect, and need not be temporally prior: The internal image in a
+perceptual cognition arises simultaneously with the cognition but
+still serves as its support, just like a walking-stick.
+
+If you want to know more about Buddhist abhidharmic discussions about
+the role and character of an "Alambana", I would suggest reading Collet Cox' "On the Possibility of a
+Nonexistent Object of Consciousness: SarvAstivAdin and DArSTAntika
+Theories.", Journal of the International Association of Buddhist
+Studies 11/1 (1988), 31-87.
+
+---
+Best regards,
+
+Birgit Kellner
+Institute for Tibetan and Buddhist Studies
+Vienna University
+
+
+
+

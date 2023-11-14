@@ -1,0 +1,78 @@
+From ucgadkw at ucl.ac.uk  Mon Dec 11 11:18:23 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Mon, 11 Dec 95 11:18:23 +0000
+Subject: WEB pages updates
+Message-ID: <161227022059.23782.10235136723723434623.generated@prod2.harmonylists.io>
+
+Dear Reinhold,
+
+Thank you for the Web and telnet pointers for the Goettingen University
+Library.  I have now added these to the INDOLOGY web page /libraries.
+
+I have also taken the opportunity to reoganize the libraries page to
+make it clearer, as well as adding a link to the Karlsruhe service for
+searching severa German catalogues from a single menu.
+
+Best wishes,
+Dominik
+
+--
+
+> Dominik,
+> in connection with your message on WEB pages updates I should like to 
+> mention that you can also access the OPAC of Goettingen University 
+> Library.
+> 
+> The WWW address is:
+> 
+>         http:/www.uni-goettingen.de/~sub/homepage.htm
+>         
+> or telnet to:
+> 
+>         opac.sub.uni-goettingen.de
+>         (alternative no.: 134.76.163.12)
+>         
+>         username: opc              for exit enter: stp
+>         
+>         (whenever ENTER is required, use ENTER, not RETURN!)
+>         
+> 
+> or by phone via modem:
+> 
+>         (Germany) (0)551 / 39-9911
+> 
+>         
+> Although the Tuebingen collection is by far larger, especially for the 
+> post-war period, in which Tuebingen has functioned as the federal 
+> Special Collections Library (Sondersammelgebietsbibliothek) for South 
+> Asia, Goettingen might also be of interest.
+> 
+> In theory, the Goettingen OPAC comprises ALL holdings, except for the 
+> period from 1945 to 1977. HOWEVER: the pre-1945 data were copied from 
+> the old folio catalogue by temporary staff untrained in Indian 
+> languages, and have not been checked against the books. Needless to 
+> add, there are a number of mistakes and inconsistencies. And another 
+> qualification: the old series (Bibliotheca Indica, Bombay SPS, ChSS 
+> Kashi SS, etc.) have only been partly converted.
+> 
+> Nevertheless, everybody is welcome to give it a try. I would be very 
+> interested to hear what you think of it.
+> 
+> Regards
+> 
+> Reinhold
+> 
+> 
+> 
+> Reinhold Gruenendahl
+> Niedersaechsische Staats- und Universitaetsbibliothek
+> 37070 Goettingen
+> Germany
+> Phone: 0551/395283
+
+ 
+
+
+
+
+

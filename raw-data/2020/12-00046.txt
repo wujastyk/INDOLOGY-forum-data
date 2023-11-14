@@ -1,0 +1,18 @@
+From drdhaval2785 at gmail.com  Sun Dec 20 03:03:16 2020
+From: drdhaval2785 at gmail.com (Dhaval Patel)
+Date: Sun, 20 Dec 20 08:33:16 +0530
+Subject: [INDOLOGY] Idenfication of Sanskrit metres
+In-Reply-To: <CADSGPzXkjmz9RDSS+a1AqHO=46ZZg2DxOMKvrVz_j+pwm_NheA@mail.gmail.com>
+Message-ID: <CADSGPzV+2rgztgTHzT-9AuqCmqxGyH9T=4CNaf5uxS+qr1Rveg@mail.gmail.com>
+
+https://sanskritmetres.appspot.com/ is the frontend for identifying metres.
+
+The source code is available at https://github.com/shreevatsa/sanskrit .
+
+With best wishes,
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201220/5accc8c4/attachment.htm>
+

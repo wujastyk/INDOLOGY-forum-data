@@ -1,0 +1,64 @@
+From Michael.Zimmermann at UNI-HAMBURG.DE  Sat Dec 15 19:53:14 2007
+From: Michael.Zimmermann at UNI-HAMBURG.DE (Michael Zimmermann)
+Date: Sat, 15 Dec 07 20:53:14 +0100
+Subject: Sanskrit Software
+In-Reply-To: <BAY143-W189AED833E18CB7DFF3255A0670@phx.gbl>
+Message-ID: <161227081624.23782.10702246711848878069.generated@prod2.harmonylists.io>
+
+ Hello, you might want to try IndoLipi (freeware) which offers:
+
+ Open Type fonts for almost all Indian scripts, 
+ a Latin font for "instant" transliteration of Indic scripts, 
+ a Unicode based Latin font for writing of scientific texts in a western  
+language containing all transliteration signs used by indologists as well as 
+all presently valid IPA signs (this font is also Open Type regarding exact 
+positioning of IPA diacritics), 
+ western (English and German) keyboard layouts for Indic scripts for users who 
+find it difficult to use Indian keyboard layouts, 
+ an MS Word template with helpful macros for easy use of OT fonts and for 
+transliteration into Latin script. 
+
+Download from:
+(http://www.uni-hamburg.de/Wiss/FB/10/IndienS/Kniprath/INDOLIPI/Indolipi.htm)
+
+ Michael
+
+
+-- 
+Michael Zimmermann
+Universit?t Hamburg, Asien-Afrika-Institut
+http://www.buddhismuskunde.uni-hamburg.de/
+
+
+Quoting Harsha Dehejia <harshadehejia at HOTMAIL.COM>:
+
+> Friends:
+> 
+> I have had an inquiry from a Vedic scholar in California and he writes:
+> 
+> "I would like to create a professional software package, an 'add-on' that
+> operates directly within Microsoft Office. Such software would give users a
+> common platform for efficiently typing Sanskrit from a Romanized (English)
+> keyboard directly into MSWord. Users would be able to do so in Devanagari or
+> transliteration, or by toggling from one to the other. My hope is to
+> distribute such a package free of cost over the internet and, in doing so,
+> create a common platform for all who create full or part-Sanskrit documents,
+> publish them, or simply use them. Academic or student, mystic or pragmatist,
+> Westerner or Indian, if someone has MSWord, they'll be able to use what I
+> envision. "
+> 
+> Does anyone know if this exists?  If not what shall I tell him. He seems
+> sincere.
+> 
+> Regards and Season's Greetings.
+> 
+> Harsha
+> 
+> Harsha V. Dehejia
+> Professor of Indian Studies, Carleton University
+> Ottawa, ON. Canada.
+> 
+
+
+
+

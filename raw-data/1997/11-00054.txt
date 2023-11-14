@@ -1,0 +1,26 @@
+From D.H.Killingley at NEWCASTLE.AC.UK  Wed Nov  5 10:56:57 1997
+From: D.H.Killingley at NEWCASTLE.AC.UK (D.H. Killingley)
+Date: Wed, 05 Nov 97 10:56:57 +0000
+Subject: m/anusvAra & s/visarga
+In-Reply-To: <v01530501b08520d275c0@[195.74.194.122]>
+Message-ID: <161227033469.23782.11854205251117247543.generated@prod2.harmonylists.io>
+
+May I make an adjustment to Dominique Thillaud's statement of the
+distribution of Visarga and h in Sanskrit? It is a very simple
+complementary distribution: h before a voiced sound (i.e. vowel or a
+voiced consonants), visarga before a voiceless sound or silence (avasAne,
+i.e. at the end of a sentence or at any other point where the sandhi is
+broken). It is therefore quite possible to use the same character for both
+without ambiguity; but if you want a computer to transcribe it into
+Devanagari or standard romanization, you will have to tell the computer
+which consonants are voiced and which are voiceless.
+
+Dr Dermot Killingley
+Dept of Religious Studies
+University of Newcastle upon Tyne
+Newcastle upon Tyne NE1 7RU
+Phone 0191 222 6730    Fax 0191 222 5185
+
+
+
+

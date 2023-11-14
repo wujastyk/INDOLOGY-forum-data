@@ -1,0 +1,30 @@
+From se224141 at HOTMAIL.COM  Fri Oct 29 07:33:13 1999
+From: se224141 at HOTMAIL.COM (. .)
+Date: Fri, 29 Oct 99 09:33:13 +0200
+Subject: Panini vs John Backus
+Message-ID: <161227053116.23782.227684192180878005.generated@prod2.harmonylists.io>
+
+Backus joined IBM as a programmer in 1950. He is the inventor of FORTRAN,
+the first high level computer language to be developed. It became
+commercially available in 1957.
+
+In 1959 he invented the BNF, a standard notation to describe the syntax of
+a high level programming language.
+
+At one place, I found BNF to be described as "Backus Naur Form" and at
+other as "Backus Normal Form". Which one is correct?
+
+Panini should be thought of as the forerunner of the modern formal language
+theory used to specify computer languages. Why?
+
+The BNF was discovered independently by John Backus in 1959, but Panini's
+notation is equivalent in its power to that of Backus and has many similar
+properties. Could anyone provide me any example to substantiate this claim?
+
+Thanx/Kailash
+
+Kailash Srivastava
+
+
+
+

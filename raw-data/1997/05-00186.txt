@@ -1,0 +1,32 @@
+From pdb1 at columbia.edu  Mon May 19 14:05:23 1997
+From: pdb1 at columbia.edu (Peter D Banos)
+Date: Mon, 19 May 97 10:05:23 -0400
+Subject: yuga, VarNa and colour
+Message-ID: <161227030347.23782.11695182345723762510.generated@prod2.harmonylists.io>
+
+On Mon, 19 May 1997, Jacob Baltuch wrote:
+
+> >Actually the digits of any number that is a multiple of 9 will have a
+> >sum of 9 as well.
+> 
+> Not true: 9 * 11 = 99
+ 
+> A number that has 9 as the sum of its digits will be a multiple of 9
+> but it doesn't necessarily go the other way (as the example above shows).
+
+But the _ultimate_ sum will always be 9. That is, if the sum of the
+digits iteslf consists of more than one digit (like 18 in Jacob's
+example), add _those_ digits, and repeat the procedure until you're down
+to a single digit. That digit will always be 9. 
+
+						-Peter D. Banos
+						pdb1 at columbia.edu
+
+
+
+
+
+
+
+
+

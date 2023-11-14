@@ -1,0 +1,92 @@
+From jacob.baltuch at EURONET.BE  Sat Nov 15 19:20:44 1997
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Sat, 15 Nov 97 20:20:44 +0100
+Subject: IE and Semitic roots.
+Message-ID: <161227033673.23782.15426667224396049102.generated@prod2.harmonylists.io>
+
+Vidhyanath Rao wrote:
+
+>>I mean the very _fact_ that you can say the root is normally given as CeC
+>>shows that the vowel is not intrinsic. If the vowels _were_ intrinsic
+>>you would have roots CeC but also roots CoC etc. (Compare with Sanskrit
+>>where the vowel is part of the meaning of the root: 'dih' is not the
+>>same root as 'duh').
+>
+>But aren't you comparing oranges and apples? `dih' and `duh' are in
+>the zero grade, while CeC is the guna grade of primitive roots.
+
+No, I don't think I am. Remember a root is an abstraction. It is a
+theoretical construct which allows a given description of a language
+to derive the actually occurring forms in the most efficient way.
+
+I'm simply observing that the most efficient way to describe (the earliest
+stage of) PIE (we can get at) seems to involve roots whose meaning is only
+determined by their consonants, whereas the most efficient way to describe
+Sanskrit (as proposed by Indian grammarians -- and I'm not aware that the
+synchronic description of Sanskrit has been radically altered by modern
+scholarship) involves a concept of root whose meaning is determined by both
+their consonants and their vowels.
+
+That this most efficient way for the respective languages do not happen
+to correspond diachronically is true but irrelevant for the purpose of
+this discussion -- or what are we doing comparing how PS and PIE roots work?
+
+BTW, I don't believe you can even say that "PIE zero grade" is always,
+even etymologically, identical to "Sanskrit root", because many Sanskrit
+roots are quoted in forms which in fact correspond to the full grade:
+just one example: svap- 'to sleep', the zero grade would correspond to sup-.
+
+But that is another discussion. My main point is that, for the purpose
+of this discussion, either concept of root should be compared on its
+own terms as it functions synchronically and that etymological relatioships
+are not relevant here.
+
+>Note that the claim that ``all'' roots of PIE were CeC is not quite
+>right. Benveniste's root theory holds that the `primitive roots are
+>of that form. But such roots may be extended with further phonemes.
+>In Late IE, such extended roots are basically independent roots,
+>as the meaning of the extended root may not be derivable from the
+>basic root and the `meaning' of the extension, if the latter ever
+>had any.
+
+Yes and Dominique mentioned roots with an inherent a. Yes there might
+be many exceptions but the question this: is the description of the
+earliest stage of PIE we can get at as a language whose roots have
+meanings which do not depend on vowels accurate or not.
+
+As far as I know, the basic assumption is still that it is.
+
+Could that statement be sensibly made of Sanskrit? No, it couldn't,
+if the only criterion in the choice of a description is that it should
+represent its synchronicity of the language in the most efficient way.
+
+In other words, on this point, the earliest PIE and Semitic shared
+features which IE daugher languages gradually lost, essentially because
+the consonant system of IE seems to have been less resistant to change
+and the loss of laryngeals, etc. gradually obscured that structure.
+
+The interesting thing is, if I understand this properly, that recon-
+structions of PAA (Proto-Afrasian, the ancestor of Semitic and other language
+families such as Egyptian, Cushitic, Berber and some other language African
+language families) posit many roots a structure where the vowels _were_
+significant.
+
+The moral is clear: there is nothing forever stable in such things. There-
+fore absolute statements, especially if the underlying intent is to suggest
+there is something about the "permanent character" of a language family
+encoded in such features, are to be avoided, in my opinion.
+
+I must admit also that what led me to react to the original statement was
+that it reminded me (unintentionally I'm sure) of statements of some 19th c.
+European writers that Semitic languages didn't have "real" flexion (whatever
+that means) Evidently some of those 19th. writers were drawing much more
+unscientific inferences from this "fact", beginning with the "inferiority"
+of Semitic languages and so on... But even with no implication of such
+a kind involved, I really wish people gave up this tendency to characterize
+language families in sweeping general terms. There is no such thing as
+a "character" of a language family in any permanent sense, and certainly
+not across intervals of time of several millenia.
+
+
+
+

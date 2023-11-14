@@ -1,0 +1,20 @@
+From ucgadkw at UK.AC.UCL  Fri Jul 10 17:05:36 1992
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Fri, 10 Jul 92 18:05:36 +0100
+Subject: Numerical IP address for ftp
+Message-ID: <161227015430.23782.14123562127697195255.generated@prod2.harmonylists.io>
+
+
+The numerical IP address for ftp.bcc.ac.uk is 144.82.100.41 at the moment.
+This may change.  The address "ftp.bcc.ac.uk" will not change.  But if
+you want to connect *today* the numerical address works and the
+text one doesn't.
+ 
+Best wishes,
+Dominik
+ 
+
+
+
+
+

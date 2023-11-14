@@ -1,0 +1,65 @@
+From wujastyk at gmail.com  Mon Oct 28 18:28:51 2013
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 28 Oct 13 19:28:51 +0100
+Subject: [INDOLOGY] How the software works (was: New Book information with (hopefully) readable attachment)
+In-Reply-To: <CAKdt-CdvDMZ=-ptg_sG=5bHoapmz_LGMgZvGC3GfvyquAetTuA@mail.gmail.com>
+Message-ID: <CAKdt-Cf055zUqQwzsqTDbhTrKNGjHb13e4q0e9jMppsDicuPCA@mail.gmail.com>
+
+I have now expanded the list of attachment-types that Mailman will pass on
+to INDOLOGY readers. I hope this works okay, and will be what everyone
+wants.
+Best,
+Dominik
+
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+,
+University of Vienna,
+Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+1090 Vienna, Austria
+and
+Adjunct Professor,
+Division of Health and Humanities,
+St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
+Project <http://www.istb.univie.ac.at/caraka/> | home
+page<http://www.academia.edu/DominikWujastyk>|
+HSSA <http://hssa.sayahna.org> | PGP <http://wujastyk.net/pgp.html>
+
+
+
+
+
+On 28 October 2013 19:17, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+> Actually, the software running this forum - Mailman<http://www.gnu.org/software/mailman/>(not Listserv) - should have no problem with attachments.  The Mailman
+> system tries to be careful about spam and so on, and therefore there are
+> filters that reject the "wrong" kinds of attachment.  Maybe these settings
+> are too sensitive, so to speak, and the attachment looked wrong to Mailman
+> for some reason.  I'll look into it.
+>
+> I've noticed that attachments don't get saved in the archive of messages.
+> I can't see a way to make the attachments persist into the archive, and
+> it's a pity.  Though I can understand why an archive might be designed that
+> way.
+>
+> Best,
+> Dominik
+>
+> ??
+>
+> On 28 October 2013 02:36, Hock, Hans Henrich <hhhock at illinois.edu> wrote:
+>
+>>  Thanks for your message, George. Apparently the list serve does not
+>> like attachments.
+>>
+>> ?[...]
+> ?
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131028/4af3a353/attachment.htm>
+

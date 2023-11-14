@@ -1,0 +1,75 @@
+From jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR  Thu Oct  1 14:44:10 2009
+From: jean-luc.chevillard at UNIV-PARIS-DIDEROT.FR (Jean-Luc Chevillard)
+Date: Thu, 01 Oct 09 16:44:10 +0200
+Subject: Unicode-compliant Garamond font ?
+In-Reply-To: <1232607970.3877.18.camel@proliant>
+Message-ID: <161227087671.23782.910087816221467660.generated@prod2.harmonylists.io>
+
+Dear list members,
+
+is there a Unicode-compliant Garamond font
+available somewhere on the internet?
+(or a Garamond look-alike?)
+
+Thanks for your feedback
+
+-- Jean-Luc Chevillard
+
+
+Richard MAHONEY a ?crit :
+> Dear Readers,
+>
+> John Smith's recently updated font collection will be of interest to
+> some of you.
+>
+>
+> -----Forwarded Message-----
+> From: John Smith <jds10 at cam.ac.uk>
+> To: Richard MAHONEY <r.mahoney at iconz.co.nz>
+> Cc: John Smith <jds10 at cam.ac.uk>
+> Subject: IndUni fonts
+> Date: Thu, 22 Jan 2009 11:53:36 +0530
+>
+> [snip]
+>
+> I have recently created upgraded versions of my "IndUni" OpenType
+> fonts. These are Unicode-compliant fonts that contain a comprehensive
+> set of "Indological" characters, as well as all the European characters
+> that scholars are likely to need. They are available as freeware, and
+> include high-quality lookalikes for Times, Palatino, New Century
+> Schoolbook, Helvetica and Courier. They are based on the freeware fonts
+> so generously contributed by URW++ of Germany.
+>
+> The upgraded fonts now contain all the accented characters specified by
+> MES-1, the smallest of the recognised Multilingual European Subsets of
+> Unicode. They also contain numerous other accented forms that linguists
+> tend to require (e.g. vowels with both macron and breve, vowels with
+> both macron and tilde), all the accented characters needed for Pinyin,
+> and a set of Cyrillic characters. This is, of course, in addition to
+> all the characters known to be used in representing Indian languages in
+> Roman script.
+>
+> As well as a greatly enhanced character set, the new versions of the
+> fonts have had various small bugs fixed, and have been set up to work
+> with both "composed" and "decomposed" forms of complex characters --
+> e.g. the form for "a macron" will be used whether the document contains
+> the one character U+0101 ("a macron") or the two characters U+0061
+> ("a") + U+0304 ("macron"). Since there seems to be something of a shift
+> in usage under way here, this is a major advantage.
+>
+> The fonts can be downloaded from http://bombay.indology.info/.
+>
+> John Smith
+>
+>
+> John Smith
+> jds10 at cam.ac.uk
+> http://bombay.indology.info
+>
+>
+>
+>   
+
+
+
+

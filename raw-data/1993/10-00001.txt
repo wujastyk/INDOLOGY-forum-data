@@ -1,0 +1,73 @@
+From EVERSON at IRLEARN.UCD.IE  Fri Oct  1 14:03:36 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Fri, 01 Oct 93 14:03:36 +0000
+Subject: Matras combining char's?
+Message-ID: <161227016178.23782.5968277408822996381.generated@prod2.harmonylists.io>
+
+Lloyd Anderson of Ecological Linguistics asked me to forward this to
+the INDOLOGY list.
+ 
+Date: 01 Oct 93 01:21 GMT
+From: ECOLING at AppleLink.Apple.COM (Ecological Linguistics,Anderson,PRT)
+ 
+A note in Unicode 1.1 suggests the inclusion of Indic matras as
+"combining characters" should be considered a "defect" in 10646 (and
+therefore should be changed, presumably).
+ 
+This note to the Indology list is to give my best understanding of the
+situation, since I have not been able to get a technical justification
+for the position referred to.
+ 
+The original motivations for "combining characters" included at least
+that they should not be isolated from their base characters at line
+breaks.  I think, though am not absolutely certain, that some Unicoders
+want a class of characters which have the combination of properties
+[combining; non-spacing; overlapping only to the left (in left-to-right
+scripts) or to the right (in right-to-left scripts)] and perhaps some
+other properties as well.
+ 
+As contrasted with the prototypical Latin combining marks, Indic matras
+have two differences: (a) they are not all non-spacing, and (b) in
+surface rendering, they sometimes connect with something later in the
+text stream, rather than only with something earlier in the text
+stream.  These two differences are however not matters of
+"combiningness", they are separate features.  The rule that "combining"
+characters may not be separated from their "base" characters still
+holds.  So new character attributes can be added, "zero-width" and
+"combines-to-the-right", but the old feature "combining" should not be
+deleted.   Possibly it should be reinterpreted as "combines to the
+left" unless an additional feature handles the left vs. right linking,
+but since the "combines to the right" affects primarily renderings
+among the standard Indic vowel matras, this may not matter.  The matra
+is linked to the same base letter (conjunct) in either case, before or
+after matra-reordering to the rendering form.
+ 
+The Unicode 1.1 treatment of the diacritics over two letters, such as
+long and short marks over double "oo" for phonetic dictionary entries
+for English, places the code for the diacritic between the codes for
+the two base letters. The approach considers such diacritics to be
+"combining to the left", but "overlapping" to the right, whereas they
+are really equally combining in both directions, so "combines to the
+left" and "combines to the right" would both be attributes of these
+double-base diacritics.
+ 
+Does anyone have further insight into what might make Indic matras
+different or similar in any relevant attributes?  The chief cases I can
+locate for combining-tothe-right, by the way, are Devanagari  repha
+(itself a result of ligaturing "r" with virama non-finally), and
+Burmese "eng" which sits on top of the consonant which logically
+follows the "eng" (itself a result of ligaturing "ng" with a marker for
+conjuncting.
+ 
+Lloyd Anderson, Ecological Linguistics.
+==========
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

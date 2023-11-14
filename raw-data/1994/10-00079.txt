@@ -1,0 +1,58 @@
+From l.m.fosse at easteur-orient.uio.no  Tue Oct 18 08:19:20 1994
+From: l.m.fosse at easteur-orient.uio.no (l.m.fosse at easteur-orient.uio.no)
+Date: Tue, 18 Oct 94 18:19:20 +1000
+Subject: sabhaparvan
+Message-ID: <161227017600.23782.4252196854741164207.generated@prod2.harmonylists.io>
+
+>I just downloaded Prof. van Nooten's transcription of the Sabhaaparvan 
+>and see 240,000+ bytes of gibberish. If anybody out there who uses a 
+>Macintosh has successfully downloaded this into readable text, I would be 
+>interested in the rahasya, e.g. what font did he use, what ASCII codes 
+>are necessary (though I know next to nothing about ASCII), etc.?
+>
+>Thanks
+>
+>Fred Smith
+>Univ. of Iowa
+> 
+
+Van Nooten uses the CSX format, which means that if you use a PC, you need
+the wnrir - files to get an indological transliteration character set.
+These files you can get hold of by using ftp. Try these sites:
+
+Indology ftp: Indology FTP : ftp.bcc.ac.uk
+Login: anonymous
+Directory:  /public/users/ucgadkw/indology
+
+or
+
+blackbox.hacc.washington.edu
+(hacc = Humanities and Computing Centre in Washington)
+
+
+Otherwise, with a bit of patience, you can convert van Nootens
+transliteration into any other kind of representation by means of
+search-and-replace.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Lars Martin Fosse
+Department of East European
+and Oriental Studies
+P. O. Box 1030, Blindern
+N-0315 OSLO Norway
+
+Tel: +47 22 85 68 48
+Fax: +47 22 85 41 40
+
+E-mail: l.m.fosse at easteur-orient.uio.no
+
+ 
+
+
+
+
+

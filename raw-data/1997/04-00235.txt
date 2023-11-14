@@ -1,0 +1,75 @@
+From thompson at jlc.net  Sun Apr 13 01:35:25 1997
+From: thompson at jlc.net (thompson at jlc.net)
+Date: Sat, 12 Apr 97 21:35:25 -0400
+Subject: Rig Veda, ta'ntra, nUl, and sUtra
+Message-ID: <161227029595.23782.10536202331505875564.generated@prod2.harmonylists.io>
+
+S. Palaniappan asks:
+>
+>I would very much appreciate if you could let me know if  these texts refer
+>to any word for 'warp' derived from 'ta'n' or other words meaning 'to
+>stretch'?
+>
+>Thanks in advance.
+
+To my knowledge IE cognates of the root Skt. tan- have not been used to
+refer to "warp", but the words that are used seem to belong to the same
+semantic sphere as tan-.  For example, the very word "warp" is derived from
+an IE root wer- which in Skt is manifest as vR + t = vRt- [wer + b =>
+Germanic warp].
+The English words "spin, spindle", etc, have a root sense "stretch".  The
+English word "weave" [cf. web, weft, etc] has cognates in Greek, hyphe,
+etc., and in Avestan vaf-.  These are ultimately related to our Skt. root
+u-, ve- [cf. for example Skt UrNa-vAbhi = wool-weaver, i.e., spider].
+
+But the relationship between sewing, spinning, plaiting, and weaving is
+obscure to me.  I wouldn't attempt to sort them out in IE languages, or
+even in Skt. [for that, perhaps we need to look directly at Rau's short
+monograph].
+
+As for the metaphor, speech = text [weaving], perhaps a few other IE
+examples will be helpful:
+
+Avestan:  the root vaf- = both "to weave" and "to sing".
+
+Old English: ic worcraeft waef = I weave word-craft
+
+Greek: rhapsoidos [cf. Eng "rhapsody"] = singer, lit. = weaver of songs.
+
+Besides the monograph and anthology of R. Schmitt, already cited, one might
+also consult F. Bader's *La langue des dieux, ou l'herme'tisme des poe`tes
+indo-europe'ens*, 1989 [like Schmitt's an interesting book on Indo-European
+poetics].
+
+The AV passage that you mean is AV 10.7.42.  It reads:
+
+tantram eke yuvatI virUpe abhyAkrAmaM vayataH SaNmayUkham
+prAnyA tantUMs tirate dhatte anyA nApa vRJjAte na gamAto antam
+
+Whitney's translation:
+
+"A certain pair of maidens, of diverse form, weave, betaking themselves to
+it, the six-pegged web; the one draws forth the threads [tantu], the other
+sets [them]; they wrest not off [apa-vRj] they go not to an end."
+
+mayUkha = peg; we also have tantra and tantu.  Certainly, as you suggest,
+these six pegs imply a structure, a loom, but the word itself for "loom"
+does not appear here.
+
+To me, the task of deciding whether or not there is influence or contect
+between old IE and Dravidian traditions re this metaphor is *very*
+difficult, perhaps insoluble.  Not only must Semitic be considered, as is
+rightly suggested by W. Trimble, but any number of other languages [and
+language-families] as well.  For example, I recall, rather vaguely, that
+there is something very much like this metaphor among the Dogon of West
+Africa [Mali], discussed by Griaule and Calame-Griaule.
+
+Best wishes,
+George Thompson
+
+
+
+
+
+
+

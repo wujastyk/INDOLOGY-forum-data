@@ -1,0 +1,151 @@
+From ucgadkw at UK.AC.UCL  Thu Apr 25 11:48:38 1991
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Thu, 25 Apr 91 12:48:38 +0100
+Subject: the making of critical editions
+Message-ID: <161227014993.23782.17069075487947664630.generated@prod2.harmonylists.io>
+
+
+I thought fellow INDOLOGISTs might be interested in the appended
+announcement of a program for making editions, since this must still
+rank as one of the centrally important tasks of our field.
+ 
+A subsidiary reason for sending this note is sheer lack of modesty.  I
+have been collaborating for some time with John Lavagnino (Brandeis) in
+writing a program in the TeX macro language for formatting critical
+editions.  As you will see below, the COLLATE program uses our program
+EDMAC for printing its output.  But EDMAC is quite independent of
+COLLATE, and can be used separately.  (In particular, EDMAC is not bound
+to the Macintosh, but runs on any machine that runs TeX, and in practice
+that means any machine on the market, with any printer or typesetter.)
+ 
+If you have a critical edition on your agenda I suggest you have a look
+at the capabilities of EDMAC (and COLLATE, perhaps).  EDMAC provides
+unique facilities for creating up to five layers of footnote material
+(variants, testimonia, etc.), with each layer's format separately
+controllable (page-width, two columns, three columns, block paragraph
+of run-on notes, etc.), up to five sets of end-notes;  automatic line
+numbering; note references to line numbers (not superscript footnote
+numbers), and much else.  For a full description of EDMAC's
+capabilities, with examples (including a page of Sanskrit in
+Devanagari) see:
+ 
+John Lavagnino and Dominik Wujastyk, "An Overview of EDMAC: a plain
+TeX format for critical editions" in TUGboat 11(4), 1990, pp.623--643.
+ 
+The journal _TUGboat: Communications of the TeX Users Group_ is in most
+University (Computing dept.) libraries.  For more information, email
+the TeX Users Group at TUG at math.ams.com
+ 
+A book documenting EDMAC in full, together with a disk holding the program
+itself will shortly be published by TUG.
+ 
+Dominik
+ 
+ 
+------- Forwarded Message
+ 
+Date: Wed, 17 Apr 91 22:22:30 EDT
+From: Elaine Brennan & Allen Renear <EDITORS at edu.brown.brownvm>
+Subject: 4.1248 Collate -- SW for MSS Collation (1/88)
+To: Multiple recipients of list HUMANIST <HUMANIST at BROWNVM>
+ 
+Humanist Discussion Group, Vol. 4, No. 1248. Wednesday, 17 Apr 1991.
+ 
+Date:     Wed, 17 Apr 91  11:06 GMT
+From: PETERR at VAX.OXFORD.AC.UK (Peter Robinson)
+Subject: Collate 1.0
+ 
+ 
+Version 1.0 of Collate -- a new program for the collation of large
+textual traditions -- is now available.
+ 
+About Collate
+-----------------
+Collate aims to help scholars in the preparation of a critical edition
+based on many sources. It can collate simultaneously up to a hundred
+texts at once. It  can deal with richly marked-up texts (with special
+treatment for editorial comments embedded in the text, location
+markers, editorial expansions and separate collation of punctuation). It
+provides powerful facilities to allow the scholar to tailor the collation
+and it can output in many different formats.
+ 
+Collate works interactively with the collation being written to a window
+as the scholar watches.  The scholar may intervene at any point to alter
+the collation, using either of the tools RSet VariantS or RRegulariseS.
+RSet VariantS allows the scholar to over-rule the collation offered by
+Collate and impose his own collation, even writing a variant that does
+not appear in the sources into the collation.  RRegulariseS enables the
+scholar to intervene to regularise any word or phrase in any source at
+any point.  The regularisation can be set for a particular word at every
+point in every source, or for that word only at that place in that
+source, or various other combinations.  Collate will record all variants
+set and every regularisation made and remember them next time it runs.
+The scholar can adjust the collation in other ways, switching the base
+text, suppressing agreements with the base text and collating
+punctuation tokens separately.
+ 
+The collation may be output in various critical apparatus forms
+(including several  formats recommended by the Text Encoding
+Initiative), or scholars may dictate their own format. Through an
+interface to the EDMAC macros, developed by John Lavagnino of
+Brandeis University and Dominik Wujastyk of the Wellcome Institute
+for the production of complex critical editions with the typesetting
+language TeX, editions with up to five levels of apparatus can be created
+direct from the output of Collate. The EDMAC macros and an
+implementation of TeX (OzTeX) are provided with the program.
+Automatic generation of hypertext electronic editions from the output is
+also possible.
+ 
+Texts Collate can Process
+- -----------------------------
+The length of texts Collate can process is limited only by the storage
+capacity of the computer. The only requirement is that the text be
+divided into blocks containing no more than 32768 words each. Collate
+works on both prose and verse and has been tested successfully on texts
+in many languages (including Malay, Sanskrit, Latin, Middle English
+and Old Norse).
+ 
+A set of Guidelines for Transcription, provided with the program,
+explains the format transcription files should have so that they can be
+processed by Collate.  The transcription files must be plain ASCII files
+and can be prepared on any computer.  A simple word-processor,
+Transcribe, is also provided with Collate: this includes various
+functions specially designed to help transcription.
+ 
+The History of Collate
+- --------------------------
+Collate has been developed as part of the Computers and Manuscripts
+Project, funded for three years from 1st September 1989 by the
+Leverhulme Trust at the Oxford University Computing Service with
+support from Apple Computer. Collate has been written by the Research
+Officer for the Project, Peter Robinson (PETERR at AC.UK.OX.VAX).
+The Project Director is Susan Hockey.
+ 
+Program Availability and Requirements
+- ----------------------------------------------
+Collate 1.0 runs only on Macintosh computers (Classic or higher) and
+requires one megabyte of memory to operate. A hard disc is
+recommended. It can be ordered from:
+The Computers and Manuscripts Project
+Oxford University Computing Service
+13 Banbury Road
+Oxford OX2 6NN
+England.
+(Phone: 0865 273200; fax 0865 273275; email
+PETERR at AC.UK.OX.VAX).
+ 
+The program costs #20 pounds UK, 40 dollars US. Cheques should be made
+payable to the Oxford University Computing Service; cheques in pounds
+must be drawn on a British bank.
+ 
+Documentation, sample files, Transcribe (version 1.1) and the OzTeX
+implementation of TeX for the Macintosh, together with the EDMAC
+macros, are provided with the program.
+ 
+------- End of Forwarded Message
+ 
+
+
+
+
+

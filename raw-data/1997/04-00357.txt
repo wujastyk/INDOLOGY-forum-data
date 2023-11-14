@@ -1,0 +1,137 @@
+From Royce.Wiles at anu.edu.au  Fri Apr 18 02:48:20 1997
+From: Royce.Wiles at anu.edu.au (Royce.Wiles at anu.edu.au)
+Date: Fri, 18 Apr 97 12:48:20 +1000
+Subject: conv-dev: how to join the South Asian special list
+Message-ID: <161227029786.23782.9149161898317685803.generated@prod2.harmonylists.io>
+
+Further to recent questions on this list about the transliteration of South
+Asian languages, I am forwarding information I received about a (new?) list
+devoted to discussing just that.
+
+Royce Wiles
+
+
+>>
+>>conv-dev: how to join the South Asian special list
+>>
+>>
+>>This is a reminder to all those listed below, who have expressed an
+>>interest in South Asian scripts, that the following email discussion list:
+>>
+>>        conv-dev at elot.gr
+>>
+>>has been set up to allow detailed discussion on transliteration of South
+>>Asian languages and scripts.
+>>
+>>Currently this is underused (too few messages and too few subscribers)
+>>and I would urge any of the following who are not yet subscribed to do
+>>so. If you received a test message very recently which confirms you are on
+>>the list you need take no further action: if you did not receive such a
+>>test message, I would urge you to subscribe. All you need do is:
+>>
+>>Send an email to
+>>
+>>        majordomo at elot.gr
+>>
+>>with this message in the body of the text:
+>>
+>>        subscribe conv-dev your at email.address
+>>
+>>(but with your real email address replacing the string your at email.address).
+>>
+>>Once you are subscribed, you will receive an e-mail welcome message with
+>>useful information when your subscription request is processed and approved.
+>>You can then send messages to conv-dev at elot.gr and receive messages from
+>>other members of the list. Please reply where possible to the list as a
+>>whole, so that all can benefit: using the Group Reply function (pressing G
+>>on some email software) is the simplest way to achieve this.
+>>
+>>Other members will also be interested to see who else is joining the list, so
+>>it is useful to send a brief introduction (say, one or two short paragraphs)
+>>to conv-dev at elot.gr at the outset, saying what languages, scripts and other
+>>things you are involved in. That is the most likely way to stimulate others
+>>to write on the subjects you are interested in!
+>>
+>>Here is the list of those who have expressed an interest in South Asian
+>>scripts, arranged by country code: others with an interest in this area,
+>>who have not been included (apolgies for any omissions) are of course
+>>welcome to subscribe to conv-dev, but please send me information on the
+>>specific scripts that you are interested in.
+>>
+>>AE   chambers at mail.emirates.net.ae          Ge He Et Ar    SOA
+>>AU   daw601 at anu.edu.au                               Ar    SoA
+>>AU   wellsd at boris.curtin.edu.au    Gr Cy                   De Ta           CJK
+>>CA   alb at sct.gouv.qc.ca            Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>CA   arsenaul at fis.utoronto.ca         Cy                   SoA SEA Tib Mon CJK
+>>CA-  RIVA at LIB1.LAN.MCGILL.CA       Gr Cy Am                De
+>>DE   100124.3075 at CompuServe.COM    Gr                      SoA     Tib Mon CJK
+>>DE   gabriele.zeller at ub.uni-tuebingen.de                   SoA SEA Tib
+>>DE   grotebev at uni-duesseldorf.de                           SoA
+>>DK   viralbus at ling.hum.aau.dk      Gr Cy    Ge             SoA SEA         CJK
+>>FR   chevilla at linguist.jussieu.fr                          SoA
+>>GB   101621.104 at compuserve.com;                            SoA     Tib
+>>GB   bw at pindar.co.uk               Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>GB   converse at sesame.demon.co.uk   Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>GB   T.A.McAllister at Leeds.AC.UK    Gr Cy    Ge He    Ar    De Gu BeTib Mon CJ-
+>>GE   viralbus at access.sanet.ge      Gr Cy    Ge             SoA SEA         CJK
+>>IE   everson at indigo.ie             Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>IN-  doctor at parcom.ernet.in                                SoA
+>>IN   sibal at att.com                                         SoA SEA
+>>LK-  ibric at sri.lanka.net                                   SoA
+>>LK   jayeward at cc.ruh.ac.lk                                 Si
+>>MY   mrm at eng.upm.edu.my                                    SoA SEA
+>>NL   WITKAM at rulub3.LeidenUniv.nl   Gr Cy Am Ge He Et AR Di SoA SEA Tib Mon CJK
+>>NO   haavardh at powertech.no         Gr Cy       He    Ar    De Ta
+>>SG   dmenon at pacific.net.sg                                 SoA Th
+>>US   abreeve at afterlife.ncsc.mil    Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>US   ajatkar at astromet.com                                  SoA (mar)
+>>US   apandey at u.washington.edu                        Ar    SoA     Tib
+>>US   barbara_brownell at oclc.org        Cy Am Ge He    Ar    SoA SEA
+>>US   bmisra at fas.harvard.edu                                SoA
+>>US   Claude_Setzer at fcsmtp.mum.edu                          SoA SEA
+>>US   csetzer at mum.edu                                       SoA SEA
+>>US   ECOLING at aol.com               Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>US   elaine at selway.umt.edu         Gr Cy am ge he et ar di SoA sea tib mon CJk
+>>US   fayerl at vms.cis.pitt.edu       gr Cy am ge He et Ar di soa sea tib mon cjk
+>>US   fnewton at cumberland.lib.nc.us  Gr Cy                   De Gu
+>>US   fp7 at columbia.edu                                Ar    SoA
+>>US   jblowe at garnet.berkeley.edu    Gr                Ar    SoA SEA Tib     CJK
+>>US   jgardner at blue.weeg.uiowa.edu                          SoA
+>>US   Joe at Duxsys.com                Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>US   monggol at waldorf.cc.wwu.edu       Cy             Ar    SoA     Tib Mon CJK
+>>US   rbar at loc.gov                  gr Cy am ge he et Ar di soa sea tib mon cjk
+>>US   rscook at world.std.com          Gr                      SoA SEA Tib Mon CJK
+>>US   sbladey at omnilex.com           Gr Cy Am Ge He Et Ar Di SoA SEA Tib Mon CJK
+>>US   tlander at cse.ogi.edu              Cy             Ar    SoA             CJK
+>>US   zbarlev at mail.sdsu.edu         Gr Cy       He    Ar    soa             CJ-
+>>
+>>I look forward to seeing new participants on the conv-dev list. Please
+>>feel free to forward this to anyone else who may be interested in
+>>transliteration of South Asian scripts, and to send any queries about the
+>>list to me.
+>>
+>>                                   Yours sincerely
+>>
+>>
+>>                                     John Clews
+>>--
+>>   John Clews (Chairman of ISO/TC46/SC2: Conversion of Written Languages)
+>>
+>>SESAME Computer Projects, 8 Avenue Rd.  *  email: Converse at sesame.demon.co.uk
+>>Harrogate, HG2 7PG, United Kingdom      *     telephone: +44 (0) 1423 888 432
+
+
+Royce Wiles
+Asian History Centre, Faculty of Asian Studies
+Australian National University
+GPO Box 4, Canberra  ACT 0200   AUSTRALIA
+
+Telephone: +61 6 279 8853 (message)     Home: +61 6 258 5134
+Facsimile: +61 6 279 8326               Mobile: +61 (0)41 928 7569
+
+
+
+
+
+
+

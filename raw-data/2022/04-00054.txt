@@ -1,0 +1,199 @@
+From vasishtha.spier at gmail.com  Mon Apr 11 18:41:59 2022
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Mon, 11 Apr 2022 14:41:59 -0400
+Subject: [INDOLOGY] NGMCP images and copyright law
+In-Reply-To: <CAJ3b0o-5Hwo4TFV6pihekh1bmA4TDxtzGa=kiOWt7+0+9qC-xA@mail.gmail.com>
+References: <CAJ3b0o-bPtDDd9x7OUk7aO9sXtY+yvZ0n9UNgqeKdaoDsLD4eA@mail.gmail.com>
+ <05D73200-2846-41BF-972E-01C456F5AB4E@hcts.uni-heidelberg.de>
+ <CAJ3b0o8zUJCFBh_L_q3iO-nqNWP7yqRbmnwCTNW9PB-LAhKfQQ@mail.gmail.com>
+ <CAJ3b0o9ivhfS+Y-pVziR7B7YkyhFq7HTHSbLnxVdca2qqU=pkQ@mail.gmail.com>
+ <CADKD_ziDUqiVZysSm5BtvYuvsQcvbSmULKu9O3ruX9TfCiVrMA@mail.gmail.com>
+ <CAJ3b0o-5Hwo4TFV6pihekh1bmA4TDxtzGa=kiOWt7+0+9qC-xA@mail.gmail.com>
+Message-ID: <CAJ3b0o_33YfmZmx66sT1hsdc4x9wp-A5EqbvfY977j8NO=j+XQ@mail.gmail.com>
+
+I've just looked at this document from  Nepal Copyright Registrar's Office
+http://nepalcopyright.gov.np/downloadfile/Eng_Brochure66Final_1573191647.pdf
+which states on page 5.
+
+ " The Copyright Act, 2002 provides the following terms of protection to
+the authors/creators of the work:?  . . .Photographic works and applied
+arts are protected for 25 years from the year of preparation of the work".
+
+Based on that, NGMPP manuscripts photographed before 1997 would be in the
+public domain.
+
+Harry Spier
+
+
+On Mon, Apr 11, 2022 at 2:02 PM Harry Spier <vasishtha.spier at gmail.com>
+wrote:
+
+> I've been told off-list its likely that copyright for a photograph owned
+> by a government entity  lasts 50 years from when the photograph was taken.
+> Does the metadata for the NGMCP manuscript images include the date the
+> microfilm photographs were taken.
+> Harry Spier
+>
+>
+> On Mon, Apr 11, 2022 at 9:27 AM Charles DiSimone <
+> disimone at alumni.stanford.edu> wrote:
+>
+>> Dear Harry Spier,
+>>
+>> I believe you are thinking of the NGMPP and not the NGMCP, which is the
+>> later caloging initiative started in the 2000s. Some years ago while I was
+>> working at BDRC I had attempted to forge some agreement to make the NGMPP
+>> images available online. For example, in Hamburg there is an intranet with
+>> many of these images available to research staff (I'm not sure if this is
+>> the case still). During a trip there, I had a meeting about this where I
+>> laid out my understanding of copyright law, which I understand just as
+>> Jonathan and Stefan have already explained, and was met with polite but
+>> firm disagreement where I was told that it would be absolutely impossible
+>> to make the images publicly available. I looked into the situation with the
+>> National Archives in Nepal and, as Prof. Michaels has suggested, they do
+>> not wish for these images to be freely available. I was told that this may
+>> hypothetically change at some point, but at least five or so years ago it
+>> was impossible. Good luck!
+>>
+>> With my kind regards,
+>> Charles
+>>
+>> Dr. Charles DiSimone
+>> Department of Languages and Cultures
+>> Ghent University
+>>
+>>
+>> On Mon, Apr 11, 2022 at 3:13 PM Harry Spier via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>>> Thank you Dr. Michaels,
+>>> Its my understanding that the NGMCP project started around 1970, so some
+>>> of the photographs/microfilm were taken over 50 years ago. That makes me
+>>> wonder if by international copyright law, some of the earlier images are
+>>> not already legally in the public domain.
+>>>
+>>> I think for books, if the copyright is owned by an individual then the
+>>> copyright expires 50 or 75 years after the authors death, but if the
+>>> copyright is owned by a government then the copyright expires 50 or 75
+>>> years after the date of publication.  (I'm not sure if this is by
+>>> international copyright law or just by Indian copyright law) and I'm
+>>> wondering if it is the same case for photographs/microfilm. I.e. copyright
+>>> expires 50 or 75 years after the photograph was taken.
+>>> Harry Spier
+>>>
+>>>
+>>> On Mon, Apr 11, 2022 at 4:38 AM Michaels, Prof. Dr. Axel <
+>>> michaels at hcts.uni-heidelberg.de> wrote:
+>>>
+>>>> As far as I know, National Archives Nepal does not allow the NGMPP
+>>>> microfilms or any scans  from manuscripts or documents to go online. The
+>>>> reason ist the same as Jonathan mentioned: they want to make money. The
+>>>> situation is terribly complicated and many colleagues have suffered from
+>>>> it. However, you can always ask for a permission to publish the copies, and
+>>>> the South Asia Institute branch office of Heidelberg University in Patan is
+>>>> ready to give you assistance: see here:
+>>>> https://www.sai.uni-heidelberg.de/kathmandu/
+>>>>
+>>>>
+>>>>
+>>>> What we do in our project on cataloguing and editing  historical
+>>>> documents from the NGMPP collection (
+>>>> https://abhilekha.adw.uni-heidelberg.de;
+>>>> https://nepalica.hadw-bw.de/nepal/catitems/searchpage but
+>>>> unfortunately today not reachable due to maitenance work), we publish
+>>>> images under a special agreement with a low resolution .
+>>>>
+>>>>
+>>>>
+>>>> Best,
+>>>>
+>>>> Axel
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> __________________________________________________
+>>>>
+>>>>
+>>>>
+>>>> [image: cats]
+>>>>
+>>>> *Prof. Dr. Axel Michaels*
+>>>>
+>>>> Senior Professor
+>>>>
+>>>> Centre for Asian and Transcultural Studies (CATS)
+>>>>
+>>>> S?dasien-Institut / South Asia Institute
+>>>>
+>>>> Universit?t Heidelberg
+>>>>
+>>>>
+>>>>
+>>>> Vossstr. 2, Geb. 4130
+>>>>
+>>>> D-69115 Heidelberg
+>>>>
+>>>>
+>>>>
+>>>> T: +49-6221-5415209
+>>>>
+>>>> E: michaels at hcts.uni-heidelberg.de
+>>>>
+>>>> W: https://www.sai.uni-heidelberg.de/krs/abteilung/michaels.html
+>>>>
+>>>>       www.hadw-bw.de/nepal.html,
+>>>> https://www.hadw-bw.de/en/research/research-center/nepal-heritage-documentation-project-nhdp
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> *From: *INDOLOGY <indology-bounces at list.indology.info> on behalf of "
+>>>> indology at list.indology.info" <indology at list.indology.info>
+>>>> *Reply to: *Harry Spier <vasishtha.spier at gmail.com>
+>>>> *Date: *Sunday, 10. April 2022 at 14:56
+>>>> *To: *"indology at list.indology.info" <indology at list.indology.info>
+>>>> *Subject: *[INDOLOGY] NGMCP images and copyright law
+>>>>
+>>>>
+>>>>
+>>>> Dear list members,
+>>>>
+>>>> Does anyone know, if according to international copyright law, the
+>>>> manuscript images of the  NGMCP (Nepal German Manuscript Cataloguing
+>>>> project) will eventually go into public domain. And if so, when.  Or do the
+>>>> agreements signed between the project and the Nepal government supercede
+>>>> this, and the Nepal government has copyright for the images forever.
+>>>>
+>>>> Thanks,
+>>>>
+>>>> Harry Spier
+>>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> https://list.indology.info/mailman/listinfo/indology
+>>>
+>>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220411/ad577ec1/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 679 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220411/ad577ec1/attachment.png>
+

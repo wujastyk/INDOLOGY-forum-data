@@ -1,0 +1,53 @@
+From gruenen at MAIL.SUB.UNI-GOETTINGEN.DE  Mon Feb  9 15:07:50 2004
+From: gruenen at MAIL.SUB.UNI-GOETTINGEN.DE (gruenendahl)
+Date: Mon, 09 Feb 04 15:07:50 +0000
+Subject: Hindi OCR  --> Sanskrit OCR
+In-Reply-To: <000401c3ec37$69bc7260$abfd4382@Winston>
+Message-ID: <161227073855.23782.8128019280668493156.generated@prod2.harmonylists.io>
+
+> Do any of you know of a commerically available scanner program that can
+> handle Hindi? (Or for that matter: a non-commercial program)
+
+Sorry, I don't know of any such programme. But let me take the
+opportunity to draw attention to an OCR programme for Sanskrit in
+Devanagari. It was developed by Oliver Hellwig at the Institute for
+Indian Philology, Freie Universit?t Berlin.
+Further information can be obtained from:
+
+http://www.sanskritreader.de
+
+The programme is still being improved, and offers of collaboration
+are welcome, I understand. It is a great help in digitizing Sanskrit
+texts! Several texts he digitized with SanskritReader are available
+on GRETIL, by the way.
+
+Best regards
+Reinhold Gr?nendahl
+
+
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 G?ttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian
+Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+
+

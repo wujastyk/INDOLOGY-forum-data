@@ -1,0 +1,113 @@
+From isabelle.ratie at gmail.com  Sun Jul 13 14:32:09 2014
+From: isabelle.ratie at gmail.com (Isabelle Ratie)
+Date: Sun, 13 Jul 14 16:32:09 +0200
+Subject: [INDOLOGY] Alchemy metaphor
+In-Reply-To: <CAKdt-CeTuqSTMNNhB4KAUzxSTJgbyS1ox71H_nfxoBxSyBJx8g@mail.gmail.com>
+Message-ID: <CANFkKBauP1Gdewe3DpyXGs_-UFEXr3yUUQ-Xi_9gmpxf0bZhcA@mail.gmail.com>
+
+Dear Christopher,
+
+The passage in IPVV, vol. III, p. 348 is as difficult (to me at least)
+as it is interesting. Needless to say I don't claim to understand it
+better than you or any of the other learned scholars involved in this
+discussion, all the more since I am utterly ignorant of Indian
+alchemy. I would simply like to make a few additional remarks, hoping
+that they won't end up making things more obscure than they already
+are!
+
+1. As regards the first part of the analogy: Abhinavagupta also uses
+the image of mercury transforming copper into gold in Tantraaloka
+5.151 (note the use of vedhita by the way): svaya.mbhaasaatmanaanena
+taadaatmya? yaaty ananyadhii.h / "sivena hemataa.m yadvat taamra.m
+suutena vedhitam // (Cf. also TA 14.12). See also e.g. Yogaraaja ad
+Paramaarthasaara 96, p. 186: yathaa taamradravya.m siddharasapaataat
+suvar.niibhavati... I'm afraid these passages don't shed much light on
+the problems that you are trying to solve - still, maybe it is worth
+looking for other passages of this sort that could be more detailed?
+
+2. I would consider with much caution the suggestion that
+tannijaruupasamyagviddhakanakaruupataa is a marginal annotation that
+crept in the text of the KSTS edition, and this because (not to
+mention that marginal annotations are much more rare in IPVV
+manuscripts than in IPV manuscripts, and understandably so given the
+length of the IPVV) the IPVV comments on the lost text of the Viv.rti,
+so that there is much in the IPVV that does not make sense to us
+simply because we don't have the muula-text (compare for instance IPVV
+ad IPK 1.3.6 to 1.5.3 with the Viv.rti fragments now at our disposal
+thanks to Raffaele Torella's editions...So much that sounded like
+gibberish before makes sense now!). It is true that tannijaruupa- for
+instance rings like a mere gloss of some tatsvaruupa- ending compound;
+but then again it is likely that here Abhinavagupta is simply
+explaining the analogy as he found it in the Viv.rti.
+
+3. I understand why you want piitalataa to mean "gold leaf", although
+I must confess that just as Raffaele Torella and Ashok Aklujkar, my
+first reaction was to think "brassness". I see why you want to
+understand it in this way: you need gold here rather than brass,
+especially given the passage that you brought to the list's attention
+in the first place, which is clearly about gold being dissolved by
+mercury. But I don't know if lataa can have this meaning, and in the
+context of this analogy we would rather expect a word matching
+idantaa, i.e. with an abstract suffix. Would it be possible to
+understand piitalataa as we would understand piitataa, i.e. as
+"goldness" (given that piita means both "yellow" and "gold", and that
+piitala also means yellow/yellow substance)? I'm afraid that piitala
+only designates brass but I have no certainty in this regard. Wouldn't
+you contemplate a tentative emendation into piitataa then? In any case
+the compound that you see as spurious could actually serve your
+overall interpretation. Abhinavagupta could mean that in the
+turyaatiita state of consciousness even the remnants of objectivity
+(in the form of residual traces) are dissolved/liquefied and immersed
+into the pure "I", just as mercury liquefies the goldness
+(piitalataa/piitataa) that remains (it seems to me that ava"se.sa
+rather goes with piitalataa/piitataa) due to the force of residual
+traces, by bringing it into a full "jara.na" (maturation, or whatever
+this technical term really means) where this goldness (this time
+kanakaruupataa) is entirely pervaded by the own form of this
+(tannijaruupa) - that is, by the own form of mercury.
+
+Does this sound awfully far-fetched? I don't know - once more I have
+no certainty whatsoever as regards the meaning of this passage, and I
+can only say that you are brave to tackle it!
+
+All best wishes,
+
+Isabelle
+
+-- 
+Dr. Isabelle Rati?
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Apostelgasse 23, 1030 Vienna, Austria
+
+
+
+2014-07-13 11:48 GMT+02:00 Dominik Wujastyk <wujastyk at gmail.com>:
+
+> ?Just on the pitta/p?ta issue, these are, from the point of view of
+> historical phonology, alternants of the same word meaning "yellow" (cf. law
+> of morae; Mayrhofer). Bile, pitta, in Indian medicine, was "[yellow, p?ta]
+> bile."  The word p?ta occurs very frequently in ayurvedic sentences in
+> close collocation with the word pitta (e.g., see this listing of
+> collocations
+> <http://sarit.indology.info/newphilo/search3t?dbname=indologica&word=.*pitt.*+.*p%C4%ABt.*&OUTPUT=conc&CONJUNCT=PROXY&DISTANCE=5&title=&author=>).
+> So I think this semantic connection was alive in the minds of ayurvedic
+> authors.  This deserves proper study.
+>
+> India did not evolve the concept of "black bile" (Gk. melancholia) that
+> evolved in Hippocratic medicine.
+>
+> Best,
+> Dominik
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140713/9f149ff2/attachment.htm>
+

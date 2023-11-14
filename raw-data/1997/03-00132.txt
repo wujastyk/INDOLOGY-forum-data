@@ -1,0 +1,32 @@
+From apandey at u.washington.edu  Tue Mar 11 02:24:43 1997
+From: apandey at u.washington.edu (Anshuman Pandey)
+Date: Mon, 10 Mar 97 18:24:43 -0800
+Subject: CS Utopia updated
+Message-ID: <161227028884.23782.9756688754259603421.generated@prod2.harmonylists.io>
+
+
+On Sat, 8 Mar 1997, Dominik Wujastyk wrote:
+
+> The names are:
+> adobe-utopia-font-CS-encoding-PS-11.readme
+> adobe-utopia-font-CS-encoding-PS-11.zip
+> adobe-utopia-font-CS-encoding-TTF-11.readme
+> adobe-utopia-font-CS-encoding-TTF-11.zip
+
+The TrueType and Postscript .zip files are actually found as:
+
+adobe-utopia-font-cs-encoding-TTF-11.zip
+adobe-utopia-font-cs-encoding-PS-11.zip
+
+Dominik, perhaps you would want to rename these?
+
+Regards,
+Anshuman Pandey
+
+
+
+
+
+
+
+

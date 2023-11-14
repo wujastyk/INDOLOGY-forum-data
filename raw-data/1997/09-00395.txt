@@ -1,0 +1,18 @@
+From apandey at U.WASHINGTON.EDU  Tue Sep 30 05:08:57 1997
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Mon, 29 Sep 97 22:08:57 -0700
+Subject: Emacs + devanagari
+In-Reply-To: <Pine.A32.3.95.970928123825.66357G-100000@link-1.ts.bcc.ac.uk>
+Message-ID: <161227032856.23782.17959867610164600426.generated@prod2.harmonylists.io>
+
+Would anyone happen to know whether there is an MS-DOS port of this latest
+GNU Emacs with Devanagari support?
+
+Thanks.
+
+Regards,
+Anshuman Pandey
+
+
+
+

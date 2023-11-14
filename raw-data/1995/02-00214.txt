@@ -1,0 +1,135 @@
+From magier at columbia.edu  Sat Feb 25 11:26:36 1995
+From: magier at columbia.edu (David Magier)
+Date: Sat, 25 Feb 95 06:26:36 -0500
+Subject: inofficial e-texts - interested???
+Message-ID: <161227018727.23782.4878409079065438775.generated@prod2.harmonylists.io>
+
+Robin Kornman wrote:
+
+> Well, actually, those of us translating these "unrepresented" texts do
+> indeed have dictionaries. We have dictionaries we have manufactured using
+> our computers as we went along. For example, the Nalanda Translation
+> Committee has its own ever-growing glossary of standardizations we use in
+> our translations of biographies and ritual texts. We know that such
+> glossaries exist for many other groups. And Erik Schmidt combines these
+> various databases in a huge, burgeoning computerized dictionary he keeps in
+> Nepal. We freely give him our material and he and his friends type it into
+> their huge database...
+ 
+So the question becomes how to disseminate among scholars the ongoing
+value of such a database, even while it is still a 'work in progress'.
+For me, the answer would be to make it available on the internet.
+
+> The problem is that there is no money or time to spruce up these bases into
+> publishable dictionaries like Monier-Williams. Jeffrey Hopkins and his
+> students solve this problem by continually republishing their database at
+> the local Kinkos. They keep the information on a database program and
+> produce new editions in printed form on an irregular basis. 
+
+A useful solution that's been used for centuries, but costly,
+cumbersome, and quite a burden on the data producers.
+
+> Should we make our databases available via FTP?  We are all hesitant to do
+> this, because we do not understand very clearly what risks are involved in
+> this process.
+
+Instead of making the entire database available to the world via FTP
+as a unified text (a la Monier Williams), why not make it available
+for USE by the world as a searchable database? Instead of each scholar
+downloading the entire thing, like a new book for his own collection,
+why not set up the database on a server that would allow scholars to
+connect to and use it to look up specific entries as needed. This
+would solve many problems and address at least some of the concerns
+that Robin raised:
+
+> We would expose unedited scholary materials to the criticism
+> of our colleagues.
+
+Yes, but criticism is a good thing. A database like this could only
+benefit from the feedback of colleagues. And with an appropriate
+disclaimer, indicating that this is a work in progress, the
+'unedited' nature of the resource would not be viewed negatively. This
+is precisely equivalent to the working papers that physicists and
+medical researchers (for example) publishe with great success on the
+internet, in order to share the results of their ongoing work, in
+order to let others benefit from the process, and in order to derive
+benefit from the feedback.
+
+> We might forestall the possibility of one day actually
+> publishing a prestigious, carefully editing dictionary like
+> Monier-Williams.
+
+Yes. If you put the whole thing up for downloading as an FTP file,
+this would certainly be the case. But if you put it up as an
+interactive, searchable database, then people get to use it (or pieces
+of it) by looking up specific entries through keyword searching. In
+this case, you have not really 'published' the whole thing as a
+compiled dictionary, and could still do so later in paper form.
+
+> We might invite plagerism and stealing of our work--- which might not be a
+> problem, but who knows?  None of us have thought through the problems that
+> might be involved.  
+
+Yes, still a possibility, but again it would only be pieces of it that
+could be stolen, rather than the whole thing. That is, no one would be
+able to download the entire work, they could only look up particular
+entries.
+
+> Then there are a number of interesting dictionaries that relate to
+> indological subjects and are in Chinese or published in China. Not covered
+> by international copyright law, these texts could easily be transferred to
+> electronic format. Some of them have been. But they are only available
+> informally, again because the politics of making these texts broadly
+> available electronically is obscure. 
+
+I don't know the specifics of the dictionaries mentioned. But it
+certainly should be possible to get past the 'politics' and to garner
+the approval of the authors/compilers to add their data to a
+globally-accessible electronic database. My experience is that authors
+are often thrilled at the prospect of having their work made more
+available in this fashion, provided they are given appropriate credit
+for what they have done.
+
+> Then there are card-catalogue vocabularies which could be transferred to
+> computer databases quite easily. I saw one for Tibetan oral narrative in
+> Paris several years ago. 
+
+I'm not so sure that this kind of conversion is 'easy'. As a librarian
+I know that libraries have been struggling for years to find
+reasonably accurate and inexpensive ways to convert their old card
+catalogs into online databases. A massive project, and nothing seems
+to work except hiring someone to type in all the same data. Of course
+if the source materials were sufficiently interesting and of great
+value to the scholarly world, one might be able to get a foundation
+grant to support such conversion...
+
+Anyway, I would encourage anyone with useful lexical resources to take
+the leap and consider making them available on the internet as
+databases (not necessarily as ftp files). I would certainly be willing
+to disuss mounting such databases here at Columbia as part of The
+South Asia Gopher, to make them accessible from anywhere. The actual
+mechanics of taking such a file and generating a keyword index (using,
+for example, WAIS software on a unix server) to allow searching, are
+fairly trivial, and I could undertake to do that for any files people
+cared to deposit here for this purpose. The authors/compilers
+obviously would have to supply all the supporting material as text
+(i.e. the 'front matter' that explains methodologies, romanization and
+encoding conventions, sources consulted, names of contributors,
+acknowledgments, etc. etc.). This material would then form an "ABOUT"
+file (or README) which would accompany the actual search menu on the
+Gopher. What do you think?
+
+David Magier
+Columbia University
+South Asia Gopher
+magier at columbia.edu
+
+
+ 
+
+ 
+
+
+
+
+

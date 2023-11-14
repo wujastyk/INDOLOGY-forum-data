@@ -1,0 +1,52 @@
+From mcv at WXS.NL  Mon Jun 22 11:18:33 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Mon, 22 Jun 98 11:18:33 +0000
+Subject: Retroflex sounds
+In-Reply-To: <Pine.OSF.3.96.980621135945.10044A-100000@login3.fas.harvard.edu>
+Message-ID: <161227040162.23782.12537539146674010770.generated@prod2.harmonylists.io>
+
+Michael Witzel <witzel at FAS.HARVARD.EDU> wrote:
+
+>(2) if  (1) does not work, and waht I also had in mind:  has anyone an
+>opinion on:
+>
+> Nostratic **t  > PDrav. *.t,  etc.?
+>
+
+Illich-Svitych reconstructs three series of Proto-Nostratic stops,
+along the lines of Afro-Asiatic and Georgian *d, *t and *t' (voiced,
+unvoiced, "emphatic" or glottalic).  For PN > PDrav., the following
+sound laws are postulated:
+
+PN         PDr
+
+*t-        t-
+*-t-       -t-, -tt-
+
+*d-        t-
+*-d-       -t.-, -t.t.-
+
+*t'-       t-
+*-t'-      -t-, -tt-
+
+[Other Proto-Dravidian retroflex sounds are the result of PN *-L-
+(voiced lateral fricative), and PN *-l'- and *-n'- (palatal
+lateral/nasal, respectively)]
+
+That is to say, the 3 series merged in initial position.  In
+intervocalic position, the voiced series gave the retroflex sounds,
+the other two merged.
+
+The problem of the three series of stops in Proto-Nostratic is far
+from settled.  For instance, Alan Bomhard's reconstructions exchange
+the reflexes of the unvoiced and glottalic series as compared to
+Illich-Svitych.  Looking only at Dravidian, the system of stops seems
+to be governed by two parameters: (1) fortis (TT) vs. lenis (T), and
+(2) plain (t) vs. retroflex (t.), giving a total of 4 possible
+intervocalic stops (t, tt, t., t.t.).  In the initial position, the
+oppositions are neutralized (all merge to t-).  This is indeed
+similar to the parameters found in Afro-Asiatic, Georgian and
+Indo-European [glottalic version], which are (1) voiced vs. unvoiced,
+(2) plain vs. glottalic, and is also comparable to the fortis-lenis
+distinctions in Uralic (-t- vs. -tt-).
+

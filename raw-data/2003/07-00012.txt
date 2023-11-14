@@ -1,0 +1,35 @@
+From asg at U.WASHINGTON.EDU  Tue Jul 22 07:20:32 2003
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Tue, 22 Jul 03 08:20:32 +0100
+Subject: Sanskrit word order sort program ?
+Message-ID: <161227072976.23782.8499901625588696967.generated@prod2.harmonylists.io>
+
+I have an excel macro which will convert Sanskrit romanization (unicode)
+into a number. Sorting by this number will produce correct dictionary order.
+I don't have a solution for Tibetan yet.
+This works for Excel XP on Windows, I'm not sure if it would work for any
+other system.
+
+Let me know if this would help.
+
+Andrew
+
+----- Original Message -----
+From: "Stephen Hodge" <s.hodge at PADMACHOLING.FREESERVE.CO.UK>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Tuesday, July 22, 2003 2:24 AM
+Subject: Sanskrit word order sort program ?
+
+
+> Does anybody know if there is a program around for sorting romanized
+> Sanskrit into correct dictionary order.  I have a tri-lingual (Skt/Ch/Tib)
+> index containing 30,000+ entries that I need to sort for sanskrit.
+> I'd be grateful for any pointers
+>
+> Best wishes,
+> Stephen Hodge
+>
+
+
+
+

@@ -1,0 +1,129 @@
+From hgroover at qualitas.com  Sun Jan 28 14:01:41 1996
+From: hgroover at qualitas.com (Henry Groover)
+Date: Sun, 28 Jan 96 09:01:41 -0500
+Subject: Field trip to India: HELP!
+Message-ID: <161227022443.23782.4873496255696683996.generated@prod2.harmonylists.io>
+
+Beatrice Reusch wrote:
+>>>>>>>>>>>>>>>
+ I will be going to India in a month or so to collect some Sanskrit
+manuscripts, and I need to take a camera with me. Could someone
+kindly explain to me what would be the advantage of taking a digital
+camera?
+
+>HG>>
+I think the replies you've gotten were great in that they basically
+advocate the low-tech emulsion-type film approach.  I basically
+agree, but let me answer briefly some of your questions about
+digital.
+
+The only real advantage of a digital camera is that you're on-site
+after having spent 6 hours riding train, taxi, tonga, ricksha etc.
+and you've negotiated access to some rare manuscript, you shoot your
+pictures and can immediately download them to your laptop and verify
+their readability.  This is provisionally _if_ everything works as
+expected.
+
+You should be able to get readable quality this way, and you could
+probably do so in black and white (which considerably lowers the
+pricing of your camera, but that shouldn't be the main consideration
+here).  As pointed out previously, your quality still won't be
+comparable to fine-grained emulsion film (which you could then put on
+Photo CD for about $1 per frame and have extremely high-resolution
+digital content).
+
+>BR>>
+Could you please tell me in detail what kind of materials I need to
+take with me?  If a non-digital camera is better, what type of camera
+and film?
+
+>HG>>
+This has been handled in great and informative detail.
+
+>BR>>
+If digital, again, what kind?
+
+>HG>>
+As you seem to be using a Mac, check out Apple's digital camera.  I
+would not suggest going with a low-end model priced for the consumer
+market.  Visit a bookstore and get a copy of Imaging magazine, also
+Digital Video magazine will have reviews and ads for these somewhat
+specialized products.
+
+Another alternative I would _seriously_ consider is a digital
+camcorder.  Expect to pay $3,000-$4,000 (but then by the time you get
+a Power Mac laptop with a big enough hard disk plus a professional
+quality digital camera you're close to that) for one of the new Sony
+models.  The current issue of Digital Video has a feature article on
+these.  Basically, you get 700 scan lines of resolution (compared to
+400-500 on NTSC or PAL video).  It may seem a bit odd to suggest this
+for still shots _but_ you can check the readability as you shoot.
+
+Once you get back to the States you can hook up the digital camcorder
+to a machine with a FireWire interface and upload everything directly
+to your hard disk.
+
+This is just a really wild idea, and I would see what others have to
+say about shooting MSS with a camcorder.  You still have to extract
+single frames once you get everything back on your hard disk, but
+this should be relatively straightforward.
+
+>BR>>
+If I take a digital camera, can I use it with a laptop Mac?
+
+>HG>>
+Yes; all (decent) digital cameras have a SCSI or serial interface for
+uploading pictures to a PC or Mac.  But I would try to get more
+specific info from folks who've been doing digital photography,
+perhaps on one of the fora suggested (rec.arts.photography ?)
+
+>BR>>
+What type of battery-powered Mac would be the best? How much RAM,
+what size of hard drive? 
+
+>HG>>
+Get one with more than the minimum recommended RAM (if it was a PC
+I'd say 8MB minimum).  You need a laptop with very good battery
+performance.  I have a Dell Latitude XP which uses lithium ion
+batteries - expensive, but no memory, high capacity, and quick
+recharge.
+
+Get a big hard drive - images take up lots of space, even with
+compression.  1GB would be best though you could probably squeak by
+with 540MB.
+
+>BR>>
+ What type of backup/storage device?
+
+>HG>>
+A Zip drive might be good for this - they're cheap, store 100MB per
+cartridge, but don't run off batteries.  You can do backup when you
+get back to the hotel.
+
+Hope some of this helps.  There's no terribly useful info here but
+lots of ideas and a few little facts.
+
+Regards,
+Henry Groover
+HGroover at qualitas.com
+
+>BR>>
+I'd sincerely appreciate it immensely if you could kindly take the
+time to answer my questions.  I'm really in need of advice here.  I'm
+drowning in an ocean of ignorance. Please help!
+With best wishes,
+Beatrice
+
+
+
+
+ 
+
+<<<<<<<<<<<<<<<
+
+ 
+
+
+
+
+

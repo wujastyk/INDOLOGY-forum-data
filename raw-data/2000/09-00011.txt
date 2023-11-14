@@ -1,0 +1,33 @@
+From rajarshi.banerjee at SMGINC.COM  Fri Sep  1 22:53:15 2000
+From: rajarshi.banerjee at SMGINC.COM (Rajarshi Banerjee)
+Date: Fri, 01 Sep 00 18:53:15 -0400
+Subject: vowel shifts in mordern indian
+Message-ID: <161227061289.23782.3035595801120616881.generated@prod2.harmonylists.io>
+
+Here is a snippet form a thread in another group.I was wondering if someone
+with knowledge of comparitive indian grmmars can throw light on some of the
+questions
+
+GJ>It is just that the evidence for e/o is only indirect *as I said, it
+substist before velars, because velar before the front vowels e palatalise).
+RB>Just want to clear something. does the front vowel e change the preceding
+stop or the following stop. In gneral, I can see either happening.
+so does kek -> chek or kech or chech. I am thinking also of loch in scottish
+and ich in german.
+1) Historically is the final stop ever influenced by the preceding vowel.
+In indian vernaculars we see even dentals changing to palatals satya->sach
+(hindi) sachcha(spoken telugu) (fronting in ya colours the preceding
+dental?). Whereas in bengali satya -> shotto retains a dental because of the
+back vowels.
+2) Ablaut,e/o reflexes could be detectable due to palatalization. Is this
+indeed the case in sanskrit when it comes to grammatical variation on the
+root.
+3) Bengali is the only language I know which has undergone a backing of
+vowels rather than fronting, are there other cases like this?
+regards
+
+RB
+
+
+
+

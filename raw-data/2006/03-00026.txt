@@ -1,0 +1,61 @@
+From rhayes at UNM.EDU  Wed Mar  8 16:46:38 2006
+From: rhayes at UNM.EDU (Richard P. Hayes)
+Date: Wed, 08 Mar 06 09:46:38 -0700
+Subject: Indian Syllogism
+In-Reply-To: <003101c642ac$7e78ec60$9ab7fea9@skknet.net>
+Message-ID: <161227077569.23782.16101961761756746088.generated@prod2.harmonylists.io>
+
+On Wed, 2006-03-08 at 13:33 +0100, Plamen Gradinarov wrote:
+
+> I believe the way we arrive at the universal (and apodictic) character
+> of the invariable concomitance (vyapti) has nothing to do with the
+> Indian inferential mechanism
+
+It could be argued that the use of positive and negative examples is to
+give a precedent for seeing an instance of the pak?a with an instance of
+the hetu, and to give a precedence for seeing both absent at the same
+time and the same place. The presence of the examples, if it has any
+purpose at all, seems to be to give a basis for believing that there is
+a vy?pti. The proposition that there is a vy?pti is synthetic, not
+analytic.
+
+When unpacks the full implications of anvaya and vyatireka, it amounts
+to saying "In every instance observed so far, the hetu has been present
+only when the pak?a has not been absent." This leaves open the
+possibility, as Peter observed, that future observations may well
+deviate from the past. It is not part of the very definition of smoke
+that it is accompanied by fire; it has simply been observed so far that
+smoky loci and also fiery. This makes the inferential schema one that
+yields high probability but not certainty. So the inference schema is
+much like Hume's famous example of the sun rising tomorrow; it is by no
+means certain that the sun will rise tomorrow, but that the sun will
+probably rise tomorrow is how the smart money bets.
+
+There are, of courses, cases cited in Indian philosophy of lines of
+reasoning that involve analytic claims. We have the famous example of
+the barren woman's son. By definition a barren woman has no children.
+Somewhat more interesting is the example of the horned hare. I have
+heard animated arguments among Tibetans over whether it is an analytic
+truth or a synthetic truth that hares have no horns. If anyone settles
+that dispute definitively, I'll let you know.
+
+As an aside, here in New Mexico a favorite joke to pull on visitors is
+to tell them that somewhere out in the arid foothills there is a huge
+jack rabbit that has antlers. It's called a jackalope. Tourists are
+advised to keep their eyes open for them. Once when a Tibetan geshe was
+visiting New Mexico, his friend bought a statue of a jackalope in a
+tourist shop and said "See, Geshe-la, this proves that it's not
+impossible for a rabbit to have horns. One can imagine such a thing. If
+one can imagine something, it's not a logical impossibility. So it can't
+be true by definition that rabbits do not have horns. It's a synthetic
+truth." The geshe was unimpressed. He said "That's not a rabbit. If it
+were, it would not have horns. It's a jackalope."
+
+-- 
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+
+

@@ -1,0 +1,225 @@
+From hspier.muktabodha at gmail.com  Thu Mar 21 18:08:01 2019
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Thu, 21 Mar 19 14:08:01 -0400
+Subject: [INDOLOGY] Non-standard sandhi
+In-Reply-To: <cbbd7a7d-0642-843b-e546-32879808ee66@gmail.com>
+Message-ID: <CAPW7aQExM4XTNV+Pc5kxT3EmEvTUYQ529J5kWYSFbUEPYkFdiw@mail.gmail.com>
+
+On Thu, Mar 21, 2019 at 11:21 AM Martin Gansten via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> o there is at least one Buddhist parallel and one Vedic (?V 8.72.5c: v?ti
+> st?tava amb?yam, as pointed out by Jan). That is interesting.
+>
+
+I just did a search of GRETIL for ...a a....  ... and there are hundreds
+possibly thousands of occurances of this .  Here is a small sample.  Note
+the Brahmasutras and Mahabhasya with commentaries had hundreds but since I
+wasn't sure if sandhi had been broken in these for commentarial purposes
+I'm not including them in this following small sample:
+
+* Rg Veda*
+
+Aufrechts edition compiled by H.S. Ananthanarayana and W. P. Lehman. <BR>
+
+RV_01.077.04.1{25} sa no n???? n?tamo ri??da agnirgiro 'vas? vetu dh?tim<BR>
+
+RV_01.094.05.2{30} citra? praketa u?aso mah?nasya agne ...<BR>
+
+RV_01.105.03.1{20} mo ?u deva ada? svarava p?di divas pari<BR>
+
+RV_01.141.01.2{08} yad?mupa hvarate s?dhate matir?tasya dhena anayanta
+sasruta?<BR>
+
+RV_01.161.12.2{06} a?apata ya? karasna? va adade ya? pr?brav?t protasma
+abrav?tana<BR>
+
+RV_01.161.12.2{06} a?apata ya? karasna? va adade ya? pr?brav?t protasma
+abrav?tana<BR>
+
+RV_01.174.10.1{17} tvamasm?kamindra vi?vadha sya av?katamo nar?? n?p?t?<BR>
+
+RV_01.191.01.2{14} dv?viti plu?? iti nyad???a alipsata<BR>
+
+
+
+RV_07.023.04.2{07} y?hi v?yurna niyuto na ach? tva? hi dh?bhirdayase vi
+v?j?n<BR>
+
+RV_08.005.03.1{01} yuv?bhy?? v?jin?vas? prati stoma ad?k?ata<BR>
+
+RV_08.066.13.1{50} vaya? gh? te tve id vindra vipra api ?masi<BR>
+
+RV_08.092.31.1{20} m? na indra abhy?di?a? s?ro aktu?v? yaman<BR>
+
+
+RV_10.025.02.1{11} h?disp??asta asate vi?ve?u soma dha masu<BR>
+
+RV_10.025.07.1{12} tva? na? soma vi?vato gopa adabhyo bhava<BR>
+
+RV_10.088.07.2{11} tasminnagnau s?ktav?kena dev? havirvi?va
+ajuhavustan?p??<BR>
+
+RV_10.138.05.2{26} indrasya vajr?dabibhedabhi?natha?
+pr?kr?macchundhyurajahadu?a ana?<BR>
+
+RV_10.151.03.1{09} yath? deva asure?u ?raddh?mugre?u cakrire<BR>
+
+RV_10.152.02.2{10} v??endra?pura etu na? somapa abhaya?kara?<BR>
+
+
+*Atharvaveda-Samhita, Saunaka recension with the Pada-Patha and
+Sayanacarya's commentary, Hoshiarpur 1960-1964<BR>*
+
+*(*AV?_3,19.8c) j?ya am?tr?n pr? padyasva jahy ???? v?ra?vara? m??m?????
+moci k?? can? ||8||<BR>
+
+(AV?_4,20.9a) y? ant?rik?e?a p?tati d?vam y?? ca atis?rpati |<BR>
+
+(AV?_4,36.10a) abh? t?? n?rr?tir dhatt?m ??vam iva a?v?bhidh??ny? |<BR>
+
+(AV?_6,39.3c) ya??? v??vasya bh?t?sya ah?m asmi ya??stama? ||3||<BR>
+
+(AV?_10,5.7a) agn?r bh?g? stha ap??? ?ukr?m ?po dev?r v?rco asm??su dhatta
+|<BR>
+
+(AV?_10,5.8a) ?ndrasya bh?g? stha ap??? ?ukr?m ?po dev?r v?rco asm??su
+dhatta |<BR>
+
+(AV?_10,5.9a) s?masya bh?g? stha ap??? ?ukr?m ?po dev?r v?rco asm??su
+dhatta |<BR>
+
+(AV?_10,5.10a) v?ru?asya bh?g? stha ap??? ?ukr?m ?po dev?r v?rco asm??su
+dhatta |<BR>
+
+(AV?_10,5.11a) mitr??v?ru?ayor bh?g? stha ap??? ?ukr?m ?po dev?r v?rco
+asm??su dhatta |<BR>
+
+(AV?_10,5.12a) yam?sya bh?g? stha ap??m ?ukr?m ?po dev?r v?rco asm??su
+dhatta |<BR>
+
+(AV?_10,5.13a) pitr?????? bh?g? stha ap??? ?ukr?m ?po dev?r v?rco asm??su
+dhatta |<BR>
+
+(AV?_10,5.14a) dev?sya savit?r bh?g? stha ap??? ?ukr?m ?po dev?r v?rco
+asm??su dhatta |<BR>
+
+(AV?_19,31.12a) gr?ma???r asi gr?ma???r utth??ya abh??ikto 'bh? m? si?ca
+v?rcas? |<BR>
+
+(AV?_20,131.2a) t?sya anu n?bha?janam ||2||<BR>
+
+
+*maitr?ya??i-sa?hit? ?chroeder's edition*
+
+ity uparik???e asur???? n?ma a??ama? prap??haka? sam?pta? //MS_3,8.10//<br>
+
+
+amanyanta, aya? v?veda? bhavi?yat?ti ta indra aichan han?memam iti so
+'brav?t sa?dh? vai me
+
+
+sr?jas?yen?bhi?i?cate tad v?rtraghnam evaitat, dev?? ca v? asur?? ca
+samayatanta t?n agnis evaitat,
+
+
+1 2 2 0910c pra na ay???i t?ri?at .. 184<BR>
+
+
+* Samaveda*
+
+4 2 2 01 01a eta as?gramindavastira? pavitram??ava? .<BR>
+
+4 4 2 01 04a pra sv?n?so rath? iv?rvanto na avasyava? .<BR>
+
+4 7 1 0703a aj?jano am?ta marty?ya am?tasya dharmannam?tasya c?ru?a? .<BR>
+
+4 9 2 1101c pra na ay???i t?ri?at .. 1840<BR>
+
+
+*Gopatha-br?hm??a*
+
+(GBr_1,2.18q) ten??va abhi???yeteti<BR>
+
+gharma? t?pyam?nam up?s?ta ?astravad ardharca?a ?h?vapratigaravarja?
+r?pasam?ddh?bhi?_<BR>
+
+(GBr_2,2.6kk) tad apy e??bhyan?kt? &lt;catv?ri ???g? [PS 8.13.3, sakala at
+GBr 1,2.16f]&gt;_iti || 6 ||<BR>
+
+(GBr_2,4.4n) net svik?ta antaray?meti_<BR>
+
+(GBr_2,4.18w) net svi??ak?ta antaray?meti_<BR>
+
+
+*Satapatha Brahmana*
+
+bhr?t?vya? vardhayedyadatih?tya s?dayedyadya an?pt?? s?dayenno h?bhista?<BR>
+
+upadadh?mi bhr?t?vyasya badh?yeti yadi n?bhicaredyadya abhicaredamu?ya<BR>
+
+atha dak?i??m paridadh?ti | indrasya b?hurasi dak?i?o vi?vasya ari??yai<BR>
+
+saptada?a s?midhen?? | i??ya anubr?y?dup???u tasyai devat?yai yajati yasy?
+i??a?<BR>
+
+rak?as?mapahant? yadi madhyata asurarak?as?ny?sisa?k?antyagnireva
+t?nyapahanti<BR>
+
+
+*Govind Kaul: Pradesasamgraha*
+
+puna? ca asya jal??ayasya p??c?ttye ta?a ek? b?hacch?l? pur?tanak?l?nena
+jyah??g?rar?j?? samp?dit? yasy?m ?dhunikar?j?? j?r?oddh?r?dika? niram?yata
+|<br>
+
+asminn eva achyabal iti sth?na? sarvajanamate priya? sarvata? prakhy?ta? ca
+bhavati |<br>
+
+yasmin bh?bh?ge 'sy?gne? pr?durbh?va? sa bh?mibh?ga atyu??o
+hast?dispar?en?pi lak?yate |<br>
+
+tatraikasya nandik?etra? n?ma anyasya k?lak?etra? n?ma vartate |<br>
+
+ato j??yate purat?ne k?le tat sarvam abhavi?yad eva asyoktajal??ayadvayasya
+k??m?rikagr?m??abh??ay? nund kol iti n?madvaya? sarvajanakathyam??a?
+bhavati |<br>
+
+aya? k???habhedo jv?l?rahito 'pi p?k?dikriya? samp?dayaty eva asya
+gr?m???n?? bh??a?e vi?hur v? vi?har k??h n?ma bhavat?ti ||<br>
+
+kecana a?okenaiva r?j?? ca prade?e prathamato nirm??a? k?tam iti svapustake
+likham?n? d??yante |<br>
+
+tath? ca asya sarvasya jagata? s???y?der ?d?v api vartam?no yas sa
+?dike?ava? |<br>
+
+
+*Sarvamatasamgraha edition by T. Ganapati Sastri*
+
+s?dhanas?m?ny?bh?vena s?dhyas?m?ny?bh?vasya vy?ptirvyatireka? yatra yatra
+agnirn?sti tatra tatra dh?mo 'pi n?st?ti |<BR>
+
+
+Badarayana: Brahmsutra, with Bhasya and Dipika, Adhyaya 1, Pada 1
+
+param?nand?dy?tmakasya param?tmana? pratibimbatay?
+svata?cid?nand?dy?tmakasya j?vasya
+an?dyavidy?k?makarm?dinimittabandhadhva?s?ya nikhilaj?vaja??tmak?t
+prapa?c?t param?rthato iti
+
+
+*Pururavas: Kadambarisvikaranasutramanjari*
+
+* anena v?kyena anayo? k?ryak?ra?asa?gati? upap?dit? bhavati tath? c?yam
+artha?
+
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190321/77daf0cb/attachment.htm>
+

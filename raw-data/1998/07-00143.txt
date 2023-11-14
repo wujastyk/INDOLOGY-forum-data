@@ -1,0 +1,70 @@
+From Boris.Oguibenine at EHESS.FR  Fri Jul 10 12:09:06 1998
+From: Boris.Oguibenine at EHESS.FR (Boris Oguibenine)
+Date: Fri, 10 Jul 98 14:09:06 +0200
+Subject: double accusative (was Re: passive of causatives)
+In-Reply-To: <v03110700b1cb9e7cfe42@[129.240.19.27]>
+Message-ID: <161227040736.23782.13342493891610702320.generated@prod2.harmonylists.io>
+
+A 13:06 10/07/98 +0200, vous avez ?crit :
+>Jacob Baltuch wrote:
+>>Dominique Thillaud wrote:
+>>
+>>>Sandra van der Geer wrote
+>>>>I agree with you in considering one accusative the direct object, and the
+>>>>other accusative the indirect object, or the dative. As we all know, one
+>>>>and the same function or kAraka can be denoted by several cases.
+>>>
+>>>        I can't agree: to take one of both accusatives as a dative is an
+>>>anchronism, projecting ancient syntax to our own and above all forgiving
+>>>the pragmatical shift of some verbs. I believe that, in ancient time, to
+>>>give, to spell and some other ones were direct actions on the receiver,
+>>>constraining him strongly.
+>>
+>>We were talking about an example with the verb 'darzayati' I believe in the
+>>meaning of 'show'.
+>>
+>>That the 2nd accusative of the (theoretical) double accusative construction
+>>of darzayati was considered an indirect object by the users of the language
+>>themselves is made plain by the fact that that accusative is much more
+>>commonly
+>>replaced by a dative or a genitive.
+>
+>Pace Panini I feel rather uneasy about the use of meta-grammatical
+>arguments, because they invite to pressing linguistic data into
+>preconceived schemes of interpretation. In this case: "tam pustakaM
+>darzayati" is felt to be equivalent to English "he shows him a book"
+>(German "er zeigt ihm ein Buch"), and since "him" in this case can be taken
+>(in analogy to the German "ihm") as an indirect object, we feel entitled to
+>interprete the accusative "tam", too, as an indirect object. But is it not
+>more sound to take case endings seriously and to understand the sanskrit
+>sentence as "he makes him see a book", where we feel no doubt about the
+>direct object character of both "him" and "the book"? And the fact that
+>"darzayati" could (since when?) be used with a dative or genitive shows
+>only that its semantics gradually shifted into the direction of "to show"
+>(i.e. "to give someone something to see") so that it could be used in
+>analogy to verbs like "dA". But that does not entitle us in my opinon to
+>call the accusative "tam" an "indirect object".
+> Georg v. Simson
+>
+>
+
+
+It is however useful to recall that "tam pustakaM darzayati/dadAti" can be
+analyzed as possessing three semantic roles.The agent "he" acts upon "a
+book" which is an affected object or patient and upon "him" which is the
+recipient. On the other hand a current distinction is between the high
+transitivity (a book is given or given to see) and the low transitivity
+("he" is only secondarily affected by the agent). The point is that
+"pustakam darzayati/dadAti" is a complete utterance, whereas"*tam
+darzayati/dadAti" is an ellipsed utterance which may be understood
+adequately, only if an additional information about the object of high
+transitive verb (which information may be recovered from a foregoing
+sentence or the general context or the accompanying gestures), is provided.
+Thus the two verbs are semantically akin, but their semantic features are
+distributed differently depending upon the semantic roles involved.
+
+Boris Oguibenine
+
+
+
+

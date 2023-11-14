@@ -1,0 +1,17 @@
+From mmdesh at umich.edu  Tue Nov 22 19:50:17 1994
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Tue, 22 Nov 94 14:50:17 -0500
+Subject: Help on using Binhex4.0
+Message-ID: <161227017893.23782.13687461834877553397.generated@prod2.harmonylists.io>
+
+	I downloaded the first of the Mahabharata files from Washington 
+FTP site.  Then I tried unbinhexing it.  The second step did not work.  
+Could some Binhex Guru tell me how to use the Binhex4.0 program?  Its 
+menus are not terribly obvious to common humans like me.  Thanks.
+	Madhav Deshpande
+ 
+
+
+
+
+

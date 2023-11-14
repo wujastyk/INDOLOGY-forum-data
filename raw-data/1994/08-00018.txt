@@ -1,0 +1,27 @@
+From micsik at ilabx3.ilab.sztaki.hu  Mon Aug  8 08:21:29 1994
+From: micsik at ilabx3.ilab.sztaki.hu (Andras Micsik)
+Date: Mon, 08 Aug 94 09:21:29 +0100
+Subject: Astadhyayi.zip -- what is it and how to read?
+Message-ID: <161227017028.23782.11889150086372973048.generated@prod2.harmonylists.io>
+
+I would like your help in the following: I have downloaded the  
+astadhyayi.zip file from ftp.bcc.ac.uk. Inside there is one TeX file,  
+stating to be Panini's Sutrapatha. I have tried to TeX it, but there  
+were strange results. The text contained letters like T,C,K,  
+French-like accents, and other unknown characters, e.g. two short  
+horizontal parallel lines. I am beginner with Sanskrit, but this text  
+seems to be corrupted. So could you tell me:
+
+1. What is Sutrapatha? I know only Astadhyayi from Panini. And why are  
+the names different outside and inside?
+
+2. How can I reproduce the text? Do I need some special font or utility  
+to replace uppercase characters and other strange effects?
+
+					Andras Micsik
+ 
+
+
+
+
+

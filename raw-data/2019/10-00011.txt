@@ -1,0 +1,87 @@
+From hspier.muktabodha at gmail.com  Tue Oct  1 13:21:37 2019
+From: hspier.muktabodha at gmail.com (Harry Spier)
+Date: Tue, 01 Oct 19 09:21:37 -0400
+Subject: [INDOLOGY] Highlights from the Sanskrit corpora
+In-Reply-To: <CAKdt-Cd+Q=Niiw9NZX5Vzhvc21M2NrhZ8Zq6dDYWVcGFAdSwEQ@mail.gmail.com>
+Message-ID: <CAPW7aQHSuXdq5_hBAxsczqZMJ0+_rY=XKVShR8pX0HuVJ=eYOg@mail.gmail.com>
+
+I vaguely recall an Indian copyright lawyer telling me years ago that for
+works published in India before 1957 copyright expires 50 years after date
+of publication.  But for works published after 1957 copyright expires 50 or
+75 years after the authors death. (I don't recall if he said 50 or 75
+years).  And for government published works its 50 or 75 years after
+publication.
+
+Can anyone confirm or correct this?
+
+Thanks,
+Harry Spier
+
+On Tue, Oct 1, 2019 at 5:49 AM Dominik Wujastyk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Copyright is a slippery beast.  But the law is not *that* difficult in
+> broad outline.
+>
+> What you say, Jonathan, about not being able to claim copyright over
+> editions, is definitely wrong.  One can.  Authors, editors, and publishers
+> do so all the time.  It's routinely printed on the back of the title page.
+>
+> There *is* a precedent of some sort specifically in German law that
+> copyright on an edition expires after 25 years, and not the usual 60 or 70
+> years after the death of the author.  Some other countries are looking at
+> this German law and behaving accordingly.  See
+> Margoni, Thomas and Perry, Mark, Scientific and Critical Editions of
+> Public Domain Works: An Example of European Copyright Law
+> (Dis)Harmonization (November 18, 2011). Canadian Intellectual Property
+> Review, Vol. 27, p. 157. Available at SSRN:
+> https://ssrn.com/abstract=1961535 (PDF)
+> <https://www.dropbox.com/s/mb8mc9rpsc1q2wb/Margoni%202011%20SSRN-id1961535.pdf?dl=0>
+>
+> But copyright inheres in all sorts of things.  So, a book contains text
+> written by an author.  The author has copyright of that (unless they sign
+> it away).  But the book also has a certain design, created by a book
+> designer.  That may be subject to copyright, if it is particularly
+> original.  Someone created the typeface and owns the copyright of that.  So
+> you could get the author's permission to photocopy the book and the
+> designer and typeface creators could still sue you for breach of their
+> copyright.  It's all very vexing.
+>
+> In the case of the Mbh, I think there's a arguable case that BORI owns
+> copyright of the text, but Prof. Tokunaga co-owns copyright of the
+> electronic transcription.  Because he made something new and unique,
+> especially by dividing compounds and so forth, thereby creatively adding
+> original content.
+>
+> The Wikipedia page on Copyright <https://en.wikipedia.org/wiki/Copyright>and
+> on infringement <https://en.wikipedia.org/wiki/Copyright_infringement>
+> are good, incidentally.  As the latter page says,
+>
+> Shifting public expectations, advances in digital technology, and the
+> increasing reach of the Internet have led to such widespread, anonymous
+> infringement that copyright-dependent industries now focus less on pursuing
+> individuals who seek and share copyright-protected content online, and more
+> on expanding copyright law to recognize and penalize, as indirect
+> infringers, the service providers and software distributors who are said to
+> facilitate and encourage individual acts of infringement by others.
+>
+> So while it's unlikely that you personally would be pursued for putting
+> the BORI Mbh on your website, the website maintainer or even hosting
+> business might be pursued.
+>
+> Best,
+> Dominik
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191001/29d69324/attachment.htm>
+

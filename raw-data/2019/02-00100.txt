@@ -1,0 +1,249 @@
+From diegoloukota at ucla.edu  Sun Feb 17 00:29:22 2019
+From: diegoloukota at ucla.edu (DIEGO LOUKOTA SANCLEMENTE)
+Date: Sat, 16 Feb 19 18:29:22 -0600
+Subject: [INDOLOGY] Chinkara (a gazelle) (John Huntington)
+In-Reply-To: <mailman.28.1550336402.28481.indology_list.indology.info@list.indology.info>
+Message-ID: <CAPwhWdviPWE2Kme2tNSipcXANYHSsO9wrL6fGS+pdByhfLSwZw@mail.gmail.com>
+
+[note: I had replied without modifying the subject with ?RE:? I apologize
+if both versions end up mailed to the list]
+
+  The issue of the chinkara interested me, so I went first to Turner's
+dictionary. Var?hamihira in his *B?hatsa?hit?* mentions a *chikkara* in
+85.20b, 38b, and 44a in the context of omens. The 1946 translation of
+Subrahmanya Sastri and Ramakrishna Bhat makes a mess of the situation by
+translating the first "musk rat (or civet cat)," the second as "a kind of
+deer" (but reading a chimaeric *dhikkara*) and the third as "jackal?." But
+Pa?j?b? *cak?r?* and Hind? *ci?k?r?* (whence the English term) make very
+likely that we are dealing here with the same animal. MW does give for
+*chikkara* "a kind of animal" and for *chikk?ra* "a kind of antelope," both
+entries literally translated  from the big St. Petersburg lexicon of
+B?htlingk and Roth. Burrow ("Dravidian Studies VII," BSOAS 12 (1948), p.
+379, ?145) suggests a Dravidian origin for the Sanskrit word on the basis
+of Kannada *cigari*.
+  Nevertheless, although *chikkara*/*chikk?ra* may have at some point
+become the scientific Sanskrit term for the species *Gazella Bennettii*, I
+feel that for general purposes the ubiquitous Sanskrit *m?ga* may have been
+broad enough to encompass all the infra-order *Pecora* (deer, antelopes).
+Perhaps our seeing *m?ga* as "deer" rather than as "antelope" is best seen
+as the inheritance of a restrictive choice on the part of Victorian
+translators? (as the mostly wrong "swan" for *ha?sa*, etc.). Common usage
+Sanskrit seems to me rather sloppy in some departments of animal taxonomy,
+with *pata?ga* being almost any flying insect except for the
+hyper-fetishized bees (butterflies, moths, and even locusts) etc.
+  In a passage of the *M?lasarv?stiv?davinaya* dealt with by Schopen (*Buddhist
+Monks*, 232), instructions are given on the *dharmacakrapravartana* symbol
+to be engraved on the monastery's seals ("in the middle draw the wheel, and
+on both sides [draw] **m?ga*s: below the name of the owner of the monastery
+should be drawn," *dbus su 'khor lo bris la glo gnyis su ri dgas 'og tu
+gtsug lag khang gi bdag po'i ming bri bar bya'o*, Derge, 'Dul ba, Tha
+8a6-7). The word given in the Tibetan is *ri dags* ("mountain beast") which
+is the standard translation of *m?ga*. I sense that had the ancient
+translators seen anything unusual like *chikkara* they would not have used
+the generic term.
+  I hope this is of any use!
+
+  *namaskaromi*,
+
+  Diego Loukota
+
+
+
+
+
+
+
+
+
+On Sat, Feb 16, 2019 at 11:00 AM <indology-request at list.indology.info>
+wrote:
+
+> Send INDOLOGY mailing list submissions to
+>         indology at list.indology.info
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>
+> http://list.indology.info/mailman/listinfo/indology_list.indology.info
+>
+> or, via email, send a message with subject or body 'help' to
+>         indology-request at list.indology.info
+>
+> You can reach the person managing the list at
+>         indology-owner at list.indology.info
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of INDOLOGY digest..."
+> Today's Topics:
+>
+>    1. Chinkara (a gazelle) (John Huntington)
+>    2. Re: Chinkara (a gazelle) (Olivelle, J P)
+>    3. Re: Chinkara (a gazelle) (John Huntington)
+>    4. Continuing my Krishna verses (Madhav Deshpande)
+>
+>
+>
+> ---------- Forwarded message ----------
+> From: John Huntington <john.darumadera at gmail.com>
+> To: Indology <indology at list.indology.info>
+> Cc:
+> Bcc:
+> Date: Fri, 15 Feb 2019 13:27:42 -0500
+> Subject: [INDOLOGY] Chinkara (a gazelle)
+> Dear list members,
+>
+> I am working on a very modest terminology and illustrated list of animals
+> that occur in Buddhism. Unfortunately one, the Chinkara a (small gazelle)
+> which repeatedly appears to either side of the Dharmachakra in most
+> sculptures oof the first turning, does not appear to have a verifiable
+> Sanskrit name. In essence, it is the "deer" of the 'deer park' translation
+> of "m?gadava."
+>
+> The creature depicted does not (or *very* rarely) has branched antlers (a
+> deer characteristic) but gently curving horns which it does not shed (an
+> antelope gazelle characteristic).
+>
+> My sincere appreciation for any help or references.
+>
+> Best to all
+>
+> John
+>
+>
+>
+> ---------- Forwarded message ----------
+> From: "Olivelle, J P" <jpo at austin.utexas.edu>
+> To: John Huntington <john.darumadera at gmail.com>
+> Cc: Indology <indology at list.indology.info>
+> Bcc:
+> Date: Fri, 15 Feb 2019 18:41:56 +0000
+> Subject: Re: [INDOLOGY] Chinkara (a gazelle)
+> Hi John:
+>
+> Can you post a picture of the animal?
+>
+> Patrick
+>
+>
+>
+> On Feb 15, 2019, at 12:27 PM, John Huntington via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear list members,
+>
+> I am working on a very modest terminology and illustrated list of animals
+> that occur in Buddhism. Unfortunately one, the Chinkara a (small gazelle)
+> which repeatedly appears to either side of the Dharmachakra in most
+> sculptures oof the first turning, does not appear to have a verifiable
+> Sanskrit name. In essence, it is the "deer" of the 'deer park' translation
+> of "m?gadava."
+>
+> The creature depicted does not (or *very* rarely) has branched antlers (a
+> deer characteristic) but gently curving horns which it does not shed (an
+> antelope gazelle characteristic).
+>
+> My sincere appreciation for any help or references.
+>
+> Best to all
+>
+> John
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+>
+>
+> ---------- Forwarded message ----------
+> From: John Huntington <john.darumadera at gmail.com>
+> To: "Olivelle, J P" <jpo at austin.utexas.edu>
+> Cc: Indology <indology at list.indology.info>
+> Bcc:
+> Date: Fri, 15 Feb 2019 17:35:51 -0500
+> Subject: Re: [INDOLOGY] Chinkara (a gazelle)
+> Thank you Patrick,
+>
+> They are a beautiful Gazelle/Antelope that is amazingly wide spread in
+> India, pakistan and even in Iran. I have attached a picture on one that I
+> have edited. I have travelled across most of the subcontinent and never
+> seen one that I can recall
+>
+> On Fri, Feb 15, 2019 at 1:41 PM Olivelle, J P <jpo at austin.utexas.edu>
+> wrote:
+>
+>> Hi John:
+>>
+>> Can you post a picture of the animal?
+>>
+>> Patrick
+>>
+>>
+>>
+>> On Feb 15, 2019, at 12:27 PM, John Huntington via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> Dear list members,
+>>
+>> I am working on a very modest terminology and illustrated list of animals
+>> that occur in Buddhism. Unfortunately one, the Chinkara a (small gazelle)
+>> which repeatedly appears to either side of the Dharmachakra in most
+>> sculptures oof the first turning, does not appear to have a verifiable
+>> Sanskrit name. In essence, it is the "deer" of the 'deer park' translation
+>> of "m?gadava."
+>>
+>> The creature depicted does not (or *very* rarely) has branched antlers
+>> (a deer characteristic) but gently curving horns which it does not shed (an
+>> antelope gazelle characteristic).
+>>
+>> My sincere appreciation for any help or references.
+>>
+>> Best to all
+>>
+>> John
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>>
+>
+>
+> ---------- Forwarded message ----------
+> From: Madhav Deshpande <mmdesh at umich.edu>
+> To: Indology <indology at list.indology.info>
+> Cc:
+> Bcc:
+> Date: Sat, 16 Feb 2019 06:36:42 -0800
+> Subject: [INDOLOGY] Continuing my Krishna verses
+> Continuing my Krishna verses
+>
+> ???????????: ????? ????????? ???????? ?
+> ??? ??????? ??? ???? ?? ??????? ???????? ???????
+> [?????? = ???????????????]
+> O Krishna, if I could restrain these [modulations of my mind] crawling
+> here and there, then I can see your hidden beautiful face.
+>
+> Madhav M. Deshpande
+> Professor Emeritus
+> Sanskrit and Linguistics
+> University of Michigan
+> [Residence: Campbell, California]
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://list.indology.info/mailman/listinfo/indology_list.indology.info
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190216/ff659f16/attachment.htm>
+

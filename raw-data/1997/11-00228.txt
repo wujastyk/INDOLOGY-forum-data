@@ -1,0 +1,171 @@
+>From the Arabic-L list.  This describes an email discussion for
+transliteration issues and an on-going discussion on the matter of
+Perso-Arabic script by the International Organization for
+Standardization's Transliteration committee.   --FL
+----------------------------------------------------------------------
+Date: 19 Nov 1997 From: John Clews <Converse at sesame.demon.co.uk>
+(reposted from Arabic-Info) Subject: Transliteration Standards
+
+Transliteration standards for Arabic and Perso-Arabic script
+
+I am the chair of the International Organization for Standardization
+subcommittee responsible for transliteration (ISO/TC46/SC2: Conversion
+of Written Languages). This met from 12-14 May 1997 at the British
+Standards Institution in Chiswick, London, to review international
+standards in this area - both already published and under development.
+
+One of the points that was brought to my attention several times,
+particularly in Working Group 11: Transliteration of Perso-Arabic
+script, was the lack of participation from organisations in Arabic
+countries (Iran is the only country currently involved outside of
+Europe), and also from universities with strong Arabic departments and
+library collections.
+
+I am interested in any participation that you or any of your
+colleagues may be able to undertake, either in meetings or
+electronically, given your own necessary involvment in the
+multilingual use of computers.
+
+Despite computer standards like ISO/IEC 10646 and Unicode, there will
+always be a need for transliteration as long as people do not have the
+same level of competence in all scripts besides the script used in
+their mother-tongue, and may have a need to deal with these languages,
+or when they have to deal with mechanical or computerised equipment
+which does not provide all the scripts of characters that they need.
+
+The secretary (Evangelos Melagrakis from Greece) and I intend to make
+transliteration and ISO/TC46/SC2 far more visible and far more
+relevant to end users than it has been in the past. To enable this, an
+electronic mailing list for ISO/TC46/SC2 (tc46sc2 at elot.gr) and an
+associated Web site (located at www.elot.gr/tc46sc2) has now been set
+up by ELOT (the Greek national standards body). We hope this list will
+attract researchers and scientists who can add useful information
+which might assist in developing standards on the Conversion of
+Written Languages.
+
+
+Scope of transliteration work in ISO/TC46/SC2's working groups.
+
+[WG1:] Transliteration of Cyrillic (work now combined with that of
+WG5) [WG2:] Transliteration of Arabic (work now combined with that of
+WG11)
+ WG3:  Transliteration of Hebrew
+ WG4:  Transliteration of Korean
+ WG5:  Transliteration of Greek, Armenian, Georgian and Cyrillic
+ WG6:  Transliteration of Chinese
+ WG7:  Transliteration of Japanese
+ WG8:  Transliteration and computers
+ WG9:  Transliteration of Thai
+ WG10: Transliteration of Mongolian
+ WG11: Transliteration of Perso-Arabic script
+ WG12: Transliteration of Indic scripts
+
+
+SCRIPTS USED IN OFFICIAL LANGUAGES WORLDWIDE, AND SOME COMMON ORIGINS
+
+NB: to avoid distortion, resize your viewer/printer if the word
+"origins" in the above line is not at the end of a line, and view or
+print with a mono-spaced (non-proportional font).
+
+   Latin   Cyrillic                Devanagari - - - Tibetan
+      \     /                   /  Gujarati
+       \   / - Armenian        /   Bengali          _ Mongolian
+        \ /                   /    Gurumukhi       /
+       Greek - Georgian      /     Oriya       SOGDIAN      Chinese
+         |                  /                  SCRIPT      /
+         |                 /       Telugu                 /
+     PHOENICIAN         BRAHMI - - Kannada     IDEOGRAPHIC - Japanese
+    /  SCRIPT  \        SCRIPT     Malayalam      SCRIPT  \
+   /     |      \          \       Tamil                   \
+Hebrew   |      Arabic      \                               Korean
+         |        \          \ - - Sinhala
+         |                    \
+         |          \          \ _ Burmese
+         |                      \  Khmer
+         |            \          \
+      Ethiopic     Divehi         \ _ Thai
+     (Ethiopia,   (Maldives)          Lao
+      Eritrea)
+
+Key: Scripts shown in CAPS are the historical source script for other
+scripts shown, now essentially superseded. These scripts are used in
+over 99% of the worlds official languages shown in the rest of the
+diagram. Scripts used in non-official languages, and historical
+scripts, are not shown above.
+
+
+The tc46sc2 at elot.gr list on transliteration
+
+There are quite a few with an interest in transliteration in library
+catalogues on the list, but there are other potential users of
+transliteration too.
+
+One major advantage of email is the ability to involve far more
+people in the development of a common purpose than were involved
+before, to get user feedback, and expert opinion from various
+sources. There are now over 270 subscribers to tc46sc2 at elot.gr, from
+43 countries and territories, providing a global interest group in
+this area, covering all the scripts shown above.
+
+
+Subscribing to the mailing list for ISO/TC46/SC2
+
+In order to join the list you should be actively involved in using
+transliteration systems, or in developing transliteration systems, and
+should be prepared to contribute to the list from time to time.
+
+If you wish to join the list, send an email to
+
+        majordomo at elot.gr
+
+with this message in the body of the text:
+
+        subscribe tc46sc2 your at email.address
+
+(but with your real email address replacing the string
+your at email.address).
+
+To find out further commands you can use, send the command "help" as
+the text of an email either to tc46sc2-request at elot.gr or to:
+majordomo at elot.gr To unsubscribe, send the command "unsubscribe"
+instead, omitting the "quotes" marks in both cases. This will tell you
+how to obtain copies of past messages etc., and other useful features.
+
+Once you are subscribed, you can send messages to tc46sc2 at elot.gr and
+receive messages from other members of the list. Please reply where
+possible to the list as a whole, so that all can benefit: using the
+Group Reply function (pressing G on some email software) is the
+simplest way to achieve this.
+
+Other members will also be interested to see who else is joining the
+list, so it is useful to send a brief introduction (say, one or two
+short paragraphs) to tc46sc2 at elot.gr at the outset, saying what
+languages, scripts and other things you are involved in. That is the
+most likely way to stimulate others to write on the subjects you are
+interested in!
+
+I look forward to seeing new participants on this list. Please feel
+free to forward this to anyone else who may be interested in
+transliteration standardisation issues, and to send any queries about
+the list to me.
+
+                             Yours sincerely
+
+
+                     John Clews and Evangelos Melagrakis
+
+(Chair & Secretary of ISO/TC46/SC2: Conversion of Written Languages)
+
+--
+J. Clews, SESAME, 8 Avenue Road, Harrogate, HG2 7PG, England
+Email: Converse at sesame.demon.co.uk;   tel: +44 (0) 1423 888 432
+
+E. Melagrakis, ELOT, 313 Acharnon Str., GR-111 45 Athens, Greece
+Email: eem at elot.gr                           tel: +30 1 201 9890
+
+----------------------------------------------------------------------
+---- End of Arabic-L: 19 Nov 1997
+
+
+
+

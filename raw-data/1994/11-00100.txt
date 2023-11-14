@@ -1,0 +1,76 @@
+From magier at columbia.edu  Wed Nov 16 14:20:26 1994
+From: magier at columbia.edu (David Magier)
+Date: Wed, 16 Nov 94 09:20:26 -0500
+Subject: RAMAYANA & MAHABHARATA e-texts
+Message-ID: <161227017841.23782.8472659944578359199.generated@prod2.harmonylists.io>
+
+> With reference to David Magier's message, it would be nice
+> if someone could post the exact e-mail address of the South Asia
+> Gopher and the Columbia ftp server
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+HOW TO CONNECT TO THE SAG:
+
+Simply gopher to: <gopher.cc.columbia.edu 71>; and then navigate down
+through the menus as follows (Be sure to use port 71):
+CLIO Plus/SELECTED TOPICS/South Asia.
+
+If you have a gopher client software, use the following pointer ('bookmark'):
+	Type=1
+	Name=The South Asia Gopher
+	Host=gopher.cc.columbia.edu
+	Port=71
+	Path=1/clioplus/scholarly/SouthAsia
+
+---------OR-------------
+
+Simply telnet to: <columbianet.columbia.edu>. Once connected to
+Columbianet, select the menu item marked "CLIO Plus." Within that menu,
+you'll find an item on the list labelled "SELECTED TOPICS: Internet
+Resources By Subject" Select that one, and within it you'll find the South
+Asia Gopher! 
+
+---------OR-------------
+
+If you use MOSAIC or Lynx other web-browser, use this URL: 
+     gopher://gopher.cc.columbia.edu:71/11/clioplus/scholarly/SouthAsia
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+> It is indeed a good idea to
+> centralize this type of information. To disseminate the information
+> more widely, it may also be appropriate to post a brief table of
+> contents of available material on Usenet newsgroups such as
+> sci.lang, soc.culture.indian, soc.culture.tamil,... 
+> Also, there are many classical musical compositions (with text and
+> sometimes notation) which have been posted on rec.music.indian.classical.
+> (Indian musical notation is relatively easy to put in ASCII form.)
+> Again, a centralized source of such material would be helpful.
+
+These are all there within the South Asia Gopher. Look within the
+SOUTH ASIANISTS submenu, in the item marked USENET Newsgroups. (Note:
+actual access to the Usenet articles in these newsgroups only works if
+you access the SAG by telnet as above. For some reason, we cannot get
+this access to work if you go via gopher client or WWW browser. We are
+still trying to fix this...)
+
+As for the Columbia FTP server, its address is ftp.cc.columbia.edu
+but note that there are not yet any indological files to be found
+there.
+
+Hope this helps. And, as always, please send feedback on the SAG (and
+submit your entries to have yourselves listed in The International
+Directory of South Asia Scholars -- let me know if you need info on
+that).
+
+David Magier            <magier at columbia.edu>
+South Asia Librarian
+and
+South Asia Gopher
+Columbia University
+ 
+
+
+
+
+

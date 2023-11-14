@@ -1,0 +1,31 @@
+From vjroebuck at btinternet.com  Fri Aug  1 12:42:46 2014
+From: vjroebuck at btinternet.com (Valerie J Roebuck)
+Date: Fri, 01 Aug 14 13:42:46 +0100
+Subject: [INDOLOGY] Font with Brahmi characters
+In-Reply-To: <CAKdt-CcqjEtUqidOhM6_VF-bgzd2KAALNkWbw8P7Ddfw933mkw@mail.gmail.com>
+Message-ID: <799D9477-3E67-4B07-A97A-F9FF70E289DC@btinternet.com>
+
+Could someone please give me a clue as to how to download the Brahmi characters from that page? 
+
+Thanks -
+
+Valerie J Roebuck
+Manchester, UK
+
+On 1 Aug 2014, at 10:30, Dominik Wujastyk <wujastyk at GMAIL.COM> wrote:
+
+> The June 2014 release of the free Unicode font "Unifont" added the Brahmi character set.  Link:
+> http://unifoundry.com/unifont.html
+> DW
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140801/653742d8/attachment.htm>
+

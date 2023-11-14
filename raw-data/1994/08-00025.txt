@@ -1,0 +1,32 @@
+From lnelson at teetot.acusd.edu  Tue Aug  9 04:41:42 1994
+From: lnelson at teetot.acusd.edu (Lance Nelson)
+Date: Mon, 08 Aug 94 21:41:42 -0700
+Subject: Indic Fonts in Windows
+Message-ID: <161227017038.23782.18352414397807112528.generated@prod2.harmonylists.io>
+
+I've ftp'd two Indic fonts and loaded them into Windows, one True Type
+from HACC and another ATM-Bitstream from the Liverpool computer.  I've
+been trying them out in WinWord 6.0a.  They work fine as screen
+and printer fonts.
+
+My problem is that WinWord uses the Windows system font in dialogue
+boxes.  Therefore, both the Find/Replace functions and the Spelling functions
+don't work properly with the special characters.  I've modified my
+keyboard in WinWord to input the characters, and again this works fine
+except in the dialogue boxes.  Has anyone worked through this problem?  Is
+a system font with the special characters needed?  Would I have the same
+problems in AmiPro or Word Perfect?  Any advice is much appreciated.
+
+Lance
+==============================================================================
+Lance E. Nelson                                    Phone: 619/260-4600, x4407
+Religious Studies                                           FAX: 619/260-2260
+University of San Diego                        San Diego, CA 92110-2492 U.S.A. 
+==============================================================================
+
+ 
+
+
+
+
+

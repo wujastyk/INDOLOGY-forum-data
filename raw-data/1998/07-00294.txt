@@ -1,0 +1,25 @@
+From danstender at METRONET.DE  Mon Jul 27 22:45:53 1998
+From: danstender at METRONET.DE (Daniel Stender)
+Date: Tue, 28 Jul 98 00:45:53 +0200
+Subject: Converting Devanagari
+Message-ID: <161227041034.23782.2638842184537438612.generated@prod2.harmonylists.io>
+
+Hello Folks !
+
+I?ve got some problems using the programm "devawin" which is connected with the TTF "Balaram" in some way.
+The man who gave this package to me said that I must type the "Balaram" with diacritics and "DevaWin" is able to convert the whole into nagari via clipboard.
+The Problem is that I can?t find any diacricitca within "Balaram".
+
+Can anybody solve this problem ?
+
+Greetings,
+Daniel Stender
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/19980728/71fe3f69/attachment.htm>
+

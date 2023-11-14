@@ -1,0 +1,104 @@
+From thompson at JLC.NET  Wed Jun 10 14:40:27 1998
+From: thompson at JLC.NET (George Thompson)
+Date: Wed, 10 Jun 98 09:40:27 -0500
+Subject: method of dating RV, III
+Message-ID: <161227039743.23782.4576589970758865218.generated@prod2.harmonylists.io>
+
+Jan Houben is quite right to point out the circularity in my last post. I
+will try to keep better watch over myself.
+
+I am concerned to address his concerns re methodology, in particlular his
+point re "numerical strength" of the evidence used [a point which, of
+course, I accept -- basic philology].
+
+I have in fact been studying all of the relevant passages. The material is,
+I think, important, and raises many issues which I hope to be able to
+explore [rest assured, though, that I do not intend to bombard the list
+with this]. Just some general remarks here about the general context:
+
+In his last post JH suggested, I think, that RV 8.46.21 was not
+representative of all of the attestations of the term a'deva. In fact, this
+is true, but that is also why it is of interest.
+
+In general, one associates the term a'deva with the VRtra myth. VRtra is
+probably the a'deva par excellence. The term a'deva also plays a key role
+in Kuiper's theory of a cosmogonic rivalry between the asuras and the
+devas. K makes much of RV 8.96.9 a'surA adevA'H [note the shift in accent:
+this is the only example of *adeva* with end-accent -- perhaps marking it
+as a bahuvrIhi only here, or perhaps there is more to it? or very little?].
+There is also an interesting play on the phrase *vi'zve devA'H* at 7.1.10,
+with vi'zvA a'devIH ... mAyA'H ['all the ungodly magical practices' of
+those hostile to the Vedic Aryans; more on this below].
+
+What is of particular interest is the relationship between those passages
+[such as 8.46.21] in which the term a'deva [also adeva' and A'deva] seems
+to refer to humans, rather than to demons [or rather 'non-gods' or gods who
+are enemies of the devas; note that the terms ra'kSas (neut.)and rakSa's
+(masc.) are both fairly common in a'deva contexts]. As is typical of
+Rgvedic "evidence" in general, in the collection of passages where this
+term occurs there is a complex interweaving of mythological and poetic
+motives with historical ones. In other words, the references to historical
+figures, i.e., the proper names that look Iranian or at least non-Vedic,
+which have been discussed on this thread so far, are colored by semantic
+associations with mythology. Such is the case too with the term a'deva. All
+of this is very Vedic, of course. This makes the evidence difficult,
+because of the multiple references radiating out from such culturally
+loaded terms. But this complextiy is also one of the pleasures of Vedic.
+
+So when we encounter an a'deva in the RV, we are not encountering some kind
+of monad that can be isolated and clearly articulated. We are encountering
+a piece of a very elaborate mosaic [many pieces of which, of course, are
+missing].
+
+The piece that we are looking at on this thread, the term a'deva, is linked
+to many important motives in the RV. Among them, just to throw out another
+issue, is the development of Indra within an Indo-Iranian context. The fact
+that Iranians know of Indra only in late Avestan texts suggests to me that
+Indra cannot be reconstructed to a common Indo-Iranian period or culture
+area [even considering the presence of Indra in the Mitanni texts]. The
+refs. in the Vendidad to Indra, as the first member of a list of demon
+[daEuua] names, is to me good evidence of historical contact, rather than
+common cultural inheritance.
+
+Finally, an interesting hymn that links many of these motives and develops
+them in a different direction is RV 5.2, a well-known hymn to Agni, to the
+esoteric hidden Agni to whom many of the Vedic RSis were particularly
+attracted [rather than, say, macho Indra]. In this hymn, there are
+brahmodya-like riddles, priestly self-assertion [several times repeated
+apazyam, atakSam], rare RV allusion to the zunaHzepa story [with the
+assertion, contradicted it would seem by the fuller version at AB 7.13f.,
+that it was Agni who freed zunaHzepa, rather than VaruNa or the gods
+collectively].
+
+We have reference in st. 3 to the priest's rivals as anindrA'H and
+anukthA'H. So when we encounter the phrases a'devIr mAyA'H [magic practices
+of the a'deva] in st. 9 and paribA'dho a'devIH [obstructions of the a'deva]
+in st. 10, I think it is reasonable to suppose that the reference is to
+human beings, not gods or demons.
+
+Who are these? Again, we have these possibilities:  (1) a Vedic Aryan hostile
+to the devas; (2) an Iranian Aryan hostile to the devas; (3) a Dravidian or
+some other non-Aryan hostile to the devas. Given that this hymn occurs in a
+family book with some evident awareness of the West [cf. Witzel in the
+Erdosy volume, p.317, citing the Krumu and Sarayu rivers: the latter at
+least appears in Old Persian as haraiva, and in Late Avestan as hArOiiu;
+cf. Haria, a territory in Margiana controlled a bit later by the Medes (see
+Diakonoff in Camb. Hist. of Iran II, p.127, 129)], In my view (2) seems
+more likely than (1) or (3). If we were talking about later Vedic [or even
+later RV], I'd be inclined to (3) instead.
+
+Like Jan Houben I will turn to the list for its judgments on this.
+
+BTW, JH questions the likelihood of Vedic acquaintance with "Iranians with
+a Zarathustric religion". The point, as I see it, of the "de-historicizing
+of Zarathustra" is that Iranians had something like "Zarathustric religion"
+even before Zarathustra. In fact, I see traces of "Zarathustric religion"
+even in the RV, but that would be the subject of another post.
+
+Best wishes,
+
+George Thompson
+
+
+
+

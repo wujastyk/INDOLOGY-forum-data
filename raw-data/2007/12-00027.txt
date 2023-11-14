@@ -1,0 +1,19 @@
+From zydenbos at UNI-MUENCHEN.DE  Sun Dec 16 20:31:28 2007
+From: zydenbos at UNI-MUENCHEN.DE (Robert Zydenbos)
+Date: Sun, 16 Dec 07 21:31:28 +0100
+Subject: Mac-Devanagari
+In-Reply-To: <C38983A2.98A2%heike.moser@uni-tuebingen.de>
+Message-ID: <161227081634.23782.6014777358179356784.generated@prod2.harmonylists.io>
+
+Since Unicode is obviously 'the way to go', also on Mac, I put together 
+some of my findings together with links in a web page, for those who are 
+interested:
+
+http://www.lrz-muenchen.de/~zydenbos/unicodeosx.html
+
+RZ
+Universit?t M?nchen
+
+
+
+

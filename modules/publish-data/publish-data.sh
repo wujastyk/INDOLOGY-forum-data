@@ -40,7 +40,7 @@ for file in "$input_dir_path/**/*.txt"; do
     sed -i 's|Subject: ||g' $file
 done
 
-# copy all the files in 'input' folder to 'data' folder
+# copy all the processed files in 'input' folder to 'data' folder
 for folder in "$input_dir_path/**"; do
     folder_name=$(basename $folder)
     target_dir_path=$data_dir_path/$folder_name

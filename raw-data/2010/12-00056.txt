@@ -1,0 +1,17 @@
+From arlogriffiths at HOTMAIL.COM  Fri Dec 17 03:58:57 2010
+From: arlogriffiths at HOTMAIL.COM (Arlo Griffiths)
+Date: Fri, 17 Dec 10 03:58:57 +0000
+Subject: making diacritics (on my Mac)
+Message-ID: <161227091107.23782.13673257887680069308.generated@prod2.harmonylists.io>
+
+Sorry, for asking help about mundane issues such as the following: 
+In Luis Gonz?lez-Reimann's last posting, I admired his ability to produce r with subscript circle. I haven't yet found a way to make this combination (let alone the corresponding long vocalic r, or accented ones for Vedic) on my Mac with any of the inbuilt fonts/keyboards. Is there a way?
+I am also looking for a way to make the candrabindu on top of an m. Is there any simple way to do so or must one work with specific Indological fonts and keyboards?
+Finally, I'd like to make a tilde (~) on top of an m. This would seem to be an easy one, but the usual key combination for placing tilde on top does not yield the desired result when used with m in the U.S. Extended Keyboard. Does anyone know a solution?
+Of course I'd be happiest if I could do all of the above tricks in one font and keyboard and still be able to make the usual diacritics too.
+Thanks again,
+Arlo Griffiths (EFEO/Jakarta) 		 	   		  
+
+
+
+

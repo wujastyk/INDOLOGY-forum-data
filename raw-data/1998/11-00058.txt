@@ -1,0 +1,109 @@
+From mcv at WXS.NL  Wed Nov  4 05:07:06 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Wed, 04 Nov 98 05:07:06 +0000
+Subject: Paired Horse and PIE breakup
+In-Reply-To: <363F4FC5.9FA13B5C@jps.net>
+Message-ID: <161227042247.23782.5167368638233375862.generated@prod2.harmonylists.io>
+
+Paul Kekai Manansala <kekai at JPS.NET> wrote:
+
+>Let's consider the cuneiform inscriptions of Persia.  Are these part of
+>the same migrations that brought the Vedic peoples to India?
+
+No.  It is quite clear that the movement of Persians and Medes into
+Western Iran was a separate event, independent of the Indo-Aryans and
+independent of the rest of the (Eastern) Iranians.
+
+The Persian cuneiform syllabary is a Persian invention.  Apart from
+the general wedge-like ("cuneiform") shape of the letters, it has
+nothing specific in common with Akkadian or Elamite Cuneiform.  In
+that respect it is similar to, say, Cherokee writing, where most of
+the signs resemble letters of the Roman alphabet or shapes that might
+have been letters of the Roman alphabet, but the sound values are
+completely different, and in fact stand for syllables, not phonemes.
+
+However, Persian cuneiform had only limited use, and the most widely
+used writing system in the Persian Empire was Aramaic.
+
+>If we accept that the Ashokan and related scripts came from the
+>"Middle East" and are related to Phoenician-type scripts, how did these
+>vault over to India and when?
+
+That's an interesting question, that has no simple solution.
+The oldest known Indian scripts (apart from the IVC script, that is),
+are Kharos.t.hi: (5th c. BC?) and Bra:hmi: (3rd. c. BC?).  Kharosthi
+was used exclusively in the North-West, and has left no modern
+descendants.  Brahmi is the source of all modern Indian and SE Asian
+alphabets, as well as the Tibetan alphabet.  The most widely accepted
+theory is that Kharosthi (surely) and Brahmi (most likely) are
+derived from the Aramaic alphabet (itself ultimately derived from
+Linear Canaanite/Phoenician), the official script of the Achaemenid
+empire.  The Aramaic script was enormously influential both during
+and after the fall of the Achaemenid Empire.  That is why Hebrew and
+Arabic are today written in Aramaic-derived scripts, even if at first
+Hebrew was written in a local variant of Phoenician script, and
+Arabic in a local variant of South-Semitic script (as survives today
+in Ethiopia).  Aramaic writing also spread widely into Central Asia,
+where it was used for writing various Iranian and Turkic languages,
+and led eventually led to the Mongolian and Manchu scripts.
+
+The date of the earliest Kharoshthi inscriptions coincides with that
+of the spread of Aramaic throughout the Persian Empire, and it seems
+the shapes of most Kharosthi letters can be easily identified with
+teh shapes of the Imperial Aramaic script.  In the case of Brahmi,
+only some of the letters are similar to Aramaic letters of identical
+phonetic value.  The most intriguing aspect of course is that both
+Kharosthi and Brahmi, unlike Imperial Aramaic, are "alphasyllabaries"
+(or "abugidas" to use the Ethiopian term).  The Aramaic script was
+not simply taken over as is, and not even simply adapted/extended to
+the phonetic needs of Sanskrit/Prakrit, but it was fundamentally
+re-wrought.
+
+It is interesting to generalize about the different ways in which
+writing systems can be transmitted, having to do with the proficiency
+of the creators of a certain script with the script from which it is
+derived (or by which it is inspired).
+
+1. Only the idea of writing is transmitted; the creators of the new
+script are unfamiliar with or choose to completely disregard the
+general shape of the signs in the original writing system.  (It is
+said that Egyptian hieroglyphic was inspired by early Sunerian
+cuneiform in this way, but I haven't seen nay real proof of that).
+
+2. Only the general shape of the writing is transmitted. The creators
+of the new script are illiterate in the original script, but have
+seen enough sample of it to create signs that have the same general
+shape (examples: Cherokee, Persian cuneiform).
+
+3. Shapes and (some) values of the original script are transmitted,
+but the general principles are reworked (alphabet -> (alpha-)
+syllabary, consonantal alphabet -> full alphabet, etc.).  The
+creators of the script are presumably only semi-literate in the
+originating script.  (examples: Brahmi & Kharosthi < Aramaic, Greek <
+Phoenician, etc.)
+
+4. The writing system is borrowed in full, although it might be
+reduced/extended to fit the needs of the language(s) for which it is
+borrowed.  The creators of the script are reasonably proficient ion
+the originating writing system.  Examples: Cyrillic < East Greek,
+Roman/Etruscan < West Greek, South Indian scripts < Brahmi, etc.)
+
+5. A special case is Iranian Aramaic, where the writers are in a way
+too proficient in the originating script, and the change from Aramaic
+to Middle Iranian is only gradual and never complete.  The word for
+"king" (and many, many others) is still written MLK (in Aramaic),
+although it is to be pronounced as /sha:h/.  Similar cases are
+Akkadian cuneiform (< Sumerian) and Japanese writing (< Chinese),
+although the fact that these are logosyllabic scripts, where a single
+sign can stand for a whole word, makes the development more readily
+understandable.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

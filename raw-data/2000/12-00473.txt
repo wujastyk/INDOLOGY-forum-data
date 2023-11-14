@@ -1,0 +1,75 @@
+From rbm49 at STUDENT.CANTERBURY.AC.NZ  Thu Dec 21 20:20:22 2000
+From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Richard B Mahoney)
+Date: Fri, 22 Dec 00 09:20:22 +1300
+Subject: Devnag for MacOS
+Message-ID: <161227065790.23782.7227889150267650120.generated@prod2.harmonylists.io>
+
+Dear Readers,
+
+This news from comp.text.tex may be of special interest to some of
+you.
+
+The original poster -- Reinhard Zierke <zierke at DANTE.DE> -- has
+permitted it to be forwarded to this list.
+
+
+May I also wish you all a pleasant break.
+
+Many regards,
+
+ Richard Mahoney
+
+
+***** Forwarded message from Bernard Desgraupes *****
+
+I have uploaded in the incoming directory an archive I'd like to
+submit for insertion in the CTAN. It is a port to the Macintosh of the
+devnag program a preprocessor which is part of the Devanagari package
+(in /tex-archive/language/devanagari/distrib/).  It will allow people
+working under MacOS to use the Devanagari package : so far the
+preprocessor had not been ported to this platform.  It is entirely GPL
+free software.
+
+This port has been tested and showed to the authors and maintainers of
+the devanagari package (Velthuis and Pr John Smith). Pr Smith
+suggested me to submit it to CTAN.
+
+I guess the best location where to put it should be in
+
+    /tex-archive/language/devanagari/contrib/
+
+I have made the C source files of this port available in the
+"MacDevnag_src" subfolder. It is up to you to decide if they should be
+put on CTAN to.  Everything can be found on my personal Web page :
+http://perso.easynet.fr/~berdesg/macdevnag.html There is also a
+subfloder called "For Alpha" containing Tcl resources for people
+working with the Alpha Latex Editor : they can drive MacDevnag
+directly from within Alpha.
+
+Contents of the archive (MacDevnag.sit.hqx 199k):
+
+[snip]
+
+***** End forwarded message *****
+
+Thanks four your submission.  I installed it on ftp.dante.de in
+CTAN:/tex-archive/language/devanagari/contrib/MacDevnag
+together with the contents of your mail as README file.
+It will soon be copied to the other CTAN nodes and mirrors.
+
+Reinhard Zierke
+for the CTAN team
+
+
+--
+end
+======================================================================
+Richard Mahoney                              Telephone: +64-3-351-5831
+78 Jeffreys Rd
+Christchurch
+NEW ZEALAND                          mailto:rbm49 at csc.canterbury.ac.nz
+----------------------------------------------------------------------
+
+
+
+

@@ -1,0 +1,21 @@
+the US, try ftp.cdrom.com. From there you will have to find the 
+appropriate subdirectory, probably /languages.  There's also a site 
+closer to you, in Japan, but I forget its address. Other CTAN sites are: 
+
+ftp.dante.de
+ftp.tex.ac.uk
+
+Best,
+Bob Hueckstedt
+
+Robert A. Hueckstedt, Associate Professor of Indic Languages
+Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+Winnipeg, Manitoba R3T 2N2 Canada
+http://www.umanitoba.ca/faculties/arts/asian_studies
+fax 1 204-261-4483 phones 1 204-474-8964, 1 204-488-4797
+
+
+
+
+
+

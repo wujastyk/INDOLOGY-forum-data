@@ -1,0 +1,66 @@
+From rolfheiner.koch at gmail.com  Wed Aug 14 07:22:50 2019
+From: rolfheiner.koch at gmail.com (Rolf Heinrich Koch)
+Date: Wed, 14 Aug 19 09:22:50 +0200
+Subject: [INDOLOGY] EasyUnicode for a Windows computer?
+In-Reply-To: <CAPW7aQH0ggXWybkhL7Sx_ziqBNnNpMYBM9mju4WYB8Ofj_2uzw@mail.gmail.com>
+Message-ID: <df481938-43bf-9e2a-92e0-467d00b194d1@gmail.com>
+
+If you like to use Unicode-letters for all Windows-apps incl. Explorer, 
+Firefox etc.:
+
+Write a small exe-file with the (free) /AutoHotkey/-app and copy this 
+exe-file into the Autostart-folder of Windows.
+
+It is really very easy: You just write a list assigning unicode-letters 
+to any keyshortcut you like.
+
+Best
+
+Heiner
+
+Am 14.08.2019 um 03:32 schrieb Harry Spier via INDOLOGY:
+> Dear Anya,
+> For Word on Windows you can define shortcut keys. Just go to the 
+> insert symbols menu and press "shorcut key" and then define what you 
+> want for letters with diacriticals.? I used Alt?+ the character for 
+> diacritical under the letter and ctrl+ the character for diacritical 
+> above the letter.? Alt+ctrl?+ the character if there is a diacritical 
+> above and below the character, and a few others for the nasals.
+> Harry Spier
+>
+> On Tue, Aug 13, 2019 at 8:16 PM Anya Golovkova via INDOLOGY 
+> <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>
+>     Dear all,
+>
+>     In addition to James Hartzell's question regarding EasyUnicode for
+>     ipad, I would ask if there is a way to use this keyboard layout on
+>     a non-Mac computer.
+>
+>     Many thanks!
+>     Anya
+>     _______________________________________________
+>     INDOLOGY mailing list
+>     INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>     indology-owner at list.indology.info
+>     <mailto:indology-owner at list.indology.info> (messages to the list's
+>     managing committee)
+>     http://listinfo.indology.info (where you can change your list
+>     options or unsubscribe)
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+-- 
+www.rolfheinrichkoch.wordpress.com
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190814/345a8a0a/attachment.htm>
+

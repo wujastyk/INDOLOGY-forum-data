@@ -1,0 +1,25 @@
+From vidynath at MATH.OHIO-STATE.EDU  Tue Aug 11 19:32:20 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Tue, 11 Aug 98 15:32:20 -0400
+Subject: Fortunatov's Law and tolkAppiyar's rules
+Message-ID: <161227041148.23782.16001004871548146432.generated@prod2.harmonylists.io>
+
+Miguel Carrasquer Vidal <mcv at WXS.NL> wrote:
+> *s         =>    => h  => h
+> *sC        =>    =>    => s
+> *{ruki}s   => s^ =>    => s^
+> *k^        => c^ => c  => s
+> *k^C       => c^ => s^ => s^
+
+I missed this point till now.
+
+The change c^ -> c cannot be later than the second palatalization (change
+of PIE *k/*k-super-w to c^ before e/i) which must have preceded the
+merger of e/o/a. So, under the above scenario, the merger of e/o/a must
+be later than the split of Indian from Iranian.
+
+I find this quite incredible.
+
+
+
+

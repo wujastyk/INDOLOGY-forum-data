@@ -1,0 +1,21 @@
+From sasun at NUS.EDU.SG  Thu Nov 25 00:22:54 1999
+From: sasun at NUS.EDU.SG (Ulrike Niklas)
+Date: Thu, 25 Nov 99 08:22:54 +0800
+Subject: Diacritics font
+Message-ID: <161227054011.23782.1655015097021103109.generated@prod2.harmonylists.io>
+
+The Institute for Indology and Tamil Studies offers one font (called IITS)
+containig all the diacritics needed for the transliteration of Sanskrit and
+related languages, of Dravidian languages and of some Tribal languages.
+The font is easy to use in Word for Windows, once you install your
+keyboard-layout (through the insert-symbol-shortcut key function) with those
+signs that you need. I use this font mixed with Times New Roman, through a
+macro that allows to switch fonts with a single key-stroke.
+You can download the font from the home-page of the Institute:
+http://www.uni-koeln.de/phil-fak/indologie/index.e.html
+
+Ulrike
+
+
+
+

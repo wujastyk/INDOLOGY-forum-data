@@ -1,0 +1,65 @@
+From thillaud at UNICE.FR  Tue Mar 24 11:12:44 1998
+From: thillaud at UNICE.FR (Dominique.Thillaud)
+Date: Tue, 24 Mar 98 12:12:44 +0100
+Subject: Indo-Aryan migration vs Indigenous origin - scholarly debate
+In-Reply-To: <35566c50.266104863@mail.wxs.nl>
+Message-ID: <161227037075.23782.15260657659477232385.generated@prod2.harmonylists.io>
+
+Miguel Carrasquer Vidal answer me:
+
+>
+>>"the "-au" ending comes about only in dvivacanam" ?
+>>No: nominative aSTau (RV, &c.) being a counter-example.
+>>
+>>        There was tentatives to explain aSTau by a dual, but without any
+>>good result. The simpler was to consider *qet(w)r- (4), to cut the last "r"
+>>(without understand it!), to suppose a zero degree with "qt" > "kt" and to
+>>prefix by a dubious particle "O" (near) suggested by few Greek words and
+>>Skr. A-gam- (shortened before two consonants?); finally: "two 4s brought
+>>nearer"!!
+>
+>Leaving lurk-mode...  What's wrong with the much simpler one: Avestan
+><aSti-> "width of four fingers" (IE *ok^t-is, *ok^t-os "4" => du.
+>*ok^toH "8")?
+>
+>>        In fact, it seems we have a "vanishing" "w" at the end of the
+>>Eurindian root, suggested by the ordinals Lat. octAuos, Gr. ogdo(w)os and
+>>by Got. ahtau.
+>>        The Indian variants aSTa, aSTA, aSTau find a parallel in Greek
+>>where the two forms oktO- and okta- coexist early (Homer) in compounds;
+>>okta- was explained by the analogy with hepta- and hexa- but nothing is
+>>sure with this mysterious number and the "a" could be genuine (see the Osq.
+>>form Uhtavis of the Lat. name Octavius).
+>
+>If the IE laryngeals h1, h2, h3 were analogous to the velar series k^,
+>k, kw (i.e. they were phonetically palatal /x^/, plain /x/ and
+>labialized /xw/), then reconstructing a dual form *ok^toh3 (/ok^toxw/)
+>would explain all these forms (the Sanskrit dual with -u, Gothic
+>ahtau, Greek *ogdowos "8th", and Latin Octa:vius < *oktoh2wi- <
+>*ok^toh3i- [=*ok^toxwi-]).
+
+        Undoubtly a simple and well-structured explanation. Alas, some
+problems remain.
+        Even writed *h3ekt-, *ok^t-os "4" don't fit well with *kwet- "4"
+(the Greek tessares don't shows any prothesis in any dialect). The isolated
+Avestan aSti- don't seems sufficient to postulate such a form.
+        The analogy between h1, h2, h3 and k^, k, kw is oversimplifying
+(and the last serie is dubious). It's true that a labial feature is
+probable in h3 and used for a reconstruction *h3ekteh3 "8" (a voiced form
+of h3 being useful to explain the Greek ordinal ogdowos) but that's not
+sure that h3 is necessary to explain the direct animated thematic dual case
+which could be -oh1(w) (see the common vedic dual forms in -A). I'm afraid
+that all such choice are uniquely made to link aSti and aSTau and we can't
+exclude the fact that, even if they are linked, aSti could be derived from
+an aSTau falsely interpreted (such inverse derivations are well known in
+linguistic).
+        Not lurking but too few facts to decide ;^(
+        Regards,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+
+

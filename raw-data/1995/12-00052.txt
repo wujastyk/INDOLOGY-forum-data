@@ -1,0 +1,224 @@
+From gheil at scn.org  Thu Dec  7 18:30:48 1995
+From: gheil at scn.org (Greg Heil)
+Date: Thu, 07 Dec 95 10:30:48 -0800
+Subject: Sanskrit perfect Interlinqua
+Message-ID: <161227021990.23782.275893291917771009.generated@prod2.harmonylists.io>
+
+A few URL's that might be relevant to your search
+on the use of sanskrit for AI:
+
+http://ai.sunnyside.com/pub/nl-kr/V01/N010
+-	contains 1986 conference announcement, by Briggs
+
+http://ai.sunnyside.com/pub/nl-kr/V03/N007
+-	contains:
+
+Date: Mon, 3 Aug 87 14:33 EDT
+From: William J. Rapaport <rapaport at cs.buffalo.edu>
+Subject: Sanskrit
+
+I don't know about the entire proceedings (I'll try
+to find out), but
+the paper by Srihari, Rapaport, and Kumar, ``On
+Knowledge Representation
+Using Semantic Networks and Sanskrit,'' Technical
+Report 87-03 (Buffalo:
+SUNY Buffalo Dept. of Computer Science, February
+1987) is available by
+writing to Ms. Lynda Spahr, Dept. of Computer
+Science, SUNY Buffalo,
+Buffalo, NY 14260, USA, or sending email to
+spahr at buffalo.csnet or
+spahr at sunybcs.bitnet.
+
+http://ai.sunnyside.com/pub/nl-kr/V08/N054
+-	contains comments by William J. Rapaport
+	on sanskrit representations
+
+http://alamut.lifesci.ucla.edu/repository/compsci/Faculty/Dyer/
+mailto:dyer at cs.ucla.edu 
+-	Contacts of Michael Dyer
+
+http://www-csli.stanford.edu/csli/researchers.html
+-	cites kiparsky as being on faculty:
+Paul Kiparsky, development of models of the lexicon
+for natural language: lexical phonology and
+morphology, linking theory 
+
+
+-- 
+Greg Heil
+work:	BioStructure, U WA,
+98195-7420/(206)616-1944/gheil at cs.washington.edu
+home:	781-1873/gheil at scn.org,
+http://www.scn.org/tl/anvil/
+
+To: nl-kr at rochester.arpa
+From: NL-KR Moderator Brad Miller <nl-kr-request>
+Date: Thu, 25 Sep 86 21:50 EDT
+Reply-To: nl-kr at ROCHESTER.ARPA
+Subject: NL-KR Digest Volume 1 No. 10
+Organization: University of Rochester, Department of Computer Science
+Postal-Address: 617 Hylan Building, University of Rochester, Rochester NY 14627
+Phone: 716-275-7747
+
+
+NL-KR Digest             (9/25/86 21:49:02)            Volume 1 Number 10
+
+Today's Topics:
+        Call for papers.
+        Conference on KR & Inference in Sanskrit
+        Language and Information
+        
+----------------------------------------------------------------------
+
+Date: Fri, 19 Sep 86 17:08 EDT
+From: Glenn Veach <veach%ukans.csnet at CSNET-RELAY.ARPA>
+Subject:  Call for papers.
+
+                    CALL FOR PAPERS
+   WORKSHOP ON LOGICAL SOLUTIONS TO THE FRAME PROBLEM
+
+   The American Association for Artificial Intelligence (AAAI) is
+sponsoring this workshop in Lawrence, Kansas from March 23 to March 25,1987.
+   The frame problem is one of the most fundamental problems in
+Artificial Intelligence and essentially is the problem of describing in
+a computationally reasonable manner what properties persist and what
+properties change as action are performed.  The intrinsic problem lies in
+the fact that we cannot expect to be able to exhaustively list for every
+possible action (or combination of concurrent actions) and for every
+possible state of the world how that action (or concurrent actions) change
+the truth or falsity of each individual fact.  We can only list the obvious
+results of the action and hope that our basic inferential system will be
+able to deduce the truth or falsity of the other less obvious facts.
+   In recent years there have been a number of approaches to constructing
+new kinds of logical systems such as non-monotonic logics, default logics,
+circumscription logics, modal reflexive logics, and persistence logics which
+hopefully can be applied to solving the frame problem by allowing the missing
+facts to be deduced.	This workshop will attempt to bring together the
+proponents of these various approaches.
+   Papers on logics applicable to the problem of reasoning about such
+unintended consequences of actions are invited for consideration.  Two
+copies of either an extended abstract or a full length paper should be
+sent to the workshop chairman before Nov 20,1986.  Acceptance notices will
+be mailed by December 1,1986 along with instructions for preparing the final
+versions of accepted papers.  The final versions are due January 12,1987.
+  In order to encourage vigorous interaction and exchange of ideas
+the workshop will be kept small -- about 25 participants.  There will
+be individual presentations and ample time for technical discussions.
+An attempt will be made to define the current state of the art and future
+research needs.
+	Partial travel support (from  AAAI) for participants is available.
+
+Workshop Chairman:                
+      Dr. Frank M. Brown
+      Dept Computer Science        
+      110 strong Hall
+      The University of Kansas
+      Lawrence, Kansas
+      (913) 864-4482
+
+Please send any net inquiries to: veach at ukans.csnet
+
+------------------------------
+
+Date: Thu, 18 Sep 86 16:24 EDT
+From: DELFIN <delfin at paxrv-nes.ARPA>
+Subject: Conference on KR & Inference in Sanskrit
+
+
+Conference announcement:
+
+                 First National Conference on
+                 Knowledge Representation and
+                 Inference in Sanskrit
+
+                 20 - 22 December, 1986
+                 Shankara Mutt, Bangalore, India
+
+          Sponsored by the Computer Society of India
+
+          For information write to:
+
+                 Dr. T. M. Srinivasan
+                 Madras Institute of Technology
+                 Madras 600-036, India
+
+          or
+
+                 Rick Briggs
+                 Delfin Systems
+                 2001 Gateway Pl, Suite 420
+                 San Jose, CA  95110
+                 408-295-1818
+------
+
+------------------------------
+
+Date: Tue, 23 Sep 86 10:00 EDT
+From: Bruce Nevin <bnevin at cch.bbn.com>
+Subject: Language and Information
+
+
+I just received an announcement of the 28th annual Bampton Lectures in
+America.  (It's called an `invitation', but it also says `no card of
+admission required'.  An enquiry to the Office of the Secretary, 308 Low
+Library, would clarify how open it is.)
+
+Past lecturers have included Steven Weinberg, Jacob Bronowski, Fred
+Hoyle, Northrop Frye, Paul Tillich, Lewis Mumford, and Arnold Toynbee.
+
+Dates:  October 7, 8, 14, and 15, 1986
+Time:   5:30
+Place:  The Rotunda, Low Memorial Library, Columbia University
+Speaker: Zellig Harris
+Series title:  Language and Information
+
+The individual lectures are entitled as follows:
+
+	Tuesday, October 7      A Formal Theory of Syntax
+	Wednesday, October 8    Science Sublanguages
+	Tuesday, October 14     Information
+	Wednesday, October 15   The Nature of Language
+
+The announcement text follows:
+
+	The formal development of structural linguistics,
+	transformational and discourse analysis, and the elaboration of
+	global mathematical structures in a natural language are, in
+	large measure, due to the work of Zellig Harris.  This work,
+	with its constructive orientation, has established his
+	reputation as a leading scientist here and abroad.  His recent
+	work--the subject of these Bampton lectures--sets forth a formal
+	theory of syntax and establishes its implications for discovery
+	of structures of information in science and the understanding of
+	the nature of language.  <Biographical information, including
+	the following:  Harris founded the first linguistics department
+	in America, at the University of Pennsylvania, and since 1980 he
+	has been Senior Research Scientist at the Center for the Social
+	Sciences of Columbia University.>
+
+	<Bibliographical information, including following:>  Harris is
+	the principal author of _The Form of Information in Science_
+	(forthcoming in the series Boston Studies in the Philosophy of
+	Science) and his _Mathematical Approach to a Theory of Language_
+	is to be published by Oxford University Press.
+
+For some indication why this is especially relevant for computational
+linguistics, see my review of Harris' 1982 book, _A Grammar of English
+on Mathematical Principles_, which appeared in _Computational
+Linguistics_ 10.3-4 (1984).  I guess this review is the reason I
+received the invitation.
+
+	Bruce Nevin
+	bn at cch.bbn.com
+
+
+------------------------------
+
+End of NL-KR Digest
+*******************
+
+
+
+

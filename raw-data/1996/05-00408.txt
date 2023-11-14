@@ -1,0 +1,72 @@
+>?From indology-l at pwyz.rhein.de 31 1996 May +0100 19:20:00
+Date: 31 May 1996 19:20:00 +0100
+From: indology-l at pwyz.rhein.de (Peter Wyzlic)
+Subject: Re: Sanskrit characters for Wikner font
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Reply-To: Peter at pwyz.rhein.de
+
+
+Hello Girish,
+
+In your
+message: <199605302259.PAA14877 at sd-dns-1.wanet.net>
+date: <31 May 96>
+
+You wrote on "Sanskrit characters for Wikner font":
+
+>Mr. Wikner needs some printed examples of the numeric accent encoding
+>for the Saamaveda, where the numbers 1, 2, and 3 appear over the letters.
+>If you can mail him some examples please contact me so I can provide
+>his mailing address.
+
+How about Theodor Benfey's _Die Hymnen des Samaveda_.Leipzig 1848? I think
+there must be newer editions which use the numerical accents, too.
+
+>> [Samaveda questions]
+
+I really don't know anything about the musical notation of the Samaveda, you
+should consult works like Wayne Howard's _Samavedic Chant_.New Haven and
+London 1977 or his _Veda Recitation in Vaaraa.nasii_.Delhi 1986 (not to
+speak of the older works by Richard Simon who published the Pu.spasuutra and
+wrote a paper on this theme).
+
+>There is another question about two versions of the Yajurveda anunaasika
+>(not including the 'g' version) that are 1) like candrabindu with a viraama
+
+Perhaps you should say better "halanta"-sign; this use of "viraama" is -- at
+least -- un-Paa.ninian, although found in many primers.
+
+>under it in the regular character position and 2) somewhat like a script
+>English 'U' with a bindu over it also appearing in the regular character
+>position.  Is it true that both are pronounced the same, with (1) appearing
+>after short vowels and (2) appearing after long vowels?
+>
+>Additionally, what is the significance of the different versions of
+>characters used for 1) 'a' (and 'aa', 'o', 'au') [one starting like
+>'3' and one like 'p' with hatch marks], 2) 'j~n' [one more curved for
+>lack of a better description and one slightly like '~n'], and
+>3) 'k.sa' [one vaguely like an ampersand and one somewhat like a
+>"reversed" '~n']?  Are all "proper" Sanskrit forms or are some only
+>appropriate for Hindi?
+
+It seems that the varieties of the different characters go back to different
+writing traditions. E.g. the "a" looking like "'p' with hatch marks" is
+already to be found in the Kashmirian "Saaradaa script. 
+
+My impression is that the history of Devanagari typography and printing (in
+India and the rest of the world) is still to be written. I have not found
+any comprehensive (and reliable) monograph. Or am I wrong?
+
+\bye
+Peter Wyzlic
+
+
+
+
+
+
+
+
+

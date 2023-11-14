@@ -1,0 +1,33 @@
+From ghart at SOCRATES.BERKELEY.EDU  Mon Oct 14 16:35:02 2002
+From: ghart at SOCRATES.BERKELEY.EDU (George Hart)
+Date: Mon, 14 Oct 02 09:35:02 -0700
+Subject: OCR for Tamil
+In-Reply-To: <000201c26d76$6b7eb630$9bd04382@Winston>
+Message-ID: <161227071511.23782.13646195324302525343.generated@prod2.harmonylists.io>
+
+Here is a note from the recent INFITT conference (on computing in
+Tamil) held in Foster City.  I would remark that of all the
+Brahmi-derived alphabets, Tamil is by far the easiest for
+implementing OCR, as it has no ligatures and lacks voiced and
+aspirate consonants.  G. Hart
+
+Two OCR softwares were to be discussed during Tamil Internet 2002.
+"Ponvizhi" , Tamil OCR software of Prof. V. Krishnamoorthy. VK could
+not attend the conference but his commercial software (cost US$150?)
+was sold during the TI2002. Ponvizhi currently recognizes only pure
+Tamil Texts. You may get more details or order a copy
+from the author:   LearnFun Systems, 67/30 (4-c), II Main Road,
+Gandhi Nagar, Adayar, Chennai -600 020. Tel: 446 1739
+email: profvk at softhome.net
+
+A demo version of this software is included along with several other
+Tamil Softwares in the TI2002 Conference CD.  You may order a copy
+of this CD (US$10) from INFIT secretariat <secretariat at infitt.org>
+
+Prof. AG Ramakrishnan of IISc Bangalore presented details of a bilingual
+(Tamil-Roman) OCR software "Mozhi Vallan" and a demonstration of
+it at TI2002.
+
+
+
+

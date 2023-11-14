@@ -1,0 +1,118 @@
+From wujastyk at gmail.com  Sun Jul 19 23:35:20 2015
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 20 Jul 15 01:35:20 +0200
+Subject: =?utf-8?Q?Re:_[INDOLOGY]=09Speaking_of_plagiarism:_Satya_Prakash_Sarasvati_and_Satyakam_Vidyalankar=E2=80=99s_=E1=B9=9Agveda?=
+In-Reply-To: <9E04406D-EC8C-41EF-ABAD-1565EC6FA6C1@berkeley.edu>
+Message-ID: <CAKdt-CfmacMxxmBTZO_fuSiA3FxGCioHgeGiCNs7xRRo33RV1w@mail.gmail.com>
+
+On 19 July 2015 at 20:12, George Hart <glhart at berkeley.edu> wrote:
+
+> I remember years ago when I was studying Sanskrit Ingalls mentioned that
+> Monier Williams had apparently copied from Boethlingk-Roth without
+> attribution. He said that Boethlingk was able to adduce entries in Monier
+> Williams that had the same mistakes originally made on the SP Lexicon. Plus
+> ?a change?. George Hart
+>
+
+?The relationship of the MW and PW dictionaries was carefully evaluated in
+the 1988 article,
+
+Ladislav Zgusta, "Copying in Lexicography. Monier-Williams' Sanskrit
+Dictionary and Other Cases (Dvaiko?yam)" *Lexicographica*, 1988, 4, 145-164.
+http://www.degruyter.com/view/j/lexi.1988.4.issue-1/9783110244083.145/9783110244083.145.xml?format=INT
+
+It's a complex and nuanced relationship, that Zgusta describes very well,
+developing seven defined categories of textual dependence (A-G).  It's
+worth reading the whole article, which is careful and illuminating.  Zgusta
+says, p.161,
+
+To sum up: MONIER-WILLIAMS is completely independent of PW in respect to
+the general
+plan of the arrangement of his dictionary, or its macrostructure (category
+E, p. 157); and
+in respect to his semantics, or the way in which he handles the description
+of meaning by
+English equivalents (cat. G, p. 159). Yet some alleged cases of copying
+remain unclear
+(cat. D, p. 156).
+However, there is no doubt that MONIER-WILLIAMS copied some data from PW
+(cat.
+B, p. 154) although sometimes it is clear that while he copied without
+checking in
+the original sources, he gave the material thus gained some thought of his
+own (cat. C, p.
+155). The data which he acquired in this way are mostly of peripheral
+importance; one
+can easily imagine that he tried to save time in this unorthodox way. There
+is. however,
+one block, or set of highly important data which he completely took over,
+or copied from
+PW, namely the indications of Vedic morphological forms (cat. F, p. 158).
+It can even be shown that MW contains not only facts or data of language
+from PW,
+but also interpretations conceived by B?HTLINGK and ROTH (cat. A, p. 154).
+There is no defense as far as category A is concerned. As for category F
+(p. 158),
+it would seem that a more explicit acknowledgement in the preface to MW
+would be
+necessary, but also sufficient: it is against the cumulative spirit of
+scientific discovery,
+against the synchronic and diachronic cooperation of scholars, to repeat
+some already
+well done research in all its minutiae; and also, if there are myriads of
+bits of information
+thus obtained spread throughout a dictionary, it would be difficult to
+acknowledge each
+and every single piece. MONIER-WILLIAMS ought to have been more explicit in
+the pre-
+face; but had he been more open on the subject, this ought to have sufficed.
+The same can be said mutatis mutandis about categories B and C. One simply
+cannot
+expect a Sanskrit lexicographer working after the publication of PW not to
+use the wealth
+of data published in it and re-do all the excerption himself. As in the
+case of the preced-
+ing category, MONIER-WILLIAMS ought to have been more explicit in his
+preface. In
+addition to this, he ought to have checked all second-hand date in the
+primary sources to
+eliminate PW's misprints and errors, which he neglected to do. (Although
+the second
+Ought to' perhaps may have to be reworded as 'should' in this real,
+non-ideal world of
+ours.)
+Both in the case of categories F, and B and C, MONIER-WILLIAMS' sins are
+rather those
+of omission than of commission; only category A comprises a sin of
+commission.
+
+Zgusta also says, p.160,
+
+In sum, it is not possible fully to condemn MONIER-WILLIAMS, just as it is
+not possible
+fully to exonerate him.  ...
+MONIER-WILLIAMS and his dictionary have
+been taken seriously; e.g., when G. B?HLER in his 'Lexicographic Notes'21
+(p. 90) men-
+tions "the three great modern Sanskrit dictionaries, compiled by
+Europeans", it is clear
+that he puts MW into the same category as PW and pw. The same scholar also
+discusses
+(ibid., p. 86) a case where MONIER-WILLIAMS indicated his doubt about a
+translational
+equivalent given in PW and was right in his skepsis. It must also be
+mentioned that not
+only did MONIER-WILLIAMS get an honorary PhD degree from the University of
+G?ttin-
+gen, but also that such serious scholars as E. LEUMANN (Strassburg) and C.
+CAPELLER
+(Jena) did not hesitate to cooperate with him on the second edition of MW.
+
+Best,
+Dominik Wujastyk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150720/ddc4a281/attachment.htm>
+

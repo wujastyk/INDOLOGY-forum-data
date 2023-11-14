@@ -1,0 +1,71 @@
+From rsalomon at u.washington.edu  Tue Jun 27 16:21:32 1995
+From: rsalomon at u.washington.edu (Richard Salomon)
+Date: Tue, 27 Jun 95 09:21:32 -0700
+Subject: Pointers to Katapayadi formula needed
+Message-ID: <161227019833.23782.15245631692959480770.generated@prod2.harmonylists.io>
+
+On the Katapayadi system, including its use to express pi (referred to by 
+another respondent), see J.F. Fleet's article "The Katapayadi System of 
+Expressing Numbers" in JRAS 1911, pp.788-794.  
+
+The system is also used to express chronograms in some South Indian 
+inscriptions: for examples, see Epigraphia Indica 3, p.38, ll.40-41; 4, 
+pp.203-4; 34, pp.205-6.
+
+-Richard Salomon
+Univ. of Washington
+
+
+On Mon, 26 Jun 1995, Anand Venkt Raman wrote:
+
+> Hello, I am in need of references relating to the Katapayadi
+> formula. Specifically, when and where it was first used and the range
+> of applications to which it has been put. I already have references
+> attesting its use in South Indian Musicology. The carnatic melakarta
+> scale names the 72 major ragas using the katapayadi scheme.
+> 
+> For those who don't know what I'm talking about, the katapayadi
+> formula is a name to number transformation scheme based on the
+> Sanskrit alphabet. In the specific instance I quoted, the raga
+> mayamalavagowla is called so because the katapayadi operation on
+> its name (actually the first two syllables) gives 15 since m=5 and
+> y=1. M is the 15th raga in the melakarta scale, which allows us
+> to deduce its notes mechanically!
+> 
+> This scheme was applied in musicology by Venkatamakhi, son of Govinda
+> Dikshita (17th cent). The first official mention of this formula is
+> found in his book "Caturtand.i Prakasika".  But belief that even
+> Sankara was named in accordance with the formula such that the number
+> derived from his name results in his Date of Birth in the Indian
+> lunar calendar abounds in India. Thus I suspect the formula itself
+> was known and in widespread use in various other disciplines before
+> its application in musicology. This is especially so as Venkatamakhi
+> makes no claims to it and takes its existence for granted in his
+> book.
+> 
+> Any pointers in this regard, to books/journals/articles about the
+> katapayadi scheme will be greatly appreciated. Our library does not
+> have a good collection of Indian journals and so I am forced to search
+> electronically in this way.
+> 
+> Many thanks in advance.
+> 
+> - &
+> --
+> # The following record is a random selection from Indhist 1.0
+> --
+> It occurs  to me  to introduce here  the saying  of Poros [Puru]; for
+> when  he was  led  as a captive to  Alexander,  and was  asked how he
+> wished to be treated: `As a king, O  Alexander!' he replied, and when
+> he was  again  asked if  there  was anything   else, his  reply  was:
+> `Nothing, for in the words "as a King" everything was comprehended.'
+> 
+> - Plutarch Oration I.11
+>  
+> 
+ 
+
+
+
+
+

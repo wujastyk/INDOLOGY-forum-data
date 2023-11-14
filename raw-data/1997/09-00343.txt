@@ -1,0 +1,36 @@
+From Palaniappa at AOL.COM  Fri Sep 26 04:42:34 1997
+From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Fri, 26 Sep 97 00:42:34 -0400
+Subject: Downloading diacritic Roman fonts for Indian Languages
+Message-ID: <161227032756.23782.11337104811335033514.generated@prod2.harmonylists.io>
+
+Thanks for all those who gave some tips in helping to install the Times-CSX
+fonts. For the benefit of anybody else who may engage in a similar effort,
+let me say what I have learnt. I have Windows 95, AOL with Internet Explorer
+browser, and MS Word. In this configuration, downloading the fonts through
+'FTP' is the way to go. After it is downloaded, and unzipped, one has to map
+the keys to the diacritic font characters. This is done by first selecting
+the font from within the Word window and then  using the Insert Symbol menu.
+The symbol menu will not show the Times-CSX font name. It will just say
+'(normal font)'. Then one has to assign one's favorite key combinations as
+shortkeys.
+
+After I was able to successfully inspect the fonts, I found that there was no
+character for Tamil 'R' which is different from the vocalic R of Sanskrit.
+So, I decided to use the same approach to the TimesIndian font, George Hart
+had sent me long back, but I had no idea how to install it in a PC. (Before
+that I had used the TimesIndian font for Mac,which did not have all these
+complications. If I remember right, Hart said that he was not sure if the PC
+font would work without somebody writing printer drivers for it.) To my
+delight, I found that the approach I learnt for Times-CSX worked fine for
+TimesIndian. As a result, I now have a working TimesIndian font which
+includes Tamil 'R'.
+
+
+Regards
+
+S. Palaniappan
+
+
+
+

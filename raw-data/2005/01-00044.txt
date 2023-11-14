@@ -1,0 +1,31 @@
+From k.harimoto at LET.RUG.NL  Tue Jan 18 01:59:30 2005
+From: k.harimoto at LET.RUG.NL (Kengo Harimoto)
+Date: Tue, 18 Jan 05 02:59:30 +0100
+Subject: Sanskrit Google
+In-Reply-To: <8F50E206-68DF-11D9-9327-000A95EF9784@fas.harvard.edu>
+Message-ID: <161227075753.23782.12095284588692283689.generated@prod2.harmonylists.io>
+
+> Google has a Sanskrit search engine now, with internet (antarajaalam)
+> etc. search
+>
+> http://www.google.com/intl/sa/
+>
+> Looks like using Itrans transliteration, with a mid-Indian
+> (Gujarati-Marathi-Telugu-Oriya) twist: e.g., krushna  for kRSNa
+
+
+UTF-8 ???????? works, too.  Amazing.  I've come across 
+http://sa.wikipedia.org/wiki/  (Sanskrit version of Wikipedia) that 
+way.
+
+Devan?gar? search works with regular google.  I should have expected 
+this, since google has always accepted utf-8.  This is just a Sanskrit 
+interface, like Japanese, Dutch, etc.  Still, very funny on google's 
+part :)
+
+-- 
+kengo harimoto
+
+
+
+

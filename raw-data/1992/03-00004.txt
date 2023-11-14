@@ -1,0 +1,125 @@
+From ucgadkw at UK.AC.UCL  Mon Mar  9 10:41:01 1992
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Mon, 09 Mar 92 10:41:01 +0000
+Subject: Kerala Astronomy query
+Message-ID: <161227015261.23782.6059350829177473413.generated@prod2.harmonylists.io>
+
+Status: RO
+
+Dear Richard Marsden,
+ 
+I would suggest that the main starting point for Keralan astronomy in
+the period you mention (14th-15th centuries) is:
+ 
+  K. V. Sarma, _A history of the Kerala school of Hindu Astronomy (in
+  perspective)_ (Hoshiarpur: Vishveshvaranand Institute, 1972).
+ 
+This is an outstanding survey of the very remarkable mathematical
+achievements of the Kerala mathematicians and astronomers from
+Madhava (of Sangamagrama) onwards, and is required reading in any
+study of this area.  David Pingree's works too, as Ken Zysk has already
+said.  Recent articles by Takao Hayashi are also of importance (especially
+nos 1. and 2. below):
+ 
+1. Hayashi, T. Kusuba, T. & Yano, M. "The Correction of the
+    Madhava Series for the Circumference of a Circle."
+    _Centaurus_ 33 (1990): pp. 149--174.
+ 
+2. Hayashi, T. Kusuba, T. \& Yano M. "The Parallel Passages on
+    the Correction of the Madhava Series in Sankara's Yuktidipika
+    and Kriyakramakari." _Centaurus_ , 33 (1990): pp. 149--174.
+    An Appendix to the Correction of the Madhava Series for the
+    Circumference of a Circle.
+ 
+3. Hayashi, Takao. "A New Indian Rule for the Squaring of a
+    Circle: Manavasulbasutra 3.2.9--10." _Ganita-Bharati, Bull.
+    Ind. Hist. Math._ 12, 3--4 (1990): pp. 75--82.
+ 
+4. Hayashi, Takao. "A Note on Bhaskara I's Rational Approximation
+    to Sine." _Historia Scientiarum_ , 42 (1991): pp. 45--48.
+ 
+5. Hayashi, Takao. "Narayana's Rule for a Segment of a Circle."
+    _Ganita-Bharate, Bull. Ind. Soc. Hist. Math._ 12, 1--2
+    (1990): pp. 1--9.
+ 
+See also
+ 
+1. Bag, A. K. "Madhava's Sine and Cosine Series." _Indian Journal
+    of History of Science_ II, 1 (May 1976): pp. 54--57.
+ 
+2. Gold, David &. Pingree, David. "A Hitherto Unknown Sanskrit
+    Work concerning Madhava's Derivation." _Historia Scientiarum,
+    Japan_ , 42 (March 1991): pp. 49--65.
+ 
+3. Rajagopal, C. T. & Rangachari, M.S. "On Medieval Kerala
+    Mathematics." _Archive for History of Exact Sciences_ 35
+    (1986): pp. 91--99.
+ 
+4. Sarma, K. V. "Direct Lines of Astronomical Tradition in
+    Kerala." _Charudeva Shastri Felicitation Volume_ (1976): pp.
+    601--604.
+ 
+But none of the material I have read about the Keralan astronomers has
+ever dealt with such general notions as "the nature of the cosmos".
+And I doubt that the project has much of a future in its present terms.
+ 
+First you have to bear in mind that we only just -- by a fluke of
+manuscript preservation -- know that these guys existed at all.
+Remember that when Whish first published his paper on the Hindu
+Quadrature of the Circle in 1830, everyone thought he was the victim of
+a forger or had somehow been duped by a crafty brahmin, because the
+mathematics he was presenting was so advanced no one could credit the
+Indians with its development.  What has survived is very meagre, and
+extremely tantalizing:  remember, these fellows were a couple of
+*centuries* ahead of Newton and Leibnitz in some of their work on power
+series expansions, and it would be *very* nice to know more about
+them.  Oh well.
+ 
+Secondly, these Keralans were apparently wholly wrapped up in their
+mathematics.  They were not developing new cosmologies, but refining
+the mathematical techniques that were used to predict planetary
+and stellar positions and to develop tables of geometric values. As
+far as we know from the surviving sources, they just didn't say
+anything about cosmology per se.  It is like looking for a theory
+of general linguistics in Panini.  Very disappointing.
+ 
+As for "lots of relevant works (some by missionaries) translated
+into English, German, and available only in the west" (I quote from
+memory), I'm afraid that that sounds like a reiteration of the
+old cultural theft myth.  "The Vedas are now in Germany" and so on.
+The above works are mostly published in European journals, yes.  But
+Bag and Sarma have made very important contributions  -- and perhaps
+Sarma's are the most important -- and these sources are
+available from Indian publishers.
+ 
+In my view, the *real* work to be done in this area is to scour Kerala
+for more manuscript material on these schools.  The MSS of works by
+known authors are listed by Pingree in the volumes of his _Census of
+the Exact Sciences in India_.  The K. V.  Sarma book lists many MSS,
+including anonymous works, and gives clues and guidance about where to
+look, etc.  He has tried very hard himself, of course, but I feel sure
+there is more to be found, given patience, tact, the right connections,
+and good reading skills in Malayalam script and language, Sanskrit, and
+Manipravala.  It is not a trivial business, but is very worthwhile.
+Since your chap is *in* Kerala, he may well have some of this equipment
+already.  His best move would be to find K. V. Sarma, and apprentice
+himself to him.
+ 
+Best wishes,
+ 
+Dominik
+ 
+ 
+ 
+-------------------------------------------------------------------------------
+Dr Dominik Wujastyk,     | Janet:                          D.Wujastyk at uk.ac.ucl
+Wellcome Institute for   | Bitnet/Earn/Ean/Uucp/Internet:  D.Wujastyk at ucl.ac.uk
+ the History of Medicine,| or: dow at harvunxw.bitnet    or: dow at wjh12.harvard.edu
+183 Euston Road,         | last resort: D.Wujastyk%uk.ac.ucl at nsfnet-relay.ac.uk
+London NW1 2BN, England. | Phone no.:                    +44 71 383-4252 ext.24
+-------------------------------------------------------------------------------
+
+
+
+
+

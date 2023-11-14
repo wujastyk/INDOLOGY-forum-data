@@ -1,0 +1,91 @@
+From hgroover at qualitas.com  Tue Jul 25 14:49:02 1995
+From: hgroover at qualitas.com (Henry Groover)
+Date: Tue, 25 Jul 95 10:49:02 -0400
+Subject: Sorting Devanagari text -Reply
+Message-ID: <161227020112.23782.17515823643013144656.generated@prod2.harmonylists.io>
+
+I'm not entirely convinced that sorting Sanskrit is an intractable problem. 
+Challenging but not too difficult.  I'm making a few assumptions here.  1.
+The source text is Roman characters with diacritics.  One project I
+worked on translated diacritical input into fully composed Devanagari
+(with all the conjuncts, NOT a Hindi font) so I know it can be done (and I
+believe some Sanskrit / Hindi word processors operate in a similar
+manner).  2. A standard lexical order is used.  I don't have a dictionary
+handy but I seem to recall that anusvara-inflected varnas come after the
+identical varnas without anusvara.  This would yield the following order
+for these syllables (not sure I've got the 7-bit system down):
+a'sa
+a.m'sa.h
+aha
+a.mha
+A'sa
+A.m'sa
+kasa
+ka.msa
+khasa
+
+Implementing a sort algorithm then simply requires that there is a flag or
+bitmap component for the varna for anusvara or visarga.  The algorithm
+would also need to compare conjuncts on a syllabic (varna) basis (but
+that's fairly obvious).  The original suggestion of converting to an
+intermediate system puts us on the right track; in fact, it's further
+simplified by the two-dimensional arrangement of the Devanagari
+aksaras.  Vowels and diphthongs are represented numerically and
+combined bitwise with the distinct flag values for anusvara, visarga or
+candrabindu.  If we assign hex values 01, 02 and 04 for anusvara,
+candrabindu and visarga, then use hex 08 for a, 10 for A, 18 for i, 20
+for I, up to 70 for au (still have one bit to spare) and A, B, C, D, E for the
+first row (ka kha ga gha 'na) F, G, H, I, J for the second (ca cha ja jha
+~na), etc. we would get the following for the above examples (note that
+we need to preserve case sensitivity):
+
+a'sa = 08d08
+a.m'sa.h = 09d0C
+aha = 08g08
+a.mha = 09g08
+A'sa = 10d08
+A.m'sa = 11d08
+kasa = A08e08
+ka.msa = A09e08
+khasa = B08e08
+
+The above examples make it obvious how the sort works; numerals are
+lexically lower than letters, caps lower than lowercase letters.  Handling
+conjuncts fits right in, since by restricting hex values to 7 bits we've
+ensured that hex values always start with a numeral.
+
+Hence:
+dvyak.sara = Rcz08Ae08a08
+sa'nk.sobhya = f08EAe68XZ08
+mUrdhnyA = Y30aSTz10
+
+If anyone's interested I can produce some C source code that will do
+this. It would read a list, convert it to this intermediate format, sort the
+key values, and write it back sorted.
+
+I apologize for the profuse computerese, but as Samuel Clemens once
+said (more or less), "I apologize for the 5-page letter; I didn't have time to
+write a short one."
+
+Henry Groover
+Hgroover at Qualitas.com.us
+
+>>> <P.Friedlander at wellcome.ac.uk> 07/25/95 01:54pm >>>
+...
+However, it is clear that sorting Sanskrit may present more difficulties,
+as  mentioned by Gerard Huet, than sorting Hindi.
+
+Also as we all seem to use different Devanagari fonts (and encodings)
+and  different Roman transliteration font encodings it seems that the
+problem of  how to sort Devanagari will be around for a long time!
+
+Peter Friedlander
+ 
+
+
+ 
+
+
+
+
+

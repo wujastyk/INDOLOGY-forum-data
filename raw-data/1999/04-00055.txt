@@ -1,0 +1,45 @@
+From garzilli at SHORE.NET  Thu Apr  8 20:41:02 1999
+From: garzilli at SHORE.NET (Enrica Garzilli)
+Date: Fri, 09 Apr 99 02:11:02 +0530
+Subject: Announcement: Nakamura index
+Message-ID: <161227047925.23782.1713139029080717216.generated@prod2.harmonylists.io>
+
+From: "Charles Muller" <acmuller at human.toyogakuen-u.ac.jp>
+*******************************************************************
+Dear Colleague:
+
+I am pleased to announce the release of the recently completed digital
+index of the Bukkyogo daijiten (by Nakamura Hajime). The file can be
+downloaded in ZIP format from the category "Muller's Electronic CJK
+Texts" at <http://www.human.toyogakuen-u.ac.jp/~acmuller/index.html>.
+
+Due to mapping errors in the JIS-to-Big5 conversion tables which can
+cause some problems for those using the data in a Chinese environment, I
+have made two versions of the file: one Japanese-oriented and one
+Chinese-oriented.
+I am sorry that I am not familiar enough with JIS-KSC mapping errors to
+have made a third file for Korean platform usage.
+
+Please be sure to take a look at the README file for accreditation,
+caveats, encoding issues, etc.
+
+May the load of your work be lightened! (Or be made heavier, whichever
+you like).
+
+Regards,
+
+Charles Muller
+Toyo Gakuen University
+*****************************************************************
+
+Dr. Enrica Garzilli                 University of Perugia (ITALY)
+Istituto di Linguistica                      Piazza Morlacchi, 11
+06123 Perugia                  Tel./Fax: +39-75-585 3755 (office)
+Editor-in-Chief,
+Intl. Journ. of Tantric Studies, Journal of S. Asia Women Studies
+htpp://www.asiatica.org/
+*****************************************************************
+
+
+
+

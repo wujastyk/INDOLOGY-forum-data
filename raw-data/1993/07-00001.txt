@@ -1,0 +1,31 @@
+From EVERSON at IRLEARN.UCD.IE  Thu Jul  1 23:24:29 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Thu, 01 Jul 93 23:24:29 +0000
+Subject: outline fonts and encodings
+Message-ID: <161227015961.23782.10370831282421572242.generated@prod2.harmonylists.io>
+
+On Wed, 30 Jun 93 22:01:01 BST <JHUBBARD at smith.smith.edu> said:
+>
+>By the by, I have also had the same experience trying to take PC Word
+>Perfect documents to Word Perfect on the Mac-- those damn friendly machines
+>re-map for you. I can imagine that for some folks it actually works (given
+>that a French accent, say, is in a different upper ASCII slot in the PC
+>Roman 8 character set than whatever the Mac uses), but it drove me nuts.
+>Again, I simply gave up. Perhaps if somebody understands the mapping a
+>table could be devised to translate the translated text!
+ 
+OK, Jamie. You use a PC, I use a Mac. Can you use the WNRI fonts?
+Will you convert some 7-bit text I send to 8-bit in WordPerfect
+and send them zipped (or on disk) to me so I can see how the Mac
+remaps them? Then I can remap them _for_ the Mac and we'll never
+hence have this problem.
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

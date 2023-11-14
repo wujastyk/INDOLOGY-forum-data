@@ -1,0 +1,111 @@
+From srangan at YORKU.CA  Wed Mar  8 18:07:58 2006
+From: srangan at YORKU.CA (Shyam Ranganathan)
+Date: Wed, 08 Mar 06 13:07:58 -0500
+Subject: Indian Syllogism -- correction
+In-Reply-To: <1141840130.440f19027677e@mymail.yorku.ca>
+Message-ID: <161227077574.23782.2599218716526148357.generated@prod2.harmonylists.io>
+
+Dear list members
+
+Forgive me. My email program sent my message before I finished checking it.
+
+I've corrected the errors bellow.
+
+The most important corrections are:
+
+(a) the criterion of a *valid* deductive argument is that the conclusion cannot
+be false while the premises are all true
+
+(b)if an argument fails the criterion of valid deductivity, it may either be an
+invalid deductive argument (which is a bad argument) or a inductive argument
+(which may be a good argument)
+
+
+Sincere apologies
+
+Shyam
+
+
+Quoting Shyam Ranganathan <srangan at YORKU.CA>:
+
+Dear list members
+
+This debate reminds me of the controversy in the philosophy of science in the
+twentieth century as to whether the hypothetico-inductive model put forward
+by people such as Carl Hempel was genuinely deductive, or whether it was
+inductive. According to this model of science, scientists formulate
+hypotheses, which then constitute a universally quantified premise (much like
+the first premise of the standard syllogism) in an argument with standard
+deductive properties, and the goal then is to find instances in reality that
+contradict the deductive implications of the argument, thus falsifying the
+hypothesis. Thus, consider the hypothesis "the sun rises every day." According
+to the hypothetico-deductive model, we'd sub this into modus ponens,
+
+ p -> q (if p then q)
+ p
+ .'. q (therefore q)
+
+where p is something like "the sun rises every day" and q would be some
+observational consequence, like "the sun rises on Tuesday". Find an instance
+of the sun not rising on Tuesday, and one would be licensed to make the
+following modus tollens:
+
+ p -> q
+ ~q (not q)
+ .'. ~p (therefore not p)
+
+Every one could agree that modus ponens and modus tollens is deductive, but
+the  question was whether the hypothetico-deductive model, which supplies
+premises with hypotheses is deductive. Few doubted that it was. But the critics
+always  pointed out that hypotheses rarely come to people in a flash (though
+Hemple  liked to think this) and they were usually the result of some type of
+inductive generalization.
+
+So, which is it? Could the argument over whether it is deductive or inductive
+be  merely a word game, where each measures the argument in a different way
+(some  counting the process of hypothesis formation as part of the inference,
+while  others include it outside)? Doesn't this mirror the argument over
+whether the  vyapti is part of the Nyaya inference or not?
+
+[Correction here:]
+I don't think it's a word game, but rather has to do with how we define
+deductive arguments. Of course, the canonical criterion of a [*valid*]
+deductive
+argument is that it has an argument form whose premises cannot all be true while
+the  conclusion is false. However, invalid deductive arguments are, on the
+normal  understanding, deductive arguments that fail this criterion. To
+complicate  things, inductive arguments seem to fail the criterion of
+deductivety, but  seem  ok altogether. In other words, both inductive arguments
+and invalid deductive  arguments fail to preserve the truth of a conclusion with
+all true premises  in  some distribution of truth values across atomic
+propositions. So, then, the  question is, how can we tell the difference
+between an invalid deductive  argument and an inductive argument?
+
+
+[Correction here:]
+
+This question always comes up in a critical thinking class, for it is not
+obvious how in real life we are to treat arguments that fail the test for
+deductivety. If they are invalid deductive arguments, they're bad arguments.
+If  they're [*inductive*] arguments, then they may be good arguments of a
+different kind. And the answer to the question is: it depends upon how the
+authors of the argument regard their argument.
+
+
+[Correction:]
+
+Thus, I suggest to determine whether the Nyaya scheme is deductive or
+inductive, we need to not evaluate it from the perspective of our ideal of
+deductivity, but from how they [the Nyaya philosophers ] regarded their
+arguments. Did they see it as yeilding apodictic necessity? Or did they regard
+it in some other fashion. My suspicion is the former, but I'm no expert in
+Nyaya logic.
+
+Best,
+Shyam (Ranganathan)
+Department of Philosophy
+York University, Toronto
+
+
+
+

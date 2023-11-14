@@ -1,0 +1,38 @@
+From wart at freenet.edmonton.ab.ca  Mon May 19 18:39:18 1997
+From: wart at freenet.edmonton.ab.ca (wart)
+Date: Mon, 19 May 97 12:39:18 -0600
+Subject: yuga, VarNa and colour
+Message-ID: <161227030361.23782.1525150659270771178.generated@prod2.harmonylists.io>
+
+
+
+                                     email: wart at freenet.edmonton.ab.ca
+
+
+On Mon, 19 May 1997, Jacob Baltuch wrote:
+
+> >Actually the digits of any number that is a multiple of 9 will have a
+> >sum of 9 as well.
+> 
+> Not true: 9 * 11 = 99
+> 
+> >Since all of the numbers mentioned are products of
+> >360, which is 9x40, they will all be multiples of 9.
+> 
+> A number that has 9 as the sum of its digits will be a multiple of 9
+> but it doesn't necessarily go the other way (as the example above shows).
+> 
+> 
+> 
+The sums have to be calculated repeatedly until a single digit
+results.  That is 9 x 11 = 99. 9 + 9 = 18.  1 + 8 = 9.  I beleive this
+was the method originally mentioned in this thread.
+
+David Allen
+Edmonton, Canada
+
+
+
+
+
+

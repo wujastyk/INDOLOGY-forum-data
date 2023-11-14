@@ -1,0 +1,73 @@
+From Palaniappa at AOL.COM  Fri Jul 10 02:47:11 1998
+From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Thu, 09 Jul 98 22:47:11 -0400
+Subject: Fortunatov's Law and tolkAppiyar's rules
+Message-ID: <161227040721.23782.5631166298932335041.generated@prod2.harmonylists.io>
+
+In a message dated 98-07-09 10:03:27 EDT, vidynath at MATH.OHIO-STATE.EDU writes:
+
+<< > There is no need for doubling of _t or T all the time. In fact, I had
+shown
+ > examples where the doubling does not occur. They were:
+ > iyal + tEr > iya_tEr,  nAL + tO_tum > nATO_tum
+ >
+ > Moreover, from the point of view of pronunciation, Sanskrit intervocalic
+-T-
+ > is closer to Tamil -TT- than Tamil intervocalic -T- which is closer to
+ > Sanskrit -D-.
+
+ I am unable to look at comprehensive lists of Sanskrit borrowings
+ from Dravidian at the moment (because the sources are far away or
+ checked out of the library). I would appreciate it if someone can
+ tell me if this implication are justified by such borrowings. [Because
+ Prakrits voice intervocalic stops, borrowing in reverse are not conclusive.
+ Learned borrowings are affected by writing and so I don't want use
+ them. to claim that Tamil _t_t/.t.t cannot be borrowed as just .t.]
+>>
+
+This is what Burrow says: "Intervocalically a single unvoiced consonant in
+Sanskrit very often replaces a double consonant in Dravidian: cf. capeTA
+(no.21), piTaka-, puTa-, (no.39), etc." (p. 265) in Some Dravidian Words in
+Sanskrit, in Collected Papers on Dravidian Linguistics, 1968, p.236-284.
+
+What is interesting is Sanskrit shows variant forms with single and geminate
+Ts. For instance, in addition to Skt. paTa cloth, we also have paTTa . These
+are of IE origin. But a parallel case can be shown for loans from Dravidian
+also. Burrow says, " There is another word puTa- n. in Sanskrit ....It means
+'anthill', and is found only in the cpd. pipIlakapuTa-, MBh. The Dravidian
+word from which it is derived appears in the various languages as follows: Ta.
+pu_t_tu anthill, Ka. puttu Te. puTTa, Kui pusi, Kuvi puci, Malt. pute id.  Of
+these the Telugu form with -TT- (out of original affricate most closely
+resembles the Sanskrit word. On the other hand, in another loanword from the
+same Dravidian source, namely Skt. puttikA f. the white ant or termite, the
+Sanskrit word shows the same development of the internal consonant as
+Kanarese." (p.274) (This example also shows variations between alveolar,
+dental and retroflex.) So I don't think the presence or absence of gemination
+can be used to reject Dravidian as the source of IA retroflexion.
+
+<<
+> [...] But  there is an important difference
+ > between these consonants and t. k, c, and p remain as they are. But t
+changes
+ > either into _t or T.
+
+ This can be split into two rules: (1) l=>_t and L=>.t before stops and
+ (2) retroflexes absorb dentals and alveolars, and alveolars absorb
+ dentals. (2) is needed for nasals anyway: ka.n + niir => ka.n.niir.
+ (2) applies to IA also, but (1) does not, except for the strange fact
+ that lt/ld are missing except for one occurance. [t+l and n+l do
+ occur in Sanskrit where they become ll and nasalized l+l.]
+ It is this difference that needs to be explained.
+  >>
+
+I do not understand exactly what you mean here. But, in order for the
+Dravidian origin of retroflexion to be accepted, if you require that Dravidian
+should exhibit a tendency where L > T only before t and not before k, c, p
+replicating the situation in Sanskrit, I think a case can be made as follows.
+
+As I have noted in my earlier posting, we should look to the colloquial
+Dravidian language for clues to the origin of retroflexion in IA. After all,
+the split of *l into l and L also is based not on centamiz but colloquial
+Tamil (and other central Dravidian languages). In many colloquial situations,
+L does not become T before consonants like k, c, and p. Malayalam which has
+severed its connections with centamiz offers evidence for the unique nature of

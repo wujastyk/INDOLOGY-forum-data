@@ -1,0 +1,39 @@
+From pwyzlic at UNI-BONN.DE  Fri Sep  8 16:07:10 2006
+From: pwyzlic at UNI-BONN.DE (Peter Wyzlic)
+Date: Fri, 08 Sep 06 18:07:10 +0200
+Subject: Sanskrit diactitics in Endnote
+In-Reply-To: <010601c6d32a$58365240$6271d154@Winston>
+Message-ID: <161227078280.23782.5668066063538016668.generated@prod2.harmonylists.io>
+
+Am 08.09.2006 um 11:37 schrieb Lars Martin Fosse:
+>> McComas Taylor:
+>> I wonder if anyone has any experience of getting Sanskrit
+>> diacritics in a font like URW Palladio to work in the Endnote
+>> package. I look forward to hearing back from you.
+
+> I don't think EndNote handles special fonts like that, at least  
+> none of my
+> versions did. This is actually quite frustrating.
+
+That may depend on outdated releases. Recent versions of Endnote (v.  
+9 for Windows and Endnote X for Mac OS) are said to be capable to  
+manage unicode input. I have just installed the 30 day trial version  
+on my Mac and played with it. Actually, it seems to work. It is  
+possible to input Latin scripts with all relevant diacritics as well  
+as Asian alphabets (I have tried Japanese).
+Here a screenshot:
+http://img396.imageshack.us/img396/898/ 
+bildschirmfoto20060908155942wk8.jpg
+
+Export in unicode encoding (UTF-8) also works.
+
+Hope it helps
+Peter Wyzlic
+
+--
+Peter Wyzlic
+pwyzlic at uni-bonn.de
+
+
+
+

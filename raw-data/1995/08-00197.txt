@@ -1,0 +1,64 @@
+From stampe at hawaii.edu  Wed Aug 23 11:25:31 1995
+From: stampe at hawaii.edu (David Stampe)
+Date: Wed, 23 Aug 95 01:25:31 -1000
+Subject: New Mailing List: Natural Language Processing in Asia
+Message-ID: <161227020639.23782.10765073118244021285.generated@prod2.harmonylists.io>
+
+Forwarded by David Stampe <stampe at hawaii.edu>:
+----------------------------------------------------------------
+Date:	Wed, 23 Aug 1995 00:53:20 -1000
+Errors-To: sealang-l-request at nectec.or.th
+Reply-To: sealang-l at nectec.or.th
+Originator: sealang-l at nectec.or.th
+Sender: sealang-l at nectec.or.th
+From:	Gwyn Williams <gwyn at ipied.tu.ac.th>
+To:	Multiple recipients of list <sealang-l at nectec.or.th>
+Subject: New Mailing List: Natural Language Processing in Asia
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Mime-Version: 1.0
+
+          NATURAL LANGUAGE PROCESSING IN ASIA - MAILING LIST
+                            (NLPASIA-L)
+
+ The purpose of NLPASIA-L is to provide an international scholarly forum 
+and central archive to facilitate and co-ordinate the documentation, 
+research, discussion, and dissemination of information on the computational
+processing of languages in Asia. Main topics include:
+
+        1. Natural language processing
+        2. Computational linguistics
+        3. Large scale corpora
+        4. Speech processing
+        5. Related fields
+
+ The scope of discussion includes all aspects of computational processing 
+in and related to the languages of Asia including: linguistic theories; 
+linguistic data; databases; tools for language corpora and dictionaries; 
+systems for language and text processing and generation; algorithms; natural 
+language interfaces; multi-lingual systems; spelling checkers; parsing; 
+lexical and semantic analysis; pragmatics; discourse; knowledge 
+representation; machine translation; optical character recognition; font 
+design; speech recognition; speech synthesis; etc.
+
+HOW TO SUBSCRIBE TO NLPASIA-L
+-----------------------------
+
+ Mail to:  majordomo at nectec.or.th 
+
+ Leave the "Subject:" line blank. In the body of the message, type EITHER:
+
+        subscribe NLPASIA-L
+   OR
+        subscribe NLPASIA-L <your at other.email.address>
+
+ (The second option above allows you to subscribe an account which is 
+different from the one you are posting the subscription)
+
+Inquiries to: <nlpasia-l-request at nectec.or.th>
+
+ 
+
+
+
+
+

@@ -1,0 +1,41 @@
+From karp at UW.EDU.PL  Mon Jun 11 18:02:55 2012
+From: karp at UW.EDU.PL (Artur Karp)
+Date: Mon, 11 Jun 12 20:02:55 +0200
+Subject: Sinhala ligatures
+Message-ID: <161227096506.23782.3480402373215584940.generated@prod2.harmonylists.io>
+
+Dear List Members,
+
+
+I have agreed to prepare the international transliteration and Polish
+transcription
+tables for the Sinhalese script - for a publication planned by the
+Commission on Standardization of Geographical Names outside the
+Republic of Poland.
+
+Unfortunately, the Sinhalese fonts I have at my disposal (Potha,
+Iskool Pota, Kandy & Kaputa Unicode) do not allow one to create
+ligatures ( sucha sa: kva, k?a, ??a, ddha, dva, tva, nda, etc.). The
+same goes for grafemes with adscript consonants (r-, -r, -y: ??a, rya,
+dra, dya, kya, tya, vya).
+
+The Web has a lot of examples of such ligatures, but always inserted
+in the text as graphic files.
+
+Does anyone, by any chance, know of a downloadable Sinhala font that
+would show these elements? Or - of such ligatures emebedded in some
+document - but not as graphics?
+
+Thanking you in advance,
+
+
+
+Artur Karp
+
+Senior Lecturer in Sanskrit and Pali (ret.)
+South Asian Studies Dept.
+University of Warsaw.
+
+
+
+

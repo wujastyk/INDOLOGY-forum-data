@@ -1,0 +1,62 @@
+From lmfosse at ONLINE.NO  Mon Nov  9 22:46:10 1998
+From: lmfosse at ONLINE.NO (Lars Martin Fosse)
+Date: Mon, 09 Nov 98 22:46:10 +0000
+Subject: SV: SV: SV: On logic and fuzziness
+Message-ID: <161227042539.23782.4408862539955522858.generated@prod2.harmonylists.io>
+
+On Mon, 9 Nov 1998, H.M.Hubey wrote:
+
+> > LMF: I wish it were that easy. You really owe us a precise definition of such a distance.
+>
+> Definition of distance is precise and well known.
+>
+>         d(x,z) <= d(x,y) + d(y,z)
+>
+> It means simply that if I take a detour (to go to z from x) via y then
+> the
+> sum of the two distances which comprise the detour (i.e. d(x,y)+d(y,z))
+> must be greater than or equal to the direct distance d(x,z). Any kind
+> of a function that satisfies this can be called a distance metric.
+
+Narayan Sriranga Raja wrote:
+
+             Y
+            /|
+           / |
+          /  |
+         /   |
+        /    |
+       X-----Z
+
+
+Here is a simple case where d(x,z) is not <= d(x,y) + d(y,z)
+
+
+A precise definition of distance presupposes
+a precise definition of the "space" (to put
+it simplistically, at least how many dimensions
+are involved)!  Is there a precise and uncontroversial
+definition of "linguistic space", or even of
+"evolutionary phonological space"?  I doubt it.
+
+
+LMF: I think this is rather the point. Linguistic space has to be described on the basis of sufficient data, which we often lack. It is, however, obviously (from experience) unpredictable, and statistical laws are not easy to define, since linguistic space is fundamentally chaotic. Some trends are foreseeable (like language death, mixing of languages etc), and we may assume that such trends have been at work in the past, but that is about as far as we get. To say something specific, we need specific data. We cannot simply derive sound knowledge from general mathematical rules. However, given data, we can describe processes and evaluate the data with maths and stats. 
+
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Phone: +47 22 32 12 19
+Fax:      +47 22 32 12 19
+Email: lmfosse at online.no
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 2482 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19981109/f33ab18c/attachment.bin>
+

@@ -1,0 +1,170 @@
+From witzel at fas.harvard.edu  Fri Jun 20 22:12:15 2014
+From: witzel at fas.harvard.edu (Witzel, Michael)
+Date: Fri, 20 Jun 14 22:12:15 +0000
+Subject: [INDOLOGY] Sanskrit cardinal numerals: clarification
+In-Reply-To: <53A47411.9020606@u.washington.edu>
+Message-ID: <2D74DE8F9D185D4CB30EAD175F4196526A5253E3@HARVANDMBX04.fasmail.priv>
+
+Since we are at it:
+
+there also is the very useful book by the always extremely well-informed Czech linguist Vaclav Blazek:
+
+V?clav Bla?ek.
+Numerals. Comparative-etymological analyses and their implications. Brno:  Masarykova Univerziteta v Brne 1999.
+
+After dealing with other language families, pp. 141- 324 deal with Indo-European languages:
+the numbers 1-9, 10, 100, 1000.
+Followed by a general section on "patterns of creating numerals"
+
+Cheers,
+Michael
+
+
+
+On Jun 20, 2014, at 1:49 PM, Richard Salomon wrote:
+
+Here's another: I don't recall that this important source for Sanskrit/Indic numerals has been mentioned yet in this thread:
+
+Jadranka Gvozdanovic' (ed.), Indo-European Numerals (de Gruyter, 1992), with articles on OIA/MIA/NIA by Emmerick, Norman, and H. Berger respectively.
+
+-R. Salomon
+
+On 6/20/2014 5:56 AM, Witzel, Michael wrote:
+Also not mentioned: the most detailed data on the numeral system in
+Sanskrit (also historical) are found in:
+
+Wackernagel & Debrunner, Altindische Grammatik, vol.III (Noun and pronoun)
+
+Author : LinkWackernagel, Jacob
+Title : LinkAltindische Grammatik, von Jakob Wackernagel und Albert
+Debrunner.
+Published : G?ttingen, Vandenhoeck und Ruprecht, 1957.
+
+
+
+But you would have to be able to read German.
+
+Cheers,MW>
+
+
+On Jun 19, 2014, at 5:42 AM, Dominik Wujastyk wrote:
+
+Not mentioned so far,
+
+Kim Plofker, Mathematics in India (Princeton, 2009).
+
+
+On 18 June 2014 14:08, Brendan Gillon <brendan.gillon at mcgill.ca<mailto:brendan.gillon at mcgill.ca>
+<mailto:brendan.gillon at mcgill.ca>> wrote:
+
+   Thanks to the several people who responded, to whom I have replied
+   off list.
+
+   By way of clarification, I am especially interested in the
+   conventions governing the extension of the counting system to
+   extremely large positive integers.
+
+   The problem I have set myself is to define formally a counting
+   sequence for a variety of natural languages. On the one hand, I am
+   interested in numeral systems as a subgrammar of a natural
+   language illustrating many of the problems of the larger grammar
+   of which it is a part; and on the other hand, once I work out the
+   details for a language, I then formulate an exercise,on the basis
+   of the grammar I have worked out, for my students in my course,
+   Introduction to Semantics.
+
+   Cordially yours,
+
+   Brendan Gillon
+
+   --
+
+   Brendan S. Gillon                       email:
+   brendan.gillon at mcgill.ca<mailto:brendan.gillon at mcgill.ca> <mailto:brendan.gillon at mcgill.ca>
+   Department of Linguistics
+   McGill University                       tel.: 001 514 398 4868
+   <tel:001%20514%20398%204868>
+   1085, Avenue Docteur-Penfield
+   Montreal, Quebec                        fax.: 001 514 398 7088
+   <tel:001%20514%20398%207088>
+   H3A 1A7  CANADA
+
+   webpage: http://webpages.mcgill.ca/__staff/group3/bgillo/web/
+   <https://urldefense.proofpoint.com/v1/url?u=http://webpages.mcgill.ca/staff/group3/bgillo/web/&k=AjZjj3dyY74kKL92lieHqQ%3D%3D%0A&r=DCSVORsm7B2qvY92KhWDmWG4dLiCyN%2Bw%2FksCHCZnVb4%3D%0A&m=orpAw%2FZRTpM8BimnZIQGqtzSO9nEum%2F9l9AroPG862g%3D%0A&s=6b89cb1c2ba1aa959a71a18ed616d00c1f5eea63c1bd77e5bd1daf89960844e0>
+
+
+   _________________________________________________
+   INDOLOGY mailing list
+   INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info> <mailto:INDOLOGY at list.indology.info>
+   http://listinfo.indology.info
+   <https://urldefense.proofpoint.com/v1/url?u=http://listinfo.indology.info&k=AjZjj3dyY74kKL92lieHqQ%3D%3D%0A&r=DCSVORsm7B2qvY92KhWDmWG4dLiCyN%2Bw%2FksCHCZnVb4%3D%0A&m=orpAw%2FZRTpM8BimnZIQGqtzSO9nEum%2F9l9AroPG862g%3D%0A&s=e72b0b41fc81a1e9cc8cb2228a0887be516c6ba548a265027ac694128e7cedd8>
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info> <mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+============
+Michael Witzel
+witzel at fas.harvard.edu<mailto:witzel at fas.harvard.edu> <mailto:witzel at fas.harvard.edu>
+<www.fas.harvard.edu/~witzel/mwpage.htm<http://www.fas.harvard.edu/~witzel/mwpage.htm>
+<http://www.fas.harvard.edu/%7Ewitzel/mwpage.htm>>
+Wales Prof. of Sanskrit &
+Director of Graduate Studies,
+Dept. of South Asian Studies, Harvard University
+1 Bow Street,
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295, fax 617 - 496 8571;
+my direct line:  617- 496 2990
+
+
+
+
+
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+
+--
+----------------------
+
+Richard Salomon
+Department of Asian Languages and Literature
+University of Washington, Box 353521
+Seattle WA 98195-3521
+USA
+
+
+============
+Michael Witzel
+witzel at fas.harvard.edu<mailto:witzel at fas.harvard.edu>
+<www.fas.harvard.edu/~witzel/mwpage.htm<http://www.fas.harvard.edu/%7Ewitzel/mwpage.htm>>
+Wales Prof. of Sanskrit &
+Director of Graduate Studies,
+Dept. of South Asian Studies, Harvard University
+1 Bow Street,
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295, fax 617 - 496 8571;
+my direct line:  617- 496 2990
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140620/5731ac6e/attachment.htm>
+

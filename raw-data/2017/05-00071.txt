@@ -1,0 +1,24 @@
+From mmdesh at umich.edu  Thu May 11 04:00:43 2017
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Thu, 11 May 17 00:00:43 -0400
+Subject: [INDOLOGY] Font?
+Message-ID: <CAB3-dzfhyE+wZ+K1z1FdztQM4TB=kYz_xft5azdb1_h5jObPYA@mail.gmail.com>
+
+Dear Colleagues,
+
+     In my Manjushree-CSX font, I had designed characters like r and l with
+a small circle underneath to represent ? and ??.  This was the usage in
+Wackernagel's Altindische Grammatik as seen in the extract below.
+
+[image: Inline image 1]
+     Since I can no longer use the Manjushree-CSX font today,  I am
+wondering if there any Unicode fonts that are able to produce such
+diacritics?  Any suggestions?
+
+Madhav Deshpande
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170511/91de068e/attachment.htm>
+

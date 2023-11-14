@@ -1,0 +1,188 @@
+From nmisra at gmail.com  Mon Jun 20 05:52:44 2016
+From: nmisra at gmail.com (Nityanand Misra)
+Date: Mon, 20 Jun 16 11:22:44 +0530
+Subject: [INDOLOGY] Devanagari font adequacy
+In-Reply-To: <CAKdt-CctUoWqDkUJtn_Cqpv1qe3Md3oY9qExrHmW+FPW-YpnRg@mail.gmail.com>
+Message-ID: <CAATk=rA0-Y+UX=U2cWNOso5dkvq_wTKm=YNJZw-OhrmuT_ryTQ@mail.gmail.com>
+
+The last I checked Murty Hindi was also single weight (no boldface, italic
+or bold italic). Has that changed?
+
+Plus you cannot use it for publishing a book (as it would be commercial
+use) without permission.
+
+On 20 June 2016 at 03:38, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+> Another font to take seriously is the new Murty Hindi
+> <http://www.murtylibrary.com/mcli-fonts.php>, which is pretty good for
+> Skt too.   It's a font that, to my eye, looks a lot better on paper than on
+> the screen.
+>
+> Nota bene also an interesting new Devanagari font created  by Alessandro
+> Graheli, that can be seen in his recent publication *History and
+> Transmission of the Ny?yama?jar?. Critical Edition of the Section on the
+> Spho?a *
+> (Vienna: ??
+> Verlag der ?sterreichischen Akademie der Wissenschaften, 2015
+> <http://www.ikga.oeaw.ac.at/Mitarbeiter/Graheli>
+> ?) <http://www.ikga.oeaw.ac.at/Mitarbeiter/Graheli>?.  Alessandro has
+> been strongly influenced by his long experience with Sanskrit manuscripts,
+> and his font reflects the influence of scribal traditions, for example the
+> interrupted ak?ara-by-ak?ara m?tr? line.  It's subtle.
+>
+> Best,
+> Dominik
+>
+>
+>
+>
+> --
+> Professor Dominik Wujastyk* <http://ualberta.Academia.edu/DominikWujastyk>
+> Singhmar Chair in Classical Indian Society and Polity
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>
+> University of Alberta, Canada
+>
+> On 18 June 2016 at 22:31, Nityanand Misra <nmisra at gmail.com> wrote:
+>
+>> Dear Prof. Scharf
+>>
+>> Are the .tex files available for reference? Would be helpful to use them.
+>> Some of the conjuncts in Ulrich Stiehl's list are absent in Sanskrit. For
+>> example ??? (conjunct # 572 in Stiehl's list) would be impossible in
+>> Sanskrit due to ???? ??? ???.
+>>
+>> As for the five recommended fonts, how many have bold, bold italic, and
+>> italic weights? I know that Chandas, Sanskrit 2003, (and most probably
+>> Uttara too) have only one weight. It is impractical to typeset a book in a
+>> single weight. One can resort to AutoFakeBold and AutoFakeSlant options in
+>> LaTeX but the result would be unprofessional. Another thing is that fonts
+>> like Chandas are good for screen, but when printed they look synthetic. The
+>> two strokes in ? of Chandas are both straight lines, looks very unnatural.
+>>
+>> The font I have settled for with use in LaTeX is Chanakya Sanskrit by
+>> Summit Information Technology Pvt Ltd based in Gurgaon. This is the
+>> extension of the legacy Chanakya font that is used by all standard Indian
+>> publishers like Gita Press. Beautiful, artistic, and with four weights. It
+>> is expensive to buy, but worth the money if one wants to use the fonts to
+>> publish books. Sample pages of a book I recently designed and typeset in
+>> XeLaTeX using Chanakya Pro (Chanakya Sanskrit is a superset of Chanakya
+>> Pro) are attached.
+>>
+>> PS: Chanakya Pro and Chanakya Sanskrit are both without Vedic accents.
+>> This is a limitation.
+>>
+>> PPS: I stopped using skt package long ago, since XeLaTeX allows direct
+>> Unicode input. For four years now I have used XeLaTeX with polyglossia to
+>> typeset books in Sanskrit and Hindi.
+>>
+>> Thanks, Nityanand
+>>
+>> On 18 June 2016 at 00:58, Peter Scharf <scharfpm7 at gmail.com> wrote:
+>>
+>>> Dear Indologists,
+>>>
+>>> I have just completed a comparison of the ligature formation produced by
+>>> several Devanagari fonts and thought it might be useful to share the
+>>> results of the comparison.  I compared 1260 ligatures formed by the LaTeX
+>>> Skt package with seven Unicode fonts.  The ligatures compared were the
+>>> combined set of all those listed by Ulrich Stiehl in his document, *Conjunct
+>>> Consonants in Sanskrit*, Heidelberg, 21 April 2003, pp. 4--34, and
+>>> those listed in the Skt package documentation *Sanskrit for LaTeX2e*,
+>>> pp. 22--35.
+>>>
+>>> 1. LaTeX Skt package
+>>> 2. Chandas
+>>> 3. Uttara
+>>> 4. Sanskrit2003
+>>> 5. Praja
+>>> 6. Arial Unicode MS
+>>> 7. Devanagari MT
+>>> 8. Mangal
+>>>
+>>> The LaTeX Skt package comes with the TeXLive installation available at
+>>> https://www.tug.org/texlive/.  The Chandas and Uttara fonts were
+>>> produced by produced by Mihail Bayaryn and are available at
+>>> http://www.sanskritweb.net/cakram/.  The Sanskrit2003 font was produced
+>>> by Ulrich Stiehl and is available at
+>>> http://www.omkarananda-ashram.org/Sanskrit/itranslator2003.htm.  These
+>>> fonts are all available free of cost.  Praja was produced by Peter Freund
+>>> and is available for $35 at
+>>> https://secure.bmtmicro.com/servlets/Orders.ShoppingCart?CID=5115&PRODUCTID=51150002.
+>>> Arial Unicode MS is available with Microsoft Office, FrontPage and
+>>> Publisher, with the installation of international support.  Devanagari MT
+>>> is available with Mac systems with the Asian languages support.  Mangal is
+>>> available with Windows systems with supplemental language support.
+>>>
+>>> The comparison showed that Chandas and Uttara are able to form all
+>>> conjuncts correctly with the exception of seven sequences: *?k??va*,
+>>> *?rvya*, *?hthya*, *d??a*, *ddbra*, *ddvra*, *l?la*, without the
+>>> interruption of an inappropriate vir?ma.  The LaTeX Skt package handles all
+>>> but 29.  Sanskrit 2003 lacked 80, Praja 187, Arial Unicode MS 201,
+>>> Devanagari MT 232, and Mangal 236.  I also checked the behavior of the
+>>> fonts in handling the accents in the Devanagari extended, and Vedic
+>>> extenstions Unicode pages.  Only the Praja font handled them all properly,
+>>> the LaTeX Skt package handles most Vedic accentuation, while most fonts
+>>> handled only the common accentual system.  A test of Vedic accents with any
+>>> font can be performed by visiting the Sanskrit Library's interactive Vedic
+>>> Unicode character phonetic value table at
+>>> http://sanskritlibrary.org/accents.html.  Simply set your browser to
+>>> use the font you would like to test.
+>>>
+>>> The first five fonts listed are therefore commendable; the last three
+>>> are inadequate for Sanskrit.  It would be desirable for Mihail Bayaryn and
+>>> Ulrich Stiehl to upgrade their fonts, which otherwise handle conjuncts very
+>>> comprehensively, to handle the Vedic characters in the two Unicode pages
+>>> mentioned including in particular the combining candrabindu with semivowels
+>>> *l*, *y*, and *v*.
+>>>
+>>> Other Indic fonts not tested are described on the University of
+>>> Chicago's South Asia Language Resource Center page at
+>>> http://salrc.uchicago.edu/resources/fonts/available/hindi/.
+>>>
+>>> Yours,
+>>> Peter
+>>>
+>>> *************************
+>>> Peter M. Scharf
+>>> scharfpm7 at gmail.com
+>>> *************************
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>>
+>>
+>>
+>> --
+>> Nity?nanda Mi?ra
+>> http://nmisra.googlepages.com
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+
+
+-- 
+Nity?nanda Mi?ra
+http://nmisra.googlepages.com
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160620/b768e5c9/attachment.htm>
+

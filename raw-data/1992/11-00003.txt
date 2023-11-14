@@ -1,0 +1,66 @@
+From l.m.fosse at NO.UIO.EASTEUR-ORIENT  Thu Nov  5 07:45:30 1992
+From: l.m.fosse at NO.UIO.EASTEUR-ORIENT (l.m.fosse at NO.UIO.EASTEUR-ORIENT)
+Date: Thu, 05 Nov 92 12:45:30 +0500
+Subject: Machine-readable sanskrit texts
+Message-ID: <161227015527.23782.17980837634646160689.generated@prod2.harmonylists.io>
+
+
+Dear list members,
+ 
+I am looking for people who are willing to share/swap machine-readable
+sanskrit texts with me.
+ 
+A few words about myself:
+ 
+As of August '92, I am a research fellow at the University of Oslo. I am
+trying to localize machine-readable texts, partly  - and preferably - to be
+used in my project, partly to be part of an electronic library that I hope
+to establish here at our institute. So far, I have received a couple of
+texts from the Oxford Text Archive, and I am in the process of downloading
+texts from the Liverpool Indology database, as some of may have discovered
+due to a mistake of mine.
+ 
+A few words about my project: I have given my thesis the tentative title
+"In Search of Discriminators: The Crux of Chronology in Sanskrit
+Literature". In other words, I plan a statistical study of the language in
+sanskrit (and possibly prakrit and pali) texts to see if syntactic or other
+features are distributed differently in texts of different age, and in such
+a manner that you can trace a development over the centuries. I start with
+texts the relative chronology of which is known, and hope to isolate
+features that will enable myself and others to seriate other texts.
+Luckily, this kind of problem is not unheard of in statistics - methods
+have already been developed, and I have established contact with persons
+who - I hope - can guide me throught the maze of problems you encounter in
+this kind of work. As for the texts, I concentrate upon narrative prose and
+verse.
+ 
+I am of course entering texts myself (I have started with the
+Tantrakhyayika, entering the fables), and I am naturally willing to share
+my texts with others. I plan to run my files through the TACT Text
+Analyser, and the format of my files (and the tags I use) must be
+compatible with the functionality of this program. (I therefore create
+padapatha-like sanskrit texts where sandhi has been eliminated, and my tags
+should preferably be identifyable by TACT as "words", so that the program
+will establish the necessary counts and basic statistics).
+ 
+I would also be grateful for information about computer programs relevant
+to Indologists (I have already acquired Mr. Emmerick's program), and I
+would like to know if others work with statistical methods. Tagging systems
+are also of great interest to me.
+ 
+Best regards, Lars Martin Fosse
+Lars Martin Fosse
+Department of East European
+and Oriental Studies
+P. O. Box 1030, Blindern
+N-0315 OSLO Norway
+ 
+Tel: 02-85 68 48
+ 
+E-mail: fosse at hedda.uio.no
+ 
+
+
+
+
+

@@ -1,0 +1,57 @@
+From Gerard.Huet at INRIA.FR  Tue Nov 30 13:29:25 2004
+From: Gerard.Huet at INRIA.FR (=?utf-8?Q?G=C3=A9rard_Huet?=)
+Date: Tue, 30 Nov 04 14:29:25 +0100
+Subject: fonts
+In-Reply-To: <60D386B60521234BB917967801F3A30F01C24C86@lsa-m4.lsa.adsroot.itcs.umich.edu>
+Message-ID: <161227075457.23782.13418084329416989573.generated@prod2.harmonylists.io>
+
+Dear indologists,
+
+the flurry of messages concerning fonts prompted me to look into the 
+problem of generating proper
+ligatures for Sanskrit on the Web. Thanks to the hint provided by 
+Stefan Baum on nov 12th, I
+understood how to encode ligatures in Unicode, and I could generate 
+pages with correct rendering
+mixing devanagari with ligatures, transliteration with diacritics, and 
+French with accents.
+I have tentatively installed an experimental version of my site 
+http://pauillac.inria.fr/~huet/SKT/
+which I submit to your perusal. In order to get a correct rendering, 
+you must have installed on
+your workstation Unicode compliant fonts, such as IndUni from Cambridge 
+for diacritics, and
+Sanskrit99 from Ulrich Stiehl for devanagari (or Devanagari MT for Mac 
+users).
+At present, I get correct rendering using Mac System X browser Safari 
+1.2.4 - except that there is still
+some problematic buffer size limitation (devanagari does not show after 
+a while for long Web pages).
+If you try it out, please let me know by private email whether you get 
+properly rendered devanagari
+by viewing a typical page such as 
+http://pauillac.inria.fr/~huet/SKT/DICO/gh.html.
+Please mention precise parameters of your installation:
+- operating system version
+- browser version
+- relevant locally installed fonts.
+
+If people are interested, I could explain my method for Sanskrit 
+publishing, featuring:
+- perfect typography for scholarly documents with TeX
+- good rendering of Web documents with devanagari ligatures and 
+diacritics
+- unique source of documents in roman diacritics (using any 
+non-ambiguous transliteration scheme)
+- fast algorithms for linguistic processing (using arithmetical 
+encoding of phoneme streams).
+In this methodology, TeX descriptions AND Unicode/UTF8 representations 
+are compiled from
+transliteration texts in 7-bit ASCII, so there is no need for specific 
+keyboard input or Unicode editors.
+
+G?rard Huet
+
+
+
+

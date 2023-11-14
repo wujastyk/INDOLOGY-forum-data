@@ -1,0 +1,60 @@
+From erpet at COMP.CZ  Sat Feb 20 20:27:19 1999
+From: erpet at COMP.CZ (Petr Mares)
+Date: Sat, 20 Feb 99 21:27:19 +0100
+Subject: Word splitting & hyphenation conventions in              romantransliteration
+In-Reply-To: <36CF14A0.859DD632@ipc.hiroshima-u.ac.jp>
+Message-ID: <161227046706.23782.6418580714328966003.generated@prod2.harmonylists.io>
+
+> Petr Mares wrote:
+>
+> > Chinese as I know I are not good at programming, surely not as
+> > some Indians who are often on the peak at least in the
+> > programming area I know about. Chinese software  bussines is
+> > basically just following, never leading. The whole culture is based on
+> > enormously complicated script that is just a heavy bag in the software
+> > development. It is great for caligraphy or poetry but not for the
+> > information processing as we know it from the current IT.
+>
+> This suggests that the character of the script of a natural language has a
+> direct impact on whether or not the respective linguistic community
+> produces a significant amount of "advanced" computer programmers.
+Not necessary. Those were two things in the reply - not
+interconnected
+1. No good programmers and no leading possitions in IT.
+
+2. Difficoulty of computing industry due to enormous number of
+Characters and standards. There is for example more than 70 000
+DIFFERENT characters in Chinese tripitaka. There is over 20.000
+Different characters in Unicode. So the industry has to concentrate
+on dealing with many standards, BIG5, GB, HZ, Unicode etc in the
+firsthand. It is the main burden for the fast development.
+
+Another thing is that I pesronally believe that some cultures have
+more people able to write poetry and some country has more
+manpower that capture easy what is recursive coding.
+
+Sincerely
+
+Petr Mares
+
+To me,
+> this begs the question, as no computer programming languages I am aware of
+> are based on either Indic or Chinese characters anyway, so why should that
+> make a difference? (whether Chinese people have more or less difficulties
+> learning a programming language that is encoded in Roman script is an
+> altogether different question)
+>
+> Reasons for whether or not a particular country's computer industry is
+> "behind" or "leading" are perhaps more meaningfully sought in the
+> economic/political landscape of that country, the degree to which
+> computers are used (and for what purpose), government support for computer
+> development, employment opportunities, and so on.
+>
+> --
+> birgit kellner
+> department for indian philosophy
+> hiroshima university
+
+
+
+

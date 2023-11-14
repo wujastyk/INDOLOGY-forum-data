@@ -1,0 +1,25 @@
+From hwtull at MSN.COM  Wed Jun 27 17:30:11 2007
+From: hwtull at MSN.COM (Herman Tull)
+Date: Wed, 27 Jun 07 13:30:11 -0400
+Subject: converting Arial unicode MS to pdf
+In-Reply-To: <46828239.9060400@asiatica.org>
+Message-ID: <161227080750.23782.15917602222980378361.generated@prod2.harmonylists.io>
+
+I wonder if anyone can provide expertise on the following: I've written a 
+fairly large document (2645 kb) in roman and devanagari in Word 2003 (on a 
+PC), using Baraha software and Arial unicode MS throughout.  When I convert 
+to .pdf the resulting document retains the devanagari and the roman, but 
+does not space the devanagari letters properly.  Not all the letters are 
+off, but a significant fraction appear with the odd spacing (runover 
+letters, odd blank spaces, off margins).  I am using pdf 995 "printer" 
+software to carry out the conversion.
+
+Any suggestions on how to improve the .pdf output would be greatly 
+appreciated.
+
+Herman Tull
+Princeton, NJ
+
+
+
+

@@ -1,0 +1,47 @@
+From wujastyk at gmail.com  Fri Sep 25 19:11:50 2020
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Fri, 25 Sep 20 13:11:50 -0600
+Subject: [INDOLOGY] MacDevnag on 64-bit systems
+In-Reply-To: <55BF25BB-412E-4A7B-9050-290FD65BE245@wlu.edu>
+Message-ID: <CAKdt-CcvX8r8aagk0Vwtu5vnXkfPvjcdJYEp=QM5y7o17nVD3g@mail.gmail.com>
+
+Dear Tim,
+
+The good news is that you won't have to retype anything, because the more
+recent XeLaTeX system can be set up to read Velthuis transliteration and
+turn it into lovely Devanagari.  Here's a minimum working example
+<https://cikitsa.blogspot.com/2020/09/simple-example-of-using-xelatex-for.html>.
+TeX does this in one pass, and the devnag processor is not required.
+
+About the Mac, I'm completely in the dark.  Sorry!  But TeXlive (the main
+distribution from TUG) does say it works on MacOS
+<https://www.tug.org/texlive/>.  (click macOS <https://www.tug.org/mactex/>
+),
+
+Dominik
+
+
+
+--
+Professor Dominik Wujastyk
+<https://apps.ualberta.ca/directory/person/wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200925/351d4fd0/attachment.htm>
+

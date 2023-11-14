@@ -1,0 +1,17 @@
+From ucgadkw at ucl.ac.uk  Mon Mar 14 13:09:32 1994
+From: ucgadkw at ucl.ac.uk (ucgadkw at ucl.ac.uk)
+Date: Mon, 14 Mar 94 13:09:32 +0000
+Subject: Access to wihm.ucl.ac.uk
+Message-ID: <161227016622.23782.7803569747103113053.generated@prod2.harmonylists.io>
+
+As I mentioned, access to the Wellcome Library catalogue from
+the USA by telnet is still not working, I'm afraid.  I append
+an explanatory message from the local network team explaining
+the situation.  
+
+I'm sorry for the delay; please be patient.
+
+Dominik
+
+--- Forwarded mail from R.Lawrence at ucl.ac.uk (Bob Lawrence)
+

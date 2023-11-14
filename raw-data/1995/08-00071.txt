@@ -1,0 +1,26 @@
+From kellner at ue.ipc.hiroshima-u.ac.jp  Mon Aug 14 16:24:16 1995
+From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
+Date: Mon, 14 Aug 95 16:24:16 +0000
+Subject: Norman diacritic fonts for Macintosh
+Message-ID: <161227020301.23782.1941419132381232517.generated@prod2.harmonylists.io>
+
+Lance Cousins wrote: 
+
+>Professor K.R. Norman's diacritic fonts for Macintosh have now been added
+>to John Smith's ftp server. They can be obtained by anonymous ftp from:
+>bombay.oriental.cam.ac.uk. They are currently to be found at:
+>/pub/john/software/fonts/norman/NORM.SEA.HQX.
+
+Er, I only get error-messages telling me that this server does not
+have an IP-address. What's wrong? 
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+ 
+
+
+
+
+

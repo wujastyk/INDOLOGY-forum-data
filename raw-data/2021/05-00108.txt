@@ -1,0 +1,55 @@
+From baums at lmu.de  Tue May 11 14:26:18 2021
+From: baums at lmu.de (Stefan Baums)
+Date: Tue, 11 May 2021 10:26:18 -0400
+Subject: [INDOLOGY] The Buddhist term sutta
+In-Reply-To: <1B15B525-8CC4-4797-8A34-07C4F9BF42C8@wlu.edu> (Tim Lubin's
+ message of "Tue, 11 May 2021 13:22:50 +0000")
+References: <92BD55D3-AC74-45FC-B352-D453528F15DC@comcast.net>
+ <CAANHO14XkrHHzQ=TiQSBhPB5ORS1Q8dNdg3m9TDSTpD6aJdWTg@mail.gmail.com>
+ <24EF1A7D-E179-4A9A-A8FA-D6F225051DA4@wlu.edu>
+ <1A881400-2BCA-4FA0-959B-B3C44187E06A@bristol.ac.uk>
+ <1B15B525-8CC4-4797-8A34-07C4F9BF42C8@wlu.edu>
+Message-ID: <875yzp1h4l.fsf@lmu.de>
+
+Dear Tim,
+
+> But this is not really much to support sutta < s?kta, since the
+> regular P?li form parallel to s?kta includes the glide -v-
+
+yes, in the intentionally transparent formation used in the
+nibbacana you cite, but maybe that does not on its own exclude an
+opaque doublet sutta < s?kta.
+
+On the other hand, in the first century CE in G?ndh?r? (the only
+MIA language that in principle preserved the contrast between OIA
+kt and tr), the word is consistently spelled sutra- and always
+means ?canonical Buddhist text? (for some value of ?canonical?),
+and in some third/fourth-century secular documents it refers to
+literal thread or rope:
+
+   https://gandhari.org/dictionary/sutra
+
+There are no discussions about the meaning or etymology of the
+word in what we have of that tradition, but it contrasts with
+nide?a- ?explanation? in a set of commentaries:
+
+   https://gandhari.org/corpus/ckm0004
+   https://gandhari.org/corpus/ckm0009
+   https://gandhari.org/corpus/ckm0011
+   https://gandhari.org/corpus/ckm0015
+   https://gandhari.org/corpus/ckm0020
+
+Neither the Pali nor the G?ndh?r? evidence rules out
+reinterpretations in the first four hundred years of the Buddhist
+tradition, of course, and Buddhaghosa?s passage may preserve an
+echo.
+
+All best,
+Stefan
+
+-- 
+Stefan Baums, Ph.D.
+Institut f?r Indologie und Tibetologie
+Ludwig?Maximilians?Universit?t M?nchen
+
+

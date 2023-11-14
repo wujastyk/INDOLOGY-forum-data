@@ -1,0 +1,33 @@
+anonymous FTP and from two sites. From NIC.CERF.NET, cd
+to cerfnet/cefnet_info and retrieve files called:
+
+internet-accessible-catalog-nov90-general.ps (Postscript)
+internet-accessible-catalog-nov90.txt (ascii)
+
+You can also FTP to ARIEL.UNM.EDU and cd to library.
+The files are called:
+
+library.ps (Postscript)
+internet.library (ascii)
+
+It is possible to automatically receive updated versions of
+this file. For more information, send mail or a command to
+your nearest Listserv node or, only as a last resort, to
+Listserv at unmvm. The body of the mail or the command should
+say INFO AFD.  You will be sent a file called Listafd Memo
+which describes the automatic file distribution feature
+of the Revised Listserv.
+
+
+As always, if you have any questions about the List or suggestions
+for additions or corrections, please send mail to stgeorge at unmb
+or stgeorge at bootes.unm.e
+
+=======================================
+
+ 
+
+
+
+
+

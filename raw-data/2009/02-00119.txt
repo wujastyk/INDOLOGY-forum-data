@@ -1,0 +1,35 @@
+From zysk at HUM.KU.DK  Thu Feb 19 11:57:07 2009
+From: zysk at HUM.KU.DK (Kenneth Zysk)
+Date: Thu, 19 Feb 09 12:57:07 +0100
+Subject: "Visit SANSKNET while you can"
+In-Reply-To: <DC6A62F93770C44B8D2856DA3744EF7C05748AD9@VS1.exc.top.gwdg.de>
+Message-ID: <161227084984.23782.16168631257634897655.generated@prod2.harmonylists.io>
+
+I have tried them all with no luck. The fonts I downloaded are TrueType
+and I have installed them into my fonts file. 
+Any other suggestions?
+KZ
+
+ 
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of
+Gruenendahl, Reinhold
+Sent: 19 February 2009 12:31
+To: INDOLOGY at liverpool.ac.uk
+Subject: AW: "Visit SANSKNET while you can"
+
+I tried to download the Sanskrit fonts for the website and then read the
+texts, but it failed. What is the exact procedure?
+
+KZ
+
+You probably have to configure your Browser: Click "View / Encoding" and
+select "Western ISO 8859-1". If that doesn't work, try any other -
+except
+"Unicode".
+ 
+RG
+
+
+
+

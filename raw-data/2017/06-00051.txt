@@ -1,0 +1,66 @@
+From francois.patte at mi.parisdescartes.fr  Fri Jun  9 07:47:58 2017
+From: francois.patte at mi.parisdescartes.fr (=?utf-8?Q?Fran=C3=A7ois_Patte?=)
+Date: Fri, 09 Jun 17 09:47:58 +0200
+Subject: [INDOLOGY] Fwd: Re:  Issues with Sanskrit 2003 font
+In-Reply-To: <320ac08c-2c23-f857-0f8c-36b5e72933a2@mi.parisdescartes.fr>
+Message-ID: <1ad3bf94-9f45-f188-6886-31a06707054c@mi.parisdescartes.fr>
+
+
+
+
+-------- Message transf?r? --------
+Sujet : Re: [INDOLOGY] Issues with Sanskrit 2003 font
+Date : Fri, 9 Jun 2017 09:43:41 +0200
+De : Fran?ois Patte <francois.patte at mi.parisdescartes.fr>
+Organisation : Universit? Paris Descartes
+Pour : Madhav Deshpande <mmdesh at umich.edu>
+
+Le 08/06/2017 ? 16:01, Madhav Deshpande via INDOLOGY a ?crit :
+> Dear Colleagues,
+> 
+>      I have been using the Sanskrit 2003 unicode Devanagari font for
+> some time, and have noticed that for some characters, the anusv?ra
+> almost merges with characters like sign for short "i".  Here are a few
+> sample lines:
+> 
+> Inline image 1
+
+>      Am I alone in seeing these problems, or is this happening only on
+> Mac computers, and not on Windows?  I have written to Omkarananda Ashram
+> about this and I am hoping to hear from them.
+
+
+Unfortunately, I cannot see the "inlined" image.... but I attach what I
+can produce on my computer and I cannot see a problem: it is clearly
+readable.
+
+
+-- 
+Fran?ois Patte
+UFR de math?matiques et informatique
+Laboratoire CNRS MAP5, UMR 8145
+Universit? Paris Descartes
+45, rue des Saints P?res
+F-75270 Paris Cedex 06
+T?l. +33 (0)6 7892 5822
+http://www.math-info.univ-paris5.fr/~patte
+
+
+
+-- 
+Fran?ois Patte
+UFR de math?matiques et informatique
+Laboratoire CNRS MAP5, UMR 8145
+Universit? Paris Descartes
+45, rue des Saints P?res
+F-75270 Paris Cedex 06
+T?l. +33 (0)6 7892 5822
+http://www.math-info.univ-paris5.fr/~patte
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 234 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20170609/7e02129d/attachment.sig>
+

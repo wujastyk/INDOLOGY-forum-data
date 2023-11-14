@@ -1,0 +1,28 @@
+From mpt at U.WASHINGTON.EDU  Fri Sep  4 20:41:20 1998
+From: mpt at U.WASHINGTON.EDU (M. Tandy)
+Date: Fri, 04 Sep 98 13:41:20 -0700
+Subject: [Announce] Bengali for TeX.
+In-Reply-To: <Pine.OSF.3.96b.980902144019.12930B-100000@saul7.u.washington.edu>
+Message-ID: <161227041276.23782.5373179335661396053.generated@prod2.harmonylists.io>
+
+Thanks.
+
+
+
+On Fri, 4 Sep 1998, Anshuman Pandey wrote:
+
+> The new "Bengali for TeX" package is now available from the Comprehensive
+> Tex Archive Network (CTAN). CTAN addresses are:
+>
+>         ftp.tex.ac.uk
+>         ftp.dante.de
+>
+> The files reside in directory language/bengali/pandey/
+>
+> Regards,
+> Anshuman Pandey
+>
+
+
+
+

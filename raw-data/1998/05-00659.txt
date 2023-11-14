@@ -1,0 +1,26 @@
+From swamiji at GIASBG01.VSNL.NET.IN  Fri May 29 14:11:53 1998
+From: swamiji at GIASBG01.VSNL.NET.IN (Dr Shivamurthy Swamiji)
+Date: Fri, 29 May 98 19:41:53 +0530
+Subject: Ganaka Vacana Samputa
+Message-ID: <161227039389.23782.2280550873878907483.generated@prod2.harmonylists.io>
+
+Dear Indologists,
+
+This has reference to the Kannada Vacana thread in this list.  I have developed a software on the Vacana literature.  The name of the software is "Ganaka Vacana Samputa".  I have released a preliminary DOS version (1.5) of it with the first 250 Vacanas of BasavaNNa and 200 Vacanas of Akkamahadevi. It has the original text (unedited) in roman script with diacritical marks and English translation.  You can search for a particular Vacana you are looking for, either by reference or by keying in the first few letters. You can also search for the occurance of a particular word or a phrase which will be flashed on the screen giving reference and the full text.  It can thus help you more than a concordance can do for you.  The Vacanas or the words you are looking for will all be really at your finger tips !
+
+The software can be freely downloaded from the internet.  Those who are interested in it, may visit the website:  <www.vsna.org>  and click the section <vacanas>  The revised version of it with all the Vacanas of BasavaNNa including the English translation will be released shortly.
+
+The windows version of the same software is also in the final stage of its development and the demo copy of it will be made available at the same site in July this year.  In this window version, you will also have the option of reading the original text in Kannada script as well as in roman script.  
+
+Any suggestions or comments for its improvement are most welcome.
+
+Dr Shivamurthy Swamiji
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sri Taralabalu Jagadguru Brihanmath   * Taralabalu Kendra
+Sirigere - 577 541, Karnataka, India     * 3rd Main Road, 2nd Block
+Email: swamiji at giasbg01.vsnl.net.in     * RT Nagar, Bangalore - 560 032
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+

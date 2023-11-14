@@ -1,0 +1,24 @@
+From JHUBBARD at ernestine.smith.edu  Wed Sep 27 21:44:27 1995
+From: JHUBBARD at ernestine.smith.edu (Jamie HUBBARD)
+Date: Wed, 27 Sep 95 17:44:27 -0400
+Subject: Mac CS/CSX fonts??
+Message-ID: <161227020976.23782.16174840426575278948.generated@prod2.harmonylists.io>
+
+Are there any Mac fonts out there in the public domain that are CS/CSX
+encoded? I have the WNRI fonts, the Bitstream Charter fonts, and a new
+set of CS/CSX outline fonts based on the Arial and Times NewRoman fonts,
+but I am having some troubles getting these into Mac format (the basic
+problem is that most converters are too smart, and so they know that an
+IBM ANSI 224 is really an A-acute and hence remap it to the Mac standard
+encoding for A-acute, which is  231. Hence all of the codepoints get 
+changed around and presto! no more CS encoding. Sigh. I think I know what 
+the problem is, but I wouldn't mind simply not dealing with it if some 
+fonts already exist. . .
+
+Jamie Hubbard, Smith College
+ 
+
+
+
+
+

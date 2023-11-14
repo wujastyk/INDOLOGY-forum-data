@@ -1,0 +1,34 @@
+From Scharf at BROWN.EDU  Thu Sep 26 23:45:01 2002
+From: Scharf at BROWN.EDU (Peter M. Scharf)
+Date: Thu, 26 Sep 02 19:45:01 -0400
+Subject: Rejected posting to INDOLOGY@LISTSERV.LIV.AC.UK (fwd)
+In-Reply-To: <Pine.SOL.4.33.0209251912330.20977-100000@socrates-b.ucl.ac.uk>
+Message-ID: <161227071386.23782.16960150903860363267.generated@prod2.harmonylists.io>
+
+I wrote a Pascal program to implement sandhi according to Paninian
+rules, including several optional sandhis in the summer of 1991 and
+presented it at the next annual meeting of the Association of Asian
+Studies in Washington 1992.  The program was developed to reproduce
+the original text from the "padapatha" of texts entered with sandhi
+undone for the Database of Sanskrit Grammatical Texts compiled by
+George Cardona, Elliot Stern and me under funding from the National
+Endowment of the Humanities.  The program has also reproduced the
+continuous texts from the padapathas of Ramopakhyana and Visnupurana
+on the Sanskrit Library website (http://sanskritlibrary.org).  This
+program, rewritten using regular expressions, will appear soon in a
+cgi script on the Sanskrit Library website.
+        Peter Scharf
+--
+**************************************************
+Peter M. Scharf             (401) 863-2720 office
+Department of Classics      (401) 863-2123 dept
+Brown University
+PO Box 1856                 (401) 863-7484 fax
+Providence, RI 02912        Scharf at brown.edu
+http://www.brown.edu/Departments/Classics/Scharf/
+http://sanskritlibrary.org/
+**************************************************
+
+
+
+

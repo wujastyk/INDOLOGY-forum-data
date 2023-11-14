@@ -1,0 +1,53 @@
+From GGA03414 at niftyserve.or.jp  Thu Jul 27 13:41:00 1995
+From: GGA03414 at niftyserve.or.jp (Nobumi Iyanaga)
+Date: Thu, 27 Jul 95 22:41:00 +0900
+Subject: Sorting Devanagari text
+Message-ID: <161227020146.23782.6895071886573974806.generated@prod2.harmonylists.io>
+
+I am moderating a little electronic discussion group dealing with the 
+issues related to the use of computer in the oriental studies in 
+general (this discussion group has just been created this month in a 
+Japanese commercial BBS named "NiftyServe").  There, I talked about 
+this thread yesterday -- and a friend of mine replied today saying 
+that a free application which makes an index of the words of sanskrit 
+texts exists in Japan.  According to his posting, this application 
+makes a sorted index of words, and supports several transliteration 
+systems, among which that of the Kyoto University and Harvard 
+University (KH system).  An example of the result:
+            [a]
+a(2) [3] 11 21
+akAGkSaM(1) [3] 17
+akSa(1) [3] 22
+akSa..pAda.upadiSTam(1) [3] 22
+agni(1) [2] 21
+agni..hotraM(1) [2] 21
+aGga(2) [3] 10 [4] 5*
+
+Numeral in parenthesis = frequency
+numeral in square brackets = page
+other numeral = line
+
+This application was created for a particular type of personal 
+computers popular in Japan (NEC 9800 series), but must work also in 
+DOS machines in general (but the author, Mr. Mitsuyuki Shimizu, is not
+ sure on this point, according to my friend).
+
+I myself am a Mac user and have never used this application (moreover,
+ I have no special knowledge on the computer science...).  But anyway,
+ I am going to write to our discussion group to say that this kind of 
+software is needed by the international community of indologists (and 
+buddhologists, etc.) and should be made available from anywhere in the
+ world (currently, this application is available only in one Japanese 
+commercial BBS named "PC-VAN").
+
+Best wishes.
+Nobumi Iyanaga
+Tokyo,
+Japan
+(GGA03414 at niftyserve.or.jp / n-iyanag at cc.win.or.jp)
+
+P.S.  I visited the new INDOLOGY Web page and I find it really 
+excellent.  Thank you very much!
+ 
+
+

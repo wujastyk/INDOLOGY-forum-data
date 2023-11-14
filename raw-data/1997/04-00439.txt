@@ -1,0 +1,95 @@
+From zydenbos at flevoland.xs4all.nl  Fri Apr 25 03:04:24 1997
+From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
+Date: Fri, 25 Apr 97 02:04:24 -0100
+Subject: `Conversational Sanskrit' vs `Real Sanskrit'
+Message-ID: <161227029954.23782.2585997162381103601.generated@prod2.harmonylists.io>
+
+
+Replies to msg 23 Apr 97: indology at liverpool.ac.uk
+(vidynath at math.ohio-state.edu)
+
+ voe> From: Vidhyanath Rao <vidynath at math.ohio-state.edu>
+
+>Well, I suggest that you watch the behaviour of the suffix "-ku" and of
+>words like "inta".
+
+ voe> Here what I found in my bookshelf.
+ voe> [Transliteration as per ITRANS 3.10]
+
+ voe> Pathippagam, 1993. (p.118)
+ voe>         n^arapali vishayamaay enakku oru yOchanai tOnRivittathu.
+ voe>                                   -----
+ voe> If you object that Tenali Raman stories are not high-brow, let us
+ voe> turn to a typical modern prose rendering of the Thirukural.
+
+Tirukku_ra.l, please - there is a sandhi there. :-)
+    ^
+
+ voe> ``thirukkuraL, puthiya urai'', by puliyuurk kEchikan.
+ voe> puumpukaar
+ voe> pirachuram 1976. (prose rendering of kural 1.8)
+ voe>         aRak katalaana an^thaNanin  allaamal, piRarkku, inpamum, ...
+ voe>                      ------
+
+But at the same time please observe in this very same sample:
+
+puliyuurk kEchikan
+        ^
+aRak katalaana
+   ^
+thiruvatikaLaich chErn^thavarkku
+              ^
+
+from which we can conclude that the editor dissolved only those sandhis which
+he thought too confusing for the less sophisticated reader. To be honest, I had
+not even thought of the loopasandhi (enakku oru -> enakkoru), but rather of the
+insertion of additional plosive consonants, which I think is typically Tamil.
+For instance, I am just now glancing through a page of Putumaippitta_n:
+"enakkut teriyum", "jamparukkup pi_n_naal", "vii.t.tukkup poo", "intac
+cuvarkkattaip pe_ruttavarai".
+
+ voe> I do not dispute that Tamil speakers have trouble with the
+ voe> Hindi (perfect)
+ voe> past tense. I dispute the explanation. Tamil is strictly
+ voe> accusative.
+
+I have the feeling that we are drifting away from the issue, which is: why is
+there a preference for the -tavant construction? A debate over whether we
+should call a certain category of verb forms ergative or passive could be
+potentially interesting, but the effort is wasted here. Rather than go into
+terminological subtleties (which are not in the minds of the speakers anyway,
+but in ours; and I must confess that I have never heard of an "accusative
+language") or terminological filibustering, let us look at what these forms
+syntactically demand.
+
+Irrespective of our considerations on more abstract and debatable levels, what
+matters very much is the switch from "aha.m pa.thaami" to "mayaa pa.thitam",
+clearly visible in the surface grammar. Why should "aham" suddenly become
+"mayaa"? Or, to take a parallel example from Urdu-Hindi: "mai.m karataa huu.m",
+"mai.mne kiyaa hai", "mujh se karanaa hai". My point is that in Dravidian, the
+nominative case would be used to translate the agent in all three instances
+(hence I would actually prefer "agentive" as a term for that case; but this
+does not matter here). This should be empirically absolutely clear,
+irrespective of whether we call something ergative, passive or anything else.
+(If you want to call it ergative, that is fine with me, because it does not
+matter.) Hence "aha.m pa.thitavaan", etc.
+
+>have learnt to think in English (which revels in passive forms)
+
+ voe> The `man in the street' who talks in English does not use
+ voe> the passive
+ voe> in everyday conversation either. Whence this `English which
+ voe> revels in passive forms'?
+
+If you are really interested: if you read a few English and Tamil newspapers or
+novels, you will be able to draw up your own statistics - which I think is a
+waste of time and energy when something is glaringly obvious. It is just as
+obvious as the surface grammar in my explanation of -tavant.
+
+- Robert Zydenbos
+
+
+
+
+
+

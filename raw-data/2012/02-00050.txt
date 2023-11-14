@@ -1,0 +1,54 @@
+From andrew.ollett at GMAIL.COM  Thu Feb  9 14:06:53 2012
+From: andrew.ollett at GMAIL.COM (Andrew Ollett)
+Date: Thu, 09 Feb 12 09:06:53 -0500
+Subject: Digital text projects at Columbia
+Message-ID: <161227095219.23782.10904436461832225031.generated@prod2.harmonylists.io>
+
+Dear all,
+
+It's important for groups working on digital text projects to be aware
+of what other groups are doing---so that we don't duplicate
+digitization efforts, so that we maintain standards, and so that new
+technological developments don't pass us by. Many of you may know that
+some new digitization work is proceeding under the umbrella of SARIT
+(http://sarit.indology.info/), which we hope will develop into a
+repository and search interface for high-quality digital texts in
+Indian languages.
+
+A small group at Columbia University (Sheldon Pollock and myself) have
+gotten a number of texts keyed in, which we will transform into
+TEI-quality XML and which we will make available to the wider world of
+Indological scholarship through SARIT. One is the N??ya??stra,
+including the Abhinavabh?rat?, in the GOS edition. Those who have
+worked with these texts know how uncertain and in many cases
+unsatisfactory they are, and might have imagined how a
+fully-searchable text would improve the processes of evaluating
+readings and emendation (besides the general usefulness of being able
+to easily locate particular subjects, phrases, words, etc.). We have
+also digitized some Prakrit texts, including the L?l?va? and the
+Vajj?lagga?. We are insisting on rich markup, which means that these
+digital texts will have features that others don't often have: variant
+readings and other textual notes, references to the root text (for
+commentaries) and citations of other texts, markup of quoted text,
+proper names, etc. Also, crucially, we can easily go between
+transliterated and devan?gar? versions of all of the texts. Right now
+PhiloLogic (the software that SARIT uses) doesn't exactly let us
+capitalize on these features, but we are developing improvements to
+this system (using XML stylesheets).
+
+The texts will be made available once they're fully prepared and once
+SARIT is equipped to deal with them---I would say in at least a year.
+In the meantime, members of the INDOLOGY list should be aware of the
+project so that you (or your colleagues) don't duplicate these efforts
+(a risk that the people at SARIT have also been attentive to), and so
+that you can offer your suggestions on any aspect of the project,
+which are most welcome. If any of you are particularly interested in
+seeing these texts, or if you want to get involved in digitization
+efforts like these, please contact me.
+
+Andrew Ollett
+PhD student/Columbia
+
+
+
+

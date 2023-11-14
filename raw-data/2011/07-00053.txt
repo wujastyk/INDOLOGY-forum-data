@@ -1,0 +1,175 @@
+From saf at SAFARMER.COM  Thu Jul 14 21:20:32 2011
+From: saf at SAFARMER.COM (Steve Farmer)
+Date: Thu, 14 Jul 11 14:20:32 -0700
+Subject: The Indus script as proto-writing
+In-Reply-To: <526792E8-E92A-4920-A579-BC21907CC98B@berkeley.edu>
+Message-ID: <161227093170.23782.9365459204905358742.generated@prod2.harmonylists.io>
+
+Dear George,
+
+Actually, vs. my last message, let me get to your interesting  
+questions quickly while Indus materials are still in mind.
+
+On Jul 14, 2011, at 11:03 AM, George Hart wrote:
+
+> In reading over the interchange between Steve and Asko, I can't help  
+> wondering: if the IV civilization was in contact with other  
+> civilizations in the Near East, as it apparently was, why didn't  
+> they borrow writing from them if they had none of their own?  It  
+> seems to me -- and I admit to being naive on this point -- that  
+> writing systems spread quite readily and inevitably.  Thus Brahmi in  
+> South Asia, Phoenician in the Middle East and Europe, Chinese in  
+> East Asia, etc.  Wouldn't the IV civ. have borrowed cuneiform  
+> writing if they had none of their own?  It's hard for me to imagine  
+> that their traders came into contact with something so useful as a  
+> developed writing system and didn't either imitate it or borrow it.   
+> George Hart
+
+The standard assumption is that writing normally spreads "quite  
+readily and inevitably." But historically, interestingly enough, that  
+doesn't turn out to be the case.
+
+I'll leave aside the issue of how appropriate or not cuneiform would  
+have been in encoding the unknown languages of the Indus -- which we'd  
+certainly have to assume based on comparative evidence were multiple,  
+as we've long argued -- since we know absolutely nothing about those  
+languages. (The old assumptions from the 30s and 40s that Asko picked  
+up in the 1960s that they were Dravidian have been pretty much  
+debunked by now, I think -- but that's another issue. See here now  
+even Frank Southworth, _Linguistic Archaeology of South Asia_, who  
+bravely changed his book in the proofing stage, having (reluctantly!)  
+been convinced by our arguments in our 2004 paper.)
+
+Before turning to the Indus examples, just think of premodern  
+Mesoamerica, where we we find a complex mixture of both literate and  
+non-literate urban civilizations existing side-by-side. Thus the Maya  
+of course among other Mesoamerican peoples had a fully functioning  
+script, but the Aztecs and Mixtecs didn't (they did of course have  
+very long mnemonic prompt texts with extremely limited phoneticism,  
+but not writing as linguists think of it, pace Parpola 1994: 54).
+
+Nor did the Incas have anything you can call a script in the strict  
+linguistic sense, unless you believe (rather eccentric and unverified)  
+claims that the quipu system functioned as a kind of writing system,  
+loosely defined.
+
+The same mixture of literate and non-literate urban civilizations --  
+as is much less well-known -- also shows up in the Ancient Near East.  
+Not long after a Harvard Roundtable talk I gave on the nonlinguistic  
+status of Indus symbols in 2002, Carl Lamberg-Karlovsky published a  
+paper  ("To Write or Not to Write." In Timothy Potts, Michael Roaf,  
+and Diana Stein, eds. _Culture through Objects_, Cambridge, 2003, pp.  
+59-72) that discussed the wonderfully wild mix of literate, half- 
+literate, and totally non-literate urban civilizations of the Ancient  
+Middle East. (His discussion overlaps with Indus times, but he avoided  
+the whole issue of the Indus in the paper, which Michael Witzel and I  
+at the time thought was interesting.)
+
+Michael and I by this time had already taken this view much further,  
+discussing in a variety of conference talks and papers a vast "No Text  
+Zone"  that encompassed virtually everything East of Elam through  
+Central Asia and India and the Persian Gulf as well from the early 3rd  
+millennium BCE until well into the first millennium BCE.
+
+It should be noted that we were forced at the same time, in  
+conjunction with Richard Sproat, the proto-Elamite expert Jakob Dahl,  
+and others, to debunk a lot claims coming out after 2003 --  now  
+widely known as spurious and based on faked evidence, as I first  
+argued -- about writing at the then much-hyped Jiroft digs.
+
+In 2009 Dan Potts, at our Kyoto Indus conference, and in private  
+emails as well confirmed his belief too in the total non-linguistic  
+nature of the urban civilizations in these regions, including the  
+Persian Gulf, where of course we have found seals with some Indus  
+features. Dan, who is indisputably the world's expert on Persian Gulf  
+archaeology, among much else, certainly does not agree with Asko that  
+this is a sign of literacy in the region. Dan takes it as "obvious,"  
+as he told me in Kyoto, that the Indus system was nonliterate.
+
+So pace Greg Possehl (who is often quoted on this) and many others,  
+you certainly *don't* need literacy in large urban civilizations. That  
+is an historical myth that is easy to falsify empirically.
+
+The question remains, of course -- as George Hart points out --  as to  
+why some of these non-literate urban civilizations failed to pick up  
+on writing before the Persians spread literacy into India and Central  
+Asia after ca. 500 BCE. (The effects of that spread are part of what  
+Michael and I have dubbed the "Gandharan thesis," which gives us  
+powerful new ways to date Vedic texts; we plan as well to expand on  
+this elsewhere; so far the thesis is discussed only online (in some  
+depth, however) and in footnotes in some of our papers.)
+
+Many possible reasons exist for rejecting literacy, but one of the  
+most obvious in the case of India -- compare with anti-literate  
+attitudes we know existed widely in Vedic traditions in the second  
+half of the first millennium BCE, and indeed beyond -- has to do with  
+the destructive power of literacy in respect to existing magical- 
+religious and social-political institutions.
+
+(Cf. the same situation in relation to Celtic religious traditions:  
+the Celts used Greek frequently for economic purposes, but like the  
+Vedic peoples eschewed its use in encoding their religious and  
+literate traditions. Cf. too the highly negative comments about  
+writing by the author or authors of the Phaedrus, in the Platonic  
+corpus.)
+
+There may be other reasons involved, including possibly the  
+multilinguistic nature of the Indus peoples -- the Mixtecs and Aztecs  
+too, who lacked full phonetic writing systems, were highly  
+multilinguistic societies, making mnemonic systems in this case more  
+useful than phonetic ones -- but at present this is just a guess. Many  
+peoples have preferred oral traditions to literate ones, and often for  
+similar reasons, even when in contact with fully literate societies.
+
+What *is* clear, for whatever reason, is that ancient urban  
+civilizations often never adopted literacy even when they knew of it.  
+This is apparently true of the vast "No Text" zone we find after proto- 
+Elamite times (proto-Elamite disappeared early in the third millennium  
+BCE, long before Indus political-religious symbols appeared on the  
+scene) in the urban civilizations of the Southeast Iranian plateau,  
+among the BMAC and other semi-urban peoples of Central Asia, in the  
+Persian semi-urban centers, and in the Indus civilization. And that  
+condition apparently *lasted* until Persian times, when use of Aramaic  
+as an administrative language was spread all the way from Egypt to  
+northern India and Central Asia.
+
+The "No Text Zone" idea, which Michael first suggested after one of my  
+talks at Harvard in 2001, is a very exciting one. We discussed it  
+briefly in our 2004 paper, in Kyoto in 2005 and 2009, and will do so  
+at length at some point if we ever get around to finishing our _Indus  
+Valley Fantasies_ book. I also include discussion of it in a book in  
+progress on wider cross-cultural philological issues and topics in  
+cultural neurobiology.
+
+For a little on that, see the abstract of our Harvard talk from last  
+October, here (pretty compressed, but it tries to pack a lot in):
+
+http://www.safarmer.com/IndusValleyFantasies.pdf
+
+Unlike Asko, I'm happy to discuss these issues just about anywhere --  
+I think it is counterproductive to cut off debate of anything  
+scientific -- but I am really caught up in other research issues now  
+involving the Cultural Modeling Research Group, which (as noted in the  
+abstract) includes neurobiological and computational as well as  
+philological dimensions.
+
+So many specialists in scripts and ancient archaeology, etc., by now  
+have quietly accepted our views -- to proclaim them publicly the way  
+we have inevitably invokes violent attacks from the Hindu right, so  
+people for obvious reasons prefer to keep their opinions to themselves  
+-- that we assume that eventually everyone will be saying that "all  
+Farmer, Sproat, and Witzel have done is point out the obvious."
+
+Well, it's true -- although it took over 140 years to notice the  
+obvious. :^) See an amusing little paper from 2003 that I never  
+bothered to publish that discusses the so-called script thesis back to  
+its very odd origins in the late 19th century; and forgery even then!
+
+http://www.safarmer.com/firstforgery.pdf
+
+Rushed again, and no time to proofread this, unfortunately....
+Steve
+
+
+
+

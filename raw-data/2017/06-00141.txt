@@ -1,0 +1,42 @@
+From wujastyk at gmail.com  Sun Jun 18 15:01:31 2017
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 18 Jun 17 09:01:31 -0600
+Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0gW1hlVGVYXSAge+CkreCkvuCksOCkpOClgOCkr+CkteCkv+CkpuCljeCkteCkpOCljeCkquCksOCkv+Ckt+CkpOCljX0gUmU6IElzc3VlcyB3aXRoIFNhbnNrcml0IDIwMDMgZm9udA==?=
+In-Reply-To: <CAC1phybqdAZ5WZumDObWBm_CGSQ5M-SVQnK=Tv50rq+QA8TaNg@mail.gmail.com>
+Message-ID: <CAKdt-Cd=0CkFdHZteh8N+Zhfm6kufHYTKOLoEBX4T1ZAH5TtEg@mail.gmail.com>
+
+Dear Zdenek, what you say is borne out by my tests, where the only font
+showing a difference between Sanskrit and Hindi is the FreeSerif (the -kti-
+conjunct).
+
+(I used the Fontspec/Polyglossia system for language-switching.)
+
+Best,
+Dominik
+
+On 18 June 2017 at 02:04, Zdenek Wagner <zdenek.wagner at gmail.com> wrote:
+
+> Hi all,
+>
+> as far as I know the Devanagari fonts are either Sanskrit with all
+> conjuncts that cannot be switched off or Hindi without the Sanskrit
+> conjuncts. The only exception is FreeSerif which takes the Devanagari block
+> from the Velthuis Devanagari and models the two modes from the "good old"
+> Velthuis Devanagari, namely @sanskrit and @modernhindi. It was my
+> suggestion implemented by Steve White. In all other Devanagari fonts
+> language switching has no effect because there is nothing to switch, the
+> language variants are not defined. I do not know how to do it, Steve White
+> knows. I just specified the desired result and Steve did it. It would be
+> nice if other font designers learned from his work.
+>
+>
+> Zden?k Wagner
+> http://ttsm.icpf.cas.cz/team/wagner.shtml
+> http://icebearsoft.euweb.cz
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170618/a620e334/attachment.htm>
+

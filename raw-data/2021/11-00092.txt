@@ -1,0 +1,27 @@
+From wujastyk at gmail.com  Wed Nov 24 22:59:18 2021
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 24 Nov 2021 15:59:18 -0700
+Subject: [INDOLOGY] Fwd: [MailmanLists] Scheduled maintenance tomorrow
+In-Reply-To: <Jsv3ll66b3pG5tGgiwowM9NBHgEq6pgbo9ovGvGngU@zrh.mailmanlists.net>
+References: <Jsv3ll66b3pG5tGgiwowM9NBHgEq6pgbo9ovGvGngU@zrh.mailmanlists.net>
+Message-ID: <CAKdt-CfB6bmeOmP8iz_TBZFzAgasYt9n_A9fGwW7Vp_N_cZ0Xg@mail.gmail.com>
+
+---------- Forwarded message ---------
+From: MailmanLists <accounts at mailmanlists.net>
+Date: Wed, 24 Nov 2021 at 13:26
+Subject: [MailmanLists] Scheduled maintenance tomorrow
+
+This is an automated notice from MailmanLists.
+
+Notice of scheduled maintenance outage tomorrow.
+
+Server:   Amsterdam NLD
+Date:     2021-11-25
+Start:    04:00:00 UTC
+Duration: 30 minutes
+
+There may be delays to mail delivery during this time.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211124/82241314/attachment.htm>
+

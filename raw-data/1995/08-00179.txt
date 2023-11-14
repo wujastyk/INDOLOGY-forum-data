@@ -1,0 +1,117 @@
+From pslvax!sadhu at UCSD.EDU  Tue Aug 22 14:49:45 1995
+From: pslvax!sadhu at UCSD.EDU (pslvax!sadhu at UCSD.EDU)
+Date: Tue, 22 Aug 95 07:49:45 -0700
+Subject: Septemeber HT available free
+Message-ID: <161227020588.23782.515769418208007042.generated@prod2.harmonylists.io>
+
+
+Namaskarams!
+
+The September issue of Hinduism Today is "on line", that is, available free
+from the HT email server, and the HT web page.
+
+For those with Internet access, the url is:
+
+     http://www.HinduismToday.kauai.hi.us/ashram/htoday.html
+   
+
+For those who prefer to receive the paper by email, you may request
+articles by file name.   Note that it is suggested you include your
+internet mail address in the request message.
+
+Also, be sure to include the issue name, in the format
+
+	issue/article
+
+
+And, be sure to capitalize as shown.
+
+PLEASE do not reply to this message.  Replies are automatically
+discarded.
+
+The mail server address, where requests should be sent, is:
+
+	pslvax!hinduism_today at ucsd.edu
+
+
+Sample request message:
+
+
+begin
+mail  (put your mail address here, such as prakash at castcrew.com)
+send aug_95/My_Turn
+send aug_95/Editorial
+end
+
+To get more information about the HT email server, write
+to the HT postmaster at:
+
+	pslvax!sadhu at ucsd.edu
+
+or send this message to the HT server:
+
+begin
+mail (your email address here)
+help
+index
+end
+
+
+
+list of articles in the table of contents
+
+
+
+------------------------------------------------------------------------
+     HINDUISM TODAY, September, 1995
+
+     -- volume 17, number 9
+
+     * Education in India--Whence and Whither?
+     * Home, Sweet Europe: Asians flooding Europe
+     * Barsana Dham Blooms in Texas, 
+	  Swami Prakashanand Saraswati's International Society of Divine 
+	  Love Cultivates a Hindu Haven in the Lone Star State
+     * India's Supreme Court to RK Mission: 'You're Hindus'
+     * Publisher's Desk, Swaminarayan: Dharma's Pride and Joy
+     * Editorial, The RK Mission: Judging the Judgment
+     * Letters to the Editor: In box for Pat Robertson
+     * My Turn: Open letter to Pat Robertson
+     * Hindu Deity Of Dharma: 
+	  Remover of obstacles and bountiful source of things both 
+	  earthly and divine.
+     * Ganesha: Unifying force among Hindus
+     * Scriptual Quotes
+     * Home or Career? Part II
+     * News in Brief: The thriving Hindus
+     * Healing: Reducing Computer Eye Strain
+     * High School Daze in Rajput, India
+     * Global Dharma: Violence in Russia
+     * Jewelry of the Indus
+     * All Night Festival: For a Goddess who saved a Kingdom
+
+
+------------------------------------------------------------------------
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+list of file names for article requests:
+
+
+All_Night_Festival          Jewelry_of_the_Indus
+Barsana_Dham_in_Texas       Letters_to_the_Editor
+Editorial                   My_Turn
+Education_in_India          News_in_Brief
+Ganesha                     RK_Mission_Court_Decision
+Global_Dharma               Scriptural_Quotes
+Healing                     Table_of_Contents
+High_School_in_Rajput       Publishers_Desk
+Hindu_Diety_of_Dharma      
+Home_Sweet_Europe         
+Home_or_Career_Part_II
+ 
+
+
+
+
+

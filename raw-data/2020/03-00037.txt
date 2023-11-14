@@ -1,0 +1,98 @@
+From wujastyk at gmail.com  Wed Mar 11 07:25:42 2020
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 11 Mar 20 12:55:42 +0530
+Subject: [INDOLOGY] Online course copyrights/ideas -- Slightly off-topic
+In-Reply-To: <CAPAr6cGxuN-KC_3Q=yBrTppqVS1-vyNB6UtgR4_9ijtj5hORYw@mail.gmail.com>
+Message-ID: <CAKdt-Cc5END33fr5QXykmBR=b5Ro82RZaXPJo2q3JOXzRwZk_Q@mail.gmail.com>
+
+I can recommend our own university's Office for Copyright that offers a lot
+of online support
+<https://www.ualberta.ca/faculty-and-staff/copyright/student-staff-guide/index.html>
+as well as classroom tutorials.  I've attended one of these and it was
+small and quite focussed.  Recommended.
+
+The short version is this: place two statements on all materials you
+release:
+
+   1. a copyright statement by the person who created the materials (e.g.,
+   "(C) Patricia Sauthoff, 2020")
+   2. a license stating the terms under which you, as (C) holder, would
+   like your materials to be shared.  The best source for such a license is
+   the Creativecommons.org, where several options are explained clearly (click
+   "share your work" and then follow the prompts).
+   A commonly used and recommended license is the "BY-SA
+   <https://creativecommons.org/licenses/by-sa/4.0/>" one, which means
+   anyone copying your stuff must acknowledge that it's yours and anything
+   they do with it must also be shared under the same BY-SA terms.
+
+Best,
+Dominik
+
+--
+Professor Dominik Wujastyk
+<https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+
+On Wed, 11 Mar 2020 at 09:19, Patricia Sauthoff via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear all (cross-posted to RISA & Indology)
+>
+> With the swift move to online courses in the wake of covid19, I wonder if
+> those on the lists well-versed in online copyright might give us some tips
+> to protecting our materials.
+>
+> I discussed the possibility of my discussion-based Modern Yoga course
+> going online with my students and they offered some helpful suggestions:
+>
+> *short (10-15 pre-recorded video lectures by the professor) followed by a
+> Twitch livestream, which would involve them asking questions/engaging in
+> discussion via text and the professor answering questions and leading a
+> chat discussion via video
+> *written assignments using guided discussion questions in a discussion
+> forum
+> *maintaining a live online presence during usual class hours (but with the
+> archival capabilities of Twitch)
+>
+> In the wake of these international university closures, I think it would
+> be helpful to have a thread dedicated to online pedagogies that we find
+> success with.
+>
+>
+>
+> --
+> Patricia Sauthoff
+> (she/her/they/them)
+> Postdoctoral Fellow
+> AyurYog.org
+> Department of History and Classics
+> University of Alberta
+> Edmonton, Canada
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200311/8f29a1ce/attachment.htm>
+

@@ -1,0 +1,44 @@
+From utkragh at HUM.KU.DK  Wed Aug  6 13:10:36 2008
+From: utkragh at HUM.KU.DK (Ulrich T. Kragh)
+Date: Wed, 06 Aug 08 15:10:36 +0200
+Subject: svArtha derivation and subtypes of taddhita pratyaya affixes
+Message-ID: <161227083130.23782.350960264448221609.generated@prod2.harmonylists.io>
+
+Dear members,
+
+I am trying to understand a passage from Buddhist 6th century commentary by Bhavaviveka and its 7th century sub-commentary by Avalokitavrata, wherein a taddhita derivation of the word maitra is discussed. Although the texts were written in Sanskrit, they are now only extant in Tibetan, and I am struggling with figuring out three grammatical terms, which I hope someone on this list might recognize and explain to me in their Sanskrit context.
+
+ 
+
+The passage concerns a taddhita svArtha-derivation, i.e., a nominal derivation where the derivative "maitra" has the same meaning as its base (prakRti), which either is "mitra" or "maitra" itself, depending on which manuscript I rely on (too complex an issue to lay out here). To explain this svArtha-derivation, the commentators give the following argument (in Tibetan): bdag gi don la de dang mthun pa'i rkyen brjod par bya ba'i phyir ro. The first part "bdag gi don" is clearly svArtha, probably in the locative case. This is followed by the term I have problems identifying, namely "de dang mthun pa'i rkyen". The term means "an affix agreeing with that". The last part "rkyen" is Skt. "pratyaya". The first part might be "tad-AnurUpa-" or tat-svArUpya-". Does this ring any bells? Is there a pratyaya called a "tad-AnurUpa-pratyaya" or "tat-svArUpya-pratyaya" or anything similar, and what does it mean (references to literature would be very welcome)?
+
+ 
+
+In the sub-commentary, Avalokitavrata paraphrases the same term by calling it "bdag dang mthun pa'i tshig gi rkyen" meaning "a pada-affix agreeing with itself", perhaps Skt "svAnurUpa-pada-pratyaya" or something similar. Any remarks on this term would also be appreciated.
+
+ 
+
+Finally, the sub-commentator attempts to contrast this explanation with a second explanation given by for the taddhita derivation of maitra from mitra (here certainly understood as derived from mitra). In the course of that passage, he introduces a term, which in Tibetan is "gzhan gyi don", i.e., literally "other-meaning", which might be *anyArtha or *anyadartha or even *parArtha. Also, he parallels the longer term mentioned above and writes "gzhan dang mthun pa'i tshig gi rkyen" meaning "a pada-affix agreeing with other", perhaps Skt. *anyAnurUpa-pada-pratyaya or something similar. Here my question is: I understand that svArtha derivation denotes a derivation, where the derivative is synonymous with its base, but is there really an opposite term, such as "anyArtha" or "parArtha"? I am aware that such words exist in general, but does such a term occur as an opposite of svArtha in the context of derivation?
+
+ 
+
+I hope someone out there might have one or more answers. I have been through Kartre's "Dictionary of Panini" and I have tried almost every available Tibetan-Sanskrit dictionary. I have also searched the Tibetan Buddhist canon electronically and found that these terms are only used by the two above-mentioned authors, so they seem to be very rare - at least in Buddhist writings.
+
+ 
+
+With best regards,
+
+Ulrich Timme Kragh
+
+ 
+Dr. Ulrich Timme Kragh
+Assistant Professor
+Geumgang Center for Buddhist Studies
+Geumgang University, Dae-myeong Ri, Sang-wol Myeon
+Nonsan-si, Chungnam 320-931, Republic of Korea
+Tel. +82-41-731 3618
+ 
+
+
+
+

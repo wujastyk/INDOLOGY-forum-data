@@ -1,0 +1,23 @@
+From tlk at POST.COM  Tue May 16 09:28:37 2000
+From: tlk at POST.COM (Toke Lindegaard Knudsen)
+Date: Tue, 16 May 00 05:28:37 -0400
+Subject: Devanagari font for LaTeX
+Message-ID: <161227058559.23782.3557200333005826618.generated@prod2.harmonylists.io>
+
+Dear members of the Indoloy list,
+
+I usually use LaTeX to prepare documents and I am thus wondering whether a
+devanagari font for LaTeX is available.  If so, how can I obtain it?
+
+Thank you very much.
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+______________________________________________
+FREE Personalized Email at Mail.com
+Sign up at http://www.mail.com/?sr=signup
+
+
+
+

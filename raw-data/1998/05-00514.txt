@@ -1,0 +1,46 @@
+From bhk at HD1.VSNL.NET.IN  Sun May 24 05:43:28 1998
+From: bhk at HD1.VSNL.NET.IN (Bh.Krishnamurti)
+Date: Sun, 24 May 98 10:43:28 +0500
+Subject: Inscriptions and Dravidian sound changes "y" > "c" and "y" >              "t"
+Message-ID: <161227039075.23782.17075498810983790891.generated@prod2.harmonylists.io>
+
+There is a phenomenon called hypecorrection; since c>y is related as
+old-later, some crackpot at a later date would represent an underlying -y-
+form by -c- thinking that he was writing an older spelling. A good example
+is inscriptionl mata-c:nai for mata-ya:nai. So if there were many crackpots
+like that, it would even mislead us as a sound change.
+
+In Sanskrit there is a  fricative y and a semi-vowel y (both probably
+occurred in complemenary distribution). The first one as in yama, yamuna:,
+etc was a fricative like Modern German J or English y in yes.  Prakrit
+develops j- (palatal affricate) out of it,e.g. jama-, jamuna:. The Dravidian
+*y was not a fricative. It was a frictionless continuant. Kui kaju for *kay
+is a doubtful transcription; I have to check how regular is *y = Kui j. I
+know Schulze a German wrote j for y. PD *c and *y fell together in most of
+the languages but the distinciton is preserved by some members (particularly
+Kannada). where Ka also has an intervocalic -y- (bayal) it goes to PD *y. So
+Kannada holds the clue for PD reconstriction (Ta. poy = Ka. pusi <*posi 'a
+lie'; PD *poc-).
+Please check the chronology of -c- ~ -y- forms in Tamil. Are the-c- forms
+older or -y- forms in terms of literary attestation? You  have to examine a
+sound change from a number of angles before making generalizations about
+others' scholarship. Bh.K.
+
+
+
+At 15:48 23/05/98 EDT, you wrote:
+>Regarding the Dravidian y/c/s alternation, at 01:41 19/01/98 EST, Dr. Bh.
+>Krishnamurti wrote:
+>
+><<Coming to kuyawa~kucawa, an intervocalic consonant is weakened and not
+>strengthened by a natural phonetic process. -c- [-s-] thus gets weakened to
+>-y- and not the other way round.>>
+ >Indeed, my examination of inscriptional evidence showed irrefutable evidence
+>for y > c. To prove my case, I have to show that a "y" reconstructable to
+>Proto-Dravidian should change to "c" in a medial position.
+
+>Consider the following case.
+>matacAn2ai (SII, vol. 5, no. 431 ) < matayAn2ai
+>
+>The compound "matayAn2ai" is composed of "mata"+"yAn2ai". It means rutting
+>elephant. "mata" (DEDR 4687) means "to be furious as by must" and "yAn2ai"

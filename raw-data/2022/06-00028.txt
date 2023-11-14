@@ -1,0 +1,61 @@
+From vasishtha.spier at gmail.com  Sat Jun  4 20:56:23 2022
+From: vasishtha.spier at gmail.com (Harry Spier)
+Date: Sat, 4 Jun 2022 16:56:23 -0400
+Subject: [INDOLOGY] Indic rendering
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAANd2DOFif3dNu73uHUyEYYwBAAAAAA==@matfyz.cz>
+Message-ID: <CAJ3b0o94yke6gXNdM9UE1wYYfFm-hTcAMupUykRQweHd5xhxJw@mail.gmail.com>
+
+Attached is a pdf of the list of conjunct consonents from  MacDonell's
+grammar, in the fonts Murty Sanskrit, Sanskrit 2003, Chandas and Adishila.
+I've also attached a MSWord file of this, in case anyone wants to
+test other fonts against MacDonell's list.
+Harry Spier
+
+
+On Mon, May 30, 2022 at 9:45 AM Jan Ku?era <jan.kucera at matfyz.cz> wrote:
+
+> Dear all,
+>
+>
+>
+> I am doing a review of Indic scripts rendering mechanisms, and I would be
+> interested if anyone had issues that they had run into during their work.
+> Examples I am aware of include Vedic signs not working on anusvara, nuktas
+> not working on vowels and similar.
+>
+>
+>
+> If any of you had troubles getting any of the Indic scripts behave on
+> computers the way you wanted, feel free to reach out to me with details
+> offline.
+>
+>
+>
+> Thank you and best regards,
+>
+> Jan
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220604/72ed25b6/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: conjunct-consonents-Macdeoneell-comparison.doc
+Type: application/msword
+Size: 24064 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220604/72ed25b6/attachment.doc>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: conjunct-consonents-Macdeoneell-comparison.pdf
+Type: application/pdf
+Size: 245443 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220604/72ed25b6/attachment.pdf>
+

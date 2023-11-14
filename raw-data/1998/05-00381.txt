@@ -1,0 +1,38 @@
+From jds10 at CUS.CAM.AC.UK  Mon May 18 13:42:32 1998
+From: jds10 at CUS.CAM.AC.UK (John Smith)
+Date: Mon, 18 May 98 14:42:32 +0100
+Subject: Proposed changes to Velthuis Devanagari fonts.
+In-Reply-To: <3.0.1.32.19980518142004.0093f220@pop-rocq.inria.fr>
+Message-ID: <161227038838.23782.14865344665211222877.generated@prod2.harmonylists.io>
+
+On Mon, 18 May 1998, Gerard Huet wrote:
+
+> Hello. While we are discussing changes to Velthuis Devanagari fonts,
+> I encountered problems with certain ligatures, whose horizontal space must
+> be somehow wrongly computed; it concerns kt, kl, ~nc, ~nj, j~n and ky.
+> Whenever such combination letters appear, TeX justification and alignments
+> are wrongly computed. This must be due to some mistake in the Metafont tables
+> describing devnag, and some expertise is needed there in order to fix the
+> problem. I have not tried the Wilkner variant on this problem, and I
+> imported the Velthuis package a long time ago, so I am wondering whether
+> anyone corrected or knows how to correct the bug.
+> Regards,
+> Gerard Huet
+
+I have been using Velthuis for about ten years, and I have never
+encountered a problem with these characters. I suspect the problem must be
+local to your setup. A good start would presumably be to download and
+install the current "new" version of the package that Anshuman has put up
+on CTAN.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

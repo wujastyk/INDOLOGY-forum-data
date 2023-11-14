@@ -1,0 +1,65 @@
+From michaelnm.meyer at gmail.com  Mon Dec 19 11:33:43 2022
+From: michaelnm.meyer at gmail.com (=?UTF-8?Q?Micha=C3=ABl_Meyer?=)
+Date: Mon, 19 Dec 2022 12:33:43 +0100
+Subject: [INDOLOGY] DLI (Digital Library of India)
+In-Reply-To: <CAJ3b0o8DL+u-3iJ9_HXO=wqsw7f6-yAPnXCX2c9Nie5RRUj38w@mail.gmail.com>
+References: <CAJ3b0o8DL+u-3iJ9_HXO=wqsw7f6-yAPnXCX2c9Nie5RRUj38w@mail.gmail.com>
+Message-ID: <CANYWBZchkJkwqrvP7q1FBjwjK1XL2NZE+asBcKc5EsM2nRDENg@mail.gmail.com>
+
+Dear all, Dear M. Spier,
+
+A few notes about your second point.
+
+As evidenced by the menu on the top right, sanskritdictionary.com uses
+Google's OCR engine, namely Tesseract (https://tesseract-ocr.github.io).
+The software can be downloaded freely and is relatively straightforward to
+use through tools like ocrmypdf (https://ocrmypdf.readthedocs.io). As far
+as I know, no models are yet available for recognizing transliterated
+Sanskrit, but there is one for Sanskrit written in devan?gar?.
+
+Now, concerning the contents-based search feature, there is a caveat to
+keep in mind: a large proportion of the PDF files originating from DLI
+(both those available at http://dli.sanskritdictionary.com and those
+available at https://archive.org/details/digitallibraryindia?tab=collection)
+were originally passed to OCR with incorrect language or script parameters,
+when they were passed to OCR at all. The extracted text is thus of low
+quality, which leads to poor search results.
+
+I have found it absolutely worth it to systematically download the books
+from DLI I might be interested in, to pass them to OCR with the correct
+language parameters (determined with a classification model), and to use a
+local full-text search tool. By contrast, books from other major
+collections on archive.org (e.g. those from the library of Toronto) are
+generally well indexed and can be searched directly through archive.org's
+interface.
+
+Best,
+
+Micha?l Meyer
+
+Le dim. 18 d?c. 2022 ? 21:17, Harry Spier via INDOLOGY <
+indology at list.indology.info> a ?crit :
+
+> 1) Does anyone happen to know the different old DLI different websites
+> addresses .  I'd like to check if Archive.org's wayback machine happened to
+> back the DLI up from these websites. Some of these sites had alphabetical
+> title lists if I recall correctly.
+>
+> 2)I've just seen this interesting note about an OCR search engine for  the
+> DLI project of Martin Gluckman
+> The site http://dli.sanskritdictionary.com has complete mirror of Digital
+> Library of India. It allows ?deep OCR based searches? within documents
+> activated by its own OCR engine <http://ocr.sanskritdictionary.com/>.
+>
+> Thanks,
+> Harry Spier
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221219/c375a6b5/attachment.htm>
+

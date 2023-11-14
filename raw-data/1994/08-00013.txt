@@ -1,0 +1,31 @@
+From GATUBB at vaxsar.vassar.edu  Fri Aug  5 04:56:44 1994
+From: GATUBB at vaxsar.vassar.edu (Gary Tubb)
+Date: Fri, 05 Aug 94 00:56:44 -0400
+Subject: Skt. Grammar Query
+Message-ID: <161227017020.23782.10956425093787938751.generated@prod2.harmonylists.io>
+
+   Michael Sweet has asked about the meaning of a line in the
+Siddhanta-Kaumudi (on Pa. 6.3.75) left untranslated by Vasu.  In
+the query some words were inadvertently left out of the line as
+quoted; the full version is "na stri puman napumsakam
+stri-pumsayoh [the space after "stri" in Vasu is incorrect]
+pumsakabhavo nipatanat."
+   The first part of this, "na stri puman napumsakam," is a
+gloss of the compound "na-pumsaka": neither feminine nor
+masculine = neuter.  The rest answers the question of how
+"na-pumsaka" can mean "neither feminine nor masculine" rather
+than simply "not masculine," since "pumsaka" should mean only
+"masculine."  To put it the other way around, why is the word
+not "na-stri-pumsaka"?  The answer is "stri-pumsayoh
+pumsakabhavo nipatanat": (in the word "napumsaka" both) feminine
+and masculine are "pumsaka" because of nipatana (i.e., just
+because Panini gives the word in the form "napumsaka").
+   Or at least that's my guess.
+
+               Gary Tubb.  
+ 
+
+
+
+
+

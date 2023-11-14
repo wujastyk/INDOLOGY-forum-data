@@ -1,0 +1,33 @@
+From pesch at indoger.unizh.ch  Tue Feb 22 18:58:22 1994
+From: pesch at indoger.unizh.ch (pesch at indoger.unizh.ch)
+Date: Tue, 22 Feb 94 19:58:22 +0100
+Subject: Sanskrit lexicon
+Message-ID: <161227016574.23782.9235220765214872715.generated@prod2.harmonylists.io>
+
+The "Woerterbuch Sanskrit-Deutsch" by Klaus Mylius which claims to
+contain about 77.000 entries is printed exclusively in transliteration and
+seems to use rather explicit typography for the differentiation of types
+of information. I consider it good news that the publisher (Langenscheidt)
+has granted me the licence and that the "Stiftung fuer wissenschaftliche
+Forschung an der Universitaet Zuerich" has granted funds for software to
+skan this dictionary. The plan is to convert the format of the printed
+book into the structure of a data-bank. -- It will take at least till the
+end of this year until a tangible result will be available, and
+the modalities (distributor, costs, etc.) for the availability
+of the dictionary in electronic form are still undecided. Yet, I
+thought the academic community should know about this project, if only to avoid
+duplication of work (since an electronic dictionary of Sanskrit seems
+to be something we all are looking for).
+   Needless to say that I am grateful for any advice and for feedback about the
+specific requirements of potential users of such a dictionary.
+Should there be samples of other dictionaries or anybody's
+private glossaries etc. which might one day be cumulated to
+Mylius, please share the information and/or the data.
+Thanks,
+Peter Schreiner, Zuerich
+ 
+
+
+
+
+

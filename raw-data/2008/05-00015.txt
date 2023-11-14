@@ -1,0 +1,27 @@
+From kengo.harimoto at UNI-HAMBURG.DE  Tue May  6 14:39:08 2008
+From: kengo.harimoto at UNI-HAMBURG.DE (Kengo Harimoto)
+Date: Tue, 06 May 08 16:39:08 +0200
+Subject: Mahabhasya now available in Intratext version
+In-Reply-To: <1867880.1210079605511.JavaMail.root@elwamui-sweet.atl.sa.earthlink.net>
+Message-ID: <161227082544.23782.11470686061136225717.generated@prod2.harmonylists.io>
+
+On May 6, 2008, at 15:13 , George Cardona wrote:
+
+> By the way, I think the base does not have the typo that shows up in  
+> your message: ayAhi instead of AyAhi.  I can't check because at the  
+> moment I'm in Calcutta, writing from a cyber cafe.  The Mahabhashya  
+> files are also available in GRETIL.
+
+Speaking as one of those who converted the original files to text  
+files, I have realized that the GRETIL version, as well as its source  
+in Osaka, do have the problem of '??' ('a' with macron and acute)  
+having become simply 'a'.  I think we (or was it I?) introduced this  
+error when removing accents.  The original did have the correct  
+reading (with accent).  We will make an updated version ASAP.
+
+-- 
+Kengo Harimoto
+
+
+
+

@@ -1,0 +1,29 @@
+From thomash at misnet.com  Tue Jul 30 00:24:24 1996
+From: thomash at misnet.com (Tom Head)
+Date: Mon, 29 Jul 96 19:24:24 -0500
+Subject: Non-Postscript Printers
+Message-ID: <161227025428.23782.15980601633413832435.generated@prod2.harmonylists.io>
+
+To the fellow who asked about printing Sanskrit documents on 
+non-Postscript printers a few weeks ago:
+
+Using UNIX Ghostscript, I've printed Postscript Sanskrit documents on a 
+9-pin dot matrix printer.  It isn't particularly pretty-looking, but it's 
+generally legible. 
+
+----------------------------------
+\ Thomas Head                    \
+\ thomash at misnet.com             \ 
+\ http://www.misnet.com/~thomash \
+----------------------------------
+
+"Every fool may become a hero at one time or another.  Watch a man
+do his most common actions; those are indeed the things which will 
+tell you the character of a great man."
+				-- Swami Vivekananda, _Karma-Yoga_
+
+
+
+
+
+

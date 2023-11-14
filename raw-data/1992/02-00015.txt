@@ -1,0 +1,247 @@
+From akella at BE.AC.ULG.MONTEFIORE  Mon Feb 17 12:55:42 1992
+From: akella at BE.AC.ULG.MONTEFIORE (akella at BE.AC.ULG.MONTEFIORE)
+Date: Mon, 17 Feb 92 13:55:42 +0100
+Subject: E-mail to India
+Message-ID: <161227015245.23782.15271375383480435018.generated@prod2.harmonylists.io>
+
+ 
+
+Hi !
+ The following is a posting which appeared in the Indian News Network Digest
+about e-mail connections to India. Its a bit long & sorry if it is not of
+interest to u.
+ 
+Vijay Akella
+ 
+ 
+-----------------------Message follows---------------------------------------
+Date: 15 Feb 92 19:22:46 GMT
+From: bharathi at acsu.buffalo.edu (Chandra Shekara Bharathi)
+Subject: Indian Email Addresses ( Repost )
+ 
+I have had some requests to post the Indian Email addresses file.. along
+with a few requests for info regarding the data base at sangam.  The
+info has been incorporated into the FAQ maintained by Vikas Deolaliker.
+ 
+The file follows..  However it must be mentioned that some of the node names
+are changing.  The postmasters however have mailiases so that mail
+addressed to these old addresses do get to the users.
+ 
+Iam trying to compile a new list.  Once that is done, I'll post it ON THE NET.
+ 
+The database at sangam is being updated constantly and is by no means complete.
+So, if you know a friend of yours that has email facilities, but his/her
+name does not appear in the database, ur best bet is to write to the
+postmaster of that particular site ( not NCST @ Bombay ).
+ 
+-----
+ 
+ 
+Subsequent to my earlier posting on SCI, I have received > 3 dozen or so
+requests for clarification and repost of the info regarding this subject.
+Also, I have had questions like:
+ 
+-> why cannot I finger delhi even though I can access the data base.
+ 
+ 
+-> node shiva.ernet.in does not show why?
+ 
+ 
+So, here is a repost with some info about the "FINGER"
+ 
+As regards, why shiva.ernet.in does not show, it is 'cos NCST guys haven't
+yet rcvd. info from that node.
+ 
+ 
+First of all, it is *NOT* like the finger of UNIX systems.  It is just a
+database maintained at NCST - a database that has enough info.
+ 
+For more info and help regarding email addresses in India,
+ 
+whois -h sangam.ernet.in  help
+ 
+For a list of all the nodes in India,
+ 
+whois -h sangam.ernet.in ""		-the double quotes are necessary
+ 
+This w'd give info regarding the nodes presently represented in the
+data base maintained by the NCST people at Bombay.
+ 
+For a list of the nodes present in a given city,
+ 
+whois -h sangam.ernet.in  city_name
+ 
+where city_name can be part/whole of the city u wish to send mail to.
+for eg. for a list of all node names in bangalore, try
+whois -h sangam.ernet.in bang
+ 
+ 
+Once the exact node name is known, to obtain the login name of the
+person u wish to contact,
+ 
+whois -h sangam.ernet.in  name_of_the_person at node_name
+ 
+where name_of_the_person can be part/whole of the person's last/first
+or middle name [ Nick names not allowed :-) ]
+ 
+All searches are case-insensitive, so u need not worry about it.
+ 
+ 
+ps: The NCST people are maintaining this database as a service to the public.
+So, it is not a very good idea to flood the postmaster's mailbox with
+requests regarding the database and with requests for forwarding the mail.
+For u to get info on userids for nodes not represented on the database, pl
+send mail to postmaster at the_node_u_want_to_send_mail.ernet.in
+ 
+ 
+Hope this helps.
+ 
+Chandra
+ 
+ 
+-------------------------------------------------------------------------------
+ 
+ 
+   INDIAN E-MAIL ADDRESSES
+ 
+                             SITES IN INDIA
+ 
+ 
+  +============== ADDRESSING INDIAN SITES FROM OUTSIDE INDIA ==============+
+  |                                                                        |
+  |  If you are at a site that can     |   USER at SITE.ernet.in              |
+  |  handle domains                    |                                   |
+  |------------------------------------------------------------------------|
+  |  If you are at a site that can't   |   ...!uunet!UUCP-PATH!USER        |
+  |  handle domains                    |                                   |
+  |------------------------------------------------------------------------|
+  |  Where: UUCP-PATH  - is the uucp path for the site. See list below.    |
+  |         USER       - recipient's mail name on the destination host.    |
+  |         SITE       - recipient's site name on the (ERNET) network.     |
+  |                                                                        |
+  |  Note:  Users using the C-shell under Unix systems may have to quote   |
+  |         the "!" characters in the mail address.  This can be done by   |
+  |         using "\!" in place of "!".                                    |
+  +========================================================================+
+ 
+     Each site is required to have a postmaster who can answer general
+     inquiries about users and hosts at that site.
+ 
+ 
+------------------------------------------------------------------------------
+SITE        ORGANISATION/INSTITUTION                 UUCP-PATH
+====        ========================                 =========
+ 
+AHMEDABAD:
+iimahd      Indian Institute of Management           shakti!iimahd
+plasma      Institute for Plasma Research            shakti!plasma
+prl         Physical Research Labs                   shakti!prl
+ 
+BANGALORE:
+cdotb       Centre for Development of telematics     shakti!vigyan!cdotb
+crlbel      Central Res. Lab., Bharat Elec. Ltd.     shakti!crlbel
+csirb       Council for Sci. & Industrial Research   shakti!vikram!csird!csirb
+cdacb       Centre for Development of Advanced Comp. shakti!cdacb
+iiap	    Indian institute for Astrophysics	     shakti!vigyan!iiap
+ncb         NCST's Office in Bangalore               shakti!ncb
+            also Natl. Ctr. for Software Development shakti!ncb
+vigyan      Indian Inst. of Sci. - Comp. Centre      shakti!vigyan
+vidya       Indian Inst. of Sci. - KBCS Group        shakti!vigyan!vidya
+vidyut      Indian Inst. of Sci. - EE Department     shakti!vigyan!vidyut
+yantra      Centre for AI and Robotics               shakti!yantra
+ 
+BOMBAY:
+agni        IG Institute of Development Research     shakti!agni
+betaal      Indian Inst. of Technology - CC I        shakti!betaal
+cse         Indian Inst. of Technology - CS Dept.    shakti!betaal!cse
+dhruv       Indian Inst. of Technology - CC II       shakti!betaal!dhruv
+nitie       Natl. Inst. for Trg. in Industr. Engg.   shakti!nitie
+sameer      Soc. for Applied Microwave Electronic    shakti!betaal!dhr
+            Engineering and Research                 uv!sameer
+shakti      Nat'l. Centre for Software Technology    shakti
+tarang      Society for Appl. Microwave Engg.        shakti!betaal!tarang
+tifr        Tata Institute of Fundamental Research   shakti!tifr
+tifrvax     Tata Institute of Fundamental Research   shakti!tifrvax
+ 
+CALCUTTA:
+bose        SN Bose Natl. Ctr. for Basic Sciences    shakti!bose
+isical      Indian Statistical Institute             shakti!isical
+kbcscal     Indian Statistical Inst. (KBCS Group)    shakti!kbcscal
+veccal      Variable Energy Cyclotron                shakti!veccal
+ 
+CHANDIGARH:
+imtech      Institute of Microbial Technology        shakti!vikram!imtech
+ 
+DELHI:
+aiims 	    All india institute of medical sciences  shakti!vikram!aiims
+cdotd       Centre for Development of Telematics     shakti!vikram!cdotd
+cmcdel      CMC, Delhi				     shakti!vikram!cmcdel
+cris	    Centre for Railway Information System    shakti!vikram!cris
+csird       Council for Sci. & Industrial Research   shakti!vikram!csird
+nifm	    National inst for Financial Management   shakti!vikram!nifm
+vikram      Dept. of Electronics, Govt. of India     shakti!vikram
+iitd        Indian Inst. of Technology- CS Dept. I   shakti!vikram!iitd
+iqbal       Natl. Assn. of Software & Service Cos.   shakti!vikram!iqbal
+isid	    Indian Statistical Institute, Delhi	     shakti!vikram!isid
+isidev      Inst for studies in Industr. Development shakti!vikram!isidev
+jnuniv      Jawaharlal Nehru Univ., Phy. Sci. Dept.  shakti!vikram!jnuniv
+netearth    Indian Inst. of Technology- CS Dept. II  shakti!vikram!netearth
+cd
+ 
+HYDERABAD:
+cmch        CMC Limited                              shakti!cmch
+ 
+KANPUR:
+iitk        Indian Inst. of Technology - I           shakti!iitk
+kalyan      Indian Inst. of Technology - III         shakti!vikram!kalyan
+ 
+KHARAGPUR:
+iitkgp      Indian Institute of Technology           shakti!iitkgp
+ 
+MADRAS:
+ 
+imsc        The Institute of Mathematical Sciences   shakti!shiva!imsc
+shiva       Indian Inst. of Technology- CS Dept.     shakti!shiva
+ssf         SPIC Science Foundation                  shakti!shiva!ssf
+            School of Mathematics
+ 
+PUNE:
+gmrt        Giant Metre-Wave Radio Telescope         shakti!gmrt
+iucaa       Inter-Univ Ctr. for Astronomy & Asphys.  shakti!iucaa
+parcom      Centre for Development of Advanced Comp. shakti!parcom
+unipune     University of Poona, CS Department       shakti!unipune
+ 
+SURATKAL
+ 
+krec        Karnataka Regional Engineering College   shakti!krec
+ 
+ 
+************************************************************************
+************************************************************************
+ 
+ps:
+ 
+ 
+Email addresses can be specified either in the internet format or the uucp
+format.  for eg. if you'd want to send mail to  USER at the KBCS node
+in IISc. ( i.e. vidya ), all u need to do is,
+ 
+% mail USER at vidya.ernet.in
+ 
+The uucp format will be
+ 
+% mail vidya\!USER at shakti.ernet.in      or
+ 
+% mail USER\%vidya at shakti.ernet.in      or
+ 
+% mail uunet\!shakti\!vidya\!USER at uunet.uu.net
+ 
+-------------------------------------------------------------------------------
+Chandra Shekara Bharathi                   | internet: bharathi at cs.buffalo.edu
+--------------------------------------------------------------------------------
+------------------------------
+
+
+
+
+

@@ -1,0 +1,77 @@
+From LubinT at wlu.edu  Sun Feb  9 01:23:51 2014
+From: LubinT at wlu.edu (Lubin, Tim)
+Date: Sun, 09 Feb 14 01:23:51 +0000
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_N=C4=81r=C4=81ya=E1=B9=87agarta_and_Kayya=E1=B9=ADa_Kashmiri_pandits?=
+In-Reply-To: <8667F95F-3B4B-48BA-881E-7621919951E4@mail.ubc.ca>
+Message-ID: <CF1C391D.254D2%lubint@wlu.edu>
+
+-garbha as a name suffix seems common enough among authors of Tantric texts, or from Tantra-influenced milieux.  A quick search through Genesis and Development of Tantrism, ed. Shingo Einoo, (Kyoto, 2009) yields many examples, including a N?r?ya?agarbha.
+
+For the graphic similarities cited, these samples are from the Ojha publication Ashok cites:
+[cid:E5D75D30-4724-4EF0-B4F4-07C7FDD12CC5]
+
+These are 16th c. Sharada examples from Plate XXXI of the same (the second, /bha/, is not necessarily closed)
+[cid:2C26A824-B819-47D9-A424-6C1E5450DF23]
+[cid:499F7A3A-9580-404D-B760-829372B128D0]
+Compare also these, from p. 62 (on ??rad?) of Hemar?j ??kya's _Nep?la Lipi-Prak??a_:
+[cid:03186FC7-9BFF-44A8-8EF2-446920C987F7]
+Certainly close enough to me mistaken given natural variability.
+
+Also, consider the ta and bha rows in the attached chart, especially for the scripts listed as Vartula, Nepali, and Nandinagari.
+
+Tim
+
+Timothy Lubin
+Professor of Religion
+Washington and Lee University
+Lexington, Virginia 24450
+
+http://home.wlu.edu/~lubint
+http://wlu.academia.edu/TimothyLubin
+http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
+
+
+
+
+From: "ashok.aklujkar" <ashok.aklujkar at gmail.com<mailto:ashok.aklujkar at gmail.com>>
+Date: Saturday, February 8, 2014 6:29 PM
+To: Indology List <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: Re: [INDOLOGY] N?r?ya?agarta and Kayya?a Kashmiri pandits
+
+I have a few questions to ask:
+
+Is "garbha" found after a male name in a compound that could serve as someone's personal name or epithet?
+(The late grammarian Naage;sa speaks of himself as "satii-garbhaja", but in that compound "satii" is his mother's name.)
+
+Dr. Stern observes: "A Google search will give you references for this scholar [= Naaraayana-garbha]." I made a Google search in all ways I could think of, but did not hit upon anything resembling "Naaraayana-garbha". Either Dr. Stern was expressing a hope or I need to get a list of the references he found.
+(The reference in the NCC is based on the published edition. It does not add to what we know.)
+
+I had checked Prof. Slaje's excellent booklet that introduces the Sharada script for the benefit of those who do not know that script, but I did not find anything in it that would suggest that "rbha" and "rta"" could be so similar as to be mistaken for each other. I would be grateful for a specific reference to discussions of the Sharada script that suggest such a possibility. Alternatively, a presentation of what the shapes of rbha" and "rta"" are according to Prof. Slaje will be useful.
+
+(The details of the book to which I referred in my last post for a one-time confusability of "rta" and "rga" are: OJHA, Gaurishankar Hirachand. The palaeography of India = Bhaaratiiya praaciina lipimaalaa. Delhi : Munshi Ram Manohar Lal, 1959.  Third edition. New Delhi 1971.)
+
+It certainly deserves admiration that Prof. Slaje has recollected an occurrence that could serve as an exact parallel to what we find in the mss of Naaraaya.na's commentary. However, Srikanth Kaul' himself does not specify that he has emended the text the way he has because "rbha" could be a miscopying of "rta". Therefore, we are free to think that he took the editorial action he did only for a semantic reason. At the most we can infer that he did not hesitate to emend or did not feel the need to justify his action because he was aware of the confusability of "rbha" as "rta" and "rta" as "rbha".
+
+What kind of semantic reason? In the passage concerned, ;Sriivara describes an unceremonious funeral, one in which a body brought in a coffin and covered with a single sheet is simply dumped into a space that exists in/on the ground, although it is the body of a royal person (note "ak.sipat," note absence of any reference to preparation of the burial ground etc.). In such a context, "bhuu-garta" conveying the idea of a 'ditch' or 'trench' seems more appropriate than "bhuu-garbha" (which would connote greater depth).
+
+(I could not find any occurrences of "bhuu-garbha" in Classical Skt with our standard reference tools. Apte's dictionary records the word only as an epithet of Vi.s..nu. In many modern Indian languages "bhuu-garbha-;saastra" is used for 'geology'.)
+
+Whether we go along with Kaul or view his emendation as unnecessary or as an attempt to improve ;Sriivara's original, does it not seem that the evidence given for favoring the change of "garta" to "garbha" in the pu.spikaa of Naaraaya.na's commentary is not as strong as it may initially seem?
+
+I will conclude with a clarification. I take Kayya.ta to be a Kashmirian, but Naaraaya.na (= Naaraaya.na-garga, less probably  Naaraaya.na-garbha)  may be from Kashmir or any part of western India to the south of Kashmir. Also, he may not be close to Kayya.ta in time. He could belong to a time when the gotra names began to be used after personal names to identify oneself.
+
+a.a.
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140209/e9cc12b8/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: PagesfromVartulaScript.pdf
+Type: application/pdf
+Size: 433658 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20140209/e9cc12b8/attachment.pdf>
+

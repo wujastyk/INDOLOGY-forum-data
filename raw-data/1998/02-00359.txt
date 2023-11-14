@@ -1,0 +1,104 @@
+From kellner at IPC.HIROSHIMA-U.AC.JP  Sat Feb 21 06:13:48 1998
+From: kellner at IPC.HIROSHIMA-U.AC.JP (Birgit Kellner)
+Date: Sat, 21 Feb 98 15:13:48 +0900
+Subject: more on vada / vadin
+Message-ID: <161227036001.23782.9708097270598806450.generated@prod2.harmonylists.io>
+
+Two additional remarks on the vaada/vaadin-issue -
+
+(1) I suppose Sasaki has taken note of the relevant section (or one of
+the relevant sections) in the Mahaavyutpatti, where, judging from the
+viewpoint of Tibetan and Chinese translations, an "anything-goes"-style
+approach seems to have been taken. MVy 9077 aaryasarvaastivaadaah.
+(plural!) has the Tibetan equivalent 'phags pa thams cad yod par smra ba
+(In the BHS-dictionnary, Edgerton uses this as evidence for the lemma
+"sarvaastivada, m.pl.(!), 'n. of school'"). The plural in MVy 9078
+muulasarvaastivaadaah., on the other hand, is translated with Tib. _gzhi
+thams cad yod par smra ba'i sde_ (=school!). In each of these cases, the
+Chinese has TWO equivalents each, one as "school" and one as "person".
+Several other entries of this section have Tibetan translations of _smra
+ba'i sde_ for _-vaadinah._ (the Chinese alternates between "school" and
+"person); and _sde_ is also affixed to other plural expressions for
+persons, e.g. Abhayagirivaasinah., Jetavaniiyaah.,
+Mahaavihaaravaasinah., etc. See also S'iks.asamuccaya 148.13
+_-vaadaanaam_ (ed. Bibliotheca
+Buddhica), where Bendall suggests reading _-vaadinaam._, and gives the
+Tibetan as _'phags pa
+thams cad yod par smra ba rnams kyi_ ...
+
+Anyway, maybe it would be possible to learn more about Sasaki's
+conclusions? (or
+should we wait for the publication, in which case - when, and where will
+the paper appear?)
+
+(2) On Frauwallner and secondary literature. The following is not
+immediately relevant to the issue whether or not "-vaada" can,
+grammatically, be used for a person
+(I believe this question is settled in the affirmative by now), but
+rather to the possibility of Frauwallner (or other scholars) having used
+"-vaada" as an adjective, and "-vaadin" as the name of the sect.
+
+J. Silk wrote:
+>         Finally, although of course this is much less relevant than
+> consideration of the original texts, Kellner has written about Frauwallner,
+> but it seems to me his usage is at best ambiguous. See "Studies in
+> Abhidharma Literature and the Origins of Buddhist Philosophical Systems"
+> (SUNY 1995) <skip>
+
+I should have been more careful when I wrote my last remark. For the
+ambiguity, which J. Silk claims, applies NOT to Frauwallner's writing,
+but to the English
+translation, which (1) gives Sanskrit terms in their stem-form, and not
+in the nominative, (this was a decision made by Steinkellner, see the
+introduction, p.xii) and (2), as I already mentioned before, does not
+give any indication of plural (plural "the" is still "the"; no affixed
+-s). It is the combination of these two criteria which creates the
+seeming ambiguities, plus (3) the use of one and the same
+word both as a noun and adjective in English (e.g. "Buddhist"). This is
+not usually done in German. Even more, I believe it *cannot* be done,
+for specific morphological operations are required to either form nouns
+out of adjectives or vice versa (e.g. the noun "der Buddhist" vs. the
+adjective "buddhistisch").
+
+Looking at the German originals of Frauwallner's "Abhidharma-Studien",
+the matter is very clear, because (1)
+Sanskrit terms are given in the nominative form, (2) number and case are
+clearly indicated with the definite article, and (3) nouns and
+adjectives are morphologically differentiated by the presence or absence
+of certain
+suffixes.
+
+See e.g. "Abhidharma-Studien" IV,
+WZKS 16, p.138: "im Abhidharma der Paali-Schule und der Sarvaastivaadii"
+etc. (where the genitive plural article "der" with "Sarvaastivaadii"
+makes it clear that the persons are meant). With "school", Frauwallner
+ALWAYS uses "... of the Sarvastivadins" (... "der Sarvaastivaadii");
+with other nouns, he also uses "... of the Sarvastivada" (... "des
+Sarvaastivaadah."). With "system", he uses both. I could not find any
+adjectival use of either form, and, given what I've said before about
+the morphological
+distinction between German nouns and adjectives, it would indeed be
+surprising if such uses
+existed. In the Abhidharma-Studien, attribution of ideas, concepts or
+whatever else are expressed either as "suchandsuch of the
+Sarvaastivaadah./-ins" or (less often) as "the
+Sarvaastivaada-suchandsuch", which is a quasi-Genitive-tatpurus.a. (just
+like Muulasarvaastivaada-vinayah.).
+
+To make this clear, Frauwallner was either not aware of usages of
+"-vaadaah." as a plural for the followers, or did not consider such uses
+relevant enough to account for them in his choice of terminology, and
+there is no adjectival use of either "-vaada/-vaadin". The same also
+appears to hold for Bareau (at least in "sects bouddhiques du
+petit vehicule").
+
+Sorry for the lengthy digression,
+
+--
+Birgit Kellner
+Department for Indian Philosophy
+Hiroshima University
+
+
+
+

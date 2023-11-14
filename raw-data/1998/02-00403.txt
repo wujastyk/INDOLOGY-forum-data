@@ -1,0 +1,33 @@
+From r.l.schmidt at EAST.UIO.NO  Tue Feb 24 10:25:02 1998
+From: r.l.schmidt at EAST.UIO.NO (Ruth Laila Schmidt)
+Date: Tue, 24 Feb 98 12:25:02 +0200
+Subject: Nisus 5.1 with Arabic Language Kit
+Message-ID: <161227036067.23782.1248116359698778303.generated@prod2.harmonylists.io>
+
+Dear members of the list,
+
+Is there anyone out there who has used Nisus 5.1 with Indic fonts (such as
+Norman or South Asia Times), or with the Apple Arabic Language Kit, who
+would be willing to send me his/her comments on the compatibility of Nisus
+with these? We are discussing an upgrade, but I hope to ascertain in
+advance that I will not get any surprises when I try to use it with all my
+weird and wonderful fonts.
+
+Many thanks,
+
+Ruth Schmidt
+
+
+***********************************************
+Ruth Laila Schmidt
+Dept of East European and Oriental Studies
+University of Oslo
+P.O. Box 1030 Blindern
+N-0315 Oslo, Norway
+Phone: (47) 22 85 55 86
+Fax: (47) 22 85 41 40
+Email: r.l.schmidt at east.uio.no
+
+
+
+

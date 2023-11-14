@@ -1,0 +1,98 @@
+From ridgeway at EDU.WASHINGTON.HACC.BLACKBOX  Tue Jun 23 18:25:41 1992
+From: ridgeway at EDU.WASHINGTON.HACC.BLACKBOX (Thomas B. Ridgeway)
+Date: Tue, 23 Jun 92 11:25:41 -0700
+Subject: Brhatsamhita available in CSX encoding by ftp
+Message-ID: <161227015415.23782.6243812095260847492.generated@prod2.harmonylists.io>
+
+Status: RO
+
+The recently released version of Varahamira's Brhatsamhita is
+now available in Classical Sanskrit (CS/CSX 8-bit) encoding.
+ 
+The anonymous ftp host is blackbox.hacc.washington.edu [128.95.200.1]
+    the file to take is brhatsam.zip in directory pub/indic
+ 
+    brhatsam.zip MUST be ftp'ed in binary mode, and must be
+    unzipped on your end to be useful.  The zipfile is about 195K.
+ 
+    Those who have not previously visited blackbox may want to
+    also examine README and UPDATES in the pub/indic directory.
+ 
+    Cookbook directions for ftp novices follow my signature
+ 
+Here is the preface for the unzipped file:
+              VarAhamihira's BRhatsaMhitA
+              (Version 3, June 5, 1992)
+              digitalized by Michio YANO
+              proofread by Mizue Sugita
+              based on the edition of A.V.TripAThI
+              (SarasvatI Bhavan GranthamAlA Edition)
+              with reference to H.Kern's text
+              [variants marked by K.] and his translation
+ 
+              Converted to Classical Sanskrit (Extended) encoding
+              by Tom Ridgeway at the Humanities and Arts Computing
+              Center of the University of Washington, June 1992.
+ 
+ 
+ note on original transliteration follows:
+ [ Text was input by Kyoto-Harvard System, that is,
+   Capitals for long vowels, linguals, anusvAra, visarga, and nazals,
+   and z for palatal sibilants.
+   Members of sandhi are not separated. avagraha is romanized by +a,
+   external vowel sandhi is decomposed with the mark ^.]
+ 
+ 
+You obviously don't see any CSX stuff in this copy of the preface as
+this is coming to you through a 7-bit mail channel.
+ 
+cheers,
+Tom
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Thomas Ridgeway, Director,
+Humanities and Arts Computing Center/NorthWest Computing Support Center
+35 Thomson Hall, University of Washington, DR-10
+Seattle, WA 98195   phone: (206)-543-4218            *  Ask me about  *
+Internet: ridgeway at blackbox.hacc.washington.edu      *    Unix TeX    *
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Novice ftp instructions:
+  % represents the command line prompt on whatever your system is
+    (if you have a Mac or other event-driven interface, it represents
+     a motionless mouse cursor waiting for you to do something.)
+     Stuff following % is what you tell your computer/the remote computer
+     after you have made the connection.
+  * marks a line of response from the remote computer to you
+ 
+  %ftp 128.95.200.1       [or ftp blackbox.hacc.washington.edu]
+*  blackbox FTP server (Version 5.18) (NeXT 1.0) Wed Aug 23, 1989) ready.
+*  Name (blah blah blah):   [you say 'anonymous' without the quotes]
+*  Password:                [you type in your email address
+                             e.g. username at home.computer.edu]
+*  Guest login ok, access restrictions apply.
+   ftp>
+ 
+  [from here, 'ftp>' represents the prompt the remote computer sends to
+   you; stuff after the prompt is what you type]
+ 
+   ftp>cd pub     [YES, blackbox is case sensitive PUB is not pub ]
+*  CWD command successful.  [you may or may not get these feedback messages]
+   ftp>cd indic             [I'm not showing the feedback anymore]
+   ftp>binary
+   ftp>get brhatsam.zip
+   ftp>bye
+That's it, you are done.
+ 
+Some ftp programs (e.g. NCSA Telnet for Macs) do not automatically
+initiate the ftp login sequence.  If you just get connected, but nobody
+asks who you are after a decent interval, you can take the initiative and
+say 'user anonymous' followed by carriage return 'password user at host'
+ 
+If you are unable to connect by following these instructions, contact a
+local guide at YOUR institution.  I regret to say that I will absolutely
+not provide ftp assistance through email or telephonic communication.
+ 
+
+
+
+
+

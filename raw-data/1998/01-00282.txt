@@ -1,0 +1,57 @@
+From athr at LOC.GOV  Mon Jan 26 16:17:59 1998
+From: athr at LOC.GOV (Allen W Thrasher)
+Date: Mon, 26 Jan 98 11:17:59 -0500
+Subject: Change in LC email addresses
+Message-ID: <161227035115.23782.13918028881514633419.generated@prod2.harmonylists.io>
+
+The Library of Congress has permanently disabled SoftSwitch, the system
+that connected the obsolescent older email system (CA-eMail) to outside
+addresses, including both individuals and lists.  This means that addresses
+of the form:
+
+<lastname at mail.loc.gov> or <initiallastname at mail.loc.gov>
+
+are no longer valid.  Instead valid addresses will usually look something like
+
+<athr at loc.gov> or <athr at rs8.loc.gov>, the "mail" part of the address being
+gone.  The first element will usually be a four-letter abbreviation based on
+the first and last name of the person.
+
+People sending personal messages to addresses of the older type, or
+administering lists to which the LC person signed on via CA-eMail and
+SoftSwitch, can expect to receive messages bounced back.
+
+As chair of the automation team in the Asian Division I have asked all AD
+staff to notify correspondents and change list subscriptions.
+
+If you are still using an older address, I would be grateful if you contacted
+your LC contacts directly by phone rather than asking me what their new
+address is.  Having made several new hires and a number of people having
+had their email address changed recently, we are composing a new
+directory of Asian Division people including email addresses and I plan to
+post it on this list soon. Please contact me only as a last resort, and of
+course privately not on the list.  Some people's email addresses can be
+found in the LC Employee Directory on the Web at:
+
+     http://lcweb.loc.gov/cgi-bin/p
+
+
+Sincerely,
+
+
+
+Allen W. Thrasher, Ph.D,
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+LJ150
+Library of Congress
+101 Independence Ave., SE
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax  202-707-1724
+athr at loc.gov
+
+
+
+

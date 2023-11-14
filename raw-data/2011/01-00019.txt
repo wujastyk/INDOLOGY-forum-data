@@ -1,0 +1,96 @@
+From james.hartzell at GMAIL.COM  Thu Jan 13 11:32:35 2011
+From: james.hartzell at GMAIL.COM (James Hartzell)
+Date: Thu, 13 Jan 11 12:32:35 +0100
+Subject: Digital Mah=?UTF-8?Q?=C4=81vyutpatti=3F?=
+In-Reply-To: <20110112195223.GB14726@proliant.indica-et-buddhica.org>
+Message-ID: <161227091296.23782.17793420034503488499.generated@prod2.harmonylists.io>
+
+Dear Richard, Andrey, Daniel, and Birgit
+
+Thanks for your quick and helpful replies.  I'll make contact off list
+if I have any questions.
+
+Cheers
+James
+
+
+On Wed, Jan 12, 2011 at 8:52 PM, Richard MAHONEY
+<r.mahoney at indica-et-buddhica.org> wrote:
+>
+> Dear James,
+>
+> On Wed, Jan 12, 2011 at 03:46:23PM +0100, James Hartzell wrote:
+>> Dear Colleagues
+>>
+>> Does anyone know of a digital (Unicode) version of the Mah?vyutpatti?
+>>
+>> Cheers
+>> James Hartzell
+>> U. of Trento
+>
+> A few options through Indica et Buddhica:
+>
+> For download:
+>
+> 1./ Tibetan-Sanskrit Buddhist Terminology based on the `Mahavyutpatti'
+> ? ?& ?`Yogacarabhumi' (SAKAKI, Ry?zabur? / YOKOYAMA, K?itsu & HIROSAWA, Takayuki)
+> ? ?http://indica-et-buddhica.org/sections/repositorium-preview/materials/dictionaries/tibetan-sanskrit-terms
+>
+> ? ?Can be used alone, or together, with the `Tibetan to English
+> ? ?Translation / Dictionary Tool': v.
+> ? ?http://www.gaugeus.com/tibetan-to-english-translation-tool
+>
+>
+> 2./ Sanskrit-Tibetan Buddhist Terminology for use with the Dictionary
+> ? ?Server Protocol (DICT) (Source as above)
+> ? ?http://indica-et-buddhica.org/sections/repositorium-preview/materials/dictionaries/sanskrit-tibetan-dict
+>
+>
+> For online search:
+>
+> 1./ Lexica: Query Interface for Sanskrit, Tibetan and English word
+> ? ?lists and dictionary (Source as above)
+> ? ?http://lexica.indica-et-buddhica.org/dict/lexica-legacy
+>
+> ? ?N.B.: Any DICT Client can retrieve definitions from the IeB DICT
+> ? ?server. Please connect to: indica-et-buddhica.org:2629
+>
+>
+> 2./ Philologica Indica et Buddhica Version of MVY.
+>
+> ? ?Hoshu Mitsuhara & Tooru Aiba, editor(s), Sanskrit-Tibetan Buddhist
+> ? ?Terminology based on the Mah?vyutpatti,
+> ? ?(http://texa.human.is.tohoku.ac.jp/aiba/archive/mvyut/open/:
+> ? ?texa.human.is.tohoku.ac.jp, 2000), ASCII text file using Extended
+> ? ?Wylie and Harvard-Kyoto transliteration for Tibetan and Sanskrit
+> ? ?respectively; mvyut-2000.a1-wk; approx. 950 KB
+> ? ?(Id. No. 0009-00000009). Source note :: Base edn: Ry?zabur? Sakaki,
+> ? ?ed.. Base e-texts: Hoshu Mitsuhara & Tooru Aiba. Reformating and
+> ? ?conversion to TEI markup: Richard Mahoney. LCSH Keywords :: Tibetan
+> ? ?language, Dictionaries - Polyglot; Buddhism - Terminology, Early works
+> ? ?to 1800.
+>
+> ? ?http://philologica.indica-et-buddhica.org/available.shtml
+>
+>
+>
+> Kind regards,
+>
+> ?Richard
+>
+>
+>
+> --
+> Richard MAHONEY - Indica et Buddhica
+>
+> Littledene, Bay Road, OXFORD 7430, NZ
+> PO Box 25, OXFORD 7443
+> +64 3 312 1699
+> r.mahoney at indica-et-buddhica.org
+> http://indica-et-buddhica.org
+> http://camera-antipodea.indica-et-buddhica.com
+>
+
+
+
+

@@ -1,0 +1,29 @@
+From ph2046 at COLUMBIA.EDU  Thu Feb  4 00:53:33 2010
+From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
+Date: Wed, 03 Feb 10 19:53:33 -0500
+Subject: Abhidharmakosha in e-format
+In-Reply-To: <006501caa533$25fe2c10$2101a8c0@Dan>
+Message-ID: <161227088403.23782.4833239225849207859.generated@prod2.harmonylists.io>
+
+>> http://www.mldc.cn/sanskritweb/etext.htm
+>>
+> even that has to be
+> changed to utf-8 for the Chinese to appear properly.
+
+That's true Dan, if you want to cut-and-paste from the webpage, but if  
+you simply download the html "source" files for each chapter from the  
+index page, you can get the data with having to modify your browser  
+settings.
+
+If you open the resulting file(s) in a plain text editor (one that can  
+read UTF-8, of course), you can see that the individual lines are  
+consistently tagged.  It should be a simple matter to write a short  
+macro or Perl program to extract just the Sanskrit, if desired.
+
+Best,
+
+Paul
+
+
+
+

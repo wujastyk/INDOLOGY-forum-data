@@ -1,0 +1,76 @@
+From cfynn at dircon.co.uk  Fri May  2 17:42:36 1997
+From: cfynn at dircon.co.uk (Christopher Fynn)
+Date: Fri, 02 May 97 17:42:36 +0000
+Subject: Bitstream charter csx font and Word 97
+Message-ID: <161227030050.23782.4563479655259275695.generated@prod2.harmonylists.io>
+
+On  2 May 97, James Egge  wrote:
+
+> I have found that not only does Windows 97 fail to handle the
+> Bitstream Charter and Utopia CSX fonts, but the same problems
+> arise with the Normyn and Nina fonts.  Using Times New Roman
+> and substituting in individual characters from one of these
+> fonts is a workable but imperfect solution.
+> 
+> Microsoft's new extended character set (WGL4) adds a few
+> characters of use for transliterating Sanskrit: vowels with
+> macrons and s with acute accent, but of course it lacks a
+> number of characters.  WGL4 is also not compatible with some
+> printers.
+> 
+> On a more general note is it not depressing that upgrades to
+> software often seem to create as many problems as they solve?
+> 
+> Yes.  It's also depressing that Microsoft wouldn't bother to
+> insure that their fonts could be used to write words like r.g,
+> moks.a, and duh.kha.
+> 
+> Jim Egge
+> University of Chicago
+> e-mail: egge at midway.uchicago.edu
+
+Actually Windows 97 contains much better support for Unicode
+than Windows 95 and - when applications are available to 
+take advantage of it - you should be able to easily generate *all*
+the diacritics necessary for transliterating Indian scripts
+as well as those scripts themselves in Windows 97.
+
+Windows 97 supports all the Unicode character pages 
+not just the WGL4 sub set that was intoduced with Win 95.
+
+As for fonts not working - many font development tools 
+generate poor quality TrueType fonts or fonts with 
+missing table information. Some of these tables were not
+required by Windows 3.1x or Windows '95 (although they 
+have been in the spec for years).
+ 
+Windows 97 requires some of these additional tables and
+if fonts have been made without them they may not work.
+
+Word 97 does contain Unicode support. 
+
+Microsoft seem to be developing add on language packs for most
+Unicode scripts and languages which will be available for 
+Windows 97 & NT 5. AFAIK these language-packs should contain
+fonts for the appropriate script(s) and a keyboard driver and 
+it it will be possible to switch bettween installed IME's / keyboard 
+layouts /scripts/ fonts on the fly.
+
+To make Microsoft aware of the demand for an add-on language
+pack and fonts to handle the diacritics used in
+transliterating Indic scripts it might be a good idea for as
+many institutions and individuals as possible to  contact
+"Nadine Kano" <nadinek at microsoft.com> and "F. Avery Bishop"
+<averyb at microsoft.com> of Microsoft's Globalization group.
+
+I have also found David Meltzer <davidm at microsoft.com>
+of their Typography group to be very helpful regarding 
+difficulties with fonts etc..
+
+- Chris
+cfynn at dircon.co.uk
+
+
+
+
+

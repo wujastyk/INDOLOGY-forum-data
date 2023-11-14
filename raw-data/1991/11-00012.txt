@@ -1,0 +1,37 @@
+From QQ43 at UK.AC.LIVERPOOL  Sun Nov 17 20:55:10 1991
+From: QQ43 at UK.AC.LIVERPOOL (Chris Wooff)
+Date: Sun, 17 Nov 91 20:55:10 +0000
+Subject: Delays in receipt of mail
+Message-ID: <161227015186.23782.12997190502091379630.generated@prod2.harmonylists.io>
+
+
+Those of you registered with one of our lists at an Internet site will
+have noticed that there have been significant delays in mail transmission
+lately. These delays have been caused by the normal gateway between the
+UK academic network (JANET) and the Internet known as nsfnet-relay.
+Within the last few days the delays have been as much as 5 days. To try
+and improve the situation the University of Kent at Canterbury kindly
+allowed me to use them as an Internet gateway to clear the huge backlog
+of mail here.
+ 
+I have therefore spent time this weekend in retransmitting about 700
+items of mail destined for Internet sites. This exercise is now largely
+complete.
+ 
+I'm sorry for these delays which were not the fault of Liverpool. I'd
+finally like to thank Kent for their help.
+ 
+Chris Wooff
+ 
+BITNET/EARN/NETNORTH: QQ43 at LIVERPOOL.AC.UK
+                      (QQ43%UK.AC.LIVERPOOL at UKACRL)
+INTERNET:             QQ43 at LIVERPOOL.AC.UK
+                      (QQ43%LIVERPOOL.AC.UK at NSFNET-RELAY.AC.UK)
+JANET:                QQ43 at UK.AC.LIVERPOOL
+SPAN:                 RLESIS::CBS%UK.AC.LIVERPOOL::QQ43
+UUCP:                 ....!mcsun!uknet!liverpool.ac.uk!qq43
+
+
+
+
+

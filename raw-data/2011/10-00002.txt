@@ -1,0 +1,15 @@
+From rhayes at UNM.EDU  Mon Oct  3 22:22:18 2011
+From: rhayes at UNM.EDU (Richard Hayes)
+Date: Mon, 03 Oct 11 16:22:18 -0600
+Subject: xindy style file for Sanskrit?
+Message-ID: <161227093968.23782.16935763298333649612.generated@prod2.harmonylists.io>
+
+Colleagues, I have a need to generate a Sanskrit index for a piece written in xeLaTeX, and am assuming at least one of you has already written an xdy style file for the xindy index generator that would sort the entries in Sanskrit dictionary order. I have looked for such a file in all the usual places without success. I am aware of Yasuhiro Okazaki's SktSortKey program and will use it if necessary, but I thought it might be worth asking whether a sanskrit.xdy file is out there somewhere.
+
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+
+

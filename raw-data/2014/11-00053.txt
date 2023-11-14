@@ -1,0 +1,136 @@
+From wujastyk at gmail.com  Thu Nov 13 16:01:59 2014
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Thu, 13 Nov 14 17:01:59 +0100
+Subject: [INDOLOGY] Visuddhimagga
+In-Reply-To: <CAFdBLNgR7xS-t+51cVtdRme3S-FJ=hpE40zNTbUV6e3M6z1qPA@mail.gmail.com>
+Message-ID: <CAKdt-Cd5R1gWKOYDNK3soDKsTw1NKkCwbdEMjG08F3jpjCfVbQ@mail.gmail.com>
+
+I read here again (241 ff.) that Lanman was preparing an Elementary Grammar
+of a mere 50 pages or so (but with a commentarial appendix).  I find no
+record of it in print.  Did it never come out?  Is it lying in a Harvard
+library?
+
+Dominik
+
+PS I enjoyed his charmingly-expressed swipe at Stenzler (242). :-)
+And in footnote 11 he perfectly foretells chatspeak: "Don't be disconsol8."
+
+
+On 13 November 2014 16:21, Herman Tull <hermantull at gmail.com> wrote:
+
+> Dominik,
+>
+> You are likely aware of Lanman's essay, India and the West with a Plea for
+> Team Work among Scholars (JAOS 40 [1920], and can be assessed here,
+> https://archive.org/details/jstor-593425). I don't recall any discussion
+> of the Visuddhimagga (I've not read it in a long time), but it does add to
+> our understanding of Lanman's views.
+>
+> regrads,
+>
+> Herman
+>
+> On Thu, Nov 13, 2014 at 6:12 AM, Dominik Wujastyk <wujastyk at gmail.com>
+> wrote:
+>
+>> There's a new wrinkle on the editing history of the Visuddhimagga, not
+>> mentioned in Steve Collins' article, but kindly brought to my attention by
+>> Christophe Vielle (thanks!).
+>>
+>> Dharmanand Damodar Kosambi (not to be confused with his son Damodar
+>> Dharmanand Kosambi) worked on Warren's edition of the Visuddhimagga.
+>> Dharmanand's work was finished in 1911, but the book took until 1950 to
+>> appear.
+>>
+>> Meanwhile, Dharmanand went back to India, and in 1940 he published in
+>> Bombay an edition of the Visuddhimagga
+>> <http://www.worldcat.org/oclc/55562616> in his own name, work that he
+>> had begun in 1909. It was based on the same manuscripts as Warren's work,
+>> plus reference to two printed editions from SE Asia, perhaps the same as
+>> those used by Caroline Rhys Davids.  Dharmanand said, in his Preface,
+>> The sources used for the present edition are primarily the same as those
+>> employed for the Harvard edition, consisting of four excellent manuscripts:
+>> two Burmese, two Singhalese.  In addition, I have used one printed edition
+>> in Burmese and one in Siamese Characters ; while generally not so good as
+>> the first of the Burmese manuscripts, these contain an occasional superior
+>> reading. To reduce the bulk of this volume, I have omitted all variants ;
+>> the best alternative readings, however, will be given with my own
+>> commentary-in the volume to follow.
+>> Dharmanand's Visuddhimagga edition has been transcribed and published as
+>> a web document
+>> <http://dharmanandkosambi.com/index.php?option=com_content&view=section&layout=blog&id=126&Itemid=144>
+>> .
+>>
+>> So there are *three* editions of the Visuddhimagga published between
+>> 1920 and 1950, with entangled editorial histories:
+>>
+>>    1. Caroline Rhys Davids, 1920, based on 4 printed editions
+>>    2. Dharmanand Kosambi, 1940, based on 4 MSS and 2 editions
+>>    3. Henry Clark Warren, 1950, based on 4 MSS
+>>    Warren died in 1899, leaving his edition almost complete.  Kosambi
+>>    was invited by Lanman to bring it to a publishable state, which he and
+>>    Lanman did together, completing that between 1910 and 1911. Nothing then
+>>    happened for fifteen years.  Then Lanman and Kosambi settled some dispute,
+>>    and Kosambi saw the work through the press in 1926-1927.  But the work
+>>    remained unpublished until 1950 [Preface
+>>    <http://dharmanandkosambi.com/index.php?option=com_content&view=category&layout=blog&id=160&Itemid=266>
+>>    ].
+>>
+>> Warren's actual editorial work on the text preceded that of both the
+>> others.  But it was only published after their editions.
+>>
+>> For his 1940 edition, begun in 1909, Kosambi used the same MSS as Warren
+>> had used 40 years earlier.  Two of these MSS were personally procured by
+>> Warren from England, by correspondence with Thomas Rhys Davids and with Dr
+>> Richard Morris [as Lanman says <http://www.jstor.org/stable/592341?seq=4>],
+>> and a third was personally lent by Henry Rigg.  Did Kosambi really,
+>> separately, gain access to the very same privately-owned MSS?  Or were they
+>> still in Cambridge MA when he worked  there after Warren's death?  Or did
+>> Kosambi use Warren's unpublished text in constituting his own edition.  It
+>> is hard to imagine that he would not do so, since the work was done and lay
+>> there before him.
+>>
+>> I should mention that for all these editors it was a matter of importance
+>> that their editions were produced in this or that script.  Caroline Rhys
+>> Davids' edition was mainly undertaken in order to produce a Roman-alphabet
+>> version of the pre-existing Burmese- and Ceylonese-script editions.  She
+>> showed little engagement with actual text-critical tasks.  Warren was
+>> engaged with both text-criticism and with the idea of transliteration.
+>> Warren's edition prints MS readings.  Kosambi also cared about script,
+>> producing his edition in Devanagari, thus intending specifically to reach a
+>> readership in India.  Kosambi also engaged in text-critical tasks to the
+>> extent that he applied Paninian grammatical thinking to the construal of
+>> the text, especially in matters of sandhi.  But Kosambi omitted to print
+>> any variants from the manuscripts, which means that his edition cannot be
+>> used as a critical edition, since he denies the reader the opportunity to
+>> think critically about his editorial choices and their alternatives.
+>>
+>> ?Best,
+>> Dominik?
+>>
+>> --
+>> The secondary literature
+>> <http://books.google.at/books?id=q1XoNhUrP1MC&lpg=PA180&dq=dharmanand%20kosambi%20visuddhimagga&pg=PA180#v=onepage&q=dharmanand%20kosambi%20visuddhimagga&f=false>
+>> contains references to an edition of the Visuddhimagga by Dharmanand
+>> Kosambi (and not Warren) published by OUP in London in 1950.  I think this
+>> is probably just an error.
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info
+>>
+>
+>
+>
+> --
+>
+> *Herman TullPrinceton, NJ *
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141113/7b17ce27/attachment.htm>
+

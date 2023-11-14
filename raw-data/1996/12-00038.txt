@@ -1,0 +1,71 @@
+From bpj at netg.se  Tue Dec  3 10:31:30 1996
+From: bpj at netg.se (bpj at netg.se)
+Date: Tue, 03 Dec 96 12:31:30 +0200
+Subject: World Sanskrit Conference computing workshops
+Message-ID: <161227027237.23782.10639087144689985369.generated@prod2.harmonylists.io>
+
+At 19:01 2.12.1996 +0000, Dominik Wujastyk wrote:
+>I have arranged with the organisers of the World Sanskrit Conference
+>(Bangalore 1997, January 3--9) to hold two special-interest workshops
+>under the rubric of "Sanskrit and Computing".  Time and space has been
+>allocated for these meetings.
+
+Thanks for the info, and especially the CSX documentation pointer. I'm very
+interested in these subjects, since it is my self-appointed mission to
+provide fonts in Macintosh/PC formats for lesser used languages, and for
+language scholars (as shareware according to how much time I got, and on
+demand/specification, but then at a price). My latest project is a
+collection of fonts for use in e-mail, where special characters are found
+in the >127 ASCII-values, and the <128 ASCII-values are the usual ones. I
+believe CSX already answers these requirements, btw. A font for the writing
+of I.E.-IndoIranian (sc. Avestan and Sanskrit, of course) is also in the
+works, as well as one for ancient Greek. I'm also trying to find a workable
+solution for Tibetan -- in Tibetan script, since all transliterations into
+Latin script violate the spelling conventions of that script so as to give
+ab unwarranted image of monstrosity...
+
+Do you have any more useful pointers or informations, that one can get on
+the Net or through (snail) mail? I'm especially interested in existing
+standards (incl. de-facto ones) for various modern SAsian languages, in as
+far as these differ from CSX/Sanskrit conventions.
+
+I have a pointer you may wish to check out: under http:// www.sil.org there
+are a couple of nifty programs, especially SILkey and Keyman for
+facilitating the typing of special characters.
+
+At last a different query: Do you think a couple of queries wrt the
+Burushaski language would be OK on the INDOLOGY list -- given that I am
+(for health reasons) mainly a "Privatgelehrter" and formally an
+undergraduate?
+
+Regards
+
+
+
+ _                     __  ___   __ ___ __
+|_) |_  * | *  _       (_ /_|| * (_ /_| (_ *
+|   | ) | | | |_)            |     \
+              |
+B.Philip Jonsson <bpj at netg.se>
+
+"Peace is not simply the absence of war.
+It is not a passive state of being.
+We must wage peace, as vigilantly as we wage war."
+(XIV Dalai Lama)
+
+Aphobon ho theos / Anaistheton ho thanatos
+To agathon eukteton / To deinon euekkartereton
+(Diogenes of Oinoanda -- not the one in the amphora!)
+
+Gomba lamai 'sjaylkjiyl | 'Yiyla tsjargyu mi'duq |
+'Magom` dsjambai 'sjaylray` | 'Yiyla khorkhor dsjaydsjung ||
+(Sang'yang Gjatso -- Dalai Lama VI)
+
+"A coincidence, as we say in Middle-Earth"
+
+
+
+
+
+
+

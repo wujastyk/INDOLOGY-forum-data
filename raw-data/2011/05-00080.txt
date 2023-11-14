@@ -1,0 +1,46 @@
+From wujastyk at GMAIL.COM  Sat May 21 10:38:39 2011
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Sat, 21 May 11 12:38:39 +0200
+Subject: KSS 106, Jayanta Bhatta's Nyayamanjari
+In-Reply-To: <BANLkTikiV_CaZNP3WSz3bi_EV1EtD+hi3w@mail.gmail.com>
+Message-ID: <161227092608.23782.15359466612895314442.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+Whitney Cox noticed that some pages from the beginning of the KSS 106
+Jayanta edition scanned by the DLI were missing (bhumika 8 - mula 7).  The
+copy of the book in my local library is also imperfect at the beginning, but
+luckily in complementary ways to the DLI scan.  This morning I scanned the
+beginning of my local copy and put together a composite digital copy that
+should be more correct than either the instantiations of the edition
+available to me.
+
+I believe the DLI edition is that of the Asiatic Society of Bengal;  my
+local edition is that of the ISTB library, University of Vienna.
+
+I've uploaded the new composite digital text to the Archive.org, with the
+file name JayantaBhatta_nyayaManjari_1936-corrected.pdf<http://ia600603.us.archive.org/7/items/TheNyayamanjariOfJayantaBhattaEdited...BySuryaNarayanaSukla/JayantaBhatta_nyayaManjari_1936-corrected.pdf>,
+and deleted the imperfect DLI copy.
+
+Any further error reports gratefully received!
+
+Best,
+DW
+<https://www.dropbox.com/referrals/NTIzNzI2MTY5>
+
+
+On 19 May 2011 09:52, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+> Digital copy of the 1936 S?rya N?r?ya?a ?ukla edition, from DLI, assembled
+> and uploaded to the archive.org, here<http://www.archive.org/details/TheNyayamanjariOfJayantaBhattaEdited...BySuryaNarayanaSukla&reCache=1>
+> .
+>
+>
+> DW
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110521/5d09aad4/attachment.htm>
+

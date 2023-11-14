@@ -1,0 +1,38 @@
+From gheil at cs.washington.edu  Thu Dec  2 18:36:06 1993
+From: gheil at cs.washington.edu (gheil at cs.washington.edu)
+Date: Thu, 02 Dec 93 10:36:06 -0800
+Subject: Patanjali Yoga Sutras
+Message-ID: <161227016397.23782.13544083929520987947.generated@prod2.harmonylists.io>
+
+
+Dear Esteemed Indologists:
+
+I am still seeking a machine readable (transliterated) version of
+the Patanjali sutras. Note that a Devnagri version would also be
+useful if the character mapping is reasonably uncomplicated. As
+would be a citation to a compact printing of the Sutras.
+
+In the mean time I have scanned and OCR's the index to "The Yoga
+Sutras of Patanjali" by C Chapple & EP Kelly, Sri SatGuru Publ.
+'1990 and the index to H Aranya's "Yoga Philosophy of Patanjali"
+SUNY Albany Pr.'83. Would be interested in anyones technical
+comments on my OCR transcriptions and am willing to share same
+with the group.
+
+The Chapple/Kelly is particular useful to me as it is essentially
+a concordance and thus can be inverted to, close to, the original
+text.
+
+LM Fosse suggested the use of the Optopus OCR sytem for PC. I am
+interested in sharing the transliteration scan I mentioned
+earlier (Konrad Meisig's "Yogasutra-Konkordanz"). with anyone who
+has capable software.
+
+Greg Heil
+gheil at cs.washington.edu
+ 
+
+
+
+
+

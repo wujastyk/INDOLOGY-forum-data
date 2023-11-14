@@ -1,0 +1,53 @@
+From D.Wujastyk at ucl.ac.uk  Sat Jun 19 14:13:02 1993
+From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+Date: Sat, 19 Jun 93 14:13:02 +0000
+Subject: Sanskrit etexts
+Message-ID: <161227015888.23782.6981050529418923075.generated@prod2.harmonylists.io>
+
+In message Fri, 18 Jun 93 20:33:59 BST,
+  Michael Everson <EVERSON at IE.UCD.IRLEARN>  writes:
+
+> I only subscribed to this list today! :-) and I am busy reading the
+> archives. I note that in the archives there are copies of the
+> Buddhacarita and several other things (which names I can't read
+> while I'm in this mailer). I myself have some S/ankara and
+> Patan%jali around somewhere. Are the texts in the Indology archive
+> text-only or something else? I'd like to know if I can read them
+> on the Mac.
+
+Dear Michael,
+
+Welcome to the list.
+
+The texts on the INDOLOGY server at Liverpool.ac.uk are indeed plain text,
+with plain text markup in some cases.  There is a standard roman character
+set for transliterated Sanskrit and allied languages called the Computer
+Sanskrit eXtended (CSX) coding.  This is an 8-bit code: ASCII plus accented
+Indic characters and a base set for of accents for French, German, etc.
+It was agreed at the Vienna meeting of the International Assoc. of Sanskr.
+Studies (IASS) and details and examples are in the file iass.zip.
+Madhav Deshpande has created a PS font in CSX coding which works well on the
+Mac.  It costs money.
+
+The liverpool files are also available for ftp from
+ftp.bcc.ac.uk:pub/users/ucagdkw/indology.
+
+Tom Ridgeway has taken copies of each of these files as they became
+available, and converted them from their creators' coding to CSX.  These
+versions are stored on blackbox.hacc.washington.edu.
+
+I would gladly take copies of your Sankara and Patanjali transcriptions, and
+make them available through the same channels.  Shall I send you a disk?
+Can you ftp stuff to me?  (Or me from you?)
+
+Best wishes, and welcome again,
+
+Dominik
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+ 
+
+
+
+
+

@@ -1,0 +1,16 @@
+From kpadmaso at spc-srv-a.efit.elcm.eds.com  Thu Aug 24 06:07:09 1995
+From: kpadmaso at spc-srv-a.efit.elcm.eds.com (kpadmaso at spc-srv-a.efit.elcm.eds.com)
+Date: Thu, 24 Aug 95 11:07:09 +0500
+Subject: Request: Info about font encoding schemes
+Message-ID: <161227020681.23782.2577658124155737687.generated@prod2.harmonylists.io>
+
+What are the various coding schemes for the Devanagari font and where
+can I find more information about them? So far, in this list I have
+seen people mention the CSX, ICCS etc. forms of encoding.
+Thanks
+ 
+
+
+
+
+

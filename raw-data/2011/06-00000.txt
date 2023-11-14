@@ -1,0 +1,33 @@
+From pma at RDORTE.ORG  Wed Jun  1 11:26:11 2011
+From: pma at RDORTE.ORG (patrick mc allister)
+Date: Wed, 01 Jun 11 13:26:11 +0200
+Subject: SARIT texts available in online repository
+Message-ID: <161227092669.23782.14595768570549551600.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+the e-texts included in SARIT (Search and Retrieval of Indic Texts,
+http://sarit.indology.info/), are now available in an online
+repository that, so the hope of Dominik Wujastyk and myself, will make
+the collaboration on the existing files and the addition of new files
+to SARIT easier.
+
+Please see https://github.com/paddymcall/SARIT/blob/master/README.org
+for a description of what this repository is and how it might be used.
+
+Yours,
+
+-- 
+patrick mc allister
+
+long term email: pma at rdorte.org
+*current* office email: patrick.mcallister at oeaw.ac.at
+homepage: http://rdorte.org/pma/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20110601/6fe9279e/attachment.sig>
+

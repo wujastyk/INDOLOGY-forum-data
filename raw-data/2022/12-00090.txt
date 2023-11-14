@@ -1,0 +1,107 @@
+From hhhock at illinois.edu  Tue Dec 20 17:21:24 2022
+From: hhhock at illinois.edu (Hock, Hans Henrich)
+Date: Tue, 20 Dec 2022 17:21:24 +0000
+Subject: [INDOLOGY] paratva again
+In-Reply-To: <CAB3-dzcJt8zUngug=yDd3Rx+KHBsYdR1Sj_Osd7iD6xHJBnwPg@mail.gmail.com>
+References: <LO4P265MB4280CF6BCF43B8A1C50E65E4F9E59@LO4P265MB4280.GBRP265.PROD.OUTLOOK.COM>
+ <CAB3-dzcJt8zUngug=yDd3Rx+KHBsYdR1Sj_Osd7iD6xHJBnwPg@mail.gmail.com>
+Message-ID: <40B0F55A-3310-4A14-A064-0629A604E210@illinois.edu>
+
+Dear Madhav, John, and others interested in this thread.
+
+Below is my ten-cent?s worth of comment. I hope this helps turning the discussion to a more balanced assessment of Rajpopat?s proposal. For some reason, my mail application lets me insert my comment only at the end of this message thread.
+
+All best wishes,
+
+Hans Henrich
+
+
+
+On 20 Dec2022, at 08:37, Madhav Deshpande via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Dear John,
+
+Thanks for a balanced commentary. I think there is too much of ??? ?????, rather than a calm presentation and evaluation of alternative proposals. The first historical question is to reccognize that it is Pata?jali who extends the scope of 1.4.2 beyond the ekasa?j??dhik?ra [i.e. the scope defined by 1.4.1], and where this extension creates problems, Pata?jali interprets the word para to mean i??a "desired," allowing a so called p?rvaviprati?edha. As a result, in Pata?jali's proposal, the choice between para? k?rya? and p?rva? k?ryam is determined simply by looking at what is i??a "desirable" in a given derivation. OK. This is what Pata?jali's extension of 1.4.2 has given us. Now Rishi accepts Pata?jali's extension of 1.4.2 to the whole of the A???dhy?y?, but not his understanding that the rule refers to a resolution of rule conflict by referring to the order of the rules. Then he takes the word para to refer to the order of morphemes in the derivation [left versus right context], and not the order of rules in the A???dhy?y?. This makes the rule 1.4.2 rather irrelevant for the entire ekasa?j??dhik?ra, where the order of morphemes in the derivation is not an issue. One then has to find new innovative solutions for the choice of sa?j?? in this ekasa?j??dhik?ra, while the very placement of 1.4.2 coming after 1.4.1 becomes rather meaningless. To account for Rishi's new interpretation, certain inconvenient rules in the A???dhy?y? are then labeled as possible interpolations. At least Pata?jali's extension of 1.4.2 to the whole of the A???dhy?y? does not leave the ekasa?j??dhik?ra high and dry. For these and many other cogent reasons pointed out by various scholars on this list, I remain unconvinced of these new proposals.
+     An alternative investigation may involve keeping the scope of 1.4.2 restricted to the ekasa?j??dhik?ra, as P??ini most likely intended, and see how one can account for the derivations for which Pata?jali proposes to extend this rule to the rest of the A???dhy?y?. That would be my suggestion. Best regards,
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+
+[Residence: Campbell, California, USA]
+
+
+On Tue, Dec 20, 2022 at 4:50 AM John Lowe <john.lowe at ames.ox.ac.uk<mailto:john.lowe at ames.ox.ac.uk>> wrote:
+Dear all,
+
+what has surprised and worried me most in all this is the way that an unsubstantiated claim has been propagated as truth by Cambridge University, and by many otherwise reputable newspapers and broadcasters around the world including, in the UK, the BBC and the Independent newspaper, without any of them bothering to seek independent confirmation.
+
+I would like to note the honourable exception of the NY Times, who I spoke to on Friday after they sought a third-party view. After I explained that this is not 'Cambridge student solves 2,500 year old mystery', but rather merely 'Cambridge student proposes new idea, academic community yet to assess it', they quite rightly decided that it was not newsworthy. What I think would be much more newsworthy is quite how this Trump-esque propagation of what is really - at least at this point in time, that is, until or unless the claims are proved true and accepted in the academic community - fake news, happened.
+
+It is of course good to see Sanskrit in the mainstream news, but at the expense of truth and academic integrity? I am not so sure.
+
+Rishi, I like you and have supported you in the past, but since you have been bold enough to declare yourself the saviour of P??inian studies, perhaps you will permit me a few critical comments/questions. The 'philological' argument you made in an earlier post does not actively support your argument. At best it shows that yes, para in the sense 'subsequent, to the right' can apply to contexts for rules. But that doesn't mean that 'subsequent' can't also apply in the context of the order of rules themselves, that is, it doesn't rule out the interpretation you are arguing against. What would be more probative would be to show that P??ini himself uses a different term for that, so that para cannot have the meaning usually assumed.
+
+Then you note that most readers of this list wouldn't follow the detailed technical arguments. True perhaps, but what any academic could follow, what I would like in this context, and what is missing from your thesis, is any attempt at a quantitative and qualitative assessment of the relative coverage of your proposal vs the existing proposals. Let us say, for example, that the traditional P??in?ya model of rule interaction recognizes, or at least discusses, 30 exceptions or classes of exceptions, and the Kiparsky siddha model say 20. How many of these does your proposal immediately account for, without any other mechanisms required? To what extent can all the cases immediately accounted for on the previous models also be immediately accounted for on your model? What remains unassessed? What kinds of problematic cases are there, and what kinds of solutions are you forced into? How do the numbers and types of exceptions compare with those of previous approaches, and can this tell us anything about the relative value of the different approaches? This is not religion or poetry: it is, or at least aims to be, science - so there must be some objective verification available.
+
+Your thesis admits that you have not considered the accent rules nor the Vedic rules, so at best you can only claim that your proposal works for a specific subset of the sutras. I also note that there are examples discussed in your thesis which don't immediately fall out from your proposal, and you admit the likelihood of more; and for these you propose 'solutions' like: excluding derivations involving u??di suffixes as being non-P??inian (p. 230); proposing that rules which contradict your idea might be later additions to the A???dhy?y? (p. 212); taking forms which are standardly treated as two-step derivations as one-step derivations based on a previously fully constituted form (p. 231). To what extent are these 'solutions' better or worse, or narrower or broader in scope, than what is needed under earlier proposals?
+
+Perhaps these solutions are valid in the particular cases you discuss, or perhaps not, but the point is: only if you, or someone else - but really it should be you first off - can provide a clear assessment of the overall picture, showing that your proposal uncontroversially - that is, in an objectively verifiable way - improves the empirical adequacy of the A???dhy?y? as a grammar of P??inian Sanskrit in comparison with earlier interpretations, can the field even begin to move towards the point of accepting this as a revolution in our understanding. Otherwise, it is just another idea out there - a new one, and an interesting one, yes, and one you can be proud of, but not necessarily any better or truer than existing ideas.
+
+John
+
+
+
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology<https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!6eSnCZZv_ytVjrGhvYPDnZ3DIfgb1LLfbmxZilT6wjbNB3FSOjLMV76zEtrjknSjIcXFfH-DRKx9wFCKOXac2SsYLDBS$>
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!6eSnCZZv_ytVjrGhvYPDnZ3DIfgb1LLfbmxZilT6wjbNB3FSOjLMV76zEtrjknSjIcXFfH-DRKx9wFCKOXac2SsYLDBS$
+
+Reading Rajpopat?s dissertation leads to the conclusion that some of the objections raised against his approach may be mistaken. Rajpopat (R) does not simply talk about the sequencing of affixes and its effects (if any) on rule application, but a very specific situation where of two grammatical elements in succession, the earlier one can be affected by one rule and the later by a different rule, and applying the two rules lead to contradictory results. Only in such cases is his interpretation of 1.4.2 applicable and, as he demonstrates in a fairly large number of examples, in these cases it gives precedence to the rule affecting the later grammatical element.
+Because of the large number of examples, R?s proposal deserves to be taken seriously. It would be good for P??iniyas to test his examples, check for possible alternatives, and to scour P??ini?s s?tras for possible counterexamples. At this point, I have checked just one example and find that it can be accounted for without R?s interpretation of 1.4.2; see below.
+Even if R should be right about the fact that, under certain definable circumstances, rules affecting the later of two grammatical elements take precedence over rules that affect the earlier member, I am still not convinced that 1.4.2 accounts for this. If 1.4.2 had been intended as a general rule that holds for the entire grammar, it is difficult to understand why it would have been inserted after 1.4.1, in a section which (as stated by 1.4.1?s ? ka??r?d) has a much more limited domain. Moreover, R?s proposal also has a very specific domain; but that domain differs from the one of 1.4.1. So, if the principle that R proposes should be correct, it is not likely to have been stated by P??ini in 1.4.2; like other principles of interpretation it would be inferred, rather than stated explicitly by P??ini.
+Below is my reading of R?s proposal, followed by my critique.
+What R. proposes is the following
+1. We need to distinguish between ?Same Operand Interactions? (SOI) and ?Different Operand Interactions? (DOI). See the following diagram, where Type 1 is SOI and Type 2 DOI
+[cid:clip_image001.png]
+2. 1.4.2 applies only in cases of DOI
+3. In such cases, the rule applying on the right hand side (RHS; i.e. B) takes precedence over the one applying to the left hand side (LHS; i.e. A).
+4. In cases of SOI, the apav?da wins out [not clear how R. would handle antara?ga cases, where both rules are apav?das]
+Starting with p. 50, R. presents and discusses a fairly impressive number of instances where his interpretation of 1.4.2 leads to the correct result.
+The first example (p. 50) is this: ins.pl of a-stems    deva                bhis
+                                                                                    7.3.103            7.1.9
+Claim: The two rules 7.3.103 (which changes a to e) and 7.1.9 (which changes bhis to ais) mutually block each other; but R?s interpretation of 1.4.2 argues for 7.1.9 to apply (hence devais).
+The rules are ?
+ato bhisa ais (7.1.9)
+?After (nominal stems in) a, bhis is replaced by ais.?
+bahuvacane jhaly et (7.3.103)
+?In the plural (of a nominal stem), a [anuv?tti from 7.3.101] is replaced by e before (a case ending beginning with [anuv?tti from 7.3.102] the class of consonants defined as jhal [i.e. effectively, before bh or s].?
+As it turns out, the choice of devais could also be explained in terms of the common-sense principle underlying the notions apav?da, nitya, or siddha, namely that rules must have at least some area of application, otherwise they are meaningless. So, if there is a conflict, applying a rule that would deprive another rule of applying must give way to the latter rule.
+In the present case, applying 7.3.103 would deprive 7.1.9 from applying, making this rule meaningless. On the other hand, applying 7.1.9 deprives 7.3.103 from applying only in this one context (before -bhis); 7.3.103 would still apply before -bhyas and before -su and thus remains meaningful. Rule 7.1.9 therefore will win over 7.3.103 in the contect  / deva bhis /. [After writing this I discovered that Vasu?s ?k?rik?? on 7.1.9 says essentially the same thing; so there is precedence for this account in the commentatorial tradition.]
+It remains to be seen whether the other examples adduced by R are amenable to similar alternative accounts.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221220/a4600ec8/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: clip_image001.png
+Type: image/png
+Size: 6278 bytes
+Desc: clip_image001.png
+URL: <https://list.indology.info/pipermail/indology/attachments/20221220/a4600ec8/attachment.png>
+

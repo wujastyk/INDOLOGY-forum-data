@@ -1,0 +1,21 @@
+From mmdesh at umich.edu  Fri Sep 16 11:15:37 2016
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Fri, 16 Sep 16 07:15:37 -0400
+Subject: [INDOLOGY] Bloomfield's Vedic Concordance
+Message-ID: <CAB3-dzcTL19RgadYJ8ndm9+bK71r4xDYxdpWmTQKELzXF6mWoA@mail.gmail.com>
+
+Hello Indologists,
+
+     I found a digital version of Vedic Concordance that uses the Macind
+font.  I am wondering how I can get a Unicode version.  Also someone had
+prepared a Stardict version of Vedic concordance (bloomfield-vedic-sa.tar.gz
+<https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fvvasuki%2Fstardict-sanskrit%2Fraw%2Fmaster%2Fsa-head%2Ftars%2Fbloomfield-vedic-sa.tar.gz&sa=D&sntz=1&usg=AFQjCNGtVtaJJBhjebEFF6G4zIJY_9yCYA>),
+listed in some old messages, but I am not able to download one.  Any help?
+
+Madhav Deshpande
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160916/d645b8f8/attachment.htm>
+

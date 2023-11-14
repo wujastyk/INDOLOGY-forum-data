@@ -1,0 +1,23 @@
+From kellner at ue.ipc.hiroshima-u.ac.jp  Tue Oct 17 16:46:12 1995
+From: kellner at ue.ipc.hiroshima-u.ac.jp (kellner at ue.ipc.hiroshima-u.ac.jp)
+Date: Wed, 18 Oct 95 01:46:12 +0900
+Subject: Digital Indological Dream?
+Message-ID: <161227021306.23782.7442791447594021466.generated@prod2.harmonylists.io>
+
+In response to "what do we want to have", it would be reasonable to specify
+who is likely to use what for which purpose and in what format. 
+
+What I, being mostly interested in texts and manuscripts, would want: 
+
+e-texts, e-texts and even more e-texts, in an easily accessible format. 
+That is to say: NOT a format which requires special searching tools that
+have to be bought separately (if they're included, I don't mind), and NOT a
+format where you can admire the beautiful graphical representation without
+copy-pasting text into your usual word-processor. ACIP issued a Tibetan
+script-viewer together with their texts, for instance, which is all very
+nice - but it only allows you to view, and not to write or copy. 
+
+This pretty much makes it ASCII with some sort of easily understandable
+diacritics-transcription, where you once write a macro for your
+word-processor, and that's it. 
+

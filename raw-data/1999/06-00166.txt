@@ -1,0 +1,74 @@
+From thompson at JLC.NET  Thu Jun 10 20:01:07 1999
+From: thompson at JLC.NET (George Thompson)
+Date: Thu, 10 Jun 99 16:01:07 -0400
+Subject: Is "Sanskrit" Dravidian ?
+In-Reply-To: <v04011703b385a27d8120@[128.174.52.170]>
+Message-ID: <161227050174.23782.8480584245586588270.generated@prod2.harmonylists.io>
+
+Since Hans Henrich Hock has taken the leap, perhaps it will useful to
+belabor a few more points as well. They will be obvious to many.
+
+In order to respond adequately to Samar Abbas's assertion that '30-50 % of
+the words of Sanskrit are of Dravidian etymology anyway', we would have to
+ask ourselves exactly what stage of the language is meant. Insofar as
+Sanskrit was/is a living language, it was/is a changing language, of course.
+
+The percentage of non-IA words in Sanskrit at 1000 BCE will be different
+from that at 1 BCE or at 1000 CE. Or for that matter at 1999 CE. It is also
+reasonable to suppose that there will be not only temporal variation but
+also geographic variation. So we need to ask whether there is a greater
+amount of non-IA words in the North or the South, or in the East or West,
+etc. This is not a new idea.
+
+I think that we can come up with meaningful figures only by setting limits
+like this, and restricting our assertions within such limits.
+
+For the RV, we can be fairly specific, thanks to the work done by previous
+scholars. Kuiper has listed 383 non-IA words -- that is, borrowed words --
+in that text. Kuiper's list is explicitly provisional, and by no means is
+it overly restrictive. For example, the three terms cited in my previous post:
+
+1. bRba'duktha = hapax at RV 8.32.10, epithet of Indra.
+
+2. bRbu'H = name of a Vedic patron [cf. his dAnastuti at RV 6.45.31-33].
+
+3. bR'bUkam = another hapax, at RV 10.27.23; meaning unclear, possibly of
+Munda origin [thus Kuiper].
+
+are cited by Kuiper as three separate entries on his list [nos. 280-282],
+in spite of the fact that there is a very good chance that two or all of
+these might be related.
+
+Now Kuiper carefully demonstrates how he comes up with a percentage for
+non-IA words in the RV. I won''t go into it. But, very conservatively, he
+estimates that this percentage might be well above 5 %. But this figure
+includes not only possible Dravidian borrowings, but also possible Munda
+ones. And clearly, my examples above show that he has included some that
+may be good old Indo-Iranian words. These may have been borrowed from some
+unknown language at a pre-Vedic Indo-Iranian period. Or possibly, as I am
+willing to speculate, they may be borrowings into Vedic from Iranian.
+
+Finally, this figure of 5 % includes borrowings from one or more other
+languages that are otherwise unknown to us [see the 'language x'' posited
+by Masica, accd to whom possibly one third of the Hindi lexicon may be
+borrowed from this unknown source]. So it is fair to state that, even if we
+do not go into great detail examining individual etymologies, the
+percentage of specifically Dravidian borrowings in the RV is going to be
+quite a bit less than 5 %. Maybe 2. Hindi, however, stands at the other end
+of the spectrum, much closer to the figure cited by Mr. Abbas. What does
+this fact suggest?
+
+Will such figures apply to epic Sanskrit? No. Nor to later classical Skt,
+nor to Middle IA, etc. It would be useful to get precise figures from as
+many different sources as possible [i.e., different times and places].
+Maybe we could identify trends or patterns.
+
+In any case, then our statements would be meaningful and verifiable. Or not.
+
+Hoping that I haven't wasted anyone's time.
+
+George Thompson
+
+
+
+

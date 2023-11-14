@@ -1,0 +1,38 @@
+From kevinryan at fas.harvard.edu  Sat Aug  8 12:46:25 2015
+From: kevinryan at fas.harvard.edu (Kevin M. Ryan)
+Date: Sat, 08 Aug 15 14:46:25 +0200
+Subject: [INDOLOGY] Second-syllable rhyme in Dravidian
+In-Reply-To: <CAJGj9eaZT_MxeJeaunni8uortZiio5AhM4HEHeJRPspbH+n1-Q@mail.gmail.com>
+Message-ID: <55C5FA21.1070907@fas.harvard.edu>
+
+It's true, echo reduplication (ER) is found widely not only in South 
+Asia but across the world (cf. e.g. Turkish tabak "dish", tabak-mabak 
+"dishes and such").
+
+My point in bringing it up in the context of second-syllable rhyme (SSR) 
+was just that ER (in its specific form reconstructible to Proto-South 
+Dravidian) and SSR (as amply attested in the oldest surviving Dravidian 
+literature) work exactly alike phonologically in that they decouple 
+quantity correspondence (which is required of the initial vowel) from 
+quality correspondence (which is not required of the initial vowel), a 
+property not shared by most ER systems of farther north and elsewhere in 
+the world. I see this specific parallelism in phonology as adding some 
+support to a Dravidian origin of SSR, though like I said, it's only 
+suggestive.
+
+The examples of ER from Pahari and Panjabi mentioned in this thread 
+(cited from Annie Montaut's paper) seem to lack this phonological 
+peculiarity: In those cases (as in Turkish, etc.), it appears that the 
+initial vowels correspond completely, i.e., both in quantity and 
+quality. I wouldn't be surprised if certain other northern South Asian 
+languages have come to employ a more Dravidian-like version of ER, given 
+areal convergence, but even if that were the case, it wouldn't speak 
+against a Dravidian origin of the pattern unless it can be traced back 
+at least as far in IA as it can in Dravidian, which seems unlikely.
+
+Kevin Ryan
+
+
+
+
+

@@ -1,0 +1,62 @@
+From ambapradeep at gmail.com  Sat Sep 18 06:25:45 2021
+From: ambapradeep at gmail.com (Amba Kulkarni)
+Date: Sat, 18 Sep 2021 11:55:45 +0530
+Subject: [INDOLOGY] Grep tool for searching on Mac
+In-Reply-To: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
+References: <CAODNnZjrfmfWjXgLd0O2ZMAho+Z3QWVR8PdsxvxF_TD6ToE4Nw@mail.gmail.com>
+Message-ID: <CAFffahATb3+VWfjqstzruM=AJsQ1k1o3iH+Xu6=9vC8wHTencw@mail.gmail.com>
+
+Dear list members,
+
+While the utilities like grep are good for languages with simple
+morphology, for Sanskrit, the regular expressions would result either in
+under-generation or over-generation, if one would like to search with a
+pr?tipadikam/dh?tu.
+
+In order to facilitate such search, we have developed a search engine
+Gave?ik?, available at http://sanskrit.uohyd.ac.in:8082/searchengine
+
+This search engine combines the morphology engine with the search engine
+making it powerful.
+
+Best regards,
+Amba Kulkarni
+
+On Fri, 17 Sept 2021 at 16:48, Krishnaprasad G via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear all
+> Is there any readymade tool for using the Grep command for Sanskrit text
+> string for multiple files?
+>
+> Thanks
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+
+
+-- 
+
+? ?? ?????: ?????? ????? ??????: ll
+Let noble thoughts come to us from every side.
+- Rig Veda, I-89-i.
+
+Professor
+Department of Sanskrit Studies
+University of Hyderabad
+Prof. C.R. Rao Road
+Hyderabad-500 046
+
+(91) 040 23133802(off)
+
+http://scl.samsaadhanii.in <http://sanskrit.uohyd.ac.in/faculty/amba>
+http://sanskrit.uohyd.ac.in/scl
+http://tdil-dc.in/san/
+http://sanskrit.uohyd.ac.in/faculty/amba
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210918/75010439/attachment.htm>
+

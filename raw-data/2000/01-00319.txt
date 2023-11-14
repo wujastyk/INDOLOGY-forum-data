@@ -1,0 +1,91 @@
+From mmdesh at UMICH.EDU  Wed Jan 19 12:11:31 2000
+From: mmdesh at UMICH.EDU (Madhav Deshpande)
+Date: Wed, 19 Jan 00 07:11:31 -0500
+Subject: Vedic accent in taittiriya samhita
+In-Reply-To: <20000119030653.52094.qmail@hotmail.com>
+Message-ID: <161227055393.23782.7091982622692427504.generated@prod2.harmonylists.io>
+
+The written accentuation of the TS is not very different from the RV and
+basically the same rules of prosody apply.  There is a reason for
+misunderstanding the syllable with a vertical line as Udaatta, because
+Udaatta is supposed to be the high note.  In reality, the syllable with
+the vertical line above is always a Svarita, the syllable with the
+horizontal line underneath is called Sannatara, a prosodic transformation
+of the Anudaatta, and the unmarked syllables are either Udaatta or a
+variety of Anudaatta.  The ancient recitational traditions recorded in the
+Praatizaakhyas make it clear that the Svarita is not a middle pitch, but a
+composite syllable with an initial Udaatta segment followed by an
+Anudaatta segment.  This initial portion of the Svarita, according to a
+number of Praatizaakhya traditions is uttered as Udaattatara, higher than
+the pitch of the Udaatta.  Similarly, an Anudaatta syllable before an
+Udaatta becomes Sannatara, lower than the normal level of Anudaatta, and
+is marked with a horizontal line underneath.  Thus, the written notation
+captures the "higher than the high Udaatta" nature of the Svarita's
+initial segment with a vertical line above, and the "lower than Anudaatta"
+nature of the Sannatara syllable with a horizontal line underneath.  The
+unmarked Udaatta and Anudaatta syllables are often not distinguished in
+recitational pitch, both collapsing into a middle pitch, a sort of default
+from which one moves up (for Svarita) and down (for Sannatara).
+        However, since most reciters do not know the rules of accents, and
+carry a belief that the high note is Udaatta, mid note is Svarita, and the
+low note is Anudaatta, a mistaken belief about Svarita as Udaatta does
+result.  Hope this explains some of the confusion.  Best,
+                                        Madhav Deshpande
+
+On Tue, 18 Jan 2000, Harry Spier wrote:
+
+> A chanting book I have of the Rudram from the Taittiriya Samhita with an
+> accompanying tape of Brahmin Priests from that school reciting the text
+> agrees with the description by Wayne Howard (in Vedic Recitation in Varanasi
+> page 191) of the musical realization of the Taittiriya school.  I.e. in
+> relation to the pitch of unmarked syllables the syllables that have an
+> underline are a major second below in pitch, and the syllables marked with a
+> verticle line above them are a minor second above in pitch.  But in the
+> introduction of the chanting book where it describes the names and meanings
+> of the vedic accents it names the accent indicated by a verticle line above
+> the syllable (which Wayne Howard and everyone else I've heard calls svarita)
+> as udAtta.  It names the unmarked syllables as svarita, and the syllables
+> with an underline as anudAtta.  The exact quote of the accents description
+> in the introduction (in Hindi) is as follows:
+>
+> I'm using HK convention (& indicates chandrabindu,M anusvara):
+>
+> udAtta [it shows a picture of akara with a verticle line above it here]
+> (sirapar khaDI) svar ke tIna bhedeM meM se ek ; U&cA svar |
+>
+> anudAtta [it shows a picture of akara with an underline here] (nIce ADI
+> lakIr) udAtta kA ulaTA; nIcA svar |
+>
+> svarita [it shows a picture of akara with no accent marks here] (cinharahit)
+> udAtta aur anudAtta ke bIc kA; madhyam svar |
+>
+> Is the naming of the accents in this chanting books introduction an error or
+> is it that WITHIN THE TRADITION OF THE TAITTIRIYA SAMHITA syllables marked
+> by a vertical line above (and chanted as a high note) are called udAtta and
+> unmarked syllables (chanted as a midnote) called svarita?
+>
+> My main interest is not so much the issues about these accents that Wayne
+> Howard discusses on pages 93 to 106 of "Vedic Recitation in Varanasi" i.e.
+> the original meaning of udAtta, anudAtta and svarita, but rather "Today what
+> would a Brahmin priest of the taittiriya samhita school call the accent
+> marked by a vertical line above the syllable and chanted by him as a high
+> note, and what would he call the unmarked syllable chanted by him as a
+> midnote?"
+> In other words "Is the naming of the accents in the introduction of this
+> chanting book an error?"
+>
+> Many thanks in advance,
+>
+>
+> Harry Spier
+> 371 Brickman Rd.
+> Hurleyville, New York
+> USA 12747
+>
+> ______________________________________________________
+> Get Your Private, Free Email at http://www.hotmail.com
+>
+
+
+
+

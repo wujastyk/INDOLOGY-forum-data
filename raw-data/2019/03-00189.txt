@@ -1,0 +1,53 @@
+From jpo at austin.utexas.edu  Tue Mar 19 13:37:29 2019
+From: jpo at austin.utexas.edu (Olivelle, J P)
+Date: Tue, 19 Mar 19 13:37:29 +0000
+Subject: [INDOLOGY] Non-standard sandhi
+In-Reply-To: <58F41D6F-B596-4AD4-AE0F-473709F1F551@austin.utexas.edu>
+Message-ID: <1F0B2575-8B76-4995-A202-3E61CDA4618F@austin.utexas.edu>
+
+I will be out of regular email access March 1?15. I will reply your email as soon as I can.
+
+On Mar 19, 2019, at 8:22 AM, Olivelle, J P via INDOLOGY <indology at list.indology.info> wrote:
+
+I will be out of regular email access March 1?15. I will reply your email as soon as I can.
+
+On Mar 18, 2019, at 2:24 PM, Harry Spier via INDOLOGY <indology at list.indology.info> wrote:
+
+How are avagrahas considered in metrical verses?
+Is --- sahite 'sya --- pronounced as if it was --- sahite sya --- or is there a slight pause for the avagraha?
+
+Harry Spier
+
+On Mon, Mar 18, 2019 at 3:43 AM Martin Gansten via INDOLOGY <indology at list.indology.info> wrote:
+Thanks to Madhav Deshpande, Andrey Klebanov and Harry Spier for their (off-list) replies to my question, confirming that the sandhi e + a > a a is indeed non-standard. Madhav wrote:
+
+I have not seen another example exactly like this, and have not come across a traditional rule to deal with this.  I wonder how hybrid this text is, or whether there are manuscript variants for this particular passage.  One thing I noticed is that if we keep the presumed pre-sandhi reading of "sahite asya," the meter does not work, and neither does it work with the regular sandhi "sahite 'sya."  The meter does seem to work with "sahita asya".  The last syllable of "sahita" needs to be metrically light.  So I suppose some sort of metrical compulsion may have resulted in this irregularity.  Just a thought.
+
+The work in question is a largish one (~550 stanzas) and written in perfectly grammatical, sometimes even elegant Sanskrit in a variety of metres, with no particular suggestion of being hybrid, and the witnesses I have seen (two of the work itself, and half a dozen of another work quoting the verse in question) all agree on the reading of this passage.
+
+Harry raised the same point about the metre (sv?gat?), but it wouldn't be difficult to rephrase the p?da so as to conform to both metre and standard sandhi (e.g., tena v?pi sahite 'sya ca labdhis). So I am left with the impression that Y?davas?ri must have considered his choice of sandhi in this case unproblematic, although he usually follows the stardard rule e + a > e ['].
+
+Thanks again,
+Martin
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190319/1aaa85e3/attachment.htm>
+

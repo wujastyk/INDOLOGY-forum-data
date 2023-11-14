@@ -1,0 +1,110 @@
+From gat4 at columbia.edu  Mon May 20 17:55:44 1996
+From: gat4 at columbia.edu (Gary Tubb)
+Date: Mon, 20 May 96 13:55:44 -0400
+Subject: [Q]jyoti.h'saastra - what is "catarchic"?
+Message-ID: <161227024732.23782.4762682861116802095.generated@prod2.harmonylists.io>
+
+On Sun, 19 May 1996, Birgit Kellner wrote:
+> 
+> [...]
+> To the "shared across several civilizations"-argument: If one and the same
+> body of knowledge is shared across several civilizations, there is no
+> particular reason why one language should be preferable to another. The only
+> reason why one doesn't retain the original Sanskrit is that  not many people
+> in one's readership will be likely to understand Sanskrit. Add to which, I
+> am sure that even an Indological field which is indebted to Greek ancestors
+> has certain peculiarities and idiosyncracies, which would be hidden by a
+> consistent (unexplained) use of Greek terminology. So I can't really see why
+> the history of Jyoti.h'saastra would be different from that of other
+> disciplines, grammar or philosophy. [...]
+
+Although these remarks were made in response to a general question
+raised by Allen Thrasher, some readers might assume that the procedure
+described here---dropping Sanskrit terminology and consistently using
+unexplained Greek terminology---is the one used in the book being
+discussed in this thread, David Pingree's _Jyoti.h'saastra_.  It is not.
+
+In Pingree's book the genres of texts being described are nearly always
+referred to by their Sanskrit names alone, except in the titles of the
+chapters into which his descriptions are organized and in the passages
+explaining the use of those titles.  The chapter titles are in English.
+For the first and last chapter they borrow Sanskrit terms for which
+there is no unambiguous English word.  The titles of the other chapters,
+like most of the technical vocabulary of English, are indeed derived
+from Greek words ("Astronomy," "Mathematics," etc.) or from Latin ones
+("Interrogations," "Divination"), without implying in themselves that
+the things referred to were first spoken of in Greek or in Latin.
+
+In his Introduction, Pingree explains that the types of relevant
+literature clearly identifiable as genres with Sanskrit names have grown
+in number and variety beyond the simple scheme of three broad categories
+named in the ancient list of the three _skandha_s of the tradition.
+Accordingly he has attempted, as he puts it, "to establish a more
+accurate classification of the areas of _jyoti.h'saastra_ actually made
+the subject of independent works," which he has done by grouping them
+according to subject matter.
+
+Somewhat ironically, one of the reasons why this approach proves useful
+is that some of the Indian distinctions have been more historical than
+topical.  For example, the Sanskrit genres of jaataka and taajika differ
+from each other mostly in their origin and vocabulary: the jaataka texts
+were originally based on Greek sources and make extensive use of Greek
+terminology, while the taajika texts are adaptations of Arabic and
+Persian works and make extensive use of Arabic terminology.  But both
+types of texts address the same general subject matter, the casting of
+natal horoscopes.  Pingree groups them together in a single chapter,
+producing a grouping that I think is quite useful in coming to grips
+with the overall corpus of Jyoti.h'saastra texts.  Yet it would be
+unfair to apply the Sanskrit name of either genre to a category
+comprehending them both.
+
+Where the English term is one whose basic meaning is adequately clear
+from everyday use, such as "astronomy" or "mathematics," Pingree has
+used the term fairly frequently in describing the contents of specific
+types of Sanskrit works.  But where it is an obscure term he has been
+careful to use it only in passages introducing the relevant Sanskrit
+genres, and to define the English term when first used.  For example,
+the term "Interrogations," serving as the title of the chapter dealing
+with pra'sna literature, is used in the text of Pingree's book only in
+the first sentence of that chapter, where the term is explained and the
+Sanskrit equivalent is specified.  Everywhere else only the Sanskrit
+term is used.
+
+This thread of discussion was prompted by "Catarchic Astrology," the
+title of the chapter in which Pingree deals not only with the general
+science of determining the proper time for undertaking activities,
+called "muhuurta" in Sanskrit, but also with the more specific texts
+dealing with determining the times for military expeditions ("yaatraa")
+and weddings ("vivaaha").  The latter two enterprises are logically
+simply special applications of the same science, but in the literature
+they tend to be covered in separate treatises---a good example of why
+Pingree has chosen to retain the Sanskrit names for such genres in his
+text while grouping them in chapters for which it is appropriate to
+provide other names.
+
+As far as I know, Pingree has used the term "catarchic astrology" only
+three times in his text.  Takao Hayashi has already noted the passage in
+the chapter on "Catarchic Astrology" where that term is explained and
+equated in general with the science of muhuurta.  The second time it is
+used is in turning to the topic of the subtypes of yaatraa and vivaaha
+in the same chapter.  And the third time is in the opening sentence of
+the next chapter, on "Interrogations," where Pingree looks back to the
+previous grouping and contrasts it with the next:
+
+'' In catarchic astrology the _jyoti.sii_ determines for his client the
+'' moment (_muhuurta_) at which it is most propitious for him to
+'' undertake a specific act;  in interrogations (_pra'sna_) he responds
+'' to a query about some aspect of the client's life on the basis of the
+'' horoscope of the moment of the query.
+
+Here the English terms---which have been used as labels in a scheme
+explicitly presented as Pingree's own arrangement of the mass of genres
+covered---are explained clearly, and in a way that is very far removed
+from anything approaching the abandonment of the received Sanskrit
+terminology.  I feel the result is to provide the reader with a better
+understanding of the Sanskrit names, rather than to supplant them.
+
+
+
+
+

@@ -1,0 +1,49 @@
+From kichenas at s5.math.umn.edu  Wed Oct  5 15:26:20 1994
+From: kichenas at s5.math.umn.edu (Satyanad Kichenassamy)
+Date: Wed, 05 Oct 94 10:26:20 -0500
+Subject: ITRANS for Indic text processing
+Message-ID: <161227017502.23782.183456132062973828.generated@prod2.harmonylists.io>
+
+Regarding D. Wujastyk's information:
+
+	From: dom (Dr.Dominik Wujastyk) <dom%vigyan.ernet.in at vigyan.iisc.ernet.in>
+	To: Members of the list <indology at liverpool.ac.uk>
+	Subject: ITRANS for Indic text processing
+	From: avid.com!achopde
+	To: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+	Subject: WWW site.
+
+[...]
+
+	>Avinash, may I forward your message about Sanskrit texts and WWW/Mosaic
+	>to the INDOLOGY group?  I'm sure nobody there knows about this.
+
+	Yup, you should also point out that even though they could use ITRANS
+	right now, it will be better to wait four months when CS encoding is
+	built-in into ITRANS...
+
+	Since they will probably be interested in Sanskrit only, here is a list
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[...]
+	--
+	Dominik
+
+	 
+I am sure many people would like to know what else is available.
+I have seen ITRANS output for Tamil, and have been told about
+the Bengali version. It would be nice to maintain databases of
+important texts in this format or another, in the spirit of what
+has been done in the University of Koeln.
+
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                kichenas at math.umn.edu
+
+ 
+
+
+
+
+

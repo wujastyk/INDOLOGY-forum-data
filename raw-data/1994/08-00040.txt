@@ -1,0 +1,87 @@
+From ridgeway at blackbox.hacc.washington.edu  Fri Aug 12 17:59:40 1994
+From: ridgeway at blackbox.hacc.washington.edu (Thomas B. Ridgeway)
+Date: Fri, 12 Aug 94 10:59:40 -0700
+Subject: Indic Fonts in Windows
+Message-ID: <161227017066.23782.11532537912098877999.generated@prod2.harmonylists.io>
+
+Good Day to you all,
+  Continuing the extremely uninteresting, to many, subject of
+romanized indic character sets in Windows, I continue to follow
+a point raised by Lance Nelson.  Those uninterested may skip
+the remainder, EXCEPT, those using the HACCIndic fonts for any purpose
+may want to see point (c) below for news of a new font.
+
+Lance wrote:
+> My problem is that WinWord uses the Windows system font in dialogue
+> boxes.  Therefore, both the Find/Replace functions and the Spelling functions
+> don't work properly with the special characters. . . .
+> Would I have the same
+> problems in AmiPro or Word Perfect?
+
+{For the remainder of this discussion 'posted' means made available for
+anonymous ftp in directory pub/indic/outlines on the ftp server
+   blackbox.hacc.washington.edu   [128.95.200.1]
+If you don't understand ftp, find an internet guru at your locality.}
+
+  a) the system font
+     The system font as such is mostly seen in menus and status bars.
+  it can indeed be replaced by an alternate font which might contain an
+  indic character set.  I have posted a freeware utility for preparing
+  an alternate system font: take the file sysfon10.zip, unzip it, read the
+  author's note, and have at it.  IT WOULD BE WISE TO MAKE COPIES OF YOUR
+  WIN.INI AND SYSTEM.INI FILES BEFORE MAKING ANY ALTERATIONS TO YOUR SYSTEM.
+  You may wish to restore the prior state of windows later.
+     Since the system font is not, in general, used in dialog boxes, however,
+  replacing the system font does little to resolve the problem Lance
+  raised, so you may not want to bother.  On the other hand, this may well
+  be the font used by your application to print some messages, e.g.
+  'Could not find the search string "mahaa"!'
+
+  b) many applications use the MS Sans Serif bitmap fonts in dialog boxes.
+  If the supplied_with_Windows_MS_Sans_Serif fonts are replaced by fonts
+  containing an Indic character set which falsely claim to be MS Sans Serif,
+  then most applications will use the substituted fonts and unknowingly
+  provide indic characters (whether you currently happen to 
+  be typing in indic or not).  
+    I have posted two bitmap font sets named sserife.fon and sseriff.fon
+  which are rough (in the case of sserife.fon, very rough) with character
+  sets matching the HACCIndic family.  They may be substituted for the
+  Windows-supplied fonts of the same name AFTER YOU HAVE MADE BACKUP 
+  COPIES OF YOUR ORIGINALS FIRST please (pardon me for shouting).
+  Not all applications use this font so you may not achieve the intended
+  result.  E.g. Microsoft Word for Windows 2.0 does not use the MS 
+  Sans Serif fonts, but rather uses an MS Dialog font which it loads
+  into windows when it starts up, and unloads on quitting.  I don't know
+  what the situation is with WinWord6; perhaps someone who has a copy
+  can tell us. If you have the charmap utility running while WinWord
+  is loaded, running, and then exited, you can observe that charmap's list
+  of fonts originally does not include MS Dialog, then it appears
+  after word is loaded, and disappears after Word is exited (or such
+  is the case with Word2.0).
+    WordPerfect for Windows version 5.2 and 6.0 *do* use these fonts in
+  dialog boxes, so you can actually see the correct indic characters
+  as you type in your search request.  Many other applications will
+  do so also.  
+    I am making these fonts available so that those with a bent toward 
+  experimentation can try them out, tell me what works and what doesn't
+  and perhaps eventually determine whether it would be worth the not
+  inconsiderable effort that would be required to fine tune the bitmaps.
+
+  c) The sserife.fon and sseriff.fon bitmap files are based on a new
+  truetype font with the same character set as the HACC Indic family
+  [which I will hereafter refer to as winindic].  Shakuntala (in file
+  sakuntal.ttf) is a sans serif font based on Nimbus Sans L; it has been
+  posted for ftp.  It may be used freely subject to conditions of the FSF
+  General Public License: see the UPDATES file for details.
+
+cheers,
+Tom
+
+
+
+ 
+
+
+
+
+

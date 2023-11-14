@@ -1,0 +1,76 @@
+From ph2046 at COLUMBIA.EDU  Mon Jun 18 12:34:23 2007
+From: ph2046 at COLUMBIA.EDU (Paul G. Hackett)
+Date: Mon, 18 Jun 07 08:34:23 -0400
+Subject: Finding Indological full-book PDFs on Google Books
+In-Reply-To: <ddf436400706172117r4db95ec2n9d47c8ca34a26954@mail.gmail.com>
+Message-ID: <161227080616.23782.10283569941478894691.generated@prod2.harmonylists.io>
+
+Dear Colleages,
+
+At 2:17 PM +1000 6/18/07, Antonio Ferreira-Jardim wrote:
+>A much better scanned version of Burnouf's "Histoire" is available
+>from the DLI here: http://tinyurl.com/2q88jj
+
+There are are actually several "hosts" for the DLI ("Digital Library 
+of India"):
+
+http://tera-2.ul.cs.cmu.edu/
+http://dli.iiit.ac.in/
+http://www.new.dli.ernet.in/
+http://www.dli.ernet.in/
+etc.
+
+which, to no surprise, are *not* actually mirrored hosts, but rather 
+contain different books, meta-data, interfaces, etc. which 
+*sometimes* overlap in content.  Also, some appear to be up at all 
+times; some appear to go offline from time to time. Moreover, I would 
+point out that the quality of scans varies there as well 
+(inconsistent page sizes, cropped pages, missing or corrupted page 
+images, etc.), and with only individual page image TIFFs (presumably 
+for bandwidth reasons), offers another usability challenge.
+
+   Nonetheless, having spent countless hours scanning books myself, 
+whether individual TIFF images from the DLI or PDFs from Google, I 
+would much rather scan one or two pages to fix an otherwise complete 
+book, than to have to scan the entire book myself.
+
+    I say this because while I think it is easy to find fault with any 
+initiative of this scope, and as a librarian I completely agree with 
+the sentiments expressed thus far about quality control issues and 
+all that, I would, however, *still* defend Google in their 
+enterprise, because I think it's still better than *not* having it, 
+and Google Books, for all it's flaws *is* e-text searchable, and I 
+have already found numerous references to materials that I would have 
+never even known existed, much less been able to locate or access.
+    To give a small example: I have been working for sometime now on 
+issues related to early twentieth century Sikkim/India/Tibet border 
+communities.  By simply performing a keyword search for "Darjeeling" 
+(or "Darjiling" or "Kalimpong" or "Lachen" or "Yatung", etc.) I have 
+located countless memoirs and travelogs of individuals who visited 
+these areas in the late nineteenth & early twentieth century and 
+whose accounts of places and individuals I would have never found 
+through conventional means.  This fact alone makes Google Books and 
+invaluable resource for me.
+
+    Similarly, if you explore the DLI, you will find an unbelievably 
+large quantity of scanned Sanskrit books.  A few years ago I began 
+working with some of the engineers at ABBYY and have been training 
+Abbyy FineReader to do OCR for Devanagari.  For me, despite their 
+flaws, the DLI page images have been yet another very convenient 
+resource for training the recognition engine, above and beyond just 
+having the content available.  The fact that Oliver Hellwig has 
+created a Devanagari OCR program (which I look forward to testing) 
+offers yet another reason to celebrate an abundance of such data 
+given the potential for rendering all of those materials e-text 
+searchable as well.
+
+Perhaps I'm belaboring the obvious, but I would just like to plead 
+for some "perspective" here, even if Google or DLI or anyone else 
+doesn't actually hit the mark of perfection in their efforts.
+
+Paul Hackett
+Columbia University
+
+
+
+

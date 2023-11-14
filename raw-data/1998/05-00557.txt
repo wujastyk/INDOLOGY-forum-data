@@ -1,0 +1,42 @@
+From mcv at WXS.NL  Tue May 26 09:34:55 1998
+From: mcv at WXS.NL (Miguel Carrasquer Vidal)
+Date: Tue, 26 May 98 09:34:55 +0000
+Subject: Sarasvati (texts & arch.III)
+In-Reply-To: <356A8FA2.357F@rug.ac.be>
+Message-ID: <161227039173.23782.16102359146588436796.generated@prod2.harmonylists.io>
+
+Erik Seldeslachts <erik.seldeslachts at RUG.AC.BE> wrote:
+
+>I think it is not only wrong to consider the language preserved in the
+>Near-Eastern documents as IIr in stead of IA, but also there is no
+>conclusive evidence to state it is pre-Vedic. One could as well argue that
+>this language conserves some archaic features but on the whole presents a
+>transitional phase between Old-Indo-Aryan and Middle-Indo-Aryan: e.g.
+>satta(-vartanna) : MIA satta- 'seven', with assimilation of the consonant
+>cluster in OIA sapta-; Indara, with typical MIA vowel-epenthesis to resolve
+>the consonant cluster in OIA Indra-; Bardashva : Skt VRdhAZva-, with
+>evolution of initial v- to b-; etc.
+
+Don't forget that these words have come to us in cuneiform (syllabic)
+writing.  Indra or Indara would both have been written indifferently
+as IN-DA-RA, so we can infer nothing from that.  *sapta > satta is so
+trivial and common a change, that not much can be concluded from it
+either.  I'm not familiar with the name (?) Bardashva, but Kikkuli's
+treatise contains the forms -wartanna "turn" and wasanna "horse
+training area, stadium", with v- rendered as w-.  Gamq'relidze and
+Ivanov in their "Indoevropejskij jazyk i indoevropejcy" conclude,
+based i.a. on that word wasanna (Iranian *wazana "road") that the
+Aryan layer in Mitanni is closer to Iranian than Indo-Aryan.  A
+somewhat provocative conclusion, to be sure, but I'd say the
+linguistical basis for considering it specifically Indo-Aryan (aika-)
+is equally shaky.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+
+

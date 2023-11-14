@@ -1,0 +1,86 @@
+From LubinT at wlu.edu  Tue May 11 15:12:03 2021
+From: LubinT at wlu.edu (Lubin, Tim)
+Date: Tue, 11 May 2021 15:12:03 +0000
+Subject: [INDOLOGY] The Buddhist term sutta
+In-Reply-To: <6E36668F-FB96-4343-8753-C88A10BDCDF2@wlu.edu>
+References: <92BD55D3-AC74-45FC-B352-D453528F15DC@comcast.net>
+ <CAANHO14XkrHHzQ=TiQSBhPB5ORS1Q8dNdg3m9TDSTpD6aJdWTg@mail.gmail.com>
+ <24EF1A7D-E179-4A9A-A8FA-D6F225051DA4@wlu.edu>
+ <1A881400-2BCA-4FA0-959B-B3C44187E06A@bristol.ac.uk>
+ <1B15B525-8CC4-4797-8A34-07C4F9BF42C8@wlu.edu> <875yzp1h4l.fsf@lmu.de>
+ <6E36668F-FB96-4343-8753-C88A10BDCDF2@wlu.edu>
+Message-ID: <2B239AB2-CE1C-4254-AAE8-BDBF70A65C60@wlu.edu>
+
+I mistyped the first part of my last comment.  I know there are plenty of attestations of sutta = literal ?thread?.  I meant to ask, re Stefan?s suggestion:
+
+? but is there any unambiguous attestation of such a doublet sutta with the meaning s?kta/suvutta, e.g., in a context not referring to scripture?
+
+TL
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of "Lubin, Tim" <LubinT at wlu.edu>
+Date: Tuesday, May 11, 2021 at 10:55 AM
+To: Stefan Baums <baums at lmu.de>, INDOLOGY <indology at list.indology.info>
+Subject: Re: [INDOLOGY] The Buddhist term sutta
+
+Well said, Stefan ;-) but is there any unambiguous attestation of such a doublet sutta with the meaning thread, e.g., not referring to scripture?
+
+Re Aleksandar?s remark:
+One benefit of reading sutta as s?kta is that it is no longer mysterious why Brahmanical s?tras are so economical and Buddhist having so much repetition. Later Brahmanical definitions all associate s?tra with being short and having few worlds and syllables.
+If we recall that the oldest ritual s?tra in Sanskrit, Baudh?yana ?rautas?tra, while showing other structural features of Brahmanical s?tras, does not show the concision of expression that becomes so characteristic, so that feature may not be intrinsic to the format, but rather a development with Brahmanical circles, perhaps influenced by the P??inian model.
+
+TL
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Stefan Baums <baums at lmu.de>
+Date: Tuesday, May 11, 2021 at 10:26 AM
+To: INDOLOGY <indology at list.indology.info>
+Subject: Re: [INDOLOGY] The Buddhist term sutta
+
+Dear Tim,
+
+But this is not really much to support sutta < s?kta, since the
+regular P?li form parallel to s?kta includes the glide -v-
+
+yes, in the intentionally transparent formation used in the
+nibbacana you cite, but maybe that does not on its own exclude an
+opaque doublet sutta < s?kta.
+
+On the other hand, in the first century CE in G?ndh?r? (the only
+MIA language that in principle preserved the contrast between OIA
+kt and tr), the word is consistently spelled sutra- and always
+means ?canonical Buddhist text? (for some value of ?canonical?),
+and in some third/fourth-century secular documents it refers to
+literal thread or rope:
+
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fdictionary%2Fsutra&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933199834%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=fwU%2B2QJp3CEEvUj1Dg3bskEMOidsq49eWypQ8F2CIik%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fdictionary%2Fsutra&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177461486%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=oHmgKrCGyXsFtbyeiRl5wMCzjFeYJCkeH1F8bErzTT0%3D&reserved=0>
+
+There are no discussions about the meaning or etymology of the
+word in what we have of that tradition, but it contrasts with
+nide?a- ?explanation? in a set of commentaries:
+
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0004&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933199834%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=qfbGrQ06IXGr97CbEH%2FKhfWVRAiz4pU%2FZ7pktKOJuqE%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0004&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177471482%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=K%2F0Dyw7mtFKztoBXxynAsgF1ps8JGP%2BvIr8cb1TRfpw%3D&reserved=0>
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0009&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933209830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=8lsbkkaut1wM9yolruiQqudcok2aM8TVGCR3TOGxAdk%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0009&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177471482%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ceVWOznIDPSZydafFTtFHCzACFl7k51Hxf%2FKc2EAQLI%3D&reserved=0>
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0011&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933209830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=gAP0rO61htQg0TNoRhNRh%2Fs3RSwptumtWp9chJqlPAM%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0011&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177481474%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Qx7bNh9UbL52lxXG%2FzCi1zw%2B955Djzoubb40ib7BYlU%3D&reserved=0>
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0015&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933209830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=pEBpC23YbFAjddmfCTKuFpBjroOXUtjz2bTDtGQNklw%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0015&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177491473%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=pg7OIW5JW3%2FzELUD%2FjPh9vfzQYtXzZBHX5BOm5jdDQw%3D&reserved=0>
+   https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0020&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933209830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=Uq1PKo51kaFSUvC81ftrA4o3bVpFuk03sUTdfzZupgw%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgandhari.org%2Fcorpus%2Fckm0020&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177491473%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=4bJQWF3erWXTuzpUgeHyOj7Q%2Fj4DyOE2IK1cvoW%2FP78%3D&reserved=0>
+
+Neither the Pali nor the G?ndh?r? evidence rules out
+reinterpretations in the first four hundred years of the Buddhist
+tradition, of course, and Buddhaghosa?s passage may preserve an
+echo.
+
+All best,
+Stefan
+
+--
+Stefan Baums, Ph.D.
+Institut f?r Indologie und Tibetologie
+Ludwig?Maximilians?Universit?t M?nchen
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&amp;data=04%7C01%7Clubint%40wlu.edu%7Cf14c399ccd6e4270c62308d91488c4dd%7Cd1a80622a99943e58eb67873905e939e%7C1%7C1%7C637563399933209830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LLkknl0%2Brrc77KbJI0t1MglObYJoNhVWCeyKS6O6UpE%3D&amp;reserved=0<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=04%7C01%7Clubint%40wlu.edu%7Cc39afdba113f4fbcca4d08d9148cc9b8%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637563417177501462%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=0HE6WuEHCEdo2uUAhe3udCNdiivcRmZzahbGCShohSc%3D&reserved=0>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210511/8e56aa46/attachment.htm>
+

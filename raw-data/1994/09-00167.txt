@@ -1,0 +1,31 @@
+From ami01 at rs1.rrz.Uni-Koeln.DE  Fri Sep 23 17:10:41 1994
+From: ami01 at rs1.rrz.Uni-Koeln.DE (Thomas Malten)
+Date: Fri, 23 Sep 94 18:10:41 +0100
+Subject: List of village names in Tamilnadu
+Message-ID: <161227017415.23782.9364426352492533610.generated@prod2.harmonylists.io>
+
+
+
+The Institute of Indology & Tamil Studies, Cologne University, Germany
+has released a WAIS database containing > 22,000 names of villages in TN
+together with district and taluk on their gopher at
+linus.informatik.uni-koeln.de
+in the directory "Tamilnadu Geographical Names Server/"
+The place names are given both in English and Tamil as used officially.
+Corrections and additions are welcome.
+
+
+-Thomas Malten
+------------------------------------------------------------------------------
+Institute of Indology and Tamil Studies, Pohligstr.1, 50969 Koeln, Germany
+Tel 0221/4705340 Fax 0221/4705151 email ami01 at rrz.uni-koeln.de
+-------------------------------------------------------------------------------
+
+
+ 
+ 
+
+
+
+
+

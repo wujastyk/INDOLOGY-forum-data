@@ -1,0 +1,51 @@
+From vidynath at MATH.OHIO-STATE.EDU  Thu Jul  9 14:01:31 1998
+From: vidynath at MATH.OHIO-STATE.EDU (Vidhyanath Rao)
+Date: Thu, 09 Jul 98 10:01:31 -0400
+Subject: Fortunatov's Law and tolkAppiyar's rules
+Message-ID: <161227040685.23782.10184331279928404266.generated@prod2.harmonylists.io>
+
+> There is no need for doubling of _t or T all the time. In fact, I had shown
+> examples where the doubling does not occur. They were:
+> iyal + tEr > iya_tEr,  nAL + tO_tum > nATO_tum
+>
+> Moreover, from the point of view of pronunciation, Sanskrit intervocalic -T-
+> is closer to Tamil -TT- than Tamil intervocalic -T- which is closer to
+> Sanskrit -D-.
+
+I am unable to look at comprehensive lists of Sanskrit borrowings
+from Dravidian at the moment (because the sources are far away or
+checked out of the library). I would appreciate it if someone can
+tell me if this implication are justified by such borrowings. [Because
+Prakrits voice intervocalic stops, borrowing in reverse are not conclusive.
+Learned borrowings are affected by writing and so I don't want use
+them. to claim that Tamil _t_t/.t.t cannot be borrowed as just .t.]
+
+> [...] But  there is an important difference
+> between these consonants and t. k, c, and p remain as they are. But t changes
+> either into _t or T.
+
+This can be split into two rules: (1) l=>_t and L=>.t before stops and
+(2) retroflexes absorb dentals and alveolars, and alveolars absorb
+dentals. (2) is needed for nasals anyway: ka.n + niir => ka.n.niir.
+(2) applies to IA also, but (1) does not, except for the strange fact
+that lt/ld are missing except for one occurance. [t+l and n+l do
+occur in Sanskrit where they become ll and nasalized l+l.]
+It is this difference that needs to be explained.
+
+Regards
+-Nath
+
+
+
+
+ That is why tolkAppiyar gave special rules 1.150 and
+> 1.151 to deal with the dentals. So, there is a qualitative difference between
+> other hard consonants and t in the beginning of the second word.
+>
+> Regards
+> S. Palaniappan
+>
+
+
+
+

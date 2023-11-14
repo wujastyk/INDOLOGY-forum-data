@@ -1,0 +1,32 @@
+From NKATZ at CFRVM.EARN  Fri Mar 26 16:34:04 1993
+From: NKATZ at CFRVM.EARN (Nathan Katz, University of South Florida)
+Date: Fri, 26 Mar 93 11:34:04 -0500
+Subject: Undelivered mail
+Message-ID: <161227015749.23782.2831932534588932944.generated@prod2.harmonylists.io>
+
+*** Resending note of 03/26/93 11:22
+Received: by CFRVM (Mailer R2.08 PTF008) id 9317; Fri, 26 Mar 93 11:22:19 EST
+Date: Fri, 26 Mar 93 11:22:18 EST
+From: Network Mailer <MAILER at CFRVM>
+To: <NKATZ at CFRVM>
+ 
+Your mail was not delivered to some or all of its
+intended recipients for the following reason(s):
+ 
+RSCS rejected mail w/tag: CMSNAMES INDOLOG.... Is the hostname misspelled?
+ 
+--------------------RETURNED MAIL FILE--------------------
+Received: by CFRVM (Mailer R2.08 PTF008) id 9316; Fri, 26 Mar 93 11:22:18 EST
+Received: from CFRVM (NKATZ) by CFRVM.CFR.USF.EDU (Mailer R2.08 PTF008) with
+ BSMTP id 9314; Fri, 26 Mar 93 11:22:16 EST
+Comments:     Converted from OfficeVision to RFC822 by PUMP V2.2X
+Date:         Fri, 26 Mar 93  11:21:55 EST
+From:         "Nathan Katz, University of South Florida" <NKATZ at CFRVM>
+X-Prolog:     Bitnet: NKATZ at CFRVM  Internet: NKATZ at CFRVM.CFR.USF.EDU
+Subject:      book notice
+To:           <indology at cmsnames>
+ 
+ 
+Nathan Katz and Ellen S. Goldberg, THE LAST JEWS OF COCHIN: JEWISH IDENTITY IN
+HINDU INDIA, University of South Carolina Press, 1993.
+ 

@@ -1,0 +1,102 @@
+From fo8z003 at PUBLIC.UNI-HAMBURG.DE  Fri Aug 13 05:56:19 1999
+From: fo8z003 at PUBLIC.UNI-HAMBURG.DE (Ashok Aklujkar)
+Date: Fri, 13 Aug 99 06:56:19 +0100
+Subject: Transmitting files with diacritics
+In-Reply-To: <37B23FEB.B00E9F23@execpc.com>
+Message-ID: <161227051518.23782.7314370523275286043.generated@prod2.harmonylists.io>
+
+In an attachment to a recent message to Indology, the following helpful
+statement was made: >The only font characters that can be relied upon to
+always display correctly are the 62 simple Roman characters and the 10
+digits. In spite of all the magnificent electronic technology available and
+all the work done by international standards groups, the other characters,
+especially the upper 128 are subject to a wide range of "interpretation" by
+virtually all available software. The font as it appears on your screen
+will be influenced by the version of your word processor, the version and
+type of operating system, the country code pages in use, and various other
+factors.<
+
+Being loath to correcting someone's retyping of my computer-printed
+(usually complex) research articles, I have been using the system given
+below for the last few months to send my articles for publication. It does
+not solve every problem, but it does reduce the work on the clerical side
+of publication considerably and, when I get the proofs of my piece as a
+hard copy, I have to do very little correcting, if any, unless my original
+contained mistakes.
+
+Sequence:
+(1) You type your journal contribution in your own font with all the
+diacritics using the keyboard layout you are used to.
+(2) After your text has reached the final form you change the characters
+with diacritical marks globally and matching the case (upper case, lower
+case etc.) to 'letter + number' pairs according to the scheme given below.
+(3) The file is sent in this changed form either on a disk or as an e-mail
+attachment. If the person doing the reconversion on the other side is
+unfamiliar with the language, a copy of your printout is also sent to guide
+him or her.
+(4) The other side replaces the 'letter plus number' pairs according to its
+keyboard layout for characters with diacritical marks, globally and
+matching the upper and lower cases.
+(5) It does whatever minor reformatting, checking or editing that may be
+necessary and sends you a printout as proofs.
+
+I know nothing about computer programming. I developed the scheme simply as
+a practical solution that could be used until a universally accepted ideal
+solution is developed. (If you believe that an ideal universal solution
+will be developed soon, you will also believe that all car manufacturers
+will soon standardize car sizes and sizes of all spare parts in the
+interest of eliminating polution that is caused models and spare parts
+discarded because of minor differences in sizes.) It is not terribly
+inadequate and saves much work as far as indological writing with
+diacritical marks is concerned, although for special purposes (e.g. texts
+with accents or files that contain profuse use of letters followed by
+numbers) a few 'buffers' may have to be introduced to block global changes
+from producing unwanted results. One can easily do that by inserting
+periods, commas etc. between a letter and a number following it. However,
+even without such devices the present scheme saves much work for the
+publisher and the author.
+
+-- ashok aklujkar
+
+
+Ashok Aklujkar's system for indicating diacritics through the use of numbers.
+
+The same principles apply to noncapital (or small) letters and the capital
+letters.
+
+Replace globally as far as possible.
+
+While replacing, remember to tick "match case" in the "Change" dialogue box
+(your computer may have different wordings for these.)
+
+a1      =  long a; similarly for "i1", "u1," etc. Thus, number 1  stands
+for the macron or bar on top of a vowel and indicates greater length.
+
+r2      = vowel r (usually pronounced as ri or ru). Thus, 2 indicates that
+a dot should appear below the preceding letter . Similarly, "l2",
+"h2(visarga)", "t2" ,  "d2," "n2,"  "s2" (retroflex sounds).
+For the aspirate retroflexes this will not pose a problem, since "t", "d"
+etc. will be changed first.
+
+Note that the long vowel/vocalic r will look "r21". Therefore, its
+conversion to r carrying a diacritical mark should be carried out first by
+using "21". Since its occurrence is very rare, this may be done
+non-globally.
+
+m3      = anusvara
+n3      = nasal consonant at the end of the ka-class/series
+s3      = palatal s, the one which is usually indicated by an acute accent
+on top of s.
+Thus, 3 indicates most top marks such as dot and acute accent used to
+indicate nasal off-glide, nasality and palatal nature.
+
+n4      = nasal consonant at the end of the ca-class/series, tilde
+
+Q5      = single quotation mark that appears on the right of the quoted
+part. And APOSTROPHE (the latter used for avagraha). The latter situation
+will not be common. So, change it first non-globally, if necessary.
+Q6      = double quotation mark that appears on the right of the quoted part.
+
+
+
+

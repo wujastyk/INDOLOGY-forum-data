@@ -1,0 +1,48 @@
+From jds10 at cus.cam.ac.uk  Fri Mar  7 10:05:57 1997
+From: jds10 at cus.cam.ac.uk (John Smith)
+Date: Fri, 07 Mar 97 10:05:57 +0000
+Subject: Virtual TeX fonts for CSX
+Message-ID: <161227028822.23782.14489707548823357872.generated@prod2.harmonylists.io>
+
+I have built (or rather I have written a program to build) virtual TeX
+fonts implementing the CSX character set for various popular fonts, and
+placed these on my FTP server bombay.oriental.cam.ac.uk. They are in the
+directory /pub/john/software/fonts/csx_fonts, and the following virtual
+fonts are available: 
+
+(1) Computer Modern (Roman, Italic, Slanted and Bold text fonts in the
+    standard sizes);
+
+(2) the four standard versions (Roman, Italic/Oblique, Bold, BoldItalic/
+    BoldOblique) of each of the following PostScript fonts: Times,
+    Helvetica, Courier, Palatino, New Century Schoolbook.
+
+The program which creates the virtual fonts is also available under the
+name csxvpl in the directory /pub/john/software/programs. However, if
+anyone finds it difficult to use (for example, by reason of not having
+Perl 5 on his/her system), I would probably be willing to meet any
+reasonable request to create new virtual fonts. 
+
+To use such a font it is necessary merely to copy the .tfm and the .vf
+file to the directories where TeX and its friends expect to see such
+things (this will vary from system to system). One can then say
+
+ \font \myfont = cmr_csx10 % (or ptmr at 11 pt, or whatever)
+ \myfont
+
+and then type in CSX text.
+
+To reach these fonts via the World Wide Web, connect to the URL quoted
+below and follow the "fonts" link.
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+
+
+

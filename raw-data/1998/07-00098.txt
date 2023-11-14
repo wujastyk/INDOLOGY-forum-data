@@ -1,0 +1,134 @@
+From emstern at NNI.COM  Wed Jul  8 15:23:47 1998
+From: emstern at NNI.COM (Elliot Stern)
+Date: Wed, 08 Jul 98 11:23:47 -0400
+Subject: Sanskrit
+Message-ID: <161227040661.23782.11621274047903093968.generated@prod2.harmonylists.io>
+
+I (Elliot) was paying uneven attention to this thread, and missed the
+following exchange between Jacob Baltuch and Sandra van der Geer
+completely. Soon after, Jacob asked me offlist to interpret three Sanskrit
+utterances. These utterances, and my reply (with a brief new note), may be
+found after the line of asterisks below.
+
+Jacob Baltuch wrote:
+
+>Regarding your Sanskrit example: if pushed I would have probably guessed
+>that Sanskrit does not allow indirect objects to be raised to subject,
+>since I'd never have thought of the passive of the *causative*, but you
+>make an ingenious use of it, although it is not completely clear to me.
+
+>1) rAmo nalAya pustaka.m dadAti
+>2) rAme.na nalAya pustaka.m dIyate
+>3) nalo rAme.na pustaka.m dApyate
+
+>I'd always thought the meaning of (3) was "N. is made to give a book by R."
+>(passive of "raamaH naalaM pustakaM daapayati" or "raamaH naaleNa pustakaM
+>daapayati", i.e. "R. makes/has N. give a book").
+>But "nalo raameNa pustakaM daapyate" in the meaning of "N. is given a book
+>by R." with the crucial raising of the indirect object to the subject position
+>entirely stumps me.
+
+Sandra van der Geer replied (Sat, 4 Jul 1998 22:07:45)
+
+>I do not know if you understand Dutch (I see you have .BE as country
+>code), but >maybe you understand 3) if I say
+
+>1) rama geeft nala een boek
+>rama - gives - nala - a book
+>2) een boek wordt door rama aan nala gegeven
+>a book - is - by rama - to nala - given
+>3) nala is een boek gegeven geworden (door rama) / gegeven doen worden
+>nala - is - a book - been given (by rama) / given cause to be
+
+>Here, the idea of dative-like subject is felt.
+
+It seems to me (Elliot) that Sandra seeks to stretch the meaning of
+*daapyate* by playing with some possibilities of the Dutch language (this
+play is I think also possible in English). In this way, she allows
+*daapyate* "has been caused to give" to lose its causative sense, and she
+finds raising of the indirect object to the subject position, etc. I think
+it is fair to say that the aSTaadhyaayii would have given rules allowing
+such an interpretation, and paaNini's commentators would have provided such
+an interpretation if it were possible in the Sanskrit language. They
+evidently knew the language quite well, and they were quite thorough in
+discussing kaarakaaNi and the use of the various "case endings". Please
+consider the interpretation offered below.
+
+********************************************************************************
+
+In his offlist query, Jacob asked me (Elliot) to consider these three
+utterances:
+
+>  na kaz cid indraayudhaM darzyate
+>  daaso bhaaraM haaryate
+>  raamaH pustakaM daapyate
+
+I (Elliot) replied offlist:
+
+The meaning of these utterances becomes clearer when we follow the lead of
+the vyaakaraNa scholars, and other commentators, by providing equivalent
+active voice paraphrases for them. They do not, by the way, make or notice
+any semantic distinction between the active and passive voice expressions
+(this is why I have sometimes given alternative English renderings in
+various constructions - the translator needs to decide on the appropriate
+rendering in English, German, Dutch, Lakota or whatever language for a
+given text in a given context ).  As a shortcut, I am relying here on Vaman
+Shivaram Apte's *The Student Guide to Sanskrit Composition* on the use of
+the accusative, etc. with the causal verb, pp. 28-33. He gives some
+references to sources in a.s.taadhyaayii, mahaabhaa.syam,
+siddhaantakaumudii.
+
+"na kazcid indraayudhaM darzyate" should be equivalent to "na kaJcid
+indraayudham darzayati" "he does not show the rainbow to anybody".
+
+"daaso bhaaraM haaryate" should be equivalent to the "daasaM (daasena vaa)
+bhaaraM haarayati" "he  has the servant carry the luggage".
+
+"raamaH pustakaM daapyate" should be equivalent to "raamaM pustakaM
+daapayati" "he makes R. give the book".
+
+Thus "daaso bhaaraM haaryate" may be translated "the servant is made to
+carry the luggage". It does *not* mean "the servant is carried the luggage
+to" (which I understand to mean "the servant is carried to the luggage"
+daaso bhaaraM prati hriyate). "raamaH pustakaM daapyate" may be translated
+"R. is made to give the book". It does *not* mean "R. is given a book"
+(ramaaya raamasya vaa pustakaM diiyate).
+
+Let us now look at the Sanskrit examples Sandra van der Geer
+provided (in a message Re: Sanskrit Fri, 3 Jul 1998 09:37:14 +0200)
+
+1) rAmo nalAya pustaka.m dadAti
+2) rAme.na nalAya pustaka.m dIyate
+3) nalo rAme.na pustaka.m dApyate
+
+1) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
+book by R.".
+2) means "R. gives N. a book"/"A book is given to N. by R."/"N. is given a
+book by R.".
+3) does not mean the same thing as 1) and 2). I believe it should be
+paraphrased as "raamo nalaM pustakaM daapayati", and mean "R. makes N. give
+a book"/"N. is made by R. to give a book" (N.B., if Apte explains an
+utterance like this, I missed it. So be cautioned that the source of this
+interpretation (Elliot) is a lesser, and fallible, authority!)*
+
+If Sandra meant that 3) is semantically equivalent to 1) and 2), I too
+would like to know how that can be so.
+
+Elliot
+
+________________________________________________________________________________
+
+* Clarification (for Indology list posting): I should have begun this
+parenthetical disclaimer (N.B., if Apte explains an utterance exactly like
+this,...
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+telephone: 215 747 6204
+
+
+
+

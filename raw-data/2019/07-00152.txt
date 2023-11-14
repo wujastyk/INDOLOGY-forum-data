@@ -1,0 +1,54 @@
+From krishnaprasadah.g at gmail.com  Wed Jul 31 04:36:13 2019
+From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
+Date: Wed, 31 Jul 19 10:06:13 +0530
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_Fwd:_Font_for_sanskrit/p=C4=81li?=
+In-Reply-To: <CALNcvFszpvZHCDA7-+Ry3vy6dUw65W4hd=Wm3Yp33L_nSGEpAQ@mail.gmail.com>
+Message-ID: <CAODNnZjW2yhq3_jepO+=riGE9JMUDwji5wjUnYyTPUSFnNnybg@mail.gmail.com>
+
+Charis SIL
+
+On Wed, Jul 31, 2019, 9:45 AM Artur Karp via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Calibri,
+>
+> Best,
+> Artur
+>
+> ?r., 31 lip 2019 o 04:23 Dominik Wujastyk via INDOLOGY <
+> indology at list.indology.info> napisa?(a):
+>
+>> The Brill font has many virtues, but it isn't free for general use.  Only
+>> on your own computer.  If you want to publish something, you have to ask
+>> Brill's permission.  Same with the Murty fonts.
+>>
+>> The rendering of macrons etc. could be a font issue, but it could also be
+>> a limitation of the text composition software being used.
+>>
+>> Try TeX Gyre Pagella?  Or Libertinus Serif?  Both free and excellent.
+>>
+>> Best,
+>> Dominik
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190731/8943239f/attachment.htm>
+

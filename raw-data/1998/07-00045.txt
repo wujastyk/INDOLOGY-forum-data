@@ -1,0 +1,30 @@
+From info at TICONSOLE.NL  Sat Jul  4 19:54:24 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Sat, 04 Jul 98 21:54:24 +0200
+Subject: Sanskrit
+Message-ID: <161227040539.23782.5233886526234759716.generated@prod2.harmonylists.io>
+
+Luis Gonzalez-Reimann informed me
+
+>Whenever I receive one of your postings to the Indology list it comes with
+>an attachment.  I would imagine the same to be true for all subscribers.
+>Could this be avoided?
+
+But how? Does anybody know why there are attachments to my postings? I do not attach anything actively. I work on a NT Windows server, with the Windows Messaging. I write my postings with the Compose command (Reply to Sender), then I send it to outbox, and from there to the server. The attachment may be of the following character
+
+Attachment Converted: C:\NETWORK\EUDORA\ReSansk3
+
+Strange enough, when I receive my own posting from the indology server, no such attachment is seen! WHO does receive the confusion attachment, and WHICH specifications does his machine? If it is machine dependent at least.
+
+Sandra van der Geer
+
+(apologize in advance if an attachment is shown to this posting!)
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 1740 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19980704/6b5c722c/attachment.bin>
+

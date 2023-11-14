@@ -1,0 +1,52 @@
+From hhhock at illinois.edu  Wed Nov 13 21:55:35 2013
+From: hhhock at illinois.edu (Hock, Hans Henrich)
+Date: Wed, 13 Nov 13 21:55:35 +0000
+Subject: [INDOLOGY] Devanagari keyboard
+In-Reply-To: <82C3E42590D939418C74DD76B97DDED07F8BC1@xm-mbx-04-prod.ad.uchicago.edu>
+Message-ID: <AC812FE0-B5C8-4BC9-AE70-1142A5DBB98C@illinois.edu>
+
+Does this work on the Mac version of Word? Where would I find the Word keyboard?
+
+Still puzzled,
+
+Hans
+
+
+Hans Henrich Hock
+
+
+
+
+
+
+On 13 Nov 2013, at 15:03, Matthew Kapstein wrote:
+
+Thanks, everyone, for your input (no pun intended) on this.
+
+Though nothing so far has revealed a perfect fix for devanagari in MS-Word, the
+hint about the "f" led me to try the virama in the microsoft devanagari keyboard,
+which is the "d". This worked perfectly. Thus, to type ?????, one just has to type k + d + l + d + /.
+Easy enough, but perhaps not so intuitive. In any event, it does indeed seem possible to
+type Sanskrit devanagari in Word without the conjuncts falling apart.
+
+Matthew
+
+Matthew Kapstein
+Directeur d'?tudes,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131113/3cfc46a4/attachment.htm>
+

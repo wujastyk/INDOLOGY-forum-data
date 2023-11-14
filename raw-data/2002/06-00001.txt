@@ -1,0 +1,35 @@
+From ucgadkw at UCL.AC.UK  Sat Jun  1 18:07:30 2002
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Sat, 01 Jun 02 19:07:30 +0100
+Subject: Advanced notice: change of INDOLOGY website address
+Message-ID: <161227071062.23782.14940687203955488643.generated@prod2.harmonylists.io>
+
+I was informed two days ago that as of August 2002, the website addresses
+for personal accounts at my college, UCL, will be changing from
+  www.ucl.ac.uk/~userid
+to
+  www.homepages.ucl.ac.uk/~userid
+
+This change has already been implemented, and at present, both addresses
+work.  If you try
+
+  http://www.homepages.ucl.ac.uk/~ucgadkw/indology.html
+
+you will find the INDOLOGY page.
+
+
+The website address
+
+  http://www.indology.org.uk
+
+will continue to work as normal. It will shortly be updated to redirect to
+the new "homepages" address.
+
+Please inform me of any difficulties or dead links.
+
+--
+Dominik Wujastyk
+
+
+
+

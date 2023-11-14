@@ -1,0 +1,58 @@
+From g.v.simson at EAST.UIO.NO  Mon Jul 13 09:43:26 1998
+From: g.v.simson at EAST.UIO.NO (Georg von Simson)
+Date: Mon, 13 Jul 98 11:43:26 +0200
+Subject: Turtles in Vedic Sacrifice and the Dravidian concept of              sacrifice
+In-Reply-To: <9e373ac7.35a8375b@aol.com>
+Message-ID: <161227040825.23782.14655911987609437938.generated@prod2.harmonylists.io>
+
+S. Palaniappan wrote:
+
+>In a CT poem, the longing of hero's heart for the company of his beloved is
+>compared to the desire of the turtle in/near the vedic sacrificial pit with
+>rising fire, for the pond with (cool) shade.
+>
+>kariyA pUvin2 periyOr Ara
+>azal ezu tittiyam aTutta yAmai
+>nizal uTai neTu kayam pukal vETTAGku
+>uLLutal Ompumati in2i nI muL eyiRRu
+>cil mozi arivai tOLE pal malai
+>vevvaRai marugkin2 viyan2 curam
+>evvam kUra iRantan2am yAmE              (akanAn2URu 361.10-16)
+>
+>The word used for the vedic sacrificial pit is "tittiyam". Can anybody tell me
+>the corresponding Sanskrit word?
+>
+and:
+
+> It looks as if the CT usage "tittiyam", a vedic fire,  might refer to
+>Sanskrit
+>"dhiSNya" which also has a variant form "dhiSTya" according to Monier
+> Williams. But the loan phonology has a problem. If the Tamil word was
+> borrowed
+> directly from the Sanskrit form with retroflex "-ST-", in Tamil we should
+>> have
+> -TT- and not -tt- as we do in "tittiyam". So the source of the Tamil word
+> could not have had retroflexion. Is "dhiSNya" ever referred to in Pali or
+> Prakrit as "dhittya" or "dhittiya"? If Pali or Prakrit does not have the form
+> with dental, could the original form of "dhiSNya" before retroflexion be
+> "dhisnya" or "dhistya"?
+
+"tittiyam" looks to me rather like derived from a Prakrit form "titthiya"
+from skt. "tIrthika", derived from "tIrtha"; see Apte, Skt.-Engl. Dict.,
+s.v. tIrtham, 20: "(in liturgical language) The path to the altar between
+the cAtvAla and the utkara." In Pali, you find "tittika" in the expression
+"samatittika" ("brimful", of a river); the word is also written "-titthika"
+which is clearly derived from "tIrtha". The loss of the aspiration in Pali
+might be due to Dravidian influence? The word appears also in Vinaya texts,
+both in Pali and Sanskrit, see Edgerton, Buddh. Hybrid Skt Dict., s.v.
+samatIrthika. In the PrAtimokSasUtra of the SarvAstivAdins I meet (in just
+one ms.) the form "samatittik(am)" which I translate (following Edgerton):
+"(the alms bowl filled) with food to the brim".
+
+Regards,
+
+   Georg v.Simson
+
+
+
+

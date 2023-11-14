@@ -1,0 +1,24 @@
+From asher at maroon.tc.umn.edu  Mon Nov 28 17:07:27 1994
+From: asher at maroon.tc.umn.edu (Frederick M Asher)
+Date: Mon, 28 Nov 94 11:07:27 -0600
+Subject: Help on using Binhex4.0
+Message-ID: <161227017911.23782.14259242058032738350.generated@prod2.harmonylists.io>
+
+ appointment.  I'm generally here 8-6.  Rick Asher
+
+On Tue, 22 Nov 1994, Madhav Desh  Anyone who answers the phone can 
+schedule the appointment. pande wrote:
+
+> 	I downloaded the first of the Mahabharata files from Washington 
+> FTP site.  Then I tried unbinhexing it.  The second step did not work.  
+> Could some Binhex Guru tell me how to use the Binhex4.0 program?  Its 
+> menus are not terribly obvious to common humans like me.  Thanks.
+> 	Madhav Deshpande
+>  
+> 
+ 
+
+
+
+
+

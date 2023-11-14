@@ -1,0 +1,133 @@
+From Palaniappa at AOL.COM  Wed Jun 17 04:24:21 1998
+From: Palaniappa at AOL.COM (Sudalaimuthu Palaniappan)
+Date: Wed, 17 Jun 98 00:24:21 -0400
+Subject: Stomach/womb in Dravidian and -y-/-c- alternation
+Message-ID: <161227039898.23782.5460562976279752664.generated@prod2.harmonylists.io>
+
+In a message dated 98-06-15 04:52:27 EDT, jlc at CCR.JUSSIEU.FR writes:
+
+<<I fail to see how a verse from a medieval poet
+ (what is your date for kampan2?
+  9th century? 10th century? 12th century?)
+ can be taken as a proof (or an argument inside a proof)
+ that two words are related? [vayiRu and vai]
+
+ IMHO, what we see here in these lines
+ is not an etymological explaination
+ but an example of moon2ai,
+ i.e. a kind of alliteration between the first syllable of the line
+ and the first syllable of some other foot in the same line. >>
+
+
+There is a very basic relationship between "mOn2ai" and etymology.
+
+The first point is that both have a phonological basis. According to V. S.
+Rajam?s "A Reference Grammar of Classical Tamil Poetry" (p. 191-193), "Four
+basic types of toTai are recognized: mOn2ai, etukai, iyaipu, and muraN. Among
+these, the first three are phonological ...A subsequent type of these sub-
+categorical alliterations is an an2u alliteration which treats the vowels or
+consonants which have the same or closest points of articulation as a class.
+For this purpose, a, A, ai, and au form a class, as do i, I, e, and E; u, U,
+o, and O; c and t; J and n; and m and v." The Tamil grammarians? groupings
+show possible results of phonological changes one would find in etymologically
+related words. Of course, they were just describing what the poets had used
+before them. Of course, etymology is based on phonology also.
+
+Secondly, mOn2ai deals with the left-most part of a word - precisely where the
+etymological roots of Dravidian words are. So it is not a coincidence that we
+are dealing with mOn2ai when we are exploring the etymological relationships.
+
+However the type of mOn2ai that will suggest probable etymological
+relationship is one with the same (C1) v/VC2 occurring in two feet. (In some
+cases where a long vowel is present, C2 may not be necessary like some cases
+we had discussed earlier in the list.) For the purposes of alliteration, a
+vowel ai can be taken as equivalent to ay-. (Anyway it is reconstructed as
+PDr. *ay). See the example below
+
+kaiyatu kELA aLavai oyyen2a             (porunarARRuppaTai 152)
+
+The same feature can be found in a post-Kampan work shown below.
+
+aiya in2n2um ik kuRaL paci aTaGkiTA vERu
+veyya pAriTa vIrarai viTuttiyEl eTuttu
+vaiyam yAvaiyum vayiRRiTai vaipparE atan2Al
+ceyya kAla ruttirap peyar tERRam Am un2akkE (tiruviLaiyATal purANam 7.19.1-4)
+
+But for real etymological relationship, mere mOn2ai relationship may not be
+always sufficient. One can have mOn2ais as shown below
+
+kallA iLaijnar kavaLam kaippa
+kal tOyttu uTutta paTiva pArppAn2               (mullaippATTu 36-37)
+
+Here the mOn2ai on kal offers no semantic connection between the two feet on
+successive lines. What is needed for an etymological relationship is one
+metrical foot of the mOn2ai relationship (with the same (C1)v/VC2)
+representing a noun being modified/described by the other metrical foot as an
+adjective or verb. This is as close as one can get to a real etymological
+explanation of the involved words.  Some examples of such cases are shown
+below.
+
+The following lines show the same cognate words being used in mOn2ai by both
+CT and Kampan2.
+
+veLLi an2n2a viLagkum cutai uRIi     (neTunalvATai 110)
+
+veLLi mAlvarai en2n2a viLagkuvAn2  (kamparAmAyaNam  4.10.19.4)
+
+The common meaning is something "shines like silver"
+
+DEDR 5496
+veLLi - silver
+viLaGku - to shine
+
+Another example is given below.
+
+polam tEr micai polivu tOn2Ri                                  (puRanAn2URu
+4.14)
+
+polam koL mAmaNi veLLi am kun2Ru en2ap poliya (kamparAmAyaNam 5.12.38.4)
+
+DED 3717
+poli - to bloom (as countenance), shine
+polam - gold
+polivu - brightness of countenance,beauty, splendour, gold
+
+In the above pair, the cognates are more closely linked in the second.
+
+
+Finally consider this. Here the shining bangles are described using the words
+el and ilaGku.
+
+cuTarntu ilagku el vaLai nekiznta nam vayin2            (akanAn2URu 68.12)
+
+The same pair of words are also used by Kampan.
+
+el iTap pacumpon2 vaittu ilagku pal maNik kulam  (kamparAmAyaNam 1.3.24.2)
+
+DED 707
+el - lustre
+ilaGku - shine
+
+Thus it does not matter which century Kampan belongs to. What is important is
+the unique way in which the nature of mOn2ai, the nature of Dravidian root,
+and the linked manner in which the words have been used in poetry can be used
+to derive the etymology. Please note that in the examples I had shown in my
+earlier posting, the verbs vai, vaiku, and vaikuRu indeed describe the nature
+of vayiRu. In the tiruviLaiyATal purANam example cited above, one can see the
+vayiRu as a place to keep (vai) the earth (vaiyam), where vaiyam  and vai are
+cognates (DEDR 5549).
+
+Even beyond this, the cognates of Ta. vayiRu , i.e, Ma. vayaRu receptacle of
+fruit-seeds, Ka. hold of a ship make it very clear that vayiRu is some place
+where things are kept. Moreover the receptacle of fruit-seeds clearly gives a
+symbolic parallel to the womb. Thus the etymology explains how the meanings
+"put, place, keep" and "bear, beget" are related. (Ta. vayiRu also means "hold
+of a ship")
+
+Regards
+
+S. Palaniappan
+
+
+
+

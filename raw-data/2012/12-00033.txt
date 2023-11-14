@@ -1,0 +1,49 @@
+From selwyn at NTLWORLD.COM  Sat Dec 15 17:26:12 2012
+From: selwyn at NTLWORLD.COM (L.S. Cousins)
+Date: Sat, 15 Dec 12 17:26:12 +0000
+Subject: Citation
+In-Reply-To: <73E04D5B-09BA-47EC-951A-07AEF53C191A@uts.cc.utexas.edu>
+Message-ID: <161227098249.23782.3776882119967177849.generated@prod2.harmonylists.io>
+
+Dear Patrick,
+
+I would guess it is an abbreviated version of a stock passage. In Pali 
+we have:
+
+/puna capara?, bhikkhave, tath?gato dibbena cakkhun? visuddhena 
+atikkantam?nusakena satte passati cavam?ne upapajjam?ne h?ne pa??te 
+suva??e dubba??e, sugate duggate yath?kamm?page satte paj?n?ti/
+
+This is found at AN III 418; V 35f.; 38; Pa?is II 175; cf. MN I 70; Vibh 
+344. The sequence occurs elsewhere with various speakers and addressees, 
+but here the honorific /tath?gato/ is equivalent to /aha?/. The sequence 
+occurs also in abbreviated forms; so a citation as /puna capara?, 
+bhikkhave, tath?gato dibbena cakkhun? ... pe ... sugate duggate 
+yath?kamm?page satte paj?n?ti/ would not be surprising.
+
+The stock passage occurs in Sanskrit also e.g. in the Sa?ghabhedavastu:
+MSV IV 221: /sa eva? sam?hite citte ... divyena cak?u?? 
+vi?uddhen?tikr?ntam?nu?yakena satv?n pa?yati cyavam?n?n upapadyam?n?n 
+api suvar??n api durvar??n api h?n?n api pra??t?n api sugatim api 
+gacchato durgatim api yath?karmopayog?n satv?n yath?bh?ta? praj?n?ti//
+/
+and in various Mah?y?na contexts, but something closer to the Pali 
+version probably existed in /s?tras/ that are no longer extant. Indeed, 
+a longer search might find a closer parallel in surviving fragments 
+somewhere.
+
+Lance Cousins
+
+> Friends:
+>
+> I have what appears to be a citation from a Buddhist work by Medh?tithi, the great commentator of Manu. On Manu 2.6 (Jha's ed. p. 57) he cites: "pa?y?my aha? bhik?ave divyena cak?u?? sugati? durgati? ca."
+>
+> Jha reads "bhik?????", but this is probably an error. I have emended it following five manuscript readings given in the Gharpure edition.
+>
+> Thanks for any leads. Best,
+>
+> Patrick
+
+
+
+

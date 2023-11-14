@@ -1,0 +1,74 @@
+From GANESANS at CL.UH.EDU  Thu Nov 13 16:32:59 1997
+From: GANESANS at CL.UH.EDU (N. Ganesan)
+Date: Thu, 13 Nov 97 10:32:59 -0600
+Subject: Roman transliteration of Tamil n's
+Message-ID: <161227033625.23782.6415349452799658692.generated@prod2.harmonylists.io>
+
+       Roman transliteration of dental, alveolar and retroflex n's of Tamil
+      **********************************************************************
+
+ There are three n's in Tamil consonants. In regular English typewriter
+ keyboards, dental n is represented as n or n^, alveolar n is represented
+ as n or n2 or n_,  retroflex n is represented by N. The actual choice
+ depends on the user preference. For example, University of Koeln
+ website of Tamil classical texts uses the n, n2, N scheme.
+
+ The three usual schemes for dental, alveolar and retroflex n's are:
+     1) n^, n, N
+     OR
+     2) n, n2, N
+     OR
+     3) n, n_, N
+
+ Tamil transliterations with just a regular typewriter keyboard
+ will be even more elegant without the use of eyesores, n^ or n2 or n_ .
+ Tamil grammar specifically states where dental n will occur.
+ The dental and alveolar n's are predictable 99% of the time.
+
+
+
+    For Roman transliteration (and transcribing from Roman to
+  Tamil script or vice versa in word processing)
+
+   Instead of n^, n and N (for example),
+     we can use just n and N most of the time
+         with the understanding that
+          a) 'n' in the beginning of words means dental n,
+          b) 'n' followed by 't' means dental n.
+          c) dental n can occur in a few more instances.
+             Here, dental n will be written explicitly (like n^)
+             Examples of nonstandard occurence of dental n:
+               Sanskrit loans like an^uraakam, cin^Ekitan, an^ucitam,
+               Tamil words like verin^, iyakkun^ar, paaTun^ar
+        NOTE: (a) and (b) will determine the position of dental n
+               more than 97% of the time.
+
+ Algorithom:
+
+ IF {
+     n occurs in the beginning of words
+      .OR.
+     n is followed by t
+       .OR.
+     occasionally, dental n is explicitly needed
+       in some places like sanskrit loans,}
+
+   THEN { n = dental n}
+ ELSE
+      n = alveolar n
+
+
+  What do you think of this? This way, n and N can be used in most situations.
+ No need to distinguish between dental and alveolar n in Roman transliteration.
+ Only occasionally in a Roman transliterated Tamil text, we will have to use a
+ separate symbol for dental n.
+
+  N. Ganesan
+  nas_ng at lms420.jsc.nasa.gov
+
+ PS: Of course, Tamil has three l's: l (dental), L (alveolar), z (retroflex)
+     and two r's: r (alveolar) and R (retroflex).
+
+
+
+

@@ -1,0 +1,44 @@
+From koenraad.elst at PANDORA.BE  Wed Mar 22 19:57:26 2000
+From: koenraad.elst at PANDORA.BE (Koenraad Elst)
+Date: Wed, 22 Mar 00 20:57:26 +0100
+Subject: Date of Jyotisa Vedanga
+Message-ID: <161227057325.23782.6467889704280297031.generated@prod2.harmonylists.io>
+
+Paul Kekai Manansala <kekai at JPS.NET>
+ wrote:
+
+> The Chinese calendar can be dated back to 2679 BCE based on its 3600
+> year cycle.
+
+Rather, to 2697 BC, if you permit this little pedantry, and the calendar
+intended is not based on lunar mansions but on artificial cycles of 60 years
+(also known in India as Brhaspati era).  Legend has it that 2697 was the
+year of the enthronement of the Yellow Emperor.  Legends about him have been
+interpreted by Chang Tsung-tung (Taiwan/Frankfurt) as describing the
+Indo-European conquest of China, no less.  Chang identifies no less than
+1500 IE words in the basic vocabulary of Chinese, and concurs with Edwin
+Pulleyblank's thesis that the standard shape of PIE words is identical with
+that of ancient Chinese words.  The Yellow Emperor was credited with
+bringing, among other things, the script,-- and it has long been
+acknowledged that the early Chinese script owes a lot to more westerly
+sources of inspiration, including the early IVC.
+
+That the system of lunar mansions was started in 2400 BC is merely a
+back-calculation of modern scholars, based precisely on the assumption that
+Krttika as the first mansion was on the equinox.  This may be a case of a
+visual inaccuracy of a few degrees of night sky translating into an
+inaccuracy of centuries in the precession-based chronology: it may have been
+adopted in 2697 BC when Krttika served as marker of the equinox-holding
+section of the ecliptic because it was the conspicuous star pattern closest
+to the equinox though not yet exactly on it.
+
+Likewise in Indian dates based on precession, an inaccuracy of several
+degrees is generally possible, and this means so many times 71 years earlier
+or later.  But this can hardly account for shifts of 1200 years or more, as
+some philologists postulate in the case of Vedanga Jyotisha.
+
+K Elst
+
+
+
+

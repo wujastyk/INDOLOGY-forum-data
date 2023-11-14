@@ -1,0 +1,116 @@
+From stone_catend at COMPUSERVE.COM  Wed Jun 17 11:59:24 1998
+From: stone_catend at COMPUSERVE.COM (Anthony P Stone)
+Date: Wed, 17 Jun 98 07:59:24 -0400
+Subject: Draft transliteration scheme on the Web
+Message-ID: <161227039924.23782.8905154274625508846.generated@prod2.harmonylists.io>
+
+Dear Collegues
+
+I believe the issues are becoming clearer.  On June 15, 1998, S Palaniappan
+wrote:
+
+>P. S. Subrahmanyam in his Dravidian Comparative Phonology (1983), 
+>p. 422-423 says the following.
+>
+>"Different symbols are used for its transcription by different authors:...
+>As remarked by Emeneau (loc.cit,) it is futile to argue which symbol is 
+>correct.   l_macr-b is used in the present work mainly because of 
+>convenience in typing and printing. As pointed out by Burrow (1968b) 
+>Krishnamurti's practice of writing z_dot-b for this sound in the 
+>reconstructed forms in order to distinguish it from the corresponding 
+>sound in Tamil-Malayalam and KannaDa (this reason was stated by 
+>Krishnamurti) has little justification since there is no evidence that the
+
+>concerned proto-sound is phonetically different from the corresponding 
+>sound in Tamil-Malayalam."
+...
+
+>Thus in terms of their history they are virtually identical. But l_macr-b
+is 
+>being used more widely than z_dot-b til today.
+>
+>My criterion would be to choose one which causes the least number 
+>of people to change their system.
+
+That is indeed something to take into account.
+
+[As a footnote:]
+
+>Right now when diacritic marks are not used in writing, the word 
+>"Tamil_macr- b" is written just without the macron  as "Tamil" and 
+>there is not much of a difference between the two. But, if one were 
+>to follow the suggestion of z_dot-b, are we going to end up with two 
+>different ways  "Tamiz" and "Tamil"? If the goal is to bring uniformity, 
+>this will actually work against it. It is going to cause more confusion.
+
+"Tamil" is a well established form in English.   One may see "Tamizh"
+already, but there would be no real need for "Tamiz" to come in.   (The
+standard is not going to suggest a simplified transliteration with the
+diacritics simply omitted.    Without diacritics,  Tamil .t usually becomes
+t and t becomes th.   Also .s usually becomes sh and "s becomes either sh
+or s.)
+
+[end of footnote]
+---
+
+On June 16, 1998, Bh. Krishnamurti wrote:
+
+>I do not care what Palaniappan uses for Tamil. For Proto-Dravidian, 
+>z-subdot makes better sense. As already pointed out by prof. Antony P. 
+>Stone, subbar is used for alevolars consistently, _n, _r, _t. Let us not 
+>confuse transliteration between Tamil and Proto-Dravidian. Let Tamil 
+>scholars continue to use whatever they want. I appeal to Dr. Stone to 
+>provide z-subdot for the benefit of those who decide  to use it.  . . .
+> . . .
+>If Tamil scholars think that the phonetics of _l and PD *.z are the same 
+>(I do not know on what evidence!), they can use either of  their pet
+symbols. 
+
+Now I am getting things clear in my mind!   The proposed standard is
+required to deal with the transliteration of written symbols in actual
+scripts.    As I understand it, treatment of PD is in fact transcription
+[of sounds], which will  *not*  be covered by the standard.    So I see two
+possibilities:
+
+(A) l_macr-b in the standard.   This allows z_dot-b to be used for the PD
+phoneme if a  distinction is desired.    
+
+(B) z_dot-b in the standard.   No such scope. 
+---
+
+On June 16, 1998, Jean-Luc CHEVILLARD wrote:
+
+>For people who, like me, are more interested in the study of (real?, 
+>attested?, not-too-much-reconstructed?) Tamil literature (medieval, 
+>classical, modern) than in general (or comparative) dravidian studies, 
+>there seems to be no point in changing the transliteration scheme, 
+>even though one can always adapt oneself.
+>
+>So, from this angle, the answer seems: 
+>1st choice: keep l-sub-macron 
+>2nd choice: if the majority wants it, accept z-subdot 
+>3rd choice: do your best to avoid the clumsy r-double-subdot  (or
+l-double-subdot !!!)
+
+Certainly the forms with two dots below are ruled out on readability
+considerations.
+
+I do not see any majority wanting z_dot-b for transliteration of scripts as
+opposed to transcription of sounds.   I myself noticed the logical aspects
+in its favour, but they are not decisive.    It now looks to me as if
+l_macr-b might be best for transliteration, but I wait for responses to
+this posting.  
+
+Regards,   Tony
+
+Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
+Indic scripts.   
+20 Harding Close, Redbourn, St Albans, Herts, AL3 7NT, UK.     Tel: +44 (0)
+1582 792 497
+Email: stone_catend at compuserve.com                             Thinking
+aloud on  transliteration:
+   http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
+
+
+
+

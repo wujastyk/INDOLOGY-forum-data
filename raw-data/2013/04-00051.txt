@@ -1,0 +1,98 @@
+From mmdesh at umich.edu  Thu Apr 11 19:32:27 2013
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Thu, 11 Apr 13 15:32:27 -0400
+Subject: [INDOLOGY] Ind-senz OCR software for Sanskrit
+In-Reply-To: <op.wvc8s4bwcvbgtz@tapti.fritz.box>
+Message-ID: <CAB3-dzeNTKhePaSRNpyggEfpQ50mDtzysG=jnXPsaFWpBCR8Zg@mail.gmail.com>
+
+This OCR program for Devanagari looks very useful.  As a Mac user, I wonder
+if there anything like this that would work on Mac OS?
+
+Madhav Deshpande
+
+
+On Thu, Apr 11, 2013 at 3:37 AM, J?rgen Neuss <juergen.neuss at fu-berlin.de>wrote:
+
+> **
+> Dear McComas and others,
+>
+> the man behind indsenz is Oliver Hellwig, with whom I have been working
+> together for many years in the now defunct Indological Department of the
+> Freie Universit?t Berlin. I have been using the software for sanskritists
+> he developed for many years now. He also developed the INDOSKRIPT database
+> interface, which those concerned with Indian epigraphy might know. (It is
+> available here: http://userpage.fu-berlin.de/falk/ ). With quite a lot of
+> experience in OCR, I can assure you that there is nothing comparable to
+> Indsenz's Devanagari OCR in the market. If you have a look at Indsenz's
+> homepage, please also take a look at the SanskritTagger software, which is
+> another tremendous tool being distributed as freeware by Oliver.
+>
+> Best,
+>
+> J?rgen
+>
+>
+>
+>
+> On Thu, 11 Apr 2013 09:11:53 +0200, McComas Taylor <
+> McComas.Taylor at anu.edu.au> wrote:
+>
+> Colleagues, I never thought I would see the day, but I have just tried out
+> Ind-senz's Sanskrit OCR software, with close to 100% success rate. I tested
+> it out on a page of Lanman (good clear print) and got excellent results.
+>
+> http://www.indsenz.com/int/index.php
+>
+> Highly recommended
+>
+> McC
+>
+> --
+> ------------------------------
+> McComas Taylor,  ANU University Education Scholar 2012-13
+> Head, South Asia Program
+> ANU College of Asia and the Pacific
+> Tel: +61 2 6125 3179
+> Location: Baldessin Precinct Building, 4.24
+> Website: McComas Taylor <http://arktos.anu.edu.au/chill/index.php/mct>
+> ------------------------------
+> Courses: Learn about some of my courses:  Sanskrit 1<http://www.screenr.com/NSBs>
+> |  Indian Epics <http://screenr.com/uUBs>
+>
+>
+>
+>
+> --
+> ~~~~~~~~~~~~~~~~~~
+> Dr. phil. J?rgen Neuss
+> Freie Universit?t Berlin
+> Institute for the Scientific Study of Religion
+> Habelschwerdter Allee 45
+> 14195 Berlin
+> Germany
+> ~~~~~~~~~~~~~~~~~~
+> | email: juergen.neuss at fu-berlin.de
+> | http: www.central-india.de
+> ~~~~~~~~~~~~~~~~~~
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, MI 48104-1608, USA
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130411/527adc5d/attachment.htm>
+

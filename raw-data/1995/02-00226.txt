@@ -1,0 +1,78 @@
+>From MAILER-DAEMON at noc4.dccs.upenn.edu Sun Feb 26 08:54 EST 1995
+Posted-Date: Sun, 26 Feb 1995 08:54:54 -0500
+Received-Date: Sun, 26 Feb 1995 08:54:54 -0500
+Date: Sun, 26 Feb 95 08:54:50 -0500
+From: MAILER-DAEMON at noc4.dccs.upenn.edu (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+Message-Id: <9502261354.AA06246 at noc4.dccs.upenn.edu>
+To: <rrocher at sas.upenn.edu>
+Content-Type: text
+Content-Length: 2652
+
+   ----- Transcript of session follows -----
+>>> RCPT To:<sagarj at uts.cc.utexas.edu>
+<<< 550 <sagarj at uts.cc.utexas.edu>... User unknown
+550 <sagarj at uts.cc.utexas.edu>... User unknown
+
+   ----- Unsent message follows -----
+Received-Date: Sun, 26 Feb 95 08:54:50 -0500
+Received: (rrocher at localhost) by mail1.sas.upenn.edu (8.6.10/8.2SAS)
+        id IAA06723; Sun, 26 Feb 1995 08:54:49 -0500
+From: rrocher at sas.upenn.edu (Rosane Rocher)
+Posted-Date: Sun, 26 Feb 1995 08:54:49 -0500
+Message-Id: <199502261354.IAA06723 at mail1.sas.upenn.edu>
+Subject: South Asian American biblio
+To: pachinko at uclink.berkeley.edu (Jiannbin Lee Shiao)
+Date: Sun, 26 Feb 1995 08:54:49 -0500 (EST)
+Cc: sagarj at uts.cc.utexas.edu
+In-Reply-To: <Pine.3.89.9502251500.E27575-0100000 at uclink.berkeley.edu> from "Jiannbin Lee Shiao" at Feb 25, 95 03:41:33 pm
+X-Mailer: ELM [version 2.4 PL23-upenn2.8]
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Length: 1669      
+
+Many thanks are due to Kenyon Chan and Shirley Hune for sharing with 
+the net their core bibliography "Teaching Asian American Studies."  
+Since, however, this bibliography includes only one item specifically 
+devoted to South Asian American issues but includes several which, 
+though they go under general Asian American titles, exclude or omit 
+the South Asian American experience, I hope that I may be permitted 
+to announce the following forthcoming publication which may be of 
+complementary value.  "South Asian American Studies: A Working 
+Bibliography 1975-1994" will appear in the next issue of _Sagar: 
+South Asia Graduate Research Journal_ (2:1, Spring 1995).  _Sagar_ 
+is available both in hard copy and electronic versions.  Write
+sagrj at uts.cc.utexas.edu.  
+
+Although this bibliography is being published at the request of South 
+Asianists who wish to be more informed on South Asian American issues, 
+I hope that it may be of equal interest to Asian Americanists who wish 
+to include more materials on the South Asian American experience in  
+their readings.  I would also be grateful to members of the net who 
+may communicate to me titles recently published that may not yet have 
+come to my attention and titles of items currently in the press.  
+Since I have to turn in the bibliography before leaving for four 
+months of research in India beginning on March 26, any communications 
+would have to reach me by March 19 to be included.  
+
+Many thanks and warm wishes to all!  
+
+Rosane Rocher, Professor of South Asian Studies
+820 Williams Hall, University of Pennsylvania
+Philadelphia, PA 19104-6305
+Fax (215) 573-2138
+email: rrocher at mail.sas.upenn.edu
+
+
+
+-- 
+Rosane Rocher, Professor of South Asian Studies
+820 Williams Hall, University of Pennsylvania
+Philadelphia, PA 19104-6305
+Fax (215) 573-2138
+
+
+ 
+
+

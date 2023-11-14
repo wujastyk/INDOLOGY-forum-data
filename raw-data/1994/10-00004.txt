@@ -1,0 +1,78 @@
+From jleslie%vigyan.ernet.in at vigyan.iisc.ernet.in  Mon Oct  3 16:17:57 1994
+From: jleslie%vigyan.ernet.in at vigyan.iisc.ernet.in (jleslie)
+Date: Mon, 03 Oct 94 11:17:57 -0500
+Subject: Virashaivas
+Message-ID: <161227017483.23782.706899030048535638.generated@prod2.harmonylists.io>
+
+I am currently looking at the Virashaivas in Karnataka and would dearly
+like to know of anyone discussing the term "Protestant" in this context
+or in any related context. The term is used by Weber, and discussed more
+critically by Blake Michael in his book THE ORIGINS OF VIRASHAIVA SECTS.
+I am particularly interested in the changes that took place, and evidence
+for those changes, in the centuries after Basavanna.
+
+Any help would be most appreciated.
+
+Julia
+-- 
+Dr I. Julia Leslie, Sen. Lect. SOAS, London.
+email: jleslie at vigyan.iisc.ernet.in (until May 1995).
+ NB: Don't just hit "R"eturn to answer email from me.  There is a glitch
+ in my outgoing email headers.  Type in the above address (or alias it),
+ or use my UK address <j.leslie at ucl.ac.uk>.
+Phone/FAX: +91-80-6633884 (phone before faxing)
+Currently on sabbatical leave in Bangalore.
+ 
+
+Original-Received:  from ellis.uchicago.edu by 
+                   midway.uchicago.edu for indology at liverpool.ac.uk Mon, 3 Oct 
+                   94 15:32:46 CDT
+PP-warning: Illegal Received field on preceding line
+Date: Mon, 3 Oct 94 15:28:49 CDT
+From: james nye <jnye at midway.uchicago.edu>
+To: indology at liverpool.ac.uk
+Subject: Re: statistical data
+In-Reply-To: Your message of Sat, 1 Oct 1994 01:26:09 BST
+Message-Id: <CMM.0.90.4.781216129.jnye at ellis.uchicago.edu>
+
+  One reliable (if not absolutely comprehensive) source of latitude
+and longitude information for the South Asian subcontinent is the
+Gazetteer series by the United States Board on Geographic Names.
+These have the appearance of a listing printed by computer, but I have
+not been able to find information on availability of the machine-
+readable files.  The publisher in Washington has varied over time,
+including:  United States Department of the Interior, Division of
+Geography and the United States Defense Mapping Agency, Topographic
+Center.  Titles and dates of the most recent editions are:
+
+  India : official standard names approved by the United States Board
+     on Geographic Names.  1952.  [Contains separate sections on
+     Bhutan, Nepal, French India, Portuguese India, Jammu and Kashmir,
+     and India.]
+  
+  Gazetteer of Sri Lanka : names approved by the United States Board
+     on Geographic Names.  3rd ed.  1993.
+  
+  Gazetteer of Pakistan : names approved by the United States Board on
+     Geographic Names.  3rd ed.  1983.
+  
+  Bangladesh : official standard names.  1976.
+
+
+> > 1. Names of towns and cities in India with their longitudes and
+> >    latitudes.
+> 
+> I too would be very interested in discovering such a database, of the
+> same type as the Geographic Names Server at University of Michigan
+> (which unfortunately only covers North America). Please let me know if
+> you find anything of this sort.
+> 
+....
+> 
+> David Magier
+ 
+
+
+
+
+

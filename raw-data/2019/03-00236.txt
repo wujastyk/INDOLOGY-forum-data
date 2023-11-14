@@ -1,0 +1,143 @@
+From martingansten at gmail.com  Wed Mar 20 08:13:12 2019
+From: martingansten at gmail.com (Martin Gansten)
+Date: Wed, 20 Mar 19 09:13:12 +0100
+Subject: [INDOLOGY] Non-standard sandhi
+In-Reply-To: <CAGCGLoAFLXx1QFPdHvz8LgVBP1T__O4xMiEfiPYPxEyLNah2jA@mail.gmail.com>
+Message-ID: <362321f1-0542-d35d-18a7-076a33b93657@gmail.com>
+
+Thank you for your suggestion and interest, Jan. It is very refreshing 
+to be allowed to discuss the technical meaning of Sanskrit astrological 
+texts for once.
+
+Your analysis of my translation is absolutely correct. However, I cannot 
+help wondering how you know that the author 'KNEW that 99 percent of his 
+contemporaneous readers' would understand /sahita asya/ to represent 
+/sahita? asya/ rather than /sahite asya/ (for that, as I understand it, 
+is the nub of your argument). But even granting for the sake of argument 
+that this should be so, the sense of the verse still requires, in my 
+view, that we side with the 1 percent.
+
+Your suggested translation has the ruler of the ascendant:
+
+> there (tatra) [in that house, positively] aspected, or if [the 
+> ruler...] is (if not placed in that house, at least) joined 
+> (sahita[?]) with it (tena) [with the house],
+
+That is a rather long translation of six short words (tatra ca d???e | 
+tena v? sahita[?]), and it has the presumed logical subject of the 
+clause jumping from the earlier nominative (-pati?) to the locative 
+(d???e) and back again (sahita?). More importantly, though, it conveys 
+no real meaning, for a planet being joined with a house means nothing 
+more or less than the planet occupying the house. This is a matter not 
+only of established meaning (r??hi), but of lack of alternatives: what 
+else could it mean? So I cannot agree with your suggestion.
+
+Phrases meaning 'joined or aspected by' (often in compounds like 
+yutek?ita, d???ayuk, etc.) are extremely common in astrological texts; 
+the two typically go together and refer to the same subject (which may 
+be a house, a planet, or some other point in the horoscope). To give 
+just one example, consider the following stanza from the same work and 
+chapter (12.47):
+
+sute sav?rye _?ubhayu?nir?k?ite_ sute?vare kendragate bal?nvite |
+tathaiva s?de sutasaukhyam ?rita? sut?tyaya? sy?d vipar?tage tath? ||
+
+'If the fifth house is strong, _joined or aspected by benefics_; if the 
+ruler of the fifth house, endowed with strength, occupies an angle; and 
+if the lot likewise [is strong and benefic], happiness from children is 
+declared [as the result]. Likewise, if [all are] conversely situated, 
+the death of a child will occur.'
+
+It thus seems more natural to me to take the /sahita/ in /d???e ... 
+sahita asya/ to represent /sahite /(agreeing with /d???e/) than 
+/sahita?/, even if we could find a translation to make sense of the 
+latter alternative.
+
+Best wishes,
+Martin
+
+
+Den 2019-03-20 kl. 00:12, skrev Jan E.M. Houben:
+>
+> HOWEVER, if we accept the verse without emendation, should not we read 
+> it in the way the author KNEW that 99 percent of his contemporaneous 
+> readers would read it?
+>
+>
+> The verse you quoted:
+>
+> janmalagnapatir uttamav?ryo yadg?he janu?i tatra ca d???e |
+> tena v? _sahita asya_?ca labdhis tad yath??gasukham abdatanau sy?t ||
+>
+> The translation you proposed (I supply the words on which each part is 
+> based, if I understand your analysis and interpretation correctly):
+>
+> ***
+>
+> As the meaning is quite technical, I give my translation:
+>
+> 'If the house in which (yadg?he) the ruler of the ascendant of the 
+> nativity (janmalagnapatir) is [placed] with excellent strength 
+> (uttamav?ryo) in the nativity is aspected (tatra ... d???e) or (v?) 
+> joined by that [ruler] (tena ... *sahite*), [there is] attainment 
+> (labdhis) of [the matter signified by] that [house] (asya): for 
+> example (tad yath?), [if it is placed] in the ascendant of the year 
+> (abdatanau), there will be (sy?t) be pleasures of the body (a?gasukham).'
+>
+> ***
+>
+> Now, reading the verse ? if specialists familiar with the text agree 
+> there is no reason to propose any ad hoc emendation ? with similar 
+> conceptual interpretations BUT in the way the author KNEW that 99 
+> percent of his contemporaneous readers would read it (and paying more 
+> attention to the two *ca*?s, and letting both *tatra* and *tena* refer 
+> anaphorically to *yadg**?**he*) we get something that perhaps amounts 
+> to the same but is based on a different /anvaya/... :
+>
+> If in a house *(yadg?he)* in a nativity (janu?i) the ruler of the 
+> ascendant of the nativity (janmalagnapatir) is having excellent 
+> strength, *and* *[ca, extending the noun phrase] *is there *(tatra)* 
+> [in that house, positively] aspected, or if [the ruler...] is (if not 
+> placed in that house, at least) joined (*sahita**[?]*) with it 
+> *(tena)* [with the house], then *also [ca, perhaps referring to a 
+> statement in a previous verse, other conditions favouring labdhis?]* 
+> [there is] attainment of [the matter signified by] that [house] 
+> (asya): for example (tad yath?), [if it is placed] in the ascendant of 
+> the year (abdatanau), there will be (sy?t) pleasures of the body 
+> (a?gasukham).
+>
+>
+> Bottom line: the use of square (and round) brackets is very much 
+> required when analysing Sanskrit especially in scientific or 
+> philosophical arguments -- as in the publication by Vincent 
+> Eltschinger, John Taber, Michael Torsten Much, Isabelle Rati? on 
+> /Dharmak?rti?s Theory of Exclusion/?recently announced for "those 
+> among you who are still happy with square brackets".
+>
+>
+> Best,
+>
+> Jan Houben
+>
+>
+> On Sun, 17 Mar 2019 at 20:11, Martin Gansten via INDOLOGY 
+> <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>
+>     I have a question for the vaiy?kara?as among us (who may find it
+>     very basic, in which case I apologize in advance):
+>
+>     In the /T?jikayogasudh?nidhi /of Y?davas?ri (fl. possibly early
+>     17th century, possibly in or near Gujarat) there occurs the
+>     following stanza (12.15), the form of which is corroborated by
+>     several independent witnesses:
+>
+>     janmalagnapatir uttamav?ryo yadg?he janu?i tatra ca d???e |
+>     tena v? _sahita asya_ ca labdhis tad yath??gasukham abdatanau sy?t ||
+>
+>     (As the meaning is quite technical, I give my translation: 'If the
+>     house in which the ruler of the ascendant of the nativity is
+>     [placed] with excellent strength in the nativity is aspected or
+>     joined by that [ruler, there is] attainment of [the matter
+>     signified by] that [house]: for example, [if it is placed] in the
+>     ascendant of the year, there will be pleasures of the body.')
+>

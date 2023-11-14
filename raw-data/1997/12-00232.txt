@@ -1,0 +1,84 @@
+From ucgadkw at UCL.AC.UK  Tue Dec 30 11:49:53 1997
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Tue, 30 Dec 97 11:49:53 +0000
+Subject: Goettingen library - OPAC & indological information (fwd)
+Message-ID: <161227034555.23782.18178816360739969401.generated@prod2.harmonylists.io>
+
+I have updated the INDOLOGY pages in line with the following message:
+
+DW.
+
+---------- Forwarded message ----------
+Date: Mon, 29 Dec 1997 15:22:42 GMT+0100
+From: GRUENENDAHL <GRUENEN at mail.sub.uni-goettingen.de>
+To: D.Wujastyk at ucl.ac.uk
+Subject: Goettingen library - OPAC & indological information
+
+Dear colleague,
+I just realized that the INDOLOGY homepage still links to our old
+OPAC address. If you still consider it useful (as I hope you will),
+you may now link to the new Goettingen library homepage under
+
+    http://www.sub.uni-goettingen.de
+
+and proceed from there first to "Kataloge & Neuerwerbungen"
+(at the 10 o'clock position) and then to "WWW-Katalog"
+
+or you may try to access the OPAC directly:
+
+    http://www4.sub.uni-goettingen.de/cgi-bin/wwwlibmenu
+
+(haven't tried this direct access from outside, yet)
+
+Either way, there is a rudimentary English version available, too
+(just click the flag). They're still working on it.
+
+For indological and related information (in German) you may click
+"Fachinformationsfuehrer" (8 o'clock position on the
+Goettingen library homepage; address same as above) and then go down
+the alphabetical list of subjects to
+    "Sued- und suedostasiatische Philologien"
+
+or try to access this page directly under
+
+    http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+
+I would be obliged if you could forward these hints to the INDOLOGY
+list. Thanks in advance.
+
+A Happy New Year to everybody!
+
+Reinhold Gruenendahl
+
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+37070 Goettingen
+Germany
+Tel (++) (0)5 51 / 39 52 83
+Fax (++) (0)5 51 / 39 23 61
+
+GRUENEN at mail.sub.uni-goettingen.de
+
+Bitte beachten Sie auch den "Fachinformationsfuehrer sued- und
+suedostasiatische Philologien" auf der Homepage der Niedersaechs.
+Staats- und Universitaetsbibliothek:
+
+        http://www.sub.uni-goettingen.de
+
+unter "Fachinformationsfuehrer"
+
+oder direkt:
+
+        http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+
+*********************************************************************
+
+
+
+

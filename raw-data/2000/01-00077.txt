@@ -1,0 +1,38 @@
+From rajarshi.banerjee at SMGINC.COM  Thu Jan  6 21:13:15 2000
+From: rajarshi.banerjee at SMGINC.COM (Rajarshi Banerjee)
+Date: Thu, 06 Jan 00 16:13:15 -0500
+Subject: Vital Statistics
+Message-ID: <161227054930.23782.2034223376308191523.generated@prod2.harmonylists.io>
+
+I am not sure that Indian scripts are lear jets contrasting with
+paper planes. Agreed that grammar is well laid out (Panini &
+TolkAppiyar) for Indian languages. But not the scripts.
+
+// yes grammar, but what about phonology. Indian scripts are probably the
+only serious atempts at sound classification based on point of articulation
+voicedness aspiration etc. conjuct consonants can be done away with a simple
+modification which takes away the default minimal short vowel associated
+with all nagari consonants. Lets have an a kI mAtrA.
+
+Apart from the Western dominance, Roman script's
+simplicity is also an important factor.
+
+// One can easily think of schemes which are more efficient than nagari or
+english for e.g. 5 basic consonants( k,ch,T,t,p) 3-4 specifiers for
+frication voicing aspiration etc 5 short vowels with long versions 2
+semivowels ..sibilants..etc such a scheme could easily cover most earthly
+languages with less characters than english. Dominance of english is another
+matter.
+
+Sanskrit or Tamil texts routinely appear in academic publications
+in Roman script with diacriticals. Without diacritical marks,
+the Harvard-Kyoto convention is used for the entire Monier-Williams
+dictionary and the Cologne scheme has the entire Tamil Sangam
+texts online.
+
+// How about a roman alpabet which goes like a, A, i, I.. instead of
+haphhazard abcd..
+
+
+
+

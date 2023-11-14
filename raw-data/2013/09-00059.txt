@@ -1,0 +1,50 @@
+From mmdesh at umich.edu  Wed Sep 25 11:34:59 2013
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Wed, 25 Sep 13 07:34:59 -0400
+Subject: [INDOLOGY] SARIT Addition: Setubandha
+In-Reply-To: <CAANHO17oV932pQyo4x7Wrs1=ZLs_tHDzK6Lymkum=am7MrqWqg@mail.gmail.com>
+Message-ID: <CAB3-dzfKHLe1RgRCbW_yd8_kAyBW3vnM2k6Xsccdws37xECxkg@mail.gmail.com>
+
+Given my ignorance about computer software, can someone tell me how I can
+read the .xml files on Sarit using a Mac?
+
+Madhav Deshpande
+
+
+On Wed, Sep 25, 2013 at 6:45 AM, Andrew Ollett <andrew.ollett at gmail.com>wrote:
+
+> Correction: that should read "Eszter Berki."
+>
+>
+> On Wed, Sep 25, 2013 at 12:27 PM, Andrew Ollett <andrew.ollett at gmail.com>wrote:
+>
+>> Thanks to the efforts of Michael Willis, Eszter Birki, and D?niel Balogh,
+>> the R?va?avaho<http://sarit.indology.info/newphilo/navigate.pl?indologica.0>(Setubandha) of Pravarasena is now available on SARIT, based on the 1880
+>> edition of Siegfried Goldschmidt. (Updates to the TEI header will come
+>> shortly.)
+>>
+>> Andrew
+>>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, MI 48104-1608, USA
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130925/5a73a247/attachment.htm>
+

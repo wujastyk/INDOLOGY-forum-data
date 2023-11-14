@@ -1,0 +1,49 @@
+From rah2k at virginia.edu  Fri Feb 15 21:23:32 2013
+From: rah2k at virginia.edu (Robert Hueckstedt)
+Date: Fri, 15 Feb 13 16:23:32 -0500
+Subject: [INDOLOGY] The "My post to INDOLOGY list didn't appear" problem.
+In-Reply-To: <CAKdt-Ce1rgj7Ybi=1wLJOY0Qd-F7dmnhwb0k3KQebftpSzHHVg@mail.gmail.com>
+Message-ID: <511EA754.8090800@virginia.edu>
+
+Dominik and all:
+While you might not see your post without some contortions, I am getting 
+everyone's post twice. Is this happening to anyone else? What to do?
+
+Bob Hueckstedt
+
+
+On 2/15/2013 9:25 AM, Dominik Wujastyk wrote:
+> Dear INDOLOGY members:
+>
+> There is a known issue with gmail accounts. Posters who send from a 
+> gmail account will not receive a copy of their posts:
+>
+>   * http://wiki.list.org/display/DOC/I+use+Gmail-Googlemail%2C+but+I+can%27t+tell+if+any+of+my+messages+have+been+posted+to+the+list
+>
+> But you can work around this annoyance.
+>
+> Note that your outgoing gmail messages are all saved in "Sent Mail" in 
+> any case.  What I've done is set up a gmail filter for my outgoing 
+> messages sent to indology at list.indology.info 
+> <mailto:indology at list.indology.info>, giving them an "indology" label. 
+>  That way, they appear alongside incoming INDOLOGY messages that I 
+> also filter in the same way.  If you were really keen to re-read your 
+> own mail, you could also mark them as "unread" so that they would show 
+> up in bold.  :-)
+>
+> Best,
+> Dominik Wujastyk
+> INDOLOGY committee
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://list.indology.info/mailman/listinfo/indology_list.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130215/685fae88/attachment.htm>
+

@@ -1,0 +1,60 @@
+From yanom at CC.KYOTO-SU.AC.JP  Mon Mar 25 09:48:43 2002
+From: yanom at CC.KYOTO-SU.AC.JP (Michio YANO)
+Date: Mon, 25 Mar 02 18:48:43 +0900
+Subject: Calendar
+In-Reply-To: <3CCF67F6993@mail.sub.uni-goettingen.de>
+Message-ID: <161227070737.23782.1232716399367405523.generated@prod2.harmonylists.io>
+
+Reinhold Gruenendahl said:
+
+gruenendahl> Just a guess:
+> Subtracting 56 (instead of 57) for the expired karttikadi
+> (instead of caitradi) year of the Vikrama era, I get 1504 CE, in
+> which Caitra-purnima was on Saturday, 4 March 1504, the naksatra
+> being Hasta (cf. Swamikannu Pillai, Indian Ephemeris, vol. 5, p. 210).
+
+The first two lines are correct, but the next two lines are mistaken.
+4 March 1504 is Monday instead of Saturday.
+
+I got a correct answer with my program as follows:
+
+
+  AD 1504  3  30 Saturday | JD (at noon)= 2270483 | Kali-ahargana= 1682017
+ ==============================================================================
+  Pancanga based on Suryasiddhanta (sunrise) at latitude=23.2, longitude=75.8
+-------------------------------------------------------------------------------
+      Nirayana  True Longitude   |  Lunar Month Names      |  Solar Month Names
+   Sun           0s  2d 48'  6"  |
+   Moon          5s 26d  9' 11"  |  Caitra      Asvina     |  Mesa     Tula
+   Mercury       0s 19d 37' 23"  |  Vaisakha    Karttika   |  Vrsa     Vrscika
+   Venus        10s 17d  2' 56"  |  Jyaistha    Margasirsa |  Mithuna  Dhanus
+   Mars          3s  2d 57' 27"  |  Asadha      Pausa      |  Karkata  Makara
+   Jupiter       2s 23d 21' 27"  |  Sravana     Magha      |  Simha    Kumbha
+   Saturn        2s 22d 48' 54"  |  Bhadrapada  Phalguna   |  Kanya    Mina
+   Candrocca     7s 27d 58' 33"  |
+   Rahu         11s  8d 37' 55"  |
+-------------------------------------------------------------------------------
+ Indian date (luni-solar year and amanta month)  (*) local sunrise... 5h 49m
+ year(atita):Saka 1426 |Vikrama 1561 |Kali 4605 | ayanamsa: 15d  4m
+             Jovian(North):prajApati(5) |Jovian(South):raktAkSa(58)
+ lunar month, paksa, and tithi(at sunrise):
+       Caitra     Suklapaksa 15 (fraction = 0.445)
+ solar month and day: Mesa    4 (samkranti: on 1504  3 26 at  9h  2m)
+ naksatra.... Citra  /  karana...viSTi       /  yoga...harSaNa
+--------------------------------------------------------------------
+
+In this list Vikrama year is output as 1561 because my program
+is Caitraai (already changed on Caitra zukrapratipad), but
+if the calendar is Kaarttikaadi the year is still 1560.
+
+I will soon upload the revised version pancanga3.10 in my
+web page.
+
+Michio YANO                    Tel +81-75-705-1781
+Faculty of Cultural Studies    Fax +81-75-705-1799
+Kyoto Sangyo University        e-mail: yanom at cc.kyoto-su.ac.jp
+Kyoto 603-8555 Japan           http://www.kyoto-su.ac.jp/~yanom/
+
+
+
+

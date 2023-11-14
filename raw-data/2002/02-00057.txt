@@ -1,0 +1,26 @@
+From lel at LEL.MSK.RU  Mon Feb 11 22:34:53 2002
+From: lel at LEL.MSK.RU (Lielukhine D.N.)
+Date: Tue, 12 Feb 02 01:34:53 +0300
+Subject: Unicode-compliant font for transliterating Sanskrit
+Message-ID: <161227070509.23782.10486964090627730856.generated@prod2.harmonylists.io>
+
+You can try shri.ttf  font from http://indepigr.narod.ru/index1.htm
+----- Original Message -----
+From: mccomas <mccomas at cres20.ANU.EDU.AU>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Monday, February 11, 2002 2:09 AM
+Subject: Unicode-compliant font for transliterating Sanskrit
+
+
+> Dear Friends
+>
+> Can anyone recommend a Unicode-compliant font for transliterating
+Sanskrit?
+>
+> Thanks in advance
+>
+> McComas
+
+
+
+

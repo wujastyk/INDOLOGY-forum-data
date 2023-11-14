@@ -1,0 +1,44 @@
+From tlk at MATH.KU.DK  Fri Jul  2 16:46:57 1999
+From: tlk at MATH.KU.DK (Toke Lindegaard Knudsen)
+Date: Fri, 02 Jul 99 18:46:57 +0200
+Subject: Chandogya Upanisad, again
+In-Reply-To: <199906291235.OAA25723@cisun5000.unil.ch>
+Message-ID: <161227051130.23782.11071974214800568976.generated@prod2.harmonylists.io>
+
+Dear list-members,
+
+I found one passage in Datta and Singh's History of Hindu
+Mathematics (Part I, page 3-4):
+
+"There is a story in the Chandogya Upanisad whose value in
+support of our view cannot be over-estimated.  It is said that once
+upon a time Narada approached the sage Sanatkumara and
+begged of him the Brahma-vidya or the supreme knowledge.
+Sanatkumara asked Narada to state what sciences and arts he
+had already studied so that he (Sanatkumara) might judge what
+still remained to be learnt by him.  Thereupon Narada enumerated
+the various sciences and arts studied by him.  This list included
+astronomy (naksatra-vidya) and arithmetic (rasi-vidya).  Thus the
+culture of the science of mathematics or of any other branch of
+secular knowledge, was not considered to be a hindrance to
+spiritual knowledge.  In fact, Apara-vidya ("secular knowledge") was
+then considered to be a helpful adjunct to Para-vidya ("spiritual
+knowledge")."
+
+This passage seems interesting as a follow up on my previous
+inquiry about the Chandogya Upanisad.  Here Datta and Singh
+translate "rasi" as arithmetic rather than as mathematics as
+Olivelle do.  This makes sense.  Also, it is strange that Datta and
+Singh write that Narada begged from Sanatkumara "Brahma-vidya"
+as this is included in the list of sciences Narada presented (Olivelle
+translates it as "science of ritual").  It does not seem to make
+sense that Narada would beg from Sanatkumara Brahma-vidya only
+to subsequently list this as a science he already learnt.  Can
+anyone shed some light on this?
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+
+
+

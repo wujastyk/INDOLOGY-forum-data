@@ -1,0 +1,85 @@
+From emstern at BELLATLANTIC.NET  Fri Feb 16 18:11:22 2001
+From: emstern at BELLATLANTIC.NET (Elliot M. Stern)
+Date: Fri, 16 Feb 01 13:11:22 -0500
+Subject: Lhasa to Nalanda - journey time by foot
+Message-ID: <161227067527.23782.16716215450455110065.generated@prod2.harmonylists.io>
+
+Dear Richard,
+
+Thank you for the prompt reply.  The Free Library of Philadelphia apparently
+has a copy.
+
+So far as I have been able to determine, there is little or no information
+about the route zaantarakSita may have followed.  He is generally thought to
+have lived and worked at Nalanda, but one or both of the Tibetan accounts
+situate him in "Nepal".  I have developed a somewhat naive notion that he
+would have crossed the Kathmandu Valley on the way to Lhasa or environs from
+Nalanda, but my knowledge of the geography of the regions involved is so
+limited that I do not know what route or routes may have been established in
+his time.
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+United States of America
+Telephone: 215-747-6204
+email: emstern at bellatlantic.net
+
+
+
+ Richard B Mahoney replied:
+
+ Dear Eliot,
+
+ On Thu, Feb 15, 2001 at 10:55:16PM -0500, Elliot M. Stern wrote:
+ > I'm hoping that somebody on the list can answer this question. About how
+ > long would it take to walk from Lhasa or its environs to Nalanda in
+Bihar?
+ > References to 20th century journeys by foot in either direction between
+some
+ > specified location in India to or from the Lhasa area would help , such
+as
+ > books about Tibetan refugees' experiences.
+ >
+ > The aim is to form an idea of how long it might have taken the Buddhist
+monk
+ > zaantarakSita to travel to Tibet, and return in the 7th century.
+ >
+
+ I'm not sure of "Saantarak.sita's route but for that of Marpa the
+ Translator you could consult pp. xxvii ff. of:
+
+ @Book{trungpa:life,
+   editor =       "Ch\"{o}gyam Trungpa",
+   title =        "The Life of Marpa The Translator: Seeing Accomplishes
+                  All",
+   publisher =    "Shambhala",
+   stitle =       "The Life of Marpa",
+   year =         "1995",
+   key =          "trungpa:1995",
+   address =      "Boston \& London",
+   note =         "a trans. of `Mar pa rnam thar' by Gtsang smyon He ru
+                  ka (1452--1507) by the N\={a}land\={a} Translation
+Committee
+                  under the direction of Ch\"{o}gyam Trungpa",
+ }
+
+ His journeys seem to have been protracted for various reasons not
+ the least of which would have been the difficulty of
+ acclimatisation.
+
+
+ Many regards,
+
+  Richard Mahoney
+
+ --
+ ------------------------ Richard Mahoney -------------------------
+ 78 Jeffreys Rd                                      +64-3-351-5831
+ Christchurch                                           New Zealand
+ --------------- mailto:rbm49 at csc.canterbury.ac.nz ----------------
+
+
+
+

@@ -1,0 +1,179 @@
+From athr at LOC.GOV  Fri Dec 17 22:17:59 2004
+From: athr at LOC.GOV (Allen W Thrasher)
+Date: Fri, 17 Dec 04 17:17:59 -0500
+Subject: Hindi geographical names
+Message-ID: <161227075511.23782.10695692043570153236.generated@prod2.harmonylists.io>
+
+Artur,
+
+Do you or the PGS have access to the current Survey of India maps?  I
+believe nowadays they are pretty likely to have diacritics.  The system
+goes back to British times. I can't seem to quickly find an account of
+what the romanization system is called or what it is.   It was named
+after one of the colonial Surveyors General.
+
+The older US Army maps of India, still for sale until fairly recently,
+were copies of British era maps.
+
+Is your goal a map with names in Hindi Devanagari, or with a good
+transliteration of the local names?
+
+If a romanization, using the SOI romanizations, which are official, has
+much to recommend it.  However, looking at the catalog records for some
+SOI publications, I suspect that there is a convention of not bothering
+to put a macron over final vowels, since it is usual they are long.
+Look at our catalog <catalog.loc.gov> and search for the title District
+Maps of Assam, India (LCCN 98687088) and observe at the end of the
+Incomplete Contents note "Tinsukia."  So maybe you do need the
+Devanagari maps.
+
+Have you checked any of them in the index to the Schwartzberg atlas?
+
+The GeoNet Names Server <http://gnswww.nima.mil/geonames/GNS/index.jsp>
+ has some of your places, judging from a few quick sample searches.  It
+also supposedly allows the use of Unicode and displays special
+characters for diacritics after you download the fonts.  One can also
+download separately the names file for each country.  NB it has a
+warning about the presence of errors in the Pakistan and Afghanistan
+files.  I believe a few of your names are in Pakistan.
+
+Hope this helps.
+
+Allen
+
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+>>> karp at UW.EDU.PL 2004-12-17 2:32:09 >>>
+Dear List Memebers:
+
+I was asked (by the Polish Geodetical Service) to prepare a list of
+Indian
+geographical names - with their Polish, Hindi and English versions.
+Being unable to locate in Poland any detailed map of India in
+Devanagari
+characters, I would like to ask for your kind assistance in
+determining
+the Hindi equivalents (Kyoto transcription, with retroflex consonants)
+of
+the following geographical names:
+
+Paithan Dam
+Aharbal Falls
+Barehipani Falls
+Nohkalikai Falls
+Nohsngithiang Falls
+Kynrem Falls
+Hogenakal Falls
+Gugamal N.P.
+Marine N.P.
+Neora Valley N.P.
+Moiling N.P.
+Namdapha N.P.
+Balphakram N.P.
+Intanki N.P.
+Krem Um Lawan Cave
+Krem Maw Tynhiang Cave
+Borra Cave
+
+Peaks:
+
+Baintha Brakk
+Barabar
+Batura
+Chameringu
+Changabang
+Chogolisa
+Dapha Bum
+Dhond
+Dapjo Pahar
+Falchan Kangri
+Gasherbrum
+Gurudongmar
+Kangto
+Kephyaklo
+Kokthang
+Kolahoi
+Kunyang Chhish
+Langpo Peak
+Lulupo
+Lungreng Tlang
+Masherbrum
+Mathuri
+Namprik Phuk
+Nunkun
+Panchchuli
+Pangol kha
+Pemikhangchhen
+Rakaposhi
+Rataban
+Richi La
+Saramati
+Saser Kangri
+Satopanh
+Shispare
+Singarsi Peak
+Sonam
+Tatakuti
+Tent Peak
+Tungar
+
+Towns:
+
+Dhamtari
+Dhurbi
+Dindori
+Godda
+Gondia
+Gumla
+Haflong
+Harda
+Kasargode
+Katnio
+Keonjhar
+Khurda
+Koraput
+Madikeri
+Nongstoin
+Orai
+Oras
+Orraiya
+Painavu
+Pakur
+Parlakhemundi
+Pathanamthitta
+Perambalur
+Rajouri
+Reckong Peo
+Saiha
+Sidhi
+Theni
+Tinsukia
+Tura
+
+
+Thanking you in advance,
+
+Artur Karp
+
+South Asian Studies Deptt
+University of Warsaw
+Poland
+
+
+
+

@@ -1,0 +1,12 @@
+From glhart at BERKELEY.EDU  Fri Mar 26 14:16:54 2010
+From: glhart at BERKELEY.EDU (George Hart)
+Date: Fri, 26 Mar 10 07:16:54 -0700
+Subject: A misconception regarding the PDF format (Re: Text processing              in Unicode
+In-Reply-To: <4BAC6581.6080807@univ-paris-diderot.fr>
+Message-ID: <161227089042.23782.14969950059148387477.generated@prod2.harmonylists.io>
+
+I have been playing around with unicode in both Tamil and Devanagari.  On the Mac (Snow Leopard), it is not possible to search pdf's in either writing system -- nor is it possible to use Acrobat to export such files into rtf or other editable format.  Using Nisus on the Mac, searching works perfectly for both writing systems, and Rajam's problem does not appear.  Many documents are available as pdf's, and it is quite important that they be searchable.  Unfortunately, that is not the case at this point with at least two important Indic writing systems.  George Hart
+
+
+
+

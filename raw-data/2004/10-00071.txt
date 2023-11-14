@@ -1,0 +1,38 @@
+From vjroebuck at MACUNLIMITED.NET  Sat Oct 30 06:53:19 2004
+From: vjroebuck at MACUNLIMITED.NET (Valerie J Roebuck)
+Date: Sat, 30 Oct 04 07:53:19 +0100
+Subject: SV: Devanagari
+In-Reply-To: <20041028212819.CUVY3605.amsfep18-int.chello.nl@Winston>
+Message-ID: <161227075162.23782.226827643334293808.generated@prod2.harmonylists.io>
+
+Are there any plans to produce a version for Apple Mac?
+
+There still seem to be no freeware or shareware Devanagari fonts for
+Mac with all the ligatures for Sanskrit.  Even xdvng lacks some
+extremely common ones.  (At least, I've never worked out how to make
+it write kta or cca in their Sanskrit forms.)  I have found similar
+problems with the older version of Itrans for Mac, and the Mac's own
+Indian Language Kit.  The latter also seems to conflict with some of
+the Mac's other software.
+
+This is something of a perennial quest, but has anyone found anything
+useful that has been created recently?
+
+Valerie J Roebuck
+Manchester, UK
+
+>Stefan Baums pointed me to the list in this publication:
+>
+>    http://www.sanskritweb.de/itmanual2003.pdf
+>
+>It has been written by Ulrich Stiehl. The list runs from p. 28.
+>
+>But it would of course be wonderful if the ligatures and everything you ever
+>wanted to know about Devanagari but were afraid to ask, were available on a
+>web page.
+>
+>Lars Martin
+
+
+
+

@@ -1,0 +1,28 @@
+From info at TICONSOLE.NL  Fri Jul  3 11:06:24 1998
+From: info at TICONSOLE.NL (T.I. Console)
+Date: Fri, 03 Jul 98 13:06:24 +0200
+Subject: Sanskrit
+Message-ID: <161227040502.23782.6469478141970279349.generated@prod2.harmonylists.io>
+
+John Smith wrote:
+
+>Shouldn't you be using forward slashes ("/") instead of backslashes ("\")?
+
+Of course! I always mix these slashes up, as I work on four different computers, all with a different keyboard layout.
+
+The address then should be:
+
+http://www.ticonsole/books/science/index.htm
+
+Sandra van der Geer
+Leiden
+NL
+info at ticonsole.nl
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 1370 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19980703/b6bd2508/attachment.bin>
+

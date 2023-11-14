@@ -1,0 +1,64 @@
+From harryspier at HOTMAIL.COM  Tue Feb 27 03:16:51 2001
+From: harryspier at HOTMAIL.COM (Harry Spier)
+Date: Mon, 26 Feb 01 22:16:51 -0500
+Subject: Some software tools for Indology
+Message-ID: <161227067772.23782.5736012885351382687.generated@prod2.harmonylists.io>
+
+Dear list members,
+
+If anyone is doing word searchs, analysis of e-texts with diacriticals,
+conversions from one encoding to another, or any other manipulation of
+e-texts you may want to look at the text editor TEXTPAD (available for
+windows only) as shareware ($27.00) from www.textpad.com which has the
+following features ( and much more) that I found very useful for this sort
+of thing.
+
+1)"Regular expressions" allowed in the find command.  This is a string
+definition metalanguage that allows you to specify almost any pattern of
+letters or groups of letters in the find command.
+
+2) Characters can be specified by their character codes.  This allows search
+strings to include letters with diacriticals and it makes it very easy to
+convert an e-text with diacriticals to any other encoding either with or
+without diacriticals.
+
+3) "Bookmarking". You can specify bookmarking in your find commands which
+will then mark all lines with the string you are searching for.  You can
+then copy the bookmarked lines to another window to print or do further work
+on.
+
+4) A "sort" command with up to three different user defined sort columns.
+
+5) A keystroke macro facility which allows you to execute a series of
+keystrokes on a single line save it as a macro but then execute it on each
+line in the file.  This made it very easy to append a copy of the word
+containing the string I was interested in to the start of each line and then
+sort the results alphabetically.
+
+Also if anyone is doing any work with audio recordings they may want to look
+at the audio editor Cooledit 2000 for $69.00 from www.syntrillium.com.  You
+can cut, paste, copy, position cursors on the audio file as easily as if it
+was a text file.  You can display either raw wave or spectrogram and
+spectrum. I looked at a few others and it seemed the best value for money.
+I also found two free software packages specifically designed for phonetic
+analysis of speech.  "speech analyzer" from SIL at www.sil.org and "SFS
+tools for speech research" from University College London at
+www.phon.ucl.ac.uk/resource/sfs/ .  This is not public domain software but
+is available as long as the programs and documentation are not modified and
+the copywrite notice is not removed from them.
+
+Hope this is of use to some members.
+
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+
+

@@ -1,0 +1,22 @@
+From madhav.deshpande at EDU.UMICH.CC.UM  Thu May 21 19:15:22 1992
+From: madhav.deshpande at EDU.UMICH.CC.UM (madhav.deshpande at EDU.UMICH.CC.UM)
+Date: Thu, 21 May 92 15:15:22 -0400
+Subject: Buddhacarita and Astadhyayi files now available
+Message-ID: <161227015336.23782.680944471768605921.generated@prod2.harmonylists.io>
+
+Status: RO
+
+Dear Dominik,
+        I got both the parts of the UUencoded Panini file, I joined
+those into a single file and tried to run the UUdecode program
+available to me on the University of Michigan system.  Alas! the
+decode program comes back with the dreadful message "No begin line."
+With the help of my colleagues I have tried several alternatives and
+still I cannot UUdecode these files.  Is there a way of sending the
+unencoded and unzipped Panini files?
+        Madhav Deshpande
+
+
+
+
+

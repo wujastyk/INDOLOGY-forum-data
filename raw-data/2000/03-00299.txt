@@ -1,0 +1,45 @@
+From yogacara_assoc at HOTMAIL.COM  Thu Mar 16 18:26:03 2000
+From: yogacara_assoc at HOTMAIL.COM (Dan Lusthaus)
+Date: Thu, 16 Mar 00 13:26:03 -0500
+Subject: New Yogacara website
+Message-ID: <161227056944.23782.6227376935305634799.generated@prod2.harmonylists.io>
+
+The Yogacara Buddhism Research Association is pleased to announce that its
+official website is now on-line. The URL is
+http://www.human.toyogakuen-u.ac.jp/~acmuller/yogacara/index.html
+
+The Yogacara Buddhism Research Association is dedicated to promoting the
+academic study of Yogacara Buddhism. The site contains information on
+Yogacara, major figures in Yogacara history, details on important texts,
+essays and articles, a detailed glossary, and links to other sites with
+Yogacara content. Since one of our primary goals is to facilitate the
+sharing of ideas between scholars working on the many facets of Yogacara
+thought and history, we look forward to receiving feedback from interested
+academics.
+
+Though we have taken great pains to make the site accessible to all flavors
+of browser and platform, discrepancies in the implementation of unicode have
+forced us to offer two versions of most documents on the site: one version
+in utf-8 unicode (with instructions and links on the site for necessary
+language and font software) and the other using ASCII diacriticals (aa for
+macron-a, .n for n-underdot, etc.) with pre-unicode CJK encoding (usually
+Big5, but some docs are in S-JIS). That solution, though not ideal, seemed
+the best compromise while we await unicode uniformity. Click the "Technical:
+Browser Display" link on the main page for more information.
+
+The site will be updated periodically with additional materials.
+
+Dan Lusthaus
+Director,
+yogacara_assoc at hotmail.com
+
+Charles Muller,
+Webmaster,
+acmuller at human.toyogakuen-u.ac.jp
+
+Yogacara Buddhism Research Association
+http://www.human.toyogakuen-u.ac.jp/~acmuller/yogacara/index.html
+
+
+
+

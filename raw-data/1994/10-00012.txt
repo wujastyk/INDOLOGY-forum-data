@@ -1,0 +1,117 @@
+From dom%vigyan.ernet.in at vigyan.iisc.ernet.in  Wed Oct  5 15:11:26 1994
+From: dom%vigyan.ernet.in at vigyan.iisc.ernet.in (dom)
+Date: Wed, 05 Oct 94 10:11:26 -0500
+Subject: ITRANS for Indic text processing
+Message-ID: <161227017496.23782.13302843236960262010.generated@prod2.harmonylists.io>
+
+
+
+I have recently been in touch with Avinash Chopde about his ITRANS
+package.  This is a set of programs for producing Indian script
+output from transliterated input.  It supports several scripts,
+and integrates with TeX.  You don't have to use TeX, though,
+and there is a formatter included which outputs PostScript directly.
+
+The new development is that Avinash will shortly be adding CS
+encoding as a supported input coding scheme.
+
+Avinash has included some Sanskrit texts with ITRANS, and these are
+mostly texts that are not (yet) on the INDOLOGY listserv.  Also,
+Avinash has linked ITRANS to a WWW server, so one can actually view
+Sanskrit texts across the Internet, as long as you have Mosaic and
+a Postscript previewer like GhostScript (both hefty programs, but available
+free).
+
+Here are some extracts from our recent exchanges:
+===================================================================
+
+Avinash says:
+
+Don't know if I told you this, but there are also some documents in
+ITRANS availabe through Mosaic. Soem 15--20 Sanskrit docs, and some 1000
+Hindi Film Songs!
+
+If/when you have Mosaic access to WWW, it is possible to see the docs in
+the input transliterated form, and in the devenagari script (using a
+PostScript viewer). The site is: http://chandra.astro.indiana.edu/isongs
+
+====
+Avinash Chopde    |    (508) 640 3138    |       Avid Technology, Inc.
+avinash at acm.org   |   avinash at avid.com   |   Tewksbury, Massachusetts, USA
+===================================================================
+
+avid.com!achopde says:
+From: avid.com!achopde
+To: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+Subject: WWW site.
+
+>Avinash, may I forward your message about Sanskrit texts and WWW/Mosaic
+>to the INDOLOGY group?  I'm sure nobody there knows about this.
+
+Yup, you should also point out that even though they could use ITRANS
+right now, it will be better to wait four months when CS encoding is
+built-in into ITRANS...
+
+Since they will probably be interested in Sanskrit only, here is a list
+of files available in the Sanskrit directory:
+
+FILE		CONTENT
+------------	-----------------------------------------------------
+aatmasha.s	aatmashhaTak.h
+atharva.s	shrii gaNapatyatharvashiirshha
+bhagvad.itx	shriimad.h bhagavad.h giita
+bhagveng.tex	Bhagavadgita:The Song Celestial, English text: Sir Edwin Arnold
+bhajans.s	Various Hindi and Sanskrit Bhajans
+chaaleng.tex	Hanuman Chalisa, English Translation
+chaalisa.s	shrii hanumaan chaaliisaa
+dkavach.s	Devi kavach
+ganesha.s	shriigaNeshastotra
+navagrah.s	shriinavagrahastotra
+rraksha.s	shriiraamarakshaastotra
+shloka.s	Few common shlokas used for recitation
+smaanasa.s	shivamaanasapuujaa
+surya.s		Few shlokas and mantras used during Yoga/suuryanamaskaar
+viveka.s	vivekachuDaamaNi
+vsahasr.s	shriivishhNusahasranaama
+----------------------------------------------------------------------
+
+If users have Mosaic installed with GhostScript (a PostScript viewer),
+they can view these documents in ASCII (ITRANS Transliteration), or
+Devanagari (using Frans Velthuis's font).
+
+FTP info:
+
+| ITRANS Song Book
+| ----------------
+|
+| Files:
+|     isongs*.tar.gz: Archive contains ITRANS Song Book
+| 
+| (All archives are in UNIX tar format, compressed using GNU Zip.)
+|
+| For specific file names, browse the given directories at the FTP sites.
+| 
+| FTP the ITRANS Song Book from:
+| 
+| Anonymous FTP site (USA): chandra.astro.indiana.edu (129.79.160.69)
+| Directory: /pub/isongs/
+| 
+| Anonymous FTP site (FINLAND): ftp.funet.fi
+| Directory: /pub/culture/music/indian/isongs/
+| 
+| For a quick look, using Mosaic (or Lynx) check out:
+| World-Wide-Web HTTP URL:
+|     http://chandra.astro.indiana.edu/isongs
+====
+Avinash Chopde    |    (508) 640 3138    |       Avid Technology, Inc.
+avinash at acm.org   |   avinash at avid.com   |   Tewksbury, Massachusetts, USA
+
+--
+Dominik
+
+ 
+
+
+
+
+

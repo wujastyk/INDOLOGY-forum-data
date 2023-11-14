@@ -1,0 +1,151 @@
+From ucgadkw at ucl.ac.uk  Thu Feb  6 11:24:08 1997
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Thu, 06 Feb 97 11:24:08 +0000
+Subject: South Asian transliteration standards (fwd)
+Message-ID: <161227028164.23782.2681336888996093314.generated@prod2.harmonylists.io>
+
+
+---------- Forwarded message ----------
+Date: Wed, 05 Feb 1997 16:08:13 GMT
+From: John Clews <Converse at sesame.demon.co.uk>
+To: d.wujastyk at ucl.ac.uk
+Subject: South Asian transliteration standards
+
+
+South Asian transliteration standards
+
+I am the chair of the International Organization for Standardization
+subcommittee responsible for transliteration (ISO/TC46/SC2: Conversion of
+Written Languages).
+
+Despite all the work on ISO/IEC 10646 and Unicode, there will always be a
+need for transliteration as long as people do not have the same level of
+competence in all scripts besides the script used in their mother-tongue,
+and may have a need to deal with these languages, or when they have to
+deal with mechanical or computerised equipment which does not provide all
+the scripts of characters that they need.
+
+Dominik Wujastyk had intended to cover both transliteration and character set
+issues as a preliminary to other ISO work in this area, in workshops at
+the recent World Sanskrit Congress in Bangalore (January 1997) but due to
+the large and rather unwieldy size of that Congress, these plans were
+abandoned.
+
+Dominik, Tony Stone and I discussed these issues further at a meeting at
+the Wellcome Institute for the History iof Medicine in London on 29
+January 1997. It is hoped to get a working group of ISO/TC46/SC2
+(Conversion of Written Languages) established which can work on one or
+more standards to cover transliteration of Indic scripts.
+
+This would work on developing a model ISO draft standard into a full ISO
+standard in due course, following normal ISO procedures. A meeting of
+ISO/TC46/SC2 and several of its working groups will take place at the
+British Standards Institution in London from May 12-14. Dominik Wujastyk
+originally offered to act as Project Editor for this, but due to
+other commitments has had to withdraw. Tony Stone has agreed to step in as
+Project Editor until this is confirmed in May, and beyond May 1997 unless
+any other experts are nominated.
+
+It is also intended to attract various other experts, besides those
+nominated by national member bodies, who could contribute by email in
+developing drafts and providing comments. Gaining international consensus
+is a major aim of ISO. For this reason the conv-dev at elot.gr list on
+transliteration of Indic scripts has recently been set up, to complement
+the tc46sc2 at elot.gr list on transliteration in general.
+
+For those of you not already on tc46sc2 at elot.gr list on transliteration,
+and who are interested in transliteration, I would suggest that you join
+that first, as the conv-dev at elot.gr list on Indic transliteration is not
+yet fully operational.
+
+
+The tc46sc2 at elot.gr list on transliteration
+
+People are now begining to realise that transliteration may have more
+indirect impact on other aspects of multilingual computing than they had
+previously realised.
+
+The secretary (Evangelos Melagrakis from Greece) and I now intend to make
+transliteration and ISO/TC46/SC2 far more visible and far more relevant to
+end users than it has been in the past.
+
+To enable this, an electronic mailing list for ISO/TC46/SC2 (tc46sc2 at elot.gr)
+has now been set up by ELOT (the Greek national standards body). We hope this
+list will attract researchers and scientists who can add useful information
+which might assist in developing standards on the Conversion of Written
+Languages.
+
+We also hope to have an emphasis on issues of using computers to do
+appropriate transformations necessary in automated transliteration, and also
+look forward to having regular contact with those on this list who are
+interested in such issues.
+
+There are quite a few with an interest in transliteration of South Asian
+langauges in library catalogues on the list, and many other potential
+users of transliteration too.
+
+There are now over 240 subscribers to tc46sc2 at elot.gr, from 41 countries
+and territories - one of the most international lists around. However, we
+would still appreciate more input and participation from Asian countries.
+
+One major advantage of email is the ability to involve far more people in
+the development of a common purpose than were involved before, to get user
+feedback, and expert opinion from various sources.
+
+
+Subscribing to the mailing list for ISO/TC46/SC2
+
+In order to join the list you should be actively involved in using
+transliteration systems, or in developing transliteration systems, and should
+be prepared to contribute to the list from time to time.
+
+If you wish to join the list, send an email to
+
+        majordomo at elot.gr
+
+with this message in the body of the text:
+
+        subscribe tc46sc2 your at email.address
+
+(but with your real email address replacing the string your at email.address).
+
+To find out further commands you can use, send the command "help" as the text
+of an email either to tc46sc2-request at elot.gr or to: majordomo at elot.gr
+To unsubscribe, send the command "unsubscribe" instead, omitting the "quotes"
+marks in both cases. This will tell you how to obtain copies of past
+messages etc., and other useful features.
+
+Once you are subscribed, you can send messages to tc46sc2 at elot.gr and receive
+messages from other members of the list. Please reply where possible to the
+list as a whole, so that all can benefit: using the Group Reply function
+(pressing G on some email software) is the simplest way to achieve this.
+
+Other members will also be interested to see who else is joining the list, so
+it is useful to send a brief introduction (say, one or two short paragraphs)
+to tc46sc2 at elot.gr at the outset, saying what languages, scripts and other
+things you are involved in. That is the most likely way to stimulate others
+to write on the subjects you are interested in!
+
+You should also inform your national standards body to express your interest
+in participating in this list. I can provide some information on details of
+your national member body of ISO, if you send me an email requesting this.
+
+I look forward to seeing new participants on this list. Please feel free to
+forward this to anyone else who may be interested in transliteration
+standardisation issues, and to send any queries about the list to me.
+
+                                   Yours sincerely
+
+
+                                     John Clews
+-- 
+   John Clews (Chairman of ISO/TC46/SC2: Conversion of Written Languages)
+
+SESAME Computer Projects, 8 Avenue Rd.  *  email: Converse at sesame.demon.co.uk
+Harrogate, HG2 7PG, United Kingdom      *     telephone: +44 (0) 1423 888 432
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+From ucgadkw at UCL.AC.UK  Wed Feb 10 09:35:51 1999
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 10 Feb 99 09:35:51 +0000
+Subject: [Announcement] Workshop on Indian palaeography
+Message-ID: <161227046108.23782.9179425759009246681.generated@prod2.harmonylists.io>
+
+---------- Forwarded message ----------
+Date: Mon, 8 Feb 1999 20:45:53 +0000 (BST)
+From: Humanist Discussion Group <humanist at kcl.ac.uk>
+To: Humanist Discussion Group <humanist at lists.Princeton.EDU>
+Subject: 12.0409 conferences & calls
+
+              Humanist Discussion Group, Vol. 12, No. 409.
+      Centre for Computing in the Humanities, King's College London
+              <http://www.princeton.edu/~mccarty/humanist/>
+             <http://www.kcl.ac.uk/humanities/cch/humanist/>
+
+  [1]   From:    "David L. Gants" <dgants at english.uga.edu>           (59)
+        Subject: Cataloguing South and West Asian Manuscripts
+        Date: Mon, 08 Feb 1999 20:44:04 +0000
+
+ >> From: Kim_Plofker at Brown.edu (Kim Plofker)
+
+     The American Committee for South Asian Manuscripts (ACSAM)
+of the American Oriental Society is pleased to announce two
+workshops in non-Western palaeography and codicology, to be
+held at Columbia University in New York City from 31 May
+through 18 June 1999:
+
+1. Manuscripts in Nagari and related North Indian scripts,
+directed by David Pingree of Brown University.
+
+2. Manuscripts in Arabic and Persian,
+directed by Adam Gacek of McGill University.
+
+
+   Goal of the Workshops: ACSAM's Cataloguing Project
+   --------------------------------------------------
+
+The workshops will train advanced graduate students to become
+data-gatherers for ACSAM's project to catalogue all Indic and Islamic
+manuscripts preserved in North American collections. The resulting
+Union Descriptive Catalogue will be published in printed and
+electronic form: a draft of the prototype of the electronic
+version is available for viewing at http://www.stg.brown.edu/projects/acsam/
+now.  The Catalogue is a text-based electronic bibliographical tool
+structured in SGML; it is currently presented via Inso's DynaWeb text
+delivery system.  The sample entries in the prototype describe some of
+the Indic manuscripts at Columbia University. Full physical descriptions
+of the manuscripts and detailed identifications of the works they
+contain are presented in separate sections, with active links connecting
+entries in each section to the corresponding entries in the
+other, as well as to additional biographical and geographical information
+about the people and places mentioned in the catalogue.  Development of
+the prototype is currently continuing, to enhance features such as
+formatting, fonts, and searches.
+
+
+   Information about the Workshops
+   -------------------------------
+
+   (The following information may also be found at
+        http://www.brown.edu/Departments/History_Mathematics/workshops.html.)
+
+It is expected that the process of gathering data about all relevant
+North American manuscripts and completing the Union Descriptive
+Catalogue therefrom will extend over twelve or more years. The
+data-gatherers for the first summer will be paid their basic living
+expenses and a stipend of $12.00 an hour.  This compensation is contingent
+on our receiving funding; we will not know the extent to which we have
+been funded until April 1999. We hope to be able to employ several Arabists,
+Persianists, and Sanskritists for the summer of 1999. In case we receive no
+funding, the summer 1999 workshops and data-gathering will have to be cancelled.
+
+Although the amount of funding that will be available will not be known
+before next April, applications are invited now. Candidates must have completed
+at least two years of a PhD program that requires substantial expertise in
+one or more of the three languages, Arabic, Persian, and Sanskrit, including
+at least two years of study of the language whose palaeography he or she
+wishes to learn.
+
+Each candidate must submit undergraduate and graduate transcripts, three
+letters of recommendation, at least two of which should be from language
+instructors, and a statement (one or two pages) of his or her interest in
+and familiarity with manuscript studies.
+
+Applications should be sent before 1 April 1999 to:
+
+        Professor David Pingree
+        Brown University, Box 1900
+        Providence, RI 02912 USA
+
+
+
+
+-------
+Kim Plofker
+
+Technical Director, ACSAM
+
+Kim_Plofker at Brown.edu
+
+
+
+

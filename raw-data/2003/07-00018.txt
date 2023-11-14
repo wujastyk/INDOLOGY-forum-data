@@ -1,0 +1,59 @@
+From asg at U.WASHINGTON.EDU  Sat Jul 26 09:34:05 2003
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Sat, 26 Jul 03 11:34:05 +0200
+Subject: Proposal for the encoding of Brahmi
+Message-ID: <161227072993.23782.11860568390670861764.generated@prod2.harmonylists.io>
+
+Dear list,
+
+a proposal for the computer encoding of Brahmi is now available at
+
+   http://staff.washington.edu/baums/tmp/brahmi-proposal.pdf
+
+This document has been written in consultation with various
+specialist in varieties of the Brahmi script family, and it has
+been presented at the World Sanskrit Conference in Helsinki.  It
+will ultimately (before the end of the year, we hope) be submitted
+to the Unicode Consortium for official inclusion in the world-wide
+standard for the computer encoding of writing systems.
+
+Before we go ahead submitting it, however, we would like to
+encourage you to have a look and make sure that it is adequate for
+the variants of Brahmi that you deal with in your work.  Please
+keep in mind that the particular shape of letters is not a matter
+of the proposed encoding, but will be handled at the font level.
+But if there are any signs in your varieties of Brahmi that you
+feel are genuine separate characters, and that are not yet covered
+by the proposal, then please do let us know.
+
+We are also still looking for images that we can use to illustrate
+long and short vocalic l as initial and matra, and long vocalic r
+as initial only.  If you happen to have suitable illustrations
+from a pre-modern Brahmi source (i.e., not in Devanagari or any of
+the other modern scripts), then we would be most happy to use
+them.  (Such sources would probably be of the abecedary type
+rather than real texts; the Turfan manuscripts include many such
+abecedaries, and that's what we ourselves will look into next.)
+
+Finally, feedback would be particularly appreciated on the
+punctuation part of the proposal.  While we should be very
+conservative at this point about multiplying proposed punctuation
+characters (as opposed to mere graphical shapes that manuscripts
+use to delimit text), we do feel that some genuine punctuation
+signs are probably still missing (like, for instance, the
+abbreviation sign).  If you would like to suggest the encoding of
+additional punctuation marks, then please let us know and provide
+an illustration and/or a reference to a published illustration of
+the sign in question.
+
+Stefan Baums
+Andrew Glass
+
+-- 
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+
+

@@ -1,0 +1,84 @@
+From dom at uclblr.iisc.ernet.in  Wed Mar 29 10:42:03 1995
+From: dom at uclblr.iisc.ernet.in (Dominik Wujastyk)
+Date: Wed, 29 Mar 95 10:42:03 +0000
+Subject: Complaining about the loss of Blackbox
+Message-ID: <161227019030.23782.10715603061627352457.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+You may be aware that the computer site "blackbox.hacc.washington.edu",
+created and maintained by Tom Ridgeway, was suddenly unplugged at the
+end of last year.  At the same time, Tom's contract with the University
+of Washington, as head of the Humanities and Computing Centre (HACC),
+was summarily terminated.
+
+Tom was formerly a South Asianist (Gujarati, I believe), but moved
+sideways into humanities computing.  As a result, he retained a
+particular expertise in matters relating to computer facilities for
+South Asian studies, and the Blackbox computer was a mine of valuable
+programs and data for all INDOLOGY members.  In addition to maintaining
+a substantial library of Sanskrit texts in machine-readable form
+(including the only publicly available copies of the Ramayana and
+Mahabharata outside Japan), Tom and his staff created computer fonts for
+Sanskrit, Tamil, and several other languages, in original script and in
+romanization, and for several different programs (including Windows and
+TeX) and output devices (including EGA and VGA).  Many of us use parts
+of this library of tools even today.
+
+Because of the suddenness of Tom's dismissal, and the unplugging of the
+Blackbox site, it was impossible to save the Blackbox files.  There is
+currently an effort underway to try to recover some of the data, and
+make it available from sites in London, Liverpool and Columbia, NY.  But
+it is going very slowly, and it will probably not be possible to recover
+everything.
+
+Many people at the University of Washington (Seattle), as well as
+outsiders, were shocked and appalled by the above developments.  No
+explanation for the events has ever been made public, nor has there been
+any sign that the administrative authorities at U. Washington were aware
+of the wider impact of their actions, which may be compared with the
+destruction of a specialist library.
+
+These events are now past, and there is no chance that the situation can
+be improved or restored.  Nevertheless, there may be some purpose in
+registering a protest, even at this late stage.
+
+I have been in discussion with Prof. Pierre Mackay of the Department of
+Classics of U. Washington (Denny Hall, Mail Stop DH-10, University of
+Washington, Seattle, WA 98195. Tel. (206) 543-2268) who was as horrified
+as the rest of us by what happened.  Prof. Mackay feels that if he were
+to receive letters of appreciation for Tom Ridgeway's contribution to
+Indological computing, from people who used materials he created or made
+available, and for the Blackbox ftp site, and critiques of their summary
+removal, it might be possible to create a small shift in atmosphere at
+U. Washington.  In particular, the department of Slavic Studies is
+currently under threat, and an international response on the
+cancellation of the Indian facilities might create a climate in which
+further cuts in rare subjects (Russian!?) might be weighed more
+carefully.
+
+If you wish to register a message of appreciation for Tom Ridgeway's
+contribution to INDOLOGY, and/or regret concerning his dismissal and the
+removal of Blackbox, please send it to Prof. Pierre Mackay
+mackay at cs.washington.edu.
+
+Best wishes,
+Dominik Wujastyk
+
+ 
+
+Original-Received:  by bronze.ucs.indiana.edu 
+PP-warning: Illegal Received field on preceding line
+Date: Wed, 29 Mar 1995 09:00:51 -0500
+From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
+To: indology at liverpool.ac.uk
+Subject: Re: NYAGRODHA
+Message-ID: <"liverbird.li:078320:950329140508"@liverbird.liverpool.ac.uk>
+
+Thanks Dominik for the nice story.  Edeltraud.
+ 
+
+
+
+
+

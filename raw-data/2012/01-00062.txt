@@ -1,0 +1,18 @@
+From martin.gansten at PBHOME.SE  Tue Jan 31 05:36:16 2012
+From: martin.gansten at PBHOME.SE (Martin Gansten)
+Date: Tue, 31 Jan 12 06:36:16 +0100
+Subject: Vikram calendar conversion
+In-Reply-To: <CAHRgzy0vjA8ozQbkBfXnvn8dUJzVZ=S1RCyxYC9Gc=EgV+LgRg@mail.gmail.com>
+Message-ID: <161227095061.23782.5999790778856514430.generated@prod2.harmonylists.io>
+
+> I was wondering if anyone could suggest a reliable resource for
+> converting dates in Vikrama Samvat to the Gregorian calendar?
+
+Michio Yano has written a very useful web application for such purposes:
+http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/
+
+Martin Gansten
+
+
+
+

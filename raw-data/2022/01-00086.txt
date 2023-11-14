@@ -1,0 +1,23 @@
+From hellwig7 at gmx.de  Tue Jan 18 08:36:16 2022
+From: hellwig7 at gmx.de (Oliver Hellwig)
+Date: Tue, 18 Jan 2022 09:36:16 +0100
+Subject: [INDOLOGY] Vedic treebank
+Message-ID: <b59450ba-dd34-62f2-b1bd-b6c15fa6aced@gmx.de>
+
+Dear all,
+
+a new version of the Vedic treebank with more than 18,000 syntactically
+annotated sentences ranging from the RV to the Grhyasutras is now
+available online at:
+
+https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec/treebank
+
+The epic annotation guidelines can be found here:
+
+https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec/paper
+
+Best, Oliver
+
+---
+Oliver Hellwig, IVS Z?rich/ISI D?sseldorf
+

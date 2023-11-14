@@ -1,0 +1,72 @@
+From magier at columbia.edu  Fri May 26 13:50:10 1995
+From: magier at columbia.edu (David Magier)
+Date: Fri, 26 May 95 09:50:10 -0400
+Subject: Internet-resources on Asian Studies - repeated query
+Message-ID: <161227019537.23782.17992047211146469339.generated@prod2.harmonylists.io>
+
+Further to your message:
+you mentioned that you will be bringing this list online 'possibly as a
+web page' via Hiroshima sometime this summer. Allow me to offer the
+South Asia Gopher (and the "South Asia Gopher/Web") here at Columbia as
+an alternative or mirror site, to reduce the load on the Hiroshima
+server. (If the ftp archive of Prof. Tokunaga's Mahabharata files is
+any indication, those of us in North America will find the Hiroshima
+server a very slow link, perhaps too slow for us to use effectively for
+a web page. So a North American mirror site might be a good idea). What
+do you think of this proposal?
+Thanks.
+David Magier
+"The South Asia Gopher"
+magier at columbia.edu
+ 
+
+Date: Fri, 26 May 1995 10:25:06 -0400 (EDT)
+Date-warning: Date header was inserted by UNCWIL.EDU
+From: wilsonj at UNCWIL.EDU (Joe Wilson)
+Subject: Re: Internet-resources on Asian Studies - repeated query
+X-Sender: wilsonj at vxa.ocis.uncwil.edu (Unverified)
+To: indology at liverpool.ac.uk
+Message-id: <v01520c0aabeb5871eb0a@[152.20.52.1]>
+MIME-version: 1.0
+Content-type: text/plain; charset="us-ascii"
+Content-transfer-encoding: 7BIT
+
+=========== At 11:07 AM 5.26.95, Birgit Kellner wrote
+> ... requesting information on Internet-related
+>resources on Asian Studies in general, Tibetan and Buddhist Studies in
+>particular. The background was to provide the participants in the 7th
+>Seminar of the International Association of Tibetan Studies (IATS), which
+>will take place from 17th-24th of June in Seggau/Austria ...
+
+After I had communicated with Ms. Kellner privately in regard to her recent
+posting, it occurred to me that there might be some utility in conveying
+some of what I had said to the entire list.
+
+The International Association of Buddhist Studies is in the process of
+constructing a web site, to include links to sites such as the one
+mentioned above in addition to others.  When that site goes online, I will
+inform this list of its URL in hopes of receiving suggestions and
+critiques.
+
+Perhaps those of us who will be at the June IATS meeting could get together
+at some point and talk about these matters.
+
+[This will be cross-posted to Indology and Tibet-L.  Apologies in advance.]
+
+Joe Wilson
+Associate Professor of Philosophy and Religion
+Treasurer, International Association of Buddhist Studies
+Editor, Dharma Vajra Series on Himalayan Buddhist Studies
+-------------------------------------------------------------------------
+Office: (910) 395-3410  |  Home: (910) 791-2250  |  Fax: (910) 350-7010
+Department of Philosophy and Religion            |  wilsonj at uncwil.edu
+University of North Carolina at Wilmington
+Wilmington NC  28403-3297  U.S.A
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,83 @@
+From Vaidix at AOL.COM  Mon Jan 19 11:43:41 1998
+From: Vaidix at AOL.COM (Vaidix)
+Date: Mon, 19 Jan 98 06:43:41 -0500
+Subject: linguistic & mathematics
+Message-ID: <161227034840.23782.11227281264373256539.generated@prod2.harmonylists.io>
+
+Dear Mr Thillaud,
+
+>(I'm not convinced the fuzzy set theory is a powerful tool in
+>linguistic, I believe that's just a attempt to give some obscurity (hence
+>seriousness) to simple facts.)
+
+Not yet, it is a new field in infancy.
+
+The digital computers are based on a design that uses some specific states
+"on" and "off".  Everything else in the digital computer is definite.
+
+The brain and other neuro material in the body are made up of millions of
+neurons.  These neurons do not work like digital switches, but have their own
+method of computing (called neuro-fuzzy computing).  The neurons do not work
+as fast as the digital switches of a computer, it is like comparing a tortoise
+to a space rocket, but the neuro computing (of even a two year old child) can
+achieve miracles like pattern recognition (such as recognizing the caricature
+of a cow as a cow) which even digital computer can not do to this date.  What
+is the secret of this miraculously great computing power of the brain?
+
+There are two aspects to this.  Neuro and Fuzzy.
+
+Let us talk of "Fuzzy" to begin with. Each neuron knows pretty well, the
+futility of trying to digitize an observation and accurately measure it, there
+is just not enough time to do it, considering the urgency of the situation the
+organism faces.  As a survival instinct, the neuron assess each event and
+categorizes the event into one of the "few" known "linguistic" states of mind.
+Let us say there is a neuron located in a certain place in the brain (which
+can be verified by scientific experiments) which is an expert in assessing
+distances.  This neuron never attempts to measure the distance of a speeding
+vehicle in exact meters and milli meters to begin with.  It just puts the
+distance into some knows states such as "very near", "near", "a little far" or
+'far" etc.  The brain then uses these fuzzified inputs in its processing.  If
+the results are not satisfactory, next time the neuron learns to improve its
+assessment of distance.
+
+To actually measure the distance in meters, we have to probably go to other
+neurons in a different place in the brain, which are experts in that field.
+Depending on context, these neurons may translate "very near" as ten meters,
+"very far" as 100 meters etc.
+
+There would be other neurons that decide whether there is a need to measure
+the distance more accurately or whether to stop measuring and take necessary
+action considering the urgency.  These neurons classify the time available
+into linguistic states such as "ample time available", "some what urgent" or
+"very urgent" etc.  The list is endless.  It is all a team work by neurons
+which are experts in different aspects like this.
+
+The other aspect of the miracle of the mind is "Neuro".  The word neuro
+denotes a network of neurons.  A single neuron can not achieve much other than
+express its own feelings in a chemical or electric language.  A network can do
+wonders.  "Making connections" between neurons has the linguistic effect of
+relating different concepts.  "Transmission" of signals is the linguistic
+equivalent of deduction.  Readjusting the connections between neurons
+depending on success or failure of present action is the lingustic equivalent
+of "Learning".  The list is endless.
+
+Combining neuro and fuzzy concepts, computer scientists are able to write
+programs that can do near-human things like pattern recognition (such as
+signatures).  These are the things that can not be achieved by tradition
+computer programming.
+
+When computer scientists can benefit from linguistic experience, why can't
+lingusts benefit from neuro-fuzzy theories?
+
+If a neuron assesses each event into certain lingustic states, conversely each
+syllable used in linguistics in any language is the result of such assessment
+by neurons. That is the connection.  The field is brand new, and a lot more
+research is needed before it can be put to practical use, but we can make a
+beginning.
+
+Bhadraiah Mallampalli
+http://www.fortunecity.com/roswell/bailey/64 (Vaidix).
+
+
+
+

@@ -1,0 +1,19 @@
+From Royce.Wiles at ANU.EDU.AU  Tue Dec 16 02:35:27 1997
+From: Royce.Wiles at ANU.EDU.AU (Royce Wiles)
+Date: Tue, 16 Dec 97 13:35:27 +1100
+Subject: Apple Indian language kit
+Message-ID: <161227034432.23782.5847421526572989189.generated@prod2.harmonylists.io>
+
+The Apple Indian language kit supporting Devanagari (plus Gujarati and
+Punjabi scripts) was released earlier in 1997. Has anyone on this list used
+it to prepare camera-ready copy? Maybe they could share some comments on
+what it's like and whether the investment has been worth it.
+
+I'm particularly keen to know if it works well with PageMaker 6.5.
+
+Royce Wiles
+Australian National University
+
+
+
+

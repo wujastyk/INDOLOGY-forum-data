@@ -1,0 +1,21 @@
+From zydenbos at LRZ.UNI-MUENCHEN.DE  Thu Oct 17 11:36:46 2002
+From: zydenbos at LRZ.UNI-MUENCHEN.DE (Robert Zydenbos)
+Date: Thu, 17 Oct 02 13:36:46 +0200
+Subject: utf-skt works & Unicode for Mac users
+In-Reply-To: <Pine.SOL.4.33.0210162354420.7986-100000@socrates-a.ucl.ac.uk>
+Message-ID: <161227071529.23782.6812914347103490216.generated@prod2.harmonylists.io>
+
+Am Donnerstag, 17. Oktober 2002 01:21 schrieb Dominik Wujastyk:
+
+> The following may not be the full answer, but colleagues tell me that
+> Jedit (from www.jedit.com) is very good at suporting Unicode.
+
+Thank you for the tip - I just downloaded the program and the manual, but the
+address should be http://www.jedit.org .
+
+Robert Zydenbos
+Muenchen
+
+
+
+

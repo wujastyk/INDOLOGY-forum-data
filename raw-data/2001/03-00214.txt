@@ -1,0 +1,29 @@
+From rao.3 at OSU.EDU  Fri Mar 16 15:01:54 2001
+From: rao.3 at OSU.EDU (Vidhyanath Rao)
+Date: Fri, 16 Mar 01 15:01:54 +0000
+Subject: Q: Historical Tamil syntax
+Message-ID: <161227068330.23782.6003157341462875566.generated@prod2.harmonylists.io>
+
+I would like to know how far back we can trace the following usage in
+Modern Tamil: The "future" form (historically derived from the non-past)
+is also used in case of states considered to be intrinsic or permanent,
+even if the referent is not alive. For example,
+
+    1) avar nalla uyaramaay iruppaar
+        He was quite tall. [In English, 'was' is required if the
+        referent is dead.]
+    2) madurai maNi iyer na_nRaaka shaNmugapriyaa paaDuvaar.
+        Madurai Mani Iyer was good at singing Shanmugapriya.
+
+It does not seem easy to find examples of such situations from the
+oldest Tamil texts. Whether a given form is considered a participle or
+a finite verb also seems to vary with the authority consulted, making
+it harder to classify a given sentence as nominal or not.
+
+[These cannot be waved away as historical presents. Use of past forms
+here change the meaning: saying paaDi_naar in 2) makes it seem to refer
+to a specific concert; saying iruntaar in 1) sounds strange.]
+
+
+
+

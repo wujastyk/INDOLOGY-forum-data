@@ -1,0 +1,99 @@
+From ferenc.ruzsa at ELTE.HU  Fri Feb 17 21:05:36 2006
+From: ferenc.ruzsa at ELTE.HU (Ferenc Ruzsa)
+Date: Fri, 17 Feb 06 22:05:36 +0100
+Subject: Something wrong with the WSC?
+Message-ID: <161227077436.23782.6465476567658664349.generated@prod2.harmonylists.io>
+
+Friends,
+
+I am not allowed to speak at the 13th World Sanskrit Conference in 
+Edinburgh. This might seem a purely personal affair [and it is: living in 
+Budapest, it is not exactly nice to be cut off from an important forum of 
+communication with the scholarly community], but perhaps it does have some 
+general interest as well.
+
+1. I offered a paper in which I intended to disprove the generally accepted 
+view according to which the cosmogonical myth of the Puru.sa-suukta is 
+Indo-European inheritance.
+2. It was rejected ? no reason given.
+3. After inquiry for the ground of the decision in e-mail I was told that 
+"the subject matter ... was not sufficiently relevant to the concerns of a 
+World Sanskrit Conference."
+4. I offered another paper on old Nyaaya inference. As it was submitted 
+after the deadline [of course, since the previous rejection was received a 
+month after the deadline] it was evaluated as a special favour for me.
+5. Rejected again: they "do not find it to contain an original idea, and 
+therefore reject it." I quote my abstract below, so that anybody may see if 
+it contains anything new or not.
+
+I am unaware of any conceivable personal reason for this double rejection.
+Any comments?
+
+Ferenc Ruzsa
+
+------ The abstract: --------
+The centrality of udaahara.na in old Nyaaya inference
+
+The five-membered naiyaayika inference seems unnecessarily complex. The 
+following three questions are inherently interrelated:
+? What is the role of the fourth and fifth members, when they are but 
+repetitions of the second (proof) and the first (proposition/conclusion)?
+? Why do we have in the third member an example instead of a statement of 
+the general rule?
+? Why are there two examples, positive and contrary, when the rules 
+illustrated by them are but contrapositives of each other, i.e. they are 
+logically equivalent?
+Later Nyaaya practically dropped the last two members, keeping them only for 
+rhetoric reasons in public arguments (paraarthaanumaana). And already 
+Dharmakiirti suggested that the first two members only constitute a valid 
+inference (the general rule being implied by them). But the Suutra is very 
+strict on the five members: omitting or adding an extra member means 
+unconditional defeat in a debate (nigrahasthaana).
+Already in the Suutra we find clear awareness of the fact that no example is 
+a valid substitution of the general rule: one kind of false reason, 
+hetvaabhaasa is the savyabhicaara, where there is an exception to the rule. 
+And later Nyaaya develops the theory of the upaadhis, restricting conditions 
+to correct such faulty inferences.
+The two kinds of example are generally justified with reference to those 
+rather unusual cases where either of the two is not possible (kevalaanvayin, 
+kevalavyatirekin). This explanation, although ingenious, is not fully 
+convincing as it is extremely difficult to find a plausible example of a 
+kevala-vyatireki li"ngam.
+We get closer to a possible answer once we get rid of the notion that the 
+anumaana is but a contorted version of the very simple Barbara-type 
+syllogism. Then we may recognise that the Nyaaya inference is essentially 
+inductive and intensional, in contrast to the basically extensional and 
+strictly deductive nature of traditional European logic. Here the question 
+is not, ?Given these premisses, what follows?? but rather ?How can we get 
+the right premisses?? And it is the function of the udaahara.na to establish 
+them.
+The premiss being sought is always a necessary relation; purely extensional 
+or accidental universality, like ?all chairs here are brown? is not 
+considered. This is already suggested by Pra"sastapaada and explicitly 
+stated by Dharmakiirti. So this premiss, the general rule, must be a natural 
+or metaphysical law.
+The two kinds of example represent two complementary research strategies to 
+find, confirm or reject such laws, e.g. there is no smoke without fire. 
+Focusing our attention on smoky objects, we try to remember a case when 
+there was no fire nearby; and then focusing on essentially non-fiery 
+objects, we try to find a case when there was still some smoke there. The 
+stock example is very suggestive. ?As in the kitchen? is clearly not a 
+single case of co-occurrence of fire and smoke, but refers to innumerable 
+observations, and furthermore the causal relation could also be easily 
+observed there. ?Not as on the lake? again suggests many observations, and 
+also helps to clarify the concept of smoke ? for there may be dhuuma on the 
+lake, in the sense of ?mist?.
+Presenting this double strategy is a convincing way to prove a general law; 
+and in a debate it is a fair offer to the opponent: try in both ways to find 
+a counter-example! And if you can?t, then accept my rule.
+In a real debate this could be a long and complicated process; that is why 
+at the end it was very useful to recall the other premiss (there is smoke on 
+the mountain) and the proposition (there is fire on the mountain) ? since 
+they were announced hours, perhaps days ago; and in the meantime the meaning 
+of smoke has also become more definite, so we should now check if it was 
+really smoke or only mist we saw.
+ 
+
+
+
+

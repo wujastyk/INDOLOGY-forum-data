@@ -1,0 +1,68 @@
+From jacob at FABULARASA.DK  Wed Mar 30 16:26:39 2011
+From: jacob at FABULARASA.DK (Jaob Schmidt-Madsen)
+Date: Wed, 30 Mar 11 18:26:39 +0200
+Subject: A puzzling palm leaf (updated)
+Message-ID: <161227092044.23782.12303054090208155213.generated@prod2.harmonylists.io>
+
+[Sorry, I think there was a minor problem with the diacritics in the
+second line quoted. I have written them Harvard-Kyoto style instead.]
+
+/jacob
+
+---
+
+Dear all
+
+One of the palm leaves in the Sinhalese Sanskrit manuscript I am currently
+working on continues to be a bit of a mystery to me. I was wondering if
+any of you have encountered similar leaves, or might have an idea of what
+it might be, anyway.
+
+The leaf is broken off at both ends, and the writing is very faint, making
+me suspect that it was styled but not charcoaled. Furthermore, the leaf is
+not fitted with holes for binding.
+
+Recto it reads:
+
+Line 1-8: "[...] (b)R-bRR-bL-bLL-be-bai-bo-bau-bAm-baH-bha-bhA-bhi-bh(I)
+[...]"
+
+This appears to be a list of akSaras used for pagination, here running
+from 359 (bR) to 372 (bhI). Curiously, the listing does not continue down
+the leaf, but instead repeats the same line eight times over.
+
+Verso the leaf reads:
+
+Line 1-7: "[...]
+(ra)-la-va-za-Sa-sa-ha-La-(vadaki)maHk(I)-akSara-soDa(sacadak) [...]"
+
+This appears to be an alphabetically (or syllabarically) ordered list of
+consonantal characters with some text added (most notably the word
+"akSara"). Again, the line is repeated down across the entire leaf.
+
+You can see images of both leaves here (please note that recto and verso
+have been arbitrarily assigned by the people who scanned the images for
+me):
+
+Recto:
+http://florencefragments.files.wordpress.com/2011/03/leaf-6-recto.jpg
+Verso:
+http://florencefragments.files.wordpress.com/2011/03/leaf-6-verso.jpg
+
+So far, suggestions of what the leaf might represent have included a
+scribal exercise, a reference sheet, and a kind of orthographic ritual. If
+you have any more to add to the list, or any knowledge that might elevate
+one of the suggestions above the others, I would be most interested to
+hear from you.
+
+Puzzled greetings,
+
+Jacob
+
+Jacob Schmidt-Madsen
+Department of Indology
+University of Copenhagen
+
+
+
+

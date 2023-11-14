@@ -1,0 +1,66 @@
+From LubinT at wlu.edu  Tue Aug 12 11:49:01 2014
+From: LubinT at wlu.edu (Lubin, Tim)
+Date: Tue, 12 Aug 14 11:49:01 +0000
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_devan=C4=81gar=C4=AB_font?=
+In-Reply-To: <CAEzwJrCWSPBVdPXUrsVuj9uj88xnLYAaAptxE1nnWv1oyjd6dw@mail.gmail.com>
+Message-ID: <C326378A-F906-446F-918F-64C75EBD5842@wlu.edu>
+
+Similar problem here, as of yesterday.  Whenever I open a Word doc the keylayout switches to Devanagari. If I remove Dev from the list, it switches to US Extended, which cannot be removed. I normally use a customized version of EasyUnicode. The problem seems limited to Word.
+
+Tim Lubin
+
+Sent from my iPhone
+
+On Aug 12, 2014, at 4:20 AM, "patrick mccartney" <psdmccartney at gmail.com<mailto:psdmccartney at gmail.com>> wrote:
+
+Dear List,
+
+I am having trouble with the factory Hindi and Gujarati fonts on my Macbook Pro. In the middle of typing they just reverted to the Latin font. The Urdu font and phonetic fonts I also work with are fine.
+
+I made sure that caps lock was not on.
+
+I think it may be due the latest update?
+
+I went through keyboard preferences and uninstalled/unclicked both languages but that has not worked.
+
+Has anyone experienced this problem before or currently?
+
+
+All the best,
+
+Patrick McCartney
+
+PhD Candidate
+School of Culture, History & Language
+College of the Asia-Pacific
+The Australian National University
+Canberra, Australia, 0200
+
+
+Skype - psdmccartney
+
+Australia:  +61 487 398   354<tel:%2B61%20487%20398%20%C2%A0%20354>
+Germany: +49 157 5469 4045<tel:%2B49%20157%205469%204045>
+
+
+  *
+
+au.linkedin.com/pub/patrick-mccartney/68/b69/7aa/<http://goog_371544488>
+
+https://www.youtube.com/watch?v=xZHJVkhVBPc&list=UUfGaSWlfxH4er_TsQBmSINQ
+<http://goog_371544488>
+
+<http://goog_371544488>
+https://www.youtube.com/watch?v=LVqBD_2P4Pg
+
+http://www.youtube.com/watch?v=AfpCc8G_cUw&feature=related
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140812/f7744773/attachment.htm>
+

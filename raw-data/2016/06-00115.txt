@@ -1,0 +1,75 @@
+From caf57 at cam.ac.uk  Sun Jun 19 17:51:25 2016
+From: caf57 at cam.ac.uk (C.A. Formigatti)
+Date: Sun, 19 Jun 16 18:51:25 +0100
+Subject: [INDOLOGY] ISO transliteration standard for devanagari (Harry	Spier)
+In-Reply-To: <mailman.34.1466352008.430.indology_list.indology.info@list.indology.info>
+Message-ID: <49938de0e800c7a0704dc0c84a2cf0d2@cam.ac.uk>
+
+Dear Harry,
+
+I do not see any problem in this rule, I actually find it useful and 
+logical. I personally still use the IAST system simply because I haven't 
+got enough time yet to read thoroughly the ISO-15919 rules, but this has 
+nothing to do with the problem of transcribing manuscripts. I would use 
+the ISO-15919 transliteration system only when I edit a text. Preparing 
+a diplomatic transliteration of a manuscript is something different, I 
+would never normalize the use of class nasal or anusvara when 
+transliterating a manuscript, regardless of this rule.
+
+Personally, I believe that for a diplomatic transcription one ought to 
+reproduce the manuscript as it is, with all orthographic peculiarities 
+and all blunders. For instance, if you are adding avagrahas even if they 
+don't appear in the manuscript, strictly speaking you are not preparing 
+a diplomatic transcription. In this case, you can simply state at the 
+beginning of your transliteration that you normalize the use of class 
+nasals and anusvaras according to the ISO-15919.
+
+Moreover, when I transliterate any Brahmi-based script, I know that I am 
+interpreting the text to some extent for good or bad, for even in a 
+diplomatic transcription I do not try to reproduce the effect of the 
+scriptio continua. This is a contradiction to what I have just written, 
+but alas, working with manuscripts is still a challenge for me even 
+after years of cataloging.
+
+Best wishes,
+
+Camillo
+
+
+I have just been going through the ISO standard for transliteration of 
+Devanagari and related Indic scripts ISO-15919 and I found something 
+quite surpriseing.
+
+Note the following rule quoted exactly  from the standard is a 
+requirement not an option. The rule includes an example from Sanskrit.
+---------------------
+
+8.1 Special requirements
+Rule 3.
+a)
+
+In modern vernaculars, anusvara before a stop or class nasal shall be 
+transliterated as the corresponding class nasal; in other languages, 
+anusvara before a stop or class nasal shall be transliterated as 
+thecorresponding class nasal unless it arises from sandhi (euphonic 
+combination) of final m with that consonant.
+
+EXAMPLE 1 Sanskrit ??? is transliterated as sa?ga when it represents the 
+noun formed from sam + root gam, but as sa?ga when it represents the 
+noun derived from the root sa?j
+------------------------------
+
+That means in many cases  if you transliterated a manuscript exactly as 
+it was keeping all anusvaras as anusvaras you would not be following the 
+ISO standard for transliteration.  It also seems to me the standard is 
+crossing the line from transliteration into "interpretation".
+
+I'm somewhat surprised this found its way into the standard.
+
+Harry Spier
+.
+
+
+
+
+

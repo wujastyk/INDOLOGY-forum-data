@@ -1,0 +1,71 @@
+From mani at srirangam.esd.sgi.com  Mon Jan 23 22:46:38 1995
+From: mani at srirangam.esd.sgi.com (Mani Varadarajan)
+Date: Mon, 23 Jan 95 14:46:38 -0800
+Subject: Tamil: Naalaayira Divya Prabandham
+Message-ID: <161227018303.23782.11059060444291919184.generated@prod2.harmonylists.io>
+
+
+I got the following message from Parthasarathy Dileepan
+(email: mfpd at utcvm.utc.edu).  For those of you who may
+not know, the Azhvaars are Tamil Vaishnava poet-saints 
+who lived between the 6th and 10th centuries C.E. and 
+represent in many senses the foundations of the bhakti
+cult in India.
+
+Please email Mr. Dileepan or myself if you have any
+information about a possible FTP home for these e-texts.
+
+Thanks,
+Mani 	mani at sgi.com
+
+------- start of forwarded message (RFC 934 encapsulation) -------
+Dear participants,
+I will be posting the following in SCT today.
+Please let me know if you have any suggestions
+about possible FTP home for the prabhandam.
+
+Thank you.
+
+regards,  Dileepan
+
+- ---------------------------
+It is with great pleasure and satisfaction that
+I wish to announce, on behalf of the eighteen
+participants, the completion of the naalaayira
+dhivya prabhandam project.
+
+The collection includes the following:
+
+I. paasurams
+- ------------
+(1)  all the paasurams of the 12 aazhvaars,
+(2)  108 paasurams of iraamaanusa nooRRandhaathi by
+     thiruvarangatthamudhanaar, in praise of sri raamaanujaa,
+(3)  18 paasurams of prabhanda saaram by sri vEdhaantha
+     dEsikan, in praise of the 12 aazhvaars and the prabhandam, and
+(4)  100 paasurams of thiruvaaymozhi nooRRandhaathi by sri
+     maNavaaLa maamunigaL, in praise of nammaazhvaar's
+     thiruvaay mozhi.
+
+II. Other files:
+- ----------------
+(1)  Dr. K. Srinivasan's TAMILVU.EXE software for working
+     with the files containing the paasurams.  This software
+     allows key word searches, gathering paasurams with key-
+     word search, printing, etc.,
+(2)  README.TXT file containing information about the collection,
+(3)  AAZHVAAR.TXT file containing short biography about each of
+     the twelve aazhvaars, and
+(4)  FLIST.TXT file containing the names of the paasuram files
+     for use with TAMILVU.EXE.
+
+The complete set of 53 files in pk-zipped format is 444K.  I am
+looking for an FTP home for this file.  I would appreciate any
+suggestions and recommendations.  Thank you.
+------- end -------
+ 
+
+
+
+
+

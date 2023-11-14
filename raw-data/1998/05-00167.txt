@@ -1,0 +1,42 @@
+From yanom at KSUVX0.KYOTO-SU.AC.JP  Sat May  9 00:30:32 1998
+From: yanom at KSUVX0.KYOTO-SU.AC.JP (Michio Yano)
+Date: Sat, 09 May 98 09:30:32 +0900
+Subject: jtotisa_texts
+Message-ID: <161227038393.23782.11306209428346382621.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+I have upgraded the jyotisa directory of my ftp server:
+ccftp.kyoto-su.ac.jp
+pub/doc/sanskrit/jyotisa
+where the following files are available ---
+
+Mathematics and matmematical astronomy:
+abh.gnt         AryabhaTIya of AryabhaTa
+bg.gnt          BIjagaNIta of BhAskara
+bss.gnt         Mathematical chapters of BrAhmasphuTasiddhAnta of Brahmagupta
+lil.gnt         LILAvatI of BhAskara
+which we owe to Prof.Takao Hayashi, Doshisha University, Kyoto
+
+Astrology:
+bj.jyt  BRhajjAtaka of VarAhamihira
+bs.jyt  BRhatsaMhitA of VarAhamihira
+by.jyt  BRhadyogayAtrA of VarAhamihira
+ty.jyt  TikanikayAtrA of VarAhamihira
+vp.jyt  VivAhapaTala of VarAhamihira
+yy.jyt  YogayAtrA of VarAhamihira
+zka.jyt ZArdUlakarNAvadAna (a part of the DivyAvadAna)
+These texts were digitalized by Mizue Sugita.
+
+We shall continue upgrading our Sanskrit archives.
+
+Michio YANO
+Kyoto Sangyo University
+yanom at cc.kyoto-su.ac.jp
+
+You can visit the archives through my homepage:
+http://www.kyoto-su.ac.jp/~yanom/
+
+
+
+

@@ -1,0 +1,28 @@
+From nandu at vthp2.ple.af.mil  Mon Dec 19 19:14:38 1994
+From: nandu at vthp2.ple.af.mil (Nandu Abhyankar)
+Date: Mon, 19 Dec 94 11:14:38 -0800
+Subject: iisha_upanishad.h for translation
+Message-ID: <161227018043.23782.2626844110577459010.generated@prod2.harmonylists.io>
+
+-----------------Request for translation of iisha upanishad.h--------
+The iisha upanishad.h (iishopanishad.h) is available in ITRANS 
+transliteration format for
+anybody interested in translating it in English.  It has just about
+eighteen (18) shlokas.  If you are interested in the project or know if
+anybody has already done this translation on the network (not copied
+from printed book with copyrights) please contact Avinash Chopde at
+avinash at acm.org or achopde at avid.com  .  
+
+Some **other** sanskrit documents printed in a compact two column format
+in devanagari are avilable on anonymous ftp site chandra.astro.indiana.edu
+and for WWW access  http://chandra.astro.indiana.edu/isong
+in the sanskrit section (other than hindi.)
+
+Thanks.
+----------------------------------------------------------------------
+ 
+
+
+
+
+

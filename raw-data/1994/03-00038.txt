@@ -1,0 +1,78 @@
+From aklujkar at unixg.ubc.ca  Fri Mar 18 16:47:37 1994
+From: aklujkar at unixg.ubc.ca (aklujkar at unixg.ubc.ca)
+Date: Fri, 18 Mar 94 08:47:37 -0800
+Subject: Avanti-Jaipur distinction
+Message-ID: <161227016638.23782.1582831274021965847.generated@prod2.harmonylists.io>
+
+In response to an inquiry from "the new kid on the block", Tom Greer,
+information regarding Devanagari fonts is again being circulated on the
+Indology network. In this connection, I would urge all concerned to note
+the following:
+
+Creator (as much as one can be in this world) of Avanti and Sindhu  fonts:
+Ashok Aklujkar
+Creator of Jaipur and Hindustan fonts: Kenneth E. Bryant
+
+Avanti and Jaipur are for printing Devanagari. 
+Sindhu and Hindustan are for printing many Indic languages in romanization.
+
+Avanti and Sindhu were made by me in 1985 (slightly improved in 1988)  for
+dot-matrix printers. The former is a considerably improved version of what
+George Hart (Univ. of California, Berkeley) had accomplished. That it 
+prints well even on laser printers is something that still surprises me. It
+is, for example, the type used for Devanagari text matter in my book
+Sanskrit: an Easy Introduction to an Enchanting Language. 
+
+Sindhu too will work on laser printers but not so well. For most
+romanization I use Bryant's Hindustan. 
+
+In addition to storing better shapes of letters in the Mac s memory, the
+only contribution to the computerization of Indic scripts that I have made
+is a logical, easy-to-learn assignment of Devanagari letters to the Mac
+keyboards.  I should not be given credit for Jaipur or Hindustan. 
+
+Bryant now as improved versions of his laser fonts. They are True-type and
+are called Taj and Jaisalmer. 
+
+Many fonts made specifically for laser printers and capable of meeting
+Indological needs are now available. India has a considerable variety of
+them, although mostly for IBM-PC clones. In North America, the fonts made
+by Professor Madhav Deshpande (Univ. of Michigan , Ann Arbor, 
+madhav_deshpande at UM.CC.UMICH.EDU) are very good.
+
+Both Dr. Bryant and I earn our keep in the same department (Department of
+Asian Studies, University of B.C.,Vancouver, B.C., Canada V6T 1Z2, (604)
+822-5185, (604) 274-5353,  fax
+822-8937). For Dr. Bryant's fonts, please contact him directly. His e-mail
+address is:  		ken.bryant at mtsg.ubc.ca.
+
+A disk containing Avanti and Sindhu can be bought for only 40 US$ along
+with explanatory literature.  (I contribute the net proceeds to a student
+assistance fund.) It is good only for Macintoshes.
+
+Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
+Vancouver, B.C., Canada V6T 1Z2, (604) 822-5185, (604) 274-5353,  fax
+822-8937.
+
+ 
+
+Original-Received: from 
+                   ellis.uchicago.edu by midway.uchicago.edu for 
+                   indology at liverpool.ac.uk Fri, 18 Mar 94 10:52:30 CST
+PP-warning: Illegal Received field on preceding line
+Date: Fri, 18 Mar 94 10:51:16 CST
+From: david carl swain <swa6 at midway.uchicago.edu>
+To: indology at liverpool.ac.uk
+Subject: Re: Macintosh programs now run under DOS
+In-Reply-To: Your message of Fri, 18 Mar 1994 12:01:12 GMT
+Message-Id: <CMM.0.90.4.764009476.swa6 at ellis.uchicago.edu>
+
+Thanks for the info., Dominik. Does anyone know how Executor compares with
+"Mac-In-DOS" (about $60) or "Mac-In-DOS for Windows" (about $110)?
+		David Swain
+ 
+
+
+
+
+

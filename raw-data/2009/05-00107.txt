@@ -1,0 +1,74 @@
+From d.wujastyk at UCL.AC.UK  Tue May 26 15:23:25 2009
+From: d.wujastyk at UCL.AC.UK (Dominik Wujastyk)
+Date: Tue, 26 May 09 17:23:25 +0200
+Subject: Zeitschriften der DMG digital
+In-Reply-To: <2A050F71F50A0E4DA87B7DA81A57EE9811EDCF@EXPRSV05.mcs.usyd.edu.au>
+Message-ID: <161227086410.23782.17060554809132956246.generated@prod2.harmonylists.io>
+
+The managers of the ZDMG digital edition website have announced that they 
+will be providing PDF download facilities, certainly for pages, and if 
+possible also for individual articles.  It is in the pipeline.
+
+Best,
+
+-- 
+Dr Dominik Wujastyk
+International Institute of Asian Studies
+http://iias.nl
+
+long term email address: wujastyk at gmail.com
+
+
+
+
+On Mon, 25 May 2009, Mark Allon wrote:
+
+> Dear all,
+>
+> You may already know this, but you can produce a pdf by the following method: save each page as a JPEG (right click > Save image as > JPEG), then convert these to pdfs and stitch them together. Bit time consuming, but better than nothing.
+>
+> Regards
+> Mark
+>
+> Dr Mark Allon
+> Chair, Department of Indian Subcontinental Studies
+> University of Sydney
+> Brennan MacCallum Building A18
+> Sydney NSW 2006, Australia
+> Phone 02-93513891; fax 02-93512319
+>
+>
+> -----Original Message-----
+> From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of petra kieffer-P?lz
+> Sent: Sunday, 19 April 2009 8:01 PM
+> To: INDOLOGY at liverpool.ac.uk
+> Subject: Re: Zeitschriften der DMG digital
+>
+> Am 18.04.2009 um 20:08 schrieb Dominik Wujastyk:
+>
+>>
+>>
+>> Yes, I tried this, but what got saved on the disk was the html
+>> wrapper, without the digital image of the page.  But since you've
+>> had success, there must be some way round it on a PC (winXP) too.
+>
+> In saving a page one is asked whether one wants to save only the
+> frame, only the text or the whole website, etc.. The page of the
+> respective article is only saved if you choose "complete website". At
+> least that's the way I could save some articles.
+>
+> Best
+> Petra Kieffer-P?lz
+>
+> **************
+> Dr. Petra Kieffer-P?lz
+> Wilhelm-K?lz-Str. 2
+> 99423 Weimar
+> Germany
+> Tel. 03643/770447
+> kiepue at t-online.de
+>
+
+
+
+

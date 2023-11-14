@@ -1,0 +1,17 @@
+From Frank.vandenbossche at rug.ac.be  Tue Feb  4 14:55:03 1997
+From: Frank.vandenbossche at rug.ac.be (Frank Van Den Bossche)
+Date: Tue, 04 Feb 97 15:55:03 +0100
+Subject: Font problems under Word7
+Message-ID: <161227028145.23782.5622114190341429886.generated@prod2.harmonylists.io>
+
+Try to type your search strings not from the ordinary keyboard but using the
+code number for the letters (check 'insert, symbols, your font' for the code
+numbers), e.g. Alt (keep down while typing the rest)  0 203 for letter, say,
+'x'. Good luck.
+Frank Van Den Bossche
+
+
+
+
+
+

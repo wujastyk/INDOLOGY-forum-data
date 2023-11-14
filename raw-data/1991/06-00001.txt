@@ -1,0 +1,20 @@
+From ucgadkw at UK.AC.UCL  Mon Jun  3 11:29:58 1991
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Mon, 03 Jun 91 12:29:58 +0100
+Subject: email to India
+Message-ID: <161227015030.23782.575823800510419421.generated@prod2.harmonylists.io>
+
+ 
+Status: RO
+
+During a trip to Delhi this March, I visited the Indian National
+Science Academy, and was given a card by Dr. M. Dhara, Asstt.
+Executive Secretary and Assoc. Editor.  The card had Telex, Gram, Fax,
+etc., and also the following:
+ 
+E. mail: xxxx!vikram!insa!root
+ 
+This is a UUCP address, of course.  You might try a message to
+"postmaster at vikram.uucp"
+ 
+Tim Clark's excellent "Hints for Getting Mail Through Various Gateways

@@ -1,0 +1,73 @@
+From SASIA at EDU.UPENN.PENNSAS  Thu Aug 13 21:22:07 1992
+From: SASIA at EDU.UPENN.PENNSAS (South Asia Regional Studies)
+Date: Thu, 13 Aug 92 16:22:07 -0500
+Subject: New Font
+Message-ID: <161227015455.23782.4926250939032956501.generated@prod2.harmonylists.io>
+
+
+The following is from Jerome H. Bauer, a graduate student in the South Asia
+program at the University of Pennsylvania. I am Richard J. Cohen, Assistant
+Director of the South Asia program and my internet address is
+"sasia at pennsas.upenn.edu.
+ 
+     This letter is to announce the completion of the South Asia Extension
+Fonts, entitled "SouthAsiaTimes" and "SouthAsiaH." These are roman fonts with
+diacritics for the transliteration of most languages, aesthetically compatible
+with the Times and Helvetica fonts. Ownership of the Times and Helvetica fonts
+is assumed, as many characters such as the $, %, @ and & have been replaced
+with specialized linguistic characters, and some diacritics available in the
+standard Times aned Helvetica font have also been removed. All Macintosh
+owners are supplied with the Times and Helvetica fonts by Apple Computer, and
+these two fonts are built into most laser printers. Owners of IBM computers
+who wish to use the TrueType versions of these fonts with an inkjet printer
+should obtain Microsoft Windows 3.1, which includes the TrueType versions of
+Times and Helvetica.
+     The keyboard layout for SouthAsiaTimes and SouthAsiaH is identical. Both
+fonts exist ain all four basic styles (Roman, Bold, Italic and BoldItalic, and
+are available in the following formats: --Type 1 and Type 3 Postscript format
+for a Macintosh using a laser printer, --Type 1 and Type 3 Postscript for IBM
+PC or compatible with Windows 3 and Adobe Type Manager, --NeXT Type 1
+Postscript for NeXT with laser printer, --Macintosh TrueType for a Macintosh
+running System 6.0.7, 6.0.8, or System 7 with Apple StyleWriter or other
+inkjet printer, --IBM TrueType for IBM PC or compatible running the Microsoft
+Windows 3.1.
+     South AsiaTimes and SouthAsiaH were designed to replace, for most
+purposes, TimesIndian, developed by Professor George Hart of Berkeley, with
+his verbal consent and encouragement. I have kept the keyboard layout of
+TimesIndian and Berkeley Geneva, established as standards for South Asian
+Macintosh word processing for many years. I have also attempted to keep as
+much as possible of the keyboard layout of the Hindustan laser font
+(Macintosh), developed by Ashok Aklujkar of the Univ. of British Columbia,
+since this is also popular. In some cases this has led to redundancy.
+     Macintosh users should be cautioned that the keyings used by System 7 are
+very different from those used by previous Systems. Files will print correctly
+no matter which version of the System is used, but typing will be difficult
+under System 7. I recommend using System 6.0.7. with these fonts, or the "Old
+US" utility which will allow the user to retain the old keyings under System
+7. For the convenience of the user I will supply this public domain utility.
+     The fonts have been completed with the exception of some editing of the
+Macintosh bitmap screen fonts. I suggest working in the 14 point size or
+larger, which is quite legible, or investing in Adobe Type Manager to produce
+a more attractive screen display.
+     The entire package of SouthAsiaTimes and SouthAsiaH costs $75. The method
+of distribution is "shareware," meaning that users may freely copy the font,
+but if they find it useful, they are encouraged to send the payment, which is
+a fee to cover labor and materials. Those who send their fee will be
+registered users, entitled to technical support and future versions of these
+fonts. Users may customize these fonts for their own use, as long as the font
+names and ID numbers are changed.
+     Users are encouraged to distribute these fonts to others, as long as this
+notice is included.
+     A key chart and sample text file are available to registered users. A
+font called DevanagariFix is also available, containing a few characters
+unavailable in other Devanagari fonts. I have recently created TimesFix,
+containing a few Eastern European and Vietnamese diacritics, as well as some
+minor additions to the SouthAsiaTimes set. I will include both of these. I can
+be contacted at: Jerome H. Bauer, Dept. of South Asia Regional Studies, 820
+Williams Hall, Univ. of Pennsylvania, Phila., PA 19104-6305. Home phone:
+215-726-7926
+
+
+
+
+

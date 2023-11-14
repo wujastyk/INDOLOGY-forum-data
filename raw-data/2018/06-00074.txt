@@ -1,0 +1,91 @@
+From mkapstei at uchicago.edu  Mon Jun 11 21:20:16 2018
+From: mkapstei at uchicago.edu (Matthew Kapstein)
+Date: Mon, 11 Jun 18 21:20:16 +0000
+Subject: [INDOLOGY] Accuracy in translations
+In-Reply-To: <CAPAZekb5B2hnWJuFt+2g3aPJfqor+1A2UZMx0CZtbjy82YBgGw@mail.gmail.com>
+Message-ID: <MWHPR11MB15985391C7FEA146A839E39FA1780@MWHPR11MB1598.namprd11.prod.outlook.com>
+
+Dear David,
+
+
+Those involved in Tibetan translation often harbor, I think, a mistaken idea of "literalness" and its role in Tibetan translation. They incorrectly believe that creating a fairly consistent table of lexical equivalents is a sign of this "literalness." But if we consider terms such as sangs-rgyas for buddha, or byang-chub for bodhi, we learn that they were neologisms invented to stand in for the Skt. terms in question. That is, they became "literal" equivalents by sustained regular usage.  And when we compare Tibetan translations from Skt. with those from Chinese, we learn that there was a phase during which there was far less certainty about what counted as literally correct.
+
+Tshor-ba, for instance, could be used as an equivalent of Skt. vedanA, "sensation," or of Chinese jue, "awakening." Which one did it "literally" stand for? The question seems to me to be fundamentally misconceived.
+
+
+"I have hunger" is the literal translation of French "j'ai faim," but is an incorrect translation, in that it makes erroneous use of the target language.
+
+
+I would agree that translation from Tibetan has become far more nuanced in recent years than it was not long ago. But the traductology remains rudimentary.
+
+
+all best,
+
+Matthew
+
+
+Matthew Kapstein
+Directeur d'?tudes,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: David and Nancy Reigle <dnreigle at gmail.com>
+Sent: Monday, June 11, 2018 12:09:14 PM
+To: Matthew Kapstein
+Cc: indology at list.indology.info
+Subject: Re: [INDOLOGY] Accuracy in translations
+
+
+Dear Matthew,
+
+
+
+I am thinking that those who use the word ?literal? approvingly do not intend thereby to exclude such aspects as syntax, idiom, nuance, etc., even though the word would usually exclude these aspects. Those who use it in connection with the Tibetan translations of Sanskrit Buddhist texts probably could not think of another word to describe what they saw as the most distinctive characteristic of these translations. I get the impression that those who use ?literal? approvingly do so for lack of a better word to indicate contrast with more free translations, meaning by it only less free.
+
+
+Best regards,
+
+
+David Reigle
+
+Colorado, U.S.A.
+
+
+On Sat, Jun 9, 2018 at 3:29 PM, Matthew Kapstein <mkapstei at uchicago.edu<mailto:mkapstei at uchicago.edu>> wrote:
+
+Dear David and Dan,
+
+
+To my way of thinking the emphasis on "literalness" in translation is misplaced.
+
+Tibetan translations give an impression of great literalness because the Tibetans adhered rather closely -- sometimes too closely -- to a rigid scheme of lexical equivalents. But translation is something more than this; it requires sensitivity to syntax, idiom, nuance and more. The great 13th c. Tibetan translator Byang-chub-rtse-mo clearly recognized this and is quoted in his biography as saying that only poor translators follow the MahAvyutpatti with complete faithfulness.
+
+
+It is not difficult to find instances of Tibetan translations that are, to all intents and purposes, equally "literal," but that one is a fine, elegant work and the other unreadable hash. A case in point is Vasubandhu's ADhKBh, a great achievement, vs. Sthiramati's commentary on the ADhk, a pretty dismal exercise. And it would not be difficult to multiply the examples.
+
+
+I could go on, but my point is concise: in judging the value of a translation, literalness is but one value that must be considered alongside a range of others. And while I have great respect for Tibetan transmission lineages, it would be naive to imagine that sometimes grotesque misunderstandings have never crept into tradition. But I'll leave it at that.
+
+
+best regards,
+
+Matthew
+
+
+Matthew Kapstein
+Directeur d'?tudes,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180611/6d34a265/attachment.htm>
+

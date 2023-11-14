@@ -1,0 +1,61 @@
+From bhagavam at ccwf.cc.utexas.edu  Thu Oct  5 23:51:37 1995
+From: bhagavam at ccwf.cc.utexas.edu (manu bhagavan)
+Date: Thu, 05 Oct 95 18:51:37 -0500
+Subject: Q: URL addresses
+Message-ID: <161227021058.23782.12841206751140204393.generated@prod2.harmonylists.io>
+
+Dear Dr. Hueckstedt and other members of the Indology list:
+
+The URLS you have posted below for ASNIC and SAGAR are both correct and 
+are both working.  I just checked both addresses, and they seem fine.  
+
+As I am not sure what the trouble is, I have forwarded this 
+message on to <kamal at asnic.utexas.edu>, the Asian Studies Internet 
+Coordinator at UT.
+
+Has anyone else had similar problems?
+
+Manu Bhagavan
+Editor-in-Chief, SAGAR: South Asia Graduate Research Journal
+On Thu, 5 Oct 1995, RAH wrote:
+
+> I'm updating our Centre's Web page, again. I've tried one old and one new 
+> link that are giving me trouble. The old one is for the TITUS project on 
+> historical linguistics. I've tried these addresses:
+> 	http://www.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html
+> 
+> and
+> 	as above, but with watson in place of www.
+> 
+> The first address gives me the reply that "the location is not 
+> recognized". The second address gives me the reply that "the server does 
+> not have a DNS entry". 
+> 
+> The new address is the one for the Asian Studies Network Information 
+> Center and for the SAGAR journal put out at the University of Texas at 
+> Austin. The addresses I have for those are:
+> 	
+> 	http://asnic.utexas.edu/asnic.html
+> 
+> and 
+> 
+> 	http://asnic.utexas.edu/asnic/sagar/sagar.main.html
+> 
+> The response in each case is that I've got the wrong address. Thanks for 
+> any help that any of you may be able to give.
+> 
+> Bob Hueckstedt
+> 
+> Robert A. Hueckstedt, Associate Professor of Indic Languages
+> Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+> Winnipeg, Manitoba R3T 2N2 Canada email: hueckst at cc.umanitoba.ca
+> fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
+> 
+>  
+> 
+ 
+
+
+
+
+

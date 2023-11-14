@@ -1,0 +1,40 @@
+From wujastyk at GMAIL.COM  Wed Jul 20 08:01:28 2011
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Wed, 20 Jul 11 10:01:28 +0200
+Subject: new etexts at SARIT
+Message-ID: <161227093203.23782.2632794011536450838.generated@prod2.harmonylists.io>
+
+I'm pleased to announce some additions to the SARIT repository of Indic
+e-text editions.
+
+The new editions are of:
+
+   - Carakasa?hit?
+   - A????gasa?graha
+   - Ratnak?rtinibandh?vali
+
+A full list of available texts is given here <http://tinyurl.com/bpprco> (or
+just go to http://sarit.indology.info and press "search" without entering
+anything).
+
+As with all the texts in SARIT, the above works can be searched with
+strategies from simple word-searches to complex multi-criterion searches.
+KWIC indexes can be generated automatically.  And all works can be
+downloaded or read online in HTML, PDF or XML (TEI) format.
+
+All texts have also been installed in a Github repository as previously
+announced.  This is an experimental service for intelligently managing
+updates and changes to these e-texts as they evolve in time through
+enrichment and correction.
+
+With many thanks to Patrick Mc Allister for technical support,
+
+Best,
+Dominik Wujastyk
+SARIT
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110720/47b1c189/attachment.htm>
+

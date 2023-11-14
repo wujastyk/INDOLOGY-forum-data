@@ -1,0 +1,33 @@
+From wujastyk at GMAIL.COM  Tue Jul  6 19:00:29 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Tue, 06 Jul 10 21:00:29 +0200
+Subject: (Xe)(La)TeX, (L)Edmac, and Velthuis query
+In-Reply-To: <E9E6EABDBD59D84AB47B4A12E39AE11D4B15F8FBA2@MEXMBA.ad.wlu.edu>
+Message-ID: <161227089882.23782.11618426243583510723.generated@prod2.harmonylists.io>
+
+Now this really does seem like magic.  By changing the single command
+
+   - \setdefaultlanguage{sanskrit}
+
+to
+
+   - \setdefaultlanguage{english}
+
+the mini-edition that was in N?gar? now appears in roman transliteration.
+It's pretty astonishing.
+
+Of course, it isn't the language that's changing, just the writing system.
+So the command should be something like \setdefaultscript rather than
+...language.  But never mind that, for the time being.  It's a proof of
+concept.
+
+For an image of this, see,
+
+   -
+   http://cikitsa.blogspot.com/2010/07/switching-from-devanagari-to-roman-with.html
+
+DW
+
+
+
+

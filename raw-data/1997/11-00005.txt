@@ -1,0 +1,34 @@
+From reusch at UCLINK4.BERKELEY.EDU  Sat Nov  1 21:45:11 1997
+From: reusch at UCLINK4.BERKELEY.EDU (B. Reusch)
+Date: Sat, 01 Nov 97 13:45:11 -0800
+Subject: Bibliography software; cross-platform-ness
+Message-ID: <161227033372.23782.4241447222674888044.generated@prod2.harmonylists.io>
+
+As I don't know how many of you would be interested in the following, this
+is merely a preliminary survey. If these topics are not of general
+interest, I'd suggest to anyone who has any relevant info to, please,
+e-mail me privately at <reusch at uclink4.berkeley.edu>. Thanks.
+
+[1] Does anyone use a database to store their biblio's -- with different
+layouts for different purposes, etc. ? If so, how do you get your DB and WP
+software to cooperate?  Since I'm a Mac user, I'm primarily interested in
+Mac (AppleEvents, etc.); still, the question is open to the users of all
+platforms.
+
+[2] Considering the challenges of cross-platform exchanges for the users of
+South Asian languages, and even for people on the same platform but using
+different fonts, at what point in our work does something like LaTeX become
+a necessity? Again, I'm primarily interested in Mac, but the question is
+open to all.
+
+Looking forward to your advice,
+
+
+
+
+Beatrice Reusch
+University of California, Berkeley
+
+
+
+

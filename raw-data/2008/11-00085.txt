@@ -1,0 +1,28 @@
+From selwyn at NTLWORLD.COM  Sat Nov 29 21:33:14 2008
+From: selwyn at NTLWORLD.COM (L.S. Cousins)
+Date: Sat, 29 Nov 08 21:33:14 +0000
+Subject: Compatible Font for Macs and PCs...
+In-Reply-To: <Pine.GSO.4.58.0811291334580.29315@socrates-a.ucl.ac.uk>
+Message-ID: <161227084043.23782.17834888707715326872.generated@prod2.harmonylists.io>
+
+Despite the various comments made so far, it seems to me that specialist 
+fonts are no longer the way to go. On a new Mac with a recent System the 
+standard fonts which come with the Mac (and with Office) are Unicode 
+fonts which contain the necessary characters. So if one uses, say, 
+Times, then it  should now be fully compatible with Windows. That does 
+seem to be the case for Pali. Probably for standard Classical Sanskrit. 
+The situation might be different for e.g. G?ndh?r?. It would be 
+interesting to know what others have found.
+
+
+Both the EasyUnicode (not Easy Unicode) keyboard and PopChar are very 
+useful.
+
+
+Lance Cousins,
+
+Wolfson College, Oxford
+
+
+
+

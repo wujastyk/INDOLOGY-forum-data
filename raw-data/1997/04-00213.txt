@@ -1,0 +1,101 @@
+From vidynath at math.ohio-state.edu  Fri Apr 11 18:21:12 1997
+From: vidynath at math.ohio-state.edu (Vidhyanath Rao)
+Date: Fri, 11 Apr 97 14:21:12 -0400
+Subject: `Conversational Sanskrit' vs `Real Sanskrit'
+Message-ID: <161227029569.23782.11114159458894045674.generated@prod2.harmonylists.io>
+
+
+
+I have my own pet peeves about modern Sanskrit, one in particular
+being a tendency to try to ape English word construction or
+syntax. But then this is not unique to Samskrita Bharati.
+`antaaraa.s.triya', which is an atrocity as a Sanskrit word,
+was not introduced by them [I would appreciate knwing who started this
+and when]. Neither was the calque of the English progressive tenses.
+What I find most distasteful is the apparently strong dislike of
+Sanskritizing/Indianizing the phonology of borrowed words. 
+``kaaphii sviikarotu'' is bad Sanskrit irrespective of what gender
+you give to `kaaphii'. Tamilians at any rate, and may be all
+South Indians would instinctively shorten the final `ii'. So
+would Sanskrit speakers, assuming that they give `kaaphii' the
+`natural' gender of neuter. Avoidance of such phonological changes,
+and looking down on those who use such pronunciations, is a trait that
+is typically associated with people of a certain social type and
+education, and a trait that should be discouraged, not encouraged.
+
+I would also agree that Samskrita Bharati's work is directed more
+towards strengthening the feeling of cultural continuity among
+urbanized Indians (in India or elsewhere) and to lessen the feelings
+of alienation. But the tone of the some of the criticisms makes me
+wonder what is Sanskrit anyway and who owns it? 
+
+Adi Hastings <amhastin at midway.uchicago.edu>
+
+>The 'simple' Sanskrit taught by Hindu Seva Pratishtanam (Sanskrita
+>Bharati) in Bangalore is not exactly the same as C.K. Ogden's BASIC
+>English (which was supposed to rely on ca. 700 'primitive' lexemes to
+>construct an infinite number of BASIC sentences).
+
+Doesn't Baisc English also involve lexical leveling? The old joke about
+`blood, sweat and tears' coming as `blood, body water and eyewash' comes
+to mind.
+
+>Rather, the simplification has involved a certain amount of lexical
+>levelling (i.e., reduction of synonymous roots, etc.),
+>simplification of the nominal declensional system (instrumental and
+>dative, I think, are replaced by various prepositional constructions),
+
+This well predates Samskrita Bharati. Speyer, in his Sanskrit Syntax,
+notes the frequent use of copmounds in -muulena, -maarge.na, -dvaaraa
+instead of tritiiyaa (not `the instrumental'; what is the instrument
+in `dadhnaudanam'?) etc in `Modern Sanskrit', presumably 18th and 19th
+century Sanskrit.
+
+Use of -artham, -nimittaaya etc. for caturtii is not new either.
+
+The various uses of the suffix -tas (for example, `tenaikadik')suggests
+that originally it had a different connotation from ablative. Yet it
+had become synonymous with the ablative quite early.
+
+>the aorist has been thrown out (as too complicated and cumbersome),
+>and the past tense is usally expressed using nominalized verbs
+>(e.g., past passive and active participles in -ta and -tavant),
+>rather than imperfect or perfect finite conjugated verbs.
+
+I had to reread the header to make sure that the writer is not
+D. W. Whitney. Wasn't the aorist out of general use umpteen
+centuries ago? And wasn't the replacement the past participle in -ta?
+
+The only thing different about S. B. Sanskrit is the relative
+popularity of -tavant. I guess South Indians do not like ergative
+constructions :-)
+
+There is a more serious question here: How far is medival Sanskrit,
+especially the Sanskrit of commentaries, `Real Sanskrit' and how
+much of it is `MIA with Sanskrit phonology'? Is Marathi or Hindi
+based Sanskrit somehow more `real' than Kannada based Sanskrit?
+
+This kind of thing goes quite far back. Many vaartikas have the
+form `... iti cet ...'. This is dead ringer for Tamil `e_n_taal'
+(`enRAl' in ITRANS). [I not claiming that Katyayana's first language
+was Tamil. Only that the dominant language of his childhood was
+likely Dravidian. Please note that `dominant' <> `first'.]
+Interestingly enough, this is not so common in Patanjali when he is
+not repeating vartikas. Now, which is `Real Sanskrit'?
+
+I am reminded of a question which was raised several months ago,
+about the use of `m' instead of anusvaara before
+p, ph, b, bh, m and v. Now praati"saakhyas universally recommend
+`m' before the first five and nasalized v (closer to m than to
+anusvaara) before v. Panini marks this with `vaa'; Kiparsky has
+produced strong evidence that `vaa' marks the preferred option.
+Yet there are those who would have us believe that the use of m
+is somehow substandard. Which is `Real Sanskrit'?
+
+I think that I will stop here, though much remains to be said.
+Nath Rao (nathrao+ at osu.edu)		614-366-9341
+
+
+
+
+

@@ -1,0 +1,34 @@
+From suvidya at OPTONLINE.NET  Thu Dec 28 16:21:25 2000
+From: suvidya at OPTONLINE.NET (Arun Gupta)
+Date: Thu, 28 Dec 00 16:21:25 +0000
+Subject: Origins of the "double-truth"
+Message-ID: <161227066026.23782.2594887292454406806.generated@prod2.harmonylists.io>
+
+>>On Einstein and Newton:
+>>This is no case of double truth; if the theory of relativity is true, then
+>>Newtonian mechanics is not - it is only a good approximation.
+
+But Einstein's theory of relativity is not true, but only an approximation,
+because it is a classical ( i.e., not a quantum-mechanical theory).
+Relativistic quantum mechanics leads inexorably into quantum field theory,
+which is recognized to be an approximation, in part because no one has
+figured out how to include gravity.  The best we can (practically) do is
+quantum field theory on classical gravity backgrounds, (what Stephen Hawking
+is famous for).  Then we have the theology of M/brane/superstring-theory
+which seems to tie all the essential physical ideas together, but which
+offers no experimental prediction which can be used to rule out the theory.
+
+The quantum field theory, the Standard Model, which ties together all
+experimentally known facts extremely well, is recognized to be an
+approximation, simply because it shows near-regularities is like that of
+Mendeleyev's Periodic Table, but offers no clue as to the underlying reason
+for the regularity.
+
+So, modern physics is either a case of no truth at all, or of multiple
+truths.
+
+-Arun Gupta
+
+
+
+

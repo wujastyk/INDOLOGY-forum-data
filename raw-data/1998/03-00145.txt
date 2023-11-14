@@ -1,0 +1,33 @@
+From dran at CS.ALBANY.EDU  Mon Mar  9 15:46:01 1998
+From: dran at CS.ALBANY.EDU (Paliath Narendran)
+Date: Mon, 09 Mar 98 10:46:01 -0500
+Subject: The Shiva Hypothesis (fwd)
+In-Reply-To: <19980308203203.17401.qmail@hotmail.com>
+Message-ID: <161227036548.23782.10219269425674708110.generated@prod2.harmonylists.io>
+
+> 4. In Flexible Manufacturing Systems i.e. FMS, a very popular
+> technique of pictorial modelling is called "Petri net
+> theory". I have been told that the "Petri" is related to
+> Samskrt "pitr~"(father) . This derivation is obviously far
+> fetched,
+
+Petri nets are named after Carl Adam Petri, who invented them
+in the early 60's.
+
+-Narendran
+
+P.S. A bibliography of Petri nets is available at
+     http://www.informatik.uni-hamburg.de/TGI/pnbib/index.html
+
+--
+---------------------------------------------------------------------------
+Paliath Narendran
+Associate Professor                    URL: http://www.cs.albany.edu/~dran/
+Department of Computer Science         phone: (518)442-3387
+University at Albany --- SUNY          fax:   (518)442-5638
+Albany, NY 12222
+---------------------------------------------------------------------------
+
+
+
+

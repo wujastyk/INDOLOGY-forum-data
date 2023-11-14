@@ -1,0 +1,59 @@
+From jds10 at CUS.CAM.AC.UK  Mon Mar  2 10:12:21 1998
+From: jds10 at CUS.CAM.AC.UK (John Smith)
+Date: Mon, 02 Mar 98 10:12:21 +0000
+Subject: TrueType fonts, TeX etc.
+In-Reply-To: <Pine.OSF.3.91.980228235958.1287B-100000@blr.vsnl.net.in>
+Message-ID: <161227036314.23782.3547917589020458140.generated@prod2.harmonylists.io>
+
+On Sun, 1 Mar 1998, Robert J. Zydenbos wrote:
+
+> Anshuman Pandey wrote (about TrueType and PK fonts, etc.):
+>
+> > Here's another suggestion: Move completely over to TeX and your
+> > problems will be solved! Ask anyone... :-P
+>
+> I'm quite willing to believe you: TeX looks like a wonderful system. My
+> one problem is, however, that I have not been able to install any font
+> successfully except the standard Computer Modern font (I am using emTeX
+> with OS/2) -- with which I can write practically anything I want in
+> transliteration, using any diacritics I want, but I have not been able
+> to fully install either other Latin fonts (the system refuses to produce
+> accented European characters in these other fonts, although the Metafont
+> files say that they are there) or, for instance, the ITRANS fonts.
+>
+> Is there any clever source of information available anywhere on how to
+> install other TeX fonts? I have gone through all the documentation on
+> TeX and Metafont that came with emTeX, but I still have not understood
+> what I am doing wrong.
+
+Post-1990 TeX has what is without doubt the best approach to the use of
+special character sets available in any major system: virtual fonts. A
+virtual font is a layer of software that "tames" a raw font and makes it
+act as the user wishes. In use it "feels" just like a real font. Among the
+advantages of this approach are that one can make virtual fonts
+implementing special character sets for any real font one chooses: there
+are no copyright hassles. There is a big collection of virtual fonts
+implementing CSX for a wide range of underlying real fonts -- both
+Computer Modern and PostScript -- available at the website given below:
+follow the "fonts" link, then "csx-fonts" and finally "TeX".
+
+EmTeX will certainly be capable of handling such fonts, but as I don't
+have it on my machine I cannot tell you how to set it up. Usually all that
+is necessary is (1) to put the TFM files in the usual directory for such
+things, (2) to put the VF (virtual font) files in a specific directory,
+and (3) to set an environment variable to point to that directory. If you
+need further help, it would probably be sensible to post a query to
+comp.text.tex. I think this group is not an appropriate place to take this
+topic further.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

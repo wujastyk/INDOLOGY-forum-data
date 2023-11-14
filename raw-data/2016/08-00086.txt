@@ -1,0 +1,36 @@
+From wujastyk at gmail.com  Wed Aug 10 15:35:00 2016
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Wed, 10 Aug 16 17:35:00 +0200
+Subject: [INDOLOGY] PDF of Mironov's Catalogue of the St Petersburg Indian mss collections
+In-Reply-To: <D9AAC096-DE37-4318-9512-B3B8E69E675B@verizon.net>
+Message-ID: <CAKdt-Cdfzpw4b6QBXJrT9VSrLRtQAjN1jamKHp76rV2FVye0Ug@mail.gmail.com>
+
+Dear All,
+
+Please use
+
+   - http://catalogues.indology.info
+   <http://catalogues.indology.info>
+
+as the canonical address for the digitized catalogues collection, not
+wujastyk.net/mscats.
+
+It's true that the actual PDFs are sitting at wujastyk.net at the present
+time, where I moved them last year, from a private directory at the U. of
+Vienna.  But they will move again in the future to a more durable
+repository.   Wherever the physical files live, the URL
+http://catalogues.indology.info will always be adjusted to get you to the
+right place.  This URL is also found on the main INDOLOGY.info website (in
+the left menu).
+
+And yes, the Mironov catalogues are there, under Biswas 827 and 828.
+
+Best,
+Dominik
+?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160810/2590137a/attachment.htm>
+

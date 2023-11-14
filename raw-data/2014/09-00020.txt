@@ -1,0 +1,91 @@
+From mmdesh at umich.edu  Thu Sep  4 18:22:14 2014
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Thu, 04 Sep 14 14:22:14 -0400
+Subject: =?utf-8?B?UmU6IFtJTkRPTE9HWV0Je+CkreCkvuCksOCkpOClgOCkr+CkteCkv+CkpuCljeCkteCkpOCljeCkquCksOCkv+Ckt+CkpOCljX0gU3ViYW50YSBnZW5lcmF0aW9uIG1hY2hpbmUgUEhQIG9wZW4gc291cmNl?=
+In-Reply-To: <CADSGPzXt2aSWCwhp_9R4i+=+C-3_TFcm0SUnERJb8JvVpQeTgw@mail.gmail.com>
+Message-ID: <CAB3-dzcuE3fNOnjQbGU3Y4NCRuptHqJJHdXYWFgcp_QpM1ertw@mail.gmail.com>
+
+Dear Dr. Patel,
+
+     Congratulations upon developing this wonderful software that fully
+illustrates the Paninian derivations for nominal case forms.  One of my
+classmates from the Pune University in the years 1967-68, Pandit Athalekar,
+used to produce such full derivations on the spot.  But alas, he is no
+longer alive.
+     With best wishes for your work,
+
+Madhav Deshpande
+Professor of Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+
+
+On Thu, Sep 4, 2014 at 1:37 PM, dhaval patel <drdhaval2785 at gmail.com> wrote:
+
+> Sorry, forgot to mention.
+> Because of long code, the output may take 1-2 minutes. Be patient please.
+>
+>
+> On Thu, Sep 4, 2014 at 10:33 AM, dhaval patel <drdhaval2785 at gmail.com>
+> wrote:
+>
+>> Dear all,
+>> Please find attached the test page for a PHP based machine for subanta
+>> generation according to Siddhanta kaumudi.
+>> http://lanover.com/lan/sanskrit/subanta.html
+>>
+>> The code can be seen at https://github.com/drdhaval2785/sanskrit
+>>
+>> The machine gives step by step derivation of words as per prakriyA
+>> mentioned in Siddhantakaumudi.
+>> Respected scholars may please have a look at it and suggest corrections
+>> where the machine is off the correct derivation process.
+>> Please send corrections off list, so that they can be incorporated.
+>>
+>> "Documentation" and "Known Issues" are in progress.
+>> I am attaching a sample page of 'rAma' derivation for ready reference.
+>>
+>> --
+>> Dr. Dhaval Patel, I.A.S
+>> District Development Officer, Rajkot
+>> www.sanskritworld.in
+>>
+>> --
+>> ??????????????? ?????? ???????? ??????????? (?.??.)
+>> ---
+>> You received this message because you are subscribed to the Google Groups
+>> "???????????????????" group.
+>> To unsubscribe from this group and stop receiving emails from it, send an
+>> email to bvparishat+unsubscribe at googlegroups.com.
+>> To post to this group, send email to bvparishat at googlegroups.com.
+>> Visit this group at http://groups.google.com/group/bvparishat.
+>> For more options, visit https://groups.google.com/d/optout.
+>>
+>
+>
+>
+> --
+> Dr. Dhaval Patel, I.A.S
+> District Development Officer, Rajkot
+> www.sanskritworld.in
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, MI 48104-1608, USA
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140904/063f5345/attachment.htm>
+

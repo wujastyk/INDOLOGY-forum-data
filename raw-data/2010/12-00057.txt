@@ -1,0 +1,44 @@
+From slindqui at MAIL.SMU.EDU  Fri Dec 17 11:47:01 2010
+From: slindqui at MAIL.SMU.EDU (Steven Lindquist)
+Date: Fri, 17 Dec 10 05:47:01 -0600
+Subject: making diacritics (on my Mac)
+In-Reply-To: <439BED09-A104-4F4F-8E82-51AE7EE77C09@khecari.com>
+Message-ID: <161227091143.23782.4839771513985169622.generated@prod2.harmonylists.io>
+
+Thanks for this.  This solves finding the input for r subscript circle (in this keyboard, option r) as well as the chandrabindu.  Note, though, that in some fonts the spacing is off for r subscript circle -- with the circle too far to the right -- but in several it is just fine)
+
+Best,
+
+Steven
+
+--
+Steven Lindquist, Ph.D.
+Assistant Professor
+Department of Religious Studies 
+Southern Methodist University
+Homepage: http://faculty.smu.edu/slindqui
+--
+
+On Dec 17, 2010, at 4:26 AM, James Mallinson wrote:
+
+> Dear All,
+> 
+> Further to my last post, here is the web page for the AsianExtended keyboard layout, which has a link for downloading it and instructions  for its installation: http://www.bekkoame.ne.jp/~n-iyanag/researchTools/asianextended.html .
+> 
+> All the best,
+> 
+> Jim
+> 
+> On 17 Dec 2010, at 03:58, Arlo Griffiths wrote:
+> 
+>> Sorry, for asking help about mundane issues such as the following:
+>> In Luis Gonz?lez-Reimann's last posting, I admired his ability to produce r with subscript circle. I haven't yet found a way to make this combination (let alone the corresponding long vocalic r, or accented ones for Vedic) on my Mac with any of the inbuilt fonts/keyboards. Is there a way?
+>> I am also looking for a way to make the candrabindu on top of an m. Is there any simple way to do so or must one work with specific Indological fonts and keyboards?
+>> Finally, I'd like to make a tilde (~) on top of an m. This would seem to be an easy one, but the usual key combination for placing tilde on top does not yield the desired result when used with m in the U.S. Extended Keyboard. Does anyone know a solution?
+>> Of course I'd be happiest if I could do all of the above tricks in one font and keyboard and still be able to make the usual diacritics too.
+>> Thanks again,
+>> Arlo Griffiths (EFEO/Jakarta) 		 	   		
+
+
+
+

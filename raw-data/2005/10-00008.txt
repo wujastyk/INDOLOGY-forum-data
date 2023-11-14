@@ -1,0 +1,124 @@
+From athr at LOC.GOV  Mon Oct  3 18:52:58 2005
+From: athr at LOC.GOV (Allen W Thrasher)
+Date: Mon, 03 Oct 05 14:52:58 -0400
+Subject: Tagore - A Passion Play [Chokher bali]
+Message-ID: <161227076868.23782.2168734666092326381.generated@prod2.harmonylists.io>
+
+There are a recent Penguin India translation and Hindi movie (on DVD), which should be available commercially.  The following records are off OCLC, luckily without too much garbage.
+
+Allen Thrasher
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+>>> <voyager at ilssv3.loc.gov> 10/03/05 2:37 PM >>>
+================================================================================
+Database Name:           OCLC Bibliographic Database
+
+MARC Display:            000 00788nam  2200241Ma 450
+                         001 ocm54904210 
+                         003 OCoLC
+                         005 20051003143556.0
+                         008 040107s2003    ii            000 f eng d
+                         040 __ a EQO c EQO
+                         020 __ a 0143030353
+                         041 1_ a eng h ben
+                         100 1_ a Tagore, Rabindranath, d 1861-1941.
+                         240 10 a Cokhera b?ali. l English
+                         245 12 a A grain of sand : b chokher bali / c Rabindranath
+                                     Tagore ; translated from the Bengali by Sreejata Guha ;
+                                     introduction by Swagato Ganguly.
+                         246 3_ a Chokher bali
+                         260 __ a New Delhi : b Penguin, c 2003.
+                         300 __ a xvi, 287 p. ; c 20 cm.
+                         650 _0 a Bengali fiction v Translations into English.
+                         700 1_ a Guha, Sreejata.
+                         700 1_ a Ganguly, Swagato.
+                         994 __ a Z0 b LNN
+                         948 __ h NO HOLDINGS IN LNN - 10 OTHER HOLDINGS
+
+================================================================================
+Database Name:           OCLC Bibliographic Database
+
+MARC Display:            000 03113cgm  2200589Ia 450
+                         001 ocm61367853 
+                         003 OCoLC
+                         005 20051003143640.0
+                         007 vd cvaizq
+                         008 050829s2005    ii 124 g          vlhin d
+                         040 __ a LNQ c LNQ d LNQ
+                         028 42 a SHEDVD 345 b Eagle Video
+                         041 1_ a hin a eng b eng b guj b tam b tel h hin
+                         043 __ a a-ii---
+                         050 04 a PN1995.9.M27 b C46 2005
+                         082 04 a 791.43/72 2 22
+                         130 0_ a Chokher B?ali (Motion picture : 2003)
+                         245 10 a Chokher B?ali h [videorecording] : b a passion play =
+                                     Cokhera b?ali / c Eagle International ; Shree Venkatesh
+                                     Films ; presentation, Shrikant Mohta, Mahendra Soni ;
+                                     screenplay & direction, Rituparno Ghosh.
+                         246 31 a Cokhera b?ali
+                         260 __ a Kolkata : b Eagle Video ; a Mumbai : b Shemarro
+                                     Entertainment [distributor], c [2005?]
+                         300 __ a 1 videodisc (124 min.) : b anamorphic, sd., col. ; c 4
+                                     3/4 in.
+                         538 __ a DVD, all regions, widescreen (2.35:1) presentation;
+                                     Dolby Digital 5.1 surround, DVD9, NTSC.
+                         546 __ a Hindi and English dialogue, English , Gujarati, Tamil
+                                     and Telegu subtitles.
+                         511 1_ a Prasenjit Chatterjee, Tota Raychoudburi, Aishwarya
+                                     Rai, Raima Sen, Lily Chakravarty, Suchita Raichaudhuri.
+                         508 __ a Cinematography, Aveek Mukhopadhjee ; art director,
+                                     Indranil Ghosh ; editor, Arghyakamal Mitra ; music,
+                                     Debajyoti Misra ; costume designer, Sushanta Rai ;
+                                     interior designer, Bubi Ray.
+                         500 __ a Based on the original novel by Rabindranath Tagore.
+                         500 __ a Originally released as a motion picture in 2003.
+                         520 __ a Binodini is a beautiful and educated woman who is
+                                     struggling to free herself from the oppression of
+                                     widowhood. Widowed within a year of marriage, she
+                                     moves into Mahendra's house as a companion to his
+                                     mother. There she meets Mahendra's wife, Ashalata and
+                                     his brother, Behari, who is in and out of the house,
+                                     Mehendra and Behari were both offered her hand in
+                                     marriage and had refused. Binodini sees the husband,
+                                     the home and marital bliss that could have been hers
+                                     and seduces Mahendra through the innocent medium of
+                                     Asha. Asha and Binodini soon become inseperable.
+                                     Among these four develops a forbidden attraction.
+                         500 __ a Special features: Digitally re-mastered from the
+                                     original film.
+                         650 _0 a Man-woman relationships z India v Drama.
+                         650 _0 a Widows z India v Drama.
+                         655 _0 a Feature films.
+                         655 _0 a Romance drama.
+                         700 1_ a Mohta, Shrikant.
+                         700 1_ a Soni, Mahendra.
+                         700 1_ a Ghosh, Rituparno.
+                         700 1_ a Chatterjee, Prasenjit.
+                         700 1_ a Raychoudburi, Tota.
+                         700 1_ a Rai, Aishwariya.
+                         700 1_ a Sen, Raima, d 1979-
+                         700 1_ a Chakravarti, Lily.
+                         700 1_ a Raichaudhuri, Suchita.
+                         700 1_ a Mukhopadhjee, Aveek.
+                         700 1_ a Mitra, Arghyakamal.
+                         700 1_ a Misra, Debajyoti.
+                         700 1_ a Tagore, Rabindranath, d 1861-1941. t Cokhera
+                                     b?ali. l Hindi
+                         710 2_ a Eagle International (Firm)
+                         710 2_ a Shree Venkatesh Films.
+                         710 2_ a Eagle Video (Firm)
+                         710 2_ a Shemaroo Video (Firm)
+                         994 __ a Z0 b LNN
+                         948 __ h NO HOLDINGS IN LNN - 1 OTHER HOLDINGS
+
+
+
+

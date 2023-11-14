@@ -1,0 +1,45 @@
+From rhododaktylos at gmail.com  Wed Jan 13 15:31:22 2021
+From: rhododaktylos at gmail.com (Antonia Ruppel)
+Date: Wed, 13 Jan 21 16:31:22 +0100
+Subject: [INDOLOGY] recommended software for diacritical marks in Romanized Sanskrit transliteration?
+In-Reply-To: <196035960.890756.1610551629050@mail.yahoo.com>
+Message-ID: <CAEjEOsCvwzsZar0c4CQrxTjWn4pQZtzCCBUcH5UDv=GpPDmq_A@mail.gmail.com>
+
+Dear Dean,
+
+This has been my go-to for years:
+
+https://keyman.com/keyboards/heidelberginputsolution
+
+It is free, works on PC and Mac, and allows you to type nagari and
+transliteration in exactly the same way. You simply download the
+transliteration and devanagari 'keyboards', and can define shortcuts with
+which to activate whichever keyboard you want at any given moment.
+
+All best,
+   Antonia
+
+On Wed, 13 Jan 2021 at 16:27, Dean Michael Anderson via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Can anyone recommend a web site or program that allows one to easily
+> create diacritical marks in Romanized Sanskrit transliteration?
+>
+> Thanks,
+>
+> Dean
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210113/90df4d60/attachment.htm>
+

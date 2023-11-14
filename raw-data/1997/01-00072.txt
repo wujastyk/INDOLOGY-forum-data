@@ -1,0 +1,36 @@
+From apandey at u.washington.edu  Fri Jan 17 23:11:34 1997
+From: apandey at u.washington.edu (Anshuman Pandey)
+Date: Fri, 17 Jan 97 15:11:34 -0800
+Subject: Fonts Question
+Message-ID: <161227027900.23782.5940419887067767849.generated@prod2.harmonylists.io>
+
+
+On Fri, 17 Jan 1997, Raghavendra C.S wrote:
+
+> Are there any True-Type or Adobe Devanagari Fonts
+> available for FREE on internet ?
+
+I remember acquiring a font called PCS Nepali once from an archive site,
+but I think that it is a commercial font which someone inadvertently
+placed at the site thinking it was in the public domain. The quality of
+the font was commendable, but once had to manually create a character map
+as there was no documentation accompanying it. I've long since deleted it
+as I've made myself partial to TeX and it's brilliant devanaagarii
+Metafonts.
+
+Regards,
+Anshuman Pandey
+
+---
+Anshuman Pandey | apandey at u.washington.edu | University of Washington
+
+  "Life is an impossible scheme, and love an imperceptible dream. 
+   Face the facts, that's what it's always been. Relax. What you 
+   see is what you've seen, What you get is a new philosophy."
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+From wujastyk at gmail.com  Mon Dec  7 23:41:09 2015
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Mon, 07 Dec 15 16:41:09 -0700
+Subject: [INDOLOGY] Epigraphia Indica
+In-Reply-To: <CAFtTCfdUBn0KEjSscv8jiLgFQXfKOHKEE7m-2RJb7vQ9PU8p3w@mail.gmail.com>
+Message-ID: <CAKdt-CeZ7EwsXcSJdsr60zFsFqUsxrhsNBv8uwFs=WK_LE1ohg@mail.gmail.com>
+
+I've just started the EI torrent to see what's going on.  The availability
+of a torrent is unrelated to the integrity of the files on Archive.org's
+server.  So if the torrent won't work for you, just go into "PDF" (above
+"torrent") and download the files individually.
+
+Back to the issue of the torrent.  The way BitTorrent works is that when
+you start downloading a file, you are fetching it piecemeal from the
+computers of everyone else who is also downloading the file.  It's not
+coming from Archive.org; all they're doing is maintaining the index of who
+is online with bittorrent at any one time, swapping the EI files.  Everyone
+is sharing from their individual computers. So, at the same time, you are
+performing the same service for everyone else.  That's why your computer
+says you are uploading something.  You are - the parts of the file you've
+just downloaded, that other people still require.  It's a decentralized,
+sharing system.  It's a Good Thing, and nothing to worry about.
+
+In the present case, under "peers", I see (at the moment) two "seeds", both
+in the USA, that is people who are sharing the file with me.  Both show
+100% progress, which means they both have the whole file I'm trying to
+fetch, all of EI.  As long as these two seeds stay connected, I can expect
+to to receive 100% of the file.  But sometimes none of the people connected
+has the whole thing, everyone just has parts.  That's when the transfer can
+get stuck at a percentage less than 100%.  Everyone then has to wait until
+someone comes online who has it all, and then everyone else can get the
+missing pieces.  Once a few people have 100%, and are online, then things
+are usually fine.   Imagine a big jigsaw puzzle, with people copying and
+sharing pieces.
+
+While I've been writing this email, my two seeds have gone offline.  Now,
+there are no seeds, and under "files" I see that all my PDFs are stuck
+somewhere in the 80% range.  I just have to stay online, and hope that more
+seeds come online with the whole 100%.
+
+With something of specialist interest like EI, there may not be enough
+people worldwide to make bittorrent sharing successful.  If it's just a
+handful of people sharing, things can easily get stuck.  With something
+like a popular film or CD, there can be tens of thousands of people
+sharing, which means the whole process works smoothly.  (I am not condoning
+copyright breach.)
+
+Best,
+Dominik
+
+
+?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151207/53b94d30/attachment.htm>
+

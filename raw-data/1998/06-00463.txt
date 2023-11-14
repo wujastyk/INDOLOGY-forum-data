@@ -1,0 +1,41 @@
+From zydenbos at BLR.VSNL.NET.IN  Tue Jun 30 22:04:13 1998
+From: zydenbos at BLR.VSNL.NET.IN (Robert J. Zydenbos)
+Date: Wed, 01 Jul 98 03:34:13 +0530
+Subject: Word processing
+In-Reply-To: <3598B8D7.777AE61D@urz.uni-heidelberg.de>
+Message-ID: <161227040426.23782.1009454433662667841.generated@prod2.harmonylists.io>
+
+> we are planning to switch from DOS to Windows (95) for our
+> publication projects. Currently we are working with WordPerfect 5.1
+> (DOS) using the fonts and keyboard drivers of Prof. Emmerick.
+> A ttf-font and keyboard layout (Caraka) is also available for
+> WordPerfect vor Windows. Are there other systems recommendable esp.
+> for Word for Windows?
+
+Dr. Smith has made beautiful freeware fonts from Austria available
+on his Cambridge ftp site earlier, in both TrueType and Postscript
+versions and in two coding schemes: Norman and CSX.
+
+The advantage of Norman coding is that a few signs which are
+necessary for transliterating Dravidian are there, which are
+missing in CSX. (Some users argue that CSX is better because it was
+designed for use on PCs, but I do not notice any advantage and have
+therefore never understood the argument.) Dr. Shivamurthy
+Shivacharya intends to bring out an extended version of these
+Austrian fonts which contains all the signs necessary for literary
+Dravidian.
+
+To facilitate the use of these fonts (and of (La)TeX) I have
+written a program that takes a text file and makes the necessary
+substitutions, starting from one of the transliteration systems in
+use on the Indology List. This program can be used with an input
+file in ASCII or in RTF format (a common option in all the better
+word processors). If you are interested, I can give you (or anyone
+else who is interested) the executable program for use with OS/2 or
+DOS, along with instructions on how to use it.
+
+RZ
+
+
+
+

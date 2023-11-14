@@ -1,0 +1,17 @@
+From ucgadkw at UCL.AC.UK  Tue Nov 18 17:40:22 1997
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Tue, 18 Nov 97 17:40:22 +0000
+Subject: "Combination" in Indian Mathematics
+In-Reply-To: <199711181707.MAA29038@testpin.engin.umich.edu>
+Message-ID: <161227033797.23782.14484189781892629188.generated@prod2.harmonylists.io>
+
+Before anyone else says that there are 256 combinations of eight windows,
+not 255, Bhaaskara omits the case where all windows are shut. His problem
+is, how many different ways can eight windows be open.
+
+All the best,
+Dominik
+
+
+
+

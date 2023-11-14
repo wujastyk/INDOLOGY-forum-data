@@ -1,0 +1,44 @@
+From rbm49 at STUDENT.CANTERBURY.AC.NZ  Tue Nov 14 02:19:29 2000
+From: rbm49 at STUDENT.CANTERBURY.AC.NZ (Richard B. Mahoney)
+Date: Tue, 14 Nov 00 15:19:29 +1300
+Subject: INDOLOGY Digests - filtering & threading
+Message-ID: <161227064168.23782.5224452567279375768.generated@prod2.harmonylists.io>
+
+Dear Axel,
+
+I'm not sure what platform you are running on but it is possible that
+your needs may be met by an email processor called `Procmail' and a
+mail client called `Mutt.'
+
+Once configured `Procmail' will sort all your messages into different
+folders and then `Mutt' will thread all the messages within each
+folder. Both programmes are highly configurable. This will make it a
+simple matter to block messages from those you prefer not to hear from
+and also to delete threads of no interest to you. I've been doing a
+lot of both recently and it is surprising how much time I have saved
+myself. :-)
+
+Mutt and Procmail compile under most UNIX and UNIX-like systems. It's
+possible they are both already available on your existing
+machines. Mutt -- I don't know about Procmail -- also runs under MS
+Windows. Details and free downloads are available from:
+
+  http://www.math.fu-berlin.de/~guckes/mutt/
+
+I hope this helps.
+
+Many regards,
+
+  Richard Mahoney
+
+--
+======================================================================
+Richard Mahoney            /^^^\             Telephone: +64-3-351-5831
+78 Jeffreys Rd           (| , , |)
+Christchurch              |  *  |
+NEW ZEALAND                \_-_/     mailto:rbm49 at csc.canterbury.ac.nz
+----------------------------------------------------------------------
+
+
+
+

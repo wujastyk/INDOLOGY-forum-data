@@ -1,0 +1,38 @@
+From jds10 at CAM.AC.UK  Sun Jun 13 13:15:49 1999
+From: jds10 at CAM.AC.UK (John Smith)
+Date: Sun, 13 Jun 99 14:15:49 +0100
+Subject: CSX+ fonts & cross-platform email exchange
+In-Reply-To: <l03130303b387bf7bd0df@[194.109.138.38]>
+Message-ID: <161227050411.23782.16761884872460244371.generated@prod2.harmonylists.io>
+
+On Sat, 12 Jun 1999, Jaap Pranger wrote:
+
+> ...
+
+> Can you easily exchange Tex documents with Windows and MacOS
+> users?  I guess you can, but please tell.
+
+Yes, you can.
+
+> BTW, John, last year in Conv-Dev you mentioned ACII.  You said: "ACII
+> is the name used for the full 8-bit character set comprising 7-bit ASCII
+> in the lower half and 7-bit ISCII in the upper half."
+> Is this charset in use anywhere? I can't imagine reasonable Nagari
+> coming out from a 7-bit subset.
+
+It is used in all of CDAC's products (ALP for DOS, iLeap for Windows, and
+others). The output Nagari (/Bengali/Gujarati/Tamil/etc.) is extremely
+good. This is because, like Unicode, an intermediate piece of software (a
+"renderer") handles conversion from logical character to actual glyph.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+

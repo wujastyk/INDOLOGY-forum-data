@@ -1,0 +1,24 @@
+From apandey at U.WASHINGTON.EDU  Wed May 13 01:17:42 1998
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Tue, 12 May 98 18:17:42 -0700
+Subject: Proposed changes to Velthuis Devanagari fonts.
+Message-ID: <161227038650.23782.11098888400298576250.generated@prod2.harmonylists.io>
+
+Hello,
+
+There is a proposal to change the glyphs of three conjunct characters in
+the Devanagari Metafont designed by Frans Velthuis. These these glyphs are
+"h+n", "h+l", and "h+v". The current and proposed glyphs, as well as
+further details, are given in the file available at:
+
+        http://weber.u.washington.edu/~apandey/dvng-chg.ps
+
+I am requesting that users of Mr. Velthuis's package please review the
+proposal and respond with comments.
+
+Regards,
+Anshuman Pandey
+
+
+
+

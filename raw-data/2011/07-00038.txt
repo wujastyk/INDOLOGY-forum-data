@@ -1,0 +1,84 @@
+From glhart at BERKELEY.EDU  Wed Jul 13 15:39:30 2011
+From: glhart at BERKELEY.EDU (George Hart)
+Date: Wed, 13 Jul 11 08:39:30 -0700
+Subject: Rajesh Rao, Computing a Rosetta Stone for the Indus Script
+In-Reply-To: <0F0A3E07-88D3-4A7F-9211-B8077D678356@safarmer.com>
+Message-ID: <161227093128.23782.2344377440444767465.generated@prod2.harmonylists.io>
+
+After listening to Rao's talk and reading Sproat's article, I find myself wondering what the argument is about.  Here are some things that occur to me:
+
+1. The seals were clearly used as stamps to indicate ownership. They then are either names or special combinations of signs to indicate a person or group.
+
+2. Even if they are "writing," that is a system where each sign corresponds to a sound or group of sounds, they probably lack real syntax.  "Jack Sprat" doesn't tell us anything about English verb forms or any other syntactic features of the language, even though it is writing.
+
+3. If the signs have no relationship to language, don't the seals contain too many of them for people to remember handily?  On the other hand, if the signs do correspond to syllables/words (fish symbol = m??, star), people would have a much easier way of remembering them -- instead of having to remember an abstract group of 12 symbols, they could just remember the system.
+
+4. My last name is "Hart," and my father put big hearts on his shutters.  This is not writing, but the symbol clearly mirrors its pronunciation -- had my father been Russian-speaking, he would not have used a heart.
+
+5. Is it not possible that there is some intermediate solution.  Why should the seals have no relationship whatsoever to the language they spoke?  This doesn't seem logical to me.  On the other hand, I doubt that they are "writing" in the sense we think of it, as we can't really expect to find complex syntactical and morphological structures in them.  It is certainly possible, I would think, that the IV people never developed writing in the way that other civilizations did, but that doesn't mean that they didn't have a system that contained phonetic correspondences with their own language.
+
+I'm not entirely sure what Steve Farmer et al. are contending -- do they suggest there is no phonetic content whatsoever to the signs?  Everyone seems to agree that the order of the signs is not random.  Do they reflect any sort of underlying syntax, or are they arranged by some other system (Gods / Men / Animals)?
+
+It also strikes me that if there were two people named "Hart," someone might put a pot over the heart to indicate that was the Hart that was also a potter as opposed to the Hart that ran an inn.  This would be a partially phonetic system.
+
+None of this proves or disproves that the fish symbol might have been pronounced m??.
+
+George Hart
+
+On Jul 13, 2011, at 8:03 AM, Steve Farmer wrote:
+
+> On Jul 13, 2011, at 5:36 AM, Dominik Wujastyk wrote:
+> 
+>> TED talk, March 2011:
+>> 
+>> begin quote:
+> 
+>> Rajesh Rao is fascinated by "the mother of all crossword puzzles": How to decipher the 4000 year old Indus script. At TED 2011 he tells how he is enlisting modern computational techniques to read the Indus language, the key piece to understanding this ancient civilization.
+> 
+>> end quote.
+> 
+> There is  nothing new in Rao's claims, which were thoroughly debunked (among other places) by Richard Sproat in an invited article in _Computational Linguistics_ less than a year ago. See Richard Sproat, "Ancient Symbols, Computational Linguistics, and the Reviewing Practices of the General Science Journals," Computational Linguistics 36, 3 (Sept. 2010), 585-94.
+> 
+> You can download the full article (open access) here:
+> 
+> http://www.mitpressjournals.org/doi/abs/10.1162/coli_a_00011
+> 
+> As Richard argues, articles like the original paper by Rao in _Science_ that started this ball rolling should never have been published -- and say more about the degradation of standards in peer review practices (triggered in part by vastly increased information flows we are experiencing today) than about computational linguistics.
+> 
+> The flaws in Rao's work are so obvious to computational linguists -- which it is important to note is not Rao's field, which explains in part the linguistic naivite in his work -- that the same claim (that Rao's research was not properly reviewed) was in fact made immediately after Rao's first paper appeared by a long series of computational linguists besides Sproat, including most prominently Mark Liberman and Fernando Pereira.
+> 
+> For their comments and analysis, and the related analysis by the mathematician Cosma Shalizi, see here in the Language Log, made immediately after Rao's first paper was published:
+> 
+> http://languagelog.ldc.upenn.edu/nll/?p=1374
+> 
+> There is no need to repeat their technical arguments here. In brief, leaving aside mathematical niceties (for those, see the links above): the fact that there is order of some sort in Indus symbols has been known since the 1920s. GR Hunter demonstrated that using nothing more sophisticated than pencil and paper charts in his 1929 doctoral thesis on Indus signs. All that Rao has replicated using complex means is what any simple eyeballing of the signs makes immediately apparent.
+> 
+> What Hunter and Rao (and many others before him who made similar claims, going back to the 1960s, about the "magic of computers" in "deciphering" the "script")  didn't bother to mention: all symbol strings of every sort have order in them; this includes boy scout medals, horoscopal signs, alchemical symbols, mnemonic signs, magical symbols, clan signs, the signs on Kudurru stones, or conventional orders of saints or saint attributes in iconographical works.
+> 
+> You can even find order of the same sort in modern multi-symbol airport and highway signs. You can also ashow from cross-cultural analyses of highway signs (Michael Witzel has made an interesting collection of these for our amusement) that there are different "dialects" of these symbols, none of which has to do with them supposedly encoding different "languages."
+> 
+> As Farmer, Sproat, and Witzel showed in 2004, the kind of order that you find in Indus symbols shows up as well in the order of 'blazons' or medieval heraldic signs -- which obviously doesn't suggest that heraldic signs encode "language", as ordinarily understood.
+> 
+> Sproat and his students are non embarked on a project in studying the various orders in different types of nonlinguistic signs, funded by grants from the National Science Foundation.
+> 
+> More sensationalist nonsense has been written about the so-called Indus script than about any other pseudo-script I can think about -- grossly skewing our understanding of Indus civilization -- although the recent nonsense about "Pictish language" (inspired by Rao's work) comes close. On this, see again Liberman's  trenchant remarks in the Language Log:
+> 
+> http://languagelog.ldc.upenn.edu/nll/?p=2227
+> 
+> See also here, where Liberman also points to Sproat's definitive article in _Computational Linguistics_, which "poses the question that I [Liberman] was too polite to ask":
+> 
+>> How is it that papers that are so trivially and demonstrably wrong get published in journals such as Science or the Proceedings of the Royal Society?
+> 
+> 
+> I personally think that the answer to that question has to do with the marketing uses of sensationalism in a period in which traditional subscription-based journals are forced to compete with open access materials, and editor succumb to the temptations of publishing papers so sensational that they are sure to get noticed in the popular press.
+> 
+> We know that there was fierce inside opposition at Science magazine to publishing Rao's original paper, and yet Science refused to published even a short letter refuting the paper despite the widespread criticism the paper engendered from computational linguists due to a "lack of space."
+> 
+> Very rushed comments above (on a deadline that has nothing to do with anything Indus).
+> 
+> Regards,
+> Steve Farmer
+
+
+
+

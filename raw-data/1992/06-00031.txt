@@ -1,0 +1,38 @@
+From ucgadkw at UK.AC.UCL  Fri Jun 19 10:28:00 1992
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Fri, 19 Jun 92 11:28:00 +0100
+Subject: Brhatsamhita now available from INDOLOGY
+Message-ID: <161227015413.23782.16763160503105674226.generated@prod2.harmonylists.io>
+
+Status: RO
+
+Thanks to the generosity of Michio Yano, the electronic text
+of the B.rhatsa.mhitaa of Varaahamihira is now available
+from INDOLOGY.
+ 
+To get the text, send the message "get brhatsam package" to
+the address "listserv at liverpool.ac.uk".
+ 
+To get an index of what other files are available, send
+the message "index indology" to the listserv.
+ 
+To get a brief summary of how the Brhatsamhita has
+been packaged (it's in five pieces of uuencoded ZIP
+file), send the message "get brhatsam memo".
+ 
+In addition to the Brhatsamhita, INDOLOGY also
+has the texts of the A.s.taadhyaayi of Pa.nini and the
+Buddhacarita of A"svagho.sa.
+ 
+Many thanks to Yano for this text!
+ 
+I hope this will encourage others to consider submitting further
+files to the pool.
+ 
+Dominik
+ 
+
+
+
+
+

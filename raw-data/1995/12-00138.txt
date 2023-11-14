@@ -1,0 +1,62 @@
+From ucgadkw at ucl.ac.uk  Wed Dec 13 17:48:54 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 13 Dec 95 17:48:54 +0000
+Subject: old/new translations
+Message-ID: <161227022124.23782.8555049330859676520.generated@prod2.harmonylists.io>
+
+witzel at HUSC3.HARVARD.EDU said:
+
+> Nobody would dare to publish a popular math book where pi = 3.41 or 2.9. 
+> Why is this (GI) procedure possible in Indology?
+
+I don't want to make too much of this, but choosing the value of pi is a
+particularly good counter-analogy to the point of view that measurable
+precision is achievable in the act of translation.  Pi is, after all,
+one of the few special numbers that cannot actually be written down, or
+given a precise value, except symbolically.  It is irrational (sensu
+stricto), a realization that was a major blow to Platonic philosophy and
+-- along with the discovery of the irrational relation between the side
+and the diameter of a square -- rocked ancient Greek thinking to its
+foundations.
+
+As with translation, it is much more important to know what pi *means*
+symbolically that to know its value.  In a certain sense, we actually
+cannot know its value: it never comes to a closure.  But we can
+certainly know symbolically what pi is: the number of diameters in a
+circumference.
+
+Also on the point of science and precision, lest anyone think that a
+"real scientist" would necessarily value precision above all else, I
+would refer interested readers to the paper
+        "Humanism and technical precision: a study of personal
+        responsibility"
+by the great historian of astronomy, Willy Hartner.  It is published as
+the fist paper in volume two of his collected papers,
+        _Oriens-Occidens_, ed. Y. Maeyama (Hildesheim, Zuerich, N. York:
+        Georg Olms Verlag, 1984).
+Written just after the second world war, I believe, it grapples
+intelligently with very difficult issues of moral responsibility in the
+field of academic and humanistic work, and in particular with the
+profoundly negative possibilities that may exist in an over-zealous
+concern for scientific precision.  Hartner was perfectly capable of
+appreciating scientific precision: many of his articles are on the
+history of mathematics and astronomy.  In fact, it is *because* of his
+appreciation of the possibilities and implications of precision that he
+is able to argue cogently that there is a time when personal creativity
+and freedom is more important that precision, even scientific precision.
+It's worth reading.
+
+[I've just deleted a citation I thought I would type from page [16] of
+this article; one really has to read the whole article to get the
+flavour of it.]
+
+
+Dominik Wujastyk
+
+
+ 
+
+
+
+
+

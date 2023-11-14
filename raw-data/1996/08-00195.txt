@@ -1,0 +1,89 @@
+From Gerard.Huet at inria.fr  Fri Aug 30 15:30:09 1996
+From: Gerard.Huet at inria.fr (Gerard Huet)
+Date: Fri, 30 Aug 96 17:30:09 +0200
+Subject: typing Sanskrit
+Message-ID: <161227025858.23782.5983223856036178470.generated@prod2.harmonylists.io>
+
+This discussion on transliteration seems endless, and I apologize
+to contribute to a very boring topic. However, I feel that some
+clarification is needed, since different people are mixing different
+arguments.
+
+First of all, let us not confuse 3 completely different views of
+computerized sanskrit:
+1. What actual keys you type on your keybord when inputing
+2. What ASCII characters get entered in the computer text file
+3. What printing characters you get when you process this file with
+a text processing system, either on paper or on your computer screen.
+
+What happens at 1 is basically your own problem: no two keyboards are the same,
+different operating systems interpret keys differently, you may customize your
+favorite text editor with macro-characters, etc etc 
+No need of standardisation here, everyone manages his own input convention.
+
+2 is important, because it is computer files which are shipped around and
+processed by computer tools on which we must agree. But, as Dominik said
+many times, it does not really matter what is the convention as long as it
+is unambiguous, since these conventions are parseable with easy grammars
+amenable to tools such as oak/sed/lex/yacc/perl etc to translate into each
+other.
+
+Let me illustrate the 3 levels. Here I am in Emacs, a standard
+UNIX text editor. I may define a sanskrit mode such that whenever I shall
+type in the letter "x" the sequence "k.s" will be entered in the file.
+I may define another mode in which the sequence "k{\d s}" will be entered.
+The first mode permits fast typing of the DEVNAG convention, so that
+the devanagari ligature for this letter will be output at level 3.
+The second mode permits the TeX processing convention for diacritics,
+so that my romanized transliteration at level 3 will be with standard
+REAL diacritics (i.e. not prefix or infix, but two-dimensional with a nice
+dot below the "s"). Since the two conventions are inter-translatable,
+I may use one uniform convention for the file representation, but see various
+possible outputs according to my processing of the file.
+
+Thus we have to decide what are the characters in a file. The choice
+is between:
+- ASCII ANSI 7 bits
+- ISO, its extension to 8 bits
+- UNICODE, an extended alphabet on 16 bits
+ISO is compatible with ASCII, but does not solve any of our problems,
+since the extra characters are a few accented letters in latin or nordic
+alphabets, but will not allow general diacritics such as .s
+UNICODE may be the way of the future but I would not recommend its use
+too soon, since many tools are not yet adapted. I do not know however
+to what extent we shall be able to use it to represent directly devanagari,
+i.e. what ligatures have been standardised. Someone competent should say.
+If we decide on ASCII or ISO, some bracketing convention is needed when 
+one mixes an original text and its commentary.
+
+The discussion on compounds is also confusing. What matters is whether
+we input the original sandhi text, or we try to analyse it into separate
+words. Both have advantages, as the discussion showed; we want to input
+fast original sandhi text, without risking mistakes of interpretation.
+We also want to share the knowledge of competent pandits, with analysed
+texts. For unanalysed texts we may decide to preserve the exact
+sequence of ligatures, or adopt a certain standard, breaking complicated
+ligatures, or standardizing eg the use of (non-original) anusvara.
+Using a transliteration scheme such as devnag there is no explicit
+notation for ligatures at input, although in output we may disallow certain 
+combinations. But the choice remains to standardize $"sA.mtanu$ and $"sAntanu$.
+
+For analysed texts additional conventions are needed for the break between
+words and for texts with multiple interpretations, as was remarked.
+One may try to go one step beyond, by further grammatical analysis 
+(declensions, etc) and then more conventions will be needed, but more 
+information will be available for word statistics etc. This is entering t
+he more specialised domain of computer representation of indian languages.
+
+I hope I did not add to the confusion...
+G. Huet
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+From rhododaktylos at gmail.com  Tue May 31 11:18:51 2022
+From: rhododaktylos at gmail.com (Antonia Ruppel)
+Date: Tue, 31 May 2022 13:18:51 +0200
+Subject: [INDOLOGY] Adobe & Devanagari works perfectly fine
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAAyHo+E6YABIlxU7G7FJJooBAAAAAA==@matfyz.cz>
+References: <342E4C4D-9990-4C18-B741-AFF0F28C02F5@me.com>
+ <!&!AAAAAAAAAAAYAAAAAAAAAKVte7Lsr65AmUltyDKajabCgAAAEAAAAAyHo+E6YABIlxU7G7FJJooBAAAAAA==@matfyz.cz>
+Message-ID: <CAEjEOsDimYqwRVYiOBeq-Sr2Pf0yH0q5DGgnNtp3JNOzY5=3Rw@mail.gmail.com>
+
+I know this does not quite address the original question, but given that
+good fonts are always of interest: Tiro Devanagari Sanskrit, originally
+developed for the Murty Library, is an excellent, aesthetically pleasing
+font that allows for full Vedic/accentual notation not just in n?gar?, but
+also in transliteration. Combining n?gar? and transliteration in the same
+sentence/paragraph also does not cause any issues (such as extra space
+between lines, which you get with some other fonts.) It's freely available
+here:
+
+https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit
+
+All my best,
+    Antonia
+
+On Tue, 31 May 2022 at 12:36, Jan Ku?era <jan.kucera at matfyz.cz> wrote:
+
+> I responded to Daniel offline but thank you both for your responses.
+>
+>
+>
+> A lot of the proper rendering depends on the font indeed. I am looking for
+> things that even fonts are not allowed to do but should be, on Windows
+> commonly exhibited using dotted circles.
+>
+>
+>
+> Thank you Oliver for the font link! Note that the Chandas font appears to
+> be over 15 years old, with the latest characters coming from Unicode 5.0.
+> For all the later additions such as Vedic signs and tones, the oe/ue/aw and
+> other vowels, private use characters need to be used.
+>
+>
+>
+> Thanks,
+>
+> Jan
+>
+>
+>
+> *From:* Oliver Frey <ofrey at me.com>
+> *Sent:* Tuesday, May 31, 2022 11:05 AM
+> *To:* jan.kucera at matfyz.cz; indology at list.indology.info
+> *Subject:* Adobe & Devanagari works perfectly fine
+>
+>
+>
+> Dear D?niel & Jan,
+>
+>
+>
+> just a quick note on D?niel?s last email via Indology:
+>
+>
+>
+> 1. Devanagari on Adobe products works perfectly fine! ? You just need to
+> set the paragraph style correctly:
+>
+>
+>
+> ?> Paragraph Style Options
+>
+> ?> Justification
+>
+> ?> put ?Composter? on ?Adobe World-Ready Paragraph Composer?
+>
+>
+>
+> 2. Chandas Devanagari most complete font (
+> http://www.sanskritweb.net/cakram/) ? I think
+>
+>
+>
+> See attached PDF.
+>
+>
+>
+> Best, oliver
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220531/90421abd/attachment.htm>
+

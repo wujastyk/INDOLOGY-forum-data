@@ -1,0 +1,94 @@
+From dbhattacharya2004 at YAHOO.CO.IN  Tue Feb 10 05:32:38 2009
+From: dbhattacharya2004 at YAHOO.CO.IN (Dipak Bhattacharya)
+Date: Tue, 10 Feb 09 11:02:38 +0530
+Subject: FONTS> Upgraded IndUni fonts
+In-Reply-To: <1232607970.3877.18.camel@proliant>
+Message-ID: <161227084808.23782.3575633060455092050.generated@prod2.harmonylists.io>
+
+10 02 09
+Windows noted the following files as corrupt or invalid 
+IndUni-C.zip contains fonts based on URW++'s Courier-lookalike;
+IndUni-H.zip contains fonts based on URW++'s Helvetica-lookalike;
+IndUni-N.zip contains fonts based on URW++'s New Century Schoolbook-lookalike;
+IndUni-P.zip contains fonts based on URW++'s Palatino-lookalike;
+IndUni-T.zip contains fonts based on URW++'s Times-lookalike
+I use HP's Compaq Presario Desktop with DC hardware
+Dipak Bhattacharya
+
+--- On Thu, 22/1/09, Richard MAHONEY <r.mahoney at ICONZ.CO.NZ> wrote:
+
+From: Richard MAHONEY <r.mahoney at ICONZ.CO.NZ>
+Subject: FONTS> Upgraded IndUni fonts
+To: INDOLOGY at liverpool.ac.uk
+Date: Thursday, 22 January, 2009, 12:36 PM
+
+Dear Readers,
+
+John Smith's recently updated font collection will be of interest to
+some of you.
+
+
+-----Forwarded Message-----
+From: John Smith <jds10 at cam.ac.uk>
+To: Richard MAHONEY <r.mahoney at iconz.co.nz>
+Cc: John Smith <jds10 at cam.ac.uk>
+Subject: IndUni fonts
+Date: Thu, 22 Jan 2009 11:53:36 +0530
+
+[snip]
+
+I have recently created upgraded versions of my "IndUni" OpenType
+fonts. These are Unicode-compliant fonts that contain a comprehensive
+set of "Indological" characters, as well as all the European
+characters
+that scholars are likely to need. They are available as freeware, and
+include high-quality lookalikes for Times, Palatino, New Century
+Schoolbook, Helvetica and Courier. They are based on the freeware fonts
+so generously contributed by URW++ of Germany.
+
+The upgraded fonts now contain all the accented characters specified by
+MES-1, the smallest of the recognised Multilingual European Subsets of
+Unicode. They also contain numerous other accented forms that linguists
+tend to require (e.g. vowels with both macron and breve, vowels with
+both macron and tilde), all the accented characters needed for Pinyin,
+and a set of Cyrillic characters. This is, of course, in addition to
+all the characters known to be used in representing Indian languages in
+Roman script.
+
+As well as a greatly enhanced character set, the new versions of the
+fonts have had various small bugs fixed, and have been set up to work
+with both "composed" and "decomposed" forms of complex
+characters --
+e.g. the form for "a macron" will be used whether the document
+contains
+the one character U+0101 ("a macron") or the two characters U+0061
+("a") + U+0304 ("macron"). Since there seems to be
+something of a shift
+in usage under way here, this is a major advantage.
+
+The fonts can be downloaded from http://bombay.indology.info/.
+
+John Smith
+
+
+John Smith
+jds10 at cam.ac.uk
+http://bombay.indology.info
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+
+      Add more friends to your messenger and enjoy! Go to http://messenger.yahoo.com/invite/
+
+
+
+

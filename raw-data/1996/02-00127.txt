@@ -1,0 +1,57 @@
+From jgardner at blue.weeg.uiowa.edu  Fri Feb  9 21:04:25 1996
+From: jgardner at blue.weeg.uiowa.edu (John Gardner)
+Date: Fri, 09 Feb 96 15:04:25 -0600
+Subject: Sarasvati-Sindhu Civilization, c. 2500 B.C.
+Message-ID: <161227022750.23782.4455135807488874752.generated@prod2.harmonylists.io>
+
+one additional point- for users without snazzy grpahics, netscape, 
+netshark, etc.-- they might try the same web address listed below, just 
+put the word "lynx" and a space before it once they've logged on to their 
+plain old ordinary humble e-mail server.
+
+lynx is a nice way to browze text on the web without all the time of 
+downloading buttons, bells, and often-superfluous graphics.  one's tab 
+key will move from URL to URL, then a simple press of "return" activates 
+the link.  it's fast, especially if text munching is all you need, and 
+pricey grpahics-supporting software/hardware/home connections are not 
+available to you.
+
+john robert gardner
+university of iowa
+
+
+On Fri, 9 Feb 1996, David Magier wrote:
+
+> Dominik,
+> a minor logistical suggestion:
+> 
+> > I have made your essay available as a document on the INDOLOGY web page
+> >         http://www.ucl.ac.uk/~ucgadkw/indology.html
+> > under the menu option for "members' queries and information".  I shall
+> > leave it there for a while, for anyone to consult, until disk space
+> > becomes tight.
+> 
+> To make it easier for readers to navigate directly to a given online
+> resource (such as Dr. Kalyanaraman's essay), it would be better to
+> cite the direct URL for the resource in question, rather than the
+> superordinate containing structure. This, in this case, I would cite
+> the location of the essay as
+> 
+> http://www.ucl.ac.uk/~ucgadkw/indus.html
+> 
+> and if I wanted also to get people familiar with the location of the
+> INDOLOGY web page in general (and its USER QUERIES section, etc.), I
+> would add a line such as:
+> 
+> "This is one of many resources available through the INDOLOGY web
+> page, which is located at http://www.ucl.ac.uk/~ucgadkw/indology.html"
+> 
+> thanks. (And thanks for the Indology web pages, which are great).
+> David Magier
+> 
+> 
+
+
+
+
+

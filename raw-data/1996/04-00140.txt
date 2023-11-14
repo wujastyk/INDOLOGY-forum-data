@@ -1,0 +1,37 @@
+From zydenbos at flevoland.xs4all.nl  Thu Apr 18 05:11:34 1996
+From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
+Date: Thu, 18 Apr 96 04:11:34 -0100
+Subject: Email in Benares
+Message-ID: <161227023906.23782.11985896781954531586.generated@prod2.harmonylists.io>
+
+
+Replies to msg 18 Apr 96: indology at liverpool.ac.uk
+(biernack at ccat.sas.upenn.edu)
+
+ bsue> I'm wondering if anyone has specific information about
+ bsue> acquiring access
+ bsue> to email in Benares.  Thanks in advance,
+
+If you can show that you are a 'bona fide' scholar at an American academic
+institution, you may be able to persuade the administrator at an institution in
+Benares (BHU, perhaps) to grant you temporary access. I've heard that some
+people have been able to make such arrangements for themselves in Bangalore;
+but whether this also goes in the North, I can't say.
+
+The cheapest commercial way to have email is through VSNL (Videsh Sanchar Nigam
+Ltd.), which has servers in Delhi, Calcutta, Bombay, Bangalore and Madras. But
+I understand they demand payment for a year in advance, and you must reckon
+with the extremely noisy telephone lines in India when making long distance
+logins.
+
+An American colleague in Mysore finally gave up searching for local
+possibilities and logged in to his American email account twice a week. The
+phone link Mysore-USA is via satellite, and it worked reasonably well.
+
+Robert Zydenbos
+
+
+
+
+
+

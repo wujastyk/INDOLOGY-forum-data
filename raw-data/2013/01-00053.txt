@@ -1,0 +1,158 @@
+From james.hartzell at GMAIL.COM  Sun Jan 20 17:39:37 2013
+From: james.hartzell at GMAIL.COM (James Hartzell)
+Date: Sun, 20 Jan 13 09:39:37 -0800
+Subject: number of Sanskrit mss. and number of texts
+In-Reply-To: <CAKdt-Cf3CV-XjXuRZr9ag_uVgrLNQus2iELjd7DzouzfEdVx_Q@mail.gmail.com>
+Message-ID: <161227098602.23782.15444613811763211326.generated@prod2.harmonylists.io>
+
+Perhaps someone might be able to add updated stats from the National
+Mission for Manuscripts efforts?  Their survey page (
+http://www.namami.org/nationalsurvey.htm) says:
+
+*The Survey So Far **? *
+
+The Mission began the National Survey in *2004- 05* as a Pilot Project in 3
+states?*Orissa,*
+
+ *Bihar* and *Uttar Pradesh* . A total of 53 districts were covered? 30 in
+Orissa, 13 in Uttar
+Pradesh and 10 in Bihar. In the Pilot Project itself, the Mission unearthed
+6, 50, 000
+manuscripts and about 35,000 repositories.
+
+  Drawing upon the experience of the Pilot project, the next round of
+Survey in *2005-2006 *
+
+was held in *Delhi, Manipur, Karnataka* and *Assam* . In Delhi, about
+85,000 manuscripts
+were found. The Survey in Manipur was extremely successful despite several
+pockets being
+ inaccessible and about 10,000 manuscripts were located. Likewise, in
+Assam, about 42,000
+manuscripts were discovered. Around 1,50,000 manuscripts were found in
+Karnataka. In
+*Gujarat*, the survey was initiated by the coordination of the Lalbhai
+Dalapatbhai Institute of
+Indology, Ahmedabad.
+
+   In *2006-07*, the National Survey took place in *Himachal Pradesh,
+Haryana *and* Tamil Nadu*.
+
+ The Manuscript Resource Centre in Himachal Pradesh, Himachal Academy of
+Arts, Languages
+
+and Culture acted as the coordinating body in the State. The National
+Survey was successful
+
+in locating approximately 20, 000 manuscripts across the State, with local
+scripts like
+
+Takri coming to the focus. The Survey also saw the school students getting
+involved in
+
+ the awareness campaigns to promote the documentation and conservation of
+manuscripts.
+
+ The Manuscript Resource Centre, Dept. of Sanskrit, Pali and Prakrit,
+Kurukshetra University
+
+was also active in organizing the Survey in the State of Haryana. The
+Survey has been
+
+successful in locating approximately 500 manuscripts. In *Rajasthan*, the
+Survey was initiated
+
+ by the coordination of the Rajasthan State Archives. Out of total 33
+Districts *19 Districts*
+
+are already surveyed and an amount of 7, 50,001 Manuscripts are identified.
+
+
+   [image: 1]
+  In *2007-08*, the Mission conducted National Survey of Manuscripts in all
+*18 *Districts of
+
+*Chhattisgarh* and in all *16 *Districts* *of *Arunachal Pradesh. *In
+Chhattishgarh, the Survey was
+
+conducted by the coordination of the Directorates of Archives and Museums,
+Chhattisgarh and
+
+ in Arunachal Pradesh, it was conducted by the Coordination of* *Dept. of
+Cultural Affairs,
+
+Directorate of Research, (Culture, History, Archeology, Museum, Archives &
+Philosophy),
+Itanagar*.*
+
+  [image: 1]
+ In the financial year *2007-08* survey was initiated in the State of *Madhya
+Pradesh* by the
+
+coordination of the Directorates of Archives and Museums, Bhopal; in *Goa *by
+the Directorate
+
+ of Archives & Archeology, (Govt. of Goa), Panaji and in the State of *Jammu
+& Kashmir* by    the Central Institute of Buddhist Studies, Leh.
+
+  [image: 1]
+ In *April 2012*, the Mission has completed the Survey work (which was
+initiated in the year 2007)
+in all *13* Districts of *Uttarakhand* by the coordination of the
+Uttaranchal Sanskrit Academy,
+Haridwar and started processing for the survey of *Sikkim* and *Mizoram*
+
+
+On Sun, Jan 20, 2013 at 9:20 AM, Dominik Wujastyk <wujastyk at gmail.com>wrote:
+
+> As far as I know, nobody has counted how many Indian MSS have been
+> catalogued.  However, it should be possible to do some kind of back-of-an-envelope
+> calculation for this, as follows.
+>
+> There's a publication by Madras University called the *New Catalogus
+> Catalogorum *(NCC)*.  *Its current editor is the energetic Professor
+> Siniruddha Dash <dash_sans at yahoo.co.uk>.  The NCC is a digest of all
+> published MS catalogues.  Well, not all, but most.  At least, up to the
+> late 70s, and some later ones.  So, in NCC you can look up an author or
+> the title of a Sanskrit or Prakrit work, and you'll get a list of the
+> known MSS of that work, culled from the published manuscript catalogues.
+>
+> The NCC isn't finished.  Only nineteen volumes have been published,
+> bringing it up to the end of ma (?), 37th letter of the alphabet.  There
+> are 8 more letters of the alphabet to go, so NCC is about 37/45x100=82%
+> done.   Each volume is about 350 pages.  Each page has about 50 MSS
+> mentioned (this is *very* rough! - per-page counts vary wildly).  So each
+> volume mentions 17,500 catalogued MSS, and there are 19 vols, so that comes
+> out at 332,500 MSS mentioned so far.  And that's 82%.  So the total would
+> be 405,487.  Say half a million.
+>
+> There are *lots* of rough edges to this figure.  It's very, very crude.
+> But it does give one at least something to hold on to.  Half a million
+> catalogued manuscripts out of a minimum total of 7,000,000.  That's 7%.
+>
+> But if the Koba people have put their MSS into a database - which they're
+> doing at quite a rate, that could quite soon add 250,000 MSS to the total
+> catalogued.  And there are other projects like that (though none so big, or
+> well-funded).   So the total catalogued could be higher.  Say it's double.
+> A million.  That's 14% of the seven-million figure.  But the seven-million
+> figure is probably very conservative.  So we're still hovering in the
+> 5%-15% range, I'd say.
+>
+> Improvements to the above argument and result are welcomed!
+>
+> Best,
+> Dominik Wujastyk
+>
+
+
+
+-- 
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130120/e8569bcc/attachment.htm>
+

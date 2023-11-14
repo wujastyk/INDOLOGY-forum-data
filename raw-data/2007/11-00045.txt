@@ -1,0 +1,133 @@
+From athr at LOC.GOV  Wed Nov 28 19:41:11 2007
+From: athr at LOC.GOV (Allen W Thrasher)
+Date: Wed, 28 Nov 07 14:41:11 -0500
+Subject: asva sastra
+In-Reply-To: <965fdc5f0711280426u173552f0x6e55bd0b557c8249@mail.gmail.com>
+Message-ID: <161227081552.23782.15395678018177800857.generated@prod2.harmonylists.io>
+
+The only copy I can find is in the British Library, the correct title
+being not *Science of the horse but *Science of horses:
+ 
+Asva-Sastra; or, the Science of Horses ... Translated from the original
+Sanskrit text by Pandit. V. Vijayaraghavacharya ... Edited with 153
+illustrations of horses of all kinds and published by V. J. A. and V.
+Krishnasamy..pp. 7. 3. 12. 315. P. N. Press: Tirupati, 1928..  4?.. 
+Description  Collection;Shelfmk   Oriental Collections ; 14053.e.33.
+ 
+According to the pages of the BL's Asia, Pacific and Africa
+Collections, <  http://www.bl.uk/collections/sanskrit.html >, the
+contact person for Sanskrit is Michael O'Keefe and his email <
+michael.o'keefe at bl.uk >. 
+ 
+I also add a list of Asvasastras off the subscription version of the
+OCLC/WorldCat database.  One can go to the no-charge, universally
+acceptable vanilla version at < http://www.worldcat.org/ > and find out
+what libraries own copies of the books.
+ 
+Database: WorldCat
+Query: (kw: asvasastra or kw: ashvashastra) or kw: ashwashastra
+ 
+
+1 Asvayurveda :
+             Siddhasangrahah /
+             Author:      Gana.; Paudyal, Damaru Ballabh.;
+             Nakula.Publication: [Kathamadaum] : Sri 5
+Maharajadhirajaka Pramukha
+             Rajadaravara Padadhikari Karyalaya, 1975-1976? Document:  
+ Sanskrit :
+             Book   Libraries Worldwide: 14
+2 Asvasastram /
+             Author:      Nakula.; Gopalan, S.Publication: [Madras :
+             Government Oriental Manuscripts Library, 1952 Document:   
+Sanskrit :
+             Book   Libraries Worldwide: 9   Library of Congress
+3 Asvasastram /
+             Author:      Nakula.; Gopalan, S.Publication: Tanjore :
+             The Tanjore Maharaja Serfoji's Saraswati Mahal Library,
+1952 Document: 
+             Sanskrit : Book   Libraries Worldwide: 5
+4 Abhinavacandra viracita Asvasastra /
+             Author:      Abhinavacandra, 15th cent.; Ma?junathan, Ji.
+             Ji.,Publication: Mysore : Kannada Adhyayana Samsthe,
+Maisuru
+             Visvavidyanilaya, 1987 Document:    Kannada : Book  
+Libraries
+             Worldwide: 5   Library of Congress
+5 Asvavaidyakam
+             a treatise on the diseases of the horse /
+             Author:      Jayadatta Suri.; Candragupta, Umesa.;
+             Nakula.Publication: Calcutta : J.W. Thomas for the Asiatic
+Society of
+             Bengal, Baptist Mission Press, 1886 Document:    Sanskrit
+: Book  
+             Libraries Worldwide: 2
+6 Asvasastram
+             critically edited with introduction and notes /
+             Author:      Abhinavacandra, 15th cent.; Srinivasa Rao,
+             P.,; Sesha Iyengar, H.Publication: Madras : Govt. Oriental
+Manuscripts
+             Library, 1950 Document:    Kannada : Book  :  Microform   
+Libraries
+             Worldwide: 2   Library of Congress
+7 Asvavaidyakam /
+             Author:      Jayadatta Suri.; Nakula.Publication:
+             Kalikatanagayyarm : Sidgasavarayantra Mudrita, 1893
+Document:   
+             Sanskrit : Book   Libraries Worldwide: 1
+8 Asvasastram :
+             critically edited with introduction and notes /
+             Author:      Abhinavacandra, 15th cent.; Srinivasa Rao,
+             P.,; Sesha Iyengar, H.Publication: Madras : Govt. Oriental
+Manuscripts
+             Library, 1950 Document:    Kannada : Book
+ 
+FirstSearch(r) Copyright (c) 1992-2007 OCLC as to electronic
+             presentation and platform.  All Rights Reserved.
+
+Hope this helps.
+
+
+Allen
+
+
+ 
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+>>> veeranarayana Pandurangi <veerankp at GMAIL.COM> 11/28/07 7:26 AM >>>
+
+friends,
+My friend Dr. Sandeep Joshi JRRSU is working on the asva sastra. He is
+e
+diting the text of Asva sastra earlier published in Sarasvati mahal.
+but
+the text is currupt and difficult to reconstruct. there is on info on
+author
+etc.
+He wants to know whether there are early writings on this subject. One
+reference is "Asva-sastra or the science of the horse"  of Hemasuri
+eds. V.
+J. A. and V. Krishnasamy  1928. Even we are finding it dificult to
+trace
+this book. we want some information.
+
+thanks in advance.
+
+
+Veeranarayana N.K. Pandurangi
+Head, Dept of Darshanas,
+Yoganandacharya Bhavan,
+Jagadguru Ramanandacharya Rajasthan Samskrita University, Madau, post
+Bhankrota, Jaipur, 302026.
+
+
+
+

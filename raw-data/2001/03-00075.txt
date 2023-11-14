@@ -1,0 +1,16 @@
+From ucgadkw at UCL.AC.UK  Mon Mar  5 10:38:33 2001
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Mon, 05 Mar 01 10:38:33 +0000
+Subject: TeX's Babel goes Indic
+Message-ID: <161227067983.23782.12175134181597508007.generated@prod2.harmonylists.io>
+
+----- Forwared message -----
+
+Date: Mon, 5 Mar 2001 10:12:05 GMT
+To: indology
+Subject: TeX Babel goes Indic
+
+
+
+CTAN:/tex-archive/macros/latex/packags/babel has now Babel release 3.7
+

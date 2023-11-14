@@ -1,0 +1,93 @@
+From Palaniappa at AOL.COM  Sun Jan 25 00:17:57 1998
+From: Palaniappa at AOL.COM (Palaniappa)
+Date: Sat, 24 Jan 98 19:17:57 -0500
+Subject: Dravidian "c"-"y" alternation (was Re: solution to the "kuyava'              etymology)
+Message-ID: <161227035074.23782.1586323130495119922.generated@prod2.harmonylists.io>
+
+In a message dated 98-01-20 07:53:15 EST, bhk at HD1.VSNL.NET.IN writes:
+
+<< >As for the process of one-way change of "-c-" to "-y-", is it universal?
+Then,
+ >can somebody explain the following? In DED, we find the following.
+
+ >*kAy,  to grow hot, burn, etc. - Ta. kAy; Ma. kAyuka to be hot, To. ko.y-
+ (ko.c-) to be hot; Tu. kAyuni to be hot; Go. kAsAnA to become hot.
+ >*koy, to pluck leaves, flowers, reap, harvest, etc. - Ta. koy; Ko. koy-
+(koc-)
+ >to cut; To. kwIy- (kwIs-) to pluck fruits, Go. kOiyAna harvest wheat or
+crops,
+ >etc., (M) koidAna to reap; Kur.  khoynA (khoss-) to cut down grass and the
+ >like with the sickle, mow, reap
+ >*kAy and *koy are PDr forms reconstructed by Dr. Krishnamurthy in his TVB.
+ >Clearly, we have here "y" changing to "c"/"s"/"t".  In what way, is the
+ >"kuyava"/"kucava" problem different, if we assume "kuy" is the base?
+
+ Go. ka:s is a restuctured stem from the past ka:si:, just like Modern Telugu
+ has ka:s-tu:; I discussed elsewhere how the roots have incorporated tense
+ morphemes and got restructured. (Also discussed in TVB); in the case of koy
+ what you find in parenthese are past stems with c/t in Sandhi. Kota koy-t
+ --> koc; so  also Toda; Kur. khoss- is past stem; -ss- is past tense marker
+ in Kur-Malto.
+  >>
+
+I think there is one unambiguous way to check if the change of "y" > "c" can
+happen in Dravidian. If we compare loan words and how they are pronounced in
+Dravidian, we can see this. Let us consider the following words.
+
+1. Greek ionia? > Sanskrit/Tamil yavana(n2) > Tamil cOn2akan2
+2. Sanskrit yakSI > Tamil iyakki > Tamil icakki
+3. Sanskrit vyAdhi > Tamil viyAti > Tamil vicAti
+4. Sanskrit gAGgeya > Tamil kAGkEyan2 > Tamil kAGkEcan2
+
+Items 1, 2, and 3 as well as "kAGkEyan2" can be checked in the Madras
+University Lexicon. The form "kAGkEcan" occurs as part of a name of a town in
+Northern Sri Lanka called "kAGkEcan tuRai".  So the "c"-"y" variation could be
+a two-way street.
+
+No wonder then G. S. Rao, a Dravidian linguist and a former student of Dr.
+Krishnamurthy, in page 14 of his book "A Comparative Study of Dravidian Noun
+Derivatives" (published in 1991) says, "When we say that in ProtoDravidian *c
+and *y alternate in the rootfinal position we imply that it is a synchronic
+fact of Proto Dravidian whose traces we can find in the modern descendant
+dialects of the parent speech." Please note the use of the words "*c and *y
+alternate" as opposed to  "*c weakens to *y".
+
+In fact, later in the book (p.98), he gives the following etymology:
+
+1. Ta. acai 'to be weary', acar 'to become faint', ayar-ppu, ayar-vu
+'forgetfulness', Ma. ayar-ppu 'forgetfulness, swoon' *ayar-p-(41).
+
+(41) refers to DED entry. If the weakening hierarchy of "c" > "y" were to be
+strictly followed would he not have to give "*acar-p-" as the root?
+
+In his book Telugu Verbal Bases, Dr. Krishnamurthy in connection with the
+words meaning "to weave, weaving" (Ta. ney tr. to weave; necavu, neyavu
+weaving; Te. nEyu to weave; ne/Eta weaving DED 3103) gives the root as PDr.
+*nec-/*ec->*ne/Ey-. But P.S. Subrahmanyam, in p. 198 of his book "Dravidian
+Comparative Phonology" (published in 1983) reconstructs a Proto-Dravidian root
+*ney- for the same. (However, he does not give "c" as a reflex of Proto
+Dravidian *-y-.)
+
+P. S. Subrahmanyam gives a reflex "-j-" in Kui for Proto-Dravidian "*-y-". We
+also know that Sanskrit "ja" is often transformed into Tamil "ca". This is not
+due to someone deliberately following Literary Tamil conventions. Illiterate
+persons often will say "rOcA" for "rojA" and "mavarAcan2" for "mahArAjan". Can
+one postulate a theoretical sequential operation of these two processes as
+explaining this "y"> "c" change? (Sanskrit vijAti and vyAdhi become Tamil
+"vicAti".)
+
+I have heard some Jaffna Tamil speakers pronounce "y" as "j". For instance,
+the name "yOgEsvaran" was pronounced as "jOgEsvaran". In fact, some even
+transliterate Tamil "ya" as "ja" as an earlier posting in the Indology list
+did. I wonder what caused "yAzppANam" to become "Jaffna" - Tamil's
+pronunciation as "jA" or Portuguese/Dutch/English naturalization of Tamil "yA"
+as their "jA".
+
+
+Regards
+
+S. Palaniappan
+
+
+
+

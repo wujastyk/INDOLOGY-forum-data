@@ -1,0 +1,39 @@
+From LubinT at wlu.edu  Wed Sep 30 19:24:16 2020
+From: LubinT at wlu.edu (Lubin, Tim)
+Date: Wed, 30 Sep 20 19:24:16 +0000
+Subject: [INDOLOGY] MacDevnag on 64-bit systems
+In-Reply-To: <113A7F66-3602-4035-A616-D85EDBFF4602@gmail.com>
+Message-ID: <CAF40512-3231-47B7-8DBC-C6D341B765F3@wlu.edu>
+
+Thanks to Kengo and Elliot for follow-up advice. I have updated to MacTex2020, but my Velthuis-formatted dn files are still generating some errors. I?ll try to sort them out off list!
+
+Best,
+Tim
+
+From: Kengo Harimoto <kengo001 at gmail.com>
+Date: Tuesday, September 29, 2020 at 9:39 PM
+To: "Lubin, Tim" <LubinT at wlu.edu>
+Cc: INDOLOGY <indology at list.indology.info>
+Subject: Re: [INDOLOGY] MacDevnag on 64-bit systems
+
+Dear Tim and members of the list,
+
+A bit late response but getting back to the original point? and just in case there still is a need to run devnag on a Mac?
+
+If you have the latest MacTeX that corresponds to TeXLive 2020, it installs the binary of devnag as part of the package. /usr/local/texlive/2020/bin/x86_64-darwin/devnag
+
+It shows up as /Library/TeX/texbin/devnag. So, as long as /Library/TeX/texbin is in your PATH, it will run.
+
+I discovered this by chance a few weeks ago, to my surprise. It works fine on Catalina.
+
+Best,
+
+--
+Kengo
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200930/8c64cc56/attachment.htm>
+

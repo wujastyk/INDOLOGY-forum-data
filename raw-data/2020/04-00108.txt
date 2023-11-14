@@ -1,0 +1,143 @@
+From james.hartzell at gmail.com  Tue Apr  7 14:39:48 2020
+From: james.hartzell at gmail.com (James Hartzell)
+Date: Tue, 07 Apr 20 16:39:48 +0200
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_K=C4=81lacakra_etexts=3F?=
+In-Reply-To: <CAPAZekbJNLoiARs=qZzmJTMZPmdc-4v+fK2EbwUf-qcELZxUBQ@mail.gmail.com>
+Message-ID: <CAKA8X41CMNz0aki71cqaJDeo9qP33dz25gOt7c1V4VjXZLD-ag@mail.gmail.com>
+
+Dear David
+
+If you do make your input version of the *K?lacakra-tantra *available at
+some point I would be grateful for a copy, particularly of Chapter 5.
+
+Cheers
+James
+
+On Sat, Apr 4, 2020 at 8:54 PM David and Nancy Reigle via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Dominik,
+>
+> I was also hoping that someone might have one or both of these texts typed
+> up. But after three days without a reply, I must assume not. Many years ago
+> I input the *K?lacakra-tantra*. This was done in a long since
+> discontinued program (Pagemaker 4 for Mac), before the days of unicode, in
+> a custom diacritic font made by a friend. I was able to transfer the files
+> into a Word document, move it to a PC, and do search-and-replace for the
+> diacritic letters to make them unicode. However, it has never been
+> proofread. This would require many days.
+>
+> Perhaps your specific interest is in the second chapter, which has a lot
+> pertaining to medicine. If so, I could try to proofread that chapter and
+> hopefully send it to you in maybe a week. If you need to check something
+> sooner, I could try to search it for you.
+>
+> For the *K?lacakra-tantra* itself, the 1985 edition by Biswanath Banerjee
+> is often better than the tantra as included in the *Vimalaprabh?*
+> edition, with the caveat that Banerjee's edition has a lot of misprints.
+> The first volume of the *Vimalaprabh?* edition, including chapters 1 and
+> 2, was published in 1986. This volume was done before Banerjee's edition
+> came out. So Jagannatha Upadhyaya adopted the text of the tantra from a
+> paper manuscript (his ms. ka), a very good paper manuscript, but not as
+> good as some of the old palm-leaf manuscripts used by Banerjee. By the way,
+> a better scan of this *Vimalaprabh?* volume is here:
+>
+>
+> http://www.downloads.prajnaquest.fr/BookofDzyan/Sanskrit%20Buddhist%20Texts/vimalaprabha_tika_vol_1_1986.pdf
+>
+> The other two volumes of the *Vimalaprabh?* edition seem sometimes to
+> have adopted Banerjee's readings for the tantra, and sometimes not. There
+> are quite a few errors in the edition of the *Vimalaprabh?* commentary
+> itself. Leaving aside the ever-present typos, most of the errors resulted
+> from adopting readings from the later paper manuscripts against those of
+> the two old palm-leaf manuscripts they used, which latter were normally
+> supported by the Tibetan translation. So if you see a variant reading in
+> the footnotes saying that such and such is in mss. ga and ca, the two old
+> palm-leaf manuscripts, that reading is almost always the correct one;
+> especially when it is supported by the Tibetan translation, as it usually
+> is (designated as bho). The same institute that published this edition of
+> the *Vimalaprabh?* is preparing a new edition, which will likely correct
+> these errors, since they now have more palm-leaf manuscripts to collate.
+>
+> Lastly, the first ever publication of the *K?lacakra-tantra*, by Raghu
+> Vira and Lokesh Chandra in 1966, still has some value. Those two editors
+> just wanted to make the text available, so they did not take the time to
+> compare it with the Tibetan translation that they published along with it
+> (as long ago noted by Helmut Hoffmann). Occasionally it has the correct
+> reading when the other two editions do not (e.g., a?utanuja in 1.25c,
+> rather than anutanuja). Sometimes all three editions are wrong (e.g. guror
+> in 1.2d, rather than guro). I have posted only this edition of the tantra,
+> because at the time, Banerjee's edition was still in print. It can be found
+> here:
+>
+>
+> http://www.downloads.prajnaquest.fr/BookofDzyan/Sanskrit%20Buddhist%20Texts/kalacakra_tantra_1966.pdf
+>
+> Best regards,
+>
+> David Reigle
+> Colorado, U.S.A.
+>
+> On Wed, Apr 1, 2020 at 11:36 AM Dominik Wujastyk via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Has anyone typed up some or all of the *K?lacakratantra* and/or the
+>> *Vimalaprabh?* commentary?  Ideally from the
+>>
+>>  Up?dhy?ya, J.; Rinpoche, S.; Dvived?, V. & Bahulakar, S. S. (Eds.),  *?rima?ju?r?ya?oviracitasya
+>> param?dibuddhoddh?tasya ?r?Laghuk?lacakratantrar?jasya Kalkin?
+>> ?r?pu??ar?ke?a viracit? ??k? Vimalaprabh? = Vimalaprabh???k? of Kalkin
+>> ?r?pu??ar?ka on ?r?laghuk?lacakratantrar?ja by ?r?ma?ju?r?ya?as
+>> <http://n2t.net/ark:/13960/t7vm96773>*, 1986-1994, 3v.
+>>
+>> edition.
+>>
+>> Best,
+>> Dominik
+>>
+>> --
+>> Professor Dominik Wujastyk
+>> <https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+>> ,
+>>
+>> Singhmar Chair in Classical Indian Society and Polity
+>> ,
+>>
+>> Department of History and Classics
+>> <http://historyandclassics.ualberta.ca/>
+>> ,
+>> University of Alberta, Canada
+>> .
+>>
+>> South Asia at the U of A:
+>>
+>> sas.ualberta.ca
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-- 
+James Hartzell, PhD (2x)
+Center for Mind/Brain Sciences (CIMeC), The University of Trento, Italy
+Center for Buddhist Studies, Columbia University, USA
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200407/48bfd1da/attachment.htm>
+

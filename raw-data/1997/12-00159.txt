@@ -1,0 +1,66 @@
+From cssetzer at MUM.EDU  Tue Dec 16 05:09:35 1997
+From: cssetzer at MUM.EDU (Claude Setzer)
+Date: Mon, 15 Dec 97 23:09:35 -0600
+Subject: Apple Indian language kit
+Message-ID: <161227034437.23782.12066896680211651127.generated@prod2.harmonylists.io>
+
+-----Original Message-----
+From: JR Gardner <jgardner at BLUE.WEEG.UIOWA.EDU>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Monday, December 15, 1997 10:26 PM
+Subject: Re: Apple Indian language kit
+
+
+>I was using it during ht etext phase.  In that time the "B" in WordPerfect
+>would not render a devanagari b-- or anything else.  the absense of
+>accents were also a problem (someday when I finish my dissertation Apple's
+>okay'd me to make the full set . . . ).  I imported ILK text into a
+>Three-dimensional modelling prgram by Strata and they looked great.  I
+>would imagine a sophisticated publishing package like Adobe would have no
+>problem with it. HOWEVER-- in the texts with which I did use ILK, it
+>greatly shifted the verticle spacingo f the lines in which it was typed.
+
+This is a common phenomena for complex fonts,.becasue they require
+substantially larger type size to look good.
+When your word processor is set to automatic spacing, even though the
+character appears to be "normal" size on the screen, it is actually larger
+as seen by the word processor, so it sets the spacing accordingly. If you go
+into the line spacing and set it for a particular number of points instead
+of "single," then the problem goes away.
+
+>In other words, it really threw off the look of normal single or
+>double-spacing.  That was the test/developer releases, however-- and I'm
+>sure this is now worked out.  Make sure whomever you buy it from lets you
+>try it out.  Academic price is about $200 or less, and a dealer should
+>have it installed onsite for a try-out.  the typing interface is a joy,
+>and the output is great quality .  Just make sure the spacing from
+>line-to-line is okay.
+>
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>John Robert Gardner      Obermann Center
+>School of Religion         for Advanced Studies
+>University of Iowa       University of Iowa
+>319-335-2164             319-335-4034
+>http://vedavid.org       http://www.uiowa.edu/~obermann/
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>It is ludicrous to consider language as anything other
+>than that of which it is the transformation.
+>
+>On Tue, 16 Dec 1997, Royce Wiles wrote:
+>
+>> The Apple Indian language kit supporting Devanagari (plus Gujarati and
+>> Punjabi scripts) was released earlier in 1997. Has anyone on this list
+used
+>> it to prepare camera-ready copy? Maybe they could share some comments on
+>> what it's like and whether the investment has been worth it.
+>>
+>> I'm particularly keen to know if it works well with PageMaker 6.5.
+>>
+>> Royce Wiles
+>> Australian National University
+>>
+>
+
+
+
+

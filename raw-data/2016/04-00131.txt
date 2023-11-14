@@ -1,0 +1,55 @@
+From r.mahoney at indica-et-buddhica.org  Sun Apr 17 03:42:18 2016
+From: r.mahoney at indica-et-buddhica.org (Richard Mahoney | Indica et Buddhica)
+Date: Sun, 17 Apr 16 15:42:18 +1200
+Subject: [INDOLOGY] IAST or ISO 15919 input tools for Windows 7
+In-Reply-To: <edb0824197cc60be1a24c6482289716e@cam.ac.uk>
+Message-ID: <5713061A.4010407@indica-et-buddhica.org>
+
+Dear Camillo,
+
+On 2016-04-16 03:46, C.A. Formigatti wrote:
+> Dear Colleagues,
+> 
+> I would like to install on a Windows 7 machine a keyboard layout to 
+> input Sanskrit in IAST or ISO 15919 system-wide--and not only in 
+> Word. I know that many threads in this list have been dedicated to 
+> this topic, but I cannot find them anymore. I haven't been able to 
+> find a good solution so far, do you have any suggestion?
+> 
+> Best wishes,
+> 
+> Camillo Formigatti
+
+For a long time, when I was using Emacs for almost everything, I used to
+use the attached: utf-8-input.el. I'm now having to use a whole variety
+of applications so have opted for Keyman with the EuroLatin Keyboard:
+
+ http://keyman.com/
+
+(And just read that SIL have taken over Keyman from Tavultesoft too.)
+
+
+Best, R
+
+
+
+-- 
+Richard Mahoney | Indica et Buddhica
+
+Littledene  Bay Road  Oxford 7430  NZ
+M: +64-21-064-0216  T: +64-3-312-1699
+r.mahoney at indica-et-buddhica.org
+
+
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: utf-8-input.el
+URL: <https://list.indology.info/pipermail/indology/attachments/20160417/76195d2e/attachment.ksh>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 473 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20160417/76195d2e/attachment.sig>
+

@@ -1,0 +1,83 @@
+> home page.  From there you can choose "basic search" if you wish.  Both
+> these pages - home page and basic search - were there before, it's just
+> that we've swapped them round, so that newcomers to SARIT get a bit more
+> initial help and explanation.  In the near future we'll be editing the
+> home page to be even more helpful :-)
+>
+> Close observers will note that since the addition of the Southern *Mah?
+> bh?rata*, the library has grown by the addition of Bhart?hari's *
+> V?kyapad?ya* and Bhoja's *R?jam?rtta**??a* on the YS.  (V?caspati's *
+> Tattvavai??rad?* was added last month.) The TEI header files give the
+> origins and change-histories of these e-editions.  The Bhojav?tti is
+> interesting in that it's SARIT's first e-text that is a direct transcript
+> of a manuscript.
+>
+> The texts in SARIT are subject to a quiet but steady process of upgrade
+> and correction.  For example, we are aware that there's a problem with the
+> display of the Bh??maparvan of the Mbh in its Devan?gar? version.  We'll
+> be fixing this in the coming weeks, according to the time available.  All
+> such updates and changes to the e-texts are handled through the SARIT Github
+> site <https://github.com/paddymcall/SARIT>,
+> https://github.com/paddymcall/SARIT, where the master XML versions of the
+> e-texts reside, and are under version control.  Because the e-editions
+> are being gradually improved, it is important that when you cite them,
+> you include a date and version.  Git makes it possible to retrieve any
+> past version of the e-texts, should that be required.  But you do need
+> the date.
+>
+> Anybody who would like to get involved with editing, correcting and
+> improving the SARIT library e-editions is welcome to join in.  Aknowledge of Sanskrit, XML, TEI and
+> Git is required.
+>
+> SARIT is always imperfect, and those of us working on SARIT are only too acutely
+> aware of it.  But the above mechanisms offer a pathway for collaborating
+> in the process of improving and enriching the collection.
+>
+> Anyone may take the SARIT files and use them in accordance with the CC lic
+> ense that governs them.  That means, you can do most things that you can
+> imagine, but you must give attribution to the copyright-holders and
+> sources of the texts, you can't do anything for commercial profit, and any
+> derived version of the files that you may produce must be covered by the
+> same CC license (the freedom propagates).  The full details are in the
+> TEI headers of each file.
+>
+> As always, much gratitude is due to Patrick Mc Allister<http://ikga.oeaw.ac.at/Ma/MA_mcallister.html>for his hard work and support in maintaining the INDOLOGY and SARIT
+> websites, and working on the e-editions.
+>
+> Best,
+> Dominik
+>
+>
+>
+> --
+> Dr Dominik Wujastyk
+> Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+> ,
+> University of Vienna,
+> Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+> 1090 Vienna, Austria
+> and
+> Adjunct Professor,
+> Division of Health and Humanities,
+> St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
+> Project <http://www.istb.univie.ac.at/caraka/> | home page<http://www.academia.edu/DominikWujastyk>|
+> PGP <http://wujastyk.net/pgp.html>
+>
+>
+>
+
+
+-- 
+Prof. Dr. Jan E.M. Houben,
+Directeur d Etudes ? Sources et Histoire de la Tradition Sanskrite ?
+Ecole Pratique des Hautes Etudes, SHP,
+A la Sorbonne,45-47, rue des Ecoles,
+75005 Paris -- France.
+JEMHouben at gmail.com
+www.jyotistoma.nl
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130131/eac0248e/attachment.htm>
+

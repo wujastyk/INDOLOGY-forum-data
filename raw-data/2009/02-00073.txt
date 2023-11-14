@@ -1,0 +1,78 @@
+From gruenen at SUB.UNI-GOETTINGEN.DE  Tue Feb 17 07:01:23 2009
+From: gruenen at SUB.UNI-GOETTINGEN.DE (Gruenendahl, Reinhold)
+Date: Tue, 17 Feb 09 08:01:23 +0100
+Subject: AW: Macdonell and Whitney Grammars
+Message-ID: <161227084871.23782.13341580848287815050.generated@prod2.harmonylists.io>
+
+On 14 Feb 2009 at 2:47, Oliver Fallon wrote:
+
+> The underlying text of the GRETIL scans of Whitney
+
+> (http://opac.sub.uni-goettingen.de:80/DB=1.20/SET=2/TTL=1/SHW?FRST=1)
+
+> is very accurate. However there are still some problems: (...) Much
+
+> of the romanised Sanskrit comes out with spacing between individual
+
+> letters which may have to be manually removed and some of the N?gar?
+
+> is included which will also need deletion (see pasted section below
+
+> randomly selected: p. 244, ?647 a,b). 
+
+Dear Oliver,
+
+the erratic spacing is caused by a communication problem between my OCR
+programme and Adobe Acrobat. No fault of the OCR-programme, I have been
+assured - which doesn't make it any better. When I did Whitney's Grammar
+almost a year ago, I didn't have a clue how to work around this problem.
+
+Since you drew attention to it I thought this might be the right time to
+bring out a revision. It is still far from perfect, but there shouldn't be
+too many spacings left. You can now download it from the same PURL:
+
+http://resolver.sub.uni-goettingen.de/purl/?gr_elib-2
+
+Or look it up in the online catalogue:
+
+http://opac.sub.uni-goettingen.de/DB=1.20/LNG=EN/
+
+[Unfortunately it doesn't come up on top of the chronological "All titles"
+list as it should, having today's date. I'll have to sort that out to make
+sure that future revisions are properly announced.]
+
+ 
+
+Kind regards
+
+Reinhold
+
+ 
+________________________________________________ 
+ 
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+ 
+37070 Goettingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+ 
+gruenen at sub.uni-goettingen.de
+ 
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+ 
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+ 
+GRETIL e-library:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm
+ 
+ 
+
+
+
+

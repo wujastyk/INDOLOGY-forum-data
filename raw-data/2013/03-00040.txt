@@ -1,0 +1,60 @@
+From zydenbos at uni-muenchen.de  Mon Mar 11 11:24:55 2013
+From: zydenbos at uni-muenchen.de (Robert Zydenbos)
+Date: Mon, 11 Mar 13 12:24:55 +0100
+Subject: [INDOLOGY] Linux in a virtual box on Mac (was: Fwd: New Sanskrit-Eng. dictionary...)
+Message-ID: <513DBF07.6040604@uni-muenchen.de>
+
+I have been using Linux within Parallels on my Macs for the past few 
+years, mainly because of the Mac's ease of use, esp. where peripherals 
+are concerned.
+
+The one drawback I found with Mac is the still limited support (the Snow 
+Leopard system: I hate the Lion function that opens programs and files 
+on booting up) for Indian scripts in OpenType fonts (esp. the southern, 
+Dravidian scripts), which an Indologist of course would like to have -- 
+so what I have been doing is preparing texts on the Mac with NeoOffice / 
+OpenOffice, with the not-really-so-nice results, and then making the 
+final PDFs in LibreOffice in Scientific Linux with Parallels, which look 
+really nice.
+
+My experience with the various Linuxes is that Scientific Linux and 
+CentOS support Indian scripts well (also with iBus as input engine). 
+Both are available free of cost and are based on the Red Hat Enterprise 
+Edition, which is not free of cost. The last time I tried (about a year 
+ago), Ubuntu, SUSE and others had text input problems and simply 
+couldn't produce clear and good results, whether on screen or on paper.
+
+So these are my tips for those among us who want to use Linux with South 
+Indian scripts. But I would be happy to be corrected if in the meantime 
+the other Linux versions (or newer Mac versions) have improved.
+
+Regards,
+Robert
+
+Dominik Wujastyk wrote:
+
+> For several years I've run GNU/Linux (Ubuntu) as my main OS, with WinXP
+> in VirtualBox in an Ubuntu desktop window, when I need
+> it.<http://wujastyk.net/pgp.html>  It's solid and I don't notice any
+> system speed degradation on my old T500 laptops (Centrino2) or my
+> desktop (don't know).   It's an excellent solution.
+>
+> Best,
+> Dominik
+
+-- 
+Prof. Dr. Robert J. Zydenbos
+Institute of Indology and Tibetology
+Department of Asian Studies
+University of Munich
+Germany
+Tel. (+49-89-) 2180-5782
+Fax (+49-89-) 2180-5827
+Web http://zydenbos.userweb.mwn.de/
+
+
+
+
+
+
+

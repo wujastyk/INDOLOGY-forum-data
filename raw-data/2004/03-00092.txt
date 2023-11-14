@@ -1,0 +1,23 @@
+From mkapstei at MIDWAY.UCHICAGO.EDU  Sat Mar 20 18:01:28 2004
+From: mkapstei at MIDWAY.UCHICAGO.EDU (Matthew Kapstein)
+Date: Sat, 20 Mar 04 12:01:28 -0600
+Subject: Convert Devanagari into romanized text: any automatic tools?
+In-Reply-To: <405C7F9D.7020307@univie.ac.at>
+Message-ID: <161227074222.23782.12391194424950874969.generated@prod2.harmonylists.io>
+
+Are you referring to the conversion of scanned text,
+that is to say, a system of Devanagari optical character recognition?
+The convention of writing Devangari with a bar linking the syllables
+has posed an obstacle for software development in this area.
+Perhaps some of the other list members are more up to date than
+I in their knowledge of current progress to resolve this.
+
+But if you are speaking of conversion of coded devanagari input,
+unicode or otherwise, there should be no formal obstacle to
+the creation of suitable conversion macros.
+
+Matthew Kapstein
+
+
+
+

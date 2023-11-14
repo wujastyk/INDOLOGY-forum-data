@@ -1,0 +1,142 @@
+From witzel at HUSC3.HARVARD.EDU  Fri Dec 29 20:11:25 1995
+From: witzel at HUSC3.HARVARD.EDU (witzel at HUSC3.HARVARD.EDU)
+Date: Fri, 29 Dec 95 15:11:25 -0500
+Subject: Transl.: Original Intent
+Message-ID: <161227022231.23782.9477604585619253643.generated@prod2.harmonylists.io>
+
+
+***************************************
+re: W.O`Flaherty/Doniger`s RV, JB, Manu translations:
+
+
+TRANSLATABILITY and ORIGINAL INTENT.
+
+
+Finally, since there have been no takers, I revert to the (initially, 
+some weeks ago)  proposed discussion of the problem of 
+`intranslatability` of words such as dharma/rta, hari/niila   etc. This 
+was at the bottom of some of the comments though the problem has not been 
+addressed as such. In her Manu, for example, D. (as she says, insisted 
+upon by her collaborator B.K. Smith) translates dharma by a variety of 
+words, from duty, and religion, to merit and manner), but she 
+consistently translates brahmana as `priest` and ksatriya as `ruler`.
+
+This reopens up an old question that has been discussed since the 1850`s 
+by Roth/Boethlingk, Bergaigne and in this century especially by Geldner, 
+Lueders/Thieme and K. Hoffmann: should we translate a Skt. word  with a 
+variety of Engl. (etc.) words or just by one word which comes closest to 
+the meaning of the Skt. word? 
+
+For example, a brahmana is not always a priest nor a ksatriya always a  
+ruler... and hari is, e.g. the color of leaves in the spring when first 
+budding (yellowish-greenish-brownish). There is no single Engl. (etc.) 
+word for this.
+The problem is well known (Jpn. aoi `dark green/blue`: such as traffic 
+lights... or  Hjelmslef on Danish `grey/black`). How more difficult to 
+pin down concepts such as Skt. dharma or Vedic rta... (more in the 
+forthc. HOS volume on translation).
+
+Color designations illuminate the case and allow for an easier approach. 
+One could measure the frequency of the light reflected from aoi- or 
+hari-colored objects and say, with precision, that this color is in the 
+range of so and so many cycles (Hz) and therefore corresponds to engl. x 
+or y. Yet, a translator into Engl. has to decide whether a traffic light 
+is blue or green... This already provides an idea of how much cultural 
+information (realia) goes into each translation (note: the last straw 
+case!) and this is, other than frequently neglected in Skt. classes,  a 
+large part of our job. 
+
+Dharma or rta are not so easy. Just as in case of hari, we have to 
+investigate the (all!) contexts, in other words, we have to get a very 
+good idea of the field of meaning (noematic aggregates) that the word 
+encompasses. If possible we choose the English word that completely or 
+almost completely overlaps with the noematic aggregates expressed by the 
+Skt. word. That this is not always possible is known to any translator 
+and that is precisely why I chose the pi = 3.14159165... example (when I 
+last looked and not 3.15... as printed on the net), and I did so not out 
+of an `over-zealous concern for scientific precision`. For,  philology, 
+properly understood, tries to approach, with *increasing precision* over 
+the decades (setbacks, such as the one criticized here, negclected),  the 
+correct representation, as far as possible (or necessary) in the context. 
+But we also know that - for a variety  of reasons - that this can only 
+partially, if largely, be achieved. This exercise, too, is a dialectic 
+process, and it is in constant development.
+
+In her Manu translation D. has chosen Paul Thieme`s approach (without 
+mentioning the century old discussion after Bergaigne) of selecting the 
+word that comes closest to the meaning of the Skt. one. But her choice 
+has not always been correct or felicitous  (brahmana, ksatriya,  or pala 
+`straw` for a weight of 1.33 ounces/ 37.76 grams, etc.) On the other  
+hand, dharma has received a host of translations, listed in the index. 
+Yet, a reader of the Engl. text of Manu will never know that `Manu` is 
+speaking about dharma. One has to reconstruct this when reading the book, 
+by discovering the Engl. word `duty` (etc.) under `dharma` in the 
+index...  It would have be better to translate idiomatically but also to 
+add dharma each time in parentheses.
+
+ORIGINAL INTENT 
+
+Which brings us to the meaning of the text as such. Above, I have used 
+the term `original intent`. This is a category that has been guiding 
+translators since Sanskrit became better known in the west. It may be 
+that 19th cent. scholars imposed  many of their own categories on the 
+texts (as do we, inadvertently) but even they were eager to find out the 
+*original* meaning of a word, (AND its development), or of a text. *That* 
+is why they did not blindly accept the interpretation of medieval Indian 
+commentators of the Vedas who are almost as distant from the Vedic texts 
+as the academic Vedic specialists then and now. 
+
+In sum, though much has been said in defense of the three translations 
+criticized earlier, -- they remain grammatically incorrect. Therefore 
+they do not represent the function (the noematic aggregates) of the 
+grammatical category in question, they cannot represent the `meaning` of 
+that category, -- and consequently, they do not convey what the original 
+text represented to its listeners (later: readers). The *original intent* 
+of the text is not captured. 
+
+(Note that I am not talking of the later, Epic, classical, medieval etc., 
+perception of these texts or of the history of their understanding, -- a 
+legitimate undertaking, but one different from the aims of the three 
+translations criticized).
+
+Therefore, with regard both to `grammatically correct` translation, the 
+translation of `difficult words` and of original intent, I still stand 
+uncorrected and remain unconvinced.
+
+ity alam!
+
+M.W.
+=============================================================================
+
+
+            durjanasya ca sarpasya varam sarpo na durjanah |
+
+            sarpo dazati kaalena durjanas tu pade-pade    ||
+
+=============================================================================
+
+Michael Witzel                               Department of Sanskrit
+Wales Professor of Sanskrit                  and Indian Studies
+Chair, Committee on South Asian Studies      53 Church Street
+Harvard University                           Cambridge MA 02138, USA
+
+phones: - 1- 617 - 495 3295 (messages)       Electronic Journal of
+                   496 8570                  Vedic Studies
+fax:               4968571                   EJVS-list at shore.net
+email:  witzel at husc3.harvard.edu             (or: WWW: http://
+                                             www.shore.net/~india/ejvs 
+                                             or:                              
+                                             arcadiax1.arcadia.polimi.it/
+                                             ~ejvslist/
+=============================================================
+
+
+
+
+
+ 
+
+
+
+
+

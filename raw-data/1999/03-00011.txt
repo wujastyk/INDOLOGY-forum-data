@@ -1,0 +1,72 @@
+From lengqie at GMX.NET  Mon Mar  1 11:28:28 1999
+From: lengqie at GMX.NET (Petr Mares)
+Date: Mon, 01 Mar 99 12:28:28 +0100
+Subject: Personal attacks on the list
+In-Reply-To: <Pine.HPX.4.05.9903011113530.18584-100000@hpc24.ac.iopb.res.in>
+Message-ID: <161227047103.23782.1484801388958835530.generated@prod2.harmonylists.io>
+
+Dear Samar Abbas
+you wrote:
+> 2. If the default setting of these proxies is still in place ie. `GLOBAL',
+> any Tom, Dick and Harry not just from Lockheed, but from anywhere in the
+> world can use these proxies and the emails will appear to come from the
+> same IP address. Just because the emails come through a proxy server does
+> not mean that they originate at the proxy server. How ? Check your
+> Netscape Options or Network Preferences and look under proxies. Just fill
+> in the correct address and port numbers and there you go ! I can't tell
+> you which port numbers, because that would waste my quota on this list,
+> which is not devoted to teaching such tricks.
+
+The proxy server administrator will have to make the proxy public. Is it the case of Lokheed??
+>
+> 3. If Ganesan wanted to do such a thing, there was no need to sign up all
+> accounts from hotmail. He could have got free email accounts from
+> www.rocketmail.com, www.mailcity.com, www.excite.com, www.yahoo.com,
+> www.netforward.com, www.angelfire.com, www.fortunecity.com or any of the
+> 1000s of free email providers out there. To have all people signed up at
+> hotmail would make things just too obvious.
+
+That simply proves the ignorance not innocence.
+
+> 4. He could also forge his opponents' emails if he wanted using any of the
+> publicly available forge-your-email servers. That would be more effective
+> than signing up to many hotmail accounts, and would make a fool of his
+> opponents in a much stronger way.
+That will be so apparent as the real person will  vindicate himself.
+
+He could also use a proxy other than, or
+> in addition to, the Lockheed one, which would effectively change his IP
+> address to an arbitrary one.
+He did not, what that certifies??
+
+>
+>   In other words, since the IP node in question is a Proxy server,
+There are two nodes they all used, just one is proxy and one is
+public ISP. All have the same ISP in Houston and all use the same
+proxy in the second case, right?
+the
+> allegations effectively have no meaning. Nothing can be `proven' from our
+> detectives' results.
+It certainly does oproove the whole matter to anybody cosidering
+their unisono attacks.
+>    Moreover, even if these are all one person (something which cannot be
+> proven) he has only used his freedom of speech gauranteed to him under the
+> Second Amendment of the USA, and the Internet tradition (which is not a
+> crime).
+No one claim it is illegal, it is just disgusting.
+
+Sincerely
+
+Pertr Mares
+Petr Mares
+Lengqie Research
+Hlavacova 1163
+182 00, Prague 8
+Czech Republic
+Fax:420-2-2423-9157
+Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+
+

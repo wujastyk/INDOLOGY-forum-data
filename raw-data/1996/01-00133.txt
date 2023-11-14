@@ -1,0 +1,29 @@
+From kellner at ue.ipc.hiroshima-u.ac.jp  Wed Jan 31 15:17:08 1996
+From: kellner at ue.ipc.hiroshima-u.ac.jp (Birgit Kellner)
+Date: Thu, 01 Feb 96 00:17:08 +0900
+Subject: Sandhi-conventions for critical editions
+Message-ID: <161227022488.23782.5857208701119553784.generated@prod2.harmonylists.io>
+
+I would like to have as many opinions as possible on Sandhi-conventions in
+critical editions of Sanskrit texts, especially on what to do with nasals
+(sounds like the title a "teach yourself"-volume: "What to do with nasals:
+Ten steps to nasal perfection":)). 
+
+The manuscript I am currently using, for example, generally (i.e. in the
+overwhelming  majority of cases)
+assimilates nasals in pausa, when the following word starts with ca, ta or
+va  (i.e. ki~n ca, kin tu, kim vaa). It also sometimes writes ma in pausa,
+when the following word begins with bha, ba or na, but never with any other
+consonants. 
+
+Is one supposed to replace ma at the end of a word, just as the scribe seems
+to have done, by the homorganic nasal (although he does not follow this
+policy throughout the text), is one supposed to carry out this replacement
+only within compounds? In either case, why? 
+
+
+
+
+
+
+

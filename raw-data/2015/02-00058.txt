@@ -1,0 +1,31 @@
+From Gerard.Huet at inria.fr  Sun Feb  8 18:15:32 2015
+From: Gerard.Huet at inria.fr (=?utf-8?Q?G=C3=A9rard_Huet?=)
+Date: Sun, 08 Feb 15 19:15:32 +0100
+Subject: [INDOLOGY] Examples of very ambiguous devanagari Sanskrit	sentences
+In-Reply-To: <CAPW7aQFAYtw+9JWSRXMPA2JzZ0NcMVvs-YOm_MjF8f+RJepaiA@mail.gmail.com>
+Message-ID: <F3124160-B29F-4A1E-A6E0-E867738F0D57@inria.fr>
+
+Even before going to sentences, words are ambiguous (homophony) because distinct morphological constructions yield different meanings, even before compounding.
+
+Kunjunni Raja (Indian Theories of Meaning p37) discusses sam?na:
+sam?na1 = sam-?na :  digestion
+s'am?na2 = taddhita derivative of sama : similar, same
+sam?na3 = sa-maana : of the same measure; honored; proud
+
+and actually in this last case, one should distinguish sam?na3 = sa-maana1 :  honored; proud
+from sam?na4 = sa-maana2 : of the same measure
+since maana itself is more than polysemic, it has 2 distinct homophones:
+maana1 : esteemed; proud ; esteem, pride (pp of root man = to think)
+maana2 = k?t derivative of root maa : measure, dimension
+
+It is to be noted that MW's homonymy treatment of this situation is rather confusing.
+
+Thus, even a simple inflected form such as sam?nam may have (at least) four different meanings, just by internal morphology ambiguity.
+
+GH
+
+
+
+
+
+

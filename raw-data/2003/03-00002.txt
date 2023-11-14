@@ -1,0 +1,37 @@
+From witzel at FAS.HARVARD.EDU  Sun Mar  2 15:39:51 2003
+From: witzel at FAS.HARVARD.EDU (Michael Witzel)
+Date: Sun, 02 Mar 03 10:39:51 -0500
+Subject: XML/TEI-Sanskrit texts, anyone?
+In-Reply-To: <200303020429.h224T1qn025807@sendmail.kuins.net>
+Message-ID: <161227072440.23782.5125690293953330916.generated@prod2.harmonylists.io>
+
+We should also not forget, as far as the Veda (and Skt texts in general)
+are concerned,  J.R. Gardner's Nov.  2000 paper in EJVS,  VOL. 6, including
+a lot of useful tools :
+
+      J. R. Gardner,
+      Virtual Vidhaana: E-Textnology (XML and XSL/T) and Vedic Research
+
+see:  http://users.primushost.com/~india/ejvs/ejvs0601/ejvs0601.txt
+or  http://users.primushost.com/~india/ejvs/ejvs0601/ejvs0601.html
+all in  Kyoto_Harvard version
+
+
+For additional files to be used in several further implementations of J. R.
+Gardner's
+program go to  http://users.primushost.com/~india/ejvs/, scroll down to
+Vol. 6-1,  and save as source or binary, and expand download:
+Mac: ejvs_supplementary_files.sit
+PC:  ejvs_supplementary_files.zip
+
+============================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+
+
+

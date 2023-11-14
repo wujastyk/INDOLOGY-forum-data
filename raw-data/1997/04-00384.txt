@@ -1,0 +1,74 @@
+From zydenbos at flevoland.xs4all.nl  Sun Apr 20 04:47:00 1997
+From: zydenbos at flevoland.xs4all.nl (zydenbos at flevoland.xs4all.nl)
+Date: Sun, 20 Apr 97 03:47:00 -0100
+Subject: `Conversational Sanskrit' vs `Real Sanskrit'
+Message-ID: <161227029836.23782.1834593107176166678.generated@prod2.harmonylists.io>
+
+
+Replies to msg 18 Apr 97: indology at liverpool.ac.uk
+(vidynath at math.ohio-state.edu)
+
+ voe> Subject: Re: `Conversational Sanskrit' vs `Real Sanskrit'
+
+ voe> (3) Technical and scholarly writing in English uses the passive more
+ voe> often than colloquial talk, either in English or Tamil. Tamilians
+ voe> seem to have no trouble with this. Why should they have trouble with
+ voe> passive in Sanskrit?
+
+Because they are native Tamil-speakers and not Sanskrit-speakers. For more or
+less the same reason why they have problems with the past tense of Hindi
+transitive verbs, as I already mentioned. (See also Suniti Kumar Chatterjee on
+this subject in his _Indo-Aryan and Hindi_, if you insist on not believing me.)
+We are not talking about Raamaanuja and Appayyadiik.sita here, nor about modern
+Tamilians who have gone through so-called convent schools. The passive does not
+come naturally to Dravidian speakers. Apart from the authority of my own
+judgment, based on my own reading and speaking, I can also give you the
+following fragment, by a native Tamil speaker, after which I will not continue
+about this subject. Apart from specific history, all he says about Tamil holds
+good for Kannada too. This is reportedly from P.T.Srinivasa Iyengar's "History
+of the Tamils: from the earliest times to 600 A.D":
+
+---begin quote---
+
+As he imported the seven cases of Sanskrit into Tamil, Agattiyanaar is also
+responsible for importing the passive voice from Sanskrit. The passive is a
+definite inflection which all verbs, transitive or intransitive, undergo in
+Sanskrit. When transitive verbs become passive, it serves the purpose of making
+the object of the action the subject of the sentence, as when in English we
+say, "the lion was killed". This way of speaking is useful, when the subject of
+the action is not known or is not intended to be mentioned or when the object
+has to be emphasized. When intransitive verbs were given the passive inflection
+no such rational use can be found for it, but yet in Sanskrit the use of the
+passive intransitive is more idiomatic than that of the active, though no
+special meaning can be attached to the passive use; thus, "sa bhavati" is the
+same as "tena bhuuyate", only the latter cannot be translated into any other
+language, for "he is been" is absurd even in English, though it is allied to
+Sanskrit. Agattiyanar imposed the passive construction on Tamil; even he could
+not transfer the passive intransitive into Tamil, though he could translate
+"taa.dyate" into "a.dikkapa.t.taa_n", agglutinating the verb pa.du, to the past
+participle of a.di. a.dikkappa.du, if analysed into a.dikka [while (another
+man) beats], and pa.du [let (you) suffer] is seen to be opposed to the genius
+of Tamil, for compounding two verbs into one and assuming different persons to
+be the subjects of the two elements of the compound verb is violating both
+logic and grammar which is based on logic at least as far as Tamil is
+concerned. The true Tamil idiom for "undergoing beating" is a.dipa.du or
+a.diyu_n, where the first part of the compound is an abstract noun.
+Agattiyanaar invented this passive, because it is necessary for translating the
+Sanskrit passive verbs into Tamil and it proved so useful for men who think in
+Sanskrit and write in Tamil that Agattiyanaar's disciple, Tolkaappiyanaar,
+begins his grammar with a pseudo-passive "e_luttenapa.dupa". This
+pseudo-passive which no Tamil man ever uses in natural Tamil speech, but which
+was invented to enable Sanskritists to translate easily from Sanskrit into
+Tamil, has, in our days, become very fashionable in written Tamil, because we
+have learnt to think in English (which revels in passive forms) and write in
+Tamil. This barbarous form in "pa.du" mars every page of the Tamil translation
+of the Bible, and unfortunately the Tamil composition of Pandits."
+
+---end quote---
+- RZ
+
+
+
+
+
+

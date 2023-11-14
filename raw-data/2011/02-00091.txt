@@ -1,0 +1,32 @@
+From wujastyk at GMAIL.COM  Sun Feb 27 19:18:10 2011
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Sun, 27 Feb 11 20:18:10 +0100
+Subject: default reply behaviour (was: curses)
+Message-ID: <161227091628.23782.3494092709435807721.generated@prod2.harmonylists.io>
+
+On 26 February 2011 22:18, Sudalaimuthu Palaniappan <palaniappa at aol.com>wrote:
+
+>
+> Just now I realized that with the current default reply in the list going
+> to the original poster, the following response I had sent a few days ago did
+> not go to the list.
+>
+
+Can we review this?  It's a change that was made in the default behaviour of
+the INDOLOGY list, by popular request last year.  It annoys me a lot, but,
+unlike Muammar al-Gaddafi, I'm perfectly willing to abide by the will of the
+majority.
+
+The problem we were trying to solve was private replies to colleagues on the
+list that inadvertently became public.  Perhaps that is a greater danger
+than the annoyance of posts not going to the list at all.
+
+How do others feel?  Reply to sender, or reply to list at large?
+
+Best,
+Dominik
+INDOLOGY committee member
+
+
+
+

@@ -1,0 +1,64 @@
+From vsundaresan at HOTMAIL.COM  Mon Jul 17 00:13:23 2000
+From: vsundaresan at HOTMAIL.COM (Vidyasankar Sundaresan)
+Date: Sun, 16 Jul 00 17:13:23 -0700
+Subject: Update
+Message-ID: <161227060036.23782.15747331275995962632.generated@prod2.harmonylists.io>
+
+For those list-members who might still be interested in the
+Jyotirmath Sankaracarya succession (discussion from more than
+2 years ago):
+
+My article on the dispute, available at the Indology website,
+has now been updated, taking into account some information
+otained recently from Dana Sawyer of Maine College of Art
+(author of "Monastic Structure of Banarsi Dandi Sadhus" in
+Living Banaras: Hindu Religion in Cultural Context, ed. Hertel,
+Bradley R. and Cynthia Humes, Albany: State University of New
+York Press, 1993). The updated page can be found at -
+
+<http://www.ucl.ac.uk/~ucgadkw/position/shank-jyot.html>.
+
+I have also taken the opportunity to use the Indic Times font
+(Unicode UTF-8) developed by Chris Fynn (cfynn at DIRCON.CO.UK),
+so viewers can read the material with a font using proper
+diacritical marks. There is also a link to a plain text version
+of the page, in case the character encoding is not rendered
+properly by your favorite web-browser. This is available at -
+
+<http://www.ucl.ac.uk/~ucgadkw/position/shank-jyot-ascii.html>.
+
+In this context, Christopher J. Fynn wrote, on Thu, 13 Jul 2000:
+
+>....... (Unfortuately Netscape still has a number of
+>problems displaying Unicode text for complex scripts).
+
+This can be a problem with Internet Explorer also, if your
+Internet Options are not set right. The following tips might
+help -
+
+For Netscape, go to Edit -> Preferences -> Appearance ->
+Fonts, and choose "Use Document specified fonts, including
+Dynamic Fonts". If the font is still not rendered well, you
+can force the browser to behave, by specifying the complex
+font (Indic Times in this case) as the default variable width
+font. This is a short term fix, as you will have to change your
+preferences every time you encounter a page with a different
+kind of font.
+
+For IE, go to Tools -> Internet Options -> General ->
+Accessibility, and turn off "Ignore font styles specified
+on Web pages" under "Formatting". Also turn off the "Format
+documents using my style sheet" feature found under "User
+Style Sheet". With the font-face attribute being discouraged,
+in the future, more web designers will be specifying a complex
+font as part of style sheet specifications. Without the above
+two steps, IE will also not render the font properly.
+
+Best wishes,
+Vidyasankar
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+
+

@@ -1,0 +1,38 @@
+From vidya at CCO.CALTECH.EDU  Tue Sep 16 21:42:03 1997
+From: vidya at CCO.CALTECH.EDU (Vidyasankar Sundaresan)
+Date: Tue, 16 Sep 97 14:42:03 -0700
+Subject: viLari and tODi rAga (was Re: Q: Tamil literature)
+In-Reply-To: <Pine.GSO.3.96.970916125600.6170A-100000@avatar>
+Message-ID: <161227032527.23782.9226471190344217230.generated@prod2.harmonylists.io>
+
+Sorry, I missed a phrase in a crucial sentence in my previous post on
+cevvazhippaN today. The correct version is below.
+
+On Tue, 16 Sep 1997, I wrote:
+
+> Anyway, the technicalities aside, what is interesting is that the
+> vaTTappAlai does not give a scale like the viLarippAlai, with two fourths
+> and no fifth. Instead, it gives the neytaliyAzh, which is a scale without
+> a kural (shaDja, in more familiar terms). It has the augmented uzhai
+> (fourth) and the iLi (fifth). However, it has both the minor and major
+> second (tuttam/Rshabha), and all other notes are of the major variety.
+> Ramanathan says that this is called a tiRanil paN, i.e. an impracticable
+> melody. The cevvazhippaN is therefore derived from the neytaliyAzh, by
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> redefining all the relationships with respect to the minor second, not
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> according to the vaTTappAlai technique. This reconstituted paN then has
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> the normal structure, with one variety of each note, from kural to tAram.
+
+Read "not in the kural tiripu manner, but according to the vaTTappAlai"
+instead of "not ......" in the marked sentence above. cevvazhi is obtained
+from neytaliyAzh, by redefining the notes with respect to the minor
+second, according to the vaTTappAlai technique, and not by a simple shift
+of tonic.
+
+Vidyasankar
+
+
+
+

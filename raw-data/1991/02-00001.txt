@@ -1,0 +1,58 @@
+From ucgadkw at UK.AC.UCL  Wed Feb  6 09:33:39 1991
+From: ucgadkw at UK.AC.UCL (Dominik Wujastyk)
+Date: Wed, 06 Feb 91 09:33:39 +0000
+Subject: Calendar conversion
+Message-ID: <161227014956.23782.5356420169741714280.generated@prod2.harmonylists.io>
+
+ 
+
+Dear Richard,
+ 
+Brett Kessler has been very active in writing the date conversion
+utility that you refer to.  It is called chrono, and currently
+deals with Gregorian, Julian and Hillel dates.  The Hijra calendar
+is to go in very shortly.  Brett is kindly allowing me to
+test the program as he develops it.  It is currently looking very
+robust and good, and promises to be a very useful program for
+all of us.
+ 
+With the test suite that Brett has been making available to me, he
+includes the following bibliography:
+ 
+ 
+Bhatt, Harihar and Chhotubhai Suthar.  The Length of a Tithi.  Journal
+ of the Oriental Institute Barode, 18.1968/69, 232-236.
+ 
+Cunningham, Alexander.  Book of Indian eras, with tables for
+ calculating Indian dates.  -- Varanasi : Indological Book House,
+ reprint 1970.
+ 
+Gahlot, Sukhvir Singh and G.L. Devca.  Indian Calendars, A.D. 1444
+ to A.D. 1543. -- Jodhpur, 1980
+ 
+Ginzel, F.K.  Handbuch der mathematischen und technischen Chronologie. --
+ Leipzig : J.C. Hinrichs, 1906.
+ 
+Jacobi, Hermann.  Tables for calculating Hindu dates in true local
+ time.  Epigraphia Indica 2.1894m 487-498.
+ 
+Johnson, H.M.  Conversion of Vikrama Sa?vat Dates. JAOS, 58.1938,
+ 668f.
+ 
+Pillai, L.D. Swamikannu.  Indian chronology, solar, lunar and plane
+ctary. A practical guide to the interpretation and verification of tithis,
+ nakshatras, horoscopes and other Indian time-records, B.C. 1 to A.D.
+ 2000. New Delhi, 1982 <repr>   (Tables)
+ 
+-- An Indian Ephemeris (AD 700 to AD 1799) (7 v)
+ 
+-- An Indian Ephemeris (AD 1800 to AD 2000) (1 v)
+ 
+Schram, R.  Kalenderiographische und chronologische Tafeln.  Leipzig,
+ 1908
+ 
+
+
+
+
+

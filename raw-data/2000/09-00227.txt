@@ -1,0 +1,290 @@
+From saf at SAFARMER.COM  Tue Sep 19 23:07:21 2000
+From: saf at SAFARMER.COM (Steve Farmer)
+Date: Tue, 19 Sep 00 16:07:21 -0700
+Subject: "Buddha" before the Pali Canon?
+Message-ID: <161227061724.23782.17366882040825468190.generated@prod2.harmonylists.io>
+
+Much thanks to Lance Cousins, Lars Martin Fosse, Ulrich T. Kragh,
+et al., for their helpful posts. Also to Michael Witzel, who also
+pointed me offline to Bechert's _Die Sprache der ?ltesten
+Buddhistischen ?berlieferung_ and provided other
+linguistic data - including some contradicting
+the claims in other posts. I guess that I can assume from
+this - as well as from Madhav Deshpande's post - that the
+field is far from a consensus on the questions that I
+was asking.
+
+I'll add only a few comments on the biographical side of
+the issue. On the linguistic questions, I want to
+study _Die Sprache_ and the other sources
+that I've been pointed to before saying anything more.
+
+I'd like to start by emphasizing that I'm far from
+dogmatic on the biographical issue - in my post I was
+poking sticks in hornets' nests to see what would come out (a
+comparative historian's trick to get data fast) - and wouldn't
+seriously compare my knowledge of early Buddhist texts
+with those of specialists like Lance Cousins or others on
+this list.
+
+This said, I'm not convinced at all that
+belief or doubt about traditional accounts of the life
+of "the Buddha" has much to do with specialized knowledge of
+Buddhist texts. It concerns instead methodological attitudes
+about what *kinds* of evidence are acceptable in reconstructing
+ancient biographies. If the situation is radically different
+in the case of "the Buddha" than in the case of "Confucius,"
+"Aristotle," "Jesus," etc., I'd appreciate it if Lance or
+someone else could point out the circumstances
+that make it unique in comparative history in ancient times.
+
+I wrote:
+
+>In general, ...I take arguments about the
+>historicity of "the Buddha" with deep skepticism, since ancient
+>biographies of figures like this (cf. "Confucius," "Aristotle,"
+>"Jesus," etc.) were invariably late constructs.
+
+Lance Cousins wrote:
+
+> 'Invariably' ? This is an extremely strong claim. So strong that one
+> example is sufficient to refute it. How about Alexander ? Can we
+> conclude from the proliferation of the Alexander legend that we
+> should have 'deep scepticism' as to the historicity of Alexander ?
+
+All I suggested (see my lines again) is that
+the *biographies* of these figures were late (better: compilational)
+constructs. It would be difficult to argue with this
+conclusion, since multiple (and indeed conflicting) biographical
+accounts of their lives exist. My point about being skeptical
+about the historicity of these half-mythical figures was to
+suggest that because of the way their biographies were compiled,
+even when it is clear that one of these figures existed, we can't
+say much or sometimes anything about their lives.
+
+And, pace Lance, this is true as well of Alexander, leaving aside
+the barest facts concerning his conquests and his approximate death
+dates. Check out sometime the evidence of Alexander's famous
+(and almost certainly fictive) relations with Aristotle, whose
+biographies are even more suspect. Indeed, a number of
+classicists since the late 19th century have argued against
+traditional scholars, I think on firm grounds, that
+the Aristotelian corpus was compiled over several hundred
+years, the same as (we know now) the Confucian _Analects_ -
+that it was a "school" product and not the
+creation of the eponymous creator of the school. This view
+undermines a huge part of the biographical data about Aristotle
+found in Diogenes Laertes and other traditional biographies.
+
+The case for veracity in biographies is even weaker in respect to
+religious reformers or philosophers who left no texts of their
+own behind. Sometime compare the conflicting pictures of Socrates
+in Xenophon and in the Platonic corpus and other sources. Within
+a decade or so after his traditional death date, "Socrates"
+was, for all practical purposes, a fictional character on whom
+everyone was tacking his own ideas ad libitum. One way to get
+your views accepted, in fact, was to ascribe them to "Socrates"
+in a convincing literary treatise. (They even trained people to
+imitate Socrates in the schools!) What did the real Socrates believe,
+insofar as he existed at all? Was he the nosey busybody we find
+in Xenophon's _Memorabilia_, prepared to give advice to everyone
+(in one passage, we see him telling a whore to hire a pimp if
+she wants rich clients)?  Supposedly, Xenophon knew Socrates
+well, but *his* Socrates who offered gossipy advice to
+whores and carpenters is *not* the learned-ignorance Socrates
+that the history books have quietly adopted
+as the real historical figure. Tradition opted (for
+reasons of historical decorum, not evidence) for the Socrates
+found in the _Apology_ and _Phaedo_ in the Platonic corpus
+(but not the Socrates in *other* parts of the Platonic corpus,
+e.g., in the _Cratylus_ or _Timaeus_.).
+
+The case is of course much worse for
+figures like Laozi (= Lao Tzu = "Old Master") who few
+scholars today (except for traditionalists in China, the
+sinological equivalent of indology's OITers) think existed at
+all. A generation or two ago, however, his
+historicity was taken for granted by just about everyone - on
+grounds not much better than those re "the Buddha" = "the
+Awakened."
+
+Same for the "Confucius" in the _Analects_. Only in the last decade
+has it become widely accepted that the portrait of "Confucius"
+seen in that text was not the product of his immediate disciples,
+but the creation of 240-odd years of accretional processes
+developed in rapidly shifting school environments. Indeed,
+now that we know more about the way the text was stratified, we
+can watch key elements in his traditional "biography" emerge
+in layer after layer of the document.
+
+Where does "the Buddha" fit in on the continuum between Alexander
+and Socrates and Confucius and Laozi? Exactly what
+biographical facts about him do we really know? Would anyone here
+dare to list these biographical facts (I raise this as a genuine
+challenge)? I doubt that the list would be long. Even the very
+short list offered by Vetter (after E. Lamotte) is filled with
+highly questionable and undocumented elements.
+
+Can one safely say that he was a teacher of meditation born
+somewhere in the sixth or fifth centuries someplace in Eastern
+India, dying at some undefined time in the fifth or fourth
+centuries? If that's the limit of our knowledge, how can we
+distinguish him in any meaningful way from other meditation
+teachers from the same general period? In teachings? Which
+ones? Many schools of meditation were arising throughout
+Eurasia in the 4th century, largely in reaction to
+scholasticizing trends already at work in stratified traditions
+in China, India, Greece. I don't see anything in the early
+Buddhist teachings that I can't find in China or the West
+in the 4th century - and presumably in countless other
+anti-Vedic reformers in India.
+
+Did he indeed have a wife and a son named
+Raahula? Did he abandon domestic life for a mendicant's life
+around his thirtieth year, as per some traditional accounts,
+or was this a "must have happened" story reconstructed later,
+based on expectations about how an ideal mendicant would act? Did
+he visit all the places mentioned in his lives, or are
+these there because these are the literary settings of Buddha
+stories (certainly most of them fictional) retold in the early
+suttas? We know that invented biographical elements like this
+were *quickly* inserted into the life of Jesus, as Lars Martin
+Fosse even suggests in one of his posts. Indeed, a lot of recent
+scholars claim that all that we legitimately know about "Jesus"
+consists of a handful of sayings devoid of all historical
+context in lower strata of the so-called Q document, and
+that *all* the biographical details - even including
+the crucifixion, according to some - were compiled from
+hints in earlier messianic writings and "must have happened"
+stories about how messiahs were *supposed* to live and die.
+
+Indeed, other stories attached to Jesus's "lives" demonstrably
+came from stories of *other* wisemen or common currency of
+battling schools coopted by the Christians. Do you want
+a homosexual Jesus in the mode of Platonic philosophers? Or
+portraits of Jesus as a magician, like his (supposed)
+contemporary Apollonius of Tyara? They are there (along
+with portraits of Jesus as an ascetic and condemner of
+magic) in the early biographical literature. Even a good
+percentage of the words attributed to
+Jesus come from Old Testament passages, apparently
+ascribed to him by early biographers looking for
+hints in the old canon to flesh out the skimpy list of
+detached sayings from "Jesus" that they possessed.
+
+There may be somewhat less variation in early images of
+"Buddha" due to monastic constraints, but there still seems
+to be plenty of it.
+
+We see this kind of conflation of early historical figures
+everywhere else in Eurasia - and massive fusion of Jainist
+and Buddhist ideas as well in later periods. It would seem
+normal to me to assume that the same kind of conflations
+existed in the case of "the Buddha" at an early date -
+resulting in his "lives" being a composite of stories
+taken from multiple sources. Isn't
+this, in fact, exactly what we see in the Jaatakas?
+Why shouldn't the same mythologizing/conflational processes
+exist at the earliest stages of the religion? You can't
+just strip the miraculous elements out of the
+traditional lives and accept the ordinary sounding (to
+our ears) biographical data as "real," modernizing the
+myths. (That is the standard trick used in
+reconstructing the lives of "Confucius," "Alexander," and
+other figures of this sort from the hagiographical mess we
+inherit from tradition: bad philology.)
+
+Lance writes further:
+
+> It would be a mistake to insist on 'well-controlled evidence' in this
+> context. That would simply amount to a concealed argument from
+> silence. The kind of criteria you seem to want to use are those
+> appropriate to a time and place where we have a lot of data. If a
+> figure supposed to have existed in 16th century Europe is not
+> mentioned until the 18th century we would rightly be very suspicious,
+> especially if he is claimed to have been well-known, etc. At that
+> time we have a lot of information and the absence of evidence is very
+> significant. At other times when we have very little data mere
+> absence of evidence tells us little and even priority may be an
+> artifact of mere chance survivals.
+
+I don't know what "a concealed argument from silence" is,
+but I certainly differ with the rest of your paragraph.
+You can't turn off critical judgment and accept traditional
+stories just because the evidence is scarce. Otherwise, why not
+accept with the OIT crowd the evidence in the Puranas and
+Mahabharata concerning early Vedic history?! (Bad company!)
+Those have as much credibility (= near nil) as the early
+Buddha lives as historical documents in the narrow sense.
+If we were to loosen demands for evidence in this fashion
+everywhere in ancient history, we would be led to accept Laozi
+too as an historical figure. Recently, however, we've found
+good evidence (in comparing the Mawangdui and Guodian tomb
+versions of the Laozi with the received text) that the texts
+ascribed to him were pieced together at a very late
+date from earlier, and apparently originally unconnected,
+sources. Attempts to find a single author for the work led to
+the invention of "the Old Master."
+
+The case of "the Buddha" may not be as extreme as that of
+"Laozi," but the parallels with "Confucius" are suggestive.
+
+I wrote:
+
+>Hence I view the redatings of early Buddhism by Bechert et
+>al.(which I fully support) to be redatings of the Pali canon and
+>not of "the Buddha."
+
+Lance responded:
+
+> This is just wrong. These redatings are nothing to do with the Pali
+> Canon which doesn't exist before the early first century B.C. at the
+> very earliest. They are not even redatings of the earliest texts
+> contained in the Pali Canon, since such issues are mostly not being
+> addressed. They are attempting to locate the date of the historical
+> figure whose place of death was marked by Asoka in the third century
+> B.C. with a pillar at Lumbini. Note that there may have been people
+> alive at this time who had spoken to people who met the Buddha in
+> their youth.
+>
+> This is particularly true if one follows Bechert himself who adopts a
+> very late date 'close to Alexander' (or something like that) or
+> follows the traditional Sarvaastivaadin dating uncritically as do
+> Charles Willemen and company.
+
+(1) I wasn't speaking of the time when the Pali canon was written
+down, but of the period when the works in it were orally composed,
+which was long before the early 1st century BCE, as I understand
+it; at a minimum, the canon contains data supposedly associated
+with the historical "Buddha"; (2) The statement "there may have
+been people alive at this time [the time of Asoka] who had spoken
+to people who met the Buddha in their youth" - besides being
+obviously conjectural - says nothing about the veracity of
+biographical accounts of his "life." The same was even *more*
+true of people who were alive when the many
+early (and sharply conflicting) "lives" of Jesus (many as old as
+any found in the synoptic gospels) were written down.
+Same for the stories of Socrates, of course (see above).
+
+Correction of the dates that Lance claims are given by Bechert
+for the death of "the Buddha": In all of Bechert's papers in or
+after the 3 vols. of _The Dating of the Historical Buddha_, he
+places the dates roughly between c. 400 and 350 BCE, and
+does NOT endorse a date "close to Alexander." Bechert vehemently
+*denies* that the dates can be given more precisely than c. 350
+to 400 BCE, claiming that he has been misrepresented in the
+past on this issue.
+
+Thanks again to Lance Cousins et al. for the criticism and
+data, especially re his views of the language of the Buddha. I'll read
+the Bechert volume on that topic ASAP. This is probably my last
+post in the thread: I must get back to my own research (these posts
+were written on breaks, on a whim). And I've pretty much
+exhausted what I have to say, in any case, and seem to be a chorus
+of one voice only. Eppur si muove (maybe)!
+
+Steve Farmer
+
+
+
+

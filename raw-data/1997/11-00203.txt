@@ -1,0 +1,24 @@
+From roheko at MSN.COM  Tue Nov 18 21:46:10 1997
+From: roheko at MSN.COM (Rolf Heiner Koch)
+Date: Tue, 18 Nov 97 22:46:10 +0100
+Subject: NORMAN font
+Message-ID: <161227033804.23782.2453685793875698334.generated@prod2.harmonylists.io>
+
+If those of you who work with the PC and use
+Truetype fonts are not satisfied with the NORMAN
+font, change to the HEINER font that works without
+problems (it includes all diacritics in romanised
+form and - depending on yours to use or use not -
+there are also separate letters for the aspiratae
+[gh, dh, Dh etc.] and for au, ai). This is helpful
+in case you have problems with the automatic
+breaking of words at the end of lines (like buddha
+into budd-ha).
+I will send you this font free (together with a
+keyboard-layout)
+Please contact me
+roheko at msn.com
+
+
+
+

@@ -1,0 +1,455 @@
+From EVERSON at IRLEARN.UCD.IE  Wed Jun 23 13:41:17 1993
+From: EVERSON at IRLEARN.UCD.IE (Michael Everson)
+Date: Wed, 23 Jun 93 13:41:17 +0000
+Subject: List of Language Lists, version 1.1
+Message-ID: <161227015914.23782.503399914729551548.generated@prod2.harmonylists.io>
+
+ 
+Computer Bulletin Boards for Individual Languages
+ 
+Prepared by Bernard Comrie and Michael Everson
+Version 1.1 (13 May 1993)
+ 
+This file lists bulletin boards devoted primarily to the
+linguistic study of individual languages and groups of
+languages (though a couple of others, in particular lists
+for language learners, have been included as well). It
+would be great if other correspondents to LINGUIST
+will be encouraged to maintain corresponding lists for
+branches of linguistics, particular approaches to
+linguistics, language teaching, etc.
+ 
+The usual way of subscribing to a list is to send the following
+message to the listserver (not to the address for enquiries):
+ 
+  SUBSCRIBE <name of list> <your first name> <your last name>
+ 
+In the listing below, the name of the list is given in
+capital letters inside parentheses. When you subscribe,
+you will receive instructions on how to contribute to
+the list, and on how to remove your name from the subscription
+list (usually: SIGNOFF <name of list> (UNSUBSCRIBE works too)).
+ 
+A list of mailing lists available on Internet is available by
+anonymous ftp from ftp.nisc.sri.com (192.33.33.32) in the file
+/netinfo/ interest-groups. A directory of scholarly electronic
+conferences is maintained by Diane K. Kovacs
+(dkovacs at kentvm.bitnet or @kentvm.kent.edu) and is available by
+sending the message
+ 
+     get acadlist readme
+ 
+to one of the following addresses:
+ 
+     listserv at kentvm.bitnet
+     listserv at kentvm.kent.edu
+ 
+The materials you will receive include instructions for getting
+more detailed descriptions of particular sets of electronic
+conferences (e.g. LANGUAGES, LINGUISTICS). Those interested in
+contacting speakers of languages (not necessarily linguists)
+should also consider contacting the appropriate soc.culture list
+(e.g. soc.culture.polish).
+ 
+The order of the lists follows somewhat the Library of Congress
+Subject headings; no attempt at bibliographical perfection has
+been	attempted.
+ 
+Please send corrections and emendations to this list to:
+  Bernard Comrie (comrie at uscvm) and
+  Michael Everson (everson at irlearn.ucd.ie)
+==========
+Language(s): Sign languages; P117, E98.55, HV2474-HV2476
+  Sign languages (SLLING-L)
+Listserver:
+  listserv at yalevm.bitnet
+  listserv at yalevm.cis.yale.edu
+For questions, contact:
+  Dave.Moskovitz at vuw.ac.nz (Dave Moskovitz)
+A previous incarnation of this was ASLING-L.
+ 
+Language(s): Celtic, Goidelic; PB1201-PB1847
+  Irish, Scottish, and Manx Gaelic (GAELIC-L) (not restricted to
+  linguistics; also for learners; contributions in a Gaelic
+  language preferred)
+Listserver:
+  listserv at irlearn.bitnet
+  listserv at irlearn.ucd.ie
+  listserv%irlearn.ucd.ie at uk.ac.earn-relay
+For questions, contact:
+  mgunn at irlearn.ucd.ie (Marion Gunn)
+  caoimhin at smo.ac.uk (Caoimhi/n O/ Donnai/le)
+  lss203 at cs.napier.ac.uk (Craig Cockburn)
+ 
+Language(s): Celtic, Brittonic; PB2101-PB2849
+  Welsh (also Breton, Cornish) (WELSH-L) (not restricted to
+  linguistics; also for learners; contributions in a Brittonic
+  language preferred)
+Listserver:
+  listserv at irlearn.bitnet
+  listserv at irlearn.ucd.ie
+  listserv%irlearn.ucd.ie at uk.ac.earn-relay
+For questions, contact:
+  everson at irlearn.ucd.ie (Michael Everson)
+  briony at cstr.ed.ac.uk (Briony Williams)
+ 
+Language(s): Greek, Latin; PA201-PA1179, PA2001-PA2995
+  Classical Greek and Classical Latin (CLASSICS)
+Listserver:
+  listserv at uwavm.bitnet
+  listserv at uwavm.u.washington.edu
+For questions, contact:
+  lwright at uwavm.bitnet (Linda Wright)
+  lwright at uwavm.u.washington.edu
+ 
+Language(s): Greek, modern; PA1001-PA1179
+  Greek (HELLAS) (Modern Greek language and literature)
+Listserver:
+  listserv at auvm.bitnet
+  listserv at auvm.auvm.edu
+For questions, contact:
+  sliolis at auvm.bitnet (Spiros Liolis)
+  kostas at bklyn.bitnet (Kostas Piperis)
+  alex at auvm.bitnet (Alexandros Coulombis)
+ 
+Language(s): Greek, modern; PA1001-PA1179
+  Greek (ELLHNIKA) (Modern Greek linguistics and literature;
+  typesetting of Ancient Greek)
+Listserver:
+  listserv at dhdurz1.bitnet)
+For questions, contact:
+  yannis at frcitl81.bitnet (Yannis Haralambous) (NB: 'el eight one')
+ 
+Language(s): Latin, also Modern; PA2801-PA2915
+  Latin and Neo-Latin (LATIN-L)
+Listserver:
+  latin-l at psuvm.psu.edu
+  latin-l at psuvm.bitnet
+For questions, contact:
+  bcj at psuvm.bitnet
+  bcj at psuvm.psu.edu
+ 
+Language(s): Italian; PC1001-PC1977
+  Italian (LANGIT)
+Listserver:
+  listserv at iveuncc.bitnet
+  listserv at iveuncc.univer.it
+For questions, contact:
+  dolxi at iveuncc.bitnet (Roberto Dolci)
+ 
+Language(s): French; PC2001-PC3761
+  French (CAUSERIE) (any topic, but must be in French)
+Listserver:
+  listserv at uquebec.bitnet
+  listserv at uquebec.ca
+For questions, contact:
+  ???
+ 
+Language(s): French; PC2001-PC3761
+  French (FROGTALK) ((not restricted to linguistics; also for
+  learners; contributions in French preferred)
+Listserver:
+  listserv at bitnic.bitnet
+For questions, contact:
+  frog at bitnic (Stephane Piot)
+ 
+Language(s): Catalan; PC3801-PC3899
+  Catalan (CATALA) (not just linguistics)
+Listserver:
+  listserv at ebcesca1.bitnet)
+  listserv at puigmal.cesca.es
+For questions, contact:
+  catala at ebcesca1.bitnet
+  catala at puigmal.cesca.es
+(Older list CATALUNYA is apparently no longer operating.)
+ 
+Language(s): Spanish; PC4001-PC4977
+  Spanish (I-REDES) (Spanish language wide area networks;
+  contributions in Spanish)
+Listserver:
+  listserv at utfsm.bitnet
+For questions, contact:
+  hlobos at utfsm.bitnet (Hernan Lobos Mitzio)
+ 
+Language(s): Medieval Catalan, Spanish, Ladino, Galician;
+    PC3801-PC3899,  PC4001-PC4977, PC4813, PC5411-PC5414
+  Medieval Iberian (MEDIBER) (not just linguistics)
+Listserver:
+  listserv at merle.acns.nwu.edu
+For questions, contact:
+  j-dagenais at nwu.edu (John Dagenais)
+ 
+Language(s): Germanic; PD1-PD71 approx.
+  Germanic languages, older (to about 1500) (GERLINGL)
+Listserver:
+  listserv at uiucvmd.bitnet
+For questions, contact:
+  marchand at ux1.cso.uiuc.edu (Jim Marchand)
+  marchand at uiucmvd.bitnet
+  obenaus at uiucmvd.bitnet (Gerhard Obenaus)
+  obenaus at ux1.cso.uiuc.edu
+  Antonsen at ux1.cso.uiuc.edu (Elmer Antonsen)
+ 
+Language(s): Scandinavian; PD1501-PD5929
+  Nordic languages (DISC-NORDIC) (not just linguistics)
+Listserver:
+  disc-nordic-request at mail.unet.umn.edu
+For questions, contact:
+  shack001 at staff.tc.umn.edu (Jole Shackleford)
+  uenjc at terra.oscs.montana.edu (Jerome Coffey)
+Note also Project Runeberg for archiving Nordic texts;
+information from:
+  aronsson at lysator.liu.se
+ 
+Language(s): Old English; PE101-PE299
+  Old English (ANSAX-L) (Old English language discussion)
+Listserver:
+  listserv at wvnvm.bitnet
+For questions, contact:
+  u47c2 at wvnvm.bitnet (Patrick W. Conner)
+ 
+Language(s): English; PE1001-PE3729
+  English (WORDS-L) (English language discussion; not just
+  linguistics)
+Listserver:
+  listserv at uga.bitnet
+  listserv at uga.cc.uga.edu
+For questions, contact:
+  maynor at Ra.MsState.EDU (Natalie Maynor)
+ 
+Language(s): English--United States; PE2801-PE3102
+  American dialects (ADS-L) American Dialect Society list
+Listserver:
+  listserv at uga.bitnet
+  listserv at uga.cc.uga.edu
+For questions, contact:
+  maynor at msstate (Bernard Chien Perro)
+  maynor at ra.msstate.edu (Natalie Maynor)
+ 
+Language(s): Dutch; PF1-PF979
+  Dutch (NEDER-L)
+Listserver:
+  listserv at nic.surfnet.nl
+For questions, contact:
+  u216013 at hnykun11.bitnet (Ben Salemans)
+ 
+Language(s): Slavic PG1-PG9198
+  Slavic and East European languages (SEELANGS) (languages and
+  literatures)
+Listserver:
+  listserv at cunyvm.bitnet
+  listserv at cunyvm.cuny.edu
+For questions, contact:
+  ahrjj at cunyvm.bitnet (Alex Rudd)
+  bigcu at cunyvm.bitnet (Bill Gruber)
+  rtwlc at cunyvm.bitnet (Robert Whittaker)
+ 
+Language(s): Russian PG2001-PG2847
+  Russian (RUSSIAN)
+Listserver:
+  listserv at asuacad.bitnet
+  listserv at asuvm.inre.asu.edu
+For questions, contact:
+  ispajw at asuvm.inre.asu.edu
+  ispajw at asuacad.bitnet
+ 
+Language(s): Russian PG2001-PG2847
+  Russian (RUSTEX-L) Russian TeX and Cyrillic text processing list
+Listserver:
+  listserv at ubvm.bitnet
+For questions, contact:
+  dmv at cunyvms1 (Dimitri Vulis)
+ 
+Language(s): Yiddish; PJ5111-PJ5119
+  Yiddish (MENDELE) (Yiddish literature and language; not just
+  linguistics)
+Listserver:
+  listserv at yalevm.ycc.yale.edu
+  listserv at yalevm.bitnet
+For questions, contact:
+  nmiller at dot.trincoll.edu (Norman (Noyekh) Miller)
+There is also an older Yiddish list, now inactive: MAIL.YIDDISH.
+For back issues contact:
+  dave at lsuc.on.ca (David Sherman)
+ 
+Language(s): Arabic PJ6001-PJ7144
+  Arabic (ARABIC-L)
+Listserver:
+  mailserv at byu.edu
+For questions, contact:
+  parkinsond at yvax.byu.edu (Dilworth B. Parkinson)
+  belnapk at yvax.byu.edu (Kirk Belnap)
+ 
+Language(s): Sanskrit, Pali; PK401-PK976, PK1001-PK1095
+  Sanskrit (INDOLOGY) (Sanskrit and adjacent topics)
+Listserver:
+  listserv at liverpool.ac.uk
+For questions, contact:
+  ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+  qq43 at liverpool.ac.uk (Chris Wooff)
+ 
+Language(s): Turkish; PL101-PL199
+  Turkish, Natural Language Processing (BILDIL)
+Listserver:
+  listserv at trmetu.bitnet
+For questions, contact:
+  bildil at trmetu.bitnet
+ 
+Language(s): Japanese; PL501-PL700
+  Japanese (NIHONGO)
+Listserver:
+  listserv at cunyvm.bitnet
+  listserv at mitvma.bitnet
+  listserv at cunyvm.cuny.edu
+  listserv at mitvma.mit.edu
+For questions, contact:
+  straz at media-lab.media.mit.edu (Steve Strassmann)
+  jwl at utkvx (??)
+ 
+Language(s): Chinese; PL1001-PL2244
+  Chinese (CHINESE)
+Listserver:
+  chinese-request at kenyon.edu
+For questions, contact:
+  bai at kenyon.edu (Jianhua Bai)
+ 
+Language(s): Chinese; PL1001-PL2244
+  Chinese (CCNET-L) (devoted to use of Chinese on computers)
+Listserver:
+  listserv at uga.uga.edu
+  listserv at uga.bitnet
+For questions, contact:
+  ccnet-l@ uga.uga.edu
+  ccnet-l at uga.bitnet
+ 
+Language(s): Tibeto-Burman, Tai-Kadai, Austroasiatic,
+    Austronesian, Mien-Yao; PL3551-PL4001, PL4111-PL4251,
+    PL4281-PL4587, PL5021-PL6571, PL8801-PL8804
+  South East Asian Languages and Linguistics (NO NAME YET)
+Listserver:
+  NONE YET
+For questions, contact:
+  brian at ipied.tu.ac.th (Brian Migliazza)
+ 
+Language(s): Tamil; PL4751-PL4759
+  Tamil (TAMIL-L) (Tamil studies; not limited to linguistics)
+Listserver:
+  listserv at dhdurz1.bitnet
+For questions, contact:
+  d87 at vm.urz.uni-heidelberg.de (Thomas Malten)
+ 
+Language(s): Telugu; PL4771-PL4779
+  Telugu (TELUGU) (Telugu language and culture; not just
+  linguistics)
+Listserver:
+  telugu at ndsuvm1.bitnet
+  telugu at vm1.nodak.edu
+For questions, contact:
+  kvrao at andy.bgsu.edu (K.V. Rao)
+  seetam at ece7.eng.wayne.edu (Seetamraju Udaya Bhaskar Sarma)
+ 
+Language(s): Swahili; PL8701-PL8704
+  Swahili (SWAHILI-L) (any topic, but must be in Swahili)
+Listserver:
+  swahili-l at macc.wisc.edu
+  swahili-l at wiscmacc.bitnet
+For questions, contact:
+  kuntz at macc.wisc.edu
+  kuntz at wiscmacc.bitnet (Patricia S. Kuntz)
+ 
+Language(s): Indian, Australian, etc.; PM1-PM7356, PL7001-PL7101
+  Aboriginal Peoples, Languages of (NAT-LANG)
+Listserver:
+  listserv at tamvm1.bitnet
+  listserv at tamvm1.tamu.edu
+For questions, contact:
+  gst at gnosys.svle.ma.us (Gary S. Trujillo)
+ 
+Language(s): Iroguoian; PM1381-PM1384
+  Iroquoian (IROQUOIS)
+Listserver:
+  listserv at vm.utcs.utoronto.ca
+  listserv at utoronto.bitnet
+For questions, contact:
+  cdyck at epas.utoronto.ca (C. Dyck)
+ 
+Language(s): Andean? PM5716
+  Andean (ANDEAN NETWORK) (not just linguistics; information
+  incomplete; this list does not seem to be active at present
+  as the list owner is in Bolivia until December 1993.)
+Listserver:
+  ???
+For questions, contact:
+  solomon at ccwf.cc.utexas.edu (Tom Solomon)
+ 
+Language(s): Artificial languages; PM8001-PM9021
+  Constructed languages (CONLANG) (discussion of
+  Lojban and Loglan, as well as other artificial languages
+  (Esperanto and Klingon have been mentioned))
+Listserver:
+  listserv at diku.dk
+For questions, contact:
+  conlang at diku.dk
+ 
+Language(s): Esperanto; PM8201-PM8298
+  Esperanto (ESPER-L)
+Listserver:
+  listserv at trearn.bitnet
+  listserv%trearn.bitnet at cunyvm.cuny.edu
+For questions, contact:
+  esper-l at trearn.bitnet
+ 
+Language(s): Esperanto; PM8201-PM8298
+  Esperanto (ESPERANTO)
+Listserver:
+  esperanto-request at rand.org
+For questions, contact:
+  esperanto at rand.org (Mike Urban)
+ 
+Language(s): Artificial languages; PM8145
+  Klingon (not restricted to linguistics; also for learners;
+  contributions in the Klingon language encouraged; this
+  is quite an active list)
+Listserver:
+  tlhIngan-Hol-request at village.boston.ma.us (apparently this is
+  case-sensitive)
+For questions, contact:
+  tlhIngan-Hol at village.boston.ma.us (apparently this is
+  case-sensitive)
+ 
+Language(s): Artifical languages; PM8590 (= Loglan)
+  Lojban (LOJBAN) (Discussion of the constructed human
+  language "Lojban--A  Realization of  Loglan"  and for
+  informing  the electronic community about logical languages
+  in general.)
+Listserver:
+  listserv at cuvmb.cc.columbia.edu
+For questions, contact:
+  lojban-list-request at snark.thyrsus.com
+ 
+Language(s): Tolkien; PR6039
+  Tolkien, languages in works of J.R.R. (TOLKLANG) (includes
+  Quenya, Qenya, Sindarin, Sindarin, Nandorin, Wood-Elven,
+  Telerin, Eldarissa, Goldogrin, Khuzdul, Adunaid, Rohirric,
+  Wose-speech, Arctic, Black Speech, Westron (Common Speech),
+  as well as Old English, Welsh, Norse, Finnish, etc.)
+Listserver:
+  tolklang-request at dcs.edinburgh.ac.uk
+For questions, contact:
+  tolklang at dcs.edinburgh.ac.uk
+==========
+Computer Bulletin Boards for Individual Languages
+ 
+Prepared by Bernard Comrie and Michael Everson
+Version 1.1 (13 May 1993)
+==========
+ 
+Michael Everson
+School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
+Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597
+ 
+
+
+
+
+

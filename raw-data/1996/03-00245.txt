@@ -1,0 +1,33 @@
+From mhcrxlc at dir.mcc.ac.uk  Wed Mar 27 15:06:41 1996
+From: mhcrxlc at dir.mcc.ac.uk (mhcrxlc at dir.mcc.ac.uk)
+Date: Wed, 27 Mar 96 16:06:41 +0100
+Subject: Pali Canon Online
+Message-ID: <161227023541.23782.9334063466939538203.generated@prod2.harmonylists.io>
+
+Madhav Deshpande writes:
+
+        I have a suggestion for those who are managing the Tripitaka
+files at this website.  One of the 'sea' archive files, KN.sea, is too
+large to fit on a high-density floppy disk, and that makes it rather
+difficult to move it from one computer to another after downloading.  May
+I suggest that it be split into two archives such as 'KN1.sea' and
+'KN2.sea'.  This would make moving these files between the computers
+easier.  Otherwise, I have to 'extract' the contents on one machine and
+move the extracted files to the other machine.
+
+Yes, it is rather a nuisance. I will try and arrange for a different
+arrangement for the update in three months time. We have had a lot of
+difficulties getting this sorted out, but hopefully we can avoid many of
+the problems next time round.
+
+Lance Cousins
+
+MANCHESTER, UK
+Email: mhcrxlc at dir.mcc.ac.uk
+
+
+
+
+
+
+

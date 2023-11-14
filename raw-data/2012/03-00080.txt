@@ -1,0 +1,36 @@
+From mjslouber at BERKELEY.EDU  Mon Mar 26 15:12:11 2012
+From: mjslouber at BERKELEY.EDU (Michael Slouber)
+Date: Mon, 26 Mar 12 11:12:11 -0400
+Subject: Font
+In-Reply-To: <2002DE64-BE0B-40A2-AFDB-444B8B8FDAFA@uts.cc.utexas.edu>
+Message-ID: <161227095746.23782.9842406686417998171.generated@prod2.harmonylists.io>
+
+Dear Patrick,
+
+There are quite a lot of free online tools that do this now: 
+
+<http://learnsanskrit.org/tools/sanscript>
+<http://www.tyfen.com/sanscription/>
+<http://www.yash.info/indianLanguageConverter/hindi.html>
+
+For professional typesetting purposes, XeLaTeX with TECkit works beautifully: <http://cikitsa.blogspot.com/2010/07/how-do-i-install-romdev-mapping-for.html>
+
+Best,
+
+Michael Slouber
+
+
+On Mar 26, 2012, at 10:26 AM, Patrick Olivelle wrote:
+
+> Dear All:
+> 
+> Can you recommend a font/program which would allow a Sanskrit text to be typed in Roman and to be converted immediately to Devanagari? I have noted some such programs Developed in India. Thanks.
+> 
+> Patrick Olivelle
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120326/7a7fc120/attachment.htm>
+

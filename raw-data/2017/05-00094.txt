@@ -1,0 +1,261 @@
+From mmdesh at umich.edu  Thu May 11 16:02:11 2017
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Thu, 11 May 17 12:02:11 -0400
+Subject: [INDOLOGY] Font?
+In-Reply-To: <A065F127-3AFF-4605-B531-2C7CE532016A@smu.edu>
+Message-ID: <CAB3-dzeGWw5FR1bNf0muAmgUqFntZ3AOzawGjAmT_sf_9N9Opg@mail.gmail.com>
+
+Hello Friends,
+
+     I have now added R?, L? and ? (besides r?,  r??, l?, and ?) to my
+MMDUnicode.keylayout for Mac.  I have attached the changed version.  Have
+not been able to add long versions of R? and L?, but they don't occur in
+the initial position anyway, and so that should not be an issue.  Try it
+out and see if it works for you.
+
+Madhav
+
+
+On Thu, May 11, 2017 at 10:11 AM, Lindquist, Steven <slindqui at mail.smu.edu>
+wrote:
+
+> Received this time; my university must have stripped it out, which I think
+> happens sometimes with attachments from listservs.
+>
+>
+>
+> Much appreciated!
+>
+>
+> Steven
+>
+>
+>
+>
+>
+>
+>
+> *S**TEVEN** L**INDQUIST**,** P**H**.D.*
+>
+> *A**SSOCIATE** P**ROFESSOR, **R**ELIGIOUS **S**TUDIES*
+>
+> *D**IRECTOR, **A**SIAN** S**TUDIES*
+>
+> *____________________*
+>
+>
+>
+> *Dedman College of Humanities and Sciences, SMU*
+>
+> *PO Box 750202 | Dallas | TX | 75275-0202*
+>
+> *Email: slindqui at smu.edu <slindqui at smu.edu>*
+>
+> *Web: http://faculty.smu.edu/slindqui <http://faculty.smu.edu/slindqui>*
+>
+>
+>
+>
+>
+> *From: *Madhav Deshpande <mmdesh at umich.edu>
+> *Date: *Thursday, May 11, 2017 at 9:05 AM
+> *To: *"Lindquist, Steven" <slindqui at mail.smu.edu>
+> *Subject: *Re: [INDOLOGY] Font?
+>
+>
+>
+> Dear Steven,
+>
+>
+>
+>      I do see the attachment to my email, but in case you don't get it, I
+> have attached it again.  Hope it works.
+>
+>
+>
+> Madhav
+>
+>
+>
+> On Thu, May 11, 2017 at 10:01 AM, Lindquist, Steven <slindqui at mail.smu.edu>
+> wrote:
+>
+> Hi Madhav,
+>
+>
+>
+> The keyboard layout didn't attach to the email.  Would love a copy to
+> compare.
+>
+>
+>
+> Thanks,
+>
+>
+>
+> Steven
+>
+>
+>
+>
+>
+>
+>
+> *S**TEVEN** L**INDQUIST**,** P**H**.D.*
+>
+> *A**SSOCIATE** P**ROFESSOR, **R**ELIGIOUS **S**TUDIES*
+>
+> *D**IRECTOR, **A**SIAN** S**TUDIES*
+>
+> *____________________*
+>
+>
+>
+> *Dedman College of Humanities and Sciences, SMU*
+>
+> *PO Box 750202 | Dallas | TX | 75275-0202*
+>
+> *Email: slindqui at smu.edu <slindqui at smu.edu>*
+>
+> *Web: http://faculty.smu.edu/slindqui <http://faculty.smu.edu/slindqui>*
+>
+>
+>
+>
+>
+> *From: *INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> Indology <indology at list.indology.info>
+> *Reply-To: *Madhav Deshpande <mmdesh at umich.edu>
+> *Date: *Thursday, May 11, 2017 at 8:53 AM
+> *To: *"bvparishat at googlegroups.com" <bvparishat at googlegroups.com>
+> *Cc: *Indology <indology at list.indology.info>
+> *Subject: *Re: [INDOLOGY] Font?
+>
+>
+>
+> Just to let everyone know that using Ukelele I modified the EasyUnicode
+> keyboardlayout for Mac (renamed as MMDUnicode) that allows easy entering of
+> "r? r?? l? ?".  For the benefit of those who may wish to use this keyboard
+> layout, I have attached it here.  This now allows an easy way to
+> distinguish between ?? (l?) ? (?) in Roman transcription.  Hope it is
+> useful to some of you who would like to keep this distinction in
+> transcription.  I want to thank everyone who gave me suggestions about how
+> to do this. With best wishes,
+>
+>
+>
+> Madhav Deshpande
+>
+> Ann Arbor, Michigan, USA
+>
+>
+>
+> On Thu, May 11, 2017 at 8:33 AM, Lindquist, Steven via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Accessing the under-circle on a Mac is not straight-forward at all in just
+> about any keyboard layout.  However, I use a version of the EasyUnicode
+> font that Tim Lubin modified specifically for this purpose.  In this case:
+> r + (opt + 1) + r = r?, l + (opt + 1) + r = l?
+>
+>
+>
+> Tim may have more to say or a more recent version of the layout.
+>
+>
+>
+> Steven
+>
+>
+>
+>
+>
+> *S**TEVEN** L**INDQUIST**,** P**H**.D.*
+>
+> *A**SSOCIATE** P**ROFESSOR, **R**ELIGIOUS **S**TUDIES*
+>
+> *D**IRECTOR, **A**SIAN** S**TUDIES*
+>
+> *____________________*
+>
+>
+>
+> *Dedman College of Humanities and Sciences, SMU*
+>
+> *PO Box 750202 | Dallas | TX | 75275-0202*
+>
+> *Email: slindqui at smu.edu <slindqui at smu.edu>*
+>
+> *Web: http://faculty.smu.edu/slindqui <http://faculty.smu.edu/slindqui>*
+>
+>
+>
+>
+>
+> *From: *INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> Indology <indology at list.indology.info>
+> *Reply-To: *Madhav Deshpande <mmdesh at umich.edu>
+> *Date: *Thursday, May 11, 2017 at 7:08 AM
+> *To: *Artur Karp <karp at uw.edu.pl>
+> *Cc: *Richard Mahoney | Indica et Buddhica <rmahoney at fastmail.com>,
+> Indology <indology at list.indology.info>, Richard Mahoney <
+> r.mahoney at indica-et-buddhica.org>
+> *Subject: *Re: [INDOLOGY] Font?
+>
+>
+>
+> Hello Artur,
+>
+>
+>
+>      I have Gandhari Unicode installed on my Mac.  The question is how to
+> access these characters.
+>
+>
+>
+> Madhav
+>
+>
+>
+> On Thu, May 11, 2017 at 7:55 AM, Artur Karp <karp at uw.edu.pl> wrote:
+>
+> Dear Discutants,
+>
+>
+>
+> let me repeat my earlier message:
+>
+>
+>
+> Gandhari Unicode font has both l/L and r/R with rings (not dots!) below.
+>
+>
+>
+> I use Windows, and have no problem with installing the font. Don't know if
+> it works with Mac.
+>
+>
+>
+> Artur Karp
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170511/5c75dd8c/attachment.htm>
+

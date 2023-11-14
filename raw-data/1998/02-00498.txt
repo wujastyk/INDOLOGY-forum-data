@@ -1,0 +1,30 @@
+From zydenbos at BLR.VSNL.NET.IN  Sat Feb 28 18:30:33 1998
+From: zydenbos at BLR.VSNL.NET.IN (Robert J. Zydenbos)
+Date: Sun, 01 Mar 98 00:00:33 +0530
+Subject: TrueType fonts, TeX etc.
+Message-ID: <161227036245.23782.3344340020982856651.generated@prod2.harmonylists.io>
+
+Anshuman Pandey wrote (about TrueType and PK fonts, etc.):
+
+> Here's another suggestion: Move completely over to TeX and your
+> problems will be solved! Ask anyone... :-P
+
+I'm quite willing to believe you: TeX looks like a wonderful system. My
+one problem is, however, that I have not been able to install any font
+successfully except the standard Computer Modern font (I am using emTeX
+with OS/2) -- with which I can write practically anything I want in
+transliteration, using any diacritics I want, but I have not been able
+to fully install either other Latin fonts (the system refuses to produce
+accented European characters in these other fonts, although the Metafont
+files say that they are there) or, for instance, the ITRANS fonts.
+
+Is there any clever source of information available anywhere on how to
+install other TeX fonts? I have gone through all the documentation on
+TeX and Metafont that came with emTeX, but I still have not understood
+what I am doing wrong.
+
+RZ
+
+
+
+

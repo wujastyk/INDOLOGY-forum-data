@@ -1,0 +1,42 @@
+From tyler.g.neill at gmail.com  Mon Apr  5 16:47:48 2021
+From: tyler.g.neill at gmail.com (Tyler Neill)
+Date: Mon, 05 Apr 21 12:47:48 -0400
+Subject: [INDOLOGY] easy online use of Sanskrit Sandhi and Compound Splitter
+Message-ID: <CADbR+Y-Z1ZYQCRcqEQAJW4t_FW-Be460EpTT0wBE-TapaTmxKA@mail.gmail.com>
+
+Dear all,
+
+Good news: Now you can more easily take advantage of the Sanskrit Sandhi
+and Compound Splitter by Oliver Hellwig and Sebastian Nehrdich (see 2018
+paper and code here
+<https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp>).
+
+Just go to skrutable.pythonanywhere.com, enter (e.g. copy and paste) some
+Sanskrit text into the upper box, check the transliteration settings, and
+hit the button "Split Sandhi & Cpds" (i.e., ?compounds?). After a brief
+wait, the output appears in the lower box, with new spaces in place of both
+dissolved inter-word and intra-compound sandhi. Punctuation is (mostly)
+preserved, and you (mostly) don't need to worry about length limits.
+There's also a whole-file option which is relatively fast.
+
+To clarify, whereas Skrutable's transliteration and meter tools, available
+via the same interface, are programmed by myself, I haven't changed or
+improved the 2018 Splitter tool at all, but rather just facilitated access
+to it with the authors' blessings. As they themselves point out, eventually
+this Splitter tool should be improved and/or superseded, e.g. in order to
+deal more robustly with various orthographies and genre-specific idioms,
+and/or to distinguish between inter-word and intra-compound boundaries, but
+for now, even with less-than-perfectly ideal output, it's still quite nice
+to have on hand, as I think you'll now be able to agree.
+
+Kudos and thanks again to Oliver and Sebastian for their great work. I'll
+happily consider feedback on the interface in particular.
+
+Kind regards,
+Tyler
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210405/aa037a87/attachment.htm>
+

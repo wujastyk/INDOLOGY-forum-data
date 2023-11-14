@@ -1,0 +1,99 @@
+From mmdesh at umich.edu  Sun Dec 23 18:24:09 2018
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Sun, 23 Dec 18 10:24:09 -0800
+Subject: [INDOLOGY] Correction and updates of Nirnay Sagar Fonts
+In-Reply-To: <CAODNnZiVBpbzF5MKP1eK_LNpiZOfF-fiMWaj9JYng9qKNWyH0A@mail.gmail.com>
+Message-ID: <CAB3-dzfKh=aKwCpK9GWXqo5-1D3Af-gF8Zx8u5Lr4F79qC85Gg@mail.gmail.com>
+
+Dear Krishnaprasad Ji,
+
+     Your fonts are looking more and more beautiful.  You have to make
+choices as you go along.  Consistency should be one principle.  The
+traditional writing is with a pen-tip with a 45 degree angle.  That angle
+needs to show up in all characters.  So the end of ? showing up a rounded
+end does not fit within this consistency.  With a 45 degree angle of the
+tip, one cannot draw a rounded end.  The same thing with signs like ? ? ? ?
+where the 45 degree angle should show up, and not rounded tops.  I am
+giving these suggestions following some of the principles I followed in
+designing my own Madhushree font.  Since my font is not unicode compliant,
+I no longer use it.  I can no longer type using that font either.  For some
+reason, my Mac does not allow it.  Here is a sample from my
+Sa?skr?tasubodhin?:
+
+[image: image.png]
+
+I also prefer the top line without gaps.  With best wishes for your project.
+
+Madhav M. Deshpande
+Professor Emeritus
+Sanskrit and Linguistics
+University of Michigan
+[Residence: Campbell, California]
+
+
+On Sun, Dec 23, 2018 at 9:44 AM Krishnaprasad G via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear all
+> Considering the suggestion of Prof Tim Cahill,  Prof Raik  Prof Madhav
+> Deshpande and Prof Wujastak tried some alterations.  But the real challenge
+> is, there is more than one design of each character, for instance, there
+> are 4 types of letter ?, at least two types of e matra, the below image
+> shows two types of ???.
+>
+> also, I will try the i matra, probably 4 types required like in the below
+> image
+> [image: image.png]
+>
+> [image: IMG-20181223-WA0019.jpg]
+> [image: IMG-20181223-WA0020.jpg]
+>
+> [image: IMG-20181223-WA0021.jpg]
+>
+> [image: IMG-20181223-WA0022.jpg]
+>
+> On Mon, Dec 3, 2018 at 10:31 PM Krishnaprasad G <
+> krishnaprasadah.g at gmail.com> wrote:
+>
+>> [image: IMG-20181202-WA0000.jpg]
+>>
+>> [image: IMG-20181201-WA0015.jpg]
+>>
+>> [image: IMG-20181201-WA0012.jpg]
+>>
+>> [image: IMG-20181203-WA0021.jpg]
+>> [image: IMG-20181203-WA0022.jpg]
+>>
+>> [image: IMG-20181203-WA0023.jpg]
+>>
+>> [image: IMG-20181203-WA0024.jpg]
+>>
+>> [image: IMG-20181203-WA0027.jpg]
+>>
+>> [image: IMG-20181203-WA0028.jpg]
+>>
+>> [image: IMG-20181203-WA0029.jpg]
+>>
+>> [image: IMG-20181203-WA0030.jpg]
+>>
+>> Dear all
+>> difficulty is selecting ? cause the book has more than 5 designs
+>>
+>> Nirnaya Sagara fonts
+>>
+>>
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181223/a7df4598/attachment.htm>
+

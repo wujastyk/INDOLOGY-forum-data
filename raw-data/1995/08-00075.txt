@@ -1,0 +1,32 @@
+From ucgadkw at ucl.ac.uk  Tue Aug 15 10:32:38 1995
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Tue, 15 Aug 95 10:32:38 +0000
+Subject: Replying to Indology messages (fwd)
+Message-ID: <161227020338.23782.7824685505113684288.generated@prod2.harmonylists.io>
+
+Mani Varadarajan said:
+> 
+> Can we then get the Indology list processor to send
+> a copy of the message to the sender by default? It
+> currently does not do this. People who send a message
+> by hitting "R" will then be able to confirm whether
+> they sent it to the list as a whole or not.  It is
+> also nice to receive a copy of one's own mail.
+
+This has always been possible.  Send the message "set indology mail ack"
+to the address "listserv at liverpool.ac.uk".
+
+To learn about how you can get the best from the listserv software that
+INDOLOGY uses, send the message "help" to the same address.  Also, try
+sending "help set" to get a list of all the settings one has control
+over.
+
+Dominik
+
+
+ 
+
+
+
+
+

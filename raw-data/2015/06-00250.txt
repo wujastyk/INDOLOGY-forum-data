@@ -1,0 +1,52 @@
+From wujastyk at gmail.com  Sun Jun 28 15:43:56 2015
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Sun, 28 Jun 15 17:43:56 +0200
+Subject: [INDOLOGY] Query
+In-Reply-To: <D85164A6-8602-40BC-A5EE-97008E523EE0@uts.cc.utexas.edu>
+Message-ID: <CAKdt-CcPWZR0fVsh_+rFKnkpO-N2ZwKgi91Lfkw-U7zv_h6NzA@mail.gmail.com>
+
+Dear Patrick, I'm back at my desk, and this is the reference that I was
+thinking of:
+
+@Book{kita-body,
+  title                    = {The Body of the Musician. An Annotated
+Translation and Study of the Pi??otpatti-prakara?a of ??rn?gadeva's
+Sa?g?taratn?kara},
+  address                  = {Bonn etc.},
+  author                   = {Makoto Kitada},
+  publisher                = {Peter Lang},
+  year                     = {2012},
+  isbn                     = {9783034303194},
+
+  abstract                 = {The Sang?taratn?kara (?The Ocean of Music?)
+written by ??rngadeva in the 13th century is the most important theoretical
+work on Indian classical music. Its prologue, the Pindotpatti-prakarana
+(?The Section of the Arising of the Human Body?), deals with the Indian
+science of the human body, i.e. embryology, anatomy, and the Hathayogic
+heory of Cakras. The sources of this work are found in the classical
+medical texts (?yurveda) such as Caraka, Su?ruta and V?gbhata, the
+Hathayogic texts as well as in the encyclopaedic texts (Pur?na). After
+philologically analyzing the mutual relation and background of these texts,
+the author demonstrates the reasons why the human body is described in this
+musicological work. His investigation reveals the Indian mystic thought of
+body and sound. This study, although an Indological one, is an attempt to
+answer the universal question what music is, i.e. how music is created in
+the human body, what the effect of music on the human body is, and what
+music aims at. The second half of the book consists of a translation of the
+original text of the Pindotpatti-prakarana, including
+commentaries, with plenty of annotations.},
+  contents                 = {Contents: Sa?g?taratn?kara (SR) and its
+Pi??otpatti-prakara?a ? ?ivag?t? (?G), the text parallel to the SR?s
+embryologico-anatomical verses ? The sources of the SR. Common source text
+of SR and ?G ? Comparison with medical (?yurveda) and non-medical texts ?
+Anatomical theory of vocal manifestation by Indian ancient musicologists ?
+Embryology in musicological works.},
+}
+
+?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150628/39eef389/attachment.htm>
+

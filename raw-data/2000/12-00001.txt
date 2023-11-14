@@ -1,0 +1,57 @@
+From harryspier at HOTMAIL.COM  Fri Dec  1 05:21:16 2000
+From: harryspier at HOTMAIL.COM (Harry Spier)
+Date: Fri, 01 Dec 00 00:21:16 -0500
+Subject: Cerebral L in Rg Veda
+Message-ID: <161227064818.23782.16126402265354391874.generated@prod2.harmonylists.io>
+
+Dear list members,
+
+Maurice Bloomfield in his concordance (both the on-line version and the
+printed edition) does not change intervocalic cerebral D for cerebral L for
+RV.1.1.1a (or for any other RV occurances of "agnim IDe..." ).  He has
+"agnim IDe purohitam" for RV.1.1.1a . He does have the variation "agnim Ile
+purohitam" for zAGkhAyana zrauta sUtra and for zAGkhAyana gRhya sUtra .  But
+for this variation he uses "Ile" and not "ILe". MacDonell in his Vedic
+Grammar section 52 d.(and at the end of section 11 in chapter one of his
+Vedic Grammar for Students.) notes the variation "ile" (semivowel l) for
+"iDe" (palatal d) but gives it for the Kanva rescension of the VS .
+
+The exact entry in Bloomfield is: (I'm using "Sh" for the palatal sibilant)
+
+agnim IDe (ShSh.ShG. Ile) purohitam # RV.1.1.1a; ArS.3.4a;
+TS.4.3.13.3a; MS.4.10.5a: 155.1; KS.2.14a; GB.1.1.29a;
+ASh.2.1.26; ShSh.6.4.1; 14.52.1; AG.3.5.6; ShG.4.5.7; N.7.15a.
+
+Why would Bloomfield not give the reading "agnim iLe purohitam" for
+RV.1.1.1a.  Would this have anything to do with the issues Madhav Deshpande
+mentions in his "Rg Vedic Retroflexion" section 3.1 about the RV change of
+intervocalic D to L ?
+
+Also A.A. MacDonell in his Vedic Reader for Students for the next verse
+RV.1.1.2 gives the following readings (both for the samhita text).
+
+In devanagari:      agniH pUrvebhirRSibhir IDyo nUtanairuta
+In transliteration: agniH pUrvebhir RSibhir ILio nUtanairuta
+
+I.e. in the devanagari text he has "Idyo" but in the transliterated text he
+changes vowel-D-semivowel for vowel-L-vowel.  In his notes for the verse he
+says "IDyas: to be read as ILias".  Does he mean that the verse is chanted
+with "ILio" and not "IDyo"?  This is confusing because in his "Vedic Grammar
+I.3 footnote 5 he says "... ILe (but IDya)" . Nor does this agree with the
+HOS metrically restored RV which has "IDio nUtanair uta" not "ILio nUtanair
+uta".
+
+Many thanks,
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+_____________________________________________________________________________________
+Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
+
+
+
+

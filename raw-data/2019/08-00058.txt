@@ -1,0 +1,136 @@
+From krishnaprasadah.g at gmail.com  Wed Aug 14 08:28:37 2019
+From: krishnaprasadah.g at gmail.com (Krishnaprasad G)
+Date: Wed, 14 Aug 19 13:58:37 +0530
+Subject: [INDOLOGY] EasyUnicode for a Windows computer?
+In-Reply-To: <ee05ebf74c19b663f0790fc66a28aba8e3db5a37.camel@indica-et-buddhica.org>
+Message-ID: <CAODNnZgMiV-gAoSF=3UWctbpJ=dM1a5bdGW_obZSiay6ypT=Dg@mail.gmail.com>
+
+Try Vidyut phonetic keyboard or Vaidika keyboard
+
+On Wed, Aug 14, 2019, 1:29 PM Richard Mahoney | Indica et Buddhica via
+INDOLOGY <indology at list.indology.info> wrote:
+
+>
+> And for Emacs the following still works:
+>
+> UTF-8 input framework for GNU Emacs: utf-8-input.el
+>
+> https://indica-et-buddhica.org/repositorium/software/emacs-utf8-input-framework
+>
+>
+> Best, Richard
+>
+>
+> --
+>
+> Richard Mahoney | Indica et Buddhica
+>
+> Littledene Bay Road Oxford NZ
+> T: +6433121699 M: +64210640216
+> r.mahoney at indica-et-buddhica.org
+>
+> https://indica-et-buddhica.org/ <http://indica-et-buddhica.org/>
+>
+> -----Original Message-----
+> *From*: Rolf Heinrich Koch via INDOLOGY <indology at list.indology.info
+> <Rolf%20Heinrich%20Koch%20via%20INDOLOGY%20%3cindology at list.indology.info%3e>
+> >
+> *Reply-To*: Rolf Heinrich Koch <rolfheiner.koch at gmail.com
+> <Rolf%20Heinrich%20Koch%20%3crolfheiner.koch at gmail.com%3e>>
+> *To*: indology at list.indology.info
+> *Subject*: Re: [INDOLOGY] EasyUnicode for a Windows computer?
+> *Date*: Wed, 14 Aug 2019 09:22:50 +0200
+> *Mailer*: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101
+> Thunderbird/60.8.0
+>
+> If you like to use Unicode-letters for all Windows-apps incl. Explorer,
+> Firefox etc.:
+>
+> Write a small exe-file with the (free) *AutoHotkey*-app and copy this
+> exe-file into the Autostart-folder of Windows.
+>
+> It is really very easy: You just write a list assigning unicode-letters to
+> any keyshortcut you like.
+>
+> Best
+>
+> Heiner
+> Am 14.08.2019 um 03:32 schrieb Harry Spier via INDOLOGY:
+>
+> Dear Anya,
+> For Word on Windows you can define shortcut keys. Just go to the insert
+> symbols menu and press "shorcut key" and then define what you want for
+> letters with diacriticals.  I used Alt + the character for diacritical
+> under the letter and ctrl+ the character for diacritical above the letter.
+> Alt+ctrl + the character if there is a diacritical above and below the
+> character, and a few others for the nasals.
+> Harry Spier
+>
+> On Tue, Aug 13, 2019 at 8:16 PM Anya Golovkova via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear all,
+>
+> In addition to James Hartzell's question regarding EasyUnicode for ipad, I
+> would ask if there is a way to use this keyboard layout on a non-Mac
+> computer.
+>
+> Many thanks!
+> Anya
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+> _______________________________________________
+>
+> INDOLOGY mailing list
+>
+> INDOLOGY at list.indology.info
+>
+>
+> indology-owner at list.indology.info
+>
+>  (messages to the list's managing committee)
+>
+> http://listinfo.indology.info
+>
+>  (where you can change your list options or unsubscribe)
+>
+> --
+>
+> www.rolfheinrichkoch.wordpress.com
+>
+> _______________________________________________
+>
+> INDOLOGY mailing list
+>
+> INDOLOGY at list.indology.info
+>
+>
+> indology-owner at list.indology.info
+>
+>  (messages to the list's managing committee)
+>
+> http://listinfo.indology.info
+>
+>  (where you can change your list options or unsubscribe)
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190814/9d31b459/attachment.htm>
+

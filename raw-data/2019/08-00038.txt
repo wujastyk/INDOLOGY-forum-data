@@ -1,0 +1,142 @@
+From mmdesh at umich.edu  Sat Aug 10 12:55:21 2019
+From: mmdesh at umich.edu (Madhav Deshpande)
+Date: Sat, 10 Aug 19 05:55:21 -0700
+Subject: [INDOLOGY] Question
+In-Reply-To: <CALoZ1nWNq2Y+kDWNZC6Bxbeac26jn2bFzZV8G5Q5P2A+VfP53A@mail.gmail.com>
+Message-ID: <CAB3-dzfP1oPc3RwJftddc38GOB8Ryr+2rjR6xCna4nYYjdb5Vg@mail.gmail.com>
+
+Thanks, Hans and Walter for these very useful suggestions.  With best
+wishes,
+
+Madhav
+
+Madhav M. Deshpande
+Professor Emeritus, Sanskrit and Linguistics
+University of Michigan, Ann Arbor, Michigan, USA
+Senior Fellow, Oxford Center for Hindu Studies
+
+[Residence: Campbell, California, USA]
+
+
+On Sat, Aug 10, 2019 at 12:44 AM Walter Slaje <slaje at kabelmail.de> wrote:
+
+> It is perhaps worthy of note that Scheftelowitz in his critical Khila
+> edition of the RV has recorded a number of variant readings:
+>
+> *?r?*? for *?r?r*
+>
+> ?*varcasyam* for ?*varcasvam*
+>
+> *?vidh?c chobham?na?, ?vidh?t pavam?na?* and *?yudh?t pavam?na?*
+>
+> for *?vidh?c chubham?nam.*
+>
+>
+> (Die Apokryphen des ?gveda (*Khil?ni*). Hrsg. und bearbeitet von J.
+> Scheftelowitz. [Indische Forschungen. 1]. Breslau 1906, p. 78.)
+>
+>
+>
+> The variant reading *?yudh?t* is of particular interest here, as *?yudha*
+> (?weapon, implement?) seems to have been regarded as semantically closely
+> related to *?vidh?t*, if we derive the meaning of *?vidha* with Indian
+> grammarians from *?*-?*vyadh* (cp. ?pte, and Pata?jali below). The
+> emergence of the explanatory variant *?yudha* is most likely to be
+> explained from this background.
+>
+> This, then, would rather result in the meaning of ?eine Art Bohrer? (pw),
+> ?an awl, a drill? (MW) for *?vidha*.
+>
+>
+>
+> *vyadhi* | *?vidhyanti ten?vidham* | *vyadhi *|| *hani *[...] || *yudhi*
+> | *?yudhyante ten?yudham* ||
+>
+>
+> (Pata?jali?s Mbh, ed. Kielhorn, 3rd ed., Vol. II. Poona 1965, p. 150,
+> 22ff)
+>
+>
+>
+> The idea of extracting shining beauty (*?obha*?/*?ubham?na*) by
+> "drilling" with an instrument (similar to the well-known ?churning?) is
+> perhaps not too far-fetched in the context of the ?r?s?kta.
+>
+>
+>
+> Regards,
+>
+> WS
+>
+> Am Sa., 10. Aug. 2019 um 05:25 Uhr schrieb Hock, Hans Henrich via INDOLOGY
+> <indology at list.indology.info>:
+>
+>> Here?s my take, Madhav; I hope it?s helpful
+>>
+>> The crux seems to be *?vidh?t*. While most dictionaries, following
+>> Monier Williams, give meanings like ?drill?, the addenda to the Petersburg
+>> dictionary (at
+>> http://gretil.sub.uni-goettingen.de/gretil/6_sres/2_dict/schnzsw_u.htm)
+>> add the meaning *udreka*, i.e. ?abundance? etc.
+>>
+>> With this meaning the line can be interpreted as *varcasvam ?yu?yam
+>> ?rogyam* (subject), *?vidh?t* (ablative) ?on account of abundance?,
+>> *sobham?nam* (quasi-predicate participle) ?shining, beautiful?,
+>> *mah?yate* ?prospers, is exalted'
+>>
+>> All the best,
+>>
+>> Hans/Hans Henrich
+>>
+>> On 9 Aug2019, at 20:34, Madhav Deshpande via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> Can someone explain to me the grammar of this line from the ?r?s?kta of
+>> the R?gveda Khila?
+>>
+>> ?r??.varcasvam.?yu?yam.?rogyam.?vidh?t.?obham?nam.mah?yate./ RvKh_2,6.24b
+>>
+>> Madhav M. Deshpande
+>> Professor Emeritus, Sanskrit and Linguistics
+>> University of Michigan, Ann Arbor, Michigan, USA
+>> Senior Fellow, Oxford Center for Hindu Studies
+>>
+>> [Residence: Campbell, California, USA]
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+> -----------------------------
+> Prof. Dr. Walter Slaje
+> Hermann-L?ns-Str. 1
+> D-99425 Weimar
+> Deutschland
+>
+> Ego ex animi mei sententia spondeo ac polliceor
+> studia humanitatis impigro labore culturum et provecturum
+> non sordidi lucri causa nec ad vanam captandam gloriam,
+> sed quo magis veritas propagetur et lux eius, qua salus
+> humani generis continetur, clarius effulgeat.
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190810/c2e52192/attachment.htm>
+

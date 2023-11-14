@@ -1,0 +1,73 @@
+From r.mahoney at ICONZ.CO.NZ  Fri Jun 13 04:47:46 2008
+From: r.mahoney at ICONZ.CO.NZ (Richard MAHONEY)
+Date: Fri, 13 Jun 08 16:47:46 +1200
+Subject: New Release of DICT and HTML Monier-Williams - User Survey
+Message-ID: <161227082757.23782.11820504827761638831.generated@prod2.harmonylists.io>
+
+Dear Colleagues,
+
+I have received a number of queries about the possibility of updated
+versions of the HTML and Dictionary Server Protocol (DICT)
+Monier-Williams. Many seem to continue to find these versions useful,
+often finding them easy to change and adapt to suit their own needs:
+
+ Monier-Williams Sanskrit-English Dictionary: DICT and HTML versions
+ http://indica-et-buddhica.org/sections/repositorium-preview/materials/dictionaries/monier-williams-sanskrit-english-dict-html
+
+ Lexica: Query Interface for Sanskrit, Tibetan and English word lists and dictionary
+ http://lexica.indica-et-buddhica.org/dict/lexica
+
+Unfortunately both versions are somewhat unsatisfactory. In many ways
+they have always been provisional, a bit of a stop gap until something
+better was possible.
+
+I have had it in mind for a while to put together and release updated
+versions, granted that there was sufficient interest amongst those who
+use them. (As a conservative estimate they have received somewhere over
+2,500 downloads.)
+
+It was a pleasure then, to receive the go ahead from Thomas Malten to
+produce a new release, based on the most recent version of the Cologne
+source file:
+
+ Cologne Digital Sanskrit Dictionaries: Downloads
+ http://www.sanskrit-lexicon.uni-koeln.de/download.html
+
+The current source is a marked improvement on the file on which the
+original HTML and DICT versions were based:
+
+ Marking Monier: Current state of digitized Monier-Williams Dictionary
+ Jim Funderburk, Honesdale, Pennsylvania & Thomas Malten, University of
+Cologne
+ http://www.sanskrit-lexicon.uni-koeln.de/talkMay2008/markingMonier.html
+
+While working on the new versions it would be helpful to receive
+comments from users of the original versions. I am especially
+interested in how these versions are used, and how well they help you
+to do your work. To this end I have set up a brief user survey:
+
+ DICT and HTML Monier-Williams User Survey
+
+http://indica-et-buddhica.org/sections/repositorium-preview/materials/dictionaries/mw-survey-form
+
+I would be grateful if some of you could take the time -- five to ten
+minutes -- to complete this form.
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 27 482 9986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+
+

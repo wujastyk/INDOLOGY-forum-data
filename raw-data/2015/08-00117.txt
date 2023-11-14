@@ -1,0 +1,191 @@
+From dnreigle at gmail.com  Sat Aug 15 05:03:10 2015
+From: dnreigle at gmail.com (David and Nancy Reigle)
+Date: Fri, 14 Aug 15 23:03:10 -0600
+Subject: =?utf-8?Q?Re:_[INDOLOGY]=09Two_additional_recensions_of_the_=E1=B9=9Agveda_available?=
+In-Reply-To: <CABEB9qLHAMBJ=pFqQ8UXN5Lnfrdtf3S9h8j+wYE0C9GTtMBwOw@mail.gmail.com>
+Message-ID: <CAPAZekYVHCsR0wy6axm_EFY-a_aVPxzCzwBYLvmzF1XudaJgSw@mail.gmail.com>
+
+A number of the khila verses are also included within the ???kh?yana
+recension. The recent edition by Amal Dhari Singh Gautam gives pada-p??ha
+for them. The question now is whether the pada-p??ha he gives for them is
+found in the ???kh?yana pada-p??ha manuscripts, or added by the editor from
+other sources. This edition has no critical apparatus. The Sanskrit bh?mik?,
+consisting of pp. v-xxii, says (p. xvi) that for the ??val?yana recension there
+are 20 sa?hit?-p??ha manuscripts and 18 pada-p??ha manuscripts, and for the
+???kh?yana recension there are 8 sa?hit?-p??ha manuscripts and 17 pada-p??ha
+manuscripts. It then succinctly describes each of the 25 ???kh?yana manuscripts
+(pp. xvi--xxi). The English Introduction, consisting of pp. xxiii-xxxvii,
+gives a brief recap in its first four pages, only mentioning (p. xxiv) that
+there are in total 38 ??val?yana manuscripts and 25 ???kh?yana manuscripts.
+The rest of it is devoted to acknowledgements. I did not see anything about
+whether the khila verses are found in the ???kh?yana pada-p??ha
+manuscripts. The editor mentions (p. xxviii) that he has published more
+than 10 papers on these Vedic ??kh?s since 1969. Possibly he discusses this
+in one or more of these papers. There is no bibliographic listing of them.
+
+B. B. Chaubey in his edition of the ??val?yana recension has in English a
+Preface, pp. ix-xvii, an extensive Introduction, pp. 1-102, and "Textual
+variants in the ??vS with regard to additional mantras recorded from MSS,
+Khilas and other texts," pp. 103-146. So he gives variants for the
+additional mantras, but not for rest of the ??val?yana text, which includes
+verse 10.121.10 that my question was about. I assume that Satavalekar's
+well-known statement in his Sanskrit prast?va to his edition of the ?gveda,
+that there is only one variant reading in the ?gveda (eka eva p??habheda?),
+is enough to make people think that no critical apparatus for the ?gveda is
+needed. As for the khilas, Chaubey describes (pp. 32-34) the various
+editions, including the 1906 Scheftelowitz edition in more detail than the
+others. He does not mention Scheftelowitz's 1907 WZKM article that Walter
+referred us to, which was new to me.
+
+Best regards,
+
+David Reigle
+Colorado, U.S.A.
+
+
+On Wed, Aug 12, 2015 at 2:53 AM, Dipak Bhattacharya <dipak.d2004 at gmail.com>
+wrote:
+
+> 12.08.15
+>
+> <the khilas, long known and often published as an appendix to editions of
+> the ?gveda, are almost all found incorporated in the hymns of the
+> ??val?yana recension. They are apocrypha only for the ??kala recension.
+> They are genuine ?gveda mantras, as shown by their presence within the
+> ??val?yana-Sa?hit?.>
+>
+> <Chaubey stated that the 212 additional mantras not found in ??kala
+> recension are not given in ??val?yana pada-p??ha manuscripts. He
+> therefore, after learning its different method of showing the avagraha,
+> supplied them himself>
+>
+> <was the pada-p??ha for this(10.121.10) verse prepared and added by
+> Chaubey to his edition of the ??val?yana recension? And perhaps then copied
+> by Amal Dhari Singh Gautam for his edition of the ???kh?yana recension? Or
+> is it in fact found in manuscripts of the pada-p??ha of the ??val?yana
+> and/or the ???kh?yana recension? >
+>
+> The first two paragraphs cited from the mail, I think, leaves the
+> importance of the ??val?yana Sa?hit?  as to the recensional history of
+> the RV to question. The khilas did not originally belong to the RV as
+> represented by the Vulgate ie ??kala-Sa?hit?.  Unless we find any reason
+> (violence, obnoxious practice) for their exclusion from an older version at
+> a later date, the hymns have to be regarded as originally alien to the RV.
+> Even the ?aunak?ya Sa?hit? relegates them to its 20th k???a, regarded as
+> apocryphal by many. And the Paippal?da-Sa?hit? does not incorporate them
+> with it.
+>
+> The ??val?yana-Sa?hit??s liberal inclusion shows its emergence in later
+> slack times.
+>
+> Added problems with the new recension could have been any liberty taken by
+> the editor. There would not be any problem in such case if the exact
+> readings and their difference, if any, from the manuscripts are furnished
+> by the editor. Did late Professor Chaubey, a longtime friend and colleague
+> of mine, give the MS readings for 10.121.10? Any decision has to be taken
+> on that basis.
+>
+> What we all are prone to do is leaving the answers to such questions
+> equivocal. And exactly this point was raised by me sometime as a practice
+> that must be avoided. I think it is imperative that someone took up the
+> edition for study.  I paid only a cursory glance which did not lead to
+> any noticeable defect.  I hope none will be discovered. Still, a study is
+> called for.
+>
+> Best
+> Dipak Bhattacharya?
+>
+>
+>
+> On Tue, Aug 11, 2015 at 11:05 PM, David and Nancy Reigle <
+> dnreigle at gmail.com> wrote:
+>
+>> The first thing that was noticed by the editor of the the ??val?yana-Sa
+>> ?hit?, B. B. Chaubey, is that the khilas, long known and often published
+>> as an appendix to editions of the ?gveda, are almost all found
+>> incorporated in the hymns of the ??val?yana recension. They are
+>> apocrypha only for the ??kala recension. They are genuine ?gveda
+>> mantras, as shown by their presence within the ??val?yana-Sa?hit?.
+>>
+>> Both of the newly published recensions include their own pada-p??ha. In
+>> his extensive introduction, Chaubey stated that the 212 additional mantras
+>> not found in ??kala recension are not given in ??val?yana pada-p??ha
+>> manuscripts. He therefore, after learning its different method of showing
+>> the avagraha, supplied them himself (p. 57).
+>>
+>> Here is my question, that perhaps someone in India with access either to
+>> the manuscripts or to the editors can answer. In hymn 10.121 addressed to
+>> hira?ya-garbha, the last verse, verse 10, brings in Praj?pati. Vedic
+>> scholars such as Jan Gonda have questioned the authenticity of this verse
+>> because its words are not separated in the pada-p??ha (WZKS 27, 1983, p.
+>> 31). In both of the newly published recensions, this verse has a full
+>> pada-p??ha. So, was the pada-p??ha for this verse prepared and added by
+>> Chaubey to his edition of the ??val?yana recension? And perhaps then
+>> copied by Amal Dhari Singh Gautam for his edition of the ???kh?yana
+>> recension? Or is it in fact found in manuscripts of the pada-p??ha of
+>> the ??val?yana and/or the ???kh?yana recension?
+>>
+>> Best regards,
+>>
+>> David Reigle
+>> Colorado, U.S.A.
+>>
+>>
+>> On Mon, Aug 10, 2015 at 3:07 PM, David and Nancy Reigle <
+>> dnreigle at gmail.com> wrote:
+>>
+>>> As most of you know, two recensions of the ?gveda in addition to the
+>>> long standard ??kala/??kalya recension have become available in the
+>>> last several years. They are:
+>>>
+>>> ??val?yana-Sa?hit? of the ?gveda, ed. B. B. Chaubey, 2 vols., New
+>>> Delhi: Indira Gandhi National Centre for the Arts, 2009.
+>>>
+>>> The ?gveda Sa?hit? of ???kh?yana-??kh?, ed. Amal Dhari Singh Gautam, 4
+>>> vols., Ujjain: Maharshi Sandipani Rashtriya Veda Vidya Pratishthan,
+>>> 2012-2013.
+>>>
+>>> I would be very interested in comments from the Vedic scholars here
+>>> about the significance of having two additional recensions of the ?gveda.
+>>> In particular, I was earlier informed that an 1897 book in Danish by Hans
+>>> Vodskov, Rig-veda og Edda, has a chapter attempting to demonstrate that the
+>>> ?gveda we have shows a very late style. My informant noted that Vodskov's
+>>> views about the late style of the ??kala recension have not been
+>>> adopted by Vedic scholars. Now that we have two additional recensions,
+>>> almost identical to the ??kala recension, I assume that this would be
+>>> significant evidence for an early, unchanged style.
+>>>
+>>> As for linguistic peculiarities, as opposed to stylistic ones, Madhav
+>>> Deshpande had noted in his 1993 book, Sanskrit & Prakrit: Sociolinguistic
+>>> Issues, p. 134: "In most recent discussions, a historical fact of utmost
+>>> importance is often overlooked, namely that the text of the ?gveda that
+>>> we have today is not necessarily the original ?gveda. What we have is
+>>> only one recension (sa?hit?) of the ?gveda compiled several centuries
+>>> after the hymns were composed by the ?gvedic sages."
+>>>
+>>> Now we have three recensions, together presumably bringing us closer to
+>>> the original ?gveda.
+>>>
+>>> Best regards,
+>>>
+>>> David Reigle
+>>> Colorado, U.S.A.
+>>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150814/94a326e6/attachment.htm>
+

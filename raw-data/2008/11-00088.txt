@@ -1,0 +1,27 @@
+From dbhattacharya2004 at YAHOO.CO.IN  Sun Nov 30 11:33:59 2008
+From: dbhattacharya2004 at YAHOO.CO.IN (Dipak Bhattacharya)
+Date: Sun, 30 Nov 08 17:03:59 +0530
+Subject: Diacritic for inter-consonantal vocalic r
+Message-ID: <161227084053.23782.10678845446442609180.generated@prod2.harmonylists.io>
+
+30 11 08
+Dear Colleagues,
+Could anyone enlighten me on the following?
+What is the diacritic character for inter-consonntal or ante-consonantal initial vocalic r in the 
+different Sanskrit fonts available for computers in the West?
+As is well known since late nineteenth century it has been the practice in the European 
+continent? to write a subscript ring below -r- for this allophone. But in the UK quite a few 
+publishers carry on the old practice of writing a subscript dot below -r- which in the continent, with most of the publishers, means the trilled allophone of the voiced retroflex plosive .d. However, even in Germany a few publishers do not mind using this dot-subscipted the vocalic -r-. This is also the general practice in India where word-processors are still being produced with this old diacritical sign. If one likes to print with the subscript ring one has to produce the character on one's own.
+I just like to know the position in the West regarding the available computer font packages, 
+particularly if authors have to help the press in developing the character with subscript ring 
+below.
+With thanks in advance
+DB
+
+
+
+      Be the first one to try the new Messenger 9 Beta! Go to http://in.messenger.yahoo.com/win/
+
+
+
+

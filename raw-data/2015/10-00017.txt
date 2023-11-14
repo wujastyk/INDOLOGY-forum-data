@@ -1,0 +1,52 @@
+From jesperlarnaes at gmail.com  Mon Oct  5 08:14:22 2015
+From: jesperlarnaes at gmail.com (=?utf-8?Q?Jesper_Larn=C3=A6s?=)
+Date: Mon, 05 Oct 15 10:14:22 +0200
+Subject: [INDOLOGY] Fwd: Best way to type Sanskrit in Windows?
+In-Reply-To: <56122FAA.2030008@pbhome.se>
+Message-ID: <CAH9B0f2AN22vvNn8VsnDQcdWKh9CQZwZqQZXUneidDfC=N4S3g@mail.gmail.com>
+
+Microsoft has also made very useful tool which lets you create your own
+keyboard layouts:
+
+https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx
+
+Using this tool you can set up your keyboard anyway you like so that, for
+instance, AltGr+a produces ?. You simply run the program, create the
+keyboard and then let Windows install it. After that, the keyboard layout
+appears on your taskbar along with other keyboards you may have installed.
+
+Best,
+Jesper
+
+2015-10-05 10:07 GMT+02:00 Martin Gansten <martin.gansten at pbhome.se>:
+
+> I must say, this is very nifty. Just the sort of thing I've been waiting
+> for. Thank you!
+>
+> Martin Gansten
+>
+>
+> Den 2015-10-05 kl. 05:08, skrev Martin Gluckman:
+>
+> Hi Dean,
+>
+>
+> We've made a little app for Windows that is very easy to use if you
+> already know IAST. [...]
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151005/ce198122/attachment.htm>
+

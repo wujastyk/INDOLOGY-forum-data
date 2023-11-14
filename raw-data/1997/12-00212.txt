@@ -1,0 +1,14 @@
+From jacob.baltuch at EURONET.BE  Sat Dec 20 20:21:26 1997
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Sat, 20 Dec 97 21:21:26 +0100
+Subject: Breaking down lines?
+Message-ID: <161227034516.23782.11763677098520612254.generated@prod2.harmonylists.io>
+
+I'd forgotten the case of vowel sandhi. This can be solved by introducing
+yet another new sign symbolised here by *: <...caaham...> -- for ca+aham --
+could be written as <...caa *ham...>. Note this is a case where one has
+problems even in translitteration, so this kind of thing can help there too.
+
+
+
+

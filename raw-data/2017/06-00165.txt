@@ -1,0 +1,120 @@
+From wujastyk at gmail.com  Tue Jun 20 16:33:46 2017
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Tue, 20 Jun 17 10:33:46 -0600
+Subject: [INDOLOGY] More Devanagari font samples
+In-Reply-To: <CAB3-dzfcB_v-W+EWthTbbV0er-+69RbgT9YDDkmAA+QdQBdtOQ@mail.gmail.com>
+Message-ID: <CAKdt-CffDdLwP_9yvvmb79WV_NyoktiXU+J4ka3sU5KsKXdVzw@mail.gmail.com>
+
+oh, good!
+
+I got the fonts yesterday, so I had no error messages like that.
+
+Chi-Writer! Wow! I haven't thought of that for many years!  I remember now,
+it was a very important tool for a period.
+
+What a rich eco-system we work in now, by comparison.  Unicode has made
+such a difference.
+
+Best,
+Dominik
+
+?
+--
+Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+?,?
+
+Singhmar Chair in Classical Indian Society and Polity
+?,?
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+?,?
+University of Alberta, Canada
+?.?
+
+South Asia at the U of A:
+
+?sas.ualberta.ca?
+??
+
+
+On 19 June 2017 at 16:34, Madhav Deshpande <mmdesh at umich.edu> wrote:
+
+> Hi Dominik,
+>
+>       I realized that the version of Yashomudra font that I was having
+> trouble on my Mac was a 2013 older version.  The 2015 version installed
+> without any problems.  I like this font a lot, though I see that the
+> alignment of signs like "?", "?", "?" etc. with the vertical stems of the
+> Devanagari characters is not as good as in Sanskrit 2003.  What I like
+> about Yashomudra is the variable length of the sign for short "i" depending
+> upon the width of the consonant sign and consonant clusters.  This is
+> something I do not see in Sanskrit 2003.  I had worked on this feature in
+> my old Chi-Writer Devanagari fonts in 1980s, which no longer work on newer
+> computer systems.  I hope that the new version of Sanskrit 2003 that Vikram
+> Bhaskaran's team is working on will deal with some of these issues.  I
+> would be happy to do font testing for this team.
+>
+> Madhav
+>
+> On Mon, Jun 19, 2017 at 11:46 AM, Madhav Deshpande <mmdesh at umich.edu>
+> wrote:
+>
+>> Dear Dominik,
+>>
+>>      When I tried to install the Yashomudra fonts on my MacBook using
+>> Font Book, it came back with a serious sounding warning: "These fonts have
+>> 10 errors.  Do not use these fonts."  Have you or anyone else had a similar
+>> experience with these fonts?
+>>
+>> Madhav
+>>
+>> On Mon, Jun 19, 2017 at 11:32 AM, Dominik Wujastyk via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>>> I've added some more font samples
+>>> <https://3.bp.blogspot.com/-bxA1uYOUwcA/WUft5jL5MPI/AAAAAAAApUk/36Bbnnr9VXkZJJF6qhpnNrAdqGf-k1a_QCLcBGAs/s1600/Screenshot%2Bfrom%2B2017-06-19%2B09-28-56.png> to
+>>> my blog post
+>>> <https://cikitsa.blogspot.ca/2017/06/expanded-devanagari-font-comparison.html>
+>>> .
+>>> ?
+>>>
+>>> --
+>>> ??
+>>>
+>>> Professor Dominik Wujastyk
+>>> <http://ualberta.academia.edu/DominikWujastyk>
+>>> ?,?
+>>>
+>>> Singhmar Chair in Classical Indian Society and Polity
+>>> ?,?
+>>>
+>>> Department of History and Classics
+>>> <http://historyandclassics.ualberta.ca/>
+>>> ?,?
+>>> University of Alberta, Canada
+>>> ?.?
+>>> ??
+>>>
+>>> South Asia at the U of A:
+>>>
+>>> ?sas.ualberta.ca?
+>>> ??
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>>
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170620/6320954f/attachment.htm>
+

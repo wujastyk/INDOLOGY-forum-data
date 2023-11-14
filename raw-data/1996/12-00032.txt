@@ -1,0 +1,334 @@
+From joe at sfbooks.com  Tue Dec  3 14:04:19 1996
+From: joe at sfbooks.com (joe at sfbooks.com)
+Date: Tue, 03 Dec 96 08:04:19 -0600
+Subject: Ancient South Asian Archaeology (2/2)
+Message-ID: <161227027246.23782.13355181755790347320.generated@prod2.harmonylists.io>
+
+(A copy of this message has also been posted to the following newsgroups:
+sci.archaeology.moderated, sci.archaeology,sci.lang)
+
+Usenet followups set.  Posted and e-mailed.  This is a fantastically long
+post split into two parts; if you would like to reply, please do read the
+part at the end with more details about the distribution.  This is in
+minimal digest format. The subjects are:
+
+Part 1:
+
+   1.  Invocation
+   2.  References on Harappa
+   3.  The Gangetic problem
+   4.  The Archaeology of Ancient Indian Cities
+
+Part 2:
+
+   5.  The Archaeology of Early Historic South Asia
+   6.  More references on the Gangetic civilisation
+   7.  Distribution
+
+------------------------------
+
+Subject:  5.  The Archaeology of Early Historic South Asia
+
+A slightly less cursory review.
+
+If you're at all interested in the subject, you've probably heard of this
+book already.  I'm going to develop a critique here, therefore, more fully
+than in the case of Chakrabarti's book.  (Also, because I had more time in
+the library where I examined this one...)
+
+Allchin, F. R.  1995.  The Archaeology of Early Historic South Asia:  The
+Emergence of Cities and States.  With contributions from George Erdosy, R.
+A. E. Coningham, D. K. Chakrabarti and Bridget Allchin.  Cambridge (and
+New York, Melbourne): Cambridge University Press.  ISBN 0 521 37547 9
+(hardcover) or 0 521 37695 5 (paper).
+
+Note that George Erdosy has changed his name to Muhammad Usman Erdosy.
+
+Allchin did not require unanimity of his contributors, nor did he attempt
+the same sort of magisterial survey in his own chapters which he and his
+wife accomplished in their earlier book.  The result is a strangely patchy
+work.  I suppose it is, at the moment, the best source on early Gangetic
+civilisation's archaeology, but it's far from the grand synthesis I'd
+hoped for.
+
+Contents:
+
+PART I  The background
+
+I.    The archaeology of early historic South Asia - 7 pp.
+
+The obligatory history and jeremiad.
+
+II.   The environmental context (Bridget Allchin) - 16 pp.
+
+An excellent treatment for the user, though I haven't the background to
+evaluate the scientific accuracy.  She moves region by region, and in each
+region describes the specific geographic context of at least the most
+important urban sites.
+
+III.  The end of Harappan urbanism and its legacy - 15 pp.
+
+There is a fairly impressionistic review by region, covering the
+archaeology of essentially the whole second millennium BC.  (This is why I
+prefer Chakrabarti's for research purposes!)  Allchin's basic thesis is
+that there was a major decline, but it turned around before everyone died;
+then some centuries later there was another decline, this time wiping out
+cultures everywhere but the Punjab; he blames the former largely on
+tectonic and environmental causes, and the latter on a claim that the
+rains must have diminished sharply, since nearby coastal cultures also
+declined at the end of the second millennium.
+
+IV.   Language, culture and the concept of ethnicity - 13 pp.
+
+This is the book's treatment of the Aryans' arrival in the Punjab.  My
+notes read, "Appallingly vague and speculative."  He argues that the
+Aryans, who might have arrived in waves, were in each case a minority
+taking advantage of disorder and decline to conquer and then acculturate
+the population; thus he argues that Sanskrit came from elsewhere but the
+early Aryans (the acculturated descendants) were indigenous.
+
+V.    Dark Age or continuum?  An archaeological analysis of the second
+emergence of urbanism in South Asia (R. A. E. Coningham) - 19 pp.
+
+Using a sample of about a dozen second millennium sites from all over the
+subcontinent, and a list of traits of urban society similar to Childe's
+but more sophisticated, Coningham argues that most of these traits were
+found someplace or other sometime during the millennium, so it wasn't a
+Dark Age.  The implication that Gangetic urbanism didn't come out of
+nowhere is not explicitly defended, and it's a good thing, as a given
+trait might be found at only two sites at opposite ends of the
+subcontinent.  Another impression I left with was that what urbanism there
+was in the second millennium was practically anywhere *but* the Ganga
+valley.
+
+PART II The rise of cities and states
+
+VI.   The prelude to urbanism:  ethnicity and the rise of Late Vedic
+chiefdoms (George Erdosy) - 24 pp.
+
+This chapter covers only the Ganga valley, for the first half of the first
+millennium BC.  There's a brief note on chronology, but the rest of the
+topical survey which dominates the chapter is excellent, treating
+settlement patterns, material culture, and textual evidence on early
+politics, in order.  Erdosy then proceeds to argue that "Aryan-ness", at
+least in this region (but by implication also elsewhere) was no ethnic
+trait but an ideological one, which fits in with his general argument that
+later Vedic society was an authority-based chiefdom.
+   I was very unimpressed with Erdosy's first publications, in the middle
+1980s, and am surprised to find myself saying this, but this is the best
+chapter in the book.
+   That said, I don't agree with it at a fairly basic level.  Erdosy
+accepts, as I never have, the argument that the state is represented
+archaeologically by a four- level central place hierarchy.  He therefore
+is obligated to find no states in the later Vedic texts, whose
+archaeological correlates lack such a settlement hierarchy.
+   My own interest has always focused on the process through the lens of
+the city, and I'm convinced from his own and other settlement surveys that
+there were indeed central places in this era which I would take as the
+nuclei of states.
+   In other words, the fact that he later develops a very short chronology
+for urbanism fails to persuade me.
+
+VII.  City states of North India and Pakistan at the time of the Buddha
+(George Erdosy) - 24 pp.
+
+The topical survey in this chapter doesn't equal the prior one but is
+quite good, proceeding through chronology, settlement patterns, urban
+planning, economics, and then literary discussions of cities and states. 
+The conclusion, which essentially says the constant warfare among the
+latter looks like a conceivable cause for the urban/state process, is less
+impressive.
+   In this chapter, the effort towards a short chronology gathers much
+force.  Erdosy accepts arguments from one Bechert that the Buddha's
+mahaparinirvana really occurred in 368, not 486.  He also applies a very
+solid-looking set of radiocarbon dates to demonstrate not that Northern
+Black Polished Ware appears in 400 BC (as at first appears) but rather,
+and probably correctly from what I know of the radiocarbon record, around
+550 BC.  (At least at most sites.)  In turn, since much of the evidence we
+have for truly urban character is tied to the NBP ware and not even its
+beginning, he concludes that true urbanism begins perhaps 400 BC.
+   I shouldn't judge in ignorance, but this looks suspect to me on a few
+grounds. First of all, I haven't seen Bechert's arguments yet, and always
+found the date of 486 pretty persuasive!  Beyond that, Erdosy makes light
+of the very old stupas (he mentions Vaisali but not Sravasti and
+Kapilavastu as being probably as old as the parinirvana), while I found
+those site reports convincing.  I will need to examine the radiocarbon
+dates myself before I really believe that his "early NBP" sites represent
+the ware's earliest stages.  And, with Paul Wheatley, I've generally
+preferred to define urbanism in relation to central places, not urban
+character.
+   That said.  These two chapters are excellent complements to
+Chakrabarti's site-by-site treatment, and the picture they paint of a
+rather late development, while unpersuasive to me, is hardly a trivially
+researched one.
+
+VIII. Early cities and states beyond the Ganges Valley - 29 pp.
+
+This is a detailed site-by-site survey across the first millennium (but
+mainly its second half) and the rest of the subcontinent.  Allchin
+advances few major arguments and relies quite heavily on pottery-typed
+cultures.  If any settlement surveys are available to him, he doesn't
+mention them as best I recall.
+
+IX.   The rise of cities in Sri Lanka (R. A. E. Coningham and F. R.
+Allchin) - 33 pp.
+
+Yes, I'm serious:  this topic gets more pages than any of the above
+chapters. They're devoted mostly to the authors' current excavations at
+Anuradhapura, with some discussion of textual evidence and some of other
+sites.
+
+PART III The Mauryan empire and its aftermath
+
+X.    The Maurya state and empire - 35 pp.
+
+Here, finally, we get settlement hierarchies, as well as extensive
+discussion of the ancient world's megalopolis, Pataliputra.  There's also
+a lot about the textual evidence of the <Kautiliya Arthasastra>, which
+Allchin (like most scholars) accepts as essentially a genuine 4th-3rd
+century BC record.
+   Since that document implies a stupendously developed country where (per
+Erdosy) three centuries earlier there were neither cities nor states, I
+tend to accept the minority view that it was written much later.  Ah,
+well.
+   In any event, there are also discussions of early writing and coinage
+on the subcontinent, and on what archaeology and the <Arthasastra> tell us
+of weights and measures.
+
+XI.   Mauryan architecture and art - 52 pp. (with many illustrations)
+
+Being no art historian, I'm not qualified to say much about this chapter,
+except that it has lots of nice pictures :-).  The survey appears to be
+quite comprehensive.  Unlike the rest of the book, Allchin here favours
+early dates consistently and also likes diffusionist arguments.
+
+XII.  Post-Mauryan states of mainland South Asia (c. BC 185 - AD 320)  (D.
+K. Chakrabarti) - 53 pp.
+
+Yes, that's right, that's the crowning joke of this whole awkward
+situation where two books are required for the job of one.  In case my
+strictures (which, it must be obvious, are moved to some extent at least
+by simple disagreements) had persuaded you that Allchin's book was
+dispensable, the kicker is, that it contains the last chapter of
+Chakrabarti's!
+   Chakrabarti actually begins here with a fairly thorough review of the
+political history; there follows his standard site-by-site review of the
+evidence, which dominates the chapter.  Some pages at the end take up
+writing, coinage, architecture, and art; unlike the site-by-site review,
+these are almost devoid of references, and I find myself wondering whether
+they were required burdens.
+
+PART IV. Conclusion
+
+XIII.  The emergence of cities and states:  concluding synthesis
+
+If I understand correctly, Allchin's synthesis of the uncomfortable
+distance between himself and Erdosy is as follows:  The Aryans, as an
+ethnic group, *did* win conquests in the Punjab, thereafter acculturating
+the people there, whence their ideology and its language spread to the
+rest of South Asia.
+
+I find myself recalling my sarcasm in my 1987 paper:  "Well, Sanskrit did
+have an ancient grammatical tradition that might have appealed."
+
+------------------------------
+
+Subject:  6.  More references on the Gangetic civilisation
+
+This is basically a miscellany, to fulfill past promises and make a few
+notes before I go back to non-research mode.
+
+First of all, Dilip Chakrabarti has been *very* prolific relatively
+recently, and the books in question include a couple for which I
+previously failed to give cites plus one which is evidently the current
+reference on early iron in India:
+
+Chakrabarti, Dilip K.  1993.  Archaeology of Eastern India.  New Delhi: 
+Munshiram Manoharlal.  This, his book about West Bengal, turns out to be a
+site survey on the Chota Nagpur plateau and an adjoining district in
+Bengal.  Sorry for the mixup.
+
+idem.  1990.  The External Trade of the Indus Civilization.  New Delhi: 
+Munshiram Manoharlal.  Haven't seen it.
+
+idem.  1992.  The Early Use of Iron in India.  Delhi:  Oxford.  Haven't seen it.
+
+idem.  1992.  Ancient Bangladesh.  Delhi:  Oxford.  A full survey of
+minimal material.
+
+I think Erdosy's recent book is already in the RISA-L bibliography (and if
+you haven't yet, please DO check out the debate and bibliography c/o
+
+<URL:http://www.acusd.edu/~lnelson/risa>
+
+it IS worth it!) - anyway, I think it's already in there, but just in case:
+
+Erdosy, George, editor.  1995.  Language, Material Culture, and
+Ethnicity:  the Indo-Aryans of Ancient South Asia.  Berlin:  W. de
+Gruyter.
+
+Finally, to make up for aiming D. K. Chakrabarti at Steve Whittet's
+concerns for sea trade, here are a couple of references which between them
+make a pretty good case for direct contact between Gujarat and Africa
+(but, Mr. Whittet, please *read* them before citing...):
+
+Possehl, Gregory L.  1987.  "African Millets in South Asian Prehistory." 
+Studies in the Archaeology of India and Pakistan, edited by Jerome
+Jacobson.  New Delhi (and Bombay, Calcutta):  Oxford & IBH.
+
+Singh, H.  1982.  History and Archaeology of Black-and-Red Ware
+(Chalcolithic Period). Delhi:  Sundeep Prakashan.
+
+------------------------------
+
+Subject:  7.  Distribution
+
+First of all, Edwin Bryant and Moin Ansari are cc'd for reasons already
+indicated.  I hope they'll forgive me the size of this thing.  I hope
+they'll show up on Usenet or at least INDOLOGY to discuss these topics,
+but whatever.  Mr. Ansari is also a moderator of
+soc.culture.pakistan.history, and Mr. Bryant subscribes to RISA-L; I have
+no objections to redistribution of any or all of these sections and would
+actually, of course, be flattered if they're worth it.
+
+I'm posting this to the INDOLOGY mailing list.  Please note that this is a
+closed list:  as best I understand it, non-subscribers can't post.  I
+recommend contacting the owner if you wish to find a way around this.  My
+apologies to any subscribers who don't want this much about the subject,
+but hey, at least it's not about Hindi...
+
+I should think the easiest way to discuss this is to use Usenet.  I've
+been hesitant to forward to INDOLOGY anything like the full context of the
+arguments there, which is why I wind up making mega-posts like this.  The
+Usenet debate to date does not merit archiving in the way the RISA-L
+debate did, but it began November 17 and has all (to the best of my
+knowledge) been posted to sci.archaeology, so it should be recoverable via
+Dejanews despite the proliferation of threads.
+
+This is posted to sci.archaeology.moderated because it seems to fit, and
+also to sci.archaeology and sci.lang because those are where most of the
+discussion thus far has been.  I have, however, *removed* sci.lang from
+followups, in the considered opinion that this document really doesn't say
+much about linguistics and there are existing threads which are better for
+use to discuss that study.  I'm only cross-posting this one there as a
+courtesy which I hope is not misguided.
+
+Please note that sci.archaeology.moderated is in the followups.  If you
+wish to follow up to this post, please consider whether it's likely to
+pass the moderation filter; in particular, I'd recommend including some
+references; or else remove sci.archaeology.moderated from the list of
+newsgroups.
+
+Have fun with this, folks!
+
+Joe Bernstein
+-- 
+Joe Bernstein, writer, banker, bookseller joe at sfbooks.com
+speaking for myself alone http://www.tezcat.com/~josephb/
+But...co-proponent for soc.history.ancient, now back under
+discussion in news.groups!
+
+
+
+
+

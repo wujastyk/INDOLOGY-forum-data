@@ -1,0 +1,27 @@
+From jage at loc.gov  Fri Aug 25 13:20:28 1995
+From: jage at loc.gov (James E. Agenbroad)
+Date: Fri, 25 Aug 95 09:20:28 -0400
+Subject: Encoding
+Message-ID: <161227020698.23782.14466377693023302478.generated@prod2.harmonylists.io>
+
+                                        Friday, August 25, 1995
+In November 1991 the Bureau of Indian Standards (BIS) issued
+"Indian standard: Indian script code for information interchange" (IS 13194)
+It deals with the codes for letters leaving codes for conjuncts to the
+software which will render the code visible for readers.  I do not have
+a price.  Their address is (or was in 1991) Manak Bhavan, 9 Bahadur Shah
+Zafar Marg, New Delhi 110002.  Though I have not been to India since 1982
+I believe some word processing software in India uses this encoding scheme.
+An earlier vesion of this standard was the basis for encoding Indic
+scripts in the international standard ISO/IEC 10646 of which the Unicode(TM)
+standard encoding scheme is an implementation.
+The above is a purely personal opinion, not the official view of any
+government or any agency of any.
+     Regards,
+          Jim Agenbroad ( jage at LOC.gov )
+ 
+
+
+
+
+

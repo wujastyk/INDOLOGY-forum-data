@@ -1,0 +1,18 @@
+From wujastyk at gmail.com  Fri Aug  7 01:23:22 2015
+From: wujastyk at gmail.com (Dominik Wujastyk)
+Date: Thu, 06 Aug 15 19:23:22 -0600
+Subject: [INDOLOGY] OCR for Romanized Sanskrit with Abbyy FineReader
+In-Reply-To: <CA+wUuzNuc84JqzeDtDxDaj9OirBg_HuCXxWvz9jhRKXVh8oYfg@mail.gmail.com>
+Message-ID: <CAKdt-CcFkV2H4xeytUYRmaOQgL9DW6xbDNsgk50a0cGpV-SJPA@mail.gmail.com>
+
+There is an OCR program specifically optimized for Devanagari, written by
+Oliver Hellwig <http://www.sanskritreader.de/>.  I've seen it demonstrated,
+and it is outstanding.  I wouldn't bother with generic products built
+around Latin script, however flexible.
+Dominik Wujastyk?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150806/44a259f2/attachment.htm>
+

@@ -1,0 +1,54 @@
+From christophe.vielle at uclouvain.be  Thu Mar 27 20:55:40 2014
+From: christophe.vielle at uclouvain.be (Christophe Vielle)
+Date: Thu, 27 Mar 14 21:55:40 +0100
+Subject: [INDOLOGY] Converting "Kali chronograms"
+Message-ID: <EF034938-BC32-451F-BB9E-46FD160AFD37@uclouvain.be>
+
+Dear list,
+
+in trying to solve the discrepancy between two different Gregorian dates (1310 AD in Kunjunni Raja 1958, but 1314 AD KSSC) given on the basis of the same "chronogram"
+pu?y??avy?m yatis sy?t
+denoting the Kali days according to the ka?apay?di system of writing the numbers:
+pu (1) - ?y? (1) - ?a (1)  - vy? (1)  - mya (1) - ti (6)- ssyaat (1) = 1611111
+
+I came across the following useful on-line tool
+
+http://www.usvishakh.net/php/kaligreg.php
+
+which in this case gives the following precise date: 1310 February 19 (Wednesday).
+
+I made some new testing on the basis of a few more Kunjunni Raja (1958)'s dates:
+
+? p. 61 (Tantrasa?graha of N?laka??ha Somay?j?): he  vi??o nihita? k?tsna? =
+1500 AD (he  vi-??o ni-hi-ta? k?-tsna? = 84508610)
+
+Converter: 1500 April 1 (Sunday)
+
+But  in K. Ramasubramanian, Tantrasa?graha of N?laka??ha Somay?j?, 2011
+http://books.google.be/books?id=TGYxXjZXIGwC , p. xxxvii, differently:
+"(...) the Kali chronogram of the date of the commencement of the work, which turns out to be 1680548, and corresponds to Mina 26,4600 gatakali (elapsed Kali years) according to the Indian calendar, which corresponds to March 22, 1500 CE according to the Gregorian calendar"
+
+? p. 129 (Prakry?sarvasva): "yatna? phalapras?? sy?t  [and]  k?tar?garasodya
+representing 1723201 (ya-tna?-pha-la-pra-s?-ssy?t)
+and 1723261  (k?-ta-r?-ga-ra-so-dya) respectively
+... give the dates January and March of 1616 AD"
+
+But converter : 1617 January 10 (Tuesday) and 1617 March 11 (Saturday) respectively
+
+ ? p. 130 : "the N?r?ya??ya (completed) on 27th November 1586, expressed by the chronogram ?yur?rogyasaukhyam denoting the Kali date 1712210 ( ?-yu-r?-ro-gya-sau-khyam)"
+
+But  converter : 1586 December 8 (Monday)
+
+My question to the specialists of calendars/chronology : what explains these slight differences; is the on-line tool right or not in these cases ?
+
+Best wishes
+???????????????????
+Christophe Vielle
+Louvain-la-Neuve
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140327/8e52b25f/attachment.htm>
+

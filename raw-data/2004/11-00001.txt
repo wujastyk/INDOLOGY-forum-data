@@ -1,0 +1,43 @@
+From asg at U.WASHINGTON.EDU  Mon Nov  1 04:30:20 2004
+From: asg at U.WASHINGTON.EDU (Andrew Glass)
+Date: Sun, 31 Oct 04 20:30:20 -0800
+Subject: Devanagari
+In-Reply-To: <000001c4bfb7$dff0ff10$43ee3e80@LIFEBOOK>
+Message-ID: <161227075195.23782.10352035503728641949.generated@prod2.harmonylists.io>
+
+Dean,
+
+If I understand correctly, your comment may result from a confusion of
+encoding, font, and input method.
+
+"Encoding" refers to the numerical values a document uses to store units
+of text. All modern computers can use Unicode for this. A document
+encoded as Unicode will be readable on all other operating systems that
+support this standard. For example, there is a unique value assigned to
+Devanagari 'a'.
+
+A "font" is a collection of letter shapes that a computer uses to
+display the content of a text file. A "Unicode font" is simply a font
+that knows which shapes to display for a text file that is encoded in
+Unicode. The "OpenType", "TrueType", "Type 1" and "AAT" are font formats
+that differ in how they define and cross-reference letter shapes. The
+first three of these work on all modern computers; AAT only works on the
+Mac.
+
+"Keyboard layout" (or "input method") refers to the way a user enters
+text into the computer. For instance, one can tell the computer to
+insert a Devanagari 'a' into a document when the A key is pressed on the
+keyboard. Different keyboard layouts are just different users'
+preferred ways of entering a particular script. On modern computers, the
+choice of keyboard layout is independent of the choice of font used, and
+the encoding will in any case can be Unicode.  The resulting files can
+be freely shared and edited on different computer systems.
+
+I hope this clarifies the situation more than it confuses it!
+
+Andrew Glass
+Stefan Baums
+
+
+
+

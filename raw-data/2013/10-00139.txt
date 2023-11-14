@@ -1,0 +1,118 @@
+From aprigliano at usp.br  Wed Oct 30 19:53:58 2013
+From: aprigliano at usp.br (Adriano Aprigliano)
+Date: Wed, 30 Oct 13 17:53:58 -0200
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_Pata=C3=B1jali's_syntax?=
+In-Reply-To: <CAANHO16T88YUB9XZHOCaszuOLiJEJYSpdbX+44148opTTqHfBw@mail.gmail.com>
+Message-ID: <9BE73C6B-B96D-48CA-A92D-23C1678545A4@usp.br>
+
+Dear Andrew,
+
+Yes, I think it works. I feel insecure about the causal nature of ha, though. 
+
+Also by applying this value of vai as topic marker, wouldn't e?a? ?not apa?abda?? be on the predicate spot, since [yad apa?abada?] should be a predicate in apposition to an already given predicate?
+
+I don't know If I could made made myself clear...
+
+I keep thinking.
+ 
+Best wishes
+Adriano
+
+
+Prof. Dr. Adriano Aprigliano
+?rea de L?ngua e Literatura Latina
+ 
+Faculdade de Filosofia, Letras e Ci?ncias Humanas
+Universidade de S?o Paulo
+S?o Paulo, Brasil
+
+
+
+
+
+
+
+
+Em 30/10/2013, ?s 16:53, Andrew Ollett escreveu:
+
+> Dear Adriano,
+> 
+> I am by no means an expert, but I would agree with Dr. Hock about "invariable yat" (discussed by Gonda in Lingua 4:1ff.) for the following reasons:
+> I take "ha" to be a causal particle (= yasm?t, hence yat != yasm?t);
+> I take "vai" to mark the topic of the sentence (usually equivalent to the subject: in most nominal sentences, the subject comes AFTER the predicate, i.e., X Y should be translated as "Y is X," but X-vai Y should usually be translated as "X is Y");
+> hence "for this mleccha (viz., 'mleccha' in the prohibition "na mlecchitavai") in fact means (yat) 'a bad word'"
+> Andrew
+> 
+> 
+> 
+> On Wed, Oct 30, 2013 at 2:34 PM, Adriano Aprigliano <aprigliano at usp.br> wrote:
+> Dear colleague,
+> 
+> Still on the order matter, in the commentary you quote, the commentator understands e?a? as bound to apa?abda?, forming the subject part of the sentence (e?o'pa?abda?), and mleccha? as the predicate ?if I understood it right? ("this deviant word is [indeed] barbaric, known as barbaric"). But if that is so, how to account, syntactically, for yad being in between e?a? and apa?abda? in the original text? Would it be possible with e?a? as an adjective pronoun? 
+> 
+> Best wishes
+> 
+> Prof. Dr. Adriano Aprigliano
+> ?rea de L?ngua e Literatura Latina
+>  
+> Faculdade de Filosofia, Letras e Ci?ncias Humanas
+> Universidade de S?o Paulo
+> S?o Paulo, Brasil
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> Em 30/10/2013, ?s 13:00, George Cardona escreveu:
+> 
+>> Dear colleague, If I understand you properly, you consider that the expected form should be ya?, construed with apa?abda?, hence the syntactic problem.  On the other hand, yad can be adverbial, equivalent to yasm?t.  This is the syntax given in the S?ktiratn?kara (ed. Vaman Shastri Bhagavat, p. 44.5-6): ???????? ?????????????? ? ??? ???????????????? ???????? ???????????????????? ?????????
+>> On Oct 30, 2013, at 8:38 AM, Adriano Aprigliano wrote:
+>> 
+>>> Dear colleagues,
+>>> 
+>>> I have been having doubts on how to translate this MBh?? sentence (Kielhorn, p.2, line 8):
+>>> 
+>>> te'sur??. te sur? helayo helaya iti kurvanta? par?babh?vu?. tasm?d br?hma?ena na mlecchitavai n?pabh??itavai. mleccho ha v? e?a yad apa?abda?.
+>>> 
+>>> The problem is on the last sentence, what to make of that yad apa?abda?. I start with ' for this one/he is indeed a mleccha...". 
+>>> 
+>>> Any suggestions?
+>>> 
+>>> best wishes
+>>> 
+>>> Prof. Dr. Adriano Aprigliano
+>>> ?rea de L?ngua e Literatura Latina
+>>>  
+>>> Faculdade de Filosofia, Letras e Ci?ncias Humanas
+>>> Universidade de S?o Paulo
+>>> S?o Paulo, Brasil
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> http://listinfo.indology.info
+>> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+> 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131030/329e3d8f/attachment.htm>
+

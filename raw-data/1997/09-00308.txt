@@ -1,0 +1,17 @@
+From apandey at U.WASHINGTON.EDU  Sun Sep 21 02:10:01 1997
+From: apandey at U.WASHINGTON.EDU (Anshuman Pandey)
+Date: Sat, 20 Sep 97 19:10:01 -0700
+Subject: TeX and Babel.
+Message-ID: <161227032685.23782.3308492124474416214.generated@prod2.harmonylists.io>
+
+Speaking of TeX, Dominik, I recall that you once told me that you knew of
+someone working on a Devanagari hyphenation pattern for Babel. Do you
+happen to know what became of this project, and who was taking the brave
+step?
+
+Regards,
+Anshuman Pandey
+
+
+
+

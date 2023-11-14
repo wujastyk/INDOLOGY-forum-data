@@ -1,0 +1,213 @@
+"diacritics". Let's use Chinese style nick names for them. From the most
+common one down:
+
+855x found : rimmed jar
+322 : small Roman ' ' (there also are full length signs such  as ||, see
+below )
+194 :  simple vessel  V
+187 : simple fish sign with two downward fins
+179 : fish with two horns on head
+159 : arrow sign, with bottom of arrow head closed
+149 : 5-pronged comb, prongs turned right
+140 : Roman | | |
+127 : fish with circumflex roof ^  on head
+127 :  rounded off rhombus with v inserted in upper part
+125 : six-spoked 'wheel'  (more rhombus-like!)
+125:  `/  type, closer to a Y
+117:  fish with  - stroke through body
+116:  Trishula   (Y with  inserted ' )
+115:  Roman | |
+
+Note that no.s 187x, 179x, 127x, 117x are "diacritical" versions of each
+other. (More cases among the signs with frequencies a little lower than
+these).
+
+We now apply our knowledge of Skt., Vedic or other, and  if the IV language
+were any form of Sanskrit, as with Rajaram/Jha, these signs would be,
+based on rounded off Skt. sound frequencies, roughly:
+
+855 would be:  a   (20%)
+322  = aa               =8%
+194  = t                =7%
+187 =  r                =5%
+179  = v                =5%
+159  = i                =4.8%
+149  = n                =4.8%
+140 =  m                =4.3%
+127 =  y                =4.2%
+127 =  s                =3.5%
+125  = d                =2.8%
+125  = u                =2.6%
+117  = p                =2.4%
+116  = k        =2%
+115 =  bh       =1.3%
+
+(This is just frequency order. The Skt. %s obviously do not make for a
+close fit with the actual %, just with the frequency  of the  Indus signs.
+First hurdle.  -- Anyhow, now,  start reading!!!)
+
+Result :  187 = r,  179 v ,  127  y ,  117  k  would be  phonetically
+related????
+(or try any other permutation r, R, RR, L, LL, ...???)  Not possible at all.
+
+Or read the Dholavira inscription....
+http://sarasvati.simplenet.com/html/Corpusmain.htm
+(scroll down just once) which has:
+
+crab - spoked wheel (d)  -  spoked wheel  (d) -  '  -  ^  - empty rhombus -
+spoked wheel (d) - pipal leaf with projections -  square on pole - spoked
+wheel (d).
+
+These are *not* the most common characters, -- for the reading of which one
+would have to marshal the rest of the Skt. alphabet not covered by the
+above 15 signs... (e.g.,  all e, o, R vowels. None of the most common, Skt.
+a, aa). Sounds good?  Nope.
+
+Or, you can read, with a slight reversal of above list, if you like it
+better:
+a Paninean succession of  u  | uu  | uuu.
+In other words, early grammar. That is certainly what I would put on my
+city wall! Much better than the recently broadcast version (I forget by
+whom, information overload, no one can keep up any more with all these
+decipherments!), which ran roughly:
+
+ "I have driven off all horse thieves!"
+
+As for non-alphabetic signs, such as the svastika character: it is
+omnipresent in many parts of the Old World. I like the interpretation given
+to it in Ghana best:
+
+"monkeys feet"!
+
+So much for  reading any unknown symbols, characters and signs. BB Lal
+(1997: 214) tells us:
+
+ "Let us continue to be optimistic."  --  Rather, I say:  lasciate ogne
+speranza!
+
+{{ I overlooked until just now that S. Kak, Cryptologica XII, 3 , 1988,
+129-143, has taken  a statistical approach, similar to mine above,  but
+then taking a completely different turn, identifying some of the signs with
+those of the Brahmi script, while on the other hand, taking some of the
+most common signs as case endings (arrow, rimmed vessel etc.). One would
+guess that the wide margin allowed here would result in any desired
+interpretation, and indeed:  no surprise! These are  Skt. inscriptions...
+Of course, the table just given above has no resemblence to Kak's. Note the
+interview of Kak at: http://www.rediff.com/news/1999/nov/18inter.htm }}
+
+The procedure shows, as always, that changing one assumption will lead to a
+completely different "decipherment".  And then, as always, comes the leap
+of faith plus  secondary assumptions to make things work out... In other
+words: No inscription has been read yet.
+(Of course, I have my own "decipherment" :  not Norse or English, but
+--you guessed it-- Munda.  Such as, on one tablet: "to be given to the
+chief queen!"  Do you think I will publish it? Naaah!
+
+Continuing with Elst's summary:
+
+>There is an initial vowel sign, like the Aleph, which can represent any
+>vowel: this is
+>the omnipresent jar sign.
+
+Not very practical in any alphabet, unless the initial vowel represents one
+preceded by glottal stop (found in certain languages before any vowel but
+not in Skt.!), --  which then, by necessity, has to be followed by a
+separate vowel sign. Otherwise, even in English (which has such stops), a
+phonetically written  sentence such as:
+        'think'lovthi'bavcaen'nlibiirigardid'zmakingnosens
+is not immediately decipherable. Especially, when words are not separated.
+If separated,  this would read:
+        ' think 'l ov thi 'bav caen 'nli  bii rigardid 'z making no sens.
+Got it this time?
+
+> Vowels following consonants are generally not
+>written, so one consonant signs can be read as ka, kaa, ke, ki etc.
+
+Wonderful, so the sentence used above would be:
+        'thnk'lvth'bvcn'nlbrgrdd'zmkngnsns.
+
+The Lord of Dholavira or Harappa would have made the inventor of this
+alphabet work in the
+copper mines of the Aravallis for the rest of his rather short natural
+life. Or, if a Brahmin, have him sent beyond Kaala PaaNi, to Punt.
+
+Of course, Rajaram's vowel rule is, again, guesswork. Based on much later
+Indian scripts but worse than, say, modern Hindi  (unspoken a, without
+halanta marking), or the ambiguities of Urdu script, for that matter.
+Rajaram's system allows insertion of any vowel, to fit the "decipherment".
+
+>Thus, the crab is [ma],
+
+this occurs only 33 x (crab turned right)  in all of the Indus, too low for
+Skt.  ma = c. 4%.
+
+> the 5-stroke standing man is [ra] or [R]
+
+only 47 x , too low for r   (= 5%) (vowel R has 0.74%)
+
+>the standing  fish is [sha] (also "100", sha-tam),
+
+but see above 187x;  r should be much lower than this freqency, at 1.5 %,
+and  not at position 187x.
+
+> the same standing fish with a little roof overhead is [shri].
+
+Now, that's cute!
+But what do do with all the other common fishes, 187 = r,  179 v ,  127  y
+,  117  k ?  See above.  (Is this  = zrImatI, zrImant:  Mr., Mrs., Ms.,
+young master,...? zrI zrI for kings, zrI zrI zrI  for gods, as in medieval
+mss???)
+
+>An obvious weak point is that several sounds have
+>more than one sign representing them, though care was taken to avoid cases
+>where two such "allographs" appear on the same seal.
+
+Now that's already the *third* major ambiguity, added to those  pointed out
+above.
+And the one which finally destroys the "system" altogether.
+
+
+IN SUM:
+
+Since we have (at least) some 80 or 100 frequent signs at our disposal, a
+really bad writing system! Brahmi/Gupta/Nagari does it with c. 50 signs
+plus the c. one dozen of 'added vowel' signs (always depending on the
+particular variety of alphabet used at what time, therefore: "circa").
+
+>Jha and Rajaram also claim that in many cases, the picture and the text on a
+>seal correspond directly or obliquely, somewhat like in heraldry where the
+>motto and the picture sometimes match
+
+Oh well, but there are equally many cases where the *same* written message
+occurs with another picture and vice versa !!
+
+And, typically, all of the above leaves out the likely possibility that
+other language(s) than Skt. are represented by the IVS ...  (see my earlier
+message on Rgveda loan words).
+
+A few notes on the press release separately.
+
+Case closed.
+
+Next case:    Munda tribal writings:)
+http://www.engr.mun.ca/~asharan/bihar/indus/indus~3.htm
+
+Enjoy!
+==================================
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.fas.harvard.edu/~witzel/mwpage.htm
+
+Elect. Journ. of Vedic Studies:  http://www1.shore.net/~india/ejvs
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: text/enriched
+Size: 10337 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20000708/51dd1470/attachment.bin>
+

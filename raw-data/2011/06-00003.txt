@@ -1,0 +1,124 @@
+From wujastyk at GMAIL.COM  Wed Jun  1 16:12:17 2011
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Wed, 01 Jun 11 18:12:17 +0200
+Subject: SARIT texts available in online repository
+In-Reply-To: <20110601112611.GS8417@rdorte.org>
+Message-ID: <161227092673.23782.11611378469186050694.generated@prod2.harmonylists.io>
+
+Dear colleagues,
+
+Further to Patrick's announcement, I should like to add a word on the
+background of this initiative.
+
+The work Patrick has done here on the SARIT collection is conceptually very
+important. I consider it a move in a direction that will become an essential
+component of the way we all work in the longer-term future, and it will help
+us all to be better indologists.  But at the moment, the interfaces are
+pretty hard for people who are not into computing, or who haven't thought
+about Revision Control Systems (RCS) before.
+
+A glance at the Wikipedia page, Revision
+Control<http://en.wikipedia.org/wiki/Revision_control>,
+shows an image that will be familiar to those engaged in critical editing: a
+stemma.  And that's what this is all about.  Textual criticism is all about
+reconstructing a stemma of descent from an archetype in the past.  What
+Revision Control programs do is to capture the stemma of texts *as they
+evolve* from the present into the future.  Effectively, they make the stemma
+explicit as a text is written, rewritten, expanded, edited, and so forth.
+
+In the SARIT case, we have been concerned about how to capture version
+information.  Let's say we put up a text of the Bhagavadg?t?.  We type it
+from the Pune edition, and we try hard to be accurate, and we put a nice fat
+TEI header at the top of the file saying exactly what edition we've used,
+what we've done to the text, who we are, what the date is, and so forth.
+It's a new edition, and electronic one, properly documented, with a
+pedigree.
+
+Lets say you download it, and add markup
+(TEI<http://en.wikipedia.org/wiki/Text_Encoding_Initiative>,
+naturally) to all the dialogues, so that it is explicit whether K???a or
+Arjuna is speaking, because you want to study whether their speech patterns
+are different (or whatever).  Now your personal copy of the e-gita is
+enriched.  You want to deposit your enriched copy back with SARIT.   We want
+to receive it.
+
+Let's say a third person also takes a copy of the G?t? from SARIT, the
+original un-marked-up one.  That person finds lots of typos, and corrects
+them.  Version 3 of the text now has a better-quality Sanskrit text.  The
+corrector wants to deposit this new differently-enriched version back with
+SARIT too.   We want to receive it.  And wouldn't it be nice if the
+corrected Sanskrit could be merged back into the interlocutor-marked-up
+one.
+
+Now you see the problem.  We have two derivative e-texts of the same
+underlying "work."  Both are accurate, both deserve to be in SARIT.  It
+could easily become a nightmare of colliding versions, all good but in
+different ways.
+
+What Patrick has put in place is a system that elegantly copes with this
+problem.  Versions of e-texts are stored in the
+GIT<http://en.wikipedia.org/wiki/Git_%28software%29>version-control
+system.  The powerful and complex GIT software makes it
+possible to see exactly what has happened to the e-text, and to check out
+particular versions, merge or separate versions, and so forth.   Versions
+can be viewed simply as parallel colour-coded texts (like
+this<http://utsl.gen.nz/talks/git-svn/git-gui.png>or
+this<http://eric.lubow.org/wp-content/uploads/2009/11/smartgit_filediff.jpg>),
+or in more complicated graphical ways, when one wants to get an overview of
+complex changes (like this <http://d.spearce.org/2007/07/ugly-gitk.gif> or
+this<http://kylecordes.com/blog/wp-content/uploads/2010/08/CommitLog-Git-Extensions.jpg>).
+There are numerous front-ends to GIT that display the underlying textual
+variations in different ways.
+
+We are just at the beginning with this, and we know that the systems have to
+get more user-friendly if they are to be widely adopted by scholars who
+focus on philological matters first and foremost.  The goal is to provide
+the kind of textual security that a traditional critical edition gives, but
+in the electronic world.  Texts from SARIT will be well-defined textual
+objects whose identity and sources are explicitly documented and whose
+evolution - for evolution is inevitable - is also explicitly documented and
+made transparent.   When someone needs to cite an e-text in their research,
+they can look forward in the future to having something clearly defined to
+which they can refer in concrete terms, and that is worthy of a dignified
+footnote.
+
+Best,
+Dominik
+
+On 1 June 2011 13:26, patrick mc allister <pma at rdorte.org> wrote:
+
+> Dear colleagues,
+>
+> the e-texts included in SARIT (Search and Retrieval of Indic Texts,
+> http://sarit.indology.info/), are now available in an online
+> repository that, so the hope of Dominik Wujastyk and myself, will make
+> the collaboration on the existing files and the addition of new files
+> to SARIT easier.
+>
+> Please see https://github.com/paddymcall/SARIT/blob/master/README.org
+> for a description of what this repository is and how it might be used.
+>
+> Yours,
+>
+> --
+> patrick mc allister
+>
+> long term email: pma at rdorte.org
+> *current* office email: patrick.mcallister at oeaw.ac.at
+> homepage: http://rdorte.org/pma/
+>
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.4.10 (GNU/Linux)
+>
+> iEYEARECAAYFAk3mIdMACgkQN5RlYmr8acQRygCgku9aRSN8QLvJJQSfhjn2pFfe
+> 35YAn11KT1wN95YVVYv0sJs5ft23/i9n
+> =O5jJ
+> -----END PGP SIGNATURE-----
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110601/c74a9379/attachment.htm>
+

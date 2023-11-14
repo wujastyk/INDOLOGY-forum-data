@@ -1,0 +1,139 @@
+>From root Fri Feb 21 04:47:36 1992
+Date:     Thu, 20 Feb 1992 10:44:10 EST
+Sender: Buddhism Discussion Group <BUDDHA-L at EARN.ULKYVM>
+From: JACOCK01 at EARN.ULKYVM
+Subject: Australian repository for Buddhist studies materials
+To: Dominik Wujastyk <ucgadkw at uk.ac.ucl>
+ 
+From: tmciolek at coombs.anu.edu.au
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+THE COOMBSPAPERS DATA BANK - the ANONYMOUS FTP ARCHIVE
+ 
+COOMBSPAPERS DATA BANK was established on 3 December 1991 to act as an
+electronic repository of the social science & humanities papers, offprints,
+departmental publications, bibliographies, directories, abstracts of theses
+ 
+and other high-grade research material produced (or deposited) at the
+Research
+School of Pacific Studies and Research School of Social Sciences,
+Australian National
+University, Canberra.
+ 
+In addition, COOMBSPAPERS DATA BANK  is intended  to serve also as a major
+Australian electronic repository of research materials dealing with the
+Pacific Region,
+SouthEast and NorthEast Asia, as well as Buddhism, Taoism and other
+oriental
+religions.
+ 
+Researchers in Australia and overseas are warmly invited to deposit with
+this Data
+Bank any high-grade documents which are not already copyrighted by someone
+else
+and which they wish to disseminate via the AARNET/INTERNET and other
+academic
+networks. All research documents send to the Coombspapers via ftp should be
+deposited
+in the /ftp/coombspapers/inboundpapers subdirectory.
+ 
+Please direct any inquiries to:
+ 
+Dr T. Matthew Ciolek,
+Coombspapers Administrator,
+Coombs Computing Unit, RSPacS/RSSS,
+Australian National University, Canberra, Australia
+ph +61 6 249 4016  e-mail (INTERNET) coombspapers at coombs.anu.edu.au
+==========================================================================
+Abbreviations used:
+xxx.hqx	:   a file which has been Stuffed and Binhexed .To make it readible
+again decode it
+           with StuffIt  (Mac) programme.
+xxx.txt	:  ASCII format, a plain text file
+xxx.xx.Z:  compressed  file.To make it readible again use UNIX
+           command 'uncompress filename' (eg. uncompress africa.txt.Z)
+ 
+All documents listed below can be acquired from a sub-directory
+coombspapers via anonymous
+ FTP on the node COOMBS.ANU.EDU.AU
+============================================================================
+Documents stored at coombs.anu.edu.au  which may be of possible interest to
+Buddhist Studies :
+============================================================================
+/ftp/coombspapers/rspacs-rsss/cartography-unit
+	china-languages-atlas.txt - inf. about The Language Atlas of China
+	pacific-languages-atlas.txt -inf. about Language Atlas of the Pacific Area
+			edited by Stephen A. Wurm and Shiro Hattori
+ 
+/ftp/coombspapers/rspacs-rsss/coombs-computing
+	internet-voyager.txt - 1992 Social Scientist's Electronic Voyager
+			 GuideBook to AARNET/INTERNET Online Inf. Services
+ 
+/ftp/coombspapers/rspacs-rsss/thai-yunnan-project
+	davis-card-index.hqx.Z - HC stack with research data of the late
+					 Dr. Richard Davis
+	thai-yunnan-bibl.hqx.Z - HC stack with Thai-Yunnan bibliography
+ 
+/ftp/coombspapers/foreign/buddhist-studies
+(A repository of research materials relevant to Buddhist studies)
+	/buddhism-general
+	buddhist-etexts-info.txt - 1990 list of machine-readable Buddhist texts
+					 projects
+	canonical-buddhist-texts.txt - a summary list of Canonical Buddhist texts
+ 
+	/buddhism-tibet
+	sakya-lam-bras-bibl.txt.Z - Lama Choedak Yuthok's complete catalogue of
+Sakya Lam 'Bras
+					 literature
+	tibetan-buddhism-1bibl.txt.Z - Dr. Geofferey Samuel's  references (up to
+early 1991)
+	tibetan-buddhism-2bibl.txt.Z    to research on  Tibetan societies and
+religion (Buddhism &
+							shamanism)
+	/buddhism-zen
+	about-diamond-sangha.txt - inf. leaflet
+	about-sydney-zen-centre.txt - inf. leaflet
+	daily-zen-sutras.txt - Sanbo Kyodan (Three Treasures) sutras (in English)
+	meals-zen-sutras.txt - Sanbo Kyodan (Three Treasures) sutras (in English)
+	modern-zen-bibl.txt - references to modern Zen Buddhism (1600-present)
+	zen-precepts.txt - Sanbo Kyodan (Three Treasures) sutras (in English)
+	zen-shodoka.txt - Sanbo Kyodan (Three Treasures) sutras (in English)
+ 
+/ftp/coombspapers/foreign/soc-science-tools
+	LIBRARIES.TXT - Jan 92 list of on-line bibliographic databases and
+catalogues
+	compare-calendars.hqx - HC stack for computing Julian & Gregorian
+calendars for
+			 1AD - 3000AD
+	e-journals.directory.txt.Z - worldwide directory of electronic periodicals
+	e-text.archives.txt.Z - 1990 worldwide directory of repositories
+electronic texts
+			and documents
+	japan.inf.txt.Z - how to send and receive *real* Japanese text (i.e., kana
+and kanji)
+			 using electronic mail.
+	oxford.etext.archives.txt.Z - catalogue of the Oxford Text Archive of
+machine-
+			readable texts
+============================================================================
+ 
+end of file
+- - -
+thank you for any assistance you can give me with distribution of the above
+text
+ 
+=====================================================
+Dr T. Matthew Ciolek, Coombs Computing Unit, RSPacS/RSSS
+Australian National University, GPO Box 4, Canberra  A.C.T.  2601.
+ 
+Phone  (Intl.)  61 6 249 4016,   Fax     (Intl.)  61 6 257 1893
+ 
+ 
+--- End of forwarded message from Buddhism Discussion Group
+ <BUDDHA-L at EARN.ULKYVM>
+ 
+
+
+
+
+

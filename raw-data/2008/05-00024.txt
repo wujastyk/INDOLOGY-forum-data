@@ -1,0 +1,58 @@
+From huntington.2 at OSU.EDU  Thu May  8 14:37:03 2008
+From: huntington.2 at OSU.EDU (John C. Huntington)
+Date: Thu, 08 May 08 10:37:03 -0400
+Subject: Mahabhasya now available in Intratext version
+In-Reply-To: <alpine.WNT.1.10.0805070631150.14368@Caraka>
+Message-ID: <161227082578.23782.2369430711248104221.generated@prod2.harmonylists.io>
+
+Works perfectly on my Mac
+
+John
+
+
+On May 7, 2008, at 7:32 AM, Dominik Wujastyk wrote:
+
+> The online Mahabhasya text at Intratext is now okay again.
+>
+> I have also sent Vagbhata's Astangahrdayasamhita to Intratext, and  
+> I hope
+> it will appear before long.
+>
+> Best,
+> Dominik
+>
+>
+> On Mon, 5 May 2008, Dominik Wujastyk wrote:
+>
+>> Thanks to the staff and funding at the intratext.com project, and  
+>> to the original data-analysis and data-entry project under Prof.  
+>> Cardona, the Mahabhasya of Patanjali is now available with the  
+>> Intratext coding:
+>>
+>>  http://www.intratext.com/ixt/san0011/_INDEX.HTM
+>>
+>> This makes the generation of KWIC indexes trivially easy, as well  
+>> as providing various statistical and lexical analyses of the text.
+>>
+>> Best,
+>>
+>
+>
+> -- 
+> BEGIN-ANTISPAM-VOTING-LINKS
+> ------------------------------------------------------
+>
+> Teach CanIt if this mail (ID 596528402) is spam:
+> Spam:        https://antispam.osu.edu/b.php? 
+> c=s&i=596528402&m=5aeb349bee55
+> Not spam:    https://antispam.osu.edu/b.php? 
+> c=n&i=596528402&m=5aeb349bee55
+> Forget vote: https://antispam.osu.edu/b.php? 
+> c=f&i=596528402&m=5aeb349bee55
+> ------------------------------------------------------
+> END-ANTISPAM-VOTING-LINKS
+>
+
+
+
+

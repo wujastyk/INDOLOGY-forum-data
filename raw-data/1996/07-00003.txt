@@ -1,0 +1,50 @@
+From L.M.Fosse at internet.no  Mon Jul  1 15:35:43 1996
+From: L.M.Fosse at internet.no (L.M.Fosse at internet.no)
+Date: Mon, 01 Jul 96 16:35:43 +0100
+Subject: Harvard-Kyoto
+Message-ID: <161227025214.23782.3064633113047632828.generated@prod2.harmonylists.io>
+
+Dominik wrote:
+
+>I would like to note that no one system of 7-bit transliteration is better
+>than another, as long as they are all unambigouous and clearly documented.
+>There is no need to be partisan in this matter, or even to suggest that
+>someone else should use your chosen system.  Simple search-and-replace
+>operations, especially with such tools as the Unix SED, make converting
+>between systems a matter of a few seconds.
+
+For once I do not entirely agree with Dominik. If we use 7-bit coding, two
+things are necessary: 1) an acceptable level of readability; 2) easy
+conversion into other representation systems (e.g. CSX). If we have a mixed
+text (e.g. both English and Sanskrit), we should be able to do
+search-and-replace without damage to the English text. This we cannot do
+with the Harvard-Kyoto system. It therefore falls foul of point 2). The
+Hiroshima system described by Birgitte Kellner, on the other hand, falls
+foul of point 1), as far as I am able to judge. The TZ-system is quite
+unambiguous, easy to read (I have read a lot of Sanskrit in TZ), and there
+is no problem converting it into other representations. However, if others
+feel comfortable with other kinds of representation, I am not going to tell
+them to go ahead and use "my" transliteration system. Everybody has a right
+to a choice. I just do not think that they are all equally good.
+
+Best regards,
+
+Lars Martin
+
+
+
+Dr. art. Lars Martin Fosse
+Haugerudveien 76, Leil. 114,
+N-0674 OSLO Norway
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+
+E-mail: L.M.Fosse at internet.no
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+From ucgadkw at UCL.AC.UK  Wed Jan 20 11:18:23 1999
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Wed, 20 Jan 99 11:18:23 +0000
+Subject: Ingalls Jr and smalltalk
+Message-ID: <161227045462.23782.15081433323326536590.generated@prod2.harmonylists.io>
+
+The justification for posting this to INDOLOGY is very thin: Dan Ingalls
+Jr worked with Sr years ago on a project to write a program in the
+Smalltalk language which would read Devanagari.  The easiest place to find
+a reprint of the article about this is in the Brill volume of Mahabharata
+studies edited by Arvind Sharma, ca. 1992.
+
+Anyhow, I happened to notice in the current issue of Dr Dobbs Journal
+(#295, Jan 1999, p.102) that Dan Ingalls Jr is mentioned as still active
+in developing Smalltalk at the Walt Disney Imagineering company, of all
+places.  There is a new free version called Squeak, and I wonder whether
+it would be possible to get Ingalls' Devnagari OCR program running under
+this?  Does anyone have the original source-code for the Devanagari
+reader?
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
+Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
+  the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
+Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
+London NW1 2BE, England.
+
+
+
+

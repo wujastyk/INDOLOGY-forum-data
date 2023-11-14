@@ -1,0 +1,121 @@
+From maniambalam_arasu at YAHOO.COM  Thu Mar 30 13:43:10 2000
+From: maniambalam_arasu at YAHOO.COM (Maniambalam Arasu)
+Date: Thu, 30 Mar 00 05:43:10 -0800
+Subject: Java based Email
+Message-ID: <161227057520.23782.5016541910583346077.generated@prod2.harmonylists.io>
+
+ From: "K. Kalyanasundaram" <kalyan at dcsun1.epfl.ch>
+ Reply-To: agathiyar at egroups.com
+ To: pmadurai at onelist.com, agathiyar at egroups.com
+ Date: Wed, 29 Mar 2000 09:05:03 +0200
+
+
+BUSINESS LINE, February 16, 2000
+CHENNAI, Feb. 15
+
+Lastech tool for Web-based Tamil e-mail
+
+LASTECH Systems (P) Ltd was launched its web facility by which surfers
+may
+send and receive e-mail in Tamil without having to download separate
+fonts.
+Users will need to log on to www.tamilanjal.com, and use the
+instruction panel
+to key in e-mails in Tamil.
+
+The Company also has plans to provide similar tools that will allow
+sending
+and receipt of e-mail - without downloading fonts - in 12 Indian
+Languages
+- Gujarati, Bengali, Hindi, Assamese, Kannada, Malayalam, Punjabi,
+Oriya,
+Sanskrit, Tamil and Telugu.
+
+Dr. M.Anandakrishnan, Chairman, Tamil Nadu IT task force, who launched
+the
+site here, said that companies have begun to take advantage of the fund
+
+announced during Tamil Net 99. The amount of about Rs.1 Crore is to
+encourage
+development of software that will give an impetus to the Tamil Language
+ in the world of computers and the Internet.
+
+According to him, about Rs.25 Lakhs has been given to companies that
+are
+working on a Tamil search engine; a Tamil shell that will display front
+ends
+of systems such as Windows in Tamil; and a Tamil optical character
+recognition  device.
+
+He said that the committee responsible for the fund is looking for
+entrepreneurs
+wishing to develop software tools that enable English to Tamil
+translation; Tamil
+sorting which will come in useful in the public distribution system
+(PDS);
+voice recognition for Tamil phonetics, and use of a Tamil dictionary.
+
+The nature of funding may be on the lines of venture capital or loans,
+depending on whether entrepreneurs wish to return the sum given out
+initially,
+he said.
+
+He also said that work on the Tamil Virtual University (TVU), is in
+progress
+and the Government would be looking to collaborate which universities
+in other
+countries such as South Africa, Sri Lanka, Singapore, Malaysia and
+Mauritius
+to administer the curriculam decided by the TVU.
+
+---
+THE ECONOMIC TIMES
+CHENNAI TUESDAY 15 FEBRUARY 2000
+
+Tamil e-mail www.tamilanjal.com launched
+
+Chennai: You can now send and receive e-mails in Tamil without
+downloading any
+font or software. Chennai-based Lastech Systems has come out with a
+pioneering
+web facility www.tamilanjal.com, that will enable Internet users to
+send
+e-mails
+in Tamil without having to download a font or software onto a user's
+computer
+system. This facility can be operated across several platforms -
+Windows,
+Unix,
+Linux and Mac.
+
+The company has developed a Java-based software for using 12 Indian
+Languages
+on
+the net. The website has various easy-to-use keyboard layouts like DOE,
+Phonetic,
+Typewriter and Romanised. The Tamil messages can be composed easily by
+using
+the
+`onscreen keyboard layout and layout-sensitive character set window'.
+Any
+e-mail
+client software such as Netscape Mail, Microsoft, Outlook, Eudora can
+be used
+to
+read this Tamil mail. Lastech is planning to launch another website
+www.email2india.com next week which will enable users to send emails in
+any of
+the 12 Indian Languages such as Assamesse, Bengali, Gujarati, Hindi,
+Kannada,
+Malayalam, Marathi, Oriya, Punjabi, Sanskrit, Tamil and Telugu.
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Talk to your friends online with Yahoo! Messenger.
+http://im.yahoo.com
+
+
+
+

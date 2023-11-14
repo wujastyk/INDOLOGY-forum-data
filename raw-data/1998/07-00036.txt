@@ -1,0 +1,22 @@
+From jacob.baltuch at EURONET.BE  Fri Jul  3 23:16:46 1998
+From: jacob.baltuch at EURONET.BE (Jacob Baltuch)
+Date: Sat, 04 Jul 98 00:16:46 +0100
+Subject: Sanskrit
+Message-ID: <161227040522.23782.366971230962835184.generated@prod2.harmonylists.io>
+
+Sandra van der Geer wrote:
+
+>The address then should be:
+>
+>http://www.ticonsole/books/science/index.htm
+
+That ain't gonna work either because the correct URL is
+
+    http://www.ticonsole.nl/books/science/index.htm
+
+(See if you can spot the difference. Hint: what country is
+that web server located in? :-)
+
+
+
+

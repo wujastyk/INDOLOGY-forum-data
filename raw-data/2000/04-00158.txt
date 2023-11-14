@@ -1,0 +1,38 @@
+From dlusthau at MAILER.FSU.EDU  Fri Apr 21 07:51:41 2000
+From: dlusthau at MAILER.FSU.EDU (Dan Lusthaus)
+Date: Fri, 21 Apr 00 03:51:41 -0400
+Subject: Internet site announcement & a font question
+Message-ID: <161227057882.23782.9353568353654893052.generated@prod2.harmonylists.io>
+
+  The site uses 'dynamic" fonts and displays fine on windows pcs on Netscape and Explorer. 
+  But is does not show the diacritics on macs, unless the pages are set to UTF-8 encoding in the browser and not the hmtl.
+  Does anybody know how to overcome this problem?
+  Dr Peter G. Friedlander
+
+
+  I'm not sure if I have the exact solution. When I clicked on your site (using IE on a Windows machine), before IE downloaded the page it asked whether I wanted to download and run something called Bitstream font player (or something like that). I clicked yes, and it downloaded in a few seconds and then the pages were displayed. I'm not sure what that "player" does, but if it is something essential then you would need to find a Macintosh counterpart.
+
+  If the problem that Mac browsers are having is simply whether to automatically set themselves to utf-8, then the solution is to use a meta-tag denoting utf-8 before the body of the text.
+
+  try this as one of your meta-tags:
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  You will need to include that tag on every page that uses diacriticals.
+
+  That should tell Netscape or IE that the page is in utf-8 code.
+
+  Good luck.
+
+  Dan Lusthaus
+  Yogacara Buddhism Research Association
+  P.O. Box 38471
+  Tallahassee, FL 32315-8471
+  http://www.human.toyogakuen-u.ac.jp/~acmuller/yogacara/index.html
+  yogacara_assoc at hotmail.com
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20000421/20e99070/attachment.htm>
+

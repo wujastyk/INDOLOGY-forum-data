@@ -1,0 +1,28 @@
+From wujastyk at GMAIL.COM  Thu Jul  8 10:18:54 2010
+From: wujastyk at GMAIL.COM (Dominik Wujastyk)
+Date: Thu, 08 Jul 10 12:18:54 +0200
+Subject: (Xe)(La)TeX, (L)Edmac, and Velthuis query
+In-Reply-To: <AANLkTimsjPgTi6T8CjbXP90eeNVUytPtgyDy-Rimge_A@mail.gmail.com>
+Message-ID: <161227089910.23782.7203662025199207227.generated@prod2.harmonylists.io>
+
+Many thanks to Somdev Vasudev, who has made his RomDev mapping file
+available not only as source, but now also as a compiled .tec file
+specifically for Mac users.
+
+See
+
+   - http://indology.info/etexts/archive/soft.shtml
+
+under "RomDev".
+
+
+Dr Dominik Wujastyk
+Institut f?r S?dasien-, Tibet- und Buddhismuskunde
+Universit?t Wien
+Spitalgasse 2-4, Hof 2, Eingang 2.1
+A-1090 Vienna
+Austria
+
+
+
+

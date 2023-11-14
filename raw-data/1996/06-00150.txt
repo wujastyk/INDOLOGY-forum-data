@@ -1,0 +1,18 @@
+From Gerard.Huet at inria.fr  Sat Jun 29 16:22:36 1996
+From: Gerard.Huet at inria.fr (Gerard Huet)
+Date: Sat, 29 Jun 96 18:22:36 +0200
+Subject: Sanskrit to French dictionary available
+Message-ID: <161227025205.23782.9215815311826442688.generated@prod2.harmonylists.io>
+
+I am releasing on Internet the first edition of my sanskrit-french dictionary.
+It consists of 2 postscript files of 1.5Mb each, accessed easily through my
+Web page http://pauillac.inria.fr/~huet/SKT/indo.html
+It is a small dictionary (~8000 entries) which aims at being a small
+indology glossary.
+All comments and corrections welcome, of course.
+Gerard Huet
+
+
+
+
+

@@ -1,0 +1,58 @@
+From Royce.Wiles at anu.edu.au  Mon Apr  7 07:22:09 1997
+From: Royce.Wiles at anu.edu.au (Royce Wiles)
+Date: Mon, 07 Apr 97 17:22:09 +1000
+Subject: Call for co-op: webpage on different standards of  transcription/transliteration
+Message-ID: <161227029433.23782.16556525876277793621.generated@prod2.harmonylists.io>
+
+
+For the webpage on various scripts, you might want to have a look at the 
+following title which gives a considerable number of romanization tables 
+etc.
+
+ TITLE        ALA-LC romanization tables : transliteration schemes for non-
+                Roman scripts / approved by the Library of Congress and the
+                American Library Association ; tables compiled and edited by
+                Randall K. Barry.
+ PUBLISHED    Washington : Cataloging Distribution Service, Library of
+                Congress, 1991.
+ DESCRIPT     vi, 216 p. : ill ; 28 cm.
+ SUBJECT      Transliteration.
+              Oriental languages -- Transliteration.
+              Semitic languages -- Transliteration.
+              Slavic languages -- Transliteration.
+              Cataloging of foreign language publications.
+ NOTE         "A new collection of transliteration schemes, the majority of
+                which were previously published in the Library of Congress
+                Cataloging service bulletin. The tables included in this
+                edition supersede all of the ALA-LC romanization tables issued
+                previously."--Introd.
+ BIBLIOG.     Includes bibliographical references and index.
+ ADD TITLE    Cataloging service bulletin.
+              LC romanization tables.
+ ISBN         0844407062 (pbk.)
+
+Royce Wiles
+
+On Sun, 6 Apr 1997 bpj at netg.se wrote:
+
+> (Apologies to those that get more than one copy of this message!)
+> 
+> Dear friends,
+> 
+> I'm preparing a webpage dealing with transcription of various scripts and
+> languages, as well as phonetic notation, in ASCII and HTML. Any suggestions
+> and/or pointers to existing standards/proposals/existing habits are most
+> welcome. ALL languages and scripts are of interest.
+> 
+> Thank you,
+> 
+> Philip Jonsson <bpj at netg.se>
+> 
+> 
+> 
+> 
+
+
+
+
+

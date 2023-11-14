@@ -1,0 +1,25 @@
+From ucgadkw at ucl.ac.uk  Wed Jul  3 09:17:36 1996
+From: ucgadkw at ucl.ac.uk (Dominik Wujastyk)
+Date: Wed, 03 Jul 96 10:17:36 +0100
+Subject: Harvard-Kyoto
+Message-ID: <161227025238.23782.504252650721200025.generated@prod2.harmonylists.io>
+
+Oops!
+
+> E.g., if <eng> and </eng> are
+> the tags marking the start and end of English, and <skt> is Sanskrit, we
+> get:  "<eng>This verb is</eng> <skt>i.t</eng>."
+
+This should, of course, read
+
+        "<eng>This verb is</eng> <skt>i.t</skt>."
+
+Apologies for any confusion.
+
+Dominik
+
+
+
+
+
+

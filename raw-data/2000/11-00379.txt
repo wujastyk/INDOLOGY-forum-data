@@ -1,0 +1,166 @@
+From bjartekal at AH.TELIA.NO  Wed Nov 15 02:08:27 2000
+From: bjartekal at AH.TELIA.NO (Bjarte Kaldhol)
+Date: Wed, 15 Nov 00 03:08:27 +0100
+Subject: Indo-Aryan words in Hurrian
+Message-ID: <161227064227.23782.1740499480835862672.generated@prod2.harmonylists.io>
+
+Dear listmembers,
+
+Thanks to this information, kindly provided by Venkatraman Iyer, I can now
+see that this issue was hotly debated by several listmembers about two
+years ago. Sorry I missed it. One detail struck me: Michael Witzel keeps
+referring to a name Priyamazdha which I cannot find anywhere. Michael, are
+you referring to Biriamaza/Biruaza/Birwaza, mayor of Damascus, in EA? This
+name cannot be read as Priyamazdha, I believe.
+
+Also, I have noted some interesting words in the Kikkuli text. Among them
+is tera- for *tri-, cited everywhere as tri- !!!. Kikkuli, if he was a
+Hurrian, would have said what we read: tera-. We don't know where he had
+learned this word and how it was pronounced in the original IA dialect, but
+it would have ended in -a, not in -i, since -i is the normal ending of
+numbers, as well as most nouns, in Hurrian, and there would be no reason to
+Hurrianize it to -a. It is very likely that all Hurrian words started with
+single consonants, so Kikkuli would not have been able to say tr-. The form
+tera-, therefore, is not due to the clumsiness of the cuneiform writing.
+
+Another word "corrected" by Kammenhuber is -ortan, a form of wartanna
+occurring after tera-. Kammenhuber reads *tri-u(a)rtan<na> instead of what
+is actually written: ti-e-ra-u-ur-tan, see Hippologia H. p. 90, line 37.
+The inserted -u- would normally mean that this word should be read
+teraordan, probably with a long -o-. Unless there is a printing error here,
+with -u- instead of -u2- (which would have given *terawurtan) I am pretty
+sure that Kikkuli said teraordan, with a long -o- and a voiced dental after
+r. The expected -na inserted by Kammenhuber may have disappeared, since
+short vowels at the end of Hurrian words tended to disappear, but the next
+word is a-a-u2-za-mi-e-wa, so the ending of the previous word may simply
+have been elided before the double a. This word, auzamewa (also auzumewa)
+looks like the dative of an infinitive *auzumme, but Kammenhuber takes it
+as a nominative/absolutive, which is hard to swallow if the word is
+Hurrian. The intervocalic, single -z- is taken by Frederic Bush to
+represent a voiced affricate -dz-. Possibly, however, it might represent
+English -j-. When doubled, this letter would represent the corresponding
+unvoiced consonant, -ts- or perhaps -ch- as in "church". There are
+different opinions about this, but see Frederic Bush, A GRAMMAR OF HURRIAN,
+p. 59.
+
+The much debated *$itta does not exist. It is inferred from a word
+$ittanna, whose meaning is not at all clear.
+
+Best wishes,
+Bjarte Kaldhol
+
+----------
+> From: Venkatraman Iyer <venkatraman_iyer at HOTMAIL.COM>
+> To: INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject: Re: Indo-Aryan words in Hurrian
+> Date: 15. november 2000 00:28
+>
+> Dear Dr. Kaldhol,
+>
+> Just clicking the following web pointers from Indology archives
+> may be useful to you in the search of Aryan words in Hurrian.
+> Carruba (email: ocarruba at unipv.it.) paper will throw more
+> light. Summary from a lister of Carruba?
+>
+> This is where Carruba presented first:
+> http://titus.uni-frankfurt.de/curric/erl-97b.html
+>
+> Are these published in these proceedings of the volume?
+> 10.00 - 10.25 Alexander Lubotsky (Leiden): The Vedic root v `to
+> cover' and its present
+> 9.00 -  9.50 Sektion B: Peter Raulwing / Robert Oberheid (Bonn):
+> Der Kikkuli-Text und die Rolle der Indoarier im altorientalischen
+> Fuhrwesen - Einige Bemerkungen zu neueren hippologischen und
+> philologischen Interpretationen
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9805&L=indology&P=R26970
+> " on that word wasanna (Iranian *wazana "road") that the
+> Aryan layer in Mitanni is closer to Iranian than Indo-Aryan.  A
+> somewhat provocative conclusion, to be sure, but I'd say the
+> linguistical basis for considering it specifically Indo-Aryan (aika-)
+> is equally shaky."
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9805&L=indology&P=R25281
+> >Michael, ... Am I to interpret that as that you agree with me that the
+IE
+> >element in Mitanni Hurrian is *Indo-Iranian* not necessarily Indo-Aryan
+> >(after all, Proto-Indo-Iranian "1" may have been *aika, right?)?
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9805&L=indology&P=R27033
+> M. Witzel:
+> > > At any rate, the form of the IIr language in Mitanni is pre-Vedic : >
+> >IIr sounds are preserved, *zdh, in Priyamazda ::  Ved. priyamedha > ::
+> >Avest. -mazda...
+> Thus, in sum: "Mitanni-Aryan" has the pre-Vedic stage Also
+> characterized by aika (not aiva, aivaka!). -az- is not found in Ved.
+> any more. And that development has been used to build a whole new
+> class of perfects. A wide gap separates the Mitanni and RV forms of
+> IA. (implications for dating??)
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R12561
+> But before we accept it, we have to explain away somehow
+> the fact that the "Mitanni Indo-Aryan" cannot be reduced just to
+> several numerals in Kikkuli's manual and several divine names in a
+> treaty, and there is also a number of personal names of Mittanian
+> rulers and nobles which betray their Indo-Aryan origin. Of special
+> significance are such names as bArdazwa, son of BiridAzwa, and Saumati
+> - probably "son of Sumati" - the names demonstrating the specifically
+> Indo-Aryan way of forming patronimics to personal names by lengthening
+> a vowel of the first sillable of a composit name (cf. Indian
+> *vArddgAzva from *vRddhAzva, or *saumati from sumati). One has also to
+> explain the presense at that time in Mitanni and some neighbouring
+> countries of people with such names as bIrasEna, indrota, artazzumara
+> and so on.
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9805&L=indology&P=R23371
+> Quote from Harmatta leads Prof. Sn. Subrahmanya to claim:
+> >Because of this evidence, I think that the dating of the Rgveda
+> >to 1500-1200 is a gross underestimation.
+>
+> Prof. Drews on a late PIE breakup:
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R10374
+>
+> Piotr's "why marianna isn't aristocracy"
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R12604
+>
+> Prof. Vassilkov's personal note about Mitanni Aryans:
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R13083
+>
+> I.M. Diakonoff, JAOS, 1995 (as given by Prof. S. Palaniappan)
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R13304
+> In "Two Recent Studies of Indo-Iranian Origins", JAOS, 115.3, (1995),
+> p.474-475, Igor M. Diakonoff says,
+> "Actually, there was no "Aryan" population or dynasty at Nuzi and
+> Arraphe: all "Indo-Aryan" names which are registered in Nuzi Personal
+> Names (whence they have been quoted by all subsequent scholars)
+> belong  to one Mitannian detachment which fled to Arraphe (during
+> a civil war in Mitanni) together with the pretender Sattiwasa, and
+> which disappeared  together with him. Sattiwasa, alone in a single
+> chariot, finally met the Hittite king and concluded a treaty with
+> him (on the latter's consditions). This treaty is preserved  and is
+> witnessed by a multitude of both Hittite and Hurrian gods; the four
+> "Indo- Aryan" deities are mentioned near the very end of the huge
+> list.
+>
+> Prof. Vassilkov's reply to Sn. Subrahmanya:
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9805&L=indology&P=R23874
+>
+> http://listserv.liv.ac.uk/cgi-shl/WA.EXE?A2=ind9810&L=indology&P=R12798
+> Dr. S. Kalyanaraman concludes the Aristocracy was Aryan, as opposed to
+> the ordinary Hurrians.
+> " the vedic gods might have been added in to connote the
+> gods'list of the nobility, while the Hurrian gods were those
+> of the 'Hurri people'. "
+>
+> Regards,
+> V. Iyer
+>
+> _________________________________________________________________________
+> Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+>
+> Share information about yourself, create your own public profile at
+> http://profiles.msn.com.
+
+
+
+

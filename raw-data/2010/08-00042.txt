@@ -1,0 +1,26 @@
+From mjslouber at BERKELEY.EDU  Tue Aug 24 07:19:49 2010
+From: mjslouber at BERKELEY.EDU (Michael Slouber)
+Date: Tue, 24 Aug 10 09:19:49 +0200
+Subject: searchable indices?
+In-Reply-To: <AANLkTikNQXdruBE2aofc=733Tx76K2L5ggyEQodBGiEF@mail.gmail.com>
+Message-ID: <161227090200.23782.6970273784077017088.generated@prod2.harmonylists.io>
+
+Is is possible to batch download some or all of the GRETIL etexts?  
+
+
+On Aug 23, 2010, at 10:48 PM, Dominik Wujastyk wrote:
+
+> You can download
+> GRETIL<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm>and
+> search it locally on your hard disk.
+> 
+> SARIT <http://sarit.indology.info> is a searchable collection of online Skt
+> texts that includes the Brahmapurana.
+> 
+> Best,
+> 
+> Dominik Wujastyk
+
+
+
+

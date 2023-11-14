@@ -1,0 +1,48 @@
+From ucgadkw at UCL.AC.UK  Fri Apr 21 15:53:53 2006
+From: ucgadkw at UCL.AC.UK (Dominik Wujastyk)
+Date: Fri, 21 Apr 06 16:53:53 +0100
+Subject: Thomas B. Ridgeway
+Message-ID: <161227077790.23782.12676395532379330302.generated@prod2.harmonylists.io>
+
+I recently found out that Tom Ridgeway passed away last year, at the young 
+age of 55.
+
+Tom started out as a Gujarati scholar, but stepped sideways into a career 
+in Computing for the Humanities.  More recent indologists may not remember 
+"BlackBox", the computer that Tom ran at the Univ. of Washington in 
+Seattle when he was director of the Centre for Computing and Humanities 
+there in the late 80s and early 90s.  BlackBox was a kind of 
+treasure-trove where one could download all sorts of advanced utilities 
+and fonts for Indic work that Tom created, as well as many e-texts of 
+Sanskrit works.  He made transliteration fonts for Sanskrit, Tamil and 
+other languages, as well as utilities and fonts for IPA, American-Indian 
+languages, etc.  It was Tom in 1994 who first converted Professor 
+Tokunaga's monumental Ramayana e-text into CSX encoding so that 
+indologists at large could use it.
+
+Subsequently, in late 1994, management the University decided not to run a 
+Computing and Humanities centre. They made Tom redundant at very short 
+notice, and summarily took BlackBox offline.  (Cf. postings to the 
+INDOLOGY list at that time, e.g., http://tinyurl.com/qwhxn) Quite a lot of 
+Tom's contributions were already out in general circulation, where they 
+still exist and are widely used (try searching for his name in Google to 
+get a flavour).
+
+Tom and I corresponded many times; his knowledge of humanities software 
+was encyclopedic, and his responses were always long, very informative, 
+and cheerful.
+
+His passing is very sad, and he will be missed.
+
+Dominik
+
+--
+Dr Dominik Wujastyk
+Wellcome Trust Senior Research Fellow
+The Wellcome Centre for the History of Medicine at UCL
+
+http://www.ucl.ac.uk/histmed
+
+
+
+

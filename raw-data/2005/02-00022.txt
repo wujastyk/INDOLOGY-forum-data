@@ -1,0 +1,31 @@
+From plamen at ORIENTALIA.ORG  Thu Feb  3 08:03:06 2005
+From: plamen at ORIENTALIA.ORG (Plamen Gradinarov)
+Date: Thu, 03 Feb 05 10:03:06 +0200
+Subject: diacritics
+Message-ID: <161227075842.23782.312264475104556279.generated@prod2.harmonylists.io>
+
+There are many free fonts out there working with MS Word and pretending to
+be Unicode compliant, but except for the Code2000, I still didn't see any
+full-fledged Unicode font that will adequately cover both Deva and
+diacritics on the Web. When I try to read the Sanskrit Wikipedia with Arial
+Unicode MS loaded, what I see is totally misplaced ligatures and disjoined
+duplets and triplets.
+
+On the other hand, Mr. Ulrich Stiehl of www.sanskritweb.net has kindly
+debugged Code2000 and is of the opinion that this is the most defective
+Unicode font ever produced and should not be recommended to anyone.
+
+So I am still in total puzzlement does any font properly process Deva and
+diacritics for the Web (without destroyng one's Widows registry, as I was
+told by such a distinguished font expert like Mr. Stiehl).
+
+Regards,
+
+Plamen
+
+> Thanks to all who gave suggestions.  I successfully downloaded and
+installed a true type font that works.  Namaskaram.
+
+
+
+

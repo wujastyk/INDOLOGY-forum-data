@@ -1,0 +1,24 @@
+From D.Wujastyk at ucl.ac.uk  Sat Jun 19 20:01:16 1993
+From: D.Wujastyk at ucl.ac.uk (Dominik Wujastyk)
+Date: Sat, 19 Jun 93 20:01:16 +0000
+Subject: Chiwriter to TeX
+Message-ID: <161227015889.23782.6428142361655056414.generated@prod2.harmonylists.io>
+
+Ken,
+
+I noticed that the Chiwriter to TeX program is freely available on the net.
+Try the site ftp.tex.ac.uk, in directory pub/tex-archive/support, I think.
+The site ftp.tex.ac.uk supports Gopher, and that gives you easy access and
+searching.  I had a brief look at one of the docs for the program, and it
+looked as though it was highly configurable, and could deal with fonts
+intelligently.  You may be in luck.
+
+Dominik
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+ 
+
+
+
+
+

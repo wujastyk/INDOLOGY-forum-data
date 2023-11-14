@@ -1,0 +1,92 @@
+From rsalomon at uw.edu  Tue Oct  6 21:32:51 2020
+From: rsalomon at uw.edu (Richard G. Salomon)
+Date: Tue, 06 Oct 20 14:32:51 -0700
+Subject: =?utf-8?Q?Re:_[INDOLOGY]_Symbols_in_=C5=9Aatapatha_Br=C4=81hma=E1=B9=87a_text?=
+In-Reply-To: <CALoZ1nULxemKfYf8b3ZVeZf36Uxzm-Ro9FWK4MzN=q9veuASiA@mail.gmail.com>
+Message-ID: <CA+bmU3ax4ZESf5sW3mKx=Hf02zLxvS+GoeEDAD9mYVubXr2dYA@mail.gmail.com>
+
+I have occasionally wondered whether the rendering in Vedic recitation of
+anusv?ra with an additional syllable *gu? *is a mnemonic device to
+discourage a weak pronunciation or elision entirely of the anusv?ra. In
+fact I even wonder whether the standard modern rendering of anusv?ra with
+an echo vowel serves the same purpose. Neither of these renditions of
+anusv?ra seem to be phonetically motivated; the normal development of final
+sibilants would I think be > spirantization > elision (as in Prakrit,
+etc.).
+
+I would be interested in hearing the experts' opinion on this.
+
+Rich Salomon
+
+On Tue, Oct 6, 2020 at 12:15 AM Walter Slaje via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Harry Spier,
+>
+> according to my limited knowledge, V?jasaneyins pronounce(d) Anun?sika
+> before semi-vowels, sibilants and h as "*?g*", represented in writing by
+> a special sign (as in your edition): ?ata*?* ???uy?ma ? "?ata*?g*
+> ???uy?ma".
+> Quite similar to how Germans - in the majority of cases - pronounce French
+> nasalizations, e.g. "Karto*ng*" for "carto*n*"
+>
+> However, the pronunciation when reciting Sa?hit? texts replaces the
+> articulation of Anusv?ra with a spoken "gu?". So "t? *gu? *hait?m ..."
+> for t?*?* hait?m ..."
+>
+> Your symbol represents an Anusv?ra sign in a particular phonetic
+> environment.
+>
+> Vedicists will know better.
+>
+> Best,
+> WS
+>
+>
+> Am Di., 6. Okt. 2020 um 04:02 Uhr schrieb Harry Spier via INDOLOGY <
+> indology at list.indology.info>:
+>
+>> I pasted an image of a page in the text with the symbols but I've been
+>> informed off-list that it didn't showup so I'm attaching it.
+>> Thanks,
+>> Harry Spier
+>>
+>>
+>> On Mon, Oct 5, 2020 at 5:39 PM Harry Spier <vasishtha.spier at gmail.com>
+>> wrote:
+>>
+>>> First thank you to Lauren Bausch, Steven Lindquest for the information
+>>> about the editions and Caley Smith who pointed me to Weber's edition on
+>>> archive.org.
+>>>
+>>> I've just looked at the Weber's printed text .  In the first line  of
+>>> the image from the text I've pasted below there are two symbols I don't
+>>> understand and have highlighted in red.  I've never seen the first.  The
+>>> second looks like avagraha but I'm not clear why it is where it is between
+>>> long a and a.
+>>>
+>>> [image: image.png]
+>>> Harry Spier
+>>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201006/d8b60f1b/attachment.htm>
+

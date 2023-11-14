@@ -1,0 +1,223 @@
+From ghart at SOCRATES.BERKELEY.EDU  Sun Dec 30 21:40:18 2001
+From: ghart at SOCRATES.BERKELEY.EDU (George Hart)
+Date: Sun, 30 Dec 01 13:40:18 -0800
+Subject: Kavya in South India
+In-Reply-To: <50EA3A4B8EE8D511AD5400508B78651523EE8B@letsxc002.let.leidenuniv.nl>
+Message-ID: <161227070093.23782.6339332352540635209.generated@prod2.harmonylists.io>
+
+Prof. Tieken's book is based on several premises that I simply cannot
+understand.  With regard to some of his points, no one could quibble.  For
+example, Indian scholars such as Swaminathaier have long accepted that poems
+in the Purananuru were not always by the people who seem to speak the poem
+(as the poems by Pari's daughters, or the poem where Auvaiyar pretends to be
+a dancing woman).  What does this have to do with Tieken's claim that the
+poems were a later forgery?  Nor can I understand how the repetition of
+words has anything to do with this.  Tieken claims that contiguous poems
+have more repetition than non-contiguous poems, a claim that is demonstrably
+false.  But even if it were true, how would it prove that the poems were
+forgeries?  Certainly an anthologist would tend to group similar poems
+together -- and that is exactly what has been done in the Purananuru and, to
+an extent, I believe, in the Kuruntokai.  The repetition of niikku/niinku at
+the end of the Purananuru, for example, is because each of the poems in
+which it occurs has the same subject matter (a dalit drummer comes to the
+king's palace in the morning, stands outside, and sings of the king in order
+to receive a gift from him).  Niikku, which means to "take off," to "make go
+away", is used in all the poems in the same phrase: then he (the king) took
+off my (low-caste drummer's) (dirty) garment.  With regards to the
+repetition of grammatical elements, I have shown (and will post on my
+website when I get a chance) that there is an identical repetition in
+non-contiguous poems.  With regards to style, it is quite clear that the
+poems are imitations by literate people of oral poems.  This is not a
+"half-hearted compromise" -- it is the substance of a considerable part of
+human literature.  The poems of the Sangam texts arise from a South Indian
+folk tradition that also produced the Sattasai and that was taken up (in
+parts) by Sanskrit.  Of course there are similarities.  What is so strange
+about that?  I remain utterly mystified by Professor Tieken's claims that
+Sangam literature is Kavya -- the two are utterly and completely different.
+
+I should be very interested to see how Prof. Tieken accounts for the myriad
+morphological and other forms in Sangam literature that do not appear later,
+and for the later forms that do not occur in Sangam literature. I would only
+ask him to consider that in order to demonstrate his thesis, he will have to
+become familiar enough with Dravidian comparative linguistics to reconstruct
+the proto-Dravidian (and proto-South-Dravidian) verb system, along with its
+other other morphological and syntactic features. The two most eminent
+living scholars of Dravidian linguistics -- Murray Emeneau and B. H.
+Krishnamurthy -- have not ventured to do this, though I once did hear a
+paper on the proto-Dravidian verb by the latter, which he labeled as
+extremely tentative and dubious.  Frankly, I do not believe Professor Tieken
+has the background or ability to carry out this task, which will require the
+labor of many scholars, many volumes and many decades of intensive work.
+
+What concerns me most is that Prof. Tieken's thesis will be accepted by
+Sanskritists, who have no easy way of judging its validity.  If you are a
+Sanskritist, please look at the following poem and consider whether it has
+anything in common with Sanskrit kavya.  In doing so, note that it does not
+have any Sanskrit words, uses a native Tamil meter, and that, unlike any
+kavya, it is a report of personal experience.  Note also that (unlike in
+later times) the names are pure Dravidian and that the categorization
+(tiNai, tuRai) given the poems is entirely foreign to Sanskrit.  (You might
+also question whether a literature of thousands of poems of such quality and
+variety could be easily forged by one person).  Later Tamil, beginning with
+Tiruttakkattevar in about the 8th century and continuing with Kampan in the
+12th, is obviously influenced by Sanskrit kavya -- but surely this is not
+true of Sangam literature.
+
+Purananuru 245
+
+Though it is so immense, does my grief none the less have
+its limits, since it is not fierce enough to finish with my life?
+On the salty earth all overgrown with sedge, on the burning ground,
+my wife has gone her way to the other world, her bed
+the shining fire of the pyre whose wood yields its glow
+of blazing fuel! And I am
+still alive! What kind of a place is this world?
+
+The song of Ceeramaan KooTTampalatttut Tunciya Maakkootai when his [wife]
+PerunkooppeNTu had died. TiNai: potuviyal.  TuRai: kaiyaRunilai.
+
+George Hart
+
+On 12/18/01 8:02 AM, "Tieken, H.J.H." <H.J.H.Tieken at LET.LEIDENUNIV.NL>
+wrote:
+
+> Up to now, Hart's remarks concerning my book Kavya in South India. Old Tamil
+> Cankam Poetry (Gonda Indological Studies X), Groningen 2001 have been
+> general. Actually, they had been written before he had seen, let alone read
+> my book. However, a few days ago Hart was more specific, addressing in some
+> detail my paragraph on the arrangement of the poems in the anthologies.
+> Before reacting on Hart's comments I would first like to provide some brief
+> context to the discussion.
+>
+>  In the first part of my book I have argued that the villagers who are
+> made to speak in the so-called love poems (Akam) are not, as has been
+> assumed by Hart and others, the authors of the poems but characters in the
+> poems. The authors of the poems do not belong to the village but have to be
+> sought in a cosmopolitan milieu found in the city. I have done the same for
+> the historical poems (Puram). The poor, starving bards who in the poems are
+> wandering from one patron to the other, trying to make a living by their
+> poetry, are not the authors of the poems but, again, personae in the poems.
+>
+>  In both the love poems and the historical poems we are dealing with
+> stock-characters represented in fictional situations. As far as the
+> historical poems are concerned, they had not been composed by the bards
+> featuring in them but by later authors who were trying to bring back to life
+> an earlier bardic poetry.
+>
+>  In the introduction I have noted that I had been somewhat embarrassed at
+> having to prove the fictional nature of scenes of Cankam poetry, but the
+> idea that in, for instance, Puram we are dealing with actual,
+> "tape-recorded" conversations by historical persons is fairly wide-spread in
+> Tamil studies. Another idea current in Tamil studies is that the Cankam
+> poems are extempore, on the spot compositions. The poems do indeed contain
+> some characteristics which are otherwise typical of such poetry. However,
+> anyone familiar with Cankam poetry will agree that the poems cannot have
+> been composed on the spot. In this connection I have mentioned the length of
+> the sentences and the resultant complex style of the poems, which is a far
+> cry from the simple adding style of epic poetry. These facts had already
+> been noted by Hart in his 1975 book, but, as I have tried to show, his
+> conclusions are a half-hearted compromise between regarding the poems as
+> oral or written compositions.
+>
+>  As far as I know, nobody has tried to make clear by whom, in what way,
+> and to what purpose the poems have been memorized and passed on to be put in
+> anthologies only centuries later. And this brings me to the compilation of
+> the anthologies.
+>
+>  In the majority of the anthologies the poems seem to have been put
+> together more or less at random. Content does not seem to play any role at
+> all. However, instead we find that each poem echoes certain words from the
+> preceding poems. As an example I have quoted Kuruntokai 344 (the
+> presentation below may not be as clear as the one on p. 96 of my book as it
+> may well be the case that the tab positions are lost in the transmission):
+>
+> 336                                             pirinticinole
+> 337                                                     mulai   nirai
+> 338 annal eru           punkanmalai
+> 339
+> 340     katalar                                 peyar
+> 341                                     katalar
+> 342             tan     punkan
+> 343 annal eru
+> 344 annal eru   tan     punkanmalai     katalar peyarum mulai   nirai
+>                                               pirintu
+>
+> The echoes are not restricted to lexemes. Occasionally, they involve
+> suffixes, as in aku-mati (Kur. 18) and inai-mati (19) and in un-iiyar (27),
+> tal-ii (29), mar-iiya (30) and kul-iiya and tal-iiya (31); particles, as in
+> kuruk-um (25) and katuvan-um (26); and similar phrases, as in varutalum
+> varuuam (88) and nuvaralum nuvalpa (89). Also some rare instances involving
+> synonyms have been noted, as in aruntu (26) and un (27).
+>
+>  According to the current interpretation, the Tamil anthologies contain
+> merely a selection from a boundless reservoir of floating, orally
+> transmitted poems. However, the type of concatenation met with in, for
+> instance, the Kuruntokai introduces a complication. For, while it may be
+> relatively easy in the case of 344 to find in the vast corpus of existing
+> poems another one containing the words annal and eru, to find one which in
+> addition also contained the word punkan(malai) must have been much more
+> difficult. In addition to that, the poem should not have been shorter than 4
+> lines or longer than 8.
+>
+>  My conclusion was, and is, that the idea that the compiler selected the
+> poems from a reservoir of existing poems has to be abandoned. Instead, I
+> suggested that the poems were composed for the first time at the moment of
+> their inclusion in the anthology, if only because it might after all have
+> been easier, starting from words in the preceding poems, to compose a new
+> poem that to search one's memory for one.
+>
+>  This conclusion has been extended to include all eight Cankam
+> anthologies. I take this opportunity to point to the Kalittokai and in
+> particular to the inclusion of the kuravai poems in this collection. As I
+> have suggested, the Kalittokai poems are Tamil counterparts of the lasyas
+> and catuspadis of the Sanskrit Kavya tradition. The kuravai poems are
+> hallisaka scenes transplanted to Tamilnadu. How did these hallisakas, which
+> belong to the category of festival songs, find a place in a collection of
+> lasyas and catuspadis? As I have tried to show on p. 185 ff., this can be
+> explained with reference to a misunderstanding in the poetical tradition of
+> Sanskrit, which misunderstanding is attested for the first time only in the
+> ninth century, namely in Abhinavagupta's commmentary on the Natyasastra.
+> This same misunderstanding is also found in Bhoja's Srngaraprakasa (tenth or
+> eleventh century).
+>
+>  Hart now argues that the chance of identical words occurring in the poems
+> is so great that it is actually impossible to find a poem which does not
+> have one or more words in common with any other poems. In this connection I
+> would like to note the following. If we turn to the scheme given above, the
+> word annal occurs only 6 times in the 400 poems of Kuruntokai, the word eru
+> altogether 9 times, punkan 7 times, and peyar (noun and verb) 25 times. And,
+> as I have noted in footnote 15 on p. 98, also in the Purananuru "common"
+> words appear typically in clusters of poems. Take the verb nikku/ninku:
+> 150-153-154, 247-249-250, 392-393-397-398-400 or the verb pay:
+> 23-24-25-30-31, etc.
+>
+>  Whatever the value of the statistics put forward by Hart, the prediction
+> which he abstracted from it does not appear to come true.
+>
+> All the points adduced by Hart in his earlier comment (the one written
+> before he had read my book) are of course directly or indirectly addressed
+> in my book. A point I have treated only briefly is the language of the
+> poems. According to Hart and others the Cankam texts abound in archaic
+> forms. I am, however, dealing with the language of Cankam poetry in an
+> article, which is soon to be offered for publication. What I would like to
+> mention here is that, while the Cankam texts are indeed full of curious
+> forms, what is unique is not necessarily old. Often the need to prove this
+> was not even felt by scholars as the occurrence of the forms in question in
+> Cankam poetry was believed to take care of that. To claim, as Hart does,
+> that the forms are "demonstrably much more archaic" (than the ninth or tenth
+> century) is premature.
+>
+> Finally, I hope that this reaction of mine will not provoke a similar kind
+> of discussion as we have recently witnessed in connection with Axel
+> Michaels' book on the subject of the pandit. As far as I am concerned, this
+> is my last reaction before the publication of the complete version of Hart's
+> review of my book in JAOS.
+>
+> Herman Tieken
+> Instituut Kern
+> Universiteit te Leiden
+>
+
+
+
+

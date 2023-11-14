@@ -1,0 +1,55 @@
+From palaniappa at aol.com  Mon Mar  6 18:58:12 2017
+From: palaniappa at aol.com (Sudalaimuthu Palaniappan)
+Date: Mon, 06 Mar 17 12:58:12 -0600
+Subject: =?utf-8?Q?[INDOLOGY]_Malaipa=E1=B9=ADuka=E1=B9=AD=C4=81m102?=
+Message-ID: <DA54967D-5A8C-4141-9CB5-3AAC1A936BF5@aol.com>
+
+Dear Indologists,
+
+Current editions of Malaipa?uka??m, a Classical Tamil text, have lines 102-103 as follows:
+n?lat ta??a vitaippu?a maru?ki?
+maku?i p?y?tu malitu?i ta??li?
+
+These lines have been taken as consisting of the following words:
+n?lattu a??a vitaippu?am maru?kil
+maku?i p?y?tu malitu?i ta??li?
+
+Line 102 is interpreted as (n?lama?iyaiyotta ni?attaiyu?aiyavaye?umpa?i ava??ai vitaitta kollaiyi? pakkattil) ?by the side of cultivated field in which have been sown the seeds, which grow with leaves like sapphire? by Nacci??rkki?iyar.
+
+The compound ?vitaippu?am? (vitai + p + pu?am) in line 102 does not make sense.  First of all, if vitaippu?am were to be considered an adjectival participle (vitaitta kollaiyi?) as the commentator has considered, the gemination of ?p? does not make sense. Also, it is highly unlikely that a cultivated field is qualified in a convoluted way as a field sown with seeds which grow to be with leaves like sapphire.
+
+The correct rendition of line 102 would have been n?lattu a??a itaippu?am maru?kil.  (v in ?vitaippu?am' is simply a glide.) According to Tamil Lexicon, itaippu?am means ?plot of ground newly cultivated for dry crops such as millet?. itaippu?a occurs in Akan????u 394.3. 
+
+Interestingly, when glossing the word vitaippu?am, Tamil Lexicon says the following.
+
+??????????? vitai-p-pu?am, n. < ????? ?????. Plot of land newly cultivated. See ??????????. (????. ??.)
+
+Although, the lexicon does not cite Malaipa?uka??m 102, the editors probably had this vitaippu?am in mind. Later commentators like Peruma?aippulavar have simply followed Nacci??rkki?iyar without considering Tamil Lexicon?s insight. Does anybody know if this issue has been discussed by any other scholar?
+
+(The misunderstanding of the role of the glide v has led to Nacci??rkki?iyar (14th century CE) misinterpreting i- as vi- in Malaipa?uka??m102. In an earlier post, I had suggested that a similar misinterpretation has led to the word i?a?kar being mistaken for vi?a?kar and used in a 16th century text. (http://list.indology.info/pipermail/indology_list.indology.info/2015-January/040561.html <http://list.indology.info/pipermail/indology_list.indology.info/2015-January/040561.html>) The case of vitaippu?am in Malaipa?uka??m 102 suggests that vi?a?kar was not an isolated case.)
+
+Thank you in advance.
+
+Regards,
+Palaniappan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170306/27248473/attachment.htm>
+

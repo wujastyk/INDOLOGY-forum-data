@@ -1,0 +1,177 @@
+From 0005614754 at mcimail.com  Sun Sep 18 21:22:00 1994
+From: 0005614754 at mcimail.com (Mantra Corporation)
+Date: Sun, 18 Sep 94 16:22:00 -0500
+Subject: Fonts/extended char sets
+Message-ID: <161227017302.23782.138528203859145455.generated@prod2.harmonylists.io>
+
+Namaste!  I received the following information from a friend in June
+about Devanagari and related fonts and hope that it is useful.
+*-=Om Shanti=-*  Jai Maharaj     0005614754 at mcimail.com
+ 
+#L Language
+#M Author/Maintainer
+#C Contact for getting the font or any questions on the font
+#I Information on the location (if public domain or free) 
+#O Platform/Operating System Requirements
+ 
+#L Hindi/Gujarati/Sanskrit/Latin 
+#M Vaishnav Books Ltd
+#C Digitron Computers, Toronto, Canada (905) 454-3620
+#C Digitron, 3 Smithers Cr, Brampton, Ontario Canada L6Y 3L3 
+#P $199
+#O Windows 
+#A goyal at bnr.ca (Ashok Goyal)
+ 
+#L Tamil
+#M Dr. Govindaraj 
+#P $0
+#I mac.archive.umich.edu: 
+#I /mac/system.extensions/font/type1/palladam2.1.sit.hqx
+#I wuarchive.wustl.edu: 
+#I /systems/mac/umich.edu/system.extensions/font/type1/palladam2.1.sit.hqx
+#O Macintosh
+ 
+#L Hindi/Tamil
+#M Prof. Hart @ Berkeley 
+#C rbhumbla at ucsd.edu
+#P $0
+#I mac.archive.umich.edu: 
+#I /mac/system.extensions/font/type3/indianfonts.sit.hqx
+#I wuarchive.wustl.edu: 
+#I /systems/mac/umich.edu/system.extensions/font/type3/indianfonts.sit.hqx
+#O Macintosh
+ 
+#L All Bharatiye languages
+#M Ethno Multimedia
+#C Ethno Multimedia, Toronto Canada
+#O Macintosh, Windows
+#A Meenan Vishnu <mvishnu at bbcr.uwaterloo.ca>
+ 
+#L Malayalam
+#M Jeroen Hellingman 
+#C Jeroen Hellingman <jhelling at cs.ruu.nl>
+#P $0
+#O TeX/Metafont
+ 
+#L Urdu
+#M Prof. Klaus Lagally
+#C lagally at informatik.uni-stuttgart.de
+#P $0
+#I ftp.informatik.uni-stuttgart.de: /pub/TeX/arabtex/arabtex.%*,faq%
+#I sunsite.unc.edu /pub/packages/TeX/language/arabtex/
+#O TeX
+## Uses arabic-style naskh fonts, persian-style nastaliq fonts under dev.
+ 
+#L Tamil
+#M Dr. K. Srinivasan
+#P $40 (shareware), $0 for non-profit use
+#I oak.oakland.edu     /pub/msdos/editor/adami91.zip
+#I wuarchive.wustl.edu /mirrors/msdos/editor/adami91.zip
+#I nic.switch.ch       /mirrors/msdos/editor/adami91.zi
+
+#O DOS/Windows
+## Standalone word processor
+ 
+#L Hindi, Tamil, Bengali, Sanskrit, Marathi, Telugu
+#M Avinash Chopde
+#C avinash at acm.org
+#P $0
+#I cs.duke.edu      /dist/sources/itrans32.* 
+#I oak.oakland.edu  /pub/msdos/tex/itrans32.*
+#O TeX on Unix/DOS
+## .zip for DOS, .tar.Z for Unix
+ 
+#L Standards, Codes
+#P GBP 20 + GB 2 P&P (GBP 5 overseas)
+#C Sesame Computer Projects (John Clews) 8, Avenue Road
+#C Harrogate, North Yorkshire HG2 7PG England Phone: +44-423-888432
+#A Jeroen H.
+ 
+#L Devanagari, Sanskrit, Tamil, Punjabi, Tibetan,
+#C Linguist's Software Box 580 Edmonds, WA 98020 Phone: 206/775-1130 
+#A Jeroen H.
+ 
+#C "PicaType Ltd." in Pune + Abacus Computers Ltd. of Bombay
+#C Institute of Typographical Research (ITR), Pune
+#O Adobe font metrics/Postscript
+#A Jeroen H.
+ 
+#L Hindi, Marathi, Tamil, Assamese, Kashmiri, Bengali, Telugu, Urdu,
+#L Sanskrit, Punjabi, Kannada, Gujarati, Sindhi, Oriya, Malayalam, 
+#L and Nepali.
+#M GIST Technology - by Center for Developement of Advanced Computing,
+#M Pune
+#C Mohan Tambe, CDAC, Pune University Campus, Ganeshkhind Pune 411 007 
+#C INDIA
+#C tambe at parcom.ernet.in Phone (212)332461, 332483, 332479 Fax (212)337551
+#O SCO-XENIX/Any IBM PC compatible running a Unix variant
+#P $500
+#A Jeroen H.
+## Hardware card + software included.
+ 
+#L Gujarati, Malayalam(?), Bengali, Tamil
+#P substantial
+#O Mac, MS-DOS, etc.
+#C Linotype-Hell (main office) Bath Road Cheltenham Gloucestershire
+#C GL53 7LR Tel: 0242 222 333
+#A Jeroen H.
+ 
+#P $5.00 for catalog (adjusted with purchase)
+#C Ecological Linguistics
+#C P.O. Box 15156 Washington, DC 20003 Phone : 202 546-5826 
+#A kumar at duck.ncsc.org (Ashwini Kumar [Gupta])
+ 
+#L Hindi, Telugu, Tamil, Malayalam, etc.
+#C H&M Enterprises 8304 N.W. 113 Terrace
+#C Oklahoma City, OK 73162 Phone:  405 728-0634 (voice & fax)
+#O PC/XT,AT
+## Bilingual word processor for IBM PC/XT and AT as well as clones
+#A kumar at duck.ncsc.org (Ashwini Kumar [Gupta])
+ 
+#L Jaipur, Hindustan, v 4.0 (UBCnagari)
+#P $10
+#C Dr. K.E. Bryant Department of Asian Studies 
+#C University of British Columbia
+#C 1871, West Mall Vancouver, B.C. V6T 1W5 Canada phone: 604 822-3881
+#O Mac
+#A Jeroen H.
+## Postscript type 3, Mac-bitmap, keyboard-bindings
+ 
+#L Sanskrit, Hindi, Marathi Nepali, etc.
+#P $0
+#I archive.cs.ruu.nl:/ftp/TEX/FONTS/devnag.tar.Z
+#O TeX, C, METAFONT source
+#C Frans J. Velthuis Nyensteinheerd 267 9736 TV Groningen 
+#C The Netherlands
+#C velthuis at rc.rug.nl
+#A Jeroen H.
+ 
+#L Bengali
+#O Windows 3.0
+#P $0, copyrighted 
+#I use archie, sgaon.zip Sonar Gaon
+#C Anisur Rahman 722 N. 13th Street, #505 Milwaukee, WI 53233 
+#C (414) 223-3152.
+ 
+#L Telugu
+#O Metafont + TeX
+#I blackbox.hacc.washington.edu: pub/tex/telugu (temporary)
+#C Lakshmankumar Mukkavilli & Lakshmi Mukkavilli 915 Almaden Avenue
+#C Sunnyvale, CA  94086  USA email: lzk60 at css.amdahl.com
+#A haccme at milton.u.washington.edu (Thomas Ridgeway)
+ 
+#L Tamil
+#O itrans (source in this post) or C + TeX with included preprocessor
+#P $0
+#I ymir.claremont.edu:[TEX.BABEL.TAMIL]*.*
+#C Humanities and Arts Computing Center of the U. of Washington, USA.
+#C ridgeway at blackbox.hacc.washington.edu
+#A Jeroen H.
+                        * * *
+
+ 
+
+
+
+
+

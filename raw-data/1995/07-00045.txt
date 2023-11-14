@@ -1,0 +1,25 @@
+From Jinavamsa at aol.com  Fri Jul  7 23:47:40 1995
+From: Jinavamsa at aol.com (Jinavamsa at aol.com)
+Date: Fri, 07 Jul 95 19:47:40 -0400
+Subject: diacriticals
+Message-ID: <161227019961.23782.12428446687842610469.generated@prod2.harmonylists.io>
+
+I understand that Sanskrit long vowels are doubled (replacing the macron or
+older circumflex accent) and that consonantal diacriticals include a
+preceding period for the retroflex (cerebral):
+ .r .r .th .d .dh .n .m .s
+and similarly for visarga .h
+that palatals include ~n and "s
+What about representing the overdots of 
+the gutteral n 
+the anusvaara (both the dot over the m and the dot resting inside a little
+half-circle cupping the dot from below)? am I forgetting any other  relevant
+instances here?
+thank you.
+Jinavamsa
+ 
+
+
+
+
+
