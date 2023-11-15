@@ -1,9 +1,0 @@
-[INDOLOGY] Devanagari font adequacy
-The issues of fonts, font-layout, Harfbuzz, ICU and whatnot is all well
-described by Behdad Esfahbod here:
-   - http://behdad.org/text
-Since 2013, XeTeX has had HarfBuzz and Graphite2 and Core Text rendering
-engines built into it <http://www.khaledhosny.org/node/198>, thanks to the
-fine work of Khaled Hosny.
-Best,
-Dominik

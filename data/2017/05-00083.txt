@@ -1,7 +1,0 @@
-[INDOLOGY] Font?
-Dear Discutants,
-let me repeat my earlier message:
-Gandhari Unicode font has both l/L and r/R with rings (not dots!) below.
-I use Windows, and have no problem with installing the font. Don't know if
-it works with Mac.
-Artur Karp

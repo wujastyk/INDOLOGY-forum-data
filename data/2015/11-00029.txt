@@ -1,6 +1,0 @@
-[INDOLOGY] Texts with different topics by one author
-Thanks a lot for the list of recommendations! 
-After a short look at GRETIL, Abhinavagupta and Kshemendra seem to be the best (easiest available) ones to begin with.
-@Jonathan: Yes, it?s for authorship attribution ? I need some data to ?calibrate? the statistical measures and test some basic assumptions.
-Best, Oliver
-Oliver Hellwig, University of D?sseldorf

@@ -1,3 +1,0 @@
-Word splitting & hyphenation conventions in roman              transliteration
-Why was tad dhi chosen rather than tadd hi? That way, the latter word would preserve its original form, as is usually the case in these transliterated sandhis.
-Jan

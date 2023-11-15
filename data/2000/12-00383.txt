@@ -1,8 +1,0 @@
-PDF (was publication of IASS papers on CDROM)
-In a message dated 12/19/00 1:06:25 PM, gm at ANTHOSIMPRINT.COM writes:
-I agree. TeX is completely unsuited for a production environment (ordinary
-mortals struggling with deadlines).
-BTW, Apple's upcoming OS X removes the current limit of 256 fonts.
-Brian Dana Akers
-www.pipeline.com/~sfauthor/
-sfauthor at aol.com

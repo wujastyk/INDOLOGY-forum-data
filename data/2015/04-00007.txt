@@ -1,8 +1,0 @@
-[INDOLOGY] Accessing the NGMCP title list
-Thanks Kengo but when I click on the "Online Title List" icon which is link
-"http://catalogue.ngmcp.uni-hamburg.de:3000/" it still gives me "could not
-connect to server".
-Thanks,
-Harry Spier
-On Thu, Apr 2, 2015 at 6:01 PM, Kengo Harimoto <kengoharimoto at gmail.com>
-wrote:

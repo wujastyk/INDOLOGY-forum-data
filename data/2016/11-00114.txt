@@ -1,9 +1,0 @@
-[INDOLOGY] Downloading etexts from TITUS
-Dear list members,
-The TITUS database http://titus.uni-frankfurt.de/indexe.htm
-\has many sanskrit e-texts not available elsewhere.  But many of the
-e-texts on TITUS are marked "restricted download".
-Does anyone know what the requirements are to get permission to download
-these e-texts.
-Many thanks,
-Harry Sjpier

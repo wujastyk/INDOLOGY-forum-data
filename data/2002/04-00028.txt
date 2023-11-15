@@ -1,8 +1,0 @@
-sanskrit text
-The conjuncts will work properly with IE 6 if you have Windows XP or Office
-XP installed.
-This is because the software that reads Devanagari encoding with virama and
-displays conjuncts only shipped with these versions on the windows platform.
-Andrew Glass
-Sent: Friday, April 12, 2002 5:26 AM
-Re: sanskrit text

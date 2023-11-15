@@ -1,8 +1,0 @@
-[INDOLOGY] Unicode Devanagari on Mac
-Hello Hans,
-     Evidently the ABC Extended Keyboard on El Kapitan operating system is
-the same as the US Extended Keyboard on Maverick and older operating
-systems, with just a different name.
-Madhav
-On Fri, Jul 15, 2016 at 8:49 PM, Hock, Hans Henrich <hhhock at illinois.edu>
-wrote:

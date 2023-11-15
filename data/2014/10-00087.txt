@@ -1,9 +1,0 @@
-[INDOLOGY] query: roman>devanagari conversion
-The following MS Word Macro does the trick for me:
-http://ebmp.org/downloads/Uni_Dev.txt
-It is 10 years old, so the instructions given for how to make it work have
-to be slightly modified for more recent versions of Word.
-Best,
-Thomas Kintaert
-On Tue, Oct 21, 2014 at 10:44 AM, Matthew Kapstein <mkapstei at uchicago.edu>
-wrote:

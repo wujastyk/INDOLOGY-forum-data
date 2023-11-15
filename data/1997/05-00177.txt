@@ -1,8 +1,0 @@
-yuga, VarNa and colour
-Actually the digits of any number that is a multiple of 9 will have a
-sum of 9 as well.  Since all of the numbers mentioned are products of
-360, which is 9x40, they will all be multiples of 9.
-David Allen
-Edmonton, Canada
-                                     email: wart at freenet.edmonton.ab.ca
-On Sun, 18 May 1997, Patricia Meredith Greer wrote:

@@ -1,9 +1,0 @@
-making diacritics (on my Mac)
-Arlo: I assume you want a built-in font (or standard unicode font) to be able to share documents in word processor form, etc. without the need for the recipient to have an Indological font?
-I don't think this is possible for a tilde over an m or the chandrabindu, but r with a subscript dot must be possible (if only for the fact it appears properly in email on a Mac and can be copy-pasted properly in a document).  I use Gandhari and Gentium and I have never found a keystroke that creates it (keyboard viewer doesn't show it nor does the Word insert symbol function).
-Steven Lindquist, Ph.D.
-Assistant Professor
-Department of Religious Studies 
-Southern Methodist University
-Homepage: http://faculty.smu.edu/slindqui
-On Dec 17, 2010, at 12:44 AM, Mary Storm wrote:

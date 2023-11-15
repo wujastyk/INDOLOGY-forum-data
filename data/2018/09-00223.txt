@@ -1,8 +1,0 @@
-[INDOLOGY] Devanagari for Marathi
-Dear list members,
-Can someone tell me if in Marathi ? (? with dot underneath)  is used for
-the letter transliterated as za .  I've been told that in Marathi ? without
-dot underneath is used but the ISO transliteration guide has ? (? with dot
-underneath) for z .
-Thanks,
-Harry Spier

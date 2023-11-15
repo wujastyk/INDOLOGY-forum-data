@@ -1,9 +1,0 @@
-[INDOLOGY] Idenfication of Sanskrit metres
-Dear all,
-Thank you for your links to different sites for metre identification.
-Ken
-Sent: 20. december 2020 04:03
-Re: [INDOLOGY] Idenfication of Sanskrit metres
-https://sanskritmetres.appspot.com/<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsanskritmetres.appspot.com%2F&data=04%7C01%7Czysk%40hum.ku.dk%7C7cf08229dd2f4069ff5908d8a493ee6f%7Ca3927f91cda14696af898c9f1ceffa91%7C0%7C0%7C637440303004328105%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Q02PU6DVWEcNgaKZ3SRQkHr7naih3f89pfXZDkJb%2BCs%3D&reserved=0> is the frontend for identifying metres.
-The source code is available at https://github.com/shreevatsa/sanskrit<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fshreevatsa%2Fsanskrit&data=04%7C01%7Czysk%40hum.ku.dk%7C7cf08229dd2f4069ff5908d8a493ee6f%7Ca3927f91cda14696af898c9f1ceffa91%7C0%7C0%7C637440303004328105%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=iGrA%2FofUtBsb%2FjLRM6xoLGI%2B8uGFkmeqf4BMP%2B0szu8%3D&reserved=0> .
-With best wishes,

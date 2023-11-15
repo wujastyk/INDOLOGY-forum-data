@@ -1,6 +1,0 @@
-Memories
-| having already memorized the value of pi to 31,811 places, has now
-| declared his intention to memorize it (the value of pi) to the millionth
-| place. 
-hmmm.  i suppose its feasbile.  if he were to 10 key it pretty fast,
-say 5 digits per second, it would take 2.3 days of continuous typing.

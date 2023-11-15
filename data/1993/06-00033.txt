@@ -1,5 +1,0 @@
-Romanized Indic metafont update available by ftp
-Is it possible to convert TeX format fonts to Postscript?
-Michael Everson
-School of Architecture, UCD; Richview, Clonskeagh; Dublin 14; E/ire
-Phone: +353 1 706-2745  Fax: +353 1 283-8908  Home: +353 1 478-2597

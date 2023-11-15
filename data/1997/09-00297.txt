@@ -1,9 +1,0 @@
-Help Wanted
-i am working on a project to convert romanised english to devanagari.we
-have a book of about 800 pages , written in sanskrit, which we have
-translated into romanised english using special characters,from the
-keyboard. we are looking for a way so that we can convert this romanised
-english book to devanagari font without using the keyboard. if anyone
-knows anything about it please help us out.
-thanks
-                                                        rahul arora

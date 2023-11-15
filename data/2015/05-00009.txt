@@ -1,6 +1,0 @@
-[INDOLOGY] semi-vowel ra plus long-a in Lanman
-Could it just be a limitation of the devanagari lead type his printer
-had..  I.e. he had the type of r over v but not the type  r over the long a
-Harry Spier
-On Mon, May 4, 2015 at 12:25 AM, McComas Taylor <McComas.Taylor at anu.edu.au>
-wrote:

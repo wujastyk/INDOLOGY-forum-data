@@ -1,9 +1,0 @@
-OCR
-dear LISTeners,
-as far as i know, they?re working on a bengali-plugin for finereader 
-5 (soon availiable).
-maybe they will reply on email, found them interested in discussing 
-new features.
-Omnipage is definitely not the ocr for nonroman scripts.
-greetings jan seifert
-btw: finereader 5.x will be avail. for macintosh too.

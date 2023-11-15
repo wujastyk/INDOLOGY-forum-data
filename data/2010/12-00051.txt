@@ -1,8 +1,0 @@
-making diacritics (on my Mac)
-Hi Arlo,
-I have been helped by Andrew Glass and Stefan Baums in this matter, I 
-used their Gandhari Unicode font. But I have a PC, not a Mac. Maybe 
-George Hart or someone else can help with the Mac.
-Best,
-Luis
-on 12/16/2010 7:58 PM Arlo Griffiths wrote:

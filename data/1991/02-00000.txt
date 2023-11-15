@@ -1,8 +1,0 @@
-Calendar conversion
-Some time ago there was some discussion about writing a computer
-program that would convert Samvat dates into their Gregorian
-equivalents. I have no particular need of such a program, but I
-would appreciate any information about the procedure that is used to
-convert between the two calendric systems. Is there a standard
-reference work that explains the conversion process?
-Richard Hayes

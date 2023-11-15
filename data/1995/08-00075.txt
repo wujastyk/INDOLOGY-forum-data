@@ -1,9 +1,0 @@
-Replying to Indology messages (fwd)
-Mani Varadarajan said:
-This has always been possible.  Send the message "set indology mail ack"
-to the address "listserv at liverpool.ac.uk".
-To learn about how you can get the best from the listserv software that
-INDOLOGY uses, send the message "help" to the same address.  Also, try
-sending "help set" to get a list of all the settings one has control
-over.
-Dominik

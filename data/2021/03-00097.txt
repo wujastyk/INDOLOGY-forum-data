@@ -1,8 +1,0 @@
-[INDOLOGY] Re: Searching the Indology List Archive
-Dear Palaniappan,
-It looks like you've identified another bug with the browse function.  As
-far as I can see, it only shows threads when you browse by month for a date
-Feb. 2013 or later.
-Harry Spier
-On Wed, Mar 17, 2021 at 8:24 PM Sudalaimuthu Palaniappan <palaniappa at aol.com>
-wrote:

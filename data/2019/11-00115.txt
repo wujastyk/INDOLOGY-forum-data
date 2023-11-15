@@ -1,6 +1,0 @@
-[INDOLOGY] Problem with some ligatures
-Dear all
-I think the problem can be solved by directly editing in the PDF
-Thanks
-On Thu, Nov 14, 2019 at 12:02 PM Krishnaprasad G <
-krishnaprasadah.g at gmail.com> wrote:

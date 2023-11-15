@@ -1,8 +1,0 @@
-Problem with Majjhima.zip
-seems
-The ZIP file is indeed corrupt. It does not even respond to PKZIPFIX.
-John
-John Richards
-Stackpole Elidor (UK)
-jhr at elidor.demon.co.uk
-Home Page http://www.elidor.demon.co.uk

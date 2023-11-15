@@ -1,6 +1,0 @@
-Word splitting & hyphenation conventions              inromantransliteration
-Petr Mares wrote:
-Thank you for the clarification; you meant that the encoding of the
-*target* natural language in which end-user products will be available
-poses problems, I (mis)understood you to refer to the *medium*
-(programming) language.

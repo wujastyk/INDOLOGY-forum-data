@@ -1,9 +1,0 @@
-[INDOLOGY] Database of Sanskrit Verb forms
-As per the requests of members, a CSV file with
-verbform,verb,lakAra,suffix,verbnumber format is made available in
-Devanagari
-e.g. ??????,???,???,????,10.0460.
-See
-www.sanskritworld.in/public/sanskrittool/SanskritVerb/generatedforms/verbformsdeva.tar.gz
-The verb number is consciously not changed to Devanagari, so that it is
-amenable to easy machine handling.

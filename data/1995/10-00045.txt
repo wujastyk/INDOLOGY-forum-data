@@ -1,5 +1,0 @@
-Q: URL addresses
-                                                             ^
-That's because you have typo here: it's supposed to be a     ^
-period there ("asnic.html") instead of a slash...............|
-David Magier          

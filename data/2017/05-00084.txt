@@ -1,6 +1,0 @@
-[INDOLOGY] Font?
-Hello Artur,
-     I have Gandhari Unicode installed on my Mac.  The question is how to
-access these characters.
-Madhav
-On Thu, May 11, 2017 at 7:55 AM, Artur Karp <karp at uw.edu.pl> wrote:

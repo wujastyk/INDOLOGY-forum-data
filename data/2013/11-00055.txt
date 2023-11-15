@@ -1,9 +1,0 @@
-[INDOLOGY] INDOLOGY Digest, Vol 10, Issue 16
-Several of our users have noticed that Unicode characters are not legible
-in their emails from INDOLOGY.  This is caused by the "digest" feature that
-gathers together a number of INDOLOGY posts into a batch and sends that to
-you in once a week or so.  If you switch the setting of your INDOLOGY
-account to not digest messages, then you will see all the Devanagari etc.
-Best,
-Dominik
-On 15 November 2013 05:46, Dr. Rupali Mokashi <dr.rupalimokashi at gmail.com>wrote:

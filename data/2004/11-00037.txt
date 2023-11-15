@@ -1,8 +1,0 @@
-Devanagari
-I'm glad to hear that it does seem to work with Macs -- at least under
-OS X. I confess I left the civilized Mac world for the barbaric Windows
-wasteland some time back so I was only going by what I heard from other
-Mac users.
-Does it work with MS Word under OS X?
-Perhaps they are not using OS X?
-Dean

@@ -1,6 +1,0 @@
-wget (was: Re: Abhandlungen der K=?UTF-8?Q?=C3=B6ni?= gliche              n Ak ademie der Wissensch aften zu Berli)
-The whole difficulty is to get the right number of leading zeros in the tif
-filenames (e.g., "00000001.tiff" .. "00009999.tiff").  Your solution doesn't
-do this.
-D
-2010/5/19 amba kulkarni <ambapradeep at gmail.com>

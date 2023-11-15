@@ -1,8 +1,0 @@
-Is Unicode welcome yet on the list?
-(Gently...) I think it might be difficult for those of us with smaller and
-older computers, which can't run the latest software.  The example "sloka
-would not have been very easy to decode.  I imagine also that email with
-this coding would take up more memory and disk space?
-Valerie J Roebuck
-Manchester, UK
-At 5:50 pm -0800 23/1/02, Stefan Baums wrote:

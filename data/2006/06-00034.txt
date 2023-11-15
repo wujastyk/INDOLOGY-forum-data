@@ -1,5 +1,0 @@
-Times CSX Font
-My thanks to Drs. Wujastyk, Nelson and Fitzgerald for their advice
-on preserving diacritics in CSX fonts into later Word versions.
-                          David Mellins
-Quoting Dominik Wujastyk <ucgadkw at UCL.AC.UK>:

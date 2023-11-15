@@ -1,9 +1,0 @@
-Subject-prefix for INDOLOGY (fwd)
-I've just discovered (thanks Richard) that this is all unnecessary!
-The Listserv software can be configured on a person-by-person basis to add
-this [INDOLOGY] header or not.  Just go to the website (via
-www.indology.org.uk) and you will see that you can adjust all sorts of
-useful settings for yourself.
-Apologies for the red herring.
-Dominik Wujastyk
-Founder, INDOLOGY list.

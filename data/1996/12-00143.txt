@@ -1,8 +1,0 @@
-CONLANG: Representing diacritics in 7-bit ASCII
-At 16:07 11.12.1996 +0000, Edmund Grimley-Evans wrote:
-8-bit was not the subject of this, so the whole ISO 8859 1-9 is out of
-topic, as you would say. Moreover this is not a "report", but a draft
-scheme, which you would have known if you actually read it through -- but
-you can hardly have managed to do that carefully in so short a time as
-since I posted it.
-Philip

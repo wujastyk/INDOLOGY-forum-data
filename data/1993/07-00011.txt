@@ -1,7 +1,0 @@
-here's a PS file of a Sanskrit text
-Dom,
-I tried the file you sent, after extracting and saving it as santext.zip.
-When I used the uudecode program on santext.zip, I kept getting
-the error input message "text.zip". Nothing else happened. What
-did I do wrong?
-Ken

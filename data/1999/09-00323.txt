@@ -1,8 +1,0 @@
-Correction to post Sanskrit words ending in cerebral N
-Outside grammatical terms, final retroflex N does not seem to occur
-freely.  One example that I have noted is _bhAN iti_, which as far as
-I recall occurs either in the BAU or the ChU and seems to be
-quasi-onomatopoetic in nature.  (Note similar violations of ordinary
-phonotactics in expressions like _jhaT iti_, without voicing of _T_
-to _D_.)
-Hans Henrich Hock

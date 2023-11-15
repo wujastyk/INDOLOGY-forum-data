@@ -1,6 +1,0 @@
-Virus warning
-It's impossible to get a virus via e-mail as long as you don't extract any
-attached and unknown files.
-Yours,
-Tobias
-At 21:55 15.04.1997 BST, Jan Brzezinski wrote:

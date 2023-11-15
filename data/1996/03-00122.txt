@@ -1,7 +1,0 @@
-Wikner devanagari location
-A week or so ago there was some discussion about a new TeX Devanagari
-font on the CTANs.  I haven't found it yet under tex-archive/languages.
-Could someone provide the full path to it.  Thanks.
-Girish Sharma
-San Diego, CA
-girish at mushika.wanet.com

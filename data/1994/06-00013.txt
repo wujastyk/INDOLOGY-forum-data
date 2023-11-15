@@ -1,4 +1,0 @@
-Vineet Jain's programs to analyse Sanskrit texts.
-     Sounds very interesting.  I hope you are able to port your programs
-so that other modes of input can be utilized.  Thanks.
-     Madhav Deshpande

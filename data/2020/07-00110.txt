@@ -1,3 +1,0 @@
-[INDOLOGY] http://bombay.oriental.cam.ac.uk --> simcast
-Dear Alex and all,
-I just did a DNS check  (dig oriental.cam.ac.uk <http://oriental.cam.ac.uk/>), and neither bombay.oriental.cam.ac.uk <http://bombay.oriental.cam.ac.uk/> nor indeed oriental.cam.ac.uk <http://oriental.cam.ac.uk/> apparently still exist. 

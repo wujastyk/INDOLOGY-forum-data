@@ -1,8 +1,0 @@
-Is CSX the best solution?
-At 10:22 20/10/95 BST, Dominik Wujastyk wrote:
- >There are several excellent free and commercial fonts available that use
-Does anyone know of a font with Romanized diacritics (free or commercial)
-that will embed successfully in an Adobe Acrobat PDF document? I've
-experimented with both HACC Indic and CS Bitstream Charter without success. 
-Thanks,
-Damien Keown

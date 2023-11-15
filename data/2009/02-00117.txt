@@ -1,8 +1,0 @@
-AW: "Visit SANSKNET while you can"
-I tried to download the Sanskrit fonts for the website and then read the
-texts, but it failed. What is the exact procedure?
-KZ
-You probably have to configure your Browser: Click "View / Encoding" and
-select "Western ISO 8859-1". If that doesn't work, try any other - except
-"Unicode".
-RG

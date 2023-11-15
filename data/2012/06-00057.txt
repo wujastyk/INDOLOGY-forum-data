@@ -1,6 +1,0 @@
-Santipur OT
-On Jun 17, 2012, at 7:27 AM, Patrick Olivelle <jpo at UTS.CC.UTEXAS.EDU> wrote:
-A few years ago I put together a set of Keynote presentations for teaching Sanskrit. Alas, when I converted them to PowerPoint and viewed them in Microsoft Office, they were badly garbled. The only workaround I could find to make them available to Windows-based students was to export them as PDF files. All the MS Office for Mac applications I have tested make a mess of Unicode once one uses non-roman scripts. Why can't Apple and Microsoft learn to get along?
-Richard Hayes
-Department of Philosophy
-University of New Mexico

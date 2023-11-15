@@ -1,7 +1,0 @@
-CSX Standards and Documentation.
-Members,
-I am searching for documentation and standards of the CSX encoding 
-system, particularly, the various codes which take the place of 
-retroflex, long vowel characters, etc.
-Thanks.
-Anshuman Pandey

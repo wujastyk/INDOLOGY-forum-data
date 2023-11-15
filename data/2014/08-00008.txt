@@ -1,7 +1,0 @@
-[INDOLOGY] Font with Brahmi characters
-I recently heard about Google Noto fonts (somewhere - perhaps even 
-here?), which include Noto Sans Brahmi: 
-http://www.google.com/get/noto/#/family/noto-sans-brah
-Might be useful for those struggling with Unifont.
-Cheers,
-Will

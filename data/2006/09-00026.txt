@@ -1,9 +1,0 @@
-Release of XML SKT morphology
-To scholars interested in interoperable Sanskrit computerization.
-I have now released my Sanskrit morphology databases in XML format,
-conformant to a simple DTD specifying the allowed morphological tags.
-Please visit the page http://sanskrit.inria.fr/DATA/XML/ which gives
-some explanations.
-All comments (and of course error reports) will be gratefully  
-appreciated.
-GH

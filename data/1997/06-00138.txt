@@ -1,5 +1,0 @@
-temporary SARAI outage
-In order to upgrade servers, the web server running SARAI (South Asia
-Resource Access on the Internet) at Columbia University will be taken
-down today (Friday, 6/13 - unlucky day) from 7:30am to approximately
-10:30am New York time.       David Magier

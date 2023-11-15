@@ -1,6 +1,0 @@
-"Combination" in Indian Mathematics
-Before anyone else says that there are 256 combinations of eight windows,
-not 255, Bhaaskara omits the case where all windows are shut. His problem
-is, how many different ways can eight windows be open.
-All the best,
-Dominik

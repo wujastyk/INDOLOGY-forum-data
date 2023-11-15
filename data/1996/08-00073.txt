@@ -1,6 +1,0 @@
-Official State Languages query
-On Thu, 15 Aug 1996, Madhav Deshpande wrote:
-The 1, 2, 5, 10, 20, 50, 100, and 500 Rs notes that I have list 13, not
-12, languages, whereas Hindi and English appear as frame languages. Could
-the one missing from the list be Gujarati? 
-sushil mittal

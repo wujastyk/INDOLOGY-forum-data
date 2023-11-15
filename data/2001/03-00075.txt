@@ -1,3 +1,0 @@
-TeX's Babel goes Indic
-TeX Babel goes Indic
-CTAN:/tex-archive/macros/latex/packags/babel has now Babel release 3.7

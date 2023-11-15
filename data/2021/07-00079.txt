@@ -1,8 +1,0 @@
-[INDOLOGY] Velthuis nagari font for linux
-Dear Adriano,
-Fonts are not specific to operating systems.? I have moved from MacOS to 
-Linux to BSD over the course of the past 15 years, and I have never had 
-a font that worked on one not work on another operating system.
-I hope that helps,
-Michael Slouber
-On 7/23/21 8:25 AM, Adriano Aprigliano via INDOLOGY wrote:

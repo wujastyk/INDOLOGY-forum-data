@@ -1,9 +1,0 @@
-[INDOLOGY] Bloomfield's Vedic Concordance
-I made a text file in Harvard-Kyoto transliteration for my own use. Since
-it is a text file and in a transliteration that doesn't use diacriticals it
-can be read on any platform without any special fonts installed and can be
-searched with any text editor or word processor.
-If anyone wants a copy then let me know.
-Regards,
-Harry Spier
-On Fri, Sep 16, 2016 at 7:15 AM, Madhav Deshpande <mmdesh at umich.edu> wrote:

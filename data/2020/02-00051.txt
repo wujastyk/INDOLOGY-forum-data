@@ -1,7 +1,0 @@
-Also Finnian  the results of your search are shown in the lower pane of a
-two pane screen.  And if there are results you want to investigate then
-just click on the result line and the text will open in the upper pane at
-that location.
-Harry
-On Wed, Feb 12, 2020 at 5:48 PM Harry Spier <vasishtha.spier at gmail.com>
-wrote:

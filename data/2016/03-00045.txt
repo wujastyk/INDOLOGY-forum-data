@@ -1,7 +1,0 @@
-[INDOLOGY] PDF
-It is very much possible (please read my mail again). In fact I already
-downloaded all single page PDF files using wget in a script on Cygwin. All
-I need to do now is to merge them which is easy. I am traveling now but
-would be back tomorrow. If you do not get a PDF by then, I will mail it to
-you off the list.
-On Mar 6, 2016 1:26 PM, "Kenneth Gregory Zysk" <zysk at hum.ku.dk> wrote:

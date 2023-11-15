@@ -1,8 +1,0 @@
-Help on installing fonts on Mac OS 10.3.5
-Double clicking the font file doesn't always work; hence my
-suggestions.
-Hans Henrich Hock
-installing the font.
-double-click on the
-to install
-go.edu/

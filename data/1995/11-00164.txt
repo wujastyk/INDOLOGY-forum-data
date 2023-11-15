@@ -1,6 +1,0 @@
-wanted Brhartsahita
-Please ftp to ccftp.kyoto-su.ac.jp
-at the directory
-pub/doc/sanskrit
-Michio YANO
-..

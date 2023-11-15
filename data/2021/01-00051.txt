@@ -1,9 +1,0 @@
-[INDOLOGY] recommended software for diacritical marks in Romanized Sanskrit transliteration?
-Namaste Dean,
-If you are a linux user,
-Ibus-m17n would work just fine with IAST diacritics for all programs.
-If I have to convert some small patches to specific transliteration, I
-write in Devanagari / SLP1 and get it converted at
-https://learnsanskrit.org/tools/sanscript . Hope this helps.
-On Wed, 13 Jan 2021, 20:58 Dean Michael Anderson via INDOLOGY, <
-indology at list.indology.info> wrote:

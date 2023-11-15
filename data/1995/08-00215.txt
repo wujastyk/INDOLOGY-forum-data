@@ -1,5 +1,0 @@
-Request: Info about font encoding schemes
-What are the various coding schemes for the Devanagari font and where
-can I find more information about them? So far, in this list I have
-seen people mention the CSX, ICCS etc. forms of encoding.
-Thanks

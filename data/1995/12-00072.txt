@@ -1,5 +1,0 @@
-WEB pages updates
-               ^
-          slight typo there: it should have two slashes, that is:
-http://www.uni-goettingen.de/~sub/homepage.htm
-David Magier

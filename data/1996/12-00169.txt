@@ -1,8 +1,0 @@
-CONLANG: Re: Representing diacritics in 7-bit ASCII
-At 00:16 12.12.96, Marion Gunn wrote:
-It is also incompatible with ISO 10646.
-Michael Everson, Everson Gunn Teoranta
-15 Port Chaeimhghein ?ochtarach; Baile ?tha Cliath 2; ?ire (Ireland)
-Guth?in:  +353 1 478-2597, +353 1 283-9396
-http://www.indigo.ie/egt
-27 P?irc an Fh?ithlinn; Baile an Bh?thair; Co. ?tha Cliath; ?ire

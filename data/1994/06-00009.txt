@@ -1,7 +1,0 @@
-Vineet Jain's programs to analyse Sanskrit texts.
-     I would like to hear more about Vineet Jain's computer programs to
-do syntactic and semantic analysis.  What sort of input do these programs use
-and what sort of output do they provide?  Vineet, can you provide some more
-details? 
-     Thanks.
-                                               Madhav Deshpande

@@ -1,6 +1,0 @@
-XML/TEI-Sanskrit texts, anyone?
-A model Tibetan language project using XML is
-the Samantabhadra archive project at the
-University of Virginia. You can find
-it through www.thdl.org
-Matthew Kapstein

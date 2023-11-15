@@ -1,3 +1,0 @@
-conditioner:
-       Cooles and Heates: if you want just condition of warm in your
-       room, please control yourself.

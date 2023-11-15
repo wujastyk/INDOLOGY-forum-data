@@ -1,7 +1,0 @@
-SARIT service faulty
-There is currently a fault with the SARIT.indology.info search and indexing
-service.  We are actively investigating the problem and will announce
-resumed service as soon as possible.  In the meantime, my apologies for the
-loss of service.
-Dr Dominik Wujastyk
-SARIT, INDOLOGY.

@@ -1,8 +1,0 @@
-Sharing Chi-Writer-based texts
-Thank you for the information about Chiwrite and its current problems with
-networking. Short of adopting an entirely new progam for my project, it
-appears that conversion to Kyoto-Harvard scheme might be the best way
-to go. Could someone give me more information about the Kyoto-Harvard 
-scheme. How it works in my case and where to obtain a copy of it.
-Thanks. 
-K.G. Zysk

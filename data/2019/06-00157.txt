@@ -1,6 +1,0 @@
-[INDOLOGY] ISO15919 and case insensitivity
-Long e (?) and long o (?) are common also in Sinhalese and they are part 
-of the ISO15919 transliteration standard and included in all 
-unicode-fonts. So people can use this letters without limitation.
-Am 20.06.2019 um 17:33 schrieb George Hart via INDOLOGY:
-www.rolfheinrichkoch.wordpress.com

@@ -1,7 +1,0 @@
-Sanskrit grammar web site
-A friend has asked me to announce that his Analytical Cross-Referenced
-Sanskrit Grammar, constructed as a learning aid for himself but possibly
-helpful to others, is available at:
-http://www2.teol.lu.se/skrgram/index.html
-Regards,
-Martin Gansten

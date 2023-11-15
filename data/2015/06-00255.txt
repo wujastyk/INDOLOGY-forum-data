@@ -1,8 +1,0 @@
-[INDOLOGY] You just need to confirm your billing address.
-Sorry, friends, this is a phishing attack.  They ususally don't get through
-to the list, but this did, somehow.  Just ignore it, and *don't* log into
-paypal through their link.  If you have already done so, go and change your
-paypal password *right now* and tell paypal if your account has been
-tampered with.
-Dominik
-On 29 June 2015 at 02:12, PayPal Service <official at ail.com> wrote:

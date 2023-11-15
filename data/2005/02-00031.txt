@@ -1,9 +1,0 @@
-diacritics
-Thank you, Andrew. You have supplied an example of misplaced diacritics.
-Have a closer look at Astadhyayi.
-BTW, Firefox is a disaster to use with Windows 98. (About 60% of the
-visitors of my sites are still using W98)
-Here is what FireFox does to Deva:
-http://deva.indopedia.org/Devanagari_fonts.html
-Regards,
-Plamen

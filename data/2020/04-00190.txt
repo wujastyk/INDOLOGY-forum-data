@@ -1,6 +1,0 @@
-[INDOLOGY] sanskrit and computers?
-Dear Indology list friends,
-I happened to give a talk recently at University of Hyderabad on a related topic: how should Panini?s grammar be regarded from an informatics perspective.
-The talk is available as a YouTube video <https://www.youtube.com/watch?v=bxkp_fuZkks&feature=youtu.be>, but the quality of sound is not very good. The slides are available from my Web site <http://gallium.inria.fr/~huet/talks.html>.
-Best,
-G?rard

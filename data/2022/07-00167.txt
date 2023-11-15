@@ -1,9 +1,0 @@
-[INDOLOGY] New version of Bloomfield's Vedic Concordance
-Dear all,
-a new XML version of Bloomfield's VC can be found here, along with a
-paper describing how we built it:
-https://github.com/OliverHellwig/sanskrit/tree/master/papers/2023wsc
-The new version is hopefully much easier to parse and and therefore more
-accessible for searching as well as for computational approaches.
-Best, Oliver
-Oliver Hellwig, IVS Z?rich/Universit?t D?sseldorf

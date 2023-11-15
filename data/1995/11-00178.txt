@@ -1,7 +1,0 @@
-"=20"
-To remove the end of line markers from the files being sent over the
-Internet --
-IBM users:
-Save as ASCII files and then send.
-MAC users:
-When you save choose something like DOS text file of PC format.

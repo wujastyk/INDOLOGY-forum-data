@@ -1,9 +1,0 @@
-[INDOLOGY] Font with Brahmi characters
-The Brahmi glyphs are in the file "unifont_upper-7.0.03.ttf" (since they
-are above the basic multilingual plane). You will need some input method
-(or a character map) to produce the characters.
-These glyphs seems to be included just for the sake of completeness, since
-they're very pixellated and the combining characters don't work
-(11038-11045).
-On Fri, Aug 1, 2014 at 12:21 PM, Dipak Bhattacharya <dipak.d2004 at gmail.com>
-wrote:

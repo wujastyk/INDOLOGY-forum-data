@@ -1,7 +1,0 @@
-Help on using Binhex4.0
-In the File Menu select Download. Then navigate to select the file you want
-to convert. It can be quite slow with a large file.
-Lance Cousins
-MANCHESTER, UK
-Telephone (UK): 061 434 3646  (International) +44 61 434 3646
-Fax (UK):       061 275 3613  (International) +44 61 275 3613

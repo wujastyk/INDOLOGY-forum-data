@@ -1,8 +1,0 @@
-announcement: proceedings of symposium PLUS summaries in skt
-I wonder, does Dr. Srinivas Varakhedi and his team also have words for
-coputer, computational, unicode fonts, printer, word strings, parser,
-recursive, and regular expressions? Personally, if I would have to do the
-job, I would have considered these terms loan-words, as most living
-languages do today. Same with submodern items like coffee and train.
-Alexandra van der Geer
-Athens

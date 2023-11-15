@@ -1,9 +1,0 @@
-[INDOLOGY] a i and ai
-I should have rather written
-a? =a+i that is with hiatus
-The script was distorted by Windows that types *i* in upper case by
-default.
-Best
-DB
-On Wed, Apr 27, 2016 at 5:10 PM, Christophe Vielle <
-christophe.vielle at uclouvain.be> wrote:

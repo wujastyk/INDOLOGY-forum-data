@@ -1,7 +1,0 @@
-Devanagari Unicode fonts for the Mac?
-It seems that Scribus, a free competitor for InDesign 
-(http://en.wikipedia.org/wiki/Scribus), doesn't do Indic fonts (i.e., 
-"complex script rendering") either yet 
-(http://wiki.scribus.net/index.php/Image:Rendering1.png).
-DW
-On Wed, 13 May 2009, Paul G. Hackett wrote:

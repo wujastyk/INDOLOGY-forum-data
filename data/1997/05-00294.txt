@@ -1,9 +1,0 @@
-Internet access to the British Library Catalogue
-Thanks for the British Library Catalogue information from Dominik.  I tried
-it and got a "no DSN entry" [i.e., no address] message.  Is the service
-already up and running?  If so, perhaps it is just too busy at the moment.
-And, by the way, will be Portico service continue?  I've not been able to
-get through to that URL either.
-       		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	        Gene Thursby <gthursby at religion.ufl.edu>
-	   	http://www.clas.ufl.edu/users/gthursby/

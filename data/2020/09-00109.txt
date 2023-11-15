@@ -1,9 +1,0 @@
-[INDOLOGY] GRETIL Update #498
-GRETIL is pleased to be able to report the following addition(s) to its collection:
-Texts revised:
-Moksopaya [= "Yogavasistha"]<http://gretil.sub.uni-goettingen.de/gretil.html#Moksop>, added chapters 6,120-6,252 and incorporated new corrigenda
-Texts converted:
-most of the Sanskrit<http://gretil.sub.uni-goettingen.de/gretil.html#Sanskrit> corpus
-GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
-<http://gretil.sub.uni-goettingen.de/gretil.html#DhSmrti><http://gretil.sub.uni-goettingen.de/gr>
-http://gretil.sub.uni-goettingen.de/

@@ -1,6 +1,0 @@
-Issues in the creation and dissemination of Sanskrit e-texts
-Regarding the input/typing of texts, I believe that the logic of using 
-typists ignorant of Greek for the TLG project included the idea that they
-would make LESS mistakes, precisely because they didn't know what they 
-"should" be typing-- they only typed what they saw. 
-Jamie Hubbard, Smith College

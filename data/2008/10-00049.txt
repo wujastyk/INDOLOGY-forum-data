@@ -1,9 +1,0 @@
-Oriya Unicode Font on Mac
-At 6:34 PM +0200 10/18/08, Arlo Griffiths wrote:
-I *highly* recommend XenoType Technologies's font.  An Oriya Unicode 
-font/keyboard system is currently under production and they are, in 
-fact, looking for testers. See:
-http://www.xenotypetech.com/osxOriya.html
-best,
-Paul Hackett
-Columbia University

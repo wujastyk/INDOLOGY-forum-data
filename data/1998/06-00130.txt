@@ -1,6 +1,0 @@
-SV: ... Sanskrit for MS Word Utility
-John Richards wrote:
-I may have made a mistake or overlooked something, but the macros for combining consonants don't seem to work. Is the font "Sanskrit New" (referred to in the macros Conjnct 1-3) something which will make the utility more complete or is it just an older name for "Sanskrit 1.2"? I.e., does "Sanskrit 1.2" cover all the possible combinations, so that a slight change in the macros will do?
-Regards
-Urban Lindqvist
-urban.lindqvist at uppsala.mail.telia.com

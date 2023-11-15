@@ -1,5 +1,0 @@
-Devanagari
-Do the Mac font assignments match any of the ones in the PC/Linux world?
-In other words, are we anywhere near having a good cross-platform layout
-that we might turn into a standard among Indologists?
-Dean Anderson

@@ -1,4 +1,0 @@
-Yano' program
-Have you tried uu-lite (Mac)? It is available by anonymous ftp from
-nic.switch.ch  in the path  /mirror/info-mac/cmp
-David Magier

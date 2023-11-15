@@ -1,7 +1,0 @@
-Diacritic fonts & WordPerfect drivers
-Thank you very much, Jamie, for this very useful package of fonts for WP
-users.
-I'll be back in England in about a month, at which time I'll set about
-adding your package to the UCL and INDOLOGY ftp sites, if I may.
-Best wishes,
-Dominik

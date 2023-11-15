@@ -1,5 +1,0 @@
-Diacritics font
-As for transliteration, we are using the Foreign1 font. You can download it at
-http://ccbs.ntu.edu.tw/SANSKRIT/foreign1.zip
-Miroslav Rozehnal
-The Institute of Buddhist Studies

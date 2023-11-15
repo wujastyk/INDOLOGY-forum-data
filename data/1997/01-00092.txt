@@ -1,9 +1,0 @@
-Devanagari for the Mac (Jaipur font)
-Naseem Hines <sohail at u.washington.edu> wrote:
-For  retroflexes such as "D or Rh," and also for Urdu letters which require
-a dot, such as k or j, all you have to do in Jaipur is to hold down the
-shift and the option key at the same time, and type the backslash / key.
-Then, type the desired retroflex consonant, and a dot should automatically
-appear under it.  I does on my keyboard, at any rate.
-I do, however, think that Jaipur is old and ugly and there are other much
-more aesthetically pleasing fonts.

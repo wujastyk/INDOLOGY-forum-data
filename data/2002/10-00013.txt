@@ -1,5 +1,0 @@
-SV: Scanning of devanagari
-Apparently the overline of Devanagari and closely related scripts
-confounds optical character recognition software, making it
-difficult to distinguish letter or syllable breaks. Tamil and
-other South Indian scripts may be more amenable to machine reading.

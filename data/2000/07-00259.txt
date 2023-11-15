@@ -1,4 +1,0 @@
-was 22k
-Content-Type: multipart/alternative;
-Content-Type: text/plain; charset="us-ascii"     (10k)
-Content-Type: text/enriched; charset="us-ascii    (12k)

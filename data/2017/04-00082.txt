@@ -1,3 +1,0 @@
-[INDOLOGY] Inability to see romanised (transliterated text with diacritics) Sanskrit in my emails.
-Dear AJ Misra,
-You are likely encountering an issue with how your email client is handling the encoding of the messages, reading it as Western European instead of UTF-8. So it may be a matter of fixing your client-side settings.

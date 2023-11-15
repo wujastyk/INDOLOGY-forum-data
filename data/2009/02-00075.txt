@@ -1,9 +1,0 @@
-frequencies
-Two pdf-files containing lists of 100 and 3200 words respectively can be 
-downloaded here:
-http://www.indologie.uni-halle.de/studium/Studienmaterialien/index.htm
-The lists are called basic vocabulary ("Sanskrit Grundwortschatz"). I 
-don't know on what criteria the words were selected.
-Best regards
-Himal Trikha
-On 17.02.2009 08:57, Alexandra Vandergeer wrote:

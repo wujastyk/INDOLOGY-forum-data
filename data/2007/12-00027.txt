@@ -1,7 +1,0 @@
-Mac-Devanagari
-Since Unicode is obviously 'the way to go', also on Mac, I put together 
-some of my findings together with links in a web page, for those who are 
-interested:
-http://www.lrz-muenchen.de/~zydenbos/unicodeosx.html
-RZ
-Universit?t M?nchen

@@ -1,8 +1,0 @@
-saMbuddhi rhythm (question)
-Would something like (say) 'mAdhava, pravishanti!'
-(Madhav, they're going in!) normally scan:
- 'mAdhava | pravishanti!'
-   G  L L     L L  G  L
-or
- 'mAdhava pravishanti!'
-   G  L G   L L  G  L

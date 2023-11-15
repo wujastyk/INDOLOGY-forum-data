@@ -1,6 +1,0 @@
-Sanskrit word order sort program ?
-I have a macro for word to sort that works for CSX+. The person that wrote
-this macro is currently finishing a newer "teachable" version in which you
-first yourself enter the order of the characters you wish to sort. This
-should work on any language and font.
-Eva De Clercq

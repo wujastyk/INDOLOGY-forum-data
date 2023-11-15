@@ -1,6 +1,0 @@
-fonts
-Thanks to Arun Gupta and Jaap Pranger for their useful advice on Devanagari
-fonts.  Part of the problem seems to be the rather elderly Mac I'm using.
-Yet another incentive to upgrade!
-Valerie J Roebuck
-Manchester, UK

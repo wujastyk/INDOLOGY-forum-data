@@ -1,8 +1,0 @@
-converting Arial unicode MS to pdf
-I had a similar problem recently converting unicode files to pdf using Open 
-Office's pdf converter. It was recommended to me that I use SourceForge's 
-PDFCreator 0.9.3 instead, and that has indeed cured the problem. It can be 
-downloaded at:
-http://sourceforge.net/project/showfiles.php?group_id=57796&package_id=53473&release_id=442172
-Mark Singleton
-On Jun 27 2007, Herman Tull wrote:

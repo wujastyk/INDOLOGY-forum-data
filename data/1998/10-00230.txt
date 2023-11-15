@@ -1,5 +1,0 @@
-freeware devanagari TTF
-On URL http://www.aczone.com/ilkeyb/ or on http://www.paranoia.com/~avinash/
-is demoversion of the Indian Language Keyboard Program with ttf font
-mantra__.ttf. (I think that better for devanagari is TeX and ITRANS).
-caha at fss.muni.cz

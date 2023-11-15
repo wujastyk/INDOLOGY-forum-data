@@ -1,9 +1,0 @@
-xindy style file for Sanskrit?
-Prof. Hayes,
-a Devanagari module for Xindy has been created by Zden?k Wagner, Anshuman Pandey, and Jaya
-Saraswati. Please cf. http://icebearsoft.euweb.cz/xindy-devanagari/
-Greetings,
-Daniel Stender
-On 04.10.2011 00:22, Richard Hayes wrote:
-http://www.danielstender.com/granthinam/
-GPG key ID: 1654BD9C

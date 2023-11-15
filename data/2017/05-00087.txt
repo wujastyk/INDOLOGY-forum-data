@@ -1,6 +1,0 @@
-[INDOLOGY] Font?
-Thanks, Artur, for this chart of all characters in Gandhari Unicode.  I do
-see here the characters with a ring underneath.  My question now is if
-there is a Keyboard for Mac that would allow accessing these characters.
-Madhav
-On Thu, May 11, 2017 at 8:15 AM, Artur Karp <karp at uw.edu.pl> wrote:

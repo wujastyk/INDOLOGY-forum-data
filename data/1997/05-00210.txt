@@ -1,6 +1,0 @@
-Nines (Was Re: yuga, VarNa and colour)
-I'm sorry, don't try this at home :) By trying to keep things simple
-I'm afraid I made things more complicated. If you accept to talk about
-remainders, it's much easier: the remainder of (a0 + ... + aN * 10^N) by
-9 is the same as the remainder of a0 + ... + aN by 9, the proof of which
-is very easy.

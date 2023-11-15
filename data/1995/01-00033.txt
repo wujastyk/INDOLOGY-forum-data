@@ -1,7 +1,0 @@
-True Type Punjabi Fonts
-A fine annotated listing of a wide variety of free and commercially
-available Indic language fonts can be found on The South Asia Gopher,
-in the following path:
-  TEACHING Resources on South Asia
-     Inventory of Language Materials (ILM)
-        South Asian Language Computer Fonts

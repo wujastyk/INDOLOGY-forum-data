@@ -1,5 +1,0 @@
-Devanagari font for LaTeX
-Toke Lindegaard Knudsen wrote:
-On every CTAN site, follow:  /language/devanagari/distrib/
-45 rue des St P?res. 75270 Paris Cedex 06
-http://www.math-info.univ-paris5.fr/~patte

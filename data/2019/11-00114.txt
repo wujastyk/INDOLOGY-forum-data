@@ -1,7 +1,0 @@
-[INDOLOGY] Problem with some ligatures
-Dear all
-I wonder has any one used ardhavisarga and converted into pdf? I am not
-getting these in my own fonts. I could save only in MS office word, but not
-in note pad or Indesign. I don't have access to Latex,  I wonder any one
-used ardhavisarga and converted into pdf successfully.
-[image: test.jpg]

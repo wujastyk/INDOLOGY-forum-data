@@ -1,4 +1,0 @@
-SARIT updates
-Users of INDOLOGY's SARIT service will notice that the front page of the
-service changed today.  Instead of being taken straight to "basic search",
-the simple http://sarit.indology.info URL takes you to a SARIT home page.

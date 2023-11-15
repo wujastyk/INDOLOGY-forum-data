@@ -1,9 +1,0 @@
-Indian Place Names Website
-The Indian village/district/state census material is availbable on disk
-(and for all I know on a website).  It would be a rather easy job to
-extract the names from the statistical data.  I have done so for my own
-use in the case of certain districts of Karnataka and AP.  It took me a
-couple of days (partly to write a program, partly to figure out data set
-what I wanted)
-Peter Claus
-On Wed, 6 May 1998, N. Ganesan wrote:

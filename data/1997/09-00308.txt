@@ -1,7 +1,0 @@
-TeX and Babel.
-Speaking of TeX, Dominik, I recall that you once told me that you knew of
-someone working on a Devanagari hyphenation pattern for Babel. Do you
-happen to know what became of this project, and who was taking the brave
-step?
-Regards,
-Anshuman Pandey

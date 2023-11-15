@@ -1,8 +1,0 @@
-ConTeXt support for UTF-8 Roman Translit and Nagari
-I met Hans Hagen at the recent TeX conference in Trivandrum, and he
-mentioned among other things that he was planning to put support into
-ConTeXt for critical edition formatting.  Could be very valuable,
-especially with all the other features ConTeXt has.  I've never used it
-myself, though.
-Best,
-Dominik

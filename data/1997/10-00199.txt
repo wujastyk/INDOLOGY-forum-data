@@ -1,7 +1,0 @@
-Katapayadi paper
-Hi
-My paper on the Katapayadi technique, Indian musicology and modern
-Hashing, which I promised to some of you has seen ink at last, after
-several postponements.  You can find it in IEEE Annals of the
-history of computing, 19, 4, pp.49-52, Oct-Dec 1997.
-- &

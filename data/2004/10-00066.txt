@@ -1,8 +1,0 @@
-Devanagari
-Where did you find the list?
-Years ago, when I was working on the Devanagari OCR program I created a
-font and keyboard interpreter that had all of them that I could find.
-But that was so many years ago I don't know where that work is now.
-Sometimes, I flirt with the idea of updating that software.
-Best,
-Dean Anderson

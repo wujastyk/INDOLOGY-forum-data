@@ -1,7 +1,0 @@
-typing Devanagari
-Might a colleague advise me on whether there is a facile method for typing
-Devanagari in MS Word 2008 for Mac? Or, failing that, in NeoOffice 2.2.5
-Patch 8?  Or, in some other Mac-compatible program that would allow me to
-convert the created files to MS-Word/Neo Office format?
-James Hartzell
-U. of Manitoba

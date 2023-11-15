@@ -1,7 +1,0 @@
-[INDOLOGY] Unicode Devanagari on Mac
-David,
-     The old Easy Unicode keyboard-layout does work on my Mac that has the
-latest operating system and the latest MS Office 360.  Try reinstalling the
-keyboard file, if you have it.  If not, I can send it to you.  Best,
-Madhav
-On Fri, Jul 15, 2016 at 8:44 AM, David Mellins <dmellins at gmail.com> wrote:

@@ -1,6 +1,0 @@
-Emacs + devanagari
-Would anyone happen to know whether there is an MS-DOS port of this latest
-GNU Emacs with Devanagari support?
-Thanks.
-Regards,
-Anshuman Pandey

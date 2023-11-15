@@ -1,5 +1,0 @@
-[INDOLOGY] Nirnaya Sagar Fonts are at finishing stage of development
-Dear Krishnaprasad,
-  My only suggestion would be to test the fonts in a wide range of programs (such as Microsoft Word, Adobe Indesign, etc.) and operating systems (MacOS, Windows, Linux) to ensure that your new fonts are useable by the most people.
-Regards,
-Paul Hackett

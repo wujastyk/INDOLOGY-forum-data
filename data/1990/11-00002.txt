@@ -1,8 +1,0 @@
-Word processing in Indian languages
-I know that several members of this list have developed word processing
-facilities for Indian languages, or fonts for use with systems which
-allow customized character sets.
-It would be very valuable if you could outline for the rest of us what
-you have done in this area, and what you consider the strengths and
-weaknesses of your system to be.
-Dominik

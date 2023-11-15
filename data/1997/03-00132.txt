@@ -1,8 +1,0 @@
-CS Utopia updated
-On Sat, 8 Mar 1997, Dominik Wujastyk wrote:
-The TrueType and Postscript .zip files are actually found as:
-adobe-utopia-font-cs-encoding-TTF-11.zip
-adobe-utopia-font-cs-encoding-PS-11.zip
-Dominik, perhaps you would want to rename these?
-Regards,
-Anshuman Pandey

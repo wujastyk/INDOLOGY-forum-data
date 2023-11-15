@@ -1,9 +1,0 @@
-[ADMIN] HTML Based Email (AOL 6.0)
-Thanks to Rohan for his very clear summary of the issues; I agree with
-everything he says.
-On Sat, 4 Nov 2000 rohan.oberoi at CORNELL.EDU wrote:
-This really is the most promising path to a solution.  If you use AOL,
-please please please write to them and demand that a "plain ASCII
-text" option be included in their email client.
-Dominik Wujastyk
-Founder, INDOLOGY list.

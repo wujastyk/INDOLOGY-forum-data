@@ -1,7 +1,0 @@
-request: references for pancaanga/ephemeris calculations
-I am thinking of rewriting Prof Yano's pancaanga program with some
-modifications. I would appreciate if someone can give me the
-references for pancaanga calculations, both from the various
-siddhaantas, and also from modern ephemerides.
-Thanks in advance and best wishes to all for a Happy new year.
-Krishna Padmasola

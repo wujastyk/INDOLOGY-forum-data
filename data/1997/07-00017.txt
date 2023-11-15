@@ -1,3 +1,0 @@
-Footnotes in Latex
-Does anybody know how to produce two or more footnotes in one line for a 
-textcritical edition with Latex including Devanagari-Metafont?

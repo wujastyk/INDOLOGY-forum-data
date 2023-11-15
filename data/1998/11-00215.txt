@@ -1,2 +1,0 @@
-quit mail
-Quit the mail please.

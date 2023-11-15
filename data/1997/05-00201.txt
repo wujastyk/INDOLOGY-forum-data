@@ -1,5 +1,0 @@
-yuga, VarNa and colour
-Jacob Baltuch wrote:
-But if you proceed to add the digits until you're left with one, it *is* true:
-99 = 9 + 9 = 18 = 1 + 8 = 9
-Martin Gansten

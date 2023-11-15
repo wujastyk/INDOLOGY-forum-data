@@ -1,9 +1,0 @@
-[INDOLOGY] Nagari conversion
- <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
-Thanks a lot, Harry, for explaining the technical background. This
-definitely explains the strange encoding. For the time being, re-OCRing
-it seems to be one manageable approach (already pointed out by Tim
-Cahill), so I will try the Google cloud SDK which works in the
-background of SanskritCR.
-Best, Oliver
-On 09/06/2022 16:40, Harry Spier wrote:

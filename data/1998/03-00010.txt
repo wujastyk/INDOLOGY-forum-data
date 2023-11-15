@@ -1,6 +1,0 @@
-TrueType fonts, TeX etc.
-You might try the Dutch TeX Users Group:
-        ntg at nic.surfnet.nl
-for help with emTeX.
-    Dick Plukker
-    India Institute, Amsterdam

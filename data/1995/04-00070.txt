@@ -1,5 +1,0 @@
-address request
-Does anyone know the address (email) of Alf Hiltebeitel? The
-address in the SAGopher gets returned undelived: 
-beitel at gwis.circ.gwu.edu 
-Peter J. Claus

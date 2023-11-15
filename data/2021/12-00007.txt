@@ -1,7 +1,0 @@
-[INDOLOGY] OCR for sanskrit transliteration
- <CAPz9vj-A3KOoyie_8ynJZ_4nB8T9sCU36==-+416EeUcD4RM_w@mail.gmail.com>
-I tried sanskritCR but it was problematic making global replacements
-especially with nasals since it sometimes converted different characters
-with diacriticals to the same letter.
-Sent from mobile phone.
-On Wed, Dec 1, 2021, 10:47 Timothy Cahill, <tccahill at loyno.edu> wrote:

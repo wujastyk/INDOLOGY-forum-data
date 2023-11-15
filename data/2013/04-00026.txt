@@ -1,9 +1,0 @@
-[INDOLOGY] Bhattacharyya's Sadhanamala edition
-Dear Dominik,
-   Thank you for clarifying this issue for the list.  I would point out that the situation in the U.S. is different, having become far more complicated in recent years due to the "Copyright Term Extension Act" passed in the U.S.
-   That having been said, when I scanned my own copy of Bhattacharyya's Sadhanamala volumes, I did so with the intention of producing a searchable electronic copy of his critical editions.  I had prototyped Devanagari OCR for a different project, and had been thinking to extend that process to these volumes.
-   I have, in recent months, been thinking to revisit this -- i.e. producing a searchable electronic copy of the texts contained in those volumes -- and so would be curious to know from the List if anyone knows of any other projects underway to do this, to revisit the original texts that served as the basis of his editions, or any other related project so as to avoid any duplication of efforts.
-All the best,
-Paul Hackett
-Columbia University
-On Apr 4, 2013, at 5:14 AM, Dominik Wujastyk wrote:

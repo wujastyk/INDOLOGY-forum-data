@@ -1,6 +1,0 @@
-Sanskrit
-Mathieu Latapy informed me:
-I don't understand what is going wrong. It should work, as all directories fit. Nevertheless, it certainly (?) works when you only try http:\\www.ticonsole.nl\books, and furtheron click through the pages till Bhasa.
-Sandra van der Geer
-Leiden, NL
-info at ticonsole.nl

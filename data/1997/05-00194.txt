@@ -1,4 +1,0 @@
-yuga, VarNa and colour
-Not true: 9 * 11 = 99
-A number that has 9 as the sum of its digits will be a multiple of 9
-but it doesn't necessarily go the other way (as the example above shows).

@@ -1,4 +1,0 @@
-Vikram calendar conversion
-Michio Yano has written a very useful web application for such purposes:
-http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/
-Martin Gansten

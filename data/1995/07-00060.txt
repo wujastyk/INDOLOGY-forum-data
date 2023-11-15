@@ -1,9 +1,0 @@
-diacriticals
-Jinavamsa at aol.com said:
-...
-The transliteration scheme you are describing is designed for the input
-of Sanskrit using only 7-bit ASCII characters.  It was designed by Frans
-Velthuis for use with his Devanagari TeX package and is fully documented
-in a file called manual.tex that is distributed with that package.  The
-package is called devnag.zip (or something like that).
-Dominik

@@ -1,3 +1,0 @@
-[INDOLOGY] IAST or ISO 15919 input tools for Windows 7
-Many thanks to Martin Gluckman, Dominik Wujastyk, Richard Mahoney and 
-Ofer Peres for the help.

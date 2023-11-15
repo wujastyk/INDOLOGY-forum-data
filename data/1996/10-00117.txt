@@ -1,7 +1,0 @@
-News-resources
-One can subscribe to India-L at LISTSERV at INDNET.BGSU.EDU
-and Pakistan news at LISTSERV at ASUVM.INRE.ASU.EDU by writing:
-subscribe India-L/Pakistan your name
-Each of these news services provide regular, but not daily, postings.
-There is also a Sri Lanka net at slnetad at ganu.colorado.edu 
--Jason Neelis

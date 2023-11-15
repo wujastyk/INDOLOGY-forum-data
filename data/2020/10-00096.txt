@@ -1,6 +1,0 @@
-[INDOLOGY] diacritical marks on Mac
-Hi Matthew,
-   The ?Favorites? tab in keyboard preferences still exists, but it is not displayed until you add characters to it. 
-   In the ?Show Character Viewer? option under the keyboard menu (now called ?Show Emoji & Symbols?), select a character.  In the right side details window you will see a button ?Add to Favorites.?  When you click this, it will add the character to your favorites list and the tab selection will reappear.
-Best,
-Paul

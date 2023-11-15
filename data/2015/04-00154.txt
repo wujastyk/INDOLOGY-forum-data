@@ -1,7 +1,0 @@
-[INDOLOGY] access
-While going through Ganguly?s translation of Virata Parva, I was suddenly unable to access the various chapters. Now when I try to access sacred-texts.com <http://sacred-texts.com/> I get this message:
-Forbidden
-You do not have permission to access this document.
-Web Server at sacred-texts.com <http://sacred-texts.com/>
-Help would be greatly appreciated. 
-Howard

@@ -1,9 +1,0 @@
-[INDOLOGY] INDOLOGY,	SARIT and Bombay websites: possible service interruption tonight
-The company that runs our INDOLOGY server is doing some maintenance tonight:
-During the (Central European) night of Wednesday, 7/17/2013 to Thursday,
-7/18/2013 between 23.00 and 05:00 we are carrying out maintenance on the
-host systems.  There may be interruptions in the availability of your
-server during this period.
-Email to and from the INDOLOGY discussion list should not be affected.
-Best,
-Dominik Wujastyk

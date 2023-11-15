@@ -1,9 +1,0 @@
-[INDOLOGY] Velthuis nagari font for linux
- <0e5e3d6e-23d7-b7b0-8064-c5d4638ebb7f@spicemail.cc>
- <CAHfOVEBSoLan8j3mz0N-qHn6DAVux7dBQNoNnncaAq8b+TaS1g@mail.gmail.com>
- <DBE522C2-F87F-46C0-857C-EA438777A82E@wlu.edu>
- <CAHfOVEAfT=cZ1uCmmA_FgHk2B5py8PZ7F0Z0-b3UDUg39d67=w@mail.gmail.com>
- <23D049A1-5ACB-417B-8C21-72759BF0B1E1@wlu.edu>
-There are some examples of what different Devanagari fonts look like here:
-   -
-   https://cikitsa.blogspot.com/2021/05/expanded-devanagari-font-comparison-33.html

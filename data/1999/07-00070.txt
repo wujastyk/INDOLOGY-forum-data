@@ -1,7 +1,0 @@
-Indology constraints (contd.)
-On Wed, 7 Jul 1999, Sudalaimuthu Palaniappan wrote:
-No, actually there is no warning for this.  What happens is that only 3
-messages get sent out; the fourth is held over to the next day.  I do not
-consider this to be very damaging to intellectual life.
-Dominik Wujastyk
-Founder, INDOLOGY list

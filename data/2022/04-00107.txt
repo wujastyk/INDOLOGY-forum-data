@@ -1,7 +1,0 @@
-[INDOLOGY] brief maintenance period
-This is an automated notice from MailmanLists.
-Notice of scheduled maintenance outage tomorrow.
-Server:   Amsterdam NLD
-Start:    03:00:00 UTC
-Duration: 30 minutes
-There may be delays to mail delivery during this time.

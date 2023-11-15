@@ -1,6 +1,0 @@
-[INDOLOGY] IAST or ISO 15919 input tools for Windows 7
-see http://bombay.indology.info for John Smith's utilities for doing
-exactly this.
-Best,
-Dominik Wujastyk
-?

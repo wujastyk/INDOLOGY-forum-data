@@ -1,3 +1,0 @@
-Internet access to the British Library Catalogue
-Try leaving the last backslash off the URL, which worked for me.
-peter moore

@@ -1,8 +1,0 @@
-Devanagari MF font
-If I am correct Velthuis' Devanagari font has been placed in the public
-domain: unfortunately I cannot remember where I saw this nor the details
-of where to pick it up from. Can someone in the know post the knowledge?
-Thanks.
-Stephen Miller
-National Academic Typesetting
-Oxford University Computing Services

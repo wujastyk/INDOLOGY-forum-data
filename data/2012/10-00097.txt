@@ -1,6 +1,0 @@
-Corrigendum: Improved Sanskrit Computational Linguistics Platform
-Le 19 oct. 2012 ? 18:18, G?rard Huet a ?crit :
-The link was misspelled, it should read http://sanskrit.inria.fr or http://sanskrit.inria.fr/index.fr.html for the French lexicon site,
-and http://sanskrit.inria.fr/index.en.html for the same site, but now indexing Monier-Williams dictionary.
-Apologies for the noise.
-GH

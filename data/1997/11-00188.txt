@@ -1,6 +1,0 @@
-Problem with Norman Fonts
-The Norman font uses #160 for lowercase t with dot under. This is where
-Windows expects the non-breaking space to be. AFAIK, there is no good
-solution other than to switch to a different font encoding.
-Frank Snow
-fsnow at iname.com

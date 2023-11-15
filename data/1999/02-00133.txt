@@ -1,9 +1,0 @@
-Mount Potalaka in Malaya mountains
-In a message dated 2/10/99 4:02:33 PM Central Standard Time, erpet at COMP.CZ
-writes:
-<color><param>0100,0100,0100</param><FontFamily><param>Times New Roman</
-<color><param>0100,0100,0100</param><
-Am I the only one getting gibberish like this? Does anybody know why this is
-happening? Thanks in advance.
-Regards
-S. Palaniappan

@@ -1,7 +1,0 @@
-Electronic books on S. Asia
-Electronic Editions of UC Press books
-A test database of 60 full text electronic books published by the
-University of California Press which are freely available online.
-Subject areas covered include South Asia.
-See:
-        http://www.ucpress.edu/scan/books.html

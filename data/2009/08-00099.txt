@@ -1,5 +1,0 @@
-Follow up to Font/Print Problems
-For several years, I have had great success with Word 2003 using Arial MS Unicode and Baraha (under both Vista and XP)--both my screen and my printer happily display devanagari and diacritics (some conjuncts are not available, however).  I recently shifted to Word 2007, and it was a disaster.  I decided Word 2007 simply was not worth the trouble of trying to figure all this out, and I went back to 2003. After I finish my current project, I plan to shift to open office.
-Herman Tull
-Windows Live: Make it easier for your friends to see what you?re up to on Facebook.
-http://windowslive.com/Campaign/SocialNetworking?ocid=PID23285::T:WLMTAGL:ON:WL:en-US:SI_SB_facebook:082009

@@ -1,7 +1,0 @@
-OCR for Devanagari
-I would like find out about the current state of the art in using
-scanners and optical character recognition for getting Devanagari
-texts into computer format. Information for any platform, e.g. Macintosh,
-PC, or Unix would be appreciated.
-Ken Hince
-khince at miu.edu

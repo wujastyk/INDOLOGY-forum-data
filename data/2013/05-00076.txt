@@ -1,5 +1,0 @@
-[INDOLOGY] Query
-Friends:
-Hope someone can help me. Using pages from many months, I have been able to produce uncommon Devan?gar? ligatures by going to "Typography" and invoking the uncommon ligature feature. I think -- and here my memory fails me -- I did it by first going to "Show Character Viewer" and the pressing the "Star" key at the top left. But now when I do this, it simply gives me the option of character sizes. Hope someone out there knows how to get to the uncommon ligatures feature, available both on Pages and TextEdit.
-Thanks.
-Patrick

@@ -1,7 +1,0 @@
-Madhushree and Manjushree Fonts
-        Stephen Miller has made a valuable suggestion.  It is possible to
-keep the CSX coding and yet develop a different keyboard driver.  I was
-trying to keep my work to a minimum.  However, if I can develop a keyboard
-driver to my satisfaction, I will certainly rearrange the characters in my
-font to conform to CSX.  Thanks, Stephen.
-        Madhav Deshpande

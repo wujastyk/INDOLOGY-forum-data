@@ -1,9 +1,0 @@
-[INDOLOGY] Precomposed characters vs combining characters
-This is a challenging endeavor in using computing technology for academic prints. I?ve been through this since 1978 and have learned quite a lot through hardship! 
-Things we may have to keep in mind are: 
-1. Keyboard input and display on the screen depend upon the specific operating system one uses (IBM, Windows, Mac OS).
-2. Most important and complicating thing in all of this is word processing with indexing. I?ve gone through a lot in this process!
-No matter how you encode your input/output ? some kind of macro would be needed to convert your input/output when you want to send it to a publisher.  
-Regards,
-Rajam
-On Jan 13, 2014, at 4:01 PM, Marco Franceschini <franceschini.marco at fastwebnet.it> wrote:

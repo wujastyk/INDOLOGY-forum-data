@@ -1,8 +1,0 @@
-fonts
-Tobias Grote-Beverborg writes:
-Xdvng is certainly better than other Devanagari fonts I've seen, but the
-version I've got (for Mac) isn't complete.  Various conjuncts with c and
-palatal s' seem to be missing.  I'm still looking for a really good version
-of Devanagari for Mac!
-Valerie J Roebuck
-Manchester, UK

@@ -1,9 +1,0 @@
-Digital Kielhorn
-This is an interesting idea, but the problem of needing a librarian (and a 
-salary) still arises.  Also, as soon as one starts putting even modest 
-numbers of PDF books together, one starts to eat up very large amounts of 
-disk space, and bandwidth.
-I sometimes think that Bittorrent might be relevant to our situation. 
-Distributed, low-overhead, free...
-Dominik
-On Fri, 15 Feb 2008, Jonathan Silk wrote:

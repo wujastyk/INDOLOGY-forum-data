@@ -1,7 +1,0 @@
-Pali Canon Online
-I connected without trouble to the page at
-www.cac.psu.edu/jbe/jbe.html and then had no difficulty getting and
-installing the (Mac) Normyn fonts (just drop them in your FONTS
-folder), and then downloading and displaying/printing the pali files.
-They looked beautiful.
-David Magier

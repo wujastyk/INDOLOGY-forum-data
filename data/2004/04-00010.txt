@@ -1,7 +1,0 @@
-Windows Times CSX fonts readable on OS X?
-Does anyone know of a way to be able to read and edit Windows Times
-CSX fonts on a MacIntosh Panther Office platform, or is this a pipe
-dream?
-                          Thanks,
-                          David Mellins
-                          Columbia University

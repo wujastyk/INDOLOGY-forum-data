@@ -1,9 +1,0 @@
-Would like info on CSX encoding.
-Hello,
-I have tried to get the descriotion of the CSX encoding, with no success.
-Archie, Veronica and South Asia Gopher give no pointers to it. There is
-a partial description in the ITRANS package; it also refers to a file
-called iass.zip whose existence archie and veronica deny.
-If CSX is some kind of properitary format that is not meant to public,
-then also please let me know so that I would not pursue this any further.
-I greatly appreciate any help.

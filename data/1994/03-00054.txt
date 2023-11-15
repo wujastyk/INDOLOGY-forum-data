@@ -1,8 +1,0 @@
-Machine-readable Skt Mahaabhaarata
-Dear Bart van Nooten,
-  Regarding your notice:
-  if you could send to me the text, or send instructions on how to fetch it
-via ftp, I would endeavor to convert it to IASS/CSX encoding and make it
-available for anonymous ftp.
-cheers,
-Tom

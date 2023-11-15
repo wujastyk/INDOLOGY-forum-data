@@ -1,8 +1,0 @@
-Tamil fonts
-  There is a Postscript font called Palladam which is available on
-several archives, including ftp.cica.indiana.edu unless I am mistaken.
-This would not be of any use unless you have ATM or a way to convert it
-to TrueType.
-  Some possibility exists that others may become available; I would monitor
-the Indology list for any announcements of same.
-Tom

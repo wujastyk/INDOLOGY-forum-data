@@ -1,5 +1,0 @@
-RAMAYANA & MAHABHARATA e-texts
-I have put a slight change to readme.doc and added
-Tokunaga's introductory notes.  I hope those who
-already fetched readme.doc replace it by readme.001.
-Michio YANO

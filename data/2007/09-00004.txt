@@ -1,5 +1,0 @@
-avagraha in Malayalam Manuscript
-Try IndoSkript, looking for avagraha = (straight) single quote.
-Avagraha starts occurring in the late 8th century - with NO result when 
-limiting the query to "Malayalam".
-Harry Falk

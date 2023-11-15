@@ -1,7 +1,0 @@
-[INDOLOGY] HTML definition of Unicode characters for r and l with "underring"?
-Dear list members,
-I would be much obliged for any information concerning the current HTML definitions for (vocalic) r, R, l, and L, long and short, with underring (not underdot).
-The definitions I found some years ago (e.g., &#59444; for R-underring and &#59445 for r-underring) do not seem to be valid anymore.
-I have searched Alan Wood's site, but in vain.
-Thanks in advance
-Reinhold Gr?nendahl

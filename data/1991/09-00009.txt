@@ -1,7 +1,0 @@
-soc.culture.india
-dear dominik,
-i wonder whether these usenet lists also have logs which could be retrieved
-from some site through ftp? i would even prefer to get may information that
-way because then i can go through them with some searches for key words. i also
-dislike reading 30 e-mails a day but one never knows what turns up.
--thomas

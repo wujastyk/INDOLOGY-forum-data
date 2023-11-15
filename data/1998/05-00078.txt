@@ -1,8 +1,0 @@
-Oriya-TeX (fwd)
-Oriya-TeX
-Hi Dominik,
-I've made Oriya TeX available in the state it is now
-(Metafont + Macros) on
-<ftp://ftp.tex.ac.uk/tex-archive/language/oriya>
-Malayalam will soon follow
-Jeroen

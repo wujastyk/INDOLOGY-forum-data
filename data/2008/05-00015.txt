@@ -1,9 +1,0 @@
-Mahabhasya now available in Intratext version
-On May 6, 2008, at 15:13 , George Cardona wrote:
-Speaking as one of those who converted the original files to text  
-files, I have realized that the GRETIL version, as well as its source  
-in Osaka, do have the problem of '??' ('a' with macron and acute)  
-having become simply 'a'.  I think we (or was it I?) introduced this  
-error when removing accents.  The original did have the correct  
-reading (with accent).  We will make an updated version ASAP.
-Kengo Harimoto

@@ -1,7 +1,0 @@
-Compatible Font for Macs and PCs...
-On Sat, 2008-11-29 at 13:49 +0530, Mary Storm wrote:
-I was unable to get Gandhari Unicode to work in OpenOffice on a Linux
-platform. Fortunately, plenty of other Unicode fonts work quite well.
-Richard Hayes
-Department of Philosophy
-University of New Mexico

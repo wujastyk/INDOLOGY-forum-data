@@ -1,8 +1,0 @@
-[INDOLOGY] Non-standard sandhi
-Nevertheless, the majority of these hits seem not to be instances of e > 
-a or o > a sandhi. Also, comparing them with the sa?hit? text in 
-M?ller's edition, most of them are given either as ? (that is, a single 
-vowel) or ? a, not as a a. A machine search for 'a a' may not be the 
-optimal way of finding examples of this unusual sandhi.
-Martin
-Den 2019-03-21 kl. 19:37, skrev Harry Spier:

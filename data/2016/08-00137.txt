@@ -1,9 +1,0 @@
-[INDOLOGY] Fwd: gretil
-Your ISP is probably maintaining a cached proxy of websites and has not
-updated it for GRETIL. Call your ISP.
-Paul Hackett
-On Aug 20, 2016, at 2:58 AM, Artur Karp <karp at uw.edu.pl> wrote:
-Re: [INDOLOGY] gretil
-502 Bad Gateway
-Artur Karp
-Poland

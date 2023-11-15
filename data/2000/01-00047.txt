@@ -1,6 +1,0 @@
-Vital Statistics
-The scripts do help give languages some identity, but
-Languages are not differentiated by scripts, but by things like case endings
-grammatical forms, vocabulary.
-the different scripts in india can easily be thought of as different fonts
-of the same script. But the languages have more variation.

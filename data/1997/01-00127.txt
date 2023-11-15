@@ -1,7 +1,0 @@
-Devanagari fonts for the Mac
-What a wonderful utility! It makes typing all the diacritics in romanised
-Sanskrit so much easier than the usual shift + option + deadkey + letter! I
-haven't explored all the possibilities of SILKey (with Devanagari fonts,
-for instance), but I readily recommand it to everyone. And it's free. Thank
-you Mr. Jonsson.
-Raynald Prevereau

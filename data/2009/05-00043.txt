@@ -1,7 +1,0 @@
-Devanagari Unicode fonts for the Mac?
-How things have moved on!  I routinely read email with Alpine (successor 
-to Pine), a character-based email client.  Yet I see all the N?gar? below 
-perfectly well (and romanized Sa?sk?ta goes without saying).  What a 
-relief after all those years of saMskRta etc.
-Dominik
-On Thu, 14 May 2009, James Hartzell wrote:

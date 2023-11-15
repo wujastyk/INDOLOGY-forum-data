@@ -1,8 +1,0 @@
-Conjuncts Errors #2
-                                      Wednesday, June 26, 1996
-The earlier email had two errors:  353. T+kh+ra
-and it didn't get sent to the ISO10646 list.  Can someone in Unicode
-forward it to that list?  Thanks and apologies,
-     Jim Agenbroad ( jage at LOC.gov )
-     The above are purely personal opinions, not necessarily the
-official views of any government or any agency of any.

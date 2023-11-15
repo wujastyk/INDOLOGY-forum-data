@@ -1,8 +1,0 @@
-[INDOLOGY] Fwd: [MailmanLists] Scheduled maintenance tomorrow
-[MailmanLists] Scheduled maintenance tomorrow
-This is an automated notice from MailmanLists.
-Notice of scheduled maintenance outage tomorrow.
-Server:   Amsterdam NLD
-Start:    04:00:00 UTC
-Duration: 30 minutes
-There may be delays to mail delivery during this time.

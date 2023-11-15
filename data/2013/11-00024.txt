@@ -1,6 +1,0 @@
-[INDOLOGY] Devanagari keyboard
-I also use Mac OS Devanagari-QWERTY" and it works well, but only on Pages. It does not work at all on Word -- if anyone can tell me how to use it in Word, I'd be grateful. For conjuncts, as Tim has said, you type the first consonant, then "f" (vir?ma) and then the second consonant; if there is a third, then you retype "f" and type the third consonant. 
-Uncommon consonant clusters can be accessed by going to "Format" -- Font, Show All Fonts. Then at bottom left click on the pin-wheel and get to Typography. There you will get to click on "Rare Ligatures"
-Best,
-Patrick
-On Nov 13, 2013, at 5:07 AM, Tim Bellefleur <tbelle at alumni.ubc.ca> wrote:

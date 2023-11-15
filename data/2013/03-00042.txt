@@ -1,3 +1,0 @@
-[INDOLOGY] Linux in a virtual box on Mac (was: Fwd: New	Sanskrit-Eng. dictionary...)
-It's important to note that the Tamil implementation in Snow Leopard has some serious bugs.  These were fixed in Mountain Lion.  George Hart
-On Mar 11, 2013, at 4:24 AM, Robert Zydenbos <zydenbos at UNI-MUENCHEN.DE> wrote:

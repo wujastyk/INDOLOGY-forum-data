@@ -1,8 +1,0 @@
-[INDOLOGY] Font with Brahmi characters
-Andrew Glass reminds me that Stefan Baums (also an INDOLOGY committee
-member) was the primary author on the Brahmi proposal which led to the
-inclusion of Brahmi in Unicode. I produced the original font which Michael
-supplemented.
-Thanks for the update, Andrew.
-Dominik
-On 3 August 2014 17:08, Dominik Wujastyk <wujastyk at gmail.com> wrote:

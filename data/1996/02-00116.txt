@@ -1,5 +1,0 @@
-WARNING
-Hi,
-I checked this one out with our computer managers. Apparently its a well known
-hoax! It might be done if one finds a way to jump directories.
-Girish

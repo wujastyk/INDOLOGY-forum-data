@@ -1,6 +1,0 @@
-Correction
-At 19:01 2.12.1996 +0000, Dominik Wujastyk wrote:
-This URL is incorrect.  It should read:
-ftp://ftp.bcc.ac.uk/pub/users/ucgadkw/indology/software/iass_csx_documentation.zip
-Thanks to B. Philip Jonsson for spotting this.
-Dominik Wujastyk

@@ -1,4 +1,0 @@
-Transliteration Macros for WP
-No, thanks, do not waste your time with me. I have developed some compromise 
-way of printing skt transliteration, and just wandered whether it would be 
-better and easier with WP. Thanks for info.

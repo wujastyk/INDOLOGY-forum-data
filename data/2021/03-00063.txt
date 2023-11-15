@@ -1,8 +1,0 @@
-Dear scholars,
-It is our pleasure to present the digitization of the following lexicon.
-Dvir?pasa?graha of Bharatamallika
-https://github.com/sanskrit-kosha/kosha/blob/master/dvirupadhvanisangraha_bharatamallika/orig/dvirupadhvanisangraha.txt
-Credits - in metadata section.
-Dr. Dhaval Patel, I.A.S
-Collector and District Magistrate, Surat
-www.sanskritworld.in

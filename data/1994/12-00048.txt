@@ -1,4 +1,0 @@
-telnet india
-Hello, could anybody give me some information on public telnet connections in
-India (e.g. login as a "guest").
-Please contact PFAEHLER at RULLET.LEIDENUNIV.NL

@@ -1,9 +1,0 @@
-Sorting Paragraphs
-Dear Philipp,
-   If you really need to preserve formatting, rather than writing a 
-full RTF-compliant application, it might be easier to simply write a 
-VBA macro with a simple bubble sort to run under Word to perform the 
-same task.
-Paul Hackett
-Columbia University
-At 2:21 PM +0200 8/10/10, Philipp Maas wrote:

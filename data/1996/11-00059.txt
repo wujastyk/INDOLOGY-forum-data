@@ -1,7 +1,0 @@
-Jaataka reference
-Hello,
-Does anyone know of software that adds Sanskrit diacritics to Word For
-Windows (6.0) documents?
-Thanks,
-George Fowler
-email: minding at world.std.com

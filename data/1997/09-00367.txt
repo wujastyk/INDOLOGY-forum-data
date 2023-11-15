@@ -1,6 +1,0 @@
-Emacs + devanagari
-In case you have missed the announcement, I am informed that there is a
-new version of Emacs (v 20.2).  It now has international language support
-built in as a standard. It supports Devanagari and a lot of other Asian
-languages and scripts.
-Dominik

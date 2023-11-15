@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -28,9 +28,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,8 +36,6 @@ jobs:
       - name: Generate the indexes
         run: |
           ./modules/publish-data/publish-data.sh
-      - name: Commit the changes
-        uses: stefanzweifel/git-auto-commit-action@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

@@ -1,3 +1,0 @@
-bounce problems
-Dominik's original message got trapped by LISTSERV, it looks for `bounce
-message' info.

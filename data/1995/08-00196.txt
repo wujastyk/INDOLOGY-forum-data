@@ -1,7 +1,0 @@
-Looking for researchers
-On Tue, 22 Aug 1995, purushottama bilimoria wrote:
-A friend of mine (a computer specialist) has already thought of adding 
-two special characters (masculine and feminine) to the ASCII table 
-and to write one of the two, or perhaps both in some case, before any email 
-address 
-eg

@@ -1,5 +1,0 @@
-BitComet as (simpler?) alternative to wget
-That's a good wheeze for people who use Windows.
-Thanks,
-Dominik
-2010/1/26 Lubin, Tim <lubint at wlu.edu>

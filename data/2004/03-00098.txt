@@ -1,4 +1,0 @@
-Convert Devanagari into romanized text: any automatic tools?
-Is the following reference of help?
-http://www.sanskritreader.de/
-Arlo Griffiths

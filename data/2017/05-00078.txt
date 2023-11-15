@@ -1,7 +1,0 @@
-[INDOLOGY] Font?
-Hi Richard,
-     I have been able to produce letters with the underdot.  My question is
-about how to produce letters with a circle underneath as in "r? r?? l? l??".
-Madhav
-On Thu, May 11, 2017 at 1:26 AM, Richard Mahoney | Indica et Buddhica <
-rmahoney at fastmail.com> wrote:

@@ -1,8 +1,0 @@
-Booksellers
-In the United States, there is an Indian book distributor in the Chicago area 
-who sell books by mail order.
-The address is:
-INDIA BOOK DISTRIBUTORS
-513 WEST ST. CHARLES RD., #D
-ELMHURST, IL 60126
-U.S.A

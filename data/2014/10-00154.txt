@@ -1,7 +1,0 @@
-[INDOLOGY] bulk downloading and assembly from DL
-There seem to be a number of apps designed to download from the DLI - 
-I've tried a couple and not sure which one Tim means, but the one 
-available at the link below has worked pretty well for me on a Mac:
-http://dli-downloader.blogspot.dk/2013/04/fast-dli-downloader-tool-to-download.html 
-Cheers
-Will

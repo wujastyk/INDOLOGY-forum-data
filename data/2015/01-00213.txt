@@ -1,4 +1,0 @@
-[INDOLOGY] Devanagari on MAC
-Dear All:
-It is very convenient to type Devan?gar? on a MAC using the Devanagari - QWERTY keyboard. There are some conjunct consonant, however, that are difficult to obtain. One especially frustrating one is the half-y when there are more than one consonant before it, especially in Pages and even in TextEdit. Is there a way to put a half "y" after such consonant clusters manually rather than depend on the QWERTY? Thanks.
-Patrick

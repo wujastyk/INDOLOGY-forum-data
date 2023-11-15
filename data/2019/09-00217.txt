@@ -1,5 +1,0 @@
-[INDOLOGY] Problem with Indology list postings.
-I stopped these yesterday as soon as I discovered what was happening
-(thanks to Seth Powell!).
-On Mon, 23 Sep 2019 at 13:21, Harry Spier via INDOLOGY <
-indology at list.indology.info> wrote:

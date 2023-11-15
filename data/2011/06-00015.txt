@@ -1,8 +1,0 @@
-fonts
-I see that you're using Apple Mail (2.1084).  Is this the latest version?  I
-don't know *anything* about Macs.  But Wikipedia suggests to me that the
-current version is 4, released in 2009.
-See http://en.wikipedia.org/wiki/Mail_%28application%29
-So check that first.
-Best,
-Dominik

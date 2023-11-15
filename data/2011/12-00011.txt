@@ -1,6 +1,0 @@
-innovating the decimal system
-Dear member(s), 
-I certainly agree that India was the first place where the decimal enunciation of numbers went so far as to give names to long series of powers of ten But, I would add the following remarks : 1? enunciation does not necessarily mean notation, so that one is still far away from a positional decimal system when one says "sahasrani sata dasha" instead of writing 1110; actually, in this example, the 1's are not enunciated and it is the names of the powers of ten that specify the value, not the position, and 2? it is only when the "1's" are enunciated, the "0" added and the names of the powers of ten dropped that we have a real positional decimal enunciation like 'one one one zero'. This happened in India in the first centuries AD, especially in the astronomical works named siddhantas, which enunciated 304, by instance, as tri sunya catur or as loka kha veda. By so doing, they replaced the numerals by number-words, so useful for metric (and thus verbal) facility, reminiscent of the numerals. And, even so, one cannot really ensure that the system was purely decimal for danta is sometimes used for 32 (and other single words for other two figures numbers). 
-Hoping this helps, 
-J.M.Delire, 
-Lecturer on 'Science and Civilization in India - Sanskrit texts' at the IHEB (University of Brussels)

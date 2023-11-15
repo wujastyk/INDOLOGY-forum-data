@@ -1,8 +1,0 @@
-ADMIN: Change in the "reply" function of INDOLOGY
-An alternative might be to have all list emails come automatically tagged with "INDOLOGY" at the start of the subject line.  At least then there is an immediate visual cue that it is not a personal message (something similar has worked well, but not flawlessly, on certain others lists I use).
-Steven Lindquist, Ph.D.
-Assistant Professor
-Department of Religious Studies 
-Southern Methodist University
-Homepage: http://faculty.smu.edu/slindqui
-On May 11, 2010, at 10:43 AM, Dominik Wujastyk wrote:

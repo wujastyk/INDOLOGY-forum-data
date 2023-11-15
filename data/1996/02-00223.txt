@@ -1,9 +1,0 @@
-urdu wordprocessing system
-Dear colleagues!
-I am looking urgently for a good Urdu wordprocessing system. "Good" means it
-should be able to handle footnotes and provide a beautiful laser-printout in
-nastaliq-style (fonts scalable), suitable for publications (I know, I ask
-for too much!?).
-Thanks for solutions!
-Martin Bemmann 
-e-mail: amuellen at ix.urz.uni-heidelberg.de

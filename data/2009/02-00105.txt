@@ -1,5 +1,0 @@
-frequencies
-I think it's precisely there where we'll find the most frequent words, I
-mean in the "particles, pronouns, numerals, and underived nouns and
-adjectives"
-Alexandra

@@ -1,6 +1,0 @@
-Help with Devanagari
-I am using Baraha Indian Language Software(though working on Windows only).  
-Comprehensive and user-friendly, it comes with an IME too. 
-Free download at
-http://www.baraha.com/
-Rohana Seneviratne, Oriental Institute, Oxford

@@ -1,7 +1,0 @@
-ANNOUNCE upgrade of SKT-series fonts
-Re: ANNOUNCE: Upgrade of SKT-series Devanagari font package.
-That should be ftp://ftp.nac.ac.za/wikner/sktdoc.ps600
-Thanks to Dominik for pointing it out; apologies to those inconvenienced.
-Regards,
-Charles Wikner.
-wikner at nacdh4.nac.ac.za

@@ -1,9 +1,0 @@
-Uighur
-Klaus Lagally, the author of ArabTeX, the Perso-Arabic script support
-package for TeX, is just having a go at adding support for Uighur.  He
-would like to make contact with someone who knows about the Uighur script
-and could give him feedback.
-  Klaus Lagally <lagally at informatik.uni-stuttgart.de>
-Best,
-Dominik
-Email processed on Mondays and Thursdays.

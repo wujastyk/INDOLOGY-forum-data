@@ -1,9 +1,0 @@
-e-text of Arthazaastra available
-Michio Yano and his colleagues have made yet another Sanskrit text 
-available in machine-readable form: 
-Many thanks, Michio, and please pass my gratitude to the team who prepared 
-this text.
-I have made copies of this version of the Arthasastra, as well as the 
-Brhatsamhita, at the London site ftp.bcc.ac.uk:ftp/pub/users/ucgadkw/indology.
-These copies are the same texts, but zipped instead of compressed.
-Dominik

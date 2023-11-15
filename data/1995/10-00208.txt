@@ -1,4 +1,0 @@
-Documentation on ISCII
-I was told that there was a discussion on ISCII representation. Can anybody
-send me some documentation on ISCII representation.
-Ramana

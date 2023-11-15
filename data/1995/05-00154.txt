@@ -1,7 +1,0 @@
-ijts correction
-Subscriptions with the body of the msg are actually accepted...but a bit 
-slower!
-We are still monitoring the new software for the Journal.
-All possible changes will NOT affect your subscriptions.
-Thank you for your endless patience!
-eg

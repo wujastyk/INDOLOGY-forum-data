@@ -1,7 +1,0 @@
-SARIT web application - Errors and Error Reporting
-Thanks for spotting this, Richard.  Patrick <patrick.mcallister at univie.ac.at
-of issues would be most helpful.
-Best,
-Dominik
-On 4 November 2010 10:14, Richard MAHONEY
-<r.mahoney at indica-et-buddhica.org>wrote:

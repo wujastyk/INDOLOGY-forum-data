@@ -1,8 +1,0 @@
-[INDOLOGY] Inability to see romanised (transliterated text with diacritics) Sanskrit in my emails.
-This is apparently an insoluble problem when Mailman posts are received in
-digest form.  Is this the case with you, Anuj?  If so, switch to individual
-messages, and maybe the problem will go away.
-Best,
-Dominik
-On 13 April 2017 at 10:05, AJ Misra via INDOLOGY <
-indology at list.indology.info> wrote:

@@ -1,8 +1,0 @@
-[Announce] Bengali for TeX.
-The new "Bengali for TeX" package is now available from the Comprehensive
-Tex Archive Network (CTAN). CTAN addresses are:
-        ftp.tex.ac.uk
-        ftp.dante.de
-The files reside in directory language/bengali/pandey/
-Regards,
-Anshuman Pandey

@@ -1,9 +1,0 @@
-sh/Z (was: Poverty)
-HaroldA at eworld.com writes:
-If you do an archie search for devnag, you should be able to find its
-location. If not, let me know and I can find out for you. TeX is a
-document typesetting system (public domain) written by Donald Knuth of
-Stanford University. Although originally developed to typeset
-technical documents (hence the name TeX, pronounced tech), it has
-proved to be useful to typeset other kinds of documents, including
-documents in other languages. 

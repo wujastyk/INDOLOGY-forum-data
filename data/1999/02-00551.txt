@@ -1,7 +1,0 @@
-rOman skript (was Re: Word splitting...)
-On 12 Feb 99,  Narayan S. Raja wrote:
-Unfortunately the computer hardware prices came down too rapidly.
-Had IBM1400 etc with 6 bit characters remained standard for a few more
-years there would remained only capital letters as was the case in 60s.
-With 8bit characters, the inertia set in and it became impossible to get rid of
-the redundancy.

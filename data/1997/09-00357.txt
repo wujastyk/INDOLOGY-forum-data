@@ -1,9 +1,0 @@
-VBA searching machine
-Hi,
-I am programming VBA modules that search in the TOKUNAGA-Mahabharata files for
-certain words you are looking for. The module looks not only for the term you
-are looking for but also checks for all possible cases and of cours the cases
-of sandhi too have to realzed. At the end the module should give you a list
-with all stanzas in your actual Winword-window. Are there anybody doing the
-job together with me?
-Heiner

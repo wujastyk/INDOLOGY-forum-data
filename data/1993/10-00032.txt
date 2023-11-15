@@ -1,9 +1,0 @@
-search
-In the last mail, Peter Claus wrote:
-Please note that the above features (apart from review) are NOT available
-with the listprocessor software that we run.
-Hopefully archive searching will be available when we upgrade but since we
-do not run the BITNET LISTSERV software, the powerful search facilities are
-not available. We hope to offer extended search but until announced, they
-are not available.
-Alan Thew

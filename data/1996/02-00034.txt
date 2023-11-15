@@ -1,8 +1,0 @@
-Skt dictionaries on-line
-I am working on a digital version of Monier-Williams and Boehtlingk (p).
-A preliminary online version of MW will be hopefully released this
-summer.
--Thomas Malten
-Institut fuer Indologie & Tamilistik, Pohligstr. 1, 50969 Koeln, Germany
-gopher linus.informatik.uni-koeln.de; ftp://ftp.rrz.uni-koeln.de/institute/indologie 
-http://www.rrz.uni-koeln.de/phil-fak/indologie/index.html

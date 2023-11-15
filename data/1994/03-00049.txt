@@ -1,8 +1,0 @@
-WIHM library now accessible
-The system group here at University College London report that
-the Wellcome Institute catalogue should now be telnet-able from
-the USA and elsewhere.
-I've just had success connecting with the library, starting from
-the Columbia gopher, so I assume it will be fine for everyone else
-too.
-Dominik

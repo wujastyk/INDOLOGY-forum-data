@@ -1,8 +1,0 @@
-Bibliography software; cross-platform-ness
-I will recommend Procite which has come out with a window95 version and is
-a delight to use.
-It has bibliolink option to directly download files from web into the data
-base, also you can export output into word, wp, ascii and html formats.
-It can create bibliography by scanning your text and picking up the
-references from reference data base. It is available for mac and ibm
-anil k gupta

@@ -1,9 +1,0 @@
-Sanskrit Google
-UTF-8 ???????? works, too.  Amazing.  I've come across 
-http://sa.wikipedia.org/wiki/  (Sanskrit version of Wikipedia) that 
-way.
-Devan?gar? search works with regular google.  I should have expected 
-this, since google has always accepted utf-8.  This is just a Sanskrit 
-interface, like Japanese, Dutch, etc.  Still, very funny on google's 
-part :)
-kengo harimoto

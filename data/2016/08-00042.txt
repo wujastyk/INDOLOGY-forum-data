@@ -1,8 +1,0 @@
-[INDOLOGY] Sinhala half nasal plus m
-ISO 15919 has m with the chandra sign above it for this character, but I
-also could not find this in a unicode font.  Is it possible that there is
-no unicode slot for this  character.  That would mean that some ISO 15919
-characters are not in Unicode.
-Harry Spier
-On Fri, Aug 5, 2016 at 9:27 AM, Rolf Heinrich Koch <
-rolfheiner.koch at gmail.com> wrote:

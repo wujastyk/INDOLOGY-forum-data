@@ -1,4 +1,0 @@
-[INDOLOGY] Unicode Devanagari on Mac
-Yes, It took me a while to work that out. I was on the phone to a baffled person at Apple trying to explain about my Sanskrit diacritics no longer working when the penny suddenly dropped.
-Valerie J Roebuck
-Manchester, UK

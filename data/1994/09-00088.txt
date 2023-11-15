@@ -1,6 +1,0 @@
-Please be careful in your replies
-Well I think it is possible to configure the listserv to set the
-Reply-to field to the originator instead of the list. Perhaps Chris
-could look into that if there happen to be too many replies to
-the list?
-- &

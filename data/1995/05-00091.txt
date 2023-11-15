@@ -1,7 +1,0 @@
-Query: Sadhu's e-mail
-Sri. Sadhu Nadesan's e-mail address has a "!" in it. Because of this,
-I could not send any e-mail to him. I request him to send an
-e-mail address which will work for Unix machines. Thanks.
-Yours
-n. ganesan
-nas_ng at lms461.jsc.nasa.gov

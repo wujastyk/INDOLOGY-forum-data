@@ -1,9 +1,0 @@
-Fw: Devnagari
-If you want your audience to see the fonts or layout of something you
-write, you have to send a bitmap or PDF (with embedded fonts).  There are
-many screen-capture or screen snapshot programs that make this quite easy.
-Otherwise, if you just write an email and send it, target machines will
-likely as not interpret and change what you send, adapting the text to
-their locally available fonts, etc.
-DW
-On 22 March 2012 04:35, Dipak Bhattacharya <dbhattacharya200498 at yahoo.com>wrote:

@@ -1,9 +1,0 @@
-Computer font info
-[ repost by list.admin at liverpool.ac.uk]
-Merry, the above URL seems to be incorrect. I assume the serve should
-be "cheops.anu.edu.au" rather than the form without 'au' that you
-listed. But also, the directory listing you gave in the rest of the URL
-is wrong (even if one writes Coombs-db instead of Cooms-db). Could you
-repost this with the right form of the URL so we can get at it?
-(Particularly looking for the asian fonts info you mentioned, in the
-"Asian computing database").  Many thanks.   David

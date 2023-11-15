@@ -1,8 +1,0 @@
-[INDOLOGY] Devanagari font adequacy
-Further to my post about Murty Hindi and the font of Graheli's 2015 book,
-here are some screenshots:
-Graheli:
-?Murty (doesn't quite have the full repertoire of sandhyaksaras for Skt):?
-?For comparison, the above using Sanskrit2003 (?with FakeStretch=1.08):
-?
-?

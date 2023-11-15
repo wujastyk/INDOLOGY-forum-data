@@ -1,5 +1,0 @@
-yuga, VarNa and colour
-On 5/19/97,  2:05 PM,  Jacob Baltuch wrote:
-You have to go on adding digits until a single-digit number is obtained,
-then it is true.
-Tony Stone

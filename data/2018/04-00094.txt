@@ -1,9 +1,0 @@
-[INDOLOGY] My Sanskrit verse today
-I am told by a few friends that they see in the second line of my verse the
-word "mukt?duyati?".  The Devanagari on my MacBook clearly reads
-"mukt?dyuti?."  So there is some issue in how Devanagari Unicode typed on a
-MacBook gets displayed elsewhere.  I don't have a way of solving this
-dilemma.  I would appreciate if anyone has suggestions.  Best,
-Madhav Deshpande
-Campbell, California
-2018-04-27 6:51 GMT-07:00 Madhav Deshpande <mmdesh at umich.edu>:

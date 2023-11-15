@@ -1,8 +1,0 @@
-Is CSX the best solution?
-Another disadvantage of any system that uses the extended character set is
-the very fragile nature of these codes ( i.e. those higher than 127).
-If the document has to be converted from one format to another (say from
-WP to MS Word or from WP5 to WP) then there are always strange results with
-the extended character set.
-Adrian Burton
-ANU.

@@ -1,6 +1,0 @@
-[INDOLOGY] recommended software for diacritical marks in Romanized Sanskrit transliteration?
-Dear Piotr,
-   You cannot send a ?.zip? file through a Listserv; it will be deleted as a security precaution (some systems will automatically execute them, which makes them a vector for malware & viruses).
-   Instead, you should upload the .zip file to a file-sharing website and provide the download link in your email.  
-Regards,
-Paul Hackett

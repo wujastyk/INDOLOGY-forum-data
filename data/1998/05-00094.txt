@@ -1,5 +1,0 @@
-Koel (and Hobson-Jobson)
-dub-dub-dub
-or: shortened to dub-dot
-Peter
-On Wed, 6 May 1998, Dominik Wujastyk wrote:

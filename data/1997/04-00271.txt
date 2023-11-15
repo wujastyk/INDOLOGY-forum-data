@@ -1,7 +1,0 @@
-Universally applicable diacriticals
-Philip Johnson wrote:
-I wonder if anyone is thinking of a way to create software by which one
-might universally apply all possible diacriticals to any existing font?
-It would be a formidable undertaking--and a most welcome development. 
-J. Kingston Cowart
-San Diego, California  

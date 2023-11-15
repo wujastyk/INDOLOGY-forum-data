@@ -1,3 +1,0 @@
-prefix - no
-I have had several tries at this; unfortunately the server rejects
-postings which are too similar !

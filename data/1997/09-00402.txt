@@ -1,8 +1,0 @@
-Emacs + devanagari
-Anshuman Pandey <apandey at U.WASHINGTON.EDU> wrote:
-Unfortunately, the multilingual support on Emacs 20 is available only
-on UNIX (and UNIX-like) platforms *with X Window*. This means, even on
-UNIX,  Emacs on character terminal mode does not support multilingual
-processing.
-Toru Tomabechi
-University of Lausanne

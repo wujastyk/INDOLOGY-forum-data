@@ -1,9 +1,0 @@
-[INDOLOGY] IAST or ISO 15919 input tools for Windows 7
-Dear Colleagues,
-I would like to install on a Windows 7 machine a keyboard layout to 
-input Sanskrit in IAST or ISO 15919 system-wide--and not only in Word. I 
-know that many threads in this list have been dedicated to this topic, 
-but I cannot find them anymore. I haven't been able to find a good 
-solution so far, do you have any suggestion?
-Best wishes,
-Camillo Formigatti

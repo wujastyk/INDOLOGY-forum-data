@@ -1,7 +1,0 @@
-[INDOLOGY] Hindi/Marathi transliteration
-Dear list members,
-I've been asked this question to which I don't know the answer.  In the
-transliteration of Hindi or Marathi are dashes usually placed between stems
-of compounds as is sometimes done in transliterating sanskrit.
-Thanks,
-Harry Spier

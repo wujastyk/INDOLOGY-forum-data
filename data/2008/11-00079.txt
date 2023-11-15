@@ -1,6 +1,0 @@
-Compatible Font for Macs and PCs...
-Yes, I tried Gandhari Unicode and it won't work. I think the problem  
-is OS X, but that has now been out on the market for a while. . . so  
-somebody has surely tackled this problem for Macs.
-Mary Storm
-On 29-Nov-08, at 1:14 PM, Valerie J Roebuck wrote:

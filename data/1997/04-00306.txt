@@ -1,9 +1,0 @@
-`Conversational Sanskrit' vs `Real Sanskrit'
-zydenbos at flevoland.xs4all.nl (Robert Zydenbos) wrote:
-I don't know Kannada. But in colloquial Tamil, the past tense is not
-expressed using participle like forms. The typical formation would be
-``vii.t.tukku ppo_n~e'' and not ``vii.t.tukku po_nav~a n~aa''
-[~ preceding a vowel indicates nasalization, and corresponds to a
-word-final _n following in formal Tamil.] Participles are used in place
-of relative claueses and to put emphasis on the subject, but not, AFAIK,
-as the typical means of expressing the past tense.

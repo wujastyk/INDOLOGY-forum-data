@@ -1,3 +1,0 @@
-searchable indices?
-That is helpful, but not ideal.  Offline we can do all kinds of useful searching with plain text files, but Google seems to index only by word, which it judges by spaces or period marks.  So your search does not actually turn up all of the cases of ?c?rya, only the ones where it is followed by a space or period.  
-On Aug 24, 2010, at 1:19 PM, Dominik Wujastyk wrote:

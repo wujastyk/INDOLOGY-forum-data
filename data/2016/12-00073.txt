@@ -1,9 +1,0 @@
-[INDOLOGY] GRETIL update #477
-GRETIL is pleased to be able to report the following addition(s) to its collection:
-Texts:
-Maitrayani-Samhita<http://gretil.sub.uni-goettingen.de/#MaitrS>: analytic and plain text
-Secondary Resources:
-B?htlingk: Kleines Petersburger W?rterbuch<http://gretil.sub.uni-goettingen.de/#PWK>
-Apte: The Practical Sanskrit-English Dictionary<http://gretil.sub.uni-goettingen.de/#ApSE>
-GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
-http://gretil.sub.uni-goettingen.de/gretil.htm

@@ -1,9 +1,0 @@
-BitComet as (simpler?) alternative to wget
-In the bash shell I posted a little while ago, the first line should read
-#!/bin/bash,
-not
-#!bin/sh
-as I posted.
-I shall be sending ten Euros to each of you who wrote to tell me of this
-error (before today).
-corrected version:

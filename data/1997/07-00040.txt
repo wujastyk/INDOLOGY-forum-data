@@ -1,7 +1,0 @@
-Sanskrit OCR
-                      Re: Sanskrit OCR
-                     ******************
-Because Tamil has no consonant cluster letters and only 18 consonants,
-rather small, it must be easier than Devanagari OCR.
-Does anyone know of the state of development of Tamil OCR?
-N. Ganesan

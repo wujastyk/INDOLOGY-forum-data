@@ -1,6 +1,0 @@
-Vaishesikasutra E-text
-Perhaps I misunderstood this, but I downloaded the Vaishesikasutra E-text
-and tried to read it with a CSX font, without success (I mean it was
-garbled). Is a CS font different from a CSX font?
-Jonathan Silk
-SILK at wmich.edu

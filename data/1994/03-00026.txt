@@ -1,4 +1,0 @@
-TT Font designer
-There is a Windows version of Fontographer which can be used to design
-TrueType fonts.
-                Madhav Deshpande

@@ -1,8 +1,0 @@
-Query
-Dear Patrick,
-I am not sure about the first problem, but if you would like to get a three letter conjunct (g+?+vi) then I am afraid this might just not be possible on the Mac.
-As far as ?+g is concerned, this works in Textedit (preinstalled Mac text editor) after activating the "Additional conjuncts" option in the submenu "Typography" of the ?+T menu. I would suppose in Page should be a similar way to add less frequent compounds, but I don't use this program.
-Best wishes,
-Sven
-Empfehlen Sie GMX DSL Ihren Freunden und Bekannten und wir
-belohnen Sie mit bis zu 50,- Euro! https://freundschaftswerbung.gmx.de

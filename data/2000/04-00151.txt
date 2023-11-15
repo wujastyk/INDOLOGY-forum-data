@@ -1,7 +1,0 @@
-Vedic accents in Unicode
-Michael Everson <everson at EGT.IE> wrote
-Shouldn't the visarga like characters (jihvaamuuliiya, upadhmaaniiya and
-ardhavisarga)  shown at
-http://ourworld.compuserve.com/homepages/stone_catend/tr4.htm#p7 be included in
-the proposal as well?
-- Chris

@@ -1,8 +1,0 @@
-Sanskrit to French dictionary available
-I am releasing on Internet the first edition of my sanskrit-french dictionary.
-It consists of 2 postscript files of 1.5Mb each, accessed easily through my
-Web page http://pauillac.inria.fr/~huet/SKT/indo.html
-It is a small dictionary (~8000 entries) which aims at being a small
-indology glossary.
-All comments and corrections welcome, of course.
-Gerard Huet

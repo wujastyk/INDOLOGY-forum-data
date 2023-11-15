@@ -1,9 +1,0 @@
-[INDOLOGY] Academia.edu and privacy issues
-I've discovered that the puzzlingly appropriate recommendations I've
-received are being sent not from the domain academia.edu but from
-academia-mail.com.  But I think it is still the same outfit, so not
-phishing.  I've written to ask them what's going on.   Looking at
-their notification
-system <https://www.academia.edu/settings#email-notifications> I'm
-wondering if it's that, somehow working much better than one would
-imagine.  But that doesn't explain your examples.

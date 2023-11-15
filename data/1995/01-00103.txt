@@ -1,8 +1,0 @@
-unsubscribing
-Yes that sounds more reasonable. But we should be careful to keep the
-header brief (as someone once said, "on the internet, long = noise") (or
-something like that!). 
-        I believe the list server already has an automated help file. Why
-not just give enough info in the header so that everyone knows how to
-download the help file.
-Adrian Burton.

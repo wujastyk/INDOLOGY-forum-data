@@ -1,9 +1,0 @@
-[INDOLOGY] Problem searching Indology archives
-I've just tried to search the Indology archives.  When I click on any of
-the search results I get this error message.
-Not Found
-The requested URL /pipermail/
-indology_list.indology.info/2008-July/126472.html was not found on this
-server.
-Additionally, a 404 Not Found error was encountered while trying to use an
-ErrorDocument to handle the request.

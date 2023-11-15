@@ -1,6 +1,0 @@
-[INDOLOGY] Typing IAST transliteration in Windows 8
-I'm not a Windows user, so could someone who uses Windows 8 let me know
-what utility they find convenient for typing Sanskrit in IAST
-transliteration, in Unicode?
-Many thanks,
-Dominik

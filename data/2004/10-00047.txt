@@ -1,7 +1,0 @@
-query
-.sa.s.tikaa is a reasonably common word in the corpus of ayurvedic
-literature.  It occurs in Carakasamhita, Susrutasamhita, Astangahrdaya,
-Sarngadharasamhita, and Bhavaprakasa.  Not in the Madhavanidana.
-Best,
-Dominik
-On Fri, 22 Oct 2004, Maheswaran Nair wrote:

@@ -1,6 +1,0 @@
-utf-skt works & Unicode for Mac users
-Am Donnerstag, 17. Oktober 2002 01:21 schrieb Dominik Wujastyk:
-Thank you for the tip - I just downloaded the program and the manual, but the
-address should be http://www.jedit.org .
-Robert Zydenbos
-Muenchen

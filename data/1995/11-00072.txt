@@ -1,4 +1,0 @@
-fonts
-Are there any shareware Truetype fonts for diacritics that include
-the requisite diacritics for transliterating Sanskrit?  
-J. Hartzell

@@ -1,8 +1,0 @@
-Tibetan TeX
-I am afraid that these Tibetan fonts were never created in METAFONT
-format.  The PK files are direct translations from 300 dpi bitmaps
-in another bitmap format.  :-(  Sorry.
-The Free Software Foundation does have tools for converting bitmap
-fonts into outline format, but doing this is a very non-trivial
-task, and probably requires a unix workstation.
-Dominik

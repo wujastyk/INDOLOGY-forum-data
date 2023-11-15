@@ -1,6 +1,0 @@
-Babel correction
-I wrote:
-CTAN:/tex-archive/macros/latex/packags/babel has now Babel release 3.7
-That is of course a typo.  The correct directory is
-CTAN:/tex-archive/macros/latex/required/babel
-Reinhard Zierke

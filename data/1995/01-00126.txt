@@ -1,6 +1,0 @@
-Yano' program
-If you are a Mac user, all you need is MacGzip (or pehaps Mac Compress) to
-uncompress those Unix files into Mac format.
-You should be able to get a copy of those programs at your local help desk.
-That's what I did, at least, and it worked well.
-Beatrice Reusch

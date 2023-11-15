@@ -1,9 +1,0 @@
-[INDOLOGY] GRETIL update #490
-GRETIL is pleased to be able to report the following addition(s) to its collection:
-Texts added:
-Moksopaya [= "Yogavasistha"], Text of the critical edition<http://gretil.sub.uni-goettingen.de/gretil.htm#Moksop>
-Rastrapalasutra<http://gretil.sub.uni-goettingen.de/gretil.htm#RastrpSu>: transliteration and plain text
-Text revised:
-Moksopaya [= "Yogavasistha"] with Bhaskarakantha's Tika<http://gretil.sub.uni-goettingen.de/gretil.htm#MoTik>
-GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
-http://gretil.sub.uni-goettingen.de/gretil.htm

@@ -1,8 +1,0 @@
-Q: Norman fonts
-A question - I have used the Norman font for Windows (TTF), available from
-John Smith's ftp-site for quite a while. Although there is a proper italics
-font (mytymes), there does not seem to be a proper font for bold print. On
-the other hand, Norman for Macintosh does beautiful (i.e. discernable) bold
-print, so I presume somebody designed proper bold print for the original
-Norman typeface, but this was never really done for the TTF-version. Am I
-correct, or is there another explanation?

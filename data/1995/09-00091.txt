@@ -1,9 +1,0 @@
-Missing Sanskrit Fonts
-According to an archie search just performed, these ftp files can be
-found in several places including:
-a) ftp.uu.net     in directory:
-      /doc/papers/coombspapers/otherarchives/asian-studies-archives/
-       asian-computing
-b) coombs.anu.edu.au   in directory
-      /coombspapers/otherarchives/asian-computing-archives
-David Magier 

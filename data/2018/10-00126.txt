@@ -1,8 +1,0 @@
-[INDOLOGY] Vedic citations
-Friends:
-I am sure this is a problem we have all encountered. A presumably Vedic citation is given in a text, and it cannot be traced. But when such citations are given in such an ancient and authoritative text as ?abara?s commentary on the M?m??s? S?tras, however, they raise an issue. What do we make of such citations, which, I am sure, ?abara knew to be Vedic. Some of these can be traced, as Agrawal (M?m??s?-Uddhara?a-Ko?a) does, to extant texts such as the ?atapatha, but the wording is only approximate.
-So we have
-??????? ????????? ? ?????? ??? ??????? (?abara on PMS 3.4.20)
-traced to ?Br 3.1.2.16 (Agrawal give 3.2.1.16, which is an error), but there we have: ??????? ?? ???????? (rest omitted).
-I wonder whether anyone has thought about this. Thanks.
-Patrick

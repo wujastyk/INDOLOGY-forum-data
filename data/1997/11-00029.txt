@@ -1,7 +1,0 @@
-m/anusvAra & s/visarga
-Thanks to Elliot Stern for destroying my illusions :) You say:
-Damn! The real pain is to have to reach for that shift key.
-I think I'll just use <x> for visarga then. How does this
-look: duxkha, azvax?
-(I'd just use <:> (du:kha, azva:) but that would require
-shift too)

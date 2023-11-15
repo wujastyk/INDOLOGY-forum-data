@@ -1,7 +1,0 @@
-[INDOLOGY] XeTeX tec file for Tamil?
-?Does anyone have a TECkit
-<http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=TECkitDownloads>
-file for auto-transliterating standard Latin-script input to Tamil script
-output??
-Best,
-Dominik Wujastyk

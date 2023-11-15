@@ -1,9 +1,0 @@
-CSX font on Windows
-Madhav Deshpande wrote: 
-If I may add a constant nagging question (or demand) of mine - I am looking
-for a device in Windows which enables one to allocate whatever characters of
-whatever font to whatever keystroke (alt+whatever, ctrl+whatever) I want. 
-Just a flexible Windows-keyboard-editor. Does such a thing exist?
-Birgit Kellner
-Institute for Indian Philosophy
-University of Hiroshima

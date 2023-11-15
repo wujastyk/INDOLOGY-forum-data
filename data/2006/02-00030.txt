@@ -1,7 +1,0 @@
-Commercial Nagari font? (fwd)
-Many thanks for these improvements to Devanagari MT. Some further  
-improvements might be called for before it can be used, I noted the  
-following problems: cchr does not combine properly (k.rcchre.na),  
-neither does "nghr (a"nghri).
-Somadeva Vasudeva
-On 17 Feb 2006, at 21:13, Blake Wentworth wrote:

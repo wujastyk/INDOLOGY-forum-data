@@ -1,8 +1,0 @@
-SV: Devanagari
-Devanagari comes with OS10.   All one has to do is install the
-selected Indic languages on the system install disk. I am sure that
-it does not have everything for Classical Sanskrit, but it is a
-start. Some Mac also use Unicode
-JOhn
-John
-The fonts are terribly boting however.

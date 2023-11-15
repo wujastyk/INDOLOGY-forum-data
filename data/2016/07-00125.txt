@@ -1,5 +1,0 @@
-[INDOLOGY] Unicode Devanagari on Mac
-I'd also like to thank everyone who has clarified Sanskrit diacritical
-inputs in El Capitan. Big relief!
-David
-On Sat, Jul 16, 2016 at 7:14 AM, Madhav Deshpande <mmdesh at umich.edu> wrote:

@@ -1,7 +1,0 @@
-[T. Matthew Ciolek <tmciolek@coombs.anu.edu.au>: Current WWW
-Not at all. In fact, this kind of mirroring and cross-referencing of
-internet resources benefits the whole community of scholars, since it
-makes the info even more accessible and spreads the burden of
-providing access (which also helps ensure better responsiveness from
-the server machines themselves).
-David Magier

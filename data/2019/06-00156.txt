@@ -1,2 +1,0 @@
-[INDOLOGY] ISO15919 and case insensitivity
-In light of the fact that Dravidian languages have both short and long e and o, it would be helpful to many scholars who use texts in Tamil, Malayalam, Telugu and Kannada if Sanskrit e and o were marked with a macron (?, ?) in standard transliteration. The lack of such indication causes all sorts of problems when quoting from those languages, especially since they all often use Sanskrit words intermixed with native ones. George Hart

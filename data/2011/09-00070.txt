@@ -1,8 +1,0 @@
-A query on OCR for Sanskrit or Tamil
-Dear Indologists,
-I got the following query from a friend. 
-I saw a book on Srimad Bhagavatam which is out of print now. This book has Sanskrit slokas, Tamil transliteration and word for word meanings. Do you know if one can scan this book and convert to digital files using Optical Character Recognition? 
-I would appreciate any information on OCR for either Sanskrit or Tamil.
-Thanks in advance
-Regards,
-Palaniappan

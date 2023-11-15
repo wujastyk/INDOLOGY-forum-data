@@ -1,6 +1,0 @@
-Harvard-Kyoto
-Oops!
-This should, of course, read
-        "<eng>This verb is</eng> <skt>i.t</skt>."
-Apologies for any confusion.
-Dominik

@@ -1,8 +1,0 @@
-The vir?ma renders correctly both on my iPhone5 and on my MacBookPro retina late 2013. So it seems odd that Hans reports his MacBookAir did not render it, if it is a platform issue.
-Elliot M. Stern
-552 South 48th Street
-Philadelphia, PA 19143-2029
-United States of America
-telephone: 215-747-6204
-mobile: 267-240-8418
-emstern at verizon.net

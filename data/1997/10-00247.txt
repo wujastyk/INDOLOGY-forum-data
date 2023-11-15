@@ -1,7 +1,0 @@
-Marathi repha
-Ashok Aklujkar wrote:
-So the _only_ difference between R and R' is that a cluster beginning with
-R' does not make the preceding vowel heavy?
-Can that R' occur at the beginning of clusters of more than 2 consonants,
-and _if_ the answer to that is no, could one analyze the situation as if
-for example R'y was not a sequence of two phonemes but one single phoneme?

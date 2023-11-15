@@ -1,5 +1,0 @@
-Additional formats for e-texts in GRETIL
-2) to make sure that you have a UTF-8 font installed on your
-computer.
-Where can I get the fonts for PC?
-Dean Anderson

@@ -1,4 +1,0 @@
-fonts
-I believe most of the Blackbox files were transferred to the Indology
-ftp archive...
-David Magier

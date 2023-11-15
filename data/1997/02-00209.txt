@@ -1,6 +1,0 @@
-An Exciting New Development
-It may be interesting to note, that the Samskrita Bharati page at
-http://rbhatnagar.ececs.uc.edu:8080/sanskrit/mlist.html
-is using a similar system. They too offer a downloadable Devanagari font, by installing which their daily Sanskrit lessons can be directly viewed in Devanagari in the Web-browser.
-Greetings,
-Vishvarupananda

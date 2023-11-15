@@ -1,2 +1,0 @@
-Firefox now offers a free service for sharing large files,
-   - https://send.firefox.com/

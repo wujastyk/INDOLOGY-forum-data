@@ -1,4 +1,0 @@
-[INDOLOGY] unicode grantha fonts
-Be aware that (some of?) those fonts may not be properly constructed.  Following this exchange, I installed a few of the NotoSans fonts and began have software problem (Adobe programs crashing on launch).  I removed the fonts and the problems disappeared.
-Regards,
-Paul

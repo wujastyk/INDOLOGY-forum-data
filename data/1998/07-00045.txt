@@ -1,7 +1,0 @@
-Sanskrit
-Luis Gonzalez-Reimann informed me
-But how? Does anybody know why there are attachments to my postings? I do not attach anything actively. I work on a NT Windows server, with the Windows Messaging. I write my postings with the Compose command (Reply to Sender), then I send it to outbox, and from there to the server. The attachment may be of the following character
-Attachment Converted: C:\NETWORK\EUDORA\ReSansk3
-Strange enough, when I receive my own posting from the indology server, no such attachment is seen! WHO does receive the confusion attachment, and WHICH specifications does his machine? If it is machine dependent at least.
-Sandra van der Geer
-(apologize in advance if an attachment is shown to this posting!)

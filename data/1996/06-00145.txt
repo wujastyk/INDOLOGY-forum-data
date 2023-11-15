@@ -1,9 +1,0 @@
-Harvard-Kyoto
-good idea to initiate a Vedic bibliography - but using the Harvard-
-Kyoto transcription would result in a nightmare. Any z in a personal
-name or non-Skt term would be converted to /s, Jolly would end up
-as ~nolly etc. The usual aa>A conversion gives similar trouble if
-you think of Staal or Fujii. It might be advisible to use the Vienna
-codes or create something new, but any standard which does not lend
-itself to automatic conversion should be banished.
-Harry

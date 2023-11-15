@@ -1,7 +1,0 @@
-Dear Zdenek, what you say is borne out by my tests, where the only font
-showing a difference between Sanskrit and Hindi is the FreeSerif (the -kti-
-conjunct).
-(I used the Fontspec/Polyglossia system for language-switching.)
-Best,
-Dominik
-On 18 June 2017 at 02:04, Zdenek Wagner <zdenek.wagner at gmail.com> wrote:

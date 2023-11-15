@@ -1,9 +1,0 @@
-Dear Scholars,
-It gives me immense pleasure to present before you all the digital version
-of the following lexicon.
-Dhara?iko?a of Dhara?id?sa
-https://github.com/sanskrit-kosha/kosha/blob/master/dharanikosha_dharanidasa/orig/dharanikosha.txt
-It is also available via API.
-Dr. Dhaval Patel, I.A.S
-Collector and District Magistrate, Surat
-www.sanskritworld.in

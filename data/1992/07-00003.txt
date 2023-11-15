@@ -1,7 +1,0 @@
-Numerical IP address for ftp
-The numerical IP address for ftp.bcc.ac.uk is 144.82.100.41 at the moment.
-This may change.  The address "ftp.bcc.ac.uk" will not change.  But if
-you want to connect *today* the numerical address works and the
-text one doesn't.
-Best wishes,
-Dominik

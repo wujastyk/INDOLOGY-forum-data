@@ -1,6 +1,0 @@
-Telnet to Wellcome library now works
-Telnet access to the Wellcome library is now functioning as advertised.
-Sorry for the initial glitch.  I still have about 450 Sanskrit texts
-to add to the catalogue in the next fortnight.  Stay tuned.  Comments
-(pro or con) appreciated.
-Dominik

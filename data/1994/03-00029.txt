@@ -1,7 +1,0 @@
-Access to wihm.ucl.ac.uk
-As I mentioned, access to the Wellcome Library catalogue from
-the USA by telnet is still not working, I'm afraid.  I append
-an explanatory message from the local network team explaining
-the situation.  
-I'm sorry for the delay; please be patient.
-Dominik

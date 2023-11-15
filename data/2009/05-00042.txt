@@ -1,7 +1,0 @@
-Devanagari Unicode fonts for the Mac?
-Dear Sven
-I see that you're correct for ?????; I don't know how to get around this
-particular problem.
-Cheers
-James
-On Thu, May 14, 2009 at 9:09 AM, Sven Sellmer <sellmers at gmx.de> wrote:

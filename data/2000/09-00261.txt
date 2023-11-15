@@ -1,8 +1,0 @@
-Electronic Vedic Concordance
-Hello Everyone,
-        I have been trying to use the electronic version of the Vedic
-Concordance on my Macintosh Powerbook 1400c without success.  Each time
-Nisus tries to read the main Concordance file, I get the message "not
-enough memory".  My machine has 64 MB ram.  Does anyone know how much
-memory one needs to be able to read the Concordance files?  Best,
-                                                Madhav Deshpande

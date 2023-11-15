@@ -1,7 +1,0 @@
-[INDOLOGY] Transliteration font for Mac 11.5.2
-Dear Friends and Colleagues,
-Thanks to those who already responded.
-In the meantime I have been able to solve the issue, and I am sharing this in case somebody else might encounter the same problem.
-The important thing is not the font (Gandhari Unicode), but the rendering machine ? Easy Unicode. Once that is properly installed it works, even on OS 11.5.2 (?Big Sur?).
-All the best,
-HHH

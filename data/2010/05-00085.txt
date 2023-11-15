@@ -1,8 +1,0 @@
-wget (was: Re: Abhandlungen der              K=?iso-8859-15?Q?=F6nigliche?= n Ak ademie der Wissensch aften zu              B erli)
-Why not C-like syntax:
-for ((i = 1; i <= 397; i++)) do
-? bash 3 (default on OS X) accepts this syntax. It works even when bash called as sh. The ksh, too, has that syntax; I wouldn't be surprised if the original bourne shell had it.
-I personally use a perl script calling several instances of curl at the same time.
-All the best,
-kengo harimoto
-On May 19, 2010, at 12:49 , Dominik Wujastyk wrote:

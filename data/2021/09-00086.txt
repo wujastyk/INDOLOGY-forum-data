@@ -1,5 +1,0 @@
-[INDOLOGY] Grep tool for searching on Mac
-Dear all
-Is there any readymade tool for using the Grep command for Sanskrit text
-string for multiple files?
-Thanks

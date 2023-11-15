@@ -1,5 +1,0 @@
-[INDOLOGY] Unicode Devanagari on Mac
-Yes, This is true, but have you found a convenient way to enter the full range  of diacritica for Romanized Sanskrit without having to resort to Emoji/Latin/favorites inserts? 
-This is not the worst thing in the world, but slower than the old Easy Unicode or Dev Unicode keyboards.
-David
-Sent from my iPhone

@@ -1,7 +1,0 @@
-TITUS Homepage
-Indologists may well be interested in the work of the TITUS project:
-URL http://watson.rz.uni-frankfurt.de/home/ftp/pub/titus/public_html/
-Stephen Miller
-National Academic Typesetting Service
-Oxford University
-stephen.miller at oucs.ox.ac.uk

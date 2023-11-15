@@ -1,8 +1,0 @@
-Scanning of devanagari
-On Sun, 6 Oct 2002, Lars Martin Fosse wrote:
-Devanagari OCR still can't be done as cheaply and accurately as
-double-keyed manual entry.  That's for good printed text.  Manuscripts are
-probably never going to be readable automatically.  The material at
-http://www.cedar.buffalo.edu/ILT/ is pure fantasy, in my view.
-Best,
-Dominik

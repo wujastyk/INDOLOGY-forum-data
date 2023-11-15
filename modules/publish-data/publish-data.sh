@@ -1,15 +1,23 @@
 
 GITHUB_WORKSPACE=$(pwd)
+archives_dir_path=$GITHUB_WORKSPACE/archives
+public_dir_path=$GITHUB_WORKSPACE/public
+raw_data_dir_path=$public_dir_path/raw-data
+
 input_dir_path=$GITHUB_WORKSPACE/input
 data_dir_path=$GITHUB_WORKSPACE/data
 raw_data_dir_path=$GITHUB_WORKSPACE/raw-data
 
-rm -rf "$GITHUB_WORKSPACE/public"
-mkdir -p "$GITHUB_WORKSPACE/public"
+rm -rf $public_dir_path
+mkdir -p $public_dir_path
+mkdir -p $raw_data_dir_path
+
+# copy the archives to the 'public/raw-data' folder
+cp -a $archives_dir_path/. $raw_data_dir_path/
 
 # unarchive the archives from the 'input' folder
-#find "$input_dir_path" -name "*.gz" -exec gunzip -d {} \;
-
+find "$raw_data_dir_path" -name "*.gz" -exec gunzip -d {} \;
+exit 0;
 # rename each file from 'input' folder and move it to a subfolder with year as name
 declare -A months
 months=([January]=01 [February]=02 [March]=03 [April]=04 [May]=05 [June]=06 [July]=07 [August]=08 [September]=09 [October]=10 [November]=11 [December]=12)

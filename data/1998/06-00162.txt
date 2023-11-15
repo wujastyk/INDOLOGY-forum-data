@@ -1,7 +1,0 @@
-Itrans version 1.2b
-The new 1.2b version of itrans appears to be great improvement on
-the earlier version. I am attaching roman transliteration file (ribhu.txt)
-I typed in and the Devanagari output (ribhu.rtf), which can be viewed in
-Word with sanskrit 1.2 font, in the zip file ribhu.zip.
-regards,
-sarma.

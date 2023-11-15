@@ -1,6 +1,0 @@
-The Indus script as proto-writing
-The URL I give to our 2004 paper in the section below was incomplete.  
-The correct address to download it:
-http://www.safarmer.com/fsw2.pdf
-On Jul 14, 2011, at 9:16 AM, Steve Farmer wrote:
-Steve Farmer

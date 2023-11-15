@@ -1,9 +1,0 @@
-[INDOLOGY] Typing IAST transliteration in Windows 8
-Many thanks to Adriano Aprigliano, Gerard Huet and Herman Tull for their
-kind answers.  They variously mentioned:
-   - https://sites.google.com/site/bhashaime/
-   - http://www.thubtenrigzin.fr/fr.html
-   - Baraha
-   - Word shortcut keys
-Best,
-Dominik

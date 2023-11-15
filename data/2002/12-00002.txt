@@ -1,8 +1,0 @@
-Additional formats for e-texts in GRETIL
-Dear Reinhold:
-I must be doing something wrong, but access to the site with ATIL was
-denied to me. When I did try to download the MBh it wanted me to
-download also the font which appeared as HELVSN---1.TTF; but on my
-Word it did not show up as a font even after restarting the computer.
-I am on a MAC with OS 9.2. Thanks.
-Patrick Olivelle

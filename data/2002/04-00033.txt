@@ -1,8 +1,0 @@
-sanskrit text
-Well, I've got the Arial Unicode, but not XP or Office.  Apparently Opera
-6.1 has the necessary glyph rendering built into it.  (It appears to be
-better than IE 6 at handling XML in other respects too; and there's a
-Linux version.)  That explains why things look wrong with IE but right
-with Opera, on my workstation.
-D
-On Fri, 12 Apr 2002, Stefan Baums wrote:

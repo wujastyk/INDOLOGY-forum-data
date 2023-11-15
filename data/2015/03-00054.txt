@@ -1,5 +1,0 @@
-Dear Peter,
-it seems like the problem is common to all ligatures having an r- as their first sign, e.g. rg[vir?ma], rt[vir?ma], rp[vir?ma] and so on. I didn?t noticed that before.
-Yours,
-Marco
-Il giorno 13/mar/2015, alle ore 19:34, Peter Scharf <scharfpm7 at gmail.com> ha scritto:

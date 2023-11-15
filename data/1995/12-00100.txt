@@ -1,9 +1,0 @@
-WEB pages updates
-Dear Reinhold,
-Thank you for the Web and telnet pointers for the Goettingen University
-Library.  I have now added these to the INDOLOGY web page /libraries.
-I have also taken the opportunity to reoganize the libraries page to
-make it clearer, as well as adding a link to the Karlsruhe service for
-searching severa German catalogues from a single menu.
-Best wishes,
-Dominik

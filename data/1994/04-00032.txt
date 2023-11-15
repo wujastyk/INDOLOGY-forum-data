@@ -1,8 +1,0 @@
-Transliteration Macros for Wordperfect?
-In Message Sat, 9 Apr 1994 21:23:56 BST,
-  brzezins at epas.utoronto.ca (J.K. Brzezinski) writes:
-I'd also be interested in the miraculous macro.  But failing that, I've
-found that standard Sanskrit translit. can be created in WP5.1-5.2 for
-Windows, and then kept on the button bar for easy access while writing.  Can
-send further details to anyone who is interested--email me.
-Michael Sweet

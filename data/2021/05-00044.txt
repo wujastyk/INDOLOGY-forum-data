@@ -1,9 +1,0 @@
-Dear list members,
-The anun?sika as printed  in Weber's edition of ?atapatha-brahma?a in
-Madhyandina-?akha is similar but slightly different from the versions
-of  anun?sika/anusvara
-in the Unicode  Vedic Extensions block.  Can someone identify which
-character in the Unicode Vedic Extensions block the  anun?sika in Weber's
-?atapatha-brahma?a corresponds to.  See attached pdf.
-Thanks,
-Harry Spier

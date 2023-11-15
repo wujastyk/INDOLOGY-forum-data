@@ -1,6 +1,0 @@
-Wikner's Sanskrit Course
-I have downloaded Wikner's Sanskrit Course. It is a 5 Mbyte file that appears 
-to be the text of instructions that are meant to be processed by a PostScript 
-interpreter. Is the any commercial software for PCs or Macintoshes available 
-that will allow me to print it? If so what is its name?
-TIA Ralph

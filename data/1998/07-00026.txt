@@ -1,8 +1,0 @@
-Sanskrit
-On Fri, 3 Jul 1998, T.I. Console wrote:
-Shouldn't you be using forward slashes ("/") instead of backslashes ("\")?
-John Smith
-Dr J. D. Smith                *  jds10 at cam.ac.uk
-Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
-Sidgwick Avenue               *  Fax  01223 335110
-Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html

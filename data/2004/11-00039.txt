@@ -1,4 +1,0 @@
-Devanagari
-Dear Stefan,
-Thanks for posting that. However I notice your sample does not use many consonant conjuncts -- at least not ones that can't be created using half characters. How good is it at displaying some of the less common, but still widely used conjuncts?
-Dean

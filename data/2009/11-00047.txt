@@ -1,8 +1,0 @@
-Using unicode for diacriticals
-i suspect that other linux-using indologists have written their own keyboard
-maps for romanization, because xkb makes it relatively easy.  but if anyone
-is on a linux system that uses xkb (e.g. ubuntu) and wants a keyboard, i
-would be glad to send mine along with instructions on how to load and modify
-it.
-andrew ollett
-On Tue, Nov 24, 2009 at 12:16 AM, George Hart <glhart at berkeley.edu> wrote:

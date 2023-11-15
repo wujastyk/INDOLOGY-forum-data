@@ -1,8 +1,0 @@
-yuga, VarNa and colour
-On Mon, 19 May 1997, Jacob Baltuch wrote:
-But the _ultimate_ sum will always be 9. That is, if the sum of the
-digits iteslf consists of more than one digit (like 18 in Jacob's
-example), add _those_ digits, and repeat the procedure until you're down
-to a single digit. That digit will always be 9. 
-						-Peter D. Banos
-						pdb1 at columbia.edu

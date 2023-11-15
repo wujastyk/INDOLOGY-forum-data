@@ -1,4 +1,0 @@
-[INDOLOGY] personal bibliography of indology books and articles
-Like many of us, over the years I've built up a large personal bibliography
-of research publications.  The format of my stuff is
-Bibtex<http://en.wikipedia.org/wiki/Bibtex>

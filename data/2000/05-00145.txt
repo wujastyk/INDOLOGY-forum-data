@@ -1,9 +1,0 @@
-Devanagari font for LaTeX
-Dear members of the Indoloy list,
-I usually use LaTeX to prepare documents and I am thus wondering whether a
-devanagari font for LaTeX is available.  If so, how can I obtain it?
-Thank you very much.
-Sincerely,
-Toke Lindegaard Knudsen
-FREE Personalized Email at Mail.com
-Sign up at http://www.mail.com/?sr=signup

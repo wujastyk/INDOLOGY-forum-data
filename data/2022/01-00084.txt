@@ -1,8 +1,0 @@
-[INDOLOGY] Devanagari Unicode question
- <CAPXn1XV4mg4t1JPc02+6xpuV96VmL7vMHTKmhwSCvfR_trOVcA@mail.gmail.com>
- <CA+H=kyQJtuTVmpyjr1C5tk5AtOaBLTH3KWabHBLFge7A5sEC-w@mail.gmail.com>
-Is there an assigned Unicode position for the old-style Devanagari 'o', 
-as in ? but without the candrabindu? And if so, what font(s) might there 
-be that include that character? Any leads appreciated.
-Best wishes,
-Martin Gansten

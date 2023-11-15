@@ -1,9 +1,0 @@
-[INDOLOGY] Entering Unicode devanagari on the Mac
-Dear Harry,
-     The latest version of Microsoft Word for Mac (15.29.1) allows direct
-typing of Unicode Devanagari using the Devanagari - QWERTY keyboard without
-any special effort.  I have been using this version for the past several
-months, since it came out.
-Madhav
-On Sat, Dec 17, 2016 at 7:30 PM, Harry Spier <hspier.muktabodha at gmail.com>
-wrote:

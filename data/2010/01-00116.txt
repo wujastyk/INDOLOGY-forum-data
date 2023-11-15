@@ -1,7 +1,0 @@
-BitComet as (simpler?) alternative to wget
-We Windows-using dinosaurs need to muddle along as best we can.
-I know it's like eating soup with a fork.
-Sent: Tuesday, January 26, 2010 10:44 AM
-Re: BitComet as (simpler?) alternative to wget
-That's a good wheeze for people who use Windows.
-...

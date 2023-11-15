@@ -1,9 +1,0 @@
-CSX questions
-In message Mon, 28 Jun 93 17:44:08 BST,
-  Michael Everson <EVERSON at IE.UCD.IRLEARN>  writes:
-Yes, Madhav Deshpande's fonts use CSX coding and are for the Mac.  But see
-also today's announcement by Tom Ridgeway.  Get his outline fonts from
-blackbox.hacc.washington.edu:/pub/indic/outlines and try those.  They should
-work fine on a Mac.
-Dominik
-Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467

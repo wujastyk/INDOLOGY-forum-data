@@ -1,9 +1,0 @@
-fonts for PC
-On Fri, 6 Sep 1996, Peter Freund wrote:
-Just for completeness, I would like to know how one would type the
-Urdu-based sounds of /fe/, /ze/, /qaaf/, /khe/, and /ghain/.  All five are
-needed for Urdu words, and the first two of course for English-derived
-words as well.  If this system is to work satisfactorily for Hindi, it can
-hardly do without these sounds.  Since the f, z, and q keys have been
-assigned to other purposes, can these letters be accessed in some other
-way?  I do not see them on the chart.

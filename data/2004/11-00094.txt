@@ -1,8 +1,0 @@
-Critical editions in Devanagari with LaTeX (ledmac, utfskt)
-Dear Birgit,
-I'm in the middle of doing a small critical edition myself at the moment,
-using Ledmac.  Would it be useful for me to send you my Ledmac input file,
-and a PDF of the output?  It's only half done, so it's a bit scrappy, but
-the important bits about the use of Ledmac are all okay.
-Best,
-Dominik

@@ -1,6 +1,0 @@
-need of True Type Devanagari fonts
-do you know, that a set of nagaris built in in os 8.5?
-better rechange to mac....
-greetings jan
-(another way: the built ins are tt so you may try to use them on win)
-end of transmission

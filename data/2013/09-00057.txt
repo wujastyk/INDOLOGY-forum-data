@@ -1,7 +1,0 @@
-[INDOLOGY] SARIT Addition: Setubandha
-Thanks to the efforts of Michael Willis, Eszter Birki, and D?niel Balogh,
-the R?va?avaho<http://sarit.indology.info/newphilo/navigate.pl?indologica.0>(Setubandha)
-of Pravarasena is now available on SARIT, based on the 1880
-edition of Siegfried Goldschmidt. (Updates to the TEI header will come
-shortly.)
-Andrew

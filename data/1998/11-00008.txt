@@ -1,4 +1,0 @@
-Testing devanagari script in e-mail
-    Works absolutely fine for me perhaps because I have both sans12.ttf font and Xdvng installed. 
-    Where can one obtain the Sanskrit fonts mentioned above?
-    -- K

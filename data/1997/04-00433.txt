@@ -1,9 +1,0 @@
-Apple Indian Language Kit
-Check out this website for info on the Apple Indian Language Kit:
-http://www.macos.apple.com/multilingual/indian/texthandling.html
-It seems that you HAVE to type a virama to make a consonent appear in its
-partial form. Wouldn't it be better just to type a conjunct consonent and
-have the computer figure out which consonents appear in partial form and
-which do not? So instead of typing 's(v)t(v)r' where (v) is whatever
-character Apple uses to type a virama (or halant as they call it), just type
-'str'. Is there some cultural reason why viramas must be typed?

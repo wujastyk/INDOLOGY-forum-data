@@ -1,7 +1,0 @@
-[INDOLOGY] blip in service
-?Through an oversight of mine, the INDOLOGY management pages, like
-http://listinfo.indology.info, and the archives etc., have been offline for
-a few days.  My apologies for not realizing the nature of the problem until
-now.  I have fixed things, and we're back to normal.
-Dominik Wujastyk
-INDOLOGY committee member

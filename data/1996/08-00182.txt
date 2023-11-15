@@ -1,8 +1,0 @@
-Transliteration of jivhamuliya.
-I am wondering as to the proper method of transliterating the jivhamuliya.
-Charles Wikner, in his Sanskrit for LaTeX package, offers an umlaut under
-a 'h' for this, but states that this convention is his personal
-preference.
-Thanks.
-Anshuman Pandey
-Anshuman Pandey | apandey at u.washington.edu | University of Washington

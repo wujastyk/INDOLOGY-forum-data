@@ -1,4 +1,0 @@
-xetex-devanagari in TeXlive
-Thank you very much for this, Daniel!
-See: http://www.ctan.org/pkg/xetex-devanagari
-Dominik

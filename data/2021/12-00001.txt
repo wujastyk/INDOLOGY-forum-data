@@ -1,6 +1,0 @@
-[INDOLOGY] OCR for sanskrit transliteration
-Dear list members,
-Can someone point me to a good on-line tool to OCR sanskrit transliteration
-(english transliteration not devanagari).
-Thanks,
-Harry Spier

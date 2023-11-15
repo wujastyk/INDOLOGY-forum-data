@@ -1,4 +1,0 @@
-[INDOLOGY] Idenfication of Sanskrit metres
-https://sanskritmetres.appspot.com/ is the frontend for identifying metres.
-The source code is available at https://github.com/shreevatsa/sanskrit .
-With best wishes,

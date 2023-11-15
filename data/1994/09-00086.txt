@@ -1,7 +1,0 @@
-PC Windows Devanagari?
-Some new members of the list (like myself) would also be interested in
-hearing anything on this subject; e.g. why do the extended character sets
-(both devanagaari and diacritic) always seem to play up when being
-converted to other formats? so please reply to the full list.
-Thanks in advance,
-Adrian Burton

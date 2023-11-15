@@ -1,9 +1,0 @@
-Font Encoding
-A slight tangent on the subject:
-Is there such a thing as an official QWERTY-like keyboard 
-for the devanagari script (at least for the first
-one hundred and twenty seven characters)?
-first one hundred and twenty seven characters
-Does the Indian govt. have a standard?
-Does the academic community have a standard?
-Adrian Burton.

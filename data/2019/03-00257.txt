@@ -1,6 +1,0 @@
-metrically restored. From a quick glance, though, a few do seem to be 
-possible instances of a? + a > a a, and/or of e + a > a a. I will have 
-to look more carefully.
-Best wishes,
-Martin
-Den 2019-03-21 kl. 19:08, skrev Harry Spier:

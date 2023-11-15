@@ -1,7 +1,0 @@
-[INDOLOGY] Problem with indology list
-Problem solved I think.  For some reason as of two days ago some messages
-to the list were going to the "spam" folder.  I;ve changed a spam setting
-so hopefully the problem will go away.
-Harry
-On Wed, Dec 11, 2019 at 11:49 AM Harry Spier <vasishtha.spier at gmail.com>
-wrote:

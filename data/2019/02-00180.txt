@@ -1,8 +1,0 @@
-Thank you Greg,
-In the GRETIL on-line version some lines have references like this:
-03,163.039b*0839_01
-Are the numbers after the asterix the Calcutta edition line numbers?
-Thanks,
-Harry Spier
-On Sun, Feb 24, 2019 at 8:50 PM Greg Bailey <Greg.Bailey at latrobe.edu.au>
-wrote:

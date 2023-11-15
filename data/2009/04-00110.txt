@@ -1,7 +1,0 @@
-Zeitschriften der DMG digital
-What I get is the image only (nothing of the wrapper, etc.).  Perhaps this is an issue of where you are clicking to save? (I am clicking on the center of the image and saving from there). There certainly must be a way around the problem you are having.  Has anyone else out there with a PC got this to work?
-But, as you know, how that information is released determines the value of the issues already printed and those that may be printed.
-The setup of this webpage retains a value for the print editions (past and future), but is "completely free" to the end user who reads from the online version.  By not making PDFs available for download, there is still a value for the past/future print editions (new subscriptions, people/libraries who own previous issues, and so on).  Going through a mildly annoying process to print an article here or there should not significantly hurt their financial bottom line.  Giving everything away via PDF would.
-JSTOR, on the other hand, is not free at all: an incredible amount of money changes hands with JSTOR (libraries pay very large fees for JSTOR subscriptions; JSTOR, in turn, pays individual journals a fee per download).  In fact, many journals actually make money (rather than lose it through lost subscriptions) by making an agreement with JSTOR.
-Best,
-Steven

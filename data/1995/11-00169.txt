@@ -1,9 +1,0 @@
-Sanscrit Font
-On Sat, 25 Nov 1995 echnaton at fub46.zedat.fu-berlin.de wrote:
-In our ftp server you can find fonts for Macintosh and for Windows 
-with diacritics for devanagari.
-We are adding the fonts with the devanagari alphabet.
-ftp://ftp.shore.net/members/india
-or better
-http://www.shore.net/~india/ 
-Enrica Garzilli, Cambridge

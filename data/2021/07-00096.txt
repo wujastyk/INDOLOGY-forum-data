@@ -1,9 +1,0 @@
-[INDOLOGY] Velthuis nagari font for linux
-No, it's not available as a Unicode font for Linux, to my knowledge.  But
-it is available as an Adobe Type1 font (see the type1 directory at CTAN
-<https://ctan.org/tex-archive/language/devanagari/velthuis/?lang=en>).  So
-documents with Velthuis Devanagari compiled by TeX into DVIs can be
-converted to PDF (dvitopdf) with embedded vector fonts.  But that's not
-quite what you are looking for.
-Best,
-Dominik Wujastyk

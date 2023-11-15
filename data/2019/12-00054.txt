@@ -1,9 +1,0 @@
-[INDOLOGY] Problem with indology list
-I'm a gmail user and what I did was under "settings" and then uder
-"filters" to set all mail from "indology at list.indology.info to "never send
-to spam".  so far it seems to be working.  What was strange is that
-everything was working till about two days ago and then the problem just
-started.
-Harry Spier
-On Wed, Dec 11, 2019 at 9:58 PM Patricia Sauthoff <sauthoff at ualberta.ca>
-wrote:

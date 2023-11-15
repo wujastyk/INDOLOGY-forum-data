@@ -1,6 +1,0 @@
-verification
-At 13:54 +0100 8/17/97, David R. Israel wrote:
-One would also need to take a look at the *Cc* line, as the automatic reply
-puts the list address there as well.
-Beatrice Reusch
-University of California, Berkeley

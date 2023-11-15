@@ -1,9 +1,0 @@
-[INDOLOGY] Font?
-Dear Jonathan,
-     I just now installed the Asian Extended US, and noticed that with this
-Keyboard I can type "r?", but the long "?" appears with an underdot, rather
-than a circle under the character, and there does not seem to be a way to
-do "l" with a circle underneath.  There must be a way to do these things in
-Unicode.
-Madhav
-On Thu, May 11, 2017 at 6:45 AM, Jonathan Silk <kauzeya at gmail.com> wrote:

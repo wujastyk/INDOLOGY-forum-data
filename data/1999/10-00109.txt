@@ -1,6 +1,0 @@
-Tamil alphabets
-Sorry, this should read as:
-In this scheme, nine *letters* alien to Tamil are handled.
-f, g, j, D, d, b, s, S, h are written using tamil letters
-'v, 'k, 'c, 'T, 't, 'p, ~c, ^c, q(=Aytam) respectively.
-Get Your Private, Free Email at http://www.hotmail.com

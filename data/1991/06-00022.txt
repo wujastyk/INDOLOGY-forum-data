@@ -1,7 +1,0 @@
-address
-Status: RO
-My e-mail address has changed from
-falk at dfrruf1(.bitnet)
-to
-falk at ibm.ruf.uni-freiburg.de
-Harry

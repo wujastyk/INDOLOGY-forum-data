@@ -1,5 +1,0 @@
-publication of IASS papers on CDROM
-If the issue is the longevity of the standard and the means of producing PDF
-(or reading CD-ROMs), the open-source solutions are more appropriate than
-those based on Windows or MacOS.
--Arun Gupta

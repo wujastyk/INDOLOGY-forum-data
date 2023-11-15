@@ -1,5 +1,0 @@
-Word splitting & hyphenation conventions in roman              transliteration
-nagari taddhi means tat hi  (and not tad dhi)
-nagari tattvasti means tat tu asti (and not tat tv asti), etc
-greetings
-John Smith wrote:

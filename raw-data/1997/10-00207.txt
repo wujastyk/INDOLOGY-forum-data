@@ -1,9 +1,0 @@
-From Alan.Thew at LIVERPOOL.AC.UK  Thu Oct 23 10:28:05 1997
-From: Alan.Thew at LIVERPOOL.AC.UK (Alan Thew)
-Date: Thu, 23 Oct 97 11:28:05 +0100
-Subject: bounce problems
-Message-ID: <161227033257.23782.13572970629154641548.generated@prod2.harmonylists.io>
-
-Dominik's original message got trapped by LISTSERV, it looks for `bounce
-message' info.
-

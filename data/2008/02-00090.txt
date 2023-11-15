@@ -1,7 +1,0 @@
-Online-dictionary of Indian alchemy
-Dear list members,
-I would like to announce the release of an online-dictionary of alchemical 
-texts in Sanskrit. The site can be found at www.sanskritreader.de (follow 
-the link for Rasavidya/Indian alchemy; and make sure that JavaScript is 
-activated).
-Best, O. Hellwig

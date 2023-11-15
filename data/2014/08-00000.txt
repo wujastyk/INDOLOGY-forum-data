@@ -1,5 +1,0 @@
-[INDOLOGY] Font with Brahmi characters
-The June 2014 release of the free Unicode font "Unifont" added the Brahmi
-character set.  Link:
-   - http://unifoundry.com/unifont.html
-DW

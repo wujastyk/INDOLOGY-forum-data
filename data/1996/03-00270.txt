@@ -1,3 +1,0 @@
-Rig Veda, A Metrically Restored Text Question on the Software
-I recently purchased Rig Veda, A Metrically Restored Text. I am trying to work with the diskette to convert the diacritics. In the instructions there is a mention of a file called CONVERT.SG which accompanies the program SG.EXE. I do not see this file on the diskette. Is it embedded somewhere or was it not included in error. If it was not included would anyone know how I would obtain it? 
-Thanks for the help.

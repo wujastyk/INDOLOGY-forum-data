@@ -1,5 +1,0 @@
-Definition of PDF (Re: A misconception regarding the PDF format              (Re: Text processing in Unicode)
-sorry, I meant to say "Portable Document Format" not "Printable  
-Document Format" as the expansion of PDF. Please make a note.
-Thanks,
-On Mar 26, 2010, at 4:27 PM, rajam wrote:

@@ -1,5 +1,0 @@
-programs
-This sounds interesting.  If the tools don't already exist, I wouldn't
-mind writing a C programme, given Harry's notes and enough community
-interest to test it properly.
- -- Brett Kessler   kessler at csli.stanford.edu

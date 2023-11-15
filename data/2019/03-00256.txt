@@ -1,3 +1,0 @@
-[INDOLOGY] Non-standard sandhi
-Thank you, Harry. Most of these are just instances where sandhi has not 
-been implemented, or (in the case of Veda) where a text has been 

@@ -1,3 +1,0 @@
-Erratim (Re: Vedic Characters & Unicode)
-On Tue, 11 Apr 2000, John Robert Gardner wrote:
-expressly excepted from Unicode, that is, not from ISCII:1991  -- sorry.

@@ -1,6 +1,0 @@
-None
-Hello All,
-Does anyone know of OCR (Optical Character Recognition) software for
-Devanagari?
-Christian Novetzke
-Columbia University

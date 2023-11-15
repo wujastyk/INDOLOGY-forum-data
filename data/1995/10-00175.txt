@@ -1,8 +1,0 @@
-Is CSX the best solution?
-DR.S.KALYANARAMAN said:
-The point is to be able to do scholarly work in transliteration, and
-also to have a standard for text exchange and archiving.  The CSX
-standard is *not* primarily aimed at text representation, although it
-can function in that capacity too, of course.
-I don't understand.  There is no ANSI definition for South Asian scripts.
-Dominik Wujastyk,

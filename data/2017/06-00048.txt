@@ -1,8 +1,0 @@
-[INDOLOGY] Issues with Sanskrit 2003 font
-Thank you Dominik for that clarification.
-In that case there is a free open source font editor called fontforge which
-I have used for many years.  Its available for Mac, Windows and Linux.  It
-would be quite easy using this to move the position of the anusvara dot.
-The link is: https://fontforge.github.io/en-US/
-Harry Spier
-On Thu, Jun 8, 2017 at 9:11 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:

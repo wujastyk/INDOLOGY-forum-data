@@ -1,8 +1,0 @@
-CSX+ fonts & cross-platform email exchange
-Windows and Mac versions of the CSX+ fonts seem to have
-identical encodings, in contrast to what is usual.
-Data based on CSX+ fonts, when exchanged across platforms
-through email, gets scrambled due to the usual automagical
-MIME re-encoding.
-Any workarounds for this problem?
-Jaap Pranger

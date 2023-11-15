@@ -1,4 +1,0 @@
-Digest
-Can someone tell me how I can get the Digest Version instead of individual
-mail messages send to me.
-Praim

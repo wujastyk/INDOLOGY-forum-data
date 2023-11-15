@@ -1,6 +1,0 @@
-[INDOLOGY] Font?
-For other Unicode fonts covering characters used to transliterate
-Indic-Tibetan texts see:
-https://collab.itc.virginia.edu/wiki/toolbox/Windows%20Unicode%20Diacritic%20Fonts.html
-Artur
-2017-05-11 9:34 GMT+02:00 Artur Karp <karp at uw.edu.pl>:

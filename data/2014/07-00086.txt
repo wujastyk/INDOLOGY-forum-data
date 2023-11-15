@@ -1,9 +1,0 @@
-I am pleased to announce the addition of the Su?rutasa?hit? to the SARIT
-library.
-   - http://sarit.indology.info/newphilo/navigate.pl?indologica.8
-With thanks to the hard work of Tsutomu Yamashita and Yasutaka Muroya.
-Furthermore, another major text has been added to the SARIT GIT repository,
-and will be uploaded to the SARIT library in the near future.  Watch this
-space.
-Best,
-Dominik Wujastyk

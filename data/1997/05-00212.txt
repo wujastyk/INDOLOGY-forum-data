@@ -1,5 +1,0 @@
-yuga, VarNa and colour
-Jacob Baltuch wrote:
-Read: a number that has 9, or a multiple of nine, as the sum of its
-digits will be a multiple of nine.
-Elliot M. Stern

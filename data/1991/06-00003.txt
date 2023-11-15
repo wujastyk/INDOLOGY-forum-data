@@ -1,8 +1,0 @@
-email to India
-Status: RO
-This  is  the  latest  list  of  e-mail  sites  in  India.  It  also
-indicates the kind of net a site is available on. The contact points
-at some of the sites is indicated in the "To" addresses of the insts.
-We hope this provides all the necessary info on the nets in India.
-      Vahia at tifrvax.bitnet
-      uunet!shakti!tifrvax!vahia

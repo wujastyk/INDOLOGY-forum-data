@@ -1,7 +1,0 @@
-HTML formatted papers via Indology?
-Does anybody know if the Indology-server accepts HTML-messages?
-For example to send a paper with HTMLinks in order to facilitate the reading of such papers for all members?
-Are the emails restricted absolutely to text-format?
-Any members I contact by their personal email-adress receive HTML-emails easily.
-Mfg RHK
-roheko at msn.com

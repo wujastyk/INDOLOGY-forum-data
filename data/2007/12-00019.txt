@@ -1,9 +1,0 @@
-Mac-Devanagari
-Dear James Hartzell,
-The Mac Unicode-Devanagari works very well in NeoOffice:
-http://www.neooffice.org/ - that the combiantion characters are not working
-in Word seems to be one of many Microsoft problems ...
-Best regards from T?bingen,
-Heike Moser
-Am 15.12.2007 12:57 Uhr schrieb "James Hartzell" unter
-<hartzell at SENTECHSA.COM>:

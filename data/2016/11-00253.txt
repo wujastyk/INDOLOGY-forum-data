@@ -1,6 +1,0 @@
-[INDOLOGY] Diacriticals in unicode, single or multiple glyphs
-I've just looked at the Sanskrit Library, SARIT and GRETIL texts and I see
-that these use IAST transliteration for anusvara (dot under m) while
-Muktabodha digital library uses ISO15919 for anusvara (dot on top of m).
-Harry Spier
-On Fri, Nov 18, 2016 at 11:57 AM, Peter Scharf <scharfpm7 at gmail.com> wrote:

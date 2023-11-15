@@ -1,5 +1,0 @@
-Unicode fonts for Ranjana/Lentsa
-Dear Colleagues
-Can anyone recommend a Unicode font for Ranjana/Lentsa that will run on a Windows system?
-Thanks in advance
-McComas

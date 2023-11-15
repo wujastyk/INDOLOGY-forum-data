@@ -1,1 +1,0 @@
-The implementation of Tamil on the Mac had several problems on Snow Leopard and Lion (as I remember).  These were fixed in Mavericks.  It is possible that the problem with Devanagari arises because people are not running the latest Mac OS.  George Hart

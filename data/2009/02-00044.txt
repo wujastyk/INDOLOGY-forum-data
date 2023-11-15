@@ -1,7 +1,0 @@
-SARIT: Search and Retrieval of Indic Texts
-Hello,
-ISM fonts of C-DAC are available for Sanskrit(DV) and Diacritic Roman(DV1).
-Only thing is that you have to learn the keyboard outlay.
-K.Maheswaran Nair
-Trivandrum
-Quoting Alfred Collins <acollins at GCI.NET>:

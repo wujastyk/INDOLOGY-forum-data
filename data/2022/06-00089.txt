@@ -1,8 +1,0 @@
-[INDOLOGY] Nagari conversion
- <CAJ3b0o8EiJJe-6AmtnaCD1+wUenA0St8_ch+hbtr9b3ADjzWSw@mail.gmail.com>
- <0fc1462b-e9cb-82fc-6fe8-720f52698f60@gmx.de>
-The https://aksharamukha.appspot.com/converter service can take a
-multi-page PDF or image file.  But it does a less good job than
-https://sri.auroville.org/projects/sanskrit-ocr/
-On Thu, 9 Jun 2022 at 17:16, Oliver Hellwig via INDOLOGY <
-indology at list.indology.info> wrote:

@@ -1,5 +1,0 @@
-Unicode-compliant font for transliterating Sanskrit
-Dear Friends
-Can anyone recommend a Unicode-compliant font for transliterating Sanskrit?
-Thanks in advance
-McComas

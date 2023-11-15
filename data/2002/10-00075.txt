@@ -1,9 +1,0 @@
-Unicode fonts (for the Mac)
-On Mon, 28 Oct 2002, B. Reusch wrote:
-Yes, this has been done, by Dr Anthony Stone, and it is part of the ISO
-standard that Anthony authored dealing with Indic transliteration.
-See
-http://homepage.ntlworld.com/stone-catend/translit.htm
-I've added a link to that site on the INDOLOGY website, under "Position
-and Review Papers".
-Dominik Wujastyk

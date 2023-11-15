@@ -1,5 +1,0 @@
-Abhidharmakosha in e-format
-Thanks, Paul. You found the index page. Again, even that has to be changed 
-to utf-8 for the Chinese to appear properly.
-cheers,
-Dan 

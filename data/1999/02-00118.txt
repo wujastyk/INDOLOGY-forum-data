@@ -1,7 +1,0 @@
-Word splitting & hyphenation conventions in roman              transliteration
-Because the texts alltogether lead to the following conclusion:
-an initial h ( eg. hi) softens a preceeding mute (eg. tat becomes tad) and is being
-changed itself to the soft aspirate of that mute (eg. h becomes dh
-since dh is the soft aspirate of the mute t).
-tat hi becomes taddhi but never tad dhi.
-Jan Brzezinski wrote:

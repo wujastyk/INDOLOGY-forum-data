@@ -1,7 +1,0 @@
-sh/Z (was: Poverty)
-There is a 7-bit encoding for Devanagari that is used in Frans
-Velthuis's Devanagari system for TeX and, being simple and logical, it
-is sometimes used in email too.
-Where can I find the whole system? It seems useful, even though I don't use
-TeX, or  even know what it is, for that matter.
-Yrs. Harold Arnold

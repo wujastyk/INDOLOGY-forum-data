@@ -1,8 +1,0 @@
-Calendar
-As far as I can see, there was no full moon in Caitra corresponding to
-Saturday in 1503 CE. My guess -- assuming that your author calculated his
-tithis with reasonable accuracy -- is that you want 30 March, 1504 CE
-(Julian calendar), which was a Saturday. The nakshatra would then be Citra
-for most of the day.
-Regards,
-Martin Gansten

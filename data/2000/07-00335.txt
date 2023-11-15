@@ -1,4 +1,0 @@
-prefix - no
-prefix - no
- Lubomir Ondracka
-=============================================

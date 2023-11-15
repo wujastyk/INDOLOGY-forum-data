@@ -1,6 +1,0 @@
-Panini vs John Backus
-BNF was originally Backus Normal Form, and renamed as Backus-Naur Form by
-Donald Knuth of Metafont fame, in order to recognize the contributions of
-Peter Naur, who pioneered Algol-60 (Algol stands for algorithmic language).
-Vidyasankar
-Get Your Private, Free Email at http://www.hotmail.com

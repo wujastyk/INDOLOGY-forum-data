@@ -1,8 +1,0 @@
-yuga, VarNa and colour
-                                     email: wart at freenet.edmonton.ab.ca
-On Mon, 19 May 1997, Jacob Baltuch wrote:
-The sums have to be calculated repeatedly until a single digit
-results.  That is 9 x 11 = 99. 9 + 9 = 18.  1 + 8 = 9.  I beleive this
-was the method originally mentioned in this thread.
-David Allen
-Edmonton, Canada

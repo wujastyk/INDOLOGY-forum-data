@@ -1,5 +1,0 @@
-[INDOLOGY] Grep tool for searching on Mac
- <CAJ3b0o8g-wVSP+GNGxWE1T39K_WAd=RbMqC_=5cfqaMvVe20kw@mail.gmail.com>
-On a Mac, BBEdit does "grep" multifile search. 
-Best wishes,
-Sven

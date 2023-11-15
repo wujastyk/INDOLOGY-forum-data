@@ -1,5 +1,0 @@
-Footnotes in Latex
-You need two packages, available on CTAN sites: footnote.sty and patch.tex.
-In your file you need:
-\usepackage[para]{footnote}
-F.P.

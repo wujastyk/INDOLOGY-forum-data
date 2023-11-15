@@ -1,9 +1,0 @@
-problems with sanskrit font...
-On Tue, 22 Apr 1997, Anand Venkt Raman wrote:
-Are the skt*.mf and skt*.tfm files placed in the appropriate directories?
-They should be in the directories where other *.mf and *.tfm files are
-kept. Dvips looks in these directories for these files and if they are not
-there, then it returns an error. Lastly, if you placed them elsewhere, did
-you remember to append that directory to your fonts path?
-Regards,
-Anshuman Pandey

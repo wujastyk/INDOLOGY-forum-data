@@ -1,6 +1,0 @@
-[INDOLOGY] Golden Sanskrit dictionaries
-Dear indology members,
-this is to announce the release of Sanskrit dictionaries in Babylon/Stardict/Goldendict format,
-interlinked with grammatical tools (declension at present).
-All remarks appreciated, of course.
-G. Huet
