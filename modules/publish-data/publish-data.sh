@@ -5,8 +5,6 @@ public_dir_path=$GITHUB_WORKSPACE/public
 raw_data_dir_path=$public_dir_path/raw-data
 data_dir_path=$public_dir_path/data
 
-input_dir_path=$GITHUB_WORKSPACE/input
-
 rm -rf $public_dir_path
 mkdir -p $public_dir_path
 mkdir -p $raw_data_dir_path
@@ -52,10 +50,10 @@ time for file in $data_dir_path/**/*.txt; do
 done
 
 # generate the triples
-time "$GITHUB_WORKSPACE/modules/text-data-to-triples/text-data-to-triples" "$GITHUB_WORKSPACE/data/" "**/*.txt" "$GITHUB_WORKSPACE/public/datasets/" "https://wujastyk.github.io/INDOLOGY-forum-data/indexes/words-fulltext/" "https://wujastyk.github.io/INDOLOGY-forum-data/data/"
+time "$GITHUB_WORKSPACE/modules/text-data-to-triples/text-data-to-triples" "$data_dir_path/" "**/*.txt" "$public_dir_path/datasets/" "https://wujastyk.github.io/INDOLOGY-forum-data/indexes/words-fulltext/" "https://wujastyk.github.io/INDOLOGY-forum-data/data/"
 
 # generate the indexes
-time "$GITHUB_WORKSPACE/modules/triples-to-indexes/triples-to-indexes" "$GITHUB_WORKSPACE/public/datasets/terms/terms.ttl" "$GITHUB_WORKSPACE/public/indexes/"
-time "$GITHUB_WORKSPACE/modules/triples-to-indexes/triples-to-indexes" "$GITHUB_WORKSPACE/public/datasets/text-relative-iris/text-relative-iris.ttl" "$GITHUB_WORKSPACE/public/indexes/"
+time "$GITHUB_WORKSPACE/modules/triples-to-indexes/triples-to-indexes" "$public_dir_path/datasets/terms/terms.ttl" "$public_dir_path/indexes/"
+time "$GITHUB_WORKSPACE/modules/triples-to-indexes/triples-to-indexes" "$public_dir_path/datasets/text-relative-iris/text-relative-iris.ttl" "$public_dir_path/indexes/"
 
 # cd /home/claudius/workspace/repositories/git/github.com/wujastyk/INDOLOGY-forum-data/public/ && devserver --header Access-Control-Allow-Origin='*'
