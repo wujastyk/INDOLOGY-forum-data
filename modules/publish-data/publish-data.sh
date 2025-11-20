@@ -45,7 +45,8 @@ cp -a $raw_data_dir_path/. $data_dir_path/
 # process every file in the 'public/data' folder
 time for file in $data_dir_path/**/*.txt; do
     sed -i -e \
-        '/^\s*$\|^ *$\|^>\|^--\|^__\|^From[:]\{0,1\} \|^To: \|^Cc: \|^Date: \|^Message-ID: \|^Message-Id: \|^In-Reply-To: \|^Reply-To: \|^Received: \|^Return-path: \|^Phone \|^Tel: \|^Tel. \|was scrubbed...\|^Name: \|^Type: \|^Size: \|^Desc: \|^URL: \|^References: \|https:\/\/wetransfer.com\/\|=\?utf\-8?B\?/d' $file
+        '/^\s*$\|^ *$\|^>\|^--\|^__\|^To: \|^Cc: \|^Date: \|^Message-ID: \|^Message-Id: \|^In-Reply-To: \|^Reply-To: \|^Received: \|^Return-path: \|^Phone \|^Tel: \|^Tel. \|was scrubbed...\|^Name: \|^Type: \|^Size: \|^Desc: \|^URL: \|^References: \|https:\/\/wetransfer.com\/\|=\?utf\-8?B\?/d' $file
+        #'/^\s*$\|^ *$\|^>\|^--\|^__\|^From[:]\{0,1\} \|^To: \|^Cc: \|^Date: \|^Message-ID: \|^Message-Id: \|^In-Reply-To: \|^Reply-To: \|^Received: \|^Return-path: \|^Phone \|^Tel: \|^Tel. \|was scrubbed...\|^Name: \|^Type: \|^Size: \|^Desc: \|^URL: \|^References: \|https:\/\/wetransfer.com\/\|=\?utf\-8?B\?/d' $file
     sed -i 's|Subject: ||g' $file
 done
 
